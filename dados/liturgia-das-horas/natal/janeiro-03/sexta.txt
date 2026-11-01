@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/3janeiro_sexta.htm
+@documento 3janeiro_sexta.htm
+
+@secao Leitura breve | Is 9,1
+
+@texto
+O povo, que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu.
+
+@texto
+V. Os confins do universo contemplaram, aleluia.
+R. A salvação do nosso Deus, aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que a humanidade do vosso Filho, nascendo da Virgem Maria, não fosse submetida à humilhação do homem decaído. Concedei que, participando desta nova criação, sejamos libertados da antiga culpa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

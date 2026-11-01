@@ -1,0 +1,37 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santamaria_sexta_domingo.htm
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@secao Leitura breve | Zc 9,9
+
+@texto
+Exulta, cidade de Sião! Rejubila, cidade de Jerusalém. Eis que vem teu rei ao teu encontro, ele é justo, ele salva.
+
+@texto
+V. Os confins do universo contemplaram, aleluia,
+R. A salvação de nosso Deus. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela virgindade fecunda de Maria destes à humanidade a salvação eterna, dai-nos contar sempre com a sua intercessão, pois ela nos trouxe o autor da vida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

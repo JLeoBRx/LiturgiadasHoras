@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saovenceslau.htm
+@documento Ofício das Leituras - São Venceslau, Mártir
+
+@celebracao
+SÃO VENCESLAU, MÁRTIR
+
+@biografia
+Nasceu na Boêmia, cerca do ano 907; de uma sua tia paterna recebeu uma sólida formação cristã e assumiu o governo do seu ducado por volta de 925. Suportou muitas dificuldades no governo e na formação cristã de seus súditos. Traído por seu irmão Boleslau, foi morto por uns sicários no ano 935. Foi logo venerado como mártir e escolhido pela Boêmia como seu patrono principal.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Da Primeira Legenda Paleoeslava
+{(Séc. X)} {(Edit. M. Weingart, Pragae 1934,974-983)}
+
+@tema
+O trono do rei, que julga os pobres na verdade, permanecerá firme eternamente
+
+@texto
+Pela morte de seu pai Bratislau, os habitantes da Boêmia constituíram Venceslau seu príncipe. E pela graça de Deus ele era perfeito. Pois fazia o bem a todos os pobres, vestia os nus, alimentava os famintos, acolhia os peregrinos consoante a palavra evangélica. Não admitia que se causasse dano às viúvas, amava a todos, pobres e ricos, servia os servos de Deus, adornava muitas igrejas.
+Mas alguns homens da Boêmia tornaram-se soberbos e persuadiram a Boleslau, seu irmão mais moço, dizendo: “Teu irmão Venceslau, conspirando com a mãe e seus homens, vai te matar”.
+Celebrando-se festas da dedicação das igrejas em todas as cidades, Venceslau visitava-as todas. Entrou na cidade de Boleslávia, num domingo, festa de Cosme e Damião. Terminada a missa, quis voltar a Praga. Mas Boleslau, com más intenções, reteve-o dizendo: “Por que te vais embora, irmão?” De manhã, soaram os sinos para o ofício matutino. Ouvindo o som dos sinos, Venceslau disse: “Louvor a ti, Senhor, que me deste viver até esta manhã”. Levantou-se e foi ao ofício matutino.
+Boleslau logo o alcançou à porta. Venceslau olhou-o e disse: “Irmão, ontem nos serviste bem”. O demônio inclinou-se ao ouvido de Boleslau e perverteu seu coração; desembainhando a espada, respondeu-lhe: “Vou, agora, servir-te melhor”. Dito isto, feriu-lhe a cabeça com a espada.
+Venceslau, voltando-se para ele, disse: “Qual é a tua intenção, irmão?” E agarrando-o, lançou-o por terra. Mas acorreu um dos conselheiros de Boleslau e feriu a mão de Venceslau. Este, com a mão ferida, largou o irmão e refugiou-se na igreja. Contudo dois malfeitores o mataram à porta da igreja. Veio um terceiro e traspassou-lhe o lado com a espada. Vensceslau expirou logo com estas palavras: _Em tuas mãos, Senhor, entrego o meu espírito_ (cf. Sl 30,6).
+
+@secao Responsório | Cf. Os 14,6; cf. Sl 91(92),13a.14
+
+@responsorio
+R. O justo como o lírio brotará
+* E florirá ante o Senhor eternamente.
+V. Na casa do Senhor está plantado,
+nos átrios do Senhor florescerá. * E florirá.
+
+@secao Oração
+
+@oracao
+Ó Deus, que inspirastes ao rei e mártir São Venceslau preferir o Reino do céu ao da terra, dai que, por suas preces, saibamos renunciar a nós mesmos e seguir-vos de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

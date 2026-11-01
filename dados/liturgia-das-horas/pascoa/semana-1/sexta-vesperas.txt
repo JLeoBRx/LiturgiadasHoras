@@ -1,0 +1,161 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1sextapascoa_vesperas.htm
+@documento Vésperas - Sexta-feira da 1ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@antifona 2
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@antifona 3
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galiléia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@rubrica
+No cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer o Aleluia no começo e no fim das estrofes.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galiléia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@secao Leitura breve | Hb 5,8-10
+
+@texto
+Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem. De fato, ele foi por Deus proclamado sumo-sacerdote na ordem de Melquisedec.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O discípulo, a quem Jesus amava, disse a eles: É o Senhor. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O discípulo, a quem Jesus amava, disse a eles: É o Senhor. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, caminho, verdade e vida; e o invoquemos, dizendo:
+
+R. **Filho de Deus vivo, abençoai o vosso povo!**
+
+Nós vos pedimos, Senhor Jesus Cristo, por todos os ministros da Igreja, que repartem o pão da vida entre os irmãos,
+– para que sejam também eles alimentados e fortalecidos pelo mesmo pão que distribuem. R.
+
+Nós vos pedimos por todo o povo cristão, para que viva sua vocação de maneira digna
+– e mantenha a unidade de espírito pelo vínculo da paz. R.
+
+Nós vos pedimos por todos os que nos governam, para que exerçam suas funções com justiça e compreensão,
+– e assim promovam a concórdia e a paz entre todos os povos. R.
+
+{(intenções livres)}
+
+Nós vos pedimos que nos torneis dignos de celebrar a Vossa santa ressurreição em comunhão com os anjos e os santos
+– e também com nossos irmãos e irmãs falecidos, que confiamos à vossa infinita misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que no Sacramento pascal restaurastes vossa aliança, reconciliando convosco a humanidade, concedei-nos realizar em nossa vida o mistério que celebramos na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@secao Na despedida se diz:
+
+@texto
+Ide em paz e o Senhor vos acompanhe. Aleluia, aleluia.
+R. Graças a Deus. Aleluia, aleluia.

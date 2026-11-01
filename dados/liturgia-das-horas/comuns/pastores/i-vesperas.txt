@@ -1,0 +1,255 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_pastores_Ivesperas.htm
+@documento I Vésperas - COMUM DOS PASTORES
+
+@titulo COMUM DOS PASTORES
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(Aleluia.)}
+
+@secao Hino
+
+@hino
+Para um pastor:
+
+Claro espelho de virtude,
+homem santo, bom pastor,
+ouve o hino que, em ti, louva
+os prodígios do Senhor,
+
+que, Pontífice perpétuo,
+os mortais a Deus uniu,
+e, por nova Aliança,
+nova paz nos garantiu.
+
+Previdente, ele te fez
+do seu dom o servidor,
+para dar ao Pai a glória
+e a seu povo vida e amor.
+
+Para um papa:
+
+Tendo em mãos do céu as chaves,
+governastes com amor
+o rebanho de São Pedro
+nos caminhos do Senhor
+
+Para um bispo:
+
+Consagrado pelo Espírito,
+que de força te vestiu,
+deste o pão da salvação
+às ovelhas do redil.
+
+Para um presbítero:
+
+Atingindo alto cume
+por palavras e por vida,
+doutor foste e sacerdote,
+hóstia a Deus oferecida.
+
+Não te esqueças, pede a Deus,
+tu que ao céu foste elevado:
+que as ovelhas busquem todas
+do Pastor o verde prado.
+
+Glória à Trina Divindade,
+que, num servo tão fiel,
+recompensa os ministérios
+com o júbilo do céu.
+
+Para vários pastores:
+
+Trouxe o ano novamente,
+uma data de alegria.
+Os pastores das ovelhas
+celebramos neste dia.
+
+No cuidado do rebanho
+não se poupam ao labor
+e às pastagens verdejantes
+o conduzem com amor.
+
+Para longe os lobos tangem,
+lançam fora o ladrão vil,
+alimentam as ovelhas,
+nunca deixam o redil.
+
+Ó pastores dos rebanhos,
+hoje em glória triunfal,
+para nós pedi a graça
+ante o justo tribunal.
+
+Cristo, eterno Rei Pastor,
+glória a vós e ao Pai também,
+com o Espírito Paráclito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Hei de dar-vos pastores que sejam
+segundo o meu coração;
+sabiamente haverão de guiar-vos.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Hei de dar-vos pastores que sejam
+segundo o meu coração;
+sabiamente haverão de guiar-vos.
+
+@antifona 2
+Eu serei o Bom Pastor de meu rebanho:
+procurarei a ovelha extraviada,
+trarei de volta a perdida e afastada.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Eu serei o Bom Pastor de meu rebanho:
+procurarei a ovelha extraviada,
+trarei de volta a perdida e afastada.
+
+@antifona 3
+O Bom Pastor deu a vida pelas suas ovelhas.
+
+@salmo canticos/ef-1-3-10-v5
+
+@gloria
+
+@antifona
+O Bom Pastor deu a vida pelas suas ovelhas.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Sacerdotes do Senhor,
+* Bendizei o Senhor. R. Sacerdotes.
+V. Vós, santos e humildes de coração, louvai a Deus. * Bendizei.
+Glória ao Pai. R. Sacerdotes.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@rubrica
+Para um papa ou bispo:
+
+@antifona
+Sacerdote do Altíssimo, exemplo de virtude, bom pastor do povo santo, agradastes ao Senhor.
+
+@rubrica
+Ou:
+
+@rubrica
+Para um presbítero:
+
+@antifona
+Fiz-me tudo para todos, para serem todos salvos.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@rubrica
+Para um papa ou bispo:
+
+@antifona
+Sacerdote do Altíssimo, exemplo de virtude, bom pastor do povo santo, agradastes ao Senhor.
+
+@rubrica
+Ou:
+
+@rubrica
+Para um presbítero:
+
+@antifona
+Fiz-me tudo para todos, para serem todos salvos.
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@rubrica
+Para um papa:
+
+@texto
+Deus eterno e todo-poderoso, quisestes que são (sto.) N. governasse todo o vosso povo, servindo-o pela palavra e pelo exemplo. Guardai, por suas preces, os pastores de vossa Igreja e as ovelhas a eles confiadas, guiando-os no caminho da salvação eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um bispo:
+
+@texto
+Ó Deus, que aos vossos pastores associastes são (sto.) N., animado de ardente caridade e da fé que vence o mundo, dai-nos, por sua intercessão, perseverar na caridade e na fé, para participarmos de sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um fundador de Igreja:
+
+@texto
+Ó Deus, que pela pregação de são (sto.) N. chamastes os nossos pais à luz do Evangelho, fazei-nos, por sua intercessão, crescer continuamente na graça e no conhecimento de nosso Senhor Jesus Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um pastor:
+
+@texto
+Ó Deus, luz dos que creem e pastor de nossas almas, que colocastes são (sto.) N. à frente da vossa Igreja, para formar os fiéis pela palavra e pelo exemplo, concedei-nos, por sua intercessão, guardar a fé que ensinou pela palavra e seguir o caminho que mostrou com sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que enriquecestes são (sto.) N. com o espírito de verdade e de amor para apascentar o vosso povo, concedei-nos, celebrando sua festa, seguir sempre mais o seu exemplo, sustentados por sua intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um missionário:
+
+@texto
+Ó Pai, pela vossa misericórdia, são (sto.) N. anunciou as insondáveis riquezas de Cristo. Concedei-nos, por sua intercessão, crescer no vosso conhecimento e viver na vossa presença segundo o Evangelho, frutificando em boas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

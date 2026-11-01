@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/martiriobatista_vesperas.htm
+@documento Vésperas - Martírio de São João Batista
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Predecessor fiel da graça,
+bondoso anjo da verdade,
+clarão de Cristo, ele anuncia
+a Luz da eterna claridade.
+
+Das profecias o precônio
+que ele cantara, austero e forte,
+com vida e atos confirmou
+pelo sinal da santa morte.
+
+Quem para o mundo ia nascer
+ele precede, ao vir primeiro,
+mostrando Aquele que viria
+dar o batismo verdadeiro.
+
+E cuja morte inocente,
+que a vida ao mundo conquistou,
+fora predita pelo sangue
+que João Batista derramou.
+
+Ó Pai clemente, concedei-nos
+seguir os passos de São João,
+para fruirmos para sempre
+o dom de Cristo, em profusão.
+
+@secao Salmodia
+
+@antifona 1
+Não temas diante deles, pois contigo eu estou,
+assim diz o Senhor.
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Não temas diante deles, pois contigo eu estou,
+assim diz o Senhor.
+
+@antifona 2
+Herodes mandou um carrasco
+decapitar a João na prisão.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Herodes mandou um carrasco
+decapitar a João na prisão.
+
+@antifona 3
+Os discípulos de João levaram o seu corpo
+e o puseram no sepulcro.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Os discípulos de João levaram o seu corpo
+e o puseram no sepulcro.
+
+@secao Leitura breve | At 13,23-25
+
+@texto
+Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. Estando para terminar sua missão, João declarou: Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias.
+
+@secao Responsório breve
+
+@responsorio
+R. O amigo do Esposo se alegra,
+* Ouvindo a voz do Esposo. R. O amigo.
+V. Eis minha perfeita alegria! * Ouvindo.
+Glória ao Pai. R. O amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Messias não sou eu, fui mandado à sua frente;
+é preciso que ele cresça; eu, porém, que diminua.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Messias não sou eu, fui mandado à sua frente;
+é preciso que ele cresça; eu, porém, que diminua.
+
+@secao Preces
+
+@preces
+João Batista foi escolhido por Deus para anunciar à humanidade a chegada do reino de Cristo. Por isso, oremos com alegria, dizendo:
+
+R. **Dirigi, Senhor, os nossos passos no caminho da paz!**
+
+Vós, que chamastes João Batista desde o ventre materno para preparar os caminhos de vosso Filho,
+– chamai-nos para seguir o Senhor com a mesma fidelidade com que João o precedeu. R.
+
+Assim como destes a João Batista a graça de reconhecer o Cordeiro de Deus, fazei que vossa Igreja também o anuncie,
+– e que os homens e as mulheres do nosso tempo o reconheçam. R.
+
+Vós, que inspirastes a vosso profeta ser necessário ele diminuir para que Cristo crescesse,
+– ensinai-nos a ceder lugar aos outros, para que vossa presença se manifeste em cada um de nós. R.
+
+Vós, que quisestes proclamar a justiça mediante o martírio de João,
+– tornai-nos testemunhas incansáveis da vossa verdade. R.
+
+{(intenções livres)}
+
+Lembrai-vos de todos aqueles que já partiram desta vida,
+– recebei-os no reino da luz e da paz. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que São João Batista fosse o precursor do nascimento e da morte do vosso Filho; como ele tombou na luta pela justiça e a verdade, fazei-nos também lutar corajosamente para testemunhar a vossa palavra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

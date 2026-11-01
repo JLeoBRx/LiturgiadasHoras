@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2segunda_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Felizes os que ouvem a palavra do Senhor
+e a praticam cada dia!
+
+@salmo salmos/salmo-118-41-48-vi-vau
+
+@gloria
+
+@antifona
+Felizes os que ouvem a palavra do Senhor
+e a praticam cada dia!
+
+@antifona 2
+Meu alimento é fazer a vontade do Pai.
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@antifona
+Meu alimento é fazer a vontade do Pai.
+
+@antifona 3
+Eu sou pobre, infeliz, desvalido,
+porém, guarda o Senhor minha vida.
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Eu sou pobre, infeliz, desvalido,
+porém, guarda o Senhor minha vida.
+
+@secao Leitura breve | Ez 34,31
+
+@texto
+Quanto a vós, minhas ovelhas, sois as ovelhas de minha pastagem, e eu sou o vosso Deus – oráculo do Senhor Deus.
+
+@texto
+V. O Senhor é o pastor que me conduz: não me falta coisa alguma.
+R. Pelos prados e campinas verdejantes ele me leva a descansar.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos convocais para o louvor, na mesma hora em que os Apóstolos subiam ao templo, concedei que esta prece, feita de coração sincero em nome de Jesus, alcance a salvação para quantos o invocam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

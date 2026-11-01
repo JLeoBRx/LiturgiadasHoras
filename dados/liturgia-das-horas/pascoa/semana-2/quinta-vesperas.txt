@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2quintapascoa_vesperas.htm
+@documento Vésperas - Quinta-feira da 2ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Ele foi constituído por Deus Pai
+juiz dos vivos e dos mortos, aleluia.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Ele foi constituído por Deus Pai
+juiz dos vivos e dos mortos, aleluia.
+
+@antifona 2
+Todos os povos serão nele abençoados, aleluia.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+Todos os povos serão nele abençoados, aleluia.
+
+@antifona 3
+Jesus Cristo ontem, hoje e eternamente, aleluia.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v3
+
+@gloria
+
+@antifona
+Jesus Cristo ontem, hoje e eternamente, aleluia.
+
+@secao Leitura breve | 1Pd 3, 18.21b-22
+
+@texto
+Cristo morreu, uma vez por todas, por causa dos pecados, o justo, pelos injustos, a fim de vos conduzir a Deus. Sofreu a morte, na sua existência humana, mas recebeu nova vida pelo Espírito. O batismo é hoje a vossa salvação. Pois ele não serve para limpar o corpo da imundície, mas é um pedido a Deus para obter uma boa consciência, em virtude da ressurreição de Jesus Cristo. Ele subiu ao céu e está à direita de Deus, submetendo-se a ele anjos, dominações e potestades.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quem crê no Filho de Deus, tem a vida eterna. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quem crê no Filho de Deus, tem a vida eterna. Aleluia.
+
+@secao Preces
+
+@preces
+Exultemos de alegria em Cristo nosso Senhor, a quem o Pai constituiu fundamento de nossa esperança e da ressurreição dos mortos. Aclamemos e peçamos:
+
+R. **Cristo, rei da glória, ouvi-nos!**
+
+Senhor Jesus, que por vosso sangue derramado na cruz e por vossa ressurreição entrastes no santuário celeste,
+– conduzi-nos convosco à glória do Pai. R.
+
+Senhor Jesus, que por vossa ressurreição fortalecestes a fé dos discípulos e os enviastes ao mundo para anunciar o evangelho,
+– fazei que os bispos e os presbíteros sejam fiéis mensageiros da vossa Palavra. R.
+
+Senhor Jesus, que por vossa ressurreição nos trouxestes a reconciliação e a paz,
+– dai aos cristãos uma perfeita união na fé e na caridade. R.
+
+Senhor Jesus, que por vossa ressurreição curastes o paralítico que estava à porta do Templo,
+– olhai com bondade para os enfermos e manifestai neles a vossa glória. R.
+
+{(intenções livres)}
+
+Senhor Jesus, que por vossa ressurreição vos tornastes o primogênito dentre os mortos,
+– concedei a participação na glória celeste àqueles que acreditaram e esperaram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

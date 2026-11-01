@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3quarta_vesperas.htm
+@documento Vésperas - III Quarta-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+De Sião vem o Deus onipotente,
+vem salvar o seu povo e libertá-lo.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+De Sião vem o Deus onipotente,
+vem salvar o seu povo e libertá-lo.
+
+@antifona 2
+Por ti, Sião, não haverei de me calar,
+nem por ti, Jerusalém, terei sossego,
+até que brilhe tua justiça como a aurora.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Por ti, Sião, não haverei de me calar,
+nem por ti, Jerusalém, terei sossego,
+até que brilhe tua justiça como a aurora.
+
+@antifona 3
+O Espírito do Senhor repousa sobre mim
+e me envia a anunciar aos pobres o Evangelho.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+O Espírito do Senhor repousa sobre mim
+e me envia a anunciar aos pobres o Evangelho.

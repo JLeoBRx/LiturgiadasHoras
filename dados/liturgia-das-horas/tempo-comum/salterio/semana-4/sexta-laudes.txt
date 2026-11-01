@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_laudes.htm
+@documento Laudes - Sexta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Deus, que criastes a luz,
+sois luz do céu radiosa.
+O firmamento estendestes
+com vossa mão poderosa.
+
+A aurora esconde as estrelas,
+e o seu clarão vos bendiz.
+A brisa espalha o orvalho,
+a terra acorda feliz.
+
+A noite escura se afasta,
+as trevas fogem da luz.
+A estrela d'alva fulgura,
+sinal de Cristo Jesus.
+
+Ó Deus, sois dia dos dias,
+sois luz da luz, na Unidade,
+num só poder sobre os seres,
+numa só glória, Trindade.
+
+Perante vós, Salvador,
+a nossa fronte inclinamos.
+A vós, ao Pai e ao Espírito
+louvor eterno cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Criai em mim um coração que seja puro,
+dai-me de novo um espírito decidido!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Criai em mim um coração que seja puro,
+dai-me de novo um espírito decidido!
+
+@antifona 2
+Jerusalém, exulta alegre,
+pois em ti serão unidas as nações ao teu Senhor!
+
+@salmo canticos/tb-13-8-11-13-14ab-15-16ab-v2
+
+@gloria
+
+@antifona
+Jerusalém, exulta alegre,
+pois em ti serão unidas as nações ao teu Senhor!
+
+@antifona 3
+Ó Sião, canta louvores ao teu Deus;
+ele envia suas ordens para a terra.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Ó Sião, canta louvores ao teu Deus;
+ele envia suas ordens para a terra.
+
+@secao Leitura breve | Gl 2,19b-20
+
+@texto
+Com Cristo, eu fui pregado na cruz. Eu vivo, mas não eu, é Cristo que vive em mim. Esta minha vida presente, na carne, eu a vivo na fé, crendo no Filho de Deus, que me amou e por mim se entregou.
+
+@secao Responsório breve
+
+@responsorio
+R. Lanço um grito ao Senhor, Deus Altíssimo,
+* Este Deus que me dá todo bem. R. Lanço um grito.
+V. Que me envie do céu sua ajuda! * Este Deus.
+Glória ao Pai. R. Lanço um grito.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Pelo amor do coração de nosso Deus,
+o Sol nascente nos veio visitar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Pelo amor do coração de nosso Deus,
+o Sol nascente nos veio visitar.
+
+@secao Preces
+
+@preces
+Cheios de confiança em Deus, que ama e protege todos aqueles que redimiu por seu Filho Jesus Cristo, façamos nossa oração; e digamos:
+
+R. **Confirmai, Senhor, o que em nós realizastes!**
+
+Deus de misericórdia, dirigi nossos passos nos caminhos da santidade,
+– para pensarmos somente o que é verdadeiro, justo e digno de ser amado. R.
+
+Por amor do vosso nome, não nos abandoneis para sempre,
+– mas lembrai-vos, Senhor, da vossa aliança. R.
+
+De coração contrito e humilde, sejamos acolhidos por vós,
+– pois não serão confundidos aqueles que em vós esperam. R.
+
+Vós, que, em Cristo, nos chamastes para uma missão profética,
+– dai-nos a graça de proclamarmos sem temor as maravilhas do vosso poder. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Derramai, Senhor, sobre o povo suplicante a abundância da vossa graça, para que, seguindo os vossos mandamentos, receba estímulo e ajuda na vida presente e felicidade sem fim na pátria futura. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna. Amém.

@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sabadosanto_nona.htm
+@documento Hora Média - Sábado Santo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Da vida eterna a coroa
+dai-nos agora, Jesus,
+que por nós fostes pregado
+ao santo lenho da cruz.
+
+Rasgando antiga sentença,
+implantais reino de amor,
+já não mais somos escravos,
+se sois de novo o Senhor.
+
+Ao Pai e ao Espírito glória,
+glória a vós, Cristo Jesus,
+que a vida eterna nos destes
+pelo triunfo da cruz.
+
+@secao Salmodia
+
+@antifona
+É a paz o seu lugar, é Sião sua morada.
+
+@rubrica
+Numa das Horas Médias, tomam-se os salmos seguintes; nas outras duas, tomam-se da Salmodia Complementar.
+
+@salmo salmos/salmo-026-v2
+
+@gloria
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@salmo salmos/salmo-075
+
+@gloria
+
+@antifona
+É a paz o seu lugar, é Sião sua morada.
+
+@secao Leitura breve | 1Jo 2,8b-10
+
+@texto
+As trevas passam e já brilha a luz verdadeira. Aquele que diz estar na luz, mas odeia o seu irmão, ainda está nas trevas. O que ama o seu irmão permanece na luz e não corre perigo de tropeçar.
+
+@texto
+V. O Senhor foi sepultado, foi lacrado seu sepulcro.
+R. Colocaram os soldados como guarda do seu túmulo.
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que vive e reina para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

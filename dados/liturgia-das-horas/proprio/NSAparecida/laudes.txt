@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSAparecida_laudes.htm
+@documento Laudes - Bem-aventurada Virgem Maria da Conceição Aparecida
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Virgem a quem veneramos
+com piedade enternecida
+e a quem alegres chamamos
+Aparecida!
+
+Quem poderia narrar
+o teu amor sempre novo
+e as graças que concedeste
+ao nosso povo?
+
+Por tantas e tantas graças
+bem mereces a coroa
+com que a fronte te cingimos,
+ó Mãe tão boa!
+
+As agruras desta vida
+sofrendo com paciência,
+possamos gozar no céu
+tua clemência.
+
+Ao Deus uno e trino glória
+e todo louvor convém;
+só ele governa o mundo
+e o céu. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo,
+és bendita entre todas as mulheres da terra!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo,
+és bendita entre todas as mulheres da terra!
+
+@antifona 2
+Não temas, ó Maria, por Deus agraciada;
+haverás de conceber um Menino e dar à luz;
+seu nome há de ser: o Filho do Altíssimo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Não temas, ó Maria, por Deus agraciada;
+haverás de conceber um Menino e dar à luz;
+seu nome há de ser: o Filho do Altíssimo.
+
+@antifona 3
+A Santa Virgem concebeu,
+dando o seu consentimento;
+permanecendo sempre virgem,
+deu à luz o Salvador.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A Santa Virgem concebeu,
+dando o seu consentimento;
+permanecendo sempre virgem,
+deu à luz o Salvador.
+
+@secao Leitura breve | Is 61,10-11
+
+@texto
+Exulto de alegria no Senhor e minh’alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias. Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor a escolheu.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais,
+rogai ao Filho por nós, vossos filhos!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais,
+rogai ao Filho por nós, vossos filhos!
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Salvador do mundo, que pelos méritos da redenção preservastes a vossa Mãe de toda mancha de pecado,
+– livrai-nos também de todo pecado. R.
+
+Redentor nosso, que fizestes da Imaculada Virgem Maria o tabernáculo puríssimo da vossa presença e o sacrário do Espírito Santo,
+– fazei de nós templos vivos do vosso Espírito. R.
+
+Rei dos reis, que quisestes ter vossa Mãe convosco no céu em corpo e alma,
+– fazei que aspiremos sempre aos bens do alto. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, fiel à sua vocação e vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

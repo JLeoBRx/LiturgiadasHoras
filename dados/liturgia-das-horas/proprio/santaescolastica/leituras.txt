@@ -1,0 +1,134 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santaescolastica.htm
+@documento Ofício das Leituras - Santa Escolástica, Virgem
+
+@celebracao
+SANTA ESCOLÁSTICA, VIRGEM
+
+@biografia
+Escolástica, irmã de São Bento, nasceu em Núrsia, na úmbria (Itália), cerca do ano 480. Juntamente com seu irmão, consagrou-se a Deus e seguiu-o para Cassino, onde morreu por volta do ano 547.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O mais suave dos hinos
+entoe o povo de Deus,
+pois eis que hoje uma virgem
+subiu à glória dos céus.
+
+No exílio ainda da terra,
+já se entregava ao louvor;
+agora, junta-se aos santos
+nos mesmos hinos de amor.
+
+A frágil carne domando,
+rosa entre espinhos floriu;
+calcando as pompas do mundo,
+do Cristo os passos seguiu.
+
+As suas preces ouvindo,
+Jesus nos dê sua mão,
+sempre a guiar nossos passos
+para a celeste mansão.
+
+Ao Pai e ao Espírito unido,
+nós te adoramos, Jesus:
+caminho estreito e seguro
+que à vida eterna conduz.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Diálogos de São Gregório Magno, papa
+{(Séc.VI)} {(Lib. 2,33: PL 66,194-196)}
+
+@tema
+Foi mais poderosa aquela que mais amou
+
+@texto
+Escolástica, irmã de São Bento, consagrada ao Senhor onipotente desde a infância, costumava visitar o irmão, uma vez por ano. O homem de Deus descia e vinha encontrar-se com ela numa propriedade do mosteiro, não muito longe da porta. Certo dia, veio ela como de costume, e seu venerável irmão com alguns discípulos foi ao seu encontro. Passaram o dia inteiro a louvar a Deus e em santas conversas, de tal modo que já se aproximavam as trevas da noite quando sentaram-se à mesa para tomar a refeição. Como durante as santas conversas o tempo foi passando, a santa monja rogou-lhe: “Peço-te, irmão, que não me deixes esta noite, para podermos continuar falando até de manhã sobre as alegrias da vida celeste”. Ao que ele respondeu-lhe: “Que dizes tu, irmã? De modo algum posso passar a noite fora da minha cela”. A santa monja, ao ouvir a recusa do irmão, pôs sobre a mesa as mãos com os dedos entrelaçados e inclinou a cabeça sobre as mãos para suplicar o Senhor onipotente. Quando levantou a cabeça, rebentou uma grande tempestade, com tão fortes relâmpagos, trovões e aguaceiro, que nem o venerável Bento nem os irmãos que haviam vindo em sua companhia puderam pôr um pé fora da porta do lugar onde estavam. Então o homem de Deus, vendo que não podia regressar ao mosteiro, começou a lamentar-se, dizendo: “Que Deus onipotente te perdoe, irmã! Que foi que fizeste?” Ela respondeu: “Eu te pedi e não quiseste me atender. Roguei ao meu Deus e ele me ouviu. Agora, pois, se puderes, vai-te embora; despede-te de mim e volta para o mosteiro”. E Bento, que não quisera ficar ali espontaneamente, teve que ficar contra a vontade. Assim, passaram a noite toda acordados, animando-se um ao outro com santas conversas sobre a vida espiritual. Não nos admiremos que a santa monja tenha tido mais poder do que ele: se, na verdade, como diz São João, _Deus é amor_ (1Jo 4,8), com justíssima razão, teve mais poder aquela que mais amou. Três dias depois, estando o homem de Deus na cela, levantou os olhos para o alto e viu a alma de sua irmã liberta do corpo, em forma de pomba, penetrar no interior da morada celeste. Cheio de júbilo por tão grande glória que lhe havia sido concedida, deu graças a Deus onipotente com hinos e cânticos de louvor; enviou dois irmãos a fim de trazerem o corpo para o mosteiro, onde foi depositado no túmulo que ele mesmo preparara para si. E assim, nem o túmulo separou aqueles que sempre tinham estado unidos em Deus.
+
+@secao Responsório | Sl 132(133),1
+
+@responsorio
+R. Como rogasse a santa monja ao Senhor,
+que não deixasse seu irmão se retirar,
+* Obteve mais do seu Senhor do coração, do que pedira, porque ela mais amou.
+V. Vinde e vede como é bom, como é suave, os irmãos viverem juntos bem unidos! * Obteve mais.
+
+@secao Oração
+
+@oracao
+Celebrando a festa de Santa Escolástica, nós vos pedimos, ó Deus, a graça de imitá-la, servindo-vos com caridade perfeita e alegrando-nos com os sinais do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

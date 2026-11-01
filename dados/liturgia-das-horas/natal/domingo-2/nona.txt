@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2domingo_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos Apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@secao Leitura breve | At 10,36
+
+@texto
+Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-nova da paz, por meio de Jesus Cristo, que é o Senhor de todos.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, esplendor dos vossos fiéis, irradiai por todo o mundo a vossa glória, e manifestai-vos a todos os povos no fulgor da vossa luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

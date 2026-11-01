@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1domingo_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | 1Jo 4,16
+
+@texto
+Nós conhecemos o amor que Deus tem para conosco, e acreditamos nele. Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele.
+
+@texto
+V. Inclinai meu coração às vossas leis.
+R. Dai-me a vida pelos vossos mandamentos.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

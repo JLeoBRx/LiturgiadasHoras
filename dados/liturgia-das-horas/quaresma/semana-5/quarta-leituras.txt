@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/5quarta_quaresma.htm
+@documento Ofício das Leituras - 5ª Semana Da Quaresma - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Eu vos amo, ó Senhor! Sois minha força! †
+
+@salmo salmos/salmo-017-2-30
+
+@gloria
+
+@antifona
+Eu vos amo, ó Senhor! Sois minha força!
+
+@antifona 2
+O Senhor me libertou, porque me ama.
+
+@salmo salmos/salmo-017-2-30-ii-v3
+
+@gloria
+
+@antifona
+O Senhor me libertou, porque me ama.
+
+@antifona 3
+Ó Senhor, fazei brilhar a minha lâmpada!
+Ó meu Deus, iluminai as minhas trevas!
+
+@salmo salmos/salmo-017-2-30-iii-v2
+
+@gloria
+
+@antifona
+Ó Senhor, fazei brilhar a minha lâmpada!
+Ó meu Deus, iluminai as minhas trevas!
+
+@texto
+V. Convertei-vos e mudai a vossa vida.
+R. Renovai-vos de espírito e coração!
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {6,9-20}
+
+@tema
+A fidelidade de Deus, garantia de nossa esperança
+
+@texto
+[9] Quanto a vós, caríssimos, estamos persuadidos de que vos achais numa situação melhor e mais favorável à salvação, ainda que falemos daquele modo. [10] Deus não é injusto, para esquecer aquilo que estais fazendo e a caridade que demonstrastes em seu nome, servindo e continuando a servir os santos. [11] Mas desejamos que cada um de vós mostre até ao fim este mesmo empenho pela plena realização da esperança, [12] para não serdes lentos à compreensão, mas imitadores daqueles que, pela fé e a perseverança, se tornam herdeiros das promessas. [13] Pois quando Deus fez a promessa a Abraão, não havendo alguém maior por quem jurar, jurou por si mesmo, [14] dizendo: “Eu te cumularei de bênçãos e te multiplicarei em grande número”. [15] E assim, Abraão foi perseverante e alcançou a promessa. [16] Os homens juram, de fato, por alguém mais importante, e a garantia do juramento põe fim a qualquer contestação. [17] Por isso, querendo Deus mostrar, com mais firmeza, aos herdeiros da promessa, o caráter irrevogável da sua decisão, interveio com um juramento. [18] Assim, por meio de dois atos irrevogáveis, nos quais não pode haver mentira por parte de Deus, encontramos profunda consolação, nós que tudo deixamos para conseguir a esperança proposta. [19] A esperança, com efeito, é para nós qual âncora da vida, segura e firme, penetrando para além da cortina do santuário, [20] aonde Jesus entrou por nós, como precursor, feito sumo sacerdote eterno na ordem de Melquisedec.
+
+@secao Responsório | Cf. Hb 6,19.20; 7,24.25
+
+@responsorio
+R. O Cordeiro imaculado penetrou no santuário
+como nosso precursor feito sumo sacerdote
+para toda a eternidade numa ordem semelhante
+à do rei Melquisedec;
+* Ele vive para sempre, intercedendo por nós todos.
+V. Ele possui um sacerdócio que perdura para sempre;
+e por isso ele é capaz de salvar integralmente
+aqueles, que por ele, se aproximam de Deus Pai.
+* Ele vive.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de Santo Agostinho, bispo
+{(Séc.V)} {(Sl 85,1: CCL39,1176-1177)}
+
+@tema
+Jesus Cristo ora por nós, ora em nós, e recebe a nossa oração
+
+@texto
+Deus não poderia conceder dom maior aos homens do que dar-lhes como Cabeça a sua Palavra, pela qual criou todas as coisas, e a ela uni-los como membros, para que o Filho de Deus fosse também filho do homem, um só Deus com o Pai, um só homem com os homens. Por conseguinte, quando dirigimos a Deus nossas súplicas, não separemos dele o Filho; e, quando o Corpo do Filho orar, não separe de si sua Cabeça. Deste modo, o único salvador de seu corpo, nosso Senhor Jesus Cristo, é o mesmo que ora por nós, ora em nós e recebe a nossa oração. Ele ora por nós como nosso sacerdote; ora em nós como nossa cabeça e recebe a nossa oração como nosso Deus. Reconheçamos nele a nossa voz, e em nós a sua voz. E quando se disser sobre o Senhor Jesus, sobretudo nos profetas, algo referente àquela humilhação aparentemente indigna de Deus, não hesitemos em lhe atribuir, já que ele não hesitou em fazer-se um de nós. É a ele que toda a criação serve, porque todo o universo é obra de suas mãos. Por isso, contemplamos sua divindade e majestade, quando ouvimos: _No princípio era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. No princípio estava ela com Deus. Tudo foi feito por ela e sem ela nada se fez_ (Jo 1,1-3). Mas se nesta passagem contemplamos a divindade do Filho de Deus que supera as mais excelsas criaturas, ouvimos também em outras passagens da Escritura o mesmo Filho de Deus que geme, ora e louva. Hesitamos então em atribuir-lhe tais palavras, porque nosso pensamento reluta em passar da contemplação de sua divindade à sua humilhação, como se fosse uma injúria reconhecer como homem aquele a quem orávamos como a Deus; por isso, o nosso pensamento fica muitas vezes perplexo, e esforça-se por alterar o sentido das palavras. Porém, não encontramos na Escritura recurso algum para aplicar tais palavras senão ao Filho de Deus, sem jamais separá-las dele. Despertemos, pois, e estejamos vigilantes na fé. Consideremos aquele que assumiu a condição de servo, a quem há pouco contemplávamos na condição de Deus; tornando-se semelhante aos homens e sendo visto como homem, humilhou-se a si mesmo, fazendo-se obediente até à morte (cf. Fl 2,7-8). E quis tornar suas as palavras do salmo, ao dizer, pregado na cruz: _Meu Deus, meu Deus, por que me abandonaste?_ (Sl 21,1). Ele ora na sua condição de servo, e recebe a nossa oração na sua condição de Deus; ali é criatura, aqui o Criador; sem sofrer mudança, assumiu a condição mutável da criatura, fazendo de nós, juntamente com ele, um só homem, cabeça e corpo. Nossa oração, pois, se dirige a ele, por ele e nele; oramos juntamente com ele e ele ora juntamente conosco.
+
+@secao Responsório | Jo 16,24.23
+
+@responsorio
+R. Até agora não pedistes coisa alguma em meu nome;
+* Pedi e recebereis e tereis plena alegria.
+V. O que pedirdes a meu Pai, em meu nome, ele dará.
+* Pedi.
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, iluminai nossos corações purificados pela penitência. E ouvi com paternal bondade aqueles a quem dais o afeto filial. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

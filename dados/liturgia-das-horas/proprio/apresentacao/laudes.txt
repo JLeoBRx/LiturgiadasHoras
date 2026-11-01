@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/apresentacao_laudes.htm
+@documento Laudes - Apresentação do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Sião, na espera do Senhor,
+adorna o tálamo ditoso.
+Na vigilante luz da fé,
+acolhe a esposa e o esposo!
+
+Ó ancião feliz, apressa-te,
+cumpre a promessa da alegria,
+revela a todos a luz nova
+que para os povos se anuncia.
+
+Os pais ao Templo levam Cristo,
+no Templo, o Templo se oferece.
+E quem à lei nada devia,
+à lei dos homens obedece.
+
+Oferta, ó Virgem, o teu Filho,
+que é do Pai o Filho amado.
+Nele oferece nosso preço,
+pelo qual fomos resgatados.
+
+No ritual do sacrifício
+teu Filho, ó Virgem, oferece.
+A salvação foi dada a todos,
+grande alegria resplandece.
+
+Louvor a vós, ó Jesus Cristo,
+que hoje às nações vos revelais,
+a vós, ao Pai e ao Espírito
+glória nos séculos eternais.
+
+@secao Salmodia
+
+@antifona 1
+O justo e piedoso Simeão
+esperava a redenção de Israel,
+e o Espírito de Deus estava nele.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O justo e piedoso Simeão
+esperava a redenção de Israel,
+e o Espírito de Deus estava nele.
+
+@antifona 2
+Simeão toma o Menino nos seus braços
+e dá graças, bendizendo ao Senhor.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Simeão toma o Menino nos seus braços
+e dá graças, bendizendo ao Senhor.
+
+@antifona 3
+Uma luz que brilhará para os gentios
+e para a glória de Israel, vosso povo.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Uma luz que brilhará para os gentios
+e para a glória de Israel, vosso povo.
+
+@secao Leitura breve | Ml 3,1
+
+@texto
+Eis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais.
+
+@secao Responsório breve
+
+@responsorio
+R. No esplendor do santo templo,
+* Adorai o Senhor Deus! R. No esplendor.
+V. Dai a Deus glória e louvor! * Adorai.
+Glória ao Pai. R. No esplendor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+José e Maria levaram ao templo o Menino Jesus;
+Simeão recebeu-o e, tomando-o nos braços,
+bendisse o Senhor.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+José e Maria levaram ao templo o Menino Jesus;
+Simeão recebeu-o e, tomando-o nos braços,
+bendisse o Senhor.
+
+@secao Preces
+
+@preces
+Adoremos nosso Salvador, que hoje foi apresentado no templo; e peçamos:
+
+R. **Senhor, que os nossos olhos vejam a vossa salvação.**
+
+Cristo Jesus, que quisestes ser apresentado no templo, segundo a lei,
+– ensinai a nos oferecermos convosco no sacrifício da Igreja. R.
+
+Consolador de Israel, a quem o justo Simeão acolheu no templo,
+– ensinai-nos também a vos acolher na pessoa de nossos irmãos e irmãs. R.
+
+Esperança das nações, de quem a profetisa Ana falava a todos os que esperavam a libertação de Israel,
+– ensinai-nos a falar de vós, como convém, a todas as pessoas. R.
+
+Pedra angular do reino de Deus, colocada como sinal de contradição,
+– fazei que, pela fé e pela caridade, nós vos encontremos e em vós sejamos ressuscitados. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ouvi as nossas súplicas. Assim como o vosso Filho único, revestido da nossa humanidade, foi hoje apresentado no Templo, fazei que nos apresentemos diante de vós com os corações purificados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

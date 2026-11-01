@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sabado_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao XI (Caph)
+
+@salmo salmos/salmo-118-81-88
+
+@gloria
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Is 4,2
+
+@texto
+Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, que desponte em nossos corações o esplendor da vossa glória, para que, vencidas as trevas do pecado, a vinda do vosso Unigênito revele que somos filhos da luz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

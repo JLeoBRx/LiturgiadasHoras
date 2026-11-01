@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/bencao_santissimo.htm
+@documento hinosemlatim
+
+@texto
+**BENÇÃO DO SANTÍSSIMO**
+
+@texto
+{Após o breve silêncio de adoração,} {o celebrante incensa o Santíssimo Sacramento, e então é cantado o _Tantum Ergo_ (Tão sublime)} Tão sublime sacramento, adoremos neste altar.
+Pois o Antigo Testamento deu ao Novo o seu lugar.
+Venha a fé, por suplemento, os sentidos completar.
+
+Ao Eterno Pai cantemos e a Jesus, o Salvador,
+ao Espírito exaltemos, na Trindade eterno amor.
+Ao Deus Uno e trino demos, a alegria do louvor.
+Amém! Amém!
+
+{em latim:}
+Tantum ergo Sacramentum
+Veneremur cernui:
+Et antiquum documentum
+Novo cedat ritui:
+Praestet fides supplementum
+Sensuum defectui.
+
+Genitori, Genitoque
+Laus et iubilatio,
+Salus, honor, virtus quoque
+Sit et benedictio:
+Procedenti ab utroque
+Compar sit laudatio.
+Amen.
+
+{CP.} Do céu lhes destes o Pão. ({T}. {P} Aleluia)
+{T.} Que contém todo sabor! ({T}. {P} Aleluia)
+
+@rubrica
+Oremos
+
+@texto
+Senhor Jesus Cristo, neste admirável Sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da Redenção. Vós que reinais com o Pai, na unidade do Espírito Santo.
+{T.} Amém.
+
+{O sacerdote ou o diácono, de véu umeral, faz a genuflexão, toma o ostensório ou o cibório e com ele traça, em silêncio, o sinal da cruz sobre o povo}
+
+@rubrica
+Reposição
+
+@texto
+{Terminada a bênção, o próprio sacerdote ou o diácono que deu a bênção repõe o Sacramento no tabernáculo, enquanto o povo, se oportuno, profere uma aclamação:}
+Bendito seja Deus.
+Bendito seja o seu Santo Nome.
+Bendito seja Jesus Cristo, verdadeiro Deus e verdadeiro homem.
+Bendito seja o nome de Jesus.
+Bendito seja o seu Sacratíssimo Coração.
+Bendito seja o seu preciosíssimo sangue.
+Bendito seja Jesus Cristo no Santíssimo Sacramento do altar.
+Bendito seja o Espírito Santo Paráclito.
+Bendita seja a grande Mãe de Deus Maria Santíssima.
+Bendita seja a sua Santa Imaculada Conceição.
+Bendita seja a sua gloriosa Assunção.
+Bendito seja o nome de Maria Virgem e Mãe.
+Bendito seja São José, seu castíssimo esposo.
+Bendito seja Deus nos seus Anjos e nos seus Santos.
+
+{CP.} Graças e louvores se deem a todo momento:
+{T.} Ao Santíssimo e diviníssimo Sacramento!
+
+@rubrica
+Oração pela Igreja e pela Pátria
+
+@texto
+Deus e Senhor nosso,
+protegei a vossa Igreja,
+dai-lhe santos pastores e dignos Ministros.
+Derramai as vossas bênçãos
+sobre o nosso santo padre, o Papa {N}.,
+sobre o nosso (arce)bispo,
+sobre o nosso Pároco e todo o Clero;
+sobre o chefe da Nação (e do Estado)
+e sobre todas as pessoas constituídas em dignidade,
+para que governem com justiça.
+Dai ao povo brasileiro
+paz constante
+e prosperidade completa.
+Favorecei,
+com os efeitos contínuos da vossa bondade,
+o Brasil, este (arce)bispado,
+a paróquia em que habitamos,
+a cada um de nós em particular,
+e a todas as pessoas
+por quem somos obrigados a orar
+ou que se reco­mendaram
+às nossas orações.
+Tende misericórdia
+das almas dos fiéis,
+que padecem no purgatório.
+Dai-lhes, Senhor,
+o des­canso e a luz Eterna.
+
+{(Pai-Nosso, Ave Maria, Glória)}
+
+{CP.} O Deus da vida que se revela na pessoa de Jesus Cristo nos(vos) encha do seu Espírito e nos renove na alegria de servir com amor, agora e para sempre.
+{T.} Amém.
+{CP.} Louvado seja nosso Senhor Jesus Cristo.
+{T.} Para sempre seja louvado!
+
+@rubrica
+Ou
+
+@texto
+{CP.} Oremos pelo nosso Santo Padre, o Papa {N.}
+{T.} o Senhor o guarde e lhe conceda longa vida, torne-o feliz na terra e não o deixe cair sob a ira dos seus inimigos.
+
+{CP.} Tu és Pedro ({T}. {P} Aleluia).
+{T.} E sobre esta pedra edificarei a minha Igreja. ({T}. {P} Aleluia)
+
+**Oremos**: Deus, pastor e guia de todos os fiéis, olhai propício para o vosso servo o Papa {N}, que constituístes pastor de vossa Igreja. Concedei-lhe, vos suplicamos, a graça de edificar seus súditos com suas palavras e exemplos, a fim de que, com o rebanho que lhe foi confiado, alcance a vida eterna. Por Cristo, nosso Senhor.
+{T.} Amém.
+
+{CP.} Oremos por nosso (arce)bispo Dom {N.}
+{T.} Que ele permaneça firme e apascente o seu rebanho na vossa fortaleza, Senhor, na sublimidade de vosso nome.
+
+{CP.} Tu és sacerdote para sempre, ({T}. {P} Aleluia).
+{T.} Segundo a ordem de Melquisedeque.
+
+**Oremos**: Ó Deus que velais sobre o vosso povo com bonda­de e o conduzis com amor, dai o Espírito de sabedoria e a abundância de vossas graças a vosso servo Dom {N.}, nosso prelado, a quem confiastes o cuidado de nossa direção espiri­tual, para que ele cumpra fielmente junto de nós os deveres do ministério sacerdotal e receba na eternidade a recompen­sa de um fiel dispensador. Por Cristo, nosso Senhor.
+{T.} Amém.

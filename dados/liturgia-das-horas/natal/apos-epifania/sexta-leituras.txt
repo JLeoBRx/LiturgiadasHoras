@@ -1,0 +1,87 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_leituras.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Vendo os Magos a Criança,
+vão abrindo seus tesouros
+e lhe fazem oferendas
+de incenso, mirra e ouro.
+
+Ó Menino, nos presentes,
+pelo Pai determinados,
+reconheces sinais claros
+do poder do teu Reinado.
+
+Para o Rei é dado o ouro,
+para Deus, o incenso puro.
+Mas a mirra prenuncia
+do sepulcro o pó escuro.
+
+Ó Belém, cidade única
+entre todas as nações,
+tu geraste, feito homem,
+o Autor da salvação!
+
+Como provam os profetas,
+Deus, o Pai que nos criou,
+enviou Jesus ao mundo,
+Juiz e Rei o consagrou.
+
+O seu reino abrange tudo:
+Oriente e Ocidente,
+dia e noite, terra e mares,
+fundo abismo e céu fulgente.
+
+Glória a vós, ó Jesus Cristo,
+que às nações vos revelais,
+com o Pai e o Santo Espírito
+pelos séculos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Repreendei-me, Senhor, mas sem ira! †
+
+@salmo salmos/salmo-037-i
+
+@gloria
+
+@antifona
+Repreendei-me, Senhor, mas sem ira!
+
+@antifona 2
+Conheceis meu desejo, Senhor.
+
+@salmo salmos/salmo-037-ii
+
+@gloria
+
+@antifona
+Conheceis meu desejo, Senhor.
+
+@antifona 3
+Confesso, Senhor, minha culpa:
+salvai-me, e jamais me deixeis!
+
+@salmo salmos/salmo-037-iii
+
+@gloria
+
+@antifona
+Confesso, Senhor, minha culpa:
+salvai-me, e jamais me deixeis!
+
+@texto
+V. No Verbo de Deus era a vida.
+R. E a vida era a luz para os homens.

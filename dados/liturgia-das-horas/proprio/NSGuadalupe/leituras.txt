@@ -1,0 +1,275 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSGuadalupe.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria De Guadalupe, Padroeira Principal Da América Latina Festa
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA DE GUADALUPE, PADROEIRA PRINCIPAL DA AMÉRICA LATINA
+{Festa}
+
+@biografia
+Segundo antigos testemunhos, a imagem da Virgem de Guadalupe apareceu impressa na manta do índio João Diego, em 1531, na cidade do México. Seu culto propagou-se rapidamente e muito contribuiu para a difusão da fé entre os indígenas. Em 1754, Bento XIV confirmou o patrocínio da Virgem de Guadalupe sobre toda a Nova Espanha (do Arizona até a Costa Rica). Em 1910, São Pio X proclamou-a Padroeira da América Latina.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Foste dona-de-casa e peregrina,
+A teu marido e filho tu servias.
+E, os planos do Senhor sempre seguindo,
+punhas amor em tudo o que fazias.
+
+Te encontras na montanha antes da aurora,
+onde te impele o amor vais apressada:
+trazes também teu filho ao novo mundo,
+queres nele fazer nova morada.
+
+Como de nossa raça te apresentas,
+falando nossa língua com doçura,
+e pedes te façamos uma casa,
+de onde possa jorrar tua ternura.
+
+Tu subiste a Isabel como ao Calvário,
+desces do céu a nós, bela e suave;
+vens tomar-nos contigo no teu manto...
+Desces e sobes: para isto és Ave!
+
+Glória demos ao Pai que é sem princípio,
+ao Filho que assumiu a humanidade.
+No Espírito que ambos nos enviam,
+louvemos a Santíssima Trindade!
+
+@secao Salmodia
+
+@antifona 1
+Nunca mais se porá o teu sol
+e a tua lua jamais minguará.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Nunca mais se porá o teu sol
+e a tua lua jamais minguará.
+
+@antifona 2
+Ouço a voz do meu amado,
+vejo-o correndo nas montanhas
+saltando sobre os montes,
+como uma corça bem ligeira.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Ouço a voz do meu amado,
+vejo-o correndo nas montanhas
+saltando sobre os montes,
+como uma corça bem ligeira.
+
+@antifona 3
+Vamos cedo para o campo,
+visitar as nossas vinhas,
+ver se as vides já florescem,
+se estão em flor as romãzeiras,
+lá hei de mostrar-te meu amor.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Vamos cedo para o campo,
+visitar as nossas vinhas,
+ver se as vides já florescem,
+se estão em flor as romãzeiras,
+lá hei de mostrar-te meu amor.
+
+@texto
+V. Senhora dos jardins, meus companheiros te escutam.
+
+R. Faze ouvir a tua voz.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {52,7.9-10; 54,10a.11-14a.15;}
+{55,3b.12b-13}
+
+@tema
+Sobre os montes foi anunciada a paz
+
+@texto
+[52,7] Como são belos, andando sobre os montes,
+os pés de quem anuncia e prega a paz,
+de quem anuncia o bem e prega a salvação,
+e diz a Sião: “Reina teu Deus!”
+[9] Alegrai-vos e exultai ao mesmo tempo,
+ó ruínas de Jerusalém,
+o Senhor consolou seu povo
+e resgatou Jerusalém.
+[10] O Senhor desnudou seu santo braço
+aos olhos de todas as nações;
+todos os confins da terra hão de ver
+a salvação que vem do nosso Deus.
+[54,10a] Podem os montes recuar,
+diz o Senhor,
+e as colinas abalar-se,
+mas minha misericórdia não se apartará de ti.
+[11b] Eis que assentarei tuas pedras sobre rubis,
+e tuas bases sobre safiras; [12] revestirei de jaspe tuas fortificações,
+e teus portões, de pedras preciosas,
+e todos os teus muros, de pedra escolhida.
+[13] Todos os teus filhos serão discípulos do Senhor,
+teus filhos possuirão muita paz;
+[14a] terás a justiça por fundamento.
+[15] Se houver um ataque, não partirá de mim;
+quem te atacar, tombará frente a ti.
+[55,3b] Farei convosco um pacto eterno,
+manterei fielmente as graças concedidas a Davi.
+[12b] Montes e colinas cantarão louvores diante de vós
+e todas as árvores do lugar aplaudirão.
+[13] Em lugar de espinhos, crescerá o cipreste, em lugar da urtiga, a murta;
+tudo será para a glória do Senhor,
+como um sinal eterno, que não desaparecerá.
+
+@secao Responsório | Is 52,7; Sl 71(72),3; 120(121),1
+
+@responsorio
+R. Quão formosos sobre os montes
+os pés do que anuncia as boas-novas a Sião!
+* Das montanhas venha a paz a todo o povo
+e desça das colinas a justiça!
+V. Eu levanto os meus olhos para os montes,
+de onde pode vir o meu socorro? * Das montanhas.
+
+@secao Segunda leitura
+
+@leitura
+Do “Nicán Mopohua”, relato do escritor indígena do século dezesseis Dom Antônio Valeriano
+{(Séc. XVI)} {(“Nicán Mopohua”, 12ª edición, Buena Prensa, México, D.F., 1971, p. 3-19.21)}
+
+@tema
+A voz da rola se escuta em nossa terra
+
+@texto
+Num sábado de mil e quinhentos e trinta e um, perto do mês de dezembro, um índio de nome Juan Diego, mal raiava a madrugada, ia do seu povoado a Tlatelolco, para participar do culto divino e escutar os mandamentos de Deus. Já amanhecia, quando chegou ao cerrito chamado Tepeyac e escutou que do alto o chamavam: – Juanito! Juan Dieguito! Subiu até o cimo e viu uma senhora de sobre-humana grandeza, cujo vestido brilhava como o sol, e que, com voz muito branda e suave, lhe disse: – Juanito, menor dos meus filhos, fica sabendo que sou Maria sempre Virgem, Mãe do verdadeiro Deus, por quem vivemos. Desejo muito que se erga aqui um templo para mim, onde mostrarei e prodigalizarei todo o meu amor, compaixão, auxílio e proteção a todos os moradores desta terra e também a outros devotos que me invoquem confiantes. Vai ao Bispo do México e manifesta-lhe o que tanto desejo. Vai e põe nisto todo o teu empenho. Chegando Juan Diego à presença do Bispo Dom Frei Juan de Zumárraga, frade de São Francisco, este pareceu não lhe dar crédito e respondeu: – Vem outro dia, e te ouvirei com mais calma. Juan Diego voltou ao cimo do cerro, onde a Senhora do céu o esperava, e lhe disse: – Senhora, menorzinha de minhas filhas, minha menina, expus tua mensagem ao Bispo, mas parece que não acreditou. Assim, rogo-te que encarregues alguém mais importante de levar tua mensagem com mais crédito, porque não passo de um joão-ninguém. Ela respondeu-lhe: – Menor dos meus filhos, rogo-te encarecidamente que tornes a procurar o Bispo amanhã dizendo-lhe que eu própria, Maria sempre Virgem, Mãe de Deus, é que te envio. Porém no dia seguinte, domingo, o Bispo de novo não lhe deu crédito e disse ser indispensável algum sinal para poder-se acreditar que era Nossa Senhora mesma que o enviara. E o despediu sem mais aquela. Segunda-feira, Juan Diego não voltou. Seu tio Juan Bernardino adoecera gravemente e à noite pediu-lhe que fosse a Tlatelolco de madrugada, para chamar um sacerdote que o ouvisse em confissão. Juan Diego saiu na terça-feira, contornando o cerro e passando pelo outro lado, em direção ao Oriente, para chegar logo à Cidade do México, a fim de que Nossa Senhora não o detivesse. Porém ela veio a seu encontro e lhe disse: – Ouve e entende bem uma coisa, tu que és o menorzinho dos meus filhos: o que agora te assusta e aflige não é nada. Não se perturbe o teu coração nem te inquiete coisa alguma. Não estou aqui, eu, tua mãe? Não estás sob a minha sombra? Não estás porventura sob a minha proteção? Não te aflija a doença do teu tio. Fica sabendo que ele já sarou. Sobe agora, meu filho, ao cimo do cerro, onde acharás um punhado de flores que deves colher e trazer-mo. Quando Juan Diego chegou ao cimo, ficou assombrado com a quantidade de belas rosas de Castela que ali haviam brotado em pleno inverno; envolvendo-as em sua manta, levou-as para Nossa Senhora. Ela lhe disse: – Meu filho, eis a prova, o sinal que apresentarás ao Bispo, para que nele veja a minha vontade. Tu és o meu embaixador, digno de toda a confiança. Juan Diego pôs-se a caminho, agora contente e confiante em sair-se bem de sua missão. Ao chegar à presença do Bispo, lhe disse: – Senhor, fiz o que me ordenaste. Nossa Senhora consentiu em atender o teu pedido. Despachou-me ao cimo do cerro, para colher ali várias rosas de Castela, trazê-las a ti, entregando-as pessoalmente. Assim o faço, para que reconheças o sinal que pediste e assim cumpras a sua vontade. Ei-las aqui: recebe-as. Desdobrou em seguida a sua branca manta. À medida em que as várias rosas de Castela espalhavam-se pelo chão desenhava-se no pano e aparecia de repente a preciosa imagem de Maria sempre Virgem, Mãe de Deus, como até hoje se conserva no seu templo de Tepeyac. A cidade inteira, em tumulto, vinha ver e admirar a sua santa imagem e dirigir-lhe suas preces. Obedecendo à ordem que a própria Nossa Senhora dera ao tio Juan Bernardino, quando devolveu-lhe a saúde, ficou sendo chamada como ela queria: “Santa Maria sempre Virgem de Guadalupe”.
+
+@secao Responsório | Ct 2,13.14; Ap 12,1
+
+@responsorio
+R. Levanta-te, amada, formosa minha, vem a mim,
+* Vem e mostra-me teu rosto, faze ouvir a tua voz,
+porque doce é tua voz, e teu rosto é amável!
+V. Um sinal esplendoroso no céu apareceu:
+uma mulher de sol vestida, tendo a lua sob os pés
+e a cabeça coroada com coroa de doze estrelas.
+* Vem e mostra-me.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos destes a Santa Virgem Maria para amparar-nos como mãe solícita, concedei aos povos da América Latina, que hoje se alegram com sua proteção, crescer constantemente na fé e alcançar o desejado progresso no caminho da justiça e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

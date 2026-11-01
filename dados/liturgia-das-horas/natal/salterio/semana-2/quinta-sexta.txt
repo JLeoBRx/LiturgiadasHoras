@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quinta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@salmo salmos/salmo-118-65-72
+
+@gloria
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.

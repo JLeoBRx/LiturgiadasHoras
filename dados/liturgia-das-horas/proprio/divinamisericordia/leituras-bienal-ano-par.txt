@@ -1,0 +1,250 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/divinamisericordia_par.htm
+@documento Ofício das Leituras - Segundo Domingo Da Páscoa Ou Da Divina Misericórdia
+
+@celebracao
+SEGUNDO DOMINGO DA PÁSCOA ou da Divina Misericórdia
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+“Eu sou o que Sou”, o Senhor!
+Com os maus não está meu querer,
+é a lei de meu Deus meu prazer. Aleluia.
+
+@salmo salmos/salmo-001
+
+@gloria
+
+@antifona
+“Eu sou o que Sou”, o Senhor!
+Com os maus não está meu querer,
+é a lei de meu Deus meu prazer. Aleluia.
+
+@antifona 2
+Eu pedi ao meu Pai, e ele me deu
+por minha herança os povos todos e as nações.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Eu pedi ao meu Pai, e ele me deu
+por minha herança os povos todos e as nações.
+
+@antifona 3
+Eu me deito e adormeço bem tranquilo;
+acordo em paz, pois o Senhor é meu sustento. Aleluia.
+
+@salmo salmos/salmo-003
+
+@gloria
+
+@antifona
+Eu me deito e adormeço bem tranquilo;
+acordo em paz, pois o Senhor é meu sustento. Aleluia.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Colossenses {3,1-17}
+
+@tema
+Vida nova em Cristo
+
+@texto
+Irmãos, se ressuscitastes com Cristo, procurai as coisas do alto, onde Cristo está sentado à direita de Deus. Pensai nas coisas do alto, e não nas da terra, pois morrestes e a vossa vida está escondida com Cristo em Deus: quando Cristo, que é vossa vida, se manifestar, então vós também com ele sereis manifestados em glória.
+Mortificai, pois, vossos membros terrenos: fornicação, impureza, paixão, desejos maus, e a cupidez, que é idolatria. Essas coisas provocam a ira de Deus sobre os desobedientes. Assim também andastes vós quando vivíeis entre eles. Mas agora abandonai tudo isto: ira, exaltação, maldade, blasfêmia, conversa indecente. Não mintais uns aos outros. Vós vos desvestistes do homem velho com as suas práticas e vos revestistes do novo, que se renova para o conhecimento segundo a imagem do seu Criador. Aí não há mais grego e judeu, circunciso e incircunciso, bárbaro, cita, escravo, livre mas Cristo é tudo em todos.
+Portanto, como eleitos de Deus, santos e amados, revesti-vos de sentimentos de compaixão, de bondade, humildade, mansidão, longanimidade, suportando-vos uns aos outros, e perdoando-vos mutuamente, se alguém tem motivo de queixa contra o outro; como o Senhor vos perdoou, assim também fazei vós. Mas sobre tudo isso, revesti-vos da caridade, que é o vínculo da perfeição. E reine nos vossos corações a paz de Cristo, à qual fostes chamados em um só corpo. E sede agradecidos.
+A Palavra de Cristo habite em vós ricamente: com toda sabedoria ensinai e admoestai-vos uns aos outros e, em ação de graças a Deus, entoem vossos corações salmos, hinos e cânticos espirituais. E tudo o que fizerdes de palavra ou ação, fazei-o em nome do senhor Jesus, por ele dando graças a Deus, o Pai.
+
+@secao Responsório | Cl 3,14-15;1Pd 2,12
+
+@responsorio
+R. Revesti-vos, sobretudo, do amor,
+que une a todos na perfeição.
+* Reine em vossos corações a paz de Cristo,
+para a qual também fostes chamados em um só corpo, aleluia.
+V. Despojai-vos de toda maldade e,
+como criancinhas recém-nascidas,
+desejai o leite legítimo e
+puro que vos vai fazer crescer na salvação.* Reine em vossos.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia pascal de um Autor antigo
+{(Sermo in Pascha: PG 59,723-724)}
+
+@tema
+A Páscoa espiritual
+
+@texto
+A Páscoa que celebramos é causa de salvação para todo o gênero humano, a começar pelo primeiro homem, salvo e vivificado em cada um de nós.
+Mas a salvação foi preparada por diversas instituições, imperfeitas e provisórias, que eram símbolos e imagens das coisas perfeitas e eternas, para anunciarem em esboço a realidade que surge atualmente à plena luz da verdade. Contudo, uma vez que essa verdadeira realidade se tornou presente, a figura deixa de ter sentido. Quando chega o rei, ninguém irá homenagear sua estátua, deixando de lado a pessoa do próprio rei.
+Assim, vê-se claramente em que medida a figura é inferior à própria realidade, pois a figura representa a vida breve dos primogênitos dos judeus, ao passo que a realidade celebra a vida eterna de todos os homens. Não é grande coisa alguém livrar-se da morte por algum tempo, se pouco depois terá de morrer. O que é admirável é evitar a morte de uma vez para sempre, como aconteceu conosco por meio de Cristo, que foi imolado como nosso cordeiro pascal.
+O próprio nome da festa, se compreendermos seu verdadeiro significado, nos sugere sua peculiar excelência. Páscoa, com efeito, significa “passagem”, pois o anjo exterminador, que feria de morte os primogênitos dos egípcios, passava adiante, sem entrar nas casas dos hebreus. Todavia, em relação a nós, a passagem do exterminador é um fato, porque passou realmente sem nos tocar. A nós que, por Cristo, ressuscitamos para a vida eterna.
+E o que significa, em seu sentido místico, o fato de se determinar como início do ano, o tempo em que se celebrava a Páscoa e a salvação dos primogênitos? Significa que também para nós o sacrifício da verdadeira Páscoa constitui o começo da vida eterna.
+Na verdade, o ano é símbolo da eternidade. Sendo a sua órbita circular, o ano gira continuamente sobre ela sem nunca parar. Mas Cristo, pai do mundo novo, oferecendo-se por nós em sacrifício, como que anulou a nossa existência anterior, proporcionando-nos, pelo batismo do novo nascimento, o começo de uma outra vida, à semelhança de sua morte e ressurreição.
+Por conseguinte, todo aquele que sabe ter Cristo se imolado como cordeiro pascal em seu benefício, deve aceitar como início de sua vida o momento em que Cristo se imolou por ele. Ora, tal imolação atualiza-se em cada um, quando reconhece essa graça e compreende que vida foi gerada por esse sacrifício. Quem chegou a esse conhecimento, esforce-se por aceitar o começo da vida nova, sem pretender voltar à vida antiga que foi ultrapassada. De fato, _nós que_ _já morremos para o pecado,_ pergunta o Apóstolo, _como_ _vamos continuar vivendo nele?_ (Rm 6,2).
+
+@secao Responsório | 1Cor 5,7-8;Rm 4,25
+
+@responsorio
+R. Jogai fora o velho fermento,
+para que sejais uma massa nova.
+De fato, nosso cordeiro pascal, Cristo, foi imolado.
+* Assim, celebremos a festa no Senhor, aleluia.
+V. Foi entregue por causa de nossos pecados
+e ressuscitado para nossa justificação.* Assim, celebremos.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus de eterna misericórdia, que reacendeis a fé do vosso povo na renovação da festa pascal, aumentai a graça que nos destes. E fazei que compreendamos melhor o Batismo que nos lavou, o Espírito que nos deu vida nova, e o Sangue que nos remiu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

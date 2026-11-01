@@ -1,0 +1,224 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santarosa.htm
+@documento Ofício das Leituras - Santa Rosa De Lima, Virgem
+
+@celebracao
+SANTA ROSA DE LIMA, VIRGEM Padroeira da América Latina
+{Festa}
+
+@biografia
+Nasceu em Lima (Peru) no ano 1586; já durante o tempo que viveu em sua casa, dedicou-se de modo invulgar à prática das virtudes cristãs; mas quando tomou o hábito da Ordem Terceira de São Domingos, fez os maiores progressos no caminho da penitência e da contemplação mística. Morreu no dia 24 de agosto de 1617.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó anjos do céu,
+cantai esta Rosa,
+brotada na terra,
+tão bela e formosa!
+
+Foi ela que a América
+ao céu ofertou,
+mas que a todo o mundo
+de amor perfumou.
+
+Aos mudos e cegos
+dá voz e visão,
+e a todos socorre
+com sua oração.
+
+Com Rosa a Trindade,
+na terra, louvemos;
+com ela no céu,
+um dia cantemos.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Não procures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eu digo, irmãos: o tempo está abreviado. Então, que, doravante, os que têm mulher vivam como se não tivessem mulher; [30] e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisa alguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, a mulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que as coisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, ao contrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolve respeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não se casa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livre de casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim, conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos de Santa Rosa de Lima, virgem
+{(Séc. XVII)} {(Ad medicum Castillo: edit. L. Getino, La Patrona de América, Madrid 1928, pp. 54-55)}
+
+@tema
+Conheçamos a supereminente caridade da ciência de Cristo
+
+@texto
+O Senhor Salvador levantou a voz e com incomparável majestade disse: “Saibam todos que depois da tribulação se seguirá a graça; reconheçam que sem o peso das aflições não se pode chegar ao cimo da graça; entendam que a medida dos carismas aumenta em proporção da intensificação dos trabalhos. Acautelem-se os homens contra o erro e o engano; é esta a única verdadeira escada do paraíso e sem a cruz não há caminho que leve ao céu”. Ouvindo estas palavras, penetrou-me um forte ímpeto como de me colocar no meio da praça e bradar a todos, de qualquer idade, sexo e condição: “Ouvi, povos; ouvi, gentes. A mandado de Cristo, repetindo as palavras saídas de seus lábios, quero vos exortar: Não podemos obter a graça, se não sofrermos aflições; cumpre acumular trabalhos sobre trabalhos, para alcançar a íntima participação da natureza divina, a glória dos filhos de Deus e a perfeita felicidade da alma”. O mesmo aguilhão me impelia a publicar a beleza da graça divina; isto me oprimia de angústia e me fazia transpirar e ansiar. Parecia-me não poder mais conter a alma na prisão do corpo, sem que, quebradas as cadeias, livre, só e com a maior agilidade fosse pelo mundo, dizendo: “Quem dera que os mortais conhecessem o valor da graça divina, como é bela, nobre, preciosa; quantas riquezas esconde em si, quantos tesouros, quanto júbilo e delícia! Sem dúvida, então, eles empregariam todo o empenho e cuidado para encontrar penas e aflições! Iriam todos pela terra a procurar, em vez de fortunas, os embaraços, moléstias e tormentos, a fim de possuir o inestimável tesouro da graça. É esta a compra e o lucro final da paciência. Ninguém se queixaria da cruz nem dos sofrimentos que lhe adviriam talvez, se conhecessem a balança, onde são pesados para serem distribuídos aos homens”.
+
+@secao Responsório | 1Cor 1,27a.28b-29; Sl 137(138),6
+
+@responsorio
+R. Deus escolheu o que é loucura para o mundo, a fim de confundir os que são sábios;
+Deus escolheu aquelas coisas que não são,
+a fim de destruir todas que são.
+* Assim ninguém se vanglorie diante dele.
+V. Altíssimo é o Senhor, mas olha os pobres
+e de longe reconhece os orgulhosos. * Assim ninguém.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que inspirastes Santa Rosa de Lima, inflamada de amor, a deixar o mundo, a servir os pobres e a viver em austera penitência, concedei-nos, por sua intercessão, seguir na terra os vossos caminhos e gozar no céu as vossas delícias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

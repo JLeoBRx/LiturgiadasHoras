@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4sextaquaresma_sexta.htm
+@documento Hora Média - Sexta - Sexta-feira da 4ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@salmo salmos/salmo-118-161-168-xxi-sin
+
+@gloria
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@secao Leitura breve | Cf. Jr 3,12b-14a
+
+@texto
+Voltai, é o Senhor que chama, não desviarei de vós minha face, porque eu sou misericordioso, não estarei irado para sempre. Convertei-vos, filhos, que vos tendes afastado de mim, diz o Senhor.
+
+@texto
+V. Desviai o vosso olhar dos meus pecados.
+R. E apagai todas as minhas transgressões!
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes para a nossa fraqueza os auxílios necessários à nossa renovação, dai-nos recebê-los com alegria e vê-los frutificar em nossa vida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

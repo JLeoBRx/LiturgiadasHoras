@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSRosario_laudes.htm
+@documento Laudes - Bem-aventurada Virgem Maria do Rosário
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Na terra recordamos
+teu gozo e tua dor,
+ó Mãe, que contemplamos
+em glória e resplendor.
+
+Ave, quando concebes,
+visitas, dás à luz,
+e levas e recebes
+no templo o teu Jesus.
+
+Ave, pela agonia,
+flagelo, espinho e cruz:
+a dor da profecia
+à glória te conduz.
+
+Ave, sobe o teu Filho,
+o Espírito nos vem;
+deixando o nosso exílio,
+ao céu sobes também.
+
+Cento e cinquenta rosas,
+nações, vinde colher;
+coroas luminosas
+à Virgem Mãe tecer.
+
+Louvor ao Pai e ao Filho
+e ao Espírito também;
+dos três, divino auxílio
+ao nosso encontro vem.
+
+@secao Salmodia
+
+@antifona 1
+De Maria nasceu Jesus,
+que é chamado também o Cristo.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+De Maria nasceu Jesus,
+que é chamado também o Cristo.
+
+@antifona 2
+Ó Mãe, junto convosco bendizemos o Senhor,
+que ao morrer vos confiou a nós todos como filhos.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Ó Mãe, junto convosco bendizemos o Senhor,
+que ao morrer vos confiou a nós todos como filhos.
+
+@antifona 3
+Sobre os anjos se eleva a Virgem Maria,
+no céu coroada com doze estrelas.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Sobre os anjos se eleva a Virgem Maria,
+no céu coroada com doze estrelas.
+
+@secao Leitura breve | Cf. Is 61,10
+
+@texto
+Exulto de alegria no Senhor e minh’alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me qual noiva com suas joias.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres, e bendito é o fruto do teu ventre. * O Senhor.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Mãe feliz, Virgem pura e intacta,
+gloriosa Rainha do mundo
+celebrando a cantar vossa festa,
+todos nós vosso auxílio sintamos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Mãe feliz, Virgem pura e intacta,
+gloriosa Rainha do mundo
+celebrando a cantar vossa festa,
+todos nós vosso auxílio sintamos.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Derramai, ó Deus, a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do Cristo vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3sexta_laudes.htm
+@documento Laudes - III Sexta-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Aquele que reina há de vir de Sião.
+É grande o seu nome: Senhor, Deus-conosco.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Aquele que reina há de vir de Sião.
+É grande o seu nome: Senhor, Deus-conosco.
+
+@antifona 2
+Sede firmes na esperança,
+e vereis vir sobre vós o auxílio do Senhor.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@antifona
+Sede firmes na esperança,
+e vereis vir sobre vós o auxílio do Senhor.
+
+@antifona 3
+Eu volto os olhos ao Senhor
+e aguardo a Deus meu Salvador.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+Eu volto os olhos ao Senhor
+e aguardo a Deus meu Salvador.

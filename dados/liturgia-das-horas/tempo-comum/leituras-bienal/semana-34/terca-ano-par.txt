@@ -1,0 +1,62 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/34tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Daniel {6,4-27}
+
+@tema
+Daniel na cova dos leões
+
+@texto
+[4] Ora, Daniel distinguia-se tanto entre os ministros e os sátrapas, porque nele havia um espírito extraordinário, que o rei se propôs colocá-lo à frente de todo o reino. [5] Então os ministros e os sátrapas se puseram a procurar um motivo de acusação contra Daniel nos negócios do Estado. Mas não puderam encontrar motivo ou falta alguma, porque ele era fiel e nada de faltoso ou repreensível se encontrava nele. [6] Foi quando esses homens começaram a dizer: “Não encontraremos nenhuma falta contra Daniel, a não ser nalguma coisa referente à Lei do seu Deus”. [7] Ministros e sátrapas dirigiram-se então em grupo à presença do rei e assim lhe falaram: “Ó rei Dario, vive para sempre! [8] Os ministros do reino e os magistrados, sátrapas, conselheiros e governadores, reuniram-se em conselho para estabelecer um decreto real e dar força de lei ao interdito seguinte: Todo aquele que, no decurso de trinta dias, dirigir uma prece a quem quer que seja, deus ou homem, exceto a ti, ó rei, seja lançado na cova dos leões. [9] Agora, pois, ó rei, dá força de lei ao interdito assinando o documento, de sorte que nada se mude no seu teor, de acordo com a lei dos medos e dos persas, a qual não pode ser alterada”. [10] Diante disso, o rei Dario assinou o documento com o interdito. [11] Ao saber que o documento havia sido assinado, Daniel subiu para sua casa. As janelas do seu aposento superior estavam orientadas para Jerusalém, e três vezes por dia ele se punha de joelhos, orando e confessando o seu Deus: justamente como havia feito até então. [12] E aqueles homens, acorrendo apressadamente, encontram Daniel orando e suplicando a seu Deus. [13] Então, introduzindo-se na presença do rei, recordaram-lhe o interdito real: “Porventura não assinaste o interdito segundo o qual todo aquele que, no decurso de trinta dias, dirigisse uma prece a quem quer que seja, deus ou homem, exceto a ti, ó rei, seria lançado na cova dos leões?” Respondeu o rei: “A questão está decidida segundo a lei dos medos e dos persas, a qual não pode ser revogada”. [14] A essas palavras eles retrucaram, dizendo ao rei: “Este Daniel, um dos deportados de Judá, não tem consideração por ti, ó rei, nem pelo interdito que promulgaste: três vezes por dia continua a fazer a sua oração”. [15] Então o rei, ao ouvir essa informação, ficou muito contristado consigo mesmo e decidiu, no seu coração, salvar Daniel. De fato, até o pôr do sol esforçou-se por livrá-lo. [16] Mas aqueles homens reuniram-se em tumulto junto ao rei e disseram-lhe: “Lembra-te ó rei, que a lei dos medos e dos persas determina que nenhum decreto ou interdito, promulgado pelo rei, pode ser revogado”. [17] Então o rei deu ordem de trazerem Daniel e de o lançarem na cova dos leões. Disse, porém, o rei a Daniel: “Teu Deus, a quem serviste com perseverança, ele te salvará”. [18] Trouxeram uma pedra que foi colocada à entrada da cova, e o rei lhe apôs o seu sinete e o dos seus dignitários. Desse modo, nada poderia ser modificado a respeito de Daniel. [19] O rei voltou para o seu palácio, onde passou a noite sem comer. Também não quis que lhe trouxessem as concubinas, e o sono o deixou. [20] De madrugada ao raiar da aurora, o rei levantou-se e dirigiu-se ansiosamente à cova dos leões. [21] Aproximando-se da cova, gritou a Daniel com voz angustiada: Daniel, servo do Deus vivo, o teu Deus, a quem serves com tanta constância, foi capaz de te livrar dos leões?” [22] Daniel respondeu ao rei: Ó rei, vive para sempre! Meu Deus enviou-me seu anjo e fechou a boca dos leões, de tal modo que não me fizeram mal. Pois eu fui considerado inocente diante dele, e também diante de ti, ó rei, não fiz mal algum”. [24] Então o rei sentiu uma grande alegria por sua causa e ordenou que retirassem Daniel da cova. E Daniel foi retirado da cova, nele não se encontrando ferimento algum, porque tivera fé em seu Deus. [25] O rei mandou então trazer os homens que tinham caluniado Daniel e os fez precipitar na cova dos leões: eles, seus filhos e suas mulheres. E antes mesmo que tocassem o fundo da cova, os leões já se tinham apoderado deles, esmagando-lhes os ossos. [26] E o rei Dario escreveu a todos os povos, nações e línguas que habitam sobre a terra: “Que a vossa paz se multiplique! [27] Eis o decreto que eu promulgo: Em todo o domínio do meu reino, todos devem tremer e temer diante do Deus de Daniel: Ele é o Deus vivo, que permanece para sempre - seu reino não será jamais destruído e seu império nunca terá fim -.
+
+@secao Responsório | Cf. Sb 10,12.11
+
+@responsorio
+R. Guardou-o de seus inimigos,
+deu-lhe um prêmio numa áspera batalha,
+* Para ensinar-lhe que a piedade é mais forte do que tudo.
+V. Assistiu-o contra opressores cobiçosos e o enriqueceu.
+* Para ensinar-lhe.
+
+@secao Segunda leitura
+
+@leitura
+Da “Homilia” de um Autor do século segundo
+{(Cap. 13,2-14,5: Funk 1,159-163)}
+
+@tema
+A Igreja viva é o corpo de Cristo
+
+@texto
+O Senhor declara: _Meu nome é incessantemente objeto_ _de blasfêmia entre as nações_ (Is 52,5), e outra vez: _Ai daquele por cuja causa meu nome é blasfemado_ (cf. Rm 2,24). Qual o motivo de ser blasfemado? Porque não fazemos o que dizemos. Os homens ouvem de nossa boca as palavras de Deus, e ficam admirados por seu valor e grandeza; depois, vendo que nossas obras em nada correspondem às palavras que dizemos, começam a blasfemar, e a tachá-las de fábulas e de enganos.
+Ouvem-nos afirmar que Deus disse: Não é nada de extraordinário, se amais aqueles que vos amam; mas grande graça, se amais vossos inimigos e aqueles que vos odeiam (cf. Mt 5,46); ouvindo isso, espantam-se com bondade tão sublime: observando, porém, que não amamos os que nos odeiam e nem mesmo aqueles que nos amam, zombam de nós e o nome de Deus é blasfemado.
+Por conseguinte, irmãos, cumprindo a vontade de Deus, nosso Pai, faremos parte daquela primeira Igreja espiritual, criada antes do sol e da lua. Se, ao contrário, não fizermos a vontade de Deus, seremos como diz a Escritura: _Minha casa_ _tornou-se covil de ladrões_ (cf. 7,11; Mt 21,13). Que nossa preferência vá para a Igreja da vida, para sermos salvos.
+Julgo que estais bem cientes de que a Igreja viva é o corpo de Cristo (cf. 1Cor 12,27). Pois diz a Escritura: _Deus fez o ser humano varão e mulher_ (Gn 1,27; 5,2); o varão é o Cristo, a mulher a Igreja. Também a Bíblia e os apóstolos afirmam que a Igreja, propriamente, não é deste tempo, mas existe desde o princípio. Era espiritual, assim como nosso Jesus, e apareceu nos últimos dias, a fim de que fôssemos salvos.
+A Igreja, a espiritual, manifestou-se na carne de Cristo, mostrando-nos que se alguém, estando na carne, a preserva e não a arruína, recebê-la-á no Espírito Santo. Pois esta carne é tipo do espírito; quem destrói o tipo não recebe o arquétipo. Por isto disse, irmãos: Guardai a carne para serdes participantes do espírito. Se dizemos que a carne é a Igreja, e Cristo, espírito, segue-se que quem deturpa a carne, deturpa a Igreja. Este não será participante do Espírito, que é Cristo. Esta carne é capaz de conter imensa vida e incorruptibilidade, com o auxílio do Espírito Santo, e ninguém pode descrever nem contar aquilo que o Senhor preparou para seus eleitos.
+
+@secao Responsório | Cf. Jr 7,3; Tg 4,8
+
+@responsorio
+R. Assim fala o Onipotente, o Senhor, Deus de Israel:
+Retificai vossos caminhos e as vossas intenções
+* E convosco eu irei morar neste lugar.
+V. Achegai-vos ao Senhor e ele a vós se achegará;
+ó vós todos, pecadores, lavai as vossas mãos,
+purificai o coração!
+* E convosco.
+
+@secao Oração
+
+@oracao
+Levantai, ó Deus, o ânimo dos vossos filhos e filhas, para que, aproveitando melhor as vossas graças, obtenham de vossa paternal bondade mais poderosos auxílios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

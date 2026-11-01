@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/3quarta_quaresma.htm
+@documento Ofício das Leituras - 3ª Semana Da Quaresma - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O amor e a verdade vão andando à vossa frente.
+
+@salmo salmos/salmo-088-2-38-i-v2
+
+@gloria
+
+@antifona
+O amor e a verdade vão andando à vossa frente.
+
+@antifona 2
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@salmo salmos/salmo-088-2-38-ii
+
+@gloria
+
+@antifona
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@antifona 3
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.
+
+@salmo salmos/salmo-088-2-38-iii
+
+@gloria
+
+@antifona
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.
+
+@texto
+V. Convertei-vos e mudai a vossa vida.
+R. Renovai-vos de espírito e coração!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {33,7-11.18-23; 34,5-9.29-35}
+
+@tema
+O Senhor revela a Moisés a sua glória
+
+@texto
+Naqueles dias, [3,7] Moisés levantou a tenda e armou-a longe, fora do acampamento, e deu-lhe o nome de Tenda da Reunião. Assim, todo aquele que quisesse consultar o Senhor, saía para a Tenda da Reunião, que estava fora do acampamento. [8] Quando Moisés se dirigia para lá, o povo se levantava e ficava de pé à entrada da própria tenda, seguindo Moisés com os olhos até ele entrar. [9] Logo que Moisés entrava na Tenda, a coluna de nuvem baixava e ficava parada à entrada, enquanto o Senhor falava com Moisés. [10] Ao ver a coluna de nuvem parada à entrada da Tenda, todo o povo se levantava e cada um se prostrava à entrada da própria tenda. [11] O Senhor falava com Moisés face a face, como um homem fala com seu amigo. Depois, Moisés voltava para o acampamento, mas o seu jovem ajudante, Josué, filho de Nun, não se afastava do interior da Tenda. [18] Moisés disse ao Senhor: “Mostra-me a tua glória”. [19] E o Senhor respondeu: “Eu te mostrarei todo o bem, e proclamarei diante de ti o nome ‘Senhor’; usarei de misericórdia com quem eu quiser, e serei clemente com aquele de quem me agradar”. [20] E acrescentou: “Não poderás ver a minha face, porque o homem não pode ver-me e viver”. [21] E o Senhor disse: “Eis um lugar perto de mim; tu ficarás sobre o rochedo. [22] Quando a minha glória passar, eu te porei numa fenda da rocha, e te cobrirei com a minha direita, enquanto eu estiver passando. [23] Depois, tirarei a minha mão, e me verás pelas costas; mas a minha face não a poderás ver”. [34,5] O Senhor desceu na nuvem e permaneceu com Moisés, e este invocou o nome do Senhor. [6] O Senhor passou diante de Moisés, proclamando: “O Senhor, o Senhor, Deus misericordioso e clemente, paciente, rico em bondade e fiel, [7] que conserva misericórdia por mil gerações, e perdoa culpas, rebeldias e pecados, mas não deixa nada impune, pois castiga a culpa dos pais nos filhos e netos, até à terceira e quarta geração”! [8] Imediatamente, Moisés curvou-se até o chão [9] e, prostrado por terra, disse: “Senhor, se é verdade que gozo de teu favor, peço-te, caminha conosco; embora este seja um povo de cabeça dura, perdoa nossas culpas e nossos pecados e acolhe-nos como propriedade tua”. [29] Quando Moisés desceu da montanha do Sinai, trazendo nas mãos as duas tábuas da aliança, não sabia que a pele do seu rosto resplandecia por ter falado com o Senhor. [30] Aarão e os filhos de Israel, vendo o rosto de Moisés resplandecente, tiveram medo de se aproximar. [31] Então Moisés os chamou, e tanto Aarão como os chefes da comunidade foram para junto dele. E, depois que lhes falou, [32] todos os filhos de Israel também se aproximaram dele, e Moisés transmitiu-lhes todas as ordens que tinha recebido do Senhor no monte Sinai. [33] Quando Moisés acabou de lhes falar, cobriu o rosto com um véu. [34] Todas as vezes que Moisés se apresentava ao Senhor, para falar com ele, retirava o véu, até a hora de sair; depois saía e dizia aos filhos de Israel tudo o que lhe tinha sido ordenado. [35] E eles viam a pele do rosto de Moisés resplandecer; mas ele voltava a cobrir o rosto com o véu, até o momento em que entrava para falar com o Senhor.
+
+@secao Responsório | Cf. 2Cor 3,13.18.15
+
+@responsorio
+R. Moisés cobria a face com um véu
+para que os filhos de Israel não percebessem o fim daquele brilho transitório.
+* Mas nós todos, refletindo como espelho a glória do Senhor sem nenhum véu, em sua imagem nós seremos transformados numa glória sempre mais resplandecente pela força do Senhor que é Espírito.
+V. E eles continuam até hoje com um véu a encobrir seus corações. * Mas nós todos.
+
+@secao Segunda leitura
+
+@leitura
+Do Livro a Autólico, de São Teófilo de Antioquia, bispo
+{(Séc.II)} {(Lib. 1,2.7:PG6,1026-1027.1035)}
+
+@tema
+Bem-aventurados os puros de coração, porque verão a Deus
+
+@texto
+Se me disserem: “Mostra-me o teu Deus”, dir-te-ei: “Mostra-me o homem que és e eu te mostrarei o meu Deus”. Mostra, portanto, como veem os olhos de tua mente e como ouvem os ouvidos de teu coração. Os que veem com os olhos do corpo, percebem o que se passa nesta vida terrena, e observam as diferenças entre a luz e as trevas, o branco e o preto, o feio e o belo, o disforme e o formoso, o que tem proporções e o que é sem medida, o que tem partes a mais e o que é incompleto; o mesmo se pode dizer no que se refere ao sentido do ouvido: sons agudos, graves ou harmoniosos. Assim também acontece com os ouvidos do coração e com os olhos da alma, no que diz respeito à visão de Deus. Na verdade, Deus é visível para aqueles que são capazes de vê-lo, porque mantêm abertos os olhos da alma. Todos têm olhos, mas alguns os têm obscurecidos e não veem a luz do sol. E se os cegos não veem, não é porque a luz do sol deixou de brilhar; a si mesmos e a seus olhos é que devem atribuir a falta de visão. É o que ocorre contigo: tens os olhos da alma velados pelos teus pecados e tuas más ações. O homem deve ter a alma pura, qual um espelho reluzente. Quando o espelho está embaçado, o homem não pode ver nele o seu rosto; assim também, quando há pecado no homem, não lhe é possível ver a Deus. Mas, se quiseres, podes ficar curado. Confia-te ao médico e ele abrirá os olhos de tua alma e de teu coração. Quem é este médico? É Deus, que pelo seu Verbo e Sabedoria dá vida e saúde a todas as coisas. Foi por seu Verbo e Sabedoria que Deus criou o universo: _A Palavra do Senhor criou os céus, e o sopro de seus lábios, as estrelas_ (Sl 32,6). Sua Sabedoria é infinita. Com a sua Sabedoria, Deus fundou a terra; com a sua inteligência consolidou os céus; com sua ciência foram cavados os abismos e as nuvens derramaram o orvalho. Se compreenderes tudo isto, ó homem, se a tua vida for santa, pura e justa, poderás ver a Deus. Se deres preferência em teu coração à fé e ao temor de Deus, então compreenderás. Quando te libertares da condição mortal e te revestires da imortalidade, então serás digno de ver a Deus. Sim, Deus ressuscitará o teu corpo, tornando-o imortal como a tua alma; e então, feito imortal, tu verás o que é Imortal, se agora acreditares nele.
+
+@secao Responsório | Cf. 2Cor 6,2.4.5.7
+
+@responsorio
+R. Eis o tempo de conversão, eis o dia da salvação:
+Recomendemo-nos em tudo quais ministros do Senhor: na muita paciência, na opressão e privação.
+* Pelas armas da justiça, no poder do Senhor Deus.
+V. Recomendemo-nos em tudo quais ministros do Senhor, na muita paciência, na opressão e privação. * Pelas armas.
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, concedei que, formados pela observância da Quaresma e nutridos por vossa palavra, saibamos mortificar-nos para vos servir com fervor, sempre unânimes na oração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1sabadopascoa_sexta.htm
+@documento Hora Média - Sexta - Sábado da 1ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Pelos nossos pecados se entregou
+e ressurgiu para nos justificar. Aleluia.
+
+@salmo salmos/salmo-118-33-40-v-he-v2
+
+@gloria
+
+@salmo salmos/salmo-095-i
+
+@gloria
+
+@salmo salmos/salmo-095-ii
+
+@gloria
+
+@antifona
+Pelos nossos pecados se entregou
+e ressurgiu para nos justificar. Aleluia.
+
+@secao Leitura breve | 1Cor 15,20-22
+
+@texto
+Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela riqueza da vossa graça multiplicais os povos que creem em vós, contemplai solícito aqueles que escolhestes e dai aos que renasceram pelo batismo a veste da imortalidade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

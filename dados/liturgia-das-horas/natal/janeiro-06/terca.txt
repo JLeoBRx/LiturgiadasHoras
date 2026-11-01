@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/6janeiro_terca.htm
+@documento 6janeiro_terca.htm
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, sede a luz dos vossos fiéis e abrasai seus corações com o esplendor da vossa glória, para reconhecerem sempre o Salvador e a ele aderirem totalmente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

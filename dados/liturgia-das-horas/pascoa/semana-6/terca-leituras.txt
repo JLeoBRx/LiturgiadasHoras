@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/6tercaPascoa.htm
+@documento Ofício das Leituras - 6ª Semana Da Páscoa - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá. Aleluia.
+
+@salmo salmos/salmo-036-i
+
+@gloria
+
+@antifona
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá. Aleluia.
+
+@antifona 2
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor. Aleluia.
+
+@salmo salmos/salmo-036-ii-v2
+
+@gloria
+
+@antifona
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor. Aleluia.
+
+@antifona 3
+Confia em Deus e segue sempre seus caminhos! Aleluia.
+
+@salmo salmos/salmo-036-iii
+
+@gloria
+
+@antifona
+Confia em Deus e segue sempre seus caminhos! Aleluia.
+
+@texto
+V. Ressurgindo dentre os mortos,
+Jesus Cristo já não morre. Aleluia.
+R. E a morte não tem mais
+nenhum domínio sobre ele. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {2,12-17}
+
+@tema
+O cumprimento da vontade de Deus
+
+@texto
+[12] Eu vos escrevo, filhinhos: os vossos pecados foram perdoados por meio do seu nome. [13] Eu vos escrevo, pais: vós conheceis aquele que é desde o princípio. Eu vos escrevo, jovens: vós vencestes o Maligno. [14] Já vos escrevi, filhinhos: vós conheceis o Pai. Já vos escrevi, jovens: vós sois fortes, a Palavra de Deus permanece em vós, e vencestes o Maligno. [15] Não ameis o mundo, nem o que há no mundo. Se alguém ama o mundo, não está nele o amor do Pai. [16] Porque tudo o que há no mundo – as paixões da natureza, a concupiscência dos olhos e a ostentação da riqueza – não vem do Pai, mas do mundo. [17] Ora, o mundo passa, e também a sua concupiscência; mas aquele que faz a vontade de Deus permanece para sempre.
+
+@secao Responsório | 1Jo 2,17.15b
+
+@responsorio
+R. O mundo passa e, também, seus desejos;
+* Mas os que fazem a vontade de Deus,
+viverão para sempre, aleluia.
+V. Quem ama o mundo não possui o amor do Pai.
+* Mas os que fazem.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de João, de São Cirilo de Alexandria, bispo
+{(Séc.V)} {(Lib. 11,11: PG 74,559-562)}
+
+@tema
+Cristo é o vínculo da unidade
+
+@texto
+Cada vez que participamos do corpo sagrado de Cristo, unimo-nos a ele corporalmente, como afirma São Paulo ao falar do mistério do amor misericordioso de Deus_: Este mistério, Deus não o fez conhecer aos homens das gerações passadas mas acaba de o revelar agora, pelo Espírito, aos seus santos apóstolos e profetas: os pagãos são admitidos à mesma herança, são membros do corpo, são associados à mesma promessa em Jesus Cristo_ (Ef 3,5-6). Ora, se todos nós formamos um só corpo em Cristo, não apenas uns com os outros, mas também com aquele que habita em nós pela sua carne, por que não vivemos plenamente esta união existente entre nós e com Cristo? Com efeito, Cristo é o vínculo da unidade, por ser ao mesmo tempo Deus e homem. Seguindo o mesmo caminho, podemos falar da nossa união espiritual, afirmando que todos nós, ao recebermos o único e mesmo Espírito Santo, nos unimos uns com os outros e com Deus. Embora estejamos separados, somos muitos e, em cada um de nós, Cristo faz habitar o Espírito do Pai que é também o seu. Todavia, o Espírito é um só e indivisível e, com a sua presença e ação, reúne os que individualmente são distintos uns dos outros, fazendo com que em si mesmo todos sejam um só. Assim como a virtude do corpo sagrado de Cristo transforma num só corpo os que dele participam, parece-me que o único e indivisível Espírito de Deus, habitando em cada um, vincula a todos numa unidade espiritual. Por isso, novamente São Paulo se dirige a nós: _Suportai-vos uns aos outros com paciência, no amor. Aplicai-vos em guardar a unidade do espírito pelo vínculo da paz. Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. Há uma só fé, um só Senhor, um só batismo, um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos_ (Ef 4,2-6). Se efetivamente é um só Espírito que habita em nós, também o único Deus e Pai de todos estará em nós por seu Filho, unindo entre si e consigo todos os que participam do mesmo Espírito. Desde agora, torna-se evidente que, de alguma maneira, estamos unidos ao Espírito Santo por participação. De fato, se de uma vez por todas abandonamos a vida puramente natural e obedecemos às leis do espírito, é claro que, deixando de lado a nossa vida anterior e unindo-nos ao Espírito Santo, adquirimos uma configuração espiritual e, até certo ponto, transformamos em outra a nossa natureza. Assim já não somos simplesmente homens, mas filhos de Deus e habitantes do céu, pelo fato de nos termos tornado participantes da natureza divina. Todos, portanto, somos um só no Pai, no Filho e no Espírito Santo. Um só, repito, pela identidade de condição, um só pela união da caridade, pela comunhão do corpo sagrado de Cristo e pela participação do único Espírito Santo.
+
+@secao Responsório | Cf. 1Cor 10,17; Sl 67(68),11b.7a
+
+@responsorio
+R. Já que existe um pão somente,
+apesar de sermos muitos, nós formamos um só corpo:
+* Pois todos nós participamos
+de um só pão e de um só cálice. Aleluia.
+V. Com carinho, preparastes essa terra para o pobre;
+é o Senhor quem dá abrigo, dá um lar aos deserdados.
+* Pois todos nós.
+
+@secao Oração
+
+@oracao
+Ó Deus, que o vosso povo sempre exulte, pela sua renovação espiritual. Alegrando-nos hoje porque adotados de novo como filhos de Deus, esperemos confiantes e alegres o dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

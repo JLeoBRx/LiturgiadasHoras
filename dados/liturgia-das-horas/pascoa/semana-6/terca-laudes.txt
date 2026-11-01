@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6tercapascoa_laudes.htm
+@documento Laudes - Terça-feira da 6ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aproximemo-nos do Monte de Sião
+e da Cidade do Deus Vivo, aleluia.
+
+@salmo salmos/salmo-042
+
+@gloria
+
+@antifona
+Aproximemo-nos do Monte de Sião
+e da Cidade do Deus Vivo, aleluia.
+
+@antifona 2
+Vós livrastes, ó Senhor, minha vida do sepulcro, Aleluia.
+
+@salmo canticos/is-38-10-14-17-20
+
+@gloria
+
+@antifona
+Vós livrastes, ó Senhor, minha vida do sepulcro, Aleluia.
+
+@antifona 3
+Visitais a nossa terra e transborda de fartura. Aleluia.
+
+@salmo salmos/salmo-064
+
+@gloria
+
+@antifona
+Visitais a nossa terra e transborda de fartura. Aleluia.
+
+@secao Leitura breve | At 13, 30-33
+
+@texto
+Deus ressuscitou Jesus dos mortos e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galiléia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: Tu és o meu filho, eu hoje te gerei.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ainda um pouco e já o mundo não me vê;
+vós, porém, haveis de ver-me, pois eu vivo
+e igualmente vivereis, aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ainda um pouco e já o mundo não me vê;
+vós, porém, haveis de ver-me, pois eu vivo
+e igualmente vivereis, aleluia.
+
+@secao Preces
+
+@preces
+Demos graças a Deus, Pai de nosso Senhor Jesus Cristo, o Cordeiro sem mancha, que tira o pecado do mundo; e rezemos confiantes:
+
+R. **Senhor, fonte da vida, dai-nos a vossa salvação!**
+
+Deus, fonte da vida, lembrai-vos da morte e ressurreição do Cordeiro imolado na cruz,
+– e ouvi as súplicas que ele vos dirige continuamente em nosso favor. R.
+
+Purificai-nos, Senhor, de todo fermento de malícia e perversidade,
+– para vivermos a páscoa de Cristo com os pães ázimos da sinceridade e da verdade. R.
+
+Ajudai-nos a vencer neste dia o pecado da discórdia e da inveja,
+– e tornai-nos mais atentos às necessidades dos nossos irmãos e irmãs. R.
+
+Dai à nossa vida um autêntico espírito evangélico,
+– para andarmos, hoje e sempre, pelo caminho dos vossos mandamentos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que o vosso povo sempre exulte, pela sua renovação espiritual. Alegrando-nos hoje porque adotados de novo como filhos de Deus, esperemos confiantes e alegres o dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

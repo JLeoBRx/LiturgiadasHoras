@@ -1,0 +1,37 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/precesbreves_domingo.htm
+@documento hinosemlatim
+
+@texto
+**FÓRMULAS MAIS BREVES**
+**PARA AS PRECES NAS VÉSPERAS**
+
+{Estas preces mais breves podem ser usadas em lugar daquelas indicadas. Se oportuno, pode citar-se o nome da(s) pessoa(s) por quem se quer rezar.}
+
+@texto
+**Domingo**
+
+Rezemos a Deus, que cuida de todas as suas criaturas, e digamos com sincera humildade:
+
+R. **Senhor, tende piedade do vosso povo!**
+
+Guardai a Igreja.
+
+Protegei nosso Papa {N.}
+
+Sede o apoio de nosso Bispo {N.}
+
+Salvai vosso povo.
+
+Defendei a paz.
+
+Esclarecei aqueles que não têm fé.
+
+Dirigi os governantes dos povos.
+
+Socorrei os pobres.
+
+Consolai os atribulados.
+
+Apiedai-vos dos órfãos.
+
+Acolhei com bondade os falecidos.

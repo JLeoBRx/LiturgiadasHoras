@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@antifona
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@antifona 2
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@salmo salmos/salmo-031
+
+@gloria
+
+@antifona
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino a glória e o poder;
+as nações hão de servi-lo.

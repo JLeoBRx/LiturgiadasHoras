@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomatias_vesperas.htm
+@documento Vésperas - São Matias, Apóstolo
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Aos Onze entristecia
+do seu Senhor a sorte,
+por ímpios condenado
+a dura, acerba morte.
+
+Àquelas que o buscavam
+prediz o anjo de neve:
+"na Galiléia o Cristo
+vos saudará em breve".
+
+Mas, quando ansiosas correm,
+levando aos Onze a nova,
+o Cristo aparecendo,
+viver de novo prova.
+
+Os Onze tomam logo
+da Galiléia a estrada;
+contemplam do Senhor
+a face desejada.
+
+Jesus, nós vos pedimos
+sejais nossa alegria.
+A morte morre em nós,
+a vida principia.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós ficastes a meu lado quando veio a provação. Aleluia.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Vós ficastes a meu lado quando veio a provação. Aleluia.
+
+@antifona 2
+Eu estou em vosso meio como aquele que vos serve. Aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Eu estou em vosso meio como aquele que vos serve. Aleluia.
+
+@antifona 3
+Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+pois vos dei a conhecer
+o que o Pai me revelou. Aleluia.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+pois vos dei a conhecer
+o que o Pai me revelou. Aleluia.
+
+@secao Leitura breve | Ef 4,11-13
+
+@texto
+Cristo instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude.
+
+@secao Responsório breve
+
+@responsorio
+R. Anunciai entre as nações a glória do Senhor.
+* Aleluia, aleluia. R. Anunciai.
+V. E as suas maravilhas entre os povos do universo. * Aleluia.
+Glória ao Pai. R. Anunciai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Não fostes vós que me escolhestes, mas sim eu vos escolhi
+e vos dei esta missão de produzirdes muito fruto,
+e o vosso fruto permaneça. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Não fostes vós que me escolhestes, mas sim eu vos escolhi
+e vos dei esta missão de produzirdes muito fruto,
+e o vosso fruto permaneça. Aleluia.
+
+@secao Preces
+
+@preces
+Irmãos, edificados sobre o fundamento dos apóstolos, roguemos a Deus Pai todo-poderoso em favor de seu povo santo; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Vós quisestes, ó Pai, que o vosso Filho, ressuscitado dos mortos, aparecesse em primeiro lugar aos apóstolos;
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que associastes São Matias ao colégio apostólico, concedei por sua intercessão, que, fruindo da alegria de vosso amor, mereçamos ser contados entre os eleitos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

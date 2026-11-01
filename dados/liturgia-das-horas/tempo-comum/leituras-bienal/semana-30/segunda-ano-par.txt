@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/30segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {1,16-2,1a.10-24}
+
+@tema
+As maquinações dos ímpios contra o justo
+
+@texto
+[1,16] Mas os ímpios a chamam com gestos e com vozes por ela se consomem, crendo-a sua amiga, fazem pacto com ela, pois merecem ser de seu partido. [2,1a] Dizem entre si, em seus falsos raciocínios: “Breve e triste é nossa vida. [10] Oprimamos o justo pobre, não poupemos a viúva nem respeitemos as velhas cãs do ancião. [11] Que nossa força seja a lei da justiça, pois o fraco, com certeza, é inútil. [12] Cerquemos o justo, porque nos incomoda e se opõe às nossas ações, nos censura as faltas contra a lei, nos acusa de faltas contra a nossa educação. [13] Declara ter o conhecimento de Deus e se diz filho do Senhor; [14] ele se tornou acusador de nossos pensamentos, basta vê-lo para nos importunarmos; [15] sua vida se distingue da dos demais e seus caminhos são todos diferentes. [16] Ele nos tem em conta de bastardos; de nossas vias se afasta, como se contaminassem. Proclama feliz o destino dos justos e se gloria de ter a Deus por pai. [17] Vejamos se suas palavras são verdadeiras, experimentemos o que será do seu fim. [18] Pois se o justo é filho de Deus, ele o assistirá e o libertará das mãos de seus adversários. [19] Experimentemo-lo pelo ultraje e pela tortura a fim de conhecer sua serenidade e pôr a prova sua resignação. [20] Condenemo-lo a uma morte vergonhosa. pois diz que há quem o visite.” [21] Assim raciocinam, mas se enganam porque sua maldade os cega. [22] Eles ignoram os segredos de Deus, não esperam o prêmio pela santidade, não creem na recompensa das almas puras. [23] Deus criou o homem para a incorruptibilidade e o fez imagem de sua própria natureza; [24] foi por inveja do diabo que a morte entrou no mundo: experimentam-na aqueles que lhe pertencem.
+
+@secao Responsório | Sb 2,1a.12a.13b.17a.18; Mt 27,43
+
+@responsorio
+R. Disseram os ímpios: Cerquemos o justo,
+pois ele é contrário aos nossos projetos;
+diz ser filho de Deus.
+* Vejamos, portanto, se são verdadeiras as suas palavras;
+se ele em verdade for filho de Deus,
+este há de livrá-lo dos seus adversários.
+V. Em Deus confiou, que venha livrá-lo, se realmente o ama;
+pois ele afirmou: sou Filho de Deus.
+* Vejamos.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o Salmo 118”, de Santo Ambrósio, bispo
+{(Séc. IV)} {(Disc. 10,10-11)}
+
+@tema
+Ó homem, tu és uma obra estupenda, animada pela potência criadora de Deus!
+
+@texto
+Ó homem, conhece-te a ti mesmo. Conhece a ti mesma, ó alma, porque não és formada de terra nem de barro: Deus te soprou no homem e fez de ti uma alma vivente. És uma obra estupenda, animada pela potência criadora de Deus. Mas _vigia sobre ti mesma_ (cf. 1Tm 4,16) como diz a Escritura, e o diz por ti, por tua alma. Não te deixes desviar pelas luzes do mundo, não permitas que as realidades terrenas te distraiam. Apressa-te com todo o empenho em direção àquele por cujo sopro foste criado.
+Grande é o homem, e precioso é um homem compassivo: _porém, o homem fidedigno quem o achará?_ (Pr 20,6). Entende em que coisa és grande, em que coisa és precioso. A terra revela a sua baixeza, mas a virtude te torna precioso: existe alguma coisa mais preciosa do que a imagem de Deus?
+Eis o que, antes de qualquer outra coisa, deve infundir em ti a fé, a fim de que apareça no teu coração uma efígie do Criador, e não te aconteça de não o reconhecer quando perscruta a tua alma.
+E o que há ainda de mais precioso que a humildade, graças à qual, considerando a natureza do corpo e da alma, te submetes a outro e permites ser por ele governado? Ó homem, tu és uma grande obra de Deus e grande é aquilo que Deus te deu! Estejas bem atento para não perderes o grande dom de ser feito à imagem de Deus, e não vir a merecer ser gravemente punido. Na realidade, Deus não pune a sua semelhança, mas aquele que, tendo sido feito à semelhança de Deus, não soube guardar o dom recebido. Assim, é punido aquilo que deixou de ser semelhança de Deus, isto é, o teu pecado. De fato, Deus não condena a sua imagem e não a manda para o fogo eterno. Mas vinga a sua imagem naquele que injuriou aquela imagem; assim, por causa da malícia, tu deixas de ser aquilo que era e te transformas de homem em mula.
+Portanto, não condena a imagem, mas a vinga: vinga-a como a uma repudiada, não a condena como ré. De fato, quando pecaste, te transformaste em outro, e deixaste de ser aquilo que eras. Como poderia ser punido em ti aquilo que não existe mais? Se se encontrasse em ti a imagem e a semelhança de Deus, serias digno de prêmio, e não de castigo. Assim, aquela imagem segundo a qual foste feito à imagem e semelhança de Deus não é condenada, mas premiada. Tu, ao contrário, és condenado, porque de homem que eras, te tornaste uma serpente, uma mula, um cavalo. Com efeito, a Escritura já te condenou com esses nomes, porque, descamados do ornamento da imagem divina, perdemos também o nome de homem, por não ter sabido conservar a graça própria do homem.
+
+@secao Responsório | Sl 99(100),3; Ef 2,10
+
+@responsorio
+R. Sabei que o Senhor é Deus.
+* Ele nos fez e a ele pertencemos.
+V. Porque somos feitura sua,
+criados em Cristo Jesus para as boas obras,
+as quais Deus preparou para que andássemos nelas.
+* Ele nos fez.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e dai-nos amar o que ordenais para conseguirmos o que prometeis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

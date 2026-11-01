@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6segundapascoa_sexta.htm
+@documento Hora Média - Sexta - Segunda-feira da 6ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-41-48-vi-vau
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | Cl 2,9.10a.12
+
+@texto
+Em Cristo habita corporalmente toda a plenitude da divindade. Dele também vós estais repletos. Com Cristo fostes sepultados no batismo; com ele também fostes ressuscitados por meio da fé no poder de Deus, que ressuscitou a Cristo dentre os mortos.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

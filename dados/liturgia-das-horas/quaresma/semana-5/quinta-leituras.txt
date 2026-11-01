@@ -1,0 +1,122 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/5quinta_quaresma.htm
+@documento Ofício das Leituras - 5ª Semana Da Quaresma - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@salmo salmos/salmo-017-31-51-iv
+
+@gloria
+
+@antifona
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@antifona 2
+Com a vossa mão direita me amparastes.
+
+@salmo salmos/salmo-017-31-51-v
+
+@gloria
+
+@antifona
+Com a vossa mão direita me amparastes.
+
+@antifona 3
+Viva o Senhor! Bendito seja o meu Rochedo! †
+
+@salmo salmos/salmo-017-31-51-vi
+
+@gloria
+
+@antifona
+Viva o Senhor! Bendito seja o meu Rochedo!
+
+@texto
+V. Quem medita a Lei de Deus
+R. Dará frutos a seu tempo.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {7,1-10}
+
+@tema
+Melquisedec, figura do sacerdote perfeito
+
+@texto
+Irmãos: [1] Este Melquisedec, rei de Salém, sacerdote de Deus Altíssimo, saiu ao encontro de Abraão, quando esse regressava do combate contra os reis, e o abençoou. [2] Foi a ele que Abraão entregou o dízimo de tudo. E o seu nome significa, em primeiro lugar, “Rei de Justiça”; e, depois: “Rei de Salém”, o que quer dizer, “Rei da Paz”. [3] Sem pai, sem mãe, sem genealogia, sem início de dias, nem fim de vida! É assim que ele se assemelha ao Filho de Deus e permanece sacerdote para sempre. [4] Considerai pois como Melquisedec era grande: Abraão, o patriarca, lhe deu a décima parte daquilo que havia de melhor nos despojos. [5] Segundo a lei de Moisés, os descendentes de Levi que se tornam sacerdotes devem cobrar o dízimo do povo, isto é, dos seus irmãos, embora estes também sejam descendentes de Abraão. [6] Melquisedec, porém, não era descendente de Levi, mas mesmo assim cobrou de Abraão a décima parte e ainda deu sua bênção àquele que havia recebido as promessas de Deus. [7] Ora, sem dúvida, aquele que recebe a bênção é menos importante que aquele que a dá! [8] Além disso, os filhos de Levi, que recebem o dízimo, são homens mortais. Lá, porém, o dízimo foi cobrado por alguém do qual se declara que está vivo. [9] E Levi, que recebe o dízimo, também entregou a sua décima parte, por assim dizer, na pessoa de Abraão. [10] De fato, Levi ainda se encontrava no corpo do seu antepassado, quando aconteceu o encontro com Melquisedec.
+
+@secao Responsório | Cf. Gn 14,18; Hb 7,3; cf. Sl 109(110),4; Hb 7,16
+
+@responsorio
+R. Melquisedec, rei de Salém, pão e vinho apresentou
+porque era sacerdote do Senhor, o Deus Altíssimo; e nisto se assemelha a Jesus, Filho de Deus.
+* Prometeu-lhe o Senhor com juramento: Tu és sacerdote eternamente segundo a ordem do rei Melquisedec.
+V. Foi feito sacerdote não conforme leis humanas, mas de acordo com o poder duma vida imperecível. * Prometeu-lhe.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição Dogmática Lumen Gentium sobre a Igreja, do Concílio Vaticano II
+{(Séc.XX)} {(N.9)}
+
+@tema
+A Igreja, sacramento visível da unidade salvífica
+
+@texto
+_Eis que virão dias, diz o Senhor, em que concluirei com a casa de Israel e a casa de Judá uma nova aliança... Imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo... Todos me conhecerão, do menor ao maior deles, diz o Senhor_ (cf. Jr 31,31.33.34). Foi essa aliança nova que Cristo instituiu, isto é, a nova aliança no seu sangue, chamando judeus e pagãos para formarem um povo que se reunisse na unidade, não segundo a carne, mas no Espírito, e constituísse o novo povo de Deus. Os que creem em Cristo, renascidos não de uma semente corruptível, mas incorruptível, pela palavra do Deus vivo, não da carne, mas da água e do Espírito Santo, são por fim constituídos _a raça escolhida, o sacerdócio do Reino, a nação santa, o povo que ele conquistou... que antes não eram povo, agora, porém, são povo de Deus_ (1Pd 2,9.10). Este povo messiânico tem por cabeça Cristo, que _foi entregue por causa de nossos pecados e foi ressuscitado para nossa justificação_ (Rm4,25) e agora, tendo recebido um nome que está acima de todo nome, reina gloriosamente nos céus. Este povo tem a dignidade e a liberdade dos filhos de Deus, em cujos corações o Espírito Santo habita como em seu templo. Tem como lei o novo mandamento de amar como o próprio Cristo nos amou. Tem como fim o Reino de Deus, que ele mesmo iniciou na terra, e deve desenvolver-se sempre mais, até ser no fim dos tempos consumado pelo próprio Deus, quando Cristo, nossa vida, aparecer e _a criação for libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus_ (Rm 8,21). Portanto, o povo messiânico, embora não abranja atualmente todos os homens e apareça muitas vezes como um pequeno rebanho, é entretanto, para todo o gênero humano, fecundíssima semente de unidade, de esperança e de salvação. Constituído por Cristo para uma comunhão de vida, de amor e de verdade, e por ele assumido para ser instrumento da redenção universal, é enviado ao mundo inteiro como luz do mundo e sal da terra. Assim como Israel segundo a carne, que peregrinava no deserto, já é chamado Igreja de Deus, também o novo Israel, que caminha neste mundo em busca da cidade futura e permanente, é chamado Igreja de Cristo, pois foi ele que a adquiriu com o seu sangue, encheu-a de seu Espírito e dotou-a de meios aptos para uma união visível e social.
+Deus convocou todos aqueles que olham com fé para Jesus, autor da salvação e princípio da unidade e da paz, e com eles constituiu a Igreja, a fim de que ela seja, para todos e para cada um, o sacramento visível desta unidade salvífica.
+
+@secao Responsório | 1Pd 2,9.10; Sl 32(33),12
+
+@responsorio
+R. Meus irmãos, sois o povo conquistado por Deus;
+* Vós, outrora não-povo, sois agora, deveras, o povo de Deus; outrora excluídos da misericórdia, agora alcançastes a graça de Deus.
+V. Feliz o povo cujo Deus é o Senhor e a nação que escolheu por sua herança! * Vós outrora.
+
+@secao Oração
+
+@oracao
+Assisti, ó Deus, aqueles que vos suplicam e guardai com solicitude os que esperam em vossa misericórdia, para que, libertos de nossos pecados, levemos uma vida santa e sejamos herdeiros das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

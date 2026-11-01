@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoroberto.htm
+@documento Ofício das Leituras - São Roberto Belarmino, Bispo E Doutor Da Igreja
+
+@celebracao
+SÃO ROBERTO BELARMINO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu no ano de 1542 em Montepulciano, na Toscana (Itália). Entrou na Companhia de Jesus em Roma e foi ordenado sacerdote. Sustentou célebres disputas em defesa da fé católica e ensinou Teologia no Colégio Romano. Eleito cardeal e nomeado bispo de Cápua, contribuiu com a sua atividade junto das Congregações Romanas para a resolução de numerosos problemas. Morreu em Roma no ano 1621.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+A glória de Deus ilumina a santa Cidade celeste:
+sua luz é o Cordeiro.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {4,1-16}
+
+@tema
+Sejamos imitadores do Apóstolo, como ele o foi de Cristo
+
+@texto
+Irmãos: [1] Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. [2] A este respeito, o que se exige dos administradores é que sejam fiéis. [3] Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. [4] É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. [5] Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido. [6] Irmãos, apliquei essa doutrina a mim e a Apolo, por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. [7] Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido? [8] Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! [9] Na verdade, parece-me que Deus nos apresentou, a nós apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. [10] Nós somos os tolos por causa de Cristo, vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. [11] Até à presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; [12] fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; [13] somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até ao presente. [14] Escrevo-vos tudo isto, não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. [15] De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo. [16] Portanto, eu vos peço, sede meus imitadores.
+
+@secao Responsório | Jo 15,15; Mt 13,11.16
+
+@responsorio
+R.{Não vos chamo mais meus servos,}
+mas vos chamo meus amigos,
+* Pois vos dei a conhecer tudo quanto ouvi do Pai.
+V. A vós foi concedido conhecer
+os mistérios do reino dos céus;
+felizes vossos olhos porque veem,
+felizes os ouvidos porque ouvem. * Pois vos dei.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a elevação da mente a Deus, de São Roberto Belarmino
+{(Séc. XVII)} {(Grad. 1: Opera omnia 6, edit. 1862,214)}
+
+@tema
+Inclina o meu coração para os teus mandamentos
+
+@texto
+_Ó Senhor, suave e manso e de grande misericórdia_ (Sl 85,5), quem não te servirá de todo o coração, se provar, por um pouco que seja, a doçura do teu domínio paterno? Que ordenas, Senhor, a teus servos? _Tomai meu jugo sobre vós_ (Mt 11,29). E como é o teu jugo? Dizes: _Meu jugo é suave, e o meu peso, leve_ (Mt 11,30). Quem não carregará contente o jugo que não oprime, mas suaviza, e o peso que não esmaga, mas refaz? Com razão acrescentaste: _e encontrareis descanso para vossas almas_ (Mt 11,29). E qual é o teu jugo que não fatiga, mas descansa? Não é outro senão o mandamento, o primeiro e o maior: _Amarás o Senhor teu Deus com todo o teu coração_ (Mt 22,37). Que de mais fácil, suave, agradável do que amar a bondade, a beleza, o amor, que tudo isto és tu, ó Senhor, meu Deus?
+Porventura também prometes aos que guardam os mandamentos um prêmio, coisas mais desejáveis que ouro em abundância e mais doces que o favo de mel? Sim, um prêmio e prêmio imenso prometes, nas palavras de teu apóstolo Tiago: _O Senhor preparou a coroa da vida para os que o amam_ (Tg 1,12). E que é a coroa da vida? É o maior bem que nem podemos imaginar ou desejar. Com efeito, assim fala São Paulo, citando Isaías: _Os olhos não viram, os ouvidos não ouviram nem subiu ao coração do homem o que Deus preparou para os que o amam_ (1Cor 2,9; cf. Is 64,1-3; 65,17).
+
+Verdadeiramente, há grande recompensa em guardar teus mandamentos. E não apenas o primeiro e máximo mandamento é de proveito para quem obedece, e não para Deus que ordena; mas também todos os outros mandamentos de Deus aperfeiçoam, ornam, instruem, ilustram aquele que obedece, e por fim o tornam bom e feliz. Se és sensato entende que foste criado para a glória de Deus e tua salvação eterna. É este o teu fim, este o centro de tua alma, este o tesouro de teu coração. Se chegares a este fim, serás feliz; se nele falhares, serás infeliz.
+
+Por conseguinte, tem por verdadeiro bem aquilo que te leva a teu fim; e por mal, o que te separa deste fim. Prosperidade e adversidade, riqueza e indigência, saúde e doença, honras e vexames, vida e morte, nem uma delas o sábio procura por si mesma nem delas foge. Mas se concorrem para a glória de Deus e tua eterna felicidade, são boas e desejáveis; se as impedem, são más; deve-se fugir delas.
+
+@secao Responsório | 1Cor 1,23-24; 2Cor 4,8a; Rm 8,37
+
+@responsorio
+R. Os lábios do levita a ciência guardarão
+de sua boca nós devemos procurar a instrução.
+* Porque é o mensageiro do Senhor onipotente.
+V. O bispo deve ser o despenseiro do Senhor,
+capaz de exortar e ensinar a sã doutrina.* Porque é.
+
+@secao Oração
+
+@oracao
+Ó Deus, que, para sustentar a fé católica da vossa Igreja, destes ao bispo São Roberto Belarmino ciência e força admirável, concedei, por sua intercessão, que o vosso povo se alegre de conservá-la sempre integralmente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

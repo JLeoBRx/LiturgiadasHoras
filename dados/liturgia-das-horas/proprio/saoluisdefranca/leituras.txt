@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoluisdefranca.htm
+@documento Ofício das Leituras - São Luís De França
+
+@celebracao
+SÃO LUÍS DE FRANÇA
+
+@biografia
+O rei da França Luís IX (Poissy, França, 1214 – perto de Tunes, Tunísia, 25 de agosto de 1270), modelo de santidade evangélica no exercício da realeza, sobressaiu pelo espírito de penitência, de oração e de amor aos pobres e doentes. Promoveu, juntamente com o bem social, o crescimento espiritual de seus súditos na justiça e na paz. Morreu de peste, na segunda das duas cruzadas por ele empreendidas.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Jesus, Redentor nosso,
+coroais os vossos santos;
+ouvi hoje, compassivo,
+nossas preces, nossos cantos.
+
+Hoje, o santo confessor
+vosso nome fez brilhar,
+e a Igreja, anualmente,
+vem seus feitos celebrar.
+
+Caminhou com passo firme
+pela vida transitória,
+e seguiu a vossa estrada
+que nos leva para a glória.
+
+Desprendendo o coração
+de alegrias passageiras,
+frui agora, junto aos anjos,
+as delícias verdadeiras.
+
+O perdão de nossas culpas
+nos alcance a sua prece.
+Nos seus passos conduzi-nos
+para a luz que não perece.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai louvor também.
+Honra e graças ao Espírito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {12,1-21}
+
+@tema
+A vida cristã é culto espiritual
+
+@texto
+[1] Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. [2] Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito. [3] Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. [4] Como, num só corpo, temos muitos membros, cada qual com uma função diferente, [5] assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. [6] Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; [7] se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; [8] se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. [9] O amor seja sincero. Detestai o mal, apegai-vos ao bem. [10] Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. [11] Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, [12] alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. [13] Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. [14] Abençoai os que vos perseguem, abençoai e não amaldiçoeis. [15] Alegrai-vos com os que se alegram, chorai com os que choram. [16] Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria. [17] Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos. [18] Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo. [19] Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”. [20] Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça. [21] 1Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@secao Responsório | Rm 12,2; Ef 4,23-24
+
+@responsorio
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Do Testamento Espiritual de São Luís a seu filho
+{(Séc. XIII)} {(Acta Sanctorum Augusti 5 [1868],546)}
+
+@tema
+O rei justo faz prosperar o país
+
+@texto
+Filho dileto, começo por querer ensinar-te a amar ao Senhor, teu Deus, com todo o teu coração, com todas as forças; pois sem isto não há salvação.
+
+Filho, deves evitar tudo quanto sabes desagradar a Deus, quer dizer, todo pecado mortal, de tal forma que prefiras ser atormentado por toda sorte de martírios a cometer um pecado mortal.
+
+Ademais, se o Senhor permitir que te advenha alguma tribulação, deves suportá-la com serenidade e ação de graças. Considera suceder tal coisa em teu proveito e que talvez a tenhas merecido. Além disto, se o Senhor te conceder a prosperidade, tens de agradecer-lhe humildemente, tomando cuidado para que nesta circunstância não te tornes pior, por vanglória ou outro modo qualquer, porque não deves ir contra Deus ou ofendê-lo valendo-te de seus dons.
+
+Ouve com boa disposição e piedade o ofício da Igreja e enquanto estiveres no templo, cuida de não vagueares os olhos ao redor, de não falar sem necessidade; mas roga ao Senhor devotamente quer pelos lábios quer pela meditação do coração.
+
+Guarda o coração compassivo para com os pobres, infelizes e aflitos, e quanto puderes, auxilia-os e consola-os. Por todos os benefícios que te foram dados por Deus, rende-lhe graças para te tornares digno de receber maiores. Em relação a teus súditos, sê justo até ao extremo da justiça, sem te desviares nem para a direita nem para a esquerda; e põe-te sempre de preferência da parte do pobre mais do que do rico, até estares bem certo da verdade. Procura com empenho que todos os teus súditos sejam protegidos pela justiça e pela paz, principalmente as pessoas eclesiásticas e religiosas.
+
+Sê dedicado e obediente a nossa mãe, a Igreja Romana, ao Sumo Pontífice, como pai espiritual. Esforça-te por remover de teu país todo pecado, sobretudo o de blasfêmia e a heresia.
+
+Ó filho muito amado, dou-te enfim toda bênção que um pai pode dar ao filho; e toda a Trindade e todos os santos te guardem do mal. Que o Senhor te conceda a graça de fazer sua vontade de forma a ser servido e honrado por ti. E assim, depois desta vida, iremos juntos vê-lo, amá-lo e louvá-lo sem fim. Amém.
+
+@secao Responsório | 2Rs 18,3a.5b.6a.7b
+
+@responsorio
+R. Ele fez o que é bom aos olhos do Senhor;
+nenhum rei o superou, nem antes nem depois.
+* Optou pelo Senhor e nunca dele se afastou.
+V. Guardou os mandamentos e o Senhor com ele estava.
+* Optou.
+
+@secao Oração
+
+@oracao
+Ó Deus, que transferistes São Luís dos cuidados de um reino terrestre à glória do Reino do Céu, concedei-nos, por sua intercessão, desempenhar nossas tarefas de cada dia, e trabalhar para a vinda do vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedroeymard.htm
+@documento Ofício das Leituras - Até O Presente Momento A Santa Sé Ainda Não Aprovou Os Textos Eucológicos Em Português Do Brasil Para A Memória De São Pedro Julião Eymard Na Liturgia Das Horas. Assim, Os Textos Aqui Adotados São Os Do Comum, A 2A Leitura É A Da Lh De Portugal, E A Oração Final Aquela Que Já Consta No Missal.
+
+@celebracao
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a memória de São Pedro Julião Eymard na Liturgia das Horas. Assim, os textos aqui adotados são os do Comum, a 2a leitura é a da LH de Portugal, e a oração final aquela que já consta no Missal.
+
+@biografia
+SÃO PEDRO JULIÃO EYMARD, PRESBÍTERO Pedro (La Mure, França, 1811 – 1o de agosto de 1868), ordenado sacerdote e tendo-se dedicado por alguns anos ao ministério pastoral, ingressou na Congregação dos Maristas. Grande devoto do mistério eucarístico, fundou congregações religiosas tanto de homens como de mulheres, dedicadas ao culto eucarístico, e promoveu muitas e apropriadas iniciativas para incentivar o amor para com a Santíssima Eucaristia entre pessoas de todas as condições.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido(a) a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {3,7–4,1.4-9}
+
+@tema
+Alegrai-vos sempre no Senhor
+
+@texto
+Irmãos: [3,7] Essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. [8] Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, [9] não com minha justiça provinda da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé. [10] Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, [11] para ver se alcanço a ressurreição dentre os mortos. [12] Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
+
+[13] Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. [14] Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
+
+[15] É assim que, enquanto perfeitos, devemos sentir e pensar. E se tiverdes um outro modo de sentir, Deus vos revelará o seu pensamento a esse respeito.
+
+[16] Entretanto, onde quer que já tenhamos chegado, caminhemos na mesma direção.
+
+[17] Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. [18] Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. [19] O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. [20] Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo. [21] Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+[4,1] Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor.
+[4] Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. [5] Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo! [6] Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças. [7] E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus.
+
+[8] Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. [9] Praticai o que aprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco.
+
+@secao Responsório | Lc 12,35-36a; Mt 24,42
+
+@responsorio
+R. Estai de prontidão, cingi os vossos rins
+e trazei em vossas mãos as lâmpadas acesas.
+* E sede semelhantes a empregados, que esperam
+voltar o seu senhor das festas nupciais.
+V. Portanto, vigiai, pois não sabeis o dia
+em que o Senhor há de chegar. * E sede.
+
+@secao Segunda leitura
+
+@leitura
+Dos escritos de São Pedro Julião Eymard, presbítero
+{(Séc.XIX)} {(La présence réelle, vol. I, Paris 1950, pp. 270-271 e 307-308)}
+
+@tema
+A Eucaristia, sacramento da vida
+
+@texto
+A Eucaristia é a vida de todos os povos. A Eucaristia é para todos a fonte da vida. Todos se podem reunir na Igreja, sem impedimento algum, quer de raça quer de língua, para celebrar a festa sacrossanta. A Eucaristia dá-lhes a lei da vida, ou melhor, da caridade, de que este sacramento é a fonte. Deste modo ela estabelece entre eles um vínculo comum, uma certa familiaridade cristã. Todos comem o mesmo pão, todos são comensais de Jesus Cristo, que estabelece sobrenaturalmente entre eles uma certa concórdia de hábitos fraternos, conforme se lê nos Atos dos Apóstolos. Eles afirmam que a multidão dos cristãos, quer dos judeus convertidos quer dos pagãos batizados, provenientes de diversas regiões, tinham um só coração e uma só alma. Porquê? Porque eram assíduos a escutar a doutrina dos Apóstolos e perseveravam na fração do pão.
+A Eucaristia é também a vida da alma e da sociedade humana, como o sol é a vida dos corpos e da face da terra. Sem o sol, a terra é estéril; ele alegra-a, adorna-a e enriquece-a; ele dá aos corpos a eficácia, a força e a beleza. Perante estes fatos admiráveis, não nos admiremos de que os pagãos o tenham venerado como o deus do mundo. Ele obedece ao Astro do dia e segue o supremo Sol, o Verbo divino, Jesus Cristo, que ilumina todos os homens que vêm a este mundo, e que, pela Eucaristia, como sacramento da vida, actua no íntimo das almas, de tal modo que transforma as famílias e as nações. Ditosa a alma fiel que encontra este tesouro escondido, que assiduamente mata a sua sede nesta fonte da vida, que come incessantemente este Pão da vida!
+A comunidade dos cristãos é realmente uma família e o vínculo entre os seus membros é Jesus na Eucaristia. Ele é o pai que prepara a mesa da família. A fraternidade cristã foi promulgada na Ceia simultaneamente com a paternidade de Jesus Cristo; Ele chama aos seus Apóstolos _filioli_, isto é, meus filhos, e manda-lhes que se amem mutuamente como Ele os amou.
+Na santa mesa todos são filhos que recebem o mesmo alimento; e por isso São Paulo conclui que eles constituem uma família e formam o mesmo corpo, porque participam do mesmo pão, que é Jesus Cristo.
+Finalmente, a Eucaristia proporciona à comunidade cristã a capacidade de observar a lei do respeito e da caridade para com o próximo. Jesus Cristo manda honrar e amar os seus irmãos. É por isso que Ele próprio os assume em Si mesmo, dizendo: Tudo o que fizestes a um dos meus irmãos mais pequeninos, a Mim o fizestes; Ele dá-Se a cada um na santa comunhão.
+
+@secao Responsório | 1Cor 7,29.30.31; 2,12
+
+@responsorio
+R. Meus irmãos, o tempo é breve.
+Os que se alegram sejam, pois,
+como se não se alegrassem;
+os que usam deste mundo, como se dele não usassem,
+* Porque passa a aparência perecível deste mundo
+V. Nós, porém, não recebemos o espírito do mundo.
+* Porque passa.
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes a São Pedro Julião Eymard um amor admirável pelos sagrados mistérios do Corpo e do Sangue de vosso Filho, concedei, na vossa bondade, que mereçamos saborear o mesmo alimento que ele encontrou nesse divino banquete. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

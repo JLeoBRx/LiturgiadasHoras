@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomartinho_nona.htm
+@documento Hora Média - São Martinho de Tours, bispo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva. Aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva. Aleluia.
+
+@secao Leitura breve | 1Tm 3,13
+
+@texto
+Os que exercem bem o ministério, recebem uma posição de estima e muita liberdade para falar da fé em Cristo Jesus.
+
+@texto
+V. Se o Senhor não construir a nossa casa,
+R. Em vão trabalharão seus construtores.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fostes glorificado pela vida e a morte do bispo São Martinho, renovai em nossos corações as maravilhas da vossa graça, de modo que nem a morte nem a vida nos possam separar do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

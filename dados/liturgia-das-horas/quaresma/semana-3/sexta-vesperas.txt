@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/3sextaquaresma_vesperas.htm
+@documento Vésperas - Sexta-feira da 3ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor, nosso Deus, é tão grande,
+e maior do que todos os deuses.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+O Senhor, nosso Deus, é tão grande,
+e maior do que todos os deuses.
+
+@antifona 2
+Israel, bendizei o Senhor,
+cantai ao seu nome suave!
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Israel, bendizei o Senhor,
+cantai ao seu nome suave!
+
+@antifona 3
+Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.
+
+@secao Leitura breve | Tg 5,16.19-20
+
+@texto
+Confessai uns aos outros os vossos pecados e orai uns pelos outros para alcançar a saúde. A oração fervorosa do justo tem grande poder. Meus irmãos, se alguém de vós se desviar da verdade e outro o reconduzir, saiba este que aquele que reconduz um pecador desencaminhado salvará da morte a alma dele e cobrirá uma multidão de pecados.
+
+@secao Responsório breve
+
+@responsorio
+R. Curai-me, Senhor, ó Deus Santo,
+* Pois pequei contra vós. R. Curai-me.
+V. Tende piedade de mim, renovai-me! * Pois pequei.
+Glória ao Pai. R. Curai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Amar o próximo como a si mesmo
+vale mais que qualquer sacrifício.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Amar o próximo como a si mesmo
+vale mais que qualquer sacrifício.
+
+@secao Preces
+
+@preces
+Elevemos nossas súplicas ao Senhor Jesus Cristo, que nos santificou com o seu sangue; e digamos:
+
+R. **Senhor, tende compaixão do vosso povo!**
+
+Jesus, Redentor nosso, pelos méritos da vossa Paixão, dai aos vossos fiéis o espírito de penitência, sustentai-os no combate contra o mal e reavivai a sua esperança,
+– para que se disponham para celebrar mais santamente a vossa Ressurreição. R.
+
+Fazei que os cristãos, exercendo sua missão profética, anunciem por toda parte o Evangelho do Reino,
+– e o confirmem com seu testemunho de fé, esperança e caridade. R.
+
+Confortai os aflitos com a força do vosso amor,
+– e fazei que saibamos consolá-los com nossa solicitude fraterna. R.
+
+Ensinai-nos a levar nossa cruz em união com os vossos sofrimentos,
+– para que manifestemos em nós mesmos a vossa salvação. R.
+
+{(intenções livres)}
+
+Autor da vida, lembrai-vos daqueles que partiram deste mundo,
+– e concedei-lhes a glória da ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Infundi, ó Deus, vossa graça em nossos corações, para que, fugindo aos excessos humanos, possamos, com vosso auxílio, abraçar os vossos preceitos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anjos_nona.htm
+@documento Hora Média - Santos Anjos da Guarda
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Feliz és tu se temes o Senhor
+† e trilhas seus caminhos!
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Feliz és tu se temes o Senhor
+e trilhas seus caminhos!
+
+@secao Leitura breve | At 10,3-5
+
+@texto
+Por volta das três horas, Cornélio teve uma visão: viu claramente um anjo de Deus entrar em sua casa e dizer-lhe: Cornélio. Cornélio olhou atentamente para ele e, cheio de temor, disse: O que há, Senhor? O anjo respondeu: Tuas preces e tuas orações subiram até Deus, em teu favor. E, agora, envia alguns homens a Jope e manda chamar um certo Simão, conhecido como Pedro.
+
+@texto
+V. Da mão do anjo subiu à presença de Deus
+R. A fumaça do incenso com as preces dos santos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misteriosa providência mandais os vossos Anjos para guardar-nos, concedei que nos defendam de todos os perigos e gozemos eternamente do seu convívio. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

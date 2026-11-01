@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojose_Ivesperas.htm
+@documento I Vésperas - São José, esposo da Bem-Aventurada Virgem Maria
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Celebre a José a corte celeste,
+prossiga o louvor o povo cristão:
+Só ele merece à Virgem se unir
+em casta união.
+
+Ao ver sua Esposa em Mãe transformar-se,
+José quer deixar Maria em segredo.
+Um anjo aparece: "É obra de Deus!"
+Afasta-lhe o medo.
+
+Nascido o Senhor, nos braços o estreitas.
+A ti tem por guia, a Herodes fugindo.
+Perdido no templo, és tu que o encontras,
+chorando e sorrindo.
+
+Convívio divino a outros, somente
+após dura morte é dado gozar.
+Mas tu, já em vida, abraças a Deus,
+e o tens no teu lar!
+
+Ó dai-nos, Trindade, o que hoje pedimos:
+Um dia no céu, cantarmos também
+o canto que canta o esposo da Virgem
+sem mácula. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Jacó foi o pai de José, o esposo da Virgem Maria,
+da qual Jesus Cristo nasceu.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Jacó foi o pai de José, o esposo da Virgem Maria,
+da qual Jesus Cristo nasceu.
+
+@antifona 2
+O anjo Gabriel foi enviado
+por Deus a Nazaré da Galiléia,
+a uma virgem desposada com José.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+O anjo Gabriel foi enviado
+por Deus a Nazaré da Galiléia,
+a uma virgem desposada com José.
+
+@antifona 3
+Maria, a Mãe de Cristo, a esposa de José,
+concebeu do Espírito Santo sem terem convivido.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Maria, a Mãe de Cristo, a esposa de José,
+concebeu do Espírito Santo sem terem convivido.
+
+@secao Leitura breve | Cl 3,23-24
+
+@texto
+Tudo o que fizerdes, fazei-o de coração, como para o Senhor e não para os homens. Pois vós bem sabeis que recebereis do Senhor a herança como recompensa. Servi a Cristo, o Senhor!
+
+@secao Responsório breve
+
+@responsorio
+R. O justo
+* como o lírio brotará. R. O justo.
+V. E florirá ante o Senhor eternamente. R. O justo.
+Glória ao Pai. R. O justo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou a sua família.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou a sua família.
+
+@secao Preces
+
+@preces
+Invoquemos humildemente a Deus, fonte de toda a paternidade no céu e na terra; e digamos:
+
+R. **Pai santo, que estais nos céus, ouvi-nos!**
+
+Pai santo, que revelastes a São José o mistério de Cristo, escondido desde toda a eternidade,
+– fazei-nos conhecer melhor o vosso Filho, Deus e Homem. R.
+
+Pai celeste, que alimentais as aves do céu e vestis a erva dos campos,
+– dai a todos os seres humanos o pão do corpo e da alma. R.
+
+Criador de todas as coisas, que nos confiastes a obra de vossas mãos,
+– fazei que os operários possam honestamente usufruir a recompensa dos seus trabalhos. R.
+
+Deus de toda justiça, que amais os justos,
+– dai-nos, por intercessão de São José, a graça de caminhar na vida praticando o que vos agrada. R.
+
+{(intenções livres)}
+
+Concedei benignamente a vossa misericórdia aos agonizantes e aos que já partiram desta vida,
+– por intercessão de vosso Filho, junto com sua mãe Maria e São José. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, pelas preces de São José, a quem confiastes as primícias da Igreja, concedei que ela possa levar à plenitude os mistérios da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,87 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4segunda_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Conforme a vossa lei, firmai meus passos, ó Senhor!
+
+@salmo salmos/salmo-118-129-136-xvii-phe
+
+@gloria
+
+@antifona
+Conforme a vossa lei, firmai meus passos, ó Senhor!
+
+@antifona 2
+Há um só legislador e um só juiz;
+quem és tu para julgar o teu irmão?
+
+@salmo salmos/salmo-081
+
+@gloria
+
+@antifona
+Há um só legislador e um só juiz;
+quem és tu para julgar o teu irmão?
+
+@antifona 3
+Clamei pelo Senhor, e ele me escutou.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@antifona
+Clamei pelo Senhor, e ele me escutou.
+
+@secao Leitura breve | Lv 20,26
+
+@texto
+Sede santos para mim porque eu, o Senhor, sou santo, e vos separei dos outros povos para serdes meus.
+
+@texto
+V. Feliz o povo, cujo Deus é o Senhor.
+R. E a nação que ele escolheu por sua herança!
+
+@secao Oração
+
+@oracao
+Ó Deus, Pai de bondade, destes o trabalho aos seres humanos para que, unindo seus esforços, progridam cada vez mais; concedei que, em nossas atividades, vos amemos a vós como filhos e filhas e a todos como irmãos e irmãs. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

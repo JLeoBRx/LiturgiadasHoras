@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_vigilia.htm
+@documento Vigília de São Pedro e São Paulo
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Uma fé inseparável e um sofrimento semelhante
+à vida eterna os levaram,
+pois consagraram sua doutrina
+pela morte no martírio.
+
+@salmo canticos/i-is-61-6-9
+
+@gloria
+
+@salmo canticos/ii-sb-3-7-9
+
+@gloria
+
+@salmo canticos/iii-sb-10-17-21
+
+@gloria
+
+@antifona
+Uma fé inseparável e um sofrimento semelhante
+à vida eterna os levaram,
+pois consagraram sua doutrina
+pela morte no martírio.
+
+@secao Evangelho | Jo 21,15-19
+
+@texto
+Jesus manifestou-se aos seus discípulos [15] e, depois de comerem, perguntou a Simão Pedro: “Simão, filho de João, tu me amas mais do que estes?” Pedro respondeu: “Sim, Senhor, tu sabes que eu te amo”. Jesus disse: “Apascenta os meus cordeiros”. [16] E disse de novo a Pedro: “Simão, filho de João, tu me amas?” Pedro disse: “Sim, Senhor, tu sabes que eu te amo”. Jesus disse-lhe: “Apascenta as minhas ovelhas”. [17] Pela terceira vez, perguntou a Pedro: “Simão, filho de João, tu me amas?” Pedro ficou triste, porque Jesus perguntou três vezes se ele o amava. Respondeu: “Senhor, tu sabes tudo; tu sabes que eu te amo”. Jesus disse-lhe: “Apascenta as minhas ovelhas. [18] Em verdade, em verdade te digo: quando eras jovem, tu te cingias e ias para onde querias. Quando fores velho, estenderás as mãos e outro te cingirá e te levará para onde não queres ir”. [19] Jesus disse isso, significando com que morte Pedro iria glorificar a Deus. E acrescentou: “Segue-me”.

@@ -1,0 +1,67 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/19_laudes.htm
+@documento Próprio - Laudes - 19 de dezembro
+
+@secao Leitura breve | Is 2,3
+
+@texto
+Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. Toda carne verá sua glória. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Despontará, como o sol, o Salvador,
+e descerá como o orvalho sobre a relva,
+para o seio virginal, aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Despontará, como o sol, o Salvador,
+e descerá como o orvalho sobre a relva,
+para o seio virginal, aleluia.
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs caríssimos, a Cristo, nosso Redentor, que vem para libertar do poder da morte todos os que se voltam para ele; e supliquemos com humilde confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Quando anunciarmos, Senhor, a vossa vinda,
+– purificai o nosso coração de todo espírito de vaidade. R.
+
+Santificai, Senhor, a Igreja que fundastes,
+– para que glorifique o vosso nome por toda a terra. R.
+
+Concedei, Senhor, que a vossa lei ilumine os olhos do nosso coração,
+– e proteja os povos que em vós confiam. R.
+
+Vós que, por meio da Igreja, anunciais ao mundo a alegria da vossa vinda,
+– fazei que estejamos preparados para vos receber dignamente. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes ao mundo o esplendor de vossa glória pelo parto virginal de Maria, dai-nos venerar com fé pura e celebrar sempre com amor sincero o mistério tão profundo da encarnação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

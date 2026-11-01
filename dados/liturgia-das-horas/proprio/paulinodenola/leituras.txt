@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/paulinodenola.htm
+@documento Ofício das Leituras - São Paulino De Nola, Bispo
+
+@celebracao
+SÃO PAULINO DE NOLA, BISPO
+
+@biografia
+Nasceu em Bordéus (França), em 335. Dedicou-se à carreira política, casou-se e teve um filho. Desejando levar uma vida mais austera, recebeu o batismo e, renunciando a todos os seus bens, em 393 abraçou a vida monástica, indo estabelecer-se em Nola, na Campânia (Itália). Sagrado bispo da cidade, promoveu o culto de São Félix, ajudou os peregrinos e empenhou-se com generosidade em aliviar as necessidades do seu tempo. Compôs uma coleção de poemas, notáveis pela elegância de estilo. Morreu em 431.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Paulino de Nola, bispo
+{(Séc.IV)} {(Epist. 3 ad Alypium, 1.5.6: CSEL 29,13-14.17-18)}
+
+@tema
+Em toda parte Deus dá o seu amor aos que lhe pertencem, por meio do Espírito Santo
+
+@texto
+É verdadeira caridade, é perfeito amor, o sentimento que demonstraste para com minha humilde pessoa, ó homem realmente santo, justamente abençoado e muito amado. Por intermédio de Juliano, um dos meus amigos, que regressava de Cartago, recebi tua carta. Ela trouxe até mim a luz da tua santidade; por ela mais reconheci do que conheci a tua caridade para comigo. Porque esta caridade procede daquele que desde a origem do mundo nos predestinou para si; nele fomos criados antes de nascer; ele mesmo nos fez e somos seus (Sl 99,3), ele que fez tudo quanto havia de existir. Formados, pois, pela sua presciência e ação, ficamos unidos antes mesmo de nos conhecermos, pelos laços da caridade, num mesmo sentimento e na unidade da fé ou na fé da unidade. Assim, antes ainda de nos vermos pessoalmente, já nos conhecemos por revelação do Espírito Santo.
+
+Por isso me felicito e me glorio no Senhor que, sendo o mesmo e único, em toda parte dá o seu amor aos que lhe pertencem, por meio do Espírito Santo. Este amor foi derramado pelo mesmo Espírito em todo ser humano e é semelhante à torrente impetuosa de um rio que alegra a sua cidade. Nela foste merecidamente colocado pela Sé Apostólica como chefe espiritual de seus cidadãos, com os nobres do seu povo (Sl 112,8). Eu também, que estava prostrado por terra, fui erguido por ela para tomar parte no mesmo ministério que o teu. Mais me alegra, porém, aquela graça que o Senhor me fez ao preparar um lugar para mim no íntimo do teu coração e conceder-me a tua amizade. Assim, posso me gloriar com toda confiança no teu amor, que tão empenhadamente me mostraste com estes serviços, e que me obriga a corresponder com amor semelhante.
+
+Para que nada ignores a meu respeito, fica sabendo que fui por muito tempo um pobre pecador; e que, se fui retirado das trevas e da sombra da morte recebendo o sopro da vida, se pus as mãos no arado e comecei a carregar a cruz do Senhor, preciso todavia do auxílio de tuas preces para perseverar até o fim. Será uma recompensa que irá juntar-se a teus méritos, se me ajudares, com esta intercessão, a carregar o meu fardo. Pois o santo que ajuda a quem trabalha – não ouso chamar-te simplesmente de irmão – será exaltado como uma grande cidade.
+
+Enviamos à tua santidade um pão em sinal de unidade, que é também símbolo da indivisível Trindade. Digna-te aceitá-lo como uma bênção.
+
+@secao Responsório | Eclo 31,8.11a.10cd
+
+@responsorio
+R. Feliz aquele rico que, sem mancha, foi achado,
+que não foi atrás do ouro e não pôs sua esperança
+no dinheiro e nos tesouros.
+* Por isso estão seus bens apoiados no Senhor.
+V. Ele pôde violar a lei de Deus e não violou;
+ele pôde, igualmente, fazer o mal e não o fez.
+* Por isso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes brilhar no bispo São Paulino de Nola o amor à pobreza e o zelo pastoral, concedei que, celebrando os seus méritos, imitemos sua caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

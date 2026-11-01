@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1quinta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.

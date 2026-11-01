@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/22tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {6,11-21}
+
+@tema
+Exortação final
+
+@texto
+Caríssimo, [11] tu, porém, ó homem de Deus, foge destas coisas. Segue a justiça, a piedade, a fé, o amor, a perseverança, a mansidão. [12] Combate o bom combate da fé, conquista a vida eterna, para a qual fostes chamado, como o reconheceste numa bela profissão de fé diante de muitas testemunhas. [13] Eu te ordeno, diante de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que deu testemunho diante de Pôncio Pilatos numa bela profissão de fé: [14] guarda o mandamento imaculado, irrepreensível, até à Aparição de nosso Senhor Jesus Cristo, [15] que mostrará nos tempos estabelecidos o Bendito e único Soberano, o Rei dos reis e Senhor dos senhores, [16] o único que possui a imortalidade, que habita uma luz inacessível, que nenhum homem viu, nem pode ver. A ele, honra e poder eterno! Amém! [17] Aos ricos deste mundo, exorta-os que não sejam orgulhosos, nem ponham esperança na instabilidade da riqueza, mas em Deus, que nos provê tudo com abundância para que nos alegremos. [18] Que façam o bem, se enriqueçam com belas obras, sejam pródigos, capazes de partilhar. [19] Estarão assim acumulando para si mesmos um belo tesouro para o futuro, a fim de obterem a verdadeira vida. [20] Timóteo, guarda o depósito, evita o palavreado vão e ímpio, e as contradições de uma falsa ciência, [21] pois alguns, professando-a, se desviaram da fé. A graça esteja convosco!
+
+@secao Responsório | Cl 2,6-7; Mt 6,19a.20a
+
+@responsorio
+R. Assim como acolhestes Jesus Cristo, o Senhor,
+assim, nele edificados e enraizados, caminhai,
+* Firmes na fé como aprendestes,
+a transbordar de gratidão!
+V. Não queirais ajuntar tesouros na terra;
+ajuntai para vós tesouros no céu!
+* Firmes na fé.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Efésios” de Santo Inácio de Antioquia, bispo e mártir
+{(Séc. II)} {(Nm 7-9)}
+
+@tema
+Fazei todas as coisas em nome do Senhor Jesus Cristo
+
+@texto
+Há os que costumam, por um ardil pernicioso, servir-se por toda parte do Nome, mas praticam coisas indignas de Deus. A esses evitareis como a animais selvagens. São realmente cães raivosos que mordem traiçoeiramente. É preciso precaver-vos de suas mordeduras, difíceis de curar. Um é o médico, em carne e espírito, gerado e não criado, aparecendo na carne como Deus, na morte e na vida verdadeiras, tanto de Maria como de Deus, primeiro capaz de sofrer, depois impassível, Jesus Cristo Senhor Nosso.
+Que ninguém vos iluda, pois. Nem vos deixeis aliás iludir, sendo todo inteiro de Deus. Pois, se nenhuma intriga se armou entre vós, que vos possa atormentar, é sinal de que viveis segundo Deus. Sou vossa vítima e me ofereço em sacrifício por vossa Igreja, efésios, que será celebrada pelos séculos. Os carnais não podem praticar obras espirituais, nem os espirituais obras carnais, como nem a fé pratica as obras da infidelidade nem a infidelidade as da fé. Mas também aquilo que praticais, segundo a carne, é espiritual, pois fazeis tudo em Jesus Cristo.
+Soube de pessoas que por lá passaram, fazendo-se portadoras de más doutrinas: não lhes permitistes espalhá-las entre vós, tapando os ouvidos para não acolher as sementes por eles espalhadas, sabendo que sois pedras do templo do Pai, preparadas para a construção de Deus pai, alçadas para as alturas pela alavanca de Jesus Cristo, alavanca que é a Cruz, servindo-vos do Espírito Santo como de um cabo. Vossa fé por um lado é o guia, enquanto a caridade se transforma em caminho que leva para cima, até Deus. Sois assim todos companheiros de viagem, portadores de Deus, portadores de um templo, portadores de Cristo, portadores do que é santo, adornados em todos os sentidos com os preceitos de Jesus Cristo. Alegro-me por isso convosco, porque tive a honra de falar-vos através desta carta e de vos felicitar, porque, segundo a nova vida, nada amais senão somente a Deus.
+
+@secao Responsório | Cl 3,17; 1Cor 10,31
+
+@responsorio
+R. Tudo o que fizerdes de palavra e ação.
+* Fazei-o em nome do Senhor Jesus,
+por ele dando graças a Deus, o Pai.
+V. Fazei tudo para a glória de Deus.
+* Fazei-o em nome.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

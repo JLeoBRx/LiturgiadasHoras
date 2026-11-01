@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/09tercaTC_impar.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Tiago {3,1-12}
+
+@tema
+Moderação ao falar
+
+@texto
+Meus irmãos, [1] não queirais todos ser mestres, pois sabeis que estamos sujeitos a mais severo julgamento, [2] porque todos nós tropeçamos frequentemente. Aquele que não peca no falar é realmente um homem perfeito, capaz de refrear todo o seu corpo. [3] Quando pomos freio na boca dos cavalos, a fim de que nos obedeçam conseguimos dirigir todo o seu corpo. [4] Notai que também os navios, por maiores que sejam, e impelidos por ventos impetuosos, são, entretanto, conduzidos por um pequeno leme para onde quer que a vontade do timoneiro os dirija. [5] Assim também a língua, embora seja um pequeno membro do corpo, se jacta de grandes feitos! Notai como um pequeno fogo incendeia uma floresta imensa. [6] Ora, também a língua é um fogo. Como o mundo do mal, a língua está posta entre os nossos membros maculando o corpo inteiro e pondo em chamas o ciclo da criação, inflamada como está pela geena. [7] Com efeito, toda espécie de feras, de aves, de répteis e de animais marinhos é domada e tem sido domada pela espécie humana. [8] Mas a língua, ninguém consegue domá-la: ela é um mal irrequieto e está cheia de veneno mortífero. [9] Com ela bendizemos ao Senhor, nosso Pai, e com ela maldizemos os homens feitos à semelhança de Deus. [10] Da mesma boca provêm bênção e maldição. Ora, tal não deve acontecer, meus irmãos. [11] Porventura uma fonte jorra, pelo mesmo oleiro, água doce e água salobra? [12] Porventura, meus irmãos, pode uma figueira produzir azeitonas ou uma videira produzir figos? Assim, uma fonte de água salgada não pode produzir água doce.
+
+@secao Responsório | Tg 3,2; Pv 10,19
+
+@responsorio
+R. Se alguém não cair por palavra, este é um homem perfeito,
+* Capaz de refrear todo o seu corpo.
+V. Não pode faltar o pecado num caudal de palavras;
+quem modera os lábios é um homem prudente.
+* Capaz de.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Discursos” de São Fulgêncio de Ruspe, bispo
+{(Séc. VI)} {(Disc. 5,5-6)}
+
+@tema
+A caridade se cansa no mundo, mas encontra descanso em Deus
+
+@texto
+Lembremo-nos, irmãos, das palavras do Senhor: _Amai_ _os vossos inimigos, fazei bem aos que vos odeiam; abençoai_ _os que vos maldizem e orai pelos que vos injuriam_ (Lc 6, 27-28). Eis que o Senhor nos ordena a estender a nossa caridade até aos inimigos e a abrir os nossos corações de cristãos até para aqueles que nos perseguem. E qual será a nossa recompensa? O que será dado a quem observa este mandamento? Mostra-nos o próprio Senhor o prêmio que reservou para aqueles que praticam a caridade, Ele que, gratuitamente, através do Espírito Santo, instila-a em nossos corações. Ele que se digna a nos doar a caridade, embora sejamos indignos, dirá a nós o que será dado em prêmio àqueles que, praticando-a, tornar-se-ão dignos.
+Na verdade, aqueles que amarão seus inimigos e farão o bem para aqueles que os odeiam, serão filhos de Deus. O que receberão, depois, estes filhos de Deus, o Apóstolo nos diz: _O Espírito mesmo dá testemunho ao nosso espírito de_ _que somos filhos de Deus. E, se filhos, também herdeiros_ _de Deus, e coerdeiros de Cristo_ (Rm 8,16-17).
+Ouvi, pois, ó cristãos, ouvi, ó filhos de Deus, herdeiros de Deus e coerdeiros de Cristo. A fim de obter a herança do Pai, é essencial que sejais generosos em vossa caridade, não só com os amigos, mas também com os inimigos. Não recusais, a ninguém, a caridade, que é um bem comum, não terreno, mas celestial, que se dá, indistintamente, a todos os homens. Exercitai-a todos e, para fazê-lo plenamente, estendei-a aos bons e aos maus. A caridade é um dom de Deus. A ganância, porém, é uma armadilha do diabo, e não somente, é também uma espada que, após a captura, mata. A caridade é a raiz de todos os bens, _porque a raiz de todos_ _os males é o amor ao dinheiro_ (1Tm 6,10). A ganância é constantemente atormentada porque nunca está satisfeita com aquilo que tem. A caridade está sempre feliz, porque mais tem, mais dá. O avarento, quanto mais acumula, mais empobrece, enquanto o generoso, quanto mais oferece, mais se sente rico. A ganância tenta sempre se vingar das injustiças recebidas, e torna-se inquieta; a alegria do perdão espalha a caridade na paz. A ganância foge das obras de misericórdia, mas a caridade tem o prazer de praticá-las. Enquanto a ganância não tem escrúpulos em prejudicar o próximo, a caridade procura não causar qualquer dano. A ganância exalta-se, mas precipita no inferno; a caridade, humilhando-se, sobe aos céus.
+Onde se pode encontrar expressão adequada para celebrar dignamente a caridade? Aquela que não permanece isolada no céu, e que, da mesma forma, não é abandonada à sua própria sorte na terra. Aqui, ela se nutre da palavra de Deus; no céu está saciada dela. Na terra, está rodeada de amigos; no céu é a consorte dos anjos. Ela se cansa no mundo, mas em Deus encontra descanso. Na terra, dia após dia, aperfeiçoa-se com o exercício; no céu é possuída, sem limites, em sua plenitude.
+
+@secao Responsório | Mt 5,44-45; Ef 4,32
+
+@responsorio
+R. Amai vossos inimigos e orai pelos que vos perseguem,
+* Deste modo serei os filhos de vosso Pai do céu.
+V. Antes, sede uns com os outros bondosos e compassivos.
+Perdoai-vos uns aos outros, como também Deus vos perdoou, em Cristo,
+* Deste modo serei.
+
+@secao Oração
+
+@oracao
+Ó Deus, cuja providência jamais falha, nós vos suplicamos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

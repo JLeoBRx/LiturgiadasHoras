@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/eusebiovercelli.htm
+@documento Ofício das Leituras - Santo Eusébio De Vercelli, Bispo
+
+@celebracao
+SANTO EUSÉBIO DE VERCELLI, BISPO
+
+@biografia
+Nasceu na Sardenha, no princípio do século IV. Fazia parte do clero de Roma quando, em 345, foi eleito primeiro bispo de Vercelli. Propagou a religião cristã por meio da pregação e introduziu a vida monástica na sua diocese. Por causa da fé católica, foi exilado pelo imperador Constâncio, e suportou muitos sofrimentos. Tendo regressado à pátria, combateu valorosamente, para restaurar a fé, contra os arianos. Morreu em Vercelli, em 371.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de Santo Eusébio de Vercelli, bispo
+{(Séc. IV)} {(Epist. 2 1,3-2,3; 10,1-11,1: CCL 9, 104-105.109)}
+
+@tema
+Completei a carreira, guardei a fé
+
+@texto
+Irmãos caríssimos, fui informado de que vos encontrais bem, como é meu desejo; e à semelhança do que aconteceu com Habacuc, quando foi levado pelo anjo até onde estava Daniel, imaginei ter ido até vós, como se tivesse subitamente atravessado a grande distância que nos separa.
+Ao receber as cartas de cada um de vós e ao ler nelas os bons sentimentos e o amor que tendes por mim, as lágrimas se misturaram à alegria; e, embora ávido de ler o que escrevestes, meu espírito foi dominado pelo pranto. Não posso evitar nem a alegria nem as lágrimas. Pois, sendo elas fontes do mesmo sentimento de saudade, querem sobrepor-se uma à outra, para manifestar a intensidade do amor. Vivendo assim durante vários dias, imaginava-me conversando convosco, e esquecia os sofrimentos passados. Fui então inundado pela lembrança da vossa alegria, da vossa fé inabalável, do vosso amor, dos frutos que destes; e assim, mergulhado em tantos e tão grandes bens, era como se já não mais estivesse no exílio, mas em vossa companhia.
+Alegro-me, portanto, irmãos caríssimos, por causa da vossa fé; alegro-me pela vossa salvação alcançada com a fé; alegro-me pelos frutos que dais, não apenas para os que estão perto, mas também para os que estão longe. Quando o agricultor se dedica ao cultivo de uma boa árvore que dá frutos, ela não está, por conseguinte, sujeita a ser cortada pelo machado e lançada na fogueira. Da mesma forma, eu quero e desejo, não somente dedicar-me totalmente ao vosso serviço, mas até dar a vida por vossa salvação.
+Aliás, foi com dificuldade que consegui escrever esta carta; pedia constantemente a Deus que contivesse os guardas por mais algumas horas. Assim ele permitiu que o diácono vos pudesse levar, mais do que uma carta de saudações, notícias sobre o meu sofrimento. Por isso, rogo-vos instantemente que guardeis a fé com todo cuidado, mantenhais a concórdia, pratiqueis a oração e lembrai-vos sempre de mim. Que o Senhor se digne libertar a sua Igreja que sofre por todo o mundo; e que também eu, livre da presente tribulação, possa novamente alegrar-me convosco.
+Também vos peço e rogo, pela misericórdia de Deus, que cada um encontre correspondida nesta carta a sua saudação pessoal. Porque, obrigado pelas circunstâncias, não pude escrever a cada um, como costumava fazer. Nesta carta, dirijo-me a todos vós, irmãos, e também às santas irmãs, filhos e filhas, fiéis de ambos os sexos e de todas as idades. Contentai-vos com esta simples saudação e dignai-vos também saudar em meu nome aqueles que são de fora e me concedem sua amizade.
+
+@secao Responsório | Cf. 1Pd 5,2-4; At 20,28
+
+@responsorio
+R. Estai de prontidão, cingi os vossos rins
+e trazei em vossas mãos as lâmpadas acesas.
+* E sede semelhantes a empregados, que esperam
+voltar o seu senhor das festas nupciais.
+V. Portanto, vigiai, pois não sabeis o dia
+em que o Senhor há de chegar.* E sede.
+
+@secao Oração
+
+@oracao
+Fazei-nos, Senhor nosso Deus, proclamar a divindade de Cristo imitando a firmeza do bispo Santo Eusébio, para que, perseverando na fé que ele ensinou, possamos participar da vida do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

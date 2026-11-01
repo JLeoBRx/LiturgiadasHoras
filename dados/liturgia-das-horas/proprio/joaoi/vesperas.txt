@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaoi_vesperas.htm
+@documento Vésperas - São João I, papa e mártir
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Claro espelho de virtude,
+homem santo, bom pastor,
+ouve o hino que, em ti, louva
+os prodígios do Senhor,
+
+que, Pontífice perpétuo,
+os mortais a Deus uniu,
+e, por nova Aliança,
+nova paz nos garantiu.
+
+Previdente, ele te fez
+do seu dom o servidor,
+para dar ao Pai a glória
+e a seu povo vida e amor.
+
+Tendo em mãos do céu as chaves,
+governastes com amor
+o rebanho de São Pedro
+nos caminhos do Senhor
+
+Não te esqueças, pede a Deus,
+tu que ao céu foste elevado:
+que as ovelhas busquem todas
+do Pastor o verde prado.
+
+Glória à Trina Divindade,
+que, num servo tão fiel,
+recompensa os ministérios
+com o júbilo do céu.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o amigo dos irmãos, que intercede pelo povo
+* Aleluia, aleluia. R. Eis o amigo.
+V. Dedicou a sua vida em favor de seus irmãos. * Aleluia.
+Glória ao Pai. R. Eis o amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo. Aleluia.
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, recompensa dos justos, que consagrastes este dia com o martírio do papa João I, ouvi as preces do vosso povo e concedei que, celebrando seus méritos, imitemos sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

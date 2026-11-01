@@ -1,0 +1,67 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3terca_laudes.htm
+@documento Próprio - Laudes - III Terça-feira do Advento
+
+@secao Leitura breve | Gn 49,10
+
+@texto
+O cetro não será tirado de Judá, nem o bastão de comando dentre seus pés, até que venha Aquele a quem pertencem, e a quem obedecerão os povos.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Justiça e paz se abraçarão:
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Desperta, levanta, Cidade de Deus
+e quebra as correntes e o jugo opressor!
+Ó filha cativa, sê livre, Sião!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Desperta, levanta, Cidade de Deus
+e quebra as correntes e o jugo opressor!
+Ó filha cativa, sê livre, Sião!
+
+@secao Preces
+
+@preces
+Deus Pai onipotente estenderá de novo a sua mão para resgatar os sobreviventes do seu povo. Peçamos-lhe, pois, cheios de confiança:
+
+R. **Venha a nós, Senhor, o vosso reino!**
+
+Concedei, Senhor, que possamos dar frutos dignos de conversão,
+– para recebermos o vosso reino que se aproxima. R.
+
+Preparai, Senhor, em nossos corações o caminho para acolhermos vossa Palavra que vai chegar,
+– para que sua glória possa revelar-se em nós. R.
+
+Abatei os montes e colinas do nosso orgulho,
+– e levantai os vales da nossa fragilidade. R.
+
+Derrubai as barreiras de ódio que dividem os povos,
+– e tornai planos os caminhos da concórdia entre os povos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que por meio do vosso Unigênito nos transfigurastes em nova criatura, considerai a obra do vosso amor, e purificai-nos das manchas da antiga culpa no advento do vosso Filho. Que convosco vive e reina, na unidade do Espirito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

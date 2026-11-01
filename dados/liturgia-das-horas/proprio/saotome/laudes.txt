@@ -1,0 +1,168 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saotome_laudes.htm
+@documento Laudes - São Tomé Apóstolo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Tu fulguras qual luzeiro
+entre os doze, São Tomé;
+oh! recebe prazenteiro
+o louvor de nossa fé!
+
+O Senhor te fez sentar
+sobre um trono só de luz.
+O amor levou-te a dar
+tua vida por Jesus.
+
+Relataram os irmãos
+que o Senhor tornara à vida;
+queres vê-lo e, com as mãos,
+apalpar suas feridas.
+
+Que alegria quando o viste
+redivivo em seu fulgor;
+e com fé o adoraste
+como Deus e teu Senhor.
+
+Entre nós, que não o vemos,
+nossa fé por ti floresça,
+o amor com que o buscamos
+dia a dia sempre cresça.
+
+Seja ao Cristo honra e vitória!
+Que a teus rogos ele dê
+vê-lo vivo em sua glória
+a quem anda à luz da fé!
+
+@secao Salmodia
+
+@antifona 1
+E disse-lhe Tomé:
+Senhor, não sabemos aonde tu vais,
+e como podemos saber o caminho?
+Jesus respondeu:
+Eu sou o Caminho, a Verdade e a Vida.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+E disse-lhe Tomé:
+Senhor, não sabemos aonde tu vais,
+e como podemos saber o caminho?
+Jesus respondeu:
+Eu sou o Caminho, a Verdade e a Vida.
+
+@antifona 2
+Tomé, que também é chamado de Dídimo,
+não estava com eles quando veio Jesus.
+Disseram a ele: Nós vimos Jesus. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Tomé, que também é chamado de Dídimo,
+não estava com eles quando veio Jesus.
+Disseram a ele: Nós vimos Jesus. Aleluia.
+
+@antifona 3
+Com teu dedo vem tocar as minhas mãos,
+coloca a tua mão no lado aberto,
+e não sejas um incrédulo, Tomé,
+mas tenhas fé, aleluia, aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Com teu dedo vem tocar as minhas mãos,
+coloca a tua mão no lado aberto,
+e não sejas um incrédulo, Tomé,
+mas tenhas fé, aleluia, aleluia.
+
+@secao Leitura breve | Ef 2,19-22
+
+@texto
+Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Acreditaste, Tomé, porque me viste.
+Felizes os que creem sem ter visto! Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Acreditaste, Tomé, porque me viste.
+Felizes os que creem sem ter visto! Aleluia.
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei-nos celebrar com alegria a festa do apóstolo São Tomé, para que sejamos sempre sustentados por sua proteção e tenhamos a vida pela fé no Cristo que ele reconheceu como Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

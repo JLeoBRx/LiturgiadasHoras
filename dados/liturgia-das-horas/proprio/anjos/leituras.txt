@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/anjos.htm
+@documento Ofício das Leituras - Santos Anjos Da Guarda Memória
+
+@celebracao
+SANTOS ANJOS DA GUARDA
+{Memória}
+
+@biografia
+Ofício da Leituras V. Vinde, ó Deus em meu auxílio. R. Socorrei-me sem demora. Glória ao Pai e ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre. Amém. Aleluia. Esta introdução se omite quando o Invitatório precede imediatamente ao
+
+@titulo Ofício das Leituras
+
+@secao Hino
+
+@hino
+Eterno Autor do mundo,
+que o céu e o mar guiais,
+segundo as nossas obras,
+Rei justo, nos pagais.
+
+O espírito soberbo
+às trevas condenastes
+com muitos companheiros,
+e aos anjos bons firmastes.
+
+Tais anjos enviai-nos,
+e dai-lhes por missão
+guiar os nossos passos
+até à salvação.
+
+Que venham consolar-nos,
+mostrar-nos vosso amor,
+guiar-nos para o bem,
+vencendo o tentador.
+
+Guiai-nos pelos Anjos,
+ó Deus, durante a vida.
+Por sua mão nos levem
+à glória prometida.
+
+A vós, Deus Uno e Trino,
+louvor e todo o bem.
+Possamos, com os Anjos,
+nos céus vos ver. Amém.
+
+@secao Salmodia
+
+@antifona 1
+As águas, ó Senhor, vos avistaram
+conduzistes vosso povo pelo mar. Aleluia.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+As águas, ó Senhor,
+
+@antifona 2
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores! Aleluia.
+
+@salmo salmos/salmo-102-i-v2
+
+@gloria
+
+@antifona
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores! Aleluia.
+
+@antifona 3
+Obras todas do Senhor, glorificai-o! Aleluia.
+
+@salmo salmos/salmo-102-ii-v2
+
+@gloria
+
+@antifona
+Obras todas do Senhor, glorificai-o! Aleluia.
+
+@texto
+V. Bendizei ao Senhor Deus, seus anjos todos,
+R. Valorosos que cumpris as suas ordens.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse de São João {12,1-17}
+
+@tema
+O combate de Miguel com o Dragão
+
+@texto
+[1] Apareceu no céu um grande sinal: uma mulher vestida de sol, tendo a lua debaixo dospés e sobre a cabeça uma coroa de doze estrelas. [2] Estava grávida e gritava em dores departo, atormentada para dar à luz. [3] Então apareceu outro sinal no céu: um grandeDragão, cor de fogo. Tinha sete cabeças e dez chifres e, sobre as cabeças, sete coroas. [4] Com a cauda, varia a terça parte das estrelas do céu, atirando-as sobre a terra. ODragão parou diante da Mulher que estava para dar à luz, pronto para devorar o seuFilho, logo que nascesse. [5] E ela deu à luz um filho homem, que veio para governartodas as nações com cetro de ferro. Mas o Filho foi levado para junto de Deus e do seutrono. [6] A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para queaí fosse alimentada durante mil e duzentos e sessenta dias. [7] Houve então uma batalha no céu: Miguel e seus anjos guerrearam contra o Dragão. ODragão lutou juntamente com os seus anjos, [8] mas foi derrotado, e não se encontrou maiso seu lugar no céu. [9] E foi expulso o grande Dragão, a antiga Serpente, que é chamadoDiabo e Satanás, o sedutor do mundo inteiro. Ele foi expulso para a terra, e os seusanjos foram expulsos com ele. [10] Ouvi então uma voz forte no céu, proclamando:“Agora realizou-se a salvação, a força e a realeza do nosso Deus, e o poder do seu Cristo.Porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noitediante do nosso Deus. [11] Eles venceram o Dragão pelo sangue do Cordeiro e pela palavra do seu próprio testemunho,pois não se apegaram à vida,mesmo diante da morte. [12] Por isso, alegra-te, ó céu,e todos os que viveis nele.Mas ai da terra e do mar, porque o Diabo desceu para o meio de vós e está cheio degrande furor; pois sabe que lhe resta pouco tempo.” [13] Quando viu que tinha sido expulso para a terra, o Dragão começou a perseguir aMulher que tinha dado à luz o menino. [14] A Mulher recebeu as duas asas da grande águiae voou para o deserto, para o lugar onde é alimentada, por um tempo, dois tempos emeio tempo, bem longe da Serpente. [15] ASerpente, então, vomitou como um rio de águaatrás da Mulher, a fim de a submergir. [16] A terra, porém, veio em socorro da Mulher:abriu a boca e engoliu o rio que o Dragão tinha vomitado. [17] Cheio de raiva por causa da Mulher, o Dragão começou a combater o resto dos filhosdela, os que observam os mandamentos de Deus e guardam o testemunho de Jesus.
+
+@secao Responsório | Ap 12,7.10
+
+@responsorio
+R. Houve um grande combate no céu,
+enquanto o dragão combatia
+o arcanjo Miguel e seus anjos.
+* Ouviu-se uma voz proclamando:
+a salvação, o poder e a honra
+pertencem ao Deus poderoso.
+V. Chegou a salvação, o poder e a realeza
+do Senhor e nosso Deus e a autoridade do seu Cristo.
+* Ouviu-se.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Sermo 12 in psalmum Qui habitat, 3.6-8: Opera omnia, Edit.Cisterc. 4 [1966]458-462)} {(Séc.XII)}
+
+@tema
+Eles te guardem em todos os teus caminhos
+
+@texto
+A teu respeito ordenou a seus anjos que te guardem em todos os teus caminhos (Sl 90,11).Louvem o Senhor por sua misericórdia e suas maravilhas para com os filhos dos homens.Louvem e proclamem às nações que o Senhor agiu de modo magnífico a favor deles. Senhor,que é o homem para que assim o conheças? Ou por que inclinas para ele teu coração?Aproximas dele teu coração, enches-te de solicitude por sua causa, cuidas dele. Enfim, a eleenvias o teu Unigênito, infundes o teu Espírito, prometes até a visão de tua face. E para que nasalturas nada falte no serviço a nosso favor, envias os teus santos espíritos a servir-nos, confias-lhes nossa guarda, ordenas que se tornem nossos pedagogos. A teu respeito, ordenou a seus anjos que te guardem em todos os teus caminhos. Esta palavraquanta reverência deve despertar em ti, aumentar a gratidão, dar confiança. Reverência pelapresença, gratidão pela benevolência, confiança pela proteção. Estão aqui, portanto, e estãojunto de ti, não apenas contigo, mas em teu favor. Estão aqui para proteger, para te serem úteis.Na verdade, embora enviados por Deus, não nos é lícito ser ingratos para com eles, que comtanto amor lhe obedecem e em tamanhas necessidades nos auxiliam. Sejamos-lhes fiéis, sejamos gratos a tão grandes protetores; paguemos-lhes com amor;honremo-los tanto quanto pudermos, quanto devemos. Prestemos, no entanto, todo o nossoamor e nossa honra àquele que é tudo para nós e para eles; de quem recebemos poder amar ehonrar, de quem merecemos ser amados e honrados. Assim, irmãos, nele amemos com ternura seus anjos como futuros co-herdeiros nossos, eenquanto esperamos nossos intendentes e tutores dados pelo Pai como nossos guias. Porqueagora somos filhos de Deus, embora não se veja, pois ainda estamos sob tutela quais meninosque em nada diferem dos servos. Aliás, mesmo assim tão pequeninos e restando-nos ainda uma tão longa, e não só tão longa,mas ainda tão perigosa caminhada, que temos a temer com tão poderosos protetores? Eles nãopodem ser vencidos, nem seduzidos, e ainda menos seduzir, aqueles que nos guardam em todosos nossos caminhos. São fiéis, são prudentes, são fortes; por que trememos de medo? Basta queos sigamos, unamo-nos a eles e habitaremos sob a proteção do Deus do céu.
+
+@secao Responsório | Sl 90(91),11-12.10
+
+@responsorio
+R. O Senhor deu uma ordem a seus anjos,
+para em todos os caminhos te guardarem.
+* Haverão de te levar em suas mãos
+para o teu pé não se ferir nalguma pedra.
+V. Nenhum mal há de chegar perto de ti,
+nem a desgraça baterá à tua porta. * Haverão.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misteriosa providência mandais os vossos Anjos para guardar-nos,concedei que nos defendam de todos os perigos e gozemos eternamente do seu convívio. Pornosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

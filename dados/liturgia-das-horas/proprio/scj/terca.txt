@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/scj_terca.htm
+@documento Hora Média - Sagrado Coração de Jesus
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Ó meu povo, o que te fiz?
+Dize em que te contristei,
+em que foi que te faltei?
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Ó meu povo, o que te fiz?
+Dize em que te contristei,
+em que foi que te faltei?
+
+@secao Leitura breve | Jr 31,2-4
+
+@texto
+Isto diz o Senhor: Encontrou perdão no deserto o povo que escapara à espada; Israel encaminha-se para o seu descanso. O Senhor apareceu-me de longe: Amei-te com amor eterno e te atraí com a misericórdia.
+
+@texto
+V. Com alegria bebereis
+R. Do manancial da salvação.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

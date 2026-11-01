@@ -1,0 +1,95 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santoshomenscaridade_terca.htm
+@documento COMUM DOS SANTOS HOMENS - Hora Média
+
+@titulo COMUM DOS SANTOS HOMENS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+O que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. Deus dirige os humildes na justiça.
+R. E aos pobres ele ensina o seu caminho.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, só vós sois santo e sem vós ninguém pode ser bom. Pela intercessão de são (sto.{) N.}, dai-nos viver de tal modo, que não sejamos despojados da vossa glória. Por Cristo, nosso Senhor.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que o exemplo de vossos santos nos leve a uma vida mais perfeita e, celebrando a memória de são(sto.{) N.}, imitemos constantemente suas ações. Por Cristo, nosso Senhor.
+
+@rubrica
+Para vários santos:
+
+@texto
+Deus eterno e todo-poderoso, que pela glorificação dos santos continuais manifestando o vosso amor por nós, concedei que sejamos ajudados por sua intercessão e animados pelo seu exemplo, na imitação fiel do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo religioso:
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são(sto.{) N.}, a quem destes perseverar na imitação de Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo que se dedicou às obras de caridade:
+
+@texto
+Ó Pai, como ensinastes à vossa Igreja que todos os mandamentos se resumem em amar a Deus e ao próximo, concedei-nos, a exemplo de são(sto.{) N.}, praticar obras de caridade, para sermos contados entre os benditos do vosso Reino. Por nosso Senhor Jesus Cristo, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo educador:
+
+@texto
+Ó Deus, que suscitastes são(sto.{) N.} na vossa Igreja, para mostrar ao próximo o caminho da salvação, concedei-nos seguir também o Cristo, nosso Mestre, e chegar até vós com nossos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

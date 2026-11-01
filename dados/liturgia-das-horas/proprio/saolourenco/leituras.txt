@@ -1,0 +1,238 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saolourenco.htm
+@documento Ofício das Leituras - São Lourenço, Diácono E Mártir Festa
+
+@celebracao
+SÃO LOURENÇO, DIÁCONO E MÁRTIR
+{Festa}
+
+@biografia
+Era diácono da Igreja Romana e morreu mártir na perseguição de Valeriano, quatro dias depois do papa Sisto II e seus companheiros, os quatro diáconos romanos. O seu sepulcro encontra-se junto à Via Tiburtina, no Campo Verano. Constantino Magno erigiu uma basílica naquele lugar. O seu culto já se tinha difundido na Igreja no século IV.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Louvemos a glória
+do mártir de Cristo,
+que os bens desprezou:
+aos nus deu vestidos
+e pão aos famintos,
+servindo ao Senhor.
+
+Do fogo a tortura
+acende a fé pura
+no seu coração.
+A chama é vencida
+por quem fez da vida
+total doação.
+
+O coro dos anjos
+recebe sua alma
+nos átrios dos céus.
+De louros cingido,
+de Deus ele alcance
+perdão para os réus.
+
+Com preces ardentes,
+rogamos, ó mártir,
+implora o perdão
+da culpa dos servos
+e firma em fé viva
+o seu coração.
+
+Ao Pai honra e glória,
+louvor e vitória
+ao Filho também,
+no Espírito Santo.
+Aos Três nosso canto
+nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Desse modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles. [8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judéia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Numerosos paralíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo 304,1-4: PL 38,1395-1397)}
+
+@tema
+Serviu o sagrado Sangue de Cristo
+
+@texto
+A Igreja Romana apresenta-nos hoje o dia glorioso de São Lourenço quando ele calcou o furor do mundo, desprezou sua sedução e num e noutro modo venceu o diabo perseguidor. Nesta mesma Igreja – ouvistes muitas vezes – Lourenço exercia o ministério de diácono. Aí servia o sagrado sangue de Cristo; aí, pelo nome de Cristo, derramou seu sangue. O santo apóstolo João expôs claramente o mistério da ceia ao dizer: _Como Cristo entregou sua vida por nós, também_ _nós devemos entregar as nossas pelos irmãos_ (1Jo 3,16). São Lourenço, irmãos, entendeu isto; entendeu e fez; e da mesmíssima forma como recebeu daquela mesa, assim a preparou. Amou a Cristo em sua vida, imitou-o em sua morte. Também nós, irmãos, se de verdade amamos, imitemos. Não poderíamos produzir melhor fruto de amor do que o exemplo da imitação; _Cristo sofreu por nós, deixando-nos o exemplo para_ _seguirmos suas pegadas_ (1Pd 2,21). Nesta frase, parece que o apóstolo Pedro quer dizer que Cristo sofreu apenas por aqueles que seguem suas pegadas e que a morte de Cristo não aproveita senão àqueles que caminham em seu seguimento. Seguiram-no os santos mártires até à efusão do sangue, até à semelhança da paixão; seguiram-no os mártires, porém não só eles. Depois que estes passaram, a ponte não foi cortada; ou depois que beberam, a fonte não secou. Tem, irmãos, tem o jardim do Senhor não apenas rosas dos mártires; tem também lírios das virgens, heras dos casados, violetas das viúvas. Absolutamente ninguém, irmãos, seja quem for, desespere de sua vocação; por todos morreu Cristo. Com toda a verdade, dele se escreveu: _Que_ _quer salvos todos os homens, e que cheguem ao conhecimento da verdade_ (1Tm 2,4). Compreendamos, portanto, como pode o cristão seguir Cristo além do derramamento de sangue, além do perigo de morte. O Apóstolo diz, referindo-se ao Cristo Senhor: _Tendo a_ _condição divina, não julgou rapina ser igual a Deus._Que majestade! _Mas aniquilou-se, tomando a condição de escravo, feito semelhante aos homens e reconhecido como homem_ (Fl 2,7-8). Que humildade! Cristo humilhou-se: aí tens, cristão, a que te apegar. Cristo se humilhou: por que te enches de orgulho? Em seguida, terminada a carreira desta humilhação, lançada por terra a morte, Cristo subiu ao céu; sigamo-lo. Ouçamos o Apóstolo: _Se ressuscitastes com Cristo, descobri o sabor_ _das realidades do alto, onde Cristo está assentado à destra de Deus_ (Cl 3,1).
+
+@secao Responsório | Sl 17(18),3b
+
+@responsorio
+R. São Lourenço exclamava e dizia em voz alta:
+Só adoro o meu Deus, só a ele servirei;
+* Eu não temo, ó tirano, as torturas mais cruéis.
+V. Sois meu escudo e proteção: Em vós espero, ó Senhor!
+* Eu não temo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso diácono Lourenço, inflamado de amor por vós, brilhou pela fidelidade no vosso serviço e pela glória do martírio; concedei-nos amar o que ele amou e praticar o que ensinou. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

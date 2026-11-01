@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/dia24/4quarta_laudes.htm
+@documento Laudes - IV Quarta-feira do Advento (24 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Tu, Belém, não és a última das cidades de Judá,
+pois de ti virá o Guia do meu povo, Israel.
+
+@salmo salmos/salmo-107
+
+@gloria
+
+@antifona
+Tu, Belém, não és a última das cidades de Judá,
+pois de ti virá o Guia do meu povo, Israel
+
+@antifona 2
+Levantai vossa cabeça e olhai,
+pois a vossa redenção se aproxima.
+
+@salmo canticos/is-61-1062-5
+
+@gloria
+
+@antifona
+Levantai vossa cabeça e olhai,
+pois a vossa redenção se aproxima
+
+@antifona 3
+Amanhã virá a vossa salvação:
+é o que diz o Senhor Deus do universo.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Amanhã virá a vossa salvação:
+é o que diz o Senhor Deus do universo.

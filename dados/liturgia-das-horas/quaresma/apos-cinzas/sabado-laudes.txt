@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/sabadocinzas_laudes.htm
+@documento Laudes - Sábado depois das Cinzas
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Como é bom salmodiar
+em louvor ao Deus Altíssimo!
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Como é bom salmodiar em louvor ao Deus Altíssimo!
+
+@antifona 2
+Dar-vos-ei um novo espírito e um novo coração.
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@antifona
+Dar-vos-ei um novo espírito e um novo coração.
+
+@antifona 3
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos.
+
+@secao Leitura breve | Is 1,16-18
+
+@texto
+Lavai-vos, purificai-vos. Tirai a maldade de vossas ações de minha frente. Deixai de fazer o mal! Aprendei a fazer o bem! Procurai o direito, corrigi o opressor. Julgai a causa do órfão, defendei a viúva. Vinde, debatamos - diz o Senhor. Ainda que vossos pecados sejam como púrpura, tornar-se-ão brancos como a neve. Se forem vermelhos como o carmesim, tornar-se-ão como lã.
+
+@secao Responsório breve
+
+@responsorio
+R. O Sangue de Jesus nos purifica,
+* De todos nossos erros nos liberta. R. O Sangue.
+V. Vinde ver os grandes feitos do Senhor! * De todos.
+Glória ao Pai. R. O Sangue.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ajuntai para vós tesouros no céu,
+onde a traça e a ferrugem não corroem nem destroem.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ajuntai para vós tesouros no céu,
+onde a traça e a ferrugem não corroem nem destroem.
+
+@secao Preces
+
+@preces
+Demos graças a Cristo, nosso Salvador, sempre e em toda parte; e supliquemos com toda a confiança:
+
+R. **Socorrei-nos, Senhor, com a vossa graça!**
+
+Ajudai-nos a conservar sem mancha os nossos corpos,
+– para que sejam digna morada do Espírito Santo. R.
+
+Despertai em nós, desde o amanhecer, o desejo de nos sacrificarmos pelos nossos irmãos e irmãs
+– e de cumprirmos a vossa vontade em todas as atividades deste dia. R.
+
+Ensinai-nos a procurar o pão da vida eterna,
+– que vós mesmo nos ofereceis. R.
+
+Interceda por nós a vossa Mãe, refugio dos pecadores,
+– para alcançarmos o perdão dos nossos pecados. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, olhai com bondade a nossa fraqueza, e estendei, para proteger-nos, a vossa mão poderosa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

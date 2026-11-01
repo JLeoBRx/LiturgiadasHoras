@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos Apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@salmo salmos/salmo-118-73-80
+
+@gloria
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Leitura breve | Zc 8,7-8
+
+@texto
+Eis que eu vou salvar o meu povo da terra do Oriente e da terra do pôr-do-sol: eu os conduzirei, e eles habitarão no meio de Jerusalém; serão meu povo e eu serei seu Deus, em verdade e com justiça.
+
+@texto
+V. Nações, glorificai o nosso Deus.
+R. Anunciai em alta voz o seu louvor.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que o natal do Salvador do mundo, manifestado pela luz da estrela, sempre refulja e cresça em nossas vidas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem o Senhor junto a nós,
+para estar em seu trono de glória
+e assentar-se entre os chefes do povo.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Eis que vem o Senhor junto a nós,
+para estar em seu trono de glória
+e assentar-se entre os chefes do povo.
+
+@antifona 2
+Que os montes irrompam justiça e alegria:
+o Senhor, luz do mundo, com glória virá.
+
+@salmo salmos/salmo-110
+
+@gloria
+
+@antifona
+Que os montes irrompam justiça e alegria:
+o Senhor, luz do mundo, com glória virá.
+
+@antifona 3
+Na justiça e piedade vivamos,
+aguardando a bendita esperança
+e a vinda do Cristo Senhor.
+
+@rubrica
+No cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer os Aleluias no começo,entre as estrofes e no fim.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Na justiça e piedade vivamos,
+aguardando a bendita esperança
+e a vinda do Cristo Senhor.
+
+@secao Leitura breve | Fl 4,4-5
+
+@texto
+Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo!
+
+@secao Responsório breve
+
+@responsorio
+R. Alegremo-nos, todos, no Senhor!
+* Alegremo-nos, pois ele está bem perto! R. Alegremo-nos.
+V. Favorecestes, ó Senhor, a vossa terra, libertastes os cativos de Jacó. * Alegremo-nos.
+Glória ao Pai. R. Alegremo-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Oremos a Cristo Jesus, nosso Redentor, caminho, verdade e vida; e digamos humildemente:
+
+R. **Vinde, Senhor, ficai conosco!**
+
+Jesus, Filho do Altíssimo, anunciado por Gabriel à Virgem Maria,
+– vinde reinar para sempre sobre o vosso povo. R.
+
+Santo de Deus, com vossa chegada fizestes o Precursor exultar no seio de Isabel,
+– vinde trazer ao mundo inteiro a alegria da salvação. R.
+
+Jesus Salvador, cujo nome foi revelado pelo anjo a José, homem justo,
+– vinde libertar vosso povo de seus pecados. R.
+
+Luz do mundo, esperado por Simeão e por todos os justos,
+– vinde consolar-nos. R.
+
+{(intenções livres)}
+
+Sol nascente, predito por Zacarias, que das alturas vireis visitar-nos,
+– vinde iluminar aqueles que estão sentados à sombra da morte. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que vedes o vosso povo esperando fervoroso o natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

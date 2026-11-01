@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/catedra_terca.htm
+@documento Hora Média - Cátedra de São Pedro, Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+@secao Salmodia
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@secao Leitura breve | Is 22,22
+
+@texto
+Eu o farei portar aos ombros a chave da casa de Davi; ele abrirá, e ninguém poderá fechar; ele fechará, e ninguém poderá abrir.
+
+@texto
+V. Em toda a terra se espalha o seu anúncio,
+R. E sua voz, pelos confins do universo.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que nada nos possa abalar, pois edificastes a vossa Igreja sobre aquela pedra que foi a profissão de fé do apóstolo Pedro. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

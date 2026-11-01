@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3segunda_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@secao XII (Lamed)
+
+@salmo salmos/salmo-118-89-96
+
+@gloria
+
+@antifona
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@antifona 2
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@salmo salmos/salmo-070-i
+
+@gloria
+
+@antifona
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@antifona 3
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@salmo salmos/salmo-070-ii
+
+@gloria
+
+@antifona
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@secao Leitura breve | Cl 1,21-22
+
+@texto
+Vós, que outrora éreis estrangeiros e inimigos pelas manifestas más obras, eis que agora Cristo vos reconciliou pela morte que sofreu no seu corpo mortal, para vos apresentar como santos, imaculados, irrepreensíveis diante de si.
+
+@texto
+V. Cantai salmos ao Senhor, povo fiel.
+R. Dai-lhe graças e invocai seu santo nome!
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos convocais para o louvor, na mesma hora em que os Apóstolos subiam ao templo, concedei que esta prece, feita de coração sincero em nome de Jesus, alcance a salvação para quantos o invocam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

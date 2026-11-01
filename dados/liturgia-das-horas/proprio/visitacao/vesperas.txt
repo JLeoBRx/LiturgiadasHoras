@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/visitacao_vesperas.htm
+@documento Vésperas - Visitação da Bem-aventurada Virgem Maria
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eis que apressada sobes a montanha,
+ó Virgem que o Senhor por Mãe escolhe!
+Outra mãe vais servir, já tão idosa,
+que nos braços te acolhe.
+
+Mal ouve a tua voz, sente em seu seio
+a alegria do filho que se agita,
+e então, Mãe do Senhor já te saúda,
+entre todas bendita.
+
+E bendita tu mesma te proclamas,
+prorrompendo num hino de vitória,
+onde ao sopro do Espírito engrandeces
+a Deus, Senhor da História.
+
+Contigo se alegrando, todo o povo
+exulta e canta pela terra inteira,
+de Deus, ó Mãe e Filha, Escrava, e Esposa,
+dos homens Medianeira!
+
+Trazendo o Cristo, quantos dons nos trazes,
+ó Virgem que nos tiras da orfandade!
+Ao Deus Trino contigo engrandecemos,
+ó Mãe da Humanidade!
+
+@secao Salmodia
+
+@antifona 1
+Então Maria entrou na casa de Zacarias
+e saudou a sua prima Isabel. (TP. Aleluia.)
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Então Maria entrou na casa de Zacarias
+e saudou a sua prima Isabel. (TP. Aleluia.)
+
+@antifona 2
+Quando ouvi ressoar tua voz ao saudar-me,
+o menino saltou de alegria em meu seio. (TP. Aleluia.)
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Quando ouvi ressoar tua voz ao saudar-me,
+o menino saltou de alegria em meu seio. (TP. Aleluia.)
+
+@antifona 3
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre. (TP. Aleluia.)
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre. (TP. Aleluia.)
+
+@secao Leitura breve | 1Pd 5,5b-7
+
+@texto
+Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós.
+
+@secao Responsório breve
+
+@responsorio
+{No Tempo da Páscoa}
+R. Maria, alegra-te, ó cheia de graça;
+o Senhor é contigo!
+* Aleluia, aleluia. R. Maria.
+V. És bendita entre todas as mulheres da terra
+e bendito é o fruto que nasceu do teu ventre!
+* Aleluia, aleluia. Glória ao Pai.
+
+{No Tempo Comum}
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres da terra
+e bendito é o fruto que nasceu do teu ventre!
+* O Senhor. Glória ao Pai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Doravante as gerações hão de chamar-me de bendita,
+porque o Senhor voltou os olhos
+para a humildade de sua serva. (TP. Aleluia.)
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Doravante as gerações hão de chamar-me de bendita,
+porque o Senhor voltou os olhos
+para a humildade de sua serva. (TP. Aleluia.)
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+Vós, que fizestes de Maria a Mãe da misericórdia,
+– concedei a todos os que estão em perigo sentirem o seu amor materno. R.
+
+Vós, que confiastes a Maria a missão de mãe de família no lar de Jesus e José,
+– fazei que, por sua intercessão, todas as mães vivam em família o amor e a santidade. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que inspirastes à Virgem Maria sua visita a Isabel, levando no seio o vosso Filho, fazei-nos dóceis ao Espírito Santo, para cantar com ela o vosso louvor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

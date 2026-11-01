@@ -1,0 +1,27 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/vigilia_canticos.htm
+@documento Cânticos da Vigília
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Convertei-nos para vós, ó Senhor e nos converteremos;
+renovai os nossos dias, como outrora!
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@salmo canticos/iii-lm-5-1-7-15-17-19-21
+
+@gloria
+
+@antifona
+Convertei-nos para vós, ó Senhor e nos converteremos;
+renovai os nossos dias, como outrora!

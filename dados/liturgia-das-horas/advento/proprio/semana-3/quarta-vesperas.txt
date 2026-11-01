@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quarta_vesperas.htm
+@documento Próprio - Vésperas - III Quarta-feira do Advento
+
+@secao Leitura breve | 1Cor 4,5
+
+@texto
+Não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que tiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o tempo favorável,
+* Eis o dia da salvação! R. Eis o tempo.
+V. O Reino de Deus está bem perto. * Eis o dia.
+Glória ao Pai. R. Eis o tempo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Sois vós o Esperado, ó Senhor,
+que vireis para salvar o vosso povo.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Sois vós o Esperado, ó Senhor,
+que vireis para salvar o vosso povo.
+
+@secao Preces
+
+@preces
+Supliquemos humildemente a Deus Pai, que enviou seu Filho para trazer-nos a paz sem fim; e digamos:
+
+R. **Venha a nós, Senhor, o vosso reino!**
+
+Pai Santo, olhai com bondade para a vossa Igreja,
+– e vinde visitar esta vinha que vossa mão plantou. R.
+
+Deus fiel, lembrai-vos de todos os filhos de Abraão,
+– e cumpri as promessas feitas a seus pais. R.
+
+Deus clementíssimo, compadecei-vos dos povos que ainda não vos conhecem,
+– para que vos glorifiquem por vossa misericórdia. R.
+
+Pastor eterno, visitai as ovelhas do vosso rebanho,
+– e reuni-as todas no único aprisco de Cristo. R.
+
+{(intenções livres)}
+
+Lembrai-vos também de todos os que partiram deste mundo na vossa paz,
+– e recebei-os na glória com vosso Filho. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que as próximas festas do vosso Filho nos sejam remédio nesta vida e prêmio na vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

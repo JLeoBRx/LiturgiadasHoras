@@ -1,0 +1,106 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_leituras.htm
+@documento Ofício das Leituras - IV Quarta-Feira
+
+@titulo IV QUARTA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Autor dos seres, Redentor dos tempos,
+Juiz temível, Cristo, Rei dos reis,
+nosso louvor, o nosso canto e prece,
+clemente, acolhei.
+
+Sobe até vós no transcorrer da noite,
+como oferenda, um jovial louvor.
+Por vós aceito, traga a nós conforto,
+da luz, ó Autor.
+
+A honestidade alegre os nossos dias,
+não haja morte e treva em nossa vida.
+Em nossos atos, sempre a vossa glória
+seja refletida!
+
+Queimai em nós o coração e os rins
+com a divina chama, o vosso amor.
+Velemos, tendo em mãos acesas lâmpadas,
+pois vem o Senhor.
+
+Ó Salvador, a vós louvor e glória,
+e a vosso Pai, Deus vivo, Sumo Bem.
+Ao Santo Espírito o céu entoe hosanas
+para sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Luz verdadeira, amor, piedade,
+e alegria sem medida;
+da morte, ó Cristo, nos salvastes!
+Por vosso sangue temos vida.
+
+O vosso amor nos corações,
+nós vos pedimos, derramai;
+dai-lhes da fé a luz eterna
+e em caridade os confirmai.
+
+De nós se afaste Satanás,
+por vossas forças esmagado.
+E venha a nós o Santo Espírito
+do vosso trono o Enviado.
+
+Louvor a Deus, eterno Pai,
+e a vós seu Filho, Sumo Bem,
+reinando unidos pelo Espírito
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@salmo salmos/salmo-102-i
+
+@gloria
+
+@antifona
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@antifona 2
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@salmo salmos/salmo-102-ii
+
+@gloria
+
+@antifona
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@antifona 3
+Obras todas do Senhor, glorificai-o!
+
+@salmo salmos/salmo-102-iii
+
+@gloria
+
+@antifona
+Obras todas do Senhor, glorificai-o!
+
+@texto
+V. Fazei-me conhecer vossos caminhos.
+R. E então meditarei vossos prodígios!

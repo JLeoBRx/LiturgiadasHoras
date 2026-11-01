@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojoaobosco.htm
+@documento Ofício das Leituras - São João Bosco, Presbítero Memória
+
+@celebracao
+SÃO JOÃO BOSCO, PRESBÍTERO
+{Memória}
+
+@biografia
+Nasceu perto de Castelnuovo, na diocese de Turim, em 1815. Teve uma infância sofrida. Ordenado sacerdote, consagrou todas as suas energias à educação da juventude, para formá-la na prática da vida cristã e no exercício de uma profissão. Com essa finalidade, fundou Congregações, sobretudo, a Sociedade São Francisco de Sales (Salesianos). Escreveu também diversos opúsculos para proteger e defender a religião católica. Morreu em 1888.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São João Bosco, presbítero
+{(Séc.XIX)} {(Epistolario, Torino 1959, 4,201-203)}
+
+@tema
+Sempre trabalhei com amor
+
+@texto
+Antes de mais nada, se queremos ser amigos do verdadeiro bem de nossos alunos e levá-los ao cumprimento de seus deveres, é indispensável jamais vos esquecerdes de que representais os pais desta querida juventude. Ela foi sempre o terno objeto dos meus trabalhos, dos meus estudos e do meu ministério sacerdotal; não apenas meu, mas da cara congregação salesiana. Quantas vezes, meus filhinhos, no decurso de toda a minha vida, tive de me convencer desta grande verdade! É mais fácil encolerizar-se do que ter paciência, ameaçar uma criança do que persuadi-la. Direi mesmo que é mais cômodo, para nossa impaciência e nossa soberba, castigar os que resistem do que corrigi-los, suportando-os com firmeza e suavidade. Tomai cuidado para que ninguém vos julgue dominados por um ímpeto de violenta indignação. É muito difícil, quando se castiga, conservar aquela calma tão necessária para afastar qualquer dúvida de que agimos para demonstrar a nossa autoridade ou descarregar o próprio mau humor. Consideremos como nossos filhos aqueles sobre os quais exercemos certo poder. Ponhamo-nos a seu serviço, assim como Jesus, que veio para obedecer e não para dar ordens; envergonhemo-nos de tudo o que nos possa dar aparência de dominadores; e se algum domínio exercemos sobre eles, é para melhor servirmos. Assim procedia Jesus com seus apóstolos; tolerava-os na sua ignorância e rudeza, e até mesmo na sua pouca fidelidade. A afeição e a familiaridade com que tratava os pecadores eram tais que em alguns causava espanto, em outros escândalo, mas em muitos infundia a esperança de receber o perdão de Deus. Por isso nos ordenou que aprendêssemos dele a ser mansos e humildes de coração. Uma vez que são nossos filhos, afastemos toda cólera quando devemos corrigir-lhes as faltas ou, pelo menos, a moderemos de tal modo que pareça totalmente dominada. Nada de agitação de ânimo, nada de desprezo no olhar, nada de injúrias nos lábios; então sereis verdadeiros pais e conseguireis uma verdadeira correção. Em determinados momentos muito graves, vale mais uma recomendação a Deus, um ato de humildade perante ele, do que uma tempestade de palavras que só fazem mal a quem as ouve e não têm proveito algum para quem as merece.
+
+@secao Responsório | Mc 10,13-14; Mt 18,5
+
+@responsorio
+R. Traziam crianças a ele,
+a fim de que ele as tocasse;
+repreendiam, porém, os discípulos
+àqueles que as apresentavam.
+Jesus disse indignado ao vê-los:
+* Deixai vir as crianças a mim
+e não as queirais impedir,
+pois delas é o reino de Deus.
+V. Quem acolhe uma criança em meu nome,
+é a mim que ele acolhe, diz Jesus. * Deixai.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Bosco para educador e pai dos adolescentes, fazei que, inflamados da mesma caridade, procuremos a salvação de nossos irmãos e irmãs, colocando-nos inteiramente ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

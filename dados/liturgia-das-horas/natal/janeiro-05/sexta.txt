@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/5janeiro_sexta.htm
+@documento 5janeiro_sexta.htm
+
+@secao Leitura breve | Ez 34,11-12
+
+@texto
+Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas. Como o pastor toma conta do rebanho de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou resgatá-las de todos os lugares em que forem dispersadas.
+
+@texto
+V. Os confins do universo contemplaram, aleluia.
+R. A salvação do nosso Deus, aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, iniciastes maravilhosamente a redenção do vosso povo. Concedei a vossos servos uma fé tão firme, que nos deixemos conduzir por ele e cheguemos à glória prometida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

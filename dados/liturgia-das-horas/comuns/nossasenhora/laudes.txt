@@ -1,0 +1,223 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_nossasenhora_laudes.htm
+@documento Laudes - COMUM DE NOSSA SENHORA
+
+@titulo COMUM DE NOSSA SENHORA
+
+@texto
+R. Vinde, adoremos o Cristo Jesus, Filho bendito da Virgem Maria!
+
+@rubrica
+Ou:
+
+@texto
+R. Louvemos a nosso Senhor, festejemos a Virgem Maria!
+
+@salmo salmos/salmo-094
+
+@gloria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Senhora gloriosa,
+bem mais que o sol brilhais.
+O Deus que vos criou
+ao seio amamentais.
+
+O que Eva destruiu,
+no Filho recriais;
+do céu abris a porta
+e os tristes abrigais.
+
+Da luz brilhante porta,
+sois pórtico do Rei.
+Da Virgem veio a vida.
+Remidos, bendizei!
+
+Ao Pai e ao Espírito,
+poder, louvor, vitória,
+e ao Filho, que gerastes
+e vos vestiu de glória.
+
+@secao Salmodia
+
+@antifona 1
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@antifona 2
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@antifona 3
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@secao Leitura breve | Cf. Is 61,10
+
+@texto
+Exulto de alegria no Senhor e minh’alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me qual noiva com suas joias.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A porta do céu foi fechada por Eva; por Maria ela abriu-se aos homens de novo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A porta do céu foi fechada por Eva; por Maria ela abriu-se aos homens de novo.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+@rubrica
+Ou:
+
+@texto
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Salvador do mundo, que pelos méritos da redenção preservastes a vossa Mãe de toda a mancha de pecado,
+– livrai-nos também de todo pecado. R.
+
+Redentor nosso, que fizestes da Imaculada Virgem Maria o tabernáculo puríssimo da vossa presença e o sacrário do Espírito Santo,
+– fazei de nós templos vivos do vosso Espírito. R.
+
+Palavra eterna, que ensinastes vossa Mãe a escolher a melhor parte,
+– ajudai-nos a imitá-la buscando o alimento da vida eterna. R.
+
+Rei dos reis, que quisestes ter vossa Mãe convosco no céu em corpo e alma,
+– fazei que aspiremos sempre aos bens do alto. R.
+
+Senhor do céu e da terra, que colocastes Maria como rainha à vossa direita,
+– dai-nos a alegria de participar um dia com ela da mesma glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Senhor nosso Deus, concedei-nos sempre saúde de alma e corpo, e fazei que, pela intercessão da Virgem Maria, libertos das tristezas presentes, gozemos as alegrias eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Perdoai, ó Deus, os pecados dos vossos filhos e filhas, e salvai-nos pela intercessão da Virgem Maria, uma vez que não podemos agradar-vos apenas com os nossos méritos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus de misericórdia, socorrei a nossa fraqueza e concedei-nos ressurgir dos nossos pecados pela intercessão da Mãe de Jesus Cristo, cuja memória hoje celebramos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Valha-nos, ó Deus, a intercessão da sempre Virgem Maria, para que, livres de todos os perigos, vivamos em vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Fazei, ó Deus, que, ao celebrarmos a memória da Virgem Maria, possamos também, por sua intercessão, participar da plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus todo-poderoso, pela intercessão de Maria, nossa Mãe, socorrei os fiéis que se alegram com a sua proteção, livrando-os de todo mal neste mundo e dando-lhes a alegria do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

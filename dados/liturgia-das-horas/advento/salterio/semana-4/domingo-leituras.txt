@@ -1,0 +1,58 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4domingo_leituras.htm
+@documento Ofício das Leituras - IV Domingo do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia.
+
+@antifona 2
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies,
+está perto o teu Rei e Salvador.
+
+@salmo salmos/salmo-065-i
+
+@gloria
+
+@antifona
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies,
+está perto o teu Rei e Salvador.
+
+@antifona 3
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque Ele vem sem mais tardar.
+
+@salmo salmos/salmo-065-ii
+
+@gloria
+
+@antifona
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque Ele vem sem mais tardar.

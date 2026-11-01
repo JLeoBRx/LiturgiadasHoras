@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/batismo_vesperas.htm
+@documento Vésperas - Batismo do Senhor
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+João cumpre a sua missão
+ao batizar o Senhor,
+que no Jordão mergulhando
+na água as águas lavou.
+
+Não quer lavar-se a si mesmo
+o Filho da Virgem pura,
+mas quer nas águas lavar
+a culpa da criatura.
+
+É este o meu filho amado,
+do Pai a voz proclamou.
+E sob a forma de pomba
+nele o Espírito pousou.
+
+A salvação da Igreja
+neste mistério reluz.
+Em três pessoas um Deus
+no tempo e na eterna luz.
+
+Ó Cristo, vida e verdade,
+a vós a glória, o louvor;
+o Pai e o Espírito revelam
+vosso divino esplendor.
+
+@secao Salmodia
+
+@antifona 1
+Ressoou a voz do Pai vinda dos céus:
+Eis meu Filho muito amado: escutai-o.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Ressoou a voz do Pai vinda dos céus:
+Eis meu Filho muito amado: escutai-o.
+
+@antifona 2
+No Jordão o Senhor esmagou
+a cabeça da antiga serpente
+e livrou-nos de sua opressão.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+No Jordão o Senhor esmagou
+a cabeça da antiga serpente
+e livrou-nos de sua opressão.
+
+@antifona 3
+É grande o mistério deste dia:
+No Jordão o Criador do universo
+purifica nossas culpas e pecados.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+É grande o mistério deste dia:
+No Jordão o Criador do universo
+purifica nossas culpas e pecados.
+
+@secao Leitura breve | At 10,37-38
+
+@texto
+Vós sabeis o que aconteceu em toda a Judéia, a começar pela Galiléia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele.
+
+@secao Responsório breve
+
+@responsorio
+R. É este o que veio
+* Pela água e pelo sangue. R. É este.
+V. Jesus Cristo, Senhor nosso. * Pela água.
+Glória ao Pai. R. É este.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Jesus Cristo nos amou até o fim,
+e com seu sangue Ele lavou nossos pecados,
+e fez de nós povo de reis e sacerdotes
+para a glória de Deus Pai onipotente.
+A ele glória e poder eternamente!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Jesus Cristo nos amou até o fim,
+e com seu sangue Ele lavou nossos pecados,
+e fez de nós povo de reis e sacerdotes
+para a glória de Deus Pai onipotente.
+A ele glória e poder eternamente!
+
+@secao Preces
+
+@preces
+Oremos a nosso Redentor, que quis ser batizado por João no rio Jordão; e digamos:
+
+R. **Senhor, enviai-nos vosso Espírito!**
+
+Cristo, servo de Deus, em quem o Pai põe todo o seu agrado,
+– enviai sobre nós o vosso Espírito. R.
+
+Cristo, Eleito de Deus, que não quebrais o caniço rachado nem apagais a mecha que ainda fumega,
+– tende compaixão de todos os que vos procuram de coração sincero. R.
+
+Cristo, Filho de Deus, a quem o Pai escolheu pela Nova Aliança para ser a luz das nações;
+– abri, nas águas do batismo, os olhos dos que ainda não têm fé. R.
+
+Cristo, Salvador da humanidade, a quem o Pai ungiu com o Espírito Santo para o ministério da salvação;
+– fazei que todos vos conheçam e creiam em vós, para alcançarem a vida eterna. R.
+
+{(intenções livres)}
+
+Cristo, nossa Esperança, que conduzis para a luz da salvação os povos que se acham nas trevas,
+– recebei no vosso reino os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que, sendo o Cristo batizado no Jordão, e pairando sobre ele o Espírito Santo, o declarastes solenemente vosso Filho, concedei aos vossos filhos adotivos, renascidos da água e do Espírito Santo, perseverar constantemente em vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

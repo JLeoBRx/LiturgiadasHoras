@@ -1,0 +1,130 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4domingo_vesperas.htm
+@documento IV Domingo - II Vésperas
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó luz, ó Deus Trindade,
+ó Unidade e fonte:
+na luz do sol que morre,
+a vossa em nós desponte.
+
+A vós de madrugada,
+de tarde vos cantamos;
+a vós na eternidade,
+louvar sem fim possamos.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Na glória e esplendor da santidade,
+eu te gerei antes da aurora, aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Na glória e esplendor da santidade,
+eu te gerei antes da aurora, aleluia.
+
+@antifona 2
+Felizes os famintos e sedentos de justiça:
+serão todos saciados.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Felizes os famintos e sedentos de justiça:
+serão todos saciados.
+
+@antifona 3
+Celebrai o nosso Deus, servidores do Senhor,
+vós os grandes e os pequenos! Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Celebrai o nosso Deus, servidores do Senhor,
+vós os grandes e os pequenos! Aleluia.
+
+@secao Leitura breve | Hb 12,22-24
+
+@texto
+Vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste; da reunião festiva de milhões de anjos; da assembleia dos primogênitos, cujos nomes estão escritos nos céus; de Deus, o Juiz de todos; dos espíritos dos justos, que chegaram à perfeição; de Jesus, mediador da nova aliança, e da aspersão do sangue mais eloquente que o de Abel.
+
+@secao Responsório breve
+
+@responsorio
+R. É grande o Senhor,
+* E é grande o seu poder. R. É grande.
+V. Seu saber é sem limites. * E é grande.
+Glória ao Pai. R. É grande.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Alegramo-nos no Senhor, de quem procede todo bem. Por isso, peçamos de coração sincero:
+
+R. **Ouvi, Senhor, a nossa oração!**
+
+Pai e Senhor do universo, que enviastes vosso Filho ao mundo para que em toda parte fosse glorificado o vosso nome,
+– confirmai o testemunho da vossa Igreja entre os povos. R.
+
+Fazei-nos dóceis à pregação dos apóstolos,
+– para vivermos de acordo com a verdade da nossa fé. R.
+
+Vós, que amais os justos,
+– fazei justiça aos oprimidos. R.
+
+Libertai os prisioneiros e abri os olhos aos cegos,
+– levantai os que caíram e protegei os estrangeiros. R.
+
+{(intenções livres)}
+
+Realizai a promessa feita aos que adormeceram na vossa paz,
+– e fazei que alcancem, por vosso Filho, a santa ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

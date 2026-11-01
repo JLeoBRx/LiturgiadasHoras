@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/22sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo a Timóteo {4,1-22}
+
+@tema
+Última exortação de Paulo
+
+@texto
+Caríssimo, [1] eu te conjuro, diante de Deus e de Cristo Jesus, que há de vir julgar os vivos e os mortos, pela sua Aparição e por seu Reino: [2] proclama a palavra, insiste, no tempo oportuno e no inoportuno, refuta, ameaça, exorta com toda paciência e doutrina. [3] Pois virá tempo em que alguns não suportarão a sã doutrina; pelo contrário, segundo os seus próprios desejos, como que sentindo comichão nos ouvidos, se rodearão de mestres. [4] Desviarão os ouvidos da verdade, orientando-os para as fábulas. [5] Tu, porém, sê sóbrio em tudo, suporta o sofrimento, faze o trabalho de evangelista, realiza plenamente teu ministério. - [6] Quanto a mim, já fui oferecido em libação, e chegou o tempo de minha partida. [7] Combati o bom combate, terminei a minha carreira, guardei a fé. [8] Desde já me está reservada a coroa da justiça, que me dará o Senhor, justo Juiz, naquele Dia; e não somente a mim, mas a todos os que tiverem esperado com amor a sua Aparição. [9] Procura vir me encontrar o mais depressa possível. [10] Pois Demas me abandonou por amor do mundo presente. Ele partiu para Tessalônica. Crescente para a Galácia, Tito para a Dalmácia. [11] Somente Lucas está comigo. Toma contigo Marcos, e traze-o, pois me é útil no ministério. [12] Enviei Tíquico a Éfeso. [13] Traze-me, quando vieres, o manto que deixei em Trôade, na casa de Carpo, e também os livros, especialmente os pergaminhos. [14] Alexandre, o fundidor, deu provas de muita maldade para comigo. O Senhor lhe retribuirá segundo as suas obras. [15] Tu, guarda-te também dele, porque se opôs fortemente às nossas palavras. [16] Na primeira vez em que apresentei a minha defesa ninguém me assistiu, todos me abandonaram. Que isto não lhes seja imputado. [17] Mas o Senhor me assistiu e me revestiu de forças, a fim de que por mim a mensagem fosse plenamente proclamada e ouvida por todas as nações. E eu fui libertado da boca do leão. [18] O Senhor me libertará de toda obra maligna e me guardará para o seu Reino celeste. A ele a glória pelos séculos dos séculos! Amém! [19] Saúda Prisca e Áquila, e a família de Onesíforo. [20] Erasto ficou em Corinto. Deixei Trófimo doente em Mileto. [21] Procura vir antes do inverno. Enviam-te saudações: Êubulo, Prudente, Lino, Cláudia, e todos os irmãos. [22] O Senhor esteja com o teu espírito! A graça esteja com todos vós!
+
+@secao Responsório | 2Tm 4,2.5; Fl 1,18
+
+@responsorio
+R. Proclama a palavra, insiste,
+no tempo oportuno e no inoportuno, refuta,
+exorta com toda a paciência e doutrina;
+* Suporta o sofrimento, faze o trabalho de evangelista.
+V. De qualquer maneira,
+ou com segundas intenções ou sinceramente,
+Cristo é proclamado.
+* Suporta o sofrimento.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Efésios” de Santo Inácio de Antioquia, bispo e mártir
+{(Séc. II)} {(Nm 20-21)}
+
+@tema
+Estou pronto para dar a minha vida por vós
+
+@texto
+Se Jesus Cristo, pela vossa oração, me tornar digno e se for de Sua vontade, num segundo escrito que desejo compor para vós, hei de esclarecer o que iniciei, a saber, o plano da salvação, em relação ao homem novo, Jesus Cristo, na fé para Ele e no amor para com Ele em Sua paixão e Ressurreição. Sobretudo se o Senhor me revelar que todos, em particular e em comum, na graça que procede do Nome, vos reunis na mesma fé e em Jesus Cristo, que descende segundo a carne de Davi, filho do homem e filho de Deus, para obedecermos ao bispo e ao presbitério numa concórdia indivisível, partindo um mesmo pão, que é o remédio da imortalidade, antídoto contra a morte, mas vida em Jesus Cristo para sempre.
+Sou preço de resgate para vós e para os que enviastes para honra de Deus a Esmirna, donde também vos escrevo em sinal de gratidão ao Senhor e como prova de amor tanto a Policarpo como a vós. Lembrai-vos de mim, como também Jesus Cristo se lembra de vós. Rezai pela Igreja da Síria, donde sou levado preso para Roma. Sendo o último dos fiéis, de lá fui julgado digno de servir à honra de Deus. Saudações em Deus Pai e em Jesus Cristo, nossa esperança comum.
+
+@secao Responsório | 2Cor 12,14-15; Fl 2,17
+
+@responsorio
+R. Não procuro os vossos bens, mas a vós mesmos.
+Não são os filhos que devem acumular bens para os pais,
+mas sim os pais para os filhos.
+De bom grado me despenderei.
+* E me despenderei todo inteiro em vosso favor.
+V. Se o meu sangue for derramado em libação,
+em sacrifício e serviço da vossa fé, alegro-me.
+* E me despenderei.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4segunda_vesperas.htm
+@documento Vésperas - Segunda-Feira IV
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Fonte da luz, da luz origem,
+as nossas preces escutai:
+da culpa as trevas expulsando,
+com vossa luz nos clareai.
+
+Durante a faina deste dia
+nos protegeu o vosso olhar.
+De coração vos damos graças
+em todo tempo e lugar.
+
+Se o pôr do sol nos trouxe as trevas,
+outro sol fulge, coruscante,
+e envolve até os próprios anjos
+com o seu brilho radiante.
+
+Todas as culpas deste dia
+apague o Cristo bom e manso,
+e resplandeça o coração
+durante as horas do descanso.
+
+Glória a vós, Pai, louvor ao Filho,
+poder ao Espírito também.
+No resplendor do vosso brilho,
+regeis o céu e a terra. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@celebracao
+{I}
+
+@salmo salmos/salmo-135
+
+@gloria
+
+@antifona
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@antifona 2
+Como são grandes e admiráveis vossas obras,
+ó Senhor e nosso Deus onipotente!
+
+@celebracao
+{II}
+
+@salmo salmos/salmo-135-v2
+
+@gloria
+
+@antifona
+Como são grandes e admiráveis vossas obras,
+ó Senhor e nosso Deus onipotente!
+
+@antifona 3
+Na plenitude dos tempos,
+quis o Pai reunir todas as coisas no Cristo.
+
+@salmo canticos/ef-1-3-10-v3
+
+@gloria
+
+@antifona
+Na plenitude dos tempos,
+quis o Pai reunir todas as coisas no Cristo.
+
+@secao Leitura breve | 1Ts 3,12-13
+
+@texto
+O Senhor vos conceda que o amor entre vós e para com todos aumente e transborde sempre mais, a exemplo do amor que temos por vós. Que assim ele confirme os vossos corações numa santidade sem defeito aos olhos de Deus, nosso Pai, no dia da vinda de nosso Senhor Jesus, com todos os seus santos.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó Senhor, suba à vossa presença
+* A minha oração, como incenso. R. Ó Senhor.
+V. Minhas mãos como oferta da tarde. * A minha oração.
+Glória ao Pai. R. Ó Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A minh'alma vos engrandece
+eternamente, Senhor, meu Deus!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A minh'alma vos engrandece
+eternamente, Senhor, meu Deus!
+
+@secao Preces
+
+@preces
+Oremos a Jesus Cristo, que nunca abandona os que nele confiam; e digamos humildemente:
+
+R. **Senhor Deus, ouvi a nossa oração!**
+
+Senhor Jesus Cristo, nossa luz, iluminai a vossa Igreja,
+– a fim de que ela anuncie a todos os povos o grande mistério da piedade manifestado na vossa encarnação. R.
+
+Protegei os sacerdotes e ministros da vossa Igreja,
+– para que, pregando aos outros, sejam também eles fiéis ao vosso serviço. R.
+
+Vós, que, pelo vosso sangue, destes a paz ao mundo,
+– afastai o pecado da discórdia e o flagelo da guerra. R.
+
+Dai a riqueza da vossa graça aos que vivem no matrimônio,
+– para que sejam mais perfeitamente um sinal do mistério de vossa Igreja. R.
+
+{(intenções livres)}
+
+Concedei a todos os que morreram o perdão dos pecados,
+– a fim de que por vossa misericórdia vivam na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ficai conosco, Senhor Jesus, porque a tarde cai e, sendo nosso companheiro na estrada, aquecei-nos os corações e reanimai nossa esperança, para vos reconhecermos com os irmãos nas Escrituras e no partir do pão. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

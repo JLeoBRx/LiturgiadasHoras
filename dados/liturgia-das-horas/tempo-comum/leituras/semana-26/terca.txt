@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/26tercaTC.htm
+@documento Ofício das Leituras - TERÇA-FEIRA
+
+@titulo TERÇA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {1,27–2,11}
+
+@tema
+Apelo à imitação de Cristo
+
+@texto
+Irmãos: [1,27] Só uma coisa importa: vivei à altura do Evangelho de Cristo. Quer vá ter convosco, quer permaneça ausente, desejo ouvir que estais firmes em um só espírito, lutando unânimes pela fé do Evangelho, [28] sem vos deixar intimidar em nada por vossos adversários, o que para eles é motivo de perdição, mas para vós é sinal de salvação, e isso da parte de Deus. [29] Porque vos foi concedido não somente crer em Cristo mas também sofrer por ele, [30] sustentando o mesmo combate que vistes em mim e agora de mim ouvis.
+
+[2,1] Se existe consolação na vida em Cristo, se existe alento no mútuo amor, se existe comunhão no Espírito, se existe ternura e compaixão, [2] tornai então completa a minha alegria: aspirai à mesma coisa, unidos no mesmo amor; vivei em harmonia, procurando a unidade. [3] Nada façais por competição ou vanglória, mas, com humildade, cada um julgue que o outro é mais importante, [4] e não cuide somente do que é seu, mas também do que é do outro. [5] Tende entre vós o mesmo sentimento que existe em Cristo Jesus. [6] Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, [7] mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, [8] humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. [9] Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. [10] Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, [11] e toda língua proclame: "Jesus Cristo é o Senhor" – para a glória de Deus Pai.
+
+@secao Responsório | 1Pd 2,24ab; Hb 2,14b; cf. 12,2a
+
+@responsorio
+R. O Senhor carregou sobre si
+nossas culpas, no lenho da cruz,
+para que, mortos aos nossos pecados,
+na justiça de Deus nós vivamos,
+* Para, assim, destruir pela morte
+a quem tinha o domínio da morte,
+isto é, destruir o demônio.
+V. O autor da nossa fé, em lugar da alegria,
+preferiu sofrer na cruz. * Para assim.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos filipenses, de São Policarpo, bispo e mártir
+{(Séc. II)}{(Nn. 6,1-8,2: Funk 1,273-275)}
+
+@tema
+Cristo deu-nos o exemplo com a sua vida
+
+@texto
+Sejam os presbíteros inclinados à compaixão, misericordiosos para com todos, reconduzam os que se desviaram do caminho, visitem todos os enfermos; não se descuidem da viúva, do órfão ou do pobre. Mas _sempre cheios de solicitude para o bem diante de Deus e dos homens_ (cf. 2Cor 8,21), evitem a cólera, a acepção de pessoas, o julgamento injusto. Repilam para longe toda a avareza; não dêem logo crédito contra alguém, não sejam demasiado severos ao julgar, certos de que todos nós somos devedores do pecado.
+
+Se, portanto, suplicamos a Deus perdoar-nos, devemos também nós perdoar. Pois estamos diante do Senhor e dos olhos de Deus e teremos _todos de comparecer perante o tribunal de Cristo, e cada um prestará contas de si_ (Rm 14,10.12). Desse modo sirvamo-lo com temor e todo o respeito como nos ordenou ele e os apóstolos, que nos anunciaram o Evangelho, como também os profetas, que predisseram a vinda de nosso Senhor. Atentos, façam todo o bem, afastem-se dos escândalos, dos falsos irmãos e daqueles que usam o nome do Senhor com hipocrisia e induzem ao erro os homens superficiais.
+
+_Todo aquele que não confessar ter Jesus Cristo vindo na carne é um anticristo_ (cf. 1Jo 4,2.3; 2Jo 7). E quem não testemunhar o martírio da cruz, vem do demônio. E quem fizer servir as palavras de Deus a seus desejos e disser não haver ressurreição nem juízo, este é o primogênito de Satanás. Por isso, deixando de lado a futilidade de muitos e os falsos sistemas, voltemos à doutrina que nos foi entregue desde o início, _vigilantes na oração_ (cf. 1Pd 4,7) e fiéis aos jejuns. Elevemos preces a Deus que tudo vê, _para que não nos deixe cair em tentação_ (Mt 6,13), conforme disse o Senhor: _O espírito na verdade é pronto, mas a carne é fraca_ (Mt 26,41).
+
+Perseveremos sem cessar em nossa esperança e penhor de nossa justiça, que é Jesus Cristo: _Em seu corpo carregou sobre o madeiro os nossos pecados, ele que não cometeu pecado nem se encontrou engano em sua boca_ (1Pd 2,24.22); mas, por nossa causa, para que vivamos nele, tudo suportou. Sejamos, por conseguinte, imitadores de sua paciência e, se sofremos por seu nome, nós lhe daremos glória. Foi este o exemplo que nos deu em si mesmo, e nós cremos.
+
+@secao Responsório | Rm 12,17b; 2Cor 6,3; At 24,15a.16
+
+@responsorio
+R. Irmãos, tende cuidado de bem proceder diante de todos,
+* A fim de que o nosso serviço
+fique acima de toda censura.
+V. Tendo em Deus uma firme esperança,
+eu me aplico em manter, sem cessar,
+a minha consciência sem mancha,
+diante de Deus e dos homens. * A fim.
+
+@secao Oração
+
+@oracao
+Ó Deus, que mostrais vosso poder sobretudo no perdão e na misericórdia, derramai sempre em nós a vossa graça, para que, caminhando ao encontro das vossas promessas, alcancemos os bens que nos reservais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

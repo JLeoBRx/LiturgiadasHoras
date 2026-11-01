@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/basilicaspedroepaulo_vesperas.htm
+@documento Vésperas - Dedicação das basílicas dos Santos Pedro e Paulo, Apóstolos
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Pedro, pastor piedoso,
+desfaze o grilhão dos réus:
+com tua palavra podes
+abrir e fechar os céus.
+
+Ó Paulo, mestre dos povos,
+ensina-nos teu amor:
+Correr em busca do prêmio,
+chegar ao Cristo Senhor.
+
+A vós, ó Trindade, glória,
+poder e louvor também;
+que sois eterna unidade
+nos séculos, sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Jesus viu a Pedro e André
+e os chamou para junto de si.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Jesus viu a Pedro e André
+e os chamou para junto de si.
+
+@antifona 2
+Disse a eles o Senhor: Vinde comigo,
+e pescadores de homens vos farei.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Disse a eles o Senhor: Vinde comigo,
+e pescadores de homens vos farei.
+
+@antifona 3
+Deixaram suas redes e a barca,
+e logo eles seguiram a Jesus.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Deixaram suas redes e a barca,
+e logo eles seguiram a Jesus.
+
+@secao Leitura breve | Ef 4,11-13
+
+@texto
+Cristo instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude.
+
+@secao Responsório breve
+
+@responsorio
+R. Anunciai entre as nações
+* A glória do Senhor. R. Anunciai.
+V. E as suas maravilhas entre os povos do universo.
+* A glória. Glória ao Pai. R. Anunciai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Os corpos dos santos repousam na paz;
+viverão para sempre seus nomes na glória.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Os corpos dos santos repousam na paz;
+viverão para sempre seus nomes na glória.
+
+@secao Preces
+
+@preces
+Irmãos, edificados sobre o fundamento dos apóstolos, roguemos a Deus Pai todo-poderoso em favor de seu povo santo; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Vós quisestes, ó Pai, que o vosso Filho, ressuscitado dos mortos, se manifestasse primeiramente aos apóstolos;
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, guardai sob a proteção dos apóstolos Pedro e Paulo a vossa Igreja, que deles recebeu a primeira semente do Evangelho, e concedei que por eles receba até o fim dos tempos a graça que a faz crescer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/inaciodeantioquia.htm
+@documento Ofício das Leituras - Santo Inácio De Antioquia, Bispo E Mártir Memória
+
+@celebracao
+SANTO INÁCIO DE ANTIOQUIA, BISPO E MÁRTIR
+{Memória}
+
+@biografia
+Inácio foi o sucessor de Pedro no governo da Igreja de Antioquia. Condenado às feras, foi conduzido a Roma e aí, no tempo do imperador Trajano, recebeu a gloriosa coroa do martírio, no ano 107. Durante a viagem escreveu sete cartas a várias Igrejas, nas quais se refere, com profunda sabedoria e erudição, a Cristo, à organização da Igreja e aos princípios fundamentais da vida cristã. A sua memória era celebrada neste dia, já no século IV, em Antioquia.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos romanos, de Santo Inácio, bispo e mártir
+{(Séc. I)} {(Cap. 4,1-2; 6,1-8,3: Funk 1,217-223)}
+
+@tema
+Sou trigo de Deus e serei moído pelos dentes das feras
+
+@texto
+Tenho escrito a todas as Igrejas e a todas elas faço saber que morro por Deus com alegria, desde que vós não me impeçais. Suplico-vos: não demonstreis por mim uma benevolência inoportuna. Deixai-me ser alimento das feras; por elas pode-se alcançar a Deus. Sou trigo de Deus, serei triturado pelos dentes das feras para tornar-me o puro pão de Cristo. Rogai a Cristo por mim, para que por este meio me torne sacrifício para Deus. Nem as delícias do mundo nem os reinos terrestres são vantagens para mim. Mais me aproveita morrer em Cristo Jesus do que imperar até os confins da terra. Procuro-o, a ele que morreu por nós; quero-o, a ele que por nossa causa ressuscitou. Meu nascimento está iminente. Perdoai-me, irmãos! Não me impeçais de viver, não desejeis que eu morra, eu, que tanto desejo ser de Deus. Não me entregueis ao mundo nem me fascineis com o que é material. Deixai-me contemplar a luz pura; quando lá chegar, serei homem. Concedei-me ser imitador da paixão de meu Deus. Se alguém o possui no coração, entenderá o que quero e terá compaixão de mim, sabendo quais os meus impedimentos. O príncipe deste mundo deseja arrebatar-me e corromper meu amor para com Deus. Nenhum de vós, aí presentes, o ajude! Ponde-vos de meu lado, ou melhor, do lado de Deus. Não podeis dizer o nome de Jesus Cristo, enquanto cobiçais o mundo. Que a inveja não more em vós! Mesmo que eu em pessoa vos rogue, não me acrediteis; crede antes no que vos escrevo, desejando morrer. Meu amor está crucificado, a matéria não me inflama, porque uma água viva e murmurante dentro de mim me diz em segredo: “Vem para o Pai”. Não sinto prazer com o alimento corruptível nem com os prazeres deste mundo. Quero o pão de Deus, a carne de Jesus Cristo, que nasceu da linhagem de Davi; e quero a bebida, o seu sangue, que é a caridade incorruptível. Não quero mais viver segundo os homens. Isto acontecerá se vós quiserdes. Rogo-vos que o queirais para alcançardes também vós a misericórdia. Com poucas palavras dirijo-me a vós; acreditai em mim! Jesus Cristo vos manifestará que digo a verdade; ele, a boca verdadeira pela qual o Pai verdadeiramente falou. Pedi vós por mim, para que o consiga. Não por motivos carnais, mas segundo a vontade de Deus vos escrevi. Se for martirizado, vós me quisestes bem; se rejeitado, vós me odiastes.
+
+@secao Responsório
+
+@responsorio
+R. Não há nada que vos falte se tiverdes fé e amor
+em Jesus, nosso Senhor, pois são eles o princípio
+e o fim de nossa vida.
+* O princípio é a fé e o fim é a caridade.
+V. Assumindo a mansidão, renovai-vos pela fé
+que é a carne do Senhor e a caridade que é seu sangue.
+* O princípio.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que ornais a vossa Igreja com o testemunho dos mártires, fazei que a gloriosa paixão que hoje celebramos, dando a Santo Inácio de Antioquia a glória eterna, nos conceda contínua proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

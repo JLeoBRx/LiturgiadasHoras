@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2segundaquaresma_terca.htm
+@documento Hora Média - Terça - Segunda-feira da 2ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@salmo salmos/salmo-118-41-48-vi-vau
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@secao Leitura breve | Sb 11,23-24a
+
+@texto
+De todos tens compaixão, porque tudo podes. Fechas os olhos aos pecados dos homens, para que se arrependam. Sim, amas tudo o que existe, e não desprezas nada do que fizeste.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Ó Deus, que para remédio e salvação nossa nos ordenais a prática da mortificação, concedei que possamos evitar todo pecado e cumprir de coração os mandamentos do vosso amor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

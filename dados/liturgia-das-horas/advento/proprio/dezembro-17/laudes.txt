@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/17_laudes.htm
+@documento Próprio - Laudes - 17 de dezembro
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu poder.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele voltou seu olhar para ti:
+realizou toda a sua esperança.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sabei que está próximo o reino de Deus.
+Eu vos digo e confirmo que não tardará.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sabei que está próximo o reino de Deus.
+Eu vos digo e confirmo que não tardará.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, que na sua eterna providência decidiu salvar seu povo; e digamos:
+
+R. **Protegei, Senhor, o vosso povo!**
+
+Senhor Deus, que prometestes enviar ao vosso povo o germe da justiça,
+– velai pela santidade de vossa Igreja. R.
+
+Inclinai, Senhor, o coração das pessoas para a verdade de vossa palavra,
+– e fortalecei na santidade todos os fiéis. R.
+
+Conservai-nos no amor de vosso Espírito Santo,
+– para recebermos a misericórdia do vosso Filho que vai chegar. R.
+
+Concedei, Deus clementíssimo, que permaneçamos firmes e fiéis até o fim,
+– para o dia da vinda de nosso Senhor Jesus Cristo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, criador e redentor do gênero humano, quisestes que o vosso Verbo se encarnasse no seio da Virgem. Sede favorável à nossa súplica, para que o vosso Filho Unigênito, tendo recebido nossa humanidade, nos faça participar da sua vida divina. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

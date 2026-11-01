@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/tercafeirasanta_terca.htm
+@documento Hora Média - Terça - Terça-feira da Semana Santa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@salmo salmos/salmo-118-49-56-vi-zain
+
+@gloria
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@secao Leitura breve | 1Cor 1,18-19
+
+@texto
+A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”.
+
+@texto
+V. Ofereceu-se livremente em sacrifício.
+R. Como um cordeiro, não abriu a sua boca.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos celebrar de tal modo os mistérios da paixão do Senhor, que possamos alcançar vosso perdão. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

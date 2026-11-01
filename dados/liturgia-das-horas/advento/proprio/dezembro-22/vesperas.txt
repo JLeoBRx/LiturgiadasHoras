@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/22_vesperas.htm
+@documento Próprio - Vésperas - 22 de dezembro
+
+@secao Leitura breve | Tg 5,7-8.9b
+
+@texto
+Irmãos, ficai firmes até à vinda do Senhor. Vede o agricultor: ele espera o precioso fruto da terra e fica firme até cair a chuva do outono ou da primavera. Também vós ficai firmes e fortalecei vossos corações, porque a vinda do Senhor está próxima. Eis que o juiz está às portas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Rei das nações. Desejado dos povos;
+Ó Pedra angular, que os opostos unis:
+Oh, vinde e salvai este homem tão frágil,
+que um dia criastes do barro da terra!
+
+@salmo canticos/magnificat-v3
+
+@gloria
+
+@antifona
+Ó Rei das nações. Desejado dos povos;
+Ó Pedra angular, que os opostos unis:
+Oh, vinde e salvai este homem tão frágil,
+que um dia criastes do barro da terra!
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs caríssimos, a Cristo nosso Senhor, que por nossa causa se humilhou; e digamos cheios de alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus, que viestes ao mundo para socorrer a humanidade,
+– purificai de todo pecado as nossas almas e os nossos corpos. R.
+
+Não deixeis que se separem de vós,
+– aqueles que pelo mistério da encarnação vos dignastes chamar de irmãos. R.
+
+Não castigueis eternamente os que remistes,
+– quando vierdes para julgar o mundo. R.
+
+Vós, que nesta vida nos cumulais com as riquezas infinitas da vossa bondade,
+– fazei que alcancemos no céu a coroa imperecível da glória. R.
+
+{(intenções livres)}
+
+Nós vos recomendamos, Senhor, as almas daqueles que já se separaram do corpo;
+– mortos para este mundo, vivam eternamente para vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus de misericórdia, vendo o homem entregue à morte, quisestes salvá-lo pela vinda do vosso Filho; fazei que, ao proclamar humildemente o mistério da encarnação, entremos em comunhão com o Redentor. Que convosco vive e reina na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

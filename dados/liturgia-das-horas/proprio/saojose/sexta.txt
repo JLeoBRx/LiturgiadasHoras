@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojose_sexta.htm
+@documento Hora Média - São José, esposo da Bem-Aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Ao voltarem, ficou o Menino na cidade de Jerusalém,
+sem que seus pais o soubessem.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Ao voltarem, ficou o Menino na cidade de Jerusalém,
+sem que seus pais o soubessem.
+
+@secao Leitura breve | Cf. Sb 10,10
+
+@texto
+A sabedoria guiou, por caminhos retos, o justo que fugia do ódio do irmão, mostrou-lhe o reino de Deus e deu-lhe conhecimento das coisas santas; deu sucesso às suas tarefas e recompensa aos seus trabalhos.
+
+@texto
+V. Haverá glória e riqueza em sua casa.
+R. Permanece para sempre o bem que fez.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, pelas preces de São José, a quem confiastes as primícias da Igreja, concedei que ela possa levar à plenitude os mistérios da salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

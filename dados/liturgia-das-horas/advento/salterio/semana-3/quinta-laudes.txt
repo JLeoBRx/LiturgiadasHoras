@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quinta_laudes.htm
+@documento Laudes - III Quinta-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Dizem coisas gloriosas da Cidade do Senhor.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas da cidade do Senhor.
+
+@antifona 2
+O Senhor, o nosso Deus, vem com poder,
+e o preço da vitória vem com ele.
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/is-40-10-17
+
+@gloria
+
+@antifona
+O Senhor, nosso Deus, vem com o poder,
+e o preço da vitória vem com ele.
+
+@antifona 3
+Aclamai o Senhor nosso Deus,
+e adorai-o com todo o respeito!
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Aclamai o Senhor nosso Deus,
+e adorai-o com todo o respeito!

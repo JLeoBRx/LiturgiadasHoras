@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2quinta_laudes.htm
+@documento Laudes - II Quinta-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@antifona 2
+Publicai em toda a terra as maravilhas do Senhor!
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@antifona
+Publicai em toda a terra as maravilhas do Senhor!
+
+@antifona 3
+Exultai no Senhor, nossa força! †
+
+@salmo salmos/salmo-080
+
+@gloria
+
+@antifona
+Exultai no Senhor, nossa força!
+
+@secao Leitura breve | Is 45,8
+
+@texto
+Céus, deixai cair orvalho das alturas, e que as nuvens façam chover justiça; abra-se a terra e germine a salvação; brote igualmente a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. Toda carne verá sua glória. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu venho ao teu auxílio, assim diz o Senhor,
+eu sou teu Redentor, o Santo de Israel.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu venho ao teu auxílio, assim diz o Senhor,
+eu sou teu Redentor, o Santo de Israel.
+
+@secao Preces
+
+@preces
+Invoquemos, irmãos caríssimos, a Deus Pai que enviou seu Filho para salvar a humanidade; e supliquemos:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Pai de bondade, com a mais sincera fé, nós proclamamos Jesus Cristo verdadeiro homem;
+– fazei que por nosso modo de viver sejamos dignos de acolhê-lo. R.
+
+Vós, que enviastes vosso Filho para nos salvar,
+– afastai todo sofrimento da face da terra e desta cidade. R.
+
+Que nossa terra transborde de alegria pela vinda do vosso Filho,
+– para que experimente cada vez mais a plenitude da alegria que nos dais. R.
+
+Por vossa misericórdia, fazei-nos viver neste mundo com sobriedade, justiça e piedade,
+– enquanto vivendo a bem-aventurada esperança, aguardamos a vinda gloriosa do Cristo Salvador. R.
+
+{(Intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, ó Deus, os nossos corações, a fim de prepararmos os caminhos do vosso Filho, para que possamos, pelo seu advento, vos servir de coração purificado. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_vesperas.htm
+@documento Vésperas - Exaltação da Santa Cruz
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+sangue e água jorraram.
+
+Árvore explêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna, só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Grande obra de bondade:
+a morte foi vencida quando a Cruz matou a Vida.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Grande obra de bondade:
+a morte foi vencida quando a Cruz matou a Vida.
+
+@antifona 2
+Adoramos, Senhor, a vossa Cruz,
+e a paixão gloriosa recordamos.
+Vós, que sofrestes por nós, tende piedade!
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Adoramos, Senhor, a vossa Cruz,
+e a paixão gloriosa recordamos.
+Vós, que sofrestes por nós, tende piedade!
+
+@antifona 3
+Nós vos adoramos, Jesus Cristo, e vos bendizemos,
+pois remistes todo o mundo pela vossa santa Cruz!
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Nós vos adoramos, Jesus Cristo, e vos bendizemos,
+pois remistes todo o mundo pela vossa santa Cruz!
+
+@secao Leitura breve | 1Cor 1,23-24
+
+@texto
+Nós pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó Cruz gloriosa,
+* Em ti triunfou o Senhor, Rei dos anjos. R. Ó Cruz.
+V. E lavou nossas chagas em seu sangue precioso. * Em ti.
+Glória ao Pai. R. Ó Cruz.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Cruz de vitória, sinal admirável,
+fazei-nos chegar ao triunfo da glória!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Cruz de vitória, sinal admirável,
+fazei-nos chegar ao triunfo da glória!
+
+@secao Preces
+
+@preces
+Oremos ao nosso Redentor que nos remiu pela sua Cruz; e digamos com toda a confiança:
+
+R. **Elevai-nos pela cruz até o vosso Reino!**
+
+Cristo, que vos humilhastes, assumindo a condição de um escravo e fazendo-vos semelhante à nossa condição humana,
+– dai aos membros da Igreja a graça de imitarem a vossa humildade. R.
+
+Cristo, que fostes obediente até à morte e morte humilhante numa cruz,
+– concedei a vossos servos e servas a força de vos imitar na obediência e na paciência. R.
+
+Cristo, que fostes exaltado por Deus e recebestes um nome que está acima de todo nome,
+– concedei aos vossos fiéis o dom da perseverança até o fim. R.
+
+Cristo, a cujo nome todo joelho se dobra no céu, na terra e nos abismos,
+– derramai sobre a humanidade o vosso espírito de caridade, para que todos vos adorem na paz. R.
+
+{(intenções livres)}
+
+Cristo, a quem toda língua proclama Senhor para a glória de Deus Pai,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/05quartaTC_par.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo 5a SEMANA DO TEMPO COMUM / QUARTA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Gênesis {43,1-11a.13-17.26-34}
+
+@tema
+Os irmãos de José vão novamente ao Egito
+
+@texto
+[1] A fome assolava a terra, [2] e quando eles acabaram de comer o mantimento que trouxeram do Egito disse- lhes seu pai: “Retornai e comprai um pouco de víveres para nós”. [3] Judá lhe respondeu: “Aquele homem nos advertiu expressamente: ‘Não sereis admitidos em minha presença a menos que vosso irmão esteja convosco.’ [4] Se estás preparado para deixar nosso irmão partir conosco, desceremos e compraremos víveres para ti; [5] mas se não o deixas partir não desceremos, pois o homem nos disse: ‘Não sereis admitidos em minha presença a menos que vosso irmão esteja convosco.’” [6] Israel disse: “Por que me fizestes esse mal dizendo àquele homem que tínheis ainda um irmão?” - [7] “O homem,” responderam eles, “perguntou sobre nós e sobre nossa família, indagando: ‘Vosso pai ainda vive? Tendes um irmão?,’ e nós respondemos às suas perguntas. Podíamos nós saber que ele diria: ‘Trazei vosso irmão’?” [8] Então Judá disse a seu pai Israel: “Deixa ir comigo o menino. Vamos, ponhamo-nos a caminho, para conservarmos a vida e não morrermos, nós, tu conosco e os nossos filhos. [9] Eu me torno responsável por ele, a mim pedirás conta dele; se me suceder de não to restituir e não trazê-lo diante de teus olhos, serei culpado durante toda a minha vida. [10] Se não nos tivéssemos demorado tanto, já estaríamos de volta pela segunda vez!” [11] Então seu pai Israel lhes disse: “Se é necessário, fazei assim: tomai em vossas bagagens os melhores produtos da terra para levardes como presente a este homem. [13] Tomai vosso irmão e parti, retornai para junto deste homem. [14] Que El Shaddai vos faça encontrar misericórdia junto desse homem e que ele vos deixe trazer vosso outro irmão e Benjamim. Quanto a mim, que eu perca meus filhos, se os devo perder!” [15] Os homens tomaram, pois, esse presente, o dinheiro em dobro com eles, e Benjamim; partiram e desceram ao Egito e se apresentaram diante de José. [16] Quando José os viu com Benjamim, disse a seu intendente: “Conduze esses homens à casa, abate um animal e prepara-o, porque esses homens comerão comigo ao meio-dia.” [17] O homem fez como José ordenara e conduziu os homens à casa de José. [26] Quando José entrou na casa, ofereceram-lhe o presente que tinham consigo e prostraram-se por terra. [27] Mas ele os saudou amigavelmente e perguntou: “Como está vosso velho pai, de quem me falastes: ele ainda vive?” [28] Responderam: “Teu servo, nosso pai, está bem, ele ainda vive,” e se ajoelharam e se prostraram. [29] Erguendo os olhos, José viu seu irmão Benjamim, o filho de sua mãe, e perguntou: “É este o vosso irmão mais novo, de que me falastes?” E dirigindo-se a ele: “Que Deus te conceda graça, meu filho”. [30] E José apressou-se em sair, porque suas entranhas se comoveram por seu irmão e as lágrimas lhe vinham aos olhos: entrou em seu quarto e ali chorou. [31] Tendo lavado o rosto, voltou e, contendo-se, ordenou: “Servi a refeição.” [32] Serviram-no à parte, eles à parte e à parte também os egípcios que comiam com ele, porque os egípcios não podem tomar suas refeições com os hebreus: têm horror disso. [33] Estavam colocados diante dele, cada qual em seu lugar, do mais velho ao mais novo, e os homens se olhavam com assombro. [34] Mas ele lhes mandou, de seu prato, porções de honra, e a porção de Benjamim ultrapassava cinco vezes a de todos os outros. Com eles beberam e se embriagaram.
+
+@secao Responsório | Cf. Gn 43,12.14.11
+
+@responsorio
+R. Levai convosco o dinheiro em dobro
+e ide até aquele homem, e prostrai-vos diante dele.
+* Que o Deus todo-poderoso vos faça ganhar
+os favores desse homem,
+a fim de que ele deixe voltar vosso irmão,
+juntamente com Benjamim.
+V. Tomai em vossas bagagens os melhores produtos da terra,
+e levai-os como presente a esse homem. * Que o Deus.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Coríntios”, de São Clemente I, papa e mártir
+{(Séc. I)} {(Cap. 64-65)}
+
+@tema
+A graça de nosso Senhor Jesus Cristo esteja convosco e com todos os eleitos!
+
+@texto
+Deus, que tudo vê, Senhor dos espíritos e de toda carne, que escolheu o Senhor Jesus Cristo e nós, por meio Dele, para sermos Seu povo, conceda a toda alma que tiver invocado o Seu Nome santo e glorioso fé, temor, paz, paciência, generosidade, continência, castidade e pureza para agradar ao Seu Nome, através do Sumo Sacerdote e nosso protetor, Jesus Cristo, pelo qual Lhe sejam rendidos glória e majestade, poder e honra, agora e por todos os séculos dos séculos. Amém.
+Enviai-nos rapidamente de volta com alegria e paz os nossos delegados Cláudio Efebo, Valério Bito e também Fortunato, para que logo nos anunciem que a paz e a harmonia tão desejadas foram restauradas entre vós, para que também possamos nos alegrar, tão logo possível, com a boa ordem entre vós.
+A graça de Nosso Senhor Jesus Cristo esteja convosco e com todos os eleitos de Deus, por meio Dele e por toda parte. Por Jesus, sejam dados a Deus glória, honra, poder, majestade e o reino eterno, desde todos os séculos e para todos os séculos dos séculos. Amém.
+
+@secao Responsório | Fl 2,2-4; 1Ts 5,14-15
+
+@responsorio
+R. Completai a minha alegria,
+permanecendo unidos.
+Tende um mesmo amor,
+uma só alma e os mesmos pensamentos.
+* Cada qual tenha em vista não os seus próprios interesses,
+e sim os dos outros.
+V. Amparai os fracos e tende paciência para com todos,
+procurai sempre praticar o bem entre vós e para com todos. * Cada qual.
+
+@secao Oração
+
+@oracao
+Velai, ó Deus, sobre a vossa família, com incansável amor; e como só confiamos na vossa graça, guardai-nos sob a vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

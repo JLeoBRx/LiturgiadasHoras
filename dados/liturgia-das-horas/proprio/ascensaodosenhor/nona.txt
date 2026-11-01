@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_nona.htm
+@documento Hora Média - Ascensão do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Levantando suas mãos, abençoou-os,
+e para os céus foi elevado, aleluia.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+Levantando suas mãos, abençoou-os,
+e para os céus foi elevado, aleluia.
+
+@secao Leitura breve | Cl 3,1-2
+
+@texto
+Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; aspirai às coisas celestes e não às coisas terrestres.
+
+@texto
+V. Exaltai o rei dos reis. Aleluia.
+R. Cantai hinos ao Senhor. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

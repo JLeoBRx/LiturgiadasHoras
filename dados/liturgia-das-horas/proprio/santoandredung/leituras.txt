@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoandredung.htm
+@documento Ofício das Leituras - Santo André Dung-Lac, Presbítero, E Seus Companheiros, Mártires
+
+@celebracao
+SANTO ANDRÉ DUNG-LAC, PRESBÍTERO, E SEUS COMPANHEIROS, MÁRTIRES {Memória}
+
+@biografia
+No extremo oriente da Ásia, nas regiões do Vietnã de hoje, o Evangelho já vinha sendo anunciado desde o século XVI. Contudo, de 1625 a 1886, excetuados breves períodos de paz, os governantes dessas regiões tudo fizeram para despertar o ódio contra a religião cristã e os discípulos de Cristo. Quanto mais perseguidos, maior o fervor cristão, tendo como resultado um elevadíssimo número de mártires. O Papa João Paulo II, no dia 19 de junho de 1988, inscreveu 117 deles no rol dos santos mártires. Entre eles, contam-se 11 missionários dominicanos espanhóis, 10 franceses e 96 mártires vietnamitas. Oito são bispos, 50 sacerdotes e 59 leigos, de diversas idades e condições sociais, na maioria pais e mães de família e, alguns, catequistas, seminaristas e militares.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus,
+
+@texto
+_que está em Cristo Jesus_ Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; com pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta de Paulo Le Bao-Tinh aos alunos do Seminário de Ke-Vinh, de 1843
+{(Launay, A., Le clergé tonkiois et ses prêtres martyrs, MEP, Paris, 1925, pp. 80-83)} {(Séc. XIX)}
+
+@tema
+A participação dos mártires na vitória de Cristo Rei
+
+@texto
+Eu, Paulo, preso pelo nome de Cristo, quero levar ao vosso conhecimento as minhas tribulações cotidianas que me assaltam de todos os lados, para que, inflamados pelo amor de Deus, possais louvá-lo, _porque a sua misericórdia é eterna_ (Sl 117,1).
+O meu cárcere é verdadeiramente uma imagem do fogo eterno. Aos cruéis suplícios de todo gênero, como grilhões, algemas e ferros, juntam-se ódio, vingança, calúnias, palavrões, acusações, maldades, falsos testemunhos, maldições e, finalmente, angústia e tristeza. Mas Deus, que outrora libertou os três jovens da fornalha acesa, sempre me assiste e libertou-me dessas tribulações, que se tornaram suaves, _porque a sua misericórdia é eterna_!
+Graças a Deus, no meio desses tormentos que continuam a apavorar os outros, sinto-me alegre e contente, pois não me julgo só, mas com Cristo. Nosso Mestre suporta todo o peso da cruz, deixando-me apenas uma pequena e ínfima parte: não é só testemunha do meu combate, mas combatente, vencedor e consumador de toda luta. Assim, sobre sua cabeça é que foi colocada a coroa da vitória, de cujo triunfo participam também os seus membros.
+Como, porém, Senhor, suportar tal espetáculo, ao ver diariamente os imperadores, os mandarins e seus soldados blasfemarem vosso santo nome, _quando estais acima dos querubins e serafins?_ (cf. Sl 79,3). Eis que a vossa cruz é calcada pelos pagãos! Onde está a vossa glória? Ao ver tudo isso, me inflamo por vós, preferindo morrer com os membros amputados, em testemunho do vosso amor!
+Mostrai, Senhor, o vosso poder, salvando-me e protegendo-me. Que a força se manifeste na minha fraqueza e seja glorificada ante os gentios, pois, se eu vacilar no caminho, vossos inimigos, cheios de orgulho, poderão levantar as cabeças.
+Caríssimos irmãos, ao ouvirdes tudo isto, dai alegremente graças imortais a Deus, do qual procedem todos os bens. Bendizei comigo o Senhor, _porque a sua misericórdia é eterna! Minha alma engrandeça o Senhor e meu espírito exulte de alegria em Deus, meu Salvador; porque olhou para a humildade de seu servo_ (cf. Lc 1,46-48), todas as gerações me proclamarão bendito, porque a sua misericórdia é eterna!
+_Cantai louvores ao Senhor, todas as gentes, povos todos, festejai-o_ (Sl 116,1), porque Deus escolheu o que é fraco no mundo para confundir os fortes, e o que é vil e desprezível (1Cor 1,27-28), para confundir os nobres. Pelos meus lábios e inteligência, Deus confunde os filósofos, os discípulos dos sábios deste mundo, _porque a sua misericórdia é eterna_!
+Tudo isto vos escrevo, para unirdes à minha a vossa fé. No meio desta tempestade lanço a âncora, a viva esperança que trago no coração, até ao trono de Deus.
+Caríssimos irmãos, correi de tal modo que possais alcançar a coroa: _revesti-vos com a couraça da fé_ (1Ts 5,8), tomai as armas de Cristo, à direita e à esquerda, segundo os ensinamentos de São Paulo, meu patrono. É melhor para vós entrar na posse da vida com um só olho ou privados de algum membro (cf. Mt 5,29), do que serdes lançados fora com todos eles.
+Vinde em meu auxílio com vossas preces, para que possa combater, segundo a lei, o bom combate, e combater até o fim, encerrando gloriosamente a minha carreira. Se já não nos podemos ver nesta vida, tal felicidade nos está reservada para o futuro, quando, junto ao trono do Cordeiro imaculado, exultantes com a alegria da vitória, cantaremos em uníssono eternamente os seus louvores. Assim seja.
+
+@secao Responsório | Hb 12,1-3
+
+@responsorio
+R. Corramos persistentes ao combate a nós proposto,
+* De olhos fixos em Jesus, o autor de nossa fé,
+e que a leve à perfeição.
+V. Olhai para aquele que quis suportar tal contradição
+para que não chegueis a desistir por desânimo.
+* De olhos fixos.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte e origem de toda paternidade, que destes aos santos mártires André e seus companheiros serem fiéis à cruz do vosso Filho até a efusão do sangue, concedei, por sua intercessão, que, propagando o vosso amor entre os irmãos, possamos ser chamados vossos filhos e filhas e realmente o sejamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

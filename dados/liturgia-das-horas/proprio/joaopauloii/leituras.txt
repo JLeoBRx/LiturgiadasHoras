@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaopauloii.htm
+@documento Ofício das Leituras - São João Paulo Ii, Papa
+
+@celebracao
+SÃO JOÃO PAULO II, PAPA
+
+@biografia
+Karol Wojtyla (Wadowice, Polônia, 1920 – Roma, 2 de abril de 2005), ordenado presbítero, assumiu vários encargos pastorais e universitários. Nomeado bispo auxiliar de Cracóvia em 1958, tornou-se seu arcebispo em 1964. Participou do Concílio Vaticano II. Elevado à Cátedra de Pedro aos 16 de outubro de 1978, escolheu o nome de João Paulo II, destacando-se por sua extraordinária solicitude apostólica, em particular com as famílias, os jovens e os doentes, o que o fez realizar inumeráveis visitas pastorais em todo o mundo. Deixou em herança à Igreja seu riquíssimo Magistério e renovou a legislação eclesiástica. Na vigília do Segundo Domingo da Páscoa, entregou seu espírito a Deus.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da homilia de São João Paulo II, papa, no início do seu pontificado
+{(22 de Outubro de 1978: A.A.S. 70 [1978], pp. 945-947)} {(Séc. XX)}
+
+@tema
+Não tenhais medo! Abri as portas a Cristo!
+
+@texto
+Pedro veio para Roma! E o que foi que o guiou e o conduziu para esta Urbe, o coração do Império Romano, senão a obediência à inspiração recebida do Senhor? Talvez aquele pescador da Galileia nunca tivesse tido vontade de vir até aqui. Talvez tivesse preferido permanecer, lá onde estava, nas margens do lago da Galileia, com a sua barca e com as suas redes. Mas, guiado pelo Senhor e obediente à sua inspiração, chegou até aqui!
+Segundo uma antiga tradição, durante a perseguição de Nero, Pedro teria tido vontade de deixar Roma. Mas o Senhor interveio: veio ao seu encontro. Pedro, dirigindo-se ao Senhor perguntou: "Quo vadis, Domine?” (Aonde vais, Senhor?). E o Senhor imediatamente lhe respondeu: "Vou para Roma, para ser crucificado pela segunda vez". Pedro voltou então para Roma e aí permaneceu até à sua crucifixão.
+O nosso tempo convida-nos, impele-nos e obriga-nos a olhar para o Senhor e a imergir-nos numa humilde e devota meditação do mistério do supremo poder do mesmo Cristo.
+Aquele que nasceu da Virgem Maria, o filho do carpinteiro – como se considerava –, o Filho de Deus vivo, como confessou Pedro, veio para fazer de todos nós “um reino de sacerdotes”.
+O Concílio do Vaticano II recordou-nos o mistério deste poder e o fato de que a missão de Cristo – Sacerdote, Profeta, Mestre e Rei – continua na Igreja. Todos, todo o Povo de Deus participa desta tríplice missão. E talvez que no passado se pusesse sobre a cabeça do Papa o trirregno, aquela tríplice coroa, para exprimir, mediante tal símbolo, que toda a ordem hierárquica da Igreja de Cristo, todo o seu "sagrado poder" que nela é exercido não é mais do que serviço; serviço que tem uma única finalidade: que todo o Povo de Deus participe desta tríplice missão de Cristo e que permaneça sempre sob a soberania do Senhor, a qual não tem as suas origens nos poderes deste mundo, mas sim no Pai celeste e no mistério da Cruz e da Ressurreição.
+O poder absoluto e ao mesmo tempo doce e suave do Senhor corresponde a quanto é o mais profundo do homem, às suas mais elevadas aspirações da inteligência, da vontade e do coração. Esse poder não fala com a linguagem da força, mas exprime-se na caridade e na verdade.
+O novo Sucessor de Pedro na Sé de Roma eleva, neste dia, uma prece ardente, humilde e confiante: “Ó Cristo! Fazei com que eu possa tornar-me e ser sempre servidor do teu único poder! Servidor do teu suave poder! Servidor do teu poder que não conhece ocaso! Fazei com que eu possa ser um servo! Mais ainda: servo de todos os teus servos.”
+Irmãos e Irmãs! Não tenhais medo de acolher Cristo e de aceitar o Seu poder!
+Ajudai o Papa e todos aqueles que querem servir Cristo e, com o poder de Cristo, servir o homem e a humanidade inteira!
+Não tenhais medo! Abri antes, ou melhor, escancarai as portas a Cristo! Ao Seu poder salvador abri os confins dos Estados, os sistemas econômicos assim como os políticos, os vastos campos de cultura, de civilização e de progresso! Não tenhais medo! Cristo sabe bem "o que está dentro do homem". Somente Ele o sabe!
+Hoje em dia é frequente o homem não saber o que traz no interior de si mesmo, no mais íntimo da sua alma e do seu coração. Muitas vezes não encontra o sentido da sua vida sobre a terra. Deixa-se invadir pela dúvida que se transforma em desespero. Permiti, pois – peço-vos e vo-lo imploro com humildade e com confiança – permiti a Cristo falar ao homem. Somente Ele tem palavras de vida; sim, de vida eterna.
+
+@secao Responsório
+
+@responsorio
+R. Não tenhais medo:
+o Redentor do homem manifestou o poder da cruz
+dando a sua vida por nós!
+* Abri, escancarai as portas a Cristo!
+V. Somos chamados na Igreja a participar no seu poder. * Abri, escancarai as portas a Cristo!.
+
+@secao Oração
+
+@oracao
+Ó Deus, rico em misericórdia, quisestes colocar o papa São João Paulo II à frente da vossa Igreja; concedei-nos que, instruídos por seus ensinamentos, possamos abrir confiantemente os nossos corações à graça salvífica do único Redentor do gênero humano, Jesus Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

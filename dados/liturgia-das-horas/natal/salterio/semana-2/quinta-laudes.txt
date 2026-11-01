@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quinta_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@antifona 2
+Publicai em toda a terra as maravilhas do Senhor!
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@antifona
+Publicai em toda a terra as maravilhas do Senhor!
+
+@antifona 3
+Exultai no Senhor, nossa força! †
+
+@salmo salmos/salmo-080
+
+@gloria
+
+@antifona
+Exultai no Senhor, nossa força!

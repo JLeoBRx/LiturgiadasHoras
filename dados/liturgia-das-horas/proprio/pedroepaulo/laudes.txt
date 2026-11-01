@@ -1,0 +1,184 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_laudes.htm
+@documento Laudes - São Pedro e São Paulo, Apóstolos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+A paixão dos Apóstolos
+este dia sagrou,
+o triunfo de Pedro
+para nós revelou,
+e a coroa de Paulo
+até aos céus exaltou.
+
+A vitória da morte
+os uniu, como irmãos
+consagrados no sangue,
+verdadeira oblação;
+pela fé coroados,
+ao Senhor louvarão.
+
+Pedro foi o primeiro
+por Jesus consagrado;
+Paulo, arauto por graça,
+vaso eleito chamado,
+pela fé se igualava
+ao que tem o Primado.
+
+Com os pés para o alto
+foi Simão levantado
+sobre a cruz do martírio,
+como o Mestre, elevado,
+recordando a Palavra
+que ele tinha falado.
+
+Em tão nobre triunfo,
+Roma foi elevada
+ao mais alto dos cumes,
+em tal sangue fundada;
+por tão nobres profetas
+a Jesus consagrada.
+
+Para cá vem o mundo,
+e se encontram os crentes,
+feita centro dos povos,
+nova mãe dos viventes,
+como sede escolhida
+pelo Mestre das gentes.
+
+Redentor, vos pedimos
+que possamos também
+conviver com tais santos,
+junto a vós, Sumo Bem,
+e cantar vossa glória
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sei em quem eu coloquei a minha fé,
+e estou certo que ele tem poder divino
+para guardar até o fim o meu depósito,
+que o Senhor, justo Juiz, me confiou.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Sei em quem eu coloquei a minha fé,
+e estou certo que ele tem poder divino
+para guardar até o fim o meu depósito,
+que o Senhor, justo Juiz, me confiou.
+
+@antifona 2
+A sua graça para mim não foi inútil;
+está comigo e para sempre ficará.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+A sua graça para mim não foi inútil;
+está comigo e para sempre ficará.
+
+@antifona 3
+Combati o bom combate, terminei minha carreira,
+conservei a minha fé.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Combati o bom combate, terminei minha carreira,
+conservei a minha fé.
+
+@secao Leitura breve | 1Pd 4,13-14
+
+@texto
+Caríssimos, alegrai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória. Se sofreis injúrias por causa do nome de Cristo, sois felizes, pois o Espírito da glória, o Espírito de Deus repousa sobre vós.
+
+@secao Responsório breve
+
+@responsorio
+R. Por Cristo entregaram suas vidas,
+* Pelo nome de Jesus, Nosso Senhor. R. Por Cristo.
+V. Saíram exultantes do Sinédrio, por ter sido achados dignos de sofrer. * Pelo nome.
+Glória ao Pai. R. Por Cristo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Disse Pedro a Jesus:
+A quem nós iremos, Senhor Jesus Cristo?
+Só tu tens palavras de vida eterna.
+Nós cremos, sabendo que és o Senhor,
+que tu és o Cristo, o Filho de Deus!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Disse Pedro a Jesus:
+A quem nós iremos, Senhor Jesus Cristo?
+Só tu tens palavras de vida eterna.
+Nós cremos, sabendo que és o Senhor,
+que tu és o Cristo, o Filho de Deus!
+
+@secao Preces
+
+@preces
+Oremos a Cristo, que edificou sua Igreja sobre o alicerce dos apóstolos e dos profetas; e digamos com fé:
+
+R. **Favorecei, Senhor, a vossa Igreja!**
+
+Vós, que rezastes por Pedro para que sua fé não desfalecesse,
+– confirmai na fé a vossa Igreja. R.
+
+Vós, que, depois da ressurreição, aparecestes a Simão Pedro e vos revelastes a Paulo,
+– iluminai nossa inteligência, para proclamarmos que estais vivo no meio de nós. R.
+
+Vós, que escolhestes o apóstolo Paulo para anunciar o vosso nome aos povos pagãos,
+– tornai-nos verdadeiros pregadores do vosso evangelho. R.
+
+Vós, que, na vossa misericórdia, perdoastes as negações de Pedro,
+– perdoai também as nossas faltas. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

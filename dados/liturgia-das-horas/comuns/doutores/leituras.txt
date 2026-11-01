@@ -1,0 +1,309 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_doutores_leituras.htm
+@documento Ofício das Leituras - Comum Dos Doutores Da Igreja Invitatório
+
+@celebracao
+COMUM DOS DOUTORES DA IGREJA Invitatório
+
+@biografia
+R. A Sabedoria eterna, oh vinde, adoremos. Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). – 1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! – 2Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) – 3Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. – 4Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; – 5o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) – 6Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! = 7Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) = 8Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) = 10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém R. A Sabedoria eterna, oh vinde, adoremos.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor.
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiático 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Do “Espelho da Fé”, de Guilherme, Abade do Mosteiro de Saint-Thierry
+{(Séc. XII)} {(PL 180,384)}
+
+@tema
+No Espírito Santo é que devemos procurar a compreensão das verdades da fé
+
+@texto
+Tu, alma fiel, quando as verdades da fé te apresentarem mistérios demasiado profundos para a tua natureza vacilante, dize, depois de ouvi-los, não por espírito de contradição, mas com desejo de obedecer: Como podem acontecer tais coisas?
+
+Que a tua pergunta se transforme em oração, em amor, em piedade, em humilde propósito. Que ela não perscrute a majestade de Deus no que tem de mais elevado, mas procure a salvação pelos meios que ele estabeleceu para nos salvar. Então te responderá o Anjo do Grande Conselho: _Quando vier o Paráclito, que eu vos enviarei da parte do Pai, ele vos ensinará tudo e vos conduzirá à plena verdade_ (cf. Jo 14, 26; 16,13). Porque _ninguém conhece o que se passa no coração do homem senão o espírito do homem que está nele; assim também, ninguém conhece o que existe em Deus, a não ser o Espírito de Deus_ (1Cor 2,11).
+
+Apressa-te, pois, em te tornares participante do Espírito Santo. Ao ser invocado, torna-se presente; e, se já estivesse presente, não seria invocado. Quando é invocado, vem e traz consigo a abundância das bênçãos divinas. É a corrente impetuosa do rio que alegra a cidade de Deus.
+Quando ele chegar, se te encontrar humilde e tranquilo, cheio de reverência perante as palavras de Deus, repousará em ti e te revelará o que Deus Pai oculta aos sábios e prudentes deste mundo. Começará a brilhar para ti aquilo tudo que a Sabedoria pôde ensinar na terra aos seus discípulos, mas que eles não puderam compreender, enquanto não veio o Espírito da verdade, que lhes ensinaria toda a verdade.
+
+Para se receber e aprender esta verdade, é inútil esperar da boca de um homem o que só se pode receber e aprender da boca da própria Verdade. Pois é ela mesma que afirma: _Deus é Espírito_ (Jo 4,24).
+
+Assim como é necessário que seus adoradores o adorem em espírito e verdade, também os que desejam compreendê-lo ou conhecê-lo devem procurar somente no Espírito Santo a compreensão da fé e o sentido daquela verdade pura e simples.
+
+Em meio às trevas e à ignorância desta vida, o Espírito Santo é luz que ilumina os que têm espírito de pobreza, é caridade que os atrai, é suavidade que os conforta, é caminho do homem para Deus; é o amor de quem ama, é devoção, é piedade.
+
+É o Espírito Santo que, ao fazer os fiéis crescerem na fé, lhes revela a justiça de Deus, lhes dá graça sobre graça e comunica-lhes a iluminação interior da fé que receberam pela pregação.
+
+@secao Responsório | Mt 13,52; cf. Pr 14,33
+
+@responsorio
+R. Todo mestre da lei que se torna discípulo
+do Reino dos céus,
+* É como um pai de família:
+do seu tesouro ele tira o novo e o velho.
+V. No coração do prudente está a sabedoria
+e ela há de ensinar àqueles que a ignoram. * É como
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Ou:
+
+@texto
+Da Constituição dogmática Dei Verbum sobre a Revelação divina, do Concílio Vaticano II {(N. 7-8 )} {_A transmissão da revelação divina_}
+Cristo Senhor, em quem se consuma toda a revelação do Deus altíssimo, ordenou aos apóstolos que o Evangelho, prometido antes pelos profetas, cumprido agora por ele e promulgado por sua própria boca, fosse pregado por eles a todos os homens como fonte de toda a verdade salvadora e de toda regra moral, comunicando-lhes assim os dons divinos.
+
+Esta determinação foi fielmente cumprida, tanto pelos apóstolos que, pela pregação oral, pelo exemplo de suas vidas e pelas instituições por eles criadas, transmitiram aquelas realidades que tinham recebido por inspiração do Espírito Santo; como também por aqueles apóstolos ou pessoas da comunidade apostólica que, sob a inspiração do mesmo Espírito Santo, escreveram a mensagem da salvação.
+
+Mas, para que o Evangelho se conservasse sempre inalterado e vivo na Igreja, os apóstolos deixaram como seus sucessores os bispos, transmitindo-lhes sua própria função de ensinar. Ora, aquilo que os apóstolos transmitiram, compreende tudo quanto é necessário para que o povo de Deus viva santamente e aumente a sua fé; e assim a Igreja, em sua doutrina, vida e culto, perpetua e transmite a todas as gerações tudo o que ela é, tudo o que ela crê.
+
+Esta Tradição, oriunda dos apóstolos, progride na Igreja sob a assistência do Espírito Santo; com efeito, cresce o conhecimento tanto das realidades como das palavras transmitidas, seja pela contemplação e estudo dos que creem, que as meditam em seu coração, seja pela íntima compreensão que experimentam das coisas espirituais, seja pela pregação daqueles que, com a sucessão do episcopado, receberam o carisma seguro da verdade. A Igreja, pois, no decorrer dos séculos, tende continuamente para a plenitude da verdade divina, até que nela se cumpram as palavras de Deus.
+
+O ensinamento dos santos Padres testemunha a presença vivificante desta Tradição cujas riquezas passam para a prática da Igreja que crê e ora.
+Por esta mesma Tradição, a Igreja conhece o Cânon completo dos Livros Sagrados, compreende ainda mais profundamente as próprias Sagradas Escrituras e as faz sem cessar atuantes; desta forma, o Deus que falou outrora mantém um permanente diálogo com a Esposa do seu amado Filho; e o Espírito Santo, pelo qual a voz viva do Evangelho ressoa na Igreja e, através dela, no mundo, conduz os que creem à verdade plena e faz com que a palavra de Cristo habite neles em toda a sua riqueza.
+
+@secao Responsório | 1Pd 1,25; Lc 1,2
+
+@responsorio
+R. A palavra do Senhor permanece eternamente;
+* E esta é a palavra que vos foi anunciada.
+V. Assim como transmitiram as primeiras testemunhas
+e em seguida se tornaram os ministros da palavra.
+* E esta.
+Nas solenidades e festas diz-se o
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se a seguinte:}
+
+@texto
+Ó Deus, que marcastes pela vossa doutrina a vida de são (sto.{) N.}, concedei-nos, por sua intercessão, que sejamos fiéis à mesma doutrina, e a proclamemos em nossas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/andreeambrosio.htm
+@documento Ofício das Leituras - Santos André De Soveral E Ambrósio Francisco Ferro, Presbíteros, Mateus Moreira E Companheiros, Mártires Memória
+
+@celebracao
+SANTOS ANDRÉ DE SOVERAL E AMBRÓSIO FRANCISCO FERRO, PRESBÍTEROS, MATEUS MOREIRA E COMPANHEIROS, MÁRTIRES
+{Memória}
+
+@biografia
+No século XVII, durante a dominação holandesa no Nordeste do Brasil, as comunidades católicas nascentes foram perseguidas. No Rio Grande do Norte, alguns fiéis da paróquia de Cunhaú, juntamente com o seu pároco, Pe. André de Soveral, foram mortos durante a celebração da Santa Missa, no dia 16 de julho de 1645. Outro grupo de fiéis de Natal foi trucidado às margens do rio Uruaçu, juntamente com o pároco, Pe. Ambrósio Francisco Ferro, no dia 03 de outubro do mesmo ano. Entre os martirizados havia um casal, 14 adultos, 8 jovens e 4 crianças. As últimas palavras do leigo Mateus Moreira, ao lhe ser arrancado o coração, foram: Louvado seja o Santíssimo Sacramento. Por isso, com aprovação da Santa Sé, a CNBB o declarou Patrono dos Ministros Extraordinários da Comunhão Eucarística. São João Paulo II, ao beatificá-los, no dia 5 de março de 2000, chamou-os “Protomártires do Brasil”. Foram canonizados em Roma pelo Papa Francisco aos 15 de outubro de 2017.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente,
+e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra:
+recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus,
+orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito.
+* E sereis.
+
+@secao Segunda leitura
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração da memória dos santos André de Soveral, Ambrósio Francisco e seus companheiros mártires, 03/10, inserida pelo Papa Francisco. Assim, o texto da segunda leitura abaixo é do Comum para vários mártires.
+
+@leitura
+Das Cartas de São Cipriano, bispo e mártir
+{(Séc. III)} {(Ep.6,1-2:CSEL3,480-482)}
+
+@tema
+Todos os que desejamos alcançar as promessas do Senhor, devemos imitá-lo em tudo
+
+@texto
+Eu vos saúdo, irmãos caríssimos, ansioso por gozar da vossa presença, se o lugar onde estou me permitisse ir até vós. Que me poderia acontecer de mais desejável e alegre que estar junto a vós neste momento, para apertar essas mãos, puras e inocentes, que por fidelidade ao Senhor recusaram os sacrifícios sacrílegos?
+
+Que haveria para mim de mais agradável e sublime que beijar agora os vossos lábios que proclamaram a glória do Senhor, como também ser visto por vossos olhos que, desprezando o mundo, se tornaram dignos de contemplar a Deus?
+
+Mas, como não me é dada essa alegria, eu vos envio esta carta, que me substituirá ante os vossos olhos e ouvidos. Por ela vos felicito e ao mesmo tempo exorto a perseverardes fortes e inabaláveis na proclamação da glória celeste. Uma vez no caminho da graça do Senhor, deveis prosseguir com espírito forte até conquistardes a coroa, tendo o Senhor como protetor e guia, pois ele disse: _Eis que eu estou convosco todos os dias até o fim do mundo_ (Mt 28,20).
+
+Ó cárcere feliz, iluminado pela vossa presença! Ó cárcere feliz, que leva para o céu os homens de Deus! Ó trevas mais luminosas que o próprio sol e mais brilhantes que a luz deste mundo, onde estão agora colocados os templos de Deus, que são os vossos corpos santificados pela proclamação da fé!
+
+Nada mais ocupe agora vossas mentes e corações,senão os preceitos divinos e os mandamentos celestes, pelos quais o Espírito Santo sempre vos animou a suportar os sofrimentos. Ninguém pense na morte mas na imortalidade nem no sofrimento passageiro, mas na glória eterna. Pois está escrito: _É preciosa aos olhos do Senhor a morte dos seus justos_ (Sl 115,15). E também: _É um sacrifício agradável a Deus um espírito que sofre; Deus não desprezará um coração contrito e humilhado_ (Sl 50,19).
+
+E ainda em outro lugar fala a Escritura divina dos tormentos que consagram os mártires de Deus e os santificam pelas provações dos sofrimentos: _Embora tenham suportado tormentos diante dos homens, sua esperança está cheia de imortalidade. Julgarão as nações e dominarão os povos, e o Senhor reinará sobre eles para sempre_ (Sb 3, 4.8).
+
+Assim, quando vos lembrais de que ides julgar e reinar com o Cristo Senhor, a alegria é que deve prevalecer em vós, superando os suplícios presentes pela exultação futura. Bem sabeis que, desde o princípio, a justiça está em luta com o mundo: logo na origem da humanidade, o justo Abel foi assassinado, como depois dele todos os justos, profetas e apóstolos enviados por Deus.
+
+A todos eles o Senhor quis dar a si mesmo como exemplo, ensinando que só aqueles que seguissem o seu caminho poderiam entrar em seu reino: _Quem ama a sua vida neste mundo, perdê-la-á. E quem odeia a sua vida neste mundo, conservá-la-á para a vida eterna_ (Jo 12,25). E ainda: _Não temais os que matam os corpos, não podem, contudo, matar a alma; temei antes aquele que pode matar na geena a alma e o corpo_ (Mt 10,28).
+
+São Paulo também nos exorta a imitar em tudo o Senhor, se desejamos alcançar as suas recompensas. Diz ele: _Somos filhos de Deus. E, se somos filhos, somos também herdeiros – herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele_ (Rm 8,17).
+
+@secao Responsório
+
+@responsorio
+R. Ao lutarmos pela fé, Deus nos vê, os anjos olham
+e o Cristo nos contempla.
+* Quanta honra e alegria combater, vendo-nos Deus,
+e a coroa receber do Juiz, que é Jesus Cristo. Aleluia.
+V. Concentremos nossas forças, para a luta preparemo-nos
+com a mente pura e forte, doação, fé e coragem.
+* Quanta honra.
+
+@secao Oração
+
+@oracao
+Ó Deus, concedestes admirável constância no martírio aos Santos André e Ambrósio, presbíteros, Mateus Moreira e seus companheiros leigos; fazei que o seu testemunho de fé fortaleça as nossas comunidades e estimule a ação missionária de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

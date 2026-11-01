@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quarta_leituras.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@salmo salmos/salmo-038-i
+
+@gloria
+
+@antifona
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@antifona 2
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@salmo salmos/salmo-038-ii
+
+@gloria
+
+@antifona
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@antifona 3
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@salmo salmos/salmo-051
+
+@gloria
+
+@antifona
+Eu confio na clemência do Senhor
+agora e para sempre.

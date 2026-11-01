@@ -1,0 +1,78 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santosreligiosos_sexta.htm
+@documento COMUM DOS SANTOS RELIGIOSOS - Hora Média
+
+@titulo COMUM DOS SANTOS RELIGIOSOS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quem fizer a vontade do Pai,
+no Reino dos céus entrará.
+
+@salmo salmos/salmo-122-v2
+
+@gloria
+
+@antifona
+Quem fizer a vontade do Pai,
+no Reino dos céus entrará.
+
+@secao Leitura breve | 1Cor 9,26-27b
+
+@texto
+Eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa-nova aos outros, eu mesmo seja reprovado.
+
+@texto
+V. É feliz, ó Senhor, quem formais,
+R. E educais nos caminhos da Lei.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo abade:
+
+@texto
+Ó Deus, que nos destes no santo abade {N.} um testemunho de perfeição evangélica, fazei-nos, em meio às agitações deste mundo, fixar os corações nos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

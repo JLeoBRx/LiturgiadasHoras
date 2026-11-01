@@ -1,0 +1,245 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saotome.htm
+@documento Ofício das Leituras - São Tomé, Apóstolo Festa
+
+@celebracao
+SÃO TOMÉ, APÓSTOLO
+{Festa}
+
+@biografia
+Tomé tornou-se conhecido entre os apóstolos principalmente por sua incredulidade que desapareceu diante do Cristo ressuscitado; e com isso proclamou a fé pascal da Igreja: “Meu Senhor e meu Deus!” Nada de certo se sabe sobre sua vida, além dos indícios fornecidos pelo Evangelho. É de tradição ter ele evangelizado os povos da Índia. Desde o século VI comemora-se a 3 de julho a trasladação de seu corpo para Edessa.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {4,1-16}
+
+@tema
+Sejamos imitadores do Apóstolo, como ele o foi de Cristo
+
+@texto
+Irmãos: [1] Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. [2] A este respeito, o que se exige dos administradores é que sejam fiéis. [3] Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. [4] É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. [5] Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido. [6] Irmãos, apliquei essa doutrina a mim e a Apolo, por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. [7] Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido? [8] Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! [9] Na verdade, parece-me que Deus nos apresentou, a nós apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. [10] Nós somos os tolos por causa de Cristo, vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. [11] Até à presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; [12] fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; [13] somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até ao presente. [14] Escrevo-vos tudo isto, não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. [15] De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo. [16] Portanto, eu vos peço, sede meus imitadores.
+
+@secao Responsório | Jo 15,15; Mt 13,11.16
+
+@responsorio
+R. Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+* Pois vos dei a conhecer tudo quanto ouvi do Pai.
+V. A vós foi concedido conhecer
+os mistérios do reino dos céus;
+felizes vossos olhos porque veem,
+felizes os ouvidos porque ouvem. * Pois vos dei.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre os Evangelhos, de São Gregório Magno, papa.
+{(Séc.VI)} {(Hom. 25,7-9:PL76,1201-1202)}
+
+@tema
+Meu Senhor e meu Deus!
+
+@texto
+_Tomé, chamado Dídimo, que era um dos doze, não estava com eles quando Jesus veio_ (Jo 20,24). Era o único discípulo que estava ausente. Ao voltar, ouviu o que acontecera, mas negou-se a acreditar. Veio de novo o Senhor, e mostrou seu lado ao discípulo incrédulo para que o pudesse apalpar; mostrou-lhe as mãos e, mostrando-lhe também a cicatriz de suas chagas, curou a chaga daquela falta de fé. Que pensais, irmãos caríssimos, de tudo isto? Pensais ter acontecido por acaso que aquele discípulo estivesse ausente naquela ocasião, que, ao voltar, ouvisse contar, que, ao ouvir, duvidasse, que, ao duvidar, apalpasse, e que, ao apalpar, acreditasse?
+
+Nada disso aconteceu por acaso, mas por disposição da providência divina. A clemência do alto agiu de modo admirável a fim de que, ao apalpar as chagas do corpo de seu mestre, aquele discípulo que duvidara curasse as chagas da nossa falta de fé. A incredulidade de Tomé foi mais proveitosa para a nossa fé do que a fé dos discípulos que acreditaram logo. Pois, enquanto ele é reconduzido à fé porque pôde apalpar, o nosso espírito, pondo de lado toda dúvida, confirma-se na fé. Deste modo, o discípulo que duvidou e apalpou tornou-se testemunha da verdade da ressurreição.
+
+Tomé apalpou e exclamou: _Meu Senhor e meu Deus! Jesus lhe disse: Acreditaste,_ _porque me viste?_ (Jo 20,28-29). Ora, como diz o apóstolo Paulo: _A fé é um modo de já_ _possuir o que ainda se espera, a convicção acerca de realidades que não se veem_ (Hb 11,1). Logo, está claro que a fé é a prova daquelas realidades que não podem ser vistas. De fato, as coisas que podemos ver não são objeto de fé, e sim de conhecimento direto. Então, se Tomé viu e apalpou, por qual razão o Senhor lhe disse: _Acreditaste, porque_ _me viste?_ É que ele viu uma coisa e acreditou noutra. A divindade não podia ser vista por um mortal. Ele viu a humanidade de Jesus e proclamou a fé na sua divindade, exclamando: _Meu Senhor e meu Deus!_ Por conseguinte, tendo visto, acreditou. Vendo um verdadeiro homem, proclamou que ele era Deus, a quem não podia ver.
+
+Alegra-nos imensamente o que vem a seguir_: Bem-aventurados os que creram sem ter_ _visto_ (Jo 20,29). Não resta dúvida de que esta frase se refere especialmente a nós. Pois não vimos o Senhor em sua humanidade, mas o possuímos em nosso espírito. É a nós que ela se refere, desde que as obras acompanhem nossa fé. Com efeito, quem crê verdadeiramente, realiza por suas ações a fé que professa. Mas, pelo contrário, a respeito daqueles que têm fé apenas de boca, eis o que diz São Paulo: _Fazem profissão_ _de conhecer a Deus, mas negam-no com a sua prática_ (Tt 1,16). É o que leva também São Tiago a afirmar:_A fé, sem obras, é morta_ (Tg 2,26).
+
+@secao Responsório | 1Jo 1,2.1.3a
+
+@responsorio
+R. A vida revelou-se e nós a temos visto
+e dela damos testemunho.
+* A vida eterna anunciamos,
+que estava junto ao Pai e a nós se revelou.
+V. O que viram nossos olhos e apalparam nossas mãos
+com respeito à Palavra, a Palavra, que é a vida,
+o que vimos e ouvimos a vós anunciamos.
+* A vida eterna.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei-nos celebrar com alegria a festa do apóstolo São Tomé, para que sejamos sempre sustentados por sua proteção e tenhamos a vida pela fé no Cristo que ele reconheceu como Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

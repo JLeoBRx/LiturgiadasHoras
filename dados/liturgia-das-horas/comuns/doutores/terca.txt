@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_doutores_terca.htm
+@documento COMUM DOS DOUTORES DA IGREJA - Hora Média
+
+@titulo COMUM DOS DOUTORES DA IGREJA
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai. Aleluia.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai. Aleluia.
+
+@secao Leitura breve | 1Tm 4,16
+
+@texto
+Cuida de ti mesmo e daquilo que ensinas. Mostra-te perseverante. Assim te salvarás a ti mesmo e também àqueles que te escutam.
+
+@texto
+V. O Senhor escolheu o seu servo, aleluia.
+R. Para ser o pastor de seu povo. Aleluia.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se a seguinte:}
+
+@texto
+Ó Deus, que marcastes pela vossa doutrina a vida de são (sto.{) N.}, concedei-nos, por sua intercessão, que sejamos fiéis à mesma doutrina, e a proclamemos em nossas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

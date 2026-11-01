@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/conversaosaopaulo_nona.htm
+@documento Hora Média - Conversão de São Paulo, Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+O Senhor falou a Saulo:
+eu sou Jesus, a quem persegues.
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+O Senhor falou a Saulo:
+eu sou Jesus, a quem persegues.
+
+@secao Leitura breve | 1Tm 1,16
+
+@texto
+Encontrei misericórdia, para que em mim, como primeiro, Cristo Jesus demonstrasse toda a grandeza de seu coração; ele fez de mim um modelo de todos os que crerem nele para alcançar a vida eterna.
+
+@texto
+V. Sem cessar louvarei vosso nome.
+R. Vosso amor para mim foi imenso!
+
+@secao Oração
+
+@oracao
+Ó Deus, que instruístes o mundo inteiro pela pregação do apóstolo São Paulo, dai-nos, ao celebrar hoje sua conversão, caminhar para vós seguindo seus exemplos, e ser no mundo testemunhas do Evangelho. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

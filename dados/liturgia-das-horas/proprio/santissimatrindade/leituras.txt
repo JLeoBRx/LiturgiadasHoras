@@ -1,0 +1,229 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santissimatrindade.htm
+@documento Ofício das Leituras - Santíssima Trindade Solenidade
+
+@celebracao
+SANTÍSSIMA TRINDADE
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+A Vós, Pai santo, ao Verbo em vós gerado,
+ao Santo Espírito, chama, fogo amor,
+os habitantes dos jardins celestes
+numa só voz proclamam Deus, Senhor.
+
+Trindade Santa, de que sábios modos
+viveis, ninguém o saberá jamais,
+mas para sempre saciais os santos,
+pois vossa face a contemplar lhes dais.
+
+Eles vos cantam pelas vossas obras,
+porque criais e conduzis o mundo,
+e aqueceis o coração dos filhos
+com labaredas de um amor fecundo.
+
+De coração, vossos fiéis da terra
+aos santos unem sua voz, também.
+Eles desejam ser felizes sempre
+pela visão de vossa face. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ajudai-nos, ó Senhor, ó Deus Uno onipotente,
+Pai e Filho e Santo Espírito!
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Ajudai-nos, ó Senhor, ó Deus Uno onipotente,
+Pai e Filho e Santo Espírito!
+
+@antifona 2
+O pai é amor, o Filho é graça,
+o Espírito Santo é comum união:
+Ó Trindade Feliz!
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+O pai é amor, o Filho é graça,
+o Espírito Santo é comum união:
+Ó Trindade Feliz!
+
+@antifona 3
+O Pai é veraz, o Filho é verdade,
+o Espírito Santo é verdade também:
+Ó Trindade Feliz!
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+O Pai é veraz, o Filho é verdade,
+o Espírito Santo é verdade também:
+Ó Trindade Feliz!
+
+@texto
+V. A palavra do Senhor criou os céus,
+R. E o sopro de seus lábios as estrelas.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {2,1-16}
+
+@texto
+[1] Irmãos, quando fui à vossa cidade anunciar-vos o mis­tério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. [2] Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este, crucifica­do. [3] Aliás, eu estive junto de vós, com fraqueza e receio, e muito tremor. [4] Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, [5] para que a vossa fé se baseasse no poder de Deus e não na sabedoria dos homens. [6] Entre os perfeitos nós falamos de sabedoria, não da sabedoria deste mundo, nem da sabedoria dos poderosos deste mundo, que, afinal, estão votados à destruição. [7] Fala­mos, sim, da misteriosa sabedoria de Deus, sabedoria escon­dida, que, desde a eternidade, Deus destinou para nossa glória. [8] Nenhum dos poderosos deste mundo conheceu essa sabedoria. Pois, se a tivessem conhecido, não teriam cruci­ficado o Senhor da glória. [9] Mas, como está escrito, "o que Deus preparou para os que o amam é algo que os olhos jamais viram, nem os ouvidos ouviram, nem coração algum jamais pressentiu". [10] A nós Deus revelou esse mistério através do Espírito. Pois o Espírito esquadrinha tudo, mesmo as profundezas de Deus. [11] Quem dentre os homens conhece o que se passa no homem senão o espírito do homem que está nele? Assim também, ninguém conhece o que existe em Deus, a não ser o Espírito de Deus. [12] Nós não recebemos o espírito do mundo, mas recebemos o Espírito que vem de Deus, para que conheçamos os dons da graça que Deus nos concedeu. [13] Desses dons também falamos, não com palavras ensinadas pela sabedoria humana, mas com a sabedoria aprendida do Espírito: assim, ajustamos uma linguagem espiritual às rea­lidades espirituais. [14] O homem psíquico ⎻ o que fica no nível de suas capacidades naturais ⎻ não aceita o que é do Espírito de Deus: pois isso lhe parece uma insensatez. Ele não é capaz de conhecer o que vem do Espírito, porque tudo isso só pode ser julgado com a ajuda do mesmo Espírito. [15] Ao contrário, o homem espiritual ⎻ enriquecido com o dom do Espírito ⎻ julga tudo, mas ele mesmo não é julgado por ninguém. [16] Com efeito, quem conheceu o pensamento do Senhor, de maneira a poder aconselhá-lo? Nós, porém, temos o pensamento de Cristo.
+
+@secao Responsório | Cf. Ef 1,17.18; 1Cor 2,12a
+
+@responsorio
+R. O Deus do Senhor nosso, Jesus Cristo,
+o Pai da glória vos conceda o Espírito
+que nos dá sabedoria e revelação
+para podermos realmente conhecê-lo,
+e ilumine nosso olhar do coração,
+* A fim de compreendermos a esperança,
+que a vocação, à qual nos chama, em si contém,
+e a riqueza da herança de sua glória
+por ele reservada para os santos.
+V. Não recebemos o espírito deste mundo,
+mas, ao contrário, o Espírito de Deus. * A fim.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de Santo Atanásio, bispo
+{(Séc. IV)} {(Ep. l ad Serapionem, 28-30: PG 26,594-595.599)}
+
+@tema
+Luz, esplendor e graça na Trindade e da Trindade
+
+@texto
+Não devemos perder de vista a tradição, a doutrina e a fé da Igreja católica, tal como o Senhor ensinou, tal como os apóstolos pregaram e os Santos Padres transmitiram. De fato, a tradição constitui o alicerce da Igreja, e todo aquele que dela se afasta deixa de ser cristão e não merece mais usar este nome. Ora, a nossa fé é esta: cremos na Trindade santa e perfeita, que é o Pai, o Filho e o Espírito Santo; nela não há mistura alguma de elemento estranho; não se compõe de Criador e criatura; mas toda ela é potência e força operativa; uma só é a sua natureza, uma só é a sua eficiência e ação. O Pai cria todas as coisas por meio do Verbo, no Espírito Santo; e deste modo, se afirma a unidade da Santíssima Trindade. Por isso, proclama-se na Igreja um só Deus, _que reina sobre tudo, age em tudo e permanece em todas as coisas_ (cf. Ef 4,6). _Reina sobre tudo_ como Pai, princípio e origem; age em tudo, isto é, por meio do Verbo; _e permanece em todas as coisas_ no Espírito Santo. São Paulo, escrevendo aos coríntios acerca dos dons espirituais, tudo refere a Deus Pai como princípio de todas as coisas, dizendo: _Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos_ (lCor 12,4-6). Os dons que o Espírito distribui a cada um vêm do Pai por meio do Verbo. De fato, tudo o que é do Pai é do Filho; por conseguinte, as graças concedidas pelo Filho, no Espí­rito Santo, são dons do Pai. Igualmente, quando o Espírito está em nós, está em nós o Verbo, de quem recebemos o Espírito; e, com o Verbo, está também o Pai. Assim se cumpre o que diz a Escritura_: Eu e o Pai viremos a ele e nele faremos a nossa morada_ (Jo 14,23). Pois onde está a luz, aí também está o esplendor da luz; e onde está o esplendor, aí também está a sua graça eficiente e esplendorosa. São Paulo nos ensina tudo isto na segunda Carta aos coríntios, com as seguintes palavras: _A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós_ (2Cor 13,13). Com efeito, toda a graça que nos é dada em nome da Santíssima Trindade, vem do Pai, pelo Filho, no Espírito Santo. Assim como toda a graça nos vem do Pai por meio do Filho, assim também não podemos receber nenhuma graça senão no Espírito Santo. Realmente, participantes do Espírito Santo, possuí­mos o amor do Pai, a graça do Filho e a comunhão do mesmo Espírito.
+
+@secao Responsório | Cf. Dn 3,56.52
+
+@responsorio
+R. Bendigamos ao Pai e ao Filho;
+bendigamos ao Espírito Santo.
+* E louvemos a Deus para sempre.
+V. Sede bendito no celeste firmamento,
+a vós louvor, honra e glória eternamente!
+* E louvemos.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso inefável misté­rio. Fazei que, professando a verdadeira fé, reconheçamos a gloria da Trindade e adoremos a Unidade onipotente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

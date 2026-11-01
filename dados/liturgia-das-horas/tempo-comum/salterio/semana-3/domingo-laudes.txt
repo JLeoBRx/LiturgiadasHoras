@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3domingo_laudes.htm
+@documento Laudes - III Domingo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Essa introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Criador do universo,
+a sombra e a luz alternais,
+e, dando tempo ao tempo,
+dos seres todos cuidais.
+
+Qual pregoeiro do dia,
+canta nas noites o galo.
+Separa a noite e a noite,
+brilhando a luz no intervalo.
+
+Também por ele acordada,
+a estrela d'alva, brilhante,
+expulsa o erro e a treva
+com sua luz radiante.
+
+Seu canto os mares acalma,
+ao navegante avigora;
+a própria Pedra da Igreja
+ouvindo o Cântico chora.
+
+Jesus, olhai os que tombam.
+O vosso olhar nos redime:
+se nos olhais, nos erguemos,
+e prantos lavam o crime.
+
+Ó luz divina, brilhai,
+tirai do sono o torpor.
+O nosso alento primeiro
+entoe o vosso louvor.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai, Sumo Bem,
+glória e poder, na unidade
+do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Admirável é o Senhor nos altos céus! Aleluia.
+
+@salmo salmos/salmo-092
+
+@gloria
+
+@antifona
+Admirável é o Senhor nos altos céus! Aleluia.
+
+@antifona 2
+Sois digno de louvor
+e de glória eternamente. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Sois digno de louvor
+e de glória eternamente. Aleluia.
+
+@antifona 3
+Louvai o Senhor Deus nos altos céus, aleluia.†
+
+@salmo salmos/salmo-148
+
+@gloria
+
+@antifona
+Louvai o Senhor Deus nos altos céus, aleluia.
+
+@secao Leitura breve | Ez 37,12b-14
+
+@texto
+Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor. Porei em vós o meu espírito para que vivais e vos colocarei em vossa terra. Então sabereis que eu, o Senhor, digo e faço – oráculo do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. Cristo, Filho do Deus vivo,
+* Tende pena e compaixão! R. Cristo.
+V. Glorioso estais sentado, à direita de Deus Pai.
+* Tende pena. Glória ao Pai. R. Cristo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@lacuna antifona-benedictus
+
+@salmo canticos/benedictus
+
+@gloria
+
+@lacuna antifona-benedictus
+
+@secao Preces
+
+@preces
+Roguemos a Deus que enviou o Espírito Santo para ser Luz santíssima do coração de todos os fiéis; e digamos:
+
+R. **Iluminai, Senhor, o vosso povo!**
+
+Bendito sejais, Senhor Deus, nossa luz,
+– que para vossa glória nos fizestes chegar a este novo dia. R.
+
+Vós, que iluminastes o mundo com a ressurreição do vosso Filho,
+– fazei brilhar, pelo ministério da Igreja, esta luz pascal sobre a humanidade inteira. R.
+
+Vós, que, pelo Espírito da verdade, esclarecestes os discípulos de vosso Filho,
+– enviai à vossa Igreja este mesmo Espírito, para que ela permaneça sempre fiel à vossa mensagem. R.
+
+Luz dos povos, lembrai-vos daqueles que ainda vivem nas trevas,
+– e abri-lhes os olhos do coração para que vos reconheçam como único Deus verdadeiro. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

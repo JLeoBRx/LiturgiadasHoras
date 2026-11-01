@@ -1,0 +1,62 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/4segunda_vesperas.htm
+@documento Vésperas - IV Segunda-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@celebracao
+{I}
+
+@salmo salmos/salmo-135
+
+@gloria
+
+@antifona
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@antifona 2
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra.
+
+@celebracao
+{II}
+
+@salmo salmos/salmo-135-v2
+
+@gloria
+
+@antifona
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra.
+
+@antifona 3
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?

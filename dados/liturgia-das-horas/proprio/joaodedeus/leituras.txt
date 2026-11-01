@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaodedeus.htm
+@documento Ofício das Leituras - São João De Deus, Religioso Nasceu Em Portugal No Ano De 1495. Depois De Uma Vida Cheia De Perigos Na Carreira Militar, O Seu Desejo De Perfeição Levou-O A Entregar-Se Inteiramente Ao Serviço Dos Doentes. Fundou Em Granada (Espanha) Um Hospital E Associou À Sua Obra Um Grupo De Companheiros Que Mais Tarde Constituíram A Ordem Hospitalar De São João De Deus. Distinguiu-Se Principalmente Na Caridade Para Com Os Pobres E Os Doentes. Morreu Nesta Mesma Cidade, Em 1550. _______________________
+
+@texto
+SÃO JOÃO DE DEUS, RELIGIOSO Nasceu em Portugal no ano de 1495. Depois de uma vida cheia de perigos na carreira militar, o seu desejo de perfeição levou-o a entregar-se inteiramente ao serviço dos doentes. Fundou em Granada (Espanha) um hospital e associou à sua obra um grupo de companheiros que mais tarde constituíram a Ordem Hospitalar de São João de Deus. Distinguiu-se principalmente na caridade para com os pobres e os doentes. Morreu nesta mesma cidade, em 1550. _______________________
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,1-17}
+
+@tema
+A vossa vida está escondida, com Cristo, em Deus
+
+@texto
+Irmãos: [1] Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; [2] aspirai às coisas celestes e não às coisas terrestres. [3] Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. [4] Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória. [5] Portanto, fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e da sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto, selvagem, escravo e livre, mas Cristo é tudo em todos. [12] Vós sois amados por Deus, sois os seus santos eleitos.Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. [16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. [17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@secao Responsório | Gl 3,27-28; Ef 4,24
+
+@responsorio
+R. No Cristo batizados, revestimo-nos de Cristo.
+Já não há judeu nem grego,
+* Todos nós somos um só em Jesus Cristo, Senhor nosso.
+V. Revesti-vos do homem novo que, à imagem do Senhor,
+foi criado na justiça e santidade verdadeira. * Todos nós.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São João de Deus, religioso
+{(Séc. XVI)} {(Archiv. gen. Ord. Hospit., Quaderno: De las cartas..., ffº 23v-24r:27rv; O. Marcos, Cartas y escritos de Nuestro Glorioso Padre San Juan de Dios, Madrid, 1935, pp. 18-19; 48-50)}
+
+@tema
+Cristo é fiel e tudo providencia
+
+@texto
+Se considerarmos atentamente a misericórdia de Deus, nunca deixaremos de fazer o bem de que formos capazes. Com efeito, se damos aos pobres, por amor de Deus, aquilo que ele próprio nos dá, promete-nos o cêntuplo na felicidade eterna. Que paga generosa, que lucro feliz! Quem não daria a este excelente mercador tudo o que possui, se ele cuida de nossos interesses e, com braços abertos, pede insistentemente que nos convertamos a ele, que choremos os nossos pecados, e tenhamos caridade para conosco e para com o próximo? Porque assim como a água apaga o fogo, caridade apaga o pecado.
+Vêm aqui tantos pobres, que até eu me espanto como é possível sustentar a todos; mas Jesus Cristo tudo providencia e a todos alimenta. Vêm muitos pobres à casa de Deus, porque a cidade de Granada é grande e muito fria, sobretudo agora que estamos no inverno. Entre todos – doentes e sadios, gente de serviço e peregrinos – há aqui mais de cento e dez pessoas. Como esta casa é geral, recebe doentes de toda espécie e condição: aleijados, mancos, leprosos, mudos, loucos, paralíticos, ulcerosos, alguns já muito idosos e outros ainda muito crianças. E ainda inúmeros peregrinos e viajantes, que aqui chegam e encontram fogo, água, sal e vasilhas para cozinhar os alimentos. De tudo isto não se recebe pagamento algum; Cristo, porém, a tudo provê.
+Por esse motivo, vivo endividado e prisioneiro por amor de Jesus Cristo. Vendo-me tão sobrecarregado de dívidas, já nem ouso sair de casa por causa dos débitos que me prendem. Mas vendo tantos pobres e tantos irmãos e próximos meus sofrer para além de suas forças e serem oprimidos por tantas aflições no corpo ou na alma, sinto profunda tristeza por não poder socorrê-los. Todavia, confio em Cristo, que conhece meu coração. Por isso digo: _Maldito o homem que confia no homem_ (Jr 17,5), e não somente em Cristo; porque dos homens tu hás de ser separado, quer queiras ou não; mas Cristo é fiel e permanece para sempre. Cristo tudo providencia. A ele demos graças sem cessar. Amém.
+
+@secao Responsório | Cf. Is 58,7-8
+
+@responsorio
+R. Reparte o teu pão com o faminto,
+recebe em tua casa os sem teto;
+* E tua luz vai levantar-se como a aurora,
+caminhará tua justiça à tua frente.
+V. Quando vês o teu irmão necessitado,
+não o desprezes, mas estende-lhe a mão.* E tua.
+
+@secao Oração
+
+@oracao
+Ó Deus, que enchestes de misericórdia o coração de São João de Deus, fazei que, praticando as boas obras de caridade, nos encontremos entre os escolhidos quando chegar o vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

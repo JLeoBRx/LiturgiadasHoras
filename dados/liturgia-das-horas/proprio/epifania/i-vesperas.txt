@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/epifania_Ivesperas.htm
+@documento I Vésperas - Epifania do Senhor
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Elevai o olhar aos céus
+vós que a Cristo procurais.
+E da sua eterna glória
+podereis ver os sinais.
+
+Essa estrela vence o sol
+em fulgor e em beleza,
+e nos diz ter vindo à terra
+Deus, em nossa natureza.
+
+Da região do mundo persa,
+onde o sol tem seu portal,
+sábios Magos reconhecem
+do Rei novo o sinal.
+
+Quem será tão grande Rei,
+a quem astros obedecem,
+a quem servem luz e céus
+e suas forças estremecem?
+
+Percebemos algo novo,
+imortal, superior,
+que domina céus e caos
+e lhes é anterior.
+
+Rei do povo de Israel,
+este é o Rei das gentes,
+prometido a Abraão
+e à sua raça eternamente.
+
+Ó Jesus, louvor a vós
+que às nações vos revelais;
+glória ao Pai e ao Espírito
+pelos tempos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Gerado antes da aurora, antes dos tempos,
+manifestou-se neste dia o Salvador.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+Gerado antes da aurora, antes dos tempos,
+manifestou-se neste dia o Salvador.
+
+@antifona 2
+O Senhor nosso Deus é tão grande,
+é maior do que todos os deuses.
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+O Senhor nosso Deus é tão grande,
+é maior do que todos os deuses.
+
+@antifona 3
+A estrela resplandece como fogo
+e mostra o Senhor, o Rei dos reis.
+Os magos, conduzidos pela estrela,
+trouxeram os seus dons ao grande Rei.
+
+@salmo canticos/1tm-3-16-v2
+
+@gloria
+
+@antifona
+A estrela resplandece como fogo
+e mostra o Senhor, o Rei dos reis.
+Os magos, conduzidos pela estrela,
+trouxeram os seus dons ao grande Rei.
+
+@secao Leitura breve | 2Tm 1,9-10
+
+@texto
+Deus nos salvou e nos chamou com uma vocação santa, não devido às nossas obras, mas em virtude do seu desígnio e da sua graça, que nos foi dada em Cristo Jesus desde toda a eternidade. Esta graça foi revelada agora, pela manifestação de nosso Salvador, Jesus Cristo. Ele não só destruiu a morte, como também fez brilhar a vida e a imortalidade por meio do Evangelho.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vendo a estrela, os Magos exclamaram:
+Eis aqui o sinal do grande Rei!
+Vamos, pois, procurá-lo e oferecer-lhe
+ouro, incenso e mirra, nossos dons.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vendo a estrela, os Magos exclamaram:
+Eis aqui o sinal do grande Rei!
+Vamos, pois, procurá-lo e oferecer-lhe
+ouro, incenso e mirra, nossos dons.
+
+@secao Preces
+
+@preces
+Com grande alegria, celebremos nosso Salvador, adorado hoje pelos Magos; e supliquemos:
+
+R. **Salvai, Senhor, o vosso povo!**
+
+Rei das nações, que chamastes os Magos como primícias para vos adorarem,
+– concedei-nos o espírito de adoração e de serviço. R.
+
+Rei da glória, que governais os povos com justiça,
+– dai à humanidade a plenitude da paz. R.
+
+Rei da eternidade, que permaneceis de geração em geração,
+– enviai vossa palavra aos nossos corações como a água que fecunda a terra. R.
+
+Rei de justiça, que viestes libertar o pobre sem defesa,
+– socorrei os infelizes e os aflitos. R.
+
+{(intenções livres)}
+
+Senhor, vosso nome é bendito pelos séculos;
+– tornai os nossos irmãos e irmãs falecidos participantes das maravilhas de vossa salvação. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje revelastes o vosso Filho às nações, guiando-as pela estrela, concedei aos vossos servos e servas, que já vos conhecem pela fé, contemplar-vos um dia face a face no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3segunda_laudes.htm
+@documento Próprio - Laudes - III Segunda-feira do Advento
+
+@secao Leitura breve | Is 2,3
+
+@texto
+Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. O Senhor vem com força e poder. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Lá do céu o Senhor poderoso virá:
+tem nas mãos o domínio, o poder e a glória.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Lá do céu o Senhor poderoso virá:
+tem nas mãos o domínio, o poder e a glória.
+
+@secao Preces
+
+@preces
+Cristo Senhor, Filho de Deus vivo e esplendor da luz eterna, vem iluminar as nossas trevas para podermos contemplar a sua glória. Peçamos-lhe com toda confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Cristo, luz sem ocaso, que vindes como sol nascente iluminar nossas trevas,
+– despertai a nossa fé vacilante. R.
+
+Fazei-nos caminhar com segurança ao longo deste dia,
+– guiados pela claridade de vossa luz. R.
+
+Dai-nos um coração generoso, humilde e confiante,
+– para que todos vejam a razão de nossa esperança. R.
+
+Vinde criar a nova terra prometida,
+– para que nela habitem a justiça e a paz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Inclinai, ó Deus, o vosso ouvido de Pai à voz da nossa súplica, e iluminai as trevas do nosso coração com a visita do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

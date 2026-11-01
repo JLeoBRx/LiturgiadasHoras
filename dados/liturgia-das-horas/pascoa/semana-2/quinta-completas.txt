@@ -1,0 +1,119 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2quintapascoa_completas.htm
+@documento Completas - Quinta-feira da 2ª Semana da Páscoa
+
+@titulo COMPLETAS / QUINTA-FEIRA
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@rubrica
+Depois, recomenda-se o , que na celebração comunitária pode ser inserido num Ato penitencial semelhante às fórmulas usadas na Missa.
+
+@secao Hino
+
+@hino
+Ó Jesus Redentor,
+do universo Senhor,
+Verbo eterno do Pai,
+Luz da Luz invisível,
+que dos vossos remidos
+vigilante cuidais.
+
+Vós, artista do mundo,
+e de todos os tempos
+o sinal divisor,
+no silêncio da noite
+renovai nosso corpo
+que lutando cansou.
+
+Afastai o inimigo,
+vós, que os fundos abismos
+destruís, ó Jesus!
+Não consiga o Maligno
+seduzir os remidos
+pelo sangue da Cruz
+
+Quando o corpo cansado
+for de noite embalado
+pelo sono e a calma,
+de tal modo adormeça,
+que ao dormir nossa carne
+não cochile nossa alma.
+
+Escutai-nos, ó Verbo,
+por quem Deus fez o mundo,
+e o conduz e mantém.
+Com o Pai e o Espírito,
+vós reinais sobre os vivos
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | 1Ts 5,23
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois – espírito, alma, corpo – seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo!
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, em vossas mãos eu entrego o meu espírito
+* Aleluia, aleluia. R. Senhor.
+V. Vós sois o Deus fiel, que salvastes vosso povo.
+* Aleluia, aleluia. Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico,
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz! Aleluia.
+
+@secao Cântico de Simeão Lc 2,29-32
+
+@salmo canticos/nunc-dimittis
+
+@gloria
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz! Aleluia.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, após as fadigas de hoje, restaurai nossas energias por um sono tranquilo, a fim de que, por vós renovados, nos dediquemos de corpo e alma ao vosso serviço. Por Cristo, nosso Senhor.
+
+@texto
+O Senhor todo-poderoso nos conceda uma noite tranquila
+e, no fim da vida, uma morte santa.
+R. Amém.
+
+@secao Antífona final de Nossa Senhora
+
+@texto
+Ave, Rainha do céu;
+ave, dos anjos Senhora;
+ave, raiz, ave, porta;
+da luz do mundo és aurora.
+Exulta, ó Virgem tão bela,
+as outras seguem-te após;
+nós te saudamos: adeus!
+E pede a Cristo por nós!
+Virgem Mãe, ó Maria!

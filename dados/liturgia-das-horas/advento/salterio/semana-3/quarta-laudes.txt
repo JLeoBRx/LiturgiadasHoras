@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quarta_laudes.htm
+@documento Laudes - III Quarta-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Alegrai vosso servo, Senhor,
+pois a vós eu elevo a minh’alma.
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Alegrai vosso servo, Senhor,
+pois a vós eu elevo a minh'alma.
+
+@antifona 2
+Feliz de quem caminha na justiça,
+diz a verdade e não engana o semelhante!
+
+@salmo canticos/is-33-13-16
+
+@gloria
+
+@antifona
+Feliz de quem caminha na justiça,
+diz a verdade e não engana o semelhante!
+
+@antifona 3
+Aclamai ao Senhor e nosso Rei!
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+Aclamai ao Senhor e nosso Rei!

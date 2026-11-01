@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@salmo salmos/salmo-118-65-72-ix-teth
+
+@gloria
+
+@antifona
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@antifona 2
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@antifona
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@antifona 3
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@secao Leitura breve | Gl 5,13-14
+
+@texto
+Irmãos, fostes chamados para a liberdade. Porém, não façais dessa liberdade um pretexto para servirdes à carne. Pelo contrário, fazei-vos escravos uns dos outros, pela caridade. Com efeito, toda a Lei se resume neste único mandamento: Amarás o teu próximo como a ti mesmo.
+
+@texto
+V. De vossos mandamentos corro a estrada,
+R. Porque vós me dilatais o coração.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que nesta hora enviastes o Espírito Santo aos Apóstolos em oração, concedei-nos participar do mesmo Dom. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

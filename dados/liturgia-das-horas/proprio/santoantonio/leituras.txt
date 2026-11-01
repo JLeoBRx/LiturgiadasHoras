@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoantonio.htm
+@documento Ofício das Leituras - Santo Antônio De Pádua (Lisboa), Presbítero E Doutor Da Igreja Memória
+
+@celebracao
+SANTO ANTÔNIO DE PÁDUA (LISBOA), PRESBÍTERO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Lisboa (Portugal), no final do século XII. Foi recebido entre os Cônegos Regulares de Santo Agostinho, mas pouco depois de sua ordenação sacerdotal transferiu-se para a Ordem dos Frades Menores com a intenção de dedicar-se à propagação da fé entre os povos da África. Foi entretanto na França e na Itália que ele exerceu com excelentes frutos o ministério da pregação, convertendo muitos hereges. Foi o primeiro professor de teologia na sua Ordem. Escreveu vários sermões, cheios de doutrina e de unção espiritual. Morreu em Pádua no ano de 1231.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Antônio de Pádua, presbítero
+{(Séc.XII)} {(I.226)}
+
+@tema
+A palavra é viva quando são as obras que falam
+
+@texto
+Quem está repleto do Espírito Santo fala várias línguas. As várias línguas são os vários testemunhos sobre Cristo, a saber: a humildade, a pobreza, a paciência e a obediência; falamos estas línguas quando os outros as veem em nós mesmos. A palavra é viva quando são as obras que falam. Cessem, portanto, os discursos e falem as obras. Estamos saturados de palavras, mas vazios de obras. Por este motivo o Senhor nos amaldiçoa, como amaldiçoou a figueira em que não encontrara frutos, mas apenas folhas. Diz São Gregório: “Há uma lei para o pregador: que faça o que prega”. Em vão pregará o conhecimento da lei quem destrói a doutrina por suas obras. Os apóstolos, entretanto, _falavam conforme o Espírito Santo os inspirava_ (cf. At 2,4). Feliz de quem fala conforme o Espírito Santo lhe inspira e não conforme suas idéias! Pois há alguns que falam movidos pelo próprio espírito e, usando as palavras dos outros, apresentam-nas como suas, atribuindo-as a si mesmos. Destes e de outros semelhantes, diz o Senhor por meio do profeta Jeremias: _Terão de se haver comigo os_ _profetas que roubam um do outro as minhas palavras. Terão de se haver comigo os profetas, diz o Senhor, que usam suas línguas para proferir oráculos. Eis que terão de haver-se comigo os profetas que profetizam sonhos mentirosos, diz o Senhor, que os contam, e seduzem o meu povo com suas mentiras e seus enganos. Mas eu não os enviei, não lhes dei ordens, e não são de nenhuma utilidade para este povo – oráculo do Senhor_ (Jr 23,30-32). Falemos, portanto, conforme a linguagem que o Espírito Santo nos conceder; e peçamos-lhe humilde e devotamente que derrame sobre nós a sua graça, a fim de podermos celebrar o dia de Pentecostes com a perfeição dos cinco sentidos e na observância do decálogo. Que sejamos repletos de um profundo espírito de contrição e nos inflamemos com essas línguas de fogo que são os louvores divinos. Desse modo, ardentes e iluminados pelos esplendores da santidade, mereceremos ver o Deus Uno e Trino.
+
+@secao Responsório | Cf. Os 14,6b; Sl 91(92),13; Eclo 24,4a
+
+@responsorio
+R. O justo como o lírio brotará
+* E florirá ante o Senhor, eternamente.
+V. Será louvado na assembleia dos eleitos.
+* E florirá.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que destes Santo Antônio ao vosso povo como insigne pregador e intercessor em todas as necessidades,fazei-nos, por seu auxílio, seguir os ensinamentos da vida cristã, e sentir a vossa ajuda em todas as provações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

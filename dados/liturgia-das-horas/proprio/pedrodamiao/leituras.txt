@@ -1,0 +1,161 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedrodamiao.htm
+@documento Ofício das Leituras - São Pedro Damião, Bispo E Doutor Da Igreja
+
+@celebracao
+SÃO PEDRO DAMIÃO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Ravena no ano de 1007. Terminados os estudos, dedicou-se ao ensino, que logo abandonou, para se tornar eremita em Fonte Avelana. Eleito prior do mosteiro, dedicou-se incansavelmente a promover a vida religiosa, não só ali, mas também em outras regiões da Itália. Numa época muito difícil, ajudou os Papas em vista da reforma da Igreja, com sua atividade, seus escritos e no desempenho de embaixadas. Foi nomeado cardeal e bispo de Óstia pelo Papa Estêvão IX. Logo depois de sua morte, ocorrida em 1072, começou a ser venerado como santo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Pedro Damião, bispo
+{(Séc. XI)} {(Lib. 8,6: PL 144,473-476)}
+
+@tema
+Espera confiantemente a alegria que vem depois da tristeza
+
+@texto
+Pediste-me, caríssimo, que te escrevesse palavras de consolação, a fim de reconfortar teu ânimo amargurado por tantos golpes dolorosos.
+Mas se tua prudência e sensatez não estiverem adormecidas, a consolação já chegou. Na verdade, as próprias palavras mostram, sem sombra de dúvida, que Deus te está instruindo como a um filho, para alcançares a herança. É o que indicam claramente estas palavras: _Filho, se decidires servir ao Senhor, permanece na justiça e no temor, e prepara tua alma para a provação_ (Eclo 2,1-2). Onde existe o temor e a justiça, a prova de qualquer adversidade não é tortura de escravo, mas antes correção paterna.
+Pois até o santo Jó, quando diz no meio dos flagelos da infelicidade: _Quem dera que Deus me esmagasse, estendesse a sua mão e pusesse fim à minha vida_ (Jó 6,9), imediatamente acrescenta: _É este o meu consolo, porque me atormenta com dores e não me poupa_ (Jó 6,10).
+Para os eleitos de Deus o castigo divino é consolação, porque através das tribulações passageiras que suportam se fortalecem na firme esperança de alcançar a glória da felicidade eterna.
+O artesão bate o ouro com o martelo para retirar os resíduos de impureza; a lima raspa muitas vezes para que os veios do metal brilhante cintilem com maior fulgor. _Como o forno prova os vasos do oleiro, é na tribulação que são provados os homens justos_ (Eclo 27,5, Vulg.). Por isso diz também São Tiago: _Meus irmãos, quando deveis passar por diversas provações, considerai isso motivo de grande alegria_ (Tg 1,2).
+Sem dúvida, é justo que se alegrem aqueles que neste mundo suportam a tribulação passageira por causa de seus pecados, mas que, pelo bem praticado, têm guardada para si uma recompensa eterna no céu.
+Por isso, irmão muito querido, enquanto és atingido pelos golpes da desgraça, enquanto és castigado pelos açoites da correção divina, não te deixes abater pelo desalento, não te queixes nem murmures, não fiques amargurado pela tristeza nem te impacientes pela fraqueza de ânimo. Mas conserva sempre a serenidade em teu rosto, a alegria no teu coração, a ação de graças em teus lábios.
+De fato, é preciso louvar a providência divina que castiga os seus nesta vida, a fim de poupá-los dos flagelos eternos; abate para elevar, fere para curar, humilha para exaltar.
+Portanto, caríssimo, fortalece o teu espírito na paciência, com estes e outros testemunhos das Sagradas Escrituras e espera confiantemente a alegria que vem depois da tristeza.
+Que a esperança dessa alegria te reanime, e a caridade acenda em ti o fervor, de tal modo que o teu espírito, santamente inebriado, esqueça os sofrimentos exteriores e anseie com entusiasmo pelo que contempla interiormente.
+
+@secao Responsório | Cf. Eclo 31,8.11a.10cd
+
+@responsorio
+R. Feliz aquele homem que, sem mancha, foi achado,
+que não foi atrás do ouro e não pôs sua esperança
+no dinheiro e nos tesouros.
+* Por isso estão seus bens apoiados no Senhor.
+V. Ele pôde violar a lei de Deus e não violou;
+ele pôde, igualmente, fazer o mal e não o fez. * Por isso.
+
+@secao Oração
+
+@oracao
+Ó Pai todo-poderoso, dai-nos seguir as exortações e o exemplo de São Pedro Damião, para que, nada antepondo a Cristo e servindo sempre à vossa Igreja, cheguemos às alegrias da luz eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

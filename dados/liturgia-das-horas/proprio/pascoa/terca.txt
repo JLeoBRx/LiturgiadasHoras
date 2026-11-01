@@ -1,0 +1,78 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pascoa_terca.htm
+@documento Hora Média - Domingo da Páscoa na Ressurreição do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre, aleluia.
+
+@rubrica
+Numa das Horas Médias, tomam-se os salmos seguintes; nas outras duas, tomam-se da Salmodia Complementar.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre, aleluia.
+
+@secao Leitura breve | Cf. 1Cor 15,3b-5
+
+@texto
+Cristo morreu por nossos pecados, segundo as Escrituras, foi sepultado e, ao terceiro dia, ressuscitou, segundo as Escrituras; e apareceu a Cefas e, depois, aos Doze.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, por vosso Filho Unigênito, vencedor da morte, abristes hoje para nós as portas da eternidade. Concedei que, celebrando a ressurreição do Senhor, renovados pelo vosso Espírito, ressuscitemos na luz da vida nova. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6segundapascoa_laudes.htm
+@documento Laudes - Segunda-feira da 6ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Assim como a corça suspira pelas águas correntes,
+suspira igualmente minh'alma por vós, ó meu Deus. Aleluia. †
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Assim como a corça suspira pelas águas correntes,
+suspira igualmente minh'alma por vós, ó meu Deus. Aleluia.
+
+@antifona 2
+Enchei Jerusalém com vossos feitos,
+e se proclamem vossas grandes maravilhas. Aleluia.
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+Enchei Jerusalém com vossos feitos,
+e se proclamem vossas grandes maravilhas. Aleluia.
+
+@antifona 3
+A glória de Deus ilumina a santa Cidade celeste:
+sua luz é o Cordeiro. Aleluia.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+A glória de Deus ilumina a santa Cidade celeste:
+sua luz é o Cordeiro. Aleluia.
+
+@secao Leitura breve | Rm 10,8b-10
+
+@texto
+A palavra está perto de ti, em tua boca e em teu coração. Essa palavra é a palavra da fé, que nós pregamos. Se, pois, com tua boca confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo. É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Deus nos fez renascer para a viva esperança
+e a herança eterna
+pela ressurreição do Senhor dentre os mortos. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Deus nos fez renascer para a viva esperança
+e a herança eterna
+pela ressurreição do Senhor dentre os mortos. Aleluia.
+
+@secao Preces
+
+@preces
+Rezemos a Deus Pai, glorificado pela morte e ressurreição de seu Filho; e peçamos confiantes:
+
+R. **Iluminai, Senhor, o nosso coração!**
+
+Deus de eterna glória, que iluminastes o mundo com a luz de Cristo gloriosamente ressuscitado,
+– iluminai-nos hoje com a luz da fé. R.
+
+Vós, que, pela ressurreição de Cristo, abristes a todo ser humano as portas da eternidade
+– ajudai-nos no trabalho deste dia, para que aumente em nós a esperança da vida eterna. R.
+
+Vós, que, por vosso Filho ressuscitado, enviastes ao mundo o Espírito Santo,
+– acendei em nossos corações o fogo do vosso amor. R.
+
+Pelos méritos da cruz de Cristo, que morreu para libertar o mundo,
+– dai à humanidade inteira a salvação e a paz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_laudes.htm
+@documento Laudes - Terça-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Da luz Criador,
+vós mesmo sois luz
+e dia sem fim.
+Vós nunca da noite
+provastes as trevas:
+Só Deus é assim.
+
+A noite já foge
+e o dia enfraquece
+dos astros a luz.
+A estrela da aurora,
+surgindo formosa,
+no céu já reluz.
+
+Os leitos deixando,
+a vós damos graças
+com muita alegria,
+porque novamente,
+por vossa bondade,
+o sol traz o dia.
+
+Ó Santo, pedimos
+que os laços do Espírito
+nos prendam a vós,
+e, assim, não ouçamos
+as vozes da carne
+que clamam em nós.
+
+As almas não fira
+a flecha da ira
+que traz divisões.
+Livrai vossos filhos
+da própria malícia
+dos seus corações.
+
+Que firmes na mente
+e castos no corpo,
+de espírito fiel,
+sigamos a Cristo,
+Caminho e Verdade,
+doçura do céu.
+
+O Pai piedoso
+nos ouça, bondoso,
+e o Filho também.
+No laço do Espírito
+unidos, dominam
+os tempos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Cantarei os meus hinos a vós, ó Senhor;
+desejo trilhar o caminho do bem.
+
+@salmo salmos/salmo-100
+
+@gloria
+
+@antifona
+Cantarei os meus hinos a vós, ó Senhor;
+desejo trilhar o caminho do bem.
+
+@antifona 2
+Senhor Deus, não nos tireis vosso favor!
+
+@salmo canticos/dn-3-26-27-29-34-41
+
+@gloria
+
+@antifona
+Senhor Deus, não nos tireis vosso favor!
+
+@antifona 3
+Um canto novo, meu Deus, vou cantar-vos.
+
+@salmo salmos/salmo-143-1-10-v2
+
+@gloria
+
+@antifona
+Um canto novo, meu Deus, vou cantar-vos.
+
+@secao Leitura breve | Is 55,1
+
+@texto
+Ó vós todos que estais com sede, vinde às águas; vós que não tendes dinheiro, apressai-vos, vinde e comei, vinde comprar sem dinheiro, tomar vinho e leite, sem nenhuma paga.
+
+@secao Responsório breve
+
+@responsorio
+R. Por vosso amor, ó Senhor, ouvi minha voz,
+* Confiante eu confio na vossa palavra. R. Por vosso amor.
+V. Chego antes que a aurora e clamo a vós. * Confiante.
+Glória ao Pai. R. Por vosso amor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Salvai-nos, ó Senhor, da mão dos inimigos!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Salvai-nos, ó Senhor, da mão dos inimigos!
+
+@secao Preces
+
+@preces
+Concedendo-nos a alegria de louvá-lo nesta manhã, Deus fortalece a nossa esperança; por isso, dirijamos-lhe a nossa oração cheios de confiança:
+
+R. **Ouvi-nos, Senhor, para a glória de vosso nome!**
+
+Nós vos agradecemos, Deus e Pai de nosso Salvador Jesus Cristo,
+– pelo conhecimento e pela imortalidade que recebemos por meio dele. R.
+
+Concedei-nos a humildade de coração,
+– para nos ajudarmos uns aos outros no amor de Cristo. R.
+
+Derramai o Espírito Santo sobre nós, vossos servos,
+– para que seja sincero o nosso amor fraterno. R.
+
+Vós, que confiastes aos seres humanos a tarefa de governar o mundo,
+– concedei que o nosso trabalho vos dê glória e santifique os nossos irmãos e irmãs. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, aumentai em nós o dom da fé, para que em nossos lábios vosso louvor seja perfeito e produza sempre a abundância de frutos celestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

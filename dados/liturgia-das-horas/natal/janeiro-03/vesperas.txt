@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/3janeiro_vesperas.htm
+@documento 3janeiro_vesperas.htm
+
+@secao Leitura breve | 1Jo 1,5b.7
+
+@texto
+Deus é luz e nele não há trevas. Se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo o pecado.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Exultemos no Senhor e cantemos de alegria,
+pois no mundo apareceu a eterna salvação! Aleluia.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Exultemos no Senhor e cantemos de alegria,
+pois no mundo apareceu a eterna salvação! Aleluia.
+
+@secao Preces
+
+@preces
+Com a vinda de Cristo ao mundo, o povo santo de Deus floresceu e produziu o seu fruto mais excelente. Por isso, cheios de alegria e gratidão, digamos a nosso Salvador:
+
+R. **Exulte o mundo de alegria com o vosso Natal!**
+
+Cristo, nossa vida, que viestes ao mundo para ser a Cabeça da Igreja,
+– multiplicai na terra os membros do vosso Corpo místico e santificai-os na caridade. R.
+
+Vós, que sois adorado como verdadeiro Deus e verdadeiro homem,
+– fazei-nos participantes da vossa divindade. R.
+
+Vós, que pela encarnação vos tornastes o Mediador entre Deus e os homens,
+– fazei que os ministros da Igreja se associem cada vez mais eficazmente à vossa missão reconciliadora pela santidade da sua vida. R.
+
+Vós, que pelo vosso nascimento estabelecestes um mundo novo,
+– conduzi todos os povos pelos caminhos da salvação. R.
+
+{(intenções livres)}
+
+Vós, que ao nascerdes destruístes os laços da morte,
+– livrai nossos irmãos e irmãs falecidos de todo vínculo do pecado. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que a humanidade do vosso Filho, nascendo da Virgem Maria, não fosse submetida à humilhação do homem decaído. Concedei que, participando desta nova criação, sejamos libertados da antiga culpa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

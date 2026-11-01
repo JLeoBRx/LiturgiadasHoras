@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoluismontfort.htm
+@documento Ofício das Leituras - São Luís Maria Grignion De Montfort, Presbítero
+
+@celebracao
+SÃO LUÍS MARIA GRIGNION DE MONTFORT, PRESBÍTERO
+
+@biografia
+Luís Maria Grignion nasceu em Monfort, na região da Bretanha, e foi ordenado sacerdote em Paris. Nomeado missionário apostólico pelo papa Clemente XI, percorreu as regiões ocidentais de França, anunciando a Sabedoria eterna, Cristo encarnado e crucificado, e ensinando o caminho da santidade por Maria a Jesus. Para a sua obra missionária fundou várias associações religiosas de Sacerdotes, de Irmãos e, com a colaboração da bem- aventurada Maria Luísa Trichet (Maria Luísa de Jesus), associações de Irmãs. Morreu na cidade de Saint-Laurent-sur-Sèvre, diocese de Luçon, a 28 de Abril de 1716, deixando muitos escritos, principalmente sobre espiritualidade mariana.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado A verdadeira devoção à Santíssima Virgem, de São Luís Maria Grignion de Monfort, presbítero
+{(Séc.XVIII)} {(nn. 120.121.125-126: Oeuvres complètes, Seuil, Paris 1966, pp. 562-563.566-567)}
+
+@tema
+Totus tuus
+
+@texto
+Toda a nossa perfeição consiste em sermos conformes a Jesus Cristo, em nos unirmos e consagrarmos a Ele. A mais perfeita de todas as devoções é sem dúvida aquela que nos conforma, nos une e consagra mais perfeitamente a Jesus Cristo. Ora, porque Maria é, entre todas as criaturas, a mais conforme a Jesus Cristo, conclui-se que, entre todas as devoções, a que melhor consagra e conforma uma alma a Nosso Senhor é a devoção à Santíssima Virgem, sua santa Mãe. E quanto mais uma alma for consagrada a Maria, mais o será a Jesus Cristo.
+É por isso que a perfeita consagração a Jesus Cristo não é mais que uma perfeita e total consagração de si mesmo à Santíssima Virgem; esta é a devoção que eu ensino.
+Esta forma de devoção pode chamar-se, com toda a propriedade, a perfeita renovação dos votos e promessas do santo batismo, porque nela o cristão dá-se totalmente à Santíssima Virgem, para que, por Maria, pertença todo a Cristo.
+Assim, a consagração é feita ao mesmo tempo à Santíssima Virgem e a Jesus Cristo: à Virgem Santa Maria, como o modo perfeito que Jesus Cristo escolheu para se unir a nós e nos unir a Ele; e a Nosso Senhor Jesus Cristo, como nosso fim último, a quem devemos tudo o que somos, porque é o nosso Redentor e o nosso Deus.
+Além disso, devemos considerar que todo o homem, quando é batizado, renuncia solenemente, pela sua própria boca ou pela do seu padrinho e madrinha, a Satanás e às suas tentações e obras, e toma Jesus Cristo como seu Mestre e soberano Senhor, a fim de depender dele na qualidade de escravo de amor. É o que realmente se faz nesta devoção: o cristão renuncia ao demônio, ao mundo, ao pecado e a si mesmo, e consagra-se totalmente a Jesus Cristo pelas mãos de Maria.
+No Batismo não nos damos a Jesus Cristo pelas mãos de Maria, pelo menos de maneira expressa, e não damos a Jesus Cristo o valor das nossas boas obras. Ficamos, depois do Batismo, com plena liberdade de aplicar esse valor a quem quisermos ou de o reservar para nós mesmos. Mas, por esta devoção, damo-nos expressamente a Nosso Senhor pelas mãos de Maria e consagramos-Lhe o valor de todas as nossas ações.
+
+@secao Responsório | Cf. Lc 1,42
+
+@responsorio
+R. Virgem santa e imaculada,
+eu não sei com que louvores poderei engrandecer-vos!
+* Pois Aquele a quem os céus não puderam abranger,
+repousou em vosso seio.
+V. Sois bendita entre as mulheres
+e bendito é o Fruto, que nasceu de vosso ventre.
+* Pois Aquele.
+
+@secao Oração
+
+@oracao
+Deus de sabedoria eterna, que fizestes do presbítero São Luís Maria um admirável testemunho e mestre da plena consagração ao vosso Filho por meio da Virgem Maria, sua Mãe, concedei-nos que, seguindo o seu caminho espiritual, trabalhemos pela dilatação do vosso reino em todo o mundo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

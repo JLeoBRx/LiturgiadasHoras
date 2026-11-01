@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/20tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiastes {3,1-22}
+
+@tema
+Diversidade do tempo
+
+@texto
+[1] Há um momento para tudo e um tempo para todo propósito debaixo do céu. [2] Tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de arrancar a planta. [3] Tempo de matar, e tempo de curar; tempo de destruir, e tempo de construir. [4] Tempo de chorar, e tempo de rir; tempo de gemer, e tempo de bailar. [5] Tempo de atirar pedras, e tempo de recolher pedras; tempo de abraçar, e tempo de se separar. [6] Tempo de buscar, e tempo de perder; tempo de guardar, e tempo de jogar fora. [7] Tempo de rasgar, e tempo de costurar; tempo de calar, e tempo de falar. [8] Tempo de amar, e tempo de odiar; tempo de guerra, e tempo de paz. [9] Que proveito o trabalhador tira de sua fadiga? [10] Observo a tarefa que Deus deu aos homens para que dela se ocupem: [11] tudo o que ele fez é apropriado em seu tempo. Também colocou no coração do homem o conjunto do tempo, sem que o homem possa atinar com a obra que Deus realiza desde o princípio até o fim. [12] E compreendi que não há felicidade para o homem a não ser no prazer e no bem-estar durante sua vida. [13] E, que o homem coma e beba, desfrutando do produto de todo o seu trabalho, é dom de Deus. [14] Compreendi que tudo o que Deus faz é para sempre. A isso nada se pode acrescentar, e disso nada se pode tirar. Deus assim faz para que o temam. [15] O que existe, já havia existido; o que existirá, já existe, e Deus procura o que desapareceu. [16] Observo outra coisa debaixo do sol: no lugar do direito encontra-se o delito, no lugar da justiça, lá se encontra o crime. [17] E eu pensava: o justo e o ímpio Deus os julgará, porque aqui há um tempo para todas as coisas e para toda ação. [18] Quanto aos homens penso assim: Deus os põe à prova para mostrar-lhes que são animais. [19] Pois a sorte do homem e a do animal é idêntica: como morre um, assim morre o outro, e ambos têm o mesmo alento; o homem não leva vantagem sobre o animal, porque tudo é vaidade. [20] Tudo caminha para um mesmo lugar: tudo vem do pó e tudo volta ao pó. [21] Quem sabe se o alento do homem sobe para o alto e se o alento do animal desce para baixo, para a terra? [22] Observo que não há felicidade para o homem a não ser alegrar-se com suas obras: essa é a sua porção; pois quem lhe mostrará o que vai acontecer depois dele?
+
+@secao Responsório | Cf. 1Cor 7,29b.31; Ecl 3,1
+
+@responsorio
+R. Meus irmãos, o tempo é breve.
+Os que se alegram sejam, pois, como se não se alegrassem;
+os que usam deste mundo, como se dele não usassem.
+* Porque passa a aparência perecível deste mundo.
+V. Para tudo há um tempo,
+e cada coisa sob o céu tem a sua duração.
+* Porque passa.
+
+@secao Segunda leitura
+
+@leitura
+Das “Homilias sobre o Eclesiastes”, de São Gregório de Nissa, bispo
+{(Séc. IV)} {(Hom. 6: PG 44,702-703)}
+
+@tema
+Há um tempo de dar à luz e um tempo de morrer
+
+@texto
+Há um tempo de dar à luz e um tempo de morrer. Muito bem expressa no princípio de suas palavras a necessária ligação ao unir a morte ao nascimento. Pois obrigatoriamente a morte segue o parto e toda geração vai dar na dissolução.
+Há um tempo de dar à luz e um tempo de morrer. Oxalá que a mim também suceda nascer em tempo desejado e morrer também em tempo oportuno. Ninguém irá pensar que o Eclesiastes se refere ao nascimento involuntário e à morte natural, como se nisso houvesse uma reta ação virtuosa. Não é pela vontade da mulher que existe o parto, nem a morte depende do livre-arbítrio dos que morrem. Nunca se definirá como virtude ou vício aquilo que não está em nosso poder. É preciso, portanto, compreender o parto num tempo querido e a morte num tempo oportuno.
+Quanto a mim, parece-me que um parto é perfeito e não abortivo quando, no dizer de Isaías, alguém concebe pelo temor de Deus e pela alma em dores de parto gera sua salvação. Pois somos, de certo modo, pais de nós mesmos, nos concebemos e nos damos à luz a nós mesmos.
+Assim nos acontece, porque acolhemos Deus em nós, feitos filhos de Deus, filhos da virtude, filhos do Altíssimo. Mas também nos damos à luz como abortivos e nos tornamos imperfeitos e imaturos, quando não se formou em nós, segundo diz o Apóstolo, a forma de Cristo. É preciso ser íntegro e perfeito o homem de Deus.
+Se, pois, está claro como se nasce em tempo, também é claro para todos de que maneira se morre em tempo; para São Paulo, todo tempo era oportuno para uma boa morte. Em seus escritos declara, quase como um protesto: Morro todos os dias para vossa glorificação, e ainda: Por ti somos entregues à morte cotidianamente. E nós também tivemos uma sentença de morte dentro de nós mesmos.
+Não é difícil entender de que maneira Paulo morre diariamente, ele que nunca vive para o pecado, que sempre faz morrer seus membros carnais e traz em si a morte do corpo de Cristo, que sempre está crucificado com Cristo e nunca vive para si, mas em si tem o Cristo vivo. Esta é, parece-me, a morte oportuna, aquela que obtém a verdadeira vida.
+Foi dito: Eu dou a morte e faço viver, para que não haja dúvida de que é um verdadeiro dom de Deus o morrer para o pecado e o ser vivificado pelo Espírito. Pelo fato mesmo de dar a morte, a palavra divina promete vivificar.
+
+@secao Responsório | Dt 32,39b; Ap 1,18c
+
+@responsorio
+R. Sou eu que tiro a vida, sou eu quem faz viver;
+eu firo e eu mesmo curo;
+* E ninguém pode escapar de minha mão, diz o Senhor.
+V. Tenho as chaves dos abismos e a vitória sobre a morte.
+* E ninguém.
+
+@secao Oração
+
+@oracao
+Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

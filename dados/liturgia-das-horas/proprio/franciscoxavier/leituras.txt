@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/franciscoxavier.htm
+@documento Ofício das Leituras - São Francisco Xavier, Presbítero Memória Nasceu Na Espanha, Em 1506; Quando Estudante Em Paris, Tornou-Se Companheiro De Santo Inácio. Foi Ordenado Sacerdote Em Roma, Em 1537, E Dedicou-Se Às Obras De Caridade. Partindo Em 1541 Para O Oriente, Durante Dez Anos Evangelizou, Incansavelmente, A Índia E O Japão, Convertendo Multidões À Fé Cristã. Morreu Em 1552, Na Ilha Chinesa De Sancião.
+
+@celebracao
+SÃO FRANCISCO XAVIER, PRESBÍTERO
+{Memória}
+
+@biografia
+Nasceu na Espanha, em 1506; quando estudante em Paris, tornou-se companheiro de Santo Inácio. Foi ordenado sacerdote em Roma, em 1537, e dedicou-se às obras de caridade. Partindo em 1541 para o Oriente, durante dez anos evangelizou, incansavelmente, a Índia e o Japão, convertendo multidões à fé cristã. Morreu em 1552, na ilha chinesa de Sancião.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dossofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores dorebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso;não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas a Santo Inácio, de São Francisco Xavier, presbítero
+{(Séc. XVI)} {(E Vita Francisci Xaverii, auctore H. Tursellini, Romae, 1596, Lib. 4, epist. 4 [1542] et 5 [1544])}
+
+@tema
+Ai de mim, se não evangelizar!
+
+@texto
+Percorremos as aldeias de neófitos, que receberam os sacramentos cristãos há poucos anos. Esta região não é cultivada pelos portugueses, já que é muito estéril e pobre; e os cristãos indígenas, por falta de sacerdotes, nada sabem a não ser que são cristãos. Não há ninguém que celebre para eles as sagradas funções; ninguém que lhes ensine o Símbolo, o Pai-nosso, a Ave-Maria e os mandamentos da Lei de Deus. Desde que aqui cheguei, não parei um instante: visitando com frequência as aldeias, lavando na água sagrada os meninos não batizados. Assim, purifiquei grandíssimo número de crianças que, como se diz, não sabem absolutamente distinguir entre a direita e a esquerda. Estas crianças não me permitiram recitar o ofício divino, nem comer, nem dormir, enquanto não lhes ensinasse alguma oração; foi assim que comecei a perceber que delas é o reino dos céus. À vista disto, como não podia, sem culpa, recusar pedido tão santo, começando pelo testemunho do Pai, do Filho e do Espírito Santo, ensinava-lhes o Símbolo dos Apóstolos, o Pai-nosso e a Ave-Maria. Observei que são muito inteligentes; se houvesse quem os instruísse nos preceitos cristãos, não duvido que seriam excelentes cristãos. Nestas paragens, são muitíssimos aqueles que não se tornam cristãos, simplesmente por faltar quem os faça tais. Veio-me muitas vezes ao pensamento ir pelas academias da Europa, particularmente a de Paris, e por toda a parte gritar como louco e sacudir aqueles que têm mais ciência do que caridade, clamando: "Oh! Como é enorme o número dos que excluídos do céu, por vossa culpa se precipitam nos infernos!" Quem dera que se dedicassem a esta obra com o mesmo interesse com que se dedicam às letras, para que pudessem prestar contas a Deus da ciência e dos talentos recebidos! Na verdade, muitos deles, impressionados por esta idéia, entregando-se à meditação das realidades divinas, talvez estivessem mais preparados para ouvir o que Deus diria neles: abandonando as cobiças e interesses humanos, se fizessem atentos a um aceno da vontade de Deus. Decerto, diriam de coração: _Aqui estou, Senhor; que devo fazer? (At 9,10; 22,10)._ Envia-me para onde for do teu agrado, até mesmo para a Índia.
+
+@secao Responsório | Lc 1,2; At 1,8
+
+@responsorio
+R. É grande a colheita e os operários são poucos.
+* Por isso pedi ao Senhor da colheita
+que mande operários à sua colheita.
+V. Recebereis vossa força do Espírito,
+que haverá de descer sobre vós;
+e sereis testemunhas de mim
+até os extremos da terra. * Por isso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela pregação de São Francisco Xavier conquistastes para vós muitos povos do oriente, concedei a todos os fiéis o mesmo zelo, para que a santa Igreja possa alegrar-se com o nascimento de novos filhos em toda a terra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

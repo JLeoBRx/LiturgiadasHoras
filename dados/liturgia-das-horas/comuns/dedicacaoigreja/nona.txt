@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_nona.htm
+@documento COMUM DA DEDICAÇÃO DE UMA IGREJA - Hora Média
+
+@titulo COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Eis a Casa do Senhor solidamente edificada,
+construída sobre a rocha.
+
+@salmo salmos/salmo-125-v2
+
+@gloria
+
+@antifona
+Eis a Casa do Senhor solidamente edificada,
+construída sobre a rocha.
+
+@secao Leitura breve | Jr 7,2b.4-5a.7a
+
+@texto
+Ouvi a palavra do Senhor, todos vós, que entrais por estas portas para adorar o Senhor. Não ponhais vossa confiança em palavras mentirosas, dizendo: – ‘É o templo do Senhor, o templo do Senhor, o templo do Senhor!’ Mas, se melhorardes vossa conduta e vossas obras, então eu vos farei habitar neste lugar. Ou: Ag 6a.7.9 Isto diz o Senhor dos exércitos: Sacudirei todos os povos, e começarão a chegar tesouros de todas as nações, hei de encher de esplendor esta casa, diz o Senhor dos exércitos. O esplendor desta nova casa será maior que o da primeira, diz o Senhor dos exércitos; e, neste lugar, estabelecerei a paz, diz o Senhor dos exércitos.
+
+@texto
+V. Entrai por suas portas dando graças.
+R. E em seus átrios com hinos de louvor!
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

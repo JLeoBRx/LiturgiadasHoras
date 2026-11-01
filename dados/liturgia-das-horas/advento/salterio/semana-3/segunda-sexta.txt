@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3segunda_sexta.htm
+@documento Hora Média - III Segunda-feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@salmo salmos/salmo-118-89-96-xii-lamed
+
+@gloria
+
+@salmo salmos/salmo-070-i
+
+@gloria
+
+@salmo salmos/salmo-070-ii
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.

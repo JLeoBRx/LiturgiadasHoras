@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sexta_vesperas.htm
+@documento Vésperas - I Sexta-Feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Curai-me, Senhor: eu pequei contra vós!
+
+@salmo salmos/salmo-040
+
+@gloria
+
+@antifona
+Curai-me, Senhor: eu pequei contra vós!
+
+@antifona 2
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@antifona 3
+Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.
+
+@secao Leitura breve | 2Pd 3,8b.9
+
+@texto
+Para o Senhor, um dia é como mil anos e mil anos como um dia. O Senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora. Ele está usando de paciência para convosco. Pois não deseja que alguém se perca. Ao contrário, quer que todos venham a converter-se.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Sua glória habitará em nossa terra.
+* Nele se alegra. Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Do Egito chamei o meu Filho,
+que virá e salvará o seu povo.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Do Egito chamei o meu Filho,
+que virá e salvará o seu povo.
+
+@secao Preces
+
+@preces
+Invoquemos com toda confiança a Cristo, pastor e guarda de nossas almas; e digamos:
+
+R. **Sede bondoso, Senhor, sede clemente!**
+
+Bom Pastor do rebanho de Deus,
+– vinde congregar a todos em vossa Igreja. R.
+
+Auxiliai, Senhor, os pastores de vosso povo peregrino,
+– para que apascentem com dedicação o rebanho que lhes foi confiado, até a vossa vinda. R.
+
+Escolhei dentre nós mensageiros da vossa palavra,
+– que anunciem vosso Evangelho até os confins da terra. R.
+
+Tende piedade de todos os que sofrem e desfalecem no caminho,
+– fazei que encontrem um amigo que lhes traga conforto e alegria. R.
+
+{(intenções livres)}
+
+Mostrai a vossa glória nos prados celestes,
+– aos que já foram chamados deste mundo. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, Senhor, vosso poder e vinde, para que vossa proteção afaste os perigos a que nossos pecados nos expõem, e a vossa salvação nos liberte. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_laudes.htm
+@documento Laudes - Todos os Santos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Jesus, que o mundo salvastes,
+dos que remistes cuidai.
+E vós, Mãe santa de Deus,
+por nós a Deus suplicai.
+
+Os coros todos dos Anjos,
+patriarcal legião,
+Profetas de tantos méritos,
+pedi por nós o perdão.
+
+Ó Precursor do Messias,
+ó Ostiário dos céus,
+com os Apóstolos todos,
+quebrai os laços dos réus.
+
+Santa Assembleia dos Mártires;
+vós, Confessores, Pastores,
+Virgens prudentes e castas,
+rogai por nós pecadores.
+
+Que os monges peçam por nós
+e todos que o céu habitam:
+a vida eterna consigam
+os que na terra militam.
+
+Honra e louvor tributemos
+ao Pai e ao Filho também,
+com seu Amor, um só Deus,
+por todo o sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Reino celeste é a morada dos santos,
+sua paz para sempre. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Reino celeste é a morada dos santos,
+sua paz para sempre. Aleluia.
+
+@antifona 2
+Vós, santos do Senhor, bendizei-o para sempre!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, santos do Senhor, bendizei-o para sempre!
+
+@antifona 3
+É motivo de louvor para os seus santos,
+é um hino para os filhos de Israel,
+este povo que ele ama e lhe pertence.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+É motivo de louvor para os seus santos,
+é um hino para os filhos de Israel,
+este povo que ele ama e lhe pertence.
+
+@secao Leitura breve | Ef 1,17-18
+
+@texto
+Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos.
+
+@secao Responsório breve
+
+@responsorio
+R. Os justos se alegram
+* Na presença do Senhor. R. Os justos.
+V. Rejubilam satisfeitos e exultam de alegria. * Na presença.
+Glória ao Pai. R. Os justos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Os justos brilharão como o sol
+no Reino de seu Pai, aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Os justos brilharão como o sol
+no Reino de seu Pai, aleluia.
+
+@secao Preces
+
+@preces
+Repletos de alegria, invoquemos a Deus, recompensa e glória de todos os santos e santas; e digamos:
+
+R. **Salvai-nos, Senhor, por intercessão de vossos santos!**
+
+Deus, fonte de santidade, que fizestes brilhar nos vossos santos e santas as maravilhas da vossa graça multiforme,
+– concedei-nos celebrar neles a vossa bondade infinita. R.
+
+Deus eterno e misericordioso, que mostrastes nos vossos santos e santas as imagens mais perfeitas do vosso Filho,
+– fazei que, por eles, sejamos conduzidos a uma vida de maior união com Cristo. R.
+
+Rei dos céus, que por meio dos fiéis seguidores de Cristo nos estimulais a buscar a cidade futura,
+– ensinai-nos a seguir, com os vossos santos e santas, o melhor caminho para chegar à pátria eterna. R.
+
+Deus eterno, que pelo sacrifício eucarístico de vosso Filho nos unis mais intimamente aos habitantes do céu,
+– fazei que os celebremos devotamente em espírito e verdade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,88 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4domingo_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@antifona
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@antifona 2
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@antifona
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@antifona 3
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@secao Leitura breve | Ct 8,6b-7a
+
+@texto
+O amor é forte como a morte e a paixão é cruel como a morada dos mortos; suas faíscas são de fogo, uma labareda divina. Águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo.
+
+@texto
+V. Eu vos amo, ó Senhor! Sois minha força,
+R. Minha rocha, meu refúgio e Salvador!
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

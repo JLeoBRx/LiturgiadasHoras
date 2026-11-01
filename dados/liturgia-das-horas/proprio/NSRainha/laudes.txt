@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSRainha_laudes.htm
+@documento Laudes - Bem-aventurada Virgem Maria Rainha
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Filha de reis, estirpe de Davi,
+como é gloriosa a luz em que fulguras!
+Sobre as regiões celestes elevada,
+Virgem Maria, habitas nas alturas.
+
+No coração, ó Virgem, preparaste,
+para o Senhor dos céus, habitação.
+E no sagrado templo do teu seio
+Deus toma um corpo e faz-se nosso irmão,
+
+perante quem o mundo se ajoelha
+a quem a terra adora, reverente,
+a quem pedimos venha em nosso auxílio,
+radiosa luz, que as trevas afugente.
+
+Tal nos conceda o Pai de toda a luz
+e o Filho que por nós de ti nasceu,
+com o Espírito, Sopro que dá vida,
+reinando pelos séculos, no céu.
+
+@secao Salmodia
+
+@antifona 1
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@antifona 2
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@antifona 3
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@secao Leitura breve | Cf. Is 61,10
+
+@texto
+Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me qual noiva com suas joias.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Excelsa Rainha do mundo, Maria, ó Virgem perpétua,
+gerastes o Cristo, Senhor, de todos o Deus Salvador.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Excelsa Rainha do mundo, Maria, ó Virgem perpétua,
+gerastes o Cristo, Senhor, de todos o Deus Salvador.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes a Mãe do vosso Filho nossa Mãe e Rainha, dai-nos, por sua intercessão, alcançar o Reino do céu e a glória prometida aos vossos filhos e filhas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

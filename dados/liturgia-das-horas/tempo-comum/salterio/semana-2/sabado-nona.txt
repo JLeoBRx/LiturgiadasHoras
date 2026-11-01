@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sabado_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+O céu e a terra passarão, diz o Senhor,
+porém jamais minhas palavras passarão.
+
+@salmo salmos/salmo-118-81-88-xi-caph
+
+@gloria
+
+@antifona
+O céu e a terra passarão, diz o Senhor,
+porém jamais minhas palavras passarão.
+
+@antifona 2
+Sois, Senhor, meu refúgio e fortaleza,
+torre forte na presença do inimigo.
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@antifona
+Sois, Senhor, meu refúgio e fortaleza,
+torre forte na presença do inimigo.
+
+@antifona 3
+Ó Senhor, salvai-me a vida do inimigo aterrador!
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Ó Senhor, salvai-me a vida do inimigo aterrador!
+
+@secao Leitura breve | Jr 6,16
+
+@texto
+Parai um pouco na estrada para observar, e perguntai sobre os antigos caminhos, e qual será o melhor, para seguirdes por ele; assim ficareis mais tranquilos em vossos corações.
+
+@texto
+V. Vossa palavra é minha herança, para sempre,
+R. Porque ela é que me alegra o coração.
+
+@secao Oração
+
+@oracao
+Atendei, Senhor, às nossas preces, por intercessão da Virgem Maria, e dai-nos a paz completa, para que, dedicando-nos sempre a vós com alegria, possamos confiantes chegar até vós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

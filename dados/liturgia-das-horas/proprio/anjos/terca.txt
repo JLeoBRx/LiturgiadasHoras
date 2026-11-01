@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anjos_terca.htm
+@documento Hora Média - Santos Anjos da Guarda
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Rogai que viva em paz Jerusalém,
+e em segurança os que te amam!
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Rogai que viva em paz Jerusalém,
+e em segurança os que te amam!
+
+@secao Leitura breve | At 5,17-20
+
+@texto
+Levantaram-se o sumo-sacerdote e todos os do seu partido – isto é, o partido dos saduceus – cheios de raiva e mandaram prender os apóstolos e lançá-los na cadeia pública. Porém, durante a noite, o anjo do Senhor abriu as portas da prisão e os fez sair, dizendo: Ide falar ao povo, no Templo, sobre tudo o que se refere a este modo de viver.
+
+@texto
+V. Perante os vossos anjos vou cantar-vos.
+R. E ante o vosso templo vou prostrar-me.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misteriosa providência mandais os vossos Anjos para guardar-nos, concedei que nos defendam de todos os perigos e gozemos eternamente do seu convívio. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

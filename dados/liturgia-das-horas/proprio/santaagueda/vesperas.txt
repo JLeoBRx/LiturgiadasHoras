@@ -1,0 +1,134 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santaagueda_vesperas.htm
+@documento Vésperas - Santa Águeda, virgem e mártir
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Da Mãe Autor, da Virgem Filho,
+que a Virgem trouxe e deu à luz,
+ouvi os cantos da vitória
+de outra virgem, ó Jesus.
+
+Por dupla sorte contemplada,
+sua fraqueza superou:
+na virgindade vos seguindo,
+por vós seu sangue derramou.
+
+Sem temer a morte nem suplícios,
+em duras penas mereceu,
+pelo seu sangue derramado,
+subir radiante para o céu.
+
+Ó Deus santíssimo, atendei-nos
+por sua prece e intercessão.
+E os corações purificados
+glória sem fim vos cantarão.
+
+@secao Salmodia
+
+@antifona 1
+Nem ameaças nem carícias
+conseguiram abalar esta Virgem do Senhor.
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Nem ameaças nem carícias
+conseguiram abalar esta Virgem do Senhor.
+
+@antifona 2
+Sou fiel somente a ele e lhe entrego a minha vida.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Sou fiel somente a ele e lhe entrego a minha vida.
+
+@antifona 3
+Bendito sede, ó Pai de Jesus Cristo, meu Senhor,
+que no Filho concedestes a vitória à vossa serva.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Bendito sede, ó Pai de Jesus Cristo, meu Senhor,
+que no Filho concedestes a vitória à vossa serva.
+
+@secao Leitura breve | 1Pd 4,13-14
+
+@texto
+Caríssimos, alegrai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória. Se sofreis injúrias por causa do nome de Cristo, sois felizes, pois o Espírito da glória, o Espírito de Deus repousa sobre vós.
+
+@secao Responsório breve
+
+@responsorio
+R. Na verdade, ó Senhor, vós nos provastes.
+* Mas finalmente vós nos destes um alívio. R. Na verdade.
+V. Depurastes-nos no fogo como a prata. * Mas finalmente.
+Glória ao Pai. R. Na verdade.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Jesus Cristo, meu bom Mestre e meu Senhor,
+graças a vós, que me fizestes superar
+as torturas que sofri de meus algozes!
+Que eu alcance a vossa glória imperecível!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Jesus Cristo, meu bom Mestre e meu Senhor,
+graças a vós, que me fizestes superar
+as torturas que sofri de meus algozes!
+Que eu alcance a vossa glória imperecível!
+
+@secao Preces
+
+@preces
+Nesta hora em que o Rei dos mártires ofereceu sua vida na última Ceia e a entregou na cruz, demos-lhe graças, dizendo:
+
+R. **Nós vos louvamos e bendizemos, Senhor!**
+
+Nós vos agradecemos, ó Salvador, fonte e exemplo de todo martírio, porque nos amastes até o fim: R.
+
+Porque viestes chamar os pecadores arrependidos para o prêmio da vida eterna: R.
+
+Porque destes à vossa Igreja, como sacrifício para a remissão dos pecados, o Sangue da nova e eterna Aliança: R.
+
+Porque a vossa graça nos mantém até hoje perseverantes na fé: R.
+
+{(intenções livres)}
+
+Porque associastes à vossa morte, neste dia, muitos de nossos irmãos e irmãs: R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que Santa Águeda, virgem e mártir, agradável ao vosso coração pelo mérito da castidade e pela força do martírio, implore vosso perdão em nosso favor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

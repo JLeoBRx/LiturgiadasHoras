@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1domingo_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+É melhor buscar refúgio no Senhor,
+pois eterna é a sua misericórdia. Aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@antifona
+É melhor buscar refúgio no Senhor,
+pois eterna é a sua misericórdia. Aleluia.
+
+@antifona 2
+O Senhor é minha força e o meu canto, aleluia.
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@antifona
+O Senhor é minha força e o meu canto, aleluia.
+
+@antifona 3
+Dou-vos graças, ó Senhor,
+porque me ouvistes, aleluia.
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Dou-vos graças, ó Senhor,
+porque me ouvistes, aleluia.
+
+@secao Leitura breve | 1Jo 4,16
+
+@texto
+Nós conhecemos o amor que Deus tem para conosco, e acreditamos nele. Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele.
+
+@texto
+V. Inclinai meu coração às vossas leis.
+R. Dai-me a vida pelos vossos mandamentos.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

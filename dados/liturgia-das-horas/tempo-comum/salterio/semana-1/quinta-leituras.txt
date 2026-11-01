@@ -1,0 +1,109 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_leituras.htm
+@documento Ofício das Leituras - I Quinta-Feira
+
+@titulo I QUINTA-FEIRA / Ofício das Leturas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+A noite escura apaga
+da treva toda a cor.
+Juiz dos corações,
+a vós nosso louvor.
+
+E para que das culpas
+lavemos nossa mente,
+ó Cristo, dai a graça
+que os crimes afugente.
+
+A nós, que vos buscamos,
+tirai do mal escuro.
+Já dorme a mente ímpia
+que o fruto morde impuro.
+
+As trevas expulsai
+do nosso interior.
+Felizes exultemos
+à luz do vosso amor.
+
+A vós, ó Cristo, a glória
+e a vós, ó Pai, também,
+com vosso Santo Espírito
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Cristo, aos servos suplicantes
+voltai hoje vosso olhar.
+Entre as trevas deste mundo
+nossa fé fazei brilhar.
+
+Não pensemos em maldades,
+não lesemos a ninguém,
+nem o mal retribuamos,
+mas paguemos mal com bem.
+
+Iras, fraudes, nem soberba
+haja em nossos corações.
+Defendei-nos da avareza,
+que é raiz de divisões.
+
+Guarde todos nós na paz
+a sincera caridade.
+Seja casta a nossa vida,
+em total fidelidade.
+
+A vós, Cristo, Rei clemente,
+e a Deus Pai, Eterno Bem,
+com o vosso Santo Espírito,
+honra e glória sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@salmo salmos/salmo-017-31-51-iv
+
+@gloria
+
+@antifona
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@antifona 2
+Com a vossa mão direita me amparastes.
+
+@salmo salmos/salmo-017-31-51-v
+
+@gloria
+
+@antifona
+Com a vossa mão direita me amparastes.
+
+@antifona 3
+Viva o Senhor! Bendito seja o meu Rochedo! †
+
+@salmo salmos/salmo-017-31-51-vi
+
+@gloria
+
+@antifona
+Viva o Senhor! Bendito seja o meu Rochedo!
+
+@texto
+V. Abri meus olhos, e então contemplarei
+R. As maravilhas que encerra a vossa lei.

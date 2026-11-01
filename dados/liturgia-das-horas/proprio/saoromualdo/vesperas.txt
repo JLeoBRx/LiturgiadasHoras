@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saoromualdo_vesperas.htm
+@documento Vésperas - São Romualdo, abade
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar
+
+@secao Salmodia
+
+@antifona 1
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@antifona 2
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@antifona 3
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. É justo o nosso Deus,
+* Ele ama a justiça. R. É justo.
+V. Quem tem reto coração há de ver a sua face. * Ele ama.
+Glória ao Pai. R. É justo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@secao Preces
+
+@preces
+Peçamos a Deus Pai, fonte de toda a santidade, que pela intercessão e exemplo dos santos nos conduza a uma vida mais perfeita; e digamos:
+
+R. **Fazei-nos santos, porque vós sois santo!**
+
+Pai santo, que nos destes a graça de nos chamarmos e sermos realmente vossos filhos,
+– fazei que a santa Igreja proclame as vossas maravilhas por toda a terra. R.
+
+Pai santo, inspirai os vossos servos a viver dignamente, segundo a vossa vontade,
+– e ajudai-nos a dar abundantes frutos de boas obras. R.
+
+Pai santo, que nos reconciliastes convosco por meio de Cristo,
+– conservai-nos na unidade por amor de vosso nome. R.
+
+Pai santo, que nos convidastes para tomar parte no banquete celeste,
+– pela comunhão do pão descido do céu, dai-nos alcançar a perfeição da caridade. R.
+
+{(intenções livres)}
+
+Pai santo, perdoai as faltas de todos os pecadores,
+– e acolhei na luz da vossa face todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que por São Romualdo renovastes na vossa Igreja a vida eremítica, concedei-nos renunciar a nós mesmos e, seguindo o Cristo, chegar com alegria ao Reino celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

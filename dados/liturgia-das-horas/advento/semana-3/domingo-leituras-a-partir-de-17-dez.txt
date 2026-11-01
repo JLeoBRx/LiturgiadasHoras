@@ -1,0 +1,109 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_leituras17.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Oh vinde, depressa,
+do seio da Virgem,
+Beleza dos céus!
+O mundo admire:
+um tal nascimento
+é digno de Deus.
+
+Não germe de homem,
+mas sopro divino
+no seio o gerou.
+O Verbo de Deus
+se fez nossa carne,
+o ventre deu flor.
+
+A vida já cresce
+no seio da Virgem
+que guarda a pureza.
+Deus mora em seu templo
+e brilha a virtude
+em toda a grandeza.
+
+Que venha o herói
+que é homem e é Deus,
+do quarto nupcial,
+correr glorioso
+seu nobre caminho,
+a trilha real.
+
+Igual a Deus Pai,
+reveste dos homens
+a carne, a fraqueza,
+e, desta maneira,
+nos dá a virtude,
+de Deus fortaleza.
+
+Já brilha o presépio,
+e um novo esplendor
+a noite nos traz.
+Que fujam as trevas,
+a fé resplandeça
+e reine a paz.
+
+A vós, Rei piedoso,
+e ao Pai que nos ama,
+a glória convém.
+Com vosso Espírito
+reinais sobre o mundo
+nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia.
+
+@salmo salmos/salmo-144-i
+
+@gloria
+
+@antifona
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia.
+
+@antifona 2
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies!
+Está perto o teu Rei e Salvador.
+
+@salmo salmos/salmo-144-ii
+
+@gloria
+
+@antifona
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies!
+Está perto o teu Rei e Salvador.
+
+@antifona 3
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque ele vem sem mais tardar.
+
+@salmo salmos/salmo-144-iii
+
+@gloria
+
+@antifona
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque ele vem sem mais tardar.
+
+@texto
+V. Anuncia a Jacó sua palavra.
+R. Seus preceitos, suas leis a Israel.

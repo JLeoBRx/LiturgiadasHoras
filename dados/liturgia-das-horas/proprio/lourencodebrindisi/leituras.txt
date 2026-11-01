@@ -1,0 +1,175 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/lourencodebrindisi.htm
+@documento Ofício das Leituras - São Lourenço De Bríndisi, Presbítero E Doutor Da Igreja
+
+@celebracao
+SÃO LOURENÇO DE BRÍNDISI, PRESBÍTERO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em 1559; recebido entre os frades capuchinhos, ensinou teologia aos confrades e exerceu grandes cargos. Como pregador assíduo e eficaz, percorreu a Europa; também escreveu obras para a exposição da fé. Morreu em Lisboa em 1619.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Lourenço de Bríndisi, presbítero
+{(Séc. XVI)} {(Sermo Quadragesimalis 2: Opera Omnia 5,1, nn. 48.50.52)}
+
+@tema
+A pregação é múnus apostólico
+
+@texto
+Para mantermos a vida espiritual, que nos é comum com os anjos do céu e os espíritos divinos, feitos eles e nós à imagem e semelhança de Deus, é necessário, sem dúvida, o pão da graça do Espírito Santo e da caridade de Deus. Mas a graça e a caridade sem a fé são nulas, porque sem fé é impossível agradar a Deus. E a fé também não nasce sem a pregação da palavra de Deus: A fé vem pelo ouvido, pela audição da palavra de Deus (cf. Rm 10,17). Por conseguinte, a pregação da palavra de Deus é necessária para a vida espiritual, assim como semear o é para manter a vida corporal.
+Por isto Cristo diz: Sai o que semeia a semear sua semente (Lc 8,5). Sai o que semeia, o pregoeiro da justiça; este pregoeiro lemos ser às vezes Deus que de viva voz dá do céu a todo o povo no deserto a lei da justiça; às vezes, um anjo do Senhor, que no Lugar do pranto censura o povo pela transgressão da lei divina e, ouvindo a advertência do anjo, todos os filhos de Israel de coração contrito elevaram a voz chorando com veemência; também Moisés pregou a todo o povo a lei do Senhor, nos campos de Moab, como se lê no Deuteronômio. Em seguida, veio Cristo, Deus e homem, para anunciar a palavra do Senhor e enviou para isto os apóstolos, assim como enviara antes os profetas.
+Portanto, a pregação é múnus apostólico, angélico, cristão, divino. A palavra de Deus possui imenso valor, por ser como que o tesouro de todos os bens. Pois daí vêm a fé, a esperança, a caridade, daí todas as virtudes, todos os dons do Espírito Santo, todas as bem-aventuranças evangélicas, todas as boas obras, os méritos todos da vida, toda a glória do paraíso: Acolhei a palavra inserida que pode salvar vossas almas (Tg 1,21).
+A palavra de Deus é luz para a inteligência, fogo para a vontade para que o homem possa conhecer e amar a Deus; para o homem interior, que no Espírito de Deus vive pela graça, é pão e água; porém pão mais doce que o mel e o favo; água melhor que o vinho e o leite. É tesouro espiritual de méritos para a alma, por isto diz-se ouro e pedra preciosíssima. É martelo contra a dura obstinação do coração nos vícios e contra a carne, o mundo e o demônio, espada que mata todo pecado.
+
+@secao Responsório
+
+@responsorio
+R. Ao lutarmos pela fé, Deus nos vê,
+os anjos olham e o Cristo nos contempla.
+* Quanta honra e alegria combater, vendo-nos Deus,
+e a coroa receber do Juiz, que é Jesus Cristo.
+V. Concentremos nossas forças,
+para a luta preparemo-nos
+com a mente pura e forte, doação, fé e coragem.* Quanta honra.
+
+@secao Oração
+
+@oracao
+Ó Deus, que, para a vossa glória e a salvação da humanidade, destes a São Lourenço de Bríndisi o espírito de conselho e fortaleza, concedei-nos, pelo mesmo espírito, conhecer o que devemos praticar e, por suas preces, realizá-lo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,163 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoanselmo.htm
+@documento Ofício das Leituras - Santo Anselmo, Bispo E Doutor Da Igreja
+
+@celebracao
+SANTO ANSELMO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Aosta, no Piemonte (Itália), em 1033. Entrou para a Ordem de São Bento no mosteiro de Le Bec, na França. Ensinou Teologia a seus irmãos de hábito, ao mesmo tempo em que ia progredindo com entusiasmo no caminho da perfeição. Transferido para a Inglaterra, foi eleito bispo de Cantuária. Combateu valorosamente pela liberdade da Igreja, o que lhe causou duas vezes o exílio. Escreveu muitas obras de grande valor teológico e místico. Morreu em 1109.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Do livro "Proslógion", de Santo Anselmo, bispo
+{(Séc. XI)} {(Cap. 14.16.26: Opera omnia, edit. Schmitt, Seccovii, 1938, 1,111-113.121-122)}
+
+@tema
+Que eu te conheça e te ame, para encontrar em ti minha alegria
+
+@texto
+Encontraste, ó minh'alma, o que procuravas? Procuravas a Deus e viste que ele está muito acima de tudo, e nada melhor do que ele se pode pensar; que ele é a própria vida, a luz, a sabedoria, a bondade, a eterna felicidade e a feliz eternidade; e que ele é tudo isto sempre e em toda parte.
+Senhor meu Deus, meu Criador e Redentor, dize à minh'alma sedenta em que és diferente daquilo que ela viu, para que veja mais claramente o que deseja. Ela se esforça por ver sempre mais; contudo nada vê além do que já viu, senão trevas. Ou melhor, não vê trevas, porque elas não existem em ti; porém vê que não pode enxergar mais por causa das trevas que possui.
+Verdadeiramente, Senhor, esta é a luz inacessível em que habitas; verdadeiramente nada há que penetre nesta luz para ali te ver, tal como és. De fato, eu não vejo essa luz, porque é excessiva para mim; e, no entanto, tudo quanto vejo é através dela: semelhante à nossa vista humana que, pela sua fraqueza, só pode ver por meio da luz do sol e contudo não pode olhar diretamente para o sol.
+Minha inteligência é incapaz de ver essa luz, demasiado brilhante para ser compreendida; os olhos de minh'alma não suportam fixar-se nela por muito tempo. Ficam ofuscados pelo seu esplendor, vencidos pela sua imensidade, confundidos pela sua grandeza.
+Ó luz suprema e inacessível! Ó verdade plena e bem-aventurada! Como estás longe de mim que de ti estou tão perto! Quão afastada estás de meu olhar, de mim que estou tão presente ao teu olhar!
+Estás presente em toda parte, e eu não te vejo. Em ti me movo, em ti existo, e de ti não posso me aproximar. Estás dentro de mim e a meu redor, e eu não te percebo.
+Peço-te, meu Deus, faze que eu te conheça e te ame, para encontrar em ti minha alegria. E se não o posso alcançar plenamente nesta vida, que ao menos vá me aproximando, dia após dia, dessa plenitude. Cresça agora em mim o conhecimento de ti, para que chegue um dia ao conhecimento perfeito; cresça agora em mim o amor por ti até que chegue um dia à plenitude do amor; seja agora a minha alegria grande em esperança, para que um dia seja plena mediante a posse da realidade.
+Senhor, por meio de teu Filho ordenas, ou melhor, aconselhas a pedir, e prometes acolher o pedido para que nossa alegria seja completa. Por isso, peço-te, Senhor, o que aconselhas por meio do nosso admirável Conselheiro; possa eu receber o que em tua fidelidade prometes, a fim de que minha alegria seja completa. Deus fiel, eu te peço: faze que o receba, para que minha alegria seja completa.
+Por enquanto, nisto medite meu espírito e fale minha língua. Isto ame meu coração e proclame minha boca. Desta felicidade prometida tenha fome e sede a minha carne. Todo o meu ser a deseje, até que um dia entre na alegria do meu Senhor, que é Deus uno e trino, bendito pelos séculos. Amém.
+
+@secao Responsório
+
+@responsorio
+R. Eis Anselmo, o preclaro doutor,
+pelo mestre Lanfranco instruído.
+Sendo pai tão amável dos monges,
+foi chamado por Deus a ser bispo.
+* E lutou com firmeza e coragem
+para a Igreja ser santa e ser livre. Aleluia.
+V. Afirmava com voz indomável:
+É livre e jamais seja escrava
+a Esposa sem mancha de Cristo. * E lutou.
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes ao bispo Santo Anselmo investigar e ensinar as profundezas de vossa sabedoria, fazei que a fé venha em auxílio de nossa inteligência, tornando suaves ao nosso coração as verdades que devemos crer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

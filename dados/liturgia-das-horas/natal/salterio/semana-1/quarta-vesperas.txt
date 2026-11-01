@@ -1,0 +1,93 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor é minha luz e salvação;
+de quem eu terei medo? †
+
+@salmo salmos/salmo-026
+
+@gloria
+
+@antifona
+O Senhor é minha luz e salvação;
+de quem eu terei medo?
+
+@antifona 2
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@salmo salmos/salmo-026-ii
+
+@gloria
+
+@antifona
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@antifona 3
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@secao Cristo, o Primogênito de toda a criatura
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.

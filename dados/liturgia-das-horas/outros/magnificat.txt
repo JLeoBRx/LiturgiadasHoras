@@ -1,0 +1,15 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/magnificat.htm
+@documento Magnificat
+
+@titulo MAGNIFICAT / {Lc 1,46-55}
+
+@salmo salmos/magnificat
+
+@gloria
+
+@rubrica
+(Em latim)
+
+@titulo MAGNIFICAT (EM LATIM) / {Lc 1,46-55}
+
+@salmo salmos/trecho-magnificat

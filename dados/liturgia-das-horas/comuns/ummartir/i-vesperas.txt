@@ -1,0 +1,229 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_ummartir_Ivesperas.htm
+@documento I Vésperas - COMUM DOS MÁRTIRES PARA UM(A) MÁRTIR
+
+@titulo COMUM DOS MÁRTIRES PARA UM(A) MÁRTIR
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Ó Deus, dos vossos heróis
+coroa, prêmio e destino,
+livrai do peso da culpa
+quem canta ao(à) mártir um hino.
+
+Seus lábios deram a prova
+da fé do seu coração.
+Seguindo a Cristo, o encontra
+do sangue pela efusão.
+
+Do mundo a vã alegria
+julgou fugaz, transitória,
+chegando assim, jubiloso(a),
+ao gozo eterno da glória.
+
+Passou por duros tormentos
+com força e muito valor.
+Por vós vertendo seu sangue,
+possui os dons do Senhor.
+
+Ó Deus dos fortes, rogamos:
+por essa imensa vitória,
+livrai da culpa os cativos,
+mostrando em nós vossa glória,
+
+para podermos, no céu,
+com ele (ela) o prêmio gozar
+e, para sempre felizes,
+vossos louvores cantar.
+
+Louvor e glória a Deus Pai,
+com o seu Filho também,
+e o Divino Paráclito
+agora e sempre. Amém.
+
+Para uma virgem mártir:
+
+Da Mãe Autor, da Virgem Filho,
+que a Virgem trouxe e deu à luz,
+ouvi os cantos da vitória
+de outra virgem, ó Jesus.
+
+Por dupla sorte contemplada,
+sua fraqueza superou:
+na virgindade vos seguindo,
+por vós seu sangue derramou.
+
+Sem temer a morte nem suplícios,
+em duras penas mereceu,
+pelo seu sangue derramado,
+subir radiante para o céu.
+
+Ó Deus santíssimo, atendei-nos
+por sua prece e intercessão.
+E os corações purificados
+glória sem fim vos cantarão.
+
+@secao Salmodia
+
+@antifona 1
+Quem de mim der testemunho ante os homens,
+darei dele o testemunho ante meu Pai.
+
+@salmo salmos/salmo-117-i-v2
+
+@gloria
+
+@antifona
+Quem de mim der testemunho ante os homens,
+darei dele o testemunho ante meu Pai.
+
+@antifona 2
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@salmo salmos/salmo-117-ii-v2
+
+@gloria
+
+@antifona
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@antifona 3
+Como são grandes em nós os sofrimentos de Cristo,
+assim, por ele, é grande o consolo que temos.
+
+@salmo canticos/1pd-2-21-24
+
+@gloria
+
+@antifona
+Como são grandes em nós os sofrimentos de Cristo,
+assim, por ele, é grande o consolo que temos.
+
+@secao Leitura breve | Rm 8,35.37-39
+
+@texto
+Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório breve
+
+@responsorio
+{Para um santo mártir:}
+
+@texto
+R. De esplendor e de glória,
+* Ó Senhor, o coroastes. R. De esplendor.
+V. Vossas obras aos pés lhe pusestes, Senhor. * Ó Senhor.
+Glória ao Pai. R. De esplendor.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma santa mártir:
+
+@texto
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@rubrica
+Para um santo mártir:
+
+@antifona
+Por seu Deus, são (sto.) N. lutou até à morte; superou as provações, pois Jesus foi sua força.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma santa mártir:
+
+@antifona
+Santa N. foi forte no Senhor; jamais a sua luz haverá de se apagar.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@rubrica
+Para um santo mártir:
+
+@antifona
+Por seu Deus, são (sto.) N. lutou até à morte; superou as provações, pois Jesus foi sua força.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma santa mártir:
+
+@antifona
+Santa N. foi forte no Senhor; jamais a sua luz haverá de se apagar.
+
+@secao Preces
+
+@preces
+Nesta hora em que o Rei dos mártires ofereceu sua vida na última Ceia e a entregou na cruz, demos-lhe graças, dizendo:
+
+R. **Nós vos louvamos e bendizemos, Senhor!**
+
+Nós vos agradecemos, ó Salvador, fonte e exemplo de todo martírio, porque nos amastes até o fim: R.
+
+Porque viestes chamar os pecadores arrependidos para o prêmio da vida eterna: R.
+
+Porque destes à vossa Igreja, como sacrifício para a remissão dos pecados, o Sangue da nova e eterna Aliança: R.
+
+Porque a vossa graça nos mantém até hoje perseverantes na fé: R.
+
+{(intenções livres)}
+
+Porque associastes à vossa morte, neste dia, muitos de nossos irmãos e irmãs: R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Deus onipotente e misericordioso, destes a são (sto.) N. superar as torturas do martírio. Concedei que, celebrando o dia do seu triunfo, passemos invictos por entre as ciladas do inimigo, graças à vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Deus eterno e todo-poderoso, que destes a são (sto.) N.. a graça de lutar pela justiça até a morte, concedei-nos, por sua intercessão, suportar por vosso amor as adversidades, e correr ao encontro de vós que sois a nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma virgem mártir:
+
+@texto
+Ó Deus, que hoje nos alegrais com a comemoração de santa N., concedei que sejamos ajudados pelos seus méritos e iluminados pelos seus exemplos de castidade e fortaleza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa mulher:
+
+@texto
+Ó Deus, cuja força se manifesta na fraqueza, fazei que, ao celebrarmos a glória de santa N., que de vós recebeu a força para vencer, obtenhamos, por sua intercessão, a graça da vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

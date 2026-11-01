@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/ramos_impar.htm
+@documento Ofício das Leituras - Domingo De Ramos Da Paixão Do Senhor
+
+@celebracao
+DOMINGO DE RAMOS DA PAIXÃO DO SENHOR
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto!
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto!
+
+@antifona 2
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@antifona 3
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do profeta Isaías {50,4-51,3}
+
+@tema
+O Servo do Senhor que suporta a provação
+
+@texto
+O Senhor Deus me deu língua de discípulo para que soubesse trazer ao cansado uma palavra de conforto. De manhã em manhã ele me desperta, sim, desperta o meu ouvido para que eu ouça como os discípulos. O Senhor Deus abriu-me os ouvidos e eu não fui rebelde, não recuei. Ofereci o dorso aos que me feriam e as faces aos que me arrancavam os fios da barba; não ocultei o rosto às injúrias e aos escarros. O Senhor Deus virá em meu socorro, eis por que não me sinto humilhado, eis por que fiz do meu rosto uma pederneira e tenho a certeza de que não ficarei confundido. Perto está aquele que defende a minha causa. Quem ousará mover ação contra mim? Compareçamos juntos! Quem é meu adversário? Ele que se apresente! É o Senhor Deus que me socorrerá, quem será aquele que me condenaria? Certamente todos eles se desgastarão como uma veste: a traça os devorará. Quem dentre vós teme ao Senhor e ouve a voz do seu servo? Aquele que caminhou nas trevas, sem nenhuma luz, ponha sua confiança no nome do Senhor, tome como arrimo o seu Deus. Mas todos vós que acendeis um fogo, que vos munis de setas incendiárias, atirai-vos às chamas do vosso fogo e às setas que acendestes. Por minha mão isto vos há de sobrevir: deitar-vos-eis no meio dos tormentos. Ouvi-me, vós, que estais à procura da justiça vós, que buscais ao Senhor. Olhai para a rocha da qual fostes talhados, para a cova de que fostes extraídos. Olhai para Abraão, vosso pai, e para Sara, aquela que vos deu à luz. Ele estava só quando o chamei, mas eu o abençoei e o multipliquei. O Senhor consolou Sião, consolou todas as suas ruínas; ele transformará seu deserto em um Éden e suas estepes em jardim do Senhor. Nela se encontrarão gozo e alegria, cânticos de ações de graças e som de música.
+
+@secao Responsório | Cf. Jr 11,19;Sl 40 (41),8
+
+@responsorio
+R. Eu era como manso cordeiro levado ao sacrifício,
+e não sabia que tramavam contra mim.
+Meus inimigos reuniram-se em conselho contra mim, dizendo:
+* Vinde, coloquemos madeira no seu pão,
+e o eliminemos da terra dos vivos.
+V. Vaticinam desgraças os meus inimigos, reunidos,
+sussurram o mal contra mim.* Vinde.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Profeta Isaías, de São Cirilo de Alexandria, bispo
+{( In Isaiam Lib. 4, Oratio 4: PG 70,1066-1067)}
+
+@tema
+A paixão de Cristo e sua cruz preciosa_
+_tornaram-se segurança e inquebrantável_
+_fortaleza para os que nele creem
+
+@texto
+Embora fosse possível a Cristo permanecer na forma e na igualdade de Deus Pai, não se apegou a isso, mas desceu a esse aniquilamento e assumiu a forma de servo, fazendo- se obediente até a morte, e morte de cruz. Na verdade, essa paixão salvadora derrubou os poderes do mundo e triunfou dos senhores deste século, libertando a todos da tirania do demônio e conduzindo-nos a Deus. Pois fomos curados por suas feridas, e ele tomou nossos pecados em seu corpo sobre a cruz; enquanto exauriu-se, fomos salvos e sua paixão se tornou para nós fortaleza e segurança; aquele que nos remiu da execração da lei tornou-se por nós execração; quando padeceu e foi tentado, socorreu aos pecadores; padeceu fora da cidade para santificar a todos com o seu sangue. Por isso, repito que a paixão de Cristo, sua preciosa cruz e suas mãos traspassadas pelos cravos tornaram-se segurança e inquebrantável fortaleza para os que nele creram. Com razão pôde dizer: _Eis que com minhas mãos_ _pintei os teus muros_ (cf. Is 49,16). Por suas mãos cravadas, deves entender a sua paixão. _Pintei_ significa _construí_. E disse ainda: _Estás sempre diante de mim_. Se, pois, padeceu por nós, como poderia esquecer-nos? Como poderíamos não estar diante dos olhos daquele que por nós foi pregado no lenho? _As minhas ovelhas escutam_ _a minha voz e me seguem. Eu lhes dou a vida eterna_ (Jo 10,27-28). Em outro lugar ainda: _Ninguém pode arrancá-las_ _da mão do Pai_ (Jo 10,29), pois estão como que à sombra do Todo-poderoso, qual torre fortificada pelo auxílio divino. Quando Deus Pai nos sustenta com suas mãos e nos guarda junto a si, também não permite que sejamos levados ao mal ou soframos a maldade de nossos adversários ou nos tornemos presas da violência diabólica. Por conseguinte, nada obsta a que vejamos nisto as muralhas de Sião, como que pintadas por suas mãos, isto é, construídas com esplendor espiritual, de modo que sua beleza apareça claramente em toda espécie de virtude. Ora, as muralhas de Sião, assim bem entendidas, são os santos apóstolos e evangelistas, estabelecidos por Deus e confirmados por sua sentença definitiva (que nunca falta ou falha). Pois seus nomes estão escritos nos céus e postos no livro dos vivos. E não te admires que os santos sejam chamados baluartes e muralhas da Igreja. Pois Cristo também é muralha e fortaleza e os _chama luz do mundo_ (Mt 5,14), assim como ele mesmo é a _luz verdadeira_ (Jo 1,9). Sendo a muralha e toda segurança dos que creram nele, deu também aos chefes da Igreja essa dignidade de serem chamados muralhas de sua Igreja.
+
+@secao Responsório
+
+@responsorio
+R. Ó cruz, símbolo admirável,
+onde foi suspenso o Senhor, o filho de nosso Deus.
+* Pelo peso dos nossos crimes foi condenado à morte.
+V. Doce lenho, doces cravos, doce peso sustentais!
+* Pelo peso dos nossos.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele emsua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do EspíritoSanto.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

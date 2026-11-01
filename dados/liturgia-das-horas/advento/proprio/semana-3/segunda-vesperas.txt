@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3segunda_vesperas.htm
+@documento Próprio - Vésperas - III Segunda-feira do Advento
+
+@secao Leitura breve | Fl 3,20b-21
+
+@texto
+Aguardamos o nosso Salvador, o Senhor, Jesus Cristo. Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Doravante as gerações hão de chamar-me de bendita,
+porque o Senhor voltou os olhos para a humildade de sua serva.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Doravante as gerações hão de chamar-me de bendita,
+porque o Senhor voltou os olhos para a humildade de sua serva.
+
+@secao Preces
+
+@preces
+Oremos humildemente ao Senhor que vem para nos salvar; e aclamemos dizendo:
+
+R. **Vinde, Senhor, salvar-nos!**
+
+Senhor Jesus, Ungido do Pai como salvador de toda a humanidade,
+– vinde depressa e salvai-nos. R.
+
+Vós, que viestes a este mundo,
+– livrai-nos do pecado do mundo. R.
+
+Vós, que viestes do Pai,
+– ensinai-nos o caminho da salvação que conduz ao Pai. R.
+
+Vós, que fostes concebido pelo poder do Espírito Santo,
+– renovai os nossos corações, no mesmo Espírito, com a vossa palavra. R.
+
+Vós, que vos encarnastes no seio da Virgem Maria,
+– libertai-nos da corrupção da carne. R.
+
+{(intenções livres)}
+
+Lembrai-vos, Senhor, de todos os seres humanos,
+– que existiram desde o pricípio do mundo e esperaram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Inclinai, ó Deus, o vosso ouvido de Pai à voz da nossa súplica, e iluminai as trevas do nosso coração com a visita do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

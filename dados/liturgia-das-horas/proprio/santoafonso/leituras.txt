@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoafonso.htm
+@documento Ofício das Leituras - Santo Afonso Maria De Ligório, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SANTO AFONSO MARIA DE LIGÓRIO, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Nápoles em 1696; obteve o doutorado em Direito civil e eclesiástico, recebeu a ordenação sacerdotal e fundou a Congregação do Santíssimo Redentor. Com a finalidade de incrementar a vida cristã entre o povo, dedicou-se à pregação e escreveu vários livros, sobretudo de teologia moral, matéria na qual é considerado insigne mestre. Foi eleito bispo de Sant’Agata dei Goti, mas renunciou ao cargo pouco depois e morreu junto dos seus, em Nocera dei Pagani, na Campânia em 1787.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Das Obras de Santo Afonso Maria de Ligório, bispo
+{(Séc. XVIII)} {(Tract. De praxi amandi Iesum Christum, edit. latina, Romae 1909, pp.9-14)}
+
+@tema
+Sobre o amor a Jesus Cristo
+
+@texto
+Toda santidade e perfeição consiste no amor a Jesus Cristo, nosso Deus, nosso sumo bem e nosso redentor. É a caridade que une e conserva todas as virtudes que tornam o homem perfeito. Será que Deus não merece todo o nosso amor? Ele nos amou desde toda a eternidade. “Lembra-te, ó homem, – assim nos fala – que fui eu o primeiro a te amar. Tu ainda não estavas no mundo, o mundo nem mesmo existia, e eu já te amava. Desde que sou Deus, eu te amo”. Deus, sabendo que o homem se deixa cativar com os benefícios, quis atraí-lo ao seu amor por meio de seus dons. Eis por que disse: “Quero atrair os homens ao meu amor com os mesmos laços com que eles se deixam prender, isto é, com os laços do amor”. Tais precisamente têm sido todos os dons feitos por Deus ao homem. Deu-lhe uma alma dotada, à sua imagem, de memória, inteligência e vontade; deu-lhe um corpo provido de sentidos; para ele criou também o céu e a terra com toda a multidão de seres; por amor do homem criou tudo isso, para que todas as criaturas servissem ao homem e o homem, em agradecimento por tantos benefícios, o amasse. Mas Deus não se contentou em dar-nos tão belas criaturas. Para conquistar todo o nosso amor, foi ao ponto de dar-se a si mesmo totalmente a nós. O Pai eterno chegou ao extremo de nos dar seu único Filho. Vendo-nos a todos mortos pelo pecado e privados de sua graça, que fez ele? Movido pelo imenso, ou melhor – como diz o Apóstolo – pelo seu demasiado amor, enviou seu amado Filho, para nos justificar e nos restituir a vida que havíamos perdido pelo pecado. Ao dar-nos o Filho, a quem não poupou para nos poupar, deu-nos com ele todos os bens: a graça, a caridade e o paraíso. E porque todos estes bens são certamente menores do que o Filho, Deus, que não poupou a seu próprio Filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? (Rm 8,32).
+
+@secao Responsório | Sl 144(145),19-20a; 1Jo 3,9a
+
+@responsorio
+R. O Senhor cumpre os desejos dos que o temem,
+ele escuta seus clamores e os salva.
+* O Senhor guarda todo aquele que o ama.
+V. Todo aquele que é nascido de Deus, não vive cometendo pecados;
+pois fica nele a divina semente.
+* O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitais continuamente em vossa Igreja novos exemplos de virtude, dai-nos seguir de tal modo os passos do bispo Santo Afonso no zelo pela salvação de todos, que alcancemos com ele a recompensa celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

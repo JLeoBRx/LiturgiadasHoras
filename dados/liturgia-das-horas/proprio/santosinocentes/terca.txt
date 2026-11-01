@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santosinocentes_terca.htm
+@documento Hora Média - Os Santos Inocentes, Mártires
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+José e Maria, a Mãe de Jesus, se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-118-1-8
+
+@gloria
+
+@salmo salmos/salmo-012
+
+@gloria
+
+@salmo salmos/salmo-013
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus, se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | Cf. Lm 1,16
+
+@texto
+Eis que choro, vertem lágrimas os meus olhos. Meus filhos estão consternados, porque o inimigo triunfou.
+
+@texto
+V. O Senhor os revestiu com um manto de alegria.
+R. Colocou em suas cabeças uma esplêndida coroa.
+
+@secao Oração
+
+@oracao
+Ó Deus, hoje os santos Inocentes proclamam vossa glória, não por palavras, mas pela própria morte; dai-nos também testemunhar com a nossa vida o que os nossos lábios professam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

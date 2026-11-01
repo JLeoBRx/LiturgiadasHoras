@@ -1,0 +1,85 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sexta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@salmo salmos/salmo-118-73-80-x-iod
+
+@gloria
+
+@antifona
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@antifona 2
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@antifona
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@antifona 3
+Feliz o homem que por Deus é corrigido;
+se ele fere, também cuida da ferida.
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+Feliz o homem que por Deus é corrigido; se ele fere, também cuida da ferida.
+
+@secao Leitura breve | Sb 1,13-15
+
+@texto
+Deus não fez a morte, nem tem prazer com a destruição dos vivos. Ele criou todas as coisas para existirem, e as criaturas do mundo são saudáveis: nelas não há nenhum veneno de morte, nem é a morte que reina sobre a terra: pois a justiça é imortal.
+
+@texto
+V. O Senhor libertou minha vida da morte.
+R. Andarei diante dele na terra dos vivos.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que fizestes o ladrão arrependido passar da cruz ao vosso Reino, aceitai a humilde confissão de nossas culpas e fazei que, no instante da morte, entremos com alegria no paraíso. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

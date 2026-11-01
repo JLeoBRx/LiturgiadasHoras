@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saofilipeetiago_sexta.htm
+@documento Hora Média - São Filipe e São Tiago Menor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | At 5,12a.14
+
+@texto
+Muitos sinais e maravilhas eram realizados entre o povo pelas mãos dos apóstolos. Crescia sempre mais o número dos que aderiam ao Senhor pela fé; era uma multidão de homens e mulheres.
+
+@texto
+V. Eles guardavam os preceitos,
+R. E as ordens do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, vós nos alegrais cada ano com a festa dos apóstolos São Filipe e São Tiago. Concedei-nos, por suas preces, participar de tal modo da paixão e ressurreição do vosso Filho que vejamos eternamente a vossa face. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

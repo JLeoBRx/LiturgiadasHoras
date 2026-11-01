@@ -1,0 +1,225 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojose.htm
+@documento Ofício das Leituras - São José, Esposo Da Bem-Aventurada Virgem Maria Solenidade
+
+@celebracao
+SÃO JOSÉ, ESPOSO DA BEM-AVENTURADA VIRGEM MARIA
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Hoje um grande triunfo cantamos,
+celebrando fiéis este dia.
+São José mereceu hoje a vida,
+e entrou na eterna alegria.
+
+É feliz por demais este homem
+que, na hora da extrema agonia,
+recebeu o supremo conforto
+pela voz de Jesus e Maria.
+
+Homem justo, na paz adormece,
+libertado dos laços mortais,
+e recebe brilhante coroa
+no esplendor das mansões eternais.
+
+Ao que reina, fiéis imploremos,
+fique perto de nós, os mortais;
+nos liberte da culpa e nos dê
+o presente supremo da paz.
+
+A vós glória, poder, majestade,
+Trino Deus, que no alto reinais,
+com a áurea coroa para sempre,
+vosso servo fiel premiais.
+
+@secao Salmodia
+
+@antifona 1
+José, filho de Davi, não receies receber a Maria, tua esposa; será Mãe de um Menino, e Jesus será o seu nome.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+José, filho de Davi, não receies receber a Maria, tua esposa; será Mãe de um Menino, e Jesus será o seu nome.
+
+@antifona 2
+José, despertando do sono, fez aquilo que o anjo ordenara: Recebeu sua esposa Maria.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+José, despertando do sono, fez aquilo que o anjo ordenara: Recebeu sua esposa Maria.
+
+@antifona 3
+José subiu de Nazaré, à cidade de Davi, cujo nome é Belém, para alistar-se com Maria.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+José subiu de Nazaré, à cidade de Davi, cujo nome é Belém, para alistar-se com Maria.
+
+@texto
+V. O justo como o lírio brotará.
+R. E florirá ante o Senhor eternamente.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {11,1-16}
+
+@tema
+A fé dos santos patriarcas
+
+@texto
+Irmãos: [1] A fé é um modo de já possuir o que ainda se espera, a convicção acerca de realidades que não se veem. [2] Foi a fé que valeu aos antepassados um bom testemunho. [3] Foi pela fé que compreendemos que o universo foi organizado por uma palavra de Deus.
+Assim, as coisas visíveis provêm daquilo que não se vê. [4] Foi pela fé que Abel ofereceu a Deus um sacrifício melhor que o de Caim; e por causa dela, ele foi declarado justo, pois Deus aprovou a sua oferta. Graças a ela, mesmo depois de morto, Abel ainda fala! [5] Foi pela fé que Henoc foi arrebatado, para não ver a morte; e não mais foi encontrado, porque Deus o arrebatou. Antes de ser arrebatado, porém, recebeu o testemunho de que foi agradável a Deus. [6] Ora, sem a fé é impossível ser-lhe agradável, pois aquele que se aproxima de Deus deve crer que ele existe e que recompensa os que o procuram. [7] Foi pela fé que Noé, avisado divinamente daquilo que ainda não se via, levou a sério o oráculo e construiu uma arca para salvar a sua família. Pela fé, ele se separou do mundo, tornando-se herdeiro da justiça que se obtém pela fé. [8] Foi pela fé que Abraão obedeceu à ordem de partir para uma terra que devia receber como herança, e partiu, sem saber para onde ia. [9] Foi pela fé que ele residiu como estrangeiro na terra prometida, morando em tendas com Isaac e Jacó, os co-herdeiros da mesma promessa. [10] Pois esperava a cidade alicerçada que tem Deus mesmo por arquiteto e construtor. [11] Foi pela fé também que Sara, embora estéril e já de idade avançada, se tornou capaz de ter filhos, porque considerou fidedigno o autor da promessa. [12] É por isso também que de um só homem, já marcado pela morte, nasceu a multidão “comparável às estrelas do céu e inumerável como a areia das praias do mar”. [13] Todos estes morreram na fé. Não receberam a realização da promessa, mas a puderam ver e saudar de longe e se declararam estrangeiros e migrantes nesta terra. [14] Os que falam assim demonstram que estão buscando uma pátria, [15] e se se lembrassem daquela que deixaram, até teriam tempo de voltar para lá. [16] Mas agora, eles desejam uma pátria melhor, isto é, a pátria celeste. Por isto, Deus não se envergonha deles, ao ser chamado o seu Deus. Pois preparou mesmo uma cidade para eles.
+
+@secao Responsório | Rm 4,20.22; Tg 2,22
+
+@responsorio
+R. Ante a promessa do Senhor,
+Abraão não vacilou,
+nem perdeu a confiança,
+mas foi forte pela fé,
+rendendo glória a Deus.
+* Eis porque foi-lhe imputada sua fé para a justiça.
+V. Sua fé cooperava com as obras que fazia;
+e sua fé se fez perfeita mediante suas obras.
+* Eis porque.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardino de Sena, presbítero
+{(Séc. XV)} {(Sermo 2, de S. Ioseph: Opera 7,16.27-30)}
+
+@tema
+Guarda fiel e providente
+
+@texto
+É esta a regra geral de todas as graças especiais concedidas a qualquer criatura racional: quando a providência divina escolhe alguém para uma graça particular ou estado superior, também dá à pessoa assim escolhida todos os carismas necessários para o exercício de sua missão. Isto verificou-se de forma eminente em São José, pai adotivo do Senhor Jesus Cristo e verdadeiro esposo da rainha do mundo e senhora dos anjos. Com efeito, ele foi escolhido pelo Pai eterno para ser o guarda fiel e providente dos seus maiores tesouros: o Filho de Deus e a Virgem Maria. E cumpriu com a máxima fidelidade sua missão. Eis por que o Senhor lhe disse: _Servo bom e fiel! Vem participar da alegria do teu Senhor!_ (Mt 25,21). Consideremos São José diante de toda a Igreja de Cristo: acaso não é ele o homem especialmente escolhido, por quem e sob cuja proteção se realizou a entrada de Cristo no mundo de modo digno e honesto? Se, portanto, toda a santa Igreja tem uma dívida para com a Virgem Mãe, por ter recebido a Cristo por meio dela, assim também, depois dela, deve a São José uma singular graça e reverência. Ele encerra o Antigo Testamento; nele a dignidade dos patriarcas e dos profetas obtém o fruto prometido. Mas ele foi o único que realmente possuiu aquilo que a bondade divina lhes tinha prometido. E não duvidemos que a familiaridade, o respeito e a sublimíssima dignidade que Cristo lhe tributou, enquanto procedeu na terra como um filho para com seu pai, certamente também nada disso lhe negou no céu, mas antes, completou e aperfeiçoou. Por isso, não é sem razão que o Senhor lhe declara: _Vem participar da alegria do teu Senhor!_ Embora a alegria da felicidade eterna penetre no coração do homem, o Senhor preferiu dizer: _Vem participar da alegria._ Quis assim insinuar misteriosamente que a alegria não está só dentro dele, mas o envolve de todos os lados e o absorve e submerge como um abismo sem fim. Lembrai-vos de nós, São José, e intercedei com vossas orações junto de vosso Filho adotivo; tornai-nos também propícia vossa Esposa, a santíssima Virgem, mãe daquele que vive e reina com o Pai e o Espírito Santo pelos séculos sem fim. Amém.
+
+@secao Responsório | Cf. Gn 45,8;50,20; Sl 104(105),21; Sl 117(118),14
+
+@responsorio
+R. Deus me fez, como se eu fosse o pai do rei
+e me fez senhor de toda a sua casa,
+* Para salvar a muitos povos me exaltou.
+V. O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação. * Para salvar.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, pelas preces de São José, a quem confiastes as primícias da Igreja, concedei que ela possa levar à plenitude os mistérios da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

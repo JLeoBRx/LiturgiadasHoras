@@ -1,0 +1,245 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/confirmacao_leituras_NT.htm
+
+@texto
+Confirmação
+
+@rubrica
+LEITURAS DO NOVO TESTAMENTO
+
+@texto
+{
+}
+
+{_Recebereis o poder do Espírito Santo,_}
+{_que descerá sobre vós,_}
+{_para serdes minhas testemunhas._}
+
+{Leitura dos Atos dos Apóstolos} {1,3-8}
+
+{Foi aos seus Apóstolos}
+{que Jesus se mostrou vivo depois da sua paixão,}
+{com numerosas provas.}
+{Durante quarenta dias, apareceu-lhes}
+{falando do Reino de Deus.}
+{Durante uma refeição, deu-lhes esta ordem:}
+{"Não vos afasteis de Jerusalém,}
+{mas esperai a realização da promessa do Pai,}
+{da qual vós me ouvistes falar:}
+{'João batizou com água;}
+{vós, porém, sereis batizados com o Espírito Santo,}
+{dentro de poucos dias'"}
+{Então os que estavam reunidos perguntaram a Jesus:}
+{"Senhor, é agora que vais restaurar o Reino em Israel?"}
+{Jesus respondeu:}
+{"Não vos cabe saber os tempos e os momentos}
+{que o Pai determinou com a sua própria autoridade.}
+{Mas recebereis o poder do Espírito Santo,}
+{que descerá sobre vós,}
+{para serdes minhas testemunhas}
+{em Jerusalém, em toda a Judeia e na Samaria,}
+{e até os confins da terra".}
+{Palavra do Senhor.}
+{
+}
+
+{_Onde se multiplicou o pecado, aí superabundou a graça._}
+
+{Leitura} {dos Atos dos Apóstolos} {2,1-6.14.22b-23.32-33}
+
+{Quando chegou o dia de Pentecostes,}
+{os discípulos estavam todos reunidos no mesmo lugar.}
+{De repente, veio do céu um barulho}
+{como se fosse uma forte ventania,}
+{que encheu a casa onde eles se encontravam.}
+{Então apareceram línguas como de fogo}
+{que se repartiram e pousaram sobre cada um deles.}
+{Todos ficaram cheios do Espírito Santo}
+{e começaram a falar em outras línguas,}
+{conforme o Espírito os inspirava.}
+{Moravam em Jerusalém judeus devotos,}
+{de todas as nações do mundo.}
+{Quando ouviram o barulho,}
+{juntou-se a multidão, e todos ficaram confusos,}
+{pois cada um ouvia os discípulos falar em sua própria língua.}
+{Pedro, de pé, junto com os onze apóstolos,}
+{levantou a voz e falou à multidão:}
+{"Jesus de Nazaré foi um homem aprovado por Deus,}
+{junto de vós, pelos milagres, prodígios e sinais}
+{que Deus realizou, por meio dele, entre vós.}
+{Tudo isto vós bem o sabeis.}
+{Deus, em seu desígnio e previsão,}
+{determinou que Jesus fosse entregue}
+{pelas mãos dos ímpios,}
+{e vós o matastes, pregando-o numa cruz.}
+{Com efeito, Deus ressuscitou este mesmo Jesus}
+{e disto todos nós somos testemunhas.}
+{E agora, exaltado pela direita de Deus,}
+{Jesus recebeu o Espírito Santo}
+{que fora prometido pelo Pai,}
+{e o derramou, como estais vendo e ouvindo".}
+{Palavra do Senhor.}
+
+{_Vós recebestes o Espírito Santo quando abraçastes a fé?_}
+
+{Leitura dos Atos dos Apóstolos} {19,1b-6a}
+
+{Aconteceu que Paulo chegou a Éfeso.}
+{Aí encontrou alguns discípulos e perguntou-lhes:}
+{"Vós recebestes o Espírito Santo quando abraçastes a fé?"}
+{Eles responderam:}
+{"Nem sequer ouvimos dizer que existe o Espírito Santo!"}
+{não a todo o povo,}
+{mas às testemunhas que Deus havia escolhido:}
+{a nós, que comemos e bebemos com Jesus,}
+{depois que ressuscitou dos mortos.}
+{E Jesus nos mandou pregar ao povo}
+{e testemunhar que Deus o constituiu}
+{Juiz dos vivos e dos mortos.}
+{Todos os profetas dão testemunho dele:}
+{Todo aquele que crê em Jesus}
+{recebe, em seu nome, o perdão dos pecados".}
+{Pedro estava ainda falando,}
+{quando o Espírito Santo desceu}
+{sobre todos os que ouviam a palavra.}
+{Palavra do Senhor.}
+{Então Paulo perguntou:}
+{"Que batismo vós recebestes?"}
+{Eles responderam:}
+{"O batismo de João".}
+{Paulo disse-lhes:}
+{"João administrava um batismo de conversão,}
+{dizendo ao povo que acreditasse}
+{naquele que viria depois dele, isto é, em Jesus".}
+{Tendo ouvido isso,}
+{eles foram batizados no nome do Senhor Jesus.}
+{Paulo impôs-lhes as mãos}
+{esobre eles desceu o Espírito Santo.}
+{Palavra do Senhor.}
+
+{Ou:}
+
+{_O amor de Deus foi derramado em nossos corações_}
+{_pelo Espírito Santo que nos foi dado._}
+
+{Leitura da Carta de São Paulo aos Romanos} {5,1-2. 5-9}
+
+{Irmãos,}
+{justificados pela fé, estamos em paz com Deus,}
+{pela mediação do Senhor nosso, Jesus Cristo.}
+{Por ele tivemos acesso, pela fé, a esta graça,}
+{na qual estamos firmes e nos gloriamos,}
+{na esperança da glória de Deus.}
+{E a esperança não decepciona,}
+{porque o amor de Deus foi derramado em nossos corações}
+{pelo Espírito Santo que nos foi dado.}
+{Com efeito, quando éramos ainda fracos,}
+{Cristo morreu pelos ímpios, no tempo marcado.}
+{Dificilmente alguém morrerá por um justo;}
+{por uma pessoa muito boa,}
+{talvez alguém se anime a morrer.}
+{Pois bem, a prova de que Deus nos ama}
+{é que Cristo morreu por nós,}
+{quando éramos ainda pecadores.}
+{Muito mais agora,}
+{que já estamos justificados pelo sangue de Cristo,}
+{seremos salvos da ira por ele.}
+{Palavra do Senhor.} {_O Espírito intercede em nosso favor,_}
+{_com gemidos inefáveis._}{Leitura da Carta de São Paulo aos Romanos} {8,26-27}
+{
+}
+{Irmãos,}
+{o Espírito vem em socorro da nossa fraqueza.}
+{Pois nós não sabemos o que pedir, nem como pedir;}
+{é o próprio Espírito que intercede em nosso favor,}
+{com gemidos inefáveis.}
+{E aquele que penetra o íntimo dos corações}
+{sabe qual é a intenção do Espírito.}
+{Pois é sempre segundo Deus}
+{que o Espírito intercede em favor dos santos.}
+{Palavra do Senhor.}
+
+{Ou:
+} {_Um e o mesmo Espírito,_}
+{_que distribui a cada um conforme quer._}
+
+{Leitura da Primeira Carta de São Paulo aos Coríntios} {12,4-13}
+{Irmãos,}
+{há diversidade de dons,}
+{mas um mesmo é o Espírito.}
+{Há diversidade de ministérios,}
+{mas um mesmo é o Senhor.}
+{Há diferentes atividades,}
+{mas um mesmo Deus}
+{que realiza todas as coisas em todos.}
+{A cada um é dada a manifestação do Espírito}
+{em vista do bem comum.}
+{A um é dada pelo Espírito a palavra da sabedoria.}
+{A outro, a palavra da ciência segundo o mesmo Espírito.}
+{A outro, a fé no mesmo Espírito.}
+{A outro, o dom de curas no mesmo Espírito.}
+{A outro, o poder de fazer milagres.}
+{A outro, profecia.}
+{A outro, discernimento de espíritos.}
+{A outro, falar línguas estranhas.}
+{A outro, interpretação de línguas.}
+{Todas estas coisas as realiza um e o mesmo Espírito,}
+{que distribui a cada um conforme quer.}
+{Como o corpo é um,}
+{embora tenha muitos membros,}
+{e como todos os membros do corpo,}
+{embora sejam muitos, formam um só corpo,}
+{assim também acontece com Cristo.}
+De fato, todos nós,
+judeus ou gregos, escravos ou livres,
+fomos batizados num único Espírito,
+para formarmos um único corpo,
+e todos nós bebemos de um único Espírito.
+Palavra do Senhor.
+{Ou:}
+{
+}
+
+{_Se vivemos pelo Espírito,_}
+{_procedamos também segundo o Espírito._}
+
+{Leitura da} {Carta de São Paulo aos Gálatas} {5,16-17.22-23a.24-25}
+
+{Irmãos,}
+{eu vos ordeno:}
+{Procedei segundo o Espírito.}
+{Assim, não satisfareis aos desejos da carne.}
+{Pois a carne tem desejos contra o espírito,}
+{e o espírito tem desejos contra a carne.}
+{Há uma oposição entre carne e espírito,}
+{de modo que nem sempre fazeis}
+{o que gostaríeis de fazer.}
+{O fruto do Espírito é:}
+{caridade, alegria, paz,}
+{longanimidade, benignidade,}
+{bondade, lealdade,}
+{mansidão, continência.}
+{Os que pertencem a Jesus Cristo}
+{crucificaram a carne}
+{com suas paixões e seus maus desejos.}
+{Se vivemos pelo Espírito,}
+{procedamos também segundo o Espírito,}
+{corretamente.}
+{Palavra do Senhor.}{
+}
+
+{_Há um só Corpo e um só Espírito, um só batismo._}
+
+{Leitura da Carta de São Paulo aos Efésios} {4,1-6}
+
+{Irmãos,}
+{eu, prisioneiro no Senhor, vos exorto}
+{a caminhardes de acordo com a vocação que recebestes:}
+{Com toda a humildade e mansidão,}
+{suportai-vos uns aos outros com paciência, no amor.}
+{Aplicai-vos a guardar a unidade do espírito}
+{pelo vínculo da paz.}
+{Há um só Corpo e um só Espírito,}
+{como também é uma só a esperança à qual fostes chamados.}
+{Há um só Senhor, uma só fé, um só batismo,}
+{um só Deus e Pai de todos, que reina sobre todos,}
+{age por meio de todos e permanece em todos.} {Palavra do Senhor.}

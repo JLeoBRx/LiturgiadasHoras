@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_vesperas.htm
+@documento Vésperas - São Pedro e São Paulo, Apóstolos
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Roma feliz, tornada cor de púrpura
+destes heróis no sangue tão fecundo,
+não por teus méritos, mas por estes santos,
+que golpeaste com a cruz e a espada,
+em formosura excedes todo o mundo.
+
+E vós agora, gloriosos mártires,
+heróis invictos da mansão de Deus,
+Pedro feliz, e Paulo flor do mundo,
+do mal livrai-nos pela vossa prece
+e conduzi-nos para os altos céus.
+
+Glória a Deus Pai nos infinitos séculos,
+honra e império, ó Filho, a vós também,
+poder, beleza ao vosso Santo Espírito,
+laço de amor unindo o Pai e o Filho.
+Glória à Trindade para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Eu roguei por ti, ó Pedro,
+que tua fé não desfaleça.
+Quando estiveres convertido,
+fortalece os teus irmãos.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Eu roguei por ti, ó Pedro,
+que tua fé não desfaleça.
+Quando estiveres convertido,
+fortalece os teus irmãos.
+
+@antifona 2
+De boa mente me glorio nas fraquezas,
+para que a força do Senhor habite em mim.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+De boa mente me glorio nas fraquezas,
+para que a força do Senhor habite em mim.
+
+@antifona 3
+És pastor das ovelhas de Cristo, dos apóstolos chefe;
+a ti foram entregues as chaves do Reino dos céus.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+És pastor das ovelhas de Cristo, dos apóstolos chefe;
+a ti foram entregues as chaves do Reino dos céus.
+
+@secao Leitura breve | 1Cor 15,3-5.8
+
+@texto
+Transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber: que Cristo morreu por nossos pecados, segundo as Escrituras; que foi sepultado; que, ao terceiro dia, ressuscitou, segundo as Escrituras; e que apareceu a Cefas e, depois, aos Doze. Por último, apareceu também a mim.
+
+@secao Responsório breve
+
+@responsorio
+R. Os Apóstolos, com grande coragem,
+* Anunciavam a Palavra de Deus. R. Os Apóstolos.
+V. Testemunhavam a ressurreição de Nosso Senhor Jesus Cristo. * Anunciavam.
+Glória ao Pai. R. Os Apóstolos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Senhor, o Apóstolo Pedro,
+e Paulo, o doutor das nações,
+transmitiram a nós vossa lei.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Senhor, o Apóstolo Pedro,
+e Paulo, o doutor das nações,
+transmitiram a nós vossa lei.
+
+@secao Preces
+
+@preces
+Oremos a Cristo, que edificou sua Igreja sobre o alicerce dos apóstolos e dos profetas; e digamos com fé:
+
+R. **Socorrei, Senhor, o vosso povo!**
+
+Vós, que chamastes o pescador Simão para dele fazerdes pescador de homens,
+– continuai chamando operários para que levem a vossa salvação à humanidade inteira. R.
+
+Vós, que acalmastes a tempestade do mar para que a barca dos discípulos não afundasse,
+– defendei a vossa Igreja de toda perturbação e fortalecei o Santo Padre. R.
+
+Bom Pastor que, depois da ressurreição, reunistes ao redor de Pedro o rebanho que estava disperso,
+– congregai o vosso povo num só rebanho e sob um só pastor. R.
+
+Vós, que enviastes o apóstolo Paulo para evangelizar as nações pagãs,
+– fazei que a palavra da salvação seja pregada a toda criatura. R.
+
+{(intenções livres)}
+
+Vós, que entregastes à Igreja as chaves do reino dos céus,
+– abri as portas do céu a todos aqueles que, durante a vida, confiaram na vossa misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

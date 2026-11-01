@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoatanasio_nona.htm
+@documento Hora Média - Santo Atanásio, bispo e doutor da Igreja
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva.
+
+@secao Leitura breve | 1Tm 3,13
+
+@texto
+Os que exercem bem o ministério, recebem uma posição de estima e muita liberdade para falar da fé em Cristo Jesus.
+
+@texto
+V. Se o Senhor não construir a nossa casa,
+R. Em vão trabalharão seus construtores.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos destes em Santo Atanásio um exímio defensor da divindade de vosso Filho, concedei-nos, por sua doutrina e proteção, crescer continuamente no vosso conhecimento e no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

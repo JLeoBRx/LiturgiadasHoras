@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1sextapascoa_terca.htm
+@documento Hora Média - Terça - Sexta-feira da 1ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre, aleluia.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre. Aleluia.
+
+@secao Leitura breve | At 2,32.36
+
+@texto
+Deus ressuscitou Jesus e disto todos nós somos testemunhas. Portanto, que todo o povo de Israel reconheça com plena certeza: Deus constituiu Senhor e Cristo a este Jesus que vós crucificastes.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que no Sacramento pascal restaurastes vossa aliança, reconciliando convosco a humanidade, concedei-nos realizar em nossa vida o mistério que celebramos na fé. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

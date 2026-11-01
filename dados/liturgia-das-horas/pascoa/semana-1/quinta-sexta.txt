@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1quintapascoa_sexta.htm
+@documento Hora Média - Sexta - Quinta-feira da 1ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Pelos nossos pecados se entregou
+e ressurgiu para nos justificar. Aleluia.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@salmo salmos/salmo-029-i
+
+@gloria
+
+@salmo salmos/salmo-029-ii
+
+@gloria
+
+@antifona
+Pelos nossos pecados se entregou
+e ressurgiu para nos justificar. Aleluia.
+
+@secao Leitura breve | Tt 3,5b-7
+
+@texto
+Deus nos salvou quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo. Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que reunistes povos tão diversos no louvor do vosso nome, concedei aos que renasceram nas águas do batismo ter no coração a mesma fé e na vida a mesma caridade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

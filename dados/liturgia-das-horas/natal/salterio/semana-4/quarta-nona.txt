@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/4quarta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@salmo salmos/salmo-093-i
+
+@gloria
+
+@salmo salmos/salmo-093-ii
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.

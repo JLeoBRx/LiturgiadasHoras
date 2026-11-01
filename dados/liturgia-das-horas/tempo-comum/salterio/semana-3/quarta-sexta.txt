@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quarta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@salmo salmos/salmo-118-105-112-xiv-nun-v2
+
+@gloria
+
+@antifona
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@antifona 2
+Quanto a mim, eu sou um pobre e infeliz,
+socorrei-me sem demora, ó meu Deus!
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@antifona
+Quanto a mim, eu sou um pobre e infeliz,
+socorrei-me sem demora, ó meu Deus!
+
+@antifona 3
+O Senhor não julgará pela aparência,
+mas com toda a justiça e equidade.
+
+@salmo salmos/salmo-074
+
+@gloria
+
+@antifona
+O Senhor não julgará pela aparência,
+mas com toda a justiça e equidade.
+
+@secao Leitura breve | 1Cor 13,8-9.13
+
+@texto
+A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade.
+
+@texto
+V. Sobre nós, venha, Senhor, a vossa graça.
+R. Da mesma forma que em vós nós esperamos.
+
+@secao Oração
+
+@oracao
+Deus onipotente e misericordioso, que nos dais novo alento no meio deste dia, olhai com bondade os trabalhos começados e, perdoando nossas faltas, fazei que eles atinjam os fins que vos agradam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

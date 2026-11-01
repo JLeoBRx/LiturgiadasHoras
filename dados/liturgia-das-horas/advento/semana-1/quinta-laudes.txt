@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quinta_laudes.htm
+@documento Laudes - I Quinta-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Despertem a harpa e a lira,
+eu irei acordar a aurora.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Despertem a harpa e a lira,
+eu irei acordar a aurora.
+
+@antifona 2
+O meu povo há de fartar-se de meus bens.
+
+@salmo canticos/jr-31-10-14
+
+@gloria
+
+@antifona
+O meu povo há de fartar-se de meus bens.
+
+@antifona 3
+Grande é o Senhor e muito digno de louvores
+na cidade onde ele mora. †
+
+@salmo salmos/salmo-047
+
+@gloria
+
+@antifona
+Grande é o Senhor e muito digno de louvores
+na cidade onde ele mora.
+
+@secao Leitura breve | Is 45,8
+
+@texto
+Céus, deixai cair orvalho das alturas, e que as nuvens façam chover justiça; abra-se a terra e germine a salvação; brote igualmente a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor. R. Eis que vem.
+V. Toda a carne verá sua glória.
+* Eis vosso Deus. Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Espero confiante o meu Deus e Salvador,
+e o aguardo ansioso, pois está para chegar. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Espero confiante o meu Deus e Salvador,
+e o aguardo ansioso, pois está para chegar. Aleluia.
+
+@secao Preces
+
+@preces
+Peçamos confiantes a Cristo sabedoria e poder de Deus, que encontra suas delícias em estar com os filhos dos homens; e digamos:
+
+R. **Jesus, ficai conosco!**
+
+Senhor Jesus Cristo, que nos chamastes para o reino da vossa luz admirável,
+– fazei que caminhemos de modo digno de Deus, agradando-lhe em tudo! R.
+
+Vós, que, ignorado pelo mundo, estais no meio de nós,
+– manifestai vossa face a todos os homens. R.
+
+Vós, que estais mais perto de nós do que nós mesmos,
+– confirmai em nossos corações a confiança e a esperança da salvação. R.
+
+Vós, que sois a fonte da santidade,
+– guardai-nos santos e irrepreensíveis para o dia de vossa vinda. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, ó Deus, o vosso poder e socorrei-nos com a Vossa força, para que vossa misericórdia apresse a salvação que nossos pecados retardam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

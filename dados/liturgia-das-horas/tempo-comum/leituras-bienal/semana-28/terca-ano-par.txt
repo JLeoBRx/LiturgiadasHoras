@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/28tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {14,20-15,10}
+
+@tema
+Felicidade do homem sábio
+
+@texto
+Feliz o homem que se ocupa da sabedoria e que raciocina com inteligência, [21] que reflete, em seu coração, nos caminhos da sabedoria e medita em seus segredos. [22] Sai atrás dela como caçador, põe-se à espreita nos seus caminhos. [23] Inclina-se para olhar por suas janelas, escuta às suas portas. [24] Detém-se junto à sua casa, fixa o prego nas suas paredes. Coloca a sua tenda junto a ela, acampará num lugar de felicidade. [26] Porá seus filhos sob a sua proteção, será abrigado por seus ramos. [27] Por ela será protegido do calor e acampará em sua glória. [15,1] O que teme ao Senhor assim faz, o que se torna mestre da lei conseguirá a sabedoria. [2] Sairá ao seu encontro como mãe, como esposa virgem ela o acolherá. [3] Nutri-lo-á com o pão da prudência e o saciará com a água da sabedoria. [4] Apoiar-se-á nela e não cambaleará, confiará nela e não se envergonhará. [5] Ela o elevará acima de seus companheiros e na assembleia lhe abrirá a boca. [6] Encontrará alegria e coroa de júbilo e herdará renome eterno. [7] Os insensatos não a conseguirão, os homens pecadores jamais a verão. [8] Ela está longe do orgulhoso e os mentirosos nem se lembram dela. [9] O louvor não é belo na boca do pecador, pois não lhe foi concedido pelo Senhor. [10] Porque é na sabedoria que se exprime o louvor, e é o Senhor quem o guia.
+
+@secao Responsório | Eclo 15,1-10 vulg; 1Cor 23.24
+
+@responsorio
+R. Quem teme ao Senhor assim faz,
+o que se torna mestre da lei conseguirá a sabedoria,
+* Porque a sabedoria vem de Deus.
+V. Nós pregamos Cristo crucificado,
+potência e sabedoria de Deus.
+* Porque.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado “A vida em Cristo”, de Nicolau Cabasilas
+{(Séc. XIV)} {(Liv. 1)}
+
+@tema
+O Sol de justiça penetra neste mundo tenebroso mediante os sacramentos
+
+@texto
+De tudo o que já dissemos, fica evidente que a vida em Cristo não aparecerá somente no mundo futuro, mas já se faz presente atualmente por meio dos santos, que vivem e agem em conformidade com ela. Em seguida, exporemos ordinariamente os motivos pelos quais é concedido viver de tal modo e porque Paulo fala de _caminhar numa vida nova_ (Rm 6,4). Explicarei também como Cristo une-se àqueles que se comportam desse modo e que nome deve ser dado a essa realidade.
+Daquilo que é necessário fazer, portanto, uma coisa depende de Cristo; e uma outra, da nossa solicitude e diligência: a primeira é somente obra dele, enquanto a outra exige também esforço, ou melhor, é realizada por nós na medida em que nos apoiamos na graça; não desperdiça o tesouro e não apaga a lâmpada já acesa, e naturalmente quando não fazemos nada que coloque obstáculo à vida, e gere a morte. Todo o talento e virtude humana, de fato, visam evitar que a pessoa levante a espada contra si mesmo ou abafe a felicidade e arranque a coroa de sua cabeça; pois Cristo, presente em pessoa, semeia nas nossas almas a própria essência da vida de uma maneira que é inexplicável por palavras. Ele, de verdade, está presente e dá força àqueles princípios de vida que ele mesmo trouxe com a sua vinda.
+Está presente, mas não como se se comunicasse conosco no alimento, ou num encontro ou numa relação, mas sim por meio de um outro relacionamento mais belo e perfeito, graças ao qual, tornados concorpóreos com ele e participantes da sua vida, nos tornamos seus membros e parte dele.
+Nenhuma língua consegue exprimir como ele coroou com tantos benefícios a benevolência com a qual amou até os inimigos; nem mesmo como a união, com a qual se uniu aos seus amigos, supera toda união que possa ser concebida ou mencionada pela alma. Assim, também, o modo com o qual está presente e realiza o bem é admirável e digno somente daquele que opera maravilhas. Ele, de fato, renova e representa realmente, mediante os símbolos e os sinais que a reproduzem como num quadro, a morte que ele próprio sofreu pela nossa vida, e nos torna participantes da sua vida.
+Portanto, nos sagrados mistérios, que envolvem a sua sepultura e anunciam a sua morte, nós somos gerados, plasmados e unidos intimamente de modo admirável ao Salvador mediante essas realidades. Por elas, como diz Paulo, _nele vivemos, nos movemos e somos_ (At 17,28), desde o momento em que o batismo nos concede estar e subsistir em Cristo. Este abraço, em primeiro lugar, introduz na vida os perdidos e os mortos. A sagrada unção, pois, completa e aperfeiçoa o nascimento, iniciando uma atividade correspondente a uma vida como esta. A Sagrada Eucaristia, enfim, contém e conserva esta vida. Em verdade, a tarefa e a prerrogativa do pão da vida é a de guardar os que foram gerados e de manter a vida. Por isso vivemos desse pão, mas nos movemos graças à unção, depois de ter recebido o ser do batismo.
+E, nessa condição, vivemos uma vida transferida deste mundo visível para o invisível, tendo mudado não o lugar, mas a vida e o modo de viver.
+Portanto, o Sol da justiça entra neste mundo tenebroso através dos sagrados mistérios como por outras diversas janelas, submete a morte à vida conforme a este mundo, e suscita a vida celeste; assim, a luz do mundo vence o mundo, como indica com estas palavras: _Eu venci o mundo_ (Jo 16,33). De fato, ele introduziu num corpo frágil e mortal uma vida estável e eterna.
+
+@secao Responsório | Jo 8,12; Eclo 24,25 vulg.
+
+@responsorio
+R. Eu sou a luz do mundo;
+* Quem me segue não caminhará nas trevas,
+mas terá a luz da vida.
+V. Em mim está toda a graça de vida e de verdade,
+em mim toda esperança de vida e de virtude:
+* Quem me segue.
+
+@secao Oração
+
+@oracao
+Ó Deus, sempre nos preceda e acompanhe a vossa graça para que estejamos sempre atentos ao bem que devemos fazer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

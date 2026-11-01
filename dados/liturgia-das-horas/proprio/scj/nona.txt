@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/scj_nona.htm
+@documento Hora Média - Sagrado Coração de Jesus
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Um soldado abriu o lado de Jesus com uma lança,
+e logo saiu sangue e água juntamente.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Um soldado abriu o lado de Jesus com uma lança,
+e logo saiu sangue e água juntamente.
+
+@secao Leitura breve | Rm 5,8-9
+
+@texto
+A prova de que Deus nos ama é que Cristo morreu por nós, quando éramos ainda pecadores. Muito mais agora, que já estamos justificados pelo sangue de Cristo, seremos salvos da ira por ele.
+
+@texto
+V. Foi ferido por nossos pecados.
+R. Por suas chagas nós fomos curados.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

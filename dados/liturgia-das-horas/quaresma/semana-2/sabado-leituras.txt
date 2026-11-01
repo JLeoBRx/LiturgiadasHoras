@@ -1,0 +1,129 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/2sabado_quaresma.htm
+@documento Ofício das Leituras - 2ª Semana Da Quaresma - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Lembrai-vos, ó Senhor, de mim, lembrai-vos;
+visitai-me com a vossa salvação!
+
+@salmo salmos/salmo-105-i
+
+@gloria
+
+@antifona
+Lembrai-vos, ó Senhor, de mim, lembrai-vos;
+visitai-me com a vossa salvação!
+
+@antifona 2
+O povo da Aliança somos nós:
+não esqueçamos o amor do nosso Deus!
+
+@salmo salmos/salmo-105-ii-v2
+
+@gloria
+
+@antifona
+O povo da Aliança somos nós:
+não esqueçamos o amor do nosso Deus!
+
+@antifona 3
+Salvai-nos, ó Senhor e nosso Deus,
+e, do meio das nações, nos congregai!
+
+@salmo salmos/salmo-105-iii
+
+@gloria
+
+@antifona
+Salvai-nos, ó Senhor e nosso Deus,
+e, do meio das nações, nos congregai!
+
+@texto
+V. Quem pratica a verdade se põe junto à luz.
+R. E suas obras de filho de Deus se revelam.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {20,1-17}
+
+@tema
+Promulgação da Lei no Sinai
+
+@texto
+Naqueles dias, [1] Deus pronunciou todas estas palavras: [2] “Eu sou o Senhor teu Deus que te tirou do Egito, da casa da escravidão. [3] Não terás outros deuses além de mim. [4] Não farás para ti imagem esculpida, nem figura alguma do que existe em cima, nos céus, ou embaixo, na terra, ou do que existe nas águas, debaixo da terra. [5] Não te prostrarás diante destes deuses nem lhes prestarás culto, pois eu sou o Senhor teu Deus, um Deus ciumento. Castigo a culpa dos pais nos filhos até à terceira e quarta geração dos que me odeiam, [6] mas uso da misericórdia por mil gerações com aqueles que me amam e guardam os meus mandamentos. [7] Não pronunciarás o nome do Senhor teu Deus em vão, porque o Senhor não deixará sem castigo quem pronunciar seu nome em vão. [8] Lembra-te de santificar o dia de sábado. [9] Trabalharás durante seis dias e farás todos os teus trabalhos, [10] mas o sétimo dia é sábado dedicado ao Senhor teu Deus. Não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu gado, nem o estrangeiro que vive em tuas cidades. [11] Porque o Senhor fez em seis dias o céu e a terra, o mar e tudo o que eles contêm; mas no sétimo dia descansou. Por isso o Senhor abençoou o dia do sábado e o santificou. [12] Honra teu pai e tua mãe, para que vivas longos anos na terra que o Senhor teu Deus te dará. [13] Não matarás. [14] Não cometerás adultério. [15] Não furtarás. [16] Não levantarás falso testemunho contra o teu próximo. [17] Não cobiçarás a casa do teu próximo. Não cobiçarás a mulher do teu próximo, nem seu escravo, nem sua escrava, nem seu boi, nem seu jumento, nem coisa alguma que lhe pertença”.
+
+@secao Responsório | Sl 18(19),8.9b; Rm 13,8b.10b
+
+@responsorio
+R. A lei do Senhor Deus é perfeita, conforto para a alma.
+O testemunho do Senhor é fiel, sabedoria dos humildes.
+* O mandamento do Senhor é brilhante, para os olhos é uma luz.
+V. Aquele que ama o seu próximo, tem cumprido a lei, pois amar é cumprir plenamente a lei do Senhor. * O mandamento.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a fuga do mundo, de Santo Ambrósio, bispo
+{(Séc.IV)} {(Cap.6,36; 7,44: 8,45;9,52:CSEL32,192.198-199.204)}
+
+@tema
+Busquemos a Deus, único bem verdadeiro
+
+@texto
+Onde está o coração do homem está também o seu tesouro; pois Deus não costuma negar o bem aos que lhe pedem. Porque o Senhor é bom, e é bom sobretudo para os que nele esperam, unamo-nos a ele, permaneçamos com ele de toda a nossa alma, de todo o coração e de todas as forças, para vivermos na sua luz, vermos a sua glória e gozarmos da graça da felicidade eterna. Elevemos nossos corações para esse bem, permaneçamos e vivamos unidos a ele, que está acima de tudo quanto possamos pensar ou imaginar; e concede a paz e a tranquilidade perpétuas, uma paz que ultrapassa toda a nossa compreensão e sentimento.
+É esse o bem que tudo penetra; todos vivemos nele e dele dependemos; nada lhe é superior, porque é divino. Só Deus é bom e, portanto, o que é bom é divino e o que é divino é bom; por isso se diz no salmo: _Vós abris a mão e todos se fartam de bens_ (Sl 103,28). É, com efeito, da bondade de Deus que nos vêm todos os bens, sem nenhuma mistura de mal. Esses bens são os que a Escritura promete aos fiéis, dizendo: _Comereis dos bens da terra_ (Is 1,19).
+Nós morremos com Cristo e trazemos em nosso corpo a morte de Cristo, para que também a vida de Cristo se manifeste em nós. Portanto, já não é a nossa própria vida que vivemos, mas a vida de Cristo: vida de inocência, vida de castidade, vida de sinceridade e de todas as virtudes. Também ressuscitamos com Cristo; vivamos, pois, unidos a ele, subamos com ele, a fim de que a serpente não possa encontrar na terra o nosso calcanhar e feri-lo. Fujamos daqui. Podes fugir com o espírito, embora permaneças com o corpo; podes ficar aqui e estar ao mesmo tempo junto do Senhor, se teu coração estiver unido a ele, se teus pensamentos se fixarem nele, se percorreres seus caminhos, guiado pela fé e não pelas aparências, se te refugiares junto dele – que é nosso refúgio e nossa força, como disse Davi: _Eu procuro meu refúgio em vós, Senhor, que eu não seja envergonhado para sempre_ (Sl 70,1).
+Já que Deus é o nosso refúgio, e Deus está nos céus e no mais alto dos céus, é preciso fugir daqui para as alturas onde reina a paz, onde repousaremos de nossas fadigas, onde celebraremos o banquete do grande sábado, como disse Moisés: _O repouso sabático da terra será para vós ocasião de festim_ (Lv 25,6). Descansar em Deus e contemplar as suas delícias é, na verdade, um banquete, cheio de alegria e felicidade. Fujamos, como os cervos, para as fontes das águas. Que a nossa alma sinta a mesma sede de Davi. Qual é esta fonte? Escuta o que ele diz: _Em vós está a fonte da vida_ (Sl 35,10). Diga minha alma a esta fonte: _Quando terei a alegria de ver a face de Deus?_ (Sl 41,3). Porque a fonte é o próprio Deus.
+
+@secao Responsório | Mt 22,37-38; cf. Dt 10,12
+
+@responsorio
+R. Amarás o Senhor, o teu Deus
+de todo o teu coração, de todo o teu entendimento e com todas as forças da alma.
+* É este o maior mandamento.
+V. Que pede de ti o teu Deus? Que respeites a Deus, teu Senhor, ele pede que o ames e o sirvas, de todo o teu coração e com todas as forças da alma. * É este.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pelos exercícios da Quaresma já nos dais na terra participar dos bens do céu, guiai-nos de tal modo nesta vida, que possamos chegar à luz em que habitais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

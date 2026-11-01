@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@secao XVIII (Sade)
+
+@salmo salmos/salmo-118-137-144-xviii-sade-v2
+
+@gloria
+
+@antifona
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@antifona 2
+Chegue a minha oração até vós, ó Senhor!
+
+@salmo salmos/salmo-087-i
+
+@gloria
+
+@antifona
+Chegue a minha oração até vós, ó Senhor!
+
+@antifona 3
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@salmo salmos/salmo-087-ii
+
+@gloria
+
+@antifona
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@secao Leitura breve | Is 55,10-11
+
+@texto
+Assim como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, assim a palavra que sair de minha boca; não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la.
+
+@texto
+V. Deus envia suas ordens para a terra.
+R. E a palavra que ele diz corre veloz.
+
+@secao Oração
+
+@oracao
+Senhor Deus, que enviastes vosso anjo para mostrar ao centurião Cornélio o caminho da vida, concedei-nos trabalhar com alegria para a salvação da humanidade, a fim de que, unidos todos na vossa Igreja, possamos chegar até vós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7domingopascoa_vesperas.htm
+@documento Vésperas - Domingo da 7ª Semana da Páscoa
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor purificou-nos do pecado
+e assentou-se à direita de Deus Pai. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Senhor purificou-nos do pecado
+e assentou-se à direita de Deus Pai. Aleluia.
+
+@antifona 2
+Enviou libertação para o seu povo. Aleluia.
+
+@salmo salmos/salmo-110
+
+@gloria
+
+@antifona
+Enviou libertação para o seu povo. Aleluia.
+
+@antifona 3
+Aleluia, o Senhor tomou posse do seu reino:
+exultemos de alegria, demos glória ao nosso Deus! Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer os}
+Aleluias {no começo,entre as estrofes e no fim.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Aleluia, o Senhor tomou posse do seu reino:
+exultemos de alegria, demos glória ao nosso Deus! Aleluia.
+
+@secao Leitura breve | Hb 10,12-14
+
+@texto
+Cristo, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu, de verdade,
+* Aleluia, aleluia. R. O Senhor.
+V. A Simão ele apareceu.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat-v2
+
+@antifona
+
+@secao Preces
+
+@preces
+Nós não sabemos orar como convém, mas o Espírito Santo intercede por nós com gemidos inenarráveis. Por isso, digamos com toda confiança:
+
+R. **Senhor, que o Espírito Santo interceda por nós!**
+
+Cristo, Pastor eterno, concedei aos pastores da Igreja os dons de sabedoria e conselho,
+– para que conduzam com segurança o vosso rebanho às fontes da salvação. R.
+
+Vós, que habitais os céus e sois rico em misericórdia,
+– socorrei os pobres e os humildes da terra. R.
+
+Vós, que fostes concebido pelo poder do Espírito Santo no seio da Virgem Maria,
+– dai a todas aquelas que se consagraram a vós na vida religiosa o espírito da verdadeira santidade. R.
+
+Vós, que triunfastes admiravelmente, sobre o poder do pecado e da morte,
+– fazei-nos viver sempre para vós, vencedor imortal. R.
+
+Sumo e eterno Sacerdote, que louvais o Pai na unidade do Espírito Santo,
+– associai todos os homens e mulheres ao vosso louvor para que glorifiquem a Deus eternamente. R.
+
+{(intenções livres)}
+
+Conduzi todos os que partiram desta vida à gloriosa liberdade dos filhos de Deus,
+– e à completa redenção de seus corpos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, ouvi com bondade as nossas súplicas: assim como cremos que o Salvador da humanidade está convosco na glória, possamos sentir a sua presença até o fim dos tempos, como ele mesmo prometeu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

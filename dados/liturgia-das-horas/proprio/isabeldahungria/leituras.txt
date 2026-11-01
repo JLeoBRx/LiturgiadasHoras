@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/isabeldahungria.htm
+@documento Ofício das Leituras - Santa Isabel Da Hungria Memória
+
+@celebracao
+SANTA ISABEL DA HUNGRIA
+{Memória}
+
+@biografia
+Era filha de André II, rei da Hungria, tendo nascido no ano 1207. Ainda muito jovem foi dada em matrimônio a Luís IV, landgrave da Turíngia, e teve três filhos. Dedicou-se a uma vida de intensa meditação das realidades celestes e de caridade para com o próximo. Depois da morte de seu marido, renunciou aos seus títulos e bens e construiu um hospital, onde ela mesma servia os enfermos. Morreu em Marburgo no ano 1231.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios
+
+@tema
+A excelência da caridade
+
+@texto
+Irmãos: [12,31] Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior.[13,1] Se eu falasse todas as línguas, as dos homens e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. [2] Se eu tivesse o dom da profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. [3] Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada me serviria. [4] A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; [5] não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor, [6] não se alegra com a iniquidade, mas regozija-se com a verdade. [7] Suporta tudo, crê tudo, espera tudo, desculpa tudo. [8] A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. [9] Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. [10] Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. [11] Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era próprio de criança. [12] Agora nós vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. [13] Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Conhecemos e cremos no amor
+que Deus manifesta por nós.
+* Pois quem permanece no amor,
+em Deus permanece e Deus nele.
+V. Amemo-nos, pois, uns aos outros,
+Porque o amor vem de Deus. * pois quem.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta escrita por Conrado de Marburgo, diretor espiritual de Santa Isabel
+{(Séc.XIII)} {(Ad pontificem anno 1232: A. Wys, Hesisches Urkunden-buch I, Leipzig 1879,31-35)}
+
+@tema
+Isabel conheceu e amou Cristo nos pobres
+
+@texto
+Muito cedo começou Isabel a possuir grandes virtudes. Do mesmo modo como a vida inteira foi a consoladora dos pobres, era também desde então a providência dos famintos. Determinou a construção de um hospital, perto de um castelo de sua propriedade, onde recolheu muitos enfermos e enfraquecidos. A todos que ali iam pedir esmola, distribuiu liberalmente suas dádivas; e não só ali, mas em todo o território sob a jurisdição de seu marido. Destinou para isto a renda de quatro dos principados do esposo, e foi ao ponto de mandar vender seus adornos e vestes preciosas em benefício dos pobres. Tinha o costume de, duas vezes ao dia, pela manhã e à tarde, visitar pessoalmente seus doentes, e chegava mesmo a tratar com as próprias mãos os mais repelentes. A alguns deles alimentava, a outros preparava o leito, a outros até carregava nos ombros. Assim realizava muitas obras de bondade. Em tudo isto seu marido, de feliz memória, não se mostrava contrariado. Contudo, após a morte deste, tendendo para a máxima perfeição, rogou-me com lágrimas que lhe permitisse ir mendigar de porta em porta. Numa Sexta-feira Santa, desnudados todos os altares, em uma capela de seu castelo onde acolhera os frades franciscanos, colocou as mãos sobre o altar e, na presença de umas poucas pessoas, renunciou à própria vontade e a todas as pompas mundanas e a tudo quanto o Salvador no evangelho aconselhara abandonar. Feito isto, vendo que poderia deixar-se absorver pelo tumulto do século e glória mundana, naquela terra onde vivera com esplendor em vida do esposo, seguiu-me contra minha vontade a Marburgo. Nesta cidade construiu um hospital para doentes e necessitados, chamando à sua mesa os mais miseráveis e desprezados. Além desta atuação operosa, digo-o diante de Deus, raramente vi mulher mais contemplativa. Algumas pessoas e mesmo religiosos, na hora de sua oração particular, viram muitas vezes seu rosto brilhar maravilhosamente e como que raios de sol jorrarem de seus olhos. Antes da morte ouvi-a em confissão. Indagando-lhe, então, qual o seu desejo em relação ao que possuía e a seus móveis, respondeu que tudo quanto parecia possuir já pertencia aos pobres e pediu-me distribuir-lhes tudo, reservando apenas a túnica vulgar que vestia e com a qual queria ser sepultada. Depois, recebeu o corpo do Senhor e, em seguida, até à hora de Vésperas falou bastante sobre as ótimas coisas que ouvira no sermão. Finalmente, com toda devoção, recomendando a Deus todos os presentes, expirou como se adormecesse suavemente.
+
+@secao Responsório | Jt 15,11(Vg); At 10,4
+
+@responsorio
+R. Agiste com coragem, teu coração não se abalou,
+pois amaste a castidade.
+* Por isso hás de ser bendita eternamente.
+V. Tuas preces e esmolas se elevaram até Deus
+como oferta de incenso. * Por isso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes a Santa Isabel da Hungria reconhecer e venerar o Cristo nos pobres, concedei-nos, por sua intercessão, servir os pobres e aflitos com incansável caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

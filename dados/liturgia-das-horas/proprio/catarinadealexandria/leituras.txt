@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/catarinadealexandria.htm
+@documento Ofício das Leituras - Santa Catarina De Alexandria, Virgem E Mártir
+
+@celebracao
+SANTA CATARINA DE ALEXANDRIA, VIRGEM E MÁRTIR
+
+@biografia
+Santa Catarina, mártir, que, segundo a tradição, foi uma virgem de Alexandria, dotada de subtil inteligência e sabedoria, bem como de fortaleza de ânimo. Sofreu o martírio por volta do ano 305, durante a perseguição de Diocleciano. O seu corpo venera-se piedosamente no célebre mosteiro do monte Sinai que leva o seu nome.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Deste modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.[8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judéia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Inúmeros paralíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Dos sermões de São Cesário de Arles, bispo
+{(Séc. VI)} {(Sermo 159, 1.3-6: CCL 104, 650.652-654)}
+
+@tema
+Como seguir a Cristo?
+
+@texto
+Parece duro, irmãos caríssimos, e considera-se um peso quase insuportável o que mandou o Senhor no Evangelho, ao dizer: _Se alguém quiser seguir-me, renuncie a si mesmo_ (Mt 16,21). Mas não é duro o que mandou Aquele que ajuda a cumprir o que mandou.
+
+Renuncie a si mesmo, tome a sua cruz e siga a Cristo. Para onde se deve seguir a Cristo senão para onde Ele foi? Sabemos que ressuscitou e subiu ao Céu: para aí deve ser seguido. De modo algum se deve perder a esperança, porque foi Ele que o prometeu e não porque o homem o possa conseguir por si mesmo. O Céu estava longe de nós antes de Ele ter subido ao Céu. Por que não temos a esperança de lá chegar, se somos membros da sua Cabeça? Portanto, porque sofremos muitas aflições e dores na terra, sigamos a Cristo, onde está a suma felicidade, a suma paz, a suma segurança.
+
+Mas quem quiser seguir a Cristo deve escutar o que diz o Apóstolo: _Quem diz que permanece em Cristo deve caminhar como Ele caminhou_ (1Jo 2,6). Queres seguir a Cristo? Sê humilde, como Ele foi humilde. Não desprezes a humildade, se queres subir à altura sublime para onde Ele subiu.
+
+O caminho tornou-se escabroso quando o homem pecou; mas tornou-se plano quando Cristo o calcou pela ressurreição, transformando a vereda estreita em senda real. Por este caminho se corre com dois pés, o da humildade e o da caridade. A sua altura excelsa agrada a todos; mas a humildade é o primeiro degrau. Porque adiantas o pé para além de ti? Queres cair, não subir. Começa pelo primeiro degrau, isto é, pela humildade, e subirás.
+
+O nosso Senhor e Salvador não disse apenas: Renuncie a si mesmo, mas acrescentou: Tome a sua cruz e siga-Me. Que quer dizer: Tome a sua cruz? Suporte o que é molesto: siga-Me assim. Quando começar a seguir no meu modo de proceder e nos meus mandamentos, terá muitos que se lhe opõem, muitos que o querem impedir; terá não só muitos zombadores, mas também muitos perseguidores. E isso o farão não só os pagãos, que estão fora da Igreja, mas também os que parecem estar dentro do Corpo, embora estejam fora pelas suas ações perversas, e perseguem continuamente os bons cristãos porque se gloriam apenas do nome cristão. Estes estão entre os membros da Igreja como os maus tumores no corpo. Portanto, se queres seguir a Cristo, não hesites em levar a sua cruz: suporta os maus, não sucumbas.
+
+Portanto, se queremos cumprir o que disse o Senhor: Se alguém quiser seguir-Me, tome a sua cruz e siga-Me, com a ajuda de Deus devemos esforçar-nos por cumprir o que diz o Apóstolo: _Se temos que comer e que vestir, já estaremos contentes_ (1Tm 6,8); não aconteça que, se procuramos mais do que convém à natureza terrena e queremos ser ricos, caiamos na tentação e na cilada do diabo e nos muitos desejos inúteis e nocivos, que submergem os homens na morte e na perdição. O Senhor, com a sua proteção, Se digne livrar-nos desta tentação.
+
+@secao Responsório cf. Sl 44,15-16.5
+
+@responsorio
+R. As virgens, com suas companheiras,
+são conduzidas ao encontro do Rei.
+* São conduzidas à vossa presença com júbilo e alegria.
+V. Com a tua formosura e esplendor avança, caminha e reina.
+* São conduzidas.
+
+@secao Oração
+
+@oracao
+Deus onipotente e eterno, destes ao vosso povo Santa Catarina de Alexandria, virgem e gloriosa mártir; por sua intercessão, concedei que sejamos firmes na fé e na perseverança e trabalhemos incansavelmente pela unidade da vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

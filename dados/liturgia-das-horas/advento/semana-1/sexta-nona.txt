@@ -1,0 +1,74 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sexta_nona.htm
+@documento Hora Média (Nona) - I Sexta-Feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minha'alma perturbou-se!
+Serei mãe do grande Rei, conservando a virgindade!
+
+@salmo salmos/salmo-118-25-32-iv-daleth
+
+@gloria
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minha'alma perturbou-se!
+Serei mãe do grande Rei, conservando a virgindade!
+
+@secao Leitura breve | Br 3,5-6a
+
+@texto
+Não leves em conta as iniquidades de nossos pais mas recorda-te da bondade de tua mão e do teu nome neste tempo, porque és o Senhor, nosso Deus.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Despertai, Senhor, vosso poder e vinde, para que vossa proteção afaste os perigos a que nossos pecados nos expõem, e a vossa salvação nos liberte. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSDores_vesperas.htm
+@documento Vésperas - Bem-aventurada Virgem Maria das Dores
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Virgem Mãe tão santa e pura,
+vendo eu a tua amargura,
+possa contigo chorar.
+
+Que do Cristo eu traga a morte,
+sua paixão me conforte,
+sua cruz possa abraçar!
+
+Em sangue as chagas me lavem
+e no meu peito se gravem,
+para não mais se apagar.
+
+No julgamento consegue
+que às chamas não seja entregue
+quem soube em ti se abrigar.
+
+Que a santa cruz me proteja,
+que eu vença a dura peleja,
+possa do mal triunfar!
+
+Vindo, ó Jesus, minha hora,
+por essas dores de agora,
+no céu mereça um lugar.
+
+@secao Salmodia
+
+@antifona 1
+É Cristo a nossa paz pois nos trouxe pela cruz
+a paz com nosso Deus.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+É Cristo a nossa paz pois nos trouxe pela cruz
+a paz com nosso Deus.
+
+@antifona 2
+Aproximemo-nos, irmãos, da Cidade do Deus vivo,
+e de Jesus, o mediador de uma nova Aliança.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Aproximemo-nos, irmãos, da Cidade do Deus vivo,
+e de Jesus, o mediador de uma nova Aliança.
+
+@antifona 3
+É em Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+É em Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@secao Leitura breve | 2Tm 2,10-12a
+
+@texto
+Suporto qualquer coisa pelos eleitos, para que eles também alcancem a salvação, que está em Cristo Jesus, com a glória eterna. Merece fé esta palavra: se com ele morremos, com ele viveremos. Se com ele ficamos firmes, com ele reinaremos.
+
+@secao Responsório breve
+
+@responsorio
+R. Estava Maria, a Rainha do céu e a Senhora do mundo,
+* Junto à Cruz do Senhor. R. Estava.
+V. Quão feliz é aquela que, sem ter morrido, mereceu do martírio a palma da glória. * Junto à Cruz.
+Glória ao Pai. R. Estava.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Jesus, vendo sua Mãe em pé junto à cruz
+e o discípulo amado, falou à sua Mãe:
+Mulher, eis teu filho!
+E disse ao discípulo: Eis aqui tua Mãe!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Jesus, vendo sua Mãe em pé junto à cruz
+e o discípulo amado, falou à sua Mãe:
+Mulher, eis teu filho!
+E disse ao discípulo: Eis aqui tua Mãe!
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos e filhas. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quando o vosso Filho foi exaltado, quisestes que sua Mãe estivesse de pé junto à cruz, sofrendo com ele. Dai à vossa Igreja, unida a Maria na paixão de Cristo, participar da ressurreição do Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

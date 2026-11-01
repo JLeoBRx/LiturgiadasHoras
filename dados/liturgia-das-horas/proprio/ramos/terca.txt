@@ -1,0 +1,82 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ramos_terca.htm
+@documento Hora Média - Domingo de Ramos da Paixão do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Todo o mundo fiel rejubile
+na alegria de tal salvação:
+destruindo a potência da morte,
+Jesus Cristo nos traz redenção.
+
+De oliveira com ramos e palmas,
+todo o povo, com voz triunfal,
+canta hosanas ao Rei de Israel,
+de Davi descendente real.
+
+Nós também, acorrendo ao encontro
+de tal Rei, com hosanas de glória,
+seguremos na mão nossas palmas
+de alegria e de fé na vitória.
+
+Por seus dons, nos caminhos da vida,
+nos conduza e defenda o Senhor.
+E possamos, em todos os tempos,
+tributar-lhe o devido louvor.
+
+Glória ao Pai e a Jesus, Filho único,
+Deus de Deus, Luz da Luz, Sumo Bem,
+com o Espírito, o Amor que consola,
+pelos séculos dos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@secao Leitura breve | Cf. 2Cor 4,10-11
+
+@texto
+Por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossa frágil natureza. De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus,para que também a vida de Jesus seja manifestada em nossos corpos.
+
+@texto
+V. Ofereceu-se livremente em sacrifício.
+R. Como um cordeiro, não abriu a sua boca.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

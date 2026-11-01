@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/02segundaTC_impar.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo 2a SEMANA DO TEMPO COMUM / SEGUNDA-FEIRA / II Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {5,1-11}
+
+@tema
+A justificação do homem por meio de Jesus Cristo
+
+@texto
+[1] Irmãos, tendo sido, pois, justificados pela fé, estamos em paz com Deus por nosso Senhor Jesus Cristo, [2] por quem tivemos acesso, pela fé, a esta graça, na qual estamos firmes e nos gloriamos na esperança da glória de Deus. [3] E não é só. Nós nos gloriamos também nas tribulações, sabendo que a tribulação produz a perseverança, [4] a perseverança uma virtude comprovada, a virtude comprovada a esperança. [5] E a esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado. [6] Foi, com efeito, quando ainda éramos fracos que Cristo, no tempo marcado, morreu pelos ímpios. - [7] Dificilmente alguém dá a vida por um justo; por um homem de bem talvez haja alguém que se disponha a morrer. - [8] Mas Deus demonstra seu amor para conosco pelo fato de Cristo ter morrido por nós quando éramos ainda pecadores. [9] Quanto mais, então, agora, justificados por seu sangue, seremos por ele salvos da ira. [10] Pois se quando éramos inimigos fomos reconciliados com Deus pela morte do seu Filho, muito mais agora, uma vez reconciliados, seremos salvos por sua vida. [11] E não é só. Mas nós nos gloriamos em Deus por nosso Senhor Jesus Cristo, por quem desde agora recebemos a reconciliação.
+
+@secao Responsório | Rm 5,8-9
+
+@responsorio
+R. Mas Deus demonstra seu amor para conosco
+* Pelo fato de Cristo ter morrido por nós quando éramos ainda pecadores.
+V. Quanto mais, então, agora, justificados por seu sangue,
+seremos por ele salvos da ira.
+* Pelo fato de Cristo.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Tratados sobre o Evangelho de João”, de Santo Agostinho, bispo
+{(Séc. V)} {(Disc. 32,9)}
+
+@tema
+Por meio da caridade, desatemo-nos deste mundo e fixemos nossa morada no céu
+
+@texto
+Como a caridade de que falamos depende do Espírito Santo, escuta o que diz o Apóstolo: _O amor de Deus foi_ _derramado em nossos corações pelo Espírito Santo que_ _foi-nos dado_ (Rm 5,5).
+Por que o Senhor quis conceder-nos o Espírito, que nos proporciona os maiores benefícios, somente após a sua ressurreição? Por meio dele, com efeito, a caridade de Deus é infundida em nossos corações. O que quis ensinar-nos? Que o nosso desejo, à espera da nossa ressurreição, seja ardente, separando-nos das coisas deste mundo e orientando-nos rumo a Deus. Aqui nascemos e aqui morremos: não nos agarremos, portanto, a esta vida. Desatemo-nos por meio da caridade com que amamos a Deus e procuremos alcançar a pátria celeste.
+Durante nossa peregrinação terrestre, pensemos constantemente que não viveremos aqui, por toda a eternidade. Assim, graças a uma vida santa, prepararemos o lugar de onde nunca mais seremos afastados. Jesus Cristo nosso Senhor, ressuscitado dos mortos, _já não morre; a morte - diz_ _o Apóstolo - não tem mais domínio sobre ele_ (Rm 6,9).
+Eis aquilo que devemos desejar. Se vivermos e se acreditarmos naquele que ressuscitou, ele nos dará não aquilo que, nesta vida, é desejado por quantos não amam a Deus, tanto mais desejado quanto menos Deus é amado.
+O que é que Deus nos prometeu? Certamente não riquezas terrenas e temporais, honras e poderes deste mundo. Tudo isso é concedido também aos malvados e não é tido em conta pelos homens bons. Tampouco a própria saúde corporal, que ele concede também aos animais. Tampouco uma vida longa. Que vida é tão longa que, em determinado momento, não deva cessar? Tampouco prometeu, a nós que cremos nele, longevidade ou uma longa velhice, que todos desejam, antes que chegue, e de que nos queixamos, após sua chegada. Tampouco a beleza corporal, frustrada pela doença ou pela suspirada velhice. As ambições da beleza e de uma longa velhice são discordantes. Se tu alcançares a velhice, não mais serás belo: não podem coexistir o vigor da beleza e o gemido da velhice.
+Não nos prometeu tudo isso aquele que disse: _Quem tem_ _sede venha a mim e beba. Quem crê em mim, conforme a_ _palavra da Escritura, rios de água viva jorrarão de seu_ _seio_ (Jo 7,37-38). Deus, antes, prometeu-nos a vida eterna, em que não teremos mais nada a temer, em que não haverá mais perturbações nem motivos para dela sermos afastados. Na vida eterna, não mais morreremos, não mais choraremos os mortos nem mais suspiraremos quem chegue.
+A promessa feita àqueles que o amam e ardem de caridade no Espírito Santo é tamanha que nosso Senhor dignou-se dar-nos o Espírito somente após ter sido glorificado, para mostrar-nos, em seu corpo, a vida que ainda não temos, mas que esperamos obter após a ressurreição.
+
+@secao Responsório | Rm 7,6; 5,5
+
+@responsorio
+R. Agora, porém, fomos libertados da Lei,
+tendo morrido para o que nos mantinha cativos.
+* E assim podermos servir na ordem nova do espírito
+e não na velha ordem da letra.
+V. O amor de Deus foi derramado em nossos corações
+pelo Espírito Santo que foi-nos dado.
+* E assim podermos
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que governais o céu e a terra, escutai com bondade as preces do vosso povo e dai ao nosso tempo a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

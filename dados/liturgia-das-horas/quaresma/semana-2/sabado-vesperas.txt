@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2sabadoquaresma_vesperas.htm
+@documento Vésperas - Sábado da 2ª Semana da Quaresma
+
+@titulo 3º Domingo da Quaresma / I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Ó Pai, nesta Quaresma,
+ouvi nossos pedidos:
+na mais contrita prece
+nos vedes reunidos.
+
+Sondais as nossas almas,
+na fé tão inconstantes:
+se para vós se voltam,
+mudai-as quanto antes.
+
+Pecamos, na verdade,
+tão longe da virtude:
+Senhor, por vosso nome,
+a todos dai saúde.
+
+Fazei que nosso corpo,
+enfim disciplinado,
+o dia todo fuja
+da culpa e do pecado.
+
+Que o tempo da Quaresma
+nos leve à santidade,
+e assim louvar possamos
+a glória da Trindade.
+
+@secao Salmodia
+
+@antifona 1
+Convertei-vos e crede no Evangelho.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Convertei-vos e crede no Evangelho.
+
+@antifona 2
+Eu vos oferto um sacrifício de louvor,
+invocando o nome santo do Senhor!
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Eu vos oferto um sacrifício de louvor,
+invocando o nome santo do Senhor!
+
+@antifona 3
+Ninguém poderá tirar-me a vida,
+mas eu mesmo a ofereço e a retomo.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+Ninguém poderá tirar-me a vida,
+mas eu mesmo a ofereço e a retomo.
+
+@secao Leitura breve | 2Cor 6,1-4a
+
+@texto
+Nós vos exortamos a não receberdes em vão a graça de Deus, pois ele diz: “No momento favorável, eu te ouvi e no dia da salvação, eu te socorri”. É agora o momento favorável, é agora o dia da salvação. Não damos a ninguém nenhum motivo de escândalo, para que o nosso ministério não seja desacreditado. Mas em tudo nos recomendamos como ministros de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o tempo favorável,
+* Eis o dia da salvação! R. Eis o tempo.
+V. Reuni-vos, resgatados das nações,
+vinde, aproximai-vos! * Eis o dia.
+Glória ao Pai. R. Eis o tempo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Demos glória a Cristo Jesus, que se fez nosso mestre, exemplo e irmão; e supliquemos, dizendo:
+
+R. **Renovai, Senhor, o vosso povo!**
+
+Senhor Jesus, que vos tornastes semelhante a nós em tudo, exceto no pecado, ensinai-nos a
+alegrar-nos com os que se alegram e a chorar com os que choram,
+– para que a nossa caridade aumente cada vez mais. R.
+
+Ensinai-nos a matar a vossa fome nos que têm fome,
+– e a saciar a vossa sede nos que têm sede. R.
+
+Vós que ressuscitastes Lázaro do sono da morte,
+– fazei que voltem à vida, pela fé e a penitência, os que estão mortos pelo pecado. R.
+
+Aumentai o número dos que querem seguir mais de perto o vosso caminho de perfeição,
+– a exemplo da bem-aventurada Virgem Maria e dos Santos. R.
+
+{(intenções livres)}
+
+Concedei aos nossos irmãos e irmãs falecidos a glória da ressurreição,
+– para que gozem eternamente do vosso amor R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de toda misericórdia e de toda bondade, vós nos indicastes o jejum, a esmola e a oração como remédio contra o pecado. Acolhei esta confissão da nossa fraqueza para que, humilhados pela consciência de nossas faltas, sejamos confortados pela vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

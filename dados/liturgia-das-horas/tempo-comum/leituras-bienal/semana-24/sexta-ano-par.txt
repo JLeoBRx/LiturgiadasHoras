@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/24sextaTC_par.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Baruc {1,14-2,5;3,1-8}
+
+@tema
+Súplica do povo arrependido
+
+@texto
+[1,14] Lede este livro que vos remetemos, para que façais sua leitura pública na casa do Senhor, no dia da Festa e nos dias oportunos. [15] Eis o que direis: Ao Senhor nosso Deus a justiça, mas a nós a vergonha no rosto, como acontece hoje. A nós, homens de Judá e habitantes de Jerusalém, [16] aos nossos reis e chefes, aos nossos sacerdotes e profetas e aos nossos pais, [17] porque pecamos diante do Senhor. [18] Fomos desobedientes para com ele; não escutamos a voz do Senhor nosso Deus, para andarmos segundo os preceitos que o Senhor havia dado aos nossos olhos. [19] Desde o dia em que o Senhor fez sair nossos pais da terra do Egito, até o dia de hoje, temos sido indóceis para com o Senhor nosso Deus e rebeldes, recusando-nos a ouvir sua voz. [20] Por isso, como acontece hoje, acompanham-nos as desgraças e a maldição que o Senhor anunciou a seu servo Moisés, no dia em que fez sair do Egito nossos pais a fim de nos dar uma terra que mana leite e mel. [21] Não escutamos a voz do Senhor nosso Deus, segundo todas as palavras dos profetas que nos enviou; [22] mas nos entregamos, cada um seguindo a inclinação do seu perverso coração, a servir outros deuses, fazendo o que é mau aos olhos do Senhor nosso Deus. [2,1] Então o Senhor cumpriu a sua palavra, que ele pronunciara contra nós e contra nossos juízes, que governaram Israel, contra nossos reis e nossos chefes, e contra os homens de Israel e de Judá. [2] Sob a imensidão do céu não aconteceu jamais algo semelhante ao que ele fez em Jerusalém, segundo o que estava escrito na lei de Moisés: [3] chegamos ao ponto de devorar cada um a carne de seu filho, cada um a carne de sua filha. [4] Além disso, submeteu-os ao poder de todos os reinos que nos cercam para servirem de opróbrio e de execração entre todos os povos vizinhos para onde o Senhor os dispersou. [5] Assim passaram a ser súditos e não senhores, porque pecamos contra o Senhor nosso Deus, não dando ouvidos à sua voz.
+[3,1] Senhor Todo-poderoso, Deus de Israel, é uma alma angustiada, um espírito perturbado que clama a ti: [2] Escuta, Senhor, e tem piedade, porque nós pecamos contra ti. [3] Tu, sim, permaneces eternamente em teu trono; enquanto nós, para sempre estamos perdidos. [4] Senhor Todo-poderoso, Deus de Israel, escuta pois a súplica dos mortos de Israel, dos filhos dos que pecaram contra ti, que não escutaram a voz do Senhor seu Deus: por isso, acompanham-nos as desgraças. [5] Não te recordes das injustiças de nossos pais; mas sim, nesta hora, lembra-te da tua mão e do teu Nome. [6] Pois tu és o Senhor nosso Deus e havemos de louvar-te, Senhor! [7] É por isso que infundiste o teu temor em nossos corações: para que invocássemos o teu Nome. E nós te louvaremos, mesmo em nosso exílio, porque removemos de nosso coração toda a injustiça de nossos pais, que pecaram contra ti. [8] Eis-nos hoje em nosso exílio, onde nos dispersaste para sermos um opróbrio, uma maldição e uma condenação, segundo todas as injustiças de nossos pais, que se afastaram do Senhor nosso Deus.
+
+@secao Responsório | Cf. Ef 2,4-5; cf. Br 2,12
+
+@responsorio
+R. Irmãos, Deus que é rico em misericórdia,
+pelo amor sem limites com o qual nos amou
+* Quando estávamos mortos por nossos pecados,
+deu-nos vida no Cristo.
+V. Realmente, pecamos, praticando injustiças,
+fizemos o mal contra Deus, Senhor nosso, e toda a sua lei.
+* Quando.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta a Proba” de Santo Agostinho, bispo
+{(Séc. V)} {(Ep. 130,14,27-15,28: CSEL 44,71-73)}
+
+@tema
+O Espírito intercede por nós
+
+@texto
+Quem pede ao Senhor aquele único bem e o procura com empenho, pede cheio de segurança, e não teme ser-lhe prejudicial o recebê-lo; sem ele, nada do que puder receber como convém lhe adiantará. Pois é a única verdadeira vida e a única feliz. Contemplar eternamente a maravilha do Senhor, imortais e incorruptos de corpo e de espírito. Em vista desta única vida tudo o mais se há de pedir sem impropriedade. Quem a possuir terá tudo quanto desejar. Nem desejará o que não convém e que ali nem mesmo pode existir.
+Ali, com efeito, está a fonte da vida, de que temos sede agora na oração, enquanto vivemos na esperança e ainda não vemos o que esperamos; à sombra de suas asas, diante de quem está todo nosso desejo, para embriagarmo-nos da riqueza de sua casa e bebermos da torrente de suas delícias. Porque junto dele está a fonte da vida e à sua luz veremos a luz (cf. Sl 35,8-10), quando se saciar de bens nosso anseio e nada mais haverá a procurar com gemidos, mas só aquilo que no gozo abraçaremos.
+Todavia ela é também a paz que supera todo entendimento. Por isso, ao orarmos para obtê-la, não sabemos fazê-lo como convém. Porque não podemos nem mesmo imaginar como é, então não sabemos.
+Mas tudo o que nos ocorre ao pensar, afastamos, rejeitamos, desaprovamos. Não é isto o que procuramos, embora não saibamos ainda qual seja.
+Há em nós, por assim dizer, uma douta ignorância, mas douta pelo Espírito de Deus, que vem em auxílio de nossa fraqueza. Tendo o Apóstolo dito: Se, porém, esperamos o que não vemos, aguardamos com paciência, acrescenta: Do mesmo modo o Espírito vem em auxílio de nossa fraqueza; pois não sabemos orar como convém; mas o próprio Espírito intercede com gemidos inexprimíveis. Aquele que perscruta os corações conhece o desejo do Espírito, porque sua intercessão pelos santos corresponde ao desígnio de Deus (Rm 8,25-27).
+Não se há de entender isso como se o Santo Espírito de Deus, que é Deus na Trindade imutável e com o Pai e o Filho um só Deus, interceda em favor dos santos, como alguém que não seja o mesmo Deus. Na verdade se diz: Interpela em favor dos santos porque faz os santos intercederem. Como se diz: O Senhor, vosso Deus, vos tenta para saber se o amais (Dt 13,4), quer dizer: para vos fazer saber. Por conseguinte faz que os santos intercedam com gemidos inexprimíveis, inspirando-lhes o desejo da maravilha ainda desconhecida que aguardamos pela paciência. Por que e como exprimir o desejo daquilo que se ignora? Na realidade, se se ignorasse totalmente, não se desejaria. Por outro lado, se já se visse, não se desejaria nem se procuraria com gemidos.
+
+@secao Responsório | Cf. Rm 8,26b; Zc 12,10
+
+@responsorio
+R. Não sabemos o que nós devemos pedir,
+nem orar dignamente.
+* O Espírito mesmo intercede por nós com indizíveis gemidos.
+V. Naquele dia infundirei sobre a casa de Davi e os habitantes de Sião
+um espírito de graça, um espírito de súplica.
+* O Espírito.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador de todas as coisas, volvei para nós o vosso olhar e, para sentirmos em nós a ação do vosso amor, fazei que vos sirvamos de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

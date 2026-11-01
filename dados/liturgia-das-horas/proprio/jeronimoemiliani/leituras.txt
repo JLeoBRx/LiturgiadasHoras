@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/jeronimoemiliani.htm
+@documento Ofício das Leituras - São Jerônimo Emiliani
+
+@celebracao
+SÃO JERÔNIMO EMILIANI
+
+@biografia
+Nasceu na região de Veneza, em 1486. Seguiu a carreira militar, que mais tarde abandonou para se dedicar ao serviço dos pobres, depois de distribuir entre eles o que possuía. Fundou a Ordem dos Clérigos Regulares de Somasca, destinada a socorrer as crianças órfãs e os pobres. Morreu em Somasca, no território de Bérgamo (Itália), em 1537.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Jesus, Redentor nosso,
+coroais os vossos santos;
+ouvi hoje, compassivo,
+nossas preces, nossos cantos.
+
+Hoje, o santo confessor
+vosso nome fez brilhar,
+e a Igreja, anualmente,
+vem seus feitos celebrar.
+
+Caminhou com passo firme
+pela vida transitória,
+e seguiu a vossa estrada
+que nos leva para a glória.
+
+Desprendendo o coração
+de alegrias passageiras,
+frui agora, junto aos anjos,
+as delícias verdadeiras.
+
+O perdão de nossas culpas
+nos alcance a sua prece.
+Nos seus passos conduzi-nos
+para a luz que não perece.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai louvor também.
+Honra e graças ao Espírito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {12,1-21}
+
+@tema
+A vida cristã é culto espiritual
+
+@texto
+[1] Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. [2] Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito. [3] Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. [4] Como, num só corpo, temos muitos membros, cada qual com uma função diferente, [5] assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. [6] Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; [7] se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; [8] se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. [9] O amor seja sincero. Detestai o mal, apegai-vos ao bem. [10] Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. [11] Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, [12] alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. [13] Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. [14] Abençoai os que vos perseguem, abençoai e não amaldiçoeis. [15] Alegrai-vos com os que se alegram, chorai com os que choram. [16] Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria. [17] Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos. [18] Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo. [19] Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”. [20] Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça. [21] 1Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@secao Responsório | Rm 12,2; Ef 4,23-24
+
+@responsorio
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Jerônimo Emiliani a seus confrades
+
+@tema
+(Venetiis, die 21 iunii 1535) (Séc. XVI) Confiemos unicamente no Senhor
+
+@texto
+Aos diletíssimos irmãos em Cristo e filhos da Ordem dos Servos dos Pobres.
+Vosso pobre pai vos saúda e exorta a que persevereis no amor de Cristo e na fiel observância da lei cristã. Foi o que vos ensinei por obras e palavras, enquanto estive convosco, de modo que o Senhor seja glorificado por meu intermédio no meio de vós.
+O nosso fim é Deus, fonte de todos os bens, e devemos, como repetimos em nossa oração, confiar unicamente nele e em mais ninguém. Nosso bom Senhor, querendo aumentar vossa fé (sem a qual, como diz o evangelista, Cristo não pode realizar muitos milagres) e atender vossa oração, decidiu servir-se de vós assim: pobres, humilhados, aflitos, cansados, desprezados por todos, e agora, por fim, privados até da minha presença física, mas não do espírito de vosso pobre e muito amado pai.
+Por que vos trata assim, só ele sabe. Podemos, contudo, vos sugerir três motivos: primeiro, nosso bendito Senhor vos adverte que é seu desejo incluir-vos no número de seus filhos queridos, contanto que persevereis em seus caminhos; é assim que faz com seus amigos e os torna santos.
+Segundo motivo: ele quer que cada vez mais confieis somente nele e não em outros; porque, como eu já vos disse, Deus não realiza suas obras naqueles que se recusam a colocar somente nele toda a sua fé e toda a sua esperança, mas infunde sempre a plenitude de sua caridade nos que são cheios de fé e de esperança; neles realiza grandes coisas. Portanto, se estiverdes repletos de fé e de esperança, Deus fará também em vós grandes coisas e exaltará os humildes. Assim, quando ele vos priva de mim ou de qualquer outro que vós estimais, obriga-vos a escolher entre estas duas coisas: ou vos afastais da fé e voltais às coisas do mundo, ou permaneceis fortes na fé e sois aprovados por Deus.
+Ainda há um terceiro motivo: Deus quer provar-nos como o ouro no cadinho. O fogo consome as escórias do ouro, mas o ouro de bom quilate permanece e aumenta de valor. Do mesmo modo Deus procede com o servo bom, que na tribulação permanece firme e espera nele. Deus o eleva, e de todas as coisas que abandonou por seu amor, receberá o cêntuplo neste mundo, e a vida eterna no mundo que há de vir.
+É sempre assim que ele trata todos os santos. Foi assim com o povo de Israel, depois de tudo quanto sofrera no Egito: não apenas o retirou de lá com tantos prodígios e alimentou-o com o maná no deserto, mas lhe deu ainda a Terra Prometida. Se, portanto, vós também permanecerdes firmes na fé contra as tentações, o Senhor vos dará paz e descanso por algum tempo neste mundo, e para sempre no outro.
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. Sede todos unânimes, compassivos, fraternos,
+misericordiosos, modestos e humildes.
+* Porque para isso é que fostes chamados,
+a fim de alcançardes a herança da bênção.
+V. Uns aos outros amai-vos, com amor fraternal;
+adiantai-vos aos outros em gestos de estima,
+sem preguiça, aplicados, fervorosos de espírito,
+servindo ao Senhor. * Porque para.
+
+@secao Oração
+
+@oracao
+Ó Deus e Pai de misericórdia, que destes em São Jerônimo Emiliani um pai e protetor para os órfãos, fazei que ele interceda por nós, para conservarmos fielmente o espírito de adoção, pelo qual nos chamamos vossos filhos e na verdade o somos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

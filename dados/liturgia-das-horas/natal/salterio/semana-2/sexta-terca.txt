@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2sexta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-118-73-80
+
+@gloria
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.

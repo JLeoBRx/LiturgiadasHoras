@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoseoperario_nona.htm
+@documento Hora Média - São José Operário
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@secao Leitura breve | Eclo 2,18-19
+
+@texto
+Os que temem o Senhor não desobedecem às suas palavras, os que o amam observam os seus caminhos. Os que temem o Senhor procuram o seu beneplácito, os que o amam saciam-se com a sua lei.
+
+@texto
+V. É grande a sua glória em vosso auxílio.
+R. De esplendor e majestade o revestistes.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador do universo, que destes aos homens a lei do trabalho, concedei-nos, pelo exemplo e a proteção de São José, cumprir as nossas tarefas e alcançar os prêmios prometidos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,132 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/sextacinzas.htm
+@documento Ofício das Leituras - Sexta-Feira Depois Das Cinzas
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder.
+
+@salmo salmos/salmo-077-1-39-i
+
+@gloria
+
+@antifona
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder.
+
+@antifona 2
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual.
+
+@salmo salmos/salmo-077-1-39-ii
+
+@gloria
+
+@antifona
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual.
+
+@antifona 3
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!
+
+@salmo salmos/salmo-077-1-39-iii
+
+@gloria
+
+@antifona
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!
+
+@texto
+V. Voltai ao Senhor vosso Deus.
+R. Ele é bom, compassivo e clemente!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {2, 1-22}
+
+@tema
+Nascimento e fuga de Moisés
+
+@texto
+Naqueles dias, [1] um homem da família de Levi casou-se com uma mulher da mesma tribo, [2] e ela concebeu e deu à luz um filho. Ao ver que era um belo menino, manteve-o escondido durante três meses. [3] Mas não podendo escondê-lo por mais tempo, tomou uma cesta de junco, calafetou-a com betume e piche, pôs dentro dela a criança e deixou-a entre os caniços na margem do rio Nilo. [4] A irmã do menino ficou a certa distância para ver o que ia acontecer. [5] A filha do Faraó desceu para se banhar no rio, enquanto suas companheiras passeavam pela margem. Vendo, então, a cesta no meio dos caniços, mandou uma das servas apanhá-la. [6] Abrindo a cesta, viu a criança: era um menino, que chorava. Ela compadeceu-se dele e disse: "É um menino dos hebreus". [7] A irmã do menino disse, então, à filha do Faraó: "Queres que te vá chamar uma mulher hebréia, que possa amamentar o menino?" [8] A filha do Faraó respondeu: "Vai". E a menina foi e chamou a mãe do menino. [9] A filha do Faraó disse à mulher: "Leva este menino, amamenta-o para mim, e eu te pagarei o teu salário". A mulher levou o menino e amamentou. [10] Quando já estava crescido, ela levou-o à filha do Faraó, que o adotou como filho e lhe deu o nome de Moisés, porque, disse ela, "eu o tirei das águas". [11] Um dia, quando já era adulto, Moisés saiu para visitar seus irmãos hebreus; viu sua aflição e como um egípcio maltratava um deles. [12] Olhou para os lados e, não vendo ninguém, matou o egípcio e escondeu-o na areia. [13] No dia seguinte, saiu de novo e viu dois hebreus brigando, e disse ao agressor: 'Por que bates no teu companheiro?" [14] E este replicou: "Quem te estabeleceu nosso chefe e nosso juiz? Acaso pretendes matar-me, como mataste o egípcio?" Moisés ficou com medo e disse consigo: "Com certeza, o fato se tornou conhecido". [15] O Faraó foi informado do que aconteceu, e procurava matar Moisés. Mas este, fugindo da sua vista, parou na terra de Madiã, e sentou-se junto a um poço. [16] Ora, o sacerdote de Madiã tinha sete filhas. Estas vieram tirar água e encher os bebedouros para dar de beber ao rebanho de seu pai. [17] Chegaram uns pastores e quiseram expulsá-las dali. Mas Moisés levantou-se em defesa delas e deu de beber ao seu rebanho. [18] Ao voltarem para junto de Raguel, seu pai, este perguntou-lhes: “Por que viestes mais cedo hoje?” [19] Elas responderam: "Um egípcio livrou-nos dos pastores; além disso, ele mesmo tirou água para nós e deu de beber ao rebanho". [20] Raguel, então, perguntou as filhas: "E onde está ele? Por que o deixastes ir embora? Ide chamá-lo, para que coma alguma coisa". [21] Moisés consentiu em ficar com ele, e este homem deu-lhe sua filha Séfora como esposa. [22] Ela teve um filho, a quem Moisés chamou Gersam, pois disse: "Sou um estrangeiro em terra estranha".
+
+@secao Responsório | Cf. Hb 11,24-25.26.27
+
+@responsorio
+R. Movido pela fé, Moisés, já sendo adulto,
+recusou considerar-se da família do Faraó,
+preferindo tomar parte nas agruras de seu povo,
+a gozar, por algum tempo, das vantagens do pecado;
+* Pois trazia os olhos fixos na esperada recompensa.
+V. Estimou maior riqueza os opróbrios pelo Cristo
+que os tesouros dos Egípcios;
+pela fé deixou o Egito. * Pois trazia.
+
+@secao Segunda leitura
+
+@leitura
+Das Homílias do Pseudo-Crisóstomo
+{(Séc. IV)} {(Supp., Hom. 6 de precatione: PG 64,462-466)}
+
+@tema
+A oração é a luz da alma
+
+@texto
+A oração, o diálogo com Deus, é um bem incomparável, porque nos põe em comunhão íntima com Deus. Assim como os olhos do corpo são iluminados quando recebem a luz, a alma que se eleva para Deus é iluminada por sua luz inefável. Falo da oração que não é só uma atitude exterior, mas que provém do coração e não se limita a ocasiões ou horas determinadas, prolongando-se dia e noite, sem interrupção. Com efeito, não devemos orientar o pensamento para Deus apenas quando nos aplicamos à oração; também no meio das mais variadas tarefas - como o cuidado dos pobres, as obras úteis de misericórdia ou quaisquer outros serviços do próximo - é preciso conservar sempre vivos o desejo e a lembrança de Deus. E assim, todas as nossas obras, temperadas com o sal do amor de Deus, se tornarão um alimento dulcíssimo para o Senhor do universo. Podemos, entretanto, gozar continuamente em nossa vida do bem que resulta da oração, se lhe dedicarmos todo o tempo que nos for possível.
+A oração é a luz da alma, o verdadeiro conhecimento de Deus, a mediadora entre Deus e os homens. Pela oração a alma se eleva até aos céus e une-se ao Senhor num abraço inefável; como uma criança que, chorando, chama sua mãe, a alma deseja o leite divino, exprime seus próprios desejos e recebe dons superiores a tudo que é natural e visível. A oração é venerável mensageira que nos leva à presença de Deus, alegra a alma e tranquiliza o coração. Não penses que essa oração se reduza a palavras. Ela é desejo de Deus, amor inexprimível que não provém dos homens, mas é efeito da graça divina, como diz o Apóstolo: _Nós não sabemos o que devemos pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis_ (Rm 8,26). Semelhante oração, quando o Senhor a concede a alguém, é uma riqueza que não lhe pode ser tirada e um alimento celeste que sacia a alma. Quem a experimentou inflama-se do desejo eterno de Deus, como que de um fogo devorador que abrasa o coração.
+Praticando-a em sua pureza original, adorna tua casa de modéstia e humildade, torna-a resplandecente com a luz da justiça. Enfeita-se com boas obras, quais plaquetas de ouro, ornamenta-se de fé e de magnanimidade em vez de paredes e mosaicos. Como cúpula e coroamento de todo o edifício, coloca a oração. Assim prepararás para o Senhor uma digna morada, assim terás um esplêndido palácio real para o receber, e poderás tê-lo contigo na tua alma, transformada, pela graça, em imagem e templo da sua presença.
+
+@secao Responsório | Lm 5,20.21a; Mt 8,25b
+
+@responsorio
+R. Por que nos esqueceis eternamente?
+Por que nos rejeitais por toda a vida?
+* Ó Senhor, reconduzi-nos para vós, e para vós nós voltaremos convertidos!
+V. Salvai-nos, ó Senhor, que perecemos. * Ó Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, assisti com vossa bondade a penitência que iniciamos, para que vivamos interiormente as práticas externas da Quaresma. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

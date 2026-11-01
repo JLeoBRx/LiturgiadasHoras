@@ -1,0 +1,197 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/oficio_fieisdefuntos_leituras.htm
+@documento Ofício das Leituras - Ofício Dos Fiéis Defuntos Invitatório
+
+@celebracao
+OFÍCIO DOS FIÉIS DEFUNTOS Invitatório
+
+@texto
+R. Adoremos o Senhor: para ele todos vivem. Salmo invitatório como no Ordinário
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Fonte única da vida,
+que nos séculos viveis,
+aos mortais e réus da culpa
+vosso olhar, ó Deus, volvei.
+
+Pai, ao homem pecador
+dais a morte em punição,
+para o pó voltar ao pó,
+submetendo-o à expiação.
+
+Mas a vida, que inspirastes
+por um sopro, permanece
+como germe imperecível
+dum viver que não fenece.
+
+A esperança nos consola:
+nossa vida brotará.
+O primeiro a ressurgir,
+Cristo, a vós nos levará.
+
+Tenha(m) vida em vosso Reino
+vosso(a,s) servo(a,s), que Jesus,
+consagrou no Santo Espírito
+e o(a,s) guiou da fé à luz.
+
+Ó Princípio e Fim de tudo,
+ao chegar a nossa hora,
+conduzi-nos para o Reino
+onde brilha a eterna aurora.
+
+@secao Salmodia
+
+@antifona 1
+Do pó da terra me formastes
+e de carne me vestistes:
+no fim dos dias, ó Senhor,
+meu Redentor, ressuscitai-me!
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@antifona
+Do pó da terra me formastes e de carne me vestistes:
+no fim dos dias, ó Senhor, meu Redentor, ressuscitai-me!
+
+@antifona 2
+Dignai-vos, Senhor, libertar-me,
+vinde logo, Senhor, socorrer-me!
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Dignai-vos, Senhor, libertar-me,
+vinde logo, Senhor, socorrer-me!
+
+@antifona 3
+Do Deus vivo tem sede a minh’alma.
+Quando irei contemplar sua face?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Do Deus vivo tem sede a minh’alma.
+Quando irei contemplar sua face?
+
+@texto
+V. Como é grande, ó Senhor, o vosso amor!
+R. Vossa Palavra me devolva a minha vida!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {15,12-34}
+
+@tema
+A ressurreição de Cristo, esperança dos fiéis
+
+@texto
+Irmãos: [12] Se se prega que Cristo ressuscitou dos mortos, como podem alguns dizer entre vós que não há ressurreição dos mortos? [13] Se não há ressurreição dos mortos, então Cristo não ressuscitou. [14] E se Cristo não ressuscitou, a nossa pregação é vã e a vossa fé é vã também. [15] Nesse caso, nós seríamos testemunhas mentirosas de Deus, porque teríamos atestado – contra Deus – que ele ressuscitou Cristo, quando, de fato, ele não o teria ressuscitado – se é verdade que os mortos não ressuscitam. [16] Pois, se os mortos não ressuscitam, então Cristo também não ressuscitou. [17] E se Cristo não ressuscitou, a vossa fé não tem nenhum valor e ainda estais nos vossos pecados. [18] Então, também os que morreram em Cristo pereceram. [19] Se é para esta vida que pusemos a nossa esperança em Cristo, nós somos – de todos os homens – os mais dignos de compaixão. [20] Mas, na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram. [21] Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. [22] Como em Adão todos morrem, assim também em Cristo todos reviverão. [23] Porém, cada qual segundo uma ordem determinada: em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. [24] A seguir, será o fim, quando ele entregar a realeza a Deus-Pai, depois de destruir todo o principado e todo o poder e força. [25] Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. [26] O último inimigo a ser destruído é a morte. [27] Com efeito, “Deus pôs tudo debaixo de seus pés”. Mas, quando ele disser: “Tudo está submetido”, é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo. [28] E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos. [29] De outro modo, o que pretendem aqueles que batizam em favor dos mortos? Se os mortos realmente não ressuscitam, por que se batizam por eles? [30] E nós, por que nos expomos a perigos a toda hora? [31] Cada dia, irmãos, me exponho à morte, tão certo como sois a minha glória em Jesus Cristo, nosso Senhor. [32] Se foi por intenção humana que combati com feras em Éfeso, o que me aproveita isso? Se os mortos não ressuscitam, comamos e bebamos porque amanhã morreremos. [33] Não vos enganeis: “As más companhias corrompem os bons costumes”. [34] Caí em vós, como é justo, e não pequeis porque alguns vivem na ignorância de Deus. Para vossa vergonha é que digo.
+
+@secao Responsório | 1Cor 15,25-26; cf. Ap 20,13.14
+
+@responsorio
+R. É preciso que ele reine até que tenha colocado
+debaixo de seus pés seus inimigos, todos eles,
+* A morte há de ser o seu último inimigo,
+a ser exterminado.
+V. A morte e o seu reino devolverão todos os mortos
+e a morte e o seu reino serão precipitados
+no lago incandescente. * A morte.
+{Ou:} Da Primeira Carta de São Paulo aos Coríntios 15,35-57 {_Ressurreição dos mortos e vinda do Senhor_} Irmãos: 35Alguém perguntará: como ressuscitam os mortos? 36 Insensato! O que semeias, não nasce sem antes morrer. 37 E, quando semeias, não semeias o corpo da planta, que há de nascer, mas o simples grão, como o trigo, ou de alguma outra planta. 38 E Deus lhe dá o corpo segundo quis, a cada uma das sementes o próprio corpo. 39 Não é toda carne a mesma carne, senão que uma é a carne dos homens, outra a do gado, outra a das aves e outra a dos peixes. 40 E há corpos celestes e corpos terrestres, e um é o resplendor dos corpos celestes e outro o dos terrestres. 41 Um é o resplendor do sol, outro o da lua e outro o das estrelas, e uma estrela difere da outra no brilho. 42 Pois assim será também a ressurreição dos mortos. 43 Semeia-se em ignomínia, e ressuscita-se em glória. Semeia-se em fraqueza, e ressuscita-se em vigor. 44 Semeia-se um corpo animal, e ressuscita-se um corpo espiritual. Se há um corpo animal, há também um espiritual. 45 Por isso está escrito: o primeiro homem, Adão, “foi um ser vivo”. O segundo Adão é um espírito vivificante. 46 Veio primeiro não o homem espiritual, mas o homem natural; depois é que veio o homem espiritual. 47 O primeiro homem, tirado da terra, é terrestre; o segundo homem vem do céu. 48 Como foi o homem terrestre, assim também são as pessoas terrestres; e como é o homem celeste, assim também vão ser as pessoas celestes. 49 Como já refletimos a imagem do homem terrestre, assim também refletiremos a imagem do homem celeste. 50 Mas isto vos digo, irmãos: a carne e o sangue não podem possuir o reino de Deus, nem a corrupção herdará a incorrupção. 51 Eu vos comunico um mistério: Nem todos nós morreremos, mas todos nós seremos transformados. 52 Num instante, num abrir e fechar de olhos, ao soar da trombeta final – pois a trombeta soará – não só os mortos ressuscitarão incorruptíveis, mas nós também seremos transformados. 53 Pois é preciso que este ser corruptível se vista de incorruptibilidade; é preciso que este ser mortal se vista de imortalidade. 54 E quando este ser corruptível estiver vestido de incorruptibilidade e este ser mortal estiver vestido de imortalidade, então estará cumprida a palavra da Escritura: “A morte foi tragada pela vitória. 55 Ó morte, onde está a tua vitória? Onde está o teu aguilhão? 56 O aguilhão da morte é o pecado, e a força do pecado é a Lei. 57 Graças sejam dadas a Deus que nos dá a vitória pelo Senhor nosso, Jesus Cristo. {Responsório Cf. Jó 19,25.26.27} R. Eu creio que vive o meu Redentor
+e no último dia do pó me erguerei, * Em minha carne eu verei o meu Deus, meu Salvador. V. Eu mesmo o verei, verei o Senhor,
+com meus próprios olhos. * Em minha.
+{Ou:} Da Segunda Carta de São Paulo aos Coríntios 4,16–5,10 {_Quando for destruída esta nossa morada terrestre,_}
+receberemos no céu uma habitação eterna Irmãos: {4,16} Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. 17 Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. 18 E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. {5,1} De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. 2 Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; 3 revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. 4 Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. 5 E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. 6 Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; 7 pois caminhamos na fé e não na visão clara. 8 Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor. 9 Por isso, também nos empenhamos em ser agradáveis a ele, quer estejamos no corpo, quer já tenhamos deixado essa morada. 10 Aliás, todos nós temos de comparecer às claras perante o tribunal de Cristo, para cada um receber a devida recompensa – prêmio ou castigo – do que tiver feito ao longo de sua vida corporal. {Responsório Cf. Sl 50(51),5} R. Senhor, não me julgueis por minhas obras;
+não fiz nada de bom perante vós;
+por isso peço à vossa Majestade: * Apagai o meu pecado, ó meu Deus! V. Do meu pecado todo inteiro, me lavai,
+e apagai completamente a minha culpa. * Apagai.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Anastácio de Antioquia, bispo
+{(Séc. VI)} {(Oratio 5, de Resurrectione Christi, 6-7.9: PG 89, 1358-1359. 1361-1362)}
+
+@tema
+Cristo transformará o nosso corpo corruptível
+
+@texto
+_Cristo morreu e ressuscitou para ser o Senhor dos mortos e dos vivos_ (Rm 14,9). _Deus, porém, não é Deus dos mortos, mas dos vivos_ (Mt 22,32). Por isso, os mortos, que têm por Senhor aquele que vive, já não são mortos, mas vivos; a vida se apossou deles para que vivam sem nenhum temor da morte, à semelhança de _Cristo_ que, _ressuscitado dos mortos, não morre mais_ (Rm 6,9). Assim, ressuscitados e libertos da corrupção, não mais sofrerão a morte, mas participarão da ressurreição de Cristo, como Cristo participou da morte que sofreram. Se ele desceu à terra, até então uma prisão perpértua, foi para _arrombar as portas de bronze e quebrar as trancas de ferro_ (cf. Is 45,2; Sl 106,16), a fim de atrair-nos a si, livrando da corrupção a nossa vida e convertendo em liberdade a nossa escravidão. Se este plano da salvação ainda não se realizou – pois os homens continuam a morrer e os corpos a decompor-se – ninguém veja nisso um obstáculo para a fé. Com efeito, já recebemos o penhor de todos os bens prometidos, quando Cristo levou consigo para o alto as primícias de nossa natureza e já estamos sentados com ele nas alturas, como afirma São Paulo: _Ressuscitou-nos com Cristo e nos fez sentar com ele nos céus_ (Ef 2,6). Alcançaremos a consumação quando vier o tempo marcado pelo Pai; então deixaremos de ser crianças e atingiremos _o estado do homem perfeito_ (Ef 4,13). Pois o Pai dos séculos quer que o dom que nos foi outorgado seja mantido firmemente e não abolido pela infantilidade do nosso coração. Não é necessário demonstrar a ressurreição espiritual do Corpo do Senhor, uma vez que São Paulo, falando da ressurreição dos corpos, afirma claramente: _Semeia-se um corpo animal e ressuscita um corpo espiritual_ (1Cor 15,44); quer dizer, ele ressuscita transfigurado como o de Cristo, que nos precedeu com sua gloriosa transfiguração. O Apóstolo bem sabia o que dizia, ao explicar a sorte que espera toda a humanidade, graças à ação de Cristo, que _transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso_ (Fl 3,21). Se portanto a transfiguração consiste em que o corpo se torne espiritual, isso significa que ele se tornará semelhante ao corpo glorioso de Cristo, que ressuscitou com um corpo espiritual; este não é senão o corpo que foi _semeado na ignomínia_ (1Cor 15,43), mas transformado depois em corpo glorioso. Por este motivo, tendo Cristo elevado para junto do Pai as primícias da nossa natureza, leva também consigo todo o universo. Foi o que prometeu ao dizer: _Quando eu for elevado da terra, atrairei todos a mim_ (Jo 12,32).
+
+@secao Responsório | Jo 5,28-29; 1Cor 15,52
+
+@responsorio
+R. Os que dormem nos sepulcros ouvirão a minha voz;
+* E os que tiverem feito o mal, ressurgirão para o juízo;
+os que tiverem feito o bem, para a vida imortal.
+V. Num instante, num abrir e fechar d’olhos,
+ao toque da trombeta derradeira. * E os que tiverem.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Ou:
+
+@texto
+Das Cartas de São Bráulio de Saragoça, bispo {(Séc. VII)} {_Cristo ressuscitado é a esperança de todos os que creem_} Cristo, esperança de todos os que creem, ao dizer: _O nosso amigo Lázaro dorme_ (Jo 11,11), chama adormecidos e não mortos os que partem deste mundo. Também o santo Apóstolo Paulo não quer que nos entristeçamos a respeito dos que já adormeceram, porque a fé nos assegura que todos os que creem no Cristo, segundo a palavra do Evangelho, não morrerão para sempre. Sabemos, pela fé, que ele não está morto e nós também não morreremos. Com efeito, o _Senhor mesmo, quando for dada a ordem, à voz do arcanjo e ao som da trombeta divina, descerá do céu e os que nele tiverem morrido ressuscitarão_ (cf. 1Ts 4,16). Que a esperança da ressurreição nos anime, pois os que perdemos neste mundo tornaremos a vê-los no outro; basta para isso crermos no Senhor com verdadeira fé, obedecendo aos seus mandamentos. Para ele, todo-poderoso, é mais fácil despertar os mortos que acordarmos nós os que dormem. Dizemos estas coisas e, no entanto, levados não sei por que sentimento, desfazemo-nos em lágrimas e a saudade nos perturba a fé. Como é miserável a condição humana e nossa vida sem Cristo torna-se sem sentido! Ó morte, que separas os casados e, tão dura e cruelmente, separas também os amigos! Mas teu poder já está esmagado! Teu domínio impiedoso foi aniquilado por aquele que te ameaçou com o brado de Oséias: _Ó morte, eu serei a tua morte!_ (Os 13,14 Vulg.). Nós também podemos desafiar-te com as palavras do Apóstolo: _Ó morte, onde está a tua vitória? Onde está o teu aguilhão?_ (1Cor 15,55). Quem te venceu nos resgatou, ele que entregou sua amada vida às mãos dos ímpios, para fazer dos ímpios seus amigos. São inúmeras e várias as expressões da Sagrada Escritura que nos podem consolar a todos. Basta-nos, porém, a esperança da ressurreição e termos os olhos fixos na glória de nosso Redentor. Pela fé já nos consideramos ressuscitados com ele, conforme diz o Apóstolo: _Se morremos com Cristo, cremos que também viveremos com ele_ (Rm 6,8). Já não nos pertencemos, mas somos daquele que nos redimiu. Nossa vontade deve sempre depender da sua. Por isso dizemos ao rezar: _Seja feita a vossa vontade_ (Mt 6,10). Pela mesma razão, devemos dizer como Jó, quando choramos alguém que morreu: _O Senhor deu, o Senhor tirou; bendito seja o nome do Senhor_ (Jó 1,21). Façamos nossas estas palavras dele, a fim de que, aceitando como ele a vontade do Senhor, alcancemos um dia semelhante recompensa.
+
+@secao Responsório | 1Ts 4,13-14; Jr 22,10
+
+@responsorio
+R. Irmãos, não fiqueis tristes por aqueles que morreram
+como fazem os demais, que não têm esperança.
+* Se cremos que Jesus morreu e ressurgiu,
+também cremos que aqueles que morreram em Jesus,
+Deus há de conduzi-los para a sua companhia.
+V. Não choreis por quem morreu, nem façais,
+como os pagãos, lamentações desesperadas. * Se cremos.
+
+@secao Oração
+
+@oracao
+{Pode-se dizer uma das seguintes orações:} Ouvi, ó Pai, as nossas preces para que, ao afirmarmos nossa fé na ressurreição do vosso Filho, se confirme também nossa esperança na ressurreição de vosso servo N. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, glória dos fiéis e vida dos justos, que nos remistes pela morte e ressurreição do vosso Filho, concedei a vosso servo N. que, tendo professado o mistério da nossa ressurreição, mereça alegrar-se na eterna felicidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, inclinai vosso ouvido às nossas preces, ao implorarmos vossa misericórdia para com vosso filho N. Vós, que o unistes na terra ao vosso povo, colocai-o no reino da luz e da paz e concedei-lhe o convívio dos vossos santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para vários defuntos:
+
+@texto
+Ó Deus, fizestes o vosso Filho único vencer a morte e subir ao céu. Concedei a vossos Filhos N. e N. superar a mortalidade desta vida e contemplar eternamente a vós, Criador e Redentor de todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo. {Pelos irmãos, parentes e benfeitores:} Ó Deus, que perdoais os homens e desejais salvá-los, concedei aos irmãos, parentes e benfeitores de nossa comunidade que partiram deste mundo, participar da vida eterna por intercessão da Virgem Maria e de todos os Santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+Ou à escolha, no Missal Romano.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

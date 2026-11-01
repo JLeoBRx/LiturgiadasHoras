@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2sabado_leituras.htm
+@documento Ofício das Leituras
+
+@titulo {Ofício das Leituras}
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Lembrai-vos, ó Senhor, de mim, lembrai-vos;
+visitai-me com a vossa salvação!
+
+@salmo salmos/salmo-105-i
+
+@gloria
+
+@antifona
+Lembrai-vos, ó Senhor, de mim, lembrai-vos;
+visitai-me com a vossa salvação!
+
+@antifona 2
+O povo da Aliança somos nós:
+não esqueçamos o amor do nosso Deus!
+
+@salmo salmos/salmo-105-ii
+
+@gloria
+
+@antifona
+O povo da Aliança somos nós:
+não esqueçamos o amor do nosso Deus!
+
+@antifona 3
+Salvai-nos, ó Senhor e nosso Deus,
+e, do meio das nações, nos congregai!
+
+@salmo salmos/salmo-105-iii
+
+@gloria
+
+@antifona
+Salvai-nos, ó Senhor e nosso Deus,
+e, do meio das nações, nos congregai!

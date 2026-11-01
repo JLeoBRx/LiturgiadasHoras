@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saobernardo.htm
+@documento Ofício das Leituras - São Bernardo, Abade E Doutor Da Igreja Memória
+
+@celebracao
+SÃO BERNARDO, ABADE E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu no ano 1090 perto de Dijon (França) e recebeu uma piedosa educação. Admitido, no ano 1111, entre os Monges Cistercienses, foi eleito, pouco tempo depois, abade do mosteiro de Claraval. Com a sua atividade e exemplo exerceu uma notável influência na formação espiritual dos seus irmãos religiosos. Por causa dos cismas que ameaçavam a Igreja, percorreu a Europa para restabelecer a paz e a unidade. Escreveu muitas obras de teologia e ascética. Morreu em1153.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões sobre o Cântico dos Cânticos, de São Bernardo, abade
+{(Séc.XII)} {(Sermo 83,4-6: Opera omnia, Edit. Cisterc. 2 [1958], 300-302)}
+
+@tema
+Amo porque amo, amo para amar
+
+@texto
+O amor basta-se a si mesmo, em si e por sua causa encontra satisfação. É seu mérito, seu próprio prêmio. Além de si mesmo, o amor não exige motivo nem fruto. Seu fruto é o próprio ato de amar. Amo porque amo, amo para amar. Grande coisa é o amor, contanto que vá a seu princípio, volte à sua origem, mergulhe em sua fonte, sempre beba donde corre sem cessar. De todos os movimentos da alma, sentidos e afeições, o amor é o único com que pode a criatura, embora não condignamente, responder ao Criador e, por sua vez, dar-lhe outro tanto. Pois quando Deus ama não quer outra coisa senão ser amado, já que ama para ser amado; porque bem sabe que serão felizes pelo amor aqueles que o amarem. O amor do Esposo, ou melhor, o Esposo-Amor somente procura a resposta do amor e a fidelidade. Seja permitido à amada corresponder ao amor! Por que a esposa e esposa do Amor não deveria amar? Por que não seria amado o Amor? É justo que, renunciando a todos os outros sentimentos, única e totalmente se entregue ao amor, aquela que há de corresponder a ele, pagando amor com amor. Pois mesmo que se esgote toda no amor, que é isto diante da perene corrente do amor do outro? Certamente não corre com igual abundância o caudal do amante e do Amor, da alma e do Verbo, da esposa e do Esposo, do Criador e da criatura; há entre eles a mesma diferença que entre o sedento e a fonte. E então? Desaparecerá por isto e se esvaziará de todo a promessa da desposada, o desejo que suspira, o ardor da que a ama, a confiança da que ousa, já que não pode de igual para igual correr com o gigante, rivalizar a doçura com o mel, a brandura com o cordeiro, a alvura com o lírio, a claridade com o sol, a caridade com aquele que é a caridade? Não. Mesmo amando menos, por ser menor, se a criatura amar com tudo o que é, haverá de dar tudo. Por esta razão, amar assim é unir-se em matrimônio, porque não pode amar deste modo e ser menos amada, de sorte que no consenso dos dois haja íntegro e perfeito casamento. A não ser que alguém duvide ser amado primeiro e muito mais pelo Verbo.
+
+@secao Responsório | Sl 30(31),20; 35(36),9
+
+@responsorio
+R. Como é grande, ó Senhor, vossa bondade,
+* Que reservastes para aqueles que vos temem!
+V. Na abundância de vossa morada
+ele vem saciar-se de bens.
+Vós lhes dais de beber água viva
+nas torrentes de vossas delícias. * Que reservastes.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes do abade São Bernardo, inflamado de zelo por vossa casa, uma luz que brilha e ilumina a Igreja, dai-nos, por sua intercessão, o mesmo fervor para caminharmos sempre como filhos da luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

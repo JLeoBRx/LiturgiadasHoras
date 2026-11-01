@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/5quartaPascoa.htm
+@documento Ofício das Leituras - 5ª Semana Da Páscoa - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Eu vos amo, ó Senhor! Sois minha força! Aleluia.
+
+@salmo salmos/salmo-017-2-30-i
+
+@gloria
+
+@antifona
+Eu vos amo, ó Senhor! Sois minha força! Aleluia.
+
+@antifona 2
+O Senhor me libertou, porque me ama. Aleluia.
+
+@salmo salmos/salmo-017-2-30-ii
+
+@gloria
+
+@antifona
+O Senhor me libertou, porque me ama. Aleluia.
+
+@antifona 3
+Ó Senhor, fazei brilhar a minha lâmpada!
+Ó meu Deus, iluminai as minhas trevas! Aleluia.
+
+@salmo salmos/salmo-017-2-30-iii-v2
+
+@gloria
+
+@antifona
+Ó Senhor, fazei brilhar a minha lâmpada!
+Ó meu Deus, iluminai as minhas trevas! Aleluia.
+
+@texto
+V. Deus, o Pai, ressuscitou a Jesus Cristo
+dentre os mortos, aleluia,
+R. Para que esteja no Senhor a nossa fé
+e esperança. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {21,1-8}
+
+@tema
+A nova Jerusalém
+
+@texto
+Eu, João, [1] vi um novo céu e uma nova terra. Pois o primeiro céu e a primeira terra passaram, e o mar já não existe. [2] Vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido. [3] Então, ouvi uma voz forte que saía do trono e dizia: “Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles. [4] Deus enxugará toda lágrima dos seus olhos. A morte não existirá mais, e não haverá mais luto nem choro nem dor, porque passou o que havia antes”. [5] Aquele que está sentado no trono disse: “Eis que faço novas todas as coisas”. Depois, ele me disse: “Escreve, porque estas palavras são dignas de fé e verdadeiras”. [6] E disse-me ainda: “Está feito! Eu sou o Alfa e o Ômega, o Princípio e o Fim. A quem tiver sede, eu darei, de graça, da fonte da água viva. [7] O vencedor receberá esta herança, e eu serei seu Deus, e ele será meu Filho. [8] Quanto aos covardes, infiéis, corruptos, assassinos,imorais, feiticeiros, idólatras e todos os mentirosos, o lugar deles é o lago ardente de fogo e enxofre, ou seja, a segunda morte”.
+
+@secao Responsório | Ap 21,3b.4
+
+@responsorio
+R. Eis a tenda de Deus no meio do povo,
+seu lugar para morar.
+* E Deus enxugará de seus olhos toda lágrima. Aleluia.
+V. Nunca mais haverá morte, nem clamor, nem luto ou dor,
+pois passou o tempo antigo. * E Deus.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta a Diogneto
+{(Séc.II)} {(N.5-6: Funk 1,317-321)}
+
+@tema
+Os cristãos no mundo
+
+@texto
+Os cristãos não se diferenciam dos outros homens nem pela pátria nem pela língua nem por um gênero de vida especial. De fato, não moram em cidades próprias, nem usam linguagem peculiar, e a sua vida nada tem de extraordinário. A sua doutrina não procede da imaginação fantasista de espíritos exaltados, nem se apóia em qualquer teoria simplesmente humana, como tantas outras. Moram em cidades gregas ou bárbaras, conforme as circunstâncias de cada um; seguem os costumes da terra, quer no modo de vestir, quer nos alimentos que tomam, quer em outros usos; mas o seu modo de viver é admirável e passa aos olhos de todos por um prodígio. Habitam em suas pátrias, mas como de passagem; têm tudo em comum como os outros cidadãos, mas tudo suportam como se não tivessem pátria. Todo país estrangeiro é sua pátria e toda pátria é para eles terra estrangeira. Casam-se como toda gente e criam seus filhos, mas não rejeitam os recém-nascidos. Têm em comum a mesa, não o leito. São de carne, porém, não vivem segundo a carne. Moram na terra, mas sua cidade é no céu. Obedecem às leis estabelecidas, mas com seu gênero de vida superam as leis. Amam a todos e por todos são perseguidos. Condenam-nos sem os conhecerem; entregues à morte, dão a vida. São pobres, mas enriquecem a muitos; tudo lhes falta e vivem na abundância. São desprezados, mas no meio dos opróbrios enchem-se de glória; são caluniados, mas transparece o testemunho de sua justiça. Amaldiçoam-nos e eles abençoam. Sofrem afrontas e pagam com honras. Praticam o bem e são castigados como malfeitores; ao serem punidos, alegram-se como se lhes dessem a vida. Os judeus fazem-lhes guerra como a estrangeiros e os pagãos os perseguem; mas nenhum daqueles que os odeiam sabe dizer a causa do seu ódio. Numa palavra: os cristãos são no mundo o que a alma é no corpo. A alma está em todos os membros do corpo; e os cristãos em todas as cidades do mundo. A alma habita no corpo, mas não provém do corpo; os cristãos estão no mundo, mas não são do mundo. A alma invisível é guardada num corpo visível; todos veem os cristãos, pois habitam no mundo, contudo, sua piedade é invisível. A carne, sem ser provocada, odeia e combate a alma, só porque lhe impede o gozo dos prazeres; o mundo, sem ter razão para isso, odeia os cristãos precisamente porque se opõem a seus prazeres. A alma ama o corpo e seus membros, mas o corpo odeia a alma; também os cristãos amam os que os odeiam. Na verdade, a alma está encerrada no corpo, mas é ela que contém o corpo; os cristãos encontram-se detidos no mundo como numa prisão, mas são eles que abraçam o mundo. A alma imortal habita numa tenda mortal; os cristãos vivem como peregrinos em moradas corruptíveis, esperando a incorruptibilidade dos céus. A alma aperfeiçoa-se com a mortificação na comida e na bebida; os cristãos, constantemente mortificados, veem seu número crescer dia a dia. Deus os colocou em posição tão elevada que lhes é impossível desertar.
+
+@secao Responsório | Jo 8,12b; Eclo 24,25
+
+@responsorio
+R. Eu sou a luz do mundo:
+* Aquele, que me segue, não caminha entre as trevas,
+mas terá a luz da vida. Aleluia.
+V.Toda a graça do caminho e da verdade está em mim;
+em mim toda a esperança da vida e da virtude.* Aquele que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que amais e restituís a inocência, orientai para vós os nossos corações, para que jamais se afastem da luz da verdade os que tirastes das trevas da desgraça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

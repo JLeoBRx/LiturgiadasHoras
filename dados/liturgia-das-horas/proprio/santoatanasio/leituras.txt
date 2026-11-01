@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoatanasio.htm
+@documento Ofício das Leituras - Santo Atanásio, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SANTO ATANÁSIO, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Alexandria no ano 295. No Concílio de Nicéia,acompanhou o bispo Alexandre a quem sucedeu no episcopado. Lutou corajosamente contra os arianos; tendo por isso suportado muitos sofrimentos e foi várias vezes condenado ao exílio. Escreveu importantes obras doutrinais e em defesa da verdadeira fé. Morreu em 373.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Atanásio, bispo
+{(Séc. IV)} {(Oratio de incarnatione Verbi, 8-9:PG 25,110-111)}
+
+@tema
+A encarnação do Verbo
+
+@texto
+O Verbo de Deus, incorpóreo, incorruptível e imaterial, veio habitar no meio de nós, se bem que antes não estivesse ausente. De fato, nenhuma região do mundo jamais esteve privada de sua presença, porque, pela união com seu Pai, ele estava em todas as coisas e em todo lugar. Por amor de nós, veio a este mundo, isto é, mostrou-se a nós de modo sensível. Compadecido da fraqueza do gênero humano, comovido pelo nosso estado de corrupção, não suportando ver-nos dominados pela morte, tomou um corpo semelhante ao nosso. Assim fez para que não perecesse o que fora criado nem se tornasse inútil a obra de seu Pai e sua ao criar o homem. Ele não quis apenas habitar num corpo ou somente tornar-se visível. Se quisesse apenas tornar-se visível, teria certamente assumido um corpo mais excelente; mas assumiu o nosso corpo. Construiu no seio da Virgem um templo para si, isto é, um corpo; habitando nele, fê-lo instrumento mediante o qual se daria a conhecer. Assim, pois, assumindo um corpo semelhante ao nosso, e porque toda a humanidade estava sujeita à corrupção da morte, ele, no seu imenso amor por nós, ofereceu-o ao Pai, aceitando morrer por todos os homens. Deste modo, a lei da morte, promulgada contra a humanidade inteira, ficou anulada para aqueles que morrem em comunhão com ele. Tendo ferido o corpo do Senhor, a morte perdeu a possibilidade de fazer mal aos outros homens, seus semelhantes. Além disso, reconduziu o gênero humano da corrupção para a incorruptibilidade, da morte para a vida, fazendo desaparecer a morte – como a palha é consumida pelo fogo – por meio do corpo que assumira e pelo poder da ressurreição. Assumiu, portanto, um corpo mortal, para que esse corpo, unido ao Verbo que está acima de tudo, pudesse morrer por todos. E porque era habitação do Verbo, o corpo assumido tornou-se imortal e, pelo poder da ressurreição, remédio de imortalidade para toda a humanidade. Entregando à morte o corpo que tinha assumido, ele o ofereceu como sacrifício e vítima puríssima, libertando assim da morte todos os seus semelhantes; pois o ofereceu em sacrifício por todos. O Verbo de Deus, que é superior a todas as coisas, entregando e oferecendo em sacrifício o seu corpo, templo e instrumento da divindade, pagou com a sua morte a dívida que todos tínhamos contraído. Deste modo, o Filho incorruptível de Deus, tornando-se solidário com todos os homens por um corpo semelhante ao seu, tornou a todos participantes da sua imortalidade, a título de justiça com a promessa da imortalidade. Por conseguinte, a corrupção da morte já não tem poder algum sobre os homens, por causa do Verbo que por meio do seu corpo habita neles.
+
+@secao Responsório | Jr 15,19.29; 2Pd 2,1
+
+@responsorio
+R. Tu serás a minha boca e farei de ti um muro
+resistente como bronze, diante deste povo.
+* Farão guerra contra ti, mas não te vencerão,
+porque eu estou contigo. Aleluia.
+V. Surgirão em vosso meio falsos mestres,
+que trarão perniciosas heresias,
+negando o Senhor que os resgatou. * Farão guerra.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos destes em Santo Atanásio um exímio defensor da divindade de vosso Filho, concedei-nos, por sua doutrina e proteção, crescer continuamente no vosso conhecimento e no vosso amor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

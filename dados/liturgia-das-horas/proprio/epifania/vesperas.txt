@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/epifania_vesperas.htm
+@documento Vésperas - Epifania do Senhor
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d'aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Príncipe da paz foi exaltado
+muito acima dos reis de toda a terra.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Príncipe da paz foi exaltado
+muito acima dos reis de toda a terra.
+
+@antifona 2
+Uma luz brilha nas trevas para os justos:
+o Deus justo, compassivo e generoso.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Uma luz brilha nas trevas para os justos:
+o Deus justo, compassivo e generoso.
+
+@antifona 3
+As nações todas hão de vir perante vós,
+e, prostradas, haverão de adorar-vos.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+As nações todas hão de vir perante vós,
+e, prostradas, haverão de adorar-vos.
+
+@secao Leitura breve | Tt 3,4-5
+
+@texto
+Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens! Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Recordamos neste dia três mistérios:
+Hoje a estrela guia os Magos ao presépio.
+Hoje a água se faz vinho para as bodas.
+Hoje Cristo no Jordão é batizado
+para salvar-nos. Aleluia, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Recordamos neste dia três mistérios:
+Hoje a estrela guia os Magos ao presépio.
+Hoje a água se faz vinho para as bodas.
+Hoje Cristo no Jordão é batizado
+para salvar-nos. Aleluia, aleluia.
+
+@secao Preces
+
+@preces
+Com grande alegria, celebremos nosso Salvador, adorado hoje pelos Magos; e supliquemos:
+
+R. **Salvai, Senhor, o vosso povo!**
+
+Rei das nações, que chamastes os Magos como primícias para vos adorarem,
+– concedei-nos o espírito de adoração e de serviço. R.
+
+Rei da glória, que governais os povos com justiça,
+– dai à humanidade a plenitude da paz. R.
+
+Rei da eternidade, que permaneceis de geração em geração,
+– enviai vossa palavra aos nossos corações como a água que fecunda a terra. R.
+
+Rei de justiça, que viestes libertar o pobre sem defesa,
+– socorrei os infelizes e os aflitos. R.
+
+{(intenções livres)}
+
+Senhor, vosso nome é bendito pelos séculos;
+– tornai os nossos irmãos e irmãs falecidos participantes das maravilhas de vossa salvação. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje revelastes o vosso Filho às nações, guiando-as pela estrela, concedei aos vossos servos e servas, que já vos conhecem pela fé, contemplar-vos um dia face a face no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Deus de supremo poder,
+da água os seres gerastes.
+Com uns enchestes os mares,
+de outros o ar povoastes.
+
+Uns mergulhastes nas águas,
+outros soltastes no ar,
+com o impulso que os leva
+a toda a terra ocupar.
+
+Dai graça a todos os servos,
+no vosso sangue lavados,
+para vencermos o tédio,
+a morte e todo pecado.
+
+Não nos deprimam as culpas,
+nem nos inflame a vaidade;
+não caia a mente abatida,
+nem caia a mente elevada.
+
+Ouvi-nos, Pai piedoso,
+e vós, Imagem do Pai,
+que com o Espírito Santo
+eternamente reinais.
+
+@secao Salmodia
+
+@antifona 1
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@antifona
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@antifona 2
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@salmo salmos/salmo-031
+
+@gloria
+
+@antifona
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@secao Leitura breve | 1Pd 1,6-9
+
+@texto
+Isto é motivo de alegria para vós, embora seja necessário que agora fiqueis por algum tempo aflitos, por causa de várias provações. Deste modo, a vossa fé será provada como sendo verdadeira – mais preciosa que o ouro perecível, que é provado no fogo – e alcançará louvor, honra e glória, no dia da manifestação de Jesus Cristo. Sem ter visto o Senhor, vós o amais. Sem o ver ainda, nele acreditais. Isso será para vós fonte de alegria indizível e gloriosa, pois obtereis aquilo em que acreditais: a vossa salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor nos saciou
+* Com a fina flor do trigo. R. O Senhor.
+V. Com o mel que sai da rocha, nos fartou, nos satisfez.
+* Com a fina. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor derrubou os poderosos de seus tronos
+e elevou os humildes.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor derrubou os poderosos de seus tronos
+e elevou os humildes.
+
+@secao Preces
+
+@preces
+Louvemos a Deus, nosso auxílio e esperança; e lhe peçamos com humildade:
+
+R. **Velai, Senhor, sobre os vossos filhos e filhas!**
+
+Senhor nosso Deus, que firmastes com o vosso povo uma aliança eterna,
+– fazei que nos recordemos sempre de vossas maravilhas. R.
+
+Aumentai nos sacerdotes o espírito de caridade,
+– e conservai os fiéis na unidade do espírito pelo vínculo da paz. R.
+
+Fazei que edifiquemos sempre em união convosco a cidade terrena,
+– para que não trabalhem em vão os que a constroem. R.
+
+Enviai operários à vossa messe,
+– para que vosso nome seja glorificado entre todos os povos. R.
+
+{(intenções livres)}
+
+Admiti no convívio dos vossos santos nossos parentes, amigos e benfeitores falecidos,
+– e fazei que um dia nos encontremos com eles no vosso reino. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que iluminais a noite e fazeis brilhar a luz depois das trevas, concedei-nos passar esta noite livres do tentador e, ao raiar um novo dia, dar-vos graças em vossa presença. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

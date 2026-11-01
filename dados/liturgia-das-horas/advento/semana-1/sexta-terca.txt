@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sexta_terca.htm
+@documento Hora Média (Terça) - I Sexta-Feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-118-25-32-iv-daleth
+
+@gloria
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Jr 29,11.13
+
+@texto
+Eu sei que pensamentos nutro acerca de vós, diz o Senhor, pensamentos de bem e não de mal, capazes de vos garantir posteridade e esperança. Vós me procurareis, e achar-me-eis, se me tiverdes procurado com todo o coração.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Despertai, Senhor, vosso poder e vinde, para que vossa proteção afaste os perigos a que nossos pecados nos expõem, e a vossa salvação nos liberte. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

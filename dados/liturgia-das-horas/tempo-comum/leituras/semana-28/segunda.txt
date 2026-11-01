@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/28segundaTC.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Ageu {2,10-23}
+
+@tema
+Bênçãos futuras. Promessas feitas a Zorobabel
+
+@texto
+[10] No dia vinte e quatro do nono mês do segundo ano de reinado de Dario, foi dirigida a palavra do Senhor ao profeta Ageu, dizendo: [11] "Assim falou o Senhor dos exércitos: Inquire os sacerdotes sobre este ponto da lei: [12] Se alguém trouxer, na dobra da roupa, carne sagrada e com a extremidade tocar no pão, na comida, no vinho, ou no azeite, ou em qualquer alimento, acaso essas coisas se tornam sagradas? Assim o fez, e os sacerdotes, em resposta, disseram: "Não". [13] Voltou Ageu a perguntar-lhes: "Se tocar nessas coisas alguém contagiado pelo contacto de um cadáver, acaso fica isso tudo contaminado? Responderam os sacerdotes, dizendo: "Sim, fica tudo contaminado". [14] Ageu então disse: "Assim também, diz o Senhor, este povo, esta nação, toda a obra de suas mãos e suas oferendas, tudo para mim está contaminado.
+
+@texto
+[15] Prestai bem atenção, de agora em diante: como passáveis vós, antes de ser reconstruído, pedra por pedra, o templo do Senhor? [16] Vossa reserva de cereais parecia ser de vinte medidas, mas era só de dez; o lagar, que fornecia cinquenta medidas de vinho, não dava mais que vinte. [17] É que eu vos castiguei com a seca e estraguei toda a vossa lavoura com a ferrugem e o granizo, mas nenhum de vós resolveu voltar para mim, diz o Senhor. [18] Guardai em vossa memória, a partir de hoje e para o futuro, desde o dia vinte e quatro do nono mês, o dia em que foram lançados os alicerces do templo do Senhor, guardai-o na memória. [19] Ainda há trigo no celeiro? Não deram fruto ainda a videira e a figueira, a romãzeira e a oliveira? Pois, a partir deste dia, eu vos abençoarei".
+
+@texto
+[20] Foi dirigida a palavra do Senhor, pela segunda vez, a Ageu no dia vinte e quatro do mês, dizendo: [21] "Fala a Zorobabel, chefe de Judá: Eu moverei o céu e moverei a terra, [22] e derrubarei tronos e reinos, esmagarei as nações poderosas, destruirei os carros e seus ocupantes, cairão cavalos e cavaleiros, cada um a golpes de espada de seus companheiros. [23] Naquele dia, diz o Senhor dos exércitos, hei de separar-te, Zorobabel, filho de Salatiel, servo meu, diz o Senhor, para te colocar como um estandarte, pois eu te escolhi, diz o Senhor dos exércitos.
+
+@secao Responsório | Ag 2,7.9b
+
+@responsorio
+R. Abalarei o céu e a terra,
+* E virá o desejado de todas as nações.
+V. A glória desta casa grandiosa há de ser. * E virá.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado Contra Fabiano, de São Fulgêncio de Ruspe, bispo
+{(Séc. VI)}{(Cap. 28,16-19: CCL 91A,813-814)}
+
+@tema
+A participação no corpo e sangue do Senhor nos santifica
+
+@texto
+Atesta o santo Apóstolo que se realiza na oblação dos sacrifícios aquilo mesmo que nosso Salvador ordenou, ao dizer: _Porque o Senhor Jesus, na noite em que iria ser entregue, tomou o pão e, dando graças, partiu-o e disse: Isto é o meu corpo que é dado por vós; fazei isto em minha memória. Do mesmo modo, tomou também o cálice, depois de ter ceado, dizendo: Este é o cálice da nova Aliança em meu sangue; fazei isto, todas as vezes que o beberdes, em minha memória. Pois todas as vezes que comerdes deste pão e beberdes deste cálice, anunciareis a morte do Senhor até que venha_ (1Cor 11,23-26).
+
+@texto
+Por esta razão se oferece o sacrifício, a fim de anunciar a morte do Senhor e realizar o memorial daquele que entregou a vida por nós. Ele mesmo diz: _Ninguém tem maior amor do que aquele que dá a vida por seus amigos_ (Jo 15,13). Portanto, tendo Cristo morrido por nós por amor, quando no momento do sacrifício fazemos memória de sua morte, rogamos que nos conceda a caridade pela vinda do Espírito Santo. Pedimos e suplicamos que, pela mesma caridade com que Cristo aceitou ser crucificado por nós, também nós, pela graça do Espírito Santo, possamos considerar o mundo como crucificado e a nós, crucificados para o mundo. Imitando a morte de nosso Senhor, como Cristo _que morreu para o pecado, morreu uma vez por todas e porque vive, vive para Deus_ (cf. Rm 6,10-11), nós igualmente _caminhemos com vida nova_ (Rm 6,4). E recebido o dom da caridade, morramos para o pecado e vivamos para Deus.
+
+@texto
+Pois _a caridade de Deus foi derramada em nossos corações pelo Espírito Santo que nos foi dado_ (Rm 5,5). Com efeito, a própria participação no corpo e sangue do Senhor, quando tomamos seu pão e bebemos de seu cálice, já nos persuade a morrer para o mundo e a ter nossa vida escondida com Cristo em Deus, crucificando nossa carne com seus vícios e concupiscências (cf. Cl 3,3; Gl 5,24).
+
+@texto
+Acontece então que todos os fiéis que amam a Deus e ao próximo, embora não bebam do cálice do sofrimento corporal, bebem do cálice da caridade do Senhor. Por ele inebriados, mortificam seus membros ainda na terra e, revestidos do Senhor Jesus Cristo, não cuidam do corpo de maneira a satisfazer-lhe os desejos; não contemplam as coisas visíveis, mas as invisíveis. Desta forma se bebe o cálice do Senhor quando se conserva a santa caridade. Sem ela, mesmo que alguém lance o corpo ao fogo para ser queimado, de nada lhe aproveita. Mas pelo dom da caridade é-nos concedido ser na realidade aquilo mesmo que celebramos misticamente no sacrifício.
+
+@secao Responsório | Cf. Lc 22,19; Jo 6,58
+
+@responsorio
+R. Jesus tomou o pão, deu graças e o partiu,
+deu a eles e lhes disse:
+* Isto é o meu corpo, entregue por vós,
+fazei isto em memória de mim, aleluia.
+V. É este o pão vivo descido dos céus,
+quem comer deste pão, viverá para sempre. * Isto é.
+
+@secao Oração
+
+@oracao
+Ó Deus, sempre nos preceda e acompanhe a vossa graça para que estejamos sempre atentos ao bem que devemos fazer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

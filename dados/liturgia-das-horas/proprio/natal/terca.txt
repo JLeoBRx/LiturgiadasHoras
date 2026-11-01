@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natal_terca.htm
+@documento Hora Média - Natal do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar,
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-018-b
+
+@gloria
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@salmo salmos/salmo-047
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | Tt 2,11-12
+
+@texto
+A graça de Deus se manifestou trazendo salvação para todos os homens. Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade.
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel.
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que admiravelmente criastes o ser humano e mais admiravelmente restabelecestes a sua dignidade, dai-nos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

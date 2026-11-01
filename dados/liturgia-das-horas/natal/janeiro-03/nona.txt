@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/3janeiro_nona.htm
+@documento 3janeiro_nona.htm
+
+@secao Leitura breve | Is 60,4a-5
+
+@texto
+Teus filhos, Jerusalém, vêm chegando de longe com tuas filhas, carregadas nos braços. Ao vê-los ficarás radiante, com o coração vibrando e batendo forte, pois com eles virão as riquezas de além-mar e mostrarão o poderio de suas nações.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que a humanidade do vosso Filho, nascendo da Virgem Maria, não fosse submetida à humilhação do homem decaído. Concedei que, participando desta nova criação, sejamos libertados da antiga culpa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

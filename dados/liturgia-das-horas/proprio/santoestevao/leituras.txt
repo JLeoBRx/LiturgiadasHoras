@@ -1,0 +1,230 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoestevao.htm
+@documento Ofício das Leituras - Santo Estêvão, Protomártir Festa
+
+@celebracao
+SANTO ESTÊVÃO, PROTOMÁRTIR
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Devidamente celebremos
+de Estêvão mártir toda a glória.
+Ele, o primeiro no combate,
+recebe a palma da vitória.
+
+Às testemunhas mentirosas,
+mártir fiel, tu te opuseste,
+vendo Jesus, do Pai à destra,
+no esplendor da luz celeste.
+
+Agora, mártir, te rogamos:
+depressa, vem nos ajudar.
+A tua prece nos alcance
+junto dos santos um lugar.
+
+Banhado outrora no teu sangue,
+brilhas no céu com grande luz.
+Reza por nós, para contigo
+vermos a glória de Jesus.
+
+Tais dons conceda o Menino,
+que duma Virgem nos nasceu,
+e com o Pai e o Espírito
+eterno reina sobre os céus.
+
+@secao Salmodia
+
+@antifona 1
+Cheio do Espírito Santo,
+viu Estêvão a glória de Deus
+e Jesus à direita do Pai.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Cheio do Espírito Santo,
+viu Estêvão a glória de Deus
+e Jesus à direita do Pai.
+
+@antifona 2
+Estêvão, de joelhos, clamou em alta voz:
+Senhor Jesus, não lhes leveis em conta este pecado.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Estêvão, de joelhos, clamou em alta voz:
+Senhor Jesus, não lhes leveis em conta este pecado
+
+@antifona 3
+Não podiam resistir ao Espírito
+e à sabedoria de Estêvão.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Não podiam resistir ao Espírito
+e à sabedoria de Estêvão.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,8–7,1-2.44-60–8,1}
+
+@tema
+O martírio de Estêvão
+
+@texto
+[6,8] Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo. [9] Mas alguns membros da chamada Sinagoga dos Libertos, junto com sirenenses e alexandrinos, e alguns da Cilícia e da Ásia, começaram a discutir com Estêvão. [10] Porém, não conseguiam resistir à sabedoria e ao Espírito com que ele falava. [11] Então subornaram alguns indivíduos, que disseram: “Ouvimos este homem dizendo blasfêmias contra Moisés e contra Deus”. [12] Desse modo, incitaram o povo, os anciãos e os doutores da Lei, que prenderam Estêvão e o conduziram ao Sinédrio. [13] Aí apresentaram falsas testemunhas, que diziam: “Este homem não cessa de falar contra este lugar santo e contra a Lei. [14] E nós o ouvimos afirmar que Jesus Nazareno ia destruir este lugar e ia mudar os costumes que Moisés nos transmitiu”. [15] Todos os que estavam sentados no Sinédrio tinham os olhos fixos sobre Estêvão, e viam seu rosto como o rosto de um anjo. [7,1] O Sumo Sacerdote disse a Estêvão: “As coisas são assim mesmo, como dizem?" [2] Ele então respondeu: “Irmãos e pais, ouvi! [44] Nossos antepassados no deserto tinham a Tenda do testemunho. Deus, falando a Moisés, mandou que a construísse conforme o modelo que tinha visto. [45] Nossos pais receberam a Tenda e, sob a direção de Josué, a levaram para a terra daquelas nações que Deus expulsou diante de nossos pais. E a Tenda ficou ali até o tempo de Davi. [46] Mas Davi encontrou graça diante de Deus, e lhe pediu permissão para construir uma casa para o Deus de Jacó. [47] No entanto, foi Salomão quem construiu a casa. [48] Mas o Altíssimo não mora em casa feita por mãos humanas, conforme diz o profeta: [49] ‘O céu é o meu trono, e a terra é o estrado dos meus pés. Que casa construireis para mim? – diz o Senhor. E qual será o lugar do meu descanso? [50] Não foi minha mão que fez todas essas coisas?’ [51] Homens de cabeça dura e incircuncisos de coração e ouvido! Vós sempre resististes ao Espírito Santo e como vossos pais agiram, assim fazeis vós! [52] A qual dos profetas vossos pais não perseguiram? Eles mataram aqueles que anunciavam a vinda do Justo, do qual, agora, vós vos tornastes traidores e assassinos. [53] Vós recebestes a Lei, por meio dos anjos, e não a observastes!” [54] Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão. [55] Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus. [56] E disse: “Estou vendo o céu aberto, e o filho do Homem, de pé, à direita de Deus”. [57] Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; [58] arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo. [59] Enquanto o apedrejavam, Estêvão clamou dizendo: “Senhor Jesus, acolhe o meu espírito”. [60] Dobrando os joelhos, gritou com voz forte: “Senhor, não os condenes por este pecado”. E, ao dizer isto, morreu. [8,1] Saulo era um dos que aprovavam a execução de Estêvão.
+
+@secao Responsório | Cf. At 7,55
+
+@responsorio
+R. Estêvão viu os céus se abrirem e entrou;
+* Feliz é este homem, para o qual os céus se abriram!
+V. Ao fragor daquelas pedras, qual violenta tempestade,
+que arrastava o santo mártir, refulgiu dos altos céus,
+para ele a Luz divina. * Feliz.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Fulgêncio de Ruspe, bispo
+{(Séc. VI)} {(Sermo 3,1-3.5-6: CCL 91 A, 905-909)}
+
+@tema
+As armas da caridade
+
+@texto
+Ontem, celebrávamos o nascimento temporal de nosso Rei eterno; hoje celebramos o martírio triunfal do seu soldado. Ontem o nosso Rei, revestido de nossa carne e saindo da morada de um seio virginal, dignou-se visitar o mundo; hoje o soldado, deixando a tenda de seu corpo, parte vitorioso para o céu. O nosso Rei, o Altíssimo, veio por nós na humildade, mas não pôde vir de mãos vazias. Trouxe para seus soldados um grande dom, que não apenas os enriqueceu imensamente, mas deu-lhes uma força invencível no combate: trouxe o dom da caridade que leva os homens à comunhão com Deus. Ao repartir tão liberalmente o que trouxera, nem por isso ficou mais pobre: enriquecendo de modo admirável a pobreza dos seus fiéis, ele conservou a plenitude dos seus tesouros inesgotáveis. Assim, a caridade que fez Cristo descer do céu à terra, elevou Estêvão da terra ao céu. A caridade de que o Rei dera o exemplo logo refulgiu no soldado. Estêvão, para alcançar a coroa que seu nome significa, tinha por arma a caridade e com ela vencia em toda parte. Por amor a Deus não recuou perante a hostilidade dos judeus, por amor ao próximo intercedeu por aqueles que o apedrejavam. Por esta caridade, repreendia os que estavam no erro para que se emendassem, por caridade orava pelos que o apedrejavam para que não fossem punidos. Fortificado pela caridade, venceu Saulo, enfurecido e cruel, e mereceu ter como companheiro no céu aquele que tivera como perseguidor na terra. Sua santa e incansável caridade queria conquistar pela oração a quem não pudera converter pelas admoestações. E agora Paulo se alegra com Estêvão, com Estêvão frui da glória de Cristo, com Estêvão exulta, com Estêvão reina. Aonde Estêvão chegou primeiro, martirizado pelas pedras de Paulo, chegou depois Paulo, ajudado pelas orações de Estêvão. É esta a verdadeira vida, meus irmãos, em que Paulo não se envergonha mais da morte de Estêvão, mas Estevão se alegra pela companhia de Paulo, porque em ambos triunfa a caridade. Em Estêvão, a caridade venceu a crueldade dos perseguidores, em Paulo, cobriu uma multidão de pecados; em ambos, a caridade mereceu a posse do reino dos céus. A caridade é a fonte e origem de todos os bens, é a mais poderosa defesa, o caminho que conduz ao céu. Quem caminha na caridade não pode errar nem temer. Ela dirige, protege, leva a bom termo. Portanto, meus irmãos, já que o Cristo nos deu a escada da caridade pela qual todo cristão pode subir ao céu, conservai fielmente a caridade verdadeira, exercitai-a uns para com os outros e, subindo por ela, progredi sempre mais no caminho da perfeição.
+
+@secao Responsório
+
+@responsorio
+R. Ontem Cristo na terra nasceu,
+para que Estêvão nascesse nos céus;
+ontem Cristo entrou neste mundo,
+* Para que Estêvão entrasse nos céus.
+V. Revestido de carne humana,
+saindo do seio da Virgem,
+nosso Rei se dignou visitar-nos. * Para que.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ensinai-nos, ó Deus, a imitar o que celebramos, amando os nossos próprios inimigos, pois festejamos Santo Estêvão, vosso primeiro mártir, que soube rezar por seus perseguidores. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

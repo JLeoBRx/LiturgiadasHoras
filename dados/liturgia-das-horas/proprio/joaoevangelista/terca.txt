@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaoevangelista_terca.htm
+@documento Hora Média - São João, Apóstolo e Evangelista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | 2Cor 5,19b-20
+
+@texto
+Deus colocou em nós a palavra da reconciliação. Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós. Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.
+
+@texto
+V. Em toda a terra se espalha o seu anúncio.
+R. E sua voz pelos confins do universo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pelo apóstolo São João nos revelastes os mistérios do vosso Filho, tornai-nos capazes de conhecer e amar o que ele nos ensinou de modo incomparável. Por Cristo, Nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

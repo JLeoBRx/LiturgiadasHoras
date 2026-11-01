@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/corpuschristi_nona.htm
+@documento Hora Média - Santíssimo Sacramento do Corpo e Sangue de Cristo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Reconheceram o Senhor ao partir o pão com eles. Aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Reconheceram o Senhor ao partir o pão com eles. Aleluia.
+
+@secao Leitura breve | At 2,42.47a
+
+@texto
+Eles eram perseverantes em ouvir o ensinamento dos apóstolos, na comunhão fraterna, na fração do pão e nas orações. Louvavam a Deus e eram estimados por todo o povo.
+
+@texto
+V. Ó Senhor, ficai conosco, aleluia,
+R. Pois o dia já declina, aleluia.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

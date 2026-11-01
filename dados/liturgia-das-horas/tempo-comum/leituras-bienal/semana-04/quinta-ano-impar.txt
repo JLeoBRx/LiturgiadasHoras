@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/04quintaTC_impar.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo 4a SEMANA DO TEMPO COMUM / QUINTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {15,1-13}
+
+@tema
+Cada um procure agradar ao próximo em vista do bem
+
+@texto
+Irmãos, [1] nós, os fortes, devemos carregar as debilidades dos fracos e não buscar a nossa própria satisfação. [2] Cada um de nós procure agradar ao próximo, em vista do bem, para edificar. [3] Pois também Cristo não buscou a sua própria satisfação, mas, conforme está escrito: Os insultos dos que te injuriaram caíram sobre mim. [4] Ora tudo o que se escreveu no passado é para nosso ensinamento que foi escrito, a fim de que, pela perseverança e pela consolação que nos proporcionam as Escrituras, tenhamos a esperança. [5] O Deus da perseverança e da consolação vos conceda terdes os mesmos sentimentos uns para com os outros, a exemplo de Cristo Jesus, [6] a fim de que, de um só coração e de uma só voz, glorifiqueis o Deus e Pai de nosso Senhor Jesus Cristo. [7] Acolhei-vos, portanto, uns aos outros, como também Cristo vos acolheu, para a glória de Deus. [8] Pois eu vos asseguro que Cristo se fez ministro dos circuncisos para honrar a fidelidade de Deus, no cumprimento das promessas feitas aos pais; [9] ao passo que os gentios glorificam a Deus pondo em realce a sua misericórdia, segundo está escrito: Pelo quê eu te confessarei entre as nações e salmodiarei o teu nome. [10] Diz ainda: Nações, exultai junto com seu povo. [11] E ainda: Nações todas, louvai o Senhor, e que todos os povos o celebrem. [12] Isaías, por sua vez, acrescenta: Surgirá o rebento de Jessé, Aquele que se levanta para reger as nações. Nele as nações colocarão a sua esperança. [13] Que o Deus da esperança vos cumule de toda alegria e paz em vossa fé, a fim de que pela ação do Espírito Santo a vossa esperança transborde.
+
+@secao Responsório | Rm 15,5-7
+
+@responsorio
+R. O Deus da perseverança e da consolação
+vos conceda terdes os mesmos sentimentos uns para com os outros,
+a exemplo de Cristo Jesus,
+* A fim de que, de um só coração e de uma só voz,
+glorifiquemos o Deus e pai de nosso Senhor Jesus Cristo.
+V. Acolhei-vos, portanto, uns aos outros,
+como também Cristo vos acolheu, para a glória de Deus.
+* A fim de que.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Romanos”, de Santo Inácio de Antioquia, bispo e mártir
+{(Séc. I)} {(Nn. 5-6)}
+
+@tema
+Deixai-me imitar a paixão do meu Deus
+
+@texto
+Desde a Síria até Roma já estou lutando com as feras, por terra e por mar, de noite e de dia, acorrentado a dez leopardos: o pelotão de soldados que, mesmo que os trate bem, tornam-se piores. Os maus tratos que sofro por parte deles são para mim a melhor preparação, _porém nem por_ _isso estou justificado_ (1Cor 4,4). Não vejo a hora de provar das bestas ferozes que estão preparadas para mim e desejo ardentemente que elas se lancem sobre mim! Provocá-las-ei para que me devorem num instante, não como aconteceu com alguns que, amansadas, não ousaram tocar-lhes; e se elas se recusarem a obedecer, eu obrigá-las-ei com a força.
+Perdoai-me: eu sei bem o que me convêm! Agora é que começo a ser discípulo. Nenhuma coisa visível ou invisível me impeça de alcançar Jesus Cristo. Fogo e cruz, ataques das feras, dilacerações, atrozes sofrimentos físicos, luxações, mutilações, esmagamento do corpo inteiro, os mais cruéis tormentos do demônio: que tudo recaia sobre mim desde que eu alcance Cristo!
+Todos os prazeres do mundo de nada me serviriam, nem os reinos da terra. É melhor para mim morrer em Cristo do que reinar até os confins da terra. A Ele busco, que morreu por nós; a Ele quero, que por nós ressuscitou. Estou prestes a ser gerado de novo. sede bondosos, irmãos! Não sejais obstáculos para a minha vida, não queirais a minha morte. Não abandoneis ao mundo e às seduções da matéria a quem ardentemente deseja pertencer a Deus; deixai que eu alcance a pura e verdadeira luz: assim serei verdadeiramente homem. Deixai-me ser imitador da paixão do meu Deus. Quem tem Deus no coração, entenda o que eu quero, e tenha piedade de mim vendo o que me angustia.
+
+@secao Responsório | Fl 3,7.10.8
+
+@responsorio
+R. O que poderia ser para mim uma vantagem,
+eu o considerei como uma perda por causa de Cristo,
+* Para poder conhecê-lo, o poder da sua ressurreição,
+a participação nos seus sofrimentos.
+V. Tudo, enfim eu julgo como uma perda
+frente à sublimidade do conhecimento de Cristo Jesus, meu Senhor,
+pelo qual eu abandonei tudo;
+* Para poder conhecê-lo.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Senhor nosso Deus, adorar-vos de todo o coração, e amar todas as pessoas com verdadeira caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

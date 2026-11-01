@@ -1,0 +1,106 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sexta_leituras.htm
+@documento Ofício das Leituras - III Sexta-Feira
+
+@titulo III SEXTA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Reinais no mundo inteiro,
+Jesus, ó sol divino;
+deixamos nossos leitos,
+cantando este hino.
+
+Da noite na quietude,
+do sono levantamos:
+mostrando as nossas chagas,
+remédio suplicamos.
+
+Oh! quanto mal fizemos,
+por Lúcifer levados:
+que a glória da manhã
+apague esses pecados!
+
+E assim o vosso povo,
+por vós iluminado,
+jamais venha a tombar
+nos laços do Malvado.
+
+A glória seja ao Pai,
+ao Filho seu também;
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Cristo, em nossos corações
+infundi a caridade.
+Nossos olhos chorem lágrimas
+de ternura e piedade.
+
+Para vós, Jesus piedoso,
+nossa ardente prece erguemos.
+Perdoai-nos, compassivo,
+todo o mal que cometemos.
+
+Pelo vosso santo corpo,
+pela cruz, vosso sinal,
+vosso povo, em toda parte,
+defendei de todo o mal.
+
+A vós, Cristo, Rei clemente,
+e a Deus Pai, eterno Bem,
+com o vosso Santo Espírito
+honra e glória sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@salmo salmos/salmo-068-2-22-30-37-i
+
+@gloria
+
+@antifona
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@antifona 2
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@salmo salmos/salmo-068-2-22-30-37-ii
+
+@gloria
+
+@antifona
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@antifona 3
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@salmo salmos/salmo-068-2-22-30-37-iii
+
+@gloria
+
+@antifona
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@texto
+V. O Senhor há de ensinar-nos seus caminhos.
+R. E trilharemos, todos nós, suas veredas.

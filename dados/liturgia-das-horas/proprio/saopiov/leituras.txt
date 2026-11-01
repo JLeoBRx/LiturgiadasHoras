@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopiov.htm
+@documento Ofício das Leituras - São Pio V, Papa
+
+@celebracao
+SÃO PIO V, PAPA
+
+@biografia
+Nasceu nas proximidades de Alessândria (Itália), em 1504. Entrou na Ordem dos Frades Pregadores e ensinou Teologia. Ordenado bispo e criado cardeal, foi eleito, em 1566, para a Cátedra de Pedro. Continuou decididamente a reforma da Igreja, iniciada no Concílio de Trento, promoveu a propagação da fé e reformou o culto divino. Morreu a 1º de maio de 1572.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre o Evangelho de João, de Santo Agostinho, bispo
+{(Séc. V)} {(Tract. 124,5: CCL 36,684-685)}
+
+@tema
+A Igreja foi fundada sobre a Pedra que foi objeto da profissão de Pedro
+
+@texto
+Deus não cessa de oferecer consolações ao pobre gênero humano. Mas, além delas, quando chegou a plenitude dos tempos, isto é, o momento de realizar o que determinara, enviou seu Filho unigênito, por meio do qual criou todas as coisas. Sem deixar de ser Deus, ele se fez homem e se tornou _mediador entre Deus e os homens: o homem Jesus Cristo_ (1Tm 2,5).
+Os que acreditassem nele e se purificassem de seus pecados pelo batismo, ficariam livres da condenação eterna. Viveriam na fé, na esperança e na caridade, atravessando como peregrinos este mundo cheio de tentações difíceis e perigosas. Mas ajudados pelas consolações de Deus, espirituais e materiais, chegariam à sua presença seguindo Cristo que para eles se fez caminho.
+Todavia, como nem mesmo os que seguem este caminho estão isentos de pecado – consequência da fragilidade humana – deu-lhes o remédio salutar das esmolas, para garantir a eficácia das suas orações, como ele próprio nos ensinou a dizer: _Perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores_ (Mt 6,12).
+Assim procede a Igreja, feliz na sua esperança, enquanto vive entre as misérias desta vida; é a obra da Igreja universal que o apóstolo Pedro representava figurativamente pela primazia do seu apostolado.
+Consideradas as suas propriedades naturais, era por natureza um homem, por graça um cristão; por graça mais abundante, um apóstolo, o primeiro dos apóstolos. Mas Cristo disse a Pedro: _Eu te darei as chaves do Reino dos Céus: tudo o que ligares na terra será ligado nos céus; tudo o que desligares na terra será desligado nos céus_ (Mt 16,19). Em virtude destas palavras, Pedro passou a representar a Igreja universal, que neste mundo é sacudida por toda espécie de provações, como se fossem chuvas torrenciais, raios e tempestades que se lançam contra ela. Contudo, não desaba, porque está alicerçada sobre a pedra, de onde Pedro recebeu o nome.
+O Senhor diz: _Sobre esta pedra construirei a minha Igreja_ (Mt 16,18). Era a resposta a Pedro que afirmara: _Tu és o Messias, o Filho do Deus vivo_ (Mt 16,16). Jesus quer significar o seguinte: sobre esta pedra, que foi objeto da tua profissão de fé, eu construirei a minha Igreja. Aquela pedra era Cristo (cf. 1Cor 10,4). Sobre este alicerce também Pedro foi edificado. _De fato, ninguém pode colocar outro alicerce diferente do que está aí, já colocado: Jesus Cristo_ (1Cor 3,11).
+Portanto, a Igreja, que tem Cristo por alicerce, dele recebeu, na pessoa de Pedro, as chaves do Reino dos Céus, quer dizer, o poder de ligar e desligar os pecados. Esta Igreja é livre de todos os males, porque ama e segue a Cristo. Mas segue a Cristo mais de perto na pessoa daqueles que lutam pela verdade até à morte.
+
+@secao Responsório | Ez 3,21; 1Tm 4,16
+
+@responsorio
+R. Se exortares quem é justo, que se afaste do pecado,
+e ele não pecar, com certeza viverá,
+* E tu salvaste a ti mesmo. Aleluia.
+V. Cuida de ti e da doutrina, e assim te salvarás
+e salvarás os que te ouvem. * E tu salvaste.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes na Igreja o papa São Pio V, para defender a fé e restaurar a liturgia, concedei-nos, por sua intercessão, participar dos vossos mistérios com fé ardente a fecunda caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

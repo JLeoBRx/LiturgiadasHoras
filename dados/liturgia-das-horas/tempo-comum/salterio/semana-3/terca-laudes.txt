@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_laudes.htm
+@documento Laudes - Terça-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Já vem brilhante aurora,
+o sol anunciar.
+De cor reveste as coisas,
+faz tudo cintilar.
+
+Ó Cristo, Sol eterno,
+vivente para nós,
+saltamos de alegria,
+cantando para vós.
+
+Do Pai Ciência e Verbo,
+por quem se fez a luz,
+as mentes, para vós,
+levai, Senhor Jesus.
+
+Que nós, da luz os filhos,
+solícitos andemos.
+Do Pai eterno a graça
+nos atos expressemos.
+
+Profira a nossa boca
+palavras de verdade,
+trazendo à alma o gozo
+que vem da lealdade.
+
+A vós, ó Cristo, a glória
+e a vós, ó Pai, também,
+com vosso Santo Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Abençoastes, ó Senhor, a vossa terra,
+perdoastes o pecado ao vosso povo.
+
+@salmo salmos/salmo-084
+
+@gloria
+
+@antifona
+Abençoastes, ó Senhor, a vossa terra,
+perdoastes o pecado ao vosso povo.
+
+@antifona 2
+Durante a noite a minha alma vos deseja,
+e meu espírito vos busca desde a aurora.
+
+@salmo canticos/is-26-1-4-7-9-12
+
+@gloria
+
+@antifona
+Durante a noite a minha alma vos deseja,
+e meu espírito vos busca desde a aurora.
+
+@antifona 3
+Ó Senhor, que vossa face resplandeça sobre nós!
+
+@texto
+{Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o} salmo 94(95)
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Ó Senhor, que vossa face resplandeça sobre nós!
+
+@secao Leitura breve | 1Jo 4,14-15
+
+@texto
+Nós vimos, e damos testemunho, que o Pai enviou o seu Filho como Salvador do mundo. Todo aquele que proclama que Jesus é o Filho de Deus, Deus permanece com ele, e ele com Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó meu Deus, sois o rochedo que me abriga,
+* Meu escudo e proteção: em vós espero! R. Ó meu Deus.
+V. Minha rocha, meu abrigo e Salvador. * Meu escudo.
+Glória ao Pai. R. Ó meu Deus.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor fez surgir um poderoso Salvador,
+como falara pela boca de seus santos e profetas.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor fez surgir um poderoso Salvador,
+como falara pela boca de seus santos e profetas.
+
+@secao Preces
+
+@preces
+Adoremos a Jesus Cristo que, pelo seu sangue derramado, conquistou o povo da nova Aliança; e supliquemos humildemente:
+
+R. **Lembrai-vos, Senhor, do vosso povo!**
+
+Cristo, nosso Rei e Redentor, ouvi o louvor da vossa Igreja, no princípio deste dia,
+– e ensinai-a a glorificar continuamente a vossa majestade. R.
+
+Cristo, nossa esperança e nossa força, ensinai-nos a confiar em vós,
+– e nunca permitais que sejamos confundidos. R.
+
+Vede nossa fraqueza e socorrei-nos sem demora,
+– porque sem vós nada podemos fazer. R.
+
+Lembrai-vos dos pobres e abandonados, para que este novo dia não seja um peso para eles,
+– mas lhes traga conforto e alegria. R.
+
+{(intenções livres)}
+
+@texto
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, autor da bondade e beleza das criaturas, concedei que em vosso nome iniciemos, alegres, este dia e que o vivamos no amor generoso e serviçal a vós e a nossos irmãos e irmãs. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

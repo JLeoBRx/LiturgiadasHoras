@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/18_vesperas.htm
+@documento Próprio - Vésperas - 18 de dezembro
+
+@secao Leitura breve | Fl 4,4-5
+
+@texto
+Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo!
+
+@secao Responsório breve
+
+@responsorio
+R. Alegremo-nos, todos, no Senhor!
+* Alegremo-nos, pois ele está bem perto!
+R. Alegremo-nos.
+V. Favorecestes, ó Senhor, a vossa terra,
+libertastes os cativos de Jacó. * Alegremo-nos.
+Glória ao Pai. R. Alegremo-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Adonai, guia da casa de Israel,
+que aparecestes a Moisés na sarça ardente
+e lhe destes vossa lei sobre o Sinai:
+vinde salvar-nos com o braço poderoso!
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Ó Adonai, guia da casa de Israel,
+que aparecestes a Moisés na sarça ardente
+e lhe destes vossa lei sobre o Sinai:
+vinde salvar-nos com o braço poderoso!
+
+@secao Preces
+
+@preces
+Imploremos, irmãos e irmãs caríssimos, a Cristo Redentor, que veio salvar a humanidade; e digamos confiantes:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que pelo mistério da encarnação revelastes aos seres humanos a glória da vossa divindade,
+– dai vida ao mundo com a vossa vinda. R.
+
+Vós, que assumistes a fragilidade da natureza humana,
+– concedei-nos vossa misericórdia. R.
+
+Vós, que, na primeira vez, viestes humilde, para remir o mundo de seus pecados,
+– quando vierdes novamente, absolvei-nos de toda culpa. R.
+
+Vós, que viveis eternamente e tudo governais com justiça,
+– por vossa bondade, fazei-nos alcançar a herança prometida. R.
+
+{(intenções livres)}
+
+Vós, que estais sentado à direita do Pai,
+– alegrai as almas dos nossos defuntos com a luz da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei aos que gememos na antiga escravidão, sob o jugo do pecado, a graça de ser libertados pelo novo natal do vosso Filho, que tão ansiosamente esperamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

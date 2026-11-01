@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sabado_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+E paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@secao Salmodia
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao XI (Caph)
+
+@salmo salmos/salmo-118-81-88
+
+@gloria
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao Leitura breve | Is 4,3
+
+@texto
+Os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém.
+
+@texto
+V. Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+pelo amor que demonstrais ao vosso povo!
+R. Visitai-me com a vossa salvação!
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, que desponte em nossos corações o esplendor da vossa glória, para que, vencidas as trevas do pecado, a vinda do vosso Unigênito revele que somo filhos da luz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,168 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anunciacao_vesperas.htm
+@documento Vésperas - Anunciação do Senhor
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(T.P.} Aleluia)
+
+@secao Hino
+
+@hino
+Ave, do mar Estrela,
+bendita Mãe de Deus,
+fecunda e sempre Virgem,
+portal feliz dos céus.
+
+Ouvindo aquele Ave
+do anjo Gabriel,
+mudando de Eva o nome,
+trazei-nos paz do céu.
+
+Ao cego iluminai,
+ao réu livrai também;
+de todo mal guardai-nos
+e dai-nos todo o bem.
+
+Mostrai ser nossa Mãe,
+levando a nossa voz
+a Quem, por nós nascido,
+dignou-se vir de vós.
+
+Suave mais que todas,
+ó Virgem sem igual,
+fazei-nos mansos, puros,
+guardai-nos contra o mal.
+
+Oh! dai-nos vida pura,
+guiai-nos para a luz,
+e um dia, ao vosso lado,
+possamos ver Jesus.
+
+Louvor a Deus, o Pai,
+e ao Filho, Sumo Bem,
+com seu Divino Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O anjo do Senhor anunciou a Maria,
+e ela concebeu do Espírito Santo. {(T.P.} Aleluia)
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O anjo do Senhor anunciou a Maria,
+e ela concebeu do Espírito Santo. {(T.P.} Aleluia)
+
+@antifona 2
+Não temas, ó Maria, por Deus agraciada;
+haverás de conceber um Menino e o dar à luz;
+seu nome há de ser: o Filho do Altíssimo. {(T.P.} Aleluia)
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Não temas, ó Maria, por Deus agraciada;
+haverás de conceber um Menino e o dar à luz;
+seu nome há de ser: o Filho do Altíssimo. {(T.P.} Aleluia)
+
+@antifona 3
+Eis a serva do Senhor:
+Realize-se em mim a Palavra do Senhor. {(T.P.} Aleluia)
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Eis a serva do Senhor:
+Realize-se em mim a Palavra do Senhor. {(T.P.} Aleluia)
+
+@secao Leitura breve | 1Jo 1,1-2
+
+@texto
+O que era desde o princípio, o que nós ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram da Palavra da Vida, de fato, a Vida manifestou-se e nós a vimos, e somos testemunhas, e a vós anunciamos a Vida eterna, que estava junto do Pai e que se tornou visível para nós.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne
+* E habitou entre nós. R. A Palavra.
+V. A Palavra, no princípio, estava com Deus. * E habitou.
+Glória ao Pai. R. A Palavra.
+
+{No Tempo pascal:}
+{R.} A Palavra se fez carne e habitou entre nós.
+* Aleluia, aleluia. R. A Palavra.
+V. A Palavra, no princípio, estava com Deus. * Aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Disse o anjo à Virgem: Maria, alegra-te,
+ó cheia de graça, o Senhor é contigo,
+és bendita entre todas as mulheres da terra. {(T.P.} Aleluia)
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem: Maria, alegra-te,
+ó cheia de graça, o Senhor é contigo,
+és bendita entre todas as mulheres da terra. {(T.P.} Aleluia)
+
+@secao Preces
+
+@preces
+Invoquemos com toda confiança o eterno Pai, que hoje, por meio do anjo, anunciou a Maria a nossa salvação; e digamos:
+
+R. **Dai-nos, Senhor, a vossa graça!**
+
+Vós, que escolhestes a Virgem Maria para ser a Mãe do vosso Filho,
+– compadecei-vos de todos os que esperam a sua redenção. R.
+
+Vós, que, por meio do anjo Gabriel, anunciastes a Maria a alegria e a paz,
+– dai ao mundo inteiro a alegria da salvação e a paz verdadeira. R.
+
+Vós, que, pela aceitação de vossa serva e por obra do Espírito Santo, quisestes que vossa Palavra viesse morar entre nós,
+– preparai os nossos corações para receber a Cristo do mesmo modo que a Virgem Maria o recebeu. R.
+
+Vós, que elevais os humildes e saciais os que têm fome,
+– animai os que estão abatidos, socorrei os necessitados e ajudai os agonizantes. R.
+
+{(intenções livres)}
+
+Deus de infinita bondade, que realizais maravilhas e para quem nada é impossível,
+– salvai-nos, junto com os que já morreram, na ressurreição do último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/quartafeirasanta_impar.htm
+@documento Ofício das Leituras - Quarta-Feira Santa
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {2,1-10}
+
+@tema
+A pena imposta pelo Senhor
+
+@texto
+O Senhor, em sua ira, escureceu a filha de Sião! Do céu, precipitou sobre a terra a glória de Israel! No dia de sua ira esqueceu-se do estrado de seus pés. O Senhor destruiu sem piedade todas as moradas de Jacó. Em seu furor demoliu as fortalezas da filha de Judá. Lançou por terra, desonrados, o reino e seus príncipes. No furor de sua ira abateu toda a força de Israel, recolheu sua destra para trás na presença do inimigo; ardeu contra Jacó como fogo flamejante, consumindo tudo ao redor. Como um inimigo retesou seu arco, firmou sua direita, massacrou, inimizado, todos os que encantavam os olhos. Sobre a tenda da filha de Sião, como um fogo, derramou o seu furor. O Senhor se comportou como inimigo, destruindo Israel: destruiu todos os seus palácios, arrasou suas fortalezas e, para a filha de Judá, multiplicou a lamentação e o lamento. Como um jardim, forçou sua habitação, abateu seu lugar de reunião. O Senhor, em Sião, fez esquecer festas e sábados; indignado, irado, rejeitou rei e sacerdote. O Senhor rejeitou seu altar, execrou seu santuário, entregou nas mãos do inimigo os muros de seus palácios; gritaram no Templo do Senhor como num dia de festa! O Senhor tencionou destruir o muro da filha de Sião: estendeu o prumo, não retirou sua mão destruidora; enlutou baluarte e muro: juntos desmoronaram. Por terra derrubou suas portas, destruiu e quebrou seus ferrolhos; seu rei e seus príncipes estão entre os pagãos: não há Lei! E seus profetas já não recebem visão do Senhor. Estão sentados por terra, silenciosos os anciãos da filha de Sião, lançam pó sobre sua cabeça, revestidos de sacos; humilham até à terra sua cabeça as virgens de Jerusalém.
+
+@secao Responsório | Mt 23,37.38;Is 29,3.4
+
+@responsorio
+R. Jerusalém, quantas vezes quis eu ajuntar os teus filhinhos,
+como uma galinha recolhe os seus pintinhos debaixo das asas, e não quisestes.
+* Eis que a vossa casa ficará abandonada.
+V. Eu te farei um sítio ao teu redor,
+estabelecerei postos contra ti e levantarei trincheiras contra ti;
+serás abatida ao chão.* Eis que.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões do Bem-aventurado Guerrico, abade
+{(Séc. XII)} {(Sermo 2 in Ramis palmarum, 1: PL 195,130-131)}
+
+@tema
+Quanto a mim, que eu me glorie somente da cruz de nosso Senhor Jesus Cristo
+
+@texto
+Nestes dias em que celebramos solenemente a memória e o aniversário da Paixão do Senhor e da Cruz, nada - penso - se prega com maior razão do que Jesus Cristo, e Jesus Cristo crucificado. Assim, em quaisquer outros dias, sobre que outro assunto pode-se pregar com maior fidelidade? Que coisa mais salutar poderá alguém ouvir? Que ponto de maior proveito para meditar? O quê, portanto, será mais piedoso para o sentimento dos fiéis, tão medicinal para os costumes; o que tão bem destrói os pecados, crucifica os vícios, nutre e revigora as virtudes como a memória do Crucificado? Dentre os perfeitos, fala, por conseguinte, Paulo, e acerca da sabedoria escondida no mistério; a mim, cuja imperfeição veem também os olhos dos homens, que eu fale de Cristo crucificado, loucura para os que se perdem. Mas, para mim e para os que se salvam, clara virtude e sabedoria de Deus; para mim, profunda e enobrecedora filosofia, pela qual desprezo a insensata sabedoria do mundo e da carne. Quão perfeito poderia considerar-me se, pelo menos, me tornasse merecedor do Crucificado que, mercê de Deus, se tornou para nós não só sabedoria, mas também justiça, santificação e redenção? Se estiveres inteiramente pregado com Cristo na Cruz, serás sábio, serás justo, serás santo, serás livre. Porventura não será sábio aquele que, exaltado da terra com Cristo, saboreia e procura somente as coisas do alto? Não será justo aquele em cujo corpo foi destruído o pecado, para que nunca mais sirva ao pecado? Ou ainda santo, quem transformou a si mesmo em hóstia viva, santa e agradável a Deus? Ou não é verdadeiramente livre quem foi libertado pelo Filho e que, da liberdade de consciência, tomou confiança em transformá-la para si na própria voz livre do filho: _Veio o chefe deste mundo. Ele não pode_ _nada contra mim_? (Jo 14,30). No Crucificado se encontra, realmente, a misericórdia e a copiosa redenção, nele que libertou Israel de todas as iniquidades, a fim de poder sair livre das calúnias do chefe desse mundo. Proclamem, portanto, os que foram redimidos pelo Senhor, que ele resgatou das mãos do inimigo e de longe os congregou; e digam ainda, outra vez, com a voz e a mente de seu Mestre: _Quanto a mim, que eu me glorie somente_ _na cruz de nosso Senhor Jesus Cristo_ (Gl 6,14).
+
+@secao Responsório | Fl 1,21;Gl 6,14
+
+@responsorio
+R. Para mim, o viver é Cristo e o morrer, lucro;
+* Quanto a mim, que eu me glorie somente na cruz de nosso Senhor Jesus Cristo.
+V. Por ele, o mundo está crucificado para mim,
+como eu estou crucificado para o mundo.* Quanto a mim.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes vosso Filho padecer o suplício da cruz para arrancar-nos à escravidão do pecado, concedei aos vossos servos e servas, a graça da ressurreição. Por nosso Senhor Jesus Cristo, voso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

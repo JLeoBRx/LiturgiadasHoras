@@ -1,0 +1,292 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_nossasenhora_leituras.htm
+@documento Ofício das Leituras - Comum De Nossa Senhora Invitatório
+
+@celebracao
+COMUM DE NOSSA SENHORA Invitatório
+
+@biografia
+R. Vinde, adoremos o Cristo Jesus, Filho bendito da Virgem Maria! Ou: R. Louvemos a nosso Senhor, festejemos a Virgem Maria! Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). –1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! –2 Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) –3 Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. –4 Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; –5 o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) –6 Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! =7 Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) =8 Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9 como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) =10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém. R. Vinde, adoremos o Cristo Jesus, Filho bendito da Virgem Maria! Ou: R. Louvemos a nosso Senhor, festejemos a Virgem Maria!
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,10-14; 8,10c;11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel;[8,10] porque Deus está conosco.[11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus; [3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer; [4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a força da sua palavra
+e destruirá o mau com o sopro dos lábios. [5] Cingirá a cintura com a cinta da justiça
+e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi; [8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+{Ou:} Da Carta de São Paulo aos Gálatas {3,22–4,7} {_Pela fé somos filhos e herdeiros de Deus_} Irmãos: {3,22}A Escritura pôs todos e tudo sob o jugo do pecado, a fim de que, pela fé em Jesus Cristo, se cumprisse a promessa em favor dos que creem. 23Antes que se inaugurasse o regime da fé, nós éramos guardados, como prisioneiros, sob o jugo da Lei. Éramos guardados para o regime da fé, que estava para ser revelado. 24Assim, a Lei foi como um pedagogo que nos conduziu até Cristo, para que fôssemos justificados pela fé. 25Mas, uma vez inaugurado o regime da fé, já não estamos na dependência desse pedagogo. 26Com efeito, vós todos sois filhos de Deus pela fé em Jesus Cristo. 27Vós todos que fostes batizados em Cristo vos revestistes de Cristo. 28O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo. 29Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa. {4,1}Enquanto o herdeiro é menor de idade, ele não se diferencia em nada de um escravo, embora já seja dono de todos os bens. 2É que ele depende de tutores e curadores até à data marcada pelo pai. 3Assim, nós também, quando éramos menores, estávamos escravizados aos elementos do mundo. 4Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, 5a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva. 6E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá – ó Pai! 7Assim já não és mais escravo, mas filho; e se és filho, és também herdeiro: tudo isso, por graça de Deus. {Responsório Cf. Gl 4,4-5; Ef 2,4; Rm 8,3} R. A plenitude dos tempos já chegou:
+Deus enviou o seu Filho à nossa terra,
+duma Virgem nascido sob a lei;
+* Para salvar os que estavam sob a lei. V. Pelo amor infinito, com que Deus nos amou,
+enviou-nos seu Filho numa carne semelhante
+à carne do pecado. * Para salvar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Sofrônio, bispo
+{(Séc. VII)} {(Oratio 2, In sanctissimae Deiparae Annuntiatione, 21-22.26: PG 87,3. 3250)}
+
+@tema
+Por meio de Maria, a bênção do Pai iluminou os homens
+
+@texto
+_Ave, cheia de graça, o Senhor é convosco_ (Lc 1,28). Que pode haver de mais sublime que esta alegria, ó Virgem Mãe? Que pode haver de mais excelente que esta graça com a qual somente vós fostes por Deus cumulada? Que de mais jubiloso e esplêndido se pode imaginar? Tudo está longe do milagre que em vós se contempla, muito aquém de vossa graça. As maiores perfeições, comparadas convosco, ocupam um plano secundário, possuem um brilho bem inferior. _O Senhor é convosco._ Quem ousará competir convosco? Deus nasceu de vós. Haverá alguém que não se reconheça inferior a vós, e, ainda mais, não vos conceda alegremente a primazia e a superioridade? Por isso, contemplando vossas eminentes prerrogativas, que superam as de todas as criaturas, aclamo-vos com o maior entusiasmo: _Ave, cheia de graça, o Senhor é convosco._ Sois, portanto, a fonte da alegria dos homens, até dos anjos! Na verdade, _bendita sois vós entre as mulheres_ (Lc 1,42), pois transformastes em bênção a maldição de Eva, fazendo com que Adão, abatido pela maldição, fosse por vós erguido e abençoado. Na verdade, bendita sois vós entre as mulheres, porque a bênção do Pai iluminou os homens por meio de vós, livrando-os da antiga maldição. Na verdade, bendita sois vós entre as mulheres, porque até os teus antepassados encontraram em vós a salvação, pois destes à luz o Salvador que obteve para eles a salvação eterna. Na verdade, bendita sois vós entre as mulheres, pois, sem contribuição do homem, produzistes o fruto que trouxe a bênção para toda a terra, redimindo-a da maldição que só produzia espinhos. Na verdade, bendita sois vós entre as mulheres, porque, embora simples mulher, vos tornastes verdadeiramente Mãe de Deus. Se aquele que nasceu de vós é realmente Deus feito homem, sereis com razão chamada Mãe de Deus, dando verdadeiramente à luz aquele que é Deus. Vós guardais o próprio Deus no claustro do vosso seio; ele habita em vós segundo a natureza humana e sai de vós como um esposo, trazendo para todos os homens a alegria e a luz divina. Em vós, ó Virgem, como um céu puríssimo e resplandecente, Deus _armou a sua tenda, de ti sairá como um esposo do quarto nupcial_ (cf. Sl 18,5.6.). Imitando a corrida do atleta, ele percorrerá o caminho da sua vida trazendo a salvação para todos os viventes; indo de um extremo a outro do céu, tudo encherá com o calor divino e sua luz vivificante.
+
+@secao Responsório
+
+@responsorio
+R. Bendita, na verdade, sois vós entre as mulheres,
+pois de Eva a maldição em bênção transformastes:
+* Por vós brilhou aos homens a bênção de Deus Pai.
+V. Por vós a salvação chegou a vossos pais.
+* Por vós brilhou.
+{Ou:} Dos Sermões de Santo Elredo, abade {(Sermo 20, In Nativitate beatae Mariae: PL 195,322-324)} {(Séc. XII)} {_Maria, nossa Mãe_} Aproximemo-nos da esposa do Senhor, aproximemo-nos de sua Mãe, aproximemo-nos de sua ótima serva. Tudo isto é Maria! Mas que faremos? Que presentes lhe ofereceremos? E se pudéssemos, ao menos, dar-lhe de volta o que por justiça lhe devemos! Nós lhe devemos honra, nós lhe devemos serviço, nós lhe devemos amor, nós lhe devemos louvor. Honra, porque é a Mãe de nosso Senhor. Quem não honra a mãe, sem dúvida alguma, despreza o filho. E a Escritura diz: _Honra teu pai e tua mãe_ (Dt 5,16). Então, irmãos, que diremos? Não é ela nossa mãe? Sim, ela é verdadeiramente nossa mãe. Por ela nascemos, não para o mundo mas para Deus. Como credes e sabeis, estávamos todos mergulhados na morte, na velhice, nas trevas, na miséria. Na morte, porque perdêramos o Senhor; na velhice, porque estávamos submetidos à corrupção; nas trevas, porque desprezávamos a luz da sabedoria. Deste modo, a morte nos surpreendeu de cheio. Todavia, como Cristo nasceu de Maria, a vida que por ela nos vem supera de muito a que nos veio por Eva. Em lugar da velhice, recuperamos a juventude; em vez da corrupção, a incorruptibilidade; a luz, em lugar das trevas. Ela é nossa mãe, mãe da nossa vida, mãe da nossa incorruptibilidade, mãe da nossa luz. O Apóstolo diz, a respeito de nosso Senhor: _ele se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação_ (1Cor 1,30). Sendo mãe de Cristo, ela é, portanto, mãe de nossa sabedoria, de nossa justiça, de nossa santificação, de nossa libertação. Assim é mais nossa mãe do que a mãe do nosso corpo. Dela provindo, é nobre o nosso nascimento; porque vem dela nossa santificação, nossa sabedoria, nossa justiça, santificação e libertação. Diz a Escritura: _Louvai o Senhor em seus santos_ (Sl 150,1). Se nosso Senhor deve ser louvado nos santos, por meio dos quais realiza prodígios e milagres, quanto mais não deve ser louvado em Maria, na qual se fez homem, aquele que é admirável acima de todas as maravilhas! {Responsório} R. Sois feliz, Virgem Maria; e mereceis todo louvor;
+* Pois de vós se levantou o Sol brilhante da justiça, que é o Cristo, nosso Deus, pelo qual nós fomos salvos. V. Celebremos com muita alegria vossa festa, ó Virgem Maria. * Pois de vós.
+{Ou:} Da Constituição dogmática _Lumen gentium_ sobre a Igreja, do Concílio Vaticano II {(N. 61-62)} {(Séc. XX)} {_A maternidade de Maria na economia da graça_} A Santíssima Virgem, predestinada desde toda a eternidade por disposição da divina Providência a ser Mãe de Deus com a encarnação do Verbo divino, foi nesta terra a sublime mãe do Redentor, mais do que ninguém sua generosa companheira e humilde serva do Senhor. Ela concebeu, gerou, alimentou a Cristo, apresentou-o ao Pai no templo, sofreu com seu Filho que morria na cruz. Assim, cooperou de modo absolutamente singular – pela obediência, pela fé, pela esperança e pela caridade ardente – na obra do Salvador para restaurar a vida sobrenatural das almas. Por tudo isto, ela se tornou nossa mãe na ordem da graça. A maternidade de Maria, na economia da graça, perdura sem cessar, a partir do consentimento que prestou fielmente na Anunciação, que manteve sem vacilar ao pé da cruz, até à consumação final de todos os eleitos. De fato, depois de elevada ao céu, não abandonou esta missão salvífica, mas, por sua múltipla intercessão, continua a obter-nos os dons da salvação eterna. Com seu amor de mãe, cuida dos irmãos de seu Filho, que ainda peregrinam rodeados de perigos e dificuldades, até que sejam conduzidos à pátria feliz. Por isso, a bem-aventurada Virgem Maria é invocada na Igreja, com os títulos de Advogada, Auxiliadora, Amparo, Medianeira. Isto, porém, deve ser entendido de tal modo que nada tire nem acrescente à dignidade e eficácia de Cristo, o único Mediador. Com efeito, nenhuma criatura jamais pode ser colocada no mesmo plano que o Verbo Encarnado e Redentor. Mas, assim como o sacerdócio de Cristo é participado de vários modos, seja pelos ministros, seja pelo povo fiel, e como a bondade de Deus, única, se difunde realmente em medida diversa nas suas criaturas, assim também a única mediação do Redentor não exclui mas suscita nas criaturas uma cooperação múltipla que participa de uma única fonte. A Igreja não hesita em atribuir a Maria uma função assim subordinada. Pois sempre a experimenta de novo e a recomenda ao coração dos fiéis para que, apoiados nesta proteção materna, se unam mais intimamente ao Mediador e Salvador. {Responsório Cf. Lc 1,42} R. Virgem santa e imaculada,
+eu não sei com que louvores poderei engrandecer-vos!
+* Pois Aquele a quem os céus não puderam abranger,
+repousou em vosso seio. V. Sois bendita entre as mulheres
+e bendito é o Fruto, que nasceu de vosso ventre.
+* Pois Aquele.
+Nas solenidades e festas se diz o
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Senhor nosso Deus, concedei-nos sempre saúde de alma e corpo, e fazei que, pela intercessão da Virgem Maria, libertos das tristezas presentes, gozemos as alegrias eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Perdoai, ó Deus, os pecados dos vossos filhos e filhas, e salvai-nos pela intercessão da Virgem Maria, uma vez que não podemos agradar-vos apenas com os nossos méritos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus de misericórdia, socorrei a nossa fraqueza e concedei-nos ressurgir dos nossos pecados pela intercessão da Mãe de Jesus Cristo, cuja memória hoje celebramos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Valha-nos, ó Deus, a intercessão da sempre Virgem Maria, para que, livres de todos os perigos, vivamos em vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Fazei, ó Deus, que, ao celebrarmos a memória da Virgem Maria, possamos também, por sua intercessão, participar da plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus todo-poderoso, pela intercessão de Maria, nossa Mãe, socorrei os fiéis que se alegram com a sua proteção, livrando-os de todo mal neste mundo e dando-lhes a alegria do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

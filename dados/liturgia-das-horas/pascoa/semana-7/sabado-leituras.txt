@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/7sabadoPascoa.htm
+@documento Ofício das Leituras - 7ª Semana Da Páscoa - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Senhor, Rei eterno e sublime,
+dos fiéis imortal Redentor!
+Morre a morte, por vós destruída,
+e triunfa, por graça, o amor.
+
+Sobre o trono celeste elevado,
+à direita do Pai vos sentais,
+e um poder é a vós concedido,
+que é do céu, não pertence aos mortais,
+
+para que todo ser que criastes
+nos abismos, na terra, ou nos céus
+ante vós, de joelhos, se incline,
+com respeito, adorando seu Deus.
+
+Tremem anjos, perante a mudança
+que o destino dos homens sofreu:
+peca a carne e a carne redime,
+reina a carne no Verbo de Deus.
+
+Sois, Senhor, nosso gozo e delícia,
+que a alegria do mundo ofuscais.
+Sois também nosso prêmio perene,
+vós que a todo o universo guiais.
+
+Suplicantes, portanto, rogamos:
+Nossas culpas, Senhor, perdoai.
+Pela força da graça divina,
+nossas mentes a vós elevai.
+
+Quando em glória voltardes na nuvem,
+a julgar as nações reunidas,
+afastai os devidos castigos,
+dai de novo as coroas perdidas.
+
+Honra a vós, ó Jesus glorioso,
+que às alturas dos céus ascendeis.
+Com o Pai e o Espírito Santo
+pelos séculos sem fim reinareis.
+
+@secao Salmodia
+
+@antifona 1
+Agradeçamos ao Senhor o seu amore as suas maravilhas entre os homens. Aleluia.
+
+@salmo salmos/salmo-106-i-v2
+
+@gloria
+
+@antifona
+Agradeçamos ao Senhor o seu amor
+e as suas maravilhas entre os homens. Aleluia.
+
+@antifona 2
+Nós vimos seus prodígios e suas maravilhas. Aleluia.
+
+@salmo salmos/salmo-106-ii
+
+@gloria
+
+@antifona
+Nós vimos seus prodígios e suas maravilhas. Aleluia.
+
+@antifona 3
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor! Aleluia.
+
+@salmo salmos/salmo-106-iii
+
+@gloria
+
+@antifona
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor! Aleluia.
+
+@texto
+V. Deus nos fez renascer para a viva esperança, aleluia,
+R. Pela ressurreição do Senhor dentre os mortos. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Terceira Carta de São João
+
+@tema
+Vivamos na verdade
+
+@texto
+[1] O ancião, ao amado Gaio, a quem amo de verdade. [2] Caríssimo, desejo que prosperes em tudo e estejas bem de saúde, assim como passa bem tua alma. [3] Alegrei-me muito com a vinda dos irmãos e com o testemunho que deram de tua verdade, isto é, de como vives na verdade. [4] Não tenho maior alegria do que ouvir dizer que meus filhos caminham na verdade. [5] Caríssimo, é muito leal o teu proceder, agindo assim com teus irmãos, ainda que estrangeiros. [6] Eles deram teste­munho da tua caridade diante da Igreja. Farás bem em provê-los para a viagem de um modo digno de Deus. [7] Pois, por amor do nome, eles empreenderam a viagem, sem aceitar nada da parte dos pagãos. [8] A nós, portanto, cabe acolhê-los, para sermos cooperadores da Verdade. [9] Já escrevi à Igreja; mas Diótrefes, que ambiciona a primazia entre eles, não nos recebe. [10] Por isso, quando lá for, recordarei a ele as obras que pratica, espalhando mentiras contra nós. Não contente ainda, não recebe os irmãos e proíbe os que desejam fazê-lo, e os põe fora da Igreja. [11] Caríssimo, não imites o mal mas o bem. Quem pratica o bem é de Deus. Quem faz o mal, não viu Deus. [12] De Demétrio todos e a própria verdade dão bom teste­munho. Nós mesmos damos testemunho e sabes que nosso testemunho é verdadeiro. [13] Muitas coisas teria que te escrever mas não quero fazê-lo com tinta e pena. [14] Espero ver-te em breve e falare­mos pessoalmente. [15] A paz esteja contigo. Os amigos te saúdam. Saúda os amigos, cada um em particular.
+
+@secao Responsório | 3Jo 11.4; IPd 2,19
+
+@responsorio
+R. Não imites o mal, mas o bem,
+* Pois, todos que fazem o bem,
+procedem de Deus, aleluia.
+V. É uma graça sofrer injustiças
+e aflições por amor do Senhor. * Pois, todos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de um Autor africano anônimo, do século VI
+{(Sermo 8,1-3: PL 65,743-744)}
+
+@tema
+A unidade da Igreja fala todas as línguas
+
+@texto
+Os apóstolos começaram a falar em todas as línguas. Aprouve a Deus, naquele momento, significar a presença do Espírito Santo, fazendo com que todo aquele que o tivesse recebido, falasse em todas as línguas. Devemos compreen­der, irmãos caríssimos, que se trata do mesmo Espírito Santo pelo qual o amor de Deus foi derramado em nossos corações. O amor haveria de reunir na Igreja de Deus todos os povos da terra. E como naquela ocasião um só homem, recebendo o Espírito Santo, podia falar em todas as línguas, também agora, uma só Igreja, reunida pelo Espírito Santo, se exprime em todas as línguas. Se por acaso alguém nos disser: "Recebeste o Espírito Santo; por que não falas em todas as línguas?" devemos responder: "Eu falo em todas as línguas. Porque sou membro do Corpo de Cristo, isto é, da sua Igreja, que se exprime em todas as línguas. Que outra coisa quis Deus significar pela presença do Espírito Santo, a não ser que sua Igreja haveria de falar em todas as lín­guas?" Deste modo, cumpriu-se o que o Senhor tinha prometi­do: _Ninguém coloca vinho novo em odres velhos. Vinho novo deve ser colocado em odres novos. E assim ambos são preservados_ (cf. Lc 5,37-38). Por isso, quando ouviram os apóstolos falar em todas as línguas, diziam alguns com certa razão: _Estão cheios de vinho_ (At 2,13). Na verdade, já se haviam transformado em odres novos, renovados pela graça da santidade, a fim de que, repletos do vinho novo, isto é, do Espírito Santo, parecessem ferver ao falar em todas as línguas. E com este milagre tão evidente prefiguravam a universalidade da futu­ra Igreja, que haveria de abranger as línguas de todos os povos. Celebrai, pois, este dia como membros do único Corpo de Cristo. E não o celebrareis em vão, se realmente sois aquilo que celebrais, isto é, se estais perfeitamente incorpo­rados naquela Igreja que o Senhor enche do Espírito Santo e faz crescer progressivamente através do mundo inteiro. Esta Igreja ele reconhece como sua e é por ela reconhecida como seu Senhor. O esposo não abandonou sua esposa; por isso ninguém pode substituí-la por outra. É a vós, homens de todas as nações, que sois a Igreja de Cristo, os membros de Cristo, o corpo de Cristo, a esposa de Cristo, é a vós que o Apóstolo dirige estas palavras: Supor­tai-vos uns aos outros com paciência, no amor. Aplicai-vos em guardar a unidade do espírito pelo vínculo da paz (Ef 4,2-3). Reparai como, ao lembrar o preceito de nos supor­tarmos uns aos outros, falou-nos do amor, e quando se referiu à esperança da unidade, pôs em evidência o vínculo da paz. Esta é a casa de Deus, edificada com pedras vivas. Nela o Eterno Pai gosta de morar; nela seus olhos jamais devem ser ofendidos pelo triste espetáculo da divisão entre seus filhos.
+
+@secao Responsório | Cf. At 15,8-9; 11.18b
+
+@responsorio
+R. Deus que conhece os corações,
+deu aos povos seu Espírito
+da mesma forma como a nós.
+* Não fez nenhuma distinção entre nós e os gentios,
+mas, pela fé, seus corações tornou puros, aleluia.
+V. Deus, portanto, deu também às nações a conversão
+que encaminha para a vida. * Não fez nenhuma.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Deus todo-poderoso, conservar sempre em nossa vida e nossas ações a alegria das festas pascais que estamos para encerrar. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

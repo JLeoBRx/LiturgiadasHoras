@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_vesperas.htm
+@documento Vésperas - Natividade de São João Batista
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Doce, sonoro, ressoe o canto,
+minha garganta faça o pregão.
+Solta-me a língua, lava-me a culpa,
+ó São João!
+
+Anjo no templo, do céu descendo,
+teu nascimento ao pai comunica,
+de tua vida preclara fala,
+teu nome explica.
+
+Súbito mudo teu pai se torna,
+pois da promessa, incréu, duvida:
+apenas nasces, renascer fazes
+a voz perdida.
+
+Da mãe no seio, calado ainda,
+o Rei pressentes num outro vulto.
+E à mãe revelas o alto mistério
+do Deus oculto.
+
+Louvor ao Pai, ao Filho unigênito,
+e a vós, Espírito, honra também:
+dos dois provindes, com eles sois
+um Deus. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Houve um homem enviado por Deus,
+e João era seu nome.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Houve um homem enviado por Deus,
+e João era seu nome.
+
+@antifona 2
+João veio dar testemunho da Verdade.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+João veio dar testemunho da Verdade.
+
+@antifona 3
+João foi um facho que arde e ilumina.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+João foi um facho que arde e ilumina.
+
+@secao Leitura breve | At 13,23-25
+
+@texto
+Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. Estando para terminar sua missão, João declarou: Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias.
+
+@secao Responsório breve
+
+@responsorio
+R. Preparai o caminho do Senhor,
+* As estradas de Deus endireitai! R. Preparai.
+V. Aquele que vem depois de mim, bem antes de mim já existia. * As estradas.
+Glória ao Pai. R. Preparai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O menino que nasceu é mais do que um profeta;
+falou dele o Salvador:
+Entre aqueles que nasceram de mulher
+não surgiu ninguém maior que João Batista.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O menino que nasceu é mais do que um profeta;
+falou dele o Salvador:
+Entre aqueles que nasceram de mulher
+não surgiu ninguém maior que João Batista.
+
+@secao Preces
+
+@preces
+João Batista foi escolhido por Deus para anunciar à humanidade a chegada do reino de Cristo. Por isso, oremos com alegria, dizendo:
+
+R. **Dirigi, Senhor, os nossos passos no caminho da paz!**
+
+Vós, que chamastes João Batista desde o ventre materno para preparar os caminhos de vosso Filho,
+– chamai-nos para seguir o Senhor com a mesma fidelidade com que João o precedeu. R.
+
+Assim como destes a João Batista a graça de reconhecer o Cordeiro de Deus, fazei que vossa Igreja também o anuncie,
+– e que os homens e as mulheres do nosso tempo o reconheçam. R.
+
+Vós, que inspirastes a vosso profeta ser necessário ele diminuir para que Cristo crescesse,
+– ensinai-nos a ceder lugar aos outros, para que vossa presença se manifeste em cada um de nós. R.
+
+Vós, que quisestes proclamar a justiça mediante o martírio de João,
+– tornai-nos testemunhas incansáveis da vossa verdade. R.
+
+{(intenções livres)}
+
+Lembrai-vos de todos aqueles que já partiram desta vida,
+– e recebei-os no reino da luz e da paz. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Batista, a fim de preparar para o Senhor um povo perfeito, concedei à vossa Igreja as alegrias espirituais e dirigi nossos passos no caminho da salvação e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

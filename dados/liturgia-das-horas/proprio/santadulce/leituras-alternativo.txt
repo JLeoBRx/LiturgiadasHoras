@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santadulce_oc.htm
+@documento Ofício das Leituras - Até O Presente Momento A Santa Sé Ainda Não Aprovou Os Textos Em Português Do Brasil Para A Celebração Da Memória De Santa Dulce Na Liturgia Das Horas. Assim, Os Textos Aqui Adotados São Os Do Comum Das Santas Mulheres Que Se Dedicaram Às Obras De Caridade, Exceto A Oração Final, Que Já Consta Na 3A Edição Do Missal.
+
+@texto
+Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração da memória de Santa Dulce na Liturgia das Horas. Assim, os textos aqui adotados são os do Comum das Santas Mulheres que se dedicaram às obras de caridade, exceto a oração final, que já consta na 3a edição do Missal.
+
+@texto
+SANTA DULCE LOPES PONTES, VIRGEM Reconhecida como Santa Dulce dos Pobres (Salvador, Bahia, 26 de maio de 1914 – 13 de março de 1992), era de uma família cristã de profunda piedade e dedicada caridade. Desde criança cultivou grande bondade para com os pobres e desvalidos. Ingressou na vida religiosa na Congregação das Irmãs Missionárias da Imaculada Conceição da Mãe de Deus, onde foi professora e auxiliar dos enfermos. Fundou a Obra Social Irmã Dulce e o Hospital Santo Antônio para cuidar dos aflitos e miseráveis. Foi canonizada pelo Papa Francisco aos 13 de outubro de 2019.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Na nobre serva de Cristo
+com grande esplendor brilhou
+da mulher forte a beleza,
+que a Santa Bíblia cantou.
+
+Viveu a fé, a esperança
+e a caridade integral,
+raiz das obras perfeitas
+de puro amor fraternal.
+
+Por suas preces movido,
+Jesus, salvai os culpados,
+e assim a vós louvaremos
+de corações renovados.
+
+Glória e poder a Deus Pai,
+do qual o mundo provém,
+a vós, ó Cristo, e ao Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre a Carta aos Romanos, de São João Crisóstomo, bispo
+{(Séc. IV)} {(Homilia 15,6: PG 60,547-548)}
+
+@tema
+Cristo quer a misericórdia
+
+@texto
+Deus entregou o seu Filho, e tu nem sequer dás pão àquele que por ti foi entregue e morto.
+O Pai, por teu amor, não poupou seu verdadeiro Filho; tu, ao contrário, vendo-o desfalecer de fome, não o socorres, mas te aproprias do que é dele só para teu próprio benefício.
+Haverá maior iniquidade? Por tua causa foi entregue, por tua causa morreu, por tua causa anda faminto. O que tu deres é dele e para teu lucro, mas nem assim lhe dás nada.
+Não serão mais insensíveis que as pedras aqueles que, apossando-se de tantas coisas, permanecem na sua diabólica desumanidade? Não bastou a Cristo sofrer a cruz e a morte, mas quis também ser pobre e peregrino, errante e nu, ser lançado na prisão e suportar o cansaço, tudo isso para te chamar.
+Se não me rebribuis o que sofri por ti, compadece-te ao menos da minha pobreza. Se não queres compadecer-te da pobreza, comovam-te ao menos meus sofrimentos ou a prisão. Se nem estas coisas te inspiram sentimentos de humanidade, atende à insignificância do meu pedido. Não te peço nada de suntuoso, mas pão, teto e uma palavra de conforto.
+Se depois disto permaneces ainda inflexível, decide tornar-te melhor ao menos por causa do reino dos céus, ao menos por causa do que prometi. Mas nenhuma destas coisas te convence?
+Se te comoves naturalmente ao ver um nu, lembra-te da nudez que sofri na cruz por tua causa. Se não aceitares aquele motivo, aceita ao menos este: ainda estou pobre e nu.
+Estive outrora preso por tua causa, e agora de novo, para que, movido por aqueles e estes grilhões, tenhas por mim algum sentimento de compaixão. Jejuei por causa de ti e ainda passo fome por tua causa: tive sede quando estava suspenso na cruz e ainda tenho sede na pessoa dos pobres; a fim de que esta ou aquela razão possam atrair-te a mim e tornar-te misericordioso para tua salvação.
+Rogo-te, pois, cumulado que foste por mil benefícios, que por tua vez me pagues. Não o exijo como de um devedor, mas quero recompensar-te como a um doador. Pelo pouco que me deres, dar-te-ei o reino.
+Não te digo: “Põe fim à minha pobreza”; nem: “Cumula-me de riquezas, embora que por ti esteja pobre”. Só te peço pão, roupa e esmola.
+Se fui lançado na prisão, não te obrigo a me libertares e a retirar-me as algemas. Peço somente que venhas visitar o que está preso por tua causa. Isto será bastante para que eu te dê o céu. Embora eu te haja libertado de pesadíssimos grilhões, dar-me-ei por satisfeito se vieres visitar-me em minha prisão.
+Na realidade eu poderia, mesmo sem nada disso, dar-te o prêmio; mas quero ser teu devedor para que, com a coroa, te seja dado também o meu afeto.
+
+@secao Responsório | Mt 25,35.40; Pr 19,17
+
+@responsorio
+R. Eu tive fome e me destes de comer;
+eu tive sede e me destes de beber;
+eu não tinha onde morar e me acolhestes.
+* Em verdade, o que fizestes ao menor dos meus irmãos,
+foi a mim que o fizestes.
+V. Quem dá ao pobre empresta a Deus. * Em verdade.
+.
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, que concedestes a Santa Dulce o dom de socorrer os necessitados nas suas enfermidades, dai-nos, por seu exemplo, o espírito de pobreza e a graça de vos servir com solicitude nos irmãos sofredores. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

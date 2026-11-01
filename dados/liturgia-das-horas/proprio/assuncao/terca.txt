@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/assuncao_terca.htm
+@documento Hora Média - Assunção da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Como o cedro do Líbano e o cipreste em Sião,
+fostes vós elevada, santa Mãe do Senhor!
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Como o cedro do Líbano e o cipreste em Sião,
+fostes vós elevada, santa Mãe do Senhor!
+
+@secao Leitura breve | Jt 13,17-18
+
+@texto
+Todo o povo ficou extraordinariamente estupefato. Inclinando-se para adorar a Deus, disseram a uma só voz: Bendito és tu, ó nosso Deus, que hoje reduziste a nada os inimigos do teu povo! E Ozias disse a Judite: Ó filha, tu és bendita pelo Deus Altíssimo, mais que todas as mulheres da terra!
+
+@texto
+V. Maria foi hoje elevada aos céus.
+R. Os anjos se alegram, louvando o Senhor.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que elevastes à glória do céu em corpo e alma a imaculada Virgem Maria, Mãe do vosso Filho, dai-nos viver atentos às coisas do alto a fim de participarmos da sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

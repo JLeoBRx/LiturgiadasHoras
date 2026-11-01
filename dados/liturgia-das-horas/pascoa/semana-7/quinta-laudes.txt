@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7quintapascoa_laudes.htm
+@documento Laudes - Quinta-feira da 7ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Esperado com ânsia por todos,
+hoje o dia sagrado brilhou
+em que Cristo, esperança do mundo,
+Deus e Homem, ao céu se elevou.
+
+Triunfou sobre o príncipe do mundo,
+vencedor num combate gigante,
+e apresenta a Deus Pai, no seu rosto,
+toda a glória da carne triunfante.
+
+Dos fiéis ele é a esperança,
+numa nuvem de luz elevado,
+e de novo abre aos homens o céu
+que seus pais lhes haviam fechado.
+
+Ó imensa alegria de todos,
+quando o Filho que a Virgem gerou,
+logo após o flagelo e a cruz,
+à direita do Pai se assentou.
+
+Demos graças a tal defensor
+que nos salva, que vida nos deu,
+e consigo no céu faz sentar-se
+nosso corpo no trono de Deus.
+
+Com aqueles que habitam o céu
+partilhamos tão grande alegria.
+Cristo a eles se deu para sempre,
+mas conosco estará cada dia.
+
+Cristo, agora elevado às alturas,
+nossa mente convosco elevai,
+e, do alto, enviai-nos depressa
+vosso Espírito, o Espírito do Pai.
+
+@secao Salmodia
+
+@antifona 1
+Entre ritmos festivos, a dançar, nós cantaremos;
+Estão em ti as nossas fontes, ó Cidade do Senhor! Aleluia.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Entre ritmos festivos, a dançar, nós cantaremos;
+Estão em ti as nossas fontes, ó Cidade do Senhor! Aleluia.
+
+@antifona 2
+Como o pastor, ele apascenta o seu rebanho
+e carrega os cordeirinhos nos seus braços. Aleluia.
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/is-40-10-17
+
+@gloria
+
+@antifona
+Como o pastor, ele apascenta o seu rebanho
+e carrega os cordeirinhos nos seus braços. Aleluia.
+
+@antifona 3
+Como é grande o Senhor em Sião!
+Muito acima dos povos se eleva. Aleluia.
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Como é grande o Senhor em Sião!
+Muito acima dos povos se eleva. Aleluia.
+
+@secao Leitura breve | Rm 8,10-11
+
+@texto
+Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ide ao mundo, ensinai a todos os povos,
+batizai-os em nome do Pai e do Filho e do Espírito Santo. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ide ao mundo, ensinai a todos os povos,
+batizai-os em nome do Pai e do Filho e do Espírito Santo. Aleluia.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo, nosso Senhor, pelo qual temos acesso a Deus Pai no Espírito Santo; e rezemos:
+
+R. **Cristo, ouvi-nos!**
+
+Enviai sobre nós o vosso Espírito,
+– para que seja sempre o amigo e hóspede de nossas almas. R.
+
+Vós, que ressuscitastes dos mortos e estais à direita de Deus,
+– intercedei sempre por nós junto do Pai. R.
+
+Conservai-nos sempre unidos a vós pelo Espírito Santo,
+– para que nem a tribulação nem a perseguição nem os perigos jamais nos separem do vosso amor. R.
+
+Dai-nos o vosso Espírito de caridade, para que nos amemos uns aos outros,
+– assim como vós nos amastes, para a glória de Deus. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o vosso Espírito nos transforme com a força dos seus dons, dando-nos um coração capaz de agradar-vos e de aceitar a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

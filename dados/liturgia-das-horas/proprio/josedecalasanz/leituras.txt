@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/josedecalasanz.htm
+@documento Ofício das Leituras - São José De Calasanz, Presbítero
+
+@celebracao
+SÃO JOSÉ DE CALASANZ, PRESBÍTERO
+
+@biografia
+Nasceu em Aragão (Espanha) no ano 1557 e recebeu uma excelente formação cultural. Foi ordenado sacerdote e, depois de ter exercido o ministério na sua pátria, partiu para Roma, onde se dedicou à educação das crianças pobres e fundou uma Congregação (Escolas Pias) cujos membros (Escolápios) deviam dedicar-se a esta nobre missão. Teve de sofrer duras provações e foi nomeadamente vítima de invejas e calúnias. Morreu em Roma no ano 1648.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Jesus, Redentor nosso,
+coroais os vossos santos;
+ouvi hoje, compassivo,
+nossas preces, nossos cantos.
+
+Hoje, o santo confessor
+vosso nome fez brilhar,
+e a Igreja, anualmente,
+vem seus feitos celebrar.
+
+Caminhou com passo firme
+pela vida transitória,
+e seguiu a vossa estrada
+que nos leva para a glória.
+
+Desprendendo o coração
+de alegrias passageiras,
+frui agora, junto aos anjos,
+as delícias verdadeiras.
+
+O perdão de nossas culpas
+nos alcance a sua prece.
+Nos seus passos conduzi-nos
+para a luz que não perece.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai louvor também.
+Honra e graças ao Espírito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {12,1-21}
+
+@tema
+A vida cristã é culto espiritual
+
+@texto
+[1] Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. [2] Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito. [3] Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. [4] Como, num só corpo, temos muitos membros, cada qual com uma função diferente, [5] assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. [6] Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; [7] se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; [8] se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. [9] O amor seja sincero. Detestai o mal, apegai-vos ao bem. [10] Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. [11] Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, [12] alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. [13] Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. [14] Abençoai os que vos perseguem, abençoai e não amaldiçoeis. [15] Alegrai-vos com os que se alegram, chorai com os que choram. [16] Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria. [17] Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos. [18] Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo. [19] Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”. [20] Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça. [21] 1Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@secao Responsório | Rm 12,2; Ef 4,23-24
+
+@responsorio
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos de São José de Calasanz, presbítero
+{(Séc. XVII)} {(Memoriale al Card. M. A. Tonti, 1621: Ephem. Calas. 36,9-10: Romae 1967, pp. 473-474; L. Picanyol, Epistolario di S. Giuseppe Calasanzio, 9 vol., ediz. Calas., Romae 1951-1956, passim)}
+
+@tema
+Esforcemo-nos por aderir a Cristo e só a ele agradar
+
+@texto
+Ninguém absolutamente ignora de quanta dignidade e de quantos méritos se reveste o santo ministério de educar as crianças, especialmente pobres, para que, bem instruídas, possam alcançar a vida eterna. Pois ao dar-lhes a instrução e principalmente ao formá-las na piedade e na doutrina cristã, cuida-se ao mesmo tempo da saúde das almas e dos corpos. Assim exerce-se de certo modo o mesmo encargo que seus anjos da guarda.
+Além disso, dá-se-lhes a oportunidade de excelente ajuda: não apenas se afastam os adolescentes do mal, mas com maior facilidade e doçura são atraídos e estimulados a fazerem todo bem, seja de que espécie for. Vê-se que, por meio deste auxílio, os jovens mudam para melhor, a ponto de não se distinguirem os que ainda estudam dos já formados. À semelhança de jovens plantas, são os jovens mais facilmente levados para a direção que alguém lhes deseja imprimir; mas se se deixa endurecerem, sabemos que a possibilidade de moldá-los diminui muito ou mesmo se perde totalmente.
+Dar uma educação adequada aos meninos, sobretudo aos pobres, concorre para aumentar-lhes a dignidade humana. É também alguma coisa que todos aprovam na sociedade humana: sejam os pais, os primeiros a se alegrarem ao verem os filhos bem encaminhados, sejam os governantes, que adquirem bons servidores e cidadãos, e, de modo todo especial, a Igreja que, nos múltiplos estados de vida, os vê entrar mais maduros e preparados, como dedicados a Cristo e testemunhas do Evangelho.
+Na verdade, é preciso terem muita caridade, a máxima paciência, e, sobretudo, profunda humildade aqueles que assumem este ofício que exige cuidado contínuo. Serão assim dignos de que o Senhor, invocado humildemente, os torne idôneos cooperadores da verdade, conforte-os no cumprimento da nobre missão e os enriqueça com o dom celeste, conforme foi dito: _Aqueles que instruem a muitos na justiça, serão como estrelas na perpétua eternidade_ (Dn 12,3).
+Vocês realizarão tudo isto mais facilmente se, pelo voto de perpétua servidão, procurarem aderir a Cristo e só agradar àquele que disse: _O que fizestes a um dos meus pequeninos, a mim o fizestes_ (Mt 25,40).
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós,
+que teria vos dado, não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós. * Pois é tanto.
+
+@secao Oração
+
+@oracao
+Ó Deus, que ornastes de bondade e paciência o presbítero São José Calasanz, inspirando-lhe consagrar toda a sua vida à instrução e formação da juventude, concedei-nos, ao venerá-lo como mestre da sabedoria cristã, imitá-lo no serviço da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

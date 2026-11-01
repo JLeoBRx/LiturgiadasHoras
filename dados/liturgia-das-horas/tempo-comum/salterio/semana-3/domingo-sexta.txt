@@ -1,0 +1,81 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3domingo_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@antifona
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@antifona 2
+A mão direita do Senhor me levantou, aleluia.
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@antifona
+A mão direita do Senhor me levantou, aleluia.
+
+@antifona 3
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@secao Leitura breve | Rm 8,22-23
+
+@texto
+Sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo.
+
+@texto
+V. Bendize, ó minha alma, ao Senhor!
+R. Do sepulcro ele salva tua vida!
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

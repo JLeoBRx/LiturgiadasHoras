@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/22sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {31,15-22.27-34}
+
+@tema
+Anúncio da salvação e de nova aliança
+
+@texto
+[15] Isto diz o Senhor: "Ouviu-se uma voz em Ramá, – voz de lamento, gemido e pranto – de Raquel chorando seus filhos, recusando-se a ser consolada, pois eles não existem mais". [16] Isto diz o Senhor: "Sufoca o choro de tua voz, enxuga as lágrimas dos olhos, porque há uma recompensa para as tuas obras, diz o Senhor; eles voltarão da terra do inimigo. [17] Resta-te uma última esperança, diz o Senhor: os filhos voltarão para a sua terra. [18] Eu mesmo ouvi Efraim dizer, ao ser deportado: "Castigaste-me e fui castigado como um novilho bravo; converte-me e eu me converterei, tu és o Senhor meu Deus. [19] Depois que me converteste, fiz penitência; depois que me abriste os olhos, dei sinais de desgosto; senti-me envergonhado, enrubesci, sofri a humilhação de minha juventude". [20] Não é Efraim, para mim, um filho de que me orgulho ou uma criança por quem sinto ternura? Desde que comecei a falar dele, sempre procuro lembrar-me dele; por sua causa, comoveu-se meu coração, e eu prometo compadecer-me dele, diz o Senhor. [21] Marca com pedras o teu percurso, coloca sinais, põe-te a caminho com coragem pela estrada por onde sempre andaste; retorna, jovem Israel, retorna a estas tuas cidades. [22] Até quando andarás errante, filha rebelde? O Senhor criou algo de novo na terra: a mulher corteja o marido. [27] "Dias virão, diz o Senhor, em que espalharei na casa de Israel e na casa de Judá sementeiras de homens e de animais. [28] E assim como fui cuidadoso com elas para arrancar, podar e dispersar, para destruir e afligir, assim serei igualmente para edificar e plantar, diz o Senhor. [29] Naqueles dias, não se ouvirá dizer: "Os pais comeram uva azeda e os dentes dos filhos é que embotaram", [30] pois cada qual morrerá pelo seu pecado; todo aquele que comer uva azeda, terá embotados os próprios dentes. [31] Eis que virão dias, diz o Senhor, em que concluirei com a casa de Israel e a casa de Judá uma nova aliança; [32] não como a aliança que fiz com seus pais, quando os tomei pela mão para retirá-los da terra do Egito, e que eles violaram, mas eu fiz valer a força sobre eles, diz o Senhor. [33] Esta será a aliança que concluirei com a casa de Israel, depois desses dias, diz o Senhor: imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo. [34] Não será mais necessário ensinar seu próximo ou seu irmão, dizendo: "Conhece o Senhor!; todos me reconhecerão, do menor ao maior deles, diz o Senhor, pois perdoarei sua maldade, e não mais lembrarei o seu pecado".
+
+@secao Responsório | Sl 50(51),12.11
+
+@responsorio
+R. Criai em mim um coração que seja puro,
+* Dai-me de novo um espírito decidido.
+V. Desviai o vosso olhar dos meus pecados
+e apagai todas as minhas transgressões. * Dai-me.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão sobre as Bem-aventuranças, de São Leão Magno, papa
+{(Séc. V)} {(Sermo 95,4-6: PL 54,462-464)}
+
+@tema
+A bem-aventurança do reino de Cristo
+
+@texto
+Após ter proclamado a felicíssima pobreza, o Senhor acrescenta: _Bem-aventurados os que choram porque serão consolados_ (Mt 5,4). Estas lágrimas que têm a promessa da consolação eterna nada têm a ver com a comum aflição deste mundo; nem tornam bem-aventuradas as queixas arrancadas a todo o gênero humano. É outro o motivo dos gemidos dos santos, outra a causa das lágrimas felizes. A tristeza religiosa chora o pecado dos outros ou o próprio. Não se acabrunha porque se manifesta a divina justiça, mas dói-se do que se comete pela iniquidade humana. Sabe ser mais digno de lástima quem pratica a maldade do que quem a sofre, porque a maldade mergulha o injusto no castigo. A paciência leva o justo até à glória.
+
+@texto
+Em seguida diz o Senhor: _Bem-aventurados os mansos porque possuirão a terra por herança_ (Mt 5,5). Os mansos e quietos, humildes, modestos e aflitos a suportar toda injúria recebem a promessa de possuir a terra. Não se considere pequena ou sem valor esta herança, como se fosse diferente da celeste morada, pois não se entende que sejam outros a entrar no reino dos céus. A terra prometida aos mansos e a ser dada aos quietos é a carne dos santos que, graças à humildade, será mudada pela feliz ressurreição e vestida com a glória da imortalidade, nada mais tendo de contrário ao espírito na harmonia de perfeita unidade. O homem exterior será então a tranquila e incorruptível possessão do homem interior.
+
+@texto
+Os mansos a possuirão numa paz perpétua e nada diminuirá de sua condição, quando _o corruptível se revestir da incorruptibilidade e o mortal se cobrir com a imortalidade_ (1Cor 15,54); a provação se mudará em prêmio, o ônus de outrora agora será honra.
+
+@secao Responsório | Mt 5,4.6.5
+
+@responsorio
+R. Felizes os que choram: Serão todos consolados;
+* Felizes os famintos e sedentos de justiça:
+Serão todos saciados.
+V. Felizes são os mansos, pois a terra herdarão.
+* Felizes.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/23quintaTC_par.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo QUINTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Pedro {3,1-10}
+
+@tema
+Deus é fiel a sua promessa
+
+@texto
+[1] Amados, esta já é a segunda carta que vos escrevo, procurando em ambas despertar o vosso pensamento sadio com algumas admoestações, [2] a fim de vos trazer à memória as palavras preditas pelos santos profetas e o mandamento dos vossos apóstolos, a eles confiado pelo Senhor e Salvador.
+[3] Antes de mais nada, deveis saber que nos últimos dias virão escarnecedores com os seus escárnios e levando vida desenfreada, de acordo com as suas próprias concupiscências. [4] Seu tema será: “Em que ficou a promessa da sua vinda? De fato, desde que os pais morreram, tudo continua como desde o princípio da criação!” [5] Mas eles fingem não perceber que existiram outrora céus e terra, esta tirada da água, e estabelecida no meio da água pela Palavra de Deus, [6] e que por essas mesmas causas o mundo de então pereceu, submergido pela água. [7] Ora, os céus e a terra de agora estão reservados pela mesma Palavra ao fogo, aguardando o dia do Julgamento e da destruição dos homens ímpios. [8] Há, contudo, uma coisa, amados, que não deveis ignorar: É que para o Senhor um dia é como mil anos e mil anos como um dia. [9] O Senhor não tarda a cumprir sua promessa, como pensam alguns, entendendo que há demora; o que ele está, é usando de paciência convosco, porque não quer que ninguém se perca, mas que todos venham a converter-se. [10] O Dia do Senhor chegará como ladrão e então os céus se desfarão com estrondo, os elementos, devorados pelas chamas, se dissolverão e a terra, juntamente com suas obras, será consumida.
+
+@secao Responsório | Mt 24,43-44; 2Pd 3,10
+
+@responsorio
+R. Se o dono da casa soubesse em que vigília viria o ladrão,
+vigiaria e não permitiria que a sua casa fosse arrombada;
+* Por isso também vós ficai preparados.
+V. O dia do Senhor virá como um ladrão,
+então os céus se desfarão com estrondo.
+* Por isso.
+
+@secao Segunda leitura
+
+@leitura
+Da “Exortação aos Pagãos” de Clemente Alexandrino
+{(Séc. II)} {(C. 1)}
+
+@tema
+Vivamos neste mundo com sobriedade, justiça e piedade, na espera da manifestação da glória do nosso grande Deus
+
+@texto
+O Senhor é misericordioso: castiga, exorta, admoesta, conserva, protege e, conforme a doutrina que nos ensinou, pela superabundância da sua generosidade, promete o Reino dos Céus, sem obter de nós outro fruto a não ser o da nossa salvação. Com efeito, o vício se compraz da destruição dos homens, enquanto a verdade, que se encontra em todas as coisas como uma abelha inócua, se alegra com a salvação dos homens. Tu possuis já a promessa, tens todo o amor com que Deus ama o gênero humano; toma parte agora da graça. Mas não consideres como “novo” o meu cântico, da mesma maneira como se diz novo um objeto ou uma casa. Com efeito, ele era, primeiramente, da _estrela da manhã_ (2Pd 1,19) e _no princípio era o Verbo e o Verbo estava com_ _Deus e o Verbo era Deus_ (Jo 1,1).
+Nesse sentido, nós somos anteriores à criação do mundo, pois, de certa maneira, preexistimos em Deus, em virtude da nossa futura criação.
+Somos, portanto, criaturas racionais do Verbo divino, ou seja, da Inteligência divina. Nele podemos ser chamados “primeiros”, porque “no princípio era o Verbo”. Enquanto o Verbo existia já desde antes da fundação do mundo, foi e continua sendo o princípio divino de todas as coisas. Enquanto, nos últimos tempos, quis assumir o nome de Cristo, já considerado santo no passado, eu o chamo de Cântico novo. Portanto esse Verbo que é Cristo não apenas foi causa do nosso persistir, mas, também, concede-nos viver retamente. Nestes últimos tempos, manifestou-se aos homens como o único a ser, ao mesmo tempo, Deus e homem. Com efeito, educados por ele a viver retamente, somos encaminhados rumo à vida eterna. Portanto, como diz aquele divino apóstolo do Senhor: _A graça de Deus se_ _manifestou para a salvação de todos os homens. Ela nos_ _ensina a abandonar a impiedade e as paixões mundanas,_ _e a viver neste mundo com sobriedade, justiça e piedade,_ _aguardando a nossa bendita esperança, a manifestação_ _da glória do nosso grande Deus e Salvador, Cristo Jesus_ (Tt 2,11-13).
+Portanto o Cântico novo é aquele do Verbo que era _no_ _princípio_ (Jo 1,1).
+Agora, então, apareceu o Salvador, que é desde sempre. O Verbo, que estava junto a Deus e por meio do qual tudo foi feito, apareceu em veste de mestre. Aquele que como artífice do mundo nos deu a vida na primeira criação, ao se manifestar como mestre, ensinou-nos as normas de uma vida reta para, mais tarde, como Deus, poder proporcionar- nos a vida eterna.
+
+@secao Responsório | Is 30,18; Hb 9,28
+
+@responsorio
+R. O Senhor espera a hora de poder mostrar-vos a sua graça.
+Ele se ergue para mostrar-vos a sua compaixão,
+porque o Senhor é um Deus de justiça.
+* Bem-aventurados todos aqueles que nele esperam.
+V. Ele aparecerá àqueles que o esperam para a salvação.
+* Bem-aventurados.
+
+@secao Oração
+
+@oracao
+Ó Deus, pai de bondade, que nos redimistes e adotastes como filhos e filhas, concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

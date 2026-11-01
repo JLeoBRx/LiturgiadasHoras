@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/arcanjos_sexta.htm
+@documento Hora Média - Santos Miguel, Gabriel e Rafael, Arcanjos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+São Gabriel, a quem eu vi numa visão,
+veio depressa, me tocou e me instruiu.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+São Gabriel, a quem eu vi numa visão,
+veio depressa, me tocou e me instruiu.
+
+@secao Leitura breve | Dn 9,22-23
+
+@texto
+O anjo Gabriel falou comigo nestes termos: Daniel, eu vim para te esclarecer. Quando começavas a rezar, foi proclamada uma palavra, e eu estou aqui para comunicá-la, porque és um predileto. Portanto, presta atenção à palavra e procura compreender a visão.
+
+@texto
+V. Bendizei ao Senhor Deus os seus poderes,
+R. Seus ministros que fazeis sua vontade.
+
+@secao Oração
+
+@oracao
+Ó Deus, que organizais de modo admirável o serviço dos Anjos e dos homens, fazei que sejamos protegidos na terra por aqueles que vos servem no céu. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

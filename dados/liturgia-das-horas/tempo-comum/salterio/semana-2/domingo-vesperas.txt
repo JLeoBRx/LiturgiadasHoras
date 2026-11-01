@@ -1,0 +1,130 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2domingo_vesperas.htm
+@documento II Domingo - II Vésperas
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó luz, ó Deus Trindade,
+ó Unidade e fonte:
+na luz do sol que morre,
+a vossa em nós desponte.
+
+A vós de madrugada,
+de tarde vos cantamos;
+a vós na eternidade,
+louvar sem fim possamos.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Jesus Cristo é sacerdote eternamente
+segundo a ordem do rei Melquisedec. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Jesus Cristo é sacerdote eternamente
+segundo a ordem do rei Melquisedec. Aleluia.
+
+@antifona 2
+É nos céus que está o nosso Deus;
+ele faz tudo aquilo que quer. Aleluia.
+
+@salmo salmos/salmo-113b
+
+@gloria
+
+@antifona
+É nos céus que está o nosso Deus;
+ele faz tudo aquilo que quer. Aleluia.
+
+@antifona 3
+Celebrai o nosso Deus, servidores do Senhor,
+vós, os grandes e os pequenos! Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Celebrai o nosso Deus, servidores do Senhor,
+vós, os grandes e os pequenos! Aleluia.
+
+@secao Leitura breve | 2Ts 2,13-14
+
+@texto
+Quanto a nós, devemos continuamente dar graças a Deus por vossa causa, irmãos amados do Senhor, pois Deus vos escolheu desde o começo, para serdes salvos pelo Espírito que santifica e pela fé na verdade. Deus vos chamou para que, por meio do nosso evangelho, alcanceis a glória de nosso Senhor Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. É grande o Senhor,
+* E é grande o seu poder. R. É grande.
+V. Seu saber é sem limites. * E é grande.
+Glória ao Pai. R. É grande.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Louvor e honra a Cristo que vive eternamente para interceder por nós, e que dá a salvação àqueles que, por seu intermédio, se aproximam de Deus. Firmes nesta fé, imploremos:
+
+R. **Lembrai-vos, Senhor, do vosso povo!**
+
+Sol de justiça, ao cair desta tarde, nós vos pedimos por todos os homens e mulheres,
+– para que vivam as alegrias da vossa luz que não se apaga. R.
+
+Conservai a aliança que selastes com o vosso sangue,
+– e santificai a vossa Igreja, para que seja imaculada. R.
+
+Senhor, do lugar em que habitais,
+– lembrai-vos desta vossa comunidade. R.
+
+Dirigi no caminho da paz e do bom êxito os que se encontram em viagem,
+– para que cheguem ao seu destino com saúde e alegria. R.
+
+{(intenções livres)}
+
+Recebei, Senhor, as almas dos nossos irmãos e irmãs que morreram,
+– e concedei-lhes vosso perdão e a glória eterna. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

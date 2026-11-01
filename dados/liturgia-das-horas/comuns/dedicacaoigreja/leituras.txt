@@ -1,0 +1,272 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_leituras.htm
+@documento Ofício das Leituras - Comum Da Dedicação De Uma Igreja Invitatório R. Igreja, Esposa De Cristo, Aclama E Louva O Senhor. Ou: R. Adoremos Jesus Cristo, Que Ama A Sua Igreja. Salmo 94(95) Convite Ao Louvor De Deus Animai-Vos Uns Aos Outros, Dia Após Dia, Enquanto Ainda Se Disser ‘Hoje’ (Hb 3,13). – 1Vinde, Exultemos De Alegria No Senhor, * Aclamemos O Rochedo Que Nos Salva! – 2Ao Seu Encontro Caminhemos Com Louvores, * E Com Cantos De Alegria O Celebremos! (R.) – 3Na Verdade, O Senhor É O Grande Deus, * O Grande Rei, Muito Maior Que Os Deuses Todos. – 4Tem Nas Mãos As Profundezas Dos Abismos, * E As Alturas Das Montanhas Lhe Pertencem; – 5O Mar É Dele, Pois Foi Ele Quem O Fez, * E A Terra Firme Suas Mãos A Modelaram. (R.) – 6Vinde Adoremos E Prostremo-Nos Por Terra, * E Ajoelhemos Ante O Deus Que Nos Criou! = 7Porque Ele É O Nosso Deus, Nosso Pastor, † E Nós Somos O Seu Povo E Seu Rebanho, * As Ovelhas Que Conduz Com Sua Mão. (R.) = 8Oxalá Ouvísseis Hoje A Sua Voz: † “Não Fecheis Os Corações Como Em Meriba, * 9Como Em Massa, No Deserto, Aquele Dia, – Em Que Outrora Vossos Pais Me Provocaram, * Apesar De Terem Visto As Minhas Obras”. (R.) = 10Quarenta Anos Desgostou-Me Aquela Raça † E Eu Disse: “Eis Um Povo Transviado, * 11Seu Coração Não Conheceu Os Meus Caminhos!” – E Por Isso Lhes Jurei Na Minha Ira: * “Não Entrarão No Meu Repouso Prometido!” (R.) (Rezado): – Glória Ao Pai E Ao Filho E Ao Espírito Santo. * Como Era No Princípio, Agora E Sempre. Amém. (Cantado): Demos Glória A Deus Pai Onipotente E A Seu Filho, Jesus Cristo, Senhor Nosso, † E Ao Espírito Que Habita Em Nosso Peito * Pelos Séculos Dos Séculos. Amém R. Igreja, Esposa De Cristo, Aclama E Louva O Senhor. Ou: R. Adoremos Jesus Cristo, Que Ama A Sua Igreja.
+
+@texto
+COMUM DA DEDICAÇÃO DE UMA IGREJA Invitatório R. Igreja, Esposa de Cristo, aclama e louva o Senhor. Ou: R. Adoremos Jesus Cristo, que ama a sua Igreja. Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). – 1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! – 2Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) – 3Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. – 4Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; – 5o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) – 6Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! = 7Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) = 8Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) = 10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém R. Igreja, Esposa de Cristo, aclama e louva o Senhor. Ou: R. Adoremos Jesus Cristo, que ama a sua Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor Jesus, a quem tudo pertence,
+mas aceitais dos homens os presentes:
+um lugar santo hoje vos dedicaram,
+por isso nós exultamos contentes.
+
+Salve o lugar, Senhor, que foi chamado
+Casa do Rei, porta de umbrais celestes,
+por onde sobe a Deus todo o seu povo,
+como a Escada que a Jacó vós destes!
+
+Eis o lugar, Senhor, onde os fiéis
+cantando acorrem neste vosso dia,
+para buscar na fonte a vida eterna
+e oferecer no altar a Eucaristia!
+
+Ó Deus, volvei a nós um rosto amigo
+e com carinho guardai vosso povo,
+que hoje celebra o templo consagrado,
+cantando em vossa honra um canto novo.
+
+Louvor a vós, ó Pai, e glória ao Filho,
+que foi na terra o templo verdadeiro,
+e nos mandou o Espírito divino
+que faz um templo vivo ao povo inteiro.
+
+@secao Salmodia
+
+@antifona 1
+Ó portas, levantai vossos frontões!
+Elevai-vos bem mais alto, antigas portas!
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Ó portas, levantai vossos frontões!
+Elevai-vos bem mais alto, antigas portas!
+
+@antifona 2
+Quão amável, ó Senhor, é vossa casa! †
+
+@salmo salmos/salmo-083
+
+@gloria
+
+@antifona
+Quão amável, ó Senhor, é vossa casa!
+
+@antifona 3
+Dizem coisas gloriosas da Cidade do Senhor.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas da Cidade do Senhor.
+
+@texto
+V. Eu me volto reverente ao vosso templo.
+R. E adoro com respeito o vosso nome.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {2,1-17}
+
+@tema
+Como pedras vivas, entrai na edificação
+
+@texto
+Caríssimos: [1] Despojai-vos de toda maldade, mentira e hipocrisia, e de toda inveja e calúnia. [2] Como criancinhas recém-nascidas, desejai o leite legítimo e puro, que vos vai fazer crescer na salvação. [3] Pois já provastes que o Senhor é bom. [4] Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. [5] Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo. [6] Com efeito, nas Escrituras se lê: “Eis que ponho em Sião uma pedra angular,
+escolhida e magnífica; quem nela confiar, não será confundido”. [7] A vós, portanto, que tendes fé, cabe a honra. Mas para os que não creem, “a pedra que os construtores rejeitaram tornou-se a pedra angular, [8] pedra de tropeço e rocha que faz cair”. Nela tropeçam os que não acolhem a Palavra; esse é o destino deles. [9] Mas vós sois a raça escolhida, o sacerdócio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiráveis daquele que vos chamou das trevas para a sua luz maravilhosa. [10] Vós sois aqueles que “antes não eram povo, agora porém são povo de Deus; os que não eram objeto de misericórdia, agora porém alcançaram misericórdia”. [11] Amados, eu vos exorto como a estrangeiros e migrantes: afastai-vos das humanas paixões, que fazem guerra contra vós mesmos. [12] Tende bom procedimento no meio dos gentios. Deste modo, mesmo caluniando-vos, como se fôsseis malfeitores, eles poderão observar a vossa boa atuação e glorificar a Deus, no dia de sua visitação. [13] Sede submissos a toda autoridade humana, por amor ao Senhor, quer ao imperador, como soberano, [14] quer aos governadores, que por ordem de Deus castigam os malfeitores e premiam os que fazem o bem. [15] Pois a vontade de Deus é precisamente esta: que, fazendo o bem, caleis a ignorância dos insensatos.
+
+[16] Conduzi-vos como pessoas livres, mas sem usar a liberdade como pretexto para o mal. Pelo contrário, sede servidores de Deus. [17] Honrai a todos, e amai os irmãos. Tende temor de Deus, e honrai o rei.
+
+@secao Responsório | Cf. Tb 13,16; Ap 21,19-21
+
+@responsorio
+R. Todas tuas muralhas são de pedras preciosas.
+* E as torres de Sião serão reconstruídas
+com gemas reluzentes.
+V. As portas de Sião serão reconstruídas
+com safiras e esmeraldas
+e todas suas muralhas, com pedras preciosas.
+* E as torres.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre o Livro de Josué, de Orígenes, presbítero
+{(Séc. III)} {(Homilia 9,1-2: PG 12,871-872)}
+
+@tema
+Como pedras vivas, constituímos a casa e o altar de Deus
+
+@texto
+Todos nós, que cremos no Cristo Jesus, somos chamados _pedras vivas,_ segundo as palavras das Escrituras: _Também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo_ (1Pd 2,5).
+Ora, quando se trata de pedras de construção, sabemos que primeiro são colocadas nos alicerces as mais sólidas e resistentes, para que possamos com segurança colocar-lhes em cima todo o peso do edifício; do mesmo modo, também entre as pedras vivas algumas são colocadas nos alicerces do edifício espiritual. Quais são essas pedras vivas colocadas nos alicerces? _São os apóstolos e os profetas,_ como ensina São Paulo: _Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo, nosso Senhor, como pedra principal_ (Ef 2,20).
+Tu que me ouves, para melhor participares da construção deste edifício e seres uma das pedras mais próximas do alicerce, fica sabendo ser o próprio Cristo o alicerce do edifício que estamos descrevendo. Assim se exprime o apóstolo Paulo: _Ninguém pode colocar outro alicerce diferente do que aí está, já colocado: Jesus Cristo_ (1Cor 3,11). Felizes, pois, aqueles que vão se tornando edifícios religiosos e santos sobre tão nobre alicerce!
+Todavia, neste edifício que é a Igreja, também é necessário um altar. Por isso julgo que todos dentre vós, _pedras vivas_, preparados e dispostos para se dedicarem à oração, a fim de oferecer a Deus dia e noite o sacrifício de suas preces e súplicas, sois as pedras com que Jesus edifica o altar.
+Considera, portanto, a nobreza dessas pedras do altar: _Como prescreveu o legislador Moisés_, diz a Escritura, _que se construa o altar com pedras inteiras, não talhadas pelo ferro._ Que pedras inteiras e intocadas são estas? Talvez os santos Apóstolos, formando em conjunto um só altar por sua unanimidade e concórdia. De fato, narra-se que _todos eles perseveravam na oração em comum_ (At 1,14), e, tomando a palavra, disseram: _Senhor, tu conheces os corações de todos_ (At 1,24).
+Os que assim podiam orar, num só coração, numa só voz e num só espírito, são realmente dignos de construir um só altar, sobre o qual Jesus ofereça seu sacrifício ao Pai.
+Também devemos nos esforçar por ter a mesma linguagem e os mesmos sentimentos, nada fazendo por espírito de contenda ou vanglória. Permanecendo unidos no mesmo modo de sentir e pensar, certamente nos tornaremos pedras dignas do altar.
+
+@secao Responsório | Cf. Is 2,2.3; Sl 125(126),6
+
+@responsorio
+R. A casa do Senhor foi construída no mais alto, sobre o cume das montanhas e elevada muito acima das colinas.
+* Para ela acorrerão todas as gentes, dizendo: Honra e glória a vós, Senhor!
+V. Cantando de alegria voltarão, carregando os seus feixes.
+* Para ela.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Ou:
+
+@texto
+Dos Sermões de Santo Agostinho, bispo {Sermão 336, 1. 6: PL 38 [edit. 1861],1471-1472.1475)}
+{(Séc. V)} {_Edificação e dedicação da casa de Deus em nós_} A solenidade que nos reúne é a dedicação de uma casa de oração. Realmente, esta é a casa de nossas orações; mas a casa de Deus somos nós. Se nós é que somos a casa de Deus, continuemos construindo neste mundo, para sermos consagrados no fim dos tempos. O edifício, ou melhor, a construção exige trabalho, mas a consagração realiza-se com alegria.
+O que acontecia aqui, enquanto esta casa estava sendo erguida, é o que acontece agora quando se reúnem os que creem em Cristo. Com efeito, ao abraçarem a fé, foram como a madeira cortada na floresta e as pedras talhadas nos montes; ao serem catequizados, batizados e instruídos, foram lavrados, acertados e aplainados pelas mãos dos carpinteiros e construtores.
+Contudo, esses materiais não constroem a casa do Senhor senão quando são unidos pela caridade. Se estas madeiras e pedras não se encaixassem ordenadamente, não se entrelaçassem pacificamente e, por assim dizer, não se amassem mutuamente, ninguém poderia entrar aqui. Mas, quando vês em qualquer construção pedras e madeiras formando um todo bem ajustado, então podes entrar nela sem temer que desabe.
+Querendo, pois, o Cristo Senhor entrar e habitar em nós, dizia como se estivesse construindo: _Eu vos dou um novo mandamento: que vos ameis uns aos outros_ (Jo 13,34). Disse: _Eu vos dou um novo mandamento._ Vós éreis velhos, deitados em vossas ruínas, sem condições de serdes uma casa para mim. Portanto, para vos levantardes da velhice de vossas ruínas, _amai-vos uns aos outros._
+Considere vossa caridade que esta casa ainda está sendo construída no mundo inteiro, como foi predito e prometido. Depois do cativeiro, quando se edificava o Templo, dizia-se num salmo: _Cantai ao Senhor Deus um canto novo, cantai ao senhor Deus, ó terra inteira_ (Sl 95,1). Ao canto novo do salmo corresponde o _mandamento novo_ do Senhor. Que há, em verdade, num canto novo senão um amor novo? Cantar é próprio de quem ama! A voz deste cantor é a paixão de um amor sagrado.
+O que vemos aqui, materialmente, nas paredes, sucede espiritualmente em vosso íntimo; e o que vemos realizado com perfeição na pedra e madeira, também se realize em vossos corpos, pela graça de Deus.
+Acima de tudo, portanto, demos graças ao Senhor nosso Deus, de quem procedem toda boa dádiva e todo dom perfeito, e louvemos sua bondade com toda a alegria do coração. Para que esta casa de oração fosse construída, ele iluminou o espírito dos fiéis, despertou-lhes o afeto, deu-lhes a sua ajuda, inspirou os que ainda não a queriam a querê-la, levando a termo os esforços de sua boa vontade. E deste modo Deus, _que realiza_ nos seus _tanto o querer como o fazer, conforme o seu desígnio benevolente_ (Fl 2,13), começou e concluiu tudo isto.
+
+@secao Responsório | Sl 83(84),2-3.5
+
+@responsorio
+R. Quão amável, ó Senhor, é vossa casa, Quanto a amo, Senhor Deus do universo!
+* Minha alma desfalece de saudades e anseia pelos átrios do Senhor!
+V. Felizes os que habitam vossa casa,
+para sempre haverão de vos louvar. * Minha alma.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

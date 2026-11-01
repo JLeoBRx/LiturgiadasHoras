@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saofrancisco_laudes.htm
+@documento Laudes - São Francisco de Assis
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+No céu Francisco fulgura,
+cheio de glória e de luz,
+trazendo em seu corpo as chagas,
+sinais de Cristo e da Cruz.
+
+Seguindo o Cristo na terra,
+pobre de Cristo se faz,
+na cruz com Cristo pregado,
+torna-se arauto da paz.
+
+Pelo martírio ansiando,
+tomou a cruz do Senhor:
+do que beijou no leproso
+contempla agora o esplendor.
+
+Despindo as vestes na praça,
+seu pai na terra esqueceu;
+reza melhor o Pai-nosso,
+junta tesouros no céu.
+
+Tendo de Cristo a pureza,
+mais do que o sol reluzia,
+e, como o sol à irmã lua,
+Clara em seu rastro atraía.
+
+Ao Pai e ao Espírito glória
+e ao que nasceu em Belém.
+Deus trino a todos conceda
+os dons da cruz: Paz e Bem.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@antifona 2
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+dêem glória ao Pai celeste. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+dêem glória ao Pai celeste. Aleluia.
+
+@antifona 3
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Francisco, o pobre e humilde,
+entra rico no Reino dos céus,
+aclamado com hinos celestes.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Francisco, o pobre e humilde,
+entra rico no Reino dos céus,
+aclamado com hinos celestes.
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes São Francisco de Assis assemelhar-se ao Cristo por uma vida de humildade e pobreza, concedei que, trilhando o mesmo caminho, sigamos fielmente o vosso Filho, unindo-nos convosco na perfeita alegria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

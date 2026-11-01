@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/madalenadepazzi.htm
+@documento Ofício das Leituras - Santa Maria Madalena De Pazzi, Virgem
+
+@celebracao
+SANTA MARIA MADALENA DE PAZZI, VIRGEM
+
+@biografia
+Nasceu em Florença (Itália), no ano 1566. Teve uma piedosa educação e entrou na Ordem das Carmelitas; levou uma vida oculta de oração e abnegação, rezando assiduamente pela reforma da Igreja e dirigindo suas irmãs religiosas no caminho da perfeição. Recebeu de Deus muitos dons extraordinários. Morreu em 1607.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O mais suave dos hinos
+entoe o povo de Deus,
+pois eis que hoje uma virgem
+subiu à glória dos céus.
+
+No exílio ainda da terra,
+já se entregava ao louvor;
+agora, junta-se aos santos
+nos mesmos hinos de amor.
+
+A frágil carne domando,
+rosa entre espinhos floriu;
+calcando as pompas do mundo,
+do Cristo os passos seguiu.
+
+As suas preces ouvindo,
+Jesus nos dê sua mão,
+sempre a guiar nossos passos
+para a celeste mansão.
+
+Ao Pai e ao Espírito unido,
+nós te adoramos, Jesus:
+caminho estreito e seguro
+que à vida eterna conduz.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos sobre a Revelação e a Provação, de Santa Maria Madalena de Pazzi, virgem
+{(Séc. XVI)} {(Mss. III, 186.264; IV, 716: Opere di S. M. Maddalena de’ Pazzi, Firenze, 1965, 4, pp. 200.269; 6, p. 194)}
+
+@tema
+Vem, Espírito Santo
+
+@texto
+Verdadeiramente és admirável, ó Verbo de Deus, no Espírito Santo, fazendo com que ele se infunda de tal modo na alma, que ela se una a Deus, conheça a Deus, e em nada se alegre fora de Deus.
+O Espírito Santo vem à alma, marcando-a com o precioso selo do sangue do Verbo, ou seja, do Cordeiro imolado. Mais ainda, é esse mesmo sangue que o incita a vir, embora o próprio Espírito já por si tenha esse desejo.
+O Espírito que assim deseja é em si a substância do Pai e do Verbo; procede da essência do Pai e da vontade do Verbo; vem como fonte que se difunde na alma, e a alma nele mergulha toda. Assim como dois rios, confluindo, de tal modo se misturam que o menor perde o nome e recebe o do maior, do mesmo modo age este Espírito divino, quando vem à alma, para com ela se unir. É preciso, pois, que a alma, por ser menor, perca seu nome e o ceda ao Espírito Santo; e deve fazer isto transformando-se de tal maneira no Espírito que se torne com ele uma só coisa.
+Este Espírito, porém, distribuidor dos tesouros que estão no coração do Pai e guarda dos segredos entre o Pai e o Filho, derrama-se com tanta suavidade na alma, que não se percebe sua chegada e, pela sua grandeza, poucos o apreciam.
+Por sua densidade e sua leveza, entra em todos os lugares que estão aptos e preparados para recebê-lo. Na sua palavra frequente, como também no seu profundo silêncio, é ouvido por todos; com o ímpeto do amor, ele, imóvel e mobilíssimo, penetra em todos os corações.
+Não ficas, Espírito Santo, no Pai, imóvel, nem no Verbo; contudo, sempre estás no Pai e no Verbo e em ti mesmo, e também em todos os espíritos e criaturas bem-aventuradas. Estás ligado à criatura por estreitos laços de parentesco, por causa do sangue derramado pelo Verbo unigênito que, pela veemência do amor, se fez irmão de sua criatura. Repousas nas criaturas que se predispõem com pureza a receber em si, pela comunicação de teus dons, a tua própria presença. Repousas nas almas que acolhem em si os efeitos do sangue do Verbo e se tornam habitação digna de ti.
+Vem, Espírito Santo. Venha a unidade do Pai e do bem-querer do Verbo. Tu, Espírito da Verdade, és o prêmio dos santos, o refrigério dos corações, a luz das trevas, a riqueza dos pobres, o tesouro dos que amam, a saciedade dos famintos, o alívio dos peregrinos; tu és, enfim, aquele que contém em si todos os tesouros.
+Vem, tu que, descendo em Maria, realizaste a encarnação do Verbo, e realiza em nós, pela graça, o que nela realizaste pela graça e pela natureza.
+Vem, tu que és o alimento de todo pensamento casto, a fonte de toda clemência, a plenitude de toda pureza.
+Vem e transforma tudo o que em nós é obstáculo para sermos plenamente transformados em ti.
+
+@secao Responsório | 1Cor 2,9-10a
+
+@responsorio
+R. Os olhos não viram, os ouvidos não ouviram
+e nem suspeitou a mente humana,
+* O que Deus preparou para aqueles que o amam.
+V. Deus, porém, revelou-nos pelo Espírito Santo.
+* O que Deus.
+
+@secao Oração
+
+@oracao
+Ó Deus, que amais a virgindade e cumulastes de graças a Santa Maria Madalena de Pazzi, abrasada de amor por vós, fazei que, celebrando hoje sua festa, imitemos seus exemplos de caridade e pureza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

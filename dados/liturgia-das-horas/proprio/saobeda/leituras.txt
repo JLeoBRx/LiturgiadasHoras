@@ -1,0 +1,182 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saobeda.htm
+@documento Ofício das Leituras - São Beda, O Venerável, Presbítero E Doutor Da Igreja
+
+@celebracao
+SÃO BEDA, O VENERÁVEL, PRESBÍTERO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu no território do mosteiro beneditino de Wearmouth (Inglaterra), em 673; foi educado por São Bento Biscop e ingressou no referido mosteiro, onde recebeu a ordenação de presbítero. Desempenhou o seu ministério dedicando-se ao ensino e à atividade literária. Escreveu obras de cunho teológico e histórico, seguindo a tradição dos Santos Padres e explicando a Sagrada Escritura. Morreu em 735.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta de Cutberto, sobre a morte de São Beda, o Venerável
+{(Séc. VIII)} {(Nn. 4-6: PL 90,64-66)}
+
+@tema
+Desejo de ver a Cristo
+
+@texto
+Ao chegar a terça-feira antes da Ascensão do Senhor, Beda começou a respirar com mais dificuldade e apareceu um pequeno tumor em seu pé. Mas, durante todo aquele dia, ensinou e ditou as suas lições com boa disposição. A certa altura, entre outras coisas, disse: “Aprendei depressa; não sei por quanto tempo ainda viverei e se dentro em breve o meu Criador virá me buscar”. Parecia-nos que ele sabia perfeitamente quando iria morrer; tanto assim que passou a noite acordado e em ação de graças.
+
+Raiando a manhã, isto é, na quarta-feira, ordenou que escrevêssemos com diligência a lição começada; assim fizemos até às nove horas. A partir desta hora, fizemos a procissão com as relíquias dos santos, como mandava o costume do dia. Um de nós, porém, ficou com ele, e disse-lhe: “Querido mestre, ainda falta um capítulo do livro que estavas ditando. Seria difícil pedir-te para continuar?” Ele respondeu: “Não, não custa nada; toma a tua pena e tinta, e escreve sem demora”. E assim fez o discípulo.
+Às três horas da tarde, disse-me: “Tenho em meu pequeno baú algumas coisas de estimação: pimenta, lenços e incenso. Vai depressa chamar os presbíteros do nosso mosteiro para que distribua entre eles os presentinhos que Deus me deu”. Quando todos chegaram, falou-lhes, exortando a cada um e pedindo-lhes que celebrassem missas por ele e rezassem por sua alma; o que lhe prometeram de boa vontade.
+
+Todos choravam e lamentavam, principalmente por lhe ouvirem manifestar a persuasão de que não veriam mais por muito tempo o seu rosto neste mundo. No entanto, alegraram-se quando lhes disse: “Chegou o tempo, se assim aprouver a meu Criador, de voltar para aquele que me deu a vida, me criou e me formou do nada quando eu não existia. Vivi muito tempo, e o misericordioso Juiz teve especial cuidado com a minha vida. _Aproxima-se o momento de minha partida_ (2Tm 4,6), pois _tenho o desejo de partir para estar com Cristo_ (Fl 1,23). Na verdade, minha alma deseja ver a Cristo, meu rei, na sua glória”. E disse muitas outras coisas, para nossa edificação, conservando a sua alegria de sempre até à noitinha.
+
+O jovem Wilberto, já mencionado, disse: “Querido mestre, ainda me falta escrever uma só frase”. Respondeu ele: “Escreve depressa”. Pouco depois disse o jovem: “Agora a frase está terminada”. “Disseste bem, – continuou Beda – _tudo está consumado_ (Jo 19,30). Agora, segura-me a cabeça com tuas mãos, porque me dá muita alegria sentar-me voltado para o lugar santo, onde costumava rezar; assim também agora, sentado, quero invocar meu Pai”.
+
+E colocado no chão de sua cela, cantou: “Glória ao Pai e ao Filho e ao Espírito Santo”. Ao dizer o nome do Espírito Santo, exalou o último suspiro. Pela grande devoção com que se consagrou aos louvores de Deus na terra, bem devemos crer que partiu para a felicidade das alegrias do céu.
+
+@secao Responsório
+
+@responsorio
+R. Por todo o tempo de minha vida no mosteiro
+dediquei-me a meditar as Escrituras:
+e em meio à observância regular,
+e ao canto na Igreja, cada dia,
+* Foi-me sempre agradável e suave
+aprender ou ensinar ou escrever.
+V. Quem praticar e ensinar os mandamentos,
+no reino dos céus há de ser grande.* Foi-me sempre.
+
+@secao Oração
+
+@oracao
+Ó Deus, que iluminais a vossa Igreja com a erudição do vosso presbítero São Beda, o Venerável, concedei-nos sempre a luz da sua sabedoria e o apoio de seus méritos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

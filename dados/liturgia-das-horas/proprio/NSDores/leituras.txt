@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSDores.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria Das Dores Memória
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA DAS DORES
+{Memória}
+
+@biografia
+A memória da Virgem das Dores chama-nos a reviver o momento decisivo da história da salvação e a venerar a Mãe associada à paixão do Filho e ao lado dele elevado na cruz (Jo 19,25-27; São Paulo VI, “Marialis Cultus”, 7). Sua maternidade assume no Calvário dimensões universais (São Paulo VI, ibidem, 37). Esta memória de origem devocional foi introduzida no calendário romano pelo Papa Pio VII (1814).
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+De pé a Mãe dolorosa,
+junto da cruz, lacrimosa,
+via Jesus que pendia.
+
+No coração transpassado
+sentia o gládio enterrado
+de uma cruel profecia.
+
+Mãe entre todas bendita,
+do Filho único, aflita,
+à imensa dor assistia.
+
+E, suspirando, chorava,
+e da cruz não se afastava,
+ao ver que o Filho morria.
+
+Pobre mãe, tão desolada,
+ao vê-la assim transpassada,
+quem de dor não choraria?
+
+Quem na terra há que resista,
+se a mãe assim se contrista
+ante uma tal agonia?
+
+Para salvar sua gente,
+eis que seu Filho inocente
+suor e sangue vertia.
+
+Na cruz por seu Pai chamando,
+vai a cabeça inclinando,
+enquanto escurece o dia.
+
+Quando chegar minha hora,
+dai-me, Jesus, sem demora,
+a intercessão de Maria.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías 7,10-14; 8,10c; {11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [1] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; [8,10] porque Deus está conosco.[11,1] Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer; mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; [8] a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Sermo in dom. infra oct. Asumptionis,14-15: Opera omnia, Edit. Cisterc. 5 [1968],273-274)} {(Séc.XII)}
+
+@tema
+Estava sua mãe junto à cruz
+
+@texto
+O martírio da Virgem é mencionado tanto na profecia de Simeão quanto no relato da paixão do Senhor. _Este foi posto, diz o santo ancião sobre o menino, como um sinal de_ _contradição, e a Maria: e uma espada traspassará tua alma_ (cf. Lc 2,34-35). Verdadeiramente, ó santa Mãe, uma espada traspassou tua alma. Aliás, somente traspassando-a, penetraria na carne do Filho. De fato, visto que o teu Jesus – de todos certamente, mas especialmente teu – a lança cruel, abrindo-lhe o lado sem poupar um morto, não atingiu a alma dele, mas ela traspassou a tua alma. A alma dele já ali não estava, a tua, porém, não podia ser arrancada dali. Por isto a violência da dor penetrou em tua alma e nós te proclamamos, com justiça, mais do que mártir, porque a compaixão ultrapassou a dor da paixão corporal. E pior que a espada, traspassando a alma, não foi aquela palavra que atingiu até a divisão entre a alma e o espírito: _Mulher, eis aí teu filho?_ (Jo 19,26). Oh! que troca incrível! João, Mãe, te é entregue em vez de Jesus, o servo em lugar do Senhor, o discípulo pelo Mestre, o filho de Zebedeu pelo Filho de Deus, o puro homem, em vez do Deus verdadeiro. Como ouvir isto deixaria de traspassar tua alma tão afetuosa, se até a sua lembrança nos corta os corações, tão de pedra, tão de ferro?
+Não vos admireis, irmãos, que se diga ter Maria sido mártir na alma. Poderia espantar-se quem não se recordasse do que Paulo afirmou que entre os maiores crimes dos gentios estava o de serem sem afeição. Muito longe do coração de Maria tudo isto; esteja também longe de seus servos. Talvez haja quem pergunte: “Mas não sabia ela de antemão que iria ele morrer?” Sem dúvida alguma. “E não esperava que logo ressuscitaria?” Com toda a confiança. “E mesmo assim sofreu com o Crucificado?” Com toda a veemência. Aliás, tu quem és ou donde tua sabedoria, para te admirares mais de Maria que compadecia, do que do Filho de Maria a padecer? Ele pôde morrer no corpo; não podia ela morrer juntamente no coração? É obra da caridade: ninguém a teve maior! Obra de caridade também isto: depois dela nunca houve igual.
+
+@secao Responsório | Lc 23,33; cf. Jo 19,25; cf. Lc 2,35
+
+@responsorio
+R. Após chegar ao lugar que é chamado Calvário, crucificaram Jesus.
+* Junto à Cruz de Jesus estava, em pé, sua Mãe.
+V. Uma espada de dor, então, transpassou o seu coração. * Junto à cruz.
+
+@secao Oração
+
+@oracao
+Ó Deus, quando o vosso Filho foi exaltado, quisestes que sua Mãe estivesse de pé junto à cruz, sofrendo com ele. Dai à vossa Igreja, unida a Maria na paixão de Cristo, participar da ressurreição do Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/29dezembro_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@secao Salmodia
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@salmo salmos/salmo-118-57-64
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@secao Leitura breve | 1Jo 4,9
+
+@texto
+Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele.
+
+@texto
+V. Os confins do universo contemplaram, aleluia,
+R. A salvação do nosso Deus. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus invisível e todo-poderoso, que dissipastes as trevas do mundo com a vinda da vossa luz, volvei para nós o vosso olhar, a fim de que proclamemos dignamente a maravilhosa natividade de vosso Filho Unigênito. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

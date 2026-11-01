@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_terca.htm
+@documento Hora Média - Exaltação da Santa Cruz
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Salvai-nos por vossa santa Cruz!
+Salvai-nos, ó Cristo Salvador,
+que salvastes São Pedro sobre o mar!
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@antifona
+Salvai-nos por vossa santa Cruz!
+Salvai-nos, ó Cristo Salvador,
+que salvastes São Pedro sobre o mar!
+
+@secao Leitura breve | Hb 5,7-9
+
+@texto
+Cristo, nos dias de sua vida terrestre, dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte. E foi atendido, por causa de sua entrega a Deus. Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem.
+
+@texto
+V. Nós vos adoramos, Jesus Cristo, e vos bendizemos,
+R. Pois remistes todo o mundo pela vossa santa Cruz!
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

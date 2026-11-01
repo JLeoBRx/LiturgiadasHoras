@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/30dezembro_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@secao Leitura breve | Is 12,5-6
+
+@texto
+Cantai ao Senhor as grandes coisas que fez; é preciso que isto seja conhecido em toda parte. Exulta de alegria entre louvores, Cidade de Sião, pois no meio de ti se manifesta a grandeza do Santo de Israel.
+
+@texto
+V. Os confins do universo contemplaram, aleluia,
+R. A salvação do nosso Deus. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que o novo nascimento de vosso Filho como homem nos liberte da antiga escravidão do pecado. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

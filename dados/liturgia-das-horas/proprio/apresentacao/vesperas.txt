@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/apresentacao_vesperas.htm
+@documento Vésperas - Apresentação do Senhor
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O que o coro dos profetas
+celebrou em profecia,
+pela ação do Espírito Santo
+realiza-se em Maria.
+
+Ao Senhor de todo o mundo
+esta Virgem concebeu,
+deu à luz, e sempre virgem
+integral permaneceu.
+
+Simeão, no templo, exulta
+tendo aos braços o Menino,
+porque vê com os seus olhos
+o Esperado, o Sol divino.
+
+Mãe do Rei eterno, ouvi-nos,
+acolhei do orante a prece,
+vós que dais a clara luz
+que no Filho resplandece.
+
+Cristo, luz que nos abris
+de Deus Pai as profundezas,
+na mansão da luz eterna
+vos cantemos as grandezas.
+
+@secao Salmodia
+
+@antifona 1
+O Espírito de Deus revelara a Simeão
+que, antes de morrer, veria o Salvador.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Espírito de Deus revelara a Simeão
+que, antes de morrer, veria o Salvador.
+
+@antifona 2
+Ofereceram ao Senhor em sacrifício
+duas pombinhas, de acordo com a lei.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Ofereceram ao Senhor em sacrifício
+duas pombinhas, de acordo com a lei.
+
+@antifona 3
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@secao Leitura breve | Hb 4,15-16
+
+@texto
+Temos um sumo-sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado. Aproximemo-nos então, com toda a confiança, do trono da graça, para conseguirmos misericórdia e alcançarmos a graça de um auxílio no momento oportuno.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor manifestou
+* A sua salvação. R. O Senhor.
+V. Que havia preparado, ante a face das nações. * A sua.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Hoje a Virgem Maria apresentou
+o Menino Jesus no santo templo.
+Simeão, impelido pelo Espírito,
+recebeu o Menino nos seus braços
+e deu graças, bendizendo ao Senhor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Hoje a Virgem Maria apresentou
+o Menino Jesus no santo templo.
+Simeão, impelido pelo Espírito,
+recebeu o Menino nos seus braços
+e deu graças, bendizendo ao Senhor.
+
+@secao Preces
+
+@preces
+Adoremos nosso Salvador, que hoje foi apresentado no templo; e peçamos:
+
+R. **Senhor, que os nossos olhos vejam a vossa salvação.**
+
+Cristo Salvador, luz que se revela às nações,
+– iluminai aqueles que ainda não vos conhecem, para que creiam em vós. R.
+
+Redentor nosso, glória de Israel vosso povo,
+– fazei vossa Igreja crescer entre as nações. R.
+
+Jesus, desejado de todas as nações, os olhos do justo Simeão viram a vossa salvação;
+– salvai a humanidade inteira. R.
+
+Senhor, em cuja apresentação foi anunciada a Maria, vossa mãe, uma espada de dor,
+– fortalecei aqueles que suportam provações por causa do serviço do vosso reino. R.
+
+{(intenções livres)}
+
+Cristo, felicidade dos santos, que Simeão viu antes de morrer, como era seu ardente desejo,
+– mostrai-vos para sempre àqueles que têm sede de vos ver depois da morte. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ouvi as nossas súplicas. Assim como o vosso Filho único, revestido da nossa humanidade, foi hoje apresentado no Templo, fazei que nos apresentemos diante de vós com os corações purificados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saobarnabe_sexta.htm
+@documento Hora Média - São Barnabé, Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@secao Leitura breve | 1Ts 2,2b-4
+
+@texto
+Encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus.
+
+@texto
+V. Eles guardavam os preceitos,
+R. E as ordens do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que designastes São Barnabé, cheio de fé e do Espírito Santo, para converter as nações, fazei que a vossa Igreja anuncie por palavras e atos o Evangelho de Cristo que ele proclamou intrepidamente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

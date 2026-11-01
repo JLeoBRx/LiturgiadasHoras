@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoboaventura.htm
+@documento Ofício das Leituras - São Boaventura, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SÃO BOAVENTURA, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu por volta de 1218, em Bagnorégio, na Etrúria (Itália). Estudou filosofia e teologia em Paris e, obtida a láurea de doutor, ensinou as mesmas disciplinas, com grande aproveitamento, aos seus irmãos da Ordem dos Frades Menores. Eleito ministro geral da Ordem, governou-a com prudência e sabedoria. Foi nomeado bispo de Albano e criado cardeal. Morreu em Lião (França), no ano de 1274. Escreveu muitas obras filosóficas e teológicas.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Do Opúsculo Itinerário da mente para Deus, de São Boaventura, bispo
+{(Séc. XIII)} {(Cap.7,1.2.4.6:Operaomnia,5,312-313)}
+
+@tema
+A sabedoria mística revelada pelo Espírito Santo
+
+@texto
+Cristo é o caminho e a porta. Cristo é a escada e o veículo, _o propiciatório colocado sobre a arca de Deus_ (cf. Ex 26,34) _e o mistério desde sempre escondido_ (Ef 3,9). Quem olha para este propiciatório, com o rosto totalmente voltado para ele, contemplando-o suspenso na cruz, com fé, esperança e caridade, com devoção, admiração e alegria, com veneração, louvor e júbilo, realiza com ele a páscoa, isto é, a passagem. E assim, por meio do lenho da cruz, atravessa o mar Vermelho, saindo do Egito e entrando no deserto, onde saboreia o maná escondido. Descansa também no túmulo com Cristo, parecendo exteriormente morto, mas experimentando, tanto quanto é possível à sua condição de peregrino, aquilo que foi dito pelo próprio Cristo ao ladrão que o reconhecera: Ainda _hoje estarás comigo no Paraíso_ (Lc 23,43). Nesta passagem, se for perfeita, é preciso deixar todas as operações intelectuais, e que o ápice de todo o afeto seja transferido e transformado em Deus. Estamos diante de uma realidade mística e profundíssima: ninguém a conhece, a não ser quem a recebe; ninguém a recebe, se não a deseja; nem a deseja, se não for inflamado, até à medula, pelo fogo do Espírito Santo, que Cristo enviou ao mundo. Por isso, o Apóstolo diz que essa sabedoria mística é revelada pelo Espírito Santo (cf. 1Cor 2,13). Se, portanto, queres saber como isso acontece, interroga a graça, e não a ciência; o desejo, e não a inteligência; o gemido da oração, e não o estudo dos livros; o esposo, e não o professor; Deus, e não o homem; a escuridão, e não a claridade. Não interrogues a luz, mas o fogo que tudo inflama e transfere para Deus, com unções suavíssimas e afetos ardentíssimos. Esse fogo é Deus; a sua fornalha está em Jerusalém. Cristo acendeu-a no calor da sua ardentíssima paixão. Verdadeiramente, só pode suportá-la quem diz: _Minha alma prefere ser sufocada, e os meus ossos a morte_ (cf. Jó 7,15). Quem ama esta morte pode ver a Deus porque, sem dúvida alguma, é verdade: _O homem não pode ver-me e viver_ (Ex 33,20). Morramos, pois, e entremos na escuridão; imponhamos silêncio às preocupações, paixões e fantasias. Com Cristo crucificado, passemos _deste mundo para o Pai_ (cf. Jo 13,1), a fim de podermos dizer com o apóstolo Filipe, quando o Pai se manifestar a nós: _Isso nos basta_ (Jo 14,8); ouvirmos com São Paulo: _Basta-te a minha graça_ (2Cor 12,9); e exultar com Davi, exclamando: _Mesmo que o corpo e o coração vão se gastando, Deus é minha parte e minha herança para sempre!_ (Sl 72,26). _Bendito seja Deus para sempre! E que todo o povo diga: Amém! Amém!_ (cf. Sl 105,48).
+
+@secao Responsório | 1Jo 3,24; Eclo 1,9a.10ab
+
+@responsorio
+R. Quem guarda os preceitos de Deus,
+em Deus permanece e Deus nele.
+* Sabemos que em nós permanece,
+pelo Espírito que ele nos deu.
+V. Deus criou pelo Espírito Santo,
+e espalhou sobre todas as coisas
+a sabedoria divina. * Sabemos.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Pai todo-poderoso, que, celebrando a festa de São Boaventura, aproveitemos seus preclaros ensinamentos e imitemos sua ardente caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

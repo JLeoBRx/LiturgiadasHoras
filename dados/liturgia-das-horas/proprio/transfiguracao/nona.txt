@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/transfiguracao_nona.htm
+@documento Hora Média - Transfiguração do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Ao ouvir a voz do Pai, os discípulos caíram
+com o rosto sobre o chão, e tiveram muito medo.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Ao ouvir a voz do Pai, os discípulos caíram
+com o rosto sobre o chão, e tiveram muito medo.
+
+@secao Leitura breve | 2Cor 3,18
+
+@texto
+Todos nós, com o rosto descoberto, contemplamos e refletimos a glória do Senhor e assim somos transformados à sua imagem, pelo seu Espírito, com uma glória cada vez maior.
+
+@texto
+V. Em vós, ó Deus, está a fonte da vida.
+R. E em vossa luz contemplamos a luz.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na gloriosa Transfiguração de vosso Filho confirmastes os mistérios da fé pelo testemunho de Moisés e Elias, e manifestastes de modo admirável a nossa glória de filhos adotivos, concedei aos vossos servos e servas ouvir a voz do vosso Filho amado, e compartilhar da sua herança. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

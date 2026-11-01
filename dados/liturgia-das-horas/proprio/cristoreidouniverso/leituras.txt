@@ -1,0 +1,238 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/cristoreidouniverso.htm
+
+@celebracao
+NOSSO SENHOR JESUS CRISTO, REI DO UNIVERSO
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Jesus, Rei tão admirável,
+nobre Rei triunfador,
+sois doçura inefável,
+desejável ao amor.
+
+Rei dos anjos, Rei do mundo,
+Rei da máxima vitória,
+doador de toda graça,
+dos eleitos honra e glória.
+
+Celebrando o vosso nome,
+canta em coro todo o céu.
+Jesus, gozo do universo,
+que nos dais a paz de Deus.
+
+Jesus reina pela paz
+que supera o intelecto.
+Nossas mentes a desejam
+e a procura o nosso afeto.
+
+A Jesus sigamos hoje
+com louvor, canções e prece.
+Dê-nos ele em sua casa
+o amor que não perece.
+
+Ó Jesus, total doçura,
+da Mãe Virgem sois a flor.
+Para nós, no Reino eterno,
+honra, graças e louvor.
+
+@secao Salmodia
+
+@antifona 1
+Fui escolhido como Rei sobre Sião, seu Monte santo,
+promulgando seu decreto.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Fui escolhido como Rei sobre Sião, seu Monte santo,
+promulgando seu decreto.
+
+@antifona 2
+Os reis de toda a terra hão de adorá-lo,
+e todas as nações hão de servi-lo.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Os reis de toda a terra hão de adorá-lo,
+e todas as nações hão de servi-lo.
+
+@antifona 3
+Todos os povos serão nele abençoados,
+todas as gentes cantarão o seu louvor.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+Todos os povos serão nele abençoados,
+todas as gentes cantarão o seu louvor.
+
+@texto
+V. Fiz de ti uma luz para as nações,
+R. Para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse de São João{1,4-6.10.12-18; 2,26.28; 3,5b.12.20-21}
+
+@tema
+Visão do Filho do Homem na glória da sua majestade
+
+@texto
+[1,4] A vós, graça e paz, da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus; [5] e da parte de Jesus Cristo, a testemunha fiel, o primeiro a ressuscitar dentre os mortos, o soberano dos reis da terra. A Jesus, que nos ama, que por seu sangue nos libertou dos nossos pecados [6] e que fez de nós um reino, sacerdotes para seu Deus e Pai, a ele a glória e o poder, em eternidade. Amém. [10] No dia do Senhor, fui arrebatado pelo Espírito e ouvi atrás de mim uma voz forte, como de trombeta. [12] Então voltei-me para ver quem estava falando; e ao voltar-me, vi sete candelabros de ouro. [13] No meio dos candelabros havia alguém semelhante a um “filho de homem”, vestido com uma túnica comprida e com uma faixa de ouro em volta do peito. [14] Sua cabeça e seus cabelos eram brancos como lã pura, cor de neve, e seus olhos eram como chamas de fogo. [15] Seus pés pareciam de bronze, purificado no crisol, e sua voz era como o fragor de uma cachoeira. [16] Na mão direita, segurava sete estrelas, de sua boca saía uma espada afiada, de dois gumes, e seu rosto era como o sol no seu brilho mais forte. [17] Ao vê-lo, caí como morto a seus pés, mas ele colocou sobre mim sua mão direita e disse: “Não tenhas medo. Eu sou o Primeiro e o Último, [18] aquele que vive. Estive morto, mas agora estou vivo para sempre. Eu tenho a chave da morte e da região dos mortos. [2,26] E ao vencedor, ao que observar até ao fim a conduta que eu desejo, eu lhe darei poder sobre todas as nações, [28] pois recebi do meu Pai este poder. Darei ao vencedor a estrela da manhã! [3,5b] E não apagarei o seu nome do livro da vida, mas o apresentarei diante de meu Pai e de seus anjos. [12] Do vencedor vou fazer uma coluna no templo do meu Deus, e daí não sairá. Nela gravarei o nome do meu Deus, e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, de junto do meu Deus. E gravarei nela também o meu novo nome. [20] Eis que estou à porta, e bato; se alguém ouvir minha voz e abrir a porta, eu entrarei na sua casa e tomaremos a refeição, eu com ele e ele comigo. [21] Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono”.
+
+@secao Responsório | Mc 13,26-27; Sl 97(98),9b
+
+@responsorio
+R. Verão o Filho do Homem descer
+das nuvens, com glória e poder
+e ele há de enviar anjos seus,
+* E congregará seus eleitos de todos os cantos do mundo,
+dos confins mais distantes da terra
+aos extremos mais altos dos céus.
+V. Julgará o universo com justiça,
+regerá as nações com equidade. * E congregará.
+
+@secao Segunda leitura
+
+@leitura
+Do Opúsculo sobre a Oração, de Orígenes, presbítero
+{(Séc. III)} {(Cap. 25: PG 11,495-499)}
+
+@tema
+Venha o teu reino
+
+@texto
+O _Reino de Deus_, conforme as palavras de nosso Senhor e Salvador, _não vem visivelmente, nem se dirá: Ei-lo aqui ou ei-lo ali; mas o reino de Deus está dentro de nós_ (cf. Lc 17,21)_, pois a palavra está muito próxima de_ nossa _boca e_ _em_ nosso _coração_ (cf. Rm 10,8). Donde se segue, sem dúvida nenhuma, que quem reza pedindo a vinda do reino de Deus pede – justamente por já ter em si um início deste reino – que ele desponte, dê frutos e chegue à perfeição. Pois Deus reina em todo o santo e quem é santo obedece às leis espirituais de Deus, que nele habita como em cidade bem administrada. Nele está presente o Pai e, junto com o Pai, reina Cristo na pessoa perfeita, segundo as palavras: _Viremos a ele e nele faremos nossa morada_ (Jo 14,23).
+Então o reino de Deus, que já está em nós, chegará por nosso contínuo adiantamento à plenitude, quando se completar o que foi dito pelo Apóstolo: sujeitados todos os inimigos, Cristo entregará _o reino a Deus e Pai, a fim de que Deus seja tudo em todos_ (cf. 1Cor 15,24.28). Por isto, rezemos sem cessar, com aquele amor que pelo Verbo se faz divino; e digamos a nosso Pai que está nos céus: _Santificado seja teu nome, venha o teu reino_ (Mt 6,9-10). É de se notar também a respeito do reino de Deus: da mesma forma que não há _participação da justiça com a iniquidade nem sociedade da luz com as trevas nem pacto de Cristo com Belial_ (cf. 2Cor 6,14-15), assim o reino de Deus não pode subsistir junto com o reino do pecado. Por conseguinte, se queremos que Deus reine em nós, de modo algum _reine o pecado em nosso corpo mortal_ (Rm 6,12), mas mortifiquemos nossos _membros que estão na terra_ (cf. Cl 3,5) e produzamos fruto no Espírito.
+Passeie, então, Deus em nós como em paraíso espiritual, e reine só ele, junto com seu Cristo; e que em nós se assente à destra de sua virtude espiritual, objeto de nosso desejo. Assente-se até que seus inimigos todos que existem em nós sejam reduzidos a _escabelo de seus pés_ (Sl 109,1), lançados fora todo principado, potestade e virtude. Tudo isto pode acontecer a cada um de nós e ser destruída a _última inimiga, a morte_ (1Cor 15,26). E Cristo diga também dentro de nós: _Onde está, ó morte, teu aguilhão? Onde está, inferno, tua vitória?_ (1Cor 15,55; cf. Os 13,14). Já agora, portanto, o corruptível em nós se revista de santidade e de _incorruptibilidade_, destruída a morte, vista a _imortalidade_ paterna (cf. 1Cor 15,54), para que, reinando Deus, vivamos dos bens do novo nascimento e da ressurreição.
+
+@secao Responsório | Ap 11,15b; Sl 21(22),28b-29a
+
+@responsorio
+R. Instalou-se sobre o mundo a realeza,
+a realeza do Senhor e de seu Cristo;
+* E ele reinará na eternidade.
+V. Pois ao Senhor é que pertence a realeza,
+ele domina sobre todas as nações;
+todos os povos e as famílias das nações
+se prostrem adorando diante dele. * E ele reinará.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que dispusestes restaurar todas as coisas no vosso amado Filho, Rei do universo, fazei que todas as criaturas, libertas da escravidão e servindo à vossa majestade, vos glorifiquem eternamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

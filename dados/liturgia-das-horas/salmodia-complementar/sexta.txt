@@ -1,0 +1,19 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_sexta.htm
+@documento Salmodia Complementar - Sexta (Série II)
+
+@secao Salmodia
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@texto
+Leitura breve

@@ -1,0 +1,78 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/27segundaTC.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {2,1-15}
+
+@tema
+Convite à oração
+
+@texto
+Caríssimo: [1] Antes de tudo, recomendo que se façam preces e orações, súplicas e ações de graças, por todos os homens; [2] pelos que governam e por todos que ocupam altos cargos, a fim de que possamos levar uma vida tranquila e serena, com toda a piedade e dignidade. [3] Isto é bom e agradável a Deus, nosso Salvador; [4] ele quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade. [5] Pois há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus, [6] que se entregou em resgate por todos. Este é o testemunho dado no tempo estabelecido por Deus, [7] e para este testemunho eu fui designado pregador e apóstolo, e – falo a verdade, não minto – mestre das nações pagãs na fé e na verdade.
+
+@texto
+[8] Quero, portanto, que em todo o lugar os homens façam a oração, erguendo mãos santas, sem ira e sem discussões. [9] Quero igualmente que as mulheres usem vestes decentes, enfeitando-se com modéstia e sobriedade, não com cabelos frisados, ouro, pérolas ou vestidos de luxo, [10] mas sim, com boas obras, como convém a mulheres que se pretendem piedosas.
+
+@texto
+[11] Durante a instrução, a mulher fique escutando em silêncio, com toda a submissão. [12] Pois eu não permito que a mulher ensine nem que tenha autoridade sobre o homem; portanto, que conserve o silêncio. [13] Pois Adão foi formado primeiro, e Eva depois. [14] E não foi Adão que foi seduzido, mas a mulher é que se deixou seduzir e caiu no pecado. [15] Entretanto, ela se salvará pela maternidade, desde que permaneça com modéstia na fé, na caridade e na santidade.
+
+@secao Responsório | 1Tm 2,5-6; Hb 2,17a
+
+@responsorio
+R. Há somente um Deus e um só mediador
+entre Deus e os homens, o homem Cristo Jesus,
+* Que a si mesmo se deu como resgate por todos.
+V. Convinha que em tudo fosse igual a seus irmãos,
+para poder ter pena deles. * Que a si mesmo.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre Caim e Abel, de Santo Ambrósio, bispo
+{(Séc. IV)}{(Lib. 1,9,34.38-39: CSEL 32,369.371-372)}
+
+@tema
+Deve-se orar especialmente por todo o Corpo da Igreja
+
+@texto
+_Imola a Deus um sacrifício de ação de graças e cumpre teus votos ao Altíssimo_ (Sl 49,14). Louvar a Deus é fazer um voto de louvor e cumpri-lo. Por isto o samaritano se sobressai aos demais porque, ao ser purificado com os outros nove da lepra, pela palavra do Senhor, voltou sozinho a Cristo e engrandeceu a Deus com ação de graças. Dele disse Jesus: _Não houve dentre eles quem voltasse e desse graças a Deus a não ser este estrangeiro. E dirigindo-se a ele: Levanta-te e vai; tua fé te salvou_ (Lc 17,18-19).
+
+@texto
+O Senhor de modo divino também te ensinou a bondade do Pai que sabe dar coisas boas, para que ao Bom peças tudo o que é bom. E aconselhou a orar com instância e repetidamente; não em prece fastidiosa pela duração, mas continuada pela frequência. Futilidades afogam, as mais das vezes, a longa oração, e na muito interrompida facilmente se insinua o descuido.
+
+@texto
+Exorta ainda a que, quando lhe pedes perdão para ti, saibas que será concedido sobretudo aos outros, na medida em que apoiares o pedido com a voz de tuas obras. O Apóstolo também ensina que se deve orar sem ira nem contestação, para que não se turve, não se altere tua súplica. E ainda ensina que se há de rezar em todo lugar (cf. 1Tm 2,8), pois disse o Salvador: _Entra em teu quarto_ (Mt 6,6).
+
+@texto
+Não entendas, porém, um quarto cercado por paredes, onde teu corpo fica fechado, mas o quarto que existe dentro de ti, onde são encerrados teus pensamentos, onde moram teus sentimentos. Este quarto de tua oração em toda parte está contigo, em toda parte é secreto, sem outro juiz que não Deus só.
+
+@texto
+Aprendeste também que se deve rezar principalmente pelo povo, quer dizer, pelo Corpo inteiro, por todos os membros de tua Mãe, onde se nota a mútua caridade. Se, pois, pedes por ti, somente por ti rogarás. E se apenas por si roga cada qual, será menor a graça do pecador do que a do intercessor. Agora, porém, já que cada um pede por todos, então todos rezam por cada um.
+
+@texto
+Portanto, para resumirmos, se apenas pedes por ti somente, como dissemos, pedirás por ti. Ao passo que se pedes por todos, todos pedirão por ti. Na verdade também tu estás em todos. É assim grande a recompensa: que pela intercessão de um se beneficie o povo inteiro. Não há nisto nenhuma arrogância; porém, há maior humildade e mais copiosos frutos.
+
+@secao Responsório | Sl 60(61),2-3a.6
+
+@responsorio
+R. Escutai, ó Senhor Deus, minha oração,
+atendei à minha prece, ao meu clamor.
+* Dos confins do universo a vós eu clamo.
+V. Pois, ouvistes, ó Senhor, minhas promessas
+e me fizestes tomar parte na herança
+daqueles que respeitam vosso nome. * Dos confins.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, que nos concedeis no vosso imenso amor de Pai mais do que merecemos e pedimos, derramai sobre nós a vossa misericórdia, perdoando o que nos pesa na consciência e dando-nos mais do que ousamos pedir. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

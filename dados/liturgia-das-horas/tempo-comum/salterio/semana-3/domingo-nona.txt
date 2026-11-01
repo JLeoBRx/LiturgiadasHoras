@@ -1,0 +1,81 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3domingo_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@antifona
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@antifona 2
+A mão direita do Senhor me levantou, aleluia.
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@antifona
+A mão direita do Senhor me levantou, aleluia.
+
+@antifona 3
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@secao Leitura breve | 2Tm1,9
+
+@texto
+Deus nos salvou e nos chamou com uma vocação santa, não devido às nossas obras, mas em virtude do seu desígnio e da sua graça, que nos foi dada em Cristo Jesus desde toda a eternidade.
+
+@texto
+V. Ele os guiou com segurança e sem temo
+R. R. Conduziu-os para a Terra Prometida.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2quartaquaresma_laudes.htm
+@documento Laudes - Quarta-feira da 2ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@antifona 2
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@antifona 3
+Deus é Rei! Exulte a terra de alegria! †
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Deus é Rei! Exulte a terra de alegria!
+
+@secao Leitura breve | Dt 7,6b.8-9
+
+@texto
+O Senhor teu Deus te escolheu dentre todos os povos da terra, para seres o seu povo preferido, porque o Senhor vos amou e quis cumprir o juramento que fez a vossos pais. Foi por isso que o Senhor vos fez sair com mão poderosa, e vos resgatou da casa da escravidão, das mãos do Faraó, rei do Egito. Saberás, pois, que o Senhor teu Deus é o único Deus, um Deus fiel, que guarda a aliança e a misericórdia até mil gerações, para aqueles que o amam e observam seus mandamentos.
+
+@secao Responsório breve
+
+@responsorio
+R. Deus nos amou por primeiro,
+* Ele fez Aliança conosco. R. Deus nos amou.
+V. Sem medida é a sua ternura. * Ele fez.
+Glória ao Pai. R. Deus nos amou.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Veio o Filho do Homem servir e não ser servido, diz Cristo;
+veio dar sua vida por todos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Veio o Filho do Homem servir e não ser servido, diz Cristo;
+veio dar sua vida por todos.
+
+@secao Preces
+
+@preces
+Demos Graças a Deus Pai, e supliquemos que ele purifique e confirme os nossos corações na caridade, pela vinda e ação do Espírito Santo. Digamos, pois, cheios de confiança:
+
+R. **Dai-nos, Senhor, o vosso Espírito Santo!**
+
+Ensinai-nos a receber com um coração agradecido os bens que vós nos dais,
+– e a aceitar com paciência os sofrimentos que pesam sobre nós. R.
+
+Fazei que pratiquemos a caridade, não apenas nas grandes ocasiões,
+– mas principalmente no cotidiano de nossas vidas. R.
+
+Concedei que saibamos renunciar ao supérfluo,
+– para podermos socorrer nossos irmãos e irmãs necessitados. R.
+
+Dai-nos trazer sempre em nosso corpo a imagem da Paixão de vosso Filho,
+– vós, que nos destes a vida em seu corpo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, conservai constantemente vossa família na prática das boas obras e, assim como nos confortais agora com vossos auxílios, conduzi-nos aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,166 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/transfiguracao_vesperas.htm
+@documento Vésperas - Transfiguração do Senhor
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Luz da Luz nascida,
+do mundo Redentor,
+ouvi dos que suplicam
+a prece e o louvor.
+
+De rosto mais brilhante
+que o sol no seu fulgor,
+com veste igual à neve
+de um branco resplendor,
+
+a dignas testemunhas
+no monte aparecestes,
+Autor das criaturas
+terrenas e celestes.
+
+Antigas testemunhas
+unis ao mundo novo
+e dais a todos crerem
+que sois o Deus do povo.
+
+Do alto a voz paterna
+seu Filho vos chamou.
+Fiéis, as nossas mentes
+vos chamam Rei, Senhor.
+
+A carne dos perdidos
+por nós vestindo outrora,
+fazei-nos membros vivos
+do vosso corpo, agora.
+
+A vós, ó Filho amado,
+a honra e o louvor.
+De vós o Pai, no Espírito,
+revela o esplendor.
+
+@secao Salmodia
+
+@antifona 1
+Jesus tomou a Pedro e os irmãos João e Tiago,
+e os levou a um alto monte,
+e, ali diante deles, ficou transfigurado.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Jesus tomou a Pedro e os irmãos João e Tiago,
+e os levou a um alto monte,
+e, ali diante deles, ficou transfigurado.
+
+@antifona 2
+Uma nuvem luminosa os cobriu com sua sombra,
+e uma voz se ouviu dizendo:
+Eis meu Filho muito amado,
+nele está meu bem-querer!
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Uma nuvem luminosa os cobriu com sua sombra,
+e uma voz se ouviu dizendo:
+Eis meu Filho muito amado,
+nele está meu bem-querer!
+
+@antifona 3
+Ao descerem da montanha, ordenou-lhes o Senhor:
+Não conteis a mais ninguém a visão que vós tivestes,
+enquanto o Filho do Homem não tiver ressuscitado.
+Aleluia.
+
+@salmo canticos/1tm-3-16-v3
+
+@gloria
+
+@antifona
+Ao descerem da montanha, ordenou-lhes o Senhor:
+Não conteis a mais ninguém a visão que vós tivestes,
+enquanto o Filho do Homem não tiver ressuscitado.
+Aleluia.
+
+@secao Leitura breve | Rm 8,16-17
+
+@texto
+O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. E, se somos filhos, somos também herdeiros – herdeiros de Deus e co-herdeiros de Cristo –; se realmente sofremos com ele, é para sermos também glorificados com ele.
+
+@secao Responsório breve
+
+@responsorio
+R. Diante dele vão a glória e a majestade.
+* Aleluia, aleluia. R. Diante dele.
+V. E o seu templo, que beleza e esplendor! * Aleluia.
+Glória ao Pai. R. Diante dele.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ao ouvirem esta voz, os discípulos caíram
+com o rosto sobre o chão e tiveram muito medo.
+Jesus se aproximou, tocou-os e lhes disse:
+Levantai-vos, não temais! Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ao ouvirem esta voz, os discípulos caíram
+com o rosto sobre o chão e tiveram muito medo.
+Jesus se aproximou, tocou-os e lhes disse:
+Levantai-vos, não temais! Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a nosso Salvador, que maravilhosamente se transfigurou no monte diante de seus discípulos; e peçamos cheios de confiança:
+
+R. **Ó Deus, iluminai as nossas trevas!**
+
+Senhor Jesus Cristo, que, antes de sofrer a paixão, revelastes aos discípulos, em vosso corpo transfigurado, a glória da ressurreição, nós vos pedimos pela Santa Igreja que caminha nas estradas deste mundo,
+– para que, mesmo no sofrimento, ela sempre se transfigure pela alegria de vossa vitória. R.
+
+Senhor Jesus Cristo, que tomastes convosco Pedro, Tiago e João, e os levastes até o alto do monte, nós vos pedimos pelo nosso Papa N. e por todos os bispos,
+– para que sirvam ao vosso povo na esperança da ressurreição. R.
+
+Senhor Jesus Cristo, que no monte fizestes brilhar sobre Moisés e Elias o esplendor da vossa face, nós vos pedimos pelos judeus, o povo que escolhestes desde os tempos antigos,
+– para que mereçam chegar à plenitude da redenção. R.
+
+Senhor Jesus Cristo, que iluminastes a terra quando sobre vós se levantou a glória do Criador, nós vos pedimos por todos os homens e mulheres de boa vontade,
+– para que sempre caminhem na claridade da vossa luz. R.
+
+{(intenções livres)}
+
+Senhor Jesus Cristo, que haveis de transfigurar os nossos corpos mortais tornando-os semelhantes ao vosso corpo glorioso, nós vos pedimos pelos nossos irmãos e irmãs falecidos,
+– para que entrem na glória do vosso reino. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que na gloriosa Transfiguração de vosso Filho confirmastes os mistérios da fé pelo testemunho de Moisés e Elias, e manifestastes de modo admirável a nossa glória de filhos adotivos, concedei aos vossos servos e servas ouvir a voz do vosso Filho amado, e compartilhar da sua herança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

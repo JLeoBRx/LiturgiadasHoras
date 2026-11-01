@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/mariagoretti.htm
+@documento Ofício das Leituras - Santa Maria Goretti, Virgem E Mártir
+
+@celebracao
+SANTA MARIA GORETTI, VIRGEM E MÁRTIR
+
+@biografia
+Nasceu em Corinaldo, na Itália, em 1890, de família pobre. Sua meninice, passada nas proximidades de Netuno, foi dura, auxiliando a mãe nos cuidados da casa; sendo piedosa por índole, era assídua na oração. Em 1902, para defender sua castidade contra um agressor, preferiu morrer a desonrar-se e foi coberta de punhaladas.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Deste modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.[8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judéia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Inúmeros paralíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia pronunciada na canonização de Santa Maria Goretti por Pio XII, papa
+{(Séc. XX)} {(AAS 42 [1950],581-582)}
+
+@tema
+Não temerei mal algum, porque tu estás comigo
+
+@texto
+Todos conhecem o terrível combate que esta virgem indefesa teve de travar. Contra ela, levantou-se subitamente uma tremenda e cega tempestade que tentou manchar e violar sua candura angélica. Mas, ao ver-se em meio a tão grave situação, ela poderia ter repetido ao divino Redentor as palavras daquele livrinho de ouro, A Imitação de Cristo: “Ainda que eu seja tentada e provada por muitas tribulações, não temerei mal algum; contanto que a vossa graça esteja comigo. Ela é minha força; ela me aconselha e ajuda. É mais poderosa do que todos os inimigos”. Por isso, protegida pela graça celeste, à qual correspondeu com uma vontade forte e generosa, entregou a sua vida, mas não perdeu a glória da virgindade.
+Na vida desta humilde mocinha, que esboçamos com leves traços, pode-se ver um espetáculo não apenas digno do céu, mas digno também de ser admirado e respeitado pelas pessoas do nosso tempo. Aprendam os pais e mães de família como é necessário educar com retidão, santidade e firmeza os filhos que Deus lhes deu, e formá-los na obediência aos preceitos da religião católica; de tal modo que, se sua virtude for submetida a dura prova, possam superá-la, saindo dela vencedores, sem feridas e sem manchas, íntegros e incontaminados, com a ajuda da graça divina.
+
+Aprenda a alegre infância, aprenda a ardorosa juventude a não cair tristemente nos volúveis e vazios prazeres da paixão, a não ceder perante as seduções do vício; mas, pelo contrário, a lutar com entusiasmo, mesmo em situações difíceis e espinhosas, para alcançar aquela perfeição cristã de bons costumes. Todos nós podemos atingir de certo modo tal perfeição, com a força de vontade, ajudada pela graça divina, por meio do esforço, do trabalho e da oração.
+
+De fato, nem todos somos chamados a sofrer o martírio; mas todos somos chamados a praticar as virtudes cristãs. A virtude, porém, requer energia; mesmo sem atingir as alturas da fortaleza desta angélica menina, nem por isso obriga menos a um cuidado contínuo e muito atento, que deve ser sempre mantido por nós até o fim da vida. Por isso, semelhante esforço bem pode ser considerado um martírio lento e constante. A isto nos convidam as palavras de Jesus Cristo: _O reino dos céus sofre violência, e são os violentos que o conquistam_ (Mt 11,12).
+
+Esforcemo-nos todos por alcançar este objetivo, confiados na graça do céu. Sirva-nos de estímulo a santa virgem e mártir Maria Goretti. Que ela, da mansão celeste, onde goza da felicidade eterna, interceda por nós junto ao divino Redentor, a fim de que todos, nas condições de vida que são as nossas, sigamos os seus gloriosos passos com generosidade, vontade firme e obras de virtude.
+
+@secao Responsório
+
+@responsorio
+R. Virgem de Cristo, como é grande tua beleza!
+* Do Senhor tu mereceste receber
+a coroa da perpétua virgindade.
+V. Nada pode arrebatar-te a grande glória
+da tua virgindade consagrada,
+nem separar-te do amor de Jesus Cristo.
+* Do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de inocência e pureza, que ornastes Maria Goretti, ainda adolescente, com a graça do martírio e a coroastes no combate pela virgindade, dai-nos, por sua intercessão, guardar sempre os vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

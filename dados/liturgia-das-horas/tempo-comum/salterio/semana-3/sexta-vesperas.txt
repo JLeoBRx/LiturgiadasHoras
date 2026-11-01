@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Deus, escultor do homem,
+que a tudo, só, criastes,
+e que do pó da terra
+os animais formastes.
+
+Sob o comando do homem
+a todos colocastes,
+para que a vós servissem
+servindo a quem criastes.
+
+Afastai, pois, os homens,
+de uma fatal cilada;
+que o Criador não perca
+a criatura amada.
+
+Dai-nos no céu o prêmio,
+dando na terra a graça,
+e assim chegar possamos
+à paz que nunca passa.
+
+A vós, Deus uno e trino,
+em nosso amor cantamos;
+nas criaturas todas
+somente a vós buscamos.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor, nosso Deus, é tão grande,
+e maior do que todos os deuses.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+O Senhor, nosso Deus, é tão grande,
+e maior do que todos os deuses.
+
+@antifona 2
+Israel, bendizei o Senhor,
+cantai ao seu nome suave!
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Israel, bendizei o Senhor,
+cantai ao seu nome suave!
+
+@antifona 3
+Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.
+
+@secao Leitura breve | Tg 1,2-4
+
+@texto
+Meus irmãos, quando deveis passar por diversas provações, considerai isso motivo de grande alegria, por saberdes que a comprovação da fé produz em vós a perseverança. Mas é preciso que a perseverança gere uma obra de perfeição, para que vos torneis perfeitos e íntegros, sem falta ou deficiência alguma.
+
+@secao Responsório breve
+
+@responsorio
+R. Jesus Cristo nos amou.
+* E em seu sangue nos lavou. R. Jesus Cristo.
+V. Fez-nos reis e sacerdotes para Deus, o nosso Pai.
+* E em seu sangue. Glória ao Pai. R. Jesus
+Cristo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor nos acolheu a nós,
+seus servidores, fiel ao seu amor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor nos acolheu a nós,
+seus servidores, fiel ao seu amor.
+
+@secao Preces
+
+@preces
+Invoquemos o Senhor Jesus, a quem o Pai entregou à morte pelos nossos pecados e ressuscitou para nossa justificação; e digamos humildemente:
+
+R. **Senhor, tende piedade do vosso povo!**
+
+Ouvi, Senhor, as nossas súplicas e perdoai os pecados dos que se reconhecem culpados perante vós,
+– e, em vossa bondade, dai-nos a reconciliação e a paz. R.
+
+Vós, que dissestes por meio do apóstolo Paulo: 'Onde o pecado foi grande, muito maior foi a graça',
+– perdoai generosamente os nossos numerosos pecados. R.
+
+Muito pecamos, Senhor, mas confiamos na vossa infinita misericórdia;
+– convertei-nos inteiramente ao vosso amor. R.
+
+Salvai, Senhor, o vosso povo de seus pecados,
+– e sede bondoso para conosco. R.
+
+{(intenções livres)}
+
+Vós, que abristes as portas do paraíso para o ladrão arrependido que vos reconheceu como Salvador,
+– não as fecheis para os nossos irmãos e irmãs que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, nosso Pai, que destes Jesus Cristo, vosso Filho, como preço de nossa salvação, concedei-nos viver de tal modo, que, participando de sua paixão, compartilhemos de sua ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_Ivesperas.htm
+@documento I Vésperas - Todos os Santos
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Redentor de todos, Cristo,
+vossos servos conservais,
+abrandado pela Virgem
+com suas preces maternais.
+
+Multidões celestiais
+dos espíritos amigos,
+ontem, hoje e no futuro
+defendei-nos do inimigo.
+
+Do eternal Juiz profetas
+e apóstolos do Senhor,
+nos salvai com vossos rogos,
+escutai nosso clamor.
+
+Santos mártires de Deus,
+confessores luminosos,
+vossas preces nos conduzam
+para o céu, vitoriosos.
+
+Santos monges e eremitas,
+santos coros virginais,
+dai-nos sermos os convivas
+do Senhor, com quem reinais.
+
+Nossa voz à vossa unimos,
+dando graças ao Senhor.
+E paguemos, na alegria,
+nossa dívida em louvor.
+
+@secao Salmodia
+
+@antifona 1
+A luz eterna brilhará aos vossos santos,
+e a vida para sempre, aleluia.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+A luz eterna brilhará aos vossos santos,
+e a vida para sempre, aleluia.
+
+@antifona 2
+Jerusalém, cidade santa, exultarás pelos teus filhos,
+pois serão abençoados e reunidos no Senhor. Aleluia.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Jerusalém, cidade santa, exultarás pelos teus filhos,
+pois serão abençoados e reunidos no Senhor. Aleluia.
+
+@antifona 3
+Os santos cantavam um cântico novo
+Àquele que está em seu trono e ao Cordeiro;
+na terra inteira ressoavam suas vozes. Aleluia.
+
+@rubrica
+No cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer os Aleluias no começo, entre as estrofes e no fim.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Os santos cantavam um cântico novo
+Àquele que está em seu trono e ao Cordeiro;
+na terra inteira ressoavam suas vozes. Aleluia.
+
+@secao Leitura breve | Hb 12,22-24
+
+@texto
+Vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste; da reunião festiva de milhões de anjos; da assembleia dos primogênitos, cujos nomes estão escritos nos céus; de Deus, o Juiz de todos; dos espíritos dos justos, que chegaram à perfeição; de Jesus, mediador da nova aliança, e da aspersão do sangue mais eloquente que o de Abel.
+
+@secao Responsório breve
+
+@responsorio
+R. Os justos se alegram
+* Na presença do Senhor. R. Os justos.
+V. Rejubilam satisfeitos, e exultam de alegria. * Na presença.
+Glória ao Pai. R. Os justos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A vós, Senhor, louva o coro glorioso dos Apóstolos,
+a vós proclama a multidão iluminada dos Profetas,
+de vós dá testemunho o exército dos mártires,
+e unânimes confessam os santos e os eleitos,
+ó Santíssima Trindade, um só Deus em três pessoas!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A vós, Senhor, louva o coro glorioso dos Apóstolos,
+a vós proclama a multidão iluminada dos Profetas,
+de vós dá testemunho o exército dos mártires,
+e unânimes confessam os santos e os eleitos,
+ó Santíssima Trindade, um só Deus em três pessoas!
+
+@secao Preces
+
+@preces
+Repletos de alegria, invoquemos a Deus, recompensa e glória de todos os santos e santas; e digamos:
+
+R. **Salvai-nos, Senhor, por intercessão de vossos santos!**
+
+Deus de infinita sabedoria que, por Cristo, constituístes os apóstolos como fundamentos da fé da Igreja,
+– conservai-nos fiéis à fé que eles nos ensinaram. R.
+
+Vós, que destes aos mártires a coragem do testemunho até derramarem o próprio sangue,
+– tornai os cristãos testemunhas fiéis do vosso Filho. R.
+
+Vós, que concedestes às santas Virgens o dom inestimável de imitar a Cristo virgem,
+– fazei que todos reconheçam a virgindade consagrada a vós como autêntico sinal do reino dos céus. R.
+
+Vós, que manifestais em todos os santos e santas a vossa presença, o vosso rosto e a vossa palavra,
+– dai-nos a graça de nos sentirmos mais próximos de vós quando os honramos. R.
+
+{(intenções livres)}
+
+Concedei aos que morreram viver eternamente no céu com a Virgem Maria, São José e todos os santos e santas,
+– e, por intercessão deles, fazei-nos participar da sua companhia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

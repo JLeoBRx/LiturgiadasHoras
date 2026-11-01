@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/2quarta_quaresma.htm
+@documento Ofício das Leituras - 2ª Semana Da Quaresma - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@salmo salmos/salmo-038-i
+
+@gloria
+
+@antifona
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@antifona 2
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@salmo salmos/salmo-038-ii
+
+@gloria
+
+@antifona
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@antifona 3
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@salmo salmos/salmo-051
+
+@gloria
+
+@antifona
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@texto
+V. Convertei-vos e mudai a vossa vida.
+R. Renovai-vos de espírito e coração!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {17,1-16}
+
+@tema
+A água do rochedo e o combate contra os amalecitas
+
+@texto
+Naqueles dias, [1] toda a comunidade dos filhos de Israel partiu do deserto de Sin e, seguindo as etapas indicadas pelo Senhor, acamparam em Rafidim, onde o povo não encontrou água para beber. [2] Então o povo começou a disputar com Moisés, dizendo: “Dá-nos água para beber!” Moisés respondeu-lhes: “Por que disputais comigo? Por que tentais o Senhor?” [3] Mas o povo, sedento de água, murmurava contra Moisés e dizia: “Por que nos fizeste sair do Egito? Foi para nos fazer morrer de sede, a nós, nossos filhos e nosso gado?” [4] Moisés clamou ao Senhor, dizendo: “Que farei por este povo? Por pouco não me apedrejam!” [5] O Senhor disse a Moisés: “Passa adiante do povo e leva contigo alguns anciãos de Israel. Toma a tua vara com que feriste o rio Nilo e vai. [6] Eu estarei lá, diante de ti, sobre o rochedo, no monte Horeb. Ferirás a pedra e dela sairá água para o povo beber”. Moisés assim fez na presença dos anciãos de Israel. [7] E deu àquele lugar o nome de Massa e Meriba, por causa da disputa dos filhos de Israel e porque tentaram o Senhor, dizendo: “O Senhor está no meio de nós, ou não?” [8] Os amalecitas vieram atacar Israel em Rafidim. [9] Moisés disse a Josué: “Escolhe alguns homens e vai combater contra os amalecitas. Amanhã estarei, de pé, no alto da colina, com a vara de Deus na mão”. [10] Josué fez o que Moisés lhe tinha mandado e combateu os amalecitas. Moisés, Aarão e Ur subiram ao topo da colina. [11] E, enquanto Moisés conservava a mão levantada, Israel vencia; quando abaixava a mão, vencia Amalec. [12] Ora, as mãos de Moisés tornaram-se pesadas. Pegando então uma pedra, colocaram-na debaixo dele para que se sentasse, e Aarão e Ur, um de cada lado, sustentavam as mãos de Moisés. Assim, suas mãos não se fatigaram até ao pôr-do-sol, [13] e Josué derrotou Amalec e sua gente a fio de espada. [14] O Senhor disse, então, a Moisés: “Escreve isto no livro para a memória, e leva ao conhecimento de Josué que eu apagarei a lembrança de Amalec do céu”. [15] Moisés construiu um altar e deu-lhe o nome de “o Senhor é meu estandarte”, dizendo: [16] “Porque levantou a mão contra o trono do Senhor, o Senhor estará em guerra contra Amalec, de geração em geração”.
+
+@secao Responsório | Cf. Is 12,3.4. cf. Jo 4,14
+
+@responsorio
+R. Com alegria bebereis das águas abundantes
+do manancial do Salvador
+* E direis naquele dia: Dai louvores ao Senhor e invocai seu santo nome.
+V. A água que eu vos der, será fonte a jorrar até a vida eterna. * E direis.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc.II)} {(Lib. 4,14,2-3;15,1:SCh 100,542.548)}
+
+@tema
+Através de figuras, Israel aprendia a temer a Deus e a perseverar em seu serviço
+
+@texto
+Desde o princípio Deus criou o homem para lhe comunicar seus dons; escolheu os patriarcas, para lhes dar a salvação; ia formando um povo,para ensinar os ignorantes a seguir a Deus; preparava os profetas, para acostumar os homens a serem morada do Espírito e a viverem em comunhão com Deus. Ele, que não precisava de nada, oferecia a comunhão aos que dele precisavam. Para os que lhe eram agradáveis, desenhava, qual um arquiteto, o edifício da salvação; aos que nada viam no Egito, ele mesmo servia de guia; aos que andavam errantes no deserto, dava uma lei perfeita; aos que entravam na terra prometida, concedia uma herança; enfim, para os que voltavam à casa do Pai, matava o vitelo gordo e dava a melhor roupa. Assim, de muitas maneiras, Deus ia preparando o gênero humano em vista da salvação futura. Eis por que João diz no Apocalipse: _Sua voz era como o fragor de muitas águas_ (Ap 1,15). Na verdade, são muitas as águas do Espírito de Deus, porque é muita a riqueza e grandeza do Pai. E, passando através de todas elas, o Verbo concedia generosamente o seu auxílio a quantos lhe estavam submetidos, prescrevendo uma lei adaptada e adequada a cada criatura. Deste modo, dava ao povo as leis relativas à construção do tabernáculo, à edificação do templo, à escolha dos levitas, aos sacrifícios e oblações, às purificações e a todo o restante do serviço do altar. Deus não precisava de nada disso, pois é desde sempre rico de todos os bens, e contém em si mesmo a suavidade de todos os aromas e de todos os perfumes, mesmo antes de Moisés existir. Mas educava um povo sempre inclinado a voltar aos ídolos, dispondo-o, através de muitas etapas, a perseverar no serviço de Deus. Por meio das coisas secundárias chamava-o às principais, isto é, pelas figuras à realidade, pelas temporais, às eternas, pelas carnais, às espirituais, pelas terrenas, às celestes, tal como foi dito a Moisés: _Farás tudo segundo o modelo das coisas que viste na montanha_ (Ex 25,40).
+Durante quarenta dias, com efeito, Moisés aprendeu a guardar as palavras de Deus, os sinais celestes, as imagens espirituais e as figuras das coisas futuras. Paulo também disse: _Bebiam de um rochedo espiritual que os acompanhava – e esse rochedo era Cristo_ (1Cor 10,4). E acrescenta ainda, depois de ter falado dos acontecimentos referidos na Lei: _Estas coisas lhes aconteciam em figura e foram escritas para nos admoestar e instruir, a nós que já chegamos ao fim dos tempos_ (1Cor 10,11). Por meio dessas figuras, portanto, eles aprendiam a temer a Deus e a perseverar em seu serviço. E assim a Lei era para eles, ao mesmo tempo, norma de vida e profecia das realidades futuras.
+
+@secao Responsório | Gl 3,24-25.23
+
+@responsorio
+R. A lei foi nosso educador, que nos guiou até Cristo,
+a fim de que nós fôssemos justificados pela fé.
+* Ao chegar, porém, a fé não estamos mais sujeitos ao antigo educador.
+V. Mas antes que chegasse a época da fé, nós éramos guardados, tutelados sob a lei, para a fé que chegaria. * Ao chegar.
+
+@secao Oração
+
+@oracao
+Ó Deus, conservai constantemente vossa família na prática das boas obras e, assim como nos confortais agora com vossos auxílios, conduzi-nos aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

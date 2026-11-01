@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/22_laudes.htm
+@documento Próprio - Laudes - 22 de dezembro
+
+@secao Leitura breve | Is 45,8
+
+@texto
+Céus, deixai cair orvalho das alturas, e que as nuvens façam chover justiça; abra-se a terra e germine a salvação; brote igualmente a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor. R. Eis que vem.
+V. Toda a carne verá sua glória. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quando a tua saudação ressoou aos meus ouvidos,
+a criança estremeceu de alegria no meu ventre. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quando a tua saudação ressoou aos meus ouvidos,
+a criança estremeceu de alegria no meu ventre. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs diletos, a Cristo nosso Redentor, que veio ao mundo para nossa justificação; e digamos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, cujo nascimento segundo a carne foi anunciado pelos antigos profetas,
+– dai novo vigor às virtudes que fizestes nascer em nosso coração. R.
+
+A nós que anunciamos ao mundo vossa redenção,
+– concedei a salvação e a paz. R.
+
+Vós, que viestes salvar os corações atribulados,
+– curai as enfermidades do vosso povo. R.
+
+Vós, que viestes reconciliar o mundo com o Pai,
+– livrai-nos de toda condenação quando voltardes como juiz no último dia. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus de misericórdia, vendo o homem entregue à morte, quisestes salvá-lo pela vinda do vosso Filho; fazei que, ao proclamar humildemente o mistério da encarnação, entremos em comunhão com o Redentor. Que convosco vive e reina na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

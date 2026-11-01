@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ssnomedemaria_laudes.htm
+@documento Laudes - Santíssimo Nome de Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Senhora gloriosa,
+bem mais que o sol brilhais.
+O Deus que vos criou
+ao seio amamentais.
+
+O que Eva destruiu,
+no Filho recriais;
+do céu abris a porta
+e os tristes abrigais.
+
+Da luz brilhante porta,
+sois pórtico do Rei.
+Da Virgem veio a vida.
+Remidos, bendizei!
+
+Ao Pai e ao Espírito,
+poder, louvor, vitória,
+e ao Filho, que gerastes
+e vos vestiu de glória.
+
+@secao Salmodia
+
+@antifona 1
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Da glória feliz do Senhor onde estais
+rogai junto ao Filho por nós, vossos filhos!
+
+@antifona 2
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@antifona 3
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultai e alegrai-vos, ó Virgem Maria,
+pois trouxestes o Cristo Jesus Salvador!
+
+@secao Leitura breve | cf. Is 61,10
+
+@texto
+Exulto de alegria no Senhor e minh’alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me qual noiva com suas joias.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A porta do céu foi fechada por Eva;
+por Maria ela abriu-se aos homens de novo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A porta do céu foi fechada por Eva;
+por Maria ela abriu-se aos homens de novo.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, nós vos pedimos: concedei a todos os que celebramos o glorioso nome da Santíssima Virgem Maria que ela nos obtenha os benefícios da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

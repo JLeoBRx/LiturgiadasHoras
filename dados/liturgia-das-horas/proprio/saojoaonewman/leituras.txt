@@ -1,0 +1,188 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojoaonewman.htm
+@documento Ofício das Leituras - São João Henrique Newman
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração São João Henrique Newman na Liturgia das Horas. Assim, os textos específicos aqui adotados são de livre tradução do original em latim.
+
+@celebracao
+SÃO JOÃO HENRIQUE NEWMAN, PRESBÍTERO E DOUTOR DA IGREJA
+
+@biografia
+Nascido em Londres no ano de 1801, exerceu durante mais de vinte anos as funções de clérigo anglicano e de membro do colégio de Oxford chamado Oriel. Dedicando-se com empenho ao estudo da história da Igreja primitiva, foi pouco a pouco atraído para a fé católica e, finalmente, no ano de 1845, foi recebido, como ele próprio diz, no único redil do Redentor. Ordenado sacerdote católico em 1847, fundou na Inglaterra o Oratório de São Filipe Néri. Escreveu muito e com grande proveito sobre diversos assuntos. Louvado como humilde e fervoroso pastor, que havia iluminado grandemente a Igreja com sua luz intelectual, foi incorporado ao Colégio dos Cardeais pelo Papa Leão XIII no ano de 1879. Morreu em Birmingham no dia 11 de agosto de 1890. Foi inscrito no número dos santos no ano de 2019 e declarado Doutor da Igreja pelo Sumo Pontífice Leão XIV no ano de 2025.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos escritos de São João Henrique Newman, presbítero e Doutor da Igreja
+{(Apologia Pro Vita Sua, Capítulo V: Estado de minha mente desde 1845, Londres, 1864, pp. 238-239, 250-251)} {(Séc. XIX)}
+
+@tema
+Parecia-me ter finalmente chegado ao porto,_
+_depois de ter sido agitado pelas ondas
+
+@texto
+Desde o dia em que me tornei católico e, depois disso, não tenho absolutamente mais nada a relatar acerca de minhas opiniões sobre religião. Não deixei, porém, de modo algum, de exercitar a mente, nem me abstive de raciocínios teológicos; mas não posso referir nem mudanças no pensamento, nem inquietações no coração. Livre de toda dúvida, vivo até agora em perfeita paz e tranquilidade. Não tenho consciência de ter sofrido qualquer mudança no entendimento ou nos costumes desde o dia de minha conversão. Com efeito, não me sentia nem mais firme na fé nas principais verdades da Revelação, nem mais senhor de mim mesmo, nem mais fervoroso. Contudo, parecia-me ter finalmente chegado ao porto, depois de ter sido agitado pelas ondas; e, desde então, considero-me sempre feliz até o dia de hoje.
+
+Além disso, não achei difíceis de aceitar os artigos que faltam no símbolo anglicano. Com efeito, alguns deles eu já os havia aceitado há muito tempo; quanto aos demais, dei-lhes meu assentimento sem perigo algum. Os mesmos que professei no dia de minha recepção, sem qualquer discussão, são aqueles que ainda agora confesso. Existem, na verdade, dificuldades de compreensão em todos os artigos do símbolo cristão, quer professados por católicos, quer por protestantes, que não ouso negar nem afirmo poder simplesmente resolver por mim mesmo. E, embora muitos sejam os que experimentam dificuldades na religião — e eu sou um deles —, nunca pude perceber uma relação entre a apreensão dessas dificuldades, por mais agudas e numerosas que sejam, e a dúvida acerca das doutrinas às quais estão ligadas.
+
+Com efeito, parece-me que dez mil dificuldades não poderiam gerar sequer uma única dúvida, pois as dificuldades não se medem de modo algum pelas dúvidas. Podem, certamente, existir dificuldades nos argumentos; aqui, porém, falo das dificuldades inerentes às próprias doutrinas ou relativas às relações dessas doutrinas entre si. É como alguém que se aflige por não conseguir resolver uma questão matemática, mesmo quando a solução lhe é apresentada ou lhe é ocultada, mas não duvida de que uma solução possa ser encontrada ou de que exista alguma solução verdadeira. Entre todos os dogmas da fé, em minha opinião, é extremamente difícil crer que Deus existe; entretanto, esta verdade é fortemente impressa em nossas mentes.
+
+Há, contudo, aqueles que dizem ser difícil acreditar na doutrina da Transubstanciação. Eu, na verdade, embora não tivesse acreditado nessa doutrina até me tornar católico, assim que reconheci que a Igreja Católica Romana é o oráculo de Deus e que ela ensinava que essa doutrina havia sido revelada desde a origem, acreditei nela com toda facilidade. Admito de bom grado que é difícil, ou mesmo impossível, conceber essa doutrina com a mente; mas pergunto: como pode ser difícil acreditar nela?
+
+Creio em todo o dogma revelado, ensinado pelos Apóstolos, transmitido à Igreja e declarado pela Igreja para mim; e aceito-o tal como agora é interpretado e, implicitamente, tal como será interpretado de modo semelhante por aquela autoridade à qual foi confiado, até a consumação dos séculos. Além disso, adiro sempre às tradições recebidas em toda parte e em todos os tempos na Igreja, nas quais está contido o conteúdo das definições dogmáticas, por vezes explicitadas, e que, em todos os séculos, oferecem ao dogma católico já declarado o texto e o exemplo.
+
+Submeto-me também às demais decisões da Santa Sé, sejam teológicas ou não, quando procedem por meio dos instrumentos por ela estabelecidos, deixando de lado a questão de saber se são dotadas de infalibilidade; a elas, ao menos, devo obedecer e prestar submissão.
+
+Além disso, julgo que a investigação da fé católica foi assumindo, pouco a pouco, ao longo dos séculos, formas determinadas e variadas, estruturando-se como uma ciência e adornando-se com uma razão e uma linguagem próprias, desenvolvidas por homens doutíssimos, como Atanásio, Agostinho e Tomás de Aquino; e de modo algum desejaria romper essa herança intelectual que nos foi legada nestes últimos tempos.
+
+@secao Responsório | Cf. Ef 3,7.10; Jo 16,13
+
+@responsorio
+R. Tornei-me ministro do Evangelho
+segundo o dom da graça de Deus,
+que me foi concedida segundo a ação de seu poder,
+* para que, por meio da Igreja,
+se manifeste a multiforme sabedoria de Deus.
+V. Quando vier ele, o Espírito da verdade,
+ele vos guiará em toda a verdade.* para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes ao santo presbítero João Henrique, seguindo a vossa luz benigna, encontrar a paz na vossa Igreja, concedei propício que, por sua intercessão e exemplo, sejamos conduzidos das sombras e das imagens à plenitude da vossa verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

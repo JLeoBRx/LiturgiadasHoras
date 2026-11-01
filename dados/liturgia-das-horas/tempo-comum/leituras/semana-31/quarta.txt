@@ -1,0 +1,78 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/31quartaTC.htm
+@documento Ofício das Leituras
+
+@titulo QUARTA-FEIRA / III Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Primeiro Livro dos Macabeus {3,1-26}
+
+@tema
+Judas Macabeu
+
+@texto
+Naqueles dias: [1] Sucedeu a Matatias o seu filho Judas, chamado Macabeu. [2] Deram-lhe apoio todos os seus irmãos e todos os que se tinham unido a seu pai, e combatiam alegremente pela defesa de Israel. [3] Judas dilatou a glória de seu povo, revestiu-se da couraça como um gigante, cingiu suas armas de guerra e travou combates, protegendo o acampamento com a espada. [4] Em suas façanhas parecia um leão, um filhote de leão, que ruge sobre a presa. [5] Rastreou e perseguiu os ímpios e atirou às chamas os opressores do povo. [6] Dele os ímpios fugiram amedrontados, perturbaram-se todos os artesãos da iniquidade e por ele foi realizada a libertação. [7] Fez muitos reis passarem momentos amargos, mas com seus feitos alegrou Jacó, e sua memória será sempre bendita. [8] Percorreu as cidades de Judá, exterminando de seu meio os ímpios e afastando de Israel a cólera. [9] Sua fama chegou às extremidades da terra, porque reuniu um povo que perecia.
+
+@texto
+[10] Apolônio mobilizou soldados pagãos e um grande contingente da Samaria, para combater Israel. [11] Judas soube, saiu-lhe ao encontro, derrotou-o e matou-o. Muitos tombaram no campo de batalha e os restantes fugiram. [12] Ao se apossarem dos despojos, Judas ficou com a espada de Apolônio, que desde então usava nos combates. [13] Seron, general do exército sírio, teve notícias de que Judas reunira considerável grupo de partidários, prontos a acompanhá-lo na guerra. [14] Disse então: "Vou tornar-me célebre e cobrir-me de glória no reino, combatendo Judas e suas tropas, que desprezam as ordens do rei". [15] Poderoso contingente de ímpios reuniu-se a ele e subiu para ajudá-lo a vingar-se dos filhos de Israel. [16] Quando se aproximaram da subida de Bet-Horon, Judas saiu ao seu encontro com um pequeno grupo. [17] Vendo o exército que contra eles marchava, disseram a Judas: "Como poderemos enfrentar tamanho exército, se somos tão poucos e nos sentimos debilitados pelo jejum de hoje? [18] Mas Judas respondeu-lhes: "É fácil uma multidão cair nas mãos de poucos, e para o Céu não há diferença em salvar com muitos ou com poucos, [19] porque a vitória na guerra não depende da grande quantidade de soldados mas da força que vem do Céu. [20] Marcham contra nós, cheios de insolência e de impiedade, para nos exterminarem a nós, a nossas esposas e a nossos filhos, e para nos espoliarem. [21] Nós, porém, lutamos pelas nossas vidas e nossas leis. [22] O próprio Deus os esmagará diante de nós. Quanto a vós, não os temais". [23] Depois de pronunciar estas palavras, atirou-se repentinamente sobre os adversários. Seron e seu exército foram esmagados. [24] Os homens de Judá perseguiram-nos pela descida de Bet-Horon até à planície. Oitocentos homens foram mortos, e os outros fugiram para as terras dos filisteus. [25] Assim, Judas e seus irmãos começaram a ser temidos, e o medo tomou conta dos povos vizinhos. [26] Sua fama chegou até ao rei. E todos os pagãos comentavam as batalhas de Judas.
+
+@secao Responsório | 1Mc 3,20a.22b.19.21-22a
+
+@responsorio
+R. Orgulhosos e maus eles vêm contra nós,
+mas vós não os temais,
+* Pois, na luta, a vitória não depende de tropas
+e sim do vigor, que vem lá do céu.
+V. Nós havemos de lutar por nossas leis e nossas vidas,
+e o próprio Deus esmagará a nossos olhos o inimigo.
+* Pois, na luta.
+
+@secao Segunda leitura
+
+@leitura
+Das Catequeses de São Cirilo de Jerusalém, bispo
+{(Séc. IV)}{(Cat. 5, De fide et symbolo, 10-11: PG 33,518-519)}
+
+@tema
+O poder da fé ultrapassa as forças humanas
+
+@texto
+A fé tem um só nome, mas duas maneiras de ser. Há um gênero de fé que se relaciona com o dogma e inclui a elevação de uma pessoa e seu assentimento sobre determinado assunto; diz respeito ao interesse pessoal, conforme o Senhor: _Quem ouve minhas palavras e crê naquele que me enviou, tem a vida eterna e não incorre em condenação_ (Jo 5,24); e de novo: _Quem crê no Filho não será julgado, mas passa da morte para a vida_ (cf. Jo 3,18.24).
+
+@texto
+Ó bondade imensa de Deus para com os homens! Com efeito, os justos foram agradáveis a Deus pelo labor de muitos anos. Mas aquilo que alcançaram entregando-se corajosamente e por dilatados anos ao serviço de Deus, isto mesmo em uma simples hora Jesus te concede. Porque se creres que Jesus Cristo é Senhor e que Deus o ressuscitou dos mortos, serás salvo e levado ao paraíso por aquele que nele introduziu o ladrão. E não hesites em acreditar ser isto possível, pois quem salvou o ladrão neste santo Gólgota, pela fé de uma só hora, pode também salvar-te a ti, se creres.
+
+@texto
+O outro gênero é a fé que Cristo concede por graça especial. Pois _a uns pelo Espírito é dada a palavra da sabedoria, a outros a palavra da ciência, segundo o mesmo Espírito. A outros a fé, no mesmo Espírito, a outros o dom de curar_ (1Cor 12,8-9).
+
+@texto
+Este carisma da fé dado pelo Espírito não se relaciona apenas com o dogma; torna ainda capaz de realizar coisas acima das forças humanas. Quem tiver uma fé assim, dirá a este monte: _Vai daqui para ali; e irá_ (Mt 17,20). Quando, pois, pela fé, alguém isto disser, crendo que acontecerá sem hesitar em seu coração, então é sinal de que recebeu esta graça.
+
+@texto
+Dela se disse: _Se tivésseis fé como um grão de mostarda_ (Mt 17,20). Como o grão de mostarda, tão pequenino, possui uma força de fogo, e semeado em estreito pedaço de terra produz grandes ramos, que depois de crescidos podem dar sombra às aves do céu, assim também, num abrir e fechar de olhos, a fé realiza as maiores coisas na pessoa. Porque lhe dá uma idéia sobre Deus e o vê tanto quanto é capaz, inundada pela luz da fé. Percorre os confins da terra; e antes da consumação do mundo, já prevê o juízo e a entrega das recompensas prometidas.
+
+@texto
+Guarda então a fé que de ti depende e que te leva a ele; para que recebas de suas mãos também aquela que age muito além das forças humanas.
+
+@secao Responsório | Gl 2,16; Rm 3,25a
+
+@responsorio
+R. Nenhum ser se torna justo pela prática da lei,
+mas pela fé em Jesus Cristo.
+* Nós também cremos em Cristo a fim de nos tornarmos
+justificados pela fé em Jesus Cristo, Senhor nosso.
+V. Deus destinou que Cristo fosse, por seu sangue,
+a vítima da propiciação,
+pela fé que colocamos nele mesmo. * Nós também.
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas a graça de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

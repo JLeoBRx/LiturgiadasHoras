@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/angelamerici.htm
+@documento Ofício das Leituras - Santa Ângela Mérici, Virgem
+
+@celebracao
+SANTA ÂNGELA MÉRICI, VIRGEM
+
+@biografia
+Nasceu por volta do ano 1470, em Desenzano del Garda (Província de Veneza). Recebeu o hábito da Ordem Terceira de São Francisco e reuniu um grupo de moças que orientava na prática da caridade. Em 1535 fundou, em Bréscia, uma congregação feminina sob a invocação de Santa Úrsula, destinada à formação cristã de meninas pobres. Morreu em 1540.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O mais suave dos hinos
+entoe o povo de Deus,
+pois eis que hoje uma virgem
+subiu à glória dos céus.
+
+No exílio ainda da terra,
+já se entregava ao louvor;
+agora, junta-se aos santos
+nos mesmos hinos de amor.
+
+A frágil carne domando,
+rosa entre espinhos floriu;
+calcando as pompas do mundo,
+do Cristo os passos seguiu.
+
+As suas preces ouvindo,
+Jesus nos dê sua mão,
+sempre a guiar nossos passos
+para a celeste mansão.
+
+Ao Pai e ao Espírito unido,
+nós te adoramos, Jesus:
+caminho estreito e seguro
+que à vida eterna conduz.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Do Testamento espiritual de Santa Ângela Meríci, virgem
+{(Séc. XVI)}
+
+@tema
+Tudo dispôs com suavidade
+
+@texto
+Minhas queridas Madres e Irmãs em Cristo Jesus. Antes de tudo, com o auxílio de Deus, empregai todo esforço e diligência por deixar nascer em vós a boa resolução de serdes guiadas unicamente pelo amor de Deus e pelo zelo da salvação do próximo, ao assumirdes o cuidado e o governo da Companhia.
+Somente assim, fundadas e arraigadas nesta dupla caridade, vosso cuidado e governo produzirão frutos bons e salutares, pois nosso Salvador declarou: _Uma árvore boa não pode produzir frutos maus_ (Mt 7,18).
+A árvore boa, ou seja, o coração bom, o espírito informado pela caridade, só pode praticar obras boas e santas. Por isso dizia Santo Agostinho: “Ama e faze o que queres”, isto é, deixa-te dominar pelo amor e pela caridade, e depois faze o que queres; é como se dissesse claramente: “A caridade não pode pecar”.
+As mães segundo a natureza, mesmo que tenham mil filhos, trazem a todos e a cada um gravados no coração e nunca se esquecem de nenhum deles, pela força do verdadeiro amor que lhes têm. Até mesmo parece que quanto mais filhos têm, mais cresce o amor e o cuidado que dedicam a cada um. Com muito maior razão, as mães segundo o espírito podem e devem proceder do mesmo modo, porque o amor espiritual é mais forte do que aquele que provém dos laços de sangue.
+Por conseguinte, minhas queridas Madres, se amais estas vossas filhas com viva e sincera caridade, é impossível que não as tenhais gravadas, todas e cada uma, em vossa memória e coração.
+Peço-vos ainda que procureis orientá-las com amor, modéstia e caridade, e não com soberba e rispidez. Importa que em tudo sejais sempre agradáveis, de acordo com o que disse nosso Senhor: _Aprendei de mim, que sou manso e humilde de coração_ (Mt 11,29), imitando a Deus, de quem lemos: _Tudo dispôs com suavidade_ (Sb 8,1). E Jesus torna a dizer: _O meu jugo é suave e o meu fardo é leve_ (Mt 11,30).
+Também deveis vos esforçar para tratar a todas com a maior delicadeza possível, evitando a todo custo jamais obter pela força nada do que ordenais. Pois Deus deu a cada um a liberdade e não força ninguém, mas apenas propõe, chama e aconselha. Às vezes, no entanto, será preciso agir com mais severidade; contudo, que isso se faça no tempo e lugar oportuno, conforme a condição e as necessidades das pessoas. Mas só devemos ser levados a isto pela caridade e pelo zelo das almas.
+
+@secao Responsório | Ef 5,8-9; Mt 5,14.16
+
+@responsorio
+R. Vós agora, sois luz no Senhor;
+caminhai como filhos da luz.
+* São frutos da luz toda espécie
+de bondade, justiça e verdade.
+V. Vós sois a luz do mundo:
+brilhe aos homens vossa luz. * São frutos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que a santa virgem Ângela Meríci nos recomende ao vosso amor de Pai, para que, seguindo seus exemplos de caridade e prudência, sejamos fiéis aos vossos ensinamentos, proclamando-os em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

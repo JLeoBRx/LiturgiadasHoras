@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/paixaodosenhor_impar.htm
+@documento Ofício das Leituras - Tríduo Pascal Da Paixão E Ressurreição Do Senhor Sexta Feira Da Paixão Do Senhor
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SEXTA-FEIRA DA PAIXÃO DO SENHOR
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@antifona 2
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@salmo salmos/salmo-021-2-23-24-32
+
+@rubrica
+Esta última parte do salmo é facultativa
+
+@salmo salmos/salmo-021-2-23-24-32-v2
+
+@gloria
+
+@antifona
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@antifona 3
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@salmo salmos/salmo-037
+
+@gloria
+
+@antifona
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@texto
+V. As falsas testemunhas se ergueram.
+R. E vomitam violência contra mim.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {3,1-33}
+
+@tema
+Pranto e Esperança
+
+@texto
+Eu sou o homem que conheceu a miséria sob a vara de seu furor. Ele me guiou e me fez andar na treva e não na luz; só contra mim está ele volvendo e revolvendo sua mão o dia inteiro. Consumiu minha carne e minha pele, despedaçou os meus ossos. Elevou contra mim construções envolveu minha cabeça de tormento. Fez-me habitar nas trevas como os que estão mortos para sempre. Cercou-me com um muro, não posso sair; tornou pesadas minhas cadeiras. Por mais que eu grite por socorro ele abafa minha oração. Barrou meus caminhos com pedras lavradas, obstruiu minhas veredas. Ele foi para mim como urso à espreita, como leão de emboscada. Afastou-me de meu caminho, despedaçou-me, fez de mim horror. Retesou seu arco e me visou como alvo para a flecha. Cravou em meus rins as flechas de sua aljava. Tornei-me a irrisão de todo o meu povo, sua canção todo o dia. Saciou-me de amargura, inebriou-me de absinto. Ele quebrou meus dentes com cascalho, alimentou-me de cinza. Excluíste a paz de minha vida, esqueci a felicidade! Eu disse: minha existência terminou, minha esperança que vinha do Senhor. Lembra-te de minha miséria e de minha angústia: absinto e fel! Eu me lembro, sempre me lembro, transido dentro de mim. Eis o que recordarei a meu coração e por que eu espero: Os favores do Senhor não terminaram, suas compaixões não se esgotaram; elas se renovam todas as manhãs, grande é a sua fidelidade! Eu digo: Minha porção é o Senhor! Eis por que nele espero. O Senhor é bom para quem nele confia, para aquele que o busca. É bom esperar em silêncio a salvação do Senhor. É bom para o homem suportar o jugo desde sua juventude. Que esteja solitário e silencioso quando o Senhor o impuser sobre ele; que ponha sua boca no pó: talvez haja esperança! Que dê sua face a quem o fere e se sacie de opróbrios. Pois o Senhor não rejeita os humanos para sempre: se ele aflige, ele se compadece segundo sua grande bondade. Pois não é de bom grado que ele humilha e que aflige os filhos do homem!
+
+@secao Responsório | Jr 6,26;25,34
+
+@responsorio
+R. Filha do meu povo, veste-te de saco, revolve-te no pó,
+lamenta-te como por filho único.
+* No meio de vós foi morto o Salvador.
+V. Gemei pastores e gritai,
+revolvei-vos no pó, chefes do rebanho.
+* No meio.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados de São Leão Magno, papa
+{(Tract. 59 de Passione Domini, 4-6: CCL 138A,354-359)}
+
+@tema
+A cruz de Cristo é fonte de todas as bênçãos e causa de todas as graças
+
+@texto
+O Senhor, entregue ao arbítrio dos violentos, que zombavam da sua dignidade de rei, carregava ele próprio o instrumento de seu suplício, para se cumprir o que Isaías predissera: _Nasceu para nós um menino, foi-nos dado um_ _filho; ele traz aos ombros a marca da realeza_ (Is 9,5). Quando, pois, o Senhor carregou o lenho da cruz, que transformou em cetro de seu poder, o que foi aos olhos dos ímpios grande zombaria, manifestou aos fiéis um grande mistério. Porque o invicto vencedor de Satanás, o poderoso combatente contra as forças inimigas, transformou gloriosamente o troféu de seu triunfo e trouxe para todos os reinos, em seus ombros de invencível paciência, o adorável sinal da salvação, confirmando por sua própria atitude todos os seus imitadores, aos quais disse: _Quem não toma sua cruz_ _e não me segue, não é digno de mim_ (Mt 10,38). Quando a multidão acompanhava Jesus até o lugar do suplício, encontrou certo Simão cireneu que carregou o lenho da cruz pelo Senhor, sendo assim prefigurada a fé dos gentios, para os quais a cruz de Cristo não seria vergonha, mas glória. Por essa transferência da cruz, passara dos judeus aos pagãos, dos filhos segundo a carne aos filhos espirituais, a expiação realizada pelo Cordeiro sem mancha e a plenitude de todos os sacramentos. Pois diz o Apóstolo: _Cristo, nosso cordeiro pascal, foi imolado_ (1Cor 5,7), pois se ofereceu ao Pai como novo e verdadeiro sacrifício de reconciliação. Não foi crucificado no templo, cuja dignidade terminara, nem dentro da cidade que seria destruída por seu crime, mas fora dos muros, para que, cessado o mistério das antigas vítimas, nova hóstia fosse colocada em novo altar, e a cruz de Cristo se tornasse altar, não do templo, mas do mundo inteiro. Ao ser Cristo exaltado na cruz, amados filhos, não deve ocorrer à nossa mente a mesma imagem que aos olhos dos ímpios, aos quais disse Moisés: _A tua vida estará suspensa_ _diante de teus olhos; temerás dia e noite, e não crerás em_ _tua vida_ (Dt 28,66). Ó admirável poder da cruz! Ó inefável glória da Paixão! Nela se encontra o tribunal do Senhor, o julgamento do mundo e o poder do Crucificado! Tu, Senhor, atraíste tudo a ti. E, ao estenderes todos os dias tuas mãos a um povo infiel e rebelde, todo o mundo se converteu, reconhecendo a tua majestade. Atraíste, Senhor, tudo a ti, quando todos os elementos proferiram a mesma sentença para condenação do crime dos judeus: as luzes do céu escureceram, mudando o dia em noite, a terra foi agitada por tremores insólitos, recusando-se toda a criação a servir aos ímpios. Tu, Senhor, atraíste tudo a ti, e o que só no templo judaico era celebrado em símbolos velados, passou a constituir um sacramento pleno e aberto, a ser celebrado por todas as nações da terra. A ordem dos levitas é agora mais gloriosa, mais ampla a dignidade dos presbíteros, mais santa a unção dos sacerdotes; pois a tua cruz é fonte de todas as bênçãos e causa de todas as graças; por ela, os que creem passam da fraqueza à força, do opróbrio à glória, da morte à vida. Agora também, cessada a variedade dos sacrifícios carnais, e a diversidade das vítimas, realiza-se a única oblação do teu corpo e do teu sangue; pois _és o verdadeiro Cordeiro_ _de Deus que tira o pecado do mundo_ (Jo 1,29) e levas à plenitude todos os mistérios. E, assim como há um só sacrifício em lugar de tantas vítimas, também haja um só reino, formado de todas as nações.
+
+@secao Responsório | Mt 26,38.45
+
+@responsorio
+R. Minha alma está triste até a morte,
+permanecei aqui e vigiai comigo.
+Vereis uma grande multidão que me rodeará:
+* Vós fugireis e eu serei imolado por vós.
+V. Eis que é chegada a hora
+na qual o Filho do Homem será entregue nas mãos dos pecadores. * Vós fugireis.
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

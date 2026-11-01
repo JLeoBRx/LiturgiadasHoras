@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sabado_laudes.htm
+@documento Laudes - I Sábado do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+A vós dirijo os meus olhos já bem antes da aurora.
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@antifona
+A vós dirijo os meus olhos já bem antes da aurora.
+
+@antifona 2
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação!
+
+@salmo canticos/ex-15-1-4b-8-13-17-18
+
+@gloria
+
+@antifona
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação!
+
+@antifona 3
+Cantai louvores ao Senhor, todas as gentes! †
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+Cantai louvores ao Senhor, todas as gentes!
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele chega, o dia já nasce; a terra inteira exulta.
+* Alegra-te. Glória ao Pai. R. O Senhor é contigo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Não temas, ó povo de Deus
+eis que vem o Senhor. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Não temas, ó povo de Deus
+eis que vem o Senhor. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, que na sua eterna providência decidiu salvar seu povo; e digamos:
+
+R. **Protegei, Senhor, o vosso povo!**
+
+Senhor Deus, que prometestes enviar ao vosso povo o germe da justiça,
+– velai pela santidade de vossa Igreja. R.
+
+lnclinai, Senhor, o coração das pessoas para a verdade de vossa palavra,
+– e fortalecei na santidade todos os fiéis. R.
+
+Conservai-nos no amor de vosso Espírito Santo,
+– para recebermos a misericórdia do vosso Filho que vai chegar. R.
+
+Concedei, Deus clementíssimo, que permaneçamos firmes e fiéis até o fim,
+– para o dia da vinda de nosso Senhor Jesus Cristo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que enviastes a este mundo o vosso Unigênito para libertar da antiga escravidão o gênero humano, concedei aos que esperam vossa misericórdia chegar à verdadeira liberdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

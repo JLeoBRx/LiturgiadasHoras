@@ -1,0 +1,164 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/segundafeirasanta_vesperas.htm
+@documento Vésperas - Segunda-feira da Semana Santa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+o sangue e água jorraram.
+
+Árvore esplêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Não tem beleza nem aparência
+e o contemplamos desfigurado.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Não tem beleza nem aparência
+e o contemplamos desfigurado.
+
+@antifona 2
+Suscitarei para meu servo multidões,
+pois entregou a sua vida até à morte.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Suscitarei para meu servo multidões,
+pois entregou a sua vida até à morte.
+
+@antifona 3
+O Pai nos deu todas as graças em seu Filho.
+É nele que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+O Pai nos deu todas as graças em seu Filho.
+É nele que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@secao Leitura breve | Rm 5,8-9
+
+@texto
+A prova de que Deus nos ama é que Cristo morreu por nós, quando éramos ainda pecadores. Muito mais agora, que já estamos justificados pelo sangue de Cristo, seremos salvos da ira por ele.
+
+@secao Responsório breve
+
+@responsorio
+R. Jesus, lembrai-vos de mim, ao chegar a vosso Reino!
+* Vós que não rejeitais um coração oprimido. R. Jesus.
+V. Vós que vos fizestes obediente até a morte.
+* Vós que não. Glória ao Pai. R. Jesus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Como Moisés ergueu na haste a serpente no deserto,
+o Filho do Homem há de ser levantado numa cruz;
+e, assim, quem nele crer, não pereça para sempre,
+mas possua a vida eterna.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Como Moisés ergueu na haste a serpente no deserto,
+o Filho do Homem há de ser levantado numa cruz;
+e, assim, quem nele crer, não pereça para sempre,
+mas possua a vida eterna.
+
+@secao Preces
+
+@preces
+Adoremos o Salvador do gênero humano, que morrendo destruiu a morte e ressuscitando renovou a vida; e peçamos com humildade:
+
+R. **Santificai, Senhor, o povo que remistes com vosso sangue!**
+
+Jesus, nosso Redentor, concedei que, pela penitência, nos associemos cada vez mais plenamente à vossa Paixão,
+– a fim de alcançarmos a glória da ressurreição. R.
+
+Acolhei-nos sob a proteção de Maria, vossa Mãe, consoladora dos aflitos,
+– para podermos confortar os tristes com o mesmo auxílio que de vós recebemos. R.
+
+Concedei aos vossos fiéis a graça de tomar parte na vossa Paixão por meio dos sofrimentos da vida,
+– para que também neles se manifeste a vossa salvação. R.
+
+Senhor Jesus, que vos humilhastes na obediência até à morte e morte de cruz,
+– ensinai-nos a ser obedientes e a sofrer com paciência. R.
+
+{(intenções livres)}
+
+Tornai os corpos de nossos irmãos e irmãs falecidos semelhantes à imagem do vosso corpo glorioso,
+– e fazei-nos dignos de participar um dia, com eles, da vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo, que desfalece por sua fraqueza, recobrar novo alento pela Paixão do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

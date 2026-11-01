@@ -1,0 +1,227 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/transfiguracao.htm
+@documento Ofício das Leituras - Transfiguração Do Senhor Festa
+
+@celebracao
+TRANSFIGURAÇÃO DO SENHOR
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+A beleza da glória celeste
+que a Igreja esperando procura,
+Cristo a mostra no alto do monte,
+onde mais que o sol claro fulgura.
+
+Este fato é nos tempos notável:
+ante Pedro, Tiago e João,
+Cristo fala a Moisés e Elias
+sobre a sua futura Paixão.
+
+Testemunhas da lei, dos profetas
+e da graça estando presentes,
+sobre o Filho, Deus Pai testemunha,
+vindo a voz duma nuvem luzente.
+
+Com a face brilhante de glória,
+Cristo hoje mostrou no Tabor
+o que Deus tem no céu preparado
+aos que o seguem, vivendo no amor.
+
+Da sagrada visão o mistério
+ergue aos céus o fiel coração.
+E, por isso, exultante de gozo,
+sobe a Deus nossa ardente oração.
+
+Pai e Filho, e Espírito da Vida,
+um só Deus, Vida e Paz, Sumo Bem,
+concedei-nos, por vossa presença,
+esta glória no Reino. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Um só dia em vosso templo, ó Senhor,
+vale mais do que milhares fora dele.
+
+@salmo salmos/salmo-083
+
+@gloria
+
+@antifona
+Um só dia em vosso templo, ó Senhor,
+vale mais do que milhares fora dele.
+
+@antifona 2
+Uma luz já se levanta para os justos,
+e a alegria para os retos corações.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Uma luz já se levanta para os justos,
+e a alegria para os retos corações.
+
+@antifona 3
+Exaltai o Senhor nosso Deus,
+e prostrai-vos perante seu Monte!
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Exaltai o Senhor nosso Deus,
+e prostrai-vos perante seu Monte!
+
+@texto
+V. Na coluna de nuvem falava com eles.
+R. E guardavam a lei e os preceitos divinos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {3,7―4,6}
+
+@tema
+A glória da nova aliança resplandece em Cristo
+
+@texto
+Irmãos: [3,7] Se o ministério da morte, gravado em pedras com letras, foi cercado de tanta glória, que os israelitas não podiam fitar o rosto de Moisés, por causa do seu fulgor, ainda que passageiro, [8] quanto mais glorioso não será o ministério do Espírito? [9] Pois, se o ministério da condenação foi glorioso, muito mais glorioso há de ser o ministério ao serviço da justificação. [10] Realmente, em comparação com uma glória tão eminente, já não se pode chamar glória o que então tinha sido glorioso. [11] Pois, se o que era passageiro foi marcado de glória, muito mais glorioso será o que permanece. [12] Tendo uma tal esperança, nós procedemos com muita segurança e confiança, [13] não como Moisés, que cobria o rosto com um véu, para que os israelitas não vissem o fim de um brilho passageiro. [14] Mas, o entendimento deles ficou embotado. Pois, até ao dia de hoje, quando lêem o Antigo Testamento, esse mesmo véu continua descido. Ele não é levantado, porque ele desaparece somente na adesão a Cristo. [15] Até ao dia de hoje, quando os israelitas lêem os escritos de Moisés, um véu cobre o coração deles. [16] Mas, todas as vezes que o coração se converte ao Senhor, o véu é tirado. [17] Pois o Senhor é o Espírito, e onde está o Espírito do Senhor, aí está a liberdade. [18] Todos nós, porém, com o rosto descoberto, contemplamos e refletimos a glória do Senhor e assim somos transformados à sua imagem, pelo seu Espírito, com uma glória cada vez maior. [4,1] Não desanimamos no exercício deste ministério que recebemos da misericórdia divina. [2] Rejeitamos todo procedimento dissimulado e indigno, feito de astúcias, e não falsificamos a palavra de Deus. Mas, pelo contrário, manifestamos a verdade e, assim, nos recomendamos a toda consciência humana, diante de Deus. [3] E se o nosso evangelho está velado, é só para aqueles que perecem que ele está velado. [4] O deus deste mundo cegou a inteligência desses incrédulos, para que eles não vejam a luz esplendorosa do evangelho da glória de Cristo que é a imagem de Deus. [5] De fato, não nos pregamos a nós mesmos, pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos, por causa de Jesus. [6] Com efeito, Deus que disse: “Do meio das trevas brilhe a luz”, é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo.
+
+@secao Responsório | 1Jo 3,1.2b
+
+@responsorio
+R. Vede, irmãos, quanto amor Deus Pai nos mostrou:
+* Que sejamos chamados de filhos de Deus e o somos de fato.
+V. Sabemos que, quando se manifestar, nós havemos de ser semelhantes a ele. * Que sejamos.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão no dia da Transfiguração do Senhor, de Anastásio Sinaíta, bispo
+{(Séc.VII)} {(Nn.6-10: Mélanges d’archéologie ET d’histoire 67 [1955],241-244)}
+
+@tema
+É bom nós estarmos aqui
+
+@texto
+Jesus manifestou a seus discípulos este mistério no monte Tabor. Havia andado com eles, falando-lhes a respeito de seu reino e da segunda vinda na glória. Mas talvez não estivessem muito seguros daquilo que lhes anunciara sobre o reino. Para que tivessem firme convicção no íntimo do coração e, mediante as realidades presentes, cressem nas futuras, deu-lhes ver maravilhosamente a divina manifestação do monte Tabor, imagem prefigurada do reino dos céus. Foi como se dissesse: _Para que a demora não faça nascer em vós a incredulidade, logo, agora mesmo, eu vos digo, alguns dos que aqui estão não provarão a morte antes de verem o Filho do homem vindo na glória de seu Pai_ (cf. Mt 16,28). Mostrando o Evangelista ser um só o poder de Cristo com sua vontade, acrescentou: _E seis dias depois, tomou Jesus consigo Pedro, Tiago e João e levou-os a um monte alto e afastado. E transfigurou-se diante deles; seu rosto brilhou como o sol, as vestes se fizeram alvas como a neve. E eis que apareceram Moisés e Elias a falar com ele_ (cf. Mt 17,1-3). São estas as maravilhas da presente solenidade, é este o mistério de salvação para nós que agora se cumpriu no monte: ao mesmo tempo, congregam-nos agora a morte e a festa de Cristo. Para penetrarmos junto àqueles escolhidos dentre os discípulos, inspirados por Deus, na profundeza destes inefáveis e sagrados mistérios, escutemos a voz divina que do alto, do cume da montanha, nos chama instantemente. Para lá, cumpre nos apressarmos, ouso dizer, como Jesus, que agora nos céus é nosso chefe e precursor, com quem refulgiremos aos olhos espirituais – renovadas de certo modo as feições de nossa alma – conformados à sua imagem; e à semelhança dele, incessantemente transfigurados, feitos consortes da natureza divina e prontos para as alturas. Para lá corramos cheios de ardor e de alegria; entremos na nuvem misteriosa, semelhantes a Moisés e Elias ou Tiago e João. Sê tu também como Pedro, arrebatado pela divina visão e aparição, transfigurado por esta linda Transfiguração, erguido do mundo, separado da terra. Deixa a carne, abandona a criatura e converte-te para o Criador a quem Pedro, fora de si, diz: _Senhor, é bom para nós estarmos aqui_ (Mt 17,4). Sim, Pedro, verdadeiramente _é bom para nós estarmos aqui_ com Jesus e aqui permanecermos pelos séculos. Que pode haver de mais delicioso, de mais profundo, de melhor do que estar com Deus, conformar-se a ele, encontrar-se na luz? De fato, cada um de nós, tendo Deus em si, transfigurado em sua imagem divina, exclame jubiloso: _É bom para nós estarmos aqui_, onde tudo é luminoso, onde está o gáudio, a felicidade e a alegria. Onde no coração tudo é tranquilo, sereno e suave. Onde se vê a Cristo, Deus. Onde ele junto com o Pai tem sua morada e ao entrar, diz: _Hoje chegou a salvação para esta casa_ (Lc 19,9). Onde com Cristo estão os tesouros e se acumulam os bens eternos. Onde as primícias e figuras dos séculos futuros se desenham como em espelho.
+
+@secao Responsório | Cf. Mt 17,2.3; cf. Lc 9,32.34
+
+@responsorio
+R. O rosto de Jesus brilhava como o sol;
+* Ao verem os discípulos a glória do Senhor, ficaram possuídos de temor e admiração.
+V. E eis que apareceram Elias e Moisés falando com Jesus. * Ao verem.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que na gloriosa Transfiguração de vosso Filho confirmastes os mistérios da fé pelo testemunho de Moisés e Elias, e manifestastes de modo admirável a nossa glória de filhos adotivos, concedei aos vossos servos e servas ouvir a voz do vosso Filho amado, e compartilhar da sua herança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

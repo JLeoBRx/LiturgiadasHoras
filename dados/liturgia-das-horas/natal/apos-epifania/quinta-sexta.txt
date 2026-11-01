@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quinta_aposepifania_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@salmo salmos/salmo-118-65-72
+
+@gloria
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@secao Leitura breve | Is 9,1
+
+@texto
+O povo, que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu.
+
+@texto
+V. As nações hão de ver vossa justiça.
+R. E os reis contemplarão a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, a aurora do vosso dia eterno despontou sobre todas as nações. Concedei ao vosso povo conhecer a fulgurante glória do seu Redentor e por ele chegar à luz que não se extingue. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

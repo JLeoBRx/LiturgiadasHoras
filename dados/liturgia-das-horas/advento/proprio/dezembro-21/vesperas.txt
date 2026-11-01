@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/21_vesperas.htm
+@documento Próprio - Vésperas - 21 de dezembro
+
+@secao Leitura breve | 1Cor 4,5
+
+@texto
+Não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o tempo favorável,
+* Eis o dia da salvação! R. Eis o tempo.
+V. O Reino de Deus está bem perto. * Eis o dia.
+Glória ao Pai. R. Eis o tempo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Sol nascente justiceiro, resplendor da Luz eterna:
+Oh, vinde e iluminai os que jazem entre as trevas
+e, na sombra do pecado e da morte, estão sentados.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Sol nascente justiceiro, resplendor da Luz eterna:
+Oh, vinde e iluminai os que jazem entre as trevas
+e, na sombra do pecado e da morte, estão sentados.
+
+@secao Preces
+
+@preces
+Roguemos humildemente, irmãos e irmãs caríssimos, a Jesus Cristo que nos libertou das trevas do pecado; e o invoquemos com toda confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Reuni, Senhor, numa só fé todos os povos da terra,
+– e confirmai para com eles vossa aliança eterna. R.
+
+Cordeiro de Deus, que viestes tirar o pecado do mundo,
+– purificai-nos de toda mancha de pecado. R.
+
+Vós, que viestes salvar o que estava perdido,
+– vinde novamente para que não se percam os que remistes com o vosso sangue. R.
+
+Concedei a vossa alegria eterna, quando vierdes no último dia,
+– àqueles que vos procuram na fé e na esperança. R.
+
+{(intenções livres)}
+
+Vós, que haveis de vir para julgar os vivos e os mortos,
+– admiti com bondade entre os eleitos os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ouvi com bondade, ó Deus, as preces do vosso povo, para que, alegrando-nos hoje com a vinda do vosso Filho em nossa carne, alcancemos o prêmio da vida eterna, quando ele vier na sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

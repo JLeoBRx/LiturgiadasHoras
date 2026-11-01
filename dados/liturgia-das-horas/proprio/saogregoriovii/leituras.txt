@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saogregoriovii.htm
+@documento Ofício das Leituras - São Gregório Vii, Papa
+
+@celebracao
+SÃO GREGÓRIO VII, PAPA
+
+@biografia
+Hildebrando nasceu na Toscana (Itália), cerca do ano 1028; foi educado em Roma e abraçou a vida monástica. Por diversas vezes foi legado dos papas de seu tempo para auxiliar na reforma da Igreja. Em 1073, eleito para a cátedra de São Pedro, com o nome de Gregório VII, continuou corajosamente a reforma começada. Muito combatido, principalmente pelo rei Henrique IV, foi desterrado para Salerno, onde morreu, em 1085.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Gregório VII, papa
+{(Séc.XI)} {(Ep. 64 extra Registrum: PL 148,709-710)}
+
+@tema
+A Igreja livre, casta, católica
+
+@texto
+Em nome do Senhor Jesus, que nos remiu com sua morte, nós vos pedimos e suplicamos que procureis diligentemente informar-vos acerca do motivo e do modo como sofremos tribulações e angústias da parte dos inimigos da religião cristã.
+Desde que, por disposição divina, a Mãe Igreja me colocou no trono apostólico, apesar de sentir-me indigno e contra a minha vontade – Deus é testemunha! – procurei com o máximo empenho que a santa Igreja, esposa de Deus, senhora e mãe nossa, voltando à primitiva beleza que lhe é própria, permanecesse livre, casta e católica. Mas como isso desagrada muitíssimo ao antigo inimigo, este armou seus sequazes contra nós, para que tudo sucedesse ao contrário.
+Por isso, fez ele tanto mal contra nós, ou antes, contra a Sé Apostólica, como ainda não pudera fazê-lo, desde os tempos do imperador Constantino Magno. Nem é de admirar muito, porque, quanto mais o tempo passa, tanto mais ele se esforça para extinguir a religião cristã.
+Agora, pois, meus caríssimos irmãos, ouvi com muita atenção o que vos digo. Todos os que no mundo inteiro têm o nome de cristãos e conhecem verdadeiramente a fé cristã, sabem e creem que São Pedro, o príncipe dos apóstolos, é o pai de todos os cristãos e o primeiro pastor, depois de Cristo, e que a santa Igreja Romana é a mãe e mestra de todas as Igrejas.
+Se, portanto, acreditais nestas coisas e as afirmais sem hesitação, eu, vosso humilde irmão e indigno mestre, rogo-vos e recomendo-vos pelo amor de Deus onipotente, que ajudeis e socorrais este vosso pai e esta vossa mãe, se desejais alcançar por seu intermédio a absolvição de todos os pecados, a bênção e a graça, neste mundo e no outro.
+Deus onipotente, de quem procedem todos os bens, sempre ilumine a vossa alma e a fecunde com o seu amor e o amor do próximo. Assim, pela vossa constante dedicação, mereceis a recompensa de São Pedro, vosso pai na fé, e da Igreja, vossa mãe, e chegareis sem temor à sua companhia. Amém.
+
+@secao Responsório | Eclo 45,3; Sl 77(78),70a.71bc
+
+@responsorio
+R. O Senhor glorificou-o perante os poderosos
+e deu-lhe suas ordens diante de seu povo;
+* E mostrou-lhe sua glória.
+V. O Senhor o escolheu para guiar a Israel
+que escolheu por sua herança. * E mostrou-lhe.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, o espírito de fortaleza e a sede de justiça que animaram o papa São Gregório VII, para que vossa Igreja rejeite o mal, pratique a justiça e viva em perfeita caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

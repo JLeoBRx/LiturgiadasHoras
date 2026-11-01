@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/paulodacruz.htm
+@documento Ofício das Leituras - São Paulo Da Cruz, Presbítero
+
+@celebracao
+SÃO PAULO DA CRUZ, PRESBÍTERO
+
+@biografia
+Nasceu em Ovada, na Ligúria (Itália), no ano 1694; durante a juventude ajudou a seu pai no comércio. Aspirando à vida de perfeição, renunciou a tudo e dedicou-se ao serviço dos pobres e dos enfermos e associou a si para o mesmo fim vários colaboradores. Ordenado sacerdote, trabalhou cada vez mais intensamente pela salvação das almas, estabelecendo casas da Congregação que tinha fundado (Passionistas), exercendo a atividade apostólica e mortificando-se com duras penitências. Morreu em Roma no dia 18 de outubro de 1775.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Paulo da Cruz, presbítero
+{(Séc. XVIII)} {(Epist. 1,43; 2,440.825)}
+
+@tema
+Anunciamos Cristo crucificado
+
+@texto
+Coisa excelente e muito santa é pensar e meditar sobre a Paixão do Senhor, pois por este caminho chegamos à união com Deus. Nesta escola tão santa aprende-se a verdadeira sabedoria. Foi aí que todos os santos a estudaram. Quando, pois, a cruz de nosso bom Jesus lançar raízes mais profundas em vosso coração, então cantareis: seja “Sofrer e não morrer”; seja “Ou sofrer ou morrer”, seja, ainda melhor, “Nem sofrer nem morrer, apenas a perfeita conversão à vontade de Deus”.
+O amor é força de união e faz seus os tormentos do Bem muito amado. Este fogo vai até à medula, converte o que ama no amado. De modo mais profundo, o amor se mistura à dor, e a dor, ao amor. Há, então, uma mistura de amor e de dor tão estreita que não se pode separar o amor da dor, nem a dor, do amor. Por isto, quem ama se alegra com sua dor, e exulta em seu amor sofredor.
+Sede, portanto, constantes na prática de todas as virtudes, imitando, de modo particular, o suave Jesus padecente, porque é isto o cume do puro amor. Procedei de modo que todos reconheçam que trazeis não só interior, mas ainda exteriormente, a imagem de Cristo crucificado, modelo de toda doçura e mansidão. Quem está interiormente unido ao Filho do Deus vivo, revela no exterior sua imagem pelo contínuo exercício da virtude heróica, principalmente pela paciência cheia de força que nem em segredo nem em público se queixa. Portanto, escondei-vos em Jesus crucificado, sem desejar coisa alguma a não ser que todos em tudo aceitem sua vontade.
+Verdadeiros amigos do Crucificado, celebrareis sempre no templo interior a festa da cruz, suportando em silêncio, sem vos apoiar em criatura alguma. Uma festa deve ser celebrada na alegria; por isso os que amam o Crucificado irão à festa da cruz com rosto jovial e sereno, suportando calados, de forma que permaneça oculta aos homens, só conhecida pelo sumo Bem. Numa festa há sempre banquete; as iguarias são a vontade divina, a exemplo de nosso Amor crucificado.
+
+@secao Responsório | Gl 6,14; Hb 3,18
+
+@responsorio
+R. Minha glória é a Cruz do Senhor, Cristo Jesus;
+* Por quem o mundo está crucificado para mim
+e eu também estou crucificado para o mundo.
+V. Eu me alegro no Senhor
+e exulto em Deus, meu Salvador. * Por quem.
+
+@secao Oração
+
+@oracao
+Ó Deus, o presbítero São Paulo, que fez da cruz o seu único amor, nos obtenha a vossa graça para que, estimulados pelo seu exemplo, abracemos com coragem a nossa cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

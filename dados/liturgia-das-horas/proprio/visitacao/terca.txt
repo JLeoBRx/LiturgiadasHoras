@@ -1,0 +1,99 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/visitacao_terca.htm
+@documento Hora Média - Visitação da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+No Tempo da Páscoa
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+No Tempo Comum
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum na oração
+com Maria, a Mãe de Jesus. (TP. Aleluia.)
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum na oração
+com Maria, a Mãe de Jesus. (TP. Aleluia.)
+
+@secao Leitura breve | Jt 13,18-19
+
+@texto
+Ó filha, tu és bendita pelo Deus Altíssimo, mais que todas as mulheres da terra! E bendito é o Senhor Deus, que criou o céu e a terra, e te levou a decepar a cabeça do chefe de nossos inimigos! Porque nunca o teu louvor se afastará do coração dos homens, que se lembrarão do poder de Deus para sempre.
+
+@texto
+V. Felizes os que ouvem a palavra do Senhor. (TP. Aleluia.)
+R. Felizes os que a vivem e a praticam cada dia. (TP. Aleluia.)
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que inspirastes à Virgem Maria sua visita a Isabel, levando no seio o vosso Filho, fazei-nos dóceis ao Espírito Santo, para cantar com ela o vosso louvor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

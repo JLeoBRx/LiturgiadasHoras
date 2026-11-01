@@ -1,0 +1,195 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/fieisdefuntos.htm
+@documento Ofício das Leituras - Comemoração De Todos Os Fiéis Defuntos Mesmo Quando O Dia 2 De Novembro For Domingo, Celebra-Se A Comemoração De Todos Os Fiéis Defuntos.
+
+@celebracao
+COMEMORAÇÃO DE TODOS OS FIÉIS DEFUNTOS
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Fonte única da vida,
+que nos séculos viveis,
+aos mortais e réus da culpa
+vosso olhar, ó Deus, volvei.
+
+Pai, ao homem pecador
+dais a morte em punição,
+para o pó voltar ao pó,
+submetendo-o à expiação.
+
+Mas a vida, que inspirastes
+por um sopro, permanece
+como germe imperecível
+dum viver que não fenece.
+
+A esperança nos consola:
+nossa vida brotará.
+O primeiro a ressurgir,
+Cristo, a vós nos levará.
+
+Tenham vida em vosso Reino
+vossos servos, que Jesus
+consagrou no Santo Espírito
+e os guiou da fé à luz.
+
+Ó Princípio e Fim de tudo,
+ao chegar a nossa hora,
+conduzi-nos para o Reino
+onde brilha a eterna aurora.
+
+@secao Salmodia
+
+@antifona 1
+Do pó da terra me formastes
+e de carne me vestistes:
+no fim dos dias, ó Senhor,
+meu Redentor, ressuscitai-me!
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@antifona
+Do pó da terra me formastes
+e de carne me vestistes:
+no fim dos dias, ó Senhor,
+meu Redentor, ressuscitai-me!
+
+@antifona 2
+Dignai-vos, Senhor, libertar-me,
+vinde logo, Senhor, socorrer-me!
+
+@salmo salmos/salmo-039-2-14-17-18-ii-v2
+
+@gloria
+
+@antifona
+Dignai-vos, Senhor, libertar-me,
+vinde logo, Senhor, socorrer-me!
+
+@antifona 3
+Do Deus vivo tem sede a minh’alma.
+Quando irei contemplar sua face?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Do Deus vivo tem sede a minh’alma.
+Quando irei contemplar sua face?
+
+@texto
+V. Como é grande, ó Senhor, o vosso amor!
+R. Vossa Palavra me devolva a minha vida!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {15,12-34}
+
+@tema
+A ressurreição de Cristo, esperança dos fiéis
+
+@texto
+Irmãos: [12] Se se prega que Cristo ressuscitou dos mortos, como podem alguns dizer entre vós que não há ressurreição dos mortos? [13] Se não há ressurreição dos mortos, então Cristo não ressuscitou. [14] E se Cristo não ressuscitou, a nossa pregação é vã e a vossa fé é vã também. [15] Nesse caso, nós seríamos testemunhas mentirosas de Deus, porque teríamos atestado – contra Deus – que ele ressuscitou Cristo, quando, de fato, ele não o teria ressuscitado – se é verdade que os mortos não ressuscitam. [16] Pois, se os mortos não ressuscitam, então Cristo também não ressuscitou. [17] E se Cristo não ressuscitou, a vossa fé não tem nenhum valor e ainda estais nos vossos pecados. [18] Então, também os que morreram em Cristo pereceram. [19] Se é para esta vida que pusemos a nossa esperança em Cristo, nós somos – de todos os homens – os mais dignos de compaixão.
+[20] Mas, na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram. [21] Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. [22] Como em Adão todos morrem, assim também em Cristo todos reviverão. [23] Porém, cada qual segundo uma ordem determinada: em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. [24] A seguir, será o fim, quando ele entregar a realeza a Deus-Pai, depois de destruir todo o principado e todo o poder e força. [25] Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. [26] O último inimigo a ser destruído é a morte. [27] Com efeito, “Deus pôs tudo debaixo de seus pés”. Mas, quando ele disser: “Tudo está submetido”, é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo. [28] E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
+
+[29] De outro modo, o que pretendem aqueles que batizam em favor dos mortos? Se os mortos realmente não ressuscitam, por que se batizam por eles? [30] E nós, por que nos expomos a perigos a toda hora? [31] Cada dia, irmãos, me exponho à morte, tão certo como sois a minha glória em Jesus Cristo, nosso Senhor. [32] Se foi por intenção humana que combati com feras em Éfeso, o que me aproveita isso? Se os mortos não ressuscitam, comamos e bebamos porque amanhã morreremos. [33] Não vos enganeis: “As más companhias corrompem os bons costumes”. [34] Caí em vós, como é justo, e não pequeis porque alguns vivem na ignorância de Deus. Para vossa vergonha é que digo.
+
+@secao Responsório | 1Cor 15,25-26; cf. Ap 20,13.14
+
+@responsorio
+R. É preciso que ele reine até que tenha colocado
+debaixo de seus pés seus inimigos, todos eles,
+* A morte há de ser o seu último inimigo,
+a ser exterminado.
+V. A morte e o seu reino devolverão todos os mortos
+e a morte e o seu reino serão precipitados
+no lago incandescente. * A morte.
+
+@rubrica
+Ou:
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {15,35-57}
+
+@tema
+Ressurreição dos mortos e vinda do Senhor
+
+@texto
+Irmãos: [35] Alguém perguntará: como ressuscitam os mortos? [36] Insensato! O que semeias, não nasce sem antes morrer. [37] E, quando semeias, não semeias o corpo da planta, que há de nascer, mas o simples grão, como o trigo, ou de alguma outra planta. [38] E Deus lhe dá o corpo segundo quis, a cada uma das sementes o próprio corpo. [39] Não é toda carne a mesma carne, senão que uma é a carne dos homens, outra a do gado, outra a das aves e outra a dos peixes. [40] E há corpos celestes e corpos terrestres, e um é o resplendor dos corpos celestes e outro o dos terrestres. [41] Um é o resplendor do sol, outro o da lua e outro o das estrelas, e uma estrela difere da outra no brilho. [42] Pois assim será também a ressurreição dos mortos. [43] Semeia-se em ignomínia, e ressuscita-se em glória. [44] Semeia-se em fraqueza, e ressuscita-se em vigor. Semeia-se um corpo animal, e ressuscita-se um corpo espiritual.
+Se há um corpo animal, há também um espiritual. [45] Por isso está escrito: o primeiro homem, Adão, “foi um ser vivo”. O segundo Adão é um espírito vivificante. [46] Veio primeiro não o homem espiritual, mas o homem natural; depois é que veio o homem espiritual. [47] O primeiro homem, tirado da terra, é terrestre; o segundo homem vem do céu. [48] Como foi o homem terrestre, assim também são as pessoas terrestres; e como é o homem celeste, assim também vão ser as pessoas celestes. [49] Como já refletimos a imagem do homem terrestre, assim também refletiremos a imagem do homem celeste.
+[50] Mas isto vos digo, irmãos: a carne e o sangue não podem possuir o reino de Deus, nem a corrupção herdará a incorrupção. [51] Eu vos comunico um mistério: Nem todos nós morreremos, mas todos nós seremos transformados. [52] Num instante, num abrir e fechar de olhos, ao soar da trombeta final – pois a trombeta soará – não só os mortos ressuscitarão incorruptíveis, mas nós também seremos transformados. [53] Pois é preciso que este ser corruptível se vista de incorruptibilidade; é preciso que este ser mortal se vista de imortalidade. [54] E quando este ser corruptível estiver vestido de incorruptibilidade e este ser mortal estiver vestido de imortalidade, então estará cumprida a palavra da Escritura: “A morte foi tragada pela vitória. [55] Ó morte, onde está a tua vitória? Onde está o teu aguilhão? [56] O aguilhão da morte é o pecado, e a força do pecado é a Lei. [57] Graças sejam dadas a Deus que nos dá a vitória pelo Senhor nosso, Jesus Cristo.
+
+@secao Responsório Cf. Jó 19,25.26.27
+
+@responsorio
+R. Eu creio que vive o meu Redentor
+e no último dia do pó me erguerei,
+* Em minha carne eu verei o meu Deus, meu Salvador.
+V. Eu mesmo o verei, verei o Senhor,
+com meus próprios olhos. * Em minha.
+
+@rubrica
+Ou:
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,16–5,10}
+
+@tema
+Quando for destruída esta nossa morada terrestre,_
+_receberemos no céu uma habitação eterna
+
+@texto
+Irmãos: [4,16] Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor. [9] Por isso, também nos empenhamos em ser agradáveis a ele, quer estejamos no corpo, quer já tenhamos deixado essa morada. [10] Aliás, todos nós temos de comparecer às claras perante o tribunal de Cristo, para cada um receber a devida recompensa – prêmio ou castigo – do que tiver feito ao longo de sua vida corporal.
+
+@secao Responsório | Cf. Sl 50(51),5
+
+@responsorio
+R. Senhor, não me julgueis por minhas obras;
+não fiz nada de bom perante vós;
+por isso peço à vossa Majestade:
+* Apagai o meu pecado, ó meu Deus!
+V. Do meu pecado todo inteiro, me lavai,
+e apagai completamente a minha culpa. * Apagai.
+
+@secao Segunda leitura
+
+@leitura
+Do Livro sobre a morte de seu irmão Sátiro, de Santo Ambrósio, bispo
+{(Lib. 2,40.41.46.47.132.133: CSEL 73,270-274.323-324)} {(Séc. IV)}
+
+@tema
+Morramos com Cristo, para vivermos com ele
+
+@texto
+Percebemos que a morte é lucro, e a vida, castigo. Por isso Paulo diz: _Para mim, viver é Cristo, e morrer é lucro_ (Fl 1,21). Como unir-se a Cristo, espírito da vida, senão pela morte do corpo? Morramos então com ele, para com ele vivermos. Morramos diariamente no desejo e em ato, para que, por esta segregação, nossa alma aprenda a se subtrair das concupiscências corporais. Que ela, como se já estivesse nas alturas, onde não a alcançam os desejos terrenos, aceite a imagem da morte para não incorrer no castigo da morte. Pois a lei da carne luta contra a lei do espírito e apóia-se na lei do erro. Mas qual o remédio? _Quem me libertará deste corpo de morte?_ (Rm 7,24) _A graça de Deus, por Jesus Cristo, nosso Senhor_ (cf. Rm 7,25s). Temos o médico, usemos o remédio. Nosso remédio é a graça de Cristo, e corpo de morte é o nosso corpo. Portanto afastemo-nos do corpo e não se afaste de nós o Cristo! Embora ainda no corpo, não lhe obedeçamos, não abandonemos as leis naturais, mas prefiramos os dons da graça. E que mais? Pela morte de um só, o mundo foi remido. Cristo, se quisesse, poderia não ter morrido. Não julgou, porém, dever fugir da morte como coisa inútil nem que nos salvaria melhor, evitando a morte. Com efeito, sua morte é a vida de todos. Somos marcados com sua morte, ao orar anunciamos sua morte, ao oferecer o sacrifício pregamos sua morte. Sua morte é vitória, é sacramento, é a solenidade anual do mundo. Não diremos ainda mais sobre a sua morte, se provarmos pelo exemplo divino que dela resultou a imortalidade, e que a morte se redimiu a si mesma? Não se deve lastimar a morte, que é causa da salvação do povo. Não se deve fugir da morte, que o Filho de Deus não rejeitou, e da qual não fugiu. Na verdade, a morte não era da natureza, mas converteu-se em natureza. No princípio, Deus não fez a morte, mas deu-a como remédio. Pela prevaricação, condenada ao trabalho de cada dia e ao gemido intolerável, a vida dos homens começou a ser miserável. Era preciso dar fim aos males, para que a morte restituísse o que a vida perdera. Pois a imortalidade seria mais penosa que benéfica, se não fosse promovida pela graça. Por isso, tem o espírito de afastar-se logo da vida tortuosa e das nódoas do corpo terreno, e lançar-se para a celeste assembleia, embora pertença só aos santos lá chegar, e cantar a Deus o louvor, descrito no livro profético, que os citaristas cantam: _Grandes e maravilhosas tuas obras, Senhor Deus onipotente; justos e verdadeiros teus caminhos, ó Rei das nações! Quem não temeria e não glorificaria teu nome? Porque só tu és santo; todos os povos irão e se prostrarão diante de ti_ (Ap 15,3-4). Contemplar também, ó Jesus, tuas núpcias, nas quais a esposa, ao canto jubiloso de todos, é conduzida da terra ao céu – _a ti virá toda carne_ (Sl 64,3) – já não mais manchada pelo mundo, mas unida ao espírito. Era isto que o santo Davi desejava, acima de tudo, contemplar e admirar, quando dizia: _Uma só coisa pedi ao Senhor, a ela busco: habitar na casa do Senhor todos os dias de minha vida e ver as delícias do Senhor_ (Sl 26,4).
+
+@secao Responsório | Cf. 2Mc 12,45b; Mt 13,43a
+
+@responsorio
+R. Para aqueles que adormecem na piedade,
+* Está reservada excelente recompensa.
+V. Como o sol, então, os justos brilharão
+no Reino do seu Pai onipotente. * Está reservada.
+
+@secao Oração
+
+@oracao
+Ó Deus, escutai com bondade as nossas preces e aumentai a nossa fé no Cristo ressuscitado, para que seja mais viva a nossa esperança na ressurreição dos vossos filhos e filhas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

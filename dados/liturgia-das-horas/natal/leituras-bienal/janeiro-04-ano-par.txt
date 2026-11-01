@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/leituras/bienal/4janeiro_par.htm
+@documento Ofício das Leituras - 4 De Janeiro
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Cântico dos Cânticos {6,2-7,10}
+
+@tema
+Elogio da Esposa
+
+@texto
+[2] Meu amado desceu ao seu jardim, aos terrenos perfumados, foi pastorear nos jardins e colher açucenas. [3] Eu sou do meu amado, e meu amado é meu, o pastor das açucenas. [4] És formosa, minha amiga, és como Tersa, bela como Jerusalém, és terrível como esquadrão com bandeiras desfraldadas. [5] Afasta de mim teus olhos, pois teus olhos me perturbam! Teu cabelo é rebanho de cabras Ondulando pelas faldas de Galaad; [6] teus dentes... rebanho tosquiado subindo após o banho, cada ovelha com seus gêmeos, nenhuma delas sem cria. [7] Metades de romã são tuas faces escondidas sob o véu. [8] Que sejam sessenta as rainhas, e oitenta as concubinas, e as donzelas, sem conta: uma só é minha pomba sem defeito, [9] uma só a preferida pela mãe que a gerou. Vendo-a, felicitam-na as jovens, louvam-na rainhas e concubinas: [10] “Quem é essa que desponta como a aurora, bela como a lua, fulgurante como o sol, terrível como esquadrão com bandeiras desfraldadas?” [11] Desci ao jardim das nogueiras para ver os brotos dos vales, ver se a videira florescia, se os botões das romeiras se abriam. [12] Eu não conhecia meu coração: ele fez de mim os carros de Aminadib! {7.1}Volta-te, volta-te. Sulamita, volta-te, volta-te... queremos te contemplar! Ah! Vós a contemplais, a Sulamita, como uma dança em dois coros [2] Os teus pés... como são belos nas sandálias, ó filha de nobres; as curvas dos teus quadris, que parecem colares, obras de artista. [3] Teu umbigo... essa taça redonda em que o vinho nunca falta; teu ventre, monte de trigo rodeado de açucenas; [4] teus seios, dois filhotes, filhos gêmeos de gazela; [5] teu pescoço, torre de marfim; teus olhos, as piscinas de Hesebon junto às portas de Bat-Rabim. Teu nariz, como a torre do Líbano voltada para Damasco; [6] tua cabeça que se alteia como o Carmelo, e teus cabelos cor de púrpura, enlaçando um rei nas tranças. [7] Como és bela, quão formosa, que amor delicioso! [8] Tens o talhe da palmeira, e teus seios são os cachos. [9] Pensei: “Subirei à palmeira para colher dos seus frutos!” Sim, teus seios são cachos de uva, e o sopro das tuas narinas perfuma como o aroma das maçãs. [10] Tua boca é vinho delicioso que se derrama na minha molhando-me lábios e dentes.
+
+@secao Responsório | Ct 6,4.3;Sl 84,11
+
+@responsorio
+R. És bonita, minha amiga, formosa como Jerusalém.
+* Eu sou do meu amado, e meu amado é meu.
+V.Amor e verdade se encontram, justiça e paz se abraçam.
+* Eu sou.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Juliano de Vézelay, monge
+{(Sermo 1 de Nativitate: SCh 192,52-54.60)}
+
+@tema
+No silêncio mediano, veio o mediador entre Deus e os homens
+
+@texto
+Um silêncio mediano envolvia todas as coisas, mesmo os profetas que haviam clamado, e os apóstolos que ainda haveriam de clamar. Esse silêncio estava no meio, integrando-se entre os clamores de ambos, isto é, dos que haviam clamado e dos que em breve clamariam. Assim, _quando um silêncio mediano envolvia todas as coisas, a_ _Palavra onipotente - isto é,_ o Verbo do Pai _- lançou-se do_ _trono real_ (Sb 18,14-15). Como convinha, como homem para os homens, como mortal para os mortais, a fim de salvar os mortos pela morte. Consciente da sua tarefa de mediador, _operou a salvação pela terra_ (Sl 73,12), morreu sobre a cruz, elevado da terra, entre o céu e a terra, reconciliando os dois. Vê, se tens olhos para ver, o plano desse mediador: como tal nasceu, morreu e operou a salvação, sempre mediando.
+
+Também nisto há um mistério: _quando a noite mediava o_ _seu rápido percurso, lançou-se do trono real_ (Sb 18,14-15). Davi mostrou que o conhecia, quando disse a respeito do Filho: “_Desde o seio, desde a aurora eu te gerei_ (Sl 109,3 LXX); não do meu seio, mas do seio da Virgem, ou antes do meu seio, já que do seio da Virgem”. Desde a aurora, porque foi no meio da noite, no silêncio universal, antes do levantar da aurora, que o Senhor nasceu da Virgem. Nessa hora a luz de Deus brilhou em torno dos pastores que vigiavam sobre os seus rebanhos.
+
+Quando a noite mediava o seu rápido percurso, é o que está dito: Mas que noite é esta? Talvez seja aquele período em que, desde as origens do mundo até o fim dos tempos, os filhos de Adão vivem no Egito tenebroso, submetidos às trevas da sua ignorância e totalmente incapazes de se verem uns aos outros.
+
+@secao Responsório | Sl 109,3;2,7
+
+@responsorio
+R. No dia do teu nascimento,
+já possuirás a realeza, no esplendor da santidade;
+* Eu te gerei antes da aurora.
+V. O Senhor me disse: Tu és meu Filho.
+* Eu te gerei antes.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7quintapascoa_nona.htm
+@documento Hora Média - Nona - Quinta-feira da 7ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@salmo salmos/salmo-118-113-120-xv-samech
+
+@gloria
+
+@salmo salmos/salmo-078-1-5-8-11-13
+
+@gloria
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@secao Leitura breve | Cf. Cl 1,12-14
+
+@texto
+Demos graças ao Pai, que nos tornou capazes de participar da luz, que é a herança dos santos. Ele nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado, por quem temos a redenção, o perdão dos pecados.
+
+@texto
+V. Ó Senhor, ficai conosco, aleluia,
+R. Pois o dia já declina. Aleluia.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o vosso Espírito nos transforme com a força dos seus dons, dando-nos um coração capaz de agradar-vos e de aceitar a vossa vontade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

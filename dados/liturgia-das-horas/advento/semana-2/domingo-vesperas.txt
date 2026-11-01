@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2domingo_vesperas.htm
+@documento Vésperas - II Domingo do Advento
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+O Senhor há de vir sobre as nuvens do céu
+com grande poder. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Senhor há de vir sobre as nuvens do céu
+com grande poder. Aleluia.
+
+@antifona 2
+Eis que vem o Senhor com certeza;
+se ele tarda, espera e confia,
+pois virá sem demora. Aleluia.
+
+@salmo salmos/salmo-113b
+
+@gloria
+
+@antifona
+Eis que vem o Senhor com certeza;
+se ele tarda, espera e confia,
+pois virá sem demora. Aleluia.
+
+@antifona 3
+O Senhor Legislador, o Senhor e nosso Rei
+há de vir para salvar-nos.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+O Senhor Legislador, o Senhor e nosso Rei
+há de vir para salvar-nos.
+
+@secao Leitura breve | Fl 4,4-5
+
+@texto
+Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo!
+
+@secao Responsório breve
+
+@responsorio
+R. Alegremo-nos, todos, no Senhor!
+* Alegremo-nos, pois ele está bem perto! R. Alegremo-nos.
+V. Favorecestes, ó Senhor, a vossa terra, libertastes os cativos de Jacó. * Alegremo-nos.
+Glória ao Pai. R. Alegremo-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat-v2
+
+@antifona
+
+@secao Preces
+
+@preces
+Imploremos, irmãos caríssimos, a Cristo Redentor, que veio salvar a humanidade; e digamos confiantes:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que pelo mistério da encarnação revelastes aos seres humanos a glória da vossa divindade,
+– dai vida ao mundo com a vossa vinda. R.
+
+Vós, que assumistes a fragilidade da natureza humana,
+– concedei-nos a vossa misericórdia. R.
+
+Vós, que, na primeira vez, viestes humilde, para remir o mundo de seus pecados,
+– quando vierdes novamente, absolvei-nos de toda culpa. R.
+
+Vós, que viveis eternamente e tudo governais com justiça,
+– por vossa bondade, fazei-nos alcançar a herança prometida. R.
+
+{(intenções livres)}
+
+Vós, que estais sentado à direita do Pai,
+– alegrai as almas dos nossos defuntos com a luz da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso e cheio de misericórdia, nós vos pedimos que nenhuma atividade terrena nos impeça de correr ao encontro do vosso Filho, mas, instruídos pela vossa sabedoria, participemos da plenitude de sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,164 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/roquegonzalez_laudes.htm
+@documento Laudes - Santos Roque González, Afonso Rodriguez e João de Castillo, presbíteros e mártires
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+De Cristo o dom eterno,
+dos mártires vitória,
+alegres celebremos
+com cânticos de glória.
+
+São príncipes da Igreja,
+na luta triunfaram.
+Do mundo sendo luzes,
+à glória já chegaram.
+
+Venceram os terrores,
+as penas desprezaram.
+Na morte coroados,
+à luz feliz chegaram.
+
+Por ímpios torturados,
+seu sangue derramaram.
+Mas, firmes pela fé,
+na vida eterna entraram.
+
+Invictos na esperança,
+guardando a fé constantes,
+no pleno amor de Cristo
+já reinam triunfantes.
+
+Já têm no Pai a glória,
+no Espírito a energia,
+e exultam pelo Filho,
+repletos de alegria.
+
+Pedimos, Redentor,
+unidos ser também
+dos mártires à glória
+no vosso Reino. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Os mártires de Cristo, em seus tormentos,
+contemplavam os céus e suplicavam:
+Ó Senhor, dai-nos a força nesta hora!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Os mártires de Cristo, em seus tormentos,
+contemplavam os céus e suplicavam:
+Ó Senhor, dai-nos a força nesta hora!
+
+@antifona 2
+Espíritos celestes e santos do Senhor,
+cantai com alegria um hino ao nosso Deus. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Espíritos celestes e santos do Senhor,
+cantai com alegria um hino ao nosso Deus. Aleluia.
+
+@antifona 3
+Vós mártires todos em coro,
+louvai o Senhor nas alturas!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Vós mártires todos em coro,
+louvai o Senhor nas alturas!
+
+@secao Leitura breve | 2Cor 1,3-5
+
+@texto
+Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação. Ele nos consola em todas as nossas aflições, para que, com a consolação que nós mesmos recebemos de Deus, possamos consolar os que se acham em toda e qualquer aflição. Pois, à medida que os sofrimentos de Cristo crescem para nós, cresce também a nossa consolação por Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os santos e os justos
+* Viverão eternamente. R. Os santos.
+V. E a sua recompensa é o Senhor. * Viverão.
+Glória ao Pai. R. Os santos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Felizes de vós, os perseguidos
+por causa da justiça do Senhor,
+porque o Reino dos céus há de ser vosso!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Felizes de vós, os perseguidos
+por causa da justiça do Senhor,
+porque o Reino dos céus há de ser vosso!
+
+@secao Preces
+
+@preces
+Irmãos, celebremos nosso Salvador, a Testemunha fiel, nos mártires que deram a vida pela palavra de Deus; e digamos:
+
+R. **Com vosso sangue nos remistes, Senhor!**
+
+Por intercessão de vossos mártires que abraçaram livremente a morte para testemunharem a sua fé,
+– dai-nos, Senhor, a verdadeira liberdade de espírito. R.
+
+Por intercessão de vossos mártires, que proclamaram a fé, derramando o próprio sangue,
+– dai-nos, Senhor, pureza e constância na fé. R.
+
+Por intercessão de vossos mártires que, carregando a cruz, seguiram vossos passos,
+– dai-nos, Senhor, suportar com coragem as dificuldades da vida. R.
+
+Por intercessão de vossos mártires, que lavaram suas vestes no sangue do Cordeiro,
+– dai-nos, Senhor, vencer todas as ciladas da carne e do mundo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

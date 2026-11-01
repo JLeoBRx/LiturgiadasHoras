@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/12quintaTC_impar.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo 12a SEMANA DO TEMPO COMUM / QUINTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Primeiro Livro de Samuel {2,22-36}
+
+@tema
+Condenação da família de Eli
+
+@texto
+[22] Eli era muito velho, mas era informado de tudo o que os filhos faziam a todo Israel. [23] E que eles se deitavam com as mulheres que permaneciam à entrada da tenda da reunião. E ele lhes dizia: “Por que fazeis tais coisas, coisas más, de que ouço falar por todo o povo? [24] Não, meus filhos, não é boa a fama que ouço o povo de Deus espalhar. [25] Se um homem comete uma falta contra outro homem, Deus o julgará; mas se pecar contra Deus, quem intercederá por ele?” Mas não escutaram a voz de seu pai, que aprouvera ao Senhor tirar-lhes a vida. [26] Entretanto, o jovem Samuel ia crescendo em estatura e em beleza, diante do Senhor e diante dos homens. [27] Um homem de Deus veio a Eli e lhe disse: “Assim diz o Senhor: Eis que me revelei à casa de teu pai quando eles estavam no Egito, escravos da casa do Faraó. [28] Eu o escolhi dentre todas as tribos de Israel, para tornar-se meu sacerdote, para subir ao meu altar, para fazer queimar o incenso, para trazer o efod perante mim, e concedi à casa de teu pai todas as refeições consumidas pelos israelitas. [29] Por que pisais meu sacrifício e oferenda que ordenei para a minha Habitação, honras os teus filhos mais do que a mim, engordando-vos com todas as oferendas de Israel, meu povo? [30] Por isso que - oráculo do Senhor, Deus de Israel - eu disse que a tua casa e a casa de teu pai andariam na minha presença para sempre, mas agora - oráculo do Senhor - longe de mim tal coisa! Porque eu honro aqueles que me honram, e os que me desprezam serão desconsiderados. [31] Dias virão em que cortarei o teu braço e o braço da casa de teu pai, para que não haja mais velho algum na tua casa. [32] Tu verás um rival na Habitção, assim como todo o bem que farei a Israel, e nunca mais haverá velho na tua casa. [33] Conservarei perto do meu altar algum dentre os teus, para que os seus olhos se consumam e tu sejas afligido, mas todo o conjunto de tua casa morrerá em idade adulta. [34] O que acontecerá aos teus dois filhos Hofni e Finéias será para ti o sinal destas coisas: morrerão ambos no mesmo dia. [35] Farei surgir um sacerdote fiel, que procederá conforme o meu coração e o meu desejo, e lhe construirei uma casa estável, e ele andará sempre na presença do meu ungido. [36] E todo aquele que sobreviver da tua casa virá se prostrar diante dele para conseguir uma moedinha de prata ou um naco de pão, e dirá: ‘Rogo-te que me dês uma função sacerdotal, para que eu possa ter um pouco de pão para comer.’”
+
+@secao Responsório Jó 5,17.18, Hb 12,5
+
+@responsorio
+R. Bem-aventurado o homem a quem Deus corrige!
+Não desprezes a lição do Todo-poderoso,
+* Pois ele fere e cuida; se golpeia, sua mão cura.
+V. Não desprezes a correção do Senhor.
+Não desanimes, quando repreendido por ele.
+* Pois ele fere.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado “sobre a Oração do Senhor”, de São Cipriano, bispo e mártir
+{(Séc. III)} {(Nn. 26-27)}
+
+@tema
+Vigiai e orai
+
+@texto
+Ao diabo é concedido poder sobre nós com um duplo objetivo: dar-nos castigo, se pecarmos; a glória, se superarmos a prova. É o que aconteceu no caso de Jó; Deus disse a Satanás: _Tudo o que ele tem está em teu poder; mas_ _não estendas a tua mão contra a sua pessoa_ (Jó 1,12). No Evangelho, diz o Senhor, no tempo de Sua paixão: _Nenhum_ _poder terias contra mim, se não te fosse dado do alto_ (Jo 19,11).
+Rogando para não cair em tentação, lembramo-nos de nossa fraqueza e miséria e, desse modo, não nos ensoberbamos e não assumimos posturas orgulhosas e insolentes, glorificando-nos pela nossa piedade e por nosso espírito de mortificação. Pois, ensinando-nos a humildade, diz o Senhor: _Vigiai e orai para não cairdes em tentação. O espírito_ _está pronto, mas a carne é fraca_ (Mt 26,41). A confissão humilde e submissa da nossa fraqueza nos faz atribuir a Deus tudo aquilo que, com amor e temor, almejamos a fim de obtê-lo da sua misericórdia.
+Concluindo a oração, uma síntese brevíssima resume todos os nossos pedidos e súplicas. Dizemos em último lugar: _Livrai-nos do mal_ (Mt 6,13), abrangendo com esta frase as adversidades que o inimigo possa maquinar contra nós neste mundo. Contra todas as suas tramas, estaremos firmes e seguros com o socorro de Deus: só Ele pode delas nos livrar, dando ouvidos às nossas súplicas. Tendo dito: Livrai-nos do mal, nada nos resta mais a pedir. Conseguida essa proteção, estamos seguros e tranquilos contra as maquinações do diabo e do mundo. Com efeito, que se poderá temer no mundo, se temos Deus por guardião?
+
+@secao Responsório | Ef 6,10-11; Jó 7,1
+
+@responsorio
+R. Fortalecei-vos no Senhor e na força do seu poder.
+* Revesti-vos de toda a armadura de Deus,
+para poderdes permanecer firmes contra as ciladas do Diabo.
+V. A vida do homem sobre a terra é uma milícia.
+* Revesti-vos de toda a armadura de Deus.
+
+@secao Oração
+
+@oracao
+Senhor, nosso Deus, dai-nos por toda a vida a graça de vos amar e temer, pois nunca cessais de conduzir os que firmais no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

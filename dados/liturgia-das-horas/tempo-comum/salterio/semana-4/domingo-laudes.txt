@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4domingo_laudes.htm
+@documento Laudes - IV Domingo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Eis que da noite já foge a sombra
+e a luz da aurora refulge, ardente.
+Nós, reunidos, a Deus oremos
+e invoquemos o Onipotente.
+
+Deus, compassivo, nos salve a todos
+e nos afaste de todo o mal.
+O Pai bondoso, por sua graça,
+nos dê o reino celestial.
+
+Assim nos ouça o Deus Uno e Trino,
+Pai, Filho e Espírito Consolador.
+Por toda a terra vibram acordes
+dum canto novo em seu louvor.
+
+@secao Salmodia
+
+@antifona 1
+Dai graças ao Senhor, porque ele é bom!
+Eterna é a sua misericórdia. Aleluia. †
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Dai graças ao Senhor, porque ele é bom!
+Eterna é a sua misericórdia. Aleluia.
+
+@antifona 2
+Obras todas do Senhor, aleluia,
+bendizei o Senhor, aleluia!
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Obras todas do Senhor, aleluia,
+bendizei o Senhor, aleluia!
+
+@antifona 3
+Louve a Deus tudo o que vive e que respira, aleluia!
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Louve a Deus tudo o que vive e que respira, aleluia!
+
+@secao Leitura breve | 2Tm 2,8.11-13
+
+@texto
+Lembra-te de Jesus Cristo, da descendência de Davi, ressuscitado dentre os mortos. Merece fé esta palavra: se com ele morremos, com ele viveremos. Se com ele ficamos firmes, com ele reinaremos. Se nós o negamos, também ele nos negará. Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos louvamos, dando graças, ó Senhor,
+* Dando graças, invocamos vosso nome.
+R. Nós vos louvamos.
+V. E publicamos os prodígios que fizestes. * Dando graças.
+Glória ao Pai. R. Nós vos louvamos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@lacuna antifona-benedictus
+
+@salmo canticos/benedictus
+
+@gloria
+
+@lacuna antifona-benedictus
+
+@secao Preces
+
+@preces
+Ao Deus de todo poder e bondade, que nos ama e sabe do que temos necessidade, abramos o coração com alegria; e o aclamemos com louvores, dizendo:
+
+R. **Nós vos louvamos, Senhor, e em vós confiamos!**
+
+Nós vos bendizemos, Deus todo-poderoso e Rei do universo, porque, mesmo sendo pecadores, viestes à nossa procura,
+– para conhecermos vossa verdade e servirmos à vossa majestade. R.
+
+Deus, que abristes para nós as portas da vossa misericórdia,
+– não nos deixeis jamais afastar do caminho da vida. R.
+
+Ao celebrar a ressurreição do vosso amado Filho,
+– fazei que este dia transcorra para nós cheio de alegria espiritual. R.
+
+Dai, Senhor, a vossos fiéis o espírito de oração e de louvor,
+– para que vos demos graças sempre e em todas as coisas. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

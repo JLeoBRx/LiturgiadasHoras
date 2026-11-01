@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/dia24/4sexta_nona.htm
+@documento Hora Média (Nona) - IV Sexta-feira do Advento (24 de dezembro)
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!
+
+@salmo salmos/salmo-118-161-168-xxi-sin
+
+@gloria
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!

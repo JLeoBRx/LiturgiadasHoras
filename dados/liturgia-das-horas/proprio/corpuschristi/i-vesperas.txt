@@ -1,0 +1,180 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/corpuschristi_Ivesperas.htm
+@documento I Vésperas - Santíssimo Sacramento do Corpo e Sangue de Cristo
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vamos todos louvar juntos
+o mistério do amor,
+pois o preço deste mundo
+foi o sangue redentor,
+recebido de Maria,
+que nos deu o Salvador.
+
+Veio ao mundo por Maria,
+foi por nós que ele nasceu.
+Ensinou sua doutrina,
+com os homens conviveu.
+No final de sua vida,
+um presente ele nos deu.
+
+Observando a Lei mosaica,
+se reuniu com os irmãos.
+Era noite. Despedida.
+Numa ceia: refeição.
+Deu-se aos doze em alimento,
+pelas suas próprias mãos.
+
+A Palavra do Deus vivo
+transformou o vinho e o pão
+no seu sangue e no seu corpo
+para a nossa salvação.
+O milagre nós não vemos,
+basta a fé no coração.
+
+Tão sublime sacramento
+adoremos neste altar,
+pois o Antigo Testamento
+deu ao Novo seu lugar.
+Venha a fé por suplemento
+os sentidos completar.
+
+Ao Eterno Pai cantemos
+e a Jesus, o Salvador.
+Ao Espírito exaltemos,
+na Trindade, eterno amor.
+Ao Deus Uno e Trino demos
+a alegria do louvor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor bom e clemente
+alimentou os que o temem,
+e deixou-nos a lembrança
+de suas grandes maravilhas.
+
+@salmo salmos/salmo-110
+
+@gloria
+
+@antifona
+O Senhor bom e clemente
+alimentou os que o temem,
+e deixou-nos a lembrança
+de suas grandes maravilhas.
+
+@antifona 2
+O Senhor, que traz a paz à sua Igreja,
+nos dá como alimento a flor do trigo.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+O Senhor, que traz a paz à sua Igreja,
+nos dá como alimento a flor do trigo.
+
+@antifona 3
+Em verdade eu vos digo:
+Não foi Moisés quem deu outrora
+aquele pão que vem do céu,
+porém meu Pai é quem vos dá
+o verdadeiro pão do céu.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+Em verdade eu vos digo:
+Não foi Moisés quem deu outrora
+aquele pão que vem do céu,
+porém meu Pai é quem vos dá
+o verdadeiro pão do céu.
+
+@secao Leitura breve | 1Cor 10,16-17
+
+@texto
+O cálice da bênção, o cálice que abençoamos, não é comunhão com o sangue de Cristo? E o pão que partimos, não é comunhão com o corpo de Cristo? Porque há um só pão, nós todos somos um só corpo, pois todos participamos desse único pão.
+
+@secao Responsório breve
+
+@responsorio
+R. Deus lhes deu para comer o pão do céu,
+* Aleluia, aleluia. R. Deus lhes deu.
+V. O homem se nutriu do pão dos anjos. * Aleluia.
+Glória ao Pai. R. Deus lhes deu.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quão suave é vosso Espírito, ó Senhor, em nosso meio!
+Pois quisestes demonstrar tal doçura a vossos filhos,
+que os famintos saciais com o pão que vem do céu
+de sabor delicioso,
+e aos ricos insolentes despedis de mãos vazias.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quão suave é vosso Espírito, ó Senhor, em nosso meio!
+Pois quisestes demonstrar tal doçura a vossos filhos,
+que os famintos saciais com o pão que vem do céu
+de sabor delicioso,
+e aos ricos insolentes despedis de mãos vazias.
+
+@secao Preces
+
+@preces
+Cristo nos convida a todos para a Ceia em que entrega seu corpo e sangue pela vida do mundo. Peçamos-lhe com amor e confiança:
+
+R. **Cristo, pão do céu, dai-nos a vida eterna!**
+
+Cristo, Filho do Deus vivo, que nos mandastes celebrar a ceia eucarística em memória de vós,
+– fortalecei a Igreja com a fiel celebração de vossos mistérios. R.
+
+Cristo, sacerdote único do Deus Altíssimo, que confiastes aos sacerdotes a oferenda da Eucaristia,
+– fazei que eles realizem em suas vidas o que celebram no sacramento. R.
+
+Cristo, maná descido do céu, que reunis num só corpo todos os que participam do mesmo pão,
+– conservai na paz e na concórdia aqueles que creem em vós. R.
+
+Cristo, médico celeste, que no pão da vida nos ofereceis o remédio da imortalidade e o penhor da ressurreição,
+– dai saúde aos doentes e perdão aos pecadores. R.
+
+{(intenções livres)}
+
+Cristo, rei da eterna glória, que nos mandastes celebrar a eucaristia para anunciar a vossa morte até à vossa vinda no fim dos tempos,
+– tornai participantes da vossa ressurreição, todos os que morreram no vosso amor. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

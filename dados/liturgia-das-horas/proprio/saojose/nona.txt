@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojose_nona.htm
+@documento Hora Média - São José, esposo da Bem-Aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Não o tendo encontrado, voltaram seus pais
+para Jerusalém, procurando o Menino.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Não o tendo encontrado, voltaram seus pais
+para Jerusalém, procurando o Menino.
+
+@secao Leitura breve | Eclo 2,18-19
+
+@texto
+Os que temem o Senhor não desobedecem às suas palavras, os que o amam observam os seus caminhos. Os que temem o Senhor procuram o seu beneplácito, os que o amam saciam-se com a sua lei.
+
+@texto
+V. É grande a sua glória em vosso auxílio.
+R. De esplendor e majestade o revestistes.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, pelas preces de São José, a quem confiastes as primícias da Igreja, concedei que ela possa levar à plenitude os mistérios da salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,171 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/31dezembro_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@antifona 2
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@antifona 3
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@secao Leitura breve | Is 4,2-3
+
+@texto
+Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel. Então, os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação. * Aleluia, aleluia. Glória ao Pai.
+R. O Senhor
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O coro dos anjos louvava cantando:
+Glória a Deus nas alturas dos céus, aleluia.
+Paz na terra aos homens que Ele ama, aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O coro dos anjos louvava cantando:
+Glória a Deus nas alturas dos céus, aleluia.
+Paz na terra aos homens que Ele ama, aleluia.
+
+@secao Preces
+
+@preces
+Com humilde confiança imploremos ao Cristo Senhor, que em sua graça apareceu a todos; e digamos:
+
+R. **Senhor, tende piedade de nós!**
+
+Cristo, nascido do Pai antes de todos os séculos, esplendor de sua glória, imagem de sua substância, que tudo firmais na vossa palavra,
+– que este dia seja vivificado por vosso Evangelho. R.
+
+Cristo, nascido neste mundo quando veio a plenitude dos tempos, para salvar o gênero humano e libertar toda criatura,
+– dai a todos a liberdade. R.
+
+Cristo, Filho consubstancial ao Pai, gerado antes da aurora, nascido em Belém para que se cumprisse a Escritura,
+– fazei brilhar na Igreja a pobreza evangélica. R.
+
+Cristo, Deus e homem, Senhor e Filho de Davi, segundo as Escrituras,
+– que Israel vos reconheça como seu Messias. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que estabelecestes o princípio e a plenitude de toda a religião na encarnação do vosso Filho, concedei que sejamos contados entre os discípulos daquele que é toda a salvação da humanidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

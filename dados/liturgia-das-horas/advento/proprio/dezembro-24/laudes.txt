@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/24_laudes.htm
+@documento Próprio - Laudes - 24 de dezembro
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@secao Responsório breve
+
+@responsorio
+R. Amanhã será varrida da terra a iniquidade. R. Amanhã.
+V. E sobre nós há de reinar o Salvador do mundo.
+R. Amanhã. Glória ao Pai. R. Amanhã.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Completaram-se os dias de Maria dar à luz
+o seu Filho primogênito.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Completaram-se os dias de Maria dar à luz
+o seu Filho primogênito.
+
+@secao Preces
+
+@preces
+Oremos, com espírito de fé, irmãos e irmãs caríssimos, a Cristo Redentor, que virá ao mundo com grande poder e glória; e supliquemos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que haveis de vir cheio de poder e majestade,
+– olhai benigno para a nossa humildade e fazei-nos dignos de vossos dons. R.
+
+Vós, que viestes proclamar a Boa-nova à humanidade,
+– dai-nos anunciar sempre a vossa salvação. R.
+
+Vós, que viveis eternamente na glória celeste, e tudo governais com poder e sabedoria,
+– concedei-nos aguardar com alegria a bem-aventurada esperança, enquanto aguardamos a vossa vinda gloriosa. R.
+
+E a nós, que desejamos a graça da vossa vinda,
+– confortai-nos com a assistência do vosso poder divino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Apressai-vos e não tardeis, Senhor Jesus, para que a vossa chegada renove as forças dos que confiam em vosso amor. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

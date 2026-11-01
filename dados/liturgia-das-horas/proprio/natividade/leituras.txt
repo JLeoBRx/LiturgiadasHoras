@@ -1,0 +1,222 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/natividade.htm
+@documento Ofício das Leituras - Natividade Da Bem-Aventurada Virgem Maria
+
+@celebracao
+NATIVIDADE DA BEM-AVENTURADA VIRGEM MARIA
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó florão da humana raça,
+virginal Mãe de Jesus,
+tu, aos filhos da desgraça,
+vens fazer filhos da luz.
+
+Já trazendo a realeza
+ao nascer do rei Davi,
+vês crescer tua nobreza,
+quando Deus nasce de ti.
+
+Tua luz venceu a treva
+do pecado original,
+transformando os filhos de Eva
+em nação sacerdotal.
+
+Tua prece nos consiga
+de Deus Pai pleno perdão,
+e, calcada a culpa antiga,
+a divina comunhão.
+
+Ao Deus trino, Virgem pura,
+erga o homem seu louvor;
+restauraste a criatura,
+dando à luz o Criador.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Gênesis {3,9-20}
+
+@tema
+Sentença contra o pecador e promessa de salvação
+
+@texto
+Naqueles dias: [9] O Senhor Deus chamou Adão, dizendo: “Onde estás?” [10] E ele respondeu: “Ouvi tua voz no jardim, e fiquei com medo porque estava nu; e me escondi”. [11] Disse-lhe o Senhor Deus: “E quem te disse que estavas nu? Então comeste da árvore, de cujo fruto te proibi comer?” [12] Adão disse: “A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi”. [13] Disse o Senhor Deus à mulher: “Por que fizeste isso?” E a mulher respondeu: “A serpente enganou-me e eu comi”. [14] Então o Senhor Deus disse à serpente: “Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens! Rastejarás sobre o ventre e comerás pó todos os dias da tua vida! [15] Porei inimizade entre ti e a mulher, entre a tua descendência e a dela. Esta te ferirá a cabeça e tu lhe ferirás o calcanhar”. [16] À mulher ele disse: “Multiplicarei os sofrimentos da tua gravidez: entre dores darás à luz os filhos; teus desejos te arrastarão para o teu marido, e ele te dominará”. [17] E disse em seguida a Adão: “Porque ouviste a voz da tua mulher e comeste da árvore, de cujo fruto te proibi comer, amaldiçoado será o solo por tua causa! Com sofrimento tirarás dele o alimento todos os dias da tua vida. [18] Ele produzirá para ti espinhos e cardos e comerás as ervas da terra; [19] comerás o pão com o suor do teu rosto até voltares à terra de que foste tirado, porque és pó e ao pó hás de voltar”. [20] E Adão chamou à sua mulher “Eva”, porque ela é a mãe de todos os viventes.
+
+@secao Responsório
+
+@responsorio
+R. É hoje o nascimento de Maria, a Virgem santa,
+descendente de Davi.
+* Por ela apareceu aos fiéis a salvação;
+sua vida gloriosa trouxe a luz ao mundo inteiro.
+V. Celebremos com carinho o natal da Virgem santa.
+* Por ela.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo André de Creta, bispo
+{(Séc.VIII)} {(Oratio 1:PG 97,806-810)}
+
+@tema
+O que era antigo passou, eis que tudo se fez novo
+
+@texto
+_O fim da lei é Cristo_ (Rm 10,4), que ao mesmo tempo separa da lei e eleva para o espírito. Nele está a consumação, pois o próprio legislador – tendo cumprido e terminado tudo – transfere a letra para o espírito. Assim tudo recapitula em si mesmo, vivendo a graça depois da lei. A lei, porém, submetida; a graça, harmoniosamente adaptada e unida. Não misturadas e confundidas as características de uma com as da outra, mas mudado de modo divino o que era pesado, servil e escravo, em leve e liberto, para que não mais estejamos _reduzidos à servidão dos elementos do mundo_ (Gl 4,3), como diz o Apóstolo, nem sujeitos ao jugo da escravidão da letra da lei. É este o resumo dos benefícios de Cristo para nós; é esta a manifestação do mistério; é o aniquilamento da natureza; é Deus e homem; é a deificação do homem assumido. Todavia era absolutamente necessário ao esplendor e à evidência da vinda de Deus aos homens uma introdução jubilosa, antecipando para nós o grande dom da salvação. Este é o sentido da solenidade de hoje que tem início na natividade da Mãe de Deus, cuja conclusão perfeita é a predestinada união do Verbo com a carne. Agora a Virgem nasce, é alimentada com leite, plasmada e preparada como mãe para o Deus e rei de todos os séculos. Neste momento, foi-nos dado duplo proveito: um, a elevação à verdade; outro, a rejeição da servidão e da vida sob a letra da lei. De que modo, com que fim? Pelo desaparecimento da sombra com a chegada da luz; em lugar da letra, a graça que dá a liberdade. Nossa solenidade está na fronteira entre a letra e a graça, unindo a realidade que chega aos símbolos que a figuravam, substituindo o antigo pelo novo. Portanto cante e exulte toda a criação e contribua com algo digno para a alegria deste dia. É um só o júbilo dos céus e da terra; juntos festejem tudo quanto está unido no mundo e acima do mundo. Pois hoje se construiu o templo criado do Criador de tudo, e pela criatura, de forma nova e bela, preparou-se nova morada para o seu Autor.
+
+@secao Responsório
+
+@responsorio
+R. Celebremos com carinho o natal da Mãe de Deus;
+* Sua vida gloriosa ilumina toda a Igreja.
+V. Com alegre coração para Cristo entoemos
+nosso canto de louvor nesta festa de Maria,
+a Mãe de Deus altíssima. * Sua vida.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Abri, ó Deus, para os vossos servos e servas os tesouros da vossa graça: e assim como a maternidade de Maria foi a aurora da salvação, a festa do seu nascimento aumente em nós a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

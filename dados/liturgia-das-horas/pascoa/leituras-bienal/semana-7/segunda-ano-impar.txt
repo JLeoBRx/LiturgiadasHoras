@@ -1,0 +1,62 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/bienal/7segundaPascoa_impar.htm
+@documento Ofício das Leituras - 7ª Semana Da Páscoa - Segunda-Feira
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {4,1-10}
+
+@tema
+Deus nos amou primeiro
+
+@texto
+Amados, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus, pois muitos falsos profetas vieram ao mundo. Nisto reconheceis o espírito de Deus: todo espírito que confessa que Jesus Cristo veio na carne é de Deus; e todo espírito que não confessa Jesus não é de Deus; é este o espírito do Anticristo. Dele ouvistes dizer que ele virá; e agora ele já está no mundo. Vós, filhinhos, sois de Deus e vós os vencestes. Porque o que está em vós é maior do que aquele que está no mundo. Eles são do mundo; por isso falam segundo o mundo e o mundo os ouve. Nós somos de Deus. Quem conhece a Deus nos ouve, quem não é de Deus não nos ouve. Nisto reconhecemos o espírito da verdade e o espírito do erro. Amados,amemo-nos uns aos outros, pois o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece a Deus. Aquele que não ama não conheceu a Deus, porque Deus é Amor. Nisto se manifestou o amor de Deus por nós: Deus enviou o seu Filho único ao mundo para que vivamos por ele. Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele quem nos amou e enviou-nos seu Filho como vítima de expiação pelos nossos pecados.
+
+@secao Responsório | 1Jo 4,9;Jo 3,16
+
+@responsorio
+R. Foi assim que o amor de Deus se manifestou entre nós:
+Deus enviou seu Filho único ao mundo,
+* Para que tenhamos a vida por meio dele, aleluia.
+V. Deus amou o mundo a tal ponto que lhe deu seu Filho único.* Para que.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre a Primeira Carta de São João, de Santo Agostinho, bispo
+{(Séc. V)} {(Tract. 6,11: SCh 75,300-304)}
+
+@tema
+A alma é purificada e alimentada pelo Espírito Santo
+
+@texto
+_Caríssimos, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus_ (1Jo 4,1). E quem faz o discernimento dos espíritos? João nos propôs um assunto difícil, meus irmãos: é bom que ele próprio nos ensine os caminhos do discernimento. Prestai atenção e vede o que diz: Caríssimos, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus.
+
+O Espírito Santo, no Evangelho, é chamado de água, quando o Senhor, de pé, disse em alta voz: _Se alguém tem sede, venha a mim, e beba quem crê em mim. De seu interior correrão rios de água viva_ (Jo 7,37-38). O evangelista explicou por que Jesus assim falou, acrescentando imediatamente: _Ele disse isso falando do Espírito que haviam de receber os que acreditassem nele_ (Jo 7,39). Por que o Senhor não batizou a muitos? O que João diz sobre isso? Não havia Espírito, porque Jesus ainda não tinha sido glorificado (Jo 7,39). Eles já tinham o Batismo, mas ainda não haviam recebido o Espírito Santo, que o Senhor enviou do céu no dia de Pentecostes. Para que fosse dado o Espírito Santo, esperava-se a glorificação do Senhor.
+
+Antes de ser glorificado e de enviar o Espírito, Jesus convidava os homens a se prepararem para receber a água acerca da qual afirmou: Se alguém tem sede venha a mim e beba. E também: Quem crê em mim, de seu interior correrão rios de água viva. Que água é essa? Ninguém me pergunte; pergunte ao Evangelho: Ele disse isso, falando do Espírito que haviam de receber os que acreditassem nele. Uma coisa é a água do sacramento; outra, a água que significa o Espírito de Deus.
+
+A água do sacramento é visível; a água do Espírito, invisível. A do sacramento lava o corpo e significa o efeito que produz na alma; por meio desse Espírito a própria alma é purificada e alimentada. Esse é o Espírito de Deus, que não podem possuir os que se separam da Igreja. E tampouco possuem esse Espírito os que, embora não se separem abertamente, são, no entanto, desligados dela por causa de sua maldade e, dentro dela, se revolvem como palha e não são grãos. Esses também não possuem o Espírito.
+
+Foi esse Espírito que o Senhor indicou com o nome de água e foi o que ouvimos nesta Carta: Não acrediteis em qualquer espírito. é igualmente o que atestam estas palavras de Salomão: _Procura abster-te de água estranha_ (Pr 9,1: Septuag.). Que água é essa? O Espírito. Mas a água é sempre sinal do Espírito? Nem sempre, mas em algumas passagens da Escritura ora significa o Batismo, ora os povos, ora o dom da sabedoria. Portanto, em diversos lugares da Escritura a palavra água tem significados diversos. Nesse trecho, porém, o termo água designa o Espírito Santo e não por interpretação nossa, mas pelo testemunho do Evangelho, que afirma: Ele disse isso, falando do Espírito que haviam de receber os que acreditassem nele.
+
+@secao Responsório | Cf. Jo 7,37.38-39
+
+@responsorio
+R. No último dia da festa, Jesus exclamou:
+Quem crê em mim, do seu interior correrão rios de água viva.
+* Ele disse isso, falando do Espírito que haviam de receber
+os que acreditassem nele, aleluia, aleluia.
+V. Se alguém tem sede, venha a mim, e beba quem crê em mim.
+Do seu interior correrão rios de água viva. * Ele disse.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que venha a nós a força do Espírito Santo, para que realizemos fielmente a vossa vontade e a manifestemos por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

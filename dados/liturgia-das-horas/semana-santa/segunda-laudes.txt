@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/segundafeirasanta_laudes.htm
+@documento Laudes - Segunda-feira da Semana Santa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O fel lhe dão por bebida
+sobre o madeiro sagrado.
+Espinhos, cravos e lança
+ferem seu corpo e seu lado.
+No sangue e água que jorram,
+mar, terra e céu são lavados.
+
+Ó cruz fiel sois a árvore
+mais nobre em meio às demais,
+que selva alguma produz
+com flor e frutos iguais.
+Ó lenho e cravos tão doces,
+um doce peso levais.
+
+Árvore, inclina os teus ramos,
+abranda as fibras mais duras.
+A quem te fez germinar
+minora tantas torturas.
+Leito mais brando oferece
+ao Santo Rei das alturas.
+
+Só tu, ó Cruz, mereceste
+suster o preço do mundo
+e preparar para o náufrago
+um porto, em mar tão profundo.
+Quis o cordeiro imolado
+banhar-te em sangue fecundo.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho Louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+A minha alma está triste até à morte:
+ficai aqui e comigo vigiai.
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+A minha alma está triste até à morte:
+ficai aqui e comigo vigiai.
+
+@antifona 2
+É agora o julgamento deste mundo,
+e seu príncipe será lançado fora.
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+É agora o julgamento deste mundo,
+e seu príncipe será lançado fora.
+
+@antifona 3
+O autor de nossa fé, que a leva à perfeição,
+aceitou sofrer na cruz, desprezando a ignomínia;
+mas agora está na glória, à direita de Deus Pai.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+O autor de nossa fé, que a leva à perfeição,
+aceitou sofrer na cruz, desprezando a ignomínia;
+mas agora está na glória, à direita de Deus Pai.
+
+@secao Leitura breve | Jr 11,19-20
+
+@texto
+Eu era como manso cordeiro levado ao sacrifício, e não sabia que tramavam contra mim: "Vamos cortar a árvore em toda sua força, eliminá-lo do mundo dos vivos, para seu nome não ser mais lembrado". E tu, Senhor dos exércitos, que julgas com justiça e perscrutas os afetos do coração, concede que eu veja a vingança que tomarás contra eles, pois eu te confiei a minha causa.
+
+@secao Responsório breve
+
+@responsorio
+R. Lembra-te de Cristo, ressuscitado dentre os mortos!
+* Ele é nossa salvação e nossa glória para sempre.
+R. Lembra-te.
+V. Se com ele nós morremos, também com ele viveremos.
+* Ele é. Glória ao Pai. R. Lembra-te.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ó Pai justo, o mundo não te conheceu;
+eu, porém, te conheci, pois me enviaste.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ó Pai justo, o mundo não te conheceu;
+eu, porém, te conheci, pois me enviaste.
+
+@secao Preces
+
+@preces
+Imploremos a Cristo Salvador, que nos remiu por sua morte e ressurreição; e digamos:
+
+R. **Senhor, tende piedade de nós!**
+
+Vós, que subistes a Jerusalém para sofrer a Paixão, e assim entrar na glória,
+– conduzi vossa Igreja à Páscoa da eternidade. R.
+
+Vós, que, elevado na cruz, deixastes a lança do soldado vos traspassar,
+– curai as nossas feridas. R.
+
+Vós, que transformastes o madeiro da cruz em árvore da vida,
+– concedei de seus frutos aos que renasceram pelo batismo. R.
+
+Vós, que, pregado na cruz, perdoastes o ladrão arrependido,
+– perdoai-nos também a nós pecadores. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo, que desfalece por sua fraqueza, recobrar novo alento pela Paixão do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

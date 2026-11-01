@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/faustinakowalska.htm
+@documento Ofício das Leituras - Até O Presente Momento A Santa Sé Ainda Não Aprovou Os Textos Eucológicos Em Português Do Brasil Para A Celebração Da Memória Facultativa De Santa Faustina Kowalska, Recentemente Inserida Pelo Papa Francisco. Assim, Os Textos Do Próprio Aqui Adotados São Os Da Tradução Para O Português De Portugal, Exceto A Oração Final, Que Já Está Conforme O Missal Aprovado. Santa Faustina Kowalska, Virgem
+
+@texto
+{Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração da memória facultativa de Santa Faustina Kowalska, recentemente inserida pelo Papa Francisco. Assim, os textos do Próprio aqui adotados são os da tradução para o português de Portugal, exceto a Oração Final, que já está conforme o Missal aprovado.}
+SANTA FAUSTINA KOWALSKA, VIRGEM
+
+@texto
+Faustina (Helena) Kowalska nasceu no ano 1905 em Glogowiec, na Polônia. Dedicou a sua breve vida a Cristo nas Irmãs da Virgem Santa Maria da Misericórdia. Tendo recebido a vocação de anunciar o amor misericordioso de Deus, escreveu no Diário da sua alma o testemunho da sua experiência mística e tornou-se, assim, a inspiração para um movimento destinado a anunciar e implorar a misericórdia divina em todo o mundo. Morreu em Cracóvia no ano 1938.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O mais suave dos hinos
+entoe o povo de Deus,
+pois eis que hoje uma virgem
+subiu à glória dos céus.
+
+No exílio ainda da terra,
+já se entregava ao louvor;
+agora, junta-se aos santos
+nos mesmos hinos de amor.
+
+A frágil carne domando,
+rosa entre espinhos floriu;
+calcando as pompas do mundo,
+do Cristo os passos seguiu.
+
+As suas preces ouvindo,
+Jesus nos dê sua mão,
+sempre a guiar nossos passos
+para a celeste mansão.
+
+Ao Pai e ao Espírito unido,
+nós te adoramos, Jesus:
+caminho estreito e seguro
+que à vida eterna conduz.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia de São João Paulo II, papa
+{(Séc. XX)} {(Acta Apostolicae Sedis AAS 92 [2000] 671-672)}
+
+@tema
+O anúncio da misericórdia de Cristo
+
+@texto
+Hoje é grande a minha alegria, ao propor à Igreja inteira, como dom de Deus para o nosso tempo, a vida e o testemunho da Irmã Faustina Kowalska. Pela Divina Providência, a vida desta humilde filha da Polônia esteve completamente ligada à história do século XX, que recentemente findou. De fato, foi entre a primeira e a segunda guerra mundial que Cristo lhe confiou a sua mensagem de misericórdia. Aqueles que recordam, que foram testemunhas e participantes nos eventos daqueles anos e nos horríveis sofrimentos que daí derivaram para milhões de homens, bem sabem que a mensagem da Misericórdia Divina era necessária.
+Jesus disse à Irmã Faustina: «A humanidade não encontrará a paz, enquanto não se voltar com confiança para a minha misericórdia» (Diário, p. 132). Através da obra da religiosa polaca, esta mensagem da Misericórdia Divina esteve sempre unida ao século XX, último do segundo milênio e ponte para o terceiro. Não é uma mensagem nova, mas pode-se considerar um dom de especial iluminação, que nos ajuda a reviver de maneira mais intensa o Evangelho da Páscoa, para o oferecer como um raio de luz aos homens e às mulheres do nosso tempo.
+Que nos trarão os anos que estão diante de nós? Como será o futuro do homem sobre a terra? A nós não é dado sabê-lo. Contudo, é certo que ao lado de novos progressos não faltarão, infelizmente, experiências dolorosas. Mas a luz da Misericórdia Divina, que o Senhor quis como que entregar de novo ao mundo através do carisma da Irmã Faustina, iluminará o caminho dos homens do terceiro milênio.
+Assim como os Apóstolos outrora, é necessário que também a humanidade de hoje acolha no cenáculo da história Cristo ressuscitado, que mostra as feridas da sua crucifixão e repete: A paz esteja convosco! É preciso que a humanidade se deixe atingir e penetrar pelo Espírito que Cristo ressuscitado lhe dá. É o Espírito que cura as feridas do coração, abate as barreiras que nos separam de Deus e nos dividem entre nós, restitui ao mesmo tempo a alegria do amor do Pai e a da unidade fraterna.
+Cristo ensinou-nos que «o homem não só recebe e experimenta a misericórdia de Deus, mas é também chamado a “ter misericórdia” para com os demais: _Bem-aventurados os misericordiosos, porque alcançarão misericórdia_ (Mt 5, 7)» (Dives in misericordia, 14). Jesus indicou-nos as múltiplas vias da misericórdia, que não só perdoa os pecados, mas vai também ao encontro de todas as necessidades dos homens. Jesus inclinou-se sobre toda a miséria humana, material e espiritual.
+A mensagem de misericórdia de Cristo continua a alcançar-nos através do gesto das suas mãos estendidas ao homem que sofre. Tal como ela viu a Cristo, assim O testemunhou aos homens de todos os continentes a Irmã Faustina que, escondida no convento de Lagiewniki, em Cracóvia, fez da sua existência um hino à misericórdia: _Cantarei eternamente as misericórdias do Senhor_ (Sl 88 [89], 2).
+
+@secao Responsório | Sl 88(89),2; 102(103),8
+
+@responsorio
+R. Cantarei eternamente as misericórdias do Senhor,
+* e para sempre proclamarei a sua fidelidade.
+V. O Senhor é clemente e compassivo, paciente e cheio de bondade.
+* e para sempre.
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes a Santa Faustina a missão de difundir as imensas riquezas da vossa infinita misericórdia, dai-nos, por sua intercessão e exemplo, confiar plenamente na vossa bondade e realizar, de coração generoso, as obras de caridade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/josemariaescriva.htm
+@documento Ofício das Leituras - São Josemaria Escrivá De Balaguer, Presbítero
+
+@celebracao
+SÃO JOSEMARIA ESCRIVÁ DE BALAGUER, PRESBÍTERO
+
+@biografia
+Nasceu em Barbasto (Espanha) em 1902 e foi ordenado sacerdote em 1925. No dia 2 de Outubro de 1928 fundou o Opus Dei, que abriu na Igreja uma nova via para que homens e mulheres de todas as condições vivessem plenamente a sua vocação cristã, santificando as suas actividades no meio do mundo. O Opus Dei foi erigido como Prelatura Pessoal em 1982. A sua pregação e escritos contribuíram para que inumeráveis fiéis se tornassem conscientes da sua peculiar missão eclesial. Faleceu em Roma no dia 26 de Junho de 1975.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Foi sacerdote fiel e pai solícito,
+Foi mestre, guia e alma de eleição,
+A quem destes, Senhor, a enorme graça
+De uma profunda e fúlgida visão:
+
+A de homens e mulheres a Deus unidos,
+Que, erguendo a cruz ao alto, com Maria,
+Fariam reinar Cristo, atraindo
+A Ele toda a terra em harmonia.
+
+Por Vós chamados desde a eternidade,
+Antes da Criação, ó Deus fecundo,
+Fazei-nos outros Cristos, sal, fermento e luz
+Nas encruzilhadas do mundo.
+
+Sal que livre de toda a corrupção;
+Luz que ilumine o coração dos homens;
+Fermento, que, em qualquer trabalho nosso,
+Nos alimente com o vivo Pão.
+
+Só a Vós, Pai e Filho e Espírito Santo,
+Só a Vós, Deus eterno e sumo Bem,
+Sejam dados louvor e suma glória
+Agora e pelos séculos sem fim. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia de São Josemaria Escrivá de Balaguer
+{(Séc.XX)} {(Homilia Rumo à Santidade, em Amigos de Deus, Ed. Rei dos Livros, Lisboa, 3a ed. 1993, nn. 294-315)}
+
+@texto
+Sentimo-nos tocados, com o coração a bater com mais força, quando ouvimos com toda a atenção este brado de São Paulo: esta é a vontade de Deus: a vossa santificação. Hoje, mais uma vez o repito a mim mesmo e também o recordo a cada um e à humanidade inteira: esta é a vontade de Deus, que sejamos santos. Para pacificar as almas com uma paz autêntica, para transformar a terra, para procurar Deus Nosso Senhor no mundo e através das coisas do mundo, é indispensável a santidade pessoal. Chama cada um à santidade, pede amor a cada um: jovens e velhos, solteiros e casados, sãos e doentes, cultos e ignorantes, trabalhem onde quer que trabalhem, estejam onde quer que estejam. Há um único modo de crescer na familiaridade e na confiança com Deus: a intimidade da oração, falar com Ele, manifestar-Lhe — de coração a coração — o nosso afeto.
+Primeiro uma jaculatória, e depois outra e outra... Até que parece insuficiente esse fervor, porque as palavras se tornam pobres...: e abrem-se as portas à intimidade divina, com os olhos postos em Deus sem descanso e sem cansaço. Vivemos então como cativos, como prisioneiros. Enquanto realizamos com a maior perfeição possível, dentro dos nossos erros e limitações, as tarefas próprias da nossa condição e do nosso ofício, a alma anseia escapar-se. Vai até Deus como o ferro atraído pela força do íman. Começa-se a amar Jesus de forma mais eficaz, com um doce sobressalto.
+Mas não esqueçamos que estar com Jesus é seguramente encontrar-se com a sua cruz. Quando nos abandonamos nas mãos de Deus, é frequente que Ele permita que saboreemos a dor, a solidão, as contradições, as calúnias, as difamações, os escárnios, por dentro e por fora: porque quer conformar-nos à Sua imagem e semelhança e permite também que nos chamem loucos e que nos tomem por néscios. Quando admiramos e amamos deveras a Santíssima Humanidade de Jesus, descobrimos, uma a uma, as suas Chagas. E nesses tempos de expiação passiva, penosos, fortes, de lágrimas doces e amargas que procuramos esconder, sentiremos necessidade de nos meter dentro de cada uma daquelas Feridas Santíssimas: para nos purificarmos, para nos enchermos de alegria com esse Sangue redentor, para nos fortalecermos.
+O coração sente então a necessidade de distinguir e adorar cada uma das pessoas divinas. De certo modo, é uma descoberta que a alma faz na vida sobrenatural. E entretém-se amorosamente com o Pai e com o Filho e com o Espírito Santo; e submete-se facilmente à atividade do Paráclito vivificador, que se nos entrega sem o merecermos. As palavras tornam-se supérfluas, porque a língua não consegue expressar-se; o entendimento aquieta-se. Não se discorre, olha-se! E a alma rompe outra vez a cantar um cântico novo, porque se sente e se sabe também olhada amorosamente por Deus a toda a hora.
+Com esta entrega, o zelo apostólico ateia-se, aumenta dia-a-dia — pegando esta ânsia aos outros — porque o bem é difusivo. Não é possível que a nossa pobre natureza, tão perto de Deus, não arda em desejos de semear no mundo inteiro a alegria e a paz, de regar tudo com as águas redentoras que brotam do lado aberto de Cristo, de começar e acabar todas as tarefas por Amor.
+Que a Mãe de Deus e nossa Mãe nos proteja a fim de que cada um de nós possa servir a Igreja na plenitude da fé, com os dons do Espírito Santo e com a vida contemplativa.
+
+@secao Responsório | Ef 1,4; 1Pd 2,21
+
+@responsorio
+R. Deus nos escolheu, antes da criação do mundo,
+* para sermos santos e irrepreensíveis, em caridade, na sua presença.
+V. Cristo sofreu por vós, deixando-nos o exemplo, para que sigamos os seus passos.
+* para sermos santos e irrepreensíveis, em caridade, na sua presença.
+
+@secao Oração
+
+@oracao
+Senhor, nosso Deus, que, na Igreja, escolhestes São Josemaria, sacerdote, para anunciar a vocação universal à santidade e ao apostolado, concedei-nos, por sua intercessão e exemplo, que, através do trabalho quotidiano, nos identifiquemos com Cristo, vosso Filho, e sirvamos com amor ardente a obra da Redenção. Por nosso Senhor Jesus Cristo, vosso filho, na Unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

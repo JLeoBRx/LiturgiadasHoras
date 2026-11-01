@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quinta_laudes.htm
+@documento Próprio - Laudes - III Quinta-feira do Advento
+
+@secao Leitura breve | Is 45,8
+
+@texto
+Céus, deixai cair orvalho das alturas, e que as nuvens façam chover justiça; abra-se a terra e germine a salvação; brote igualmente a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. Toda a carne verá sua glória. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Desperta, levanta-te, ó braço do Senhor,
+recobra o teu poder e tua força invencível!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Desperta, levanta-te, ó braço do Senhor,
+recobra o teu poder e tua força invencível!
+
+@secao Preces
+
+@preces
+Peçamos confiantes a Cristo, sabedoria e poder de Deus, que encontra suas delícias em estar com os filhos dos homens; e digamos:
+
+R. **Jesus, ficai conosco!**
+
+Senhor Jesus Cristo, que nos chamastes para o reino da vossa luz admirável,
+– fazei que caminhemos de modo digno de Deus, agradando-lhe em tudo! R.
+
+Vós, que ignorado pelo mundo, estais no meio de nós,
+– manifestai vossa face a todos os homens. R.
+
+Vós que estais mais perto de nós do que nós mesmos,
+– confirmai em nossos corações a confiança e a esperança da salvação. R.
+
+Vós que sois a fonte da santidade,
+– guardai-nos santos e irrepreensíveis para o dia de vossa vinda. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, somos servos indignos e reconhecemos com tristeza as nossas faltas. Dai-nos a alegria do advento do vosso Filho que vem para nos salvar. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

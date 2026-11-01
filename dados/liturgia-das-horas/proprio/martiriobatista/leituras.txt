@@ -1,0 +1,129 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/martiriobatista.htm
+@documento Ofício das Leituras - Martírio De São João Batista Memória
+
+@celebracao
+MARTÍRIO DE SÃO JOÃO BATISTA
+{Memória}
+
+@biografia
+João sela sua missão de precursor com o martírio. Herodes Antipas, depois de aprisioná-lo na fortaleza de Maqueronte ao leste do mar Morto, mandou degolá-lo (Mc 6,17-29). João é o amigo que exulta de alegria ao ouvir a voz de Cristo, esposo da Igreja, e se eclipsa perante Ele, sol de justiça: “Esta é a minha alegria, que se completa. É preciso que ele cresça e eu diminua” (Jo 3,29-30). Na sua escola formaram-se alguns dos primeiros discípulos do Senhor (Jo 1,35-40). Desde o séc. V, no dia 29 de agosto celebrava-se em Jerusalém uma memória do Precursor do Senhor. Seu nome encontra-se no Cânon Romano.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Predecessor fiel da graça,
+bondoso anjo da verdade,
+clarão de Cristo, ele anuncia
+a Luz da eterna claridade.
+
+Das profecias o precônio
+que ele cantara, austero e forte,
+com vida e atos confirmou
+pelo sinal da santa morte.
+
+Quem para o mundo ia nascer
+ele precede, ao vir primeiro,
+mostrando Aquele que viria
+dar o batismo verdadeiro.
+
+E cuja morte inocente,
+que a vida ao mundo conquistou,
+fora predita pelo sangue
+que João Batista derramou.
+
+Ó Pai clemente, concedei-nos
+seguir os passos de São João,
+para fruirmos para sempre
+o dom de Cristo, em profusão.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir,nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] Eaquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deuscontemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deuspredestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendopor nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São Beda Venerável, presbítero
+{(Séc. VIII)} {(Hom. 23: CCL 122,354.356-357)}
+
+@tema
+Precursor de Cristo no nascimento e na morte
+
+@texto
+O santo precursor do nascimento, da pregação e da morte do Senhor mostrou o vigor de seu combate, digno dos olhos divinos, como diz a Escritura: _E se diante dos homens_ sofreu _tormentos_, sua _esperança está repleta de imortalidade_ (cf. Sb 3,4). Temos razão de celebrar a festa do dia do nascimento daquele que o tornou solene para nós por sua morte, e o ornou com o róseo fulgor de seu sangue. É justo venerarmos com alegria espiritual a memória de quem selou com o martírio o testemunho que deu em favor do Senhor. Não há que duvidar, se São João suportou o cárcere e as cadeias, foi por nosso Redentor, de quem dera testemunho como precursor. Também por ele deu a vida. O perseguidor não lhe disse que negasse a Cristo, mas que calasse a verdade. No entanto morreu por Cristo. Porque Cristo mesmo disse: _Eu sou a verdade_ (Jo 14,6); por conseguinte, morreu por Cristo, já que derramou o sangue pela verdade. Antes, quando nasceu, pregou e batizou, dava testemunho de quem iria nascer, pregar, ser batizado. Também apontou para aquele que iria sofrer, sofrendo primeiro. Um homem de tanto valor terminou a vida terrena pela efusão do sangue, depois do longo sofrimento da prisão. Aquele que proclamava o Evangelho da liberdade da paz celeste, foi lançado por ímpios às cadeias; foi fechado na escuridão do cárcere quem veio dar testemunho da luz e por esta mesma luz, que é Cristo, tinha merecido ser chamado de lâmpada ardente e luminosa. Foi batizado no próprio sangue aquele a quem tinha sido dado batizar o Redentor do mundo, ouvir sobre ele a voz do Pai, ver descer a graça do Espírito Santo. Contudo, para quem tinha conhecimento de que seria recompensado pelas alegrias perpétuas não era insuportável sofrer tais tormentos pela verdade, mas, pelo contrário, fácil e desejável. Considerava desejável aceitar a morte, impossível de evitar por força da natureza, junto com a palma da vida perene, por ter confessado o nome de Cristo. Assim disse bem o Apóstolo: _Porque vos foi dado por Cristo não apenas crer nele, mas ainda sofrer por ele_ (Fl 1,29). Diz ser dom de Cristo que os eleitos sofram por ele, conforme diz também: _Os sofrimentos desta vida não se comparam à futura glória que se revelará em nós_ (Rm 8,18).
+
+@secao Responsório | Mc 6,17.27
+
+@responsorio
+R. Herodes ordenara prender a João Batista
+e acorrentá-lo na prisão
+* Por causa de Herodíades, mulher de seu irmão,
+que tomara por esposa.
+V. Ele mandou o executor decapitá-lo na prisão.* Por causa.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que São João Batista fosse o precursor do nascimento e da morte do vosso Filho; como ele tombou na luta pela justiça e a verdade, fazei-nos também lutar corajosamente para testemunhar a vossa palavra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

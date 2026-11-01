@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/19tercaTC.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Leitura do Profeta Miquéias {3,1-12}
+
+@tema
+Por causa dos pecados dos príncipes,_
+_Jerusalém será destruída
+
+@texto
+[1] "Ouvi, príncipes de Jacó e chefes da casa de Israel: Acaso não cabe a vós conhecer o juízo de Deus? [2] Mas vós tendes ódio ao bem e amais o mal. Arrancais com violência a pele do povo e a carne de sobre os seus ossos. [3] Os que comem a carne do meu povo e lhe arrancam o couro; os que lhe quebram os ossos e o cortam como carne para o assado ou para cozer na panela, [4] um dia hão de invocar o Senhor, mas ele não os atenderá; esconderá a sua face naquele tempo, por causa do mal que praticaram.
+
+@texto
+[5] Assim fala o Senhor contra os profetas que seduzem o meu povo: esses, quando têm o que pegar com os dentes, dizem palavras de paz; mas, se não lhes dão nada para a boca, passam a agredir as pessoas. [6] Por isso, não tereis visões de noite e o escuro não vos trará adivinhações; para esses profetas virá o pôr-do-sol, para eles o dia escurecerá. [7] Os videntes se confundirão, e se confundirão os adivinhos, todos eles fecharão a boca, porque não há resposta de Deus. [8] Eu, em verdade, sinto em mim a força do espírito do Senhor, sua justiça e poder, para denunciar a Jacó os seus crimes e a Israel o seu pecado.
+
+@texto
+[9] Ouvi isto, chefes da casa de Jacó e juízes da casa de Israel, vós que abominais a justiça e distorceis tudo que é reto, [10] que edificais Sião com sangue e Jerusalém com iniquidade. [11] Autoridades administram por propinas, sacerdotes ensinam por salário, profetas vaticinam por dinheiro; e ousam apoiar-se no Senhor, dizendo: "Acaso não está o Senhor no meio de nós? Nenhuma desgraça cairá sobre nós". [12] Por isso, por causa de vós, Sião deverá ser arada como um campo, Jerusalém será como um montão de pedras, e as árvores da floresta cobrirão a colina do templo.
+
+@secao Responsório | Sl 78(79),1; Dn 3,42.29a
+
+@responsorio
+R. Invadiram vossa herança os infiéis,
+profanaram, ó Senhor, o vosso templo,
+Jerusalém foi reduzida a ruínas.
+* Não nos deixeis envergonhados, Senhor Deus,
+conforme vosso imenso amor agi conosco.
+V. Sim, pecamos, afastando-nos de vós. * Não nos deixeis.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Encarnação do Senhor, de Teodoreto de Ciro, bispo
+{(Séc. V)} {(N. 28: PG 75,1467-1470)}
+
+@tema
+Por suas chagas fomos curados
+
+@texto
+Nosso remédio são os tormentos de nosso Salvador. O profeta no-lo ensina: _Ele tomou sobre si nossos pecados e carregou nossas dores; nós, porém, o julgávamos castigado e ferido por Deus e humilhado. Ferido por nossos pecados, esmagado por nossos crimes; o castigo que nos valeu a paz caiu sobre ele; por suas chagas fomos curados. Todos, quais ovelhas, nos desgarramos; por isso como ovelha foi conduzido ao matadouro e, como cordeiro, calou-se diante do tosquiador_ (Is 53,4-7).
+
+@texto
+Igual a um pastor, vendo dispersas as ovelhas, toma em mãos uma delas e a conduz às pastagens escolhidas; as outras, arrasta-as após si por este exemplo. Assim o Deus Verbo, ao ver errante o gênero humano, assumiu a forma de servo, unindo-a a si. E, por ela, atraiu a si toda a natureza humana e conduziu à divina pastagem aqueles que eram mal apascentados e presa dos lobos.
+
+@texto
+Foi para isso que nosso Salvador assumiu nossa natureza. Para isso o Cristo Senhor aceitou a paixão salvadora, entregou-se à morte e foi sepultado, posto no sepulcro, para nos libertar da antiga tirania e dar a promessa da incorruptibilidade àqueles que estavam sujeitos à corrupção. Reedificando o templo destruído e ressuscitando dos mortos, mostrou até aos mortos e aos que esperavam sua ressurreição o cumprimento das verdadeiras e sólidas promessas.
+
+@texto
+Na verdade, é como se Ele dissesse: "Do mesmo modo como a vossa natureza, assumida por mim, pela inabitação e união da divindade, alcançou a ressurreição e, livre da corrupção e dos sofrimentos, passou para a incorruptibilidade e a imortalidade, assim também vós sereis livres da dura escravidão da morte e, despidas a corrupção e suas perturbações, sereis revestidos de impassibilidade.
+
+@texto
+Por este motivo enviou pelos apóstolos a todo o gênero humano o dom do batismo. _Ide, pois, ensinai todas as nações, batizando-as em nome do Pai e do Filho e do Espírito Santo_ (Mt 28,19). O batismo é imagem e figura da morte do Senhor. "_Pois se estamos completamente unidos a Cristo,_ como diz Paulo, _pela imagem da sua morte, também o estaremos pela imagem da sua ressurreição_ (Rm 6,5).
+
+@secao Responsório | Jo 10,15b.18a; Jr 12,7
+
+@responsorio
+R. Eu dou minha vida por minhas ovelhas.
+* Ninguém pode tirá-la, mas eu mesmo a entrego.
+V. Deixarei a minha casa, rejeitei a minha herança;
+minha vida muito amada coloquei livremente
+na mão dos inimigos. * Ninguém.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos um dia a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

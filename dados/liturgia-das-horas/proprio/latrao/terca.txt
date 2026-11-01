@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/latrao_terca.htm
+@documento Hora Média - Dedicação da Basílica do Latrão
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+A santa Igreja é o templo do Senhor,
+é a construção, é a plantação que Deus cultiva.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+A santa Igreja é o templo do Senhor,
+é a construção, é a plantação que Deus cultiva.
+
+@secao Leitura breve | 1Cor 3,16-17
+
+@texto
+Acaso não sabeis que sois santuário de Deus e que o Espírito de Deus mora em vós? Se alguém destruir o santuário de Deus, Deus o destruirá, pois o santuário de Deus é santo, e vós sois esse santuário.
+
+@texto
+V. Senhor, eu amo a casa onde habitais.
+R. E o lugar em que reside a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

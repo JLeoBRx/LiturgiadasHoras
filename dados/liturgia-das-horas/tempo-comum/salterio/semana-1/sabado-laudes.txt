@@ -1,0 +1,133 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sabado_laudes.htm
+@documento I SÁBADO
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+No céu refulge a aurora
+e nasce um novo dia.
+As trevas se dissipem:
+a luz nos alumia.
+
+Bem longe os fantasmas,
+os sonhos e ilusões!
+Do mal que vem das trevas
+quebremos os grilhões.
+
+Na aurora derradeira
+possamos, preparados,
+cantar de Deus a glória,
+na sua luz banhados.
+
+Louvor e glória ao Pai,
+ao Filho seu também,
+e ao Divino Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vós dirijo os meus olhos já bem antes da aurora.
+
+@secao XIX (Coph)
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@antifona
+A vós dirijo os meus olhos já bem antes da aurora.
+
+@antifona 2
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação!
+
+@salmo canticos/ex-15-1-4b-8-13-17-18
+
+@gloria
+
+@antifona
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação!
+
+@antifona 3
+Cantai louvores ao Senhor, todas as gentes! †
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+Cantai louvores ao Senhor, todas as gentes!
+
+@secao Leitura breve | 2Pd 1,10-11
+
+@texto
+Irmãos, cuidai cada vez mais de confirmar a vossa vocação e eleição. Procedendo assim, jamais tropeçareis. Desta maneira vos será largamente proporcionado o acesso ao reino eterno de nosso Senhor e Salvador, Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós grito, ó Senhor, a vós clamo
+* E vos digo: Sois vós meu abrigo! R. A vós grito.
+V. Minha herança na terra dos vivos. * E vos digo.
+Glória ao Pai. R. A vós grito.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Iluminai, ó Senhor, os que jazem nas trevas
+e na sombra da morte.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Iluminai, ó Senhor, os que jazem nas trevas
+e na sombra da morte.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo que se fez em tudo semelhante a seus irmãos para ser um sumo-sacerdote fiel e misericordioso junto de Deus, em nosso favor. Peçamos-lhe, dizendo:
+
+R. **Dai-nos, Senhor, as riquezas da vossa graça!**
+
+Sol de justiça, que no batismo nos destes a luz da vida,
+– nós vos consagramos este novo dia. R.
+
+Nós vos bendiremos em cada momento deste dia,
+– e glorificaremos vosso nome em todas as nossas ações. R.
+
+Vós, que tivestes por mãe a Virgem Maria, sempre dócil à vossa palavra,
+– dirigi hoje os nossos passos segundo a vossa vontade. R.
+
+Concedei-nos que, enquanto peregrinamos em meio às coisas deste mundo passageiro, aspiremos à imortalidade celeste,
+– e que, pela fé, esperança e caridade, saboreemos desde já as alegrias do vosso reino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Fazei, Senhor, brilhar em nossos corações o esplendor da ressurreição, para que, livres das trevas da morte, cheguemos à luz da vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

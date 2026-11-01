@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/stamariamadalena_vesperas.htm
+@documento Vésperas - Santa Maria Madalena
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó estrela feliz de Mágdala,
+para ti nosso culto e louvor,
+Jesus Cristo te uniu a si mesmo
+por estreita aliança de amor.
+
+Seu poder ele em ti revelou,
+repelindo as potências do mal.
+E na fé te ligaste ao Senhor
+pelos laços de amor sem igual.
+
+O amor te impeliu a segui-lo
+com vibrante e fiel gratidão.
+Em cuidados se fez manifesta
+a ternura do teu coração.
+
+Tu ficaste de pé com Maria
+junto ao Cristo pendente da Cruz.
+Com aromas ungiste seu corpo,
+que verás ressurgido na luz.
+
+Testemunha primeira, tu foste
+anunciar que Jesus ressurgiu.
+Guia o povo na Páscoa nascido
+nos caminhos que Cristo seguiu.
+
+Honra, glória e louvor à Trindade,
+cujo amor fez prodígios em ti.
+Contemplemos também sua face,
+quando o dia da glória surgir.
+
+@secao Salmodia
+
+@antifona 1
+Jesus disse a Maria:
+Mulher, por que choras? A quem tu procuras?
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Jesus disse a Maria:
+Mulher, por que choras? A quem tu procuras?
+
+@antifona 2
+Levaram o meu Senhor e não sei onde o puseram.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Levaram o meu Senhor e não sei onde o puseram.
+
+@antifona 3
+Jesus disse: Maria!
+Ela disse: Rabboni! Traduzido: Ó Mestre!
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Jesus disse: Maria!
+Ela disse: Rabboni! Traduzido: Ó Mestre!
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. Já não chores, Maria:
+* O Senhor ressurgiu. R. Já não chores.
+V. Anuncia aos irmãos: * O Senhor.
+Glória ao Pai. R. Já não chores.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Maria anunciou aos discípulos:
+Eu vi o Senhor, aleluia!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Maria anunciou aos discípulos:
+Eu vi o Senhor, aleluia!
+
+@secao Preces
+
+@preces
+Por intercessão das santas mulheres, peçamos ao Senhor em favor da Igreja; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Por intercessão das santas mártires, que venceram a morte do corpo com o vigor do espírito,
+– concedei à vossa Igreja a fortaleza nas provações. R.
+
+Por intercessão das santas casadas, que progrediram em graça na vida matrimonial,
+– concedei à vossa Igreja a fecundidade apostólica. R.
+
+Por intercessão das santas viúvas, que superaram e santificaram sua solidão mediante a oração e a hospitalidade,
+– concedei à vossa Igreja que manifeste perante o mundo o mistério da vossa caridade. R.
+
+Por intercessão das santas mães, que geraram filhos para o Reino de Deus e para a sociedade humana,
+– concedei à vossa Igreja que transmita a vida divina e a salvação a toda a humanidade. R.
+
+{(intenções livres)}
+
+Por intercessão de todas as santas mulheres, que já mereceram contemplar a luz da vossa face,
+– concedei aos irmãos e irmãs falecidos de vossa Igreja a eterna alegria da mesma visão. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso Filho confiou a Maria Madalena o primeiro anúncio da alegria pascal; dai-nos, por suas preces e a seu exemplo, anunciar também que o Cristo vive e contemplá-lo na glória de seu Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

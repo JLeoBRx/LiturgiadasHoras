@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Onze horas havendo passado,
+chega a tarde e o dia termina;
+entoemos louvores a Cristo,
+que é imagem da glória divina.
+
+Já passaram as lutas do dia,
+o trabalho por vós contratado;
+dai aos bons operários da vinha
+dons de glória no Reino esperado.
+
+Ó Senhor, aos que agora chamais
+e que ireis premiar no futuro,
+por salário, dai força na luta,
+e, na paz, um repouso seguro.
+
+Glória a vós, Cristo, Rei compassivo,
+glória ao Pai e ao Espírito também.
+Unidade e Trindade indivisa,
+Deus e Rei pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@antifona 2
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@antifona 3
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@secao Leitura breve | 1Cor 2,7-10a
+
+@texto
+Falamos da misteriosa sabedoria de Deus, sabedoria escondida, que, desde a eternidade, Deus destinou para nossa glória. Nenhum dos poderosos deste mundo conheceu essa sabedoria. Pois, se a tivessem conhecido, não teriam crucificado o Senhor da glória. Mas, como está escrito, o que Deus preparou para os que o amam é algo que os olhos jamais viram, nem os ouvidos ouviram, nem coração algum jamais pressentiu. A nós Deus revelou esse mistério através do Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. O Cristo morreu pelos nossos pecados;
+* Pelos ímpios, o justo e conduziu-nos a Deus. R. O Cristo.
+V. Foi morto na carne, mas vive no Espírito.
+* Pelos ímpios. Glória ao Pai. R. O Cristo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, sede fiel ao vosso amor,
+como havíeis prometido a nossos pais.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, sede fiel ao vosso amor,
+como havíeis prometido a nossos pais.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo nosso Senhor, que se compadeceu dos que choravam e enxugou suas lágrimas. Cheios de confiança lhe peçamos:
+
+R. **Senhor, tende compaixão do vosso povo!**
+
+Senhor Jesus Cristo, que consolais os humildes e os aflitos,
+– olhai para as lágrimas dos pobres e oprimidos. R.
+
+Deus de misericórdia, ouvi o gemido dos agonizantes,
+– e enviai os vossos anjos para que os aliviem e confortem. R.
+
+Fazei que todos os exilados sintam a ação da vossa providência,
+– para que regressem à sua pátria e também alcancem, um dia, a pátria eterna. R.
+
+Mostrai os caminhos do vosso amor aos que vivem no pecado,
+– para que se reconciliem convosco e com a Igreja. R.
+
+{(intenções livres)}
+
+Salvai, na vossa bondade, os nossos irmãos e irmãs que morreram,
+– e dai-lhes a plenitude da redenção. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, cuja inefável sabedoria maravilhosamente se revela no escândalo da cruz, concedei-nos de tal modo contemplar a bendita paixão de vosso Filho, que confiantes nos gloriemos sempre na sua cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

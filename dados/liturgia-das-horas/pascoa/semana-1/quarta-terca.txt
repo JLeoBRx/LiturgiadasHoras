@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1quartapascoa_terca.htm
+@documento Hora Média - Terça - Quarta-feira da 1ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre, aleluia.
+
+@salmo salmos/salmo-118-9-16-ii-beth-v3
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+O Cristo, que dos mortos ressurgiu,
+já não morre. Aleluia.
+
+@secao Leitura breve | Cf. Rm 4,24-25
+
+@texto
+Cremos naquele que ressuscitou dos mortos Jesus, nosso Senhor. Ele, Jesus, foi entregue por causa de nossos pecados e foi ressuscitado para nossa justificação.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos alegrais todos os anos com a solenidade da ressurreição do Senhor, concedei-nos, pelas festas que celebramos nesta vida, chegar às eternas alegrias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

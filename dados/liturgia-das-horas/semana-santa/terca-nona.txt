@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/tercafeirasanta_nona.htm
+@documento Hora Média - Nona - Terça-feira da Semana Santa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@salmo salmos/salmo-118-49-56-vi-zain
+
+@gloria
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@secao Leitura breve | 1Cor 1,25.27a
+
+@texto
+O que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios.
+
+@texto
+V. Veneremos o sinal da santa cruz,
+R. Pela qual a salvação veio até nós.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos celebrar de tal modo os mistérios da paixão do Senhor, que possamos alcançar vosso perdão. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

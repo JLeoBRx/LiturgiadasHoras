@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santooscar.htm
+@documento Ofício das Leituras - Santo Oscar, Bispo
+
+@celebracao
+SANTO OSCAR, BISPO
+
+@biografia
+Nasceu na França no princípio do século IX e foi educado no mosteiro de Córbia (Alemanha). Em 826 partiu para a Dinamarca a fim de pregar a fé cristã, não obtendo porém muito resultado; no entanto teve melhor êxito na Suécia. Foi eleito bispo de Hamburgo. O papa Gregório IV, depois de confirmar sua eleição, nomeou-o legado pontifício para a Dinamarca e a Suécia. Encontrou muitas dificuldades no seu ministério de evangelização, mas superou-as com grande fortaleza de ânimo. Morreu em 865.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Do Decreto Ad gentes sobre a ação missionária da Igreja, do Concílio Vaticano II
+{(Séc. XX)} {(N. 23-24)}
+
+@tema
+AÉ preciso proclamar com firmeza o mistério de Cristo
+
+@texto
+Cada discípulo de Cristo tem a sua parte na tarefa de propagar a fé. Apesar disso, Cristo Senhor sempre chama dentre os discípulos aqueles que quer, para que estejam com ele, e os envia a evangelizar os povos.
+Por isso, através do Espírito Santo, que distribui os carismas como quer para a utilidade comum, inspira a vocação missionária no coração de cada um e ao mesmo tempo suscita Institutos na Igreja, que assumam como missão própria a tarefa de evangelização, que pertence a toda a Igreja.
+De fato, são marcados com especial vocação os sacerdotes, os religiosos e os leigos, autóctones ou estrangeiros, possuidores de boa índole e dotados de capacidade e inteligência, que se acham preparados para empreender o trabalho missionário. Enviados pela legítima autoridade, partem movidos pela fé e obediência, para junto daqueles que estão longe de Cristo, destinados para o trabalho a que foram escolhidos, como ministros do Evangelho, _para que os pagãos se tornem uma oferenda bem aceita, santificada no Espírito Santo_ (Rm 15,16).
+Quando Deus chama, o homem deve responder de tal modo que, sem transigir com a carne e o sangue, se entregue de corpo e alma à obra do Evangelho. Esta resposta, porém, não pode ser dada senão por impulso e virtude do Espírito Santo.
+O enviado entra, portanto, na vida e na missão daquele que _esvaziou-se a si mesmo, assumindo a condição de escravo_ (Fl 2,7). Por isso deve estar disposto a perseverar toda a vida na sua vocação, a renunciar a si próprio e a tudo o que até então considerara como seu, e a fazer-se tudo para todos.
+Anunciando o Evangelho aos povos, torne conhecido, com toda firmeza, o mistério de Cristo, em cujo nome exerce sua delegação. Nele, ousará falar como convém e não se envergonhará do escândalo da cruz.
+Seguindo as pegadas de seu Mestre, manso e humilde de coração, mostre que seu jugo é suave e o seu fardo é leve.
+Mediante uma vida verdadeiramente evangélica, com muita paciência, longanimidade, suavidade, caridade sincera, dê testemunho de seu Senhor até à efusão do sangue, se for necessário.
+Deus lhe dará a virtude e a fortaleza para conhecer a plenitude de felicidade que está contida na grande prova da tribulação e da mais completa pobreza.
+
+@secao Responsório | 1Cor 9,16.22b
+
+@responsorio
+R. Anunciar o Evangelho não é motivo de orgulhar-me;
+é, porém, necessidade e obrigação que se me impõe.
+* Ai de mim, se eu deixar de anunciar o Evangelho.
+V. Fiz-me tudo para todos, para todos serem salvos.* Ai de mim.
+
+@secao Oração
+
+@oracao
+Ó Deus, que enviastes o bispo Santo Oscar para iluminar muitos povos com a vossa palavra, concedei-nos por sua intercessão caminhar à luz da vossa verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

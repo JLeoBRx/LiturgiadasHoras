@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4segunda_leituras.htm
+@documento Ofício das Leituras - IV Segunda-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@rubrica
+Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração! †
+
+@salmo salmos/salmo-072-i
+
+@gloria
+
+@antifona
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração!
+
+@antifona 2
+Os maus que hoje riem, amanhã hão de chorar.
+
+@salmo salmos/salmo-072-ii
+
+@gloria
+
+@antifona
+Os maus que hoje riem, amanhã hão de chorar.
+
+@antifona 3
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.
+
+@salmo salmos/salmo-072-iii
+
+@gloria
+
+@antifona
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.

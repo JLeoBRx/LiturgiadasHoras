@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2janeiro_sexta.htm
+@documento 2janeiro_sexta.htm
+
+@secao Leitura breve | Ap 21,23-24
+
+@texto
+A cidade não precisa de sol, nem de lua que a iluminem, pois a glória de Deus é a sua luz e a sua lâmpada é o Cordeiro. As nações caminharão à sua luz e os reis da terra levarão a ela a sua glória.
+
+@texto
+V. Os confins do universo contemplaram, aleluia.
+R. A salvação de nosso Deus, aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo uma fé inabalável, para que, ao proclamarmos que o vosso Filho Unigênito, Deus eterno e glorioso como vós, se fez homem no seio da Virgem Mãe, sejamos livres dos males que nos cercam e introduzidos nas eternas alegrias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

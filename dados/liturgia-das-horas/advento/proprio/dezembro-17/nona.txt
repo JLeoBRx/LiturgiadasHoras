@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/17_nona.htm
+@documento Próprio - Nona - 17 de dezembro
+
+@secao Leitura breve | Is 61,11
+
+@texto
+Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Ó Deus, criador e redentor do gênero humano, quisestes que o vosso Verbo se encarnasse no seio da Virgem. Sede favorável à nossa súplica, para que o vosso Filho Unigênito, tendo recebido nossa humanidade, nos faça participar da sua vida divina. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

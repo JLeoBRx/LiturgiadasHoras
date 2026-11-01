@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/martinhodelima.htm
+@documento Ofício das Leituras - São Martinho (De Lima), Religioso
+
+@celebracao
+SÃO MARTINHO (DE LIMA), RELIGIOSO
+
+@biografia
+Nasceu em Lima (Peru) de pai espanhol e mãe negra, no ano 1579. Aprendeu desde muito jovem o ofício de barbeiro e enfermeiro; e, quando entrou na Ordem dos Pregadores, dedicou-se de modo singular à enfermagem em favor dos pobres. Levou uma vida de constante mortificação e profunda humildade, e cultivou uma especialíssima devoção à Eucaristia. Morreu em 1639.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dossofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores dorebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso;não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vosforam confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer opastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos dehumildade no relacionamento mútuo, porqueDeus resiste aos soberbos,mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na horaoportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quemcuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como umleão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguaissofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para asua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] Aele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da homilia na canonização de São Martinho de Lima, do papa João XXIII
+{(Séc. XX)} {(Die 6 maii 1962: AAS 54 [1962],306-309)}
+
+@tema
+“Martinho da caridade”
+
+@texto
+Martinho, pelo exemplo de sua vida, prova-nos que podemos alcançar a salvação e a santidade pelo caminho que Cristo Jesus mostrou: quer dizer, em primeiro lugar, o amor a Deus de todo o nosso coração, de toda a nossa alma e com todo o nosso espírito; e em segundo lugar, o amor ao próximo como a nós mesmos (Mt 22,37-39).
+Convicto de que Cristo Jesus morreu por nós e tomou sobre si nossos pecados em seu corpo no lenho (cf. 1Pd 2,24), concebeu extremado amor pelo Crucificado. Ao contemplar seus atrozes sofrimentos, não podia impedir-se de chorar copiosamente. Amava igualmente com singular caridade o augusto sacramento da Eucaristia. Com frequência passava horas oculto em adoração diante do tabernáculo e desejava recebê-lo sempre que se lhe oferecia a oportunidade.
+Por fim, São Martinho, obediente ao máximo à exortação do divino Mestre, alimentava a maior caridade para com os irmãos, brotada da fé inquebrantável e da humildade de coração. Amava também os homens aos quais sinceramente estimava como filhos de Deus e seus irmãos. Ou melhor, amava-os mais do que a si mesmo, uma vez que, em sua humildade, a todos julgava mais justos e melhores do que ele.
+Desculpava os defeitos alheios. Perdoava até mesmo as mais duras injúrias, persuadido como estava de ser digno de muito maior castigo por seus pecados. Com a maior diligência tentava levar os desviados ao bom caminho; benigno, assistia os doentes; dava aos indigentes alimento, roupa, medicamentos; auxiliava com toda a ajuda e solicitude a seu alcance os lavradores, bem como os negros e mestiços, que naquele tempo eram desprezados como escravos, de tal forma que começou a ser chamado pelo povo de “Martinho da caridade”.
+Este santo homem, que, por palavras, exemplo e virtude, atraiu tantos para a religião, também hoje tem poder de elevar maravilhosamente nossos espíritos às realidades celestes. Nem todos, infelizmente, entendem, como seria de desejar, estes bens superiores, nem todos os respeitam; bem, ao contrário, muitos, propensos aos prazeres do vício, desdenham ou aborrecem-nos, ou mesmo desprezam-nos totalmente. Queira o exemplo de Martinho a muitos ensinar com segurança como é bom e suave seguir as pegadas de Jesus Cristo e obedecer a seus divinos mandamentos.
+
+@secao Responsório | Cf. Eclo 31,8.11a.9
+
+@responsorio
+R. Feliz aquele homem que sem mancha foi achado,
+que não foi atrás de ouro e não pôs sua esperança
+no dinheiro e nos tesouros.
+* Por isso, estão seus bens apoiados no Senhor.
+V. Quem é este para que lhe demos glória?
+Porque fez maravilhas entre o povo.* Por isso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que conduzistes São Martinho de Lima à glória do céu pelos caminhos da humildade, dai-nos seguir de tal modo seus exemplos na terra, que sejamos com ele exaltados no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

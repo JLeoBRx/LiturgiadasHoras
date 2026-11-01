@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3terca_laudes.htm
+@documento Laudes - III Terça-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Abençoastes, ó Senhor, a vossa terra,
+perdoastes o pecado ao vosso povo.
+
+@salmo salmos/salmo-084
+
+@gloria
+
+@antifona
+Abençoastes, ó Senhor, a vossa terra,
+perdoastes o pecado ao vosso povo.
+
+@antifona 2
+Durante a noite a minha alma vos deseja,
+e meu espírito vos busca desde a aurora.
+
+@salmo canticos/is-26-1-4-7-9-12
+
+@gloria
+
+@antifona
+Durante a noite a minha alma vos deseja,
+e meu espírito vos busca desde a aurora.
+
+@antifona 3
+Ó Senhor, que vossa face resplandeça sobre nós!
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Ó Senhor, que vossa face resplandeça sobre nós!

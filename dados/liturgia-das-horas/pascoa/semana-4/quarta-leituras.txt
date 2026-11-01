@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/4quartaPascoa.htm
+@documento Ofício das Leituras - 4ª Semana Da Páscoa - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores! Aleluia.
+
+@salmo salmos/salmo-102-i
+
+@gloria
+
+@antifona
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores! Aleluia.
+
+@antifona 2
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem. Aleluia.
+
+@salmo salmos/salmo-102-ii
+
+@gloria
+
+@antifona
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem. Aleluia.
+
+@antifona 3
+Obras todas do Senhor, glorificai-o! Aleluia.
+
+@salmo salmos/salmo-102-iii
+
+@gloria
+
+@antifona
+Obras todas do Senhor, glorificai-o! Aleluia.
+
+@texto
+V. Deus, o Pai, ressuscitou a Jesus Cristo
+dentre os mortos, aleluia,
+R. Para que esteja no Senhor a nossa fé
+e esperança, aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {14,14-15,4}
+
+@tema
+A colheita dos últimos tempos
+
+@texto
+Eu, João, [14,14] na minha visão, vi uma nuvem branca e sentado na nuvem alguém que parecia um “filho de homem”. Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada. [15] Saiu do Templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: “Lança tua foice, e ceifa. Chegou a hora da colheita. A seara da terra está madura!” [16] E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada. [17] Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada. [18] E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: “Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras”. [19] E o anjo lançou a foice afiada na terra, e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus. [20] E o lagar foi pisado, fora da cidade, e dele saiu sangue, que subiu até a altura do freio dos cavalos, numa extensão de trezentos quilômetros.
+[15,1] Depois, vi no céu outro sinal, grande e admirável: sete anjos, com as sete últimas pragas. Com elas o furor de Deus ia-se consumar. [2] Vi também como que um mar de vidro misturado com fogo. Sobre este mar estavam, de pé, todos aqueles que saíram vitoriosos do confronto com a besta, com a imagem dela e com o número do nome da besta. Seguravam as harpas de Deus. [3] Entoavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo:
+“Grandes e admiráveis são as tuas obras,
+Senhor Deus, Todo-poderoso!
+Justos e verdadeiros são os teus caminhos,
+ó Rei das nações!
+[4] Quem não temeria, Senhor,
+e não glorificaria o teu nome?
+Só tu és santo!
+Todas as nações virão
+prostrar-se diante de Ti,
+porque tuas justas decisões se tornaram manifestas”.
+
+@secao Responsório | Ap 15,3; Ex 15,11
+
+@responsorio
+R. O canto do Cordeiro eles cantavam:
+Como são grandes e admiráveis vossas obras,
+ó Senhor e nosso Deus onipotente!
+* Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo! Aleluia.
+V. Quem será igual a vós, entre os fortes, ó Senhor?
+Quem será igual a vós, tão ilustre em santidade?
+Quem será igual a vós, em prodígios, glorioso?
+* Vossos caminhos.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Trindade, de Santo Hilário, bispo
+{(Séc.IV)} {(Lib. 8,13-16: PL10,246-249)}
+
+@tema
+A união natural dos fiéis em Deus pela encarnação do Verbo e pelo sacramento da Eucaristia
+
+@texto
+Proclamamos como uma verdade que a _Palavra se fez carne_ (Jo 1,14) e que na ceia do Senhor nós recebemos esta mesma Palavra que se fez carne. Então, como se pode negar que permaneça naturalmente em nós aquele que, ao nascer como homem, não só assumiu a natureza da nossa carne como inseparável de si, mas também uniu sua natureza humana à natureza divina no sacramento em que nos dá a comunhão do seu corpo? Deste modo todos somos um só, porque o Pai está em Cristo e Cristo está em nós. Portanto, ele está em nós pela sua carne e nós estamos nele; e através dele, o que nós somos está em Deus. Em que medida estamos nele pelo sacramento da comunhão com sua carne e com seu sangue, o próprio Cristo o afirma quando diz: _Pouco tempo ainda, e o mundo não mais me verá, mas vós me vereis, porque eu vivo e vós vivereis, pois eu estou no meu Pai e vós em mim e eu em vós_ (Jo 14,19.20). Se com estas palavras o Senhor pretendia apenas significar uma unidade de vontade, por que então estabeleceu uma certa gradação e ordem na realização de tal unidade? Assim procedeu para acreditarmos que ele está no Pai pela natureza divina, e que nós estamos nele pelo seu nascimento corporal; além disso, ele também está em nós pelo mistério dos sacramentos. Ensina-nos desta forma a perfeita unidade estabelecida por meio do único Mediador. Nós estamos unidos a Cristo, que é inseparável do Pai, e Cristo, sendo inseparável do Pai, permanece unido a nós. Deste modo, temos acesso à unidade com o Pai. Porque se Cristo está por natureza no Pai, por ter sido gerado por ele, e se nós por natureza estamos em Cristo, então de certa maneira, também nós estamos por natureza no Pai através de Cristo. Até que ponto esta unidade é natural em nós, o mesmo Senhor o declara: _Quem come a minha carne e bebe o meu sangue, permanece em mim e eu nele_ (Jo 6,56). Realmente, ninguém poderá estar em Cristo, se Cristo não estiver nele; isto é, Cristo somente assume em si a carne daquele que recebe a sua. O Senhor já havia ensinado antes o mistério desta perfeita unidade, dizendo: _Assim como o Pai, que vive, me enviou, e eu vivo por causa do Pai, assim o que me come viverá por causa de mim_ (Jo 6,57). Vive, portanto, pelo Pai; e do mesmo modo que vive pelo Pai, também nós vivemos pela sua carne. Toda a comparação deve ser adaptada à inteligência de tal modo que o exemplo proposto nos ajude a compreender o mistério de que tratamos. Esta é, portanto, a causa da nossa vida: Cristo, pela sua carne,habita em nós, seres carnais, para que nós vivamos por ele como ele vive pelo Pai.
+
+@secao Responsório | Jo 6,56; Cf. Dt 4,7
+
+@responsorio
+R. Quem come a minha Carne e bebe o meu Sangue,
+* Em mim permanece e eu fico nele. Aleluia.
+V. Não há nação tão grande assim,
+que tem seu Deus tão perto dela,
+como temos nosso Deus, que está junto de nós.
+* Em mim permanece.
+
+@secao Oração
+
+@oracao
+Ó Deus, vida dos que têm fé em vós, glória dos humildes, e felicidade dos justos, atendei com bondade às nossas preces, e saciai sempre com vossa plenitude os que anseiam pelas riquezas que prometestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/3sabadoPascoa.htm
+@documento Ofício das Leituras - 3ª Semana Da Páscoa - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Agradeçamos ao Senhor o seu amor
+e as suas maravilhas entre os homens. Aleluia.
+
+@salmo salmos/salmo-106-i-v2
+
+@gloria
+
+@antifona
+Agradeçamos ao Senhor o seu amor
+e as suas maravilhas entre os homens. Aleluia.
+
+@antifona 2
+Nós vimos seus prodígios e suas maravilhas. Aleluia.
+
+@salmo salmos/salmo-106-ii
+
+@gloria
+
+@antifona
+Nós vimos seus prodígios e suas maravilhas. Aleluia.
+
+@antifona 3
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor! Aleluia.
+
+@salmo salmos/salmo-106-iii
+
+@gloria
+
+@antifona
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor! Aleluia.
+
+@texto
+V. Deus nos fez renascer para a viva esperança, aleluia.
+R. Pela ressurreição do Senhor dentre os mortos. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {11,1-19}
+
+@tema
+As duas testemunhas invictas
+
+@texto
+Eu, João, continuei a ver. [1] Foi-me dado um caniço, parecido com uma vara de agrimensor, e disseram-me: “Levanta-te e tira as medidas do Templo de Deus, do altar e dos que estão em adoração. [2] Deixa fora o pátio externo do Templo; não tires as suas medidas, pois foi entregue às nações pagãs, e estas vão pisar a Cidade Santa durante quarenta e dois meses. [3] Mas eu darei às minhas duas testemunhas mil duzentos e sessenta dias para profetizarem, trajando vestes rudes. [4] Essas duas testemunhas são as duas oliveiras e os dois candelabros, que estão diante do Senhor da terra. [5] Se alguém quiser fazer-lhes mal, um fogo sairá da boca delas e devorará seus inimigos. Sim, se alguém quiser fazer-lhes mal, é assim que vai morrer. [6] Elas têm o poder de fechar o céu, de modo que não caia chuva alguma enquanto durar a sua missão profética. Elas têm também o poder de transformar as águas em sangue. E quantas vezes elas quiserem, podem ferir a terra com todo tipo de praga. [7] Quando elas terminarem o seu testemunho, a besta que sobe do Abismo vai combater contra elas, vai vencê-las e matá-las. [8] E os cadáveres das duas testemunhas vão ficar expostos na praça da grande cidade, que se chama, simbolicamente, Sodoma e Egito, e na qual foi crucificado também o Senhor delas. [9] Gente de todos os povos, raças, línguas e nações, verão seus cadáveres durante três dias e meio, e não deixarão que os corpos sejam sepultados. [10] Os habitantes da terra farão festa pela morte das testemunhas; felicitar-se-ão e trocarão presentes, pois estes dois profetas estavam incomodando os habitantes da terra”. [11] Depois dos três dias e meio, um sopro de vida veio de Deus, penetrou nos dois profetas e eles ficaram de pé. Todos aqueles que os contemplavam, ficaram com muito medo. [12] Ouvi então uma voz forte vinda do céu e chamando os dois: “Subi para aqui!” Eles subiram ao céu, na nuvem, enquanto os inimigos ficaram olhando. [13] Na mesma hora aconteceu um grande terremoto, e a décima parte da cidade desmoronou. Sete mil pessoas morreram, e os que sobraram ficaram cheios de medo e deram glória ao Deus do céu. [14] Assim passou o segundo “ai”. Eis que o terceiro “ai” vai chegando depressa. [15] O sétimo anjo tocou a trombeta. Vozes bem fortes começaram a exclamar no céu: “O império do mundo pertence agora ao nosso Senhor e ao seu Ungido, e ele reinará para sempre”. [16] E os vinte e quatro Anciãos, que estão sentados em seus tronos diante de Deus, prostraram-se com seus rostos no chão [17] e adoraram a Deus, dizendo: “Nós te damos graças, Senhor Deus, Todo-poderoso, aquele que é e que era, porque assumiste o teu grande poder e entraste na posse do teu Reino. [18] As nações pagãs tinham-se enfurecido, mas chegou a tua ira e o tempo de julgar os mortos e de dar a recompensa aos teus servos, os profetas, e aos santos, e aos que temem o teu nome, pequenos e grandes; chegou o tempo de destruir os que destroem a terra.” [19] Abriu-se o Templo de Deus que está no céu e apareceu no Templo a arca da Aliança. Houve relâmpagos, vozes, trovões, terremotos e uma grande tempestade de granizo.
+
+@secao Responsório | Ap 11,15b; Dn 7,26c
+
+@responsorio
+R. Instalou-se sobre o mundo a realeza,
+a realeza do Senhor e de seu Cristo;
+* E ele reinará na eternidade. Aleluia.
+V. O seu reino é reino eterno e os reis de toda a terra
+hão de servi-lo e obedecer-lhe.* E ele.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de São João, de São Cirilo de Alexandria, bispo
+{(Séc.V)} {(Lib. 4,2: PG 73,563-566)}
+
+@tema
+Cristo entregou seu corpo para a vida de todos
+
+@texto
+Eu morro por todos, diz o Senhor, a fim de que por mim todos tenham vida. Eu morro para resgatar todos pela minha carne! A morte morrerá em minha morte e, juntamente comigo, a natureza humana que caíra, ressuscitará.
+Para tanto tornei-me semelhante a vós, um homem autêntico da descendência de Abraão, a fim de ser semelhante a meus irmãos. São Paulo compreendeu isto perfeitamente, ao dizer: Visto que os filhos têm em comum a carne e o sangue, também Jesus participou da mesma _condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é,_ _o demônio_ (Hb 2,14). Ora, aquele que tinha o poder da morte, e por conseguinte, a própria morte, não poderia ser destruído de nenhuma outra maneira, se Cristo não tivesse se oferecido em sacrifício por nós. Um só foi imolado pela redenção de todos, porque a morte dominava sobre todos. Por isso diz-se nos salmos que Cristo se ofereceu a Deus Pai como sacrifício imaculado: Sacrifício e oblação não quisestes, mas formastes-me um corpo; não pedistes ofertas nem _vítimas, holocaustos por nossos pecados. E então eu vos disse: “Eis que venho”_ (Sl 39,7-9). O Senhor foi crucificado por todos e por causa de todos a fim de que, tendo um morrido por todos, vivamos todos nele. Não seria possível que a vida permanecesse sujeita à morte ou sucumbisse à corrupção natural. Sabemos pelas próprias palavras de Cristo que ele ofereceu sua carne pela vida do mundo: _Eu me consagro por eles_ (Jo 17,19). Com isso ele quer dizer que se consagra e se oferece como sacrifício puro de suave perfume. Com efeito, tudo o que era oferecido sobre o altar, era santificado ou chamado santo, conforme a Lei. Cristo, portanto, entregou seu corpo em sacrifício pela vida de todos e assim a vida nos foi dada de novo por meio dele. Como isso se realizou, procurarei dizer na medida do possível. Depois que o Verbo de Deus, que tudo vivifica, assumiu a carne, restituiu à carne o seu próprio bem, isto é, a vida. Estabeleceu com ela uma comunhão inefável, e tornou-a fonte de vida, como ele mesmo o é por natureza. Por conseguinte, o corpo de Cristo dá a vida a todos os que dele participam; repele a morte dos que a ele estão sujeitos e os libertará da corrupção, porque possui em si mesmo a força que a elimina plenamente.
+
+@secao Responsório | Jo 10,14.15b.10b
+
+@responsorio
+R. Eu sou o Bom Pastor, diz Jesus,
+e conheço as minhas ovelhas
+* E por elas eu dou minha vida. Aleluia.
+V. Eu vim para que tenham a vida
+e a tenham em grande abundância.
+* E por elas.
+
+@secao Oração
+
+@oracao
+Ó Deus, que renovastes nas águas do batismo os que creem em vós, protegei os que renasceram no Cristo, para que vençam as ciladas do erro e permaneçam fiéis à vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

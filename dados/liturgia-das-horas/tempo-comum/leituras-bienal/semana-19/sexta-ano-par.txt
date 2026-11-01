@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/19sextaTC_par.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Zacarias {12,9-12a;13,1-9}
+
+@tema
+A salvação estará em Jerusalém
+
+@texto
+Assim falou o Senhor: [12,9] E acontecerá, naquele dia, que eu procurarei destruir todas as nações que avançam contra Jerusalém. [10] Derramarei sobre a casa de Davi e sobre todo habitante de Jerusalém um espírito de graça e de súplica, e eles olharão para mim a respeito daquele que eles transpassaram, eles o lamentarão como se fosse a lamentação por um filho único; eles o chorarão como se chora sobre o primogênito. [11] Naquele dia, será grande a lamentação em Jerusalém, como a lamentação de Adad-Remon, na planície de Meguidon. [12] E a terra se lamentará, clã por clã. [13,1] Naquele dia haverá para a Casa de Davi e para os habitantes de Jerusalém uma fonte aberta, para lavar o pecado e a mancha. [2] E acontecerá, naquele dia - oráculo do Senhor dos Exércitos -, que eu exterminarei da terra os nomes dos ídolos: eles não serão mais lembrados. Também os profetas e o espírito de impureza eu expulsarei da terra. [3] Se alguém profetizar novamente, seu pai e sua mãe, que o geraram, dir-lhe-ão: “Tu não viverás, porque falaste mentiras em nome do Senhor,” e seu pai e sua mãe, que o geraram, o transpassarão enquanto profetizar. [4] E acontecerá, naquele dia, que os profetas terão vergonha de suas visões, quando profetizarem; e não vestirão o manto de pele para mentir. [5] Cada um dirá: “Não sou profeta, sou homem que trabalha a terra, pois a terra é minha propriedade desde a minha juventude”. [6] E se lhe disserem: “Que são essas feridas em teu peito?”, ele responderá: “Aquelas que recebi na casa de meus amigos”. [7] Espada, levanta-te contra o meu pastor e contra o homem, meu companheiro, oráculo do Senhor dos Exércitos. Fere o pastor, que as ovelhas sejam dispersadas! Eu voltarei a minha mão contra os pequenos. [8] E acontecerá em toda a terra - oráculo do Senhor - que dois terços serão exterminados (perecerão) e que o outro terço será deixado nele. [9] Farei esse terço entrar no fogo, purificá-lo-ei como se purifica a prata, prová-lo-ei como se prova o ouro. Ele invocará o meu nome, e eu lhe responderei; direi: “É meu povo!” e ele dirá: “O Senhor é meu Deus!”
+
+@secao Responsório | Mt 26,31; Zc 13,7
+
+@responsorio
+R. Esta noite, todos vós, disse Jesus,
+comigo vos escandalizareis,
+* Porque está escrito: Ferirei o pastor,
+e todo o rebanho disperso será.
+V. Levanta-te, espada, e fere o meu pastor
+e também o companheiro, oráculo do Senhor.
+* Porque.
+
+@secao Segunda leitura
+
+@leitura
+Do “Tratado sobre o Reino de Jesus”, de São João Eudes, presbítero
+{(Séc. XVII)} {(Pars 3,4: Opera omnia 1,310-312)}
+
+@tema
+O mistério de Cristo em nós e na Igreja
+
+@texto
+Cabe-nos imitar e completar em nós os estados e mistérios de Cristo e pedir-lhe continuamente que os leve a termo e os perfaça em nós e na Igreja inteira.
+Porque os mistérios de Jesus ainda não estão totalmente levados à sua perfeição e realizados. Na pessoa de Jesus, sim, não, porém, em nós, seus membros, nem na Igreja, seu Corpo místico. Por querer o Filho de Deus comunicar, estender de algum modo e continuar seus mistérios em nós e em toda a sua Igreja, determinou tanto as graças que nos concederá, quanto os efeitos que quer produzidos em nós por esses mistérios. Por esta razão deseja completá-los em nós.
+Por isso, São Paulo diz que Cristo é completado na Igreja e que todos nós colaboramos _para sua edificação e_ _para a plenitude de sua idade_ (cf. Ef 4,13), isto é, a idade mística que tem em seu Corpo místico, mas que só no dia do juízo será plena. Em outro lugar, diz o mesmo Apóstolo que _completa em sua carne o que falta aos sofrimentos de_ _Cristo_ (cf. Cl 1,24).
+Desse modo, o Filho de Deus decidiu que seus estados e mistérios seriam completados e levados à perfeição em nós. Quer levar à perfeição em nós o mistério de sua encarnação, nascimento, vida oculta, quando se forma e renasce em nossa alma pelos sacramentos do santo batismo e da divina eucaristia e nos dá vivermos a vida espiritual e interior, _escondida com ele em Deus_ (Cl 3,3).
+Quer ainda levar à perfeição em nós o mistério de sua paixão, morte e ressurreição que nos fará padecer, morrer e ressurgir com ele. E, finalmente, quer completar em nós o estado de vida gloriosa e imortal, quando nos fará viver com ele e nele a vida gloriosa e perpétua nos céus. Assim quer consumar e completar seus outros estados, outros mistérios em nós e em sua Igreja; deseja comunicá-los a nós e partilhá-los conosco e por nós continuá-los e propagá-los. Assim, os mistérios de Cristo não estarão completos antes daquele tempo que marcou para o término desses mistérios em nós e na Igreja, isto é, antes do fim do mundo.
+
+@secao Responsório | Cl 1,24.29
+
+@responsorio
+R. Eu me alegro por sofrer,
+* E completo em minha carne
+o que falta aos sofrimentos de Cristo
+por seu corpo, que é a sua Igreja.
+V. Esforço-me e luto, amparado por Jesus,
+cuja força poderosa opera dentro em mim.
+* E completo.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos um dia a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paixaodosenhor_terca.htm
+@documento Hora Média - Paixão de Nosso Senhor Jesus Cristo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Salvai, ó Redentor, a criatura,
+na qual do entendimento fulge a luz;
+não seja por Satã dilacerada,
+comprou-a vosso sangue em vossa cruz.
+
+Piedade dos que o mal tornou cativos,
+dai, pois, vosso perdão aos pobres réus;
+aos que com o próprio sangue redimistes
+fazei reinar convosco, ó Rei dos céus.
+
+@secao Salmodia
+
+@antifona
+Era a hora terceira
+quando eles pregaram Jesus sobre a cruz.
+
+@rubrica
+Numa das Horas Médias, tomam-se os salmos seguintes; nas outras duas, tomam-se da Salmodia Complementar.
+
+@salmo salmos/salmo-039-2-14-17-18
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@salmo salmos/salmo-087
+
+@gloria
+
+@antifona
+Era a hora terceira
+quando eles pregaram Jesus sobre a cruz.
+
+@secao Leitura breve | Is 53,2-3
+
+@texto
+Diante do Senhor ele cresceu como renovo de planta ou como raiz em terra seca. Não tinha beleza nem atrativo para o olharmos, não tinha aparência que nos agradasse. Era desprezado como o último dos mortais, homem coberto de dores, cheio de sofrimentos; passando por ele, tapávamos o rosto; tão desprezível era, não fazíamos caso dele.
+
+@texto
+V. Adoramos-vos, ó Cristo e bendizemos vosso nome.
+R. Pois remistes todo o mundo pela vossa santa Cruz!
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/05domingoTC.htm
+@documento Ofício das Leituras - 5O Domingo Do Tempo Comum
+
+@titulo 5o DOMINGO DO TEMPO COMUM / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Início da Carta de São Paulo aos Gálatas {1,1-12}
+
+@tema
+O Evangelho de Paulo
+
+@texto
+[1] Eu, Paulo, apóstolo – não por iniciativa humana, nem por intermédio de nenhum homem, mas por Jesus Cristo e por Deus Pai que o ressuscitou dos mortos – [2] e todos os irmãos que estão comigo, às Igrejas da Galácia. [3] A graça e a paz estejam convosco da parte de Deus Pai e de Nosso Senhor Jesus Cristo, [4] que se entregou por nossos pecados, para nos livrar da maldade do século presente, segundo a vontade de nosso Deus e Pai, [5] a quem seja dada a glória pelos séculos dos séculos. Amém. [6] Admiro-me de terdes abandonado tão depressa aquele que vos chamou, na graça de Cristo, e de terdes passado para um outro evangelho. [7] Não que haja outro evangelho, mas algumas pessoas vos estão perturbando e querendo mudar o evangelho de Cristo. [8] Pois bem, mesmo que nós ou um anjo vindo do céu vos pregasse um evangelho diferente daquele que vos pregamos, seja excomungado. [9] Como já dissemos e agora repito: Se alguém vos pregar um evangelho diferente daquele que recebestes, seja excomungado. [10] Será que eu estou buscando a aprovação dos homens ou a aprovação de Deus? Ou estou procurando agradar aos homens? Se eu ainda estivesse preocupado em agradar aos homens, não seria servo de Cristo. [11] Irmãos, asseguro-vos que o evangelho pregado por mim não é conforme a critérios humanos. [12] Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo.
+
+@secao Responsório | Gl 1,3-4a.10c
+
+@responsorio
+R. A vós a graça e a paz que vem de Deus,
+o nosso Pai e de Jesus Cristo, Senhor nosso.
+* Que a si mesmo se entregou por nossas culpas.
+V. Se aos homens eu quisesse agradar,
+não seria mais um servo de Jesus.
+* Que a si mesmo.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre a Carta aos Gálatas, de Santo Agostinho, bispo
+{(Séc. V)} {(Praefatio: PL 35,2105-2107)}
+
+@tema
+Compreendamos a graça de Deus
+
+@texto
+O Apóstolo escreve aos gálatas com a intenção de fazê-los compreender que a graça de Deus neles atua de tal modo que não mais estão sob a lei. Ao ser proclamada a graça do Evangelho, não faltou quem dentre os judeus, mesmo se dizendo cristão, não tivesse entendido o imenso benefício da graça e teimasse em manter-se sob o jugo da lei que o Senhor Deus impusera não aos servidores da justiça, mas aos servidores do pecado. Esta lei era justa para homens injustos a fim de mostrar-lhes o pecado, mas não para tirá-lo. Nada, com efeito, apaga o pecado a não ser a graça da fé que age pela caridade. De fato, certos judeus queriam impor aos gálatas, já possuidores da graça, o peso da lei, afirmando de nada lhes aproveitar o Evangelho, a não ser que se deixassem circuncidar e adotassem os outros ritos judaicos puramente carnais. Por esta razão começaram a suspeitar de Paulo, que lhes havia pregado o Evangelho, julgando-o infiel à doutrina dos outros apóstolos que obrigavam os gentios a viverem como judeus. O apóstolo Pedro cedera ao escândalo de tais homens e deixara-se levar à simulação, como se pensasse, também ele, que aos gentios de nada serviria o Evangelho, se não cumprissem os preceitos onerosos da lei. O apóstolo Paulo afasta-o dessa simulação como conta nesta Carta. Trata-se aqui da mesma questão que na Carta aos Romanos. Contudo nesta última parece haver outra coisa, pois acaba com uma contenda e tranquiliza a situação entre os partidários dos judeus e os gentios que haviam aceitado a fé. Em nossa Carta, porém, dirige-se àqueles que estavam abalados por causa da autoridade daqueles judeus que os constrangiam aos preceitos da lei. Já haviam começado a dar-lhes crédito, pensando que o apóstolo Paulo não lhes havia pregado toda a verdade por não querer deixá-los circuncidar-se. Por isso começa logo assim: _Espanto-me por terdes tão depressa passado daquele que vos chamou à glória de Cristo para um outro evangelho._ Nesta introdução sugeriu em poucas palavras o ponto em questão. Embora na própria saudação, quando diz ser apóstolo, _não da parte dos homens nem por homem algum_ – expressão que não se encontra em nenhuma outra carta – mostre claramente serem esses tais conselheiros não da parte de Deus, mas dos homens; e ser injusto considerá-lo inferior aos outros apóstolos, quanto à autoridade do testemunho evangélico, já que sabia ser apóstolo não da parte de homens nem por um homem, mas por Jesus Cristo e Deus Pai.
+
+@secao Responsório | Gl 3,24-25.23
+
+@responsorio
+R. A lei foi nosso educador, que nos guiou até o Cristo,
+a fim de que nós fôssemos justificados pela fé.
+* Ao chegar, porém, a fé,
+não estamos mais sujeitos ao antigo educador.
+V. Mas antes que chegasse a época da fé,
+nós éramos guardados, tutelados sob a lei
+para a fé que chegaria. * Ao chegar.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Velai, ó Deus, sobre a vossa família, com incansável amor; e como só confiamos na vossa graça, guardai-nos sob a vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

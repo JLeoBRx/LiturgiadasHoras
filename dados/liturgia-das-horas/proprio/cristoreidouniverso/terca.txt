@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/cristoreidouniverso_terca.htm
+@documento Hora Média - Nosso Senhor Jesus Cristo, Rei do Universo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+O Senhor, nosso Juiz, nossa Lei e nosso Rei!
+Ele mesmo é quem nos salva.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+O Senhor, nosso Juiz, nossa Lei e nosso Rei!
+Ele mesmo é quem nos salva.
+
+@secao Leitura breve | Cf. Cl 1,12-13
+
+@texto
+Damos graças ao Pai, que nos tornou capazes de participar da luz, que é a herança dos santos. Ele nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado.
+
+@texto
+V. O Senhor reinará para sempre.
+R. Abençoará com a paz o seu povo.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que dispusestes restaurar todas as coisas no vosso amado Filho, Rei do universo, fazei que todas as criaturas, libertas da escravidão e servindo à vossa majestade, vos glorifiquem eternamente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1terca_laudes.htm
+@documento Laudes - I Terça-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor
+
+@antifona 2
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@salmo canticos/tb-13-2-8
+
+@gloria
+
+@antifona
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@antifona 3
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo †
+
+@salmo salmos/salmo-032
+
+@gloria
+
+@antifona
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo
+
+@secao Leitura breve | Gn 49,10
+
+@texto
+O cetro não será tirado de Judá, nem o bastão de comando dentre os seus pés, até que venha Aquele a quem pertencem, e a quem obedecerão os povos.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Justiça e paz se abraçarão:
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A raiz de Jessé haverá de brotar
+e a glória de Deus encherá toda terra,
+toda carne verá a salvação do Senhor.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A raiz de Jessé haverá de brotar
+e a glória de Deus encherá toda terra,
+toda carne verá a salvação do Senhor.
+
+@secao Preces
+
+@preces
+Deus Pai onipotente estenderá de novo a sua mão para resgatar os sobreviventes do seu povo. Peçamos-lhe, pois, cheios de confiança:
+
+R. **Venha a nós, Senhor, o vosso reino!**
+
+Concedei-nos, Senhor, que possamos dar frutos dignos de conversão,
+– para recebermos o vosso reino que se aproxima. R.
+
+Preparai, Senhor, em nossos corações o caminho para acolhermos vossa Palavra que vai chegar,
+– para que sua glória possa revelar-se em nós. R.
+
+Abatei os montes e colinas do nosso orgulho,
+– e levantai os vales da nossa fragilidade. R.
+
+Derrubai as barreiras de ódio que dividem os povos,
+– e tornai planos os caminhos da concórdia entre os povos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Sede propício, ó Deus, às nossas súplicas, e auxiliai-nos em nossa tribulação. Consolados pela vinda do vosso Filho, sejamos purificados da antiga culpa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

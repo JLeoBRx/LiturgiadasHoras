@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopedroclaver.htm
+@documento Ofício das Leituras - São Pedro Claver, Presbítero
+
+@celebracao
+SÃO PEDRO CLAVER, PRESBÍTERO
+
+@biografia
+Pedro Claver nasceu em Verdú (Espanha) no ano de 1580; começou em 1596 os estudos de Letras e Artes na Universidade de Barcelona e em 1602 entrou na Companhia de Jesus. Ordenado sacerdote em 1616 na missão da Colômbia, aí exerceu até à morte o apostolado entre os escravos negros, conforme o voto a que se tinha obrigado de ser "escravo dos negros para sempre". Debilitadas as forças, morreu em Cartagena (Colômbia) a 8 de Setembro de 1654.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {12,1-21}
+
+@tema
+A vida cristã é culto espiritual
+
+@texto
+[1] Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. [2] Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, oq que é perfeito. [3] Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma idéia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. [4] Como, num só corpo, temos muitos membros, cada qual com uma função diferente, [5] assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. [6] Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; [7] se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; [8] se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. [9] O amor seja sincero. Detestai o mal, apegai-vos ao bem. [10] Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. [11] Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, [12] alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. [13] Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. [14] Abençoai os que vos perseguem, abençoai e não amaldiçoeis. [15] Alegrai-vos com os que se alegram, chorai com os que choram. [16] Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria. [17] Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos. [18] Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo. [19] Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”. [20] Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça. [21] 1Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@secao Responsório | Rm 12,2; Ef 4,23-24
+
+@responsorio
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Pedro Claver, presbítero
+{(Séc. XVII)} {(Carta de 31 de Maio de 1627: A. Valtierra, S.I., San Pedro Claver, Cartagena, 1964, pp. 140-141)}
+{(tradução não oficial)}
+
+@tema
+Evangelizar os pobres, sarar os corações atribulados,_
+_proclamar a redenção dos cativos
+
+@texto
+Ontem, 30 de Maio deste ano de 1627, festa da Santíssima Trindade, saíram de uma grande embarcação muitos negros trazidos das margens dos rios da África. Fomos ter com eles, levando dois cestos de laranjas, limões, bolachas e outras coisas, e dirigimo-nos para as suas barracas. Parecia que havíamos entrado em outra Guiné.
+Tivemos de atravessar por entre grande multidão até chegar aos doentes, que eram muito numerosos e estavam deitados no chão húmido e lamacento. Alguém se lembrou de os entulhar sobre fragmentos de telhas e tijolos para diminuir a humidade. Tal era a cama destes infelizes, que além disso estavam nus, sem qualquer roupa que os protegesse.
+Tiramos as nossas capas e fomos buscar tábuas para fazer um estrado. Depois, forçando o caminho por entre os guardas, para ali transportamos os doentes. Em seguida os distribuimos em dois grupos: de um grupo encarregou-se o meu companheiro com um intérprete; do outro encarreguei-me eu.
+Entre eles havia dois quase morrendo: estavam frios e mal se lhes sentia o pulso. Levamos brasas numa telha para junto dos moribundos, deitamos perfumes nas brasas, até esvaziar duas sacas que tínhamos trazido. Depois, cobrindo os com as nossas capas – pois eles nada tinham com que se cobrir e não podíamos perder tempo a pedir roupas aos seus senhores – conseguimos que fizessem uma inalação daqueles vapores e recuperassem o calor e a respiração. Era de ver a alegria com que nos olhavam!
+Assim lhes falamos, não com palavras mas com obras; e na verdade, estando eles persuadidos de que tinham sido trazidos para ali a fim de serem comidos, de nada teriam servido outros discursos. Sentamo-nos depois, ou ajoelhamo-nos junto deles, lavamos-lhes os rostos e os corpos com vinho, procurando alegrá-los com carinho e fazer lhes o que naturalmente se faz para levantar o moral dos doentes.
+Depois tratamos de os preparar para o Batismo. Explicamos os admiráveis efeitos deste sacramento para o corpo e para a alma. E quando, respondendo às nossas perguntas, deram mostras de terem compreendido, passamos a um ensino mais completo sobre um só Deus que premia ou castiga segundo os merecimentos de cada um, etc. Exortamo-los a fazer o ato de contrição e a manifestar o arrependimento dos pecados que tivessem cometido, etc.
+Finalmente, quando já pareciam suficientemente preparados, falamos dos mistérios da Santíssima Trindade, da Encarnação e da Paixão; e, mostrando-lhes num quadro a imagem de Cristo crucificado sobre uma pia batismal, para a qual correm os rios de sangue provenientes das chagas de Cristo, rezamos com eles, na sua língua, o ato de contrição.
+
+@secao Responsório | Mt 25,35.40; Jo 15,12
+
+@responsorio
+R. Tive fome e me destes de comer,
+tive sede e me destes de beber, era peregrino e me acolhestes.
+* Em verdade vos digo: todas as vezes que o fizestes
+a um dos meus irmãos mais pequeninos,
+foi a mim o fizestes.
+V. Este é o meu mandamento:
+amai-vos uns aos outros, como Eu vos amei. * Em verdade.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes São Pedro escravo dos escravos e no serviço a eles o fortalecestes com uma admirável caridade e paciência, concedei-nos, por sua intercessão, procurando sempre as coisas que são de Cristo, amar o próximo pela ação e na verdade. Por nosso Senhor Jesus Cristo, vosso Filho,
+na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

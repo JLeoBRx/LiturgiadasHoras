@@ -1,0 +1,233 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSAparecida.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria Da Conceição Aparecida Solenidade
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA DA CONCEIÇÃO APARECIDA
+{Solenidade}
+
+@biografia
+Na segunda quinzena de outubro de 1717, três pescadores: Filipe Pedroso, Domingos Garcia e João Alves, ao lançarem sua rede para pescar nas águas do rio Paraíba, colheram a imagem de Nossa Senhora da Conceição, no lugar denominado Porto do Itaguassu. Filipe Pedroso a levou e guardou até 1732, quando a entregou a seu filho Atanásio Pedroso. Este construiu um pequeno oratório onde colocou a imagem da Virgem que ali permaneceu até 1743. Todos os sábados, a vizinhança reunia-se no pequeno oratório para rezar o terço. Devido à ocorrência de milagres, a devoção a Nossa Senhora Aparecida, assim carinhosamente chamada pelo povo brasileiro, começou a divulgar-se. O Papa Pio XI a declarou e proclamou Padroeira do Brasil em 16 de julho de 1930.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó mãe da nossa pátria,
+escuta a nossa voz:
+teus olhos compassivos
+se voltam para nós.
+
+Do teu amor materno
+já temos a certeza,
+porque te trouxe a nós
+do rio a correnteza.
+
+E todo o povo acorre,
+de joelhos te venera:
+sob o teu manto azul
+ninguém se desespera.
+
+Tu és nosso socorro
+em nossas aflições;
+guarda junto do teu
+os nossos corações.
+
+Ó Virgem sempre bela,
+ó luz do céu descida,
+sempre a guiar teus filhos,
+Senhora Aparecida.
+
+Louvor e honra ao Filho
+que pela Virgem vem;
+no Espírito és o brilho
+do Pai eterno. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+Já bem antes da aurora o Senhor veio ajudá-la
+e preparou, em santidade, uma morada para si.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Já bem antes da aurora o Senhor veio ajudá-la
+e preparou, em santidade, uma morada para si.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@texto
+V. Felizes os que ouvem a Palavra do Senhor.
+R. Felizes os que a vivem e a praticam cada dia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {24,1-7.12-16.24-31}
+
+@tema
+Maria, sede da sabedoria
+
+@texto
+A Sabedoria faz o seu próprio elogio, e em Deus será honrada e no meio do seu povo, glorificada. Abre a boca na assembleia do Altíssimo e se exalta diante do Poderoso. É glorificada no meio do seu povo, é admirada na grande reunião dos santos. É louvada entre a multidão dos escolhidos, é abençoada com os abençoados de Deus. Ela disse: “Saí da boca do Altíssimo, a primogênita entre todas as criaturas. E fiz levantar no céu uma luz indefectível e cobri toda a terra como que de uma nuvem. Habitava nas alturas do céu e meu trono estava numa coluna de nuvens. Então o Criador do universo me deu suas ordens. Aquele que me criou marcou o lugar da minha casa, e me disse: ‘Arma tua tenda em Jacó, toma posse da tua herança em Israel e no meio do meu povo finca raízes’. Desde o princípio, antes de todos os séculos, Ele me criou, e nunca mais vou deixar de existir; na morada santa ofereci culto em sua presença, assim coloquei minha casa em Sião, repousei na Cidade santa, e em Jerusalém está a sede do meu poder. Lancei raízes num povo glorioso, no domínio do Senhor, na sua herança, e fixei minha morada na assembleia dos santos. Sou a mãe do belo amor e do temor, do conhecimento e da santa esperança. Em mim se acha toda a graça do caminho e da verdade, em mim toda a esperança da vida e da virtude. Vinde até mim, vós que me desejais e saciai-vos com meus frutos! Minha doutrina é mais doce que o mel, e minha posse mais suave que o favo. A memória de meu nome durará por todas as gerações. Aqueles que comem de mim, terão ainda fome; e aqueles que bebem de mim, terão ainda sede. Quem me obedece não terá de que se envergonhar, e os que trabalham comigo, não pecarão. Aqueles que me tornam conhecida, terão a vida eterna”.
+
+@secao Responsório | Eclo 24,12-13
+
+@responsorio
+R. O Criador do universo me ordenou:
+* Em Jacó tu haverás de instalar-te,
+terás em Israel a tua herança;
+faze crescer entre os eleitos tuas raízes.
+V. Quem me criou, armou-me a tenda e me disse:
+* Em Jacó.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia na Dedicação da Basílica Nacional de Aparecida, do papa São João Paulo II
+{(Pronunciamentos do Papa no Brasil, Edit. Vozes, Petrópolis 1980,125.128.129.130)} {(Séc. XX)}
+
+@tema
+A devoção a Maria é fonte de vida cristã profunda
+
+@texto
+“Viva a Mãe de Deus e nossa, sem pecado concebida! Viva a Virgem Imaculada, a Senhora Aparecida!” Desde que pus os pés em terra brasileira, nos vários pontos por onde passei, ouvi este cântico. Ele é, na ingenuidade e singeleza de suas palavras, um grito da alma, uma saudação, uma invocação cheia de filial devoção e confiança para com aquela que, sendo verdadeira Mãe de Deus, nos foi dada por seu Filho Jesus no momento extremo da sua vida para ser nossa Mãe. Sim, amados irmãos e filhos, Maria, a Mãe de Deus, é modelo para a Igreja, é Mãe para os remidos. Por sua adesão pronta e incondicional à vontade divina que lhe foi revelada, torna-se Mãe do Redentor, com uma participação íntima e toda especial na história da salvação. Pelos méritos de seu Filho, é Imaculada em sua Conceição, concebida sem a mancha original, preservada do pecado e cheia de graça. Ao confessar-se _serva do Senhor_ (Lc 1,38) e ao pronunciar o seu _sim_, acolhendo “em seu coração e em seu seio o mistério de Cristo Redentor, Maria não foi instrumento meramente passivo nas mãos de Deus, mas cooperou na salvação dos homens com fé livre e inteira obediência. Sem nada tirar ou diminuir e nada acrescentar à ação daquele que é o único Mediador entre Deus e os homens, Jesus Cristo, Maria nos aponta as vias da salvação, vias que convergem todas para Cristo, seu Filho, e para a sua obra redentora. Maria nos leva a Cristo, como afirma com precisão o Concílio Vaticano II: “A função maternal de Maria, em relação aos homens, de modo algum ofusca ou diminui esta única mediação de Cristo; antes, manifesta a sua eficácia. E de nenhum modo impede o contato imediato dos fiéis com Cristo, antes o favorece”. Mãe da Igreja, a Virgem Santíssima tem uma presença singular na vida e na ação desta mesma Igreja. Por isso mesmo, a Igreja tem os olhos sempre voltados para aquela que, permanecendo virgem, gerou, por obra do Espírito Santo, o Verbo feito carne. Qual é a missão da Igreja senão a de fazer nascer o Cristo no coração dos fiéis, pela ação do mesmo Espírito Santo, através da evangelização? Assim, a “Estrela da Evangelização”, como a chamou o meu Predecessor Paulo VI, aponta e ilumina os caminhos do anúncio do Evangelho. Este anúncio de Cristo Redentor, de sua mensagem de salvação, não pode ser reduzido a um mero projeto humano de bem-estar e felicidade temporal. Tem certamente incidências na história humana coletiva e individual, mas é fundamentalmente um anúncio de libertação do pecado para a comunhão com Deus, em Jesus Cristo. De resto, esta comunhão com Deus não prescinde de uma comunhão dos homens uns com os outros, pois os que se convertem a Cristo, autor da salvação e princípio de unidade, são chamados a congregar-se em Igreja, sacramento visível desta unidade humana salvífica. Por tudo isto, nós todos, os que formamos a geração hodierna dos discípulos de Cristo, com total aderência à tradição antiga e com pleno respeito e amor pelos membros de todas as comunidades cristãs, desejamos unir-nos a Maria, impelidos por uma profunda necessidade da fé, da esperança e da caridade. Discípulos de Jesus Cristo neste momento crucial da história humana, em plena adesão à ininterrupta Tradição e ao sentimento constante da Igreja, impelidos por um íntimo imperativo de fé, esperança e caridade, nós desejamos unir-nos a Maria. E queremos fazê-lo através das expressões da piedade mariana da Igreja de todos os tempos. A devoção a Maria é fonte de vida cristã profunda, é fonte de compromisso com Deus e com os irmãos. Permanecei na escola de Maria, escutai a sua voz, segui os seus exemplos. Como ouvimos no Evangelho, ela nos orienta para Jesus: _Fazei o que ele vos disser_ (Jo 2,5). E, como outrora em Caná da Galiléia, encaminha ao Filho as dificuldades dos homens, obtendo dele as graças desejadas. Rezemos com Maria e por Maria: ela é sempre a “Mãe de Deus e nossa”.
+
+@secao Responsório | Cf. Lc 1,48.49
+
+@responsorio
+R. És feliz, Virgem Maria; e mereces toda honra;
+* Pois de ti se levantou o Sol brilhante da justiça,
+que é o Cristo, nosso Deus, pelo qual nós fomos salvos.
+V. O Poderoso contemplou a humildade de sua serva,
+e em meu favor fez grandes coisas. * Pois de ti.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, fiel à sua vocação e vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

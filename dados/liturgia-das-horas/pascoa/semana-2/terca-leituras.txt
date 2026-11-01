@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/2tercaPascoa.htm
+@documento Ofício das Leituras - 2ª Semana Da Páscoa - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá. Aleluia.
+
+@salmo salmos/salmo-036-i
+
+@gloria
+
+@antifona
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá. Aleluia.
+
+@antifona 2
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor. Aleluia.
+
+@salmo salmos/salmo-036-ii
+
+@gloria
+
+@antifona
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor. Aleluia.
+
+@antifona 3
+Confia em Deus e segue sempre seus caminhos! Aleluia.
+
+@salmo salmos/salmo-036-iii-v2
+
+@gloria
+
+@antifona
+Confia em Deus e segue sempre seus caminhos! Aleluia.
+
+@texto
+V. Ressurgindo dentre os mortos,
+Jesus Cristo já não morre. Aleluia.
+R. E a morte não tem mais nenhum domínio sobre ele. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {2, 1-11}
+
+@tema
+Às Igrejas de Éfeso e de Esmirna
+
+@texto
+Eu, João, ouvi o Senhor que me dizia:
+[1] Escreve ao anjo da Igreja que está em Éfeso: “Assim fala aquele que tem na mão direita as sete estrelas, aquele que está andando no meio dos sete candelabros de ouro: [2] Conheço a tua conduta, o teu esforço e a tua perseverança. Sei que não suportas os maus. Colocaste à prova alguns que se diziam apóstolos e descobriste que não eram apóstolos, mas mentirosos. [3] És perseverante. Sofreste por causa do meu nome e não desanimaste. [4] Todavia, há uma coisa que eu reprovo: abandonaste o teu primeiro amor. [5] Lembra-te de onde caíste! Converte-te e volta à tua prática inicial. Se, pelo contrário, não te converteres, virei depressa e arrancarei o teu candelabro do seu lugar. [6] Mas em teu favor tens isto: detestas a prática dos nicolaítas, a qual também eu detesto. [7] Quem tem ouvidos, ouça o que o Espírito diz às Igrejas. Ao vencedor darei de comer da árvore da vida, que está no paraíso de Deus.” [8] Escreve ao anjo da Igreja que está em Esmirna: “Assim fala o Primeiro e o Último, aquele que esteve morto mas voltou à vida: [9] Conheço tua tribulação e tua pobreza. Contudo, és rico. Também sei que alguns dos que se dizem judeus andaram falando mal; na realidade, eles não são judeus, mas sim, uma sinagoga de Satanás. [10] Não tenhas medo do sofrimento que vai chegar. O diabo lançará alguns dentre vós na prisão. Assim sereis colocados à prova. Conhecereis tribulação durante dez dias. Sê fiel até à morte, e eu te darei como prêmio a coroa da vida. [11] Quem tem ouvidos, ouça o que o Espírito diz às Igrejas. O vencedor ficará livre da segunda morte.”
+
+@secao Responsório | Ap 2, 10c.11b; Eclo 4,33
+
+@responsorio
+R.Permanece fiel até a morte e a coroa da vida eu te darei.
+* O vencedor não sofrerá a segunda morte. Aleluia.
+V.Combate até à morte, em defesa da justiça,
+e Deus combaterá, por ti,teus inimigos. * O vencedor.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Livros a Monimo”, de São Fulgêncio, bispo de Ruspe
+{(Séc.VI)} {(Lib. 2,11-12: CCL 91,46-48)}
+
+@tema
+O sacramento da unidade e da caridade
+
+@texto
+A edificação espiritual do corpo de Cristo realiza-se na caridade, segundo as palavras de São Pedro: _Como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo_ (1Pd 2,5). Esta edificação espiritual atinge sua maior eficácia no momento em que o próprio Corpo do Senhor, que é a Igreja, no sacramento do pão e do cálice, oferece o corpo e o sangue de Cristo: _o cálice_ _que bebemos é a comunhão com o sangue de Cristo; e o pão que partimos, é a comunhão com_ _o corpo de Cristo. Porque há um só pão, nós todos participamos desse único pão_ (cf. 1Cor 10,16-17). Por isso pedimos que a mesma graça que faz da Igreja o Corpo de Cristo, faça com que todos os membros, unidos pelos laços da caridade, perseverem firmemente na unidade do corpo. E com razão suplicamos que isto se realize em nós pelo dom daquele Espírito que é ao mesmo tempo o Espírito do Pai e do Filho; porque sendo a Santíssima Trindade, na unidade de natureza, igualdade e amor, o único e verdadeiro Deus, é unânime a ação das três Pessoas divinas na obra santificadora daqueles que adota como filhos. Eis por que está escrito: _O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado_ (Rm 5,5). O Espírito Santo, que é unidade do Pai e do Filho, realiza agora naqueles a quem concedeu a graça da adoção divina, transformação idêntica à que realizou naqueles que receberam o mesmo Espírito, conforme lemos no livro dos Atos dos Apóstolos: _A multidão dos fiéis era um só coração e uma só alma_ (At 4,32). Quem fez dessa multidão dos que creram em Deus um só coração e uma só alma, foi aquele Espírito que é unidade do Pai e do Filho e com o Pai e o Filho é um só Deus. Por isso, o Apóstolo exorta a conservarmos com toda a solicitude esta unidade do espírito no vínculo da paz, quando diz aos efésios: _Eu, prisioneiro no Senhor, vos exorto a caminhardes de_ _acordo com a vocação que recebestes: com toda a humildade e mansidão, suportando-vos uns aos outros com paciência, no amor. Aplicai-vos a guardar a unidade do espírito pelo vínculo_ _da paz. Há um só Corpo e um só Espírito_ (Ef 3,1-4). Deus, com efeito, enquanto conserva na Igreja o amor que ela recebeu pelo Espírito Santo, transforma-a num sacrifício agradável a seus olhos. De modo, que, recebendo continuamente esse dom da caridade espiritual, a Igreja possa sempre se apresentar como sacrifício vivo, santo e agradável a Deus.
+
+@secao Responsório | Jo 17, 20b.21a.22.18
+
+@responsorio
+{R. Eu te peço por aqueles, que por eles hão de crer,}
+para que todos sejam um, como tu estás em mim
+e eu estou em ti.
+* Para que eles sejam um, como nós o somos, Pai. Aleluia.
+V. Como ao mundo me enviaste, também eu os enviei.* Para que eles.
+
+@secao Oração
+
+@oracao
+Fazei-nos, ó Deus todo-poderoso, proclamar o poder do Cristo ressuscitado e, tendo recebido as primícias dos seus dons, consigamos possuí-los em plenitude. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

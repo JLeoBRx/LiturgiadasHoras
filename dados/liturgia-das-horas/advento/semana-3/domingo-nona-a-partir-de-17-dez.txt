@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_nona17.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo: O que vem significar essa tua saudação? A minha'alma perturbou-se! Serei mãe do grande Rei, conservando a virgindade!
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+E Maria disse ao anjo: O que vem significar essa tua saudação? A minha'alma perturbou-se! Serei mãe do grande Rei, conservando a virgindade!
+
+@secao Leitura breve | Cf. 2Ts 1,6.7.10
+
+@texto
+É justo, de fato, que Deus conceda o repouso a vós, oprimidos, juntamente conosco, por ocasião da manifestação do Senhor Jesus, que virá do céu com os anjos do seu poder, quando ele vier para ser glorificado na pessoa dos seus santos e para ser admirado na pessoa de todos os que tiverem crido.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Deus de bondade, que vedes o vosso povo esperando fervoroso o Natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,121 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/3quinta_quaresma.htm
+@documento Ofício das Leituras - 3ª Semana Da Quaresma - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@salmo salmos/salmo-088-39-53-iv
+
+@gloria
+
+@antifona
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@antifona 2
+Sou o rebento da estirpe de Davi,sou a estrela fulgurante da manhã.
+
+@salmo salmos/salmo-088-39-53-v
+
+@gloria
+
+@antifona
+Sou o rebento da estirpe de Davi,sou a estrela fulgurante da manhã.
+
+@antifona 3
+Os nossos dias vão murchando como a erva;vós, Senhor, sois desde sempre e para sempre.
+
+@salmo salmos/salmo-089-v2
+
+@gloria
+
+@antifona
+Os nossos dias vão murchando como a erva;
+vós, Senhor, sois desde sempre e para sempre.
+
+@texto
+V. Quem medita a Lei de Deus.
+R. Dará fruto a seu tempo.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {34,10-28}
+
+@tema
+Segundo código da Aliança
+
+@texto
+Naqueles dias, o Senhor disse a Moisés: [10] “Eu vou fazer uma aliança. Em presença de todo o teu povo, farei prodígios que nunca se viram sobre a terra, nem em nação alguma, para que todo o povo, no meio do qual estás, perceba como são terríveis as obras do Senhor, que vou realizar contigo. [11] Observa tudo o que hoje te ordeno. Eu mesmo expulsarei da tua frente os amorreus, os cananeus, os hititas, os fereseus, os heveus e os jebuseus. [12] Guarda-te de estabelecer amizade com os habitantes do país onde vais entrar, para que não te sejam ocasião de ruína. [13] Ao contrário, destruirás seus altares, quebrarás suas estelas e cortarás suas árvores sagradas. [14] Não te prostrarás diante de um deus estrangeiro, porque o Senhor se diz Ciumento, e, de fato, o é. [15] Não estabeleças aliança com os homens daquelas regiões, para que, ao se prostituírem com seus deuses, e quando lhes oferecerem sacrifícios, não te convidem, e tu não venhas a comer de suas vítimas. [16] Nem tomes suas filhas como esposas para teus filhos, para que, ao se prostituírem elas com seus deuses, não levem teus filhos a se prostituírem igualmente com eles. [17] Não farás para ti deuses de metal fundido. [18] Guardarás a festa dos Ázimos: durante sete dias comerás pães ázimos, como te ordenei, no tempo fixado no mês de Abib; porque foi no mês da primavera que saíste do Egito. [19] Todo o primogênito do sexo masculino é meu; assim como toda a primeira cria do teu rebanho, tanto das vacas, como das ovelhas. [20] Resgatarás o primogênito do jumento com um cordeiro; caso não queiras resgatá-lo, deves quebrar-lhe a nuca. Resgatarás os primogênitos dos teus filhos, e não te apresentarás diante de mim de mãos vazias. [21] Trabalharás durante seis dias, e no sétimo dia deixarás de lavrar e de colher. [22] Guardarás a festa das Semanas, no início da colheita do trigo, bem como a festa da Colheita, quando no fim do ano se recolhe tudo. [23] Três vezes por ano, todos os homens do teu povo deverão comparecer diante do Onipotente Senhor Deus de Israel. [24] Porque, quando eu tiver tirado da tua vista as nações, e houver dilatado as tuas fronteiras, ninguém cobiçará a tua terra, enquanto estiveres subindo, três vezes por ano, para te apresentares diante do Senhor teu Deus. [25] Não oferecerás o sangue de minhas vítimas com pão fermentado; nem se conserve até ao dia seguinte o que foi sacrificado na festa da Páscoa. [26] Oferecerás na casa do Senhor teu Deus o melhor dos primeiros frutos do teu solo. Não cozinharás o cabrito no leite de sua mãe”. [27] O Senhor disse a Moisés: “Escreve estas palavras, pois foi sobre elas que celebrei aliança contigo e com Israel”. [28] Moisés esteve ali com o Senhor quarenta dias e quarenta noites, sem comer pão nem beber água, e escreveu nas tábuas as palavras da aliança, os dez mandamentos.
+
+@secao Responsório | Jo 1,17.18; 2Cor3,18
+
+@responsorio
+R. A lei foi-nos dada por meio de Moisés,
+mas a graça e a verdade nos vieram por Jesus.
+* Ninguém jamais viu a Deus, mas o Filho Unigênito, que está junto do Pai, este o deu a conhecer.
+V. Mas nós todos, refletindo como espelho a glória do Senhor sem nenhum véu, em sua imagem nós seremos transformados numa glória sempre mais resplandecente. * Ninguém jamais.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a oração, de Tertuliano, presbítero
+{(Séc. III)} {(Cap.28-29: CCL 1,273-274)}
+
+@tema
+O sacrifício espiritual
+
+@texto
+A oração é o sacrifício espiritual que aboliu os antigos sacrifícios. _Que me importa a abundância de vossos sacrifícios? – diz o Senhor. Estou farto de holocaustos de carneiros e de gordura de animais cevados; do sangue de touros, de cordeiros e de bodes, não me agrado. Quem vos pediu estas coisas?_ (Is 1,11). O Evangelho nos ensina o que pede o Senhor: _Está chegando a hora, diz ele,em que os verdadeiros adoradores adorarão o Pai em espírito e verdade. Deus é espírito_ (Jo 4,23.24), e por isso procura tais adoradores. Nós somos verdadeiros adoradores e verdadeiros sacerdotes, quando, orando em espírito, oferecemos o sacrifício espiritual da oração, como oferenda digna e agradável a Deus, aquela que ele mesmo pediu e preparou. Esta oferenda, apresentada de coração sincero, alimentada pela fé, preparada pela verdade, íntegra e inocente, casta e sem mancha, coroada pelo amor, é a que devemos levar ao altar de Deus, acompanhada pelo solene cortejo das boas obras, entre salmos e hinos; ela nos alcançará de Deus tudo o que pedimos. Que poderia Deus negar à oração que procede do espírito e da verdade, se foi ele mesmo que assim exigiu? Todos nós lemos, ouvimos e acreditamos como são grandes os testemunhos da sua eficácia! Nos tempos passados, a oração livrava do fogo, das feras e da fome; e no entanto ainda não havia recebido de Cristo toda a sua eficácia. Quanto maior não será, portanto, a eficácia da oração cristã! Talvez não faça descer sobre as chamas o orvalho do Anjo, não feche a boca dos leões, não leve a refeição aos camponeses famintos, não impeça milagrosamente o sofrimento; mas vem em auxílio dos que suportam a dor com paciência, aumenta a graça aos que sofrem com fortaleza, para que vejam com os olhos da fé a recompensa do Senhor, reservada aos que sofrem pelo nome de Deus. Outrora a oração fazia vir as pragas, derrotava os exércitos inimigos, impedia a chuva necessária. Agora, porém, a oração autêntica afasta a ira de Deus, vela pelo bem dos inimigos e roga pelos perseguidores. Será para admirar que faça cair do céu as águas, se conseguiu que de lá descessem as línguas de fogo? Só a oração vence a Deus. Mas Cristo não quis que ela servisse para fazer mal algum; quis antes que toda a eficácia que lhe deu fosse apenas para servir o bem. Consequentemente, ela não tem outra finalidade senão tirar do caminho da morte as almas dos defuntos, robustecer os fracos, curar os enfermos, libertar os possessos, abrir as portas das prisões, romper os grilhões dos inocentes. Ela perdoa os pecados, afasta as tentações, faz cessar as perseguições, reconforta os de ânimo abatido, enche de alegria os generosos, conduz os peregrinos, acalma as tempestades, detém os ladrões, dá alimento aos pobres, ensina os ricos, levanta os que caíram, sustenta os que vacilam, confirma os que estão de pé. Oram todos os anjos, ora toda criatura. Oram à sua maneira os animais domésticos e as feras, que dobram os joelhos. Saindo de seus estábulos ou de suas tocas, levantam os olhos para o céu e não abrem a boca em vão, fazendo vibrar o ar com seus gritos. Mesmo as aves quando levantam vôo, elevam-se para o céu e, em lugar de mãos, estendem as asas em forma de cruz, dizendo algo semelhante a uma prece. Que dizer ainda a respeito da oração? O próprio Senhor também orou; a ele honra e poder pelos séculos dos séculos.
+
+@secao Responsório | Jo 4,23-24
+
+@responsorio
+R. Adoradores verdadeiros ao Pai adorarão
+em espírito e verdade;
+* Pois são tais adoradores que o Pai quer e procura.
+V. Deus é Espírito e aqueles que o adoram, o adoram em espírito e em verdade. * Pois são.
+
+@secao Oração
+
+@oracao
+À medida que se aproxima a festa da salvação, nós vos pedimos, ó Deus, que nos preparemos com maior empenho para celebrar o mistério da Páscoa. Por nosso Senhor Jesus Cristo, vossoFilho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

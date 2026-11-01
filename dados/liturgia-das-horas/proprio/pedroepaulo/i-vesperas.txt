@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_Ivesperas.htm
+@documento I Vésperas - São Pedro e São Paulo, Apóstolos
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó áurea luz, ó esplendor de rosa,
+o azul vestis de sangue e de fulgor,
+quando, tombando, os príncipes sagrados,
+abrem do céu a porta ao pecador.
+
+Doutor das gentes e do Céu Porteiro,
+luzeiros sois, Juízes das Nações;
+um pela espada, o outro pela cruz,
+sobem do céu às eternais mansões.
+
+Ó feliz Roma, por precioso sangue
+cingida assim de púrpura e nobreza;
+não por ti mesma, mas por tal martírio,
+o mundo inteiro excedes em beleza.
+
+Dupla oliveira, Pedro, Paulo viestes
+na eterna Roma uma fronde erguer:
+numa só fé e caridade acesos,
+após a morte, dai-nos reviver!
+
+Dê-se à Trindade sempiterna glória,
+honra, poder e júbilo também;
+pois na Unidade tudo e a todos rege,
+agora e sempre, eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Tu és o Cristo, o Filho do Deus vivo!
+Tu és feliz, ó Simão, filho de Jonas!
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+Tu és o Cristo, o Filho do Deus vivo!
+Tu és feliz, ó Simão, filho de Jonas!
+
+@antifona 2
+Tu és Pedro, e sobre esta pedra
+eu irei construir a minha Igreja.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Tu és Pedro, e sobre esta pedra
+eu irei construir a minha Igreja.
+
+@antifona 3
+São Paulo, Apóstolo das Gentes,
+vós sois instrumento escolhido,
+pregador da verdade em todo o mundo.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+São Paulo, Apóstolo das Gentes,
+vós sois instrumento escolhido,
+pregador da verdade em todo o mundo.
+
+@secao Leitura breve | Rm 1,1-3a.7
+
+@texto
+Paulo, servo de Jesus Cristo, apóstolo por vocação, escolhido para o Evangelho de Deus, que pelos profetas havia prometido, nas Escrituras, e que diz respeito a seu Filho: A vós todos que morais em Roma, amados de Deus e santos por vocação, graça e paz da parte de Deus, nosso Pai, e de nosso Senhor, Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os Apóstolos, com grande coragem,
+* Anunciavam a Palavra de Deus. R. Os Apóstolos.
+V. Testemunhavam a ressurreição de Nosso Senhor Jesus Cristo. * Anunciavam.
+Glória ao Pai. R. Os Apóstolos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Gloriosos Apóstolos de Cristo,
+como em vida os uniu grande afeto,
+assim na morte não ficaram separados.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Gloriosos Apóstolos de Cristo,
+como em vida os uniu grande afeto,
+assim na morte não ficaram separados.
+
+@secao Preces
+
+@preces
+Oremos a Cristo, que edificou sua Igreja sobre o alicerce dos apóstolos e dos profetas; e digamos com fé:
+
+R. **Socorrei, Senhor, o vosso povo!**
+
+Vós, que chamastes o pescador Simão para dele fazerdes pescador de homens,
+– continuai chamando operários para que levem a vossa salvação à humanidade inteira. R.
+
+Vós, que acalmastes a tempestade do mar para que a barca dos discípulos não afundasse,
+– defendei a vossa Igreja de toda perturbação e fortalecei o Santo Padre. R.
+
+Bom Pastor que, depois da ressurreição, reunistes ao redor de Pedro o rebanho que estava disperso,
+– congregai o vosso povo num só rebanho e sob um só pastor. R.
+
+Vós, que enviastes o apóstolo Paulo para evangelizar as nações pagãs,
+– fazei que a palavra da salvação seja pregada a toda criatura. R.
+
+{(intenções livres)}
+
+Vós, que entregastes à Igreja as chaves do reino dos céus,
+– abri as portas do céu a todos aqueles que, durante a vida, confiaram na vossa misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+(mesma oração da Missa da Vigília) Senhor nosso Deus, concedei-nos os auxílios necessários à salvação, pela intercessão dos Apóstolos São Pedro e São Paulo, pelos quais destes à vossa Igreja os primeiros benefícios da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

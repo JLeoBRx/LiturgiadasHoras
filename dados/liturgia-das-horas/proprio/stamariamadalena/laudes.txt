@@ -1,0 +1,166 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/stamariamadalena_laudes.htm
+@documento Laudes - Santa Maria Madalena
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Luminosa, a aurora desperta
+e o triunfo de Cristo anuncia.
+Tu, porém, amorosa, procuras
+ver e ungir o seu Corpo, ó Maria.
+
+Quando o buscas, correndo ansiosa,
+vês o anjo envolvido em luz forte;
+ele diz que o Senhor está vivo
+e quebrou as cadeias da morte.
+
+Mas amor tão intenso prepara
+para ti recompensa maior:
+crês falar com algum jardineiro,
+quando escutas a voz do Senhor.
+
+Estiveste de pé junto à cruz,
+com a Virgem das Dores unida;
+testemunha e primeira enviada
+és agora do Mestre da vida.
+
+Bela flor de Mágdala, ferida
+pelo amor da divina verdade,
+faze arder o fiel coração
+com o fogo de tal caridade.
+
+Dai-nos, Cristo, imitarmos Maria
+em amor tão intenso, também,
+para um dia nos céus entoarmos
+vossa glória nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+No dia primeiro da semana,
+Maria Madalena veio cedo,
+quando ainda estava bem escuro,
+para ver a sepultura de Jesus.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+No dia primeiro da semana,
+Maria Madalena veio cedo,
+quando ainda estava bem escuro,
+para ver a sepultura de Jesus.
+
+@antifona 2
+Meu coração arde no peito,
+quero ver o meu Senhor!
+Eu procuro e não encontro
+o lugar onde o puseram. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Meu coração arde no peito,
+quero ver o meu Senhor!
+Eu procuro e não encontro
+o lugar onde o puseram. Aleluia.
+
+@antifona 3
+Chorando, Maria inclinou-se
+e olhou para dentro do túmulo;
+viu dois anjos vestidos de branco. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Chorando, Maria inclinou-se
+e olhou para dentro do túmulo;
+viu dois anjos vestidos de branco. Aleluia.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Já não chores, Maria:
+* O Senhor ressurgiu. R. Já não chores.
+V. Anuncia aos irmãos: * O Senhor.
+Glória ao Pai. R. Já não chores.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Na manhã do dia da Páscoa, o Senhor ressuscitou
+e apareceu primeiramente a Maria Madalena. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Na manhã do dia da Páscoa, o Senhor ressuscitou
+e apareceu primeiramente a Maria Madalena. Aleluia.
+
+@secao Preces
+
+@preces
+Juntamente com todas as santas mulheres, louvemos, irmãos e irmãs, nosso Salvador; e peçamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus, que perdoastes à mulher pecadora todos os seus pecados porque ela muito amou,
+– perdoai-nos também os nossos muitos pecados. R.
+
+Senhor Jesus, a quem as santas mulheres serviam em vossas jornadas,
+– concedei-nos seguir fielmente os vossos passos. R.
+
+Senhor Jesus, Mestre a quem Maria escutava, enquanto Marta vos servia;
+– concedei-nos também vos servirmos na fé e na caridade. R.
+
+Senhor Jesus, que chamastes irmão, irmã e mãe a todos aqueles que cumprem a vontade do Pai,
+– fazei que sempre vos agrademos em palavras e ações. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso Filho confiou a Maria Madalena o primeiro anúncio da alegria pascal; dai-nos, por suas preces e a seu exemplo, anunciar também que o Cristo vive e contemplá-lo na glória de seu Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/maedaigreja.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria, Mãe Da Igreja Memória Em 21 De Novembro De 1964, Concluindo A Terceira Sessão Do Concílio Vaticano Ii, São Paulo Vi Proclamou A Bem-Aventurada Virgem Maria Mãe Da Igreja E Estabeleceu Que Assim Fosse Invocada Por Todo O Povo Cristão. Em 11 De Fevereiro De 2018, O Papa Francisco Estendeu A Celebração Desta Memória Para Toda A Igreja, Inserindo-A No Calendário Romano Geral, Na Segunda-Feira Após Pentecostes. ___________________________________
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA, MÃE DA IGREJA
+{Memória}
+
+@biografia
+Em 21 de novembro de 1964, concluindo a terceira sessão do Concílio Vaticano II, São Paulo VI proclamou a Bem-aventurada Virgem Maria Mãe da Igreja e estabeleceu que assim fosse invocada por todo o povo cristão. Em 11 de fevereiro de 2018, o Papa Francisco estendeu a celebração desta memória para toda a Igreja, inserindo-a no Calendário Romano Geral, na segunda-feira após Pentecostes.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do vosso Filho, ó filha,
+ó Mãe e Virgem pura,
+sublime e mais humilde
+que toda criatura!
+
+Em seu conselho eterno,
+Deus viu vossa beleza,
+ó glória e esplendor
+da nossa natureza,
+
+a qual se fez tão nobre
+que o seu supremo Autor,
+de modo admirável,
+um corpo em vós tomou.
+
+No seio duma Virgem
+revive, em fogo, o Amor.
+Na terra a flor celeste
+germina ao seu calor.
+
+Ao Pai louvor, e ao Filho
+da vossa virgindade,
+que vos vestiu, no Espírito,
+de graça e santidade.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,10-14; 8,10c;11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel;[8,10] porque Deus está conosco.[11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus; [3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer; [4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a força da sua palavra
+e destruirá o mau com o sopro dos lábios. [5] Cingirá a cintura com a cinta da justiça
+e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi; [8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Do Discurso de São Paulo VI, papa, no encerramento da terceira sessão do Concílio Vaticano II
+{(Séc. XX)} {(21 de novembro de 1964: AAS 56 [1964], 1015-1016)}
+
+@tema
+Maria Mãe da Igreja
+
+@texto
+Considerando as estreitas relações de Maria com a Igreja, para a glória da Santa Virgem e para nosso conforto, proclamamos Maria Santíssima Mãe da Igreja, isto é, de todo o povo de Deus, tanto dos fiéis como dos Pastores, que lhe chamam Mãe amorosíssima; e queremos que, com este título suavíssimo, a Mãe de Deus seja doravante ainda mais honrada e invocada por todo o povo cristão.
+Trata-se de um título que não é novo para a piedade dos cristãos; pois é justamente com este nome de Mãe, de preferência a qualquer outro, que os fiéis e a Igreja toda costumam dirigir-se a Maria. Na verdade, ele pertence à genuína substância da devoção a Maria, achando sua justificação na própria dignidade da Mãe do Verbo Encarnado.
+Efetivamente, assim como a Maternidade divina é o fundamento da especial relação de Maria com Cristo e da sua presença na economia da salvação operada por Cristo Jesus, assim também essa Maternidade constitui o fundamento principal das relações de Maria com a Igreja, sendo ela a Mãe daquele que, desde o primeiro instante da sua Encarnação, no seu seio virginal, uniu a si, como Cabeça, o seu Corpo Místico, que é a Igreja. Maria, pois, como Mãe de Cristo, também é Mãe dos fiéis e de todos os Pastores, isto é, da Igreja.
+Portanto, é com ânimo cheio de confiança e de amor filial que elevamos o olhar para ela, não obstante a nossa indignidade e fraqueza. Ela, que em Jesus nos deu a fonte da graça, não deixará de socorrer a Igreja com seu auxílio materno, sobretudo neste tempo em que a Esposa de Cristo se empenha, com novo alento, na sua missão salvadora.
+A nossa confiança é ainda mais reavivada e corroborada quando consideramos os laços estreitíssimos que prendem esta nossa Mãe celeste ao gênero humano. Embora na riqueza das admiráveis prerrogativas com que Deus a adornou para fazê-la digna Mãe do Verbo Encarnado, ela está, todavia, pertíssimo de nós. Filha de Adão, como nós, e por isto nossa irmã por laços de natureza, ela é, entretanto, a criatura preservada do pecado original em vista dos méritos de Cristo, e que, aos privilégios obtidos junta a virtude pessoal de uma fé total e exemplar, merecendo o elogio evangélico de: _Bem-aventurada és tu, porque acreditaste_ (Lc 1,45).
+Na sua vida terrena, ela realizou a perfeita figura do discípulo de Cristo, espelho de todas as virtudes, e encarnou as bem-aventuranças evangélicas proclamadas por Cristo Jesus. Por isso, toda a Igreja, na sua incomparável variedade de vida e de obras, encontra nela a forma mais autêntica de perfeita imitação de Cristo.
+
+@secao Responsório | Cf. Lc 1,35
+
+@responsorio
+R. O Espírito Santo desceu sobre Maria,
+* E o poder do Altíssimo a cobriu com sua sombra.
+V. Para que unida à paixão de seu Filho, se tornasse a Mãe dos redimidos. * E o poder.
+
+@secao Oração
+
+@oracao
+Ó Deus, Pai das misericórdias, vosso Filho Unigênito, pregado na cruz, nos deu sua Mãe, a Bem-aventurada Virgem Maria, como nossa Mãe. Concedei que a vossa Igreja, cada dia mais fecunda em seu amor materno, exulte com a santidade dos seus filhos e filhas e atraia todos os povos para o seu convívio numa só família. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

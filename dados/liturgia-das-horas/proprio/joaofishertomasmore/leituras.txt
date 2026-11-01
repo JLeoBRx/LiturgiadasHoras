@@ -1,0 +1,128 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaofishertomasmore.htm
+@documento Ofício das Leituras - São João Fisher, Bispo, E Santo Tomás More, Mártires
+
+@celebracao
+SÃO JOÃO FISHER, BISPO, E SANTO TOMÁS MORE, MÁRTIRES
+
+@biografia
+João Fisher nasceu em 1469. Fez seus estudos em Cambridge (Inglaterra) e foi ordenado sacerdote. Eleito bispo de Rochester, viveu com muita austeridade e tornou-se ótimo pastor, visitando com frequência seus fiéis. Escreveu também diversas obras contra os erros de seu tempo. Tomás More nasceu em 1477 e fez seus estudos em Oxford. Tendo contraído matrimônio, teve um filho e três filhas. Ocupou o cargo de chanceler do reino. Escreveu diversos livros sobre a arte de governar e em defesa da religião. Ambos foram decapitados em 1535 por ordem do rei Henrique VIII, por terem se recusado a ceder na questão da anulação do seu casamento: João Fisher a 22 de junho e Tomás More a 6 de julho. Enquanto estava preso, o bispo João Fisher foi criado cardeal da Santa Romana Igreja pelo papa Paulo III.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão dacorrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta, de Santo Tomás More à sua filha Margarida, escrita na prisão
+{(Séc. XV)} {(The English Works of Sir Thomas More, London, 1557, p. 1454)}
+
+@tema
+Com total esperança e confiança entrego-me inteiramente a Deus
+
+@texto
+Embora tenha plena consciência, minha Margarida, de que os pecados de minha vida passada mereçam justamente que Deus me abandone, contudo, nunca deixarei de sempre confiar na sua imensa bondade e esperar com toda a minha alma. Até agora, a sua santíssima graça me deu forças para tudo desprezar, do íntimo do coração – riquezas, rendimentos e a própria vida – ao invés de jurar contra a voz da minha consciência. Foi Deus que, com bondade, levou o rei a me privar apenas da liberdade. Com isto, Sua Majestade, ao invés de me fazer mal, concedeu-me, para proveito espiritual de minha alma – assim espero – um benefício maior do que todas aquelas honras e bens com que antes me cumulava. Espero que esta mesma graça mova o espírito do rei a não ordenar contra mim nada de mais grave, ou me dê sempre forças para que tudo suporte, com paciência, fortaleza e boa vontade, por mais pesado que seja.
+Minha paciência unida aos méritos da atrocíssima paixão do Senhor (infinitamente acima, no mérito e no modo, de tudo quanto eu venha a padecer), aliviará as penas que mereço no purgatório. E, graças à bondade divina, aumentará também um pouco a minha recompensa no céu.
+Não quero, minha Margarida, desconfiar da bondade de Deus, por mais débil e fraco que me sinta. Ao contrário, se no meio do terror e da aflição, eu me vir em perigo de cair, lembrar-me-ei de São Pedro que, a uma simples rajada de vento, começou a afundar por causa da sua pouca fé, e farei o mesmo que ele. Gritarei por Cristo: _Senhor, salva-me!_ (cf. Mt 14,30). Espero que ele me estenda a mão e me segure, sem deixar que eu me afogue.
+Mas, se permitir que me comporte à semelhança de Pedro, a ponto de me precipitar e cair inteiramente, jurando e abjurando – que Deus em sua misericórdia afaste para bem longe de mim tal infelicidade, pois esta me trará mais prejuízo do que vantagem – mesmo assim continuarei a esperar que o Senhor olhe para mim com olhos cheios de misericórdia, como olhou para Pedro. Espero então que ele me levante de novo para que eu volte a defender a verdade, e alivie a minha consciência. Hei de suportar com coragem o castigo e a vergonha da primeira negação.
+Enfim, minha Margarida, estou absolutamente convencido de que, sem culpa minha, Deus não me abandonará. Por isto, com total esperança e confiança entrego-me inteiramente a ele. Se, por causa de meus pecados, Deus permitir que eu pereça, ao menos em mim sua justiça será louvada. Espero, no entanto, e espero com toda a certeza, que sua clementíssima bondade guardará fielmente a minha alma e fará que em mim brilhe mais a sua misericórdia do que sua justiça.
+Fica, pois, tranquila, minha filha, e não te preocupes com o que possa me acontecer neste mundo. Nada poderá acontecer que Deus não queira. E tudo quanto ele quer, mesmo que nos pareça mau, é, na verdade, realmente ótimo.
+
+@secao Responsório
+
+@responsorio
+R. Os mártires de Cristo, no meio dos tormentos,
+olhando para os céus, diziam suplicantes:
+* Ajudai-nos, ó Senhor, a fim de que levemos,
+vossa obra até o fim, sem a mancha do pecado.
+V. Voltai os vossos olhos e vede a vossa obra.* Ajudai-nos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que coroastes no martírio a profissão da verdadeira fé, concedei que, fortificados pela intercessão de São João Fisher e Santo Tomás More, confirmemos com o testemunho da nossa vida a fé que professamos com os lábios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

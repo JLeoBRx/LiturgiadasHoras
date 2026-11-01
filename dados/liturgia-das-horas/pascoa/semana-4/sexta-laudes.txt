@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4sextapascoa_laudes.htm
+@documento Laudes - Sexta-feira da 4ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Cristo por nós se entregou
+como oferta agradável a Deus. Aleluia.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+O Cristo por nós se entregou
+como oferta agradável a Deus. Aleluia.
+
+@antifona 2
+Jerusalém, cidade santa, brilharás qual luz fulgente. Aleluia.
+
+@salmo canticos/tb-13-8-11-13-14ab-15-16ab-v2
+
+@gloria
+
+@antifona
+Jerusalém, cidade santa, brilharás qual luz fulgente. Aleluia.
+
+@antifona 3
+Vi a nova Sião vir descendo dos céus. Aleluia.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Vi a nova Sião vir descendo dos céus. Aleluia.
+
+@secao Leitura breve | At 5,30-32
+
+@texto
+O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Vou preparar para vós um lugar
+e ao voltar vou levar-vos comigo,
+para que onde estou estejais
+vós também junto a mim. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Vou preparar para vós um lugar
+e ao voltar vou levar-vos comigo,
+para que onde estou estejais
+vós também junto a mim. Aleluia.
+
+@secao Preces
+
+@preces
+Rezemos a Deus Pai, que ressuscitou Jesus de entre os mortos e dará a vida também aos nossos corpos mortais, pelo Espírito Santo que habita em nós. Digamos com fé:
+
+R. **Senhor, por vosso Espírito Santo, dai-nos a vida!**
+
+Pai santo, que aceitastes o sacrifício de vosso Filho, ressuscitando-o de entre os mortos,
+– recebei a oferenda que hoje vos apresentamos e conduzi-nos à vida eterna. R.
+
+Abençoai, Senhor, nossos trabalhos deste dia,
+– para que sirvam à vossa glória e à santificação de todos. R.
+
+Fazei que nossas atividades de hoje contribuam para a construção de um mundo melhor,
+– e que assim procedendo, possamos chegar ao vosso reino celeste. R.
+
+Abri hoje nossos olhos e nosso coração para as necessidades de nossos irmãos e irmãs,
+– a fim de que todos nos amemos e nos sirvamos uns aos outros. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, a quem devemos a liberdade e a salvação, fazei que possamos viver por vossa graça e encontrar em vós a felicidade eterna, pois nos remistes com o sangue do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

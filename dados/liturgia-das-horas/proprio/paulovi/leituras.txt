@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/paulovi.htm
+@documento Ofício das Leituras - São Paulo Vi, Papa
+
+@celebracao
+SÃO PAULO VI, PAPA
+
+@biografia
+João Batista Montini (Concesio, Itália, 26 de setembro de 1897 – 6 de agosto de 1978), ordenado presbítero aos 29 de maio de 1920, prestou seus serviços à Sé Apostólica e posteriormente foi nomeado arcebispo de Milão. Elevado à Cátedra de Pedro no dia 21 de junho de 1963, deu continuidade ao Concílio Vaticano II e o concluiu, promoveu a restauração da vida eclesial, a liturgia, o diálogo ecumênico e o anúncio do Evangelho no mundo atual.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São Paulo VI, papa
+{(Séc. XX)} {(In ultima Concilii Oecumenici Vaticani secundi publica Sessione, die 7 decembris 1965: AAS 58 [1966] 53. 55-56. 58-59)}
+
+@tema
+É preciso conhecer o homem para se conhecer a Deus
+
+@texto
+Com o impulso deste Concílio [Ecumênico Vaticano II], a doutrina teocêntrica e teológica sobre a natureza humana e sobre o mundo atrai a si a atenção dos homens, como se desafiasse aqueles que a julgam anacrônica e estranha; e tais coisas se presume que o mundo qualificará, de início, como absurdas, mas que depois, assim o esperamos, reconhecerá espontaneamente como humanas, como prudentes e salutares, a saber: Deus existe. Sim, Deus existe; realmente existe; vive; é pessoal; é providente, dotado de infinita bondade, não só bom em si mesmo mas imensamente bom para nós; é o nosso criador, a nossa verdade, a nossa felicidade, de tal modo que o homem, quando procura fixar em Deus a sua mente e o seu coração, entregando-se à contemplação, realiza o ato que deve ser considerado o mais alto e mais perfeito; ato, que mesmo hoje pode e deve hierarquizar a imensa pirâmide da atividade humana.
+
+Na verdade, a Igreja, reunida em Concílio, entendeu sobretudo fazer a consideração sobre si mesma e sobre a relação que a une a Deus; e também sobre o homem, o homem tal qual como se apresenta realmente no nosso tempo: o homem que vive; o homem que se esforça por cuidar só de si; o homem que não só se julga digno de ser como que o centro dos outros, mas também não se envergonha de afirmar que é o princípio e a razão de ser de tudo. Todo o homem fenomênico, isto é, revestido dos seus inúmeros hábitos, com os quais se revelou e se apresentou diante dos Padres conciliares, que são também homens, todos Pastores e irmãos, e por isso atentos e amorosos; o homem que lamenta corajosamente os seus próprios dramas; o homem de ontem e de hoje e, por isso, sempre frágil e falso, egoísta e feroz; o homem que vive descontente de si mesmo, que ri e chora; o homem versátil, o homem rígido que cultua apenas da realidade científica; e o homem que como tal pensa, ama, trabalha, sempre espera alguma coisa, à semelhança do _filius accrescens_ (Gn 49,22); e o homem sagrado pela inocência da sua infância, pelo mistério da sua pobreza, pela piedade da sua dor; o homem individualista, dum lado, e o homem social, do outro; o homem _laudator temporis acti_, e o homem que sonha com o futuro; o homem por um lado sujeito a falhas, e por outro adornado de santos costumes; e assim por diante. O humanismo laico e profano apareceu, finalmente, em toda a sua terrível estatura, e por assim dizer, desafiou o Concílio para a luta.
+
+A religião do Deus que Se fez homem encontrou-Se com a religião – que o é – do homem que se faz Deus. Que aconteceu? Combate, luta, anátema? Tudo isto poderia ter-se dado, mas de fato não se deu. A antiga história do bom samaritano foi o paradigma da espiritualidade do nosso Concílio. Uma simpatia imensa tudo invadiu. A descoberta e a consideração renovada das necessidades humanas – que são tanto mais molestas quanto mais se levanta o filho desta terra – absorveram toda a atenção deste Concílio. Vós, humanistas do nosso tempo, que negais as verdades transcendentes, dai ao Concílio ao menos este louvor e reconhecei este nosso humanismo novo: também nós – e nós mais do que ninguém somos cultores do homem.
+
+A religião católica é a vida da humanidade, porque descreve a natureza e o destino do homem, e dá-lhe o seu verdadeiro sentido. É a vida da humanidade, finalmente, porque constitui a lei suprema da vida, e à vida infunde a misteriosa energia que faz dela uma vida verdadeiramente divina.
+Todos vós que estais aqui presentes, como no rosto de todo o homem, sobretudo se se tornou transparente pelas lágrimas ou pelas dores, devemos descobrir o rosto de Cristo, o Filho do Homem; e se no rosto de Cristo (cf. Mt 25, 40) devemos descobrir o rosto do Pai celestial, segundo aquela palavra: _quem me vê, vê o Pai_ (Jo 14, 9), o nosso humanismo faz-se cristianismo, e o nosso cristianismo faz-se teocêntrico, de tal modo que podemos afirmar: para conhecer a Deus, é necessário conhecer o homem.
+Amar o homem, dizemos, não como instrumento, mas como que primeiro fim, que nos leva ao supremo fim transcendente.
+
+@secao Responsório | Cf. Fl 4,8
+
+@responsorio
+R. Tudo o que é verdadeiro e nobre,
+justo e puro, amável e de boa reputação,
+* é o que deveis fazer {(T.P.} Aleluia)
+V. Tudo o que é virtude e digno de louvor, * é o que deveis fazer {(T.P.} Aleluia)
+
+@secao Oração
+
+@oracao
+Ó Deus, que confiastes o governo da vossa Igreja ao papa São Paulo VI, ardoroso Apóstolo do Evangelho do vosso Filho, nós vos pedimos que, iluminados por seus ensinamentos, possamos colaborar convosco na propagação da civilização do amor. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

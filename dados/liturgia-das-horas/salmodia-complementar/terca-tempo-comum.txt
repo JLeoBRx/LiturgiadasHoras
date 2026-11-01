@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_terca_TC.htm
+@documento Salmodia Complementar - Terça (Série I)
+
+@secao Salmodia
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@rubrica
+Ou:
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@antifona 1
+Clamei pelo Senhor, e ele me escutou.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@antifona
+Clamei pelo Senhor, e ele me escutou.
+
+@antifona 2
+Deus te guarde na partida e na chegada!
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Deus te guarde na partida e na chegada!
+
+@antifona 3
+Que alegria, quando ouvi que me disseram:
+Vamos à casa do Senhor! †
+
+@rubrica
+Quando o salmo seguinte for recitado nas Vésperas, em seu lugar se diz o salmo 128(129)
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Que alegria, quando ouvi que me disseram:
+Vamos à casa do Senhor!
+
+@texto
+Leitura breve

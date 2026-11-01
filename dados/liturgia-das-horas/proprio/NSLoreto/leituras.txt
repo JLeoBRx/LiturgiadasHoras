@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSLoreto.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria De Loreto
+
+@rubrica
+Até O Presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração do dia 10/12, recentemente inserida pelo Papa Francisco no Calendário Romano como memória facultativa da Bem-Aventurada Virgem Maria de Loreto. Assim, os textos aqui são os do Comum de Nossa Senhora, com a oração do Missal.
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA DE LORETO
+
+@biografia
+Uma crônica do ano de 1465 relata o encontro da Casa de Maria na noite de 9 para 10 de dezembro de 1294. Nela teve origem a devoção mariana que atrai muitos fiéis ao Santuário Lauretano, memória do mistério da encarnação e dos exemplos evangélicos da Sagrada Família de Nazaré. Bento XV proclamou Nossa Senhora de Loreto padroeira da aviação em 1920. A ladainha Lauretana foi difundida por toda a Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Felizes os que ouvem a Palavra do Senhor.
+R. Felizes os que a vivem e a praticam cada dia!
+
+@secao Primeira leitura
+
+@leitura
+Do Primeiro Livro das Crônicas {17,1-15}
+
+@tema
+Profecia a respeito do filho de Davi
+
+@texto
+Naqueles dias: [1] Estando sentado em casa, disse Davi ao profeta Natã: “Olha, eu moro numa casa de cedro, enquanto a arca da aliança do Senhor está numa barraca”. [2] Natã disse a Davi: “Podes fazer tudo que estiver em teu coração, pois Deus está contigo”.
+[3] Mas naquela noite, a palavra de Deus foi dirigida a Natã nestes termos: [4] “Vai dizer a meu servidor Davi o seguinte: Assim fala o Senhor: Não serás tu que me vais contruir uma casa de moradia. [5] Nunca morei numa casa, desde o dia em que trouxe Israel para cá, até hoje. Passei de uma tenda a outra e duma moradia a outra. [6] Durante o tempo em que andei no meio de Israel, acaso falei alguma vez a algum dos juízes de Israel, aos quais confiei o governo do meu povo, dizendo que me construísse uma casa de cedro? [7] Pois bem, agora dize a meu servidor Davi: Assim diz o Senhor dos exércitos: Eu te tirei do campo de pastagens, de detrás do rebanho, para te fazer príncipe de meu povo Israel. [8] Eu estive contigo aonde quer que fosses, destruí todos os inimigos que te enfrentaram e te dei um nome igual ao dos grandes da terra. [9] Preparei para Israel, meu povo, um lugar para o qual o transplantei, para que nele ficasse morando sem ter mais motivo para tremer e sem que os ímpios continuassem a dizimá-lo como antes, [10] desde o tempo em que fiz os juízes governarem Israel, meu povo. Derrotei todos os inimigos e agora te declaro que o Senhor te vai construir uma casa.
+[11] No fim de tua vida, quando te fores juntar a teus antepassados, então farei tua descendência te suceder, na pessoa de um de teus filhos, cujo reinado eu tornarei estável. [12] Ele me construirá uma casa e eu darei firmeza a seu trono para sempre. [13] Serei para ele um pai e ele será para mim um filho. Nunca retirarei dele o meu favor, como o retirei de teu antecessor. [14] Eu o farei administrar minha casa e meu reino; e seu trono estará firme para sempre”.
+[15] De acordo com todas estas palavras e de acordo com aquela manifestação divina, Natã falou a Davi.
+
+@secao Responsório | Lc 1,28
+
+@responsorio
+R. Bendita sejais, ó Virgem Maria,
+trouxestes no ventre Quem fez o universo;
+* Vós destes a vida a Quem vos criou
+e virgem sereis para sempre, ó Maria!
+V. Maria, alegrai-vos, ó cheia de graça,
+o Senhor é convosco. * Vós destes.
+
+@secao Segunda leitura
+
+@leitura
+Da carta de São João Paulo II por ocasião do VII centenário do Santuário da Casa de Loreto
+{(Séc.XX)} {(Lettera a Mons. P. Macchi, 15 agosto 1993: Insegnamenti di Giovanni Paolo II, XVI/2, 526-537)}
+
+@tema
+Maria, espaço físico e espiritual da Encarnação
+
+@texto
+A Santa Casa de Loreto não é apenas uma "relíquia", mas também um precioso "ícone" concreto. É um "ícone", não de verdades abstratas, mas de um evento e de um mistério: _a Encarnação do Verbo_.
+
+A Encarnação, que se relembra dentro destas paredes sagradas, recupera subitamente o seu genuíno significado bíblico; não é uma simples doutrina sobre a união entre o divino e o humano, mas de um acontecimento que ocorreu num ponto preciso do tempo e do espaço, como as palavras do Apóstolo maravilhosamente elucidam: _Quando chegou a plenitude dos tempos, Deus enviou o seu Filho, nascido de mulher_ (Gl 4,4).
+
+Maria é a Mulher; é, por assim dizer, conjuntamente o "espaço" físico e espiritual em que ocorreu a Encarnação. Mas também a Casa em que Ela viveu constitui uma referência muito concreta e visível de tal realidade.
+
+A recordação da vida oculta de Nazaré aponta para questões muito concretas e próximas da experiência de todos os homens e de todas as mulheres. Desperta o sentido da santidade da família, apresentando um mundo inteiro de valores, hoje tão ameaçados, como a fidelidade, o respeito à vida, a educação dos filhos, a oração, que as famílias cristãs podem redescobrir dentro das paredes da Santa Casa, a primeira e exemplar "igreja doméstica" da história.
+
+A Santa Casa recorda, ao mesmo tempo, também a grandeza da vocação à vida consagrada e à virgindade em prol do Reino, que aqui teve a sua gloriosa inauguração na pessoa de Maria, Virgem e Mãe.
+
+Por isso, aos inumeráveis jovens que peregrinam até à Casa da Mãe, gostaria eu de repetir as palavras que lhes dirigi noutra ocasião: "Caminhai em direção a Maria, caminhai com Maria... Fazei ressoar no vosso coração o seu _fiat_". Que os jovens, à luz dos ensinamentos da Casa de Nazaré, renovem o seu empenho como leigos católicos e levem outra vez Cristo aos corações, às famílias, à cultura e à sociedade.
+
+O esforço justo e congruente do nosso tempo por reconhecer o lugar e o estatuto que à mulher compete na Igreja e na sociedade encontra aqui igualmente uma ocasião oportuna de aprofundamento. Porque Deus _enviou o seu Filho nascido de uma mulher_ (Gl 4,4), todas as mulheres foram elevadas, em Maria, a uma dignidade inconcebível e sem paralelo.
+
+Nenhuma consideração teórica poderá, pois, enaltecer a dignidade do trabalho humano, como o simples fato de o Filho de Deus ter trabalhado em Nazaré e ter querido ser chamado de filho do carpinteiro (cf. Mt 13,55).
+
+Por fim, como poderíamos deixar de mencionar a “opção pelos pobres”, que a Igreja fez no Concílio (cf. _Lumen gentium_, 8), e reafirmada ulteriormente sempre de modo mais claro? As austeras e humildes paredes da Santa Casa lembram-nos, de forma bem visível, que foi o próprio Deus quem inaugurou essa opção em Maria, a qual, como diz um belo texto conciliar, “sobressai entre os humildes e os pobres do Senhor, que d'Ele com confiança esperam e recebem a salvação”.
+
+Ainda quanto a este tema da pobreza e do sofrimento, um lugar privilegiado tiveram na história do Santuário os doentes, que foram dos primeiros peregrinos a acorrer à Santa Casa e a difundir a sua fama entre os povos. Aliás, onde é que eles poderiam ser mais bem acolhidos senão na casa d'Aquela que justamente as Ladainhas Lauretanas nos fazem invocar como "saúde dos enfermos" e "consoladora dos aflitos"?
+
+“Oxalá este Santuário de Loreto – como disse João XXIII – seja sempre como uma janela aberta ao mundo, evocando aquelas vozes misteriosas que anunciam a santificação das almas, das famílias e dos povos”.
+
+@secao Responsório
+
+@responsorio
+R. Verdadeiramente bendita sois vós entre as mulheres,
+porque Deus estabeleceu em vós a sua morada.
+* Consagrareis ao Senhor as multidões dos povos.
+V. Aquele que os céus não puderam abranger,
+no vosso seio o trouxestes. * Consagrareis.
+
+@secao Oração
+
+@oracao
+Ó Deus, que cumpristes as promessas a nossos Pais e escolhestes a Santa Virgem Maria para ser a Mãe do Salvador, concedei-nos seguir seu exemplo, cuja humildade vos agradou e cuja obediência nos auxiliou. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

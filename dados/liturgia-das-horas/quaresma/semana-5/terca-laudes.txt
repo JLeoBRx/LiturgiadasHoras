@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5tercaquaresma_laudes.htm
+@documento Laudes - Terça-feira da 5ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor.
+
+@antifona 2
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@salmo canticos/tb-13-2-8
+
+@gloria
+
+@antifona
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@antifona 3
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo. †
+
+@salmo salmos/salmo-032
+
+@gloria
+
+@antifona
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo.
+
+@secao Leitura breve | Zc 12,10-11a
+
+@texto
+Derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e de oração; eles olharão para mim. Ao que eles feriram de morte, hão de chorá-lo, como se chora a perda de um filho único, e hão de sentir por ele a dor que se sente pela morte de um primogênito. Naquele dia, haverá um grande pranto em Jerusalém.
+
+@secao Responsório breve
+
+@responsorio
+R. Levantai-vos, ó Senhor, por que dormis?
+* Vós, agora, nos deixastes e humilhastes!
+R. Levantai-vos.
+V. Despertai! Não nos deixeis eternamente! * Vós agora.
+Glória ao Pai. R. Levantai-vos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quando tiverdes levantado o Filho do Homem,
+conhecereis que "Eu Sou", diz o Senhor.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quando tiverdes levantado o Filho do Homem,
+conhecereis que "Eu Sou", diz o Senhor.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo, que se deu a nós como pão descido do céu; e oremos, dizendo:
+
+R. **Cristo, pão da vida e remédio que nos salva, dai-nos vossa força!**
+
+Senhor, que nos alimentais na vossa ceia eucarística,
+– dai-nos a plena participação nos frutos do sacrifício pascal. R.
+
+Ensinai-nos a acolher vossa palavra num coração bom e reto,
+– para darmos frutos na paciência. R.
+
+Fazei que colaboremos alegremente convosco na construção do mundo,
+– a fim de que o anúncio da paz se difunda mais eficazmente pela ação da Igreja. R.
+
+Reconhecemos, Senhor, que somos pecadores;
+– apagai nossas culpas com a graça da vossa salvação. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, perseverar no vosso serviço para que, em nossos dias, cresça em número e santidade o povo que vos serve. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo mal
+e nos conduza à vida eterna.
+R. Amém.

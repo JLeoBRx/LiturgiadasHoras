@@ -1,0 +1,182 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaodeavila.htm
+@documento Ofício das Leituras - São João De Ávila, Presbítero E Doutor Da Igreja
+
+@celebracao
+SÃO JOÃO DE ÁVILA, PRESBÍTERO E DOUTOR DA IGREJA
+
+@biografia
+São João de Ávila (1500-1569), foi ordenado presbítero, alimentou o desejo de ser missionário, mas seus dons de exímio pregador foram motivo para permanecer na região de Sevilha, na Espanha. Suspeito de heresia, foi levado por alguns anos à prisão, onde recebeu a graça de penetrar com profundidade no mistério do amor de Deus. Essa experiência tornou-se o eixo de sua vida espiritual e o tema central de sua pregação. Ele, pregador e mestre, soube unir a oração constante à ação apostólica.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+
+@tema
+Até o presente momento a
+
+@texto
+Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para esta memória. Assim, o texto aqui é da tradução oficial para o português de Portugal.
+
+Dos Escritos de São João de Ávila, presbítero e doutor da Igreja
+
+{(Tractatus de amore Dei erga nos, 1. 2. 4: Madrid 2004)}
+{(Séc. XVI)}
+
+{_O amor de Cristo: Ter o seu rosto sempre voltado para o Pai_}
+A causa que mais move o nosso coração ao amor de Deus é considerar o profundo amor que Ele nos teve e, com Ele, o seu benditíssimo Filho, nosso Senhor. Isto move mais o coração a amar do que os benefícios, porque quem dá um benefício a outro dá algo que possui, mas quem ama, dá-se a si mesmo com tudo o que possui, sem que lhe reste mais para dar.
+Vejamos agora, Senhor, se Vós nos amais; e se, realmente, nos amais, quão grande é o amor que nos tendes.
+Os pais amam muito os filhos, mas será que Vós nos amais como pai? Nós não entramos no seio do vosso coração, meu Deus, para podermos ver tudo isso. Mas o vosso Unigênito, que desceu desse seio, trouxe-nos disso sinais e mandou-nos que Vos chamássemos Pai, em virtude do infinito amor com que nos amáveis. Porque, tal como só Vós sois bom, pela eminência da vossa soberana bondade, assim também só Vós sois Pai; e de tal modo o sois, e tais obras fazeis, que, em comparação com as vossas entranhas paternais, não há mais ninguém que assim possa ser chamado.
+Se ainda duvidas deste amor, repara em todos os benefícios que de Deus recebeste, porque todos eles são prendas e testemunhos desse mesmo amor. Faz a conta de quantos são todos estes benefícios e verás que tudo o que existe no céu e na terra, bem como todos os ossos e órgãos dos sentidos que há no teu corpo, e cada uma das horas e momentos da tua vida são benefícios do Senhor. Examina ainda quantas boas inspirações e quantos bens recebeste nesta vida, bem como os perigos de que nesta vida escapaste, as doenças e catástrofes em que poderias ter sucumbido, se Ele não te tivesse livrado delas. Tudo isto são sinais evidentes do seu amor. Volta, enfim, os olhos para todo este mundo, que foi criado só para teu bem, juntamente com todas as criaturas que ele contém: também isto significa amor, proclama amor e reparte amor contigo.
+Vejamos agora o grande amor que nos teve esse Filho, que pelo Pai nos foi dado. Não há língua que seja capaz de o dizer! Alguns ignorantes e rudes ainda ignoram este amor, o qual, segundo a opinião deles, nasce da perfeição da coisa amada.
+Ora o amor de Cristo não nasce da perfeição que há em nós, mas sim daquilo que Ele possui, a saber: ter o seu rosto sempre voltado para o Pai.
+
+@secao Responsório | Cf. Ef 3,18-19; Jo 3,16
+
+@responsorio
+R. Podereis compreender a profundidade do amor de Cristo,
+que ultrapassa todo o conhecimento,
+* Para que sejais totalmente saciados na plenitude de Deus, aleluia.
+V. Deus amou tanto o mundo que entregou o seu Filho Unigênito,
+para que todo o homem que acredita n’Ele não pereça,
+mas tenha a vida eterna.* Para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que marcastes pela vossa doutrina a vida de São João de Ávila, concedei-nos, por sua intercessão, que sejamos fiéis à mesma doutrina, e a proclamemos em nossas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

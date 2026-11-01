@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santamarta.htm
+@documento Ofício das Leituras
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração do dia 29/07 na Liturgia das Horas, modificada pelo Papa Francisco, que acrescentou as memórias dos santos Maria e Lázaro à memória de Santa Marta hoje celebrada. Assim, os textos aqui adotados ainda são aqueles da memória de Santa Marta, exceto a oração final que já consta no Missal aprovado.
+
+@celebracao
+SANTOS MARTA, MARIA E LÁZARO
+{Memória}
+
+@biografia
+Na casa de Betânia, o Senhor Jesus experimentou o aconchego familiar e a amizade de Marta, Maria e Lázaro. O Evangelho de São João afirma que ele os amava. Marta ofereceu-lhe generosamente hospitalidade, Maria ouviu atentamente as suas palavras e Lázaro saiu de imediato do sepulcro, sob a ordem daquele que aniquilou a morte. Em 2021, o Papa Francisco decidiu acrescentar à memória de Marta seus dois irmãos, Maria e Lázaro.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Santa Marta, mulher feliz,
+nós vos queremos felicitar.
+Vós merecestes receber Cristo
+por muitas vezes em vosso lar.
+
+Vós recebestes tão grande Hóspede
+com mil cuidados, nosso Senhor,
+em muitas coisas sempre solícita
+e impelida por terno amor.
+
+Enquanto alegre servis a Cristo,
+Maria e Lázaro, vossos irmãos,
+podem atentos receber dele
+a graça e vida por refeição.
+
+Enquanto a vossa feliz irmã
+com seus aromas a Cristo ungia,
+serviço extremo vós dedicastes
+a Quem à morte se dirigia.
+
+Ó hospedeira feliz do Mestre,
+nos corações acendei o amor,
+para que sejam eternamente
+lares amigos para o Senhor.
+
+Seja à Trindade eterna glória!
+
+E no céu queira nos hospedar
+para convosco, no lar celeste,
+louvor perene sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,1-17}
+
+@tema
+A vossa vida está escondida, com Cristo, em Deus
+
+@texto
+Irmãos: [1] Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; [2] aspirai às coisas celestes e não às coisas terrestres. [3] Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. [4] Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória. [5] Portanto, fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e da sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto, selvagem, escravo e livre, mas Cristo é tudo em todos. [12] Vós sois amados por Deus, sois os seus santos eleitos.Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. [16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. [17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@secao Responsório | Gl 3,27-28; Ef 4,24
+
+@responsorio
+R. No Cristo batizados, revestimo-nos de Cristo.
+Já não há judeu nem grego,
+* Todos nós somos um só em Jesus Cristo, Senhor nosso.
+V. Revesti-vos do homem novo que, à imagem do Senhor,
+foi criado na justiça e santidade verdadeira. * Todos nós.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo 103, 1-2. 6: PL 38, 613.615)}
+
+@tema
+Felizes os que mereceram receber a Cristo em sua casa
+
+@texto
+As palavras de nosso Senhor Jesus Cristo nos advertem que, em meio à multiplicidade das ocupações deste mundo, devemos aspirar a um único fim. Aspiramos porque estamos a caminho e não em morada permanente; ainda em viagem e não na pátria definitiva; ainda no tempo do desejo e não na posse plena. Mas devemos aspirar, sem preguiça e sem desânimo, a fim de podermos um dia chegar ao fim. Marta e Maria eram irmãs, não apenas irmãs de sangue, mas também pelos sentimentos religiosos. Ambas estavam unidas ao Senhor; ambas, em perfeita harmonia, serviam ao Senhor corporalmente presente. Marta o recebeu como costumam ser recebidos os peregrinos. No entanto, era a serva que recebia o seu Senhor; uma doente que acolhia o Salvador; uma criatura que hospedava o Criador. Recebeu o Senhor para lhe dar o alimento corporal, ela que precisava do alimento espiritual. O Senhor quis tomar a forma de servo e, nesta condição, ser alimentado pelos servos, por condescendência, não por necessidade. Também foi por condescendência que se apresentou para ser alimentado. Pois tinha assumido um corpo que lhe fazia sentir fome e sede. Portanto, o Senhor foi recebido como hóspede, ele que _veio para o que era seu, e os seus não o acolheram. Mas, a todos que o receberam, deu-lhes capacidade de se tornarem filhos de Deus_ (Jo 1,11-12). Adotou os servos e os fez irmãos; remiu os cativos e os fez co-herdeiros. Que ninguém dentre vós ouse dizer: Felizes os que mereceram receber a Cristo em sua casa! Não te entristeças, não te lamentes por teres nascido num tempo em que já não podes ver o Senhor corporalmente. Ele não te privou desta honra, pois afirmou: _Todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes_ (Mt 25,40). Aliás, Marta, permite-me dizer-te: Bendita sejas pelo teu bom serviço! Buscas o descanso como recompensa pelo teu trabalho. Agora estás ocupada com muitos serviços, queres alimentar os corpos que são mortais, embora sejam de pessoas santas. Mas, quando chegares à outra pátria, acaso encontrarás peregrinos para hospedar? encontrarás um faminto para repartires com ele o pão? um sedento para dares de beber? um doente para visitar? um desunido para reconciliar? um morto para sepultar? Lá não haverá nada disso. Então o que haverá? O que Maria escolheu: lá seremos alimentados, não alimentaremos. Lá se cumprirá com perfeição e em plenitude o que Maria escolheu aqui: daquela mesa farta, ela recolhia as migalhas da palavra do Senhor. Queres realmente saber o que há de acontecer lá? É o próprio Senhor quem diz a respeito de seus servos: _Em verdade eu vos digo: ele mesmo vai fazê-los sentar-se à mesa e, passando, os servirá_ (Lc 12,37).
+
+@secao Responsório | Jo 12,3
+
+@responsorio
+R. Convidaram a Jesus para uma ceia,
+em Betânia, onde Lázaro morava,
+a quem Jesus ressuscitara dentre os mortos.
+* E Marta servia os convivas.
+V. Tomando quase meio litro de bálsamo,
+Maria ungiu os pés de Jesus. * E Marta.
+
+@secao Oração
+
+@oracao
+Ó Deus, vosso Filho chamou Lázaro do sepulcro à vida e quis hospedar-se na casa de Marta; concedei-nos que, servindo fielmente a Cristo em nossos irmãos, mereçamos com Maria ser nutridos pela meditação da Palavra. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

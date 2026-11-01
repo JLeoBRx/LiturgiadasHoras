@@ -1,0 +1,126 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4quinta_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais.
+
+@antifona 2
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo coração.
+
+@salmo salmos/salmo-043-ii-v4
+
+@gloria
+
+@antifona
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo coração.
+
+@antifona 3
+Levantai-vos, ó Senhor,
+não nos deixeis eternamente!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor,
+não nos deixeis eternamente!
+
+@texto
+V. Quem medita a lei de Deus
+R. Dará frutos a seu tempo.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro dos Números
+
+@tema
+12,16―13,1-3a.17-33 Exploradores israelitas são enviados a Canaã
+
+@texto
+Naqueles dias, [12,16] o povo partiu de Haserot, e foi acampar no deserto de Farã. [13,1] O Senhor falou a Moisés, dizendo: [2] “Envia alguns homens para explorar a terra de Canaã, que eu vou dar aos filhos de Israel. Enviarás um homem de cada tribo, e que todos sejam chefes”. [3] Moisés fez o que o Senhor tinha ordenado, enviando ao deserto de Farã chefes entre o povo. [17] Moisés enviou-os para explorar o país de Canaã, recomendando-lhes: “Segui pelo deserto de Negueb. Quando chegardes às montanhas, [18] observai como é o país, se o povo que nele vive é forte ou fraco, se são poucos ou muitos; [19] como é a terra em que esse povo mora, se é boa ou ruim; como são as cidades em que vivem, se muradas ou sem muros; [20] se o seu solo é fértil ou pobre, se existem árvores ou não. Sede corajosos e trazei-nos alguns frutos dessa terra”. Era então o tempo em que as primeiras uvas já podiam ser comidas. [21] Eles subiram e exploraram o país desde o deserto de Sin até Roob, na entrada de Emat. [22] Subindo pelo deserto de Negueb, chegaram a Hebron, onde viviam Aimã, Sesai e Tolmai, descendentes de Enac. Hebron foi construída sete anos antes que Tânis no Egito. [23] E chegaram ao vale de Escol. Ali cortaram um ramo de videira com seu cacho, que dois homens transportaram numa vara; e apanharam também romãs e figos. [24] O lugar foi chamado vale de Escol (vale do Cacho) por causa do cacho de uva que os filhos de Israel dali levaram. [25] Ao fim de quarenta dias, eles voltaram do reconhecimento do país, [26] e apresentaram-se a Moisés, a Aarão e a toda a comunidade dos filhos de Israel, em Cades, no deserto de Farã. E, falando a eles e a toda a comunidade, mostraram os frutos da terra, [27] e fizeram a sua narração, dizendo: “Entramos no país, ao qual nos enviastes, que de fato é uma terra onde corre leite e mel, como se pode reconhecer por estes frutos. [28] Porém, os habitantes são fortíssimos, e as cidades grandes e fortificadas. Vimos lá descendentes de Enac; [29] os amalecitas vivem no deserto do Negueb; os hititas, jebuseus e amorreus, nas montanhas; mas os cananeus, na costa marítima e ao longo do Jordão”. [30] Entretanto Caleb, para acalmar o povo revoltado, que se levantava contra Moisés, disse: “Subamos e conquistemos a terra, pois somos capazes de fazê-lo”. [31] Mas os homens que tinham ido com ele disseram: “Não podemos enfrentar esse povo, porque é mais forte do que nós”. [32] E, diante dos filhos de Israel, começaram a difamar a terra que haviam explorado, dizendo: “A terra que fomos explorar é uma terra que devora os seus habitantes: o povo que aí vimos é de estatura extraordinária. [33] Lá vimos gigantes, filhos de Enac, da raça dos gigantes; comparados com eles parecíamos gafanhotos”.
+
+@secao Responsório | Dt 1,31a.32.26.27a
+
+@responsorio
+R. Ao deserto o Senhor, vosso Deus, vos levou
+como um pai que carrega o seu filho no colo.
+* Nem assim confiastes no Senhor, vosso Deus.
+V. Não quisestes subir para a terra da herança e, sem ter confiança na palavra de Deus, contra Deus murmurastes. * Nem assim.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc.V)} {(Sermo 15, De passione Domini,3-4: PL 54,366-367)}
+
+@tema
+Contemplemos a paixão do Senhor
+
+@texto
+Quem venera realmente a paixão do Senhor deve contemplar de tal modo, com os olhos do coração, Jesus crucificado, que reconheça na carne do Senhor a sua própria carne. Trema a criatura perante o suplício do seu Redentor, quebrem-se as pedras dos corações infiéis e saiam para fora, vencendo todos os obstáculos, aqueles que jaziam debaixo de seus túmulos. Apareçam também agora na cidade santa, isto é, na Igreja de Deus, como sinais da ressurreição futura e realize-se nos corações o que um dia se realizará nos corpos. A nenhum pecador é negada a vitória da cruz e não há homem a quem a oração de Cristo não ajude. Se ela foi útil para muitos dos que o perseguiam, quanto mais não ajudará os que a ele se convertem? Foi eliminada a ignorância da incredulidade, foi suavizada a aspereza do caminho, e o sangue sagrado de Cristo extinguiu o fogo daquela espada que impedia o acesso ao reino da vida. A escuridão da antiga noite cedeu lugar à verdadeira luz. O povo cristão é convidado a gozar as riquezas do paraíso, e para todos os batizados está aberto o caminho de volta à pátria perdida, desde que ninguém queira fechar para si próprio aquele caminho que se abriu também à fé do ladrão arrependido. Evitemos que as preocupações desta vida nos envolvam na ansiedade e no orgulho, de tal modo que não procuremos, com todo o afeto do coração, conformar-nos a nosso Redentor na perfeita imitação de seus exemplos. Tudo o que ele fez ou sofreu foi para a nossa salvação, a fim de que todo o Corpo pudesse participar da virtude da Cabeça. Aquela sublime união da nossa natureza com a sua divindade, pela _qual o Verbo se fez carne e habitou entre nós_ (Jo 1,14), não exclui ninguém da sua misericórdia senão aquele que recusa acreditar. Como poderá ficar fora da comunhão com Cristo quem recebe aquele que assumiu a sua própria natureza e é regenerado pelo mesmo Espírito por obra do qual nasceu Jesus? Quem não reconhece nele as fraquezas próprias da condição humana? Quem não vê que alimentar-se, buscar o repouso do sono, sofrer angústia e tristeza, derramar lágrimas de compaixão, eram próprios da condição de servo? Foi precisamente para curar a nossa natureza das antigas feridas e purificá-la das manchas do pecado, que o Filho Unigênito de Deus se fez também Filho do Homem, de modo que não lhe faltasse nem a humanidade em toda a sua realidade, nem a divindade em sua plenitude. É nosso, portanto, o que esteve morto no sepulcro, o que ressuscitou ao terceiro dia e o que subiu para a glória do Pai, no mais alto dos céus. Se andarmos pelos caminhos de seus mandamentos e não nos envergonharmos de proclamar tudo o que ele fez pela nossa salvação na humildade do seu corpo, também nós teremos parte na sua glória. Então se cumprirá claramente o que prometeu: _Portanto, todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus_ (Mt 10,32).
+
+@secao Responsório | 1Cor 1,18.23
+
+@responsorio
+R. A linguagem da cruz é loucura
+para aqueles que vão se perder;
+* Para aqueles, porém, que se salvam, para nós, é a força de Deus.
+V. Nós anunciamos o Cristo, o Cristo, o Crucificado, que é escândalo para os judeus e para os gentios é loucura. * Para aqueles.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus de bondade, que, corrigidos pela penitência e renovados pelas boas obras, possamos perseverar nos vossos mandamentos e chegar purificados às festas pascais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

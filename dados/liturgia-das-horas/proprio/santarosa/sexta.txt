@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santarosa_sexta.htm
+@documento Hora Média - Santa Rosa de Lima
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Sustentai-me e viverei como dissestes;
+não podeis decepcionar minha esperança!
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Sustentai-me e viverei como dissestes;
+não podeis decepcionar minha esperança!
+
+@secao Leitura breve | 1Cor 7,25
+
+@texto
+A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião.
+
+@texto
+V. Eis a virgem previdente e vigilante em alta noite.
+R. Vai, com suas companheiras, ao encontro do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que inspirastes Santa Rosa de Lima, inflamada de amor, a deixar o mundo, a servir os pobres e a viver em austera penitência, concedei-nos, por sua intercessão, seguir na terra os vossos caminhos e gozar no céu as vossas delícias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

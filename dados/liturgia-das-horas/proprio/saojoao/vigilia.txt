@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_vigilia.htm
+@documento Vigília da Natividade de São João Batista
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Reis hão de ver e soberanos se erguerão,
+para adorar o Senhor Deus que te escolheu.
+
+@salmo canticos/i-jr-17-7-8
+
+@gloria
+
+@salmo canticos/ii-eclo-14-22-15-3-4-6b
+
+@gloria
+
+@salmo canticos/iii-eclo-31-8-11
+
+@gloria
+
+@antifona
+Reis hão de ver e soberanos se erguerão,
+para adorar o Senhor Deus que te escolheu.
+
+@secao Evangelho | Lc 1,5-17
+
+@texto
+[5] Nos dias de Herodes, rei da Judéia, vivia um sacerdote chamado Zacarias, do grupo de Abia. Sua esposa era descendente de Aarão e chamava-se Isabel. [6] Ambos eram justos diante de Deus e obedeciam fielmente a todos os mandamentos e ordens do Senhor. [7] Não tinham filhos, porque Isabel era estéril, e os dois já eram de idade avançada. [8] Em certa ocasião, Zacarias estava exercendo as funções sacerdotais no Templo, pois era a vez do seu grupo. [9] Conforme o costume dos sacerdotes, ele foi sorteado para entrar no Santuário, e fazer a oferta do incenso. [10] Toda a assembleia do povo estava do lado de fora rezando, enquanto o incenso estava sendo oferecido. [11] Então apareceu-lhe o anjo do Senhor, de pé, à direita do altar do incenso. [12] Ao vê-lo, Zacarias ficou perturbado e o temor apoderou-se dele. [13] Mas o anjo disse: “Não tenhas medo, Zacarias, porque Deus ouviu tua súplica. Tua esposa, Isabel, vai ter um filho, e tu lhe darás o nome de João. [14] Tu ficarás alegre e feliz, e muita gente se alegrará com o nascimento do menino, [15] porque ele vai ser grande diante do Senhor. Não beberá vinho nem bebida fermentada e, desde o ventre materno, ficará repleto do Espírito Santo. [16] Ele reconduzirá muitos do povo de Israel ao Senhor seu Deus. [17] E há de caminhar à frente deles, com o espírito e o poder de Elias, a fim de converter os corações dos pais aos filhos, e os rebeldes à sabedoria dos justos, preparando para o Senhor um povo bem disposto”.

@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/1quartaquaresma_vesperas.htm
+@documento Vésperas - Quarta-feira da 1ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor é minha luz e salvação;
+de quem eu terei medo? †
+
+@salmo salmos/salmo-026-i-v3
+
+@gloria
+
+@antifona
+O Senhor é minha luz e salvação;
+de quem eu terei medo?
+
+@antifona 2
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@salmo salmos/salmo-026-ii
+
+@gloria
+
+@antifona
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@antifona 3
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@secao Leitura breve | Fl 2,12b-15a
+
+@texto
+Trabalhai para a vossa salvação, com temor e tremor. Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. Fazei tudo sem reclamar ou murmurar, para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Em Deus, cuja Palavra me entusiasma,
+* Em Deus eu me apóio. R. Em Deus, cuja Palavra.
+V. Nada mais me causa medo. * Em Deus eu me apóio.
+Glória ao Pai. R. Em Deus, cuja Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Jonas esteve por três dias e três noites
+no ventre de um peixe;
+assim também o Filho do Homem ficará
+no coração da nossa terra.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Jonas esteve por três dias e três noites
+no ventre de um peixe;
+assim também o Filho do Homem ficará
+no coração da nossa terra.
+
+@secao Preces
+
+@preces
+Aclamemos o Deus todo-poderoso e previdente, que conhece todas as nossas necessidades, mas quer que busquemos, antes de tudo, o seu reino. Rezemos, dizendo:
+
+R. **Senhor, venha a nós o vosso Reino e a sua justiça!**
+
+Pai santo, que nos destes Jesus Cristo como Pastor de nossas almas, assisti os pastores da Igreja e o povo a eles confiado,
+– para que não falte ao rebanho a solicitude dos seus pastores nem aos pastores a obediência de suas ovelhas. R.
+
+Aumentai a caridade dos cristãos, para que ajudem os doentes com amor fraterno,
+– e socorram neles o vosso próprio Filho, Jesus Cristo. R.
+
+Fazei que ingressem na vossa Igreja os que ainda não creem no Evangelho,
+– para que, pelo exemplo das boas obras, a façam crescer na caridade. R.
+
+Dai a nós pecadores a contrição sincera das nossas culpas,
+– e a reconciliação perfeita convosco e com a vossa Igreja. R.
+
+{(intenções livres)}
+
+Concedei a vida eterna aos nossos irmãos e irmãs que morreram,
+– para que vivam eternamente na vossa presença. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Considerai, ó Deus, com bondade o fervor do vosso povo. E, enquanto mortificamos o corpo, sejamos espiritualmente fortalecidos pelos frutos das boas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

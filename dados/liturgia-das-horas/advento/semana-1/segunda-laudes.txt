@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1segunda_laudes.htm
+@documento Laudes - I Segunda-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@salmo salmos/salmo-005-2-10-12-13
+
+@gloria
+
+@antifona
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@antifona 2
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@antifona
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@antifona 3
+Adorai o Senhor no seu templo sagrado.
+
+@salmo salmos/salmo-028
+
+@gloria
+
+@antifona
+Adorai o Senhor no seu templo sagrado.
+
+@secao Leitura breve | Is 2,3
+
+@texto
+Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. O Senhor vem com a força e poder. * Eis vosso Deus.
+Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jerusalém, levanta os teus olhos
+e contempla o poder do teu Rei:
+o Salvador vem quebrar-te as cadeias.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jerusalém, levanta os teus olhos
+e contempla o poder do teu Rei:
+o Salvador vem quebrar-te as cadeias.
+
+@secao Preces
+
+@preces
+Cristo Senhor, Filho de Deus vivo e esplendor da luz eterna, vem iluminar as nossas trevas para podermos contemplar a sua glória. Peçamos-lhe com toda confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Cristo, luz sem ocaso, que vindes como sol nascente iluminar as trevas,
+– despertai nossa fé vacilante. R.
+
+Fazei-nos caminhar com segurança ao longo deste dia,
+– guiados pela claridade de vossa luz. R.
+
+Dai-nos um coração generoso, humilde e confiante,
+– para que todos os homens vejam a razão da nossa esperança. R.
+
+Vinde criar a nova terra prometida,
+– para que nela habitem a justiça e a paz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos esperar solícitos a vinda do Cristo, vosso Filho. Que ele, ao chegar, nos encontre vigilantes na oração e proclamando o seu louvor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

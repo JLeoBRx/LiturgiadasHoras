@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saocharbel.htm
+@documento Ofício das Leituras - São Charbel Makhluf, Presbítero
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração do dia 24/07. Assim, os textos aqui são os do Comum dos pastores, para presbíteros.
+
+@celebracao
+SÃO CHARBEL MAKHLUF, PRESBÍTERO
+
+@biografia
+Nasceu em Biqákafra (Líbano). Assumiu o nome de Charbel, aos 23 anos, em memória do mártir do século II. Ordenado sacerdote, viveu o ascetismo durante 16 anos. Após este período, foi eremita por 23 anos, em Annaya. Entregue totalmente à busca de Deus, na solidão, era conhecido como grande taumaturgo. Faleceu em seu eremitério na véspera do Natal de 1898.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@secao Primeira leitura
+
+@leitura
+
+@tema
+V.
+
+@texto
+Ouvirás uma palavra de meus lábios. Aleluia. R. E haverás de transmitir-lhes em meu nome. Aleluia. Da Primeira Carta de São Pedro {5,1-11} _{Deveres dos pastores e dos fiéis}_ [1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel.
+V. Muitos se dizem “homens de bem”; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Do Decreto Presbyterorum ordinis sobre o ministério e a vida dos presbíteros, do Concílio Vaticano II
+{(Séc. XX)} {(N. 12)}
+
+@tema
+A vocação dos presbíteros à perfeição
+
+@texto
+Pelo sacramento da Ordem, os presbíteros são configurados com Cristo sacerdote, na qualidade de ministros da Cabeça, para construir e edificar todo o seu corpo que é a Igreja, como cooperadores da ordem episcopal. De fato, já pela consagração do batismo receberam, como todos os cristãos, o sinal e o dom de tão grande vocação e graça para que, apesar da fraqueza humana, possam e devam procurar a perfeição, segundo a palavra do Senhor: _Sede perfeitos como o vosso Pai celeste é perfeito_ (Mt 5,48).
+Os sacerdotes, porém, estão obrigados por especial motivo a atingir tal perfeição, uma vez que, consagrados a Deus de modo novo pela recepção do sacramento da Ordem, se transformaram em instrumentos vivos de Cristo, eterno Sacerdote, a fim de poderem continuar através dos tempos sua obra admirável que reuniu com suma eficiência toda a família humana.
+Como, pois, cada sacerdote, a seu modo, faz as vezes da própria pessoa de Cristo, é também enriquecido por uma graça especial, para que, no serviço dos homens a ele confiados e de todo o povo de Deus, possa alcançar melhor a perfeição daquele a quem representa, e para que veja a fraqueza do homem carnal curada pela santidade daquele que por nós se fez Pontífice _santo, inocente, sem mancha, separado dos pecadores_ (Hb 7,26).
+Cristo, a quem o Pai santificou, ou melhor, consagrou e enviou ao mundo, _se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem_ (Tt 2,1), e assim, pela Paixão, entrou na sua glória. De modo semelhante, os presbíteros, consagrados pela unção do Espírito Santo e enviados por Cristo, mortificam em si mesmos as obras da carne e dedicam-se totalmente ao serviço dos homens, e assim podem progredir na santidade pela qual foram enriquecidos em Cristo, até atingirem a estatura do homem perfeito.
+Deste modo, exercendo o ministério do Espírito e da justiça, se forem dóceis ao Espírito de Cristo que os vivifica e dirige, firmam-se na vida espiritual. Pelas próprias ações sagradas de cada dia, como também por todo o seu ministério, exercido em comunhão com o bispo e com os outros presbíteros, eles mesmos se orientam para a perfeição da vida.
+A santidade dos presbíteros, por sua vez, contribui muitíssimo para o desempenho frutuoso do próprio ministério; pois, embora a graça divina possa realizar a obra da salvação também por meio de ministros indignos, contudo Deus prefere, segundo a lei ordinária, manifestar as suas maravilhas através daqueles que, dóceis ao impulso e direção do Espírito Santo, pela sua íntima união com Cristo e santidade de vida, podem dizer com o Apóstolo: _Eu vivo, mas não eu, é Cristo que vive em mi_m (Gl 2,20).
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós,
+que teria vos dado não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós. * Pois é tanto.
+
+@secao Oração
+
+@oracao
+Deus de infinita bondade, que chamastes o presbítero São Charbel Makhluf ao combate espiritual na vida eremítica e o enriquecestes com todas as formas de piedade, fazei que sejamos verdadeiros imitadores da paixão de Cristo, para merecermos tomar parte no seu reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

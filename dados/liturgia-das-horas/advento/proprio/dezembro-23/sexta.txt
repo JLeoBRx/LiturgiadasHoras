@@ -1,0 +1,23 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/23_sexta.htm
+@documento Próprio - Sexta - 23 de dezembro
+
+@secao Leitura breve | Jr 30,18a
+
+@texto
+Isto diz o Senhor: Eis que eu mudarei a sorte das tendas de Jacó e terei compaixão de suas moradias.
+
+@texto
+V. Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+pelo amor que demonstrais ao vosso povo!
+R. Visitai-me com a vossa salvação!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ao aproximar-nos do natal do vosso Filho, concedei-nos obter a misericórdia do Verbo, que se encarnou no seio da Virgem e quis viver entre nós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

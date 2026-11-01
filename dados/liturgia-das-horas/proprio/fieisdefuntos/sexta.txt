@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/fieisdefuntos_sexta.htm
+@documento Hora Média - Comemoração de Todos os Fiéis Defuntos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Pelos culpados implorastes,
+compadecido, a indulgência,
+e ao companheiro de suplício
+destes palavras da clemência.
+
+Cristo Senhor, à vossa herança,
+por vosso sangue redimida,
+concedei ver a dor da morte
+mudar-se em gozo e nova vida.
+
+Chamai os servos que partiram
+para onde a morte foi vencida.
+Um hino eterno eles vos cantem,
+Cristo Jesus, Senhor da vida.
+
+@secao Salmodia
+
+@antifona
+Curai-me, Senhor, pois pequei contra vós!
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@salmo salmos/salmo-084
+
+@gloria
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Curai-me, Senhor, pois pequei contra vós!
+
+@secao Leitura breve | Sb 1,13-14a.15
+
+@texto
+Deus não fez a morte, nem tem prazer com a destruição dos vivos. Ele criou todas as coisas para existirem. Pois a justiça é imortal.
+
+@texto
+V. No vale tenebroso nenhum mal eu temerei,
+R. Porque vós, ó meu Senhor, Bom Pastor, estais comigo!
+
+@secao Oração
+
+@oracao
+Ó Deus, escutai com bondade as nossas preces e aumentai a nossa fé no Cristo ressuscitado, para que seja mais viva a nossa esperança na ressurreição dos vossos filhos e filhas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

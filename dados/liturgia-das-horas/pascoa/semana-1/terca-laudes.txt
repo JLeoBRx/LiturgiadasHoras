@@ -1,0 +1,161 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1tercapascoa_laudes.htm
+@documento Laudes - Terça-feira da 1ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@antifona 2
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@antifona 3
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@secao Leitura breve | At 13,30-33
+
+@texto
+Deus ressuscitou Jesus dos mortos e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galiléia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: Tu és o meu filho, eu hoje te gerei.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus disse: Maria! Ela disse: Ó Mestre!
+E o Senhor: Não me toques!
+Não subi a meu Pai, que é também vosso Pai. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus disse: Maria! Ela disse: Ó Mestre!
+E o Senhor: Não me toques!
+Não subi a meu Pai, que é também vosso Pai. Aleluia.
+
+@secao Preces
+
+@preces
+Exultemos de alegria em Cristo nosso Senhor, que, ressuscitado de entre os mortos, reconstituiu o templo do seu corpo; e lhe supliquemos:
+
+R. **Ouvi-nos, Senhor, pela vossa ressurreição!**
+
+Cristo, Salvador do mundo, que anunciastes às santas mulheres e aos apóstolos a alegria da ressurreição,
+– fazei-nos testemunhas do vosso triunfo pascal. R.
+
+Vós, que prometestes a todos a ressurreição, que nos fará nascer para uma vida nova,
+– tornai-nos fiéis mensageiros do vosso evangelho. R.
+
+Vós, que, aparecendo aos apóstolos depois da ressurreição, lhes comunicastes o Espírito Santo,
+– renovai-nos com os dons do Espírito criador.R.
+
+Vós, que prometestes permanecer com os vossos discípulos até o fim do mundo,
+– ficai conosco hoje e sempre. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos concedestes a salvação pascal, acompanhai o vosso povo com vossos dons celestes, para que, tendo conseguido a verdadeira liberdade, possa um dia alegrar-se no céu, como exulta agora na terra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@secao Na despedida se diz:
+
+@texto
+Ide em paz e o Senhor vos acompanhe. Aleluia, aleluia.
+R. Graças a Deus. Aleluia, aleluia.

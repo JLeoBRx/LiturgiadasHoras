@@ -1,0 +1,173 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/batismo_laudes.htm
+@documento Laudes - Batismo do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O Redentor das nações,
+Jesus, a todos brilhou.
+E todo o povo fiel
+lhe canta um hino em louvor.
+
+Vivera já trinta anos
+em nossa carne mortal.
+E embora livre de culpa,
+da água busca o sinal.
+
+João, feliz, mas tremendo,
+mergulha em rio profundo
+aquele que lavaria
+no sangue a culpa do mundo.
+
+A voz do Pai testemunha
+que este é seu Filho, e reflui
+sobre ele a força do Espírito
+que todo dom distribui.
+
+Protegei a todos, ó Cristo:
+jamais tombemos no abismo.
+Dai-nos viver as promessas
+do nosso próprio batismo.
+
+Ó Cristo, vida e verdade,
+a vós a glória e o louvor.
+Unido ao Pai e ao Espírito,
+do céu mostrais o esplendor.
+
+@secao Salmodia
+
+@antifona 1
+João batiza o Salvador, o soldado, a seu Rei,
+e o servo, a seu Senhor.
+Estremece o rio Jordão, divina pomba é testemunha.
+E faz-se ouvir a voz do Pai:
+Eis meu Filho muito amado.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+João batiza o Salvador, o soldado, a seu Rei,
+e o servo, a seu Senhor.
+Estremece o rio Jordão, divina pomba é testemunha.
+E faz-se ouvir a voz do Pai:
+Eis meu Filho muito amado.
+
+@antifona 2
+Quando Cristo apareceu
+em sua glória em nosso meio,
+santificou todas as fontes e as águas do universo.
+Vinde buscar água das fontes do Senhor e Salvador!
+Pois o Cristo, nosso Deus, santificou todas as coisas.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Quando Cristo apareceu
+em sua glória em nosso meio,
+santificou todas as fontes e as águas do universo.
+Vinde buscar água das fontes do Senhor e Salvador!
+Pois o Cristo, nosso Deus, santificou todas as coisas.
+
+@antifona 3
+No Espírito e no fogo destruís nosso pecado:
+agradecidos vos louvamos, nosso Deus e Redentor!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+No Espírito e no fogo destruís nosso pecado:
+agradecidos vos louvamos, nosso Deus e Redentor!
+
+@secao Leitura breve | Is 61,1-2a
+
+@texto
+O espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu; enviou-me para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; para proclamar o tempo da graça do Senhor e o dia da vingança do nosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Cristo, Filho do Deus vivo,
+* Tende pena e compaixão! R. Cristo.
+V. Vós, que hoje aparecestes, * Tende pena.
+Glória ao Pai. R. Cristo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus Cristo é batizado, e o mundo é renovado.
+Ele deu-nos o perdão dos pecados e das faltas.
+Sejamos homens novos pela água e pelo Espírito!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus Cristo é batizado, e o mundo é renovado.
+Ele deu-nos o perdão dos pecados e das faltas.
+Sejamos homens novos pela água e pelo Espírito!
+
+@secao Preces
+
+@preces
+Oremos a nosso Redentor, que quis ser batizado por João no rio Jordão; e digamos:
+
+R. **Senhor, tende piedade de nós.**
+
+Cristo, que fizestes brilhar sobre nós a luz da epifania,
+– concedei vossa luz àqueles que hoje vamos encontrar. R.
+
+Cristo, que recebestes o batismo de vosso servo João para nos ensinar o caminho da humildade,
+– concedei-nos o espírito de humildade no serviço para com todos. R.
+
+Cristo, que pelo vosso batismo, nos purificastes de todo pecado, e nos tornastes filhos de Deus Pai,
+– concedei o espírito de adoção filial a todos os que vos buscam. R.
+
+Cristo, que pelo vosso batismo santificastes a criação inteira e abristes aos batizados as portas da conversão,
+– fazei de nós mensageiros do vosso Evangelho por todo o mundo. R.
+
+Cristo que no vosso batismo nos revelastes a Santíssima Trindade,
+– renovai o espírito de adoção, no sacerdócio régio dos batizados. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que, sendo o Cristo batizado no Jordão, e pairando sobre ele o Espírito Santo, o declarastes solenemente vosso Filho, concedei aos vossos filhos adotivos, renascidos da água e do Espírito Santo, perseverar constantemente em vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

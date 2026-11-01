@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2tercaquaresma_vesperas.htm
+@documento Vésperas - Terça-feira da 2ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Não podeis servir a Deus e ao dinheiro.
+
+@salmo salmos/salmo-048-i
+
+@gloria
+
+@antifona
+Não podeis servir a Deus e ao dinheiro.
+
+@antifona 2
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@salmo salmos/salmo-048-ii
+
+@gloria
+
+@antifona
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@antifona 3
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@secao Leitura breve | Tg 2,14.17.18b
+
+@texto
+Meus irmãos, que adianta alguém dizer que tem fé, quando não a põe em prática? A fé seria então capaz de salvá-lo? A fé, se não se traduz em obras, por si só está morta. Tu, mostra-me a tua fé sem as obras, que eu te mostrarei a minha fé pelas obras!
+
+@secao Responsório breve
+
+@responsorio
+R. Iluminai-me, Senhor, conforme a vossa palavra,
+* Para que eu sempre faça a vossa vontade!
+R. Iluminai-me.
+V. Inclinai meu coração aos vossos preceitos. * Para que eu.
+Glória ao Pai. R. Iluminai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vós todos sois irmãos e um só é o vosso Pai.
+A ninguém chameis de mestre,
+um somente é o vosso Mestre:
+Jesus Cristo, o Salvador.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vós todos sois irmãos e um só é o vosso Pai.
+A ninguém chameis de mestre,
+um somente é o vosso Mestre:
+Jesus Cristo, o Salvador.
+
+@secao Preces
+
+@preces
+Demos glória ao Senhor Jesus Cristo que, exaltado na cruz, atraiu para si todo o gênero humano; e lhe supliquemos com piedade:
+
+R. **Senhor, atraí tudo para vós!**
+
+Senhor, iluminai com o mistério da vossa cruz todo o gênero humano,
+– para que, atraídos por ela, vos reconheçamos como caminho, verdade e vida. R.
+
+Dai água viva a todos os que estão sedentos de vós,
+– para que saciem para sempre a sua sede. R.
+
+Iluminai os intelectuais e os artistas,
+– para que manifestem a todos os caminhos do vosso Reino. R.
+
+Movei a consciência de todos aqueles a quem o pecado ou o escândalo afastou de vós,
+– para que voltem à vida da graça e permaneçam no vosso amor. R.
+
+{(intenções livres)}
+
+Admiti na glória do céu os nossos irmãos e irmãs falecidos,
+– para que se alegrem eternamente na companhia de Nossa Senhora e de todos os santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Guardai, Senhor Deus, a vossa Igreja com a vossa constante proteção, e, como a fraqueza humana desfalece sem vosso auxílio, livrai-nos constantemente do mal e conduzi-nos pelos caminhos da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

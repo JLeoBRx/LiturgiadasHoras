@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quinta_vesperas.htm
+@documento Vésperas - III Quinta-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@salmo salmos/salmo-131-i
+
+@gloria
+
+@antifona
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@antifona 2
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@salmo salmos/salmo-131-ii
+
+@gloria
+
+@antifona
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.

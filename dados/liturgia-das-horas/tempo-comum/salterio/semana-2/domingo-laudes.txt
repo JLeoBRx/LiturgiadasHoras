@@ -1,0 +1,120 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2domingo_laudes.htm
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes}
+
+@secao Hino
+
+@hino
+Eis que da noite já foge a sombra
+e a luz da aurora refulge, ardente.
+Nós, reunidos, a Deus oremos
+e invoquemos o Onipotente.
+
+Deus, compassivo, nos salve a todos
+e nos afaste de todo o mal.
+O Pai bondoso, por sua graça,
+nos dê o reino celestial.
+
+Assim nos ouça o Deus Uno e Trino,
+Pai, Filho e Espírito Consolador.
+Por toda a terra vibram acordes
+dum canto novo em seu louvor.
+
+@secao Salmodia
+
+@antifona 1
+Bendito o que vem em nome do Senhor! Aleluia.
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Bendito o que vem em nome do Senhor! Aleluia.
+
+@antifona 2
+Cantemos um hino ao Senhor, aleluia.
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Cantemos um hino ao Senhor, aleluia.
+
+@antifona 3
+Louvai o Senhor Deus
+por seus feitos grandiosos. Aleluia.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Louvai o Senhor Deus
+por seus feitos grandiosos. Aleluia.
+
+@secao Leitura breve | Ez 36,25-27
+
+@texto
+Derramarei sobre vós uma água pura, e sereis purificados. Eu vos purificarei de todas as impurezas e de todos os ídolos. Eu vos darei um coração novo e porei um espírito novo dentro de vós. Arrancarei do vosso corpo o coração de pedra e vos darei um coração de carne; porei o meu espírito dentro de vós e farei com que sigais a minha lei e cuideis de observar os meus mandamentos.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos louvamos, dando graças, ó Senhor,
+* Dando graças, invocamos vosso nome. R. Nós vos louvamos.
+V. E publicamos os prodígios que fizestes. * Dando graças.
+Glória ao Pai. R. Nós vos louvamos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@lacuna antifona-benedictus
+
+@salmo canticos/benedictus
+
+@gloria
+
+@lacuna antifona-benedictus
+
+@secao Preces
+
+@preces
+Demos graças a nosso Salvador, que veio a este mundo para ser Deus-conosco; e o aclamemos, dizendo:
+
+R. **Cristo, rei da glória, sede nossa luz e alegria!**
+
+Senhor Jesus Cristo, luz que vem do alto e primícias da ressurreição futura,
+– dai-nos a graça de vos seguirmos, para que, livres das sombras da morte, caminhemos sempre na luz da vida. R.
+
+Mostrai-nos vossa bondade, refletida em todas as criaturas,
+– para contemplarmos em todas elas a vossa glória. R.
+
+Não permitais, Senhor, que hoje sejamos vencidos pelo mal,
+– mas tornai-nos vencedores do mal pelo bem. R.
+
+Vós, que no Jordão fostes batizado por João Batista e ungido pelo Espírito Santo,
+– santificai todas as nossas ações deste dia com a graça do mesmo Espírito. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

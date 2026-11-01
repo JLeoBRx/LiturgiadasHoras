@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/31segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {9,1-18}
+
+@tema
+Súplica para obter sabedoria
+
+@texto
+[1] “Deus dos Pais, Senhor de misericórdia, que tudo criaste com tua palavra [2] e com tua Sabedoria formaste o homem para dominar as criaturas que fizeste, [3] governar o mundo com justiça e santidade e exercer o julgamento com retidão de vida, [4] dá-me a Sabedoria contigo entronizada e não me excluas do número de teus filhos. [5] Pois sou teu servo, filho de tua serva, homem frágil, de vida efêmera, incapaz de compreender a justiça e as leis. [6] Por mais perfeito que seja alguém entre os filhos dos homens, se lhe falta a Sabedoria que vem de ti, de nada valerá. [7] Escolheste-me como rei de teu povo, como juiz de teus filhos e de tuas filhas. [8] Mandaste-me construir um templo em teu santo monte e um altar na cidade onde fixaste a tua tenda, cópia da tenda santa que preparaste desde a origem. [9] Contigo está a Sabedoria que conhece tuas obras, estava presente quando fazias o mundo; ela sabe o que é agradável a teus olhos e o que é conforme aos teus mandamentos. [10] Dos céus sagrados, envia-a, manda-a de teu trono de glória para que me assista nos trabalhos, ensinando-me o que de fato te agrada. [11] E ela, que tudo sabe e compreende, prudentemente me guiará em minhas ações e me protegerá com a sua glória. [12] Minhas obras serão assim bem acolhidas, julgarei o teu povo com justiça, serei digno do trono de meu pai. [13] Pois, que homem conhece o desígnio de Deus? Quem pode conceber o que deseja o Senhor? [14] Os pensamentos dos mortais são tímidos e falíveis os nossos raciocínios; [15] um corpo corruptível pesa sobre a alma e esta tenda de argila faz o espírito pesar com muitas preocupações. [16] A custo conjeturamos o terrestre, com trabalho encontramos o que está à mão: mas quem rastreará o que há nos céus? [17] Quem conhecerá tua vontade, se não lhe deste Sabedoria e não enviaste do alto teu espírito santo? [18] Somente assim foram retos os caminhos dos terrestres, e os homens aprenderam o que a agrada, e a Sabedoria os salvou.”
+
+@secao Responsório | Cf. Sb 9,10.4
+
+@responsorio
+R. Concedei a vossa sabedoria, ó Senhor,
+enviai-a do trono de vossa glória,
+para que, junto de mim, tome parte em meus trabalhos,
+* Para que eu saiba o que vos agrada.
+V. dai-me a Sabedoria que partilha do vosso trono.
+* Para que.
+
+@secao Segunda leitura
+
+@leitura
+Dos Livros “As origens” de Orígenes, presbítero
+{(Séc. III)} {(II, 6,2)}
+
+@tema
+O mistério do verbo encarnado
+
+@texto
+Entre todas as coisas maravilhosas que podem ser ditas sobre Cristo, há uma que supera absolutamente a admiração daquilo que é capaz o espírito humano, e a fragilidade da nossa inteligência mortal não sabe como compreendê-la ou imaginá-la: que a onipotência da majestade divina, a própria Palavra, a Sabedoria de Deus, na qual foram criadas todas as coisas - as visíveis e as invisíveis - tenha se deixado fechar nos limites de um homem que apareceu na Judeia. Este é o objeto da nossa fé, porém, ainda mais, nós cremos que a Sabedoria entrou no seio de uma mulher e nasceu entre os vagidos e choros como todos os mortais. E sabemos que mais tarde o Cristo conheceu o medo da morte a ponto de exclamar: _A minha alma está triste até a morte_ (Mt 26,38), e que no fim foi conduzido à morte mais humilhante, mesmo que depois tenha ressuscitado ao terceiro dia.
+Nele encontramos, ao mesmo tempo, as características divinas que são próprias somente daquela natureza soberana e inefável. Diante disso, a inteligência humana, tão pequena, é tomada de tão grande admiração que não sabe o que dizer nem como orientar-se. Sabe que Cristo é Deus, e no entanto, o vê morrer; se portanto o considera um homem, eis que o vê ressurgir com o seu penhor de vitória depois de ter destruído o reino da morte.
+A nossa contemplação, meditando no próprio Jesus a verdade das duas naturezas, deve proceder com reverente temor, seja evitando atribuir coisas indignas ou inconvenientes à inefável essência divina, seja evitando considerar os acontecimentos históricos como ilusórias aparências. Na verdade, explicar tais coisas à inteligência humana e procurar expressá-las em palavras é uma tarefa superior às nossas forças e aos nossos méritos e supera a inteligência e as palavras. Ou melhor, penso que supere a capacidade dos próprios apóstolos. E, ainda mais: a explicação desse mistério transcende provavelmente toda a ordem das potências celestes.
+
+@secao Responsório | Fl 2,6-7; Jo 1,23
+
+@responsorio
+R. Cristo Jesus, estando na forma de Deus
+não usou de seu direito de ser tratado como um deus,
+* Mas despojou-se de si mesmo
+tornando-se semelhante aos homens,
+assumindo a forma humana.
+V. Ele estava no princípio junto de Deus.
+* Mas despojou-se.
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas a graça de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

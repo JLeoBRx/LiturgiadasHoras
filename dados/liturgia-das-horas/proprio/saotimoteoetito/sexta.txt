@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saotimoteoetito_sexta.htm
+@documento Hora Média - Santos Timóteo e Tito, bispos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quem vos recebe, a mim recebe;
+quem me recebe, ao Pai recebe.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Quem vos recebe, a mim recebe;
+quem me recebe, ao Pai recebe.
+
+@secao Leitura breve | 1Tm 1,12
+
+@texto
+Agradeço àquele que me deu força, Cristo Jesus, nosso Senhor, a confiança que teve em mim ao designar-me para o seu serviço.
+
+@texto
+V. Eu não me envergonho do Evangelho.
+R. É a força de Deus para salvar-nos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que ornastes São Timóteo e São Tito com as virtudes dos apóstolos, concedei-nos, pela intercessão de ambos, viver neste mundo com piedade e justiça, para chegar ao céu, nossa pátria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quarta_leituras.htm
+@documento Ofício das Leituras - III Quarta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+O amor e a verdade vão andando à vossa frente.
+
+@salmo salmos/salmo-088-2-38-i
+
+@gloria
+
+@antifona
+O amor e a verdade vão andando à vossa frente.
+
+@antifona 2
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@salmo salmos/salmo-088-2-38-ii
+
+@gloria
+
+@antifona
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@antifona 3
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.
+
+@salmo salmos/salmo-088-2-38-iii
+
+@gloria
+
+@antifona
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.

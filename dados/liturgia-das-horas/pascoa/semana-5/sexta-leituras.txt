@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/5sextaPascoa.htm
+@documento Ofício das Leituras - 5ª Semana Da Páscoa - Sexta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Senhor, vinde logo em meu socorro! Aleluia.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-i
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, vinde logo em meu socorro! Aleluia.
+
+@antifona 2
+Defendei minha causa, Senhor poderoso! Aleluia.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-ii
+
+@gloria
+
+@antifona
+Defendei minha causa, Senhor poderoso! Aleluia.
+
+@antifona 3
+Minha língua anunciará vossa justiça eternamente Aleluia.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-iii
+
+@gloria
+
+@antifona
+Minha língua anunciará vossa justiça eternamente Aleluia.
+
+@texto
+V. Céus e terra se alegram cantando: aleluia,
+R. Pela ressurreição do Senhor. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {22,1-9}
+
+@tema
+O rio da água da vida
+
+@texto
+[1] O anjo mostrou-me um rio de água viva, o qual brilhava como cristal. O rio brotava do trono de Deus e do Cordeiro. [2] No meio da praça, de cada lado do rio, estão plantadas árvores da vida; elas dão frutos doze vezes por ano; em cada mês elas dão fruto; suas folhas servem para curar as nações. [3] Já não haverá maldição alguma. Na cidade estará o trono de Deus e do Cordeiro e seus servos poderão prestar-lhe culto. [4] Verão a sua face e o seu nome estará sobre suas frontes. [5] Não haverá mais noite: não se precisará mais da luz da lâmpada, nem da luz do sol, porque o Senhor Deus vai brilhar sobre eles e eles reinarão para toda a eternidade. [6] Então o anjo disse-me: “Estas palavras são dignas de fé e verdadeiras, pois o Senhor, o Deus que inspira os profetas, enviou o seu Anjo, para mostrar aos seus servos o que deve acontecer muito em breve. [7] Eis que eu venho em breve. Feliz aquele que observa as palavras da profecia deste livro”. [8] Eu, João, fui quem viu e ouviu estas coisas. E tendo-as ouvido e visto, prostrei-me para adorar o Anjo que mas tinha mostrado. [9] Mas ele me falou: “Não faças isso! Eu sou servo como tu e como teus irmãos, os profetas e aqueles que observam as palavras deste livro. É a Deus que deves adorar”.
+
+@secao Responsório | Ap 22,5.3b
+
+@responsorio
+R. Já não mais haverá noite, pois brilhará o Senhor Deus
+e será luz para os seus servos.
+* E eles reinarão pelos séculos dos séculos. Aleluia.
+V. Na cidade do Senhor encontra-se o trono
+de Deus e do Cordeiro
+e seus servos prestarão a ele o seu culto. * E eles.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões do Bem-aventurado Isaac, abade do Mosteiro de Stella
+{(Séc. XII)} {(Sermo 42: PL 194,1831-1832)}
+
+@tema
+O primogênito de muitos irmãos
+
+@texto
+Como a cabeça e o corpo formam um só homem, assim o Filho da Virgem e seus membros escolhidos formam um só homem e um só Filho do homem. _Cristo completo e total_, como diz a Escritura, _é cabeça e corpo._ Com efeito, todos os membros juntos constituem um só corpo que, unido à sua cabeça, forma um só Filho do homem. Este, pela sua união com o Filho de Deus, forma um só Filho de Deus, o qual, pela sua união com Deus, forma um só Deus. Consequentemente, todo o corpo com a cabeça é Filho do homem, é Filho de Deus, é Deus. Por isso se diz no Evangelho: _Quero, Pai, que assim como eu e tu somos um, também eles sejam um em nós_ (cf. Jo 17,21). Vemos que, segundo esse famoso texto da Escritura, não existe o corpo sem a cabeça nem a cabeça sem o corpo; nem Cristo total, cabeça e corpo, sem Deus. Tudo isto, portanto, pela sua união com Deus é um só Deus. O Filho de Deus, porém, está unido com Deus por natureza. O Filho do homem está unido com o Filho de Deus numa só pessoa; por sua vez, os membros do seu corpo estão unidos com ele sacramentalmente. Por conseguinte, os membros fiéis e espirituais de Cristo, podem afirmar de si, com toda verdade, aquilo que ele é, até mesmo Filho de Deus e Deus. Mas o que ele é por natureza, os membros são por participação. O que ele é em plenitude, os membros são parcialmente. O que o Filho de Deus é por geração, os membros são por adoção, como está escrito: _Recebestes um espírito de filhos adotivos, no qual todos clamamos: Abá – ó Pai!_ (Rm 8,15). Este Espírito _deu-lhes a capacidade de se tornarem filhos de Deus_ (Jo 1,12), para que o primogênito de muitos irmãos pudesse ensiná-los a dizer: _Pai nosso_ _que estais nos céus_ (Mt 6,9). E noutro lugar: _Subo para junto do meu Pai e vosso Pai_ (Jo 20,17). Pelo Espírito Santo, o Filho do homem nasceu da Virgem Maria como nossa cabeça; pelo mesmo Espírito, nós também renascemos na fonte batismal como filhos de Deus e membros do corpo de Cristo. E assim como ele nasceu livre de todo pecado, também nós renascemos pela remissão de nossos pecados. Assim como na cruz ele tomou sobre seu corpo de carne os pecados de todo o corpo, do mesmo modo, pela graça da regeneração, concedeu ao seu corpo espiritual que não lhe fosse atribuído nenhum pecado, como está escrito: _Feliz o homem a quem o Senhor não acusa de pecado_ (Sl 31,2). Este homem feliz é, sem a menor dúvida, Cristo: enquanto cabeça do Cristo místico é Deus e perdoa os pecados; enquanto cabeça do corpo, é o Filho do homem, nada tendo que se lhe deva perdoar; e enquanto o corpo da cabeça é formado por muitos, nada se lhe atribui. Ele é justo em si mesmo e justifica-se a si mesmo. Ele próprio é Redentor e redimido. Tomou sobre seu corpo, na cruz, os pecados daquele corpo que ele purifica por meio da água do batismo, e continua salvando pela cruz e pela água. Ele é o _Cordeiro de Deus que tira,_ que carrega _o pecado do mundo_ (Jo 1,29). Ele é ao mesmo tempo sacerdote e vítima do sacrifício. Ele é Deus que, oferecendo-se a si mesmo, por si reconciliou-se consigo mesmo, com o Pai e com o Espírito Santo.
+
+@secao Responsório | Rm 12,5; Cl 2,9-10a; 1,18
+
+@responsorio
+R. Somos muitos, mas em Cristo,
+nós formamos um só corpo,
+sendo membros uns dos outros.
+* Nele habita, corporalmente, a divina plenitude
+e tendes nele a plenitude. Aleluia.
+V. Ele é a cabeça da Igreja que é seu corpo,
+é o Princípio, o Primogênito entre os mortos,
+a fim de ter em tudo a primazia. * Nele habita.
+
+@secao Oração
+
+@oracao
+Amparai, ó Deus, nossos corações para vivermos dignamente os mistérios pascais, a fim de que esta celebração realizada com alegria nos proteja por sua força inesgotável e nos comunique a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

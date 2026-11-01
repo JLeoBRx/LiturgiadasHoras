@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1segunda_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@antifona 2
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@antifona
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@antifona 3
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@salmo salmos/salmo-007-ii
+
+@gloria
+
+@antifona
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@secao Leitura breve | Tg 1,19b-20.26
+
+@texto
+Todo homem deve ser pronto para ouvir, mas moroso para falar e moroso para se irritar. Pois a cólera do homem não é capaz de realizar a justiça de Deus. Se alguém julga ser religioso e não refreia a sua língua, engana-se a si mesmo: a sua religião é vã.
+
+@texto
+V. Bendirei o Senhor Deus em todo o tempo.
+R. Seu louvor estará sempre em minha boca.
+
+@secao Oração
+
+@oracao
+Ó Deus, senhor e guarda da vinha e da colheita, que repartis as tarefas e dais a justa recompensa, fazei-nos carregar o peso do dia, sem jamais murmurar contra a vossa vontade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quarta_aposepifania_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d’aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@antifona 2
+Que Deus nos dê a sua graça a sua bênção,
+e sua face resplandeça sobre nós! †
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós!
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Cristo, o Primogênito de toda a criatura
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Leitura breve | Cl 1,13-15
+
+@texto
+Deus nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado, por quem temos a redenção, o perdão dos pecados. Ele é a imagem do Deus invisível, o primogênito de toda a criação.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Herodes aos Magos perguntou:
+Que sinal vistes vós do Rei nascido?
+Nós vimos a estrela refulgente
+e seu brilho que ilumina o mundo inteiro.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Herodes aos Magos perguntou:
+Que sinal vistes vós do Rei nascido?
+Nós vimos a estrela refulgente
+e seu brilho que ilumina o mundo inteiro.
+
+@secao Preces
+
+@preces
+Louvemos o Verbo de Deus que veio ao mundo para destruir o poder do pecado; e digamos cheios de confiança:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Sacerdote eterno, que viestes ao mundo para restaurar a plenitude do culto divino;
+– fazei que, por meio da Igreja, nele possam participar todas as gentes. R.
+
+Médico das almas e dos corpos, que viestes visitar os que estavam enfermos,
+– curai e fortalecei todos os doentes. R.
+
+Senhor, que encheis de alegria a santa Igreja com o mistério do vosso nascimento,
+– ajudai os pobres e compadecei-vos dos pecadores, para que todos participem das alegrias do Natal. R.
+
+Rei poderoso, que destruístes os grilhões da antiga escravidão,
+– libertai os prisioneiros e confortai os encarcerados. R.
+
+{(intenções livres)}
+
+Vós que viestes ao mundo para abrir as portas do céu,
+– recebei na vossa glória os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, luz de todas as nações, concedei aos povos da terra viver em perene paz, e fazei resplandecer em nossos corações aquela luz admirável que vimos despontar no povo da antiga aliança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

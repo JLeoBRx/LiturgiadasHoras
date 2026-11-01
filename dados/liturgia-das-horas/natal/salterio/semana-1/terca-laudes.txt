@@ -1,0 +1,95 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1terca_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+Quem tem mãos puras e inocente o coração
+subirá até o monte do Senhor
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quem tem mãos puras e inocente o coração
+subirá até o monte do Senhor
+
+@antifona 2
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@salmo canticos/tb-13-2-8
+
+@gloria
+
+@antifona
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@antifona 3
+Ó Justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo †
+
+@salmo salmos/salmo-032
+
+@gloria
+
+@antifona
+Ó Justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo

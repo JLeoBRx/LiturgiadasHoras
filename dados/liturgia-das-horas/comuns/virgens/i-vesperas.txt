@@ -1,0 +1,201 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_virgens_Ivesperas.htm
+@documento I Vésperas - COMUM DAS VIRGENS
+
+@titulo COMUM DAS VIRGENS
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Jesus, coroa das virgens,
+por Virgem Mãe concebido,
+perdoai os nossos pecados,
+atendei nosso pedido!
+
+Por entre as virgens passando,
+entre alvos lírios pousais,
+e a todas elas saudando
+o prêmio eterno entregais.
+
+Por toda a parte onde fordes,
+as virgens seguem cantando,
+e os mais suaves louvores
+vão pelo céu ressoando.
+
+Nós vos pedimos a graça
+de um coração sem pecado,
+qual diamante sem jaça,
+por vosso amor transformado.
+
+Ao Pai e ao Espírito unido,
+vos adoramos, ó Filho:
+por Virgem Mãe concebido,
+das virgens todas auxílio.
+
+@secao Salmodia
+
+@antifona 1
+Vinde, filhas, ao encontro do Senhor,
+e sobre vós há de brilhar a sua luz.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Vinde, filhas, ao encontro do Senhor,
+e sobre vós há de brilhar a sua luz.
+
+@antifona 2
+De todo o coração vos seguiremos,
+com respeito procurando a vossa face;
+ó Senhor, não seja vã nossa esperança!
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+De todo o coração vos seguiremos,
+com respeito procurando a vossa face;
+ó Senhor, não seja vã nossa esperança!
+
+@antifona 3
+Alegrai-vos, ó virgens de Cristo,
+no gozo das bodas eternas.
+
+@salmo canticos/ef-1-3-10-v5
+
+@gloria
+
+@antifona
+Alegrai-vos, ó virgens de Cristo,
+no gozo das bodas eternas.
+
+@secao Leitura breve | 1Cor 7,32b.34a
+
+@texto
+O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. Do mesmo modo, a mulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é minha herança,
+* É a parte que escolhi. R. O Senhor.
+V. O Senhor é muito bom para quem confia nele. * É a parte.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@rubrica
+Para uma virgem mártir:
+
+@antifona
+A virgem fiel, hóstia pura ofertada, já segue o Cordeiro por nós imolado.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma virgem:
+
+@antifona
+A virgem prudente que estava aguardando, com lâmpada acesa, o Esposo chegar, com ele entrou para as bodas eternas.
+
+@rubrica
+Ou:
+
+@rubrica
+Para várias virgens:
+
+@antifona
+Virgens prudentes, vigilantes, preparai as vossas lâmpadas; o Esposo está chegando; ide logo ao seu encontro.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@rubrica
+Para uma virgem mártir:
+
+@antifona
+A virgem fiel, hóstia pura ofertada, já segue o Cordeiro por nós imolado.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma virgem:
+
+@antifona
+A virgem prudente que estava aguardando, com lâmpada acesa, o Esposo chegar, com ele entrou para as bodas eternas.
+
+@rubrica
+Ou:
+
+@rubrica
+Para várias virgens:
+
+@antifona
+Virgens prudentes, vigilantes, preparai as vossas lâmpadas; o Esposo está chegando; ide logo ao seu encontro.
+
+@secao Preces
+
+@preces
+Com alegria, celebremos a Cristo, que louvou quem guarda a virgindade por causa do reino dos céus; e lhe peçamos:
+
+R. **Jesus, rei das virgens, ouvi-nos!**
+
+Cristo, que chamastes à vossa presença de único Esposo a Igreja como virgem casta,
+– tornai-a santa e imaculada. R.
+
+Cristo, ao vosso encontro as santas virgens saíram com lâmpadas acesas;
+– não permitais que venha a faltar o óleo da fidelidade nas lâmpadas de vossas servas consagradas. R.
+
+Senhor, em vós a Igreja virgem guardou sempre uma fé íntegra e pura;
+– concedei a todos os cristãos a integridade e a pureza da fé. R.
+
+Dai ao vosso povo regozijar-se com a festa da santa virgem N.,
+– que ele possa alegrar-se com a sua intercessão. R.
+
+{(intenções livres)}
+
+Recebestes as santas virgens para a ceia de vossas núpcias eternas;
+– admiti com bondade no banquete celeste os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, que prometestes habitar nos corações puros, dai-nos, pela intercessão da virgem santa N., viver de tal modo, que possais fazer em nós vossa morada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Atendei, ó Deus, nossa oração para que, recordando as virtudes da virgem santa N., mereçamos permanecer e crescer sempre mais no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para várias virgens:
+
+@texto
+Ó Deus, mostrai-nos sempre mais a vossa misericórdia, e, ao celebrarmos com alegria a festa das virgens santa N. e santa N., concedei-nos também o seu eterno convívio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

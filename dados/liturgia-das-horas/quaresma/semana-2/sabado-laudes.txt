@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2sabadoquaresma_laudes.htm
+@documento Laudes - Sábado da 2ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@antifona 2
+Vinde todos e dai glória ao nosso Deus!
+
+@salmo canticos/dt-32-1-12
+
+@gloria
+
+@antifona
+Vinde todos e dai glória ao nosso Deus!
+
+@antifona 3
+Ó Senhor, nosso Deus, como é grande
+vosso nome por todo o universo! †
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Ó Senhor nosso Deus, como é grande
+vosso nome por todo o universo!
+
+@secao Leitura breve | Is 1,16-18
+
+@texto
+Lavai-vos, purificai-vos. Tirai a maldade de vossas ações de minha frente. Deixai de fazer o mal! Aprendei a fazer o bem! Procurai o direito, corrigi o opressor. Julgai a causa do órfão, defendei a viúva. Vinde, debatamos – diz o Senhor. Ainda que vossos pecados sejam como púrpura, tornar-se-ão brancos como a neve. Se forem vermelhos como o carmesim, tornar-se-ão como lã.
+
+@secao Responsório breve
+
+@responsorio
+R. O Sangue de Jesus nos purifica,
+* De todos nossos erros nos liberta. R. O Sangue.
+V. Vinde ver os grandes feitos do Senhor! * De todos.
+Glória ao Pai. R. O Sangue.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Meu pai, eu pequei contra o céu e contra ti!
+Não mereço ser teu filho, quero ser teu empregado!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Meu pai, eu pequei contra o céu e contra ti!
+Não mereço ser teu filho, quero ser teu empregado!
+
+@secao Preces
+
+@preces
+Demos graças a Cristo nosso Salvador, sempre e em toda parte; e supliquemos com toda a confiança:
+
+R. **Socorrei-nos, Senhor, com a vossa graça!**
+
+Ajudai-nos a conservar sem mancha os nossos corpos,
+– para que sejam digna morada do Espírito Santo. R.
+
+Despertai em nós, desde o amanhecer, o desejo de nos sacrificarmos pelos nossos irmãos,
+– e de cumprirmos a vossa vontade em todas as atividades deste dia. R.
+
+Ensinai-nos a procurar o pão da vida eterna,
+– que vós mesmo nos ofereceis. R.
+
+Interceda por nós a vossa Mãe, refúgio dos pecadores,
+– para alcançarmos o perdão dos nossos pecados. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pelos exercícios da Quaresma já nos dais na terra participar dos bens do céu, guiai-nos de tal modo nesta vida, que possamos chegar à luz em que habitais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

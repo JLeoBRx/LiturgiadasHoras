@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/5sabadoPascoa.htm
+@documento Ofício das Leituras - 5ª Semana Da Páscoa - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Cantai, entoai salmos ao Senhor,
+publicai todas as suas maravilhas! Aleluia.
+
+@salmo salmos/salmo-104-i
+
+@gloria
+
+@antifona
+Cantai, entoai salmos ao Senhor,
+publicai todas as suas maravilhas! Aleluia.
+
+@antifona 2
+O Senhor não abandona o justo que é traído. Aleluia.
+
+@salmo salmos/salmo-104-ii
+
+@gloria
+
+@antifona
+O Senhor não abandona o justo que é traído. Aleluia.
+
+@antifona 3
+Deus lembrou-se de seu santo juramento
+e fez sair com grande júbilo o seu povo. Aleluia.
+
+@salmo salmos/salmo-104-iii
+
+@gloria
+
+@antifona
+Deus lembrou-se de seu santo juramento
+e fez sair com grande júbilo o seu povo. Aleluia.
+
+@texto
+V. Deus nos fez renascer para a viva esperança, aleluia,
+R. Pela ressurreição do Senhor dentre os mortos. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {22,10-21}
+
+@tema
+O testemunho da nossa esperança
+
+@texto
+[10] O anjo disse-me a mim, João: “Não guardes em segredo as palavras deste livro, pois o tempo marcado está próximo. [11] O malfeitor continue fazendo o mal, o sujo continue a sujar-se; todavia, que o justo continue praticando a justiça e o santo santifique-se ainda mais. [12] Eis que venho em breve, trazendo comigo a minha recompensa, para retribuir a cada um segundo as suas obras. [13] Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Começo e o Fim. [14] Felizes os que lavam suas vestes, assim poderão dispor da árvore da vida e entrar na cidade pelas portas. [15] Mas ficarão de fora os cães, os feiticeiros, os imorais, os assassinos e os idólatras, e todos os que amam e praticam a mentira. [16] Eu, Jesus, enviei o meu anjo, para vos dar este testemunho sobre as Igrejas. Eu sou o rebento e a linhagem de Davi. Eu sou a brilhante estrela da manhã”. [17] O Espírito e a Esposa dizem: “Vem”! Aquele que ouve esta profecia também diga: “Vem”! Quem tem sede, venha, e quem quiser, receba de graça a água da vida. [18] Para todo o que ouve a palavra da profecia deste livro vai aqui o meu testemunho: se alguém lhe acrescentar qualquer coisa, Deus lhe acrescentará as pragas que estão aqui descritas. [19] E se alguém retirar algo das palavras do livro desta profecia, Deus lhe retirará a sua parte da árvore da vida e da Cidade Santa, que se encontram descritas neste livro. [20] Aquele que dá testemunho destas coisas diz: “Sim, eu venho em breve”. Amém! Vem, Senhor Jesus! [21] A graça do Senhor Jesus esteja com todos. Amém.
+
+@secao Responsório | Ap 22,16b.17ab.20c; Is 55,1a.3a
+
+@responsorio
+R. Sou o rebento da estirpe de Davi,
+a estrela fulgurante da manhã.
+O Espírito e a Esposa dizem: “Vem!”
+* E quem ouve, igualmente, diga: “Vem!”
+Amém! Vem, ó Senhor Jesus! Amém! Aleluia!
+V. Todos vós, que estais sedentos, vinde às águas!
+Inclinai o vosso ouvido e vinde a mim! * E quem ouve.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os salmos, de Santo Agostinho, bispo
+{(Séc. V)} {(Ps 148,1-2: CCL 40,2165-2166)}
+
+@tema
+O aleluia pascal
+
+@texto
+Toda a nossa vida presente deve transcorrer no louvor de Deus, porque louvar a Deus será também a alegria eterna de nossa vida futura. Ora, ninguém pode tornar-se apto para a vida futura se, desde já, não se prepara para ela. Agora louvamos a Deus, mas também rogamos a Deus. Nosso louvor está cheio de alegrias, e nossa oração, de gemidos. Foi-nos prometido algo que ainda não possuímos; porém, por ser feliz quem o prometeu, alegramo-nos na esperança; mas, como ainda não estamos na posse da promessa, gememos de ansiedade. É bom perseverarmos no desejo, até que a promessa se realize; então acabará o gemido e permanecerá somente o louvor. Assim podemos considerar duas fases da nossa existência: a primeira, que acontece agora em meio às tentações e dificuldades da vida presente; e a segunda, que virá depois na segurança e alegria eterna. Por isso, foram instituídas para nós duas celebrações: a do tempo antes da Páscoa e a do tempo depois da Páscoa. O tempo antes da Páscoa representa as tribulações que passamos nesta vida. O que celebramos agora, depois da Páscoa, significa a felicidade que alcançamos na vida futura. Portanto, antes da Páscoa celebramos o que estamos vivendo; depois da Páscoa celebramos e significamos o que ainda não possuímos. Eis porque passamos o primeiro tempo em jejuns e orações; no segundo, porém, que estamos celebrando, deixando os jejuns, nos dedicamos ao louvor de Deus. É este o significado do _Aleluia_ que cantamos. Em Cristo, nossa cabeça, ambos os tempos foram figurados e manifestados. A paixão do Senhor mostra-nos as dificuldades da vida presente, em que é preciso trabalhar, sofrer e por fim morrer. A ressurreição e glorificação do Senhor nos revelam a vida que um dia nos será dada. Agora, pois, irmãos, vos exortamos a louvar a Deus. É isto o que todos nós exprimimos mutuamente quando cantamos: _Aleluia._ Louvai o Senhor, dizemos nós uns aos outros. E assim todos põem em prática aquilo que se exortam mutuamente. Mas louvai-o com todas as vossas forças, isto é, louvai a Deus não só com a língua e a voz, mas também com a vossa consciência, vossa vida, vossas ações. Na verdade, louvamos a Deus agora que nos encontramos reunidos na igreja. Mas logo ao voltarmos para casa, parece que deixamos de louvar a Deus. Não deixes de viver santamente e louvarás sempre a Deus. Deixas de louvá-lo quando te afastas da justiça e do que lhe agrada. Mas, se nunca te desviares do bom caminho, ainda que tua língua se cale, tua vida clamará; e o ouvido de Deus estará perto do teu coração. Porque assim como nossos ouvidos escutam nossas palavras, assim os ouvidos de Deus escutam nossos pensamentos.
+
+@secao Responsório | Jo 16,20b
+
+@responsorio
+R. Vossa tristeza
+* Vai mudar-se em alegria. Aleluia.
+V. O mundo vai se alegrar, vós haveis de entristecer-vos,
+porém, vossa tristeza. * Vai mudar-se.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, vós nos fizestes participar de vossa própria vida pelo novo nascimento do batismo; conduzi à plenitude da glória aqueles a quem concedestes, pela justificação, o dom da imortalidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

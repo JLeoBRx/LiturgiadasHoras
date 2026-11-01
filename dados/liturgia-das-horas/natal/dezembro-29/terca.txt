@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/29dezembro_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar,
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-118-57-64
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | Tt 2,11-12
+
+@texto
+A graça de Deus se manifestou trazendo salvação para todos os homens. Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade.
+
+@texto
+V. O Senhor recordou seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus invisível e todo-poderoso, que dissipastes as trevas do mundo com a vinda da vossa luz, volvei para nós o vosso olhar, a fim de que proclamemos dignamente a maravilhosa natividade de vosso Filho Unigênito. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

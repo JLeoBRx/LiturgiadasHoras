@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saofilipeetiago.htm
+@documento Ofício das Leituras - São Filipe E São Tiago, Apóstolos Festa
+
+@celebracao
+SÃO FILIPE E SÃO TIAGO, APÓSTOLOS
+{Festa}
+
+@biografia
+Filipe, nascido em Betsaida, foi primeiramente discípulo de João Batista e depois seguiu a Cristo. Tiago, primo do Senhor, filho de Alfeu, governou a Igreja de Jerusalém e escreveu uma Carta. Levou uma vida de muita austeridade e converteu muitos judeus à fé. Recebeu a coroa do martírio no ano 62.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Filipe, te assemelhas
+a Pedro em seu amor:
+mostraste, tu e teu chefe,
+o mesmo impulso e ardor.
+
+E Cristo, tão bondoso,
+esclarecer-te vai:
+“Se há tanto me contemplas,
+Filipe, viste o Pai!”
+
+Mas não menor, Tiago,
+demonstras teu ardor,
+coluna que és da Igreja,
+irmão que és do Senhor.
+
+Primeiro a presidir
+a Igreja de Sião,
+nos dás em tua carta
+a Lei da Salvação.
+
+Ó mártires ilustres,
+faróis de tanta luz,
+na fé e na esperança,
+já vemos a Jesus.
+
+E um dia em plena glória,
+então sem véu algum,
+vejamos face a face o Deus
+que é trino e um!
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder. Aleluia.
+R. E as suas maravilhas que por nós realizou. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {5,12-32}
+
+@tema
+Os Apóstolos na Igreja nascente
+
+@texto
+Naqueles dias: [12] Muitos sinais e maravilhas eram realizados entre o povo pelas mãos dos apóstolos. Todos os fiéis se reuniam, com muita união, no Pórtico de Salomão. [13] Nenhum dos outros ousava juntar-se a eles, mas o povo estimava-os muito. [14] Crescia sempre mais o número dos que aderiam ao Senhor pela fé; era uma multidão de homens e mulheres. [15] Chegavam a transportar para as praças os doentes em camas e macas, a fim de que, quando Pedro passasse pelo menos a sua sombra tocasse alguns deles. [16] A multidão vinha até das cidades vizinhas de Jerusalém, trazendo doentes e pessoas atormentadas por maus espíritos. E todos eram curados. [17] Levantaram-se o sumo-sacerdote e todos os do seu partido - isto é, o partido dos saduceus - cheios de raiva [18] e mandaram prender os apóstolos e lançá-los na cadeia pública. [19] Porém, durante a noite, o anjo do Senhor abriu as portas da prisão e os fez sair, dizendo: [20] "Ide falar ao povo, no Templo, sobre tudo o que se refere a este modo de viver". [21] Eles obedeceram e, ao amanhecer, entraram no Templo e começaram a ensinar. O sumo-sacerdote chegou com os seus partidários e invocou o Sinédrio e o Conselho formado pelas pessoas importantes do povo de Israel. Então mandaram buscar os apóstolos à prisão. [22] Mas, ao chegarem à prisão, os servos não os encontraram e voltaram dizendo: [23] "Encontramos a prisão fechada, com toda segurança, e os guardas estavam a postos na frente da porta. Mas, quando abrimos a porta, não encontramos ninguém lá dentro." [24] Ao ouvirem essa notícia, o chefe da guarda do Templo e os sumos-sacerdotes não sabiam o que pensar e perguntavam-se o que poderia ter acontecido. [25] Chegou alguém que lhes disse: "Os homens que vós colocastes na prisão estão no Templo ensinando o povo!" [26] Então o chefe da guarda do Templo saiu com os guardas e trouxe os apóstolos, mas sem violência, porque eles tinham medo que o povo os atacasse com pedras. [27] Eles levaram os apóstolos e os apresentaram ao Sinédrio. O sumo-sacerdote começou a interrogá-los, [28] dizendo: "Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus. Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina. E ainda nos quereis tornar responsáveis pela morte desse homem!" [29] Então Pedro e os outros apóstolos responderam: "É preciso obedecer a Deus, antes que aos homens. [30] O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. [31] Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. [32] E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem".
+
+@secao Responsório | Cf. At 4,33.31b
+
+@responsorio
+R. Com grande coragem, os Apóstolos
+testemunhavam a ressurreição
+de Nosso Senhor Jesus Cristo.
+* E tinham grande aceitação entre o povo. Aleluia.
+V. Repletos do Espírito Santo, confiantes, sem nada temer
+anunciavam a Palavra de Deus. * E tinham.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a prescrição dos hereges, de Tertuliano, presbítero
+
+@tema
+(Cap. 20,1-9; 21,3; 22,8-10: CCL 1,201-204) (Séc. III) A pregação apostólica
+
+@texto
+Cristo Jesus, nosso Senhor, durante a sua vida terrena, ensinou quem era ele, quem tinha sido desde sempre, qual era a vontade do Pai que vinha cumprir e qual devia ser o comportamento do homem. Ensinava estas coisas ora em público, diante de todo o povo, ora em particular, aos seus discípulos. Dentre estes escolheu doze para estarem a seu lado, e que destinou para serem os principais mestres das nações. Quando, depois da sua ressurreição, estava prestes a voltar para o Pai, ordenou aos onze – pois um deles se havia perdido – que fossem ensinar a todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo. Imediatamente os apóstolos (palavra que significa “enviados”) chamaram por sorteio a Matias como duodécimo para ocupar o lugar de Judas, segundo a profecia contida num salmo de Davi. Depois de receberem a força do Espírito Santo com o dom de falar e de realizar milagres, começaram a dar testemunho da fé em Jesus Cristo na Judéia, onde fundaram Igrejas; partiram em seguida por todo o mundo, proclamando a mesma doutrina e a mesma fé entre os povos. Em cada cidade por onde passaram fundaram Igrejas, nas quais outras Igrejas que se fundaram e continuam a ser fundadas foram buscar mudas de fé e sementes de doutrina. Por esta razão, são também consideradas apostólicas, porque descendem das Igrejas dos apóstolos. Toda família deve ser necessariamente considerada segundo sua origem. Por isso, apesar de serem tão numerosas e tão importantes, estas Igrejas não formam senão uma só Igreja: a primeira, que foi fundada pelos apóstolos e que é origem de todas as outras. Assim, todas elas são primeiras e apostólicas, porque todas formam uma só. A comunhão na paz, a mesma linguagem da fraternidade e os laços de hospitalidade manifestam a sua unidade. Estes direitos só têm uma razão de ser: a unidade da mesma tradição sacramental. Se quisermos saber o conteúdo da pregação dos apóstolos, e, portanto, aquilo que Jesus Cristo lhes revelou, é preciso recorrer a estas mesmas Igrejas fundadas pelos próprios apóstolos e às quais pregaram quer de viva voz, quer por seus escritos. O Senhor realmente havia dito em certa ocasião: _Tenho ainda muitas coisas a dizer-vos, mas não sois capazes de as compreender agora;_ e acrescentou: _quando, porém, vier o Espírito da Verdade, ele vos conduzirá à plena verdade_ (Jo 16,12-13). Com estas palavras revelou aos apóstolos que nada ficariam ignorando, porque prometeu-lhes o Espírito da Verdade que os levaria ao conhecimento da _plena verdade._ E, sem dúvida alguma, esta promessa foi cumprida, como provam os Atos dos Apóstolos ao narrarem a descida do Espírito Santo.
+
+@secao Responsório | Jo 12,21-22; Rm 9,26 (cf. Os 2,1b)
+
+@responsorio
+R. Vieram alguns gregos a Filipe,
+fazendo-lhe o seguinte pedido:
+Senhor, queremos ver a Jesus.
+* Filipe foi dizê-lo a André,
+e Filipe e André, por sua vez, o disseram a Jesus, aleluia.
+V. E irá acontecer, que no lugar onde foi dito:
+Vós não sois o povo meu,
+mesmo ali serão chamados de filhos do Deus vivo. * Filipe foi dizê-lo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, vós nos alegrais cada ano com a festa dos apóstolos São Filipe e São Tiago. Concedei-nos, por suas preces, participar de tal modo da paixão e ressurreição do vosso Filho que vejamos eternamente a vossa face. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

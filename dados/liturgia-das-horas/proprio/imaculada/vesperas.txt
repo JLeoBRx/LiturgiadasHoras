@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/imaculada_vesperas.htm
+@documento Vésperas - Imaculada Conceição da Bem-aventurada Virgem Maria
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Virgem Mãe de Deus,
+das virgens guardiã,
+ó porta azul dos céus,
+estrela da manhã.
+
+És lírio entre os espinhos,
+és pura sem igual,
+brilhando nos caminhos
+da culpa original.
+
+Estrela na procela,
+tu és nossa esperança:
+o porto se revela
+e a nau, segura, avança.
+
+És torre inabalada,
+farol que nos conduz,
+trazendo, imaculada,
+o bálsamo: Jesus.
+
+A culpa onipresente
+não mancha a tua aurora:
+venceste a vil serpente.
+Protege-nos agora!
+
+És mãe, esposa e filha
+do Deus que é uno e trino:
+tão grande maravilha
+cantamos neste hino.
+
+@secao Salmodia
+
+@antifona 1
+Toda bela sois, Maria, sem a mancha original!
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Toda bela sois, Maria, sem a mancha original!
+
+@antifona 2
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade!
+
+@antifona 3
+Vossa veste resplandece de pureza,
+vossa face, como o sol, nos ilumina.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Vossa veste resplandece de pureza,
+vossa face, como o sol, nos ilumina.
+
+@secao Leitura breve | Rm 5,20b-21
+
+@texto
+Onde se multiplicou o pecado, aí superabundou a graça. Enfim, como o pecado tem reinado pela morte, que a graça reine pela justiça, para a vida eterna, por Jesus Cristo, senhor nosso.
+
+@secao Responsório breve
+
+@responsorio
+R. Foi nisto que eu vi.
+* Porque vós me escolhestes. R. Foi nisto.
+V. Porque não triunfou sobre mim o inimigo. * Porque vós.
+Glória ao Pai. R. Foi nisto.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo,
+és bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo,
+és bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre. Aleluia.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso! Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a Mãe da misericórdia,
+– concedei a todos os que estão em perigo sentirem o seu amor materno. R.
+
+Vós, que confiastes a Maria a missão da mãe de família no lar de Jesus e José,
+– fazei que, por sua intercessão, todas as mães vivam em família o amor e a santidade. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

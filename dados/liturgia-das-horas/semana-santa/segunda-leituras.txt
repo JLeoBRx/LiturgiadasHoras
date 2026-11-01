@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/segundafeirasanta.htm
+@documento Ofício das Leituras - Segunda-Feira Santa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@salmo salmos/salmo-030-2-17-20-25-i
+
+@gloria
+
+@antifona
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@antifona 2
+Mostrai serena a vossa face ao vosso servo.
+
+@salmo salmos/salmo-030-2-17-20-25-ii
+
+@gloria
+
+@antifona
+Mostrai serena a vossa face ao vosso servo.
+
+@antifona 3
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!
+
+@salmo salmos/salmo-030-2-17-20-25-iii
+
+@gloria
+
+@antifona
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {10,19-39}
+
+@tema
+Perseverança na fé. Expectativa do dia do julgamento
+
+@texto
+[19] Irmãos, temos plena liberdade para entrar no Santuário, pelo sangue de Jesus. [20] Ele nos abriu um caminho novo e vivo, através da cortina,quer dizer, através da sua humanidade. [21] Temos um grande sacerdote constituído sobre a casa de Deus. [22] Aproximemo-nos, portanto, de coração sincero e cheio de fé, com coração purificado de toda a má consciência e o corpo lavado com água pura. [23] Sem desânimo, continuemos a afirmar a nossa esperança, porque é fiel quem fez a promessa. [24] Sejamos atentos uns aos outros, para nos incentivar à caridade e às boas obras. [25] Não abandonemos as nossas assembleias, como alguns costumam fazer. Antes, procuremos animar-nos mutuamente, e tanto mais quanto vedes o dia aproximar-se. [26] De fato, se preferirmos continuar pecando, depois de termos recebido o conhecimento da verdade, já não há sacrifícios que possam tirar os nossos pecados. [27] Fica apenas a terrível expectativa do julgamento e o ardor de um fogo para devorar os rebeldes. [28] Quem desobedece à Lei de Moisés, é condenado à morte, sem piedade, tendo como base o testemunho de duas ou três pessoas. [29] Podeis então imaginar o castigo bem mais severo, que merecerá aquele que pisou o Filho de Deus, que profanou o sangue da Aliança, pelo qual foi santificado, e que insultou o Espírito da graça! [30] Conhecemos aquele que disse: “A mim pertence a vingança, eu é que retribuirei”. E ainda: “O Senhor julgará o seu povo”. [31] É terrível cair nas mãos do Deus vivo! [32] Lembrai-vos dos primeiros dias, quando, apenas iluminados, suportastes longas e dolorosas lutas. [33] Às vezes, éreis apresentados como espetáculo, debaixo de injúrias e tribulações; outras vezes vos tornáveis solidários dos que assim eram tratados. [34] Com efeito, participastes dos sofrimentos dos prisioneiros e aceitastes com alegria o confisco dos vossos bens, na certeza de possuir uma riqueza melhor e mais durável. [35] Não abandoneis, pois, a vossa coragem, que merece grande recompensa. [36] De fato, precisais de perseverança para cumprir a vontade de Deus e alcançar o que ele prometeu. [37] Porque ainda bem pouco tempo, e aquele que deve vir, virá e não tardará. [38] O meu justo viverá por causa de sua fidelidade, mas, se esmorecer, não encontrarei mais satisfação nele. [39] Nós não somos desertores, para a perdição. Somos homens da fé, para a salvação da alma.
+
+@secao Responsório | Hb 10,35a.36; Lc 21,19
+
+@responsorio
+R. Não percais a confiança na palavra do Senhor;
+é preciso ter constância
+* Em fazer sua vontade e alcançar suas promessas.
+V. Pela vossa persistência, salvareis as vossas vidas. * Em fazer.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo Guelferbytanus 3:PLS 2,545-546)}
+
+@tema
+Gloriemo-nos também nós na Cruz do Senhor!
+
+@texto
+A Paixão de nosso Senhor e Salvador Jesus Cristo é para nós penhor de glória e exemplo de paciência. Haverá alguma coisa que não possam esperar da graça divina os corações dos fiéis, pelos quais o Filho unigênito de Deus, eterno como o Pai, não apenas quis nascer como homem entre os homens, mas quis também morrer pelas mãos dos homens que tinha criado? Grandes coisas o Senhor nos promete no futuro! Mas o que ele já fez por nós e agora celebramos é ainda muito maior. Onde estávamos ou quem éramos, quando Cristo morreu por nós pecadores? Quem pode duvidar que ele dará a vida aos seus fiéis, quando já lhes deu até a sua morte? Por que a fraqueza humana ainda hesita em acreditar que um dia os homens viverão em Deus? Muito mais incrível é o que já aconteceu: Deus morreu pelos homens. Quem é Cristo senão aquele que _no princípio era a Palavra, e a Palavra estava com Deus: e a Palavra era Deus?_ (Jo 1,1). Essa Palavra de Deus _se fez carne e habitou entre nós_ (Jo 1,14). Se não tivesse tomado da nossa natureza a carne mortal, Cristo não teria possibilidade de morrer por nós. Mas deste modo o imortal pôde morrer e dar sua vida aos mortais. Fez-se participante de nossa morte para nos tornar participantes da sua vida. De fato, assim como os homens, pela sua natureza, não tinham possibilidade alguma de alcançar a vida, também ele, pela sua natureza, não tinha possibilidade alguma de sofrer a morte. Por isso entrou, de modo admirável, em comunhão conosco: de nós assumiu a mortalidade, o que lhe possibilitou morrer; e dele recebemos a vida. Portanto, de modo algum devemos envergonhar-nos da morte de nosso Deus e Senhor; pelo contrário, nela devemos confiar e gloriar-nos acima de tudo. Pois tomando sobre si a morte que em nós encontrou, garantiu com total fidelidade dar-nos a vida que não podíamos obter por nós mesmos. Se ele tanto nos amou, a ponto de, sem pecado, sofrer por nós pecadores, como não dará o que merecemos por justiça, fruto da sua justificação? Como não dará a recompensa aos justos, ele que é fiel em suas promessas e, sem pecado, suportou o castigo dos pecadores? Reconheçamos corajosamente, irmãos, e proclamemos bem alto que Cristo foi crucificado por amor de nós; digamos não com temor, mas com alegria, não com vergonha, mas com santo orgulho. O apóstolo Paulo compreendeu bem esse mistério e o proclamou como um título de glória. Ele, que teria muitas coisas grandiosas e divinas para recordar a respeito de Cristo, não disse que se gloriava dessas grandezas admiráveis – por exemplo, que sendo Cristo Deus como o Pai, criou o mundo; e, sendo homem como nós, manifestou o seu domínio sobre o mundo – mas afirmou: _Quanto a mim, que eu me glorie somente na cruz do Senhor nosso, Jesus Cristo_ (Gl 6,14).
+
+@secao Responsório
+
+@responsorio
+R. Adoramos, Senhor, a vossa cruz,
+vossa paixão gloriosa recordamos.
+* Vós que sofrestes por nós, tende piedade!
+V. Suplicantes, Senhor, vos imploramos: vinde logo ajudar os vossos servos, que remistes pelo sangue precioso. * Vós que sofrestes.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo, que desfalece por sua fraqueza, recobrar novo alento pela Paixão do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

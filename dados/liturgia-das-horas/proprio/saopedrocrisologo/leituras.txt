@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopedrocrisologo.htm
+@documento Ofício das Leituras - São Pedro Crisólogo, Bispo E Doutor Da Igreja
+
+@celebracao
+SÃO PEDRO CRISÓLOGO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu por volta do ano 380, em Forum de Cornélio (Ímola), na Emília, e ali fez parte de seu clero. Em 424, eleito bispo de Ravena, instruiu por sermões e atos seu rebanho, ao qual se dedicou sem medida. Morreu pelo ano de 450.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Pedro Crisólogo, bispo
+{(Séc. V)} {(Sermo 148: PL 52, 596-598)}
+
+@tema
+O mistério da encarnação
+
+@texto
+Se uma virgem concebe, virgem dá à luz e permanece virgem; isto não é costume, mas um sinal; não é normal, mas virtude, é o Criador, não a natureza; não é comum, mas único; é divino, não humano. Que Cristo nascesse não veio de uma necessidade, mas de seu poder; foi o mistério da piedade, a reparação da salvação humana. Quem, sem nascimento, fez o homem da argila intacta, nascendo, fez um homem, de um corpo intacto. As mãos que se dignaram pegar no barro para nos plasmar, também se dignaram assumir a carne para nossa recriação. Por conseguinte, se o Criador se encontra em sua criatura, se Deus está na carne, é honra para a criatura, não é injúria para o Criador.
+Homem, por que és tão vil a teus olhos, tu que és tão precioso para Deus? Por que, tão honrado por Deus, te desonras a ti mesmo deste modo? Por que indagas donde foste feito e não te preocupas para o que foste feito? Esta casa do mundo que vês, não foi toda ela feita para ti? A luz que te foi dada afasta as trevas que te cercam; por tua causa, foi regulada a noite, medido o dia; para ti o céu, com os vários fulgores do sol, da lua, das estrelas, se irradia, para ti a terra se embeleza de flores, de bosques, de frutos; para ti foi criada no ar, nos campos, na água, linda multidão formada de animais estupendos, para que a triste solidão não perturbasse a alegria do novo mundo.
+O Criador ainda imagina algo mais para tua honra: põe em ti sua imagem, para que a imagem visível torne presente na terra o invisível Criador; e te colocou no mundo como seu representante, para que tão vasto domínio do universo não fosse lesado por esse representante do Senhor. Aquilo que por si mesmo fez em ti, Deus, com clemência assumiu em si; e quis ser verdadeiramente visto no homem, em quem antes apenas aparecia em imagem. Concedeu que fosse a realidade quem antes recebera ser a semelhança.
+Nasce, portanto, Cristo, a fim de por seu nascimento tornar de novo íntegra a natureza; aceita a infância, sujeita-se a ser nutrido, cresce pelo passar dos anos, para renovar a idade una, perfeita e eterna, que ele mesmo fizera; traz em si o homem, de forma a não mais poder cair; a quem fizera terreno, fá-lo celeste; ao animado apenas pelo espírito humano, vivifica pelo espírito divino; e assim leva-o todo para Deus, de modo que nada de pecado, de morte, de sofrimento, de dores, tudo de terreno, nada reste, pelo dom de nosso Senhor Jesus Cristo, que com o Pai vive e reina na unidade do Espírito Santo, Deus, agora e sempre pelos séculos infinitos. Amém.
+
+@secao Responsório | Cf. 1Pd 2,4a.5a; Sl 117(118),22b
+
+@responsorio
+R.Aproximai-vos do Senhor, a Pedra viva,
+* E quais outras pedras vivas, também vós,
+construí-vos como casa espiritual;
+dedicai-vos a um santo sacerdócio,
+oferecendo sacrifícios espirituais
+agradáveis a Deus Pai, por Jesus Cristo.
+V. A pedra, que os pedreiros rejeitaram,
+tornou-se agora a pedra angular.* E quais outras.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes do bispo São Pedro Crisólogo egrégio pregador do vosso Verbo encarnado, concedei-nos por suas preces meditar sempre os mistérios da salvação e anunciá-los em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

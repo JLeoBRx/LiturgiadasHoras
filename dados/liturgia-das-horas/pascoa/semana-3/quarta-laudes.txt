@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3quartapascoa_laudes.htm
+@documento Laudes - Quarta-feira da 3ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+As nações que criastes virão adorar vosso nome, aleluia.
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+As nações que criastes virão adorar vosso nome, aleluia.
+
+@antifona 2
+Os nossos olhos verão o Cristo, Rei glorioso. Aleluia.
+
+@salmo canticos/is-33-13-16
+
+@gloria
+
+@antifona
+Os nossos olhos verão o Cristo, Rei glorioso. Aleluia.
+
+@antifona 3
+Todo homem há de ver a salvação de nosso Deus. Aleluia.
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+Todo homem há de ver a salvação de nosso Deus. Aleluia.
+
+@secao Leitura breve | Rm 6, 8-11
+
+@texto
+Se morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele. Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive. Assim, vós também considerai-vos mortos para o pecado e vivos para Deus, em Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem vê o Filho e nele crê este tem a vida eterna,
+e eu o farei ressuscitar no último dia. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem vê o Filho e nele crê este tem a vida eterna,
+e eu o farei ressuscitar no último dia. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Jesus Cristo, que se entregou à morte por nossos pecados e ressuscitou para nossa justificação; e aclamemos:
+
+R. **Salvai-nos, Senhor, pela vossa vitória!**
+
+Cristo Salvador, que ressuscitando de entre os mortos nos restituístes a esperança da vida imortal,
+– santificai neste dia os nossos corações com a graça do Espírito Santo. R.
+
+Vós, que viveis e reinais gloriosamente na assembleia dos anjos e dos santos,
+– recebei a adoração que vos prestamos em espírito e em verdade neste tempo santo da ressurreição. R.
+
+Cristo Jesus, salvai-nos e derramai a vossa misericórdia sobre o povo que vive na esperança da ressurreição,
+– conservai-nos, hoje e sempre, livres de todo o mal. R.
+
+Cristo, rei da glória e nossa vida, reuni todos os fiéis na alegria que não tem fim,
+– quando vierdes, no último dia, manifestar ao mundo a glória de vosso poder eterno. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Permanecei, ó Pai, com vossa família e, na vossa bondade fazei que participem eternamente da ressurreição do vosso Filho aqueles a quem destes a graça da fé. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

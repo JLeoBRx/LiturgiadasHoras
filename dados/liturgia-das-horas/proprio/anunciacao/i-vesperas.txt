@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anunciacao_Ivesperas.htm
+@documento I Vésperas - Anunciação do Senhor
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(T.P.} Aleluia)
+
+@secao Hino
+
+@hino
+Reconheça o mundo inteiro
+ter chegado a salvação:
+cessa o jugo do pecado,
+aparece a Redenção.
+
+Já se cumpre a profecia:
+uma virgem dá à luz;
+Gabriel vem a Maria,
+anuncia-lhe Jesus.
+
+Do Espírito concebe
+a que nele acreditou,
+e O que não cabe no mundo
+no seu seio se encerrou.
+
+O que o velho Adão manchara
+vem lavar o novo Adão;
+o que o orgulho destruíra
+reconstrói pela Paixão.
+
+Toda a glória seja ao Filho,
+que por nós do Pai desceu,
+quando à sombra do Paráclito
+uma virgem concebeu.
+
+@secao Salmodia
+
+@antifona 1
+A raiz de Jessé haverá de brotar;
+e haverá de surgir uma flor de seu ramo;
+pousará sobre ele o Espírito Santo {(T.P.} Aleluia.)
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+A raiz de Jessé haverá de brotar;
+e haverá de surgir uma flor de seu ramo;
+pousará sobre ele o Espírito Santo {(T.P.} Aleluia.)
+
+@antifona 2
+O Senhor vai dar-lhe o trono de seu pai, o rei Davi;
+e reinará eternamente {(T.P.} Aleluia.)
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+O Senhor vai dar-lhe o trono de seu pai, o rei Davi;
+e reinará eternamente {(T.P.} Aleluia.)
+
+@antifona 3
+Hoje o Verbo Divino, gerado pelo Pai
+já bem antes dos tempos, humilhou-se a si mesmo
+e por nós se fez homem {(T.P.} Aleluia.)
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Hoje o Verbo Divino, gerado pelo Pai
+já bem antes dos tempos, humilhou-se a si mesmo
+e por nós se fez homem {(T.P.} Aleluia.)
+
+@secao Leitura breve | 1Jo 1,1-2
+
+@texto
+O que era desde o princípio, o que nós ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram da Palavra da Vida, de fato, a Vida manifestou-se e nós a vimos, e somos testemunhas, e a vós anunciamos a Vida eterna, que estava junto do Pai e que se tornou visível para nós.
+
+@secao Responsório breve
+
+@responsorio
+{Na Quaresma}
+R. A raiz de Jessé germinou.
+* A estrela de Jacó despontou. R. A raiz.
+V. Da Virgem nasceu o Salvador. * A estrela.
+Glória ao Pai. R. A raiz.
+
+{No Tempo pascal}
+R. A raiz de Jessé germinou, a estrela de Jacó despontou.
+* Aleluia, aleluia. R. A raiz.
+V. Da Virgem nasceu o Salvador. * Aleluia.
+Glória ao Pai. R. A raiz.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Não temas, Maria: O Espírito Santo virá sobre ti,
+e o poder do Altíssimo te cobrirá com sua sombra
+{(T.P.} Aleluia.)
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Não temas, Maria: O Espírito Santo virá sobre ti,
+e o poder do Altíssimo te cobrirá com sua sombra
+{(T.P.} Aleluia.)
+
+@secao Preces
+
+@preces
+Invoquemos com toda confiança o eterno Pai, que hoje, por meio do anjo, anunciou a Maria a nossa salvação; e digamos:
+
+R. **Dai-nos, Senhor, a vossa graça!**
+
+Vós, que escolhestes a Virgem Maria para ser a Mãe do vosso Filho,
+– compadecei-vos de todos os que esperam a sua redenção. R.
+
+Vós, que, por meio do anjo Gabriel, anunciastes a Maria a alegria e a paz,
+– dai ao mundo inteiro a alegria da salvação e a paz verdadeira. R.
+
+Vós, que, pela aceitação de vossa serva e por obra do Espírito Santo, quisestes que vossa Palavra viesse morar entre nós,
+– preparai os nossos corações para receber a Cristo do mesmo modo que a Virgem Maria o recebeu. R.
+
+Vós, que elevais os humildes e saciais os que têm fome,
+– animai os que estão abatidos, socorrei os necessitados e ajudai os agonizantes. R.
+
+{(intenções livres)}
+
+Deus de infinita bondade, que realizais maravilhas e para quem nada é impossível,
+– salvai-nos, junto com os que já morreram, na ressurreição do último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

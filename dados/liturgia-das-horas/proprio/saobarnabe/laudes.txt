@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saobarnabe_laudes.htm
+@documento Laudes - São Barnabé, Apóstolo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Celebramos a bela vitória
+do discípulo fiel, Barnabé,
+que foi digno de grande coroa,
+padecendo por causa da fé.
+
+Deixa as lidas do campo, animado
+pela fé que opera no amor,
+para ver florescer novo povo
+de cristãos, consagrado ao Senhor.
+
+Vai contente à procura de Paulo,
+companheiro na fé, no dever,
+e com ele, ao aceno do Espírito,
+muitas plagas irá percorrer.
+
+Para si coisa alguma conserva,
+e atrai a muitos a Cristo Jesus,
+até ser consagrado no sangue
+e empunhar uma palma de luz.
+
+Pela prece do servo fiel,
+dai, ó Deus, que sigamos também
+os caminhos da graça e da vida
+e no céu vos louvemos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@antifona 2
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@antifona 3
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@secao Leitura breve | 1Cor 15,1-2a.3-4
+
+@texto
+Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes. Por ele sois salvos, se o estais guardando tal qual ele vos foi pregado por mim. Com efeito, transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber: que Cristo morreu por nossos pecados, segundo as Escrituras; que foi sepultado; que, ao terceiro dia, ressuscitou, segundo as Escrituras.
+
+@secao Responsório breve
+
+@responsorio
+R. Eles contaram as grandezas
+* Do Senhor e seu poder. R. Eles contaram.
+V. E as suas maravilhas que por nós realizou. * Do Senhor.
+Glória ao Pai. R. Eles contaram.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Barnabé conduziu Paulo à Igreja de Antioquia,
+e ali anunciaram a palavra do Senhor
+a uma grande multidão. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Barnabé conduziu Paulo à Igreja de Antioquia,
+e ali anunciaram a palavra do Senhor
+a uma grande multidão. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos nosso Salvador que, destruindo a morte, iluminou a vida por meio do Evangelho; e peçamos humildemente:
+
+R. **Confirmai a vossa Igreja na fé e na caridade!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes doutores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que designastes São Barnabé, cheio de fé e do Espírito Santo, para converter as nações, fazei que a vossa Igreja anuncie por palavras e atos o Evangelho de Cristo que ele proclamou intrepidamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

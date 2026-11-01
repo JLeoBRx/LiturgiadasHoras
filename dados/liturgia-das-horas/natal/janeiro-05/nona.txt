@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/5janeiro_nona.htm
+@documento 5janeiro_nona.htm
+
+@secao Leitura breve | Mq 2,12
+
+@texto
+Farei de ti, Jacó, uma grande comunidade; reunirei num só lugar os remanescentes de Israel, cuidarei dele, como do rebanho no curral, ou como de ovelhas no meio da pastagem.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, iniciastes maravilhosamente a redenção do vosso povo. Concedei a vossos servos uma fé tão firme, que nos deixemos conduzir por ele e cheguemos à glória prometida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

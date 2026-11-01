@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoaquimesantana_laudes.htm
+@documento Laudes - Santos Joaquim e Ana, pais da Bem-aventurada Virgem Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+A estrela d'alva já brilha,
+já nova aurora reluz,
+o sol nascente vem vindo
+e banha o mundo de luz.
+
+Cristo é o sol da justiça.
+Maria, aurora radiante.
+Da lei a treva expulsando,
+ó Ana, vais adiante.
+
+Ana, fecunda raiz,
+que de Jessé germinou,
+produz o ramo florido
+do qual o Cristo brotou.
+
+Mãe da Mãe santa de Cristo,
+e tu, Joaquim, santo pai,
+pelas grandezas da Filha,
+nosso pedido escutai.
+
+Louvor a vós, Jesus Cristo,
+que de uma Virgem nascestes.
+Louvor ao Pai e ao Espírito,
+lá nas alturas celestes.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@antifona 2
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@antifona 3
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@secao Leitura breve | Is 55,3
+
+@texto
+Inclinai vosso ouvido e vinde a mim, ouvi e tereis vida; farei convosco um pacto eterno, manterei fielmente as graças concedidas a Davi.
+
+@secao Responsório breve
+
+@responsorio
+R. Pelo amor do coração de nosso Deus,
+* Visitou-nos o Senhor, o Sol nascente. R. Pelo amor.
+V. Fez surgir a Jesus Cristo, o Salvador, descendente da família de Davi. * Visitou-nos.
+Glória ao Pai. R. Pelo amor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendito seja o Senhor Deus de Israel,
+que fez surgir um poderoso Salvador
+na casa de Davi, seu servidor!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendito seja o Senhor Deus de Israel,
+que fez surgir um poderoso Salvador
+na casa de Davi, seu servidor!
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus de nossos pais, que concedestes a São Joaquim e Sant'Ana a graça de darem a vida à Mãe de vosso Filho Jesus, fazei que, pela intercessão de ambos, alcancemos a salvação prometida a vosso povo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

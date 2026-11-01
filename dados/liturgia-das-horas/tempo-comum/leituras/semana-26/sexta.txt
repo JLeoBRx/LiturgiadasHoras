@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/26sextaTC.htm
+@documento Ofício das Leituras - SEXTA-FEIRA
+
+@titulo SEXTA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {3,17–4,9}
+
+@tema
+Permanecei firmes no Senhor
+
+@texto
+[3,17] Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. [18] Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. [19] O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. [20] Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor Jesus Cristo. [21] Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+[4,1] Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor. [2] Exorto Evódia e exorto Síntique a viverem de pleno acordo, no Senhor. [3] E tu, fiel companheiro, Sízigo, eu te peço que as ajudes, porque elas me ajudaram na luta do evangelho, na companhia de Clemente e todos os outros, cujos nomes estão inscritos no livro da vida.
+
+[4] Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. [5] Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo! [6] Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças. [7] E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus.
+
+[8] Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. [9] Praticai o que aprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco.
+
+@secao Responsório | Ef 4,17; 1Ts 5,15b-18
+
+@responsorio
+R. Meus irmãos, eu testifico e vos digo no Senhor:
+Não vivais como os pagãos, na ilusão de suas idéias,
+mas buscai constantemente o bem dos outros e de todos,
+* Pois esta é a vontade de Deus para convosco,
+em Cristo, Senhor nosso.
+V. Vivei sempre alegres, orai sem cessar,
+em tudo dai graças. * Pois esta.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Carta aos Filipenses, do Pseudo-Ambrósio
+{(Séc. IV)}{(PLS 1: 617-618)}
+
+@tema
+Alegrai-vos sempre no Senhor
+
+@texto
+Caríssimos irmãos, para nossa salvação a divina misericórdia nos chama às alegrias da eterna felicidade. Foi isto o que ouvistes há pouco na lição em que o Apóstolo dizia: _Alegrai-vos sempre no Senhor_ (Fl 4,4). As alegrias do mundo tendem para a eterna tristeza; mas as que brotam da vontade do Senhor levam os fiéis, que nelas perseveram, às alegrias duradouras e eternas. Por isso diz o Apóstolo: _De novo digo: Alegrai-vos_ (Fl 4,4).
+
+Ele incita a que cada vez mais cresça nossa alegria em Deus e a decisão de cumprir seus mandamentos. Porque, quanto mais lutarmos neste mundo por nos sujeitarmos aos preceitos de Deus, nosso Senhor, tanto mais seremos felizes na vida futura e tanto maior glória alcançaremos diante de Deus.
+
+_Seja vossa moderação conhecida por todos_ (Fl 4,5); quer dizer, que vosso santo modo de viver se manifeste não apenas diante de Deus, mas ainda diante dos homens. Seja exemplo de modéstia e de sobriedade para aqueles que convivem conosco na terra e deixe uma boa lembrança perante Deus e os homens.
+
+_O Senhor está perto; de nada vos inquieteis_ (Fl 4,5-6). O Senhor está sempre perto daqueles que o invocam na verdade, com fé integra, esperança firme, caridade perfeita. Ele sabe do que precisais, antes mesmo que o peçais. Está sempre pronto a vir em auxílio dos que o servem fielmente, em qualquer necessidade sua.
+
+Por conseguinte, não temos de preocupar-nos demais com as dificuldades iminentes, porque sabemos estar próximo Deus, nosso defensor, conforme foi dito: _O Senhor está junto dos que têm o coração atribulado e salva os humildes no espírito. Muitas as tribulações dos justos, porém, de todas elas o Senhor os livrará_ (Sl 33,19-20). Se nos esforçarmos por realizar e guardar o que ordenou, ele não tardará a nos dar o prometido.
+
+_Mas em tudo, por orações e súplicas acompanhadas de ação de graças, apresentai vossos pedidos a Deus_ (Fl 4,6): não aconteça que, aflitos, suportemos as tribulações com murmuração e tristeza. Isto nunca, mas com paciência e de rosto alegre, _dando sempre e por tudo graças a Deus_ (Ef 5,20).
+
+@secao Responsório | Sl 39(40),3b.4a.3a
+
+@responsorio
+R. O Senhor pôs meus pés sobre a rocha,
+devolveu a firmeza a meus passos.
+* Colocou canto novo em meus lábios,
+um poema em louvor ao Senhor.
+V. O Senhor escutou meu clamor,
+retirou-me da cova da morte. * Colocou.
+
+@secao Oração
+
+@oracao
+Ó Deus, que mostrais vosso poder sobretudo no perdão e na misericórdia, derramai sempre em nós a vossa graça, para que, caminhando ao encontro das vossas promessas, alcancemos os bens que nos reservais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

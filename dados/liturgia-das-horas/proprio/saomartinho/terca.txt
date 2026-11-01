@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomartinho_terca.htm
+@documento Hora Média - São Martinho de Tours, bispo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai. Aleluia.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai.
+
+@secao Leitura breve | 1Tm 4,16
+
+@texto
+Cuida de ti mesmo e daquilo que ensinas. Mostra-te perseverante. Assim te salvarás a ti mesmo e também àqueles que te escutam.
+
+@texto
+V. O Senhor escolheu o seu servo,
+R. Para ser o pastor de seu povo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fostes glorificado pela vida e a morte do bispo São Martinho, renovai em nossos corações as maravilhas da vossa graça, de modo que nem a morte nem a vida nos possam separar do vosso amor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

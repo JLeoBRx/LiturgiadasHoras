@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3sexta_leituras.htm
+@documento Ofício das Leituras - III Sexta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@salmo salmos/salmo-068-2-22-30-37-i
+
+@gloria
+
+@antifona
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@antifona 2
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@salmo salmos/salmo-068-2-22-30-37-ii
+
+@gloria
+
+@antifona
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@antifona 3
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@salmo salmos/salmo-068-2-22-30-37-iii
+
+@gloria
+
+@antifona
+Procurai o Senhor continuamente
+e o vosso coração reviverá.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natividade_laudes.htm
+@documento Laudes - Natividade da Bem-aventurada Virgem Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Dona e Senhora da terra,
+do céu Rainha sem par,
+Virgem Mãe que um Deus encerra,
+suave Estrela do mar!
+
+Tua beleza fulgura,
+cingida embora de véus,
+pois nos trouxeste, tão pura,
+o próprio Filho de Deus.
+
+Hoje é o teu dia: nasceste;
+vieste sem mancha à luz:
+com teu natal tu nos deste
+o do teu Filho Jesus.
+
+Em ti celeste e terrena,
+o nosso olhar se compraz,
+Rainha santa e serena,
+que a todos trazes a paz.
+
+Louvado o Deus trino seja,
+suba ao céu nosso louvor,
+pois quis tornar Mãe da Igreja
+a própria Mãe do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+É hoje o nascimento da Virgem gloriosa,
+descendente de Abraão e da tribo de Judá,
+nobre Filha de Davi.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+É hoje o nascimento da Virgem gloriosa,
+descendente de Abraão e da tribo de Judá,
+nobre Filha de Davi.
+
+@antifona 2
+Ao nascer a santa Virgem,
+iluminou-se o mundo inteiro:
+feliz estirpe, raiz santa, e bendito é o seu Fruto.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Ao nascer a santa Virgem,
+iluminou-se o mundo inteiro:
+feliz estirpe, raiz santa, e bendito é o seu Fruto.
+
+@antifona 3
+Com alegria celebremos o nascimento de Maria,
+para que ela interceda por nós todos junto ao Cristo.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Com alegria celebremos o nascimento de Maria,
+para que ela interceda por nós todos junto ao Cristo.
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor a escolheu.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor a escolheu.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Vosso natal, ó Mãe de Deus, alegrou o mundo inteiro:
+de vós nasceu o Sol da justiça, Jesus Cristo, nosso Deus,
+que nos trouxe a grande bênção; dissolvendo a maldição
+e humilhando a própria morte, deu-nos vida sempiterna.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Vosso natal, ó Mãe de Deus, alegrou o mundo inteiro:
+de vós nasceu o Sol da justiça, Jesus Cristo, nosso Deus,
+que nos trouxe a grande bênção; dissolvendo a maldição
+e humilhando a própria morte, deu-nos vida sempiterna.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Abri, ó Deus, para os vossos servos e servas os tesouros da vossa graça: e assim como a maternidade de Maria foi a aurora da salvação, a festa do seu nascimento aumente em nós a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

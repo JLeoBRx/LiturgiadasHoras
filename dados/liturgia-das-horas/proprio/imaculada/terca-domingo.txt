@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/imaculada_terca_domingo.htm
+@documento Hora Média - Imaculada Conceição da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Viva o Senhor, que fez em mim maravilhas de amor!
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Viva o Senhor, que fez em mim maravilhas de amor!
+
+@secao Leitura breve | Ef 1,4
+
+@texto
+Em Cristo, Deus nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor.
+
+@texto
+V. Hoje é a festa da Virgem Imaculada,
+R. Que esmagou a cabeça da serpente.
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

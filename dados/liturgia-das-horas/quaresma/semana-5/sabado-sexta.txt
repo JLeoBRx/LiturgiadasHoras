@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5sabadoquaresma_sexta.htm
+@documento Hora Média - Sexta - Sábado da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@salmo salmos/salmo-118-33-40-v-he-v2
+
+@gloria
+
+@salmo salmos/salmo-033-i
+
+@gloria
+
+@salmo salmos/salmo-033-ii
+
+@gloria
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@secao Leitura breve | 1Jo 2,1b-2
+
+@texto
+Temos junto do Pai um Defensor: Jesus Cristo, o Justo. Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro.
+
+@texto
+V. Desviai o vosso olhar dos meus pecados.
+R. E apagai todas as minhas transgressões!
+
+@secao Oração
+
+@oracao
+Ó Deus, vós sempre cuidais da salvação dos seres humanos e nesta Quaresma nos alegrais com graças mais copiosas. Considerai com bondade aqueles que escolhestes, para que a vossa proteção paterna acompanhe os que se preparam para o batismo e guarde os que já foram batizados. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

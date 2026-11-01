@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/corpuschristi_laudes.htm
+@documento Laudes - Santíssimo Sacramento do Corpo e Sangue de Cristo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Eis que o Verbo, habitando entre nós
+sem do Pai ter deixado a direita,
+chega ao fim de seus dias na terra,
+completando uma obra perfeita.
+
+Conhecendo o Senhor quem iria
+entregá-lo na mão do homicida,
+quis aos doze entregar-se primeiro,
+qual perfeito alimento da vida.
+
+E debaixo de duas espécies
+o seu corpo e seu sangue nos deu:
+alimento vital para o homem,
+que se nutre do Corpo de Deus.
+
+No presépio quis ser companheiro,
+como pão numa ceia se deu.
+Foi na cruz nosso preço e resgate,
+e será nosso prêmio no céu.
+
+Hóstia pura, trazeis salvação,
+e do céu nos abristes a porta.
+Inimigos apertam o cerco,
+dai-nos força que anima e conforta.
+
+Ao Deus Uno e Trino, o louvor,
+toda a glória e poder sempiterno,
+e a vida sem fim nos conceda
+lá na Pátria, no reino eterno.
+
+@secao Salmodia
+
+@antifona 1
+Saciastes vosso povo com manjar digno de anjos
+e lhe destes pão do céu. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Saciastes vosso povo com manjar digno de anjos
+e lhe destes pão do céu. Aleluia.
+
+@antifona 2
+Os santos sacerdotes oferecem ao Senhor
+pão e incenso, aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Os santos sacerdotes oferecem ao Senhor
+pão e incenso, aleluia.
+
+@antifona 3
+Ao vencedor eu darei o maná escondido,
+e darei novo nome. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Ao vencedor eu darei o maná escondido,
+e darei novo nome. Aleluia.
+
+@secao Leitura breve | Ml 1,11
+
+@texto
+Desde o nascer do sol até ao poente, grande é meu nome entre as nações, em todo o lugar se oferece um sacrifício e uma oblação pura ao meu nome, porque grande é o meu nome entre as nações, diz o Senhor dos exércitos.
+
+@secao Responsório breve
+
+@responsorio
+R. Da terra tira o homem seu sustento,
+* Aleluia, aleluia. R. Da terra.
+V. E o vinho que alegra o coração. * Aleluia.
+Glória ao Pai. R. Da terra.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu sou o Pão vivo descido do céu;
+quem comer deste pão viverá para sempre. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu sou o Pão vivo descido do céu;
+quem comer deste pão viverá para sempre. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs, a Jesus Cristo, pão da vida; e digamos com alegria:
+
+R. **Felizes os convidados para a ceia do Senhor!**
+
+Cristo, Sacerdote da nova e eterna Aliança, que no altar da cruz oferecestes ao Pai um sacrifício perfeito,
+– ensinai-nos a oferecer convosco este sacrifício santo. R.
+
+Cristo, rei de paz e de justiça, que consagrastes o pão e o vinho como sinais da vossa oferenda,
+– associai-nos ao vosso sacrifício, como oferenda agradável a Deus Pai. R.
+
+Cristo, verdadeiro adorador do Pai, que do nascer ao pôr do sol sois oferecido pela Igreja como uma oblação pura,
+– congregai na unidade do vosso corpo os que saciais com o mesmo pão. R.
+
+Cristo, maná descido do céu, que alimentais a Igreja com o vosso corpo e o vosso sangue,
+– fortificai-a na caminhada para o Pai. R.
+
+Cristo, que estais à porta e bateis,
+– entrai e vinde sentar à nossa mesa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

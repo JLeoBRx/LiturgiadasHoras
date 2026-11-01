@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/quintacinzas_impar.htm
+@documento Ofício das Leituras - Quinta-Feira Depois Das Cinzas
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Deuteronômio {1,1.6-18}
+
+@tema
+Últimas palavras de Moisés em Moab
+
+@texto
+São estas as palavras que Moisés dirigiu a todo Israel, no outro lado do Jordão. O Senhor nosso Deus falou-nos no Horeb: “Já permanecestes bastante nesta montanha. Voltai-vos e parti! Ide à montanha dos amorreus, e a todos os que habitam na Arabá, na montanha, na planície, no Negueb, no litoral; à terra dos cananeus e ao Líbano, até o grande rio, o Eufrates. Eis a terra que eu vos dei! Entrai para possuir a terra que o Senhor, sob juramento, prometera dar a vossos pais, Abraão, Isaac e Jacó, e depois deles à sua descendência.” Naquele tempo eu vos disse: “Sozinho, eu não posso levar-vos. O Senhor, vosso Deus, vos multiplicou e eis que hoje sois numerosos como as estrelas do céu! Que o Senhor, Deus de vossos pais, vos multiplique mil vezes mais, e vos abençoe, conforme vos prometeu! Como poderia eu, sozinho, carregar vosso peso, vossa carga e vossos processos? Elegei homens sábios, inteligentes e competentes para cada uma das vossas tribos, e eu os constituirei vossos chefes.” Vós me respondestes: “O que propões é bom!” Tomei então os chefes das vossas tribos, homens sábios e competentes, e os constituí vossos chefes: chefes de milhares, de cem, de cinquenta e de dez; e também escribas para as vossas tribos. Ao mesmo tempo, ordenei aos vossos juízes: “Ouvireis vossos irmãos para fazerdes justiça entre um homem e seu irmão, ou o estrangeiro que mora com ele. Não façais acepção de pessoas no julgamento: ouvireis de igual modo o pequeno e o grande. A ninguém temais, porque a sentença é de Deus. Se a causa for muito difícil para vós, dirigi-la-eis a mim, para que eu a ouça.” Naquela ocasião eu vos ordenei tudo o que deveríeis fazer.
+
+@secao Responsório | Dt 1,8.10;Gl 3,8
+
+@responsorio
+R. Entrai e tomai posse da terra
+que o Senhor jurou dar a vossos pais, Abraão, Isaac e Jacó,
+a eles e aos seus descendentes depois deles.
+* O Senhor, vosso Deus, vos multiplicou a tal ponto,
+que sois hoje tão numerosos como as estrelas do céu.
+V. Deus anunciou, muito antes, a Abraão:
+Em ti serão abençoadas todas as nações. * O Senhor, vosso Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São João Crisóstomo, bispo
+{(Oratio 3 adversus Iudaeos: PG 48, 867-868)}
+
+@tema
+Jejuamos por causa de nossos pecados, porque vamos nos aproximar dos santos mistérios
+
+@texto
+Por que razão jejuamos nestes quarenta dias? Outrora, principalmente no tempo em que Cristo se entregou à morte, muitos se aproximavam dos santos mistérios temerariamente e sem discernimento. Por conseguinte, quando os pais compreenderam quanto prejuízo resultaria dessa aproximação temerária, determinaram quarenta dias de jejum, preces, escuta da Palavra de Deus e assembleias religiosas. Isto para que nesses dias todos nós, diligentemente purificados pela oração, pela esmola, pelo jejum, pelas vigílias e lágrimas, pela confissão e por outras ações, segundo a nossa capacidade, nos aproximemos dos santos mistérios com a consciência pura. É evidente que, por este seu empenho, realizaram eles algo de grande e excelente ao nos inculcarem o hábito do jejum. Com efeito, se não cessarmos de pregar e proclamar o jejum o ano todo, ninguém dará atenção a nossas palavras. Basta, porém, que chegue o tempo da Quaresma e embora ninguém exorte, ninguém aconselhe, até as pessoas muito negligentes serão estimuladas e aceitarão o conselho e a exortação oferecidos por esse próprio tempo. Se, portanto, alguém te pergunta o motivo por que jejuas, não digas: por causa da Páscoa, nem por causa da cruz. Pois não é por causa da Páscoa, nem por causa da cruz que jejuamos, mas por causa de nossos pecados, porque vamos nos aproximar dos santos mistérios. A Páscoa não é ocasião de jejum, nem de luto, mas de alegria e exultação. Na verdade, a cruz destruiu o pecado, foi a expiação do mundo, a reconciliação do ódio inveterado; ela abriu as portas do céu, tornou amigos os que eram inimigos, reconduziu-nos ao paraíso, colocou nossa natureza à direita do trono de Deus, concedeu-nos com largueza inúmeros outros dons. Portanto, não convém chorar ou amargurar-se, mas alegrar-se e regozijar-se por causa de tudo isso. Por essa razão, disse também Paulo: _Quanto a mim,_ _que eu me glorie somente na cruz do nosso Senhor Jesus_ _Cristo_ (Gl 6,14). E ainda: _A prova de que Deus nos ama é_ _que Cristo morreu por nós, quando éramos ainda pecadores_ (Rm 5,8). João afirma claramente: _Deus amou o mundo a tal_ _ponto._ Como? Pergunto. E, deixando tudo o mais, assumiu a cruz. Como dissesse: _Deus amou o mundo a tal ponto,_ acrescentou: _que deu o seu Filho único para ser crucificado_, _para que todo o que nele crer não morra, mas tenha a vida_ _eterna_ (Jo 3,16). Por conseguinte, se a cruz é ocasião de caridade e de glória, não vamos dizer que choramos por sua causa. Não choramos por causa dela, mas, ao contrário, por causa de nossos pecados. Por isso é que também jejuamos.
+
+@secao Responsório | Cf. Br 3,2;Sl 105(106),6
+
+@responsorio
+R. Corrijamos por uma vida mais santa os pecados
+que, por ignorância, cometemos;
+não aconteça que, surpreendidos pela morte,
+procuremos tempo para a penitência e não o encontremos.
+* Olhai, Senhor, e tende compaixão,
+pois contra vós é que pecamos.
+V. Pecamos como outrora nossos pais,
+praticamos a maldade e fomos ímpios.
+* Olhai, Senhor, e tende.
+
+@secao Oração
+
+@oracao
+Inspirai, ó Deus, as nossas ações, e ajudai-nos a realizá-las, para que em vós comece e termine tudo aquilo que fizermos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

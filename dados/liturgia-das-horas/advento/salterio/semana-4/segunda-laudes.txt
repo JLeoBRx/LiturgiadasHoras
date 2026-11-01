@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4segunda_laudes.htm
+@documento Laudes - IV Segunda-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@rubrica
+Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@salmo salmos/salmo-089-v2
+
+@gloria
+
+@antifona
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@antifona 2
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra. †
+
+@salmo canticos/is-42-10-16
+
+@gloria
+
+@antifona
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra.
+
+@antifona 3
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?
+
+@salmo salmos/salmo-134-1-12
+
+@gloria
+
+@antifona
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?

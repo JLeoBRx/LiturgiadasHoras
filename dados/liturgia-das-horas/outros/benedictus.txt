@@ -1,0 +1,15 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/benedictus.htm
+@documento Benedictus
+
+@titulo BENEDICTUS / {(Cântico de Zacarias)} / {Lc 1,68-79}
+
+@salmo salmos/benedictus
+
+@gloria
+
+@rubrica
+(em latim)
+
+@titulo BENEDICTUS (EM LATIM) / {Lc 1,68-79}
+
+@salmo salmos/trecho-benedictus

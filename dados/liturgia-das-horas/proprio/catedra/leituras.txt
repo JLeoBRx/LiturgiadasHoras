@@ -1,0 +1,227 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/catedra.htm
+@documento Ofício das Leituras - Cátedra De São Pedro, Apóstolo Festa
+
+@celebracao
+CÁTEDRA DE SÃO PEDRO, APÓSTOLO
+{Festa}
+
+@biografia
+Desde o século IV, a festa da Cátedra de Pedro é celebrada neste dia em Roma, como sinal da unidade da Igreja, fundada sobre o Apóstolo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Pedro, pastor piedoso,
+desfaze o grilhão dos réus:
+com tua palavra podes
+abrir e fechar os céus.
+
+Ó Paulo, mestre dos povos,
+ensina-nos teu amor:
+correr em busca do prêmio,
+chegar ao Cristo Senhor.
+
+A vós, ó Trindade, glória,
+poder e louvor também;
+que sois eterna unidade
+nos séculos, sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Disse Pedro: Este Jesus que vós matastes,
+Deus Pai ressuscitou e deu-lhe glória.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Disse Pedro: Este Jesus que vós matastes,
+Deus Pai ressuscitou e deu-lhe glória.
+
+@antifona 2
+O Senhor enviou o seu anjo
+e livrou-me das mãos de Herodes.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+O Senhor enviou o seu anjo
+e livrou-me das mãos de Herodes.
+
+@antifona 3
+Uma nuvem os envolveu e fez-se ouvir a voz do Pai:
+Eis meu Filho muito amado.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Uma nuvem os envolveu e fez-se ouvir a voz do Pai:
+Eis meu Filho muito amado.
+
+@texto
+V. A palavra do Senhor permanece eternamente;
+R. E esta é a palavra que vos foi anunciada.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {11,1-18}
+
+@tema
+Pedro narra a conversão dos gentios
+
+@texto
+Naqueles dias, [1] os apóstolos e os irmãos, que viviam na Judéia, souberam que também os pagãos haviam acolhido a Palavra de Deus. [2] Quando Pedro subiu a Jerusalém, os fiéis de origem judaica começaram a discutir com ele, dizendo: [3] “Tu entraste na casa de pagãos e comeste com eles!”
+[4] Então, Pedro começou a contar-lhes, ponto por ponto, o que havia acontecido: [5] “Eu estava na cidade de Jope e, ao fazer oração, entrei em êxtase e tive a seguinte visão: vi uma coisa parecida com uma grande toalha que, sustentada pelas quatro pontas, descia do céu e chegava até junto de mim. [6] Olhei atentamente e vi dentro dela quadrúpedes da terra, animais selvagens, répteis e aves do céu. [7] Depois ouvi uma voz que me dizia: “Levanta-te, Pedro, mata e come.” [8] Eu respondi: “De modo nenhum, Senhor! Porque jamais entrou coisa profana e impura na minha boca”. [9] A voz me disse pela segunda vez: “Não chames impuro o que Deus purificou”.
+
+[10] Isso repetiu-se por três vezes. Depois a coisa foi novamente levantada para o céu. [11] Nesse momento, três homens se apresentaram na casa em que nos encontrávamos. Tinham sido enviados de Cesaréia, à minha procura. [12] O Espírito me disse que eu fosse com eles sem hesitar. Os seis irmãos que estão aqui me acompanharam e nós entramos na casa daquele homem. [13] Então ele nos contou que tinha visto um anjo apresentar-se em sua casa e dizer: “Manda alguém a Jope para chamar Simão, conhecido como Pedro. [14] Ele te falará de acontecimentos que trazem a salvação para ti e para toda a tua família”. [15] Logo que comecei a falar, o Espírito Santo desceu sobre eles, da mesma forma que desceu sobre nós no princípio. [16] Então eu me lembrei do que o Senhor havia dito: “João batizou com água, mas vós sereis batizados no Espírito Santo”. [17] Deus concedeu a eles o mesmo dom que deu a nós que acreditamos no Senhor Jesus Cristo. Quem seria eu para me opor à ação de Deus?” [18] Ao ouvirem isso, os fiéis de origem judaica se acalmaram e glorificavam a Deus, dizendo: “Também aos pagãos Deus concedeu a conversão que leva para a vida!”
+
+@secao Responsório | Lc 22,32; Mt 16,17b
+
+@responsorio
+R. Eu roguei por ti, ó Pedro, que tua fé não desfaleça;
+* Quando estiveres convertido, fortalece os teus irmãos.
+V. Não foi a carne nem o sangue, que te revelaram isto,
+mas sim meu Pai celeste. * Quando.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc.V)} {(Sermo 4 de Natali ipsius, 2-3: PL 54,149-151)}
+
+@tema
+A Igreja de Cristo ergue-se na firmeza da fé do apóstolo Pedro
+
+@texto
+Dentre todos os homens do mundo, Pedro foi o único escolhido para estar à frente de todos os povos chamados à fé, de todos os apóstolos e de todos os padres da Igreja. Embora no povo de Deus haja muitos sacerdotes e pastores, na verdade, Pedro é o verdadeiro guia de todos aqueles que têm Cristo como chefe supremo. Deus dignou-se conceder a este homem, caríssimos filhos, uma grande e admirável participação no seu poder. E se ele quis que os outros chefes da Igreja tivessem com Pedro algo em comum, foi por intermédio do mesmo Pedro que isso lhes foi concedido.
+A todos os apóstolos o Senhor pergunta qual a opinião que os homens têm a seu respeito; e a resposta de todos revela de modo unânime as hesitações da ignorância humana. Mas, quando procura saber o pensamento dos discípulos, o primeiro a reconhecer o Senhor é o primeiro na dignidade apostólica. Tendo ele dito: _Tu és Cristo, o Filho do Deus vivo, Jesus lhe respondeu: Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu_ (Mt 16,16-17). Quer dizer, és feliz, porque o meu Pai te ensinou, e a opinião humana não te iludiu, mas a inspiração do céu te instruiu; não foi um ser humano que me revelou a ti, mas sim aquele de quem sou o Filho unigênito.
+Por isso eu te digo, acrescentou, como o Pai te manifestou a minha divindade, também eu te revelo a tua dignidade: _Tu és Pedro_ (Mt 16,18). Isto significa que eu sou _a pedra inquebrantável, a pedra principal que de dois povos faço um só_ (cf. Ef 2,20.14), o fundamento sobre o qual ninguém pode colocar outro. Todavia, tu também és pedra, porque és solidário com a minha força. Desse modo, o poder, que me é próprio por prerrogativa pessoal, te será dado pela participação comigo.
+_E sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la_ (Mt 16,18). Sobre esta fortaleza, construirei um templo eterno. A minha Igreja destinada a elevar-se até ao céu deverá apoiar-se sobre a solidez da fé de Pedro. O poder do inferno não impedirá esse testemunho, os grilhões da morte não o prenderão; porque essa palavra é palavra de vida. E assim como conduz aos céus os que a proclamam, também precipita no inferno os que a negam.
+Por isso, foi dito a São Pedro: _Eu te darei as chaves do Reino dos céus: tudo o que ligares na terra será ligado nos céus; tudo o que desligares na terra, será desligado nos céus_ (Mt 16,19). Na verdade, o direito de exercer esse poder passou também para os outros apóstolos, e o dispositivo desse decreto atingiu todos os príncipes da Igreja. Mas não é sem razão que é confiado a um só o que é comunicado a todos. O poder é dado a Pedro de modo singular, porque a sua dignidade é superior à de todos os que governam a Igreja.
+
+@secao Responsório | Cf. Mt 16,19
+
+@responsorio
+R. Pedro, eu te conhecia, já bem antes de chamar-te
+do teu barco junto ao lago, e de ti fiz o pastor
+do rebanho que é meu povo.
+* A ti eu confiei as chaves do meu Reino.
+V. O que ligares na terra, será ligado nos céus;
+na terra o que desligares, nos céus será desligado.
+* A ti eu.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que nada nos possa abalar, pois edificastes a vossa Igreja sobre aquela pedra que foi a profissão de fé do apóstolo Pedro. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

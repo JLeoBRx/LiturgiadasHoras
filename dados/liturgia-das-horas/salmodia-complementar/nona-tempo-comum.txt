@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_nona_TC.htm
+@documento Salmodia Complementar - Nona (Série III)
+
+@secao Salmodia
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@rubrica
+Ou:
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@antifona 1
+Maravilhas fez conosco o Senhor:
+exultemos de alegria!
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Maravilhas fez conosco o Senhor:
+exultemos de alegria!
+
+@antifona 2
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade.
+
+@rubrica
+Quando o salmo seguinte for recitado nas Vésperas, em seu lugar se diz o salmo 130(131)
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade.
+
+@antifona 3
+Feliz és tu se temes o Senhor! †
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Feliz és tu se temes o Senhor!
+
+@texto
+Leitura breve

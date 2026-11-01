@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natal_nona.htm
+@documento Hora Média - Natal do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós, que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo salmos/salmo-018-b
+
+@gloria
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@salmo salmos/salmo-047
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@secao Leitura breve | At 10,36
+
+@texto
+Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-nova da paz, por meio de Jesus Cristo, que é o Senhor de todos.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que admiravelmente criastes o ser humano e mais admiravelmente restabelecestes a sua dignidade, dai-nos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

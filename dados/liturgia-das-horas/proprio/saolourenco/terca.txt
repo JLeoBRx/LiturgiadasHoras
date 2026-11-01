@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolourenco_terca.htm
+@documento Hora Média - São Lourenço
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Na dureza do combate, o Senhor lhe deu vitória,
+pois mais forte do que tudo é a força do amor.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Na dureza do combate, o Senhor lhe deu vitória,
+pois mais forte do que tudo é a força do amor.
+
+@secao Leitura breve | 1Pd 5,10-11
+
+@texto
+Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@texto
+V. O Senhor o revestiu de alegria.
+R. E lhe deu uma coroa de triunfo.
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso diácono Lourenço, inflamado de amor por vós, brilhou pela fidelidade no vosso serviço e pela glória do martírio; concedei-nos amar o que ele amou e praticar o que ensinou. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_terca.htm
+@documento Hora Média - Natividade de São João Batista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Será grande aos olhos de Deus,
+será cheio do Espírito Santo
+mesmo ainda no seio materno.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Será grande aos olhos de Deus,
+será cheio do Espírito Santo
+mesmo ainda no seio materno.
+
+@secao Leitura breve | Is 49,1
+
+@texto
+Nações marinhas, ouvi-me, povos distantes, prestai atenção: o Senhor chamou-me antes de eu nascer, desde o ventre de minha mãe ele tinha na mente o meu nome.
+
+@texto
+V. Vi o Espírito descer e pousar sobre ele.
+R. É este o que batiza no Espírito Santo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Batista, a fim de preparar para o Senhor um povo perfeito, concedei à vossa Igreja as alegrias espirituais e dirigi nossos passos no caminho da salvação e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

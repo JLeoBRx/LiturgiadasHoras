@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/invitatorio/invitatorio23.html
+@documento Invitatorio
+
+@texto
+{Quando se reza sozinho pode-se dizer a seguinte oração:}
+Abri, Senhor, os meus lábios para bendizer o vosso santo nome. Purificai o meu coração de todos os pensamentos vãos, desordenados e estranhos. Iluminai o meu entendimento e inflamai minha vontade para que possa rezar digna, atenta e devotamente este Ofício, e mereça ser atendido na presença da vossa divina Majestade. Por Cristo, nosso Senhor. Amém.
+{–––––––––––––––––––––––} {O Invitatório tem seu lugar no início da oração cotidiana, ou seja, antepõe-se ao Ofício das Leituras, ou às Laudes, conforme se comece o dia por uma ou por outra ação litúrgica.}
+
+@texto
+V. Abri os meus lábios, ó Senhor.
+R. E minha boca anunciará vosso louvor.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [1] Ao Senhor pertence a terra e o que ela encerra, *
+  o mundo inteiro com os seres que o povoam;
+– [2] porque ele a tornou firme sobre os mares, *
+  e sobre as águas a mantém inabalável.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [3] “Quem subirá até o monte do Senhor, *
+  quem ficará em sua santa habitação?”
+= [4] “Quem tem mãos puras e inocente coração, †
+  quem não dirige sua mente para o crime, *
+  nem jura falso para o dano de seu próximo.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [5] Sobre este desce a bênção do Senhor *
+  e a recompensa de seu Deus e Salvador”.
+– [6] “É assim a geração dos que o procuram, *
+  e do Deus de Israel buscam a face”.
+
+@lacuna antifona-invitatorio
+
+@versos
+= [7] “Ó portas, levantai vossos frontões! †
+  Elevai-vos bem mais alto, antigas portas, *
+  a fim de que o Rei da glória possa entrar!”
+
+@lacuna antifona-invitatorio
+
+@versos
+= [8] Dizei-nos: “Quem é este Rei da glória?" †
+  “É o Senhor, o valoroso, o onipotente, *
+  o Senhor, o poderoso nas batalhas!”
+
+@lacuna antifona-invitatorio
+
+@versos
+= [9] “Ó portas, levantai vossos frontões! †
+  Elevai-vos bem mais alto, antigas portas, *
+  a fim de que o Rei da glória possa entrar!”
+
+@lacuna antifona-invitatorio
+
+@versos
+= [10] Dizei-nos: “Quem é este Rei da glória?" †
+  “O Rei da glória é o Senhor onipotente, *
+  o Rei da glória é o Senhor Deus do universo!”
+
+@lacuna antifona-invitatorio
+
+@gloria
+
+@lacuna antifona-invitatorio
+
+@lacuna conclusao-invitatorio

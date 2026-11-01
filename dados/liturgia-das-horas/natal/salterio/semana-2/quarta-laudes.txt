@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quarta_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@antifona 2
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados:
+
+@antifona 3
+Deus é Rei!Exulte a terra de alegria! †
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Deus é Rei! Exulte a terra de alegria!

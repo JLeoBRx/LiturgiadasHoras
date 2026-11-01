@@ -1,0 +1,239 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saomarcos.htm
+@documento Ofício das Leituras - São Marcos Evangelista Festa
+
+@celebracao
+SÃO MARCOS EVANGELISTA
+{Festa}
+
+@biografia
+Era primo de Barnabé. Acompanhou o apóstolo Paulo em sua primeira viagem, e depois também o seguiu até Roma. Foi discípulo de Pedro, de cuja pregação se fez intérprete no Evangelho que escreveu. Atribui-se a ele a fundação da Igreja de Alexandria.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do Apóstolo companheiro,
+grande auxílio em seu labor,
+sobe a ti, do mundo inteiro,
+nossa súplica e louvor.
+
+Boa-nova anunciaram
+os arautos do Senhor:
+pela terra ressoaram
+a verdade, a paz, o amor.
+
+Pelo céu foste escolhido,
+Deus te deu igual missão:
+eis-te aos Doze reunido,
+tendo a Lucas por irmão.
+
+Que as palavras esparzidas,
+dando seus frutos de luz,
+sejam todas recolhidas
+nos celeiros de Jesus.
+
+Com os Apóstolos sentado,
+julgarás todo o mortal;
+cubra então nosso pecado
+teu clarão celestial.
+
+À Trindade celebremos
+e peçamos que nos céus
+com os Apóstolos cantemos
+o louvor do único Deus.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. O Senhor dá a palavra ao seu mensageiro. Aleluia.
+R. O Senhor dá a palavra com grande poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {4,1-16}
+
+@tema
+Diversificação dos dons num único corpo
+
+@texto
+Irmãos: [1] Eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: [2] Com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. [3] Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. [4] Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. [5] Há um só Senhor, uma só fé, um só batismo, [6] um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos. [7] Cada um de nós recebeu a graça na medida em que Cristo lha deu. [8] Daí esta palavra: “Tendo subido às alturas, ele capturou prisioneiros, e distribuiu dons aos homens”. [9] “Ele subiu”! Que significa isso, senão que ele desceu também às profundezas da terra. [10] Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo. [11] E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. [12] Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, [13] até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude. [14] Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro. [15] Motivados pelo amor queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a Cabeça, Cristo. [16] Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor.
+
+@secao Responsório | Cf. 2Pd 1,21; Pr 2,6
+
+@responsorio
+R. Profecia alguma existiu pela mente humana inspirada;
+* Pois, os homens de Deus nos falaram
+pelo Espírito Santo inspirados. Aleluia.
+V. É o Senhor quem dá a sabedoria,
+de sua boca procede a prudência. * Pois, os homens.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc.II)} {(Lib. 1,10,1-3:PG 7,550-554)}
+
+@tema
+A pregação da verdade
+
+@texto
+A Igreja, espalhada pelo mundo inteiro até os confins da terra, recebeu dos apóstolos e de seus discípulos a fé em um só Deus, Pai todo-poderoso, que criou o céu, a terra, o mar e tudo o que neles existe (cf. At 4,24); em um só Jesus Cristo Filho de Deus, que se fez homem para nossa salvação; e no Espírito Santo, que, pela boca dos profetas, anunciou antecipadamente os desígnios de Deus: a vinda de Jesus Cristo, nosso amado Senhor, o seu nascimento de uma Virgem, a sua paixão e ressurreição de entre os mortos, a ascensão corporal aos céus, a sua futura vinda do céu na glória do Pai. Então ele virá para recapitular o universo inteiro (cf. Ef 1,10) e ressuscitar todos os homens, a fim de que, segundo a vontade do Pai invisível, diante de Cristo Jesus nosso Senhor, Deus, Salvador e Rei, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua o proclame (cf. Fl 2,10-11), e ele julgue todos os homens com justiça. A Igreja recebeu, como dissemos, e guarda com todo cuidado esta pregação e esta fé; apesar de espalhada pelo mundo inteiro, guarda-a como se morasse em uma só casa. Acredita nela como quem possui uma só alma e um só coração; e a proclama, ensina e transmite, como se tivesse uma só boca. Porque, embora através do mundo haja línguas muito diferentes, a força da Tradição é uma só e a mesma para todos. As Igrejas fundadas na Germânia, as que se encontram na Ibéria e nas terras celtas, as do Oriente, do Egito e Líbia, ou as do centro do mundo, não creem nem ensinam de modo diferente. Assim como o sol, criatura de Deus, é um só e o mesmo para todo o universo, igualmente a pregação da verdade brilha em toda parte e ilumina todos os homens que querem chegar ao conhecimento da verdade. E dos que presidem às Igrejas, nem mesmo o mais eloquente, dirá coisas diferentes das que afirmamos, pois ninguém está acima do divino Mestre; nem o orador menos hábil enfraquecerá a Tradição. Sendo uma só e mesma a fé, nem aquele que muito diz sobre ela a aumenta, nem aquele que diz menos a diminui.
+
+@secao Responsório | 1Cor 1,17-18.21
+
+@responsorio
+R. Cristo enviou-me a pregar o Evangelho,
+não com sábias palavras humanas,
+para não tornar vã sua cruz.
+* A linguagem da cruz é loucura,
+para aqueles que vão se perder;
+para aqueles, porém, que se salvam,
+para nós é a força de Deus. Aleluia.
+V. Porque o mundo não reconheceu a Deus pela sabedoria,
+agradou-lhe salvar os que creem
+pelo anúncio da louca mensagem. * A linguagem.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes a São Marcos, vosso evangelista, a glória de proclamar a Boa-nova, dai-nos assimilar de tal modo seus ensinamentos, que sigamos fielmente os caminhos do Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

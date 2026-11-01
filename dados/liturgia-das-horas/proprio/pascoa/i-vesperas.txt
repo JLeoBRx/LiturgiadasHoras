@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pascoa_Ivesperas.htm
+@documento Vésperas - Domingo da Páscoa na Ressurreição do Senhor
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SÁBADO SANTO
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Ó Cristo, concedei,
+autor da salvação,
+que os homens todos colham
+os frutos da Paixão.
+
+Na cruz vencendo a morte,
+da vida sois Senhor;
+calcais o vil demônio,
+da morte causador.
+
+Só uma vez morrendo,
+da morte triunfais;
+aos mortos visitando,
+livrastes nossos pais.
+
+Do Pai agora à destra,
+ó vítima de amor,
+ouvi aos que lavastes
+no sangue redentor.
+
+Saibamos erguer alto
+o lábaro da cruz,
+que aos filhos do pecado
+tornou filhos da luz.
+
+Rendamos todos glória
+ao Pai e seu Amor,
+ao Cristo, morto e vivo,
+se eleva igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Ó morte, eu serei a tua morte!
+Ó inferno, eu serei tua ruína!
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Ó morte, eu serei a tua morte!
+Ó inferno, eu serei tua ruína!
+
+@antifona 2
+Jonas esteve por três dias e três noites
+no ventre de um peixe;
+assim também o Filho do Homem ficará
+no coração da nossa terra.
+
+@salmo salmos/salmo-142-1-11
+
+@gloria
+
+@antifona
+Jonas esteve por três dias e três noites
+no ventre de um peixe;
+assim também o Filho do Homem ficará
+no coração da nossa terra.
+
+@antifona 3
+Destruí este templo, disse Cristo,
+e em três dias haverei de reerguê-lo.
+Ele falava do templo do seu corpo.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Destruí este templo, disse Cristo,
+e em três dias haverei de reerguê-lo.
+Ele falava do templo do seu corpo.
+
+@secao Leitura breve | 1Pd 1,18-21
+
+@texto
+Sabeis que fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito. Antes da criação do mundo, ele foi destinado para isso, e neste final dos tempos, ele apareceu, por amor de vós. Por ele é que alcançastes a fé em Deus. Deus o ressuscitou dos mortos e lhe deu a glória, e assim, a vossa fé e esperança estão em Deus.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte, e morte de cruz.
+Por isso Deus o exaltou sobremaneira em sua glória,
+e deu-lhe o nome mais sublime,
+muito acima de outro nome.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Agora foi glorificado o Filho do Homem,
+e Deus Pai nele foi glorificado,
+e em breve lhe dará a sua glória.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Agora foi glorificado o Filho do Homem,
+e Deus Pai nele foi glorificado,
+e em breve lhe dará a sua glória.
+
+@secao Preces
+
+@preces
+Adoremos com sincera piedade a Cristo, nosso Redentor, que por nós sofreu a Paixão e foi sepultado para ressuscitar ao terceiro dia; e peçamos humildemente:
+
+R. **Senhor, tende piedade de nós!**
+
+Senhor Jesus, que do vosso lado aberto pela lança deixastes correr sangue e água, admirável sacramento de toda a Igreja,
+– pelo mistério da vossa morte, sepultura e ressurreição, renovai a vida do povo de Deus. R.
+
+Senhor Jesus, que vos compadecestes até dos que tinham esquecido vossas promessas de ressurreição,
+– lembrai-vos daqueles que não acreditam no vosso triunfo sobre a morte e vivem sem esperança. R.
+
+Cordeiro de Deus, vítima pascal, imolado por todos nós,
+– atraí para vós a humanidade inteira. R.
+
+Deus do universo, que dominais todos os confins da terra, e quisestes ser encerrado num sepulcro,
+– livrai do inferno o gênero humano e dai-lhe a glória da imortalidade. R.
+
+{(intenções livres)}
+
+Cristo, Filho do Deus vivo, que pregado na cruz abristes as portas do paraíso para o ladrão arrependido,
+– associai à glória da vossa ressurreição os nossos irmãos e irmãs falecidos, semelhantes a vós na morte e na ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

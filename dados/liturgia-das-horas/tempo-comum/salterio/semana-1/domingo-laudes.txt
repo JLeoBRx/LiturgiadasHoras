@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1domingo_laudes.htm
+@documento Laudes - Domingo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Criador do universo,
+a sombra e a luz alternais,
+e, dando tempo ao tempo,
+dos seres todos cuidais.
+
+Qual pregoeiro do dia,
+canta nas noites o galo.
+Separa a noite e a noite,
+brilhando a luz no intervalo.
+
+Também por ele acordada,
+a estrela d'alva, brilhante,
+expulsa o erro e a treva
+com sua luz radiante.
+
+Seu canto os mares acalma,
+ao navegante avigora;
+a própria Pedra da Igreja
+ouvindo o Cântico chora.
+
+Jesus, olhai os que tombam.
+O vosso olhar nos redime:
+se nos olhais, nos erguemos,
+e prantos lavam o crime.
+
+Ó luz divina, brilhai,
+tirai do sono o torpor.
+O nosso alento primeiro
+entoe o vosso louvor.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai, Sumo Bem,
+glória e poder, na unidade
+do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Desde a aurora ansioso vos busco,
+para ver vossa glória e poder.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Desde a aurora ansioso vos busco,
+para ver vossa glória e poder.
+
+@antifona 2
+A uma só voz, os três jovens
+cantavam no meio das chamas:
+Bendito o Senhor, aleluia!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai.
+
+@antifona
+A uma só voz, os três jovens
+cantavam no meio das chamas:
+Bendito o Senhor, aleluia!
+
+@antifona 3
+Os filhos de Sião se rejubilem
+no seu Rei. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Os filhos de Sião se rejubilem no seu Rei. Aleluia.
+
+@secao Leitura breve | Ap 7,10b-12
+
+@texto
+A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro. O louvor, a glória e a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém.
+
+@secao Responsório breve
+
+@responsorio
+R. Cristo, Filho do Deus vivo,
+* Tende pena e compaixão! R. Cristo.
+V. Glorioso estais sentado, à direita de Deus Pai.
+* Tende pena. Glória ao Pai. R. Cristo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@lacuna antifona-benedictus
+
+@salmo canticos/benedictus
+
+@gloria
+
+@lacuna antifona-benedictus
+
+@secao Preces
+
+@preces
+Louvemos a Cristo Senhor, luz que ilumina todo homem e sol que não tem ocaso; e aclamemos com alegria:
+
+R. **Senhor, vós sois nossa vida e salvação!**
+
+Criador do universo, nós vos agradecemos este dia que recebemos de vossa bondade,
+– e em que celebramos a vossa ressurreição. R.
+
+Que o vosso Espírito nos ensine hoje a cumprir vossa vontade,
+– e vossa Sabedoria sempre nos conduza. R.
+
+Dai-nos celebrar este domingo cheios de alegria,
+– participando da mesa de vossa Palavra e de vosso Corpo. R.
+
+Nós vos damos graças,
+– por vossos inúmeros benefícios. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

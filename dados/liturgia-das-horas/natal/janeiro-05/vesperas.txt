@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/5janeiro_vesperas.htm
+@documento 5janeiro_vesperas.htm
+
+@secao Leitura breve | 1Jo 5,20
+
+@texto
+Nós sabemos que veio o Filho de Deus e nos deu a inteligência para conhecermos aquele que é o Verdadeiro. E nós estamos com o Verdadeiro, no seu Filho Jesus Cristo. Este é o Deus verdadeiro e a Vida eterna.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Encontramos o Messias, que Moisés previu na Lei
+e os profetas predisseram:
+o filho de José, Jesus de Nazaré.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Encontramos o Messias, que Moisés previu na Lei
+e os profetas predisseram:
+o filho de José, Jesus de Nazaré.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo, o Emanuel, a quem a Virgem concebeu e deu à luz. E peçamos humildemente:
+
+R. **Filho da Virgem Maria, atendei-nos!**
+
+Vós concedestes a Maria as alegrias da maternidade;
+– fazei que todos os pais possam alegrar-se pelo dom dos filhos. R.
+
+Vós que vos tornastes criança,
+– fazei que todas as crianças cresçam em sabedoria e graça. R.
+
+Viestes fazer da humanidade o povo santo de Deus;
+– congregai todos os povos na unidade. R.
+
+Pelo vosso nascimento santificastes a vida familiar,
+– promovei a paz e a união em todas as famílias. R.
+
+{(intenções livres)}
+
+Quisestes nascer no tempo;
+– concedei aos falecidos nascerem para a vossa eternidade. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, iniciastes maravilhosamente a redenção do vosso povo. Concedei a vossos servos uma fé tão firme, que nos deixemos conduzir por ele e cheguemos à glória prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

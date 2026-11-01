@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quinta_vesperas.htm
+@documento Próprio - Vésperas - III Quinta-feira do Advento
+
+@secao Leitura breve | Tg 5,7-8.9b
+
+@texto
+Irmãos, ficai firmes até à vinda do Senhor. Vede o agricultor: ele espera o precioso fruto da terra e fica firme até cair a chuva do outono ou da primavera. Também vós ficai firmes e fortalecei vossos corações, porque a vinda do Senhor está próxima. Eis que o juiz está às portas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Alegrai-vos com Sião e exultai por sua causa,
+todos vós que amais. Exultai eternamente!
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Alegrai-vos com Sião e exultai por sua causa,
+todos vós que amais. Exultai eternamente!
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, imploremos a Cristo, a grande luz anunciada pelos profetas aos que viviam na sombra da morte; e digamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Cristo, Palavra de Deus, que no princípio criastes todas as coisas e nos últimos tempos assumistes a nossa natureza humana,
+– vinde salvar-nos do pecado e da morte. R.
+
+Luz verdadeira, que iluminais todo homem que vem a este mundo,
+– vinde dissipar as trevas da nossa ignorância. R.
+
+Filho unigênito, que estais no seio do Pai,
+– vinde revelar a todos as maravilhas do amor de Deus. R.
+
+Cristo Jesus, que viestes para nós como Filho do Homem,
+– tornai filhos de Deus todos aqueles que vos receberam. R.
+
+{(intenções livres)}
+
+Vós que abris as portas de todas as prisões,
+– admiti ao banquete das núpcias eternas aqueles que esperam a entrada na vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, somos servos indignos e reconhecemos com tristeza as nossas faltas. Dai-nos a alegria do advento do vosso Filho que vem para nos salvar. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

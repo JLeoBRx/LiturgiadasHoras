@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santissimatrindade_nona.htm
+@documento Hora Média - Santíssima Trindade
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Confessamos que vós sois imutável: sempre o mesmo,
+que viveis eternamente e sabeis todas as coisas.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Confessamos que vós sois imutável: sempre o mesmo,
+que viveis eternamente e sabeis todas as coisas.
+
+@secao Leitura breve | Ap 7,12
+
+@texto
+O louvor, a glória e a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém.
+
+@texto
+V. Sede bendito no celeste firmamento.
+R. A vós louvor, honra e glória eternamente!
+
+@secao Oração
+
+@oracao
+Ó Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso inefável mistério. Fazei que, professando a verdadeira fé, reconheçamos a glória da Trindade e adoremos a Unidade onipotente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

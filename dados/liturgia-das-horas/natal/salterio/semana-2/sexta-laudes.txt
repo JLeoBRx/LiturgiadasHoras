@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2sexta_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, não desprezeis um coração arrependido!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Ó Senhor, não desprezeis um coração arrependido.
+
+@antifona 2
+Ó Senhor, mesmo na cólera, lembrai-vos
+de ter misericórdia.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Ó Senhor, mesmo na cólera, lembrai-vos
+de ter misericórdia.
+
+@antifona 3
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus! †
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus!

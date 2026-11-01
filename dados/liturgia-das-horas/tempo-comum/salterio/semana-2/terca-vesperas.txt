@@ -1,0 +1,133 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2terca_vesperas.htm
+@documento Vésperas - Terça-Feira
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Autor e origem do tempo,
+por sábia ordem nos dais
+o claro dia ao trabalho,
+e a noite, ao sono e à paz.
+
+As mentes castas guardai
+dentro da calma da noite
+e que não venha a feri-las
+do dardo mau o açoite.
+
+Os corações libertai
+de excitações persistentes.
+Não quebre a chama da carne
+a força viva das mentes.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho de Deus,
+que com o Espírito Santo
+reinais eterno nos céus.
+
+@secao Salmodia
+
+@antifona 1
+Não podeis servir a Deus e ao dinheiro.
+
+@salmo salmos/salmo-048-i
+
+@gloria
+
+@antifona
+Não podeis servir a Deus e ao dinheiro.
+
+@antifona 2
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@salmo salmos/salmo-048-ii
+
+@gloria
+
+@antifona
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@antifona 3
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@secao Leitura breve | Rm 3,23-25a
+
+@texto
+Todos pecaram e estão privados da glória de Deus, e a justificação se dá gratuitamente, por sua graça, em virtude da redenção realizada em Jesus Cristo. Deus destinou Jesus Cristo a ser, por seu próprio sangue, instrumento de expiação mediante a realidade da fé. Assim Deus mostrou sua justiça.
+
+@secao Responsório breve
+
+@responsorio
+R. Junto a vós, felicidade,
+* Felicidade sem limites! R. Junto a vós.
+V. Delícia eterna, ó Senhor. * Felicidade.
+Glória ao Pai. R. Junto a vós.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, fazei conosco maravilhas,
+pois santo e poderoso é vosso nome!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, fazei conosco maravilhas,
+pois santo e poderoso é vosso nome!
+
+@secao Preces
+
+@preces
+Louvemos a Cristo, pastor e guia de nossas almas, que ama e protege o seu povo; e, pondo nele toda a nossa esperança, supliquemos:
+
+R. **Senhor, protegei o vosso povo!**
+
+Pastor eterno, protegei o nosso Bispo {N.},
+– e todos os pastores da vossa Igreja. R.
+
+Olhai com bondade para os que sofrem perseguição,
+– e apressai-vos em libertá-los de seus sofrimentos. R.
+
+Tende compaixão dos pobres e necessitados,
+– e dai pão aos que têm fome. R.
+
+Iluminai os que têm a responsabilidade de fazer as leis das nações,
+– para que em tudo possam discernir com sabedoria e equidade. R.
+
+{(intenções livres)}
+
+Socorrei, Senhor, os nossos irmãos e irmãs falecidos, que remistes com vosso sangue,
+– para que mereçam tomar parte convosco no banquete das núpcias eternas. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, senhor do dia e da noite, fazei brilhar sempre em nossos corações o sol da justiça, para que possamos chegar à luz em que habitais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,114 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3sabado_vesperas.htm
+@documento I Vésperas - IV Domingo do Advento
+
+@titulo IV DOMINGO / I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem sem mais demora o Desejado das nações,
+e a casa do Senhor se encherá de sua glória. Aleluia.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Eis que vem sem mais demora o Desejado das nações,
+e a casa do Senhor se encherá de sua glória. Aleluia.
+
+@antifona 2
+Oh! vinde, Senhor, não tardeis mais!
+Libertai vosso povo do pecado!
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Oh! vinde, Senhor, não tardeis mais!
+Libertai vosso povo do pecado!
+
+@antifona 3
+A plenitude dos tempos já chegou:
+Deus enviou o seu Filho à nossa terra.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+A plenitude dos tempos já chegou:
+Deus enviou o seu Filho à nossa terra.
+
+@secao Leitura breve | 1Ts 5,23-24
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois – espírito, alma, corpo – seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! Aquele que vos chamou é fiel; ele mesmo realizará isso.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Nunca mais haverá noite e eles não precisarão da luz da lâmpada ou do sol. O Senhor será sua luz. * Pois o Senhor.
+Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs caríssimos, a Cristo nosso Senhor que nasceu da Virgem Maria; e digamos com humildade e alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Filho Unigênito de Deus, que haveis de vir como o verdadeiro mensageiro da Aliança,
+– fazei que o mundo vos acolha e reconheça. R.
+
+Filho Unigênito de Deus, que sois fonte de vida e quisestes experimentar a morte
+– livrai-nos da sentença de morte que merecemos. R.
+
+Filho Unigênito de Deus, que vindes julgar o mundo e trazeis convosco a recompensa,
+– aumentai a nossa esperança para que sejamos dignos das vossas promessas. R.
+
+{(intenções livres)}
+
+Senhor Jesus Cristo, que viestes socorrer os mortos com a vossa morte,
+– escutai as súplicas que vos dirigimos pelos nossos defuntos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Derramai ó Deus a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

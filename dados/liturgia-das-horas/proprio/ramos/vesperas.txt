@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ramos_vesperas.htm
+@documento Vésperas - Domingo de Ramos da Paixão do Senhor
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+o sangue e água jorraram.
+
+Árvore esplêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Deus Pai exaltou à sua direita
+o seu Cristo humilhado e esmagado.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Deus Pai exaltou à sua direita
+o seu Cristo humilhado e esmagado.
+
+@antifona 2
+Pelo sangue de Jesus, purificados,
+sirvamos ao Deus vivo para sempre!
+
+@salmo salmos/salmo-113b
+
+@gloria
+
+@antifona
+Pelo sangue de Jesus, purificados,
+sirvamos ao Deus vivo para sempre!
+
+@antifona 3
+Carregou sobre si nossas culpas
+em seu corpo no lenho da cruz,
+para que, mortos aos nossos pecados,
+na justiça de Deus nós vivamos.
+
+@salmo canticos/1pd-2-21-24-v2
+
+@texto
+{(R.} Por suas chagas nós fomos curados.)
+
+@salmo canticos/1pd-2-21-24-v3
+
+@gloria
+
+@antifona
+Carregou sobre si nossas culpas
+em seu corpo no lenho da cruz,
+para que, mortos aos nossos pecados,
+na justiça de Deus nós vivamos.
+
+@secao Leitura breve | At 13,26-30a
+
+@texto
+Irmãos, a nós foi enviada esta mensagem de salvação. Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se lêem todos os sábados. Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. Mas Deus o ressuscitou dos mortos.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos bendizemos e adoramos,
+* Ó Jesus, nosso Senhor. R. Nós vos.
+V. Por vossa cruz vós redimistes este mundo. * Ó Jesus.
+Glória ao Pai. R. Nós vos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Adoremos o Salvador do gênero humano, que subiu a Jerusalém para sofrer a Paixão e assim entrar na glória; e peçamos com humildade:
+
+R. **Santificai, Senhor, o povo que remistes com vosso sangue!**
+
+Jesus, nosso Redentor, concedei que, pela penitência, nos associemos cada vez mais plenamente à vossa Paixão,
+– a fim de alcançarmos a glória da ressurreição. R.
+
+Acolhei-nos sob a proteção de Maria, vossa Mãe, consoladora dos aflitos,
+– para podermos confortar os tristes com o mesmo auxílio que de vós recebemos. R.
+
+Olhai para aqueles que por nossa culpa desfalecem no caminho;
+– ajudai-os e corrigi-nos, para que prevaleçam a justiça e a caridade. R.
+
+Senhor Jesus, que vos humilhastes na obediência até à morte e morte de cruz,
+– ensinai-nos a ser obedientes e a sofrer com paciência. R.
+
+{(intenções livres)}
+
+Tornai os corpos de nossos irmãos e irmãs falecidos semelhantes à imagem do vosso corpo glorioso,
+– e fazei-nos dignos de participar um dia, com eles, da vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/20quartaTC.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {9,7–10,4}
+
+@tema
+A indignação de Deus contra o reino de Israel
+
+@texto
+[9,7] O Senhor enviou uma mensagem a Jacó e ela caiu em Israel. [8] Sabem disso todo o povo de Efraim e os habitantes da Samaria, que vão dizendo, com orgulho e arrogância: [9] "Caíram os tijolos, mas nós tudo edificaremos com pedras de cantaria; os sicômoros foram cortados, mas nós plantaremos cedros no seu lugar". [10] O Senhor sublevou inimigos contra Jacó e estimulou seus adversários, [11] os assírios, do oriente, e os filisteus, do ocidente, que devoraram Israel com toda a gana. Em todos esses fatos o Senhor não deixou de mostrar sua ira, mas está ainda com a mão estendida. [12] O povo não voltou para aquele que o castigou, não procurou o Senhor dos exércitos.
+
+@texto
+[13] Então o Senhor cortou de uma só vez cabeça e cauda de Israel, como se diz, fronde e tronco da palmeira: [14] a cabeça são os anciãos e os dignitários, e a cauda, os profetas mentirosos; [15] os governantes deste povo, enganadores, e os seus governados perderam-se todos. [16] Por isso, o Senhor não há de ter alegria com os jovens nem compaixão dos órfãos e viúvas, pois o povo todo é ímpio e mau, toda boca só fala insensatez. Em todos esses fatos, ele não deixou de mostrar sua ira, mas está ainda com a mão estendida.
+
+@texto
+[17] A impiedade lavra como um incêndio, devorando sarçais e espinheiros, alimentando-se no bosque mais denso, levantando colunas de fumaça. [18] A terra está ardendo pela ira do Senhor dos exércitos; o povo parece pasto do fogo: irmão não poupa irmão, [19] de um lado, devora-se e não se mata a fome, de outro lado, come-se sem chegar à saciedade; cada qual tira a pele do próximo: [20] Manassés contra Efraim, Efraim contra Manassés, e ambos, juntos, contra Judá. Em todos esses fatos, ele não deixou de mostrar sua ira, mas está ainda com a mão estendida.
+
+@texto
+[10,1] Ai dos que fazem leis iníquas e divulgam a injustiça escrita, [2] para explorar os pobres no tribunal, violentar o direito dos humildes do meu povo, fazer das viúvas sua presa e espoliar os órfãos. [3] Que fareis no dia da reivindicação divina e da desgraça que se vem aproximando? Recorrereis à ajuda de quem? E onde abandonareis o vosso orgulho? [4] Pois estareis abaixados mais do que escravos e caídos entre os mortos. Em todos esses fatos, ele não deixou de mostrar sua ira, mas está ainda com a mão estendida.
+
+@secao Responsório | Lm 2,1
+
+@responsorio
+R. Como o Senhor em sua ira
+cobriu de escuridão a filha de Sião,
+* Precipitou do céu à terra a glória de Israel.
+V. E não se recordou do apoio de seus pés,
+quando estava irritado. * Precipitou.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. V)} {(Sermo Caillau-Saint-Yves 2,92: PLS 2,441-442)}
+
+@tema
+Quem perseverar até o fim, esse será salvo
+
+@texto
+Qualquer angústia ou tribulação que sofremos é para nós aviso e também correção. As Sagradas Escrituras não nos prometem paz, segurança e repouso; o Evangelho não esconde as adversidades, os apertos, os escândalos; mas _quem perseverar até o fim, esse será salvo_ (Mt 10,22). Que de bom teve jamais esta vida desde o primeiro homem, desde que mereceu a morte e recebeu a maldição, maldição de que Cristo Senhor nos libertou?
+
+@texto
+Não há então, irmãos, por que murmurar, _como alguns deles murmuraram,_ como disse o Apóstolo, _e pereceram pelas serpentes_ (1Cor 10,10). Que tormento novo sofre hoje o gênero humano que os antepassados já não tenham sofrido? ou quando saberemos nós que sofremos o mesmo que eles já sofreram? No entanto, encontras homens a murmurar contra seu tempo como se o tempo de nossos pais tivesse sido bom. Se pudessem retroceder até os tempos de seus avós, será que não murmurariam? Julgas bons os tempos passados porque já não são os teus, por isto são bons.
+
+@texto
+Se já foste liberto da maldição, se já crês no Filho de Deus, se já estás impregnado ou instruído das Sagradas Escrituras, admiro-me de que consideres bons os tempos de Adão. Esqueces que teus pais traziam consigo o mesmo Adão? Aquele Adão a quem foi dito: _No suor de teu rosto comerás teu pão e lavrarás a terra donde foste tirado; germinarão para ti espinhos e abrolhos_ (cf. Gn 3,19 e 18). Mereceu isto, aceitou-o, como vindo do justo juízo de Deus. Por que então pensas que os tempos antigos foram melhores que os teus? Desde aquele Adão até o Adão de hoje, trabalho e suor, espinhos e cardos. Caiu sobre nós o dilúvio? Vieram os difíceis tempos de fome e de guerra, que foram escritos para não murmurarmos agora contra Deus?
+
+@texto
+Que tempos aqueles! Só de ouvir, só de ler, não nos horrorizamos todos? Mais razões temos para nos felicitar que para murmurar contra o nosso tempo.
+
+@secao Responsório | Sl 76(77),6-7a.3a; 50(51),3
+
+@responsorio
+R. Eu reflito sobre os tempos de outrora
+e dos anos que passaram me recordo.
+Meu coração fica a pensar durante a noite
+* E eu digo: Ó meu Deus, tende piedade!
+V. No meu dia de aflição busco o Senhor,
+sem me cansar ergo, de noite, as minhas mãos.
+* E eu digo.
+
+@secao Oração
+
+@oracao
+Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

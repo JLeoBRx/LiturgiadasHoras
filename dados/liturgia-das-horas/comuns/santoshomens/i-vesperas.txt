@@ -1,0 +1,231 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santoshomens_Ivesperas.htm
+@documento I Vésperas - COMUM DOS SANTOS HOMENS
+
+@titulo COMUM DOS SANTOS HOMENS
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Para um santo:
+Ó Jesus, Redentor nosso,
+coroais os vossos santos;
+ouvi hoje, compassivo,
+nossas preces, nossos cantos.
+
+Hoje, o santo confessor
+vosso nome fez brilhar,
+e a Igreja, anualmente,
+vem seus feitos celebrar.
+
+Caminhou com passo firme
+pela vida transitória,
+e seguiu a vossa estrada
+que nos leva para a glória.
+
+Desprendendo o coração
+de alegrias passageiras,
+frui agora, junto aos anjos,
+as delícias verdadeiras.
+
+O perdão de nossas culpas
+nos alcance a sua prece.
+Nos seus passos conduzi-nos
+para a luz que não perece.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai louvor também.
+Honra e graças ao Espírito
+pelos séculos. Amém.
+
+Para vários santos:
+Celebremos os servos de Cristo
+de fé simples e santas ações;
+hoje a terra, se unindo às alturas,
+faz subir seu louvor em canções.
+
+Caminharam isentos de culpa,
+puros, mansos, humildes e castos;
+suas almas, partindo da terra,
+livres voam e sobem aos astros.
+
+Rejubilam no céu, protegendo
+o infeliz e seu pranto enxugando,
+dão aos corpos doentes saúde,
+as feridas das almas curando.
+
+Nosso canto celebra os louvores
+dos fiéis servidores de Deus;
+queiram eles nos dar sua ajuda
+e guiar-nos também para os céus.
+
+Ao Deus Uno beleza e poder
+e louvor nas alturas convém.
+Glória Àquele que rege o Universo
+e o conduz por leis sábias. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Santos todos do Senhor,
+cantai um hino ao nosso Deus!
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Santos todos do Senhor,
+cantai um hino ao nosso Deus!
+
+@antifona 2
+Felizes os famintos e sedentos de justiça:
+serão todos saciados.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Felizes os famintos e sedentos de justiça:
+serão todos saciados.
+
+@antifona 3
+Bendito seja Deus, que nos chamou a sermos santos
+e sem mancha pelo amor!
+
+@salmo canticos/ef-1-3-10-v5
+
+@gloria
+
+@antifona
+Bendito seja Deus, que nos chamou a sermos santos
+e sem mancha pelo amor!
+
+@secao Leitura breve | Fl 3,7-8
+
+@texto
+As coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor amou seu santo
+* E o ornou com sua glória. R. O Senhor.
+V. O Senhor o revestiu com o manto da vitória. * E o ornou.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@rubrica
+Para um santo:
+
+@antifona
+O homem sábio e previdente construiu a sua casa sobre a rocha inabalável.
+
+@rubrica
+Ou:
+
+@rubrica
+Para vários santos:
+
+@antifona
+Os olhos do Senhor estão voltados aos que esperam confiando em seu amor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@rubrica
+Para um santo:
+
+@antifona
+O homem sábio e previdente construiu a sua casa sobre a rocha inabalável.
+
+@rubrica
+Ou:
+
+@rubrica
+Para vários santos:
+
+@antifona
+Os olhos do Senhor estão voltados aos que esperam confiando em seu amor.
+
+@secao Preces
+
+@preces
+Peçamos a Deus Pai, fonte de toda a santidade, que pela intercessão e exemplo dos santos nos conduza a uma vida mais perfeita; e digamos:
+
+R. **Fazei-nos santos, porque vós sois santo!**
+
+Pai santo, que nos destes a graça de nos chamarmos e sermos realmente vossos filhos,
+– fazei que a santa Igreja proclame as vossas maravilhas por toda a terra. R.
+
+Pai santo, inspirai os vossos servos a viver dignamente, segundo a vossa vontade,
+– e ajudai-nos a dar abundantes frutos de boas obras. R.
+
+Pai santo, que nos reconciliastes convosco por meio de Cristo,
+– conservai-nos na unidade por amor de vosso nome. R.
+
+Pai santo, que nos convidastes para tomar parte no banquete celeste,
+– pela comunhão do pão descido do céu, dai-nos alcançar a perfeição da caridade. R.
+
+{(intenções livres)}
+
+Pai santo, perdoai as faltas de todos os pecadores,
+– e acolhei na luz da vossa face todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, só vós sois santo e sem vós ninguém pode ser bom. Pela intercessão de são (sto.) N., dai-nos viver de tal modo, que não sejamos despojados da vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que o exemplo de vossos santos nos leve a uma vida mais perfeita e, celebrando a memória de são (sto.) N., imitemos constantemente suas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para vários santos:
+
+@texto
+Deus eterno e todo-poderoso, que pela glorificação dos santos continuais manifestando o vosso amor por nós, concedei que sejamos ajudados por sua intercessão e animados pelo seu exemplo, na imitação fiel do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo religioso:
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são (sto.) N., a quem destes perseverar na imitação de Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo que se dedicou às obras de caridade:
+
+@texto
+Ó Pai, como ensinastes à vossa Igreja que todos os mandamentos se resumem em amar a Deus e ao próximo, concedei-nos, a exemplo de são (sto.) N., praticar obras de caridade, para sermos contados entre os benditos do vosso Reino. Por nosso Senhor Jesus Cristo, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo educador:
+
+@texto
+Ó Deus, que suscitastes são (sto.) N. na vossa Igreja, para mostrar ao próximo o caminho da salvação, concedei-nos seguir também o Cristo, nosso Mestre, e chegar até vós com nossos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

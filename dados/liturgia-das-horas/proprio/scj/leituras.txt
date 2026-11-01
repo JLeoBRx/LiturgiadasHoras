@@ -1,0 +1,233 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/scj.htm
+@documento Ofício das Leituras - Sagrado Coração De Jesus Solenidade
+
+@celebracao
+SAGRADO CORAÇÃO DE JESUS
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Coração, arca santa, guardando
+não a lei que aos antigos foi dada,
+mas o dom duma nova Aliança,
+no perdão e na graça firmada.
+
+Coração, sois o novo Sacrário
+da Aliança do céu com a terra,
+Templo novo, mais santo que o velho,
+véu que o Santo dos Santos encerra.
+
+Vosso lado por nós foi aberto,
+revelando ao olhar dos mortais
+as raízes do amor invisível,
+da ternura com que nos amais.
+
+Sois sinal do amor infinito
+de Jesus, que por nós se entregou,
+e na cruz, sacerdote perfeito,
+a perfeita oblação consumou.
+
+Tal amor, haverá quem não ame?
+Quem lhe possa ficar insensível?
+Quem não busque, na paz deste lado,
+o refúgio, a morada invisível?
+
+Esta graça esperamos do Pai
+e do Espírito Santo também:
+no fiel Coração de Jesus
+para sempre habitarmos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Em vós está a fonte da vida;
+na torrente de vossas delícias
+vós nos dais de beber água viva.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vós está a fonte da vida;
+na torrente de vossas delícias
+vós nos dais de beber água viva.
+
+@antifona 2
+Quando em mim o coração desfalecia,
+conduzistes-me às alturas do rochedo.
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@antifona
+Quando em mim o coração desfalecia,
+conduzistes-me às alturas do rochedo.
+
+@antifona 3
+Os confins do universo contemplaram
+a salvação do nosso Deus.
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+Os confins do universo contemplaram
+a salvação do nosso Deus.
+
+@texto
+V. Eu recordo os grandes feitos do Senhor.
+R. E relembro os seus prodígios do passado.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,28-39}
+
+@tema
+O amor de Deus manifesta-se em Cristo
+
+@texto
+Irmãos: [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou. [31] Depois disto, que nos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Ef 2,5.4b.7a
+
+@responsorio
+R. Quando estávamos mortos por nossos pecados,
+deu-nos vida em seu Cristo,
+* Pelo amor sem limites, com que Deus nos amou.
+V. A fim de mostrar, nos tempos vindouros,
+a imensa riqueza da graça de Cristo. * Pelo amor.
+
+@secao Segunda leitura
+
+@leitura
+Das Obras de São Boaventura, bispo
+{(Séc. XIII)} {(Opusculum 3, Lignum vitae, 29-30.47 Opera omnia 8,79)}
+
+@tema
+Em vós está a fonte da vida
+
+@texto
+Considera, ó homem redimido, quem é aquele que por tua causa está pregado na cruz, qual a sua dignidade e grandeza. A sua morte dá a vida aos mortos; por sua morte choram o céu e a terra, e fendem-se até as pedras mais duras. Para que, do lado de Cristo morto na cruz, se formasse a Igreja e se cumprisse a Escritura que diz: _Olharão para aquele que transpassaram_ (Jo 19,37), a divina Providência permitiu que um dos soldados lhe abrisse com a lança o sagrado lado, de onde jorraram sangue e água. Este é o preço da nossa salvação. Saído daquela fonte divina, isto é, no íntimo do seu Coração, iria dar aos sacramentos da Igreja o poder de conferir a vida da graça, tornando-se para os que já vivem em Cristo bebida da fonte viva _que jorra para a vida eterna_ (Jo 4,14). Levanta-te, pois, tu que amas a Cristo, sê como a pomba que _faz o seu ninho na borda do rochedo_ (Jr 48,28), e aí, como o _pássaro que encontrou sua morada_ (cf. Sl 83,4), não cesses de estar vigilante; aí esconde como a andorinha os filhos nascidos do casto amor; aí aproxima teus lábios para _beber a água das fontes do Salvador_ (cf. Is 12,3). Pois esta é a fonte _que brota no meio do paraíso e, dividida em quatro rios_ (cf. Gn 2,10), se derrama nos corações dos fiéis para irrigar e fecundar a terra inteira. Acorre com vivo desejo a esta fonte de vida e de luz, quem quer que sejas, ó alma consagrada a Deus, e exclama com todas as forças do teu coração: “Ó inefável beleza do Deus altíssimo e puríssimo esplendor da luz eterna, vida que vivifica toda vida, luz que ilumina toda luz e conserva em perpétuo esplendor a multidão dos astros, que desde a primeira aurora resplandecem diante do trono da vossa divindade. Ó eterno e inacessível, brilhante e suave manancial daquela fonte oculta aos olhos de todos os mortais! Sois profundidade infinita, altura sem limite, amplidão sem medida, pureza sem mancha!” De ti procede o rio que _vem trazer alegria à cidade de Deus_ (Sl 45,5), para que entre vozes de júbilo e contentamento (cf. Sl 41,5) possamos cantar hinos de louvor ao vosso nome, sabendo por experiência que _em vós está a fonte da vida, e em vossa luz contemplamos a luz_ (Sl 35,10).
+
+@secao Responsório | Sl 102(103),2.4; 33(34),9a
+
+@responsorio
+R. Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+* Da sepultura ele salva a tua vida
+e te cerca de carinho e compaixão.
+V. Provai e vede quão suave é o Senhor! * Da sepultura.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

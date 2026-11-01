@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3tercapascoa_vesperas.htm
+@documento Vésperas - Terça-feira da 3ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+. Paz a vós! Não temais, pois sou eu, aleluia.
+
+@salmo salmos/salmo-124-v3
+
+@antifona
+Paz a vós! Não temais, pois sou eu, aleluia.
+
+@antifona 2
+. Confia no Senhor, povo santo, aleluia.
+
+@salmo salmos/salmo-130-v2
+
+@antifona
+Confia no Senhor, povo santo, aleluia.
+
+@antifona 3
+. Que vos sirva toda a vossa criatura,
+pois mandastes e o universo foi criado. Aleluia.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v5
+
+@antifona
+Que vos sirva toda a vossa criatura,
+pois mandastes e o universo foi criado. Aleluia.
+
+@secao Leitura breve | 1Pd 2,4-5
+
+@texto
+Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O pão que Deus dá para o mundo
+é Aquele que desce dos céus e dá vida ao mundo. Aleluia.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+O pão que Deus dá para o mundo
+é Aquele que desce dos céus e dá vida ao mundo. Aleluia.
+
+@secao Preces
+
+@preces
+Aclamemos com alegria a Jesus Cristo, que morreu, foi sepultado e ressuscitou gloriosamente para uma vida nova; e digamos cheios de confiança:
+
+R. **Cristo, rei da glória, ouvi a nossa oração!**
+
+Pelos bispos, presbíteros e diáconos, para que desempenhem com generosidade o ministério que lhes foi confiado,
+– e guiem o vosso povo no caminho do bem, nós vos pedimos, Senhor. R.
+
+Pelos teólogos e pelos que servem à Igreja no estudo da vossa Palavra,
+– a fim de que procurem a verdade com pureza de coração, nós vos pedimos, Senhor. R.
+
+Pelos fiéis da Igreja, para que combatendo o bom combate da fé até o fim de sua caminhada sobre a terra,
+– recebam o prêmio que lhes está preparado desde a origem do mundo, nós vos pedimos, Senhor. R.
+
+Vós, que na cruz destruístes a sentença que nos condenava,
+– quebrai os laços da nossa escravidão e dissipai as nossas trevas. R.
+
+{(intenções livres)}
+
+Vós, que, descendo à mansão dos mortos, libertastes os justos que esperavam o Salvador,
+– acolhei em vosso Reino nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que abris as portas do reino dos céus aos que renasceram pela água e pelo Espírito Santo, aumentai em vossos filhos e filhas a graça que lhes destes para que, purificados de todo pecado, obtenham os bens que prometestes. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saovicente.htm
+@documento Ofício das Leituras - São Vicente, Diácono E Mártir
+
+@celebracao
+SÃO VICENTE, DIÁCONO E MÁRTIR
+
+@biografia
+Vicente, diácono da Igreja de Saragoça, morreu mártir em Valência (Espanha), durante a perseguição de Diocleciano, depois de ter sofrido cruéis tormentos. Seu culto logo se propagou por toda a Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. V)} {(Sermo 276,1-2: PL 38,1256)}
+
+@tema
+Vicente venceu naquele por quem o mundo foi vencido
+
+@texto
+_A vós foi dado por Cristo não apenas crerdes nele, mas também sofrerdes por causa dele_ (Fl 1,29), diz a Escritura.
+O levita Vicente recebera e possuía um e outro dom. Se não tivesse recebido, como os haveria de possuir? Tinha confiança na palavra, tinha coragem no sofrimento.
+Ninguém, portanto, se envaideça de sua força interior, quando fala; ninguém confie nas próprias forças, quando é tentado; porque se falamos bem e com prudência, é de Deus que vem nossa sabedoria e, se suportamos os males com firmeza, é dele que vem a nossa força.
+Lembrai-vos de como, no Evangelho, Cristo Senhor adverte os que são seus; lembrai-vos do Rei dos mártires instruindo nas armas espirituais os seus exércitos, exortando-os para a guerra, dando-lhes ajuda e prometendo a recompensa. Ele, que disse aos discípulos: _No mundo, tereis tribulações, logo acrescenta, a fim de consolar os medrosos: Mas tende coragem! Eu venci o mundo_ (Jo 16,33).
+Por que então nos admiramos, caríssimos, se Vicente venceu naquele por quem o mundo foi vencido? No mundo, tereis tribulações, diz o Senhor. O mundo persegue, mas não triunfa; ataca, mas não vence. O mundo conduz uma dupla batalha contra os soldados de Cristo: afaga-os para enganá-los, aterroriza-os para quebrá-los. Que o nosso bem-estar não nos preocupe, não nos assuste a maldade alheia, e o mundo está vencido.
+Cristo acorre a ambos os combates e o cristão não é vencido. Se neste martírio se considera a capacidade humana para suportá-lo, o fato torna-se incompreensível; mas se nele se reconhece o poder divino, nada há que admirar.
+Era tanta a crueldade que afligia o corpo do mártir, e tanta a serenidade que transparecia de sua voz; era tamanha a ferocidade dos suplícios que maltratavam os seus membros, e tamanha a firmeza que ressoava nas suas palavras que, de algum modo maravilhoso, enquanto Vicente suportava o martírio, julgávamos ser torturada outra pessoa diferente da que falava.
+E era realmente assim, irmãos, era assim mesmo: era outro que falava. No Evangelho, Cristo prometeu também isto a suas testemunhas, ao prepará-las para tais combates. Falou deste modo: _Não fiqueis preocupados como falar ou o que dizer. Com efeito, não sereis vós que havereis de falar, mas sim o Espírito do vosso Pai é que falará através de vós_. (Mt 10,19-20). Por conseguinte, a carne sofria e o Espírito falava; e enquanto o Espírito falava, não apenas era vencida a impiedade, mas também a fraqueza era confortada.
+
+@secao Responsório Cf. Jó 23, 10.11; Fl 3,8.10
+
+@responsorio
+R. O Senhor me provou como o ouro no fogo;
+meus passos seguiram as suas pegadas.
+* Guardei seu caminho, sem dele afastar-me.
+V. Quis tudo perder,
+a fim de eu conhecer a Cristo Jesus
+e para participar dos seus sofrimentos.
+* Guardei
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, infundi em nossos corações o vosso Espírito para que sejam fortalecidos pelo intenso amor que levou o diácono São Vicente a vencer os tormentos do martírio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

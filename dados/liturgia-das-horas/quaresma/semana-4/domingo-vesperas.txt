@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4domingoquaresma_vesperas.htm
+@documento Vésperas - Domingo da 4ª Semana da Quaresma
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Ó Pai, nesta Quaresma,
+ouvi nossos pedidos:
+na mais contrita prece
+nos vedes reunidos.
+
+Sondais as nossas almas,
+na fé tão inconstantes:
+se para vós se voltam,
+mudai-as quanto antes.
+
+Pecamos, na verdade,
+tão longe da virtude:
+Senhor, por vosso nome,
+a todos dai saúde.
+
+Fazei que nosso corpo,
+enfim disciplinado,
+o dia todo fuja
+da culpa e do pecado.
+
+Que o tempo da Quaresma
+nos leve à santidade,
+e assim louvar possamos
+a glória da Trindade.
+
+@secao Salmodia
+
+@antifona 1
+Ele foi por Deus constituído
+o juiz dos vivos e dos mortos.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Ele foi por Deus constituído
+o juiz dos vivos e dos mortos.
+
+@antifona 2
+Feliz o homem caridoso e prestativo:
+é inabalável e jamais vacilará.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Feliz o homem caridoso e prestativo:
+é inabalável e jamais vacilará.
+
+@antifona 3
+Na paixão de seu Filho Jesus Cristo,
+Deus cumpriu o anúncio dos profetas.
+
+@salmo canticos/1pd-2-21-24-v2
+
+@texto
+{(R.} Por suas chagas nós fomos curados.)
+
+@salmo canticos/1pd-2-21-24-v3
+
+@gloria
+
+@antifona
+Na paixão de seu Filho Jesus Cristo,
+Deus cumpriu o anúncio dos profetas.
+
+@secao Leitura breve | Cf. 1Cor 9,24-25
+
+@texto
+Os que correm no estádio correm todos juntos, mas um só ganha o prêmio. Correi de tal maneira que conquisteis o prêmio.Todo atleta se sujeita a uma disciplina rigorosa em relação a tudo, e eles procedem assim, para receberem uma coroa corruptível. Quanto a nós, a coroa que buscamos é incorruptível.
+
+@secao Responsório breve
+
+@responsorio
+R. Em abundância vós me dais muito vigor para o combate.
+* Ó Deus de minha vitória! R. Em abundância.
+V. Vossa justiça me oriente. * Ó Deus.
+Glória ao Pai. R. Em abundância.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Demos graças a Cristo, nosso Mestre e Senhor, que veio para servir e fazer o bem a todos; e supliquemos com humildade e confiança:
+
+R. **Abençoai, Senhor, a vossa Igreja!**
+
+Guiai, Senhor, os nossos bispos e presbíteros, que participam do vosso ministério de Chefe e Pastor da Igreja,
+– a fim de que eles, assistidos por vós, conduzam para o Pai a humanidade inteira. R.
+
+Que os vossos anjos acompanhem os viajantes,
+– para que evitem todos os perigos do corpo e da alma. R.
+
+Ensinai-nos a servir a todos,
+– a fim de imitarmos a vós, que viestes para servir e não para ser servido. R.
+
+Fazei reinar em toda a comunidade humana o espírito de fraternidade sincera,
+– para que se torne, com a vossa presença, uma cidade forte e inabalável. R.
+
+{(intenções livres)}
+
+Sede misericordioso para com todos os que partiram desta vida,
+– e acolhei-os na luz da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que por vosso Filho realizais de modo admirável a reconciliação do gênero humano, concedei ao povo cristão correr ao encontro das festas que se aproximam, cheio de fervor e exultando de fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

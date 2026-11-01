@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ramos_vigilia.htm
+@documento Vigília do Domingo de Ramos da Paixão do Senhor
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Jesus, de joelhos, orava, assim dizendo:
+Pai, se queres, afasta esse cálice de mim,
+mas não seja o que eu quero, e, sim, o que tu queres!
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@salmo canticos/iii-lm-5-1-7-15-17-19-21
+
+@gloria
+
+@antifona
+Jesus, de joelhos, orava, assim dizendo:
+Pai, se queres, afasta esse cálice de mim,
+mas não seja o que eu quero, e, sim, o que tu queres!
+
+@secao Evangelho | Jo 8,21-30
+
+@texto
+[21] “Eu parto, e vós me procurareis, mas morrereis no vosso pecado. Para onde eu vou, vós não podeis ir.” [22] Os judeus comentavam: “Por acaso, vai-se matar? Pois ele diz: ‘Para onde eu vou, vós não podeis ir’?” [23] Jesus continuou: “Vós sois daqui de baixo, eu sou do alto. Vós sois deste mundo, eu não sou deste mundo. [24] Disse-vos que morrereis nos vossos pecados, porque, se não acreditais que eu sou, morrereis nos vossos pecados.” [25] Perguntaram-lhe pois: “Quém és tu, então?” Jesus respondeu: “O que vos digo, desde o começo. [26] Tenho muitas coisas a dizer a vosso respeito, e a julgar também. Mas aquele que me enviou é fidedigno, e o que ouvi da parte dele é o que falo para o mundo.” [27] Eles não compreenderam que lhes estava falando do Pai. [28] Por isso, Jesus continuou: “Quando tiverdes elevado o Filho do Homem, então sabereis que eu sou, e que nada faço por mim mesmo, mas apenas falo aquilo que o Pai me ensinou. [29] Aquele que me enviou está comigo. Ele não me deixou sozinho, porque sempre faço o que é de seu agrado.” [30] Enquanto Jesus assim falava, muitos acreditaram nele.

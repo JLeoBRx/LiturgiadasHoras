@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pascoa_vesperas.htm
+@documento Vésperas - Domingo da Páscoa na Ressurreição do Senhor
+
+@celebracao
+DOMINGO DA PÁSCOA NA RESSURREIÇÃO DO SENHOR
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@antifona 2
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@antifona 3
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galiléia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galiléia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@secao Leitura breve | Hb 10,12-14
+
+@texto
+Cristo, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Na tarde da Páscoa, a portas fechadas,
+Jesus aparece no meio dos seus, reunidos com medo,
+e lhes diz: Paz a vós! Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Na tarde da Páscoa, a portas fechadas,
+Jesus aparece no meio dos seus, reunidos com medo,
+e lhes diz: Paz a vós! Aleluia.
+
+@secao Preces
+
+@preces
+Oremos com alegria a Cristo nosso Senhor, que morreu, ressuscitou e agora, sem cessar, intercede por nós junto do Pai. Digamos cheios de confiança:
+
+R. **Cristo, rei vitorioso, ouvi a nossa oração!**
+
+Cristo, luz e salvação de todos os povos,
+– derramai sobre nós, que proclamamos a vossa ressurreição, o fogo do vosso Espírito. R.
+
+Que Israel, permanecendo fiel às promessas, caminhe firme na esperança,
+– e toda a terra se encha do conhecimento de vossa glória. R.
+
+Conservai-nos, Senhor, na comunhão dos vossos santos durante a nossa vida sobre a terra,
+– e dai-nos a graça de podermos, um dia, descansar com eles dos nossos trabalhos. R.
+
+Vós, que triunfastes admiravelmente sobre o poder do pecado e da morte,
+– fazei-nos viver sempre para vós, vencedor imortal. R.
+
+{(intenções livres)}
+
+Cristo Salvador, que da humilhação na cruz fostes exaltado à direita do Pai,
+– acolhei com bondade em vosso reino glorioso os nossos irmãos e irmãs que partiram desta vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, por vosso Filho Unigênito, vencedor da morte, abristes hoje para nós as portas da eternidade. Concedei que, celebrando a ressurreição do Senhor, renovados pelo vosso Espírito, ressuscitemos na luz da vida nova. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/4janeiro_terca.htm
+@documento 4janeiro_terca.htm
+
+@secao Leitura breve | Jr 31,7-8a
+
+@texto
+Exultai de alegria por Jacó, aclamai a primeira das nações; tocai, cantai e dizei: “Salva, Senhor, teu povo, o resto de Israel”. Eis que eu os trarei do país do Norte e os reunirei desde as extremidades da terra.
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/invitatorio/invitatorio94.html
+@documento Invitatorio
+
+@texto
+{Quando se reza sozinho pode-se dizer a seguinte oração:}
+Abri, Senhor, os meus lábios para bendizer o vosso santo nome. Purificai o meu coração de todos os pensamentos vãos, desordenados e estranhos. Iluminai o meu entendimento e inflamai minha vontade para que possa rezar digna, atenta e devotamente este Ofício, e mereça ser atendido na presença da vossa divina Majestade. Por Cristo, nosso Senhor. Amém.
+{–––––––––––––––––––––––} {O Invitatório tem seu lugar no início da oração cotidiana, ou seja, antepõe-se ao Ofício das Leituras, ou às Laudes, conforme se comece o dia por uma ou por outra ação litúrgica.}
+
+@texto
+V. Abri os meus lábios, ó Senhor.
+R. E minha boca anunciará vosso louvor.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [1] Vinde, exultemos de alegria no Senhor, *
+  aclamemos o Rochedo que nos salva!
+– [2] Ao seu encontro caminhemos com louvores, *
+  e com cantos de alegria o celebremos!
+
+@lacuna antifona-invitatorio
+
+@versos
+– [3] Na verdade, o Senhor é o grande Deus, *
+  o grande Rei, muito maior que os deuses todos.
+– [4] Tem nas mãos as profundezas dos abismos, *
+  e as alturas das montanhas lhe pertencem;
+– [5] o mar é dele, pois foi ele quem o fez, *
+  e a terra firme suas mãos a modelaram.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [6] Vinde adoremos e prostremo-nos por terra, *
+  e ajoelhemos ante o Deus que nos criou!
+= [7] Porque ele é o nosso Deus, nosso Pastor, †
+  e nós somos o seu povo e seu rebanho, *
+  as ovelhas que conduz com sua mão.
+
+@lacuna antifona-invitatorio
+
+@versos
+= [8] Oxalá ouvísseis hoje a sua voz: †
+  “Não fecheis os corações como em Meriba, *
+  [9] como em Massa, no deserto, aquele dia,
+– em que outrora vossos pais me provocaram, *
+  apesar de terem visto as minhas obras”.
+
+@lacuna antifona-invitatorio
+
+@versos
+= [10] Quarenta anos desgostou-me aquela raça †
+  e eu disse: “Eis um povo transviado, *
+  [11] seu coração não conheceu os meus caminhos!”
+– E por isso lhes jurei na minha ira: *
+  “Não entrarão no meu repouso prometido!”
+
+@lacuna antifona-invitatorio
+
+@gloria
+
+@rubrica
+(Quando o Salmo é cantado, se a melodia adotada for por estrofes, então se canta):
+
+@versos
+  Demos glória a Deus Pai onipotente
+  e a seu Filho, Jesus Cristo, Senhor nosso, †
+  e ao Espírito que habita em nosso peito *
+  pelos séculos dos séculos. Amém.
+
+@lacuna antifona-invitatorio
+
+@lacuna conclusao-invitatorio

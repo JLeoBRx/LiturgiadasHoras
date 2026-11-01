@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaocalabria_laudes.htm
+@documento Laudes - São João Calábria, presbítero
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+João Calábria de Verona,
+servo humilde do Senhor,
+o teu povo se abandona,
+confiante, ao teu amor.
+
+De São Zeno da colina,
+terra santa e abençoada,
+tua luz nos ilumina
+na difícil caminhada.
+
+Tua vida ofereceste,
+pura vítima inocente:
+da pureza de tua veste
+participe toda a gente.
+
+Aos que sofrem abre ainda
+o teu grande coração;
+que renoves tua vinda
+aguardamos na oração.
+
+Tu, de Cristo puro espelho,
+Vem! Ensina teus devotos
+a voltar ao Evangelho,
+do batismo fiéis aos votos.
+
+Glória ao Pai por seu amor
+e ao Filho, sumo bem,
+ao Espírito o louvor
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@antifona 2
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+dêem glória ao Pai celeste. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+dêem glória ao Pai celeste. Aleluia.
+
+@antifona 3
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, Pai todo-poderoso, que para reavivar no mundo a confiança em vossa paternidade e o abandono filial à vossa Providência, suscitastes na Igreja o sacerdote João Calábria, concedei-nos, por sua intercessão, que, animados pelo mesmo espírito, possamos reconhecer e servir o vosso próprio Filho em nossos irmãos e irmãs pobres e sofredores. Por nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

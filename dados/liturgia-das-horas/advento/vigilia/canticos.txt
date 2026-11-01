@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/vigilia_canticos.htm
+@documento Cânticos da Vigília
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Alegra-te e louva, ó Filha de Sião,
+eis que venho a ti, para morar em tua casa,
+é o que diz o Senhor!
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/i-is-40-10-17-v2
+
+@salmo canticos/ii-is-42-10-16
+
+@gloria
+
+@salmo canticos/iii-is-49-7-13
+
+@gloria
+
+@antifona
+Alegra-te e louva, ó Filha de Sião,
+eis que venho a ti, para morar em tua casa,
+é o que diz o Senhor!

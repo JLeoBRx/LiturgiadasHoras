@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sabado_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O céu e a terra passarão, diz o Senhor,
+porém jamais minhas palavras passarão.
+
+@salmo salmos/salmo-118-81-88-xi-caph
+
+@gloria
+
+@antifona
+O céu e a terra passarão, diz o Senhor,
+porém jamais minhas palavras passarão.
+
+@antifona 2
+Sois, Senhor, meu refúgio e fortaleza,
+torre forte na presença do inimigo.
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@antifona
+Sois, Senhor, meu refúgio e fortaleza,
+torre forte na presença do inimigo.
+
+@antifona 3
+Ó Senhor, salvai-me a vida do inimigo aterrador!
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Ó Senhor, salvai-me a vida do inimigo aterrador!
+
+@secao Leitura breve | Dt 8,5b-6
+
+@texto
+O Senhor teu Deus te educava, como um homem educa seu filho, para que guardes os mandamentos do Senhor teu Deus, e andes em seus caminhos e o temas.
+
+@texto
+V. É puro o temor do Senhor,
+imutável para sempre.
+R. Os julgamentos do Senhor são corretos
+e justos igualmente.
+
+@secao Oração
+
+@oracao
+Senhor Deus, Pai todo-poderoso, a quem somos submissos, derramai em nós a luz do Espírito Santo, para que, livres de todo inimigo, nos alegremos em vos louvar. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

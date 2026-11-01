@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5quartaquaresma_laudes.htm
+@documento Laudes - Quarta-feira da 5ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Em vossa luz contemplamos a luz.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vossa luz contemplamos a luz.
+
+@antifona 2
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@salmo canticos/jt-16-1-2-13-15
+
+@gloria
+
+@antifona
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@antifona 3
+Gritai a Deus aclamações de alegria!
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@antifona
+Gritai a Deus aclamações de alegria!
+
+@secao Leitura breve | Is 50,5-7
+
+@texto
+O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás. Ofereci as costas para me baterem e as faces para me arrancarem a barba: não desviei o rosto de bofetões e cusparadas. Mas o Senhor Deus é meu Auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado.
+
+@secao Responsório breve
+
+@responsorio
+R. Foi levado como ovelha ao matadouro;
+e, maltratado, não abriu a sua boca.
+* De sua linhagem quem dela cogitou? R. Foi levado.
+V. Da terra dos viventes foi cortado,
+por causa da revolta do seu povo. * De sua linhagem.
+Glória ao Pai. R. Foi levado.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Se guardardes minha palavra, diz Jesus,
+realmente vós sereis os meus discípulos;
+havereis de conhecer toda a verdade
+e a verdade haverá de libertar-vos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Se guardardes minha palavra, diz Jesus,
+realmente vós sereis os meus discípulos;
+havereis de conhecer toda a verdade
+e a verdade haverá de libertar-vos.
+
+@secao Preces
+
+@preces
+Bendigamos o Autor da nossa salvação, que quis renovar o ser humano em si mesmo, para que as coisas antigas passassem e tudo se fizesse novo. Apoiados nesta esperança viva, roguemos:
+
+R. **Senhor, renovai-nos com o vosso Espírito!**
+
+Senhor, que nos prometestes um novo céu e uma nova terra, renovai-nos sem cessar por vosso Espírito Santo,
+– para que gozemos eternamente da vossa presença na nova Jerusalém. R.
+
+Concedei-nos colaborar convosco para infundir no mundo o vosso Espírito,
+– e atrair mais eficazmente para a cidade terrena a justiça, a caridade e a paz. R.
+
+Ensinai-nos a corrigir nossa fraqueza e negligência,
+– e a procurar de todo o coração os bens eternos. R.
+
+Livrai-nos, Senhor, de todo o mal,
+– e preservai-nos do fascínio da vaidade, que obscurece a mente e oculta os verdadeiros valores. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, iluminai nossos corações purificados pela penitência. E ouvi com paternal bondade aqueles a quem dais o afeto filial. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2domingo_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Maria guardava no seu coração
+as palavras e os fatos, e neles pensava.
+
+@secao Leitura breve | 1Jo 4,9
+
+@texto
+Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele.
+
+@texto
+V. Os confins do universo contemplaram. Aleluia.
+R. A salvação do nosso Deus. Aleluia.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, esplendor dos vossos fiéis, irradiai por todo o mundo a vossa glória, e manifestai-vos a todos os povos no fulgor da vossa luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

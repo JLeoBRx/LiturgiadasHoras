@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2segunda_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+E paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao VI (Vau)
+
+@salmo salmos/salmo-118-41-48
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao Leitura breve | Is 10,24.27
+
+@texto
+Diz o Senhor Deus dos exércitos: "Não tenhas medo, povo meu, que habitas em Sião. Acontecerá naquele dia, que o teu ombro se livrará do peso dele, o teu pescoço, do seu jugo."
+
+@texto
+V. Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+pelo amor que demostrais ao vosso povo!
+R. Visitai-me com a vossa salvação!
+
+@secao Oração
+
+@oracao
+Cheguem à vossa presença, ó Deus, as nossas orações suplicantes, e possamos celebrar de coração puro o grande mistério da encarnação do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

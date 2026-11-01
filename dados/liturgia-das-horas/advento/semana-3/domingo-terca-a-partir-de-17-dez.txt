@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_terca17.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Rm 13,13-14a
+
+@texto
+Procedamos honestamente, como em pleno dia: nada de glutonerias e bebedeiras, nem de orgias sexuais e imoralidades, nem de brigas e rivalidades. Pelo contrário, revesti-vos do Senhor Jesus Cristo.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que vedes o vosso povo esperando fervoroso o natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

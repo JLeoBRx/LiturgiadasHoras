@@ -1,0 +1,37 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saotiago_vigilia.htm
+@documento Vigília de São Tiago
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Alegrai-vos, primeiro,
+porque vossos nomes no céu estão escritos.
+
+@salmo canticos/i-is-61-6-9
+
+@gloria
+
+@salmo canticos/ii-sb-3-7-9
+
+@gloria
+
+@salmo canticos/iii-sb-10-17-21
+
+@gloria
+
+@antifona
+Alegrai-vos, primeiro,
+porque vossos nomes no céu estão escritos.
+
+@secao Evangelho | Mc 3,13-19
+
+@texto
+Naquele tempo, [13] Jesus subiu ao monte e chamou os que ele quis. E foram até ele. [14] Então Jesus designou Doze, para que ficassem com ele e para enviá-los a pregar, [15] com autoridade para expulsar os demônios. [16] Designou, pois, os Doze: Simão, a quem deu o nome de Pedro; [17] Tiago e João, filhos de Zebedeu, aos quais deu o nome de Boanerges, que quer dizer "Filhos do trovão"; [18] André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu, [19] e Judas Iscariotes, aquele que depois o traiu.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que pelo sangue de São Tiago consagrastes as primícias dos trabalhos dos Apóstolos, concedei que a vossa Igreja seja confirmada pelo seu testemunho e sustentada pela sua proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.

@@ -1,0 +1,126 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2quartapascoa_completas.htm
+@documento Completas - Quarta-feira da 2ª Semana da Páscoa
+
+@titulo COMPLETAS / QUARTA-FEIRA
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@rubrica
+Depois, recomenda-se o , que na celebração comunitária pode ser inserido num Ato penitencial semelhante às fórmulas usadas na Missa.
+
+@secao Hino
+
+@hino
+Ó Jesus Redentor,
+do universo Senhor,
+Verbo eterno do Pai,
+Luz da Luz invisível,
+que dos vossos remidos
+vigilante cuidais.
+
+Vós, artista do mundo,
+e de todos os tempos
+o sinal divisor,
+no silêncio da noite
+renovai nosso corpo
+que lutando cansou.
+
+Afastai o inimigo,
+vós, que os fundos abismos
+destruís, ó Jesus!
+Não consiga o Maligno
+seduzir os remidos
+pelo sangue da Cruz
+
+Quando o corpo cansado
+for de noite embalado
+pelo sono e a calma,
+de tal modo adormeça,
+que ao dormir nossa carne
+não cochile nossa alma.
+
+Escutai-nos, ó Verbo,
+por quem Deus fez o mundo,
+e o conduz e mantém.
+Com o Pai e o Espírito,
+vós reinais sobre os vivos
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, sede a minha proteção,
+um abrigo bem seguro que me salva!
+
+@salmo salmos/salmo-030-2-6
+
+@antifona
+Ó Senhor, sede a minha proteção,
+um abrigo bem seguro que me salva!
+
+@antifona 2
+Das profundezas eu clamo a vós, Senhor! †
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Das profundezas eu clamo a vós, Senhor!
+
+@secao Leitura breve | Ef 4,26-27
+
+@texto
+Não pequeis. Que o sol não se ponha sobre o vosso ressentimento. Não vos exponhais ao diabo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, em vossas mãos
+* Eu entrego o meu espírito. R. Senhor.
+V. Vós sois o Deus fiel, que salvastes vosso povo.
+* Eu entrego. Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico,
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz!
+
+@secao Cântico de Simeão Lc 2,29-32
+
+@salmo canticos/nunc-dimittis
+
+@gloria
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz!
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, manso e humilde de coração, que tornais leve o fardo e suave o jugo dos que vos seguem, acolhei os propósitos e trabalhos deste dia e concedei-nos um repouso tranquilo, para amanhã vos servirmos com maior generosidade. Vós, que viveis e reinais para sempre.Amém.
+
+@texto
+O Senhor todo-poderoso nos conceda uma noite tranquila
+e, no fim da vida, uma morte santa.
+R. Amém.
+
+@secao Antífona final de Nossa Senhora
+
+@texto
+Ó Mãe do Redentor, do céu ó porta,
+ao povo que caiu, socorre e exorta,
+pois busca levantar-se, Virgem pura,
+nascendo o Criador da criatura:
+tem piedade de nós e ouve, suave,
+o anjo te saudando com seu Ave!

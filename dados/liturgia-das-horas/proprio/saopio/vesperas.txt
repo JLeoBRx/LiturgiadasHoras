@@ -1,0 +1,194 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saopio_vesperas.htm
+@documento Vésperas - São Pio de Pietrelcina, presbítero
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração do dia 23/09. Assim, o primeiro hino é do Comum dos pastores, para presbíteros, e o segundo traduzido livremente do original em latim para a memória.
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Claro espelho de virtude,
+homem santo, bom pastor,
+ouve o hino que, em ti, louva
+os prodígios do Senhor,
+
+que, Pontífice perpétuo,
+os mortais a Deus uniu,
+e, por nova Aliança,
+nova paz nos garantiu.
+
+Previdente, ele te fez
+do seu dom o servidor,
+para dar ao Pai a glória
+e a seu povo vida e amor.
+
+Atingindo alto cume
+por palavras e por vida,
+doutor foste e sacerdote,
+hóstia a Deus oferecida.
+
+Não te esqueças, pede a Deus,
+tu que ao céu foste elevado:
+que as ovelhas busquem todas
+do Pastor o verde prado.
+
+Glória à Trina Divindade,
+que, num servo tão fiel,
+recompensa os ministérios
+com o júbilo do céu.
+
+{Ou}
+
+O Filho é um holocausto de obediência
+sobre o altar do mundo,
+e o paraíso é aberto ao pecador,
+levantado pela cruz até o seu triunfo.
+
+Nesta tarde ungida pela Tua graça
+o futuro está anunciado.
+Ó Cristo, Sacerdote no Calvário,
+nos abrace como filhos amados.
+
+Sua vítima de amor, São Padre Pio,
+que orou pelo povo seu;
+e estando no céu à porta Te pediu:
+“Entro após o último filho meu.”
+
+Jesus orando, ó toda bendição,
+e augusto sacrifício,
+nos conceda ser hóstia e oblação
+e com São Pio estarmos reunidos.
+
+Trindade Divina do céu e da terra
+presente em nossa adoração,
+ó glória e Luz-Mistério da Igreja,
+em Ti seja o amor e a perfeição.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o amigo dos irmãos,
+* Que intercede pelo povo. R. Eis o amigo.
+V. Dedicou a sua vida em favor de seus irmãos.
+* Que intercede. Glória ao Pai. R. Eis o amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo.
+
+@antifona Ou:
+Eu te dou graças, ó Cristo, Bom Pastor,
+que me guiaste à glória do teu Reino!
+O rebanho que a mim confiaste
+esteja aqui onde estou na tua glória!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo.
+
+@antifona Ou:
+Eu te dou graças, ó Cristo, Bom Pastor,
+que me guiaste à glória do teu Reino!
+O rebanho que a mim confiaste
+esteja aqui onde estou na tua glória!
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que destes ao presbítero São Pio a graça singular de participar da cruz de vosso Filho e, por seu ministério, renovastes as maravilhas de vossa misericórdia, concedei-nos, por sua intercessão, que nos associemos continuamente à paixão de Cristo e cheguemos alegremente à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

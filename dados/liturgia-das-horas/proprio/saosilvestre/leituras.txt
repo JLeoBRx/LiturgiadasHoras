@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saosilvestre.htm
+@documento Ofício das Leituras - São Silvestre I, Papa Para Comemoração
+
+@celebracao
+SÃO SILVESTRE I, PAPA Para comemoração
+
+@biografia
+Ordenado bispo da Igreja Romana em 314, governou a Igreja no tempo do imperador Constantino Magno, quando o cisma donatista e a heresia ariana provocavam graves danos ao povo cristão. Morreu em 335 e foi sepultado no cemitério de Priscila, na via Salária.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da História Eclesiástica, de Eusébio de Cesaréia, bispo
+{(Séc. IV)} {(Lib. 10,1-3: PG 20,842-847)}
+
+@tema
+A paz constantiniana
+
+@texto
+A Deus Pai todo-poderoso e rei do universo seja dada glória por todas as coisas; demos graças também ao Salvador e Redentor de nossas almas, Jesus Cristo. Por ele rogamos que nossa paz seja firme e estável, livre para sempre tanto de ameaças externas quanto de todos os males e perturbações do espírito.
+O dia sereno e claro, sem nuvem alguma, já iluminava com o esplendor da luz celeste as Igrejas de Cristo espalhadas pelo mundo inteiro. Permitia-se até aos que não eram de nossa religião participarem, em certa medida, dos mesmos bens que Deus nos tinha concedido.
+Para nós, que colocamos toda a nossa esperança em Cristo, era incrível a alegria e, por assim dizer, divina a felicidade que iluminava nossos rostos ao contemplar como todos aqueles lugares, pouco antes destruídos pela impiedade dos tiranos, reviviam agora, como se ressuscitassem duma longa e mortal devastação. Víamos os templos novamente se elevarem das ruínas até enormes alturas e com muito mais ornatos e maior esplendor do que antes de sua destruição.
+Desejado e esperado espetáculo ofereciam-nos as festas da Dedicação das Igrejas em cada cidade e a bênção dos Oratórios recém-construídos.
+Para tanta alegria, reuniam-se os bispos, acorriam peregrinos das mais longínquas regiões, manifestavam os povos sentimentos de mútua caridade e benevolência, unidos entre si como membros do Corpo de Cristo.
+Assim se cumpria o oráculo profético que de forma velada anunciava o que devia acontecer: _O osso se adaptava ao osso e a juntura à juntura_ (cf. Ez 37,7), bem como tudo mais que a profecia enunciou com palavras misteriosas.
+A mesma força do Espírito divino circulava por todos os membros; todos tinham uma só alma, a mesma alegria na fé, os mesmos cânticos de louvor a Deus.
+Eram perfeitíssimas as cerimônias dos bispos e dignos os sacrifícios que os sacerdotes ofereciam; os ritos da Igreja celebravam-se com uma majestade quase divina; cantavam-se salmos, escutavam-se as palavras inspiradas por Deus; realizavam-se os divinos e sagrados mistérios. Também eram comunicados os místicos símbolos da paixão salvadora.
+Enfim, uma multidão de homens e mulheres de todas as idades, de todo o coração e na imensa alegria de suas almas, adorava a Deus, autor de todos os bens, com preces e ações de graças.
+
+@secao Responsório | Ez 3,21; 1Tm 4,16
+
+@responsorio
+R. A paz de Cristo reine em vossos corações,
+para a qual fostes chamados num só corpo;
+* Sede gratos, pois em Cristo, sois um só.
+V. Cantai ao Senhor Deus um canto novo
+e seu louvor, na assembléia dos fiéis. * Sede gratos.
+
+@secao Oração
+
+@oracao
+Vinde, ó Deus, em auxílio do vosso povo para que, conduzido por vós nesta vida, mediante a intercessão do papa São Silvestre, possa chegar à vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4domingoquaresma_laudes.htm
+@documento Laudes - Domingo da 4ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Humildes, ajoelhados
+na prece que a fé inspira,
+ao justo Juiz roguemos
+que abrande o rigor da ira.
+
+Ferimos por nossas culpas
+o vosso infinito amor.
+A vossa misericórdia
+do alto infundi, Senhor.
+
+Nós somos, embora frágeis,
+a obra de vossa mão;
+a honra do vosso nome
+a outros não deis, em vão.
+
+Senhor, destruí o mal,
+fazei progredir o bem;
+possamos louvar-vos sempre,
+e dar-vos prazer também.
+
+Conceda o Deus Uno e Trino,
+que a terra e o céu sustém,
+que a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois meu Deus, eu vos bendigo e agradeço!
+Vós sois meu Deus, eu vos exalto com louvores!
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Vós sois meu Deus, eu vos bendigo e agradeço!
+Vós sois meu Deus, eu vos exalto com louvores!
+
+@antifona 2
+Vós sois poderoso, Senhor:
+arrancai-nos das mãos violentas,
+libertai-nos, Senhor nosso Deus!
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Vós sois poderoso, Senhor:
+arrancai-nos das mãos violentas,
+libertai-nos, Senhor nosso Deus!
+
+@antifona 3
+Louvai o Senhor Deus, por seus feitos grandiosos!
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Louvai o Senhor Deus, por seus feitos grandiosos!
+
+@secao Leitura breve | Ne 8,9b.10b
+
+@texto
+Este é um dia consagrado ao Senhor, vosso Deus! Não fiqueis tristes nem choreis. Pois este dia é santo para o nosso Senhor. Não fiqueis tristes, porque a alegria do Senhor será a vossa força.
+
+@secao Responsório breve
+
+@responsorio
+R. A alegria do Senhor é nossa força e amparo.
+* Sois bendito, Senhor Deus, de geração em geração.
+R. A alegria.
+V. Seja bendito vosso nome glorioso,
+que céu e terra vos exaltem, sem cessar! * Sois bendito.
+Glória ao Pai. R. A alegria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Glorifiquemos a Deus, cuja bondade é infinita, e por Jesus Cristo, que vive eternamente intercedendo por nós junto ao Pai, rezemos; e digamos:
+
+R. **Acendei em nós, Senhor, o fogo do vosso amor!**
+
+Deus de misericórdia, fazei-nos viver hoje generosamente a prática do amor fraterno,
+– para que todos sintam em nós os efeitos da vossa bondade. R.
+
+Vós que na arca salvastes Noé das águas do dilúvio,
+– salvai os catecúmenos nas águas do batismo. R.
+
+Saciai-nos não apenas de pão,
+– mas de toda palavra que sai de vossa boca. R.
+
+Afastai todo sentimento de discórdia e divisão,
+– para que reinem sempre entre nós a caridade e a paz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que por vosso Filho realizais de modo admirável a reconciliação do gênero humano, concedei ao povo cristão correr ao encontro das festas que se aproximam, cheio de fervor e exultando de fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

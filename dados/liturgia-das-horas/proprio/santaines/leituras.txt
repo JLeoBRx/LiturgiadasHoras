@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santaines.htm
+@documento Ofício das Leituras - Santa Inês, Virgem E Mártir Memória
+
+@celebracao
+SANTA INÊS, VIRGEM E MÁRTIR
+{Memória}
+
+@biografia
+Sofreu o martírio em Roma na segunda metade do século III ou, mais provavelmente, no início do século IV. O papa São Dâmaso adornou o seu sepulcro com versos, e muitos Santos Padres, seguindo Santo Ambrósio, celebraram seus louvores.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Pelo fogo do amor divinal,
+Santa Inês o prazer superou
+e mais forte que as vozes do corpo,
+a pureza em seu ser triunfou.
+
+Coros de anjos recebem-lhe o espírito,
+e o elevam mais alto que os céus.
+A esposa se une ao esposo
+no palácio sagrado de Deus.
+
+Santa virgem, de nós tem piedade
+e obtém-nos da culpa o perdão.
+Aos que a tua vitória celebram
+queira Deus conceder salvação.
+
+Torna o Cristo Senhor compassivo
+ao seu povo, por ele remido.
+Dá-nos paz, numa vida tranquila,
+e conserva os fiéis sempre unidos.
+
+Celebramos o manso Cordeiro
+que Inês como esposo escolheu.
+Glória Àquele que a terra dirige
+e governa as estrelas do céu.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Deste modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.[8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judéia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Inúmeros paralíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre as Virgens, de Santo Ambrósio, bispo
+{(Séc.IV)} {(Lib. 1, cap. 2.5.7-9:PL 16, [edit. 1845],189-191)}
+
+@tema
+Ainda não preparada para o sofrimento e já madura para a vitória!
+
+@texto
+Celebramos o natalício de uma virgem: imitemos sua integridade; é o natalício de uma mártir: ofereçamos sacrifícios. É o aniversário de Santa Inês. Conta-se que sofreu o martírio com a idade de doze anos. Quanto mais detestável foi a crueldade que não poupou sequer tão tenra idade, tanto maior é a força da fé que até naquela idade encontrou testemunho. Haveria naquele corpo tão pequeno lugar para uma ferida? Mas aquela que quase não tinha tamanho para receber o golpe da espada, teve força para vencer a espada. E isto numa idade em que as meninas não suportam sequer ver o rosto zangado dos pais e choram como se uma picada de alfinete fosse uma ferida! Mas ela permaneceu impávida entre as mãos ensanguentadas dos carrascos, imóvel perante o arrastar estridente dos pesados grilhões. Oferece o corpo à espada do soldado enfurecido, sem saber o que é a morte, mas pronta para ela. Levada à força até os altares dos ídolos, estende as mãos para Cristo no meio do fogo, e nestas chamas sacrílegas mostra o troféu do Senhor vitorioso. Finalmente, tendo que introduzir o pescoço e ambas as mãos nas algemas de ferro, nenhum elo era suficientemente apertado para segurar membros tão pequeninos. Novo gênero de martírio? Ainda não preparada para o sofrimento e já madura para a vitória! Mal sabia lutar e facilmente triunfa! Dá uma lição de firmeza apesar de tão pouca idade! Uma recém-casada não se apressaria para o leito nupcial com aquela alegria com que esta virgem correu para o lugar do suplício, levando a cabeça enfeitada não de belas tranças mas de Cristo, e coroada não de flores mas de virtudes. Todos choram, menos ela. Muitos se admiram de vê-la entregar tão generosamente a vida que ainda não começara a gozar, como se já tivesse vivido plenamente. Todos ficam espantados que já se levante como testemunha de Deus quem, por causa da idade, não podia ainda dar testemunho de si. Afinal, aquela que não mereceria crédito se testemunhasse a respeito de um homem, conseguiu que lhe dessem crédito ao testemunhar acerca de Deus. Pois o que está acima da natureza, pode fazê-lo o Autor da natureza. Quantas ameaças não terá feito o carrasco para incutir-lhe terror! Quantas seduções para persuadi-la! Quantas propostas para casar com algum deles! Mas sua resposta foi esta: “É uma injúria ao Esposo esperar por outro que me agrade. Aquele que primeiro me escolheu para si, esse é que me receberá. Por que demoras, carrasco? Pereça este corpo que pode ser amado por quem não quero!” Ficou de pé, rezou, inclinou a cabeça. Terias podido ver o carrasco perturbar-se, como se fosse ele o condenado, tremer a mão que desfecharia o golpe, e empalidecerem os rostos temerosos do perigo alheio, enquanto a menina não temia o próprio perigo. Tendes, pois, numa única vítima um duplo martírio: o da castidade e o da fé. Inês permaneceu virgem e alcançou o martírio.
+
+@secao Responsório
+
+@responsorio
+R. Celebremos a festa de santa Inês,
+lembremos o modo como ela sofreu
+o martírio por Cristo.
+* Na flor da idade, vencendo a morte,
+a vida encontrou.
+V. Somente amou quem da vida é o Autor. * Na flor.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que escolheis as criaturas mais frágeis para confundir os poderosos, dai-nos, ao celebrar o martírio de Santa Inês, a graça de imitar sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

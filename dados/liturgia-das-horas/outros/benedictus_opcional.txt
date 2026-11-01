@@ -1,0 +1,8 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/benedictus_opcional.htm
+@documento Benedictus - Versão Opcional
+
+@titulo BENEDICTUS / {(Versão Opcional)}
+
+@salmo salmos/trecho-benedictus-opcional
+
+@gloria

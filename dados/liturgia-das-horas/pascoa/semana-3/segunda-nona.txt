@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3segundapascoa_nona.htm
+@documento Hora Média - Nona - Segunda-feira da 3ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-89-96-xi-lamed
+
+@gloria
+
+@salmo salmos/salmo-070-i
+
+@gloria
+
+@salmo salmos/salmo-070-ii
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | 2Tm 2,8.11
+
+@texto
+Lembra-te de Jesus Cristo, da descendência de Davi, ressuscitado dentre os mortos, segundo o meu evangelho. Merece fé esta palavra: se com ele morremos, com ele viveremos.
+
+@texto
+V. Ó Senhor, ficai conosco, aleluia,
+R. Pois o dia já declina. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, vós que mostrais aos que erram a luz da verdade para que possam voltar ao bom caminho, concedei a todos os que se gloriam da vocação cristã rejeitem o que se opõe a este nome e abracem quanto possa honrá-lo. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

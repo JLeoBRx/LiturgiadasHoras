@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/bienal/19dezembro_impar.htm
+@documento Ofício das Leituras - 19 De Dezembro
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {41,8-20}
+
+@tema
+Promessa de um novo êxodo
+
+@texto
+[8] E tu, Israel, meu servo, Jacó, a quem escolhi, descendência de Abraão, meu amigo, [9] tu, a quem tomei desde os confins da terra, a quem chamei desde os seus recantos longínquos e te disse: “tu és o meu servo, eu te escolhi, não te rejeitei”. [10] Não temas, porque estou contigo, não te apavores, pois eu sou o teu Deus; eu te fortaleci, sim, eu te ajudei; eu te sustentei com a minha destra justiceira. [11] Serão envergonhados e humilhados todos os que se inflamam contra ti. Serão reduzidos a nada e perecerão, aqueles que querelavam contigo. [12] Tu os procurarás, e não os encontrarás, os que te combatiam; serão reduzidos a nada, serão aniquilados aqueles que te faziam guerra. [13] Com efeito, eu, o Senhor, teu Deus, te tomei pela mão direita e te direi: “Não temas, sou eu que te ajudo”. [14] Não temas, vermezinho de Jacó, e vós, pobres pessoas de Israel. Eu mesmo te ajudarei, oráculo do Senhor; o teu redentor é o Santo de Israel. [15] Eis que fiz de ti um trilho capaz de malhar, novo e bem cortante. Trilharás os montes, reduzindo-os a pó, dos outeiros farás um montão de palha. [16] Tu os joeirarás e o vento os levará; o furacão os dispersará. Tu, porém, regozijarás no Senhor, no Santo de Israel te gloriarás. [17] Os pobres e os indigentes buscam água, e nada! Sua língua está seca de sede, mas eu, o Senhor, os atenderei, eu, o Deus de Israel, não os abandonarei. [18] Farei jorrar rios por entre montes desnudos, e fontes no meio dos vales. Transformarei o deserto em pântanos e a terra seca em nascentes de água. [19] No deserto estabelecerei o cedro, a acácia, o mirto e a oliveira; na estepe colocarei o zimbro, o cipreste e o plátano, [20] a fim de que vejam e saibam, a fim de que prestem atenção e compreendam que a mão do Senhor fez isto, e o Santo de Israel o criou.
+
+@secao Responsório | Mt 12,17;Dt 18,15
+
+@responsorio
+R. Eis o meu Servo, em quem minha alma se compraz.
+* Porei o meu Espírito sobre ele,
+e ele anunciará o Direito às nações.
+V. O Senhor teu Deus suscitará um profeta no meio de ti,
+dentre os teus irmãos. * Porei o meu Espírito.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Máximo de Turim, bispo
+{(Séc. V)} {(Sermo 61a,1-3: CCL 23,249.250-251)}
+
+@tema
+Aproxima-se o Natal do Cristo Senhor
+
+@texto
+Ainda que eu me calasse, irmãos, lembra-nos o tempo que o Natal do Cristo Senhor se aproxima, pois a brevidade dos dias se adianta à minha pregação. Justamente por suas aflições, o mundo manifesta que se aproxima algo que o tornará melhor, e deseja ardentemente que o resplendor de um sol mais luminoso ilumine suas trevas.
+Receando que o seu curso se encerre com a brevidade das horas, espera, de certo modo, que o ano se renove. Essa expectativa da criação também nos leva a esperar que o Cristo, novo sol, ilumine com seu nascimento as trevas dos nossos pecados. E que, como sol de justiça, pelo poder do seu Natal, ponha fim à longa noite dos nossos delitos, não permitindo que o curso de nossa vida termine com uma brevidade funesta, mas se prolongue ao contrário pela força de sua graça.
+Conhecendo, pois, o Natal do Senhor, que até o mundo nos indica, façamos também nós o que ele costuma fazer: assim como nesse dia ele prolonga sua luz, aumentemos também nossa santidade! assim como a luz desse dia é comum aos pobres e ricos, também a nossa liberalidade seja comum aos peregrinos e indigentes! e assim como o mundo começa então a repelir a escuridão de suas noites, extirpemos também nós as trevas da nossa avareza!
+Irmãos, ornemo-nos de vestes puras e brilhantes para celebrar o Natal do Senhor! Refiro-me às vestes da alma, e não às do corpo. Cuidemos não das vestimentas de seda, mas das boas obras! As vestes limpas podem cobrir o corpo, mas não ornar a consciência, e nada há de mais vergonhoso do que caminhar com vestes limpas, mas com sentimentos impuros. Purifiquemos primeiro os nossos afetos, antes de enfeitarmos a nossa aparência. Lavemos nossas manchas espirituais, para que refuljam em nós as vestes do corpo. Pois de nada valem nossas vestes refulgentes, se tivermos a alma manchada pelo pecado. Quando a consciência está nas trevas, todo o corpo é obscuro. Temos com o que purificar nossa consciência de suas manchas, pois está escrito: _Dai_ _esmola e tudo ficará puro para vós_ (Lc 11,41). Bom é o preceito da esmola, pelo qual purificamos o coração trabalhando com as mãos.
+
+@secao Responsório | Cf. Lc 19,10;Sl 79,20
+
+@responsorio
+R. Em breve virá a nossa salvação,
+o Redentor anunciado por Gabriel
+e concebido pela Virgem Maria.
+* O Senhor vem libertar o homem perdido,
+que havia plasmado na terra.
+V. Senhor, Deus dos exércitos, fazei-nos voltar!
+Fazei vossa face brilhar, e seremos salvos! * O Senhor vem libertar.
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes ao mundo o esplendor de vossa glória pelo parto virginal de Maria, dai-nos venerar com fé pura e celebrar sempre com amor sincero o mistério tão profundo da encarnação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

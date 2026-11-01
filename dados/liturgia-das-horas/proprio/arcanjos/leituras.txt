@@ -1,0 +1,243 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/arcanjos.htm
+@documento Ofício das Leituras - Santos Miguel, Gabriel E Rafael, Arcanjos Festa
+
+@celebracao
+SANTOS MIGUEL, GABRIEL E RAFAEL, ARCANJOS
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Arcanjos, para vós
+um canto de vitória,
+porque no céu reinais,
+imensa é a vossa glória.
+
+Miguel, invicto príncipe
+da corte celestial,
+firmai-nos, com mão fúlgida,
+na graça divinal.
+
+Do máximo mistério
+arauto, ó Gabriel,
+guiai-nos nos caminhos
+da luz que vem do céu.
+
+Conosco, ó Rafael,
+à pátria caminhai.
+Aos corpos dai saúde,
+as mentes libertai.
+
+Vós, anjos, ajudai-nos
+nas sendas que trilhamos.
+De vosso eterno gozo
+consortes nós sejamos.
+
+Ao Pai Supremo, ao Filho,
+e ao Consolador
+a honra eternamente
+num hino de louvor.
+
+@secao Salmodia
+
+@antifona 1
+Agitou-se o mar e a terra tremeu,
+quando o arcanjo Miguel desceu das alturas.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Agitou-se o mar e a terra tremeu,
+quando o arcanjo Miguel desceu das alturas.
+
+@antifona 2
+O anjo Gabriel
+apareceu a Zacarias no templo e lhe disse:
+Tua esposa Isabel dará à luz um filho,
+a quem tu chamarás com o nome de João.
+
+@salmo salmos/salmo-102-i-v2
+
+@gloria
+
+@antifona
+O anjo Gabriel
+apareceu a Zacarias no templo e lhe disse:
+Tua esposa Isabel dará à luz um filho,
+a quem tu chamarás com o nome de João.
+
+@antifona 3
+Sou o anjo Rafael, que estou ante o Senhor.
+Bendizei ao Senhor Deus
+e narrai seus grandes feitos.
+
+@salmo salmos/salmo-102-ii-v2
+
+@gloria
+
+@antifona
+Sou o anjo Rafael, que estou ante o Senhor.
+Bendizei ao Senhor Deus
+e narrai seus grandes feitos.
+
+@texto
+V. Bendizei ao Senhor Deus, seus anjos todos,
+R. Valorosos que cumpris as suas ordens.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse de São João {12,1-17}
+
+@tema
+O combate de Miguel com o Dragão
+
+@texto
+Apareceu no céu um grande sinal: uma mulher vestida de sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. Estava grávida e gritava em dores de parto, atormentada para dar à luz. Então apareceu outro sinal no céu: um grande Dragão, cor de fogo. Tinha sete cabeças e dez chifres e, sobre as cabeças, sete coroas. Com a cauda, varria a terça parte das estrelas do céu, atirando-as sobre a terra. O Dragão parou diante da Mulher que estava para dar à luz, pronto para devorar o seu Filho, logo que nascesse. E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o Filho foi levado para junto de Deus e do seu trono. A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para que aí fosse alimentada durante mil e duzentos e sessenta dias.
+
+Houve então uma batalha no céu: Miguel e seus anjos guerrearam contra o Dragão. O Dragão lutou juntamente com os seus anjos, mas foi derrotado, e não se encontrou mais o seu lugar no céu. E foi expulso o grande Dragão, a antiga Serpente, que é chamado Diabo e Satanás, o sedutor do mundo inteiro. Ele foi expulso para a terra, e os seus anjos foram expulsos com ele. Ouvi então uma voz forte no céu, proclamando: “Agora realizou-se a salvação, a força e a realeza do nosso Deus, e o poder do seu Cristo. Porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noite diante do nosso Deus.
+
+Eles venceram o Dragão pelo sangue do Cordeiro e pela palavra do seu próprio testemunho, pois não se apegaram à vida, mesmo diante da morte. Por isso, alegra-te, ó céu, e todos os que viveis nele. Mas ai da terra e do mar, porque o Diabo desceu para o meio de vós e está cheio de grande furor; pois sabe que lhe resta pouco tempo.”
+
+Quando viu que tinha sido expulso para a terra, o Dragão começou a perseguir a Mulher que tinha dado à luz o menino. A Mulher recebeu as duas asas da grande águia e voou para o deserto, para o lugar onde é alimentada, por um tempo, dois tempos e meio tempo, bem longe da Serpente. A Serpente, então, vomitou como um rio de água atrás da Mulher, a fim de a submergir. A terra, porém, veio em socorro da Mulher: abriu a boca e engoliu o rio que o Dragão tinha vomitado.
+
+Cheio de raiva por causa da Mulher, o Dragão começou a combater o resto dos filhos dela, os que observam os mandamentos de Deus e guardam o testemunho de Jesus.
+
+@secao Responsório | Ap 12,7.10
+
+@responsorio
+R. Houve um grande combate no céu, enquanto o dragão combatia o arcanjo Miguel e seus anjos.
+* Ouviu-se uma voz proclamando: a salvação, o poder e a honra pertencem ao Deus poderoso.
+V. Chegou a salvação, o poder e a realeza do Senhor e nosso Deus e a autoridade do seu Cristo. * Ouviu-se.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre os Evangelhos, de São Gregório Magno, papa
+{(Séc. VI)} {(Hom. 34,8-9: PL 76,1250-1251)}
+
+@tema
+A palavra anjo indica o ofício, não a natureza
+
+@texto
+É preciso saber que a palavra anjo indica o ofício, não a natureza. Pois estes santos espíritos da pátria celeste são sempre espíritos, mas nem sempre podem ser chamados anjos, porque somente são anjos quando por eles é feito algum anúncio. Aqueles que anunciam fatos menores são ditos anjos; os que levam as maiores notícias, arcanjos. Foi por isto que à Virgem Maria não foi enviado um anjo qualquer, mas o arcanjo Gabriel; para esta missão, era justo que viesse o máximo anjo para anunciar a máxima notícia. Por este motivo também a eles são dados nomes especiais para designar, pelo vocábulo, seu poder na ação. Naquela santa cidade, onde há plenitude da ciência pela visão do Deus onipotente, não precisam de nomes próprios para se distinguirem uns dos outros. Mas quando vêm até nós para cumprir uma missão, trazem também entre nós um nome derivado desta missão. Assim Miguel significa: “Quem como Deus?”; Gabriel, “Força de Deus”; e Rafael, “Deus cura”.
+Todas as vezes que se trata de grandes feitos, diz-se que Miguel é enviado, porque pelo próprio nome e ação dá-se a entender que ninguém pode por si mesmo fazer o que Deus quer destacar. Por isto, o antigo inimigo, que por soberba cobiçou ser igual a Deus, dizendo: _Subirei ao céu, acima dos astros do céu erguerei meu trono, serei semelhante ao Altíssimo_ ( cf. Is 14,13-14), no fim do mundo, quando será abandonado às próprias forças para ser destruído no extremo suplício, pelejará com o arcanjo Miguel, como diz João: _Houve uma luta com Miguel arcanjo_ (Ap 12,7).
+A Maria é enviado Gabriel, que significa “Força de Deus”. Vinha anunciar aquele que se dignou aparecer humilde para combater as potestades do ar. Portanto devia ser anunciado pela força de Deus o Senhor dos exércitos que vinha poderoso no combate. Rafael, como dissemos, significa “Deus cura”, porque ao tocar nos olhos de Tobias como que num ato de cura, lavou as trevas de sua cegueira. Quem foi enviado a curar, com justiça se chamou “Deus cura”.
+
+@secao Responsório | Cf. Ap 8,3.4; Dn 7,10b
+
+@responsorio
+R. Aparecendo um outro anjo, ficou de pé junto ao altar, segurando em suas mãos um turíbulo de ouro, foi-lhe dado muito incenso, para ser oferecido.
+* Da mão do anjo subiu a fumaça do incenso, à presença de Deus.
+V. Milhares e milhares o serviam, dezenas de milhares o assistiam. * Da mão do anjo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que organizais de modo admirável o serviço dos Anjos e dos homens, fazei que sejamos protegidos na terra por aqueles que vos servem no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

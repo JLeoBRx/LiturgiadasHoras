@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2domingo_leituras.htm
+@documento Ofício das Leituras - II Domingo
+
+@titulo II DOMINGO / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Chegamos ao meio da noite.
+Profética voz nos chamou
+e exorta a cantarmos felizes
+de Deus Pai e Filho o louvor,
+
+que unidos no Espírito da Vida,
+são perfeita e santa Trindade,
+igual numa só natureza,
+à qual honra, amor, majestade!
+
+Recorda esta hora o terror
+de quando, nas terras do Egito,
+um anjo matou primogênitos,
+deixando o país todo aflito.
+
+Mas traz salvação para os justos
+na hora que Deus decretou.
+As casas marcadas com sangue
+o anjo da morte poupou.
+
+O Egito chorou os seus filhos,
+porém Israel se alegrou.
+O sangue do puro cordeiro
+aos seus protegeu e salvou.
+
+Nós somos o novo Israel,
+e em vós, ó Senhor, exultamos.
+Com sangue de Cristo marcados,
+do mal os ardis desprezamos.
+
+Deus santo, fazei-nos ser dignos
+da glória do mundo que vem.
+Possamos cantar vossa glória
+no céu para sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Salve o dia que é glória dos dias,
+feliz dia, de Cristo vitória,
+dia pleno de eterna alegria,
+o primeiro.
+
+Luz divina brilhou para os cegos;
+nela o Cristo triunfa do inferno,
+vence a morte, reconciliando
+terra e céus.
+
+A sentença eterna do Rei
+tudo sob o pecado encerrou,
+para que na fraqueza brilhasse
+maior graça.
+
+O poder e a ciência de Deus
+misturaram rigor e clemência,
+quando o mundo já estava caindo
+nos abismos.
+
+Surge livre do Reino da morte
+quem o gênero humano restaura,
+reconduz em seus ombros a ovelha
+ao redil.
+
+Reine a paz entre os anjos e os homens,
+e no mundo a total plenitude.
+Ao Senhor triunfante convém
+toda a glória.
+
+Mãe Igreja, tua voz faça coro
+à harmonia da pátria celeste.
+Cantem hoje Aleluias de glória
+os fiéis.
+
+Triunfando do império da morte,
+triunfal alegria gozemos.
+Paz na terra e nos céus alegria.
+Assim seja.
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto! Aleluia.
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto! Aleluia.
+
+@antifona 2
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração. Aleluia.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração. Aleluia.
+
+@antifona 3
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas. Aleluia.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas. Aleluia.
+
+@texto
+V. Felizes vossos olhos porque veem,
+R. E também vossos ouvidos porque ouvem!

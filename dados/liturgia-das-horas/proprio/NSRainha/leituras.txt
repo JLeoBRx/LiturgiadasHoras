@@ -1,0 +1,132 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSRainha.htm
+@documento Ofício das Leituras - Nossa Senhora Rainha Memória ___________________
+
+@celebracao
+NOSSA SENHORA RAINHA
+{Memória}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+No alto cume dos seres,
+Rainha e Virgem estás.
+Com tal beleza adornada,
+imperas sobre as demais.
+
+Na criação resplandeces
+como obra-prima criada,
+para gerares o Filho
+que te criou, destinada.
+
+Rei purpurado no sangue,
+no lenho morre Jesus;
+com ele a cruz partilhando,
+és Mãe dos vivos, na luz.
+
+De tanta graça repleta,
+vela por nós, pecadores;
+escuta a voz dos teus filhos,
+que hoje te cantam louvores.
+
+Louvor ao Pai e ao Paráclito
+e glória ao Filho também,
+que te vestiram de graça
+no Reino eterno. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,10-14; 8,10c; 11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [1] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; [8,10] porque Deus está conosco. [11,1] Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; [3] no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer; [4] mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. [5] Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; [8] a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de Santo Amadeu, bispo de Lausana
+{(Séc.XII)} {(Hom. 7:SCh 72,188.190.192.200)}
+
+@tema
+Rainha do mundo e da paz
+
+@texto
+Considera com que justa disposição refulgiu, já antes da assunção, o admirável nome de Maria por toda a terra. Sua fama extraordinária por toda a parte se espalhou antes que sua magnificência fosse elevada acima dos céus. Pois convinha que a Virgem Mãe, em honra de seu Filho, primeiro reinasse na terra, em seguida, fosse recebida gloriosa nos céus. Fosse amplamente conhecida na terra, antes de entrar na santa plenitude. Levada de virtude em virtude, fosse assim exaltada de claridade em claridade pelo Espírito do Senhor. Presente na carne, Maria antegozava as primícias do reino futuro, ora subindo até Deus com inefável sublimidade, ora descendo até os irmãos com inenarrável caridade. Lá recebia os obséquios dos anjos, aqui era venerada pela submissão dos homens. Servia-lhe Gabriel com os anjos; ao lado dos apóstolos servia-lhe João, feliz por lhe ter sido confiada a Virgem Mãe a ele, virgem. Alegravam-se aqueles por vê-la rainha; estes por sabê-la senhora. Todos a obedeciam de coração. E ela, assentada no mais alto cume das virtudes, repleta do oceano dos carismas divinos, do abismo das graças, ultrapassando a todos, derramava largas torrentes ao povo fiel e sedento. Concedia a saúde aos corpos e às almas, podendo ressuscitar da morte da carne e da alma. Quem jamais partiu de junto dela doente ou triste ou ignorante dos mistérios celestes? Quem não voltou para casa contente e jubiloso, tendo impetrado de Maria, a Mãe do Senhor, o que queria? Ela é esposa repleta de tão grandes bens, mãe do único esposo, suave e preciosa nas delícias. Ela é como fonte dos jardins inteligíveis, poço de águas vivas e vivificantes, que correm impetuosas do Líbano divino, fazendo descer do monte Sião até às nações estrangeiras vizinhas rios de paz e mananciais de graças vindas do céu. E assim, ao ser elevada a Virgem das Virgens por Deus e seu Filho, o rei dos reis, no meio da exultação dos anjos, da alegria dos arcanjos e das aclamações de todo o céu, cumpriu-se a profecia do Salmista que diz ao Senhor: _Está à tua destra a rainha recoberta de bordados a ouro, em vestes variadas_ (Sl 44,10).
+
+@secao Responsório | Cf. Ap 12,1; cf. Sl 44(45),10b
+
+@responsorio
+R. Houve um grande sinal no céu, a saber,
+viu-se uma mulher vestida de sol
+e tendo a lua debaixo dos pés.
+* Na cabeça uma coroa de doze estrelas.
+V. À vossa direita se encontra a rainha,
+em veste esplendente de ouro de Ofir. * Na cabeça.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes a Mãe do vosso Filho nossa Mãe e Rainha, dai-nos, por sua intercessão, alcançar o Reino do céu e a glória prometida aos vossos filhos e filhas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

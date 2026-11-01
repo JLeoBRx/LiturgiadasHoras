@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2janeiro_terca.htm
+@documento 2janeiro_terca.htm
+
+@secao Leitura breve | 1Tm 1,15
+
+@texto
+Segura e digna de ser acolhida por todos é esta palavra: Cristo veio ao mundo para salvar os pecadores.
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo uma fé inabalável, para que, ao proclamarmos que o vosso Filho Unigênito, Deus eterno e glorioso como vós, se fez homem no seio da Virgem Mãe, sejamos livres dos males que nos cercam e introduzidos nas eternas alegrias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

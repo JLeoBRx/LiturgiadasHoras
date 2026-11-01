@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/30sabadoTC.htm
+@documento Ofício das Leituras - SÁBADO
+
+@titulo SÁBADO / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {11,20b–12,2.11b-19}
+
+@tema
+A misericórdia e a paciência de Deus
+
+@texto
+[11,20b] Tudo dispuseste com medida, número e peso. [21] Teu grande poder está sempre ao teu serviço, e quem pode resistir à força de teu braço? [22] O mundo inteiro, diante de ti, é como um grão de areia na balança, uma gota de orvalho da manhã que cai sobre a terra. [23] Entretanto, de todos tens compaixão, porque tudo podes. Fechas os olhos aos pecados dos homens, para que se arrependam. [24] Sim, amas tudo o que existe, e não desprezas nada do que fizeste; porque, se odiasses alguma coisa, não a terias criado. [25] Da mesma forma, como poderia alguma coisa existir, se não a tivesses querido? Ou como poderia ser mantida, se por ti não fosse chamada? [26] A todos, porém, tu tratas com bondade, porque tudo é teu, Senhor, amigo da vida, [12,1] O teu espírito incorruptível está em todas as coisas! [2] É por isso que corriges com carinho os que caem e os repreendes, lembrando-lhes seus pecados, para que se afastem do mal e creiam em ti, Senhor. [11b] Se tu lhes perdoaste as faltas, não foi porque tiveste medo de alguém, [12] pois quem pode dizer-te: "Que fizeste?" Ou quem ousaria opor-se à tua sentença? Quem te acusaria por destruíres as nações que fizeste? Quem viria apresentar-se contra ti para defender homens injustos? [13] Não há, além de ti, outro Deus que cuide de todas as coisas e a quem devas mostrar que teu julgamento não foi injusto. [14] Não há rei nem soberano que possa desafiar-te por causa daqueles a quem castigaste. [15] Porque tu és justo, tudo governas com justiça; e consideras incompatível com o teu poder condenar a quem não merece castigo. [16] A tua força é princípio da tua justiça, e o teu domínio sobre todos te faz para com todos indulgente. [17] Mostras a tua força a quem não crê na perfeição do teu poder; e nos que te conhecem, castigas o seu atrevimento. [18] No entanto, dominando tua própria força, julgas com clemência e nos governas com grande consideração: pois quando quiseres, está ao teu alcance fazer uso do teu poder. [19] Assim procedendo, ensinaste ao teu povo que o justo deve ser humano; e a teus filhos deste a confortadora esperança de que concedes o perdão aos pecadores.
+
+@secao Responsório | Cf. Sb 11,23.24.28; Eclo 36,1
+
+@responsorio
+R. Vós, Senhor, tendes pena de todos os seres
+e nada odiais do que vós fizestes,
+os olhos fechando aos pecados dos homens,
+e assim os poupais, quando voltam a vós,
+* Porque sois nosso Deus, sois o nosso Senhor.
+V. Compadecei-vos de nós, ó Deus do universo,
+e mostrai-nos a luz do vosso perdão. * Porque sois.
+
+@secao Segunda leitura
+
+@leitura
+Do Diálogo sobre a Providência divina, de Santa Catarina de Sena, virgem
+{(Séc. XIV)}{(Cap. 134, ed. latina, Ingolstadii 1583, ffo 215v-216)}
+
+@tema
+Como é bom e suave teu espírito, Senhor, em todas as coisas!
+
+@texto
+Com a indizível benignidade de sua clemência, o Pai eterno dirigiu o olhar para esta alma, e começou a falar: "Caríssima filha, determinei com firmeza usar de misericórdia para com o mundo e quero providenciar acerca de todas as situações dos homens. Mas o homem ignorante julga levar à morte aquilo que lhe concedo para a vida, e assim se torna muito cruel, para si próprio; no entanto, dele eu cuido sempre. Por isso quero que saibas: tudo quanto dou ao homem provém da suprema providência.
+
+@texto
+E o motivo está em que, tendo criado com providência, olhei em mim mesmo e fiquei cativo da beleza de minha criatura. Porque foi de meu agrado criá-la com grande providência à minha imagem e semelhança. Mais ainda, dei-lhe a memória para guardar meus benefícios em seu favor, por querer que participasse de meu poder de Pai eterno.
+
+@texto
+Dei-lhe, além disto, a inteligência para conhecer e compreender na sabedoria de meu Filho a minha vontade, porque sou com ardente caridade paterna o máximo doador de todas as graças. Concedi-lhe também a vontade de amar, participando da clemência do Espírito Santo, para poder amar aquilo que a inteligência visse e conhecesse.
+
+@texto
+Isto fez minha doce providência. Ser o único capaz de entender e de encontrar seu gozo em mim com alegria imensa na minha eterna visão. E como de outras vezes te falei, pela desobediência de vosso primeiro pai Adão, o céu estava fechado. Desta desobediência decorreram depois todos os males no mundo inteiro.
+
+@texto
+Para fazer desaparecer do homem a morte de sua desobediência, em minha clemência providenciei, entregando-vos meu Filho unigênito com grande sabedoria, para que assim reparasse vosso dano. Impus-lhe uma grande obediência, a fim de que o gênero humano se livrasse do veneno que se difundira no mundo pela desobediência de vosso primeiro pai. Assim, como que cativo de amor e com verdadeira obediência, correu com toda a rapidez, correu à ignominiosa morte sacratíssima, deu-vos a vida, não pelo vigor de sua humanidade, mas da divindade".
+
+@secao Responsório | Sl 16(17),8.7
+
+@responsorio
+R. Protegei-me qual dos olhos a pupila,
+* E guardai-me à proteção de vossas asas.
+V. Mostrai-me vosso amor maravilhoso,
+vós que salvais os que em vós se refugiam.
+* E guardai-me.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e dai-nos amar o que ordenais para conseguirmos o que prometeis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

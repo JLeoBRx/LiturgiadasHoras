@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ceiadosenhor_terca.htm
+@documento Hora Média - Ceia do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+A sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+a Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@salmo salmos/salmo-118-65-72
+
+@gloria
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@secao Leitura breve | Hb 4,14-15
+
+@texto
+Temos um sumo-sacerdote eminente, que entrou no céu, Jesus, o Filho de Deus. Por isso, permaneçamos firmes na fé que professamos. Com efeito, temos um sumo-sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado.
+
+@texto
+V. Ofereceu-se livremente em sacrifício.
+R. Como um cordeiro, não abriu a sua boca.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, amar-vos acima de tudo é ser perfeito; multiplicai em nós a vossa graça e concedei, aos que firmamos nossa esperança na morte do vosso Filho, alcançarmos por sua ressurreição aqueles bens que na fé buscamos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

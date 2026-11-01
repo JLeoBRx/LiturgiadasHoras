@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4quinta_leituras.htm
+@documento Ofício das Leituras - IV Quinta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais.
+
+@antifona 2
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo o coração.
+
+@salmo salmos/salmo-043-ii-v2
+
+@gloria
+
+@antifona
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo o coração.
+
+@antifona 3
+Levantai-vos, ó Senhor,
+não nos deixeis eternamente!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, não nos deixeis eternamente!

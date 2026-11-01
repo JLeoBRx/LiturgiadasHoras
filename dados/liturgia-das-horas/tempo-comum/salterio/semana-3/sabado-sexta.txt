@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sabado_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Assegurai tudo o que é bom
+ao vosso servo, ó Senhor!
+
+@salmo salmos/salmo-118-121-128-xvi-ain-v2
+
+@gloria
+
+@antifona
+Assegurai tudo o que é bom ao vosso servo, ó Senhor!
+
+@antifona 2
+Contemplai o Senhor e havereis de alegrar-vos.
+
+@salmo salmos/salmo-033-i
+
+@gloria
+
+@antifona
+Contemplai o Senhor e havereis de alegrar-vos.
+
+@antifona 3
+O Senhor está bem perto do coração atribulado.
+
+@salmo salmos/salmo-033-ii
+
+@gloria
+
+@antifona
+O Senhor está bem perto do coração atribulado.
+
+@secao Leitura breve | Gl 5,26; 6,2
+
+@texto
+Não busquemos vanglória, provocando-nos ou invejando-nos uns aos outros. Carregai os fardos uns dos outros: assim cumprireis a lei de Cristo.
+
+@texto
+V. Vinde e vede como é bom, como é suave
+os irmãos viverem juntos bem unidos.
+R. Pois a eles o Senhor dá sua bênção
+e a vida pelos séculos sem fim.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, luz ardente de amor eterno, concedei que, inflamados na vossa caridade, num mesmo amor amemos a vós, acima de tudo, e aos irmãos e irmãs por vossa causa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

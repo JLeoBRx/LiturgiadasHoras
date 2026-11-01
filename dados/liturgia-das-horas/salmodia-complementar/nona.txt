@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_nona.htm
+@documento Salmodia Complementar - Nona (Série III)
+
+@secao Salmodia
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@rubrica
+Quando o salmo seguinte for recitado nas Vésperas, em seu lugar se diz o salmo 130(131)
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@texto
+Leitura breve

@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paixaodosenhor_laudes.htm
+@documento Laudes - Paixão de Nosso Senhor Jesus Cristo
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SEXTA-FEIRA DA PAIXÃO DO SENHOR
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O fel lhe dão por bebida
+sobre o madeiro sagrado.
+Espinhos, cravos e lança
+ferem seu corpo e seu lado.
+No sangue e água que jorram,
+mar, terra e céu são lavados.
+
+Ó cruz fiel sois a árvore
+mais nobre em meio às demais,
+que selva alguma produz
+com flor e frutos iguais.
+Ó lenho e cravos tão doces,
+um doce peso levais.
+
+Árvore, inclina os teus ramos,
+abranda as fibras mais duras.
+A quem te fez germinar
+minora tantas torturas.
+Leito mais brando oferece
+ao Santo Rei das alturas.
+
+Só tu, ó Cruz, mereceste
+suster o preço do mundo
+e preparar para o náufrago
+um porto, em mar tão profundo.
+Quis o cordeiro imolado
+banhar-te em sangue fecundo.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Deus não poupou seu próprio Filho,
+mas o entregou por todos nós.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Deus não poupou seu próprio Filho,
+mas o entregou por todos nós.
+
+@antifona 2
+Jesus Cristo nos amou até o fim
+e lavou nossos pecados com seu sangue.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Jesus Cristo nos amou até o fim
+e lavou nossos pecados com seu sangue.
+
+@antifona 3
+Adoramos, Senhor, vosso madeiro,
+vossa ressurreição nós celebramos.
+A alegria chegou ao mundo inteiro,
+pela cruz que nós hoje veneramos.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Adoramos, Senhor, vosso madeiro,
+vossa ressurreição nós celebramos.
+A alegria chegou ao mundo inteiro,
+pela cruz que nós hoje veneramos.
+
+@secao Leitura breve | Is 52,13-15
+
+@texto
+Ei-lo, o meu Servo será bem sucedido; sua ascensão será ao mais alto grau. Assim como muitos ficaram pasmados ao vê-lo – tão desfigurado ele estava que não parecia ser um homem ou ter aspecto humano – do mesmo modo ele espalhará sua fama entre os povos. Diante dele os reis se manterão em silêncio, vendo algo que nunca lhes foi narrado e conhecendo coisas que jamais ouviram.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte e morte de cruz.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Acima de sua cabeça puseram escrito o motivo
+da culpa e do crime de Cristo:
+Jesus Nazareno, o Rei dos judeus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Acima de sua cabeça puseram escrito o motivo
+da culpa e do crime de Cristo:
+Jesus Nazareno, o Rei dos judeus.
+
+@secao Preces
+
+@preces
+Adoremos com sincera piedade a Cristo, nosso Redentor, que por nós sofreu a Paixão e foi sepultado para ressuscitar ao terceiro dia; e peçamos humildemente:
+
+R. **Senhor, tende piedade de nós!**
+
+Cristo, nosso Mestre e Senhor, obediente até à morte por nosso amor,
+– ensinai-nos a obedecer sempre à vontade do Pai. R.
+
+Cristo, nossa vida, que morrendo na cruz, destruístes o poder da morte e do inferno,
+– ensinai-nos a morrer convosco, para merecermos também ressuscitar convosco na glória. R.
+
+Cristo, nosso Rei, que fostes desprezado como um verme e humilhado como a vergonha do gênero humano,
+– ensinai-nos a imitar a vossa humildade salvadora. R.
+
+Cristo, nossa salvação, que destes a vida por amor dos seres humanos, vossos irmãos e irmãs,
+– fazei que nos amemos uns aos outros com a mesma caridade. R.
+
+Cristo, nosso Salvador, que de braços abertos na cruz quisestes atrair para vós a humanidade inteira,
+– reuni em vosso reino os filhos e as filhas de Deus dispersos pelo mundo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

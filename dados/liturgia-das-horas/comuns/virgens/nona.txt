@@ -1,0 +1,82 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_virgens_nona.htm
+@documento COMUM DAS VIRGENS - Hora Média
+
+@titulo COMUM DAS VIRGENS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@salmo salmos/salmo-125-v2
+
+@gloria
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@secao Leitura breve | Ap 19,6b.7
+
+@texto
+O Senhor, nosso Deus, o Todo-poderoso passou a reinar. Fiquemos alegres e contentes, e demos glória a Deus, porque chegou o tempo das núpcias do Cordeiro. Sua esposa já se preparou.
+
+@texto
+V. Encontrei o grande amor da minha vida.
+R. Vou guardá-lo para sempre junto a mim!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, que prometestes habitar nos corações puros, dai-nos, pela intercessão da virgem santa {N.}, viver de tal modo, que possais fazer em nós vossa morada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Atendei, ó Deus, nossa oração para que, recordando as virtudes da virgem santa {N.}, mereçamos permanecer e crescer sempre mais no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para várias virgens:
+
+@texto
+Ó Deus, mostrai-nos sempre mais a vossa misericórdia, e, ao celebrarmos com alegria a festa das virgens santa {N.} e santa {N.}, concedei-nos também o seu eterno convívio. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

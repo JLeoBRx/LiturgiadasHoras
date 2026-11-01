@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3segunda_vesperas.htm
+@documento Vésperas - III Segunda-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Nossos olhos estão fitos no Senhor,
+até que ele tenha pena de seus servos.
+
+@salmo salmos/salmo-122
+
+@antifona
+Nossos olhos estão fitos no Senhor,
+até que ele tenha pena de seus servos.
+
+@antifona 2
+O nosso auxílio está no nome do Senhor,
+do Senhor que fez o céu e fez a terra.
+
+@salmo salmos/salmo-123
+
+@antifona
+O nosso auxílio está no nome do Senhor,
+do Senhor que fez o céu e fez a terra.
+
+@antifona 3
+No seu Filho, o Pai nos escolheu
+para sermos seus filhos adotivos.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v4
+
+@antifona
+No seu Filho, o Pai nos escolheu
+para sermos seus filhos adotivos.

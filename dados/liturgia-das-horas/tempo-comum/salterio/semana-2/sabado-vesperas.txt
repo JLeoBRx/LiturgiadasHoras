@@ -1,0 +1,171 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sabado_vesperas.htm
+@documento III DOMINGO
+
+@titulo III DOMINGO
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, autor de tudo,
+que a terra e o céu guiais,
+de luz vestis o dia,
+à noite o sono dais.
+
+O corpo, no repouso,
+prepara-se a lutar.
+As mentes já se acalmam,
+se faz sereno o olhar.
+
+Senhor, vos damos graças
+no ocaso deste dia.
+A noite vem caindo,
+mas vosso amor nos guia.
+
+Sonora, a voz vos louve,
+vos cante o coração.
+O amor vos renda amor,
+e a mente, adoração.
+
+E assim, chegando a noite,
+com grande escuridão,
+a fé, em meio às trevas,
+espalhe o seu clarão.
+
+Ouvi-nos, Pai piedoso,
+e Filho, Sumo Bem,
+com vosso Santo Espírito
+reinando sempre. Amém.
+
+{Outro hino à escolha}
+
+Santo entre todos, já fulgura,
+o dia oitavo, resplendente,
+que consagrais em vós, ó Cristo,
+vós, o primeiro dos viventes.
+
+Às nossas almas, por primeiro,
+vinde trazer ressurreição,
+e da segunda morte livres,
+os nossos corpos surgirão.
+
+Ao vosso encontro, sobre as nuvens,
+em breve, ó Cristo, nós iremos.
+Ressurreição e vida nova,
+convosco sempre viveremos.
+
+Dai-nos, à luz da vossa face,
+participar da divindade,
+vos conhecendo como sois,
+Luz, verdadeira suavidade.
+
+Por vós entregues a Deus Pai,
+que seu Espírito nos dá,
+à perfeição da caridade
+o Trino Deus nos levará.
+
+@secao Salmodia
+
+@antifona 1
+Do nascer do sol até o seu ocaso,
+louvado seja o nome do Senhor!
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Do nascer do sol até o seu ocaso,
+louvado seja o nome do Senhor!
+
+@antifona 2
+Elevo o cálice da minha salvação,
+invocando o nome santo do Senhor.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Elevo o cálice da minha salvação,
+invocando o nome santo do Senhor.
+
+@antifona 3
+O Senhor Jesus Cristo se humilhou,
+por isso Deus o exaltou eternamente.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+O Senhor Jesus Cristo se humilhou,
+por isso Deus o exaltou eternamente.
+
+@secao Leitura breve | Hb 13,20-21
+
+@texto
+O Deus da paz, que fez subir dentre os mortos aquele que se tornou, pelo sangue de uma aliança eterna, o grande pastor das ovelhas, nosso Senhor Jesus, vos torne aptos a todo bem, para fazerdes a sua vontade; que ele realize em nós o que lhe é agradável, por Jesus Cristo, ao qual seja dada a glória pelos séculos dos séculos. Amém!
+
+@secao Responsório breve
+
+@responsorio
+R. Quão numerosas, ó Senhor, são vossas obras
+* E que sabedoria em todas elas! R. Quão numerosas.
+V. Encheu-se a terra com as vossas criaturas.
+* E que sabedoria. Glória ao Pai. R. Quão numerosas.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Recordando a bondade de Cristo que, compadecido do povo faminto, realizou em favor dele maravilhas de amor, com gratidão elevemos a ele as nossas preces; e digamos:
+
+R. **Mostrai-nos, Senhor, o vosso amor!**
+
+Reconhecemos, Senhor, que todos os benefícios recebidos neste dia vieram de vossa bondade;
+– que eles não voltem para vós sem produzir frutos em nosso coração. R.
+
+Luz e salvação da humanidade, protegei aqueles que dão testemunho de vós em toda a terra,
+– e acendei neles o fogo do vosso Espírito. R.
+
+Fazei que todos os seres humanos respeitem a dignidade de seus irmãos e irmãs, de acordo com a vossa vontade,
+– a fim de que, todos juntos, respondam com generosidade às mais urgentes necessidades do nosso tempo. R.
+
+Médico das almas e dos corpos, aliviai os enfermos e assisti os agonizantes,
+– e visitai-nos e confortai-nos com a vossa misericórdia. R.
+
+{(intenções livres)}
+
+Dignai-vos receber na companhia dos santos os nossos irmãos e irmãs que morreram,
+– cujos nomes estão escritos no livro da vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/segunda_aposepifania_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d’aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@salmo salmos/salmo-044
+
+@gloria
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@antifona 2
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@antifona 3
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@secao Leitura breve | Cf. 2Pd 1,3-4
+
+@texto
+Cristo, por seu divino poder, nos deu tudo o que contribui para a vida e para a piedade, mediante o conhecimento daquele que, pela sua própria glória e virtude, nos chamou. Por meio de tudo isso nos foram dadas as preciosas promessas, as maiores que há, a fim de que vos tornásseis participantes da natureza divina, depois de libertos da corrupção da concupiscência no mundo.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Os Magos exultaram de alegria ao ver a estrela;
+e, na casa, tendo entrado,
+ofereceram ao Senhor seus presentes preciosos:
+o ouro, o incenso e a mirra.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Os Magos exultaram de alegria ao ver a estrela;
+e, na casa, tendo entrado,
+ofereceram ao Senhor seus presentes preciosos:
+o ouro, o incenso e a mirra.
+
+@secao Preces
+
+@preces
+Bendigamos a Cristo nosso Senhor, que veio iluminar aqueles que viviam nas trevas e na sombra da morte. Peçamos com fervor:
+
+R. **Cristo, sol nascente, mostrai-nos vossa luz!**
+
+Cristo Senhor, que pelo mistério da encarnação formastes a Igreja, vosso corpo místico,
+– fazei que ela cresça e se edifique na caridade. R.
+
+Vós, que governais o céu e a terra,
+– manifestai vosso poder divino a todos os povos e governantes da terra. R.
+
+Vós, que pela encarnação, vos tornastes sacerdote eterno segundo a ordem de Melquisedec,
+– dai a todos os sacerdotes serem fiéis ministros da vossa redenção. R.
+
+Vós, que no seio da Virgem Maria realizastes a admirável união da humanidade com a divindade,
+– abençoai as virgens consagradas, de quem sois o Esposo celeste. R.
+
+{(intenções livres)}
+
+Vós, que, assumindo a nossa natureza mortal, destruístes a morte, introduzida pelo pecado,
+– transformai em vida eterna a morte dos nossos defuntos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o esplendor da vossa glória ilumine os nossos corações, para que, passando pelas trevas deste mundo, cheguemos à pátria da luz que não se extingue. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

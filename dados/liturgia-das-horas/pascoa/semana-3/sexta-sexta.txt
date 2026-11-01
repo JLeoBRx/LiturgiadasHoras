@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3sextapascoa_sexta.htm
+@documento Hora Média - Sexta - Sexta-feira da 3ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@salmo salmos/salmo-021-ii
+
+@gloria
+
+@salmo salmos/salmo-021-iii
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | Gl 3,27-28
+
+@texto
+Vós todos que fostes batizados em Cristo vos revestistes de Cristo. O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei que, conhecendo a ressurreição do Senhor e a graça que ela nos trouxe, ressuscitemos para uma vida nova pelo amor do vosso Espírito. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

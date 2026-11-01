@@ -1,0 +1,163 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santosinocentes_laudes.htm
+@documento Laudes - Os Santos Inocentes, Mártires
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O tirano escutou, ansioso,
+que em Belém novo Rei é nascido.
+Vem da casa real de Davi,
+vem reger o seu povo escolhido.
+
+Clama, louco, ao ouvir a mensagem:
+Eis às portas o meu sucessor
+que me expulsa! Depressa, soldado,
+cobre os berços de sangue e de dor.
+
+A quem serve tão grande maldade?
+A Herodes teria ajudado?
+Dentre os mortos há um que lhe escapa,
+dentre eles só Cristo é tirado.
+
+Salve, flores primeiras dos mártires,
+que, da aurora ao primeiro clarão,
+o inimigo colheu, como a rosas
+decepadas por um turbilhão.
+
+Sois as belas primícias de Cristo,
+ó rebanho infantil de imolados,
+que brincais, como alegres crianças,
+com coroas, nos átrios sagrados.
+
+Glória a vós, ó Jesus, para nós
+de uma Virgem nascido em Belém.
+Glória ao Pai e ao Espírito Santo
+pelos séculos dos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vestidos de branco, comigo andarão,
+porque eles são dignos, falou o Senhor.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vestidos de branco, comigo andarão,
+porque eles são dignos, falou o Senhor.
+
+@antifona 2
+As crianças entoam louvor ao Senhor:
+não puderam na vida e o fazem na morte.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+As crianças entoam louvor ao Senhor:
+não puderam na vida e o fazem na morte.
+
+@antifona 3
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos,
+de crianças que a mãe amamenta.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos,
+de crianças que a mãe amamenta.
+
+@secao Leitura breve | Jr 31,15
+
+@texto
+Ouviu-se uma voz em Ramá, – voz de lamento, gemido e pranto – de Raquel chorando seus filhos, recusando-se a ser consolada pois eles não existem mais.
+
+@secao Responsório breve
+
+@responsorio
+R. Os santos e os justos
+* Viverão eternamente. R. Os santos.
+V. E a sua recompensa é o Senhor. * Viverão.
+Glória ao Pai. R. Os santos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Os meninos Inocentes deram a vida pelo Cristo;
+o rei injusto e cruel mandou matar as criancinhas.
+Sem cessar louvam dizendo: Glória a vós, nosso Senhor!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Os meninos Inocentes deram a vida pelo Cristo;
+o rei injusto e cruel mandou matar as criancinhas.
+Sem cessar louvam dizendo: Glória a vós, nosso Senhor!
+
+@secao Preces
+
+@preces
+Celebremos a glória de Cristo, que venceu o tirano sem outra arma que a inocência das criancinhas; e aclamemos:
+
+R. **O luminoso exército dos mártires vos louva, Senhor!**
+
+Cristo, de quem os pequeninos Inocentes deram testemunho não pela palavra mas pelo sangue,
+– fazei-nos vossas testemunhas diante dos homens por palavras e por atos. R.
+
+Vós, que tornastes dignos da palma do martírio aqueles que ainda não podiam lutar,
+– não nos deixeis cair, a nós que recebemos tantos auxílios para vencer. R.
+
+Vós, que lavastes no vosso sangue as vestes dos Inocentes,
+– purificai-nos de toda a iniquidade. R.
+
+Vós, que fizestes entrar no céu as crianças mártires como primícias do vosso reino,
+– não permitais que sejamos excluídos do banquete eterno. R.
+
+Vós, que na infância conhecestes a perseguição e o exílio,
+– protegei as crianças que sofrem por causa da fome, da guerra ou da desgraça. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, hoje os santos Inocentes proclamam vossa glória, não por palavras, mas pela própria morte; dai-nos também testemunhar com a nossa vida o que os nossos lábios professam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

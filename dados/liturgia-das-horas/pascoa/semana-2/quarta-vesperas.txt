@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2quartapascoa_vesperas.htm
+@documento Vésperas - Quarta-feira da 2ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Que o vosso coração não se perturbe:
+crede em mim unicamente, aleluia.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Que o vosso coração não se perturbe:
+crede em mim unicamente, aleluia.
+
+@antifona 2
+Que as nações vos glorifiquem, ó Senhor
+e exultem pela vossa salvação! Aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que as nações vos glorifiquem, ó Senhor
+e exultem pela vossa salvação! Aleluia.
+
+@antifona 3
+O céu se enche com a sua majestade
+e a terra com sua glória, aleluia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+O céu se enche com a sua majestade
+e a terra com sua glória, aleluia.
+
+@secao Leitura breve | Hb 7,24-27
+
+@texto
+Cristo, uma vez que permanece para a eternidade, possui um sacerdócio que não muda. Por isso ele é capaz de salvar para sempre aqueles que, por seu intermédio, se aproximam de Deus. Ele está sempre vivo para interceder por eles. Tal é precisamente o sumo-sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus. Ele não precisa, como os sumos-sacerdotes, oferecer sacrifícios em cada dia, primeiro por seus próprios pecados e depois pelos do povo. Ele já o fez uma vez por todas, oferecendo-se a si mesmo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quem pratica a verdade se põe junto à luz
+e suas obras de filho de Deus se revelam. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quem pratica a verdade se põe junto à luz
+e suas obras de filho de Deus se revelam. Aleluia.
+
+@secao Preces
+
+@preces
+Imploremos a Deus todo-poderoso, que em seu Filho ressuscitado, abriu-nos as portas da vida eterna; e digamos confiantes:
+
+R. **Pela vitória de Cristo, salvai, Senhor, o vosso povo!**
+
+Deus de nossos pais, que glorificastes vosso Filho Jesus, ressuscitando-o dos mortos,
+– transformai os nossos corações para vivermos a vida nova da filiação divina. R.
+
+Vós, que conduzistes as ovelhas desgarradas, que éramos, a Cristo, pastor e guia de nossas almas,
+– conservai-nos fiéis ao evangelho, sob a orientação dos pastores da Igreja. R.
+
+Vós, que escolhestes os primeiros discípulos de vosso Filho dentre o povo judeu,
+– dai aos filhos de Israel fidelidade à Aliança para caminharem ao encontro da promessa feita a seus pais. R.
+
+Lembrai-vos de todos os abandonados, dos órfãos e das viúvas,
+– e não deixeis que vivam sozinhos aqueles que vosso Filho, com sua morte, reconciliou convosco. R.
+
+{(intenções livres)}
+
+Vós, que chamastes para o reino celeste o primeiro mártir Santo Estêvão, depois que ele proclamou a glória de Jesus sentado à vossa direita,
+– acolhei também na eternidade os nossos irmãos e irmãs que na fé e na caridade esperaram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Imploramos, ó Deus, a vossa clemência, ao recordar cada ano o mistério pascal que renova a dignidade humana, e nos traz a esperança da ressurreição: concedei-nos acolher sempre com amor o que celebramos com fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/3domingo_quaresma_par.htm
+@documento Ofício das Leituras - 3º Domingo Da Quaresma
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {22,20-23,9}
+
+@tema
+Leis para proteger o estrangeiro e o pobre (Código da Aliança)
+
+@texto
+Assim diz o Senhor: não afligirás o estrangeiro nem o oprimido, pois vós mesmos fostes estrangeiros no país do Egito. Não afligireis nenhuma viúva ou órfão. Se o afligires e ele gritar a mim, escutarei seu grito; minha ira se acenderá e vos farei perecer pela espada: vossas mulheres ficarão viúvas e vossos filhos, órfãos.
+Se emprestares dinheiro a um compatriota, ao indigente que está em teu meio, não agirás com ele como credor que impõe juros.
+Se tomares o manto do teu próximo em penhor, tu lho restituirás antes do pôr do sol. Porque é com ele que se cobre, é a veste do seu corpo: em que se deitaria? Se clamar a mim, eu o ouvirei, porque sou compassivo.
+Não blasfemarás contra Deus, nem amaldiçoarás um chefe do teu povo.
+Não tardarás em oferecer de tua abundância e do teu supérfluo. O primogênito de teus filhos, tu mo darás. Farás o mesmo com os teus bois, e com as tuas ovelhas; durante sete dias ficará com a mãe, e no oitavo dia mo darás.
+Sereis para mim homens santos. Não comereis a carne de um animal dilacerado por uma fera no campo; deitá-la-eis aos cães.
+Não espalharás notícias falsas, nem darás a mão ao ímpio para seres testemunha de injustiça. Não tomarás o partido da maioria para fazeres o mal, nem deporás, num processo, inclinando-te para a maioria, para torcer o direito, nem serás parcial com o desvalido no seu processo.
+Se encontrares o boi do teu inimigo, ou o seu jumento, desgarrado, lho reconduzirás. Se vires cair debaixo da carga o jumento daquele que te odeia, não o abandonarás, mas o ajudarás a erguê-lo. Não desviarás o direito do teu pobre em seu processo. Da falsa acusação te afastarás; não matarás o inocente e o justo, e não justificarás o culpado. Não aceitarás presentes, porque os presentes cegam até os perspicazes e pervertem as palavras dos justos.
+Não oprimirás o estrangeiro: conheceis a vida de estrangeiro, porque fostes estrangeiros no Egito.
+
+@secao Responsório | Sl 81(82),3-4;cf. Tg 2,5
+
+@responsorio
+R. Fazei justiça aos indefesos e aos órfãos,
+ao pobre e ao humilde absolvei!
+* Libertai o oprimido, o infeliz,
+da mão dos opressores arrancai-os.
+V. Deus escolheu os pobres aos olhos do mundo,
+para serem ricos na fé e herdeiros do seu Reino.* Libertai.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre os graus da humildade e da soberba, de São Bernardo, abade
+{(Séc. XI)} {(Tract. 3,6: EC 3,20-21)}
+
+@tema
+Para que o teu coração se compadeça da miséria alheia, é preciso antes conheceres a tua própria miséria
+
+@texto
+Como há três graus no conhecimento da verdade, vou tentar defini-los brevemente, para que se veja mais claramente com qual deles se relaciona o décimo segundo grau da humildade. De fato, procuramos a verdade em nós, no próximo e em si mesma. Em nós, julgando-nos; no próximo, partilhando seus males; em si mesma, contemplando-a de coração puro. Repara como há equivalência entre o número e a ordem. Primeiro ensine-te a própria verdade, que deve ser procurada antes no próximo do que na sua essência. Depois compreenderás porque deves procurá-la em ti antes do que no próximo.
+Com efeito, o Senhor, no número das bem-aventuranças que propôs em seu sermão, colocou os misericordiosos antes dos puros de coração. Os misericordiosos, de fato, encontram logo a verdade no próximo, ao lhe dedicarem sua afeição, ao se conformarem de tal modo a ele pela caridade, que sentem como próprios o mal ou o bem que lhe sucede. Fazem-se fracos com os fracos, tornam-se solidários com aqueles que se escandalizam, acostumam-se a _alegrar-se_ _com os que se alegram e a chorar com os que choram_ (cf. Rm 12,15). Com o olhar do coração purificado por esta caridade fraterna, deleitam-se em contemplar a verdade em si mesma, por cujo amor suportam os males alheios.
+Os que não se unem assim aos irmãos, mas, ao contrário, insultam os que choram ou constrangem os que se alegram, não sentindo o que neles se passa, porque não são atingidos do mesmo modo, como poderão encontrar a verdade no próximo? Com razão podemos aplicar-lhes o popular provérbio: “Ignora o sadio o que sente o doente, e o farto, o que sente o faminto”. Mas o doente se compadece do doente, e o faminto do faminto, quanto mais próximos e mais amigos são. Como só o coração puro vê a verdade pura, também o coração pobre é o que sente melhor a pobreza do irmão.
+Mas para que teu coração se compadeça da miséria alheia, é preciso antes conheceres a tua própria miséria, a fim de que tua mente compreenda a do próximo, e saibas por tua experiência socorrê-lo, a exemplo do nosso Salvador que, para saber compadecer-se, quis padecer e tornar-se pobre para aprender a ter compaixão, como está escrito a seu respeito: _Aprendeu o que significa a obediência, por_ _aquilo que ele sofreu_ (Hb 5,8). Assim aprendeu também a misericórdia. Não que desconhecesse antes a compaixão, ele cuja misericórdia é eterna, mas para que aprendesse pela experiência terrena o que sabia desde sempre por sua natureza.
+
+@secao Responsório | Cf. 1Jo 4,10-11;Jo 15,13
+
+@responsorio
+R. Não fomos nós que amamos a Deus,
+mas foi ele que nos amou e enviou seu Filho
+como oferenda de expiação pelos nossos pecados.
+* Se Deus nos amou assim,
+nós também devemos amar-nos uns aos outros.
+V. Ninguém tem amor maior
+do que aquele que dá a vida por seus amigos. * Se Deus nos amou.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de toda misericórdia e de toda bondade, vós nos indicastes o jejum, a esmola e a oração como remédio contra o pecado. Acolhei esta confissão da nossa fraqueza para que, humilhados pela consciência de nossas faltas, sejamos confortados pela vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

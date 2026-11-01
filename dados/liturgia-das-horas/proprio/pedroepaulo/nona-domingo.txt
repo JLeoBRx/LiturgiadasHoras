@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_nona_domingo.htm
+@documento Hora Média - São Pedro e São Paulo, Apóstolos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+João e Pedro subiram ao templo,
+quando era a oração da hora nona.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+João e Pedro subiram ao templo,
+quando era a oração da hora nona.
+
+@secao Leitura breve | 2Cor 4,13-14
+
+@texto
+Sustentados pelo mesmo espírito de fé, conforme o que está escrito: Eu creio e, por isso, falei, nós também cremos e, por isso, falamos,certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco.
+
+@texto
+V. Alegrai-vos e exultai, diz o Senhor,
+R. Pois no céu estão inscritos vossos nomes.
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.
