@@ -1,0 +1,69 @@
+<script>
+    // Intercepta e trata os trechos copiados no Ofício
+    document.addEventListener('copy', function(e) {
+        const selection = window.getSelection();
+        if (!selection.rangeCount) return;
+
+        // Cria um container temporário com o conteúdo selecionado
+        const container = document.createElement("div");
+        for (let i = 0, len = selection.rangeCount; i < len; ++i) {
+            container.appendChild(selection.getRangeAt(0).cloneContents());
+        }
+
+        // 1. Aplica estilos inline para termos e títulos
+        container.querySelectorAll('.termo-vermelho-ant, .traco-natural').forEach(el => {
+            el.style.color = '#c0392b';
+            el.style.fontWeight = 'bold';
+        });
+
+        container.querySelectorAll('.titulo-salmo').forEach(el => {
+            el.style.fontWeight = 'bold';
+            el.style.textAlign = 'center';
+            el.style.margin = '10px 0';
+            el.style.display = 'block';
+        });
+
+        // 2. Achatamento e formatação dos versículos (iOS e Android)
+        container.querySelectorAll('.verso-container').forEach(versoDiv => {
+            const marcador = versoDiv.querySelector('.marcador-esquerdo');
+            const numVermelho = versoDiv.querySelector('.num-vermelho');
+            const textoVerso = versoDiv.querySelector('.texto-verso');
+
+            const tracoHtml = marcador ? marcador.innerHTML.trim() : '';
+            const numHtml = numVermelho ? numVermelho.innerHTML.trim() : '';
+            
+            if (numVermelho && textoVerso) {
+                numVermelho.remove();
+            }
+            const textoHtml = textoVerso ? textoVerso.innerHTML.trim() : versoDiv.innerHTML;
+
+            const novaLinha = document.createElement('div');
+            novaLinha.style.display = 'block';
+            novaLinha.style.marginBottom = '6px';
+
+            // Adicionado font-size: 75% no sup para diminuir o número do versículo
+            novaLinha.innerHTML = `
+                <span style="color: #c0392b; font-weight: bold; display: inline; margin-right: 4px;">${tracoHtml}</span><span style="color: #c0392b; font-weight: bold; vertical-align: super; font-size: 70%;">${numHtml}</span><span style="display: inline;">${textoHtml}</span>
+            `;
+
+            versoDiv.replaceWith(novaLinha);
+        });
+
+        const htmlData = container.innerHTML;
+        const textData = selection.toString();
+
+        // Insere o HTML tratado na área de transferência
+        if (e.clipboardData) {
+            e.preventDefault();
+            e.clipboardData.setData('text/html', htmlData);
+            e.clipboardData.setData('text/plain', textData);
+        } else if (navigator.clipboard && window.ClipboardItem) {
+            e.preventDefault();
+            const clipboardItem = new ClipboardItem({
+                "text/plain": new Blob([textData], { type: "text/plain" }),
+                "text/html": new Blob([htmlData], { type: "text/html" })
+            });
+            navigator.clipboard.write([clipboardItem]);
+        }
+    });
+</script>

@@ -1,0 +1,27 @@
+<script>
+const botoes = document.querySelectorAll('.segmented button');
+const conteudos = document.querySelectorAll('.content');
+
+botoes.forEach(botao => {
+
+    botao.addEventListener('click', () => {
+
+        // Remove seleção anterior
+        botoes.forEach(b => b.classList.remove('active'));
+        conteudos.forEach(c => c.classList.remove('active'));
+
+        // Ativa botão clicado
+        botao.classList.add('active');
+
+        // Exibe conteúdo correspondente
+        const alvo = document.getElementById(botao.dataset.target);
+        alvo.classList.add('active');
+
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+    });
+
+});
+</script>
