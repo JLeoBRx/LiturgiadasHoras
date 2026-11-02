@@ -1,6 +1,7 @@
 // Valida, para todos os dias de um intervalo, se cada hora da Liturgia das
 // Horas é montada com arquivos existentes e uma estrutura coerente.
 // Uso: node ferramentas/testes/validar_horas.mjs 2025 2031
+// Termina com erro (código 1) se alguma hora ficar sem texto (usado no GitHub Actions).
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -51,3 +52,4 @@ if (montar) {
   console.log('\nAVISOS:');
   for (const [k, v] of [...avisos].sort((a, b) => b[1].length - a[1].length)) console.log(' ', k, v.length, '| ex.:', v.slice(0, 3).join(' ; '));
 }
+if (falhas.size) process.exitCode = 1;

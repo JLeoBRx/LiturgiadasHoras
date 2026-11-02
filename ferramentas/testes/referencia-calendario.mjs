@@ -6,8 +6,10 @@
  * usam objetos Date próprios. Assim, quando os dois concordam, a chance de um
  * erro comum aos dois é pequena.
  *
- * Regras do Brasil consideradas: Epifania no domingo entre 2 e 8 de janeiro,
- * Ascensão no 7º domingo da Páscoa, Corpus Christi na quinta-feira.
+ * Este arquivo NÃO pode importar nem ler nada: os testes o executam num
+ * processo que só tem permissão de ler este arquivo (referencia-isolada.mjs).
+ *
+ * Regras do Brasil: ver regrasDoBrasil() e REGRAS-DO-BRASIL.md.
  */
 
 const DIA = 86400000;
@@ -86,3 +88,63 @@ export function tabelaDoAno(ano) {
 
 /** Dia da semana (0 = domingo) de uma data ISO. */
 export const diaDaSemana = (s) => semana(new Date(s + 'T00:00:00Z'));
+
+/** primeiro domingo a partir de uma data (a própria data, se for domingo) */
+const domingoAPartirDe = (data) => soma(data, (7 - semana(data)) % 7);
+
+/**
+ * Datas das celebrações com regra própria no Brasil (ver REGRAS-DO-BRASIL.md).
+ * Escrito sem consultar o motor do site: cada regra está como na norma.
+ * As chaves são os identificadores das celebrações no site.
+ */
+export function regrasDoBrasil(ano) {
+  const pascoa = pascoaGauss(ano);
+  const ramos = soma(pascoa, -7);
+  const divinaMisericordia = soma(pascoa, 7);
+  const r = {};
+
+  // Epifania: domingo entre 2 e 8 de janeiro
+  const epifania = domingoAPartirDe(d(ano, 1, 2));
+  r.epifania = epifania;
+  // Batismo: domingo depois da Epifania; se ela cai em 7 ou 8, segunda-feira
+  r.batismo = epifania.getUTCDate() >= 7 ? soma(epifania, 1) : soma(epifania, 7);
+  // Ascensão: 7º domingo da Páscoa; Corpus Christi: quinta depois da Trindade
+  r.ascensaodosenhor = soma(pascoa, 42);
+  r.santissimatrindade = soma(pascoa, 56);
+  r.corpuschristi = soma(pascoa, 60);
+
+  // São José (19/3) e Anunciação (25/3): se caem em domingo da Quaresma,
+  // vão para segunda-feira; na Semana Santa, São José vai para o sábado
+  // antes de Ramos e a Anunciação para a segunda depois do 2º domingo da Páscoa
+  const naSemanaSanta = (x) => x >= ramos && x <= pascoa;
+  const jose = d(ano, 3, 19);
+  r.saojose = naSemanaSanta(jose) ? soma(ramos, -1) : semana(jose) === 0 ? soma(jose, 1) : jose;
+  const anunciacao = d(ano, 3, 25);
+  r.anunciacao = anunciacao >= ramos && anunciacao <= divinaMisericordia ? soma(divinaMisericordia, 1)
+    : semana(anunciacao) === 0 ? soma(anunciacao, 1) : anunciacao;
+
+  // São Pedro e São Paulo: 29/6 ou, se não for domingo, o domingo entre 28/6 e 4/7
+  const pp = d(ano, 6, 29);
+  r.pedroepaulo = semana(pp) === 0 ? pp : domingoAPartirDe(d(ano, 6, 28));
+  // Assunção: 15/8 ou, se não for domingo, o domingo seguinte
+  const as = d(ano, 8, 15);
+  r.assuncao = semana(as) === 0 ? as : domingoAPartirDe(d(ano, 8, 16));
+  // N. Sra. Aparecida: sempre 12/10 (solenidade, vence o domingo do Tempo Comum)
+  r.NSAparecida = d(ano, 10, 12);
+  // Todos os Santos: 1º/11 ou, se não for domingo, o domingo seguinte;
+  // mas se 1º/11 é sábado fica no sábado, porque 2/11 (domingo) é dos Fiéis Defuntos
+  const ts = d(ano, 11, 1);
+  r.todosossantos = semana(ts) === 0 || semana(ts) === 6 ? ts : domingoAPartirDe(d(ano, 11, 2));
+  r.fieisdefuntos = d(ano, 11, 2);
+  // Imaculada Conceição: 8/12; se cai no domingo do Advento, segunda-feira 9/12
+  const im = d(ano, 12, 8);
+  r.imaculada = semana(im) === 0 ? soma(im, 1) : im;
+  // Sagrada Família: domingo na oitava do Natal; se não houver, 30/12
+  const natal = d(ano, 12, 25);
+  r.sagradafamilia = semana(natal) === 0 ? d(ano, 12, 30) : domingoAPartirDe(soma(natal, 1));
+  // Cristo Rei: domingo antes do 1º do Advento
+  const advento4 = soma(natal, -(semana(natal) === 0 ? 7 : semana(natal)));
+  r.cristoreidouniverso = soma(advento4, -28);
+
+  return Object.fromEntries(Object.entries(r).map(([k, v]) => [k, iso(v)]));
+}

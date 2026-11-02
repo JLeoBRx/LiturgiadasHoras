@@ -650,5 +650,49 @@
    ],
    "tipo": "erro documental"
   }
+ ],
+ "particularidades_legitimas": [
+  {
+   "id": "ascensao_no_domingo",
+   "nome": "Ascensão no domingo",
+   "como_aparece": "“(21)24 maio” em 2020: quinta-feira entre parênteses, domingo fora",
+   "por_que": "O Calendário Geral põe a Ascensão na quinta-feira; no Brasil ela é transferida para o 7º domingo da Páscoa.",
+   "tipo": "particularidade legítima"
+  },
+  {
+   "id": "duas_letras_ciclo_dominical",
+   "nome": "Duas letras no ciclo dominical",
+   "como_aparece": "“A-B” em 2020",
+   "por_que": "A 1ª letra vale de janeiro até o Advento; a 2ª, a partir do 1º domingo do Advento, quando começa o novo ano litúrgico.",
+   "tipo": "particularidade legítima"
+  },
+  {
+   "id": "duas_letras_dominicais_bissexto",
+   "nome": "Duas letras dominicais em ano bissexto",
+   "como_aparece": "“ed” em 2020",
+   "por_que": "A 1ª indica os domingos até 24 de fevereiro, a 2ª depois dessa data (p. 18 do livro).",
+   "tipo": "particularidade legítima"
+  },
+  {
+   "id": "salto_semanas_tempo_comum",
+   "nome": "Salto na numeração das semanas do Tempo Comum",
+   "como_aparece": "2020: até a 7ª semana antes da Quaresma, retomada na 9ª após Pentecostes",
+   "por_que": "Depois de Pentecostes a semana é contada para trás a partir de Cristo Rei (34ª); a semana que não cabe no ano é omitida.",
+   "tipo": "particularidade legítima"
+  },
+  {
+   "id": "corpus_na_quinta",
+   "nome": "Corpus Christi na quinta-feira",
+   "como_aparece": "11 jun. 2020",
+   "por_que": "No Brasil a solenidade não é transferida para o domingo.",
+   "tipo": "particularidade legítima"
+  },
+  {
+   "id": "advento_27nov_3dez",
+   "nome": "1º domingo do Advento entre 27/11 e 3/12",
+   "como_aparece": "29 nov. 2020",
+   "por_que": "É o 4º domingo antes do Natal.",
+   "tipo": "particularidade legítima"
+  }
  ]
 }

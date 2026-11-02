@@ -1,5 +1,7 @@
 # Liturgia — uma experiência jovem de oração
 
+[![Testes](https://github.com/JLeoBRx/LiturgiadasHoras/actions/workflows/testes.yml/badge.svg)](https://github.com/JLeoBRx/LiturgiadasHoras/actions/workflows/testes.yml)
+
 Site estático (HTML, CSS e JavaScript, sem servidor e sem serviços pagos)
 para rezar a **Liturgia das Horas** e acompanhar a **Liturgia Diária**.
 Ao abrir, ele identifica o dia litúrgico de hoje e oferece as orações do dia;
@@ -89,9 +91,12 @@ criptografada, essas regras foram reconstruídas de forma aberta em
 `js/liturgical-calendar.js` calcula Páscoa, tempos, semanas, semana do
 saltério, ciclos dominical (A/B/C) e ferial (I/II), precedência entre
 celebrações e transferências, com as regras do Brasil: Epifania no domingo
-entre 2 e 8 de janeiro, Ascensão no 7º domingo da Páscoa, São Pedro e São
-Paulo, Assunção e Todos os Santos no domingo seguinte, N. Sra. Aparecida
-como solenidade. As datas dos santos estão em `dados/calendario/santoral.json`
+entre 2 e 8 de janeiro, Ascensão no 7º domingo da Páscoa, Corpus Christi na
+quinta-feira, São Pedro e São Paulo no domingo entre 28 de junho e 4 de julho,
+Assunção e Todos os Santos no domingo seguinte (Todos os Santos fica no
+sábado quando 1º/11 é sábado, e Finados é sempre 2/11), N. Sra. Aparecida
+como solenidade. A conferência dessas regras com a CNBB, com as fontes, está
+em [`ferramentas/testes/REGRAS-DO-BRASIL.md`](ferramentas/testes/REGRAS-DO-BRASIL.md). As datas dos santos estão em `dados/calendario/santoral.json`
 (232 celebrações fixas; todas, exceto Santo Adalberto, ligadas a textos do
 acervo). Algumas
 celebrações próprias de ordens religiosas que existem no acervo ficaram
@@ -161,10 +166,18 @@ python3 ferramentas/importar_antifonas.py --fonte PASTA_COM_invitatorio.js_E_aoh
 use `--destino OUTRA_PASTA` (importar_oficios) para não perder as edições.
 
 ```bash
+node --test "ferramentas/testes/*.test.mjs"                     # testes automáticos do calendário
 node ferramentas/testes/validar_horas.mjs 2025 2031             # toda hora de todo dia tem texto?
 node ferramentas/testes/validar_horas.mjs 2026 2027 --montar    # monta os ofícios e lista avisos/lacunas
 node ferramentas/testes/validar_liturgia_diaria.mjs 2025 2031
 ```
+
+Os testes automáticos (111) conferem o calendário com a Tabela Temporária
+1994–2023 do livro, com as regras do Brasil e com um cálculo de referência
+independente até 2100; rodam no GitHub Actions a cada push e pull request.
+Os 7 erros encontrados no PDF da Tabela Temporária ficam documentados em
+[`ferramentas/testes/7Erros.md`](ferramentas/testes/7Erros.md) e nunca são
+aceitos como resultado. Detalhes em [`ferramentas/testes/LEIA-ME.md`](ferramentas/testes/LEIA-ME.md).
 
 Resultado atual: todas as horas de todos os dias de 2025 a 2031 (26.208
 combinações, incluindo as memórias facultativas) são montadas com textos

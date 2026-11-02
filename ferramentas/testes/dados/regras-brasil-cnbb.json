@@ -1,0 +1,35 @@
+{
+  "_leia": "Regras próprias do calendário litúrgico no Brasil e datas confirmadas em fontes publicadas. Usado por regras-brasil.test.mjs. Explicação completa em ferramentas/testes/REGRAS-DO-BRASIL.md. Para acrescentar uma data confirmada, inclua um objeto em 'datas_confirmadas' com a data (AAAA-MM-DD), o id da celebração no site e a fonte.",
+  "regras": [
+    { "id": "epifania", "regra": "Domingo entre 2 e 8 de janeiro.", "fonte": "Liturgia das Horas, vol. II (CNBB, 1995), Calendário: \"Domingo entre os dias 2 e 8 inclusive: EPIFANIA DO SENHOR\"." },
+    { "id": "batismo", "regra": "Domingo depois da Epifania; se a Epifania cai em 7 ou 8 de janeiro, na segunda-feira seguinte.", "fonte": "Livro (1995): \"Domingo entre os dias 9 e 13 inclusive\"; a segunda-feira vem da norma posterior para os países que transferem a Epifania (ex.: 09/01/2023)." },
+    { "id": "ascensaodosenhor", "regra": "7º domingo da Páscoa.", "fonte": "Livro (1995): \"7º domingo pascal: ASCENSÃO DO SENHOR\"; Tabela Temporária, coluna \"Ascensão no Brasil\"." },
+    { "id": "corpuschristi", "regra": "Quinta-feira depois da Santíssima Trindade.", "fonte": "Livro (1995): \"Quinta-feira depois do domingo da Santíssima TRINDADE\"." },
+    { "id": "pedroepaulo", "regra": "29 de junho, se for domingo; senão, o domingo entre 28 de junho e 4 de julho.", "fonte": "Decisão da CNBB com aprovação da Santa Sé; datas confirmadas abaixo (2021, 2024 e 2026)." },
+    { "id": "assuncao", "regra": "15 de agosto, se for domingo; senão, o domingo seguinte.", "fonte": "CNBB: \"no domingo subsequente ao dia 15 de agosto quando este não cai em um domingo, conforme autorização da Santa Sé\"." },
+    { "id": "todosossantos", "regra": "1º de novembro, se for domingo ou sábado; senão, o domingo seguinte.", "fonte": "CNBB: transferida para o domingo seguinte; em 2025 (1º/11 no sábado): \"No sábado, 1º de novembro, celebra-se durante todo o dia a Solenidade de Todos os Santos. No domingo, 2 de novembro, o dia inteiro será dedicado à Comemoração de Todos os Fiéis Defuntos\"." },
+    { "id": "fieisdefuntos", "regra": "Sempre 2 de novembro, mesmo no domingo.", "fonte": "Acervo (Ofício das Leituras de Finados): \"Mesmo quando o dia 2 de novembro for domingo, celebra-se a Comemoração de Todos os Fiéis Defuntos\"." },
+    { "id": "NSAparecida", "regra": "12 de outubro, solenidade (padroeira do Brasil), mesmo no domingo.", "fonte": "Livro (1995), Calendário: \"12 N. SENHORA DA CONCEIÇÃO APARECIDA — Solenidade\"." },
+    { "id": "saojose", "regra": "19 de março; no domingo da Quaresma, segunda-feira; na Semana Santa, sábado antes de Ramos.", "fonte": "Normas Universais do Ano Litúrgico e Calendário (n. 5 e 60) e Congregação para o Culto Divino (2008)." },
+    { "id": "anunciacao", "regra": "25 de março; no domingo da Quaresma, segunda-feira; na Semana Santa ou na oitava da Páscoa, segunda-feira depois do 2º domingo da Páscoa.", "fonte": "Normas Universais do Ano Litúrgico e Calendário (n. 5 e 60) e Congregação para o Culto Divino (2008)." },
+    { "id": "imaculada", "regra": "8 de dezembro; no domingo do Advento, segunda-feira 9 de dezembro.", "fonte": "Normas Universais (n. 5 e 60); aplicada em 2024 (8/12 no 2º domingo do Advento)." },
+    { "id": "sagradafamilia", "regra": "Domingo na oitava do Natal; se não houver, 30 de dezembro.", "fonte": "Calendário Romano Geral." },
+    { "id": "santissimatrindade", "regra": "Domingo depois de Pentecostes.", "fonte": "Livro (1995): \"1º domingo depois de Pentecostes: Santíssima TRINDADE\"." },
+    { "id": "cristoreidouniverso", "regra": "Último domingo do Tempo Comum (antes do 1º domingo do Advento).", "fonte": "Calendário Romano Geral." }
+  ],
+  "datas_confirmadas": [
+    { "data": "2023-01-09", "id": "batismo", "fonte": "Vatican News (pt), Palavra do dia de 09/01/2023: \"Batismo do Senhor - Festa | Segunda-feira\"", "url": "https://www.vaticannews.va/pt/palavra-do-dia/2023/01/09.html" },
+    { "data": "2021-07-04", "id": "pedroepaulo", "fonte": "Roteiro \"Solenidade de São Pedro e São Paulo, Dia do Papa - Ano B - 04/07/2021\"; CNBB, 02/07/2021: coleta do Óbolo de São Pedro \"neste domingo (4)\"", "url": "https://www.materecclesiae.com.br/solenidade-de-sao-pedro-e-sao-paulo-dia-do-papa-ano-b-04-07-2021/" },
+    { "data": "2024-06-30", "id": "pedroepaulo", "fonte": "Diocese de São José dos Campos, folheto \"30 de junho de 2024 — Solenidade de São Pedro e São Paulo, Apóstolos\"", "url": "https://diocese-sjc.org.br/wp-content/uploads/2024/05/30-de-junho-de-2024-SOLENIDADE-DE-SAO-PEDRO-E-SAO-PAULO-APOSTOLOS-MISSA-DO-DIA-.pdf" },
+    { "data": "2026-06-28", "id": "pedroepaulo", "fonte": "Diocese de São José dos Campos e Diocese de Erexim (28/06/2026); Arquidiocese de Diamantina: \"por determinação da CNBB, celebra-se a Solenidade de São Pedro e São Paulo\"", "url": "https://diocesedeerexim.org.br/hinario-domingos/solenidade-de-sao-pedro-e-sao-paulo-28-06-2026-ano-a/" },
+    { "data": "2024-08-18", "id": "assuncao", "fonte": "Diocese de Blumenau (2024): solenidade transferida para o domingo seguinte, 18 de agosto", "url": "https://diocesedeblumenau.org.br/padreraul/wp-content/uploads/sites/11/2024/08/2024-08-13-Festa-Gloria-N.pdf" },
+    { "data": "2021-11-07", "id": "todosossantos", "fonte": "CNBB, subsídio \"Celebrar em Família — Solenidade de Todos os Santos\" (07/11/2021)", "url": "https://www.cnbb.org.br/wp-content/uploads/2021/10/61-Celebrar-em-Familia-Sol.-Todos-os-Santos.pdf" },
+    { "data": "2025-11-01", "id": "todosossantos", "fonte": "Orientação da CNBB (2025): Todos os Santos no sábado, 1º de novembro, \"durante todo o dia\"", "url": "https://comshalom.org/proximo-fim-de-semana-tera-duas-missas-de-preceito-entenda-o-motivo/" },
+    { "data": "2025-11-02", "id": "fieisdefuntos", "fonte": "Orientação da CNBB (2025): domingo, 2 de novembro, \"o dia inteiro será dedicado à Comemoração de Todos os Fiéis Defuntos\"", "url": "https://comshalom.org/proximo-fim-de-semana-tera-duas-missas-de-preceito-entenda-o-motivo/" },
+    { "data": "2024-12-09", "id": "imaculada", "fonte": "8/12/2024 no 2º domingo do Advento: solenidade na segunda-feira, 9 de dezembro", "url": "https://www.catholicworldreport.com/2024/12/07/immaculate-conception-on-an-advent-sunday-when-to-go-to-mass/" }
+  ],
+  "correcoes_no_motor": [
+    { "id": "pedroepaulo", "antes": "domingo seguinte a 29/6", "depois": "domingo entre 28/6 e 4/7", "efeito": "Quando 29/6 cai na segunda-feira (2020, 2026, 2037…), a solenidade é no domingo 28/6, e não no domingo 5/7." },
+    { "id": "todosossantos", "antes": "domingo seguinte; Finados ia para 3/11 quando Todos os Santos caía em 2/11", "depois": "1º/11 no sábado fica no sábado; Finados sempre em 2/11", "efeito": "Em 2025, 2031, 2036… Todos os Santos é no sábado 1º/11 e Finados no domingo 2/11, com as Vésperas do sábado de Todos os Santos." }
+  ]
+}
