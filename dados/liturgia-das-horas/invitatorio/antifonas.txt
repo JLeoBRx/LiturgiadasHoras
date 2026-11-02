@@ -1,0 +1,947 @@
+@origem invitatorio.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento Antífonas do Invitatório
+
+@rubrica
+Chaves usadas pelo site (js/liturgy-hours.js):
+TC<semana do saltério><dia> = Tempo Comum (ex.: TC1segunda);
+TA1 = Advento até 16/dez; TA2 = de 17 a 23/dez; TA24 = 24 de dezembro;
+TN = Oitava do Natal e dias antes da Epifania; TN2 = depois da Epifania;
+TQ = Quaresma; TSS = Semana Santa; TP1 = Tempo Pascal até a 6ª semana; TP2 = 7ª semana;
+demais chaves = id da celebração em dados/calendario/santoral.json.
+Uma linha "= outra-chave" usa a mesma antífona de outra chave.
+Nas memórias do Tempo Pascal o site acrescenta "Aleluia." ao final.
+
+@antifona TC1domingo
+Vinde, exultemos de alegria no Senhor,
+aclamemos o Rochedo que nos salva! Aleluia.
+
+@antifona TC1segunda
+Caminhemos com louvores ao encontro do Senhor!
+
+@antifona TC1terca
+O Senhor é o grande Rei; vinde todos, adoremos!
+
+@antifona TC1quarta
+Adoremos o Senhor, pois foi ele quem nos fez!
+
+@antifona TC1quinta
+Adoremos o Senhor, porque ele é nosso Deus!
+
+@antifona TC1sexta
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@antifona TC1sabado
+Ao Senhor pertence a terra e tudo o que contém:
+vinde todos, adoremos!
+
+@antifona TC2domingo
+Vinde, povo do Senhor e rebanho que ele guia:
+vinde todos, adoremos, aleluia.
+
+@antifona TC2segunda
+Exultemos de alegria no Senhor,
+e com cantos de alegria o celebremos!
+
+@antifona TC2terca
+O Senhor, o grande Deus, vinde todos, adoremos!
+
+@antifona TC2quarta
+Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria!
+
+@antifona TC2quinta
+Entrai diante dele cantando jubilosos!
+
+@antifona TC2sexta
+É suave o Senhor: bendizei o seu nome!
+
+@antifona TC2sabado
+Ouçamos hoje a voz de nosso Deus,
+para entrarmos no lugar de seu repouso.
+
+@antifona TC3domingo
+Vinde, exultemos de alegria no Senhor,
+aclamemos o Rochedo que nos salva! Aleluia.
+
+@antifona TC3segunda
+Caminhemos com louvores ao encontro do Senhor
+
+@antifona TC3terca
+Ao Senhor, o grande Rei, vinde todos, adoremos!
+
+@antifona TC3quarta
+Adoremos o Senhor, pois foi ele quem nos fez.
+
+@antifona TC3quinta
+Adoremos o Senhor, porque ele é nosso Deus.
+
+@antifona TC3sexta
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@antifona TC3sabado
+Ao Senhor pertence a terra e tudo o que ela encerra:
+Adoremos o Senhor!
+
+@antifona TC4domingo
+Vinde, povo do Senhor e rebanho que ele guia:
+vinde todos, adoremos, aleluia.
+
+@antifona TC4segunda
+Exultemos de alegria no Senhor,
+e com cantos de louvor o celebremos!
+
+@antifona TC4terca
+Ao Senhor, o grande Deus, vinde todos, adoremos!
+
+@antifona TC4quarta
+Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria!
+
+@antifona TC4quinta
+Entrai diante dele cantando jubilosos!
+
+@antifona TC4sexta
+É suave o Senhor: bendizei o seu nome!
+
+@antifona TC4sabado
+Ouçamos hoje a voz de nosso Deus,
+para entrarmos no lugar de seu repouso.
+
+@antifona TQ
+Cristo por nós foi tentado, sofreu e na cruz morreu:
+Vinde todos, adoremos!
+{Ou:}
+Hoje não fecheis o vosso coração, mas ouvi a voz do Senhor!
+
+@antifona TSS
+Cristo por nós foi tentado, sofreu e na Cruz morreu: Vinde todos, adoremos!
+
+@antifona TP1
+O Senhor ressurgiu realmente. Aleluia.
+
+@antifona TP2
+Ao Senhor que prometeu o Santo Espírito, vinde todos, adoremos, aleluia.
+
+@antifona TA1
+Vinde, adoremos o Rei que vai chegar.
+
+@antifona TA2
+Vinde, adoremos o Senhor que já está perto.
+
+@antifona virgens
+Ao Senhor, Rei das virgens, oh! vinde, adoremos.
+{Ou:}
+Adoremos o Cordeiro, a quem as virgens sempre seguem.
+
+@antifona martir
+Ao Senhor, Rei dos mártires, vinde, adoremos.
+
+@antifona pastores
+A Jesus Cristo, o Bom Pastor,
+oh! vinde, todos, adoremos.
+
+@antifona doutores
+A Sabedoria eterna, oh vinde, adoremos.
+
+@antifona santasmulheres
+Adoremos o Senhor, admirável nos seus santos.
+
+@antifona santoshomens
+= santasmulheres
+
+@antifona dedicacaoigreja
+Igreja, Esposa de Cristo, aclama e louva o Senhor.
+
+@antifona santoestevao
+Vinde, adoremos:
+o Cristo nasceu para nós
+e deu a coroa de glória ao mártir Santo Estêvão.
+
+@antifona cinzas
+= TQ
+
+@antifona ramos
+= TSS
+
+@antifona ceiadosenhor
+= TSS
+
+@antifona paixaodosenhor
+O Cristo, o Filho de Deus, com seu sangue nos remiu. Vinde todos, adoremos!
+
+@antifona sabadosanto
+Cristo por nós padeceu, morreu e foi sepultado: Vinde todos, adoremos!
+
+@antifona pascoa
+O Senhor ressurgiu. Aleluia, aleluia!
+
+@antifona divinamisericordia
+= TP1
+
+@antifona ascensaodosenhor
+Adoremos o Cristo Senhor que sobe aos céus. Aleluia.
+
+@antifona pentecostes
+O Espírito do Senhor o universo todo encheu: Vinde todos, adoremos! Aleluia.
+
+@antifona catedra
+Ao Senhor, Rei dos Apóstolos, vinde, adoremos.
+
+@antifona visitacao
+Louvemos a nosso Senhor, festejemos a Virgem Maria, na festa da Visitação. (T.P. Aleluia)
+
+@antifona saobarnabe
+Adoremos o Espírito de Deus que nos fala nos profetas e doutores.
+
+@antifona saojoao
+O Cordeiro de Deus, a quem João indicou com grande alegria, oh! vinde, adoremos!
+
+@antifona pedroepaulo
+Ao Senhor, Rei dos Apóstolos, vinde adoremos.
+
+@antifona saotiago
+= pedroepaulo
+
+@antifona saotome
+= pedroepaulo
+
+@antifona saofilipeetiago
+Aleluia. Ao Senhor, Rei dos Apóstolos, vinde adoremos, aleluia.
+
+@antifona saomatias
+= saofilipeetiago
+
+@antifona santoandre
+= pedroepaulo
+
+@antifona basilicaspedroepaulo
+= pedroepaulo
+
+@antifona simaoejudas
+= pedroepaulo
+
+@antifona saobartolomeu
+= pedroepaulo
+
+@antifona santarosa
+= virgens
+
+@antifona faustinakowalska
+= virgens
+
+@antifona hildegarda
+= virgens
+
+@antifona santaclara
+= virgens
+
+@antifona santacatarina
+Ao Senhor, Rei das virgens, oh! vinde, adoremos. {(T.P.} Aleluia)
+{Ou:}
+Adoremos o Cordeiro, a quem as virgens sempre seguem. {(T.P.} Aleluia)
+
+@antifona santateresa
+= virgens
+
+@antifona santadulce
+= virgens
+
+@antifona santateresadecalcuta
+= santasmulheres
+
+@antifona santateresinha
+= virgens
+
+@antifona santapaulina
+= virgens
+
+@antifona conversaosaopaulo
+Aclamemos nosso Deus, celebrando a conversão do Apóstolo das gentes.
+
+@antifona apresentacao
+O Senhor vem a seu templo: vinde, todos, adoremos!
+
+@antifona scj
+O Coração de Jesus por nosso amor transpassado, vinde todos, adoremos!
+
+@antifona santissimatrindade
+Ao Deus Uno na Trindade, ao Deus Trino na Unidade, vinde todos, adoremos!
+
+@antifona corpuschristi
+A Cristo Senhor, o Pão da vida, vinde todos, adoremos!
+
+@antifona cristoreidouniverso
+A Jesus Cristo, Rei dos reis, vinde todos, adoremos!
+
+@antifona transfiguracao
+Ao supremo Rei da glória, vinde, todos, adoremos!
+
+@antifona assuncao
+Adoremos o Cristo e louvemos sua Mãe
+elevada, hoje, aos céus.
+
+@antifona NSRainha
+Adoremos Cristo Rei, que a Maria, sua Mãe, coroou como Rainha.
+
+@antifona mart_saojoao
+O Cordeiro de Deus adoremos, a quem João precedeu na paixão.
+
+@antifona natividade
+Adoremos Jesus Cristo,
+celebrando o nascimento de Maria, sua Mãe.
+
+@antifona exaltacao
+Adoremos Cristo Rei exaltado em sua Cruz!
+
+@antifona NSDores
+Adoremos o Cristo Jesus Salvador, que à sua paixão quis unir sua Mãe.
+
+@antifona arcanjos
+Na presença de seus anjos, adoremos o Senhor.
+
+@antifona anjos
+Adoremos o Senhor, a quem os anjos servem.
+
+@antifona NSAparecida
+Vinde adoremos a Cristo Jesus, Filho bendito da Virgem Maria!
+
+@antifona NSCarmo
+= NSAparecida
+
+@antifona NSRosario
+= NSAparecida
+
+@antifona NSGuadalupe
+Vinde, adoremos o Cristo,
+o Filho nascido da sempre Virgem Maria
+
+@antifona NSLourdes
+= NSAparecida
+
+@antifona NSFatima
+= NSAparecida
+
+@antifona saolucas
+Adoremos o Senhor que nos fala no Evangelho!
+
+@antifona saomarcos
+Adoremos o Senhor que nos fala no Evangelho! Aleluia.
+
+@antifona saomateus
+Ao Senhor, Rei dos Apóstolos, vinde, adoremos!
+
+@antifona todosossantos
+Ao Senhor glorificado na assembléia de seus santos, vinde todos, adoremos!
+
+@antifona fieisdefuntos
+Adoremos o Senhor: para ele todos vivem.
+
+@antifona icvm
+= NSAparecida
+
+@antifona stamariamadalena
+Adoremos o Senhor, admirável nos seus santos.
+{Ou:}
+Na festa de Santa Maria Madalena, celebremos o Senhor!
+
+@antifona santaedviges
+= santasmulheres
+
+@antifona santamonica
+= santasmulheres
+
+@antifona saomaximiliano
+= martir
+
+@antifona santoapolinario
+= martir
+
+@antifona joaofishertomasmore
+= martir
+
+@antifona nereueaquiles
+= martir
+
+@antifona saopancracio
+= martir
+
+@antifona saojorge
+= martir
+
+@antifona saofidelis
+= martir
+
+@antifona pedrochanel
+= martir
+
+@antifona inaciodeazevedo
+= martir
+
+@antifona lourencoruiz
+= martir
+
+@antifona saojanuario
+= martir
+
+@antifona tomasbecket
+= martir
+
+@antifona protomartiresroma
+= martir
+
+@antifona saovenceslau
+= martir
+
+@antifona saocarloslwanga
+= martir
+
+@antifona marcelinoepedro
+= martir
+
+@antifona cosmeedamiao
+= martir
+
+@antifona saobonifacio
+= martir
+
+@antifona martinhoI
+= martir
+
+@antifona santaluzia
+= martir
+
+@antifona saoponciano
+= martir
+
+@antifona saodionisio
+= martir
+
+@antifona perpetuaefelicidade
+= martir
+
+@antifona santoirineu
+= martir
+
+@antifona cornelioecipriano
+= martir
+
+@antifona saogregorio
+= doutores
+
+@antifona saojoaonewman
+= doutores
+
+@antifona gregorionarek
+= doutores
+
+@antifona saopio
+= pastores
+
+@antifona saopedroclaver
+= pastores
+
+@antifona saojoaodacruz
+= doutores
+
+@antifona santoinacio
+= pastores
+
+@antifona paulinodenola
+= pastores
+
+@antifona eusebiovercelli
+= pastores
+
+@antifona norberto
+= pastores
+
+@antifona tomasdevilanova
+Vinde, adoremos a Cristo, nosso único Mestre.
+
+@antifona agostinhodecantuaria
+= pastores
+
+@antifona saocharbel
+= pastores
+
+@antifona antoniomariaclaret
+= pastores
+
+@antifona josemariaescriva
+= pastores
+
+@antifona saonicolau
+= pastores
+
+@antifona saojoaocrisostomo
+= doutores
+
+@antifona santoanselmo
+= doutores
+
+@antifona santoefrem
+= doutores
+
+@antifona saojeronimo
+= doutores
+
+@antifona santoatanasio
+= doutores
+
+@antifona cirilojerusalem
+= doutores
+
+@antifona santoantonio
+= doutores
+
+@antifona joaodamasceno
+= doutores
+
+@antifona pedrocanisio
+= doutores
+
+@antifona saobeda
+= doutores
+
+@antifona joaodeavila
+= doutores
+
+@antifona santoambrosio
+= doutores
+
+@antifona santoagostinho
+= doutores
+
+@antifona saovicente
+= martir
+
+@antifona saojoaobosco
+= pastores
+
+@antifona saoluismontfort
+= pastores
+
+@antifona josedeanchieta
+= pastores
+
+@antifona gregoriovii
+= pastores
+
+@antifona santoantoniomzacaria
+= pastores
+
+@antifona saobernardino
+= pastores
+
+@antifona saovicenteferrer
+= pastores
+
+@antifona santoandrekim
+= martir
+
+@antifona agostinhozhaorong
+= martir
+
+@antifona saofrancisco
+= santoshomens
+
+@antifona pedroeymard
+= santoshomens
+
+@antifona joaodedeus
+= santoshomens
+
+@antifona martinhodelima
+= santoshomens
+
+@antifona saoluisdefranca
+= santoshomens
+
+@antifona estevaodahungria
+= santoshomens
+
+@antifona latrao
+= dedicacaoigreja
+
+@antifona carlosborromeu
+= pastores
+
+@antifona saoleao
+= doutores
+
+@antifona saoclemente
+= pastores
+
+@antifona saocalisto
+= pastores
+
+@antifona saofabiano
+= pastores
+
+@antifona joaoi
+= pastores
+
+@antifona santoalberto
+= doutores
+
+@antifona saoboaventura
+= doutores
+
+@antifona santoafonso
+= doutores
+
+@antifona saoroberto
+= doutores
+
+@antifona saomartinho
+Louvemos nosso Deus festejando São Martinho.
+
+@antifona natal
+Jesus por nós nasceu: vinde todos adoremos.
+
+@antifona sagradafamilia
+Adoremos o Filho de Deus, obediente a Maria e José.
+
+@antifona joaoevangelista
+Ao Senhor, Rei dos Apóstolos, vinde, adoremos.
+
+@antifona santosinocentes
+Vinde, adoremos:
+o Cristo nasceu para nós
+e deu a coroa de glória aos mártires Inocentes.
+
+@antifona santamaria
+Celebremos a Maternidade da Santíssima Virgem Maria:
+Ao Cristo, seu Filho, adoremos!
+
+@antifona epifania
+A Jesus que se revela, vinde todos, adoremos.
+
+@antifona batismo
+Vinde, adoremos o Filho muito amado e querido de Deus Pai.
+
+@antifona imaculada
+Celebremos a Imaculada Conceição de Maria.
+Adoremos o seu Filho Jesus Cristo, o Senhor.
+
+@antifona saojoseoperario
+Adoremos Jesus Cristo, que quis ser considerado
+como filho de José, o carpinteiro.
+
+@antifona santaines
+= martir
+
+@antifona santotomas
+= doutores
+
+@antifona lourencodebrindisi
+= doutores
+
+@antifona santohilario
+= doutores
+
+@antifona saopedrocrisologo
+= doutores
+
+@antifona saociriloalexandria
+= doutores
+
+@antifona santaagueda
+= virgens
+
+@antifona saopaulomiki
+= martir
+
+@antifona saosisto
+= martir
+
+@antifona andreeambrosio
+= martir
+
+@antifona santoandredung
+= martir
+
+@antifona joaobrebeuf
+= martir
+
+@antifona santaescolastica
+= virgens
+
+@antifona josefinabakhita
+= virgens
+
+@antifona angelamerici
+= virgens
+
+@antifona margaridaalacoque
+= virgens
+
+@antifona santagertrudes
+= virgens
+
+@antifona madalenadepazzi
+= virgens
+
+@antifona policarpo
+= martir
+
+@antifona estanislau
+= martir
+
+@antifona saobras
+= martir
+
+@antifona saojosafa
+= martir
+
+@antifona inaciodeantioquia
+= martir
+
+@antifona saojose
+Louvemos ao Senhor festejando São José. (T.P. Aleluia)
+
+@antifona anunciacao
+O Verbo se fez carne: Vinde todos, adoremos. (T.P. Aleluia)
+
+@antifona saofilipeneri
+= pastores
+
+@antifona raimundopenyafort
+= pastores
+
+@antifona joaocancio
+= pastores
+
+@antifona saocolumbano
+= pastores
+
+@antifona pedroalcantara
+= pastores
+
+@antifona saoluisgonzaga
+= santoshomens
+
+@antifona josedecalasanz
+= santoshomens
+
+@antifona saoromualdo
+= santoshomens
+
+@antifona franciscodepaula
+= santoshomens
+
+@antifona setesantos
+= santoshomens
+
+@antifona saobento
+= santoshomens
+
+@antifona saodomingos
+= santoshomens
+
+@antifona martiriobatista
+O Cordeiro de Deus adoremos,
+a quem João precedeu na paixão.
+
+@antifona franciscoxavier
+= pastores
+
+@antifona basilioegregorio
+= doutores
+
+@antifona saobernardo
+= doutores
+
+@antifona santoantao
+= santoshomens
+
+@antifona beneditoonegro
+= santoshomens
+
+@antifona saociriloemetodio
+= pastores
+
+@antifona saotimoteoetito
+= pastores
+
+@antifona santooscar
+= pastores
+
+@antifona saopatricio
+= pastores
+
+@antifona turibiodemogrovejo
+= pastores
+
+@antifona saofranciscosales
+= doutores
+
+@antifona pedrodamiao
+= doutores
+
+@antifona santoisidoro
+= doutores
+
+@antifona saojustino
+= martir
+
+@antifona roquegonzalez
+= martir
+
+@antifona saopiox
+= pastores
+
+@antifona saopiov
+= pastores
+
+@antifona saogregoriovii
+= pastores
+
+@antifona saosilvestre
+= pastores
+
+@antifona saodamaso
+= pastores
+
+@antifona joaopauloii
+= pastores
+
+@antifona paulovi
+= pastores
+
+@antifona joaoxxiii
+= pastores
+
+@antifona joaodelasalle
+= pastores
+
+@antifona isabeldahungria
+= santasmulheres
+
+@antifona santabrigida
+= santasmulheres
+
+@antifona franciscaromana
+= santasmulheres
+
+@antifona ritadecassia
+= santasmulheres
+
+@antifona isabeldeportugal
+= santasmulheres
+
+@antifona santacecilia
+= virgens
+
+@antifona saocasimiro
+= santoshomens
+
+@antifona saojoaodiego
+= santoshomens
+
+@antifona santohenrique
+= santoshomens
+
+@antifona saojoaquimesantana
+= santoshomens
+
+@antifona jeronimoemiliani
+= santoshomens
+
+@antifona saojmvianney
+= pastores
+
+@antifona saojoaoleonardi
+= pastores
+
+@antifona saobruno
+= santoshomens
+
+@antifona paulodacruz
+= pastores
+
+@antifona joaocapistrano
+= pastores
+
+@antifona saojoaoeudes
+= pastores
+
+@antifona joaocalabria
+= pastores
+
+@antifona saocaetano
+= pastores
+
+@antifona saovicentedepaulo
+= pastores
+
+@antifona apresentacaoNS
+= NSAparecida
+
+@antifona camilodelellis
+= santoshomens
+
+@antifona mariagoretti
+= martir
+
+@antifona catarinadealexandria
+= martir
+
+@antifona beneditadacruz
+= martir
+
+@antifona saosebastiao
+= martir
+
+@antifona santamariamaior
+Vinde, adoremos o Cristo Jesus, Filho bendito da Virgem Maria!
+
+@antifona maedaigreja
+Vinde, adoremos o Cristo Jesus,
+Filho bendito da Virgem Maria!
+{Ou:}
+Louvemos a nosso Senhor,
+festejemos a Virgem Maria!
+
+@antifona ssnomedemaria
+Vinde, adoremos o Cristo Jesus,
+Filho bendito da Virgem Maria!
+{Ou:}
+Louvemos a nosso Senhor,
+festejemos a Virgem Maria!
+
+@antifona NSLoreto
+= maedaigreja
+
+@antifona santamarta
+= santasmulheres
+
+@antifona margaridadaescocia
+= santasmulheres
+
+@antifona saolourenco
+= martir
+
+@antifona antoniogalvao
+Adoremos o Senhor, admirável nos seus santos.
+{Ou:}
+Na festa de Santo Antônio de Sant’Ana Galvão, celebremos o Senhor!
+
+@antifona santajoanadechantal
+= santasmulheres
+
+@antifona santamarianosabado
+= ssnomedemaria
+
+@antifona ssnomedejesus
+Jesus por nós nasceu:
+vinde todos adoremos.
+
+@antifona TA24
+Hoje sabereis que o Senhor mesmo virá,
+e amanhã haveis de ver sua glória em nosso meio.
+
+@antifona TN
+Jesus por nós nasceu:
+vinde todos adoremos.
+
+@antifona TN2
+A Jesus que se revela, vinde todos, adoremos.

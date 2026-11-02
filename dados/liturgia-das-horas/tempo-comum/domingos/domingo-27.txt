@@ -1,0 +1,55 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 27º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Estando já próximo o tempo da safra,
+o dono da vinha mandou os empregados
+cobrar os seus frutos dos agricultores.
+
+@antifona vesperas-i-B
+Chegando os fariseus, perguntaram a Jesus
+se é lícito ao homem repudiar sua mulher.
+Jesus lhes respondeu: o homem não separe
+o que foi por Deus unido.
+
+@antifona vesperas-i-C
+Os Apóstolos disseram a Jesus:
+Ó Senhor, aumentai a nossa fé!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O dono da vinha fará perecer
+os maus com rigor, e haverá de arrendar
+sua vinha a outros, que no tempo devido
+lhe entreguem os frutos.
+
+@antifona laudes-B
+Deixai vir a mim as crianças,
+pois delas é o Reino dos Céus.
+
+@antifona laudes-C
+Se tiverdes a fé como um grão de mostarda,
+direis à amoreira: Arranca-te daqui,
+e transplanta-te ao mar. Ela há de obedecer-vos.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+A pedra que os pedreiros rejeitaram,
+tornou-se agora a pedra angular.
+Pelo Senhor é que foi feito tudo isso:
+Que maravilhas ele fez a nossos olhos!
+
+@antifona vesperas-ii-B
+Quem não receber o Reino de Deus
+como uma criança,
+jamais entrará na casa do Pai.
+
+@antifona vesperas-ii-C
+Quando vós terminardes de fazer
+tudo aquilo que foi ordenado,
+dizei: Somos servos inúteis,
+só cumprimos o nosso dever.

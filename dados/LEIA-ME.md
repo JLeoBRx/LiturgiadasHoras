@@ -15,6 +15,8 @@ dados/
 │   │   └── completas/segunda.txt
 │   ├── advento/  natal/  quaresma/  semana-santa/  pascoa/
 │   ├── proprio/<celebração>/laudes.txt  …          (solenidades, festas e memórias)
+│   ├── tempo-comum/domingos/domingo-31.txt     (antífonas do Benedictus/Magnificat, Anos A/B/C)
+│   ├── invitatorio/antifonas.txt                (antífona do Invitatório de cada dia)
 │   ├── comuns/  invitatorio/  salmodia-complementar/  …
 │   └── arquivos.json               lista dos ofícios disponíveis (gerada)
 ├── salmos/        um arquivo por salmo  (ex.: salmo-062-2-9.txt)
@@ -38,6 +40,13 @@ dados/
 - **Um ofício**: siga tempo → semana → dia → hora. Ex.: Vésperas da segunda-feira
   da III semana do saltério no Tempo Comum:
   `liturgia-das-horas/tempo-comum/salterio/semana-3/segunda-vesperas.txt`.
+- **Antífona do Invitatório**: `liturgia-das-horas/invitatorio/antifonas.txt`.
+  Cada antífona tem uma chave (ex.: `TC1segunda` = Tempo Comum, semana I do
+  saltério, segunda-feira; `TQ` = Quaresma; `carlosborromeu` = o santo).
+  A explicação das chaves está no início do arquivo.
+- **Antífona do Benedictus/Magnificat de um domingo do Tempo Comum**:
+  `liturgia-das-horas/tempo-comum/domingos/domingo-NN.txt`, com as versões
+  `laudes-A`, `vesperas-i-B`, `vesperas-ii-C` etc.
 - **Um santo**: `liturgia-das-horas/proprio/<id>/` — o `<id>` é o mesmo de
   `calendario/santoral.json` (ex.: `carlosborromeu`).
 - **No próprio site**: no fim de cada ofício, abra “Origem dos textos” para ver

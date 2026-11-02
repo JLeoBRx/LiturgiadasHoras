@@ -1,0 +1,54 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 14º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Eu te louvo e bendigo, meu Pai,
+dos céus e da terra Senhor,
+porque ocultaste estas coisas
+aos sábios e aos entendidos
+e as revelaste aos pequenos!
+
+@antifona vesperas-i-B
+Os ouvintes se admiravam da doutrina de Jesus,
+e diziam estupefatos: Não é este o carpinteiro?
+Não é o filho de Maria?
+De onde lhe vem este saber?
+
+@antifona vesperas-i-C
+É grande a colheita, e os operários são poucos.
+Por isso, pedi ao Senhor da colheita
+que mande operários à sua colheita.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Tomai meu jugo sobre vós
+e aprendei de mim que sou
+de coração humilde e manso,
+e achareis paz e repouso para os vossos corações.
+
+@antifona laudes-B
+Eu vos digo com certeza a todos vós:
+o profeta não é aceito em sua pátria.
+
+@antifona laudes-C
+Ao entrardes numa casa, dizei primeiramente:
+A paz a esta casa!
+E sobre aquela casa, vossa paz repousará.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+O meu jugo é suave e é leve o meu fardo,
+assim diz o Senhor.
+
+@antifona vesperas-ii-B
+Saindo Jesus de sua terra,
+percorria as aldeias vizinhas
+e pregava o Evangelho do Reino.
+
+@antifona vesperas-ii-C
+Exultai e alegrai-vos,
+porque vossos nomes estão escritos no céu.

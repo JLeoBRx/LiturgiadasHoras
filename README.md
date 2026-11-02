@@ -74,7 +74,7 @@ material útil está em `assets/Resources/`:
 | `missal/` (519 HTML) | orações próprias (coleta, oferendas, comunhão), ordinário, prefácios | `dados/liturgia-diaria/missal` |
 | `estaticos/paginas.json` | índice dos ofícios na ordem do breviário | guia para as regras de composição |
 | `salterio/`, `comentarios/`, `catequeses/`, `evangelho/`, `rosario/`, `santos/` | saltério completo, comentários, devoções, imagens | não usados (fora do escopo pedido) |
-| `*.js.bin` | código do aplicativo, **criptografado** | não usado |
+| `*.js.bin` | código do aplicativo, **criptografado** | versões legíveis de `invitatorio.js` e `aoh.js` (fornecidas à parte) usadas para extrair as antífonas |
 
 Muitos ofícios do acervo são **compostos de partes** (por exemplo, a
 salmodia do saltério + o próprio do dia, ou a salmodia do Ofício das Leituras
@@ -114,18 +114,27 @@ O índice é um JSON legível e pode ser corrigido à mão.
 ## Lacunas do acervo (sinalizadas no site)
 
 Nenhum texto foi inventado. Quando algo não existe no acervo, o site mostra
-um aviso discreto no lugar. As lacunas encontradas:
+um aviso discreto no lugar.
 
-- **Antífonas do Invitatório** de cada dia — o acervo traz os salmos do
-  Invitatório (94, 99, 66, 23) com marcadores vazios; as antífonas eram
-  preenchidas pelo código criptografado.
-- **Antífonas do Benedictus e do Magnificat dos domingos do Tempo Comum**
-  (Anos A, B e C) — mesma situação. A **oração** desses domingos, que também
-  vinha vazia, é recuperada automaticamente do Ofício das Leituras do domingo.
+As **antífonas do Invitatório** e as **antífonas do Benedictus e do
+Magnificat dos domingos do Tempo Comum (Anos A, B e C)** não estavam nos
+HTML: o aplicativo as guardava no código (`invitatorio.js` e `aoh.js`).
+Com as versões legíveis desses arquivos, elas foram extraídas por
+`ferramentas/importar_antifonas.py` para
+`dados/liturgia-das-horas/invitatorio/antifonas.txt` e
+`dados/liturgia-das-horas/tempo-comum/domingos/domingo-NN.txt`, e o site as
+escolhe com a mesma regra do aplicativo (por tempo litúrgico, semana do
+saltério, dia e celebração; nas memórias do Tempo Pascal acrescenta
+“Aleluia”).
+
+Lacunas que continuam:
+
 - **Ofício das Leituras do IV Domingo do Advento**: o arquivo do acervo não
   traz as leituras.
 - **Hora Média do IV Domingo do Advento entre 18 e 23 de dezembro**: o
   acervo só tem a versão de 24/12, que é usada com um aviso.
+- **Coletas salmódicas** (oração depois do salmo do Invitatório): o texto está
+  em `salterio/coletasalmodica.js.bin`, ainda criptografado.
 - **Liturgia Diária**: faltam no acervo as leituras do 9º domingo do Ano A,
   31º do Ano A e 7º e 8º do Ano B; e as orações próprias da Missa de Natal,
   Ramos, Ceia do Senhor, Sábado Santo, Páscoa e Pentecostes.
@@ -139,6 +148,7 @@ python3 ferramentas/importar_oficios.py        # acervo → dados/liturgia-das-h
 python3 ferramentas/importar_lecionario.py     # acervo → dados/liturgia-diaria (leituras e missal)
 python3 ferramentas/gerar_santoral.py          # dados/calendario/santoral.json
 python3 ferramentas/gerar_indice_liturgia_diaria.py
+python3 ferramentas/importar_antifonas.py --fonte PASTA_COM_invitatorio.js_E_aoh.js
 ```
 
 ⚠️ Os importadores sobrescrevem `dados/`. Depois de editar os textos à mão,

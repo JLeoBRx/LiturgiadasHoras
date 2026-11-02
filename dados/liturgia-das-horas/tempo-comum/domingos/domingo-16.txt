@@ -1,0 +1,51 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 16º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Ajuntai primeiro o joio,
+atai-o em feixes e queimai-o,
+mas o trigo, recolhei-o no meu celeiro, diz Jesus.
+
+@antifona vesperas-i-B
+Os apóstolos reuniram-se a Jesus,
+e a ele relataram tudo quanto
+haviam eles feito e ensinado.
+
+@antifona vesperas-i-C
+Jesus entrou em uma aldeia,
+e Marta o hospedou em sua casa, e o servia.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O Reino dos Céus é semelhante
+ao fermento que tomou uma mulher
+e colocou em três medidas de farinha,
+até que fosse fermentada toda a massa.
+
+@antifona laudes-B
+Vinde a sós a um lugar bem tranqüilo,
+repousai algum tempo comigo.
+
+@antifona laudes-C
+Maria, irmã de Marta, sentada aos pés do Mestre,
+escutava sua palavra.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+No fim do mundo, o Filho do Homem
+separará do trigo o joio.
+Então os justos brilharão
+como o sol no firmamento.
+
+@antifona vesperas-ii-B
+Vendo aquelas multidões, Jesus teve compaixão,
+porque eram como ovelhas
+que erravam sem pastor.
+
+@antifona vesperas-ii-C
+Maria escolheu a parte melhor
+que não lhe será tirada jamais.

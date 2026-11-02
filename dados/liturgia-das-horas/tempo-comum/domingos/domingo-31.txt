@@ -1,0 +1,51 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 31º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Todos vós sois irmãos:
+Vosso Pai é um só, que está lá nos céus.
+
+@antifona vesperas-i-B
+Amarás o Senhor, o teu Deus, de todo o teu coração,
+e o teu próximo como a ti mesmo.
+Não há outro maior mandamento.
+
+@antifona vesperas-i-C
+Zaqueu, vem depressa, e desce da árvore!
+porque hoje eu preciso ficar em tua casa.
+Com muita alegria Zaqueu recebeu
+a Jesus em sua casa.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O vosso Mestre é um somente.
+É o Cristo Senhor que está nos céus.
+
+@antifona laudes-B
+O Senhor nosso Deus é um só,
+e não há um outro além dele.
+Amarás o Senhor, o teu Deus,
+com todas as forças da alma.
+
+@antifona laudes-C
+A salvação hoje entrou nesta casa,
+pois também este é filho de Abraão.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Quem quiser ser o maior, seja o vosso servidor.
+Pois quem se exaltar, será humilhado;
+e quem se humilhar, será exaltado.
+
+@antifona vesperas-ii-B
+Jesus, vendo que o escriba falara
+com sabedoria, lhe disse:
+Não estás longe do Reino de Deus.
+
+@antifona vesperas-ii-C
+Veio o Filho do Homem buscar
+e salvar o que estava perdido.

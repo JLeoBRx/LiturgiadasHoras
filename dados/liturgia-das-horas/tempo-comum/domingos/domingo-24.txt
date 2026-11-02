@@ -1,0 +1,52 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 24º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Respondeu Jesus a Pedro: Pedro, deves perdoar
+não somente sete vezes, mas setenta vezes sete.
+
+@antifona vesperas-i-B
+E vós, quem dizeis que eu sou?
+Simão Pedro respondeu a Jesus:
+Tu és o Messias, aleluia.
+
+@antifona vesperas-i-C
+Quem dentre vós, que possui cem ovelhas
+e perdendo uma delas, não deixa no deserto
+as noventa e nove, e vai procurar
+a que ele perdeu, até encontrá-la?
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Compadecido, o patrão soltou seu empregado,
+perdoando a sua dívida.
+
+@antifona laudes-B
+O Filho do homem deverá sofrer muito
+ser morto e em três dias deverá ressurgir.
+
+@antifona laudes-C
+Em verdade eu vos digo que haverá
+alegria entre os anjos do Senhor
+por somente um pecador que se converte.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Servo mau, eu perdoei a tua dívida,
+porque tu me pediste e suplicaste.
+Não devias também tu compadecer-te
+deste teu companheiro de serviço,
+assim como de ti eu tive pena?
+
+@antifona vesperas-ii-B
+Quem perder a sua vida por mim e o Evangelho,
+vai salvá-la, diz Jesus.
+
+@antifona vesperas-ii-C
+Qual a mulher que tem dez dracmas,
+e perdendo uma delas, não acende uma lâmpada
+e a procura com cuidado até que a encontre?

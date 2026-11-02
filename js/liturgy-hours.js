@@ -68,6 +68,11 @@ function ferial(dia, hora) {
       // oração do domingo (o saltério dominical deixa a oração em aberto)
       const semanaDom = (d === 'sabado' && hora === 'vesperas') ? W + 1 : W;
       r.preencher.oracao = `tempo-comum/leituras/semana-${dd(semanaDom)}/domingo`;
+      // antífonas do Benedictus/Magnificat dos domingos (Anos A, B e C)
+      const momento = d === 'sabado' && hora === 'vesperas' ? 'vesperas-i'
+        : d === 'domingo' && hora === 'laudes' ? 'laudes'
+          : d === 'domingo' && hora === 'vesperas' ? 'vesperas-ii' : null;
+      if (momento) r.preencher.antifonas = { arquivo: `tempo-comum/domingos/domingo-${dd(semanaDom)}`, momento };
       break;
     }
     case 'advento': {
@@ -214,6 +219,46 @@ export function celebracaoEscolhida(dia, opcaoId) {
 const TEM_I_VESPERAS = (c, dia) => c && (dia.diaSemana === 0 || c.grau === 'solenidade' || (c.tipo === 'temporal' && c.precedencia <= 5));
 
 /**
+ * Antífona do Invitatório (mesma regra do aplicativo original):
+ * celebração própria pelo seu id; senão, conforme o tempo litúrgico.
+ * Retorna { chaves: [em ordem de preferência], aleluia }
+ */
+function chavesInvitatorio(dia, cel) {
+  let tempo;
+  switch (dia.tempo) {
+    case 'comum': tempo = `TC${dia.semanaSalterio}${DIAS_CHAVE[dia.diaSemana]}`; break;
+    case 'quaresma': tempo = dia.semana === 6 ? 'TSS' : 'TQ'; break;
+    case 'triduo': tempo = 'TSS'; break;
+    case 'pascoa': tempo = dia.semana <= 6 ? 'TP1' : 'TP2'; break;
+    case 'advento': tempo = dia.mes === 12 && dia.dia === 24 ? 'TA24' : (dia.mes === 12 && dia.dia >= 17 ? 'TA2' : 'TA1'); break;
+    case 'natal': tempo = dia.subtipo === 'apos-epifania' ? 'TN2' : 'TN'; break;
+    default: tempo = null;
+  }
+  const memoria = cel && (cel.grau === 'memoria' || cel.grau === 'memoria-facultativa');
+  return {
+    chaves: [cel && cel.id, tempo].filter(Boolean),
+    aleluia: !!(cel && cel.id && memoria && dia.tempo === 'pascoa' && cel.id !== 'santacatarina'),
+  };
+}
+
+/** Lê um arquivo de antífonas (@antifona chave + texto; "= outra" = mesma antífona). */
+async function antifonasDe(caminho) {
+  const t = await dados.texto(LH + caminho + '.txt');
+  if (t == null) return null;
+  const mapa = {};
+  for (const b of lerDocumento(t).blocos) if (b.tipo === 'antifona' && b.arg) mapa[b.arg] = b.texto;
+  const resolver = (k, n = 0) => {
+    const v = mapa[k];
+    if (v == null || n > 5) return null;
+    const m = v.match(/^=\s*(\S+)\s*$/);
+    return m ? resolver(m[1], n + 1) : v;
+  };
+  return { obter: resolver, origem: LH + caminho + '.txt' };
+}
+
+const RUBRICA_INVITATORIO = 'Em seguida diz-se o salmo com sua antífona, em forma responsorial. Anuncia-se a antífona e imediatamente repete-se a mesma.';
+
+/**
  * Decide os arquivos de uma hora.
  * Retorna { partes: [...], preencher, notas, titulo, primeirasVesperas }
  */
@@ -226,7 +271,7 @@ export function resolverHora(cal, dia, hora, opcaoId) {
   if (hora === 'invitatorio') {
     return {
       partes: ['invitatorio/salmo-94'], alternativas: ['invitatorio/salmo-99', 'invitatorio/salmo-66', 'invitatorio/salmo-23'],
-      preencher: {}, notas: [], titulo, celebracao: cel, hora,
+      preencher: { invitatorio: chavesInvitatorio(dia, cel) }, notas: [], titulo, celebracao: cel, hora,
     };
   }
 
@@ -327,13 +372,42 @@ export async function montarOficio(res, dia) {
   // próprio que remete ao dia de semana (seções vazias / sem salmodia)
   if (res.ferial) blocos = await completarComFerial(blocos, res.ferial, origens);
 
+  // antífonas que o acervo guardava fora dos HTML
+  let antInv = null, antInvTexto = null, antDom = null, antDomTexto = null;
+  if (res.preencher?.invitatorio) {
+    antInv = await antifonasDe('invitatorio/antifonas');
+    for (const k of res.preencher.invitatorio.chaves) {
+      antInvTexto = antInv && antInv.obter(k);
+      if (antInvTexto) break;
+    }
+    if (antInvTexto && res.preencher.invitatorio.aleluia && !/aleluia\.?\s*$/i.test(antInvTexto)) antInvTexto = antInvTexto.replace(/\s*$/, ' Aleluia.');
+    if (antInvTexto) origens.push({ arquivo: antInv.origem, origem: '(antífona do Invitatório)' });
+  }
+  if (res.preencher?.antifonas && dia) {
+    antDom = await antifonasDe(res.preencher.antifonas.arquivo);
+    antDomTexto = antDom && antDom.obter(`${res.preencher.antifonas.momento}-${dia.cicloDominical}`);
+    if (antDomTexto) origens.push({ arquivo: antDom.origem, origem: `(antífona do domingo, Ano ${dia.cicloDominical})` });
+  }
+  let primeiraInv = true;
+
   // preencher lacunas conhecidas
   for (let i = 0; i < blocos.length; i++) {
     const b = blocos[i];
     if (b.tipo !== 'lacuna') continue;
+    if (b.arg === 'antifona-invitatorio' && antInvTexto) {
+      blocos[i] = { tipo: 'refrao', arg: '', texto: antInvTexto };
+      if (primeiraInv) { blocos.splice(i, 0, { tipo: 'rubrica', arg: '', texto: RUBRICA_INVITATORIO }); i++; primeiraInv = false; }
+      continue;
+    }
+    if ((b.arg === 'antifona-benedictus' || b.arg === 'antifona-magnificat') && antDomTexto) {
+      blocos[i] = { tipo: 'antifona', arg: '', texto: antDomTexto };
+      continue;
+    }
     if (b.arg === 'oracao' && res.preencher?.oracao) {
       const t = await dados.texto(LH + res.preencher.oracao + '.txt');
-      const ora = t ? textoDaSecao(lerDocumento(t), 'Oração') : null;
+      let ora = t ? textoDaSecao(lerDocumento(t), 'Oração') : null;
+      // na Hora Média, a oração do domingo termina com a conclusão breve
+      if (ora && ['terca', 'sexta', 'nona'].includes(res.hora)) ora = ora.replace(/\.?\s*Por nosso Senhor Jesus Cristo, vosso Filho[\s\S]*$/, '. Por Cristo, nosso Senhor.');
       if (ora) { blocos[i] = { tipo: 'oracao', arg: '', texto: ora, preenchido: res.preencher.oracao }; continue; }
     }
     if (b.arg === 'conclusao-invitatorio' || b.arg === 'rubrica-invitatorio') { blocos[i] = null; continue; }

@@ -1,0 +1,49 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 29º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Jesus, nosso Mestre,
+sabemos que sois verdadeiro e ensinais
+o caminho de Deus conforme a verdade.
+
+@antifona vesperas-i-B
+Do cálice que eu vou beber, bebereis;
+e sereis batizados com o mesmo batismo
+com que serei batizado.
+
+@antifona vesperas-i-C
+Jesus disse, então, aos seus seguidores:
+É preciso orar sempre, sem jamais desistir!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Do Oriente ao Ocidente saibam todos
+que não há outro Deus além de mim.
+Eu somente sou o Senhor, e não há outro.
+
+@antifona laudes-B
+Quem quiser ser o maior, seja o vosso servidor.
+Quem quiser ser o primeiro,
+seja o escravo entre todos.
+
+@antifona laudes-C
+Sim, Deus fará justiça a seus eleitos
+que clamam para ele, dia e noite.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Dai a César o que é de César,
+e a Deus o que é de Deus.
+
+@antifona vesperas-ii-B
+Veio o Filho do Homem
+a fim de servir, e não ser servido;
+veio dar sua vida em resgate por muitos.
+
+@antifona vesperas-ii-C
+Quando o Filho do Homem vier,
+achará ainda fé sobre a terra?

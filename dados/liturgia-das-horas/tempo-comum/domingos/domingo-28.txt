@@ -1,0 +1,52 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 28º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+O Reino dos Céus pode ser comparado
+a um rei que celebra as bodas do filho
+e envia os seus servos a chamar os convivas.
+
+@antifona vesperas-i-B
+Só te falta uma coisa: vai e vende os teus bens,
+doa tudo, então, aos pobres
+e terás no céu um tesouro;
+vem e segue-me, depois!
+
+@antifona vesperas-i-C
+Vieram-lhe ao encontro dez leprosos,
+que pararam à distância e gritaram:
+Jesus, Mestre, compadece-te de nós!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Dizei aos convidados:
+Preparei o meu banquete, vinde à festa nupcial!
+
+@antifona laudes-B
+Eu vos digo: É difícil
+um rico entrar no Reino de Deus!
+
+@antifona laudes-C
+Um deles, ao ver-se curado,
+voltou, dando graças a Deus,
+clamando em voz alta, aleluia!
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+A festa das bodas está preparada;
+nenhum convidado, porém, era digno.
+Saí pelas ruas e encruzilhadas,
+convidai para as bodas todos que encontrardes.
+
+@antifona vesperas-ii-B
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@antifona vesperas-ii-C
+Não houve quem voltasse para a Deus glorificar,
+a não ser este estrangeiro? E disse-lhe Jesus:
+Levanta-te e vai, pois salvou-te a tua fé!

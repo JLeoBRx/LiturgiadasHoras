@@ -129,7 +129,7 @@ export function oficioHTML(blocos) {
         h += `<p class="tema">${inline(t)}</p>`;
         break;
       case 'refrao':
-        h += `<p class="refrao-salmo"><span class="mk">R.</span> ${inline(t.replace(/^R\.\s*/, ''))}</p>`;
+        h += `<p class="refrao-salmo"><span class="mk">R.</span> ${t.replace(/^R\.\s*/, '').split('\n').map(inline).join('<br>')}</p>`;
         break;
       case 'lacuna':
         h += `<div class="lacuna">${ICONE_INFO}<span>${esc(t)}</span></div>`;

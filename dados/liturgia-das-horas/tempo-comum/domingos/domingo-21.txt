@@ -1,0 +1,48 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 21º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Tu és o Cristo, o Filho do Deus vivo!
+Tu és feliz, ó Simão, filho de Jonas!
+
+@antifona vesperas-i-B
+Quem dá a vida é o Espírito. Para nada serve a carne;
+as palavras que eu vos disse são espírito, são vida.
+
+@antifona vesperas-i-C
+Esforçai-vos por entrar pela porta que é estreita;
+porque muitos, eu vos digo, tentarão entrar por ela,
+porém não conseguirão.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Tu és Pedro, e sobre esta pedra
+eu irei construir minha Igreja.
+
+@antifona laudes-B
+Ninguém poderá vir a mim,
+se pelo Pai não lhe for concedido.
+
+@antifona laudes-C
+Virão muitos do Oriente e do Ocidente
+sentar-se à mesa do festim do Reino eterno,
+com Abraão e com Isaac e com Jacó.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+O que ligares na terra, será ligado nos céus;
+na terra o que desligares, nos céus será desligado.
+
+@antifona vesperas-ii-B
+A quem nós iremos, Senhor Jesus Cristo?
+Só tu tens palavras de vida eterna.
+Nós cremos, sabendo que és o Senhor,
+que tu és o Cristo, o Filho de Deus.
+
+@antifona vesperas-ii-C
+Há últimos que virão a ser primeiros
+e primeiros que virão a ser os últimos.

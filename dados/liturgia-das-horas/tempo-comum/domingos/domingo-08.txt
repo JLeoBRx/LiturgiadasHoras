@@ -1,0 +1,53 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 8º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Olhai para as aves do céu:
+Não semeiam nem recolhem em celeiros,
+e o vosso Pai celeste as alimenta.
+Não valeis muito mais do que elas?
+
+@antifona vesperas-i-B
+Enquanto os convivas têm o esposo consigo,
+não poderão jejuar, nos diz o Senhor.
+
+@antifona vesperas-i-C
+Tira primeiro a trave que está no teu olho;
+e verás claramente a fim de tirar
+o cisco que está no olho do irmão.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Não fiqueis preocupados em dizer:
+O que havemos de comer ou de beber?
+Pois bem sabe o vosso Pai que está nos céus,
+que vós necessitais de tudo isso.
+
+@antifona laudes-B
+Ao teu coração eu hei de falar:
+Eu vou desposar-te com fidelidade,
+e tu saberás quem é o Senhor!
+
+@antifona laudes-C
+A boa árvore não pode dar maus frutos;
+e a má árvore não pode dar bons frutos.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Diz Jesus: Procurai em primeiro lugar
+o Reino de Deus e a sua justiça,
+e tudo o mais vos será acrescentado.
+
+@antifona vesperas-ii-B
+Não se põe vinho novo em odres velhos;
+mas vinho novo em odres novos, diz Jesus.
+
+@antifona vesperas-ii-C
+O homem bom tira o que é bom
+do tesouro de bondade
+que ele tem no coração.
+Porque a boca fala do que está no coração.

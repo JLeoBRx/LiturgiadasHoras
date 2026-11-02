@@ -1,0 +1,45 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 25º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Ide vós, desocupados, trabalhar na minha vinha,
+e o que for justo, eu vos darei.
+
+@antifona vesperas-i-B
+Quem quiser ser o primeiro,
+seja o último de todos, e de todos servidor.
+
+@antifona vesperas-i-C
+Fazei amigos com as riquezas da injustiça
+para que, quando faltarem, vos recebam
+nas eternas moradias, diz Jesus.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O Reino dos Céus pode ser comparado
+a um pai de família, que saiu de manhã,
+contratando operários para trabalhar em sua vinha.
+
+@antifona laudes-B
+Todo aquele que me acolhe,
+não é a mim que ele acolhe,
+mas ao Pai que me enviou.
+
+@antifona laudes-C
+Quem é fiel no pouco, é fiel também no muito.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Agora chama os operários, e paga o seu salário.
+
+@antifona vesperas-ii-B
+Quem acolhe, em meu nome, uma criança como esta
+é a mim que ele acolhe.
+
+@antifona vesperas-ii-C
+Ninguém pode servir a dois senhores:
+não podeis servir a Deus e ao dinheiro.

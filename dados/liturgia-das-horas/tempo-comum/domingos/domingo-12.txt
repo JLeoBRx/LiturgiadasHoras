@@ -1,0 +1,47 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 12º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+O que eu digo a vós em segredo,
+publicai-o sobre os telhados.
+
+@antifona vesperas-i-B
+Salvai-nos, ó Senhor, que perecemos!
+Ordenai, e voltará a tranqüilidade!
+
+@antifona vesperas-i-C
+E vós, quem dizeis que eu sou?
+Simão Pedro então respondeu:
+Tu és o Ungido de Deus!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Até os cabelos de vossa cabeça
+estão todos contados. Não temais, diz Jesus.
+
+@antifona laudes-B
+O Senhor se levantou, repreendeu o mar e o vento:
+Acalma-te e cala-te! E se fez grande bonança.
+
+@antifona laudes-C
+O Filho do Homem deverá sofrer muito,
+será condenado e na cruz morrerá;
+e depois de três dias ressuscitará.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Quem de mim der testemunho ante os homens,
+darei dele o testemunho ante meu Pai.
+
+@antifona vesperas-ii-B
+Os discípulos, com medo,
+perguntavam uns aos outros:
+Quem é este? Até o vento e o mar lhe obedecem!
+
+@antifona vesperas-ii-C
+Quem quiser me seguir, renuncie a si mesmo,
+e, tomando sua cruz, acompanhe meus passos.

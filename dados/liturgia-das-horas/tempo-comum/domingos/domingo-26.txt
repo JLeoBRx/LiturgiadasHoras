@@ -1,0 +1,56 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 26º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Quando o injusto deixa a sua injustiça,
+e pratica o direito e a justiça,
+com certeza viverá, não morrerá.
+
+@antifona vesperas-i-B
+Ninguém pode fazer um milagre em meu nome
+e logo em seguida falar mal também de mim.
+Pois quem não é contra nós é a nosso favor.
+
+@antifona vesperas-i-C
+Acabou acontecendo que o mendigo faleceu
+e foi levado pelos anjos para junto de Abraão.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Eu vos declaro esta verdade:
+Os publicanos e as meretrizes
+vos precederão no Reino de Deus,
+porque eles tiveram fé.
+
+@antifona laudes-B
+Quem vos der em meu nome,
+nem que seja um copo d’água,
+porque sois de Jesus Cristo,
+há de ter sua recompensa.
+
+@antifona laudes-C
+Recorda-te, meu filho:
+Recebeste os bens em vida,
+enquanto Lázaro, os males.
+Tu és agora atormentado,
+enquanto ele é consolado.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Não é aquele que me diz: Senhor, Senhor!
+que no Reino dos Céus irá entrar,
+mas o que faz a vontade do meu Pai.
+
+@antifona vesperas-ii-B
+É melhor tu entrares para a vida aleijado,
+do que, tendo duas mãos, terminares na geena.
+
+@antifona vesperas-ii-C
+Felizes de vós que sois pobres,
+porque vosso é o Reino de Deus!
+Felizes de vós que chorais,
+porque havereis de sorrir.

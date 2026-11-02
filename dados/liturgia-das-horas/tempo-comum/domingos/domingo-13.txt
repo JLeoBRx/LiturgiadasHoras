@@ -1,0 +1,53 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 13º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Quem não toma sua cruz e não me segue,
+não é digno de mim, diz o Senhor.
+
+@antifona vesperas-i-B
+Dizia a mulher para si:
+se eu tocar, nem que seja na orla
+de seu manto, eu hei de ser salva.
+
+@antifona vesperas-i-C
+As raposas possuem as tocas,
+e as aves do céu, os seus ninhos;
+mas o Filho do Homem não tem
+onde possa apoiar a cabeça.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Quem vos recebe, a mim recebe;
+quem me recebe, diz Jesus,
+recebe o Pai que me enviou.
+
+@antifona laudes-B
+Jesus disse, então, à mulher:
+Vai em paz, tua fé te salvou!
+
+@antifona laudes-C
+Deixa que os mortos enterrem os mortos!
+Tu, porém, vai e prega o Reino de Deus.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Em verdade eu vos digo:
+Quem der, em meu nome,
+a um destes pequeninos
+nem que seja um copo d’água,
+por ser ele meu discípulo,
+há de ter sua recompensa.
+
+@antifona vesperas-ii-B
+A criança não morreu, está dormindo.
+Tomou-a pela mão e exclamou:
+Levanta-te, menina, eu te ordeno!
+
+@antifona vesperas-ii-C
+Quem põe a mão no arado e olha para trás,
+não serve para o Reino de Deus, diz o Senhor.
