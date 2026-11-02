@@ -36,7 +36,8 @@ for (let n = numeroDia(a0, 1, 1); n <= numeroDia(a1, 12, 31); n++) {
           add(avisos, `leituras: sem leituras`, `${iso} ${r.partes.join(' + ')}`);
         if (['laudes', 'vesperas', 'terca', 'sexta', 'nona', 'leituras', 'completas'].includes(h.id) && !tipos.includes('salmo'))
           add(avisos, `${h.id}: sem salmodia`, `${iso} ${r.partes.join(' + ')}`);
-        const nIntro = o.blocos.filter((b) => b.tipo === 'secao' && /^Hino$/i.test(b.arg)).length;
+        const iSal = o.blocos.findIndex((b) => b.tipo === 'secao' && /^Salmodia/i.test(b.arg));
+        const nIntro = o.blocos.slice(0, iSal < 0 ? o.blocos.length : iSal).filter((b) => b.tipo === 'secao' && /^Hino$/i.test(b.arg)).length;
         if (nIntro > 1) add(avisos, `${h.id}: hino repetido`, `${iso} ${r.partes.join(' + ')}`);
         for (const l of o.lacunas) add(avisos, `lacuna ${l.arg || l.codigo}`, `${iso} ${h.id}`);
       }

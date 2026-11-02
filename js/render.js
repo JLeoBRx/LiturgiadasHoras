@@ -145,6 +145,30 @@ export function oficioHTML(blocos) {
   return h;
 }
 
+const ROTULOS = /^\{(Antífona d[ae] entrada|Coleta|Oração do dia|Sobre as oferendas|Oração sobre as oferendas|Antífona d[ae] comunhão|Depois da comunhão|Oração depois da comunhão|Prefácio|Bênção solene|Oração sobre o povo)\}\s*(?:\{([^{}]*)\})?\s*(.*)$/i;
+
+function introducaoHTML(blocos, id, ancoras) {
+  const linhas = blocos.map((b) => b.texto || '').join('\n\n').split('\n');
+  let titulo = '';
+  while (linhas.length && !linhas[0].trim()) linhas.shift();
+  if (linhas.length && /^\{[^{}]+\}$/.test(linhas[0].trim()) && !ROTULOS.test(linhas[0].trim())) titulo = linhas.shift().trim().slice(1, -1);
+  let corpo = '', buf = [];
+  const flush = () => { if (buf.join('').trim()) corpo += paragrafos(buf.join('\n')); buf = []; };
+  for (const l of linhas) {
+    const m = l.trim().match(ROTULOS);
+    if (m) {
+      flush();
+      corpo += `<h4 class="subsecao">${esc(m[1])}${m[2] ? ` <span class="ref">${esc(m[2])}</span>` : ''}</h4>`;
+      if (m[3]) buf.push(m[3]);
+    } else buf.push(l);
+  }
+  flush();
+  if (!corpo.trim() && !titulo) return '';
+  const nome = titulo || 'Orações próprias';
+  ancoras.push({ id, nome });
+  return `<section class="bloco-leitura intro" id="${id}"><h3 class="secao">${esc(nome)}</h3>${corpo}</section>`;
+}
+
 /** Leituras da Missa: agrupa por seção em cartões. */
 export function leiturasHTML(blocos) {
   const grupos = [];
@@ -158,8 +182,8 @@ export function leiturasHTML(blocos) {
   let html = '';
   grupos.forEach((gr, i) => {
     if (gr.secao && /^Introdução$/i.test(gr.secao.arg)) {
-      // texto introdutório (raro): mostra como nota
-      html += `<div class="nota">${gr.blocos.map((b) => paragrafos(b.texto || '')).join('')}</div>`;
+      // orações próprias / título da missa que o acervo traz antes das leituras
+      html += introducaoHTML(gr.blocos, 'l' + i, ancoras);
       return;
     }
     const [nome, ref] = gr.secao ? gr.secao.arg.split('|').map((x) => x.trim()) : ['', ''];

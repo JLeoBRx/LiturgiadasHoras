@@ -290,9 +290,10 @@ export function resolverHora(cal, dia, hora, opcaoId) {
 // --------------------------------------------------------------- montagem do texto
 const cacheSalmos = new Map();
 export async function salmo(id) {
-  if (cacheSalmos.has(id)) return cacheSalmos.get(id);
+  const chave = (dados.versao() || '') + '|' + id;
+  if (cacheSalmos.has(chave)) return cacheSalmos.get(chave);
   const p = dados.texto(id + '.txt').then((t) => (t == null ? null : lerSalmo(t)));
-  cacheSalmos.set(id, p);
+  cacheSalmos.set(chave, p);
   return p;
 }
 
@@ -350,17 +351,15 @@ export async function montarOficio(res, dia) {
     lacunas.push(l);
   }
 
-  // invitatório: uma só nota em vez de repetir em cada estrofe
-  if (blocos.filter((b) => b.tipo === 'lacuna' && b.arg === 'antifona-invitatorio').length > 1) {
-    let primeiroVisto = false;
-    blocos = blocos.filter((b) => {
-      if (b.tipo === 'lacuna' && b.arg === 'antifona-invitatorio') {
-        if (primeiroVisto) return false;
-        primeiroVisto = true;
-      }
-      return true;
-    });
-  }
+  // a mesma lacuna (antífona repetida antes e depois do salmo/cântico,
+  // estrofes do invitatório) é avisada uma só vez
+  const vistas = new Set();
+  blocos = blocos.filter((b) => {
+    if (b.tipo !== 'lacuna' || !b.arg || b.arg === 'leituras') return true;
+    if (vistas.has(b.arg)) return false;
+    vistas.add(b.arg);
+    return true;
+  });
 
   // salmos da biblioteca
   for (const b of blocos) {
