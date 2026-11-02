@@ -1,8 +1,8 @@
 /**
  * Testes automáticos do calendário litúrgico (js/liturgical-calendar.js).
  *
- * Executar:   node --test ferramentas/testes/
- * Mais anos:  CALENDARIO_TESTE_ATE=2200 node --test ferramentas/testes/
+ * Executar:   node --test "ferramentas/testes/*.test.mjs"
+ * Mais anos:  CALENDARIO_TESTE_ATE=2200 node --test "ferramentas/testes/*.test.mjs"
  *
  * Base: Tabela Temporária 1994–2023 da Liturgia das Horas (vol. II, Brasil),
  * com os VALORES OFICIALMENTE CORRETOS em ferramentas/testes/dados/

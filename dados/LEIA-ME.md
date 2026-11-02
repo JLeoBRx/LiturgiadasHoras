@@ -112,6 +112,8 @@ original automaticamente. Funciona para salmos, ofícios e leituras.
 
 - **Santos e datas**: `calendario/santoral.json` (data `MM-DD`, grau,
   cor). Para desligar uma celebração sem apagá-la, use `"ativo": false`.
+  Uma celebração sem textos próprios no acervo fica com `"oficio": null`:
+  o site usa o ofício do dia de semana e mostra um aviso.
 - **Leituras da Missa**: `liturgia-diaria/indice.json`, seção `"leituras"`.
   As chaves seguem o padrão `TC-24-segunda-II` (segunda-feira da 24ª semana
   do Tempo Comum, Ano II), `TC-24-domingo-A`, `ADV-dez17`,

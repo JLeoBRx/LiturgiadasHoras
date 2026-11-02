@@ -52,6 +52,14 @@ function partes(...lista) {
   return r.length ? r : null;
 }
 
+/**
+ * Hino das Completas na Quaresma (Liturgia das Horas, vol. II, p. 34-35 e
+ * 965-966): na 1ª, 3ª e 5ª semanas, "Agora que o clarão" (arquivos comuns);
+ * nas semanas restantes — dias depois das Cinzas, 2ª e 4ª semanas e Semana
+ * Santa —, "Ó Cristo, dia e esplendor" (arquivos -ii e -par do acervo).
+ */
+const hinoParDaQuaresma = (dia) => (dia.tempo === 'quaresma' || dia.tempo === 'triduo') && ![1, 3, 5].includes(dia.semana);
+
 // --------------------------------------------------------------- ofício do tempo (ferial)
 function ferial(dia, hora) {
   const d = DIAS_CHAVE[dia.diaSemana];
@@ -158,7 +166,7 @@ function ferial(dia, hora) {
       if (W === 0) pasta = `quaresma/apos-cinzas/${d}`;
       else if (W === 6) pasta = `semana-santa/${d}`;
       else pasta = `quaresma/semana-${W}/${d}`;
-      if (hora === 'completas') r.partes = partes(`quaresma/completas/${d}`);
+      if (hora === 'completas') r.partes = partes(hinoParDaQuaresma(dia) ? [`quaresma/completas/${d}-ii`, `quaresma/completas/${d}`] : `quaresma/completas/${d}`);
       else r.partes = partes(`${pasta}-${hora}`);
       break;
     }
@@ -180,7 +188,8 @@ function ferial(dia, hora) {
 function completasDaSolenidade(dia, qual) {
   const t = dia.tempo;
   const pasta = { comum: 'tempo-comum', pascoa: 'pascoa', quaresma: 'quaresma', natal: 'natal', advento: 'tempo-comum', triduo: 'quaresma' }[t] || 'tempo-comum';
-  return primeiro(`${pasta}/completas/solenidade-${qual}`, `tempo-comum/completas/solenidade-${qual}`);
+  const par = pasta === 'quaresma' && hinoParDaQuaresma(dia) ? `quaresma/completas/solenidade-${qual}-par` : null;
+  return primeiro(par, `${pasta}/completas/solenidade-${qual}`, `tempo-comum/completas/solenidade-${qual}`);
 }
 
 function proprio(cel, dia, hora) {
@@ -215,6 +224,10 @@ export function celebracaoEscolhida(dia, opcaoId) {
   }
   return dia.celebracao;
 }
+
+/** memória do calendário sem textos próprios no acervo (santoral.json: "oficio": null) */
+const semTextosProprios = (cel) => !!cel && cel.tipo === 'santo' && !cel.oficio;
+const avisoSemTextos = (cel) => `${cel.nome}: o acervo não traz os textos próprios desta memória. Usa-se o ofício do dia de semana.`;
 
 const TEM_I_VESPERAS = (c, dia) => c && (dia.diaSemana === 0 || c.grau === 'solenidade' || (c.tipo === 'temporal' && c.precedencia <= 5));
 
@@ -257,6 +270,8 @@ async function antifonasDe(caminho) {
 }
 
 const RUBRICA_INVITATORIO = 'Em seguida diz-se o salmo com sua antífona, em forma responsorial. Anuncia-se a antífona e imediatamente repete-se a mesma.';
+// Ordinário da Liturgia das Horas (Invitatório)
+const RUBRICA_INVITATORIO_INDIVIDUAL = 'Na recitação individual não é necessário repetir a antífona; basta dizê-la no começo e no fim do salmo.';
 
 /**
  * Decide os arquivos de uma hora.
@@ -271,7 +286,7 @@ export function resolverHora(cal, dia, hora, opcaoId) {
   if (hora === 'invitatorio') {
     return {
       partes: ['invitatorio/salmo-94'], alternativas: ['invitatorio/salmo-99', 'invitatorio/salmo-66', 'invitatorio/salmo-23'],
-      preencher: { invitatorio: chavesInvitatorio(dia, cel) }, notas: [], titulo, celebracao: cel, hora,
+      preencher: { invitatorio: chavesInvitatorio(dia, cel) }, notas: semTextosProprios(cel) ? [avisoSemTextos(cel)] : [], titulo, celebracao: cel, hora,
     };
   }
 
@@ -328,6 +343,10 @@ export function resolverHora(cal, dia, hora, opcaoId) {
       } else if (!res) res = f;
     }
     if (hora === 'vesperas' && (cel.grau === 'solenidade' || dia.diaSemana === 0)) titulo = 'II Vésperas';
+    // celebração sem textos próprios no acervo (santoral.json: "oficio": null)
+    if (semTextosProprios(cel) && celebracaoDaHora === cel && ['leituras', 'laudes', 'vesperas'].includes(hora)) {
+      res.notas = [...(res.notas || []), avisoSemTextos(cel)];
+    }
   }
   return { ...res, hora, titulo, celebracao: celebracaoDaHora };
 }
@@ -352,9 +371,11 @@ const TEXTO_LACUNA = {
 /**
  * Monta o ofício: carrega as partes, junta os blocos, resolve salmos da
  * biblioteca e preenche lacunas quando possível.
+ * opcoes.invitatorio: 'comunitaria' (antífona depois de cada estrofe, padrão)
+ *                     ou 'individual' (antífona só no começo e no fim do salmo)
  * Retorna { blocos, origens, lacunas, notas }
  */
-export async function montarOficio(res, dia) {
+export async function montarOficio(res, dia, opcoes = {}) {
   const origens = [];
   let blocos = [];
   const lacunas = [];
@@ -395,8 +416,8 @@ export async function montarOficio(res, dia) {
     const b = blocos[i];
     if (b.tipo !== 'lacuna') continue;
     if (b.arg === 'antifona-invitatorio' && antInvTexto) {
-      blocos[i] = { tipo: 'refrao', arg: '', texto: antInvTexto };
-      if (primeiraInv) { blocos.splice(i, 0, { tipo: 'rubrica', arg: '', texto: RUBRICA_INVITATORIO }); i++; primeiraInv = false; }
+      blocos[i] = { tipo: 'refrao', arg: '', texto: antInvTexto, invitatorio: true };
+      if (primeiraInv) { blocos.splice(i, 0, { tipo: 'rubrica', arg: '', texto: RUBRICA_INVITATORIO, invitatorio: true }); i++; primeiraInv = false; }
       continue;
     }
     if ((b.arg === 'antifona-benedictus' || b.arg === 'antifona-magnificat') && antDomTexto) {
@@ -418,6 +439,7 @@ export async function montarOficio(res, dia) {
     lacunas.push(blocos[i]);
   }
   blocos = blocos.filter(Boolean);
+  if (opcoes.invitatorio === 'individual') blocos = invitatorioIndividual(blocos);
   if (res.hora === 'leituras' && !blocos.some((b) => b.tipo === 'secao' && /leitura/i.test(b.arg))) {
     const l = { tipo: 'lacuna', arg: 'leituras', texto: 'As leituras deste Ofício das Leituras não estão disponíveis no acervo.' };
     const k = blocos.findIndex((b) => b.tipo === 'secao' && /^(Oração|Hino$)/i.test(b.arg) && blocos.some((x) => x.tipo === 'salmo'));
@@ -440,6 +462,16 @@ export async function montarOficio(res, dia) {
     if (b.tipo === 'salmo' && b.arg) b.salmo = await salmo(b.arg);
   }
   return { blocos, origens, lacunas, notas: res.notas || [] };
+}
+
+/** Recitação individual: a antífona do Invitatório só no começo e no fim do salmo. */
+function invitatorioIndividual(blocos) {
+  const refroes = blocos.map((b, i) => (b.tipo === 'refrao' && b.invitatorio ? i : -1)).filter((i) => i >= 0);
+  if (refroes.length < 3) return blocos;
+  const tirar = new Set(refroes.slice(1, -1));
+  return blocos
+    .filter((b, i) => !tirar.has(i))
+    .map((b) => (b.tipo === 'rubrica' && b.invitatorio ? { ...b, texto: RUBRICA_INVITATORIO_INDIVIDUAL } : b));
 }
 
 const SECOES_FIM = /^(Leitura breve|Primeira leitura|Segunda leitura|Responsório breve|Cântico evangélico|Preces|Oração|Conclusão)/i;

@@ -51,7 +51,7 @@ TAB = [
  ("07-03","saotome",F,"vermelho"),("07-04","isabeldeportugal",MF,"branco"),("07-05","santoantoniomzacaria",MF,"branco"),
  ("07-06","mariagoretti",MF,"vermelho"),("07-09","santapaulina",M,"branco"),("07-09","agostinhozhaorong",MF,"vermelho"),
  ("07-11","saobento",M,"branco"),("07-13","santohenrique",MF,"branco"),("07-14","camilodelellis",MF,"branco"),
- ("07-15","saoboaventura",M,"branco"),("07-16","NSCarmo",MF,"branco"),("07-17","inaciodeazevedo",M,"vermelho"),
+ ("07-15","saoboaventura",M,"branco"),("07-16","NSCarmo",F,"branco"),("07-17","inaciodeazevedo",M,"vermelho"),
  ("07-20","santoapolinario",MF,"vermelho"),("07-21","lourencodebrindisi",MF,"branco"),("07-22","stamariamadalena",F,"branco"),
  ("07-23","santabrigida",MF,"branco"),("07-24","saocharbel",MF,"branco"),("07-25","saotiago",F,"vermelho"),
  ("07-26","saojoaquimesantana",M,"branco"),("07-29","santamarta",M,"branco"),("07-30","saopedrocrisologo",MF,"branco"),
@@ -74,7 +74,7 @@ TAB = [
  ("09-26","cosmeedamiao",MF,"vermelho"),("09-27","saovicentedepaulo",M,"branco"),("09-28","saovenceslau",MF,"vermelho"),
  ("09-28","lourencoruiz",MF,"vermelho"),("09-29","arcanjos",F,"branco"),("09-30","saojeronimo",M,"branco"),
  ("10-01","santateresinha",M,"branco"),("10-02","anjos",M,"branco"),("10-03","andreeambrosio",M,"vermelho"),
- ("10-04","saofrancisco",M,"branco"),("10-05","faustinakowalska",MF,"branco"),("10-06","saobruno",MF,"branco"),
+ ("10-04","saofrancisco",M,"branco"),("10-05","beneditoonegro",MF,"branco"),("10-05","faustinakowalska",MF,"branco"),("10-06","saobruno",MF,"branco"),
  ("10-07","NSRosario",M,"branco"),("10-09","saodionisio",MF,"vermelho"),("10-09","saojoaoleonardi",MF,"branco"),
  ("10-09","saojoaonewman",MF,"branco"),("10-11","joaoxxiii",MF,"branco"),("10-12","NSAparecida",S,"branco"),
  ("10-14","saocalisto",MF,"vermelho"),("10-15","santateresa",M,"branco"),("10-16","santaedviges",MF,"branco"),
@@ -100,12 +100,17 @@ TAB = [
 # celebrações presentes no acervo mas próprias de ordens religiosas ou de
 # outros calendários: ficam desativadas (podem ser ativadas à mão)
 INATIVOS = [
- ("04-04","beneditoonegro",MF,"branco","Próprio franciscano; não consta do calendário geral do Brasil."),
  ("09-04","tiagodeviterbo",MF,"branco","Próprio agostiniano."),
  ("09-22","tomasdevilanova",F,"branco","Próprio agostiniano."),
  ("12-04","joaocalabria",MF,"branco","Próprio de congregação religiosa."),
  ("06-26","josemariaescriva",MF,"branco","Não consta do calendário geral; usado em alguns calendários particulares."),
 ]
+# celebrações do calendário do Brasil SEM textos próprios no acervo: entram com
+# "oficio": null e o site usa o ofício do dia de semana, com um aviso
+SEM_TEXTOS = [
+ ("04-23","santoadalberto","Santo Adalberto, Bispo e Mártir",MF,"vermelho"),
+]
+AVISO_SEM_TEXTOS = "O acervo não traz os textos próprios desta memória; usam-se o ofício e as orações do dia de semana."
 # solenidades e festas móveis (datas calculadas pelo motor do calendário)
 MOVEIS = {
  "natal": (S, "branco"), "santamaria": (S, "branco"), "sagradafamilia": (F, "branco"), "epifania": (S, "branco"), "batismo": (F, "branco"),
@@ -128,6 +133,13 @@ NOMES = {
  "santoandredung": "Santo André Dung-Lac, Presbítero, e Companheiros, Mártires",
  "franciscodepaula": "São Francisco de Paula, Eremita",
  "NSGuadalupe": "Nossa Senhora de Guadalupe, Padroeira da América Latina",
+ # os arquivos destes santos não têm cabeçalho com o nome (nome tirado do próprio texto)
+ "joaodedeus": "São João de Deus, Religioso",
+ "franciscaromana": "Santa Francisca Romana, Religiosa",
+ "pedroeymard": "São Pedro Julião Eymard, Presbítero",
+ "estevaodahungria": "Santo Estêvão da Hungria",
+ "faustinakowalska": "Santa Faustina Kowalska, Virgem",
+ "joaocancio": "São João Câncio, Presbítero",
 }
 
 
@@ -176,6 +188,8 @@ def main():
         return d
     fixos = [item(*t) for t in TAB]
     fixos += [item(d, s, g, c, False, n) for d, s, g, c, n in INATIVOS]
+    fixos += [{"data": d, "id": s, "nome": n, "grau": g, "cor": c, "oficio": None, "nota": AVISO_SEM_TEXTOS}
+              for d, s, n, g, c in SEM_TEXTOS]
     fixos.sort(key=lambda x: (x["data"], x["id"]))
     moveis = {s: {"id": s, "nome": NOMES.get(s) or nome_bonito(nomes.get(s, s)), "grau": g, "cor": c, "oficio": "proprio/" + s}
               for s, (g, c) in MOVEIS.items()}
@@ -184,7 +198,8 @@ def main():
     saida = {
         "_leia": ("Calendário dos santos para o Brasil. 'data' = MM-DD. 'grau': solenidade, festa, memoria, "
                   "memoria-facultativa. 'oficio' aponta para a pasta dos textos em dados/liturgia-das-horas. "
-                  "Use \"ativo\": false para desligar uma celebração sem apagá-la."),
+                  "Use \"ativo\": false para desligar uma celebração sem apagá-la. "
+                  "Sem textos próprios no acervo: \"oficio\": null (o site usa o ofício do dia e avisa)."),
         "fixas": fixos,
         "moveis": moveis,
     }

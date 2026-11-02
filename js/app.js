@@ -223,7 +223,7 @@ async function telaOficio(iso, hora, op) {
   const celHora = res.celebracao || cel;
   definirCor(celHora.cor || d.cor);
   carregando();
-  const of = await LH.montarOficio(res, d);
+  const of = await LH.montarOficio(res, d, { invitatorio: prefs.ler('invitatorio', 'comunitaria') });
   const idx = LH.HORAS.findIndex((h) => h.id === hora);
   const ant = LH.HORAS[idx - 1], prox = LH.HORAS[idx + 1];
   const q = op ? '?op=' + encodeURIComponent(op) : '';
@@ -346,6 +346,7 @@ function abrirAjustes() {
   if (existente) { existente.remove(); return; }
   const tema = prefs.ler('tema', 'auto');
   const tam = prefs.ler('tamanho', 1);
+  const inv = prefs.ler('invitatorio', 'comunitaria');
   const div = document.createElement('div');
   div.className = 'painel';
   div.setAttribute('role', 'dialog');
@@ -355,6 +356,9 @@ function abrirAjustes() {
       ${[['auto', 'Auto'], ['claro', 'Claro'], ['escuro', 'Escuro']].map(([v, r]) => `<button data-v="${v}" aria-pressed="${tema === v}">${r}</button>`).join('')}</div></div>
     <div class="linha"><span>Texto</span><div class="segmentado" data-k="tamanho">
       ${['A−', 'A', 'A+', 'A++'].map((r, i) => `<button data-v="${i}" aria-pressed="${tam === i}">${r}</button>`).join('')}</div></div>
+    <div class="linha"><span>Invitatório</span><div class="segmentado" data-k="invitatorio">
+      ${[['comunitaria', 'Em grupo'], ['individual', 'Sozinho']].map(([v, r]) => `<button data-v="${v}" aria-pressed="${inv === v}">${r}</button>`).join('')}</div></div>
+    <p class="dica">Sozinho: a antífona do Invitatório é dita só no começo e no fim do salmo.</p>
     <div class="linha oculto" id="linha-versao"><span>Versão</span><select id="sel-versao"></select></div>`;
   document.body.appendChild(div);
   div.querySelectorAll('.segmentado').forEach((g) => g.addEventListener('click', (e) => {
@@ -362,6 +366,7 @@ function abrirAjustes() {
     const k = g.dataset.k; const v = k === 'tamanho' ? Number(b.dataset.v) : b.dataset.v;
     prefs.gravar(k, v); aplicarPrefs();
     g.querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', x === b));
+    if (k === 'invitatorio' && /\/invitatorio(\?|$)/.test(location.hash)) rotear();
   }));
   dados.listarVersoes().then((vs) => {
     if (!vs.length) return;

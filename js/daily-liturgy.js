@@ -118,6 +118,7 @@ export function resolver(dia, opcaoId) {
       }
     }
     chavesM = [`santo:${id}`];
+    if (!cel.oficio && !M[`santo:${id}`]) notas.push(`${cel.nome}: o acervo não traz as orações próprias desta memória. As orações abaixo são as do dia de semana.`);
   } else if (cel && cel.id) {
     // solenidades e festas móveis (Epifania, Páscoa, Pentecostes...)
     chaveL = primeiraChave(L, [`${id}-${c}`, id]);

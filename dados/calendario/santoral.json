@@ -1,5 +1,5 @@
 {
-  "_leia": "Calendário dos santos para o Brasil. 'data' = MM-DD. 'grau': solenidade, festa, memoria, memoria-facultativa. 'oficio' aponta para a pasta dos textos em dados/liturgia-das-horas. Use \"ativo\": false para desligar uma celebração sem apagá-la.",
+  "_leia": "Calendário dos santos para o Brasil. 'data' = MM-DD. 'grau': solenidade, festa, memoria, memoria-facultativa. 'oficio' aponta para a pasta dos textos em dados/liturgia-das-horas. Use \"ativo\": false para desligar uma celebração sem apagá-la. Sem textos próprios no acervo: \"oficio\": null (o site usa o ofício do dia e avisa).",
   "fixas": [
     {
       "data": "01-02",
@@ -260,7 +260,7 @@
     {
       "data": "03-08",
       "id": "joaodedeus",
-      "nome": "Joaodedeus",
+      "nome": "São João de Deus, Religioso",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/joaodedeus"
@@ -268,7 +268,7 @@
     {
       "data": "03-09",
       "id": "franciscaromana",
-      "nome": "Franciscaromana",
+      "nome": "Santa Francisca Romana, Religiosa",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/franciscaromana"
@@ -323,16 +323,6 @@
     },
     {
       "data": "04-04",
-      "id": "beneditoonegro",
-      "nome": "São Benedito, o Negro, Religioso",
-      "grau": "memoria-facultativa",
-      "cor": "branco",
-      "oficio": "proprio/beneditoonegro",
-      "ativo": false,
-      "nota": "Próprio franciscano; não consta do calendário geral do Brasil."
-    },
-    {
-      "data": "04-04",
       "id": "santoisidoro",
       "nome": "Santo Isidoro, Bispo e Doutor da Igreja",
       "grau": "memoria-facultativa",
@@ -378,6 +368,15 @@
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/santoanselmo"
+    },
+    {
+      "data": "04-23",
+      "id": "santoadalberto",
+      "nome": "Santo Adalberto, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": null,
+      "nota": "O acervo não traz os textos próprios desta memória; usam-se o ofício e as orações do dia de semana."
     },
     {
       "data": "04-23",
@@ -817,7 +816,7 @@
       "data": "07-16",
       "id": "NSCarmo",
       "nome": "Bem-aventurada Virgem Maria do Monte Carmelo",
-      "grau": "memoria-facultativa",
+      "grau": "festa",
       "cor": "branco",
       "oficio": "proprio/NSCarmo"
     },
@@ -928,7 +927,7 @@
     {
       "data": "08-02",
       "id": "pedroeymard",
-      "nome": "Pedroeymard",
+      "nome": "São Pedro Julião Eymard, Presbítero",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/pedroeymard"
@@ -1048,7 +1047,7 @@
     {
       "data": "08-16",
       "id": "estevaodahungria",
-      "nome": "Estevaodahungria",
+      "nome": "Santo Estêvão da Hungria",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/estevaodahungria"
@@ -1363,8 +1362,16 @@
     },
     {
       "data": "10-05",
+      "id": "beneditoonegro",
+      "nome": "São Benedito, o Negro, Religioso",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/beneditoonegro"
+    },
+    {
+      "data": "10-05",
       "id": "faustinakowalska",
-      "nome": "Faustinakowalska",
+      "nome": "Santa Faustina Kowalska, Virgem",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/faustinakowalska"
@@ -1814,7 +1821,7 @@
     {
       "data": "12-23",
       "id": "joaocancio",
-      "nome": "Joaocancio",
+      "nome": "São João Câncio, Presbítero",
       "grau": "memoria-facultativa",
       "cor": "branco",
       "oficio": "proprio/joaocancio"

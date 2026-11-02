@@ -14,8 +14,9 @@ o calendário permite consultar qualquer data passada ou futura.
 - **Calendário** — navegação por dias, meses e anos, com tempo, semana do
   saltério, ciclos, celebração, santos e memórias de cada dia.
 
-Modo claro/escuro, ajuste do tamanho do texto, navegação entre as horas e
-leitura confortável no celular. Sem anúncios.
+Modo claro/escuro, ajuste do tamanho do texto, forma de rezar o Invitatório
+(em grupo, com a antífona depois de cada estrofe, ou sozinho, só no começo e
+no fim), navegação entre as horas e leitura confortável no celular. Sem anúncios.
 
 ## Como abrir
 
@@ -91,7 +92,8 @@ celebrações e transferências, com as regras do Brasil: Epifania no domingo
 entre 2 e 8 de janeiro, Ascensão no 7º domingo da Páscoa, São Pedro e São
 Paulo, Assunção e Todos os Santos no domingo seguinte, N. Sra. Aparecida
 como solenidade. As datas dos santos estão em `dados/calendario/santoral.json`
-(231 celebrações fixas, todas ligadas a textos do acervo). Algumas
+(232 celebrações fixas; todas, exceto Santo Adalberto, ligadas a textos do
+acervo). Algumas
 celebrações próprias de ordens religiosas que existem no acervo ficaram
 desativadas (`"ativo": false`).
 
@@ -133,6 +135,10 @@ Lacunas que continuam:
   traz as leituras.
 - **Hora Média do IV Domingo do Advento entre 18 e 23 de dezembro**: o
   acervo só tem a versão de 24/12, que é usada com um aviso.
+- **Santo Adalberto** (23/04, memória facultativa): o acervo não traz os textos
+  próprios; quando escolhido, o site usa o ofício e as orações do dia e avisa.
+- **Nossa Senhora do Carmo** (16/07, festa): as leituras próprias da Missa não
+  estão no índice; o site mostra as do dia, com aviso.
 - **Coletas salmódicas** (oração depois do salmo do Invitatório): o texto está
   em `salterio/coletasalmodica.js.bin`, ainda criptografado.
 - **Liturgia Diária**: faltam no acervo as leituras do 9º domingo do Ano A,

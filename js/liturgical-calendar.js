@@ -242,7 +242,7 @@ export function temporal(n) {
 
 // ---------------------------------------------------------------- santos
 const SENHOR_FESTAS = new Set(['apresentacao', 'transfiguracao', 'exaltacao', 'latrao']);
-const FESTAS_PROPRIAS = new Set(['santarosa', 'NSGuadalupe']);
+const FESTAS_PROPRIAS = new Set(['santarosa', 'NSGuadalupe', 'NSCarmo']);
 const TRANSFERIDAS_DOMINGO_BR = new Set(['pedroepaulo', 'assuncao', 'todosossantos']);
 
 function precedenciaSanto(c) {
