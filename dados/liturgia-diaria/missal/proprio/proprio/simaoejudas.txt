@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/simaoejudas.htm
+
+@secao Antífona da entrada
+@texto
+Estes são homens santos
+que o Senhor escolheu com verdadeiro amor;
+deu-lhes a glória eterna.
+
+@secao Coleta
+@texto
+Ó Deus, pelos santos Apóstolos,
+nos fizestes chegar ao conhecimento do vosso nome;
+concedei benigno, pela intercessão de São Simão e São Judas,
+que a vossa Igreja não cesse de crescer
+com o aumento dos povos que creem em vós.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Festejando a perene glória
+dos Santos apóstolos Simão e Judas,
+acolhei, Senhor, as nossas preces
+e fazei-nos celebrar dignamente os santos mistérios.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 14,23
+@texto
+Se alguém me ama, guardará a minha palavra, diz o Senhor;
+meu Pai o amará, e nós viremos
+e faremos nele a nossa morada.
+
+@secao Depois da comunhão
+@texto
+Senhor, tendo recebido o vosso sacramento,
+movidos pelo Espírito Santo,
+nós vos pedimos humildemente
+que a celebração do martírio dos apóstolos Simão e Judas
+nos conserve no vosso amor.
+Por Cristo, nosso Senhor.

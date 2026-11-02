@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/8domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 17,19-20
+@texto
+O Senhor tornou-se meu protetor
+e me conduziu para um lugar espaçoso;
+ele me salvou, porque me ama.
+
+@secao Coleta
+@texto
+Fazei, Senhor, que os acontecimentos deste mundo
+decorram na paz que desejais,
+e vossa Igreja vos possa servir
+alegre e tranquila.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus,
+que nos dais o que oferecemos,
+e aceitais nossa oferta
+como um gesto de amor,
+fazei que os vossos dons,
+nossa única riqueza,
+frutifiquem para nós em prêmio eterno.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 11,26
+@texto
+Cantarei ao Senhor pelo bem que ele me fez,
+entoarei salmos ao nome do Senhor, o Altíssimo.
+{Ou:}{Mt 28,20}
+Eis que estarei convosco todos os dias
+até o fim do mundo, aleluia.
+
+@secao Depois da comunhão
+@texto
+Saciados pelo dom que nos salva,
+imploramos, Senhor, a vossa misericórdia,
+e pedimos que, pelo mesmo sacramento
+no qual nos alimentais neste mundo,
+nos leveis benigno a participar da vida eterna.
+Por Cristo, nosso Senhor.

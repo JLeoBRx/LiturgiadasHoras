@@ -1,0 +1,120 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/ordinario/liturgiapalavra.htm
+@documento MISSAL ROMANO_FIN
+
+@texto
+**LITURGIA DA PALAVRA**
+
+@texto
+{O leitor dirige-se ao ambão para a primeira leitura, que todos ouvem sentados. Para indicar o fim da leitura, o leitor aclama:}
+Palavra do Senhor.
+{Todos aclamam:} Graças a Deus.
+{Após as leituras, é aconselhável um momento de silêncio para meditação.}
+
+{O salmista ou o cantor canta ou recita o salmo, e o povo, o refrão.}
+{Se houver uma segunda leitura, o leitor a proclama do ambão, como descrito acima. Para indicar o fim da leitura, o leitor aclama:} Palavra do Senhor.
+{Todos aclamam:}
+Graças a Deus.
+{Segue-se o Aleluia ou outro canto estabelecido pelas rubricas, conforme o tempo litúrgico exige.}
+{Enquanto isso, o sacerdote, quando se usa incenso, coloca-o no turíbulo. O diácono, que vai proclamar o Evangelho, inclinando-se profundamente diante do sacerdote, pede a bênção em voz baixa:} Dá-me a tua bênção.
+{O sacerdote diz em voz baixa:}
+O Senhor esteja em teu coração e em teus lábios
+para que possas anunciar dignamente o seu Evangelho:
+em nome do Pai e do Filho **{✠}** e do Espírito Santo.
+{O diácono faz o sinal da cruz e responde:}
+Amém.
+
+{Se não houver diácono, o sacerdote, inclinado diante do altar, reza em silêncio:}
+Ó Deus todo-poderoso,
+purificai-me o coração e os lábios,
+para que eu possa anunciar dignamente
+o vosso santo Evangelho.
+
+{O diácono ou o sacerdote dirige-se ao ambão, acompanhado, se for oportuno, pelos}
+{ministros com o incenso e velas, e diz:}
+O Senhor esteja convosco.
+{O povo responde:}
+Ele está no meio de nós.
+{O diácono ou o sacerdote diz:}
+Proclamação do Evangelho de Jesus Cristo, segundo {N.}
+{e, enquanto isso, faz o sinal da cruz sobre o livro e, depois, sobre si mesmo, na fronte, na boca e no peito.}
+
+{O povo aclama:}
+Glória a vós, Senhor.
+{Então o diácono ou o sacerdote, se for oportuno, incensa o livro e proclama o Evangelho.}
+{Terminado o Evangelho, o diácono ou o sacerdote aclama:}
+Palavra da Salvação.
+{O povo aclama:}
+Glória a vós, Senhor.
+{Depois beija o livro, dizendo em silêncio:}
+Pelas palavras do santo Evangelho
+sejam perdoados os nossos pecados.
+{Em seguida, faz-se a homilia, que compete ao sacerdote ou diácono; ela é obrigatória em todos domingos e festas de preceito e recomendada também nos outros dias.}
+
+{Terminada a homilia, quando for prescrito, canta-se ou recita-se o símbolo ou profissão de fé:}
+
+{Símbolo Niceno-constantinopolitano:}
+Creio em um só Deus, Pai todo-poderoso,
+criador do céu e da terra,
+de todas as coisas visíveis e invisíveis.
+Creio em um só Senhor, Jesus Cristo,
+Filho Unigênito de Deus,
+nascido do Pai antes de todos os séculos:
+Deus de Deus,
+luz da luz,
+Deus verdadeiro de Deus verdadeiro,
+gerado, não criado,
+consubstancial ao Pai.
+Por ele todas as coisas foram feitas.
+E por nós, homens, e para nossa salvação,
+desceu dos céus:
+{Às palavras seguintes, até} e se fez homem{, todos se inclinam.}
+e se encarnou pelo Espírito Santo,
+no seio da virgem Maria,
+e se fez homem.
+Também por nós foi crucificado
+sob Pôncio Pilatos;
+padeceu e foi sepultado.
+Ressuscitou ao terceiro dia,
+conforme as Escrituras,
+e subiu aos céus,
+onde está sentado à direita do Pai.
+E de novo há de vir, em sua glória,
+para julgar os vivos e os mortos;
+e o seu reino não terá fim.
+Creio no Espírito Santo,
+Senhor que dá a vida,
+e procede do Pai e do Filho;
+e com o Pai e o Filho é adorado e glorificado:
+ele que falou pelos profetas.
+Creio na Igreja,
+una, santa, católica e apostólica.
+Professo um só batismo
+para remissão dos pecados.
+E espero a ressurreição dos mortos
+e a vida do mundo que há de vir.
+Amém.
+
+{No lugar do símbolo niceno-constantinopolitano, pode-se usar, sobretudo nos tempos da Quaresma e da Páscoa, a profissão de fé batismal da Igreja Romana, o assim chamado símbolo dos Apóstolos:}
+
+Creio em Deus Pai todo-poderoso,
+criador do céu e da terra.
+E em Jesus Cristo, seu único Filho, nosso Senhor,
+{Às palavras seguintes até} da Virgem Maria{, todos se inclinam.}
+que foi concebido pelo poder do Espírito Santo;
+nasceu da virgem Maria;
+padeceu sob Pôncio Pilatos,
+foi crucificado, morto e sepultado.
+Desceu à mansão dos mortos;
+ressuscitou ao terceiro dia,
+subiu aos céus;
+está sentado à direita de Deus Pai todo-poderoso,
+donde há de vir a julgar os vivos e os mortos.
+Creio no Espírito Santo;
+na Santa Igreja católica;
+na comunhão dos santos;
+na remissão dos pecados;
+na ressurreição da carne;
+na vida eterna.
+Amém.
+
+{Em seguida, faz-se a oração universal ou dos fiéis.}

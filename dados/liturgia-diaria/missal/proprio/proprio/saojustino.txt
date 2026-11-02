@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojustino.htm
+
+@secao Antífona da entrada | Cf. Sl 118,85.46
+@texto
+Os malvados me contaram coisas vãs
+ignorando vossa lei;
+eu, porém, anunciei vossa palavra diante dos reis
+sem me envergonhar.
+
+@secao Coleta
+@texto
+Ó Deus, pela loucura da cruz,
+ensinastes de modo admirável ao mártir São Justino
+a sublime sabedoria de Cristo;
+concedei-nos, por sua intercessão,
+repelir os erros que nos cercam
+e permanecer firmes na fé.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, Senhor, nós vos pedimos,
+celebrar dignamente estes mistérios,
+que São Justino defendeu com admirável coragem.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Cf. 1Cor 2,2}
+Não julguei saber coisa alguma entre vós,
+a não ser Jesus Cristo, e este, crucificado.
+
+@secao Depois da comunhão
+@texto
+Refeitos com o pão do céu,
+nós vos pedimos humildemente, Senhor,
+que, obedecendo aos ensinamentos do mártir São Justino,
+possamos permanecer sempre em ação de graças
+pelos dons que recebemos.
+Por Cristo, nosso Senhor.

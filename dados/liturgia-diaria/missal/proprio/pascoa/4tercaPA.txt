@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/4tercaPA.htm
+
+@secao Antífona da entrada | Cf. Ap 19,7.6
+@texto
+Alegremo-nos e exultemos, demos glória a Deus.
+O Senhor, nosso Deus, o Todo-poderoso passou a reinar, aleluia.
+
+@secao Coleta
+@texto
+Concedei, ó Deus todo-poderoso,
+a nós que celebramos os mistérios da ressurreição do Senhor
+obter a alegria da nossa redenção.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, Senhor,
+que exultemos sem cessar por estes mistérios pascais,
+para que a contínua obra de nossa redenção
+seja causa de eterna alegria.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 24,46.26
+@texto
+Era necessário que o Cristo padecesse
+e ressuscitasse dos mortos
+e assim entrasse na sua glória, aleluia.
+
+@secao Depois da comunhão
+@texto
+Escutai, Senhor, as nossas preces,
+a fim de que, por este sacramento,
+intercâmbio da nossa redenção,
+recebamos o auxílio para a vida presente
+e o dom da eterna alegria.
+Por Cristo, nosso Senhor.

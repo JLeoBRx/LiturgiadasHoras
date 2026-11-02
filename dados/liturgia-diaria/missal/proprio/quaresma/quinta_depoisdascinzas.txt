@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/quinta_depoisdascinzas.htm
+
+@secao Antífona da entrada | Cf. Sl 54,17-20.23
+@texto
+Quando clamei pelo Senhor,
+ele escutou minha voz
+diante daqueles que me atacam.
+Confia ao Senhor os teus cuidados
+e ele mesmo te sustentará.
+
+@secao Coleta
+@texto
+Nós vos pedimos, Senhor,
+inspirai as nossas ações e ajudai-nos a realizá-las,
+para que em vós comece e termine
+tudo aquilo que fizermos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, olhai com bondade
+as oferendas que colocamos neste altar,
+para que, alcançando-nos vossa misericórdia,
+glorifiquem o vosso nome.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 50,12
+@texto
+Criai em mim um coração que seja puro,
+dai-me de novo um espírito decidido.
+
+@secao Depois da comunhão
+@texto
+Ó Deus todo-poderoso,
+tendo recebido a bênção do dom celestial,
+nós vos suplicamos que ele seja sempre para nós
+fonte de perdão e salvação.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Deus todo-poderoso, nós vos pedimos
+que trilhemos os caminhos da vida eterna,
+revelados ao vosso povo,
+e que por eles cheguemos até vós,
+ó luz que não se apaga.
+Por Cristo, nosso Senhor.

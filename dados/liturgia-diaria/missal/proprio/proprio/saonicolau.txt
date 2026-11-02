@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saonicolau.htm
+
+@secao Coleta
+@texto
+Imploramos, Senhor, a vossa misericórdia
+e vos suplicamos que, por intercessão do bispo São Nicolau,
+sejamos protegidos de todos os perigos,
+e se abra para nós, sem obstáculos,
+o caminho da salvação.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus todo-poderoso, voltai o vosso olhar
+para o sacrifício que vos oferecemos
+na festa de São Nicolau,
+e concedei-nos imitar o mistério da paixão do Senhor
+que agora celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+confirmai-nos na verdadeira fé,
+para que a professemos por toda parte,
+com palavras e obras,
+a exemplo de São Nicolau,
+que por ela trabalhou incansavelmente,
+consagrando-lhe a sua vida.
+Por Cristo, nosso Senhor.

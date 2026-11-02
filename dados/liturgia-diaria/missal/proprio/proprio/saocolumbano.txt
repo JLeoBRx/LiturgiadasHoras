@@ -1,0 +1,33 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saocolumbano.htm
+
+@secao Coleta
+@texto
+Ó Deus, de modo admirável,
+reunistes em São Columbano o ministério da evangelização
+e o zelo pela vida monástica;
+concedei que, por sua intercessão e exemplo,
+vos procuremos acima de tudo
+e nos empenhemos no crescimento do vosso povo fiel.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus todo-poderoso, voltai o vosso olhar
+para o sacrifício que vos oferecemos
+na festa de São Columbano,
+e concedei-nos imitar o mistério da paixão do Senhor
+que agora celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+confirmai-nos na verdadeira fé,
+para que a professemos por toda parte,
+com palavras e obras,
+a exemplo de São Columbano,
+que por ela trabalhou incansavelmente,
+consagrando-lhe a sua vida.
+Por Cristo, nosso Senhor.

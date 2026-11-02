@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSLoreto.htm
+
+@secao Antífona da entrada | Cf. Sl 65,16
+@texto
+Todos vós que a Deus temeis, vinde escutar:
+vou contar-vos todo o bem que ele me fez!
+
+@secao Coleta
+@texto
+Ó Deus, que cumpristes as promessas a nossos Pais
+e escolhestes a Santa Virgem Maria para ser a Mãe do Salvador,
+concedei-nos seguir seu exemplo,
+cuja humildade vos agradou
+e cuja obediência nos auxiliou.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor,
+as orações e oferendas dos vossos fiéis,
+que vos apresentamos na festa
+da Bem-aventurada Virgem Maria, Mãe de Deus;
+que elas vos sejam agradáveis
+e nos tragam o auxílio da vossa misericórdia.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 1,48-49
+@texto
+Desde agora as gerações hão de chamar-me de bendita.
+O poderoso fez em mim maravilhas e Santo é o seu nome!
+
+@secao Depois da comunhão
+@texto
+Senhor, vós nos fizestes participantes
+dos frutos da redenção eterna;
+concedei a nós, que celebramos a festa da Mãe do vosso Filho,
+que nos gloriemos da plenitude da vossa graça
+e que sintamos crescer sempre mais a salvação.
+Por Cristo, nosso Senhor.

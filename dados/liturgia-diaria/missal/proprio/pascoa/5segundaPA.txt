@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/5segundaPA.htm
+
+@secao Antífona da entrada
+@texto
+Ressurgiu o bom Pastor
+que deu a vida por suas ovelhas
+e quis morrer pelo seu rebanho, aleluia.
+
+@secao Coleta
+@texto
+Protegei, Senhor, vossa família
+com o constante auxílio de vossa destra,
+a fim de que, pela ressurreição do vosso Filho Unigênito,
+defendida de todo mal, ela possa alcançar os bens celestes.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Subam até vós, Senhor, nossas preces
+com as oferendas para o sacrifício,
+a fim de que, purificados por vossa graça,
+sejamos dignos dos sacramentos do vosso grande amor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 14,27
+@texto
+Deixo-vos a paz, a minha paz vos dou;
+mas não a dou como o mundo, diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Deus eterno e todo-poderoso,
+pela ressurreição de Cristo nos recriais para a vida eterna:
+fazei frutificar em nós o sacramento pascal
+e infundi em nossos corações
+a força deste alimento salutar.
+Por Cristo, nosso Senhor.

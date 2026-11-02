@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/2quartaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 37,22-23
+@texto
+Não me abandoneis, Senhor, meu Deus,
+nem fiqueis longe de mim!
+Vinde em meu auxílio, ó Senhor,
+força da minha salvação!
+
+@secao Coleta
+@texto
+Conservai, Senhor,
+vossa família na prática das boas obras;
+e assim como nos confortais agora com vossos auxílios,
+conduzi-nos aos bens eternos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Considerai, Senhor, com bondade,
+as oferendas que vos apresentamos
+e concedei-nos
+que, pela troca desses dons entre o céu e a terra,
+sejamos libertados dos nossos pecados.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Mt 20,28}
+O Filho do homem não veio para ser servido,
+mas para servir e dar a sua vida
+como resgate em favor de muitos.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus, concedei que a Eucaristia
+que nos destes como penhor da imortalidade
+nos conduza à vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Concedei, Senhor, a vossos fiéis:
+abundância de proteção e graça,
+saúde da mente e do corpo,
+plenitude de caridade fraterna,
+e a felicidade de viverem sempre no vosso amor.
+Por Cristo, nosso Senhor.

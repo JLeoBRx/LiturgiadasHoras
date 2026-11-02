@@ -1,0 +1,440 @@
+/* =========================================================
+   Liturgia — estilos principais
+   Paleta, tipografia e componentes. Cores litúrgicas do dia
+   chegam pela variável --cor-dia (definida no <body>).
+   ========================================================= */
+
+:root {
+  --fundo: #f8f6f1;
+  --fundo-2: #f1ede5;
+  --cartao: #fffdf9;
+  --linha: #e6e0d4;
+  --texto: #22201c;
+  --texto-2: #5f594f;
+  --texto-3: #8b8478;
+  --rubrica: #b0372b;
+  --acento: #2f6f58;
+  --cor-dia: #2f6f58;
+  --cor-dia-suave: #e5efe9;
+  --sombra: 0 1px 2px rgba(40, 32, 20, .05), 0 8px 24px rgba(40, 32, 20, .06);
+  --raio: 18px;
+  --raio-p: 12px;
+  --fonte-ui: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --fonte-texto: "Literata", Georgia, "Times New Roman", serif;
+  --fonte-titulo: "Fraunces", "Literata", Georgia, serif;
+  --tam-texto: 1.12rem;
+  --largura-leitura: 40rem;
+  --barra-h: 64px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    --fundo: #12110f;
+    --fundo-2: #1a1916;
+    --cartao: #1c1b18;
+    --linha: #2e2c27;
+    --texto: #ece7dd;
+    --texto-2: #b9b2a5;
+    --texto-3: #8a8377;
+    --rubrica: #e88a7c;
+    --cor-dia-suave: #1f2622;
+    --sombra: 0 1px 2px rgba(0, 0, 0, .3), 0 8px 24px rgba(0, 0, 0, .25);
+    color-scheme: dark;
+  }
+}
+:root[data-tema="escuro"] {
+  --fundo: #12110f;
+  --fundo-2: #1a1916;
+  --cartao: #1c1b18;
+  --linha: #2e2c27;
+  --texto: #ece7dd;
+  --texto-2: #b9b2a5;
+  --texto-3: #8a8377;
+  --rubrica: #e88a7c;
+  --cor-dia-suave: #1f2622;
+  --sombra: 0 1px 2px rgba(0, 0, 0, .3), 0 8px 24px rgba(0, 0, 0, .25);
+  color-scheme: dark;
+}
+
+/* cores litúrgicas */
+body[data-cor="verde"] { --cor-dia: #2f7a5c; }
+body[data-cor="roxo"] { --cor-dia: #6a4c9c; }
+body[data-cor="rosa"] { --cor-dia: #c06c8b; }
+body[data-cor="vermelho"] { --cor-dia: #b8443a; }
+body[data-cor="branco"] { --cor-dia: #b08a3e; }
+body[data-cor="preto"] { --cor-dia: #4a4740; }
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--fundo);
+  color: var(--texto);
+  font-family: var(--fonte-ui);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  padding-bottom: calc(var(--barra-h) + env(safe-area-inset-bottom));
+}
+@media (min-width: 860px) { body { padding-bottom: 0; } }
+
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+.oculto { display: none !important; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------------------------------------------------------- topo */
+.topo {
+  position: sticky; top: 0; z-index: 20;
+  background: color-mix(in srgb, var(--fundo) 86%, transparent);
+  backdrop-filter: saturate(1.4) blur(14px);
+  -webkit-backdrop-filter: saturate(1.4) blur(14px);
+  border-bottom: 1px solid transparent;
+  transition: border-color .2s;
+}
+.topo.rolou { border-bottom-color: var(--linha); }
+.topo-interno {
+  max-width: 72rem; margin: 0 auto; padding: 10px 16px;
+  display: flex; align-items: center; gap: 12px;
+}
+.marca {
+  display: flex; align-items: center; gap: 10px; text-decoration: none;
+  font-family: var(--fonte-titulo); font-weight: 600; font-size: 1.25rem; letter-spacing: -.01em;
+}
+.marca-simbolo {
+  width: 30px; height: 30px; border-radius: 10px;
+  background: var(--cor-dia); color: #fff;
+  display: grid; place-items: center; transition: background .4s;
+}
+.marca-simbolo svg { width: 18px; height: 18px; }
+.nav-topo { display: none; margin-left: 18px; gap: 4px; }
+.nav-topo a {
+  text-decoration: none; padding: 8px 14px; border-radius: 999px;
+  color: var(--texto-2); font-weight: 500; font-size: .95rem;
+}
+.nav-topo a:hover { color: var(--texto); background: var(--fundo-2); }
+.nav-topo a.ativo { color: var(--texto); background: var(--fundo-2); }
+.acoes-topo { margin-left: auto; display: flex; gap: 6px; }
+.botao-icone {
+  width: 40px; height: 40px; border-radius: 12px; border: 1px solid var(--linha);
+  background: var(--cartao); display: grid; place-items: center; cursor: pointer;
+  transition: background .2s, transform .1s;
+}
+.botao-icone:hover { background: var(--fundo-2); }
+.botao-icone:active { transform: scale(.96); }
+.botao-icone svg { width: 19px; height: 19px; }
+@media (min-width: 860px) { .nav-topo { display: flex; } }
+
+/* ---------------------------------------------------------- barra inferior (celular) */
+.nav-baixo {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
+  height: calc(var(--barra-h) + env(safe-area-inset-bottom));
+  padding-bottom: env(safe-area-inset-bottom);
+  background: color-mix(in srgb, var(--cartao) 92%, transparent);
+  backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+  border-top: 1px solid var(--linha);
+  display: grid; grid-template-columns: repeat(4, 1fr);
+}
+.nav-baixo a {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;
+  text-decoration: none; color: var(--texto-3); font-size: .72rem; font-weight: 500;
+}
+.nav-baixo a svg { width: 22px; height: 22px; }
+.nav-baixo a.ativo { color: var(--cor-dia); }
+@media (min-width: 860px) { .nav-baixo { display: none; } }
+
+/* ---------------------------------------------------------- páginas */
+main { max-width: 72rem; margin: 0 auto; padding: 8px 16px 48px; }
+.pagina { animation: entrar .35s ease both; }
+@keyframes entrar { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .pagina { animation: none; } html { scroll-behavior: auto; } }
+
+.saudacao { margin: 22px 2px 4px; color: var(--texto-2); font-size: .98rem; }
+h1.titulo-pagina {
+  font-family: var(--fonte-titulo); font-weight: 600; letter-spacing: -.02em;
+  font-size: clamp(1.7rem, 4vw, 2.4rem); line-height: 1.15; margin: 4px 2px 18px;
+}
+
+/* cartão do dia */
+.cartao-dia {
+  position: relative; overflow: hidden;
+  background: var(--cartao); border: 1px solid var(--linha); border-radius: var(--raio);
+  box-shadow: var(--sombra); padding: 22px 22px 20px;
+}
+.cartao-dia::before {
+  content: ""; position: absolute; inset: 0 auto 0 0; width: 5px; background: var(--cor-dia);
+}
+.rotulo-tempo {
+  display: inline-flex; align-items: center; gap: 8px; font-size: .78rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .08em; color: var(--cor-dia);
+}
+.ponto-cor { width: 9px; height: 9px; border-radius: 50%; background: var(--cor-dia); display: inline-block; }
+.cartao-dia h2 {
+  font-family: var(--fonte-titulo); font-weight: 600; font-size: clamp(1.35rem, 3vw, 1.75rem);
+  line-height: 1.2; letter-spacing: -.01em; margin: 8px 0 6px;
+}
+.cartao-dia .grau { color: var(--texto-2); font-size: .95rem; }
+.etiquetas { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+.etiqueta {
+  font-size: .8rem; color: var(--texto-2); background: var(--fundo-2);
+  border-radius: 999px; padding: 4px 11px; white-space: nowrap;
+}
+.comemoracoes { margin-top: 12px; font-size: .9rem; color: var(--texto-2); }
+
+/* seletor de data */
+.navegador-data {
+  display: flex; align-items: center; gap: 8px; margin: 18px 0 14px; flex-wrap: wrap;
+}
+.navegador-data .data-atual {
+  font-weight: 600; font-size: 1rem; min-width: 0; flex: 1; text-align: center;
+}
+.navegador-data input[type="date"] {
+  position: absolute; opacity: 0; pointer-events: none; width: 0; height: 0;
+}
+.botao {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  border-radius: 999px; border: 1px solid var(--linha); background: var(--cartao);
+  padding: 9px 16px; font-weight: 500; font-size: .92rem; cursor: pointer; text-decoration: none;
+  transition: background .2s, border-color .2s, transform .1s;
+}
+.botao:hover { background: var(--fundo-2); }
+.botao:active { transform: scale(.98); }
+.botao svg { width: 17px; height: 17px; }
+.botao.primario { background: var(--cor-dia); border-color: var(--cor-dia); color: #fff; }
+.botao.primario:hover { filter: brightness(1.06); background: var(--cor-dia); }
+.botao.fino { padding: 7px 12px; font-size: .85rem; }
+
+/* escolha de celebração (memória facultativa) */
+.escolha {
+  margin: 16px 0 4px; padding: 14px; border-radius: var(--raio-p);
+  background: var(--fundo-2); border: 1px dashed var(--linha);
+}
+.escolha p { margin: 0 0 10px; font-size: .9rem; color: var(--texto-2); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  border: 1px solid var(--linha); background: var(--cartao); border-radius: 999px;
+  padding: 8px 14px; font-size: .9rem; cursor: pointer; text-align: left; line-height: 1.3;
+  transition: all .2s;
+}
+.chip[aria-pressed="true"] { background: var(--cor-dia); border-color: var(--cor-dia); color: #fff; }
+
+/* grade das horas */
+.secao-titulo {
+  font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .09em;
+  color: var(--texto-3); margin: 30px 2px 12px;
+}
+.grade-horas {
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;
+}
+@media (min-width: 640px) { .grade-horas { grid-template-columns: repeat(4, 1fr); gap: 12px; } }
+.hora {
+  position: relative; display: flex; flex-direction: column; gap: 10px;
+  padding: 16px; min-height: 112px; text-decoration: none;
+  background: var(--cartao); border: 1px solid var(--linha); border-radius: var(--raio-p);
+  transition: transform .15s, box-shadow .2s, border-color .2s;
+}
+.hora:hover { transform: translateY(-2px); box-shadow: var(--sombra); border-color: color-mix(in srgb, var(--cor-dia) 40%, var(--linha)); }
+.hora .icone {
+  width: 36px; height: 36px; border-radius: 11px; display: grid; place-items: center;
+  background: var(--cor-dia-suave); color: var(--cor-dia);
+  background: color-mix(in srgb, var(--cor-dia) 12%, transparent);
+}
+.hora .icone svg { width: 20px; height: 20px; }
+.hora .nome { font-weight: 600; font-size: 1rem; }
+.hora .momento { font-size: .8rem; color: var(--texto-3); margin-top: -8px; }
+.hora.sugerida { border-color: var(--cor-dia); box-shadow: 0 0 0 3px color-mix(in srgb, var(--cor-dia) 14%, transparent); }
+.hora.sugerida::after {
+  content: "agora"; position: absolute; top: 12px; right: 12px; font-size: .68rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .06em; color: var(--cor-dia);
+}
+
+/* cartões de atalho */
+.atalhos { display: grid; gap: 12px; grid-template-columns: 1fr; }
+@media (min-width: 760px) { .atalhos { grid-template-columns: 1fr 1fr; } }
+.atalho {
+  display: flex; align-items: center; gap: 14px; padding: 18px; text-decoration: none;
+  background: var(--cartao); border: 1px solid var(--linha); border-radius: var(--raio-p);
+  transition: box-shadow .2s, transform .15s;
+}
+.atalho:hover { box-shadow: var(--sombra); transform: translateY(-1px); }
+.atalho .icone { width: 44px; height: 44px; border-radius: 14px; display: grid; place-items: center; background: var(--fundo-2); flex: none; }
+.atalho .icone svg { width: 22px; height: 22px; }
+.atalho strong { display: block; font-size: 1rem; }
+.atalho span { font-size: .88rem; color: var(--texto-2); }
+.atalho .seta { margin-left: auto; color: var(--texto-3); }
+
+/* ---------------------------------------------------------- leitura (ofício / liturgia diária) */
+.leitura { max-width: var(--largura-leitura); margin: 0 auto; }
+.cab-oficio { text-align: center; margin: 26px auto 26px; }
+.cab-oficio .rotulo-tempo { justify-content: center; }
+.cab-oficio h1 {
+  font-family: var(--fonte-titulo); font-weight: 600; letter-spacing: -.02em;
+  font-size: clamp(2rem, 6vw, 2.9rem); line-height: 1.1; margin: 10px 0 8px;
+}
+.cab-oficio .sub { color: var(--texto-2); font-size: 1rem; }
+.cab-oficio .sub strong { color: var(--texto); font-weight: 600; }
+
+.texto-liturgico {
+  font-family: var(--fonte-texto); font-size: var(--tam-texto); line-height: 1.72;
+  font-optical-sizing: auto;
+}
+.texto-liturgico p { margin: 0 0 .9em; }
+.texto-liturgico h3.secao {
+  font-family: var(--fonte-ui); font-size: .78rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--cor-dia); margin: 2.4em 0 .9em; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap;
+}
+.texto-liturgico h3.secao .ref { font-weight: 500; letter-spacing: .02em; text-transform: none; color: var(--texto-3); font-size: .85rem; }
+.texto-liturgico h3.secao::after { content: ""; flex: 1; height: 1px; background: var(--linha); min-width: 20px; align-self: center; }
+
+.mk, .rubrica-inline { color: var(--rubrica); }
+.rubrica-linha { font-family: var(--fonte-ui); font-size: .8em; line-height: 1.45; color: var(--rubrica); display: inline-block; margin: .15em 0; }
+.mk { font-family: var(--fonte-ui); font-weight: 600; font-size: .86em; }
+.rubrica {
+  font-family: var(--fonte-ui); font-size: .84rem; line-height: 1.5; color: var(--rubrica);
+  margin: .2em 0 1.1em !important; opacity: .92;
+}
+.texto-liturgico sup.v {
+  font-family: var(--fonte-ui); font-size: .62em; color: var(--rubrica); font-weight: 600;
+  margin-right: .25em; vertical-align: .5em; line-height: 0;
+}
+
+.hino { margin: 0 0 1em; }
+.hino .estrofe { margin: 0 0 1em; }
+
+.antifona {
+  position: relative; padding: .7em 1em .7em 1.05em; margin: 1.2em 0 1em !important;
+  background: color-mix(in srgb, var(--cor-dia) 7%, transparent);
+  border-left: 3px solid var(--cor-dia); border-radius: 4px 12px 12px 4px;
+}
+.antifona .mk { margin-right: .15em; }
+hr.sep { border: 0; border-top: 1px solid var(--linha); margin: .8em 0; }
+.antifona.repeticao { background: transparent; border-left-color: color-mix(in srgb, var(--cor-dia) 45%, transparent); }
+
+.salmo { margin: 1.2em 0 1.4em; }
+.salmo .tit { font-family: var(--fonte-titulo); font-size: 1.15em; font-weight: 600; margin: 0 0 .1em; }
+.salmo .subtit { font-style: italic; color: var(--texto-2); margin: 0 0 .25em; }
+.salmo .cit { font-size: .88em; color: var(--texto-3); margin: 0 0 .9em; font-style: italic; }
+.salmo .parte { font-family: var(--fonte-ui); font-size: .78rem; font-weight: 700; color: var(--rubrica); letter-spacing: .1em; text-align: center; margin: 1em 0 .6em; }
+.estrofe { margin: 0 0 .85em; }
+.verso { padding-left: 1.15em; text-indent: -1.15em; margin: 0; }
+.verso .cont { display: block; padding-left: 1.15em; text-indent: 0; }
+.verso .marc { display: inline-block; width: 1.15em; text-indent: 0; color: var(--rubrica); font-family: var(--fonte-ui); font-size: .85em; }
+.verso.refrao { padding-left: 0; text-indent: 0; font-weight: 600; }
+.gloria { color: var(--texto-2); margin: .4em 0 1.2em; }
+
+.incipit { font-weight: 600; margin-bottom: .4em !important; }
+.tema { font-style: italic; color: var(--texto-2); text-align: right; font-size: .95em; }
+.refrao-salmo { font-weight: 600; padding: .6em 1em; border-radius: 12px; background: color-mix(in srgb, var(--cor-dia) 8%, transparent); }
+
+details.bio {
+  border: 1px solid var(--linha); border-radius: var(--raio-p); padding: 4px 16px; margin: 0 0 1.6em;
+  background: var(--cartao); font-size: .95em;
+}
+details.bio summary { cursor: pointer; padding: 10px 0; font-family: var(--fonte-ui); font-weight: 600; font-size: .9rem; color: var(--texto-2); }
+details.bio p { margin-top: 0; }
+
+.lacuna {
+  display: flex; gap: 10px; align-items: flex-start; margin: 1em 0 1.2em;
+  padding: 12px 14px; border-radius: 12px; border: 1px dashed color-mix(in srgb, var(--rubrica) 40%, var(--linha));
+  font-family: var(--fonte-ui); font-size: .86rem; color: var(--texto-2); background: var(--cartao);
+}
+.lacuna svg { width: 18px; height: 18px; flex: none; color: var(--rubrica); margin-top: 1px; }
+.nota {
+  font-family: var(--fonte-ui); font-size: .85rem; color: var(--texto-2);
+  background: var(--fundo-2); border-radius: 12px; padding: 10px 14px; margin: 0 0 1.2em;
+}
+
+/* blocos da liturgia diária */
+.bloco-leitura {
+  background: var(--cartao); border: 1px solid var(--linha); border-radius: var(--raio);
+  padding: 6px 22px 10px; margin: 0 0 16px; scroll-margin-top: 130px;
+}
+.bloco-leitura > h3.secao { margin-top: 1.4em; }
+@media (max-width: 520px) { .bloco-leitura { padding: 4px 16px 8px; border-radius: 16px; } }
+.indice-leituras {
+  position: sticky; top: 61px; z-index: 10; display: flex; gap: 6px; overflow-x: auto;
+  padding: 10px 0; margin: 0 0 8px; background: var(--fundo); scrollbar-width: none;
+}
+.indice-leituras::-webkit-scrollbar { display: none; }
+.indice-leituras a {
+  white-space: nowrap; text-decoration: none; font-size: .85rem; font-weight: 500;
+  padding: 7px 13px; border-radius: 999px; background: var(--cartao); border: 1px solid var(--linha); color: var(--texto-2);
+}
+.indice-leituras a:hover { color: var(--texto); }
+
+/* navegação entre horas */
+.nav-horas {
+  display: flex; gap: 6px; overflow-x: auto; padding: 4px 0 2px; margin: 0 auto 6px; scrollbar-width: none;
+  max-width: var(--largura-leitura); justify-content: flex-start;
+}
+.nav-horas::-webkit-scrollbar { display: none; }
+.nav-horas a {
+  white-space: nowrap; text-decoration: none; font-size: .82rem; font-weight: 500; color: var(--texto-3);
+  padding: 6px 12px; border-radius: 999px; border: 1px solid transparent;
+}
+.nav-horas a:hover { color: var(--texto); }
+.nav-horas a.ativo { color: var(--cor-dia); border-color: color-mix(in srgb, var(--cor-dia) 35%, transparent); background: var(--cartao); }
+
+.seguinte {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 40px 0 10px;
+}
+.seguinte a {
+  display: flex; flex-direction: column; gap: 2px; padding: 14px 16px; text-decoration: none;
+  border: 1px solid var(--linha); border-radius: var(--raio-p); background: var(--cartao);
+}
+.seguinte a small { color: var(--texto-3); font-size: .78rem; }
+.seguinte a strong { font-size: .98rem; }
+.seguinte a.dir { text-align: right; }
+.seguinte a:hover { box-shadow: var(--sombra); }
+
+.fontes {
+  margin: 34px 0 0; font-family: var(--fonte-ui); font-size: .8rem; color: var(--texto-3);
+  border-top: 1px solid var(--linha); padding-top: 14px;
+}
+.fontes summary { cursor: pointer; }
+.fontes ul { padding-left: 18px; margin: 8px 0 0; word-break: break-word; }
+.fontes code { font-size: .76rem; }
+
+/* painel de ajustes */
+.painel {
+  position: fixed; inset: auto 12px calc(var(--barra-h) + 12px + env(safe-area-inset-bottom)) 12px; z-index: 50;
+  max-width: 360px; margin-left: auto;
+  background: var(--cartao); border: 1px solid var(--linha); border-radius: var(--raio);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .18); padding: 18px;
+  animation: entrar .2s ease both;
+}
+@media (min-width: 860px) { .painel { inset: 70px 20px auto auto; } }
+.painel h4 { margin: 0 0 12px; font-size: .95rem; }
+.painel .linha { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 12px 0; }
+.painel .linha span { font-size: .9rem; color: var(--texto-2); }
+.segmentado { display: inline-flex; background: var(--fundo-2); border-radius: 999px; padding: 3px; gap: 2px; }
+.segmentado button {
+  border: 0; background: transparent; padding: 6px 12px; border-radius: 999px; cursor: pointer; font-size: .85rem; color: var(--texto-2);
+}
+.segmentado button[aria-pressed="true"] { background: var(--cartao); color: var(--texto); box-shadow: 0 1px 3px rgba(0, 0, 0, .1); }
+
+/* rodapé e créditos */
+.rodape {
+  max-width: 72rem; margin: 30px auto 0; padding: 26px 16px 34px; border-top: 1px solid var(--linha);
+  color: var(--texto-3); font-size: .78rem; line-height: 1.55;
+  display: grid; gap: 14px; grid-template-columns: 1fr;
+}
+@media (min-width: 760px) { .rodape { grid-template-columns: 1fr 1fr auto; align-items: start; } }
+.rodape strong { color: var(--texto-2); font-weight: 600; }
+.rodape p { margin: 0; }
+.rodape a { color: var(--texto-2); }
+
+.carregando { text-align: center; padding: 60px 0; color: var(--texto-3); }
+.carregando .pontinhos span { display: inline-block; width: 6px; height: 6px; margin: 0 3px; border-radius: 50%; background: currentColor; animation: pulsar 1s infinite ease-in-out; }
+.carregando .pontinhos span:nth-child(2) { animation-delay: .15s; }
+.carregando .pontinhos span:nth-child(3) { animation-delay: .3s; }
+@keyframes pulsar { 0%, 80%, 100% { opacity: .2; } 40% { opacity: 1; } }
+
+.sobre { max-width: var(--largura-leitura); margin: 0 auto; }
+.sobre h2 { font-family: var(--fonte-titulo); font-weight: 600; margin: 1.8em 0 .5em; }
+.sobre p, .sobre li { color: var(--texto-2); }
+.sobre code { background: var(--fundo-2); padding: 1px 6px; border-radius: 6px; font-size: .88em; }
+
+:focus-visible { outline: 2px solid var(--cor-dia); outline-offset: 2px; border-radius: 8px; }

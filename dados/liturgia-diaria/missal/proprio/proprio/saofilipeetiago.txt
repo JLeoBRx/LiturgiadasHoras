@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saofilipeetiago.htm
+
+@secao Antífona da entrada
+@texto
+Estes são homens santos
+que o Senhor escolheu com verdadeiro amor;
+deu-lhes a glória eterna, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, vós nos alegrais cada ano
+com a festa dos apóstolos São Filipe e São Tiago.
+Concedei-nos, por suas preces,
+participar da paixão e ressurreição do vosso Filho,
+para merecermos chegar à eterna visão da vossa face.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, os dons que vos apresentamos
+na festa dos apóstolos Filipe e Tiago
+e dai-nos a graça de praticar uma religião pura e sem mancha.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 14,8-9
+@texto
+Senhor, mostra-nos o Pai
+e isto nos basta.
+Filipe, quem me vê, vê também meu Pai, aleluia.
+
+@secao Depois da comunhão
+@texto
+Pela participação nesta Eucaristia,
+purificai, Senhor, nossos corações
+para que, com os apóstolos Filipe e Tiago,
+contemplando-vos em vosso Filho,
+mereçamos ter a vida eterna.
+Por Cristo, nosso Senhor.

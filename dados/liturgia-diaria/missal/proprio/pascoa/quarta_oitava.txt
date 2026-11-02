@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/quarta_oitava.htm
+
+@secao Antífona da entrada | Cf. Mt 25,34
+@texto
+Vinde, benditos do meu Pai:
+tomai posse do reino preparado para vós
+desde a origem do mundo, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, todos os anos nos alegrais
+com a solenidade da ressurreição do Senhor;
+concedei-nos em vossa bondade
+que, pelas festas que celebramos na terra,
+mereçamos chegar às alegrias eternas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor,
+o sacrifício da redenção da humanidade
+e concedei benigno
+a salvação da alma e do corpo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 24,35
+@texto
+Os discípulos reconheceram o Senhor Jesus
+na fração do pão, aleluia.
+
+@secao Depois da comunhão
+@texto
+Purificados de toda antiga culpa,
+nós vos pedimos, Senhor,
+que a sagrada comunhão no sacramento do vosso Filho
+nos transforme em nova criatura.
+Por Cristo, nosso Senhor.

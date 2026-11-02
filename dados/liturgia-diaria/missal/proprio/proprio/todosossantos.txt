@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/todosossantos.htm
+
+@secao Antífona da entrada
+@texto
+Alegremo-nos todos no Senhor,
+celebrando este dia festivo
+em honra de todos os santos.
+Nesta solenidade os Anjos se alegram
+e conosco dão glória ao Filho de Deus.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que nos permitis celebrar os méritos
+de todos os vossos santos numa única festa,
+concedei-nos, por intercessores tão numerosos,
+a desejada abundância da vossa misericórdia.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, possam agradar-vos as oferendas
+que apresentamos em honra de todos os santos.
+Certos de que eles já alcançaram a imortalidade,
+experimentemos sua solicitude pela nossa salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Bem-aventurados os puros no coração,
+porque verão a Deus.
+Bem-aventurados os que promovem a paz,
+porque serão chamados filhos de Deus.
+Bem-aventurados os que são perseguidos por causa da justiça,
+porque deles é o reino dos céus.
+
+@secao Depois da comunhão
+@texto
+Ó Deus,
+nós vos adoramos e admiramos em todos os santos,
+porque só vós sois o Santo,
+e imploramos a vossa graça para que,
+santificados na plenitude do vosso amor,
+passemos desta mesa de peregrinos
+ao banquete da pátria celeste.
+Por Cristo, nosso Senhor.

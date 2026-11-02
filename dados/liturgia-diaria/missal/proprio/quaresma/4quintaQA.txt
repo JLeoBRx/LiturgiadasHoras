@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4quintaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 104,3-4
+@texto
+Exulte o coração que busca a Deus!
+Procurai o Senhor Deus e seu poder,
+buscai constantemente a sua face.
+
+@secao Coleta
+@texto
+Nós vos pedimos, ó Deus de bondade,
+que, purificados pela penitência e renovados pelas boas obras,
+possamos perseverar nos vossos mandamentos
+e chegar revigorados às festas pascais.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, ó Deus todo-poderoso,
+que o dom oferecido neste sacrifício
+liberte-nos de todo o mal
+e fortifique a nossa fraqueza.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jr 31,33
+@texto
+Imprimirei minha lei em suas entranhas
+e hei de inscrevê-la em seu coração;
+serei seu Deus e eles serão meu povo, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, por estes sacramentos que recebemos,
+purificai-nos de toda a culpa,
+para que, libertos da opressão do pecado,
+nos alegremos com a plenitude do remédio celestial.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Ó Deus, amparo dos que em vós esperam,
+abençoai, salvai, defendei
+e governai o vosso povo,
+para que, livre do pecado e protegido contra o inimigo,
+sempre persevere em vosso amor.
+Por Cristo, nosso Senhor.

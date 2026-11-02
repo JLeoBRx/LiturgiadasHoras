@@ -1,0 +1,10 @@
+{
+  "name": "Liturgia — Uma experiência de oração",
+  "short_name": "Liturgia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f6f1",
+  "theme_color": "#2f7a5c",
+  "lang": "pt-BR",
+  "icons": [{ "src": "img/icone.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

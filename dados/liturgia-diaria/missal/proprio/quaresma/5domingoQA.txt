@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5domingoQA.htm
+
+@secao Antífona da entrada | Cf. Sl 42,1-2
+@texto
+Fazei justiça, ó Deus, e defendei-me
+contra a gente impiedosa;
+do homem perverso e mentiroso libertai-me,
+ó Senhor! Sois vós o meu Deus e meu refúgio.
+
+@secao Coleta
+@texto
+Senhor nosso Deus, dai-nos por vossa graça
+caminhar com alegria na mesma caridade
+que levou o vosso Filho a entregar-se à morte
+no seu amor pelo mundo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ouvi-nos, Deus todo-poderoso,
+e concedei que vossos fiéis,
+impregnados dos ensinamentos da fé cristã,
+sejam purificados pela ação deste sacrifício.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 11,26
+@texto
+Todo aquele que vive e crê em mim
+não morrerá jamais, diz o Senhor.
+{Quando for proclamado o Evangelho da mulher adúltera}{Jo 8,10-11}
+Mulher, ninguém te condenou? Ninguém, Senhor.
+Eu também não te condeno.
+Podes ir, e de agora em diante não peques mais.
+{Quando for proclamado outro Evangelho}{Cf. Jo 12,24}
+Em verdade, em verdade, vos digo:
+se o grão de trigo que cai na terra não morre, fica só;
+mas, se morre, produz muito fruto..
+
+@secao Depois da comunhão
+@texto
+Concedei, ó Deus todo-poderoso,
+que sejamos sempre contados entre os membros de Cristo,
+cujo Corpo e Sangue comungamos.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+Abençoai, Senhor, o vosso povo
+que espera o dom da vossa bondade
+e realizai os desejos
+que foram inspirados pela vossa generosidade.
+Por Cristo, nosso Senhor.

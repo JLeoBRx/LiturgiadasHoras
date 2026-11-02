@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojose.htm
+
+@secao Antífona da entrada | Cf. Lc 12,42
+@texto
+Eis o servo fiel e prudente,
+a quem o Senhor confiou a sua família.
+
+@secao Coleta
+@texto
+Deus todo-poderoso,
+na aurora dos novos tempos,
+confiastes a São José o cuidado dos mistérios da salvação humana;
+por sua intercessão, concedei à vossa Igreja
+conservá-los fielmente e levá-los à plenitude.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+assim como São José se dedicou com amor e fidelidade
+ao serviço do vosso Filho unigênito,
+nascido da Virgem Maria,
+fazei que também nós sirvamos de coração puro
+aos mistérios do vosso altar.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Mt 25,21
+@texto
+Muito bem, servo bom e fiel,
+entra na alegria do teu Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, que na solenidade de São José
+alimentastes neste altar a vossa família,
+defendei-a sempre com a vossa proteção
+e conservai nela os vossos dons.
+Por Cristo, nosso Senhor.

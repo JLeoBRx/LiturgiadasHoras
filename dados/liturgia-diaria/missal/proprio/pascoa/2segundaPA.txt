@@ -1,0 +1,35 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/2segundaPA.htm
+
+@secao Antífona da entrada | Rm 6,9
+@texto
+Cristo, ressuscitado dos mortos, não morre mais;
+a morte já não tem poder sobre ele, aleluia.
+
+@secao Coleta
+@texto
+Deus todo-poderoso,
+que nos renovastes pelos remédios pascais,
+fazei que, libertos da condição do homem terreno,
+sejamos transformados à imagem do homem celeste, Jesus Cristo.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, os dons da vossa Igreja em festa
+e concedei o fruto da eterna alegria
+a quem destes motivo de tão grande júbilo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 20,19
+@texto
+Jesus entrou e pondo-se no meio deles
+disse: A paz esteja convosco, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, olhai com bondade o vosso povo
+e fazei chegar à incorruptível ressurreição da carne
+aqueles que renovastes pelos sacramentos da vida eterna.
+Por Cristo, nosso Senhor.

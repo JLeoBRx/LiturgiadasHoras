@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoandrekim.htm
+
+@secao Antífona da entrada
+@texto
+Os santos mártires derramaram
+o seu sangue por Cristo na terra;
+por isso alcançaram o prêmio eterno.
+
+@secao Coleta
+@texto
+Ó Deus, vos dignastes multiplicar
+filhos adotivos no mundo inteiro
+e tornastes o sangue dos Santos mártires André e seus companheiros
+uma fecunda semente de cristãos;
+concedei que cada vez mais sejamos fortalecidos por seu auxílio
+e revigorados por seu exemplo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus todo-poderoso,
+olhai benigno as oferendas do vosso povo
+e, pela intercessão dos santos mártires coreanos,
+concedei que nos tornemos um agradável sacrifício
+para a salvação do mundo inteiro.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 10,32
+@texto
+Todo aquele que se declarar a meu favor diante dos homens,
+também eu me declararei em favor dele
+diante do meu Pai que está nos céus, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Nutridos pelo alimento dos fortes,
+na celebração dos santos mártires,
+nós vos pedimos humildemente, Senhor,
+que seguindo fielmente a Cristo,
+trabalhemos na Igreja pela salvação de todos.
+Por Cristo, nosso Senhor.

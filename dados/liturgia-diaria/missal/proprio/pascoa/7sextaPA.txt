@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7sextaPA.htm
+
+@secao Antífona da entrada | Ap 1,5s
+@texto
+Jesus nos ama,
+por seu sangue nos libertou dos nossos pecados
+e fez de nós um reino, sacerdotes para seu Deus e Pai, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, pela glorificação do vosso Cristo
+e pela iluminação do Espírito Santo
+nos abristes as portas da eternidade.
+Concedei, nós vos pedimos,
+que a participação em tão grande dom
+aumente o nosso fervor
+e faça crescer a nossa fé.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, olhai compassivo as oferendas do vosso povo
+e, para que elas vos sejam agradáveis,
+a vinda do Espírito Santo purifique as nossas consciências.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 16,13
+@texto
+Quando vier o Espírito da Verdade,
+ele vos conduzirá à plena verdade, diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que nos purificais e alimentais com vossos mistérios,
+concedei, nós vos pedimos,
+que a força desta refeição nos conduza à vida eterna.
+Por Cristo, nosso Senhor.

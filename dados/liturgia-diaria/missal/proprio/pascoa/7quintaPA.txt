@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7quintaPA.htm
+
+@secao Antífona da entrada | Hb 4,16
+@texto
+Aproximemo-nos, com toda a confiança, do trono da graça,
+para conseguirmos misericórdia
+e alcançarmos a graça de um auxílio
+no momento oportuno, aleluia.
+
+@secao Coleta
+@texto
+O vosso Espírito, Senhor,
+infunda em nós a riqueza dos seus dons
+e nos dê um coração que vos agrade,
+tornando-nos, em sua misericórdia,
+sempre mais dóceis à vossa vontade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos,
+santificai com benevolência estes dons
+e, aceitando a oblação do sacrifício espiritual,
+fazei de nós uma eterna oferenda para vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 16,7
+@texto
+Eu vos digo a verdade: é bom para vós que eu parta;
+se eu não for, não virá até vós o Defensor,
+diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+O sacramento que recebemos, Senhor,
+ilumine nossa fé e restaure nossas forças
+para merecermos receber
+os dons do vosso Espírito.
+Por Cristo, nosso Senhor.

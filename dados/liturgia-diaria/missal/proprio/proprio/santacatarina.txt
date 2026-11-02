@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santacatarina.htm
+
+@secao Antífona da entrada
+@texto
+Esta é uma virgem sábia, uma das jovens prudentes,
+que foi ao encontro de Cristo com sua lâmpada acesa, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus,
+inflamastes de amor divino Santa Catarina de Sena
+na contemplação da paixão do Senhor
+e no serviço da vossa Igreja;
+concedei, por sua intercessão,
+que o vosso povo participe do mistério de Cristo
+e exulte sempre na revelação de sua glória.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, o sacrifício da salvação
+que vos apresentamos na comemoração de Santa Catarina,
+para que, instruídos por seus ensinamentos,
+possamos com maior fervor render-vos graças,
+ó Deus vivo e verdadeiro.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Jo 1,7
+@texto
+Deus é luz. Se caminhamos na luz,
+estamos em comunhão uns com os outros,
+e o sangue de Jesus Cristo, seu Filho,
+nos purifica de todo pecado, aleluia.
+
+@secao Depois da comunhão
+@texto
+O alimento, Senhor, que recebemos nesta mesa celeste
+e que sustentou Santa Catarina, até mesmo na vida do corpo,
+seja para nós penhor de vida eterna.
+Por Cristo, nosso Senhor.

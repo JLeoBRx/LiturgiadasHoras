@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/11domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 26,7.9
+@texto
+Escutai, Senhor, a voz do meu apelo.
+Sede meu amparo;
+não me rejeiteis, nem me abandoneis,
+ó Deus meu Salvador.
+
+@secao Coleta
+@texto
+Ó Deus, força daqueles que em vós esperam,
+sede favorável ao nosso apelo
+e, como nada podemos em nossa fraqueza,
+dai-nos sempre o socorro da vossa graça,
+para que possamos querer e agir conforme a vossa vontade,
+seguindo os vossos mandamentos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, com estes dons
+alimentais nossa vida
+e a renovais pelo sacramento.
+Concedei, nós vos pedimos,
+que nunca falte este auxílio
+ao nosso corpo e à nossa alma.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 26,4
+@texto
+Ao Senhor eu peço apenas uma coisa,
+e é só isto que eu desejo:
+habitar no santuário do Senhor
+por toda a minha vida.
+{Ou:}{Cf. Jo 17,11}
+Pai santo, guarda-os em teu nome,
+aqueles que me deste,
+para que sejam um como nós, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Fazei, Senhor,
+que a sagrada comunhão nos vossos mistérios,
+sinal da nossa união convosco,
+realize a unidade na vossa Igreja.
+Por Cristo, nosso Senhor.

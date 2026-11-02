@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/17domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 67,6-7.36
+@texto
+Deus habita em seu santuário,
+reúne os fiéis em sua casa;
+ele mesmo dá vigor e força a seu povo.
+
+@secao Coleta
+@texto
+Ó Deus, amparo dos que em vós esperam,
+sem vós nada tem valor, nada é santo.
+Multiplicai em nós a vossa misericórdia
+para que, conduzidos por vós
+usemos agora de tal modo os bens temporais
+que possamos aderir desde já aos bens eternos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, nós vos pedimos,
+os dons que recebemos de vossa generosidade
+e agora vos apresentamos,
+para que estes santos mistérios,
+pelo poder da vossa graça
+nos santifiquem na vida presente
+e nos conduzam à felicidade eterna.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 102,2
+@texto
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+{Ou:}{Mt 5,7-8}
+Bem-aventurados os misericordiosos,
+porque alcançarão misericórdia.
+Bem-aventurados os puros de coração,
+porque verão a Deus.
+
+@secao Depois da comunhão
+@texto
+Recebemos, Senhor, o divino sacramento,
+memorial perpétuo da paixão do vosso Filho.
+Concedei, nós vos pedimos,
+que sirva para nossa salvação
+o que ele mesmo nos deixou em seu inefável amor.
+Por Cristo, nosso Senhor.

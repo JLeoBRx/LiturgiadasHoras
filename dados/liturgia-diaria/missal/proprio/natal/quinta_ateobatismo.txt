@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/natal/quinta_ateobatismo.htm
+
+@secao Antífona da entrada | Cf. Jo 1,1
+@texto
+No princípio e antes dos séculos o Verbo era Deus,
+e dignou-se nascer como Salvador do mundo.
+
+@secao Coleta
+@texto
+Ó Deus, que por vosso Filho
+fizestes surgir para todas as nações
+a luz da vossa eternidade,
+concedei ao vosso povo
+conhecer a fulgurante glória do seu Redentor
+e, por ele, chegar à eterna claridade.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, as nossas oferendas
+nesta admirável troca de dons,
+para que, oferecendo-vos o que nos destes,
+mereçamos acolher-vos em nós.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Jo 3,16}
+Pois Deus amou tanto o mundo,
+que deu o seu Filho unigênito,
+para que não morra todo o que nele crer,
+mas tenha a vida eterna.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, ó Deus todo-poderoso,
+que a nossa vida seja sempre sustentada
+pela força dos vossos santos mistérios.
+Por Cristo, nosso Senhor.

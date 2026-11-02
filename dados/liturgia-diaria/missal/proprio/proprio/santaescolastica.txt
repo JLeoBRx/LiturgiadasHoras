@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santaescolastica.htm
+
+@secao Antífona da entrada
+@texto
+Esta é uma das virgens sábias e prudentes,
+que foi ao encontro de Cristo com sua lâmpada acesa.
+
+@secao Coleta
+@texto
+Celebrando a memória da virgem Santa Escolástica,
+nós vos pedimos, Senhor, a graça de imitá-la,
+para que, a seu exemplo, vos sirvamos com sincera caridade
+e, alegres, obtenhamos os frutos do vosso amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, proclamando-vos admirável
+na santa virgem Santa Escolástica,
+humildemente vos pedimos:
+como vos foram agradáveis os méritos da sua vida,
+assim vos agrade o serviço do nosso culto.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Mt 25,6
+@texto
+Eis, o Noivo está chegando:
+ide ao encontro do Cristo Senhor.
+{Ou:}{Cf. Sl 26,4}
+Ao Senhor eu peço apenas uma coisa,
+e é só isto que eu desejo:
+habitar no santuário do Senhor
+por toda a minha vida.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+saciados pela participação nos divinos mistérios,
+fazei que, a exemplo de Santa Escolástica,
+nos esforcemos por servir unicamente a vós,
+trazendo em nosso corpo
+os sinais dos sofrimentos de Jesus.
+Que vive e reina pelos séculos dos séculos.

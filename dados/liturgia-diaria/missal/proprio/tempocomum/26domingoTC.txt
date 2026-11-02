@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/26domingoTC.htm
+
+@secao Antífona da entrada | Cf. Dn 3,31.29.30.43.42
+@texto
+Tudo quanto nos fizestes, Senhor,
+com verdadeira justiça o fizestes,
+porque pecamos contra vós
+e não obedecemos a vossos mandamentos;
+mas dai glória ao vosso nome
+e tratai-nos conforme a grandeza da vossa misericórdia.
+
+@secao Coleta
+@texto
+Ó Deus, que mostrais vosso poder
+sobretudo no perdão e na misericórdia,
+derramai em nós a vossa graça,
+para que, correndo ao encontro das vossas promessas,
+mereçamos participar dos bens celestes.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei-nos, Deus de misericórdia,
+que vos agrade esta nossa oblação
+e que ela nos abra a fonte de toda bênção.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 118,49-50
+@texto
+Lembrai-vos, Senhor,
+da vossa palavra a vosso servo,
+pela qual me destes esperança;
+ela me consolou em minha aflição.
+{Ou:}{1Jo 3,16}
+Nisto conhecemos o amor:
+Jesus deu a vida por nós.
+Portanto, também nós devemos dar a vida pelos irmãos.
+
+@secao Depois da comunhão
+@texto
+Fazei, Senhor,
+que este sacramento celeste renove inteiramente a nossa vida,
+para que, anunciando a morte de Cristo,
+possamos participar de sua herança gloriosa.
+Ele, que vive e reina pelos séculos dos séculos.

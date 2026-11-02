@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/perpetuaefelicidade.htm
+
+@secao Antífona da entrada
+@texto
+Alegrem-se nos céus os santos
+que seguiram os passos de Cristo;
+e, tendo derramado o seu sangue por amor a ele,
+exultam com Cristo sem fim.
+
+@secao Coleta
+@texto
+Ó Deus, pelo vosso intenso amor,
+as Santas mártires Perpétua e Felicidade
+resistiram ao perseguidor
+e venceram os tormentos da morte;
+concedei-nos, por sua intercessão,
+crescer sempre mais em vosso amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, comemorando a celeste vitória
+das Santas Perpétua e Felicidade,
+com júbilo oferecemos este sacrifício,
+proclamamos as vossas maravilhas
+e nos alegramos por sua gloriosa intercessão.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Somos continuamente entregues à morte,
+por causa de Jesus,
+para que a vida de Jesus
+seja manifestada em nossa natureza mortal.
+
+@secao Depois da comunhão
+@texto
+Senhor, repletos de eterna alegria,
+pela participação neste sacramento
+e pela celebração da memória das Santas Perpétua e Felicidade,
+fazei-nos dignos de acolher o dom do vosso amor
+que, por vossa graça, devotamente celebramos.
+Por Cristo, nosso Senhor.

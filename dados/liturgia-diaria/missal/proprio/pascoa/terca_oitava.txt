@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/terca_oitava.htm
+
+@secao Antífona da entrada | Cf. Eclo 15,3-4
+@texto
+O Senhor deu-lhes a água da sabedoria,
+tornou-se a sua força, e não vacilam;
+vai exaltá-los para sempre, aleluia!
+
+@secao Coleta
+@texto
+Ó Deus, que nos concedestes a salvação pascal,
+acompanhai o vosso povo com os dons celestiais,
+para que, tendo conseguido a perfeita liberdade,
+possa alegrar-se no céu,
+como agora exulta na terra.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, aceitai compassivo as oferendas da vossa família
+e concedei que, sob o auxílio de vossa proteção,
+não percamos os dons que nos destes
+e alcancemos os bens eternos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cl 3,1-2
+@texto
+Se ressuscitastes com Cristo,
+esforçai-vos por alcançar as coisas do alto,
+onde está Cristo, sentado à direita de Deus;
+aspirai às coisas celestes, aleluia.
+
+@secao Depois da comunhão
+@texto
+Ouvi-nos, ó Deus todo-poderoso,
+e preparai os corações de vossos filhos
+que enriquecestes com a graça do Batismo,
+para merecerem a felicidade eterna.
+Por Cristo, nosso Senhor.

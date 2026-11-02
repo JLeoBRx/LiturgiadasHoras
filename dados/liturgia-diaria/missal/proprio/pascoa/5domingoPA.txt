@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/5domingoPA.htm
+
+@secao Antífona da entrada | Cf. Sl 97,1-2
+@texto
+Cantai ao Senhor um cântico novo,
+porque ele fez maravilhas!
+Aos olhos das nações revelou sua justiça, aleluia!
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+realizai sempre em nós o mistério da Páscoa,
+e, aos que vos dignastes renovar pelo santo Batismo,
+concedei, com o auxílio de vossa proteção,
+dar muitos frutos e chegar às alegrias da vida eterna.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, pelo venerável intercâmbio deste sacrifício
+nos fizestes participar de vossa única e suprema divindade;
+concedei, nós vos pedimos,
+que conhecendo a vossa verdade
+a testemunhemos pela prática das boas obras.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 15,1.5
+@texto
+Eu sou a videira verdadeira
+e vós os ramos, diz o Senhor.
+Aquele que permaneceu em mim, e eu nele,
+esse produz muito fruto, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, nós vos pedimos,
+permanecei com misericórdia junto ao vosso povo
+e fazei passar da antiga para a nova vida
+aqueles que iniciastes nos mistérios celestes.
+Por Cristo, nosso Senhor.

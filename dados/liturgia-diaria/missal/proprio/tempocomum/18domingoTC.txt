@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/18domingoTC.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Sl 69,2.6
+@texto
+Vinde ó Deus em meu auxílio,
+apressai-vos, ó Senhor, em socorrer-me.
+Sois meu Deus libertador e meu auxílio.
+Não tardeis em socorrer-me, ó Senhor!
+
+@secao Coleta
+@texto
+Assisti, Senhor, os vossos fiéis
+e cumulai com vossa inesgotável bondade,
+aqueles que vos imploram
+e se gloriam de vos ter como criador e guia,
+restaurando para eles a vossa criação e conservando-a renovada.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Nós vos pedimos, Senhor de bondade,
+santificai estes dons
+e, aceitando a oblação do sacrifício espiritual,
+fazei de nós mesmos uma eterna oferenda para vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sb 16,20
+@texto
+Vós nos destes, Senhor, o pão do Céu,
+que contém toda delícia e suave sabor.
+{Ou:}{Jo 6,35}
+Eu sou o pão da vida, diz o Senhor.
+Quem vem a mim não terá mais fome
+e quem crê em mim nunca mais terá sede.
+
+@secao Depois da comunhão
+@texto
+Acompanhai, Senhor, com vossa constante proteção
+aqueles que restaurais com os dons do céu
+e, como não cessais de protegê-los,
+concedei que se tornem dignos da eterna redenção.
+Por Cristo, nosso Senhor.

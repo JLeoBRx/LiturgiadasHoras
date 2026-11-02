@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santissimatrindade.htm
+
+@secao Antífona da entrada
+@texto
+Bendito seja Deus Pai e seu Filho Unigênito,
+com o Espírito Santo,
+porque mostrou-nos a sua misericórdia.
+
+@secao Coleta
+@texto
+Deus, nosso Pai,
+enviando ao mundo a Palavra da verdade
+e o Espírito santificador,
+revelastes o vosso admirável mistério.
+Concedei-nos, na profissão da verdadeira fé,
+reconhecer a glória da Trindade
+e adorar a Unidade na sua onipotência.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nosso Deus, nós vos pedimos,
+santificai, pela invocação do vosso nome,
+esta nossa humilde oferenda,
+e por meio dela, tornai-nos
+uma dádiva perene para vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Gl 4,6
+@texto
+Porque sois filhos,
+Deus enviou aos nossos corações o Espírito do seu Filho,
+que clama: Abá, ó Pai!
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+proclamando nossa fé
+na Trindade eterna e santa
+e na sua indivisível Unidade,
+nós vos pedimos que
+a comunhão neste sacramento
+nos sirva para a salvação do corpo e da alma.
+Por Cristo, nosso Senhor.

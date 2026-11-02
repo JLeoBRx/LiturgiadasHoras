@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/22domingoTC.htm
+
+@secao Antífona da entrada | Sl 85,3.5
+@texto
+Piedade de mim, ó Senhor,
+porque clamo por vós todo o dia!
+Ó Senhor, vós sois bom e clemente,
+sois perdão para quem vos invoca.
+
+@secao Coleta
+@texto
+Deus onipotente,
+fonte de todo dom perfeito,
+semeai em nossos corações
+o amor ao vosso nome
+e, estreitando os laços que nos unem convosco,
+fazei crescer em nós o que é bom
+e guardai com amorosa solicitude
+o que nos destes.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Este santo sacrifício, Senhor,
+nos traga a perene bênção da salvação
+e vosso poder leve à plenitude
+o que celebramos no sacramento.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 30,20
+@texto
+Como é grande, ó Senhor, a riqueza da vossa bondade,
+que reservais para aqueles que vos temem.
+
+@secao Depois da comunhão
+@texto
+Revigorados pelo pão da mesa celeste
+nós vos pedimos, Senhor,
+que este alimento da caridade fortifique os nossos corações
+e nos leve a vos servir nos irmãos.
+Por Cristo, nosso Senhor.

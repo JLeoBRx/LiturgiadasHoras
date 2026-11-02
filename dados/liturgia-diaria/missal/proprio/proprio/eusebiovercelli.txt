@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/eusebiovercelli.htm
+
+@secao Coleta
+@texto
+Senhor Deus,
+fazei-nos imitar a firmeza do bispo Santo Eusébio
+na proclamação da divindade de Cristo,
+para que, perseverando na fé que ele ensinou,
+possamos participar da vida do vosso Filho.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus todo-poderoso, voltai o vosso olhar
+para o sacrifício que vos oferecemos
+na festa de Santo Eusébio,
+e concedei-nos imitar o mistério da paixão do Senhor
+que agora celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Eu mesmo vou apascentar as minhas ovelhas
+e fazê-las repousar, diz o Senhor.
+Ou:
+O que vos digo na escuridão, dizei-o à luz do dia;
+o que escutais ao pé do ouvido,
+proclamai-o sobre os telhados, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+confirmai-nos na verdadeira fé,
+para que a professemos por toda parte,
+com palavras e obras,
+a exemplo de Santo Eusébio,
+que por ela trabalhou incansavelmente,
+consagrando-lhe a sua vida.
+Por Cristo, nosso Senhor.

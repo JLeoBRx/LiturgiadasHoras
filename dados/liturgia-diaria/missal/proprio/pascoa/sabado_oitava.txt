@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/sabado_oitava.htm
+
+@secao Antífona da entrada | Cf. Sl 104,43
+@texto
+O Senhor fez sair com grande júbilo o seu povo,
+e seus eleitos entre gritos de alegria, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, pela abundância da vossa graça
+multiplicais os povos que creem em vós:
+olhai benigno para vossos eleitos
+e revesti da feliz imortalidade
+os que renasceram pelo sacramento do Batismo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, Senhor,
+que exultemos sem cessar por estes mistérios pascais,
+para que a contínua obra de nossa redenção
+seja causa de eterna alegria.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | GL 3,27
+@texto
+Vós todos que fostes batizados em Cristo
+vos revestistes de Cristo, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, olhai com bondade o vosso povo
+e fazei chegar à incorruptível ressurreição da carne
+aqueles que renovastes
+com os sacramentos da vida eterna.
+Por Cristo, nosso Senhor.

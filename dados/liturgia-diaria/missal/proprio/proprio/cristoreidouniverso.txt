@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/cristoreidouniverso.htm
+
+@secao Antífona da entrada | Cf. Ap 5,12;1,6
+@texto
+O Cordeiro imolado é digno de receber
+o poder, a riqueza, a sabedoria e a força,
+a honra, a glória e o louvor,
+a ele glória e poder, pelos séculos dos séculos.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que quisestes restaurar todas as coisas
+em vosso amado Filho, Rei do universo,
+concedei benigno que todas as criaturas,
+libertas da escravidão,
+sirvam à vossa majestade
+e vos glorifiquem sem cessar.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Oferecendo-vos, Senhor,
+o sacrifício que reconcilia a humanidade convosco,
+pedimos humildemente
+que vosso Filho conceda a todos os povos
+os dons da unidade e da paz.
+Ele, que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Cf. Sl 28,10-11
+@texto
+O Senhor em seu trono reinará para sempre;
+o Senhor abençoará o seu povo na paz.
+
+@secao Depois da comunhão
+@texto
+Saciados com o alimento da imortalidade,
+nós vos pedimos, Senhor,
+que, gloriando-nos de obedecer
+aos mandamentos de Cristo, Rei do universo,
+possamos viver com ele eternamente no reino dos céus.
+Por Cristo, nosso Senhor.
+
+{"Prescrevemos que, cada ano, se renove, nesse dia, a consagração do gênero humano ao Coração de Jesus, que já Nosso Predecessor de saudosa memória Pio X ordenara se fizesse anualmente." (Encíclica _Quas Primas_, 28, do Papa Pio XI)}

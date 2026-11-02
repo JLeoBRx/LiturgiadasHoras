@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/joaoevangelista.htm
+
+@secao Antífona da entrada
+@texto
+Este é João,
+que na ceia reclinou a cabeça sobre o peito do Senhor;
+feliz o Apóstolo a quem foram revelados os mistérios celestes
+e anunciou no mundo inteiro as palavras da vida.
+
+{Ou:}
+No meio da Igreja
+o Senhor abriu os seus lábios,
+encheu-o com o espírito de sabedoria e inteligência
+e o revestiu com um manto de glória.
+
+@secao Coleta
+@texto
+Ó Deus, que nos revelastes pelo apóstolo São João
+os mistérios do vosso Verbo,
+concedei-nos a graça de compreender e amar
+as maravilhas que por sua pregação nos fez conhecer.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos..
+
+@secao Sobre as oferendas
+@texto
+Santificai, Senhor, os dons que apresentamos
+e concedei-nos haurir deste banquete
+os mistérios do Verbo eterno,
+que na última Ceia revelastes ao vosso apóstolo João.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 1,14.16
+@texto
+O Verbo se fez carne e veio morar entre nós,
+e de sua plenitude todos nós recebemos.
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso,
+pelo mistério que celebramos,
+concedei que habite sempre em nós
+o Verbo feito carne, anunciado pelo apóstolo São João.
+Por Cristo, nosso Senhor.

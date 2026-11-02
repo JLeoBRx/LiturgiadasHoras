@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5tercaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 26,14
+@texto
+Espera no Senhor e tem coragem, espera no Senhor!
+
+@secao Coleta
+@texto
+Concedei-nos, Senhor, perseverar na vossa vontade,
+para que, em nossos dias,
+cresça em número e santidade
+o povo que vos serve.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Nós vos oferecemos, Senhor,
+o sacrifício que nos reconcilia convosco,
+para que perdoeis, em vossa misericórdia, os nossos pecados
+e orienteis os corações vacilantes.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 12,32
+@texto
+Quando eu for elevado da terra, diz o Senhor,
+atrairei todos a mim.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, ó Deus todo-poderoso,
+que participando assiduamente dos vossos mistérios,
+nos aproximemos sempre mais dos bens celestes.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Ó Deus, vós que preferis a misericórdia à indignação
+para com aqueles que em vós esperam,
+fazei que os vossos fiéis chorem os seus pecados
+e assim alcancem a graça da vossa consolação.
+Por Cristo, nosso Senhor.

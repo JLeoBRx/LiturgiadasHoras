@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saomaximiliano.htm
+
+@secao Antífona da entrada | Mt 25,34.40
+@texto
+Vinde, benditos do meu Pai, diz o Senhor.
+Em verdade eu vos digo que todas as vezes que fizestes isso
+a um dos menores de meus irmãos,
+foi a mim que o fizestes.
+
+@secao Coleta
+@texto
+Ó Deus, enriquecestes de grande zelo pastoral
+e dedicação ao próximo
+o presbítero e mártir São Maximiliano Maria Kolbe,
+inflamado de amor à Virgem Imaculada;
+concedei-nos benigno, por sua intercessão,
+que, trabalhando incansavelmente pela vossa glória
+no serviço ao próximo,
+possamos nos tornar semelhantes ao vosso Filho até a morte.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos apresentamos
+as nossas oferendas e vos suplicamos
+que, a exemplo de São Maximiliano Maria Kolbe,
+aprendamos a vos oferecer a nossa vida.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 15,13
+@texto
+Ninguém tem maior amor
+do que aquele que dá a vida
+por seus amigos, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que, alimentados com o Corpo e o Sangue do vosso Filho,
+sejamos inflamados por aquele fogo da caridade
+que São Maximiliano Maria Kolbe
+recebeu deste banquete.
+Por Cristo, nosso Senhor.

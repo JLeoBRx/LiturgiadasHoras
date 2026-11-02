@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/exaltacao.htm
+
+@secao Antífona da entrada | Cf. Gl 6,14
+@texto
+Nós, porém, devemos gloriar-nos
+na cruz de nosso Senhor Jesus Cristo;
+nele está a salvação, nossa vida e ressurreição;
+por ele somos salvos e libertos.
+
+@secao Coleta
+@texto
+Ó Deus, quisestes que vosso Filho Unigênito
+sofresse o suplício da cruz
+para salvar o gênero humano;
+concedei que, tendo conhecido na terra este mistério,
+mereçamos alcançar no céu o prêmio da redenção.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Purifique-nos, Senhor, de todas as ofensas,
+este sacrifício que, no altar da cruz,
+tirou o pecado do mundo inteiro.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 12,32
+@texto
+Quando eu for elevado da terra, diz o Senhor,
+atrairei todos a mim.
+
+@secao Depois da comunhão
+@texto
+Senhor Jesus Cristo,
+alimentados pela vossa santa ceia,
+humildemente vos pedimos:
+levai à glória da ressurreição
+os redimidos pela árvore da cruz que nos trouxe a vida.
+Vós que viveis e reinais pelos séculos dos séculos.

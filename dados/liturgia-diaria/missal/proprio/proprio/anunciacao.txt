@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/anunciacao.htm
+
+@secao Antífona da entrada | Hb 10,5.7
+@texto
+Ao entrar no mundo, Cristo afirma:
+Eu vim, ó Deus, para fazer a tua vontade.
+
+@secao Coleta
+@texto
+Ó Deus, quisestes que vosso Verbo
+assumisse a natureza humana
+no seio da Virgem Maria; concedei, nós vos pedimos,
+que, proclamando o nosso Redentor
+verdadeiro Deus e verdadeiro homem,
+mereçamos também participar da sua natureza divina.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Dignai-vos receber, ó Deus todo-poderoso,
+a oblação da vossa Igreja,
+que reconhece a sua origem
+na encarnação do vosso Filho unigênito,
+para que possa alegrar-se nesta solenidade
+com a celebração dos seus mistérios.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Is 7,14
+@texto
+Eis que uma virgem conceberá e dará à luz um filho;
+e lhe porá o nome de Emanuel.
+
+@secao Depois da comunhão
+@texto
+Senhor, confirmai em nossos corações
+os mistérios da verdadeira fé,
+para que, ao proclamarmos
+verdadeiro Deus e verdadeiro homem
+aquele que foi concebido da Virgem,
+mereçamos pela força salutar da sua ressurreição
+chegar à eterna alegria.
+Por Cristo, nosso Senhor.

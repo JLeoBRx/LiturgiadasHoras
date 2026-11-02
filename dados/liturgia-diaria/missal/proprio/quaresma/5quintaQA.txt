@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5quintaQA.htm
+
+@secao Antífona da entrada | Hb 9,15
+@texto
+Cristo é mediador de uma nova aliança.
+Pela sua morte, aqueles que são chamados
+recebem a promessa da herança eterna.
+
+@secao Coleta
+@texto
+Assisti, Senhor, aqueles que vos suplicam
+e guardai com solicitude
+os que esperam em vossa misericórdia,
+para que, purificados dos seus pecados,
+levem uma vida santa e mereçam
+tornar-se herdeiros das vossas promessas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, com bondade, este sacrifício,
+para que seja proveitoso à nossa conversão
+e à salvação do mundo inteiro.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Rm 8,32
+@texto
+Deus não poupou seu próprio Filho,
+mas o entregou por todos nós:
+com ele nos concedeu todas as coisas.
+
+@secao Depois da comunhão
+@texto
+Saciados pelo dom que nos salva,
+imploramos, Senhor, a vossa misericórdia,
+a fim de que, pelo mesmo sacramento
+que nos dais como alimento neste mundo,
+nos leveis a participar da vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Sede propício, Senhor, ao vosso povo,
+para que, rejeitando sempre o que vos desagrada,
+se alegre em cumprir os vossos mandamentos.
+Por Cristo, nosso Senhor.

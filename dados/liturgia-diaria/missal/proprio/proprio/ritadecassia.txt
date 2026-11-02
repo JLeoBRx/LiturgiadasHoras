@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/ritadecassia.htm
+
+@secao Antífona da entrada
+@texto
+O Senhor a desposou para sempre,
+na fidelidade e na misericórdia.
+
+@secao Coleta
+@texto
+Concedei-nos, Senhor,
+a sabedoria da Cruz e a fortaleza de ânimo
+com que vos dignastes enriquecer Santa Rita de Cássia,
+para que, sofrendo com Cristo na tribulação,
+possamos participar mais intimamente do seu mistério pascal.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus de clemência,
+desfeito em Santa Rita de Cássia o velho homem,
+vos dignastes formar nele uma nova criatura à vossa imagem;
+concedei benigno que nós, igualmente renovados,
+vos ofereçamos este agradável sacrifício de reconciliação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Mt 19,27-29
+@texto
+Em verdade vos digo:
+vós que deixastes tudo e me seguistes
+recebereis cem vezes mais
+e tereis como herança a vida eterna.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+conduzi-nos constantemente no vosso amor
+e, como fizestes a Santa Rita de Cássia,
+completai a boa obra que em nós começastes,
+até o dia de Cristo Jesus.
+Que vive e reina pelos séculos dos séculos.

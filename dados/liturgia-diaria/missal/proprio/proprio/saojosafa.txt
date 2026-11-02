@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojosafa.htm
+
+@secao Antífona da entrada
+@texto
+Fiéis à aliança do Senhor e às leis dos seus pais,
+os santos de Deus perseveraram no amor fraterno
+porque permaneceram unidos num só espírito e numa só fé.
+
+@secao Coleta
+@texto
+Senhor, suscitai em vossa Igreja
+o Espírito que impeliu São Josafá
+a dar a vida por suas ovelhas;
+fortalecidos pelo mesmo Espírito,
+também nós, por sua intercessão,
+não hesitemos em dar a vida pelos irmãos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Clementíssimo Deus,
+envolvei com vossa bênção estas oferendas
+e confirmai-nos na fé que São Josafá proclamou
+ao derramar o próprio sangue.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 10,39
+@texto
+Quem perde a sua vida por causa de mim
+vai encontrá-la, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, esta mesa celeste
+nos conceda o espírito de fortaleza e de paz,
+para que, a exemplo de São Josafá,
+de bom grado consagremos nossa vida à honra
+e à unidade da Igreja.
+Por Cristo, nosso Senhor.

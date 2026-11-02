@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saolucas.htm
+
+@secao Antífona da entrada | Is 52,7
+@texto
+Como são belos, andando sobre os montes,
+os pés de quem anuncia e prega a paz,
+de quem anuncia o bem e prega a salvação!
+
+@secao Coleta
+@texto
+Senhor nosso Deus, escolhestes São Lucas
+para revelar pela pregação e pelos escritos
+o mistério do vosso amor para com os pobres;
+concedei aos que já se gloriam do vosso nome
+perseverar num só coração e numa só alma,
+e que todos os povos mereçam ver a vossa salvação.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, concedei-nos, por estes dons celestes,
+servir-vos com liberdade de espírito,
+para que as oferendas que apresentamos na festa de São Lucas
+nos sirvam de remédio e nos conduzam à glória eterna.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 10,1.9
+@texto
+O Senhor enviou os discípulos para anunciar
+de cidade em cidade:
+Chegou para vós o reino de Deus!
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso,
+o dom que recebemos do vosso santo altar
+nos santifique e nos fortaleça
+na fé transmitida por São Lucas em seu Evangelho.
+Por Cristo, nosso Senhor.

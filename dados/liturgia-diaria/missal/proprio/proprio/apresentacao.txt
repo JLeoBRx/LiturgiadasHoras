@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/apresentacao.htm
+
+@secao Antífona da entrada | Cf. Sl 47,10-11
+@texto
+Recebemos, Senhor, vossa misericórdia
+no meio do vosso templo.
+Como vosso nome, ó Deus,
+assim vosso louvor ressoa até os confins da terra;
+vossa destra está cheia de justiça.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+humildemente vos suplicamos:
+assim como o vosso Filho único,
+revestido da natureza humana,
+foi hoje apresentado no templo,
+fazei que, também nós,
+possamos nos apresentar diante de vós
+com os corações purificados.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, quisestes que o vosso Filho Unigênito
+se oferecesse a vós
+como Cordeiro sem mancha pela vida do mundo,
+fazei que vos seja agradável
+a oblação da vossa Igreja em festa.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 2,30-31
+@texto
+Meus olhos viram vossa salvação
+que preparastes ante a face das nações.
+
+@secao Depois da comunhão
+@texto
+Por este sacramento que recebemos, Senhor,
+completai em nós a obra da vossa graça;
+como correspondestes à esperança de Simeão,
+não consentindo que morresse
+antes de acolher o Cristo,
+concedei também a nós
+que, caminhando ao encontro do Senhor,
+alcancemos a vida eterna.
+Por Cristo, nosso Senhor.

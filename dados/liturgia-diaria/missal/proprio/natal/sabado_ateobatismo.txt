@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/natal/sabado_ateobatismo.htm
+
+@secao Antífona da entrada | Gl 4,4s
+@texto
+Deus enviou o seu Filho, nascido de uma mulher,
+para que todos recebêssemos a filiação adotiva.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+pelo vosso Filho Unigênito
+nos fizestes nova criatura para vós.
+Dai-nos, pela vossa graça, participar da divindade daquele
+que uniu a vós a nossa humanidade.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus,
+fonte da verdadeira devoção e da paz,
+concedei que vos honremos dignamente com esta oferenda
+e, pela fiel participação nos sagrados mistérios,
+sejam reforçados os laços que nos unem.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 1,16
+@texto
+Da sua plenitude todos nós recebemos
+graça por graça.
+
+@secao Depois da comunhão
+@texto
+Senhor, que o vosso povo,
+sustentado com tantas graças,
+possa receber hoje e sempre os dons do vosso amor,
+para que, confortado pelos bens transitórios,
+busque com mais confiança os bens eternos.
+Por Cristo, nosso Senhor.

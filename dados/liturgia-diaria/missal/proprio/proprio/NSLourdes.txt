@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSLourdes.htm
+
+@secao Coleta
+@texto
+Ó Deus de misericórdia,
+socorrei a nossa fraqueza
+para que nós, que celebramos a memória
+da Virgem Imaculada, Mãe de Deus,
+possamos, por sua intercessão,
+ressurgir de nossas iniquidades.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, as orações do vosso povo
+com a oblação deste sacrifício,
+para que, por intercessão
+da Bem-aventurada Virgem Maria,
+Mãe do vosso Filho,
+todos sejam atendidos em suas preces
+e confirmados em suas súplicas.
+Por Cristo, nosso Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, ao receber os sacramentos celestes,
+pedimos vossa clemência para que,
+alegrando-nos com a comemoração
+da Bem-aventurada Virgem Maria,
+imitemos as suas virtudes
+e colaboremos generosamente no mistério da nossa redenção.
+Por Cristo, nosso Senhor.

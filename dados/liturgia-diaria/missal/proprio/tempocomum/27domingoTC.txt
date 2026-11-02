@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/27domingoTC.htm
+
+@secao Antífona da entrada | Cf. Est 4,17
+@texto
+Ao vosso poder, Senhor, tudo está sujeito,
+e não há quem possa resistir à vossa vontade,
+porque sois o criador de todas as coisas,
+do céu e da terra e de tudo que eles contêm;
+vós sois o Senhor do universo.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que no vosso imenso amor de Pai
+nos concedeis mais do que merecemos e pedimos,
+infundi em nós vossa misericórdia,
+para perdoar o que nos pesa na consciência
+e para nos dar mais do que a oração ousa pedir.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, nós vos pedimos,
+o sacrifício que instituístes;
+e pelos sagrados mistérios que celebramos em vossa honra
+dignai-vos completar a santificação
+daqueles que salvastes.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lm 3,25
+@texto
+O Senhor é bondoso para quem nele confia,
+para a alma que o procura.
+{Ou:}{Cf. 1Cor 10,17}
+Há um só pão e, embora sendo muitos,
+formamos um só corpo, todos os que participamos
+do mesmo pão e do mesmo cálice.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Deus todo-poderoso,
+que inebriados e saciados pelo sacramento que recebemos,
+sejamos transformados naquele que comungamos.
+Por Cristo, nosso Senhor.

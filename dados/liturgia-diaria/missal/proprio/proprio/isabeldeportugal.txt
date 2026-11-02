@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/isabeldeportugal.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Coleta
+@texto
+Ó Deus, autor da paz e fonte da caridade,
+que destes a Santa Isabel de Portugal
+a graça de reconciliar os desunidos,
+concedei-nos, por sua intercessão, trabalhar pela paz,
+para que possamos ser chamados filhos de Deus.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Recebei, Senhor, os dons do vosso povo
+e concedei a nós, que recordamos
+a obra da imensa caridade do vosso Filho,
+ser confirmados, a exemplo de Santa Isabel de Portugal,
+no amor a vós e ao próximo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 15,13
+@texto
+Ninguém tem maior amor
+do que aquele que dá a vida por seus amigos.
+{Ou:}{Cf. Jo 13,35}
+Nisto todos saberão que vós sois os meus discípulos,
+se vos amardes uns aos outros, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Revigorados por estes sagrados mistérios,
+concedei-nos, Senhor,
+seguir o exemplo de Santa Isabel de Portuga,
+que vos serviu com filial constância
+e se dedicou ao vosso povo com imensa caridade.
+Por Cristo, nosso Senhor.

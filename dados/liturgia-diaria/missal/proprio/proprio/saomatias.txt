@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saomatias.htm
+
+@secao Antífona da entrada | Jo 15,16
+@texto
+Não fostes vós que me escolhestes, diz o Senhor,
+mas fui eu que vos escolhi e vos designei,
+para irdes e para que produzais fruto
+e o vosso fruto permaneça {(T.P.} aleluia).
+
+@secao Coleta
+@texto
+Ó Deus, que associastes São Matias ao colégio dos Apóstolos,
+concedei-nos, por sua intercessão,
+que, na alegria de sermos agraciados por vosso amor,
+mereçamos ser contados entre os eleitos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, os dons da vossa Igreja
+que vos apresentamos com devoção
+na festa de São Matias
+e, por meio deles, confirmai-nos na força da vossa graça.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 15,12
+@texto
+Este é o meu mandamento:
+amai-vos uns aos outros,
+assim como eu vos amei, diz o Senhor {(T.P.} aleluia).
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+cobri vossa família com as bênçãos do céu,
+e, por intercessão de São Matias,
+possamos participar eternamente
+da gloriosa sorte dos santos em vossa luz.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4sabadoQA.htm
+
+@secao Antífona da entrada | Cf, Sl 17,5-7
+@texto
+Ondas da morte me envolveram totalmente,
+e as torrentes da maldade me aterraram;
+ao Senhor eu invoquei na minha angústia
+e de seu templo ele escutou a minha voz.
+
+@secao Coleta
+@texto
+Senhor, na vossa misericórdia
+dirigi os nossos corações, pois,
+sem o vosso auxílio, não vos podemos agradar.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, pelas oferendas que vos apresentamos,
+possamos ser reconciliados convosco,
+e nossas vontades, mesmo rebeldes,
+sejam reconduzidas a vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Pd 1,18-19
+@texto
+Pelo precioso sangue de Cristo,
+cordeiro sem defeito e sem mancha,
+fostes resgatados.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que o vosso sacramento nos purifique
+e o seu poder santificador
+nos torne agradáveis aos vossos olhos.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Defendei, Senhor, o vosso povo
+que se prepara para as solenidades pascais.
+Ajudai-o com a abundância da graça celeste,
+para que, reconfortado com o auxílio dos bens visíveis,
+procure mais diligentemente os bens invisíveis.
+Por Cristo, nosso Senhor.

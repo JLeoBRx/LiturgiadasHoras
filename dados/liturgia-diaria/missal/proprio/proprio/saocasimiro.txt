@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saocasimiro.htm
+
+@secao Antífona da entrada | Cf. Sr 15,5
+@texto
+Senhor, em vossa força o justo se alegra;
+quanto exulta de alegria em vosso auxílio!
+O que sonhou seu coração, lhe concedestes.
+
+@secao Coleta
+@texto
+Ó Deus todo-poderoso,
+a quem servir é reinar,
+dai-nos, pela intercessão de São Casimiro,
+a graça de sempre vos servir em santidade e justiça.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+por esta oblação oferecida
+na comemoração de São Casimiro,
+concedei aos vossos fiéis
+os dons da unidade e da paz.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Cf. Sl 1,2-3}
+Se alguém quer me seguir, renuncie a si mesmo,
+tome a sua cruz e me siga, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, o sacramento que recebemos
+na comemoração de São Casimiro
+santifique a nossa mente e o nosso coração,
+para que mereçamos participar da natureza divina.
+Por Cristo, nosso Senhor.

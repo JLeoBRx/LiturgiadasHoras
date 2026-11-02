@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/cornelioecipriano.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada
+@texto
+Alegram-se nos céus os santos
+que seguiram os passos de Cristo.
+Por seu amor derramaram o próprio sangue;
+por isso, com ele exultam eternamente.
+{Ou:}
+Por causa do Senhor
+homens santos derramaram seu sangue glorioso,
+amaram Cristo em sua vida e, na sua morte, o imitaram;
+por isso, mereceram coroas de vitória.
+
+@secao Coleta
+@texto
+Ó Deus,
+em São Cornélio e São Cipriano destes ao vosso povo
+pastores dedicados e mártires invencíveis;
+concedei que, por sua intercessão,
+fortalecidos na fé e na perseverança,
+trabalhemos incansavelmente pela unidade da Igreja.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, os dons do vosso povo,
+apresentados na paixão dos vossos santos mártires;
+as oferendas que deram a São Cornélio e São Cipriano
+admirável fortaleza na perseguição
+deem também a nós constância nas adversidades.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 22,28-30
+@texto
+Vós ficastes comigo em minhas provações.
+Por isso vos confio o reino.
+Vós havereis de comer e beber à minha mesa
+no meu reino, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, nós vos pedimos humildemente
+que, pela participação nestes mistérios,
+a exemplo dos Santos mártires Cornélio e Cipriano,
+confirmados pela força do vosso Espírito,
+possamos dar testemunho da verdade do Evangelho.
+Por Cristo, nosso Senhor.

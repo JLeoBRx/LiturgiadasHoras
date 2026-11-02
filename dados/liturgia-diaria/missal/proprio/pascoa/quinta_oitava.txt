@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/quinta_oitava.htm
+
+@secao Antífona da entrada | Cf. Sb 10,20-21
+@texto
+Celebraram, Senhor, teu santo Nome,
+louvando em coro tua mão vitoriosa.
+Pois a Sabedoria abriu a boca dos mudos
+e tornou eloquentes as línguas das crianças, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, que reunistes povos tão diversos
+na proclamação do vosso nome,
+concedei aos renascidos na fonte do Batismo
+ser concordes na fé e justos nas ações.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai benigno, Senhor, as oferendas
+que, agradecidos, vos apresentamos
+pelos que renasceram no Batismo;
+que elas apressem o vosso auxílio celeste.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Pd 2,9
+@texto
+Povo adquirido por Deus,
+anunciai os grandes feitos
+daquele que vos chamou das trevas
+à sua luz maravilhosa, aleluia.
+
+@secao Depois da comunhão
+@texto
+Escutai, Senhor, as nossas preces,
+a fim de que, por este sacramento,
+intercâmbio da nossa redenção,
+recebamos o auxílio para a vida presente
+e o dom da eterna alegria.
+Por Cristo, nosso Senhor.

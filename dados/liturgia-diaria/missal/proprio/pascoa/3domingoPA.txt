@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/3domingoPA.htm
+
+@secao Antífona da entrada | Cf. Sl 65,1-2
+@texto
+Aclamai a Deus, terra inteira,
+cantai salmos a seu nome,
+glorificai-o com louvores, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, o vosso povo sempre exulte
+pela sua renovação espiritual.
+Alegrando-se com a restituição da glória da adoção divina,
+possa, com firme e grata esperança, aguardar o dia da ressurreição.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, os dons da vossa Igreja em festa
+e concedei o fruto da eterna alegria
+a quem destes motivo de tão grande júbilo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 24,35
+@texto
+{Ano A}
+Os discípulos reconheceram o Senhor Jesus
+na fração do pão, aleluia.
+{Lc 24,46-47}Ano B
+O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia,
+e no seu nome serão anunciados a conversão
+e o perdão dos pecados a todas as nações, aleluia.
+{Cf. Jo 21,12-13}Ano C
+Disse Jesus a seus discípulos: Vinde, comei!
+E tomou o pão e lhes deu, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, olhai com bondade o vosso povo
+e fazei chegar à incorruptível ressurreição da carne
+aqueles que renovastes pelos sacramentos da vida eterna.
+Por Cristo, nosso Senhor.

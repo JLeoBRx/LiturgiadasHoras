@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/28domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 129,3-4
+@texto
+Se levardes em conta, Senhor, nossas faltas,
+quem haverá de subsistir?
+Mas em vós se encontra o perdão.
+
+@secao Coleta
+@texto
+Nós vos pedimos, Senhor,
+que vossa graça nos preceda e acompanhe
+e nos torne atentos
+para perseverar na prática do bem.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, as preces dos fiéis
+com a oblação do sacrifício,
+para que possamos,
+por este serviço da nossa piedosa devoção,
+alcançar a glória do céu.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Sl 33,11
+@texto
+Os ricos empobrecem e passam fome,
+mas nada falta aos que procuram o Senhor.
+{Ou:}{Cf. 1Jo 3,2}
+Quando o Senhor se manifestar,
+seremos semelhantes a ele,
+pois o veremos tal como ele é.
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso, nós vos pedimos humildemente:
+assim como nos alimentais
+com o sacramento do Corpo e Sangue de Cristo,
+fazei-nos participar da natureza divina.
+Por Cristo, nosso Senhor.

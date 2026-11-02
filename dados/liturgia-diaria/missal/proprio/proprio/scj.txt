@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/scj.htm
+
+@secao Antífona da entrada | Cf. Sl 32,11.19
+@texto
+Os desígnios do Coração do Senhor
+perduram de geração em geração,
+para da morte libertar as suas vidas
+e alimentá-los quando é tempo de penúria.
+
+@secao Coleta
+@texto
+Ó Deus todo-poderoso,
+alegrando-nos com a solenidade do Coração do vosso amado Filho,
+recordamos os grandes benefícios do seu amor para conosco.
+Concedei que mereçamos receber desta fonte divina
+uma torrente de graças.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+{Ou:}
+Ó Deus, no Coração do vosso Filho
+ferido por nossos pecados
+vos dignais em vossa misericórdia
+abrir-nos infinitos tesouros de amor.
+Concedei, nós vos pedimos,
+que, prestando-lhe nossa fervorosa homenagem de piedade,
+cumpramos também o dever de uma digna reparação.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos,
+olhai para o inefável amor do Coração do vosso amado Filho,
+a fim de que nossa oferenda vos seja agradável
+e sirva de reparação pelos nossos pecados.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 7,37-38
+@texto
+Assim diz o Senhor:
+Se alguém tem sede, venha a mim e beba.
+Aquele que crê em mim,
+rios de água viva jorrarão do seu interior.
+
+@secao Depois da comunhão
+@texto
+Senhor, o sacramento da caridade
+nos inflame de santo amor;
+e assim, sempre atraídos ao vosso Filho,
+aprendamos a reconhecê-lo em nossos irmãos.
+Por Cristo, nosso Senhor.

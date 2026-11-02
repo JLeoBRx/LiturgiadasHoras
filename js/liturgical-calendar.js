@@ -347,7 +347,7 @@ export class CalendarioLiturgico {
     // celebração temporal principal
     const temporalCel = t.celebracao
       ? { ...this.celebracaoMovel(t.celebracao), nome: t.nome, precedencia: t.precedencia, tipo: 'temporal', cor: t.cor }
-      : { id: null, nome: t.nome, grau: t.ds === 0 ? 'domingo' : 'feria', precedencia: t.precedencia, tipo: 'temporal', cor: t.cor };
+      : { id: null, nome: t.nome, grau: t.ds === 0 ? 'domingo' : (t.subtipo === 'oitava' ? 'oitava' : (t.subtipo === 'semana-santa' ? 'semana-santa' : 'feria')), precedencia: t.precedencia, tipo: 'temporal', cor: t.cor };
     const ordenados = [...santos].sort((a, b) => a.precedencia - b.precedencia);
     const maior = ordenados[0];
     // vence o dia: solenidades, festas e memórias obrigatórias com precedência
@@ -405,6 +405,8 @@ export function nomeGrau(c) {
   if (c.tipo === 'temporal') {
     if (c.grau === 'domingo') return 'Domingo';
     if (c.grau === 'feria') return 'Dia de semana';
+    if (c.grau === 'oitava') return 'Dia da Oitava';
+    if (c.grau === 'semana-santa') return 'Semana Santa';
     return NOMES_GRAUS[c.grau] || '';
   }
   return NOMES_GRAUS[c.grau] || '';

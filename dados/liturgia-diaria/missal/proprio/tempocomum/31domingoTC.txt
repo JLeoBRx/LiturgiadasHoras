@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/31domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 37,22-23
+@texto
+Não me abandoneis, Senhor, meu Deus,
+nem fiqueis longe de mim!
+Vinde em meu auxílio, ó Senhor,
+força da minha salvação!
+
+@secao Coleta
+@texto
+Ó Deus de poder e misericórdia,
+que concedeis a vossos filhos e filhas
+o dom de vos servir como devem,
+fazei que corramos livremente
+ao encontro das vossas promessas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Seja este sacrifício para vós, Senhor,
+uma oferenda pura e, para nós,
+fonte generosa de vossa santa misericórdia.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 15,11
+@texto
+Vós me ensinastes o caminho para a vida,
+junto a vós, Senhor, felicidade sem limites.
+
+@secao Depois da comunhão
+@texto
+Cresça em nós, Senhor,
+a ação da vossa graça,
+para que, refeitos pelos vossos sacramentos,
+sejamos preparados para alcançar o que prometem.
+Por Cristo, nosso Senhor.

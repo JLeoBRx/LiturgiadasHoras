@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/18dezembroAD.htm
+
+@secao Antífona da entrada
+@texto
+Está chegando o nosso Rei,
+Cristo que João anunciou
+como Cordeiro que há de vir.
+
+@secao Coleta
+@texto
+Nós vos pedimos, Deus todo-poderoso:
+concedei, aos que sofremos na antiga escravidão
+sob o jugo do pecado,
+sejamos libertados
+pelo novo nascimento do vosso Filho que esperamos.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+O sacrifício que celebramos em vossa honra
+nos torne agradáveis a vós, Senhor,
+para que possamos participar
+da eternidade do vosso Filho
+que, ao fazer-se mortal, nos libertou da morte.
+Ele, que convosco vive e reina para sempre.
+
+@secao Antífona da comunhão | Cf. Mt 1,23
+@texto
+O seu nome será Emanuel,
+que significa Deus conosco.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Senhor, a vossa misericórdia
+no meio do vosso templo,
+para que possamos preparar dignamente
+a festa da redenção que se aproxima.
+Por Cristo, nosso Senhor.

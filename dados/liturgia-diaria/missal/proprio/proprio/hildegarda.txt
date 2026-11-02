@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/hildegarda.htm
+
+@secao Coleta
+@texto
+Ó Deus, fonte da vida,
+que impregnastes a virgem Santa Hildegarda
+com o espírito de profecia,
+concedei-nos, por seu exemplo e intercessão,
+conhecer os vossos caminhos
+e contemplar, entre as trevas do mundo,
+o fulgor da vossa luz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, proclamando-vos admirável
+na santa virgem Hildegardai,
+humildemente vos pedimos:
+como vos foram agradáveis os méritos da sua vida,
+assim vos agrade o serviço do nosso culto.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 18,3
+@texto
+Eis, o Noivo está chegando:
+ide ao encontro do Cristo Senhor
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+saciados pela participação nos divinos mistérios,
+fazei que, a exemplo de Santa Hildegarda,
+nos esforcemos por servir unicamente a vós,
+trazendo em nosso corpo
+os sinais dos sofrimentos de Jesus.
+Que vive e reina pelos séculos dos séculos.

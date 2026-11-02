@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7sabadoPA.htm
+
+@secao Antífona da entrada | At 1,14
+@texto
+Os discípulos perseveraram na oração em comum,
+junto com algumas mulheres
+entre as quais Maria, mãe de Jesus,
+e com os irmãos de Jesus, aleluia.
+
+@secao Coleta
+@texto
+Deus todo-poderoso, nós vos pedimos
+que, com vossa ajuda generosa,
+conservemos, em nossa vida e em nossos costumes,
+o que celebramos nas festas pascais que estamos para encerrar.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos:
+o Espírito Santo, que vem,
+prepare nossos corações para os divinos sacramentos,
+pois ele mesmo é a remissão de todos os pecados.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 16,14
+@texto
+O Espírito Santo me glorificará,
+porque receberá do que é meu
+e vo-lo anunciará, diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, atendei compassivo as nossas preces
+e, como nos conduzistes da antiga à nova aliança,
+sejamos renovados pela santificação dos nossos corações,
+passando da condição de pecado a uma vida nova.
+Por Cristo, nosso Senhor.

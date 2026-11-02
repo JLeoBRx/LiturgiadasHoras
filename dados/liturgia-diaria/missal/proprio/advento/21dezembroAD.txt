@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/21dezembroAD.htm
+
+@secao Antífona da entrada | Cf. Is 7,14; 8,10
+@texto
+Eis que chega o Senhor dos senhores;
+e ele será chamado Emanuel, Deus conosco.
+
+@secao Coleta
+@texto
+Ouvi com bondade, ó Senhor,
+as preces do vosso povo,
+para que, alegrando-nos hoje
+com a vinda do vosso Filho Unigênito em nossa carne,
+alcancemos o prêmio da vida eterna,
+quando ele vier em sua glória.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei com bondade, Senhor misericordioso,
+estes dons que destes à vossa Igreja
+para que vos fossem oferecidos;
+o vosso poder os transforme
+em sacramento da nossa salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 1,45
+@texto
+Feliz és tu que acreditaste,
+porque se cumprirá o que te foi dito da parte do Senhor.
+
+@secao Depois da comunhão
+@texto
+Ó Senhor, que a participação nestes divinos mistérios
+fortaleça sempre o vosso povo
+para que, dedicando-se ao vosso serviço,
+receba a plenitude da salvação.
+Por Cristo, nosso Senhor.

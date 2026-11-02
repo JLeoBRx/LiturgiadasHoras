@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/2sextaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 30,2.5
+@texto
+Senhor, eu ponho em vós minha esperança;
+que eu não fique envergonhado eternamente!
+Retirai-me desta rede traiçoeira,
+porque sois o meu refúgio protetor!
+
+@secao Coleta
+@texto
+Purificai-nos, ó Deus todo-poderoso,
+para que, pelo fervor da penitência quaresmal,
+cheguemos de coração sincero
+à Páscoa que se aproxima.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Nós vos pedimos, ó Deus,
+que a vossa misericórdia prepare os vossos fiéis
+e os leve, por uma vida santa,
+à plenitude dos mistérios que celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | 1Jo 4,10
+@texto
+Deus nos amou e enviou o seu Filho
+como vítima de reparação pelos nossos pecados.
+
+@secao Depois da comunhão
+@texto
+Dai-nos, Senhor, caminhar de tal modo,
+que possamos alcançar a salvação eterna,
+cujo penhor acabamos de receber.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Concedei, Senhor, ao vosso povo
+a saúde da mente e do corpo
+para que, dedicando-se às boas obras,
+mereça sempre ser defendido
+pela vossa proteção.
+Por Cristo, nosso Senhor.

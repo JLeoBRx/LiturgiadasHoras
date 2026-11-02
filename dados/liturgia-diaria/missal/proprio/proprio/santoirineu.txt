@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoirineu.htm
+
+@secao Antífona da entrada
+@texto
+A lei da verdade estava em sua boca,
+e maldade não se achava em seus lábios.
+Na paz e na justiça caminhou comigo,
+e a muitos ele afastou da iniquidade.
+
+@secao Coleta
+@texto
+Ó Deus, concedestes ao bispo Santo Irineu
+firmar de modo feliz a verdadeira doutrina e a paz da Igreja;
+concedei, por sua intercessão,
+que, renovados pela fé e pela caridade,
+nos apliquemos sempre em promover a unidade e a concórdia.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, este sacrifício que vos oferecemos com alegria,
+na comemoração do martírio de Santo Irineu,
+vos glorifique e nos leve a amar a verdade
+para guardarmos íntegra a fé da Igreja
+e inabalável a sua unidade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Permanecei em mim
+e eu permanecerei em vós, diz o Senhor.
+Aquele que permanece em mim e eu nele,
+esse dá muito fruto.
+
+@secao Depois da comunhão
+@texto
+Senhor misericordioso,
+por estes santos mistérios,
+aumentai em nós aquela fé
+que, mantida até à morte,
+coroou de glória o bispo Santo Irineu;
+e concedei-nos também que sejamos justificados,
+vivendo fielmente a mesma fé.
+Por Cristo, nosso Senhor.

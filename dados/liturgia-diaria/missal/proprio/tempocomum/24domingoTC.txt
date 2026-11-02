@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/24domingoTC.htm
+
+@secao Antífona da entrada | Cf. Eco 36,18
+@texto
+Dai paz, Senhor, aos que em vós esperam,
+para confirmar a veracidade dos vossos profetas;
+escutai as preces do vosso servo e vosso povo Israel.
+
+@secao Coleta
+@texto
+Ó Deus, vós que criais e governais todas as coisas,
+volvei para nós o vosso olhar
+e, para sentirmos a ação da vossa misericórdia,
+dai-nos a graça de vos servir de todo o coração.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Inclinai-vos, Senhor, às nossas súplicas
+e acolhei benigno as oferendas dos vossos fiéis,
+a fim de que os dons,
+que cada um trouxe em vossa honra,
+sirvam à salvação de todos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 35,18
+@texto
+Quão preciosa é vossa misericórdia, Senhor!
+Os filhos dos homens refugiam-se
+à sombra das vossas asas.
+{Ou:}{Cf. 1Cor 10,16}
+O cálice de bênção que abençoamos
+é a comunhão no Sangue de Cristo;
+e o pão que partimos
+é a participação no Corpo do Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, o vosso dom celeste
+penetre nossas mentes e nossos corpos,
+para que em nós prevaleça sempre, não o sentimento,
+mas a força deste sacramento.
+Por Cristo, nosso Senhor.

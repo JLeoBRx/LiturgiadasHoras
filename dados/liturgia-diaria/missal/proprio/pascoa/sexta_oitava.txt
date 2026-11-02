@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/sexta_oitava.htm
+
+@secao Antífona da entrada | Sl 77,53
+@texto
+O Senhor conduziu o seu povo na esperança,
+e o mar cobriu seus inimigos, aleluia.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que nos destes o sacramento da Páscoa
+para reconciliar a humanidade na aliança convosco,
+concedei-nos realizar na vida
+o que na liturgia proclamamos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor de bondade,
+aperfeiçoai em nós o sublime intercâmbio
+simbolizado pelas oferendas pascais,
+para que passemos dos afetos terrenos
+aos desejos do céu.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 21,12-13
+@texto
+Disse Jesus a seus discípulos: Vinde, comei!
+E tomou o pão e lhes deu, aleluia.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor:
+guardai em vosso constante amor os que salvastes,
+para que, redimidos pela paixão do vosso Filho,
+se alegrem com a sua ressurreição.
+Por Cristo, nosso Senhor.

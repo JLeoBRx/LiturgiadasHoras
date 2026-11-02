@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/2quintaPA.htm
+
+@secao Antífona da entrada | Cf. Sl 67,8-9.20
+@texto
+Ó Deus, quando saístes com o povo,
+caminhando à sua frente, habitando no meio deles,
+a terra estremeceu e orvalhou o próprio céu, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, que aceitastes o sacrifício pascal
+para a salvação do mundo,
+atendei as súplicas do vosso povo:
+que Cristo, nosso Pontífice, interceda por nós;
+em sua natureza humana, nos reconcilie,
+e, em sua natureza divina, nos alcance o perdão.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Subam até vós, Senhor, nossas preces
+com as oferendas para o sacrifício,
+a fim de que, purificados por vossa graça,
+sejamos dignos dos sacramentos do vosso grande amor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 28,20
+@texto
+Eis que estarei convosco todos os dias até o fim do mundo, aleluia.
+
+@secao Depois da comunhão
+@texto
+Deus eterno e todo-poderoso,
+pela ressurreição de Cristo nos recriais para a vida eterna,
+fazei frutificar em nós o sacramento pascal
+e infundi em nossos corações
+a força deste alimento salutar.
+Por Cristo, nosso Senhor.

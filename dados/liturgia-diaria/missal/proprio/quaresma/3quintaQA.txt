@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/3quintaQA.htm
+
+@secao Antífona da entrada
+@texto
+A salvação do povo sou eu, diz o Senhor:
+de qualquer tribulação em que clamarem por mim,
+eu os ouvirei e serei seu Deus para sempre.
+
+@secao Coleta
+@texto
+Ó Deus onipotente, suplicantes imploramos a vossa majestade:
+à medida que se aproxima a festa da salvação,
+nos preparemos, com maior empenho,
+para celebrar o mistério pascal.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, para que a oferenda do vosso povo
+possa agradar-vos,
+purificai-nos de todo contágio do mal;
+e não nos deixeis ser seduzidos por falsas alegrias,
+pois nos prometestes chegar
+ao prêmio da vossa verdade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 118,4-5
+@texto
+Os vossos mandamentos vós nos destes,
+para serem fielmente observados.
+Oxalá seja bem firme a minha vida
+em cumprir vossa vontade e vossa lei!
+
+@secao Depois da comunhão
+@texto
+Sustentai, Senhor de bondade, com vosso auxílio,
+os que reconfortais com os sacramentos,
+para podermos colher os frutos da salvação
+na liturgia e na vida.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Imploramos, Senhor, a vossa clemência,
+confiantes em vossa misericórdia.
+Assim como de vós procede o nosso ser,
+também, por vossa graça,
+possamos realizar o bem que desejamos.
+Por Cristo, nosso Senhor.

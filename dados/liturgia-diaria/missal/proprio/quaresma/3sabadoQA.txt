@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/3sabadoQA.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Sl 102,2-3
+@texto
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+Pois ele te perdoa toda culpa.
+
+@secao Coleta
+@texto
+Alegrando-nos com a celebração anual da Quaresma,
+nós vos pedimos, Senhor,
+que, participando com fervor dos sacramentos pascais,
+possamos colher com alegria todos os seus frutos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, por vossa graça podemos nos aproximar
+dos santos mistérios de coração purificado.
+Concedei, nós vos pedimos, que vos rendamos o devido louvor
+ao celebrarmos solenemente a sagrada liturgia.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 18,13
+@texto
+O cobrador de impostos, porém, ficou à distância
+e nem se atrevia a levantar os olhos para o céu;
+mas batia no peito, dizendo:
+Meu Deus, tem piedade de mim que sou pecador!
+
+@secao Depois da comunhão
+@texto
+Deus de misericórdia, que sem cessar
+nos alimentais com os santos mistérios,
+concedei-nos celebrá-los dignamente
+e recebê-los sempre com fé.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Estendei, Senhor, sobre os vossos fiéis
+a vossa mão protetora,
+para que vos busquem de todo o coração
+e mereçam conseguir o que vos pedem.
+Por Cristo, nosso Senhor.

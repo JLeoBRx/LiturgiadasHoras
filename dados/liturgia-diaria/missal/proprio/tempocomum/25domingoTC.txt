@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/25domingoTC.htm
+
+@secao Antífona da entrada
+@texto
+A salvação do povo sou eu, diz o Senhor:
+de qualquer tribulação em que clamarem por mim,
+eu os ouvirei e serei seu Deus para sempre.
+
+@secao Coleta
+@texto
+Ó Deus, que resumistes toda a sagrada lei
+no amor a vós e ao próximo,
+concedei-nos que, observando os vossos mandamentos,
+mereçamos chegar à vida eterna.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei benigno, Senhor, nós vos pedimos,
+as oferendas do vosso povo,
+para que alcancemos pelos celestes sacramentos
+o que professamos filialmente pela fé.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 118,4-5
+@texto
+Os vossos mandamentos vós nos destes,
+para serem fielmente observados.
+Que seja bem firme a minha vida
+em cumprir vossa vontade e vossa lei!
+{Ou:}{Jo 10,14}
+Eu sou o bom pastor.
+Conheço as minhas ovelhas,
+e elas me conhecem, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Sustentai, Senhor de bondade,
+com vosso constante auxílio,
+os que reconfortais com os vossos sacramentos,
+para podermos colher os frutos da redenção
+na liturgia e na vida.
+Por Cristo, nosso Senhor.
