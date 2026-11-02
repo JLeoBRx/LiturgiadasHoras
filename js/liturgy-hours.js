@@ -295,8 +295,11 @@ export function resolverHora(cal, dia, hora, opcaoId) {
     const amanha = cal.dia(cal.proximo(dia.data));
     const cA = amanha.celebracao;
     const pHoje = cel.escolhida ? 12 : (cel.precedencia ?? 13);
-    // empate: no sábado vence o domingo; em 24/12 vence o Natal
-    const empateVence = cA && cA.precedencia === pHoje && ((dia.diaSemana === 6 && amanha.diaSemana === 0) || (dia.mes === 12 && dia.dia === 24));
+    // empate: no sábado vence o domingo; em 24/12 vence o Natal.
+    // Exceção: 1º/11 no sábado é Todos os Santos "durante todo o dia" (CNBB),
+    // e os Fiéis Defuntos no domingo 2/11 não tomam as Vésperas do sábado.
+    const empateVence = cA && cA.precedencia === pHoje && cA.grau !== 'comemoracao-defuntos'
+      && ((dia.diaSemana === 6 && amanha.diaSemana === 0) || (dia.mes === 12 && dia.dia === 24));
     if (TEM_I_VESPERAS(cA, amanha) && (cA.precedencia < pHoje || empateVence) && cel.id !== 'sabadosanto') {
       celebracaoDaHora = cA;
       if (hora === 'vesperas') {
@@ -342,7 +345,7 @@ export function resolverHora(cal, dia, hora, opcaoId) {
         }
       } else if (!res) res = f;
     }
-    if (hora === 'vesperas' && (cel.grau === 'solenidade' || dia.diaSemana === 0)) titulo = 'II Vésperas';
+    if (hora === 'vesperas' && (cel.grau === 'solenidade' || (dia.diaSemana === 0 && cel.grau !== 'comemoracao-defuntos'))) titulo = 'II Vésperas';
     // celebração sem textos próprios no acervo (santoral.json: "oficio": null)
     if (semTextosProprios(cel) && celebracaoDaHora === cel && ['leituras', 'laudes', 'vesperas'].includes(hora)) {
       res.notas = [...(res.notas || []), avisoSemTextos(cel)];

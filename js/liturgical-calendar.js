@@ -9,9 +9,15 @@
  * Regras próprias do Brasil consideradas:
  *  - Epifania no domingo entre 2 e 8 de janeiro;
  *  - Ascensão no 7º domingo da Páscoa;
- *  - São Pedro e São Paulo, Assunção e Todos os Santos transferidos para
- *    o domingo seguinte quando caem em dia de semana;
+ *  - Batismo do Senhor no domingo seguinte; se a Epifania cai em 7 ou 8,
+ *    na segunda-feira;
+ *  - Ascensão no 7º domingo da Páscoa;
+ *  - São Pedro e São Paulo no domingo entre 28 de junho e 4 de julho;
+ *  - Assunção no domingo seguinte a 15 de agosto;
+ *  - Todos os Santos no domingo seguinte a 1º de novembro; quando o dia 1º
+ *    é sábado, fica no sábado, pois o domingo, 2/11, é dos Fiéis Defuntos;
  *  - Corpus Christi na quinta-feira.
+ * Conferência com as fontes: ferramentas/testes/REGRAS-DO-BRASIL.md.
  */
 
 const DIA_MS = 86400000;
@@ -243,7 +249,13 @@ export function temporal(n) {
 // ---------------------------------------------------------------- santos
 const SENHOR_FESTAS = new Set(['apresentacao', 'transfiguracao', 'exaltacao', 'latrao']);
 const FESTAS_PROPRIAS = new Set(['santarosa', 'NSGuadalupe', 'NSCarmo']);
-const TRANSFERIDAS_DOMINGO_BR = new Set(['pedroepaulo', 'assuncao', 'todosossantos']);
+// Brasil (CNBB): solenidades celebradas no domingo de uma janela de 7 dias,
+// quando o dia próprio não é domingo. [mês, dia] = primeiro dia da janela.
+const TRANSFERIDAS_DOMINGO_BR = {
+  pedroepaulo: [6, 28],   // domingo entre 28/6 e 4/7
+  assuncao: [8, 16],      // domingo seguinte a 15/8 (16 a 21/8)
+  todosossantos: [11, 2], // domingo seguinte a 1º/11 (2 a 7/11), mas não 2/11
+};
 
 function precedenciaSanto(c) {
   switch (c.grau) {
@@ -288,16 +300,17 @@ export class CalendarioLiturgico {
     }
     // Brasil: transferências para o domingo
     for (const c of colocar) {
-      if (TRANSFERIDAS_DOMINGO_BR.has(c.id) && diaSemana(c.n) !== 0) {
-        c.dataOriginal = c.n;
-        c.n = c.n + (7 - diaSemana(c.n));
-        c.transferida = true;
-      }
+      const janela = TRANSFERIDAS_DOMINGO_BR[c.id];
+      if (!janela || diaSemana(c.n) === 0) continue;
+      const ini = numeroDia(ano, janela[0], janela[1]);
+      const domingo = ini + ((7 - diaSemana(ini)) % 7);
+      // 1º/11 no sábado: o domingo 2/11 é da Comemoração dos Fiéis Defuntos,
+      // e Todos os Santos fica no sábado (orientação da CNBB, 2025)
+      if (c.id === 'todosossantos' && domingo === numeroDia(ano, 11, 2)) continue;
+      c.dataOriginal = c.n;
+      c.n = domingo;
+      c.transferida = true;
     }
-    // Finados: se Todos os Santos foi para 2/11 (domingo), Finados vai para 3/11
-    const ts = colocar.find((c) => c.id === 'todosossantos');
-    const fd = colocar.find((c) => c.id === 'fieisdefuntos');
-    if (ts && fd && ts.n === fd.n) { fd.n += 1; fd.transferida = true; }
 
     // solenidades impedidas
     for (const c of colocar.filter((x) => x.grau === 'solenidade')) {
