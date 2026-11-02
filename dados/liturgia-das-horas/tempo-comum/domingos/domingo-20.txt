@@ -4,7 +4,7 @@
 @secao I Vésperas (Magnificat)
 
 @antifona vesperas-i-A
-A mulher cananéia clamava:
+A mulher cananeia clamava:
 Minha filha está atormentada
 por horrível espírito maligno.
 Tem piedade, ó Filho de Davi!
@@ -20,7 +20,7 @@ e o que quero, senão que ele seja ateado?
 @secao Laudes (Benedictus)
 
 @antifona laudes-A
-A mulher cananéia chegou a Jesus
+A mulher cananeia chegou a Jesus
 e adorou-o, dizendo: Senhor, ajudai-me!
 
 @antifona laudes-B

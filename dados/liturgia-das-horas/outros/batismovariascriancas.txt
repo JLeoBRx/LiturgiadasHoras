@@ -97,7 +97,7 @@ _Proclamação da Palavra_
 
 {Não havendo procissão de entrada, pode-se preparar a escuta da Palavra através de um refrão ou de um canto apropriado. Pode-se também fazer a entrada da Bíblia de acordo com os costumes locais.}
 
-{Na proclamação da Palavra escolham-se uma ou duas das leituras indicadas no _link_ abaixo, levando-se em conta a condição dos pais e da assembléia. Ao menos uma das leituras Seja do Novo Testamento. Entre as leituras pode ser cantado um salmo responsorial adequado e antes do Evangelho, uma aclamação apropriada.}
+{Na proclamação da Palavra escolham-se uma ou duas das leituras indicadas no _link_ abaixo, levando-se em conta a condição dos pais e da assembleia. Ao menos uma das leituras Seja do Novo Testamento. Entre as leituras pode ser cantado um salmo responsorial adequado e antes do Evangelho, uma aclamação apropriada.}
 
 {Na celebração do batismo durante a missa, para a escolha das leituras, sigam-se as orientações referentes ao tempo litúrgico.}
 Leituras
@@ -414,11 +414,11 @@ IV - BATISMO
 
 {Se o batismo for por infusão, convém que a mãe (ou o pai) segure a criança; contudo, onde for conveniente conservar a tradição, a madrinha (ou o padrinho) seguraráa criança. As mesmas pessoas deverão retirá-la da fonte, se o batismo tiver sido feito por imersão.}
 
-{Conforme as circunstâncias, a assembléia ouça as palavras da fórmula batismal de cada um. Se for grande o número de crianças, enquanto são batizadas, a assembléia pode entoar aclamações e cantos, intercalados com momentos de silêncio.}
+{Conforme as circunstâncias, a assembleia ouça as palavras da fórmula batismal de cada um. Se for grande o número de crianças, enquanto são batizadas, a assembleia pode entoar aclamações e cantos, intercalados com momentos de silêncio.}
 
-{A assembléia pode manifestar sua alegria com uma salva de palmas. A família acolhe o neobatizado com um beijo ou outro gesto de afeição.}
+{A assembleia pode manifestar sua alegria com uma salva de palmas. A família acolhe o neobatizado com um beijo ou outro gesto de afeição.}
 
-{Concluído o batismo de todas as crianças, pode-se realizar o rito de aspersão da assembléia. Enquanto isso, canta-se um hino ou um salmo apropriado.}
+{Concluído o batismo de todas as crianças, pode-se realizar o rito de aspersão da assembleia. Enquanto isso, canta-se um hino ou um salmo apropriado.}
 
 @texto
 V - RITOS COMPLEMENTARES
@@ -508,7 +508,7 @@ _Oração do Senhor_
 
 {Se o espaço permitir, faz-se uma procissão para o altar, levando-se acesas as velas dos neófitos e cantando um cântico batismal.}
 
-{Quem preside dirige-se aos pais, padrinhos e à assembléia com estas ou outras palavras:}
+{Quem preside dirige-se aos pais, padrinhos e à assembleia com estas ou outras palavras:}
 **Estas crianças que foram batizadas**
 **são chamadas, em Cristo,**
 **a viver plenamente como filhos e filhas de Deus Pai.**

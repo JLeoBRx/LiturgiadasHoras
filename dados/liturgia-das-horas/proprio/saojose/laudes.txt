@@ -119,7 +119,7 @@ Glória ao Pai. R. Fez dele.
 @secao Cântico evangélico (Benedictus) | Lc 1,68-79
 
 @antifona
-José foi habitar em Nazaré da Galiléia,
+José foi habitar em Nazaré da Galileia,
 para cumprir-se a profecia: Nazareu será chamado.
 
 @salmo canticos/benedictus
@@ -127,7 +127,7 @@ para cumprir-se a profecia: Nazareu será chamado.
 @gloria
 
 @antifona
-José foi habitar em Nazaré da Galiléia,
+José foi habitar em Nazaré da Galileia,
 para cumprir-se a profecia: Nazareu será chamado.
 
 @secao Preces
