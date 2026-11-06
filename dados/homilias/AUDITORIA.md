@@ -16,12 +16,12 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 40 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 15 |
-| Sugestões não aplicadas | 10 |
+| Correções de tradução aplicadas | 68 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 21 |
+| Sugestões não aplicadas | 12 |
 | Dúvidas não resolvidas | 3 |
 | Variantes textuais registradas (texto mantido) | 25 |
-| Homilias conferidas | 12 de 40 |
+| Homilias conferidas | 21 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
@@ -138,6 +138,69 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** Falso cognato: 'conversatio' é o modo de viver, a conduta; 'conversão' seria 'conversio'.
 - **Justificativa teológica ou contextual:** Gregório fala do exemplo da vida que move os outros a louvar a Deus, como o povo que viu o cego seguir Jesus.
 - **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G03-01 · Homilia III · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia III
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 20, § 1 (igual a Migne)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-03.txt`, bloco 4
+- **Texto latino:** Jesus etenim conditor et redemptor noster matrem se nosse dissimulat
+- **Tradução recebida:** “dissimula conhecer sua mãe”
+- **Tradução aplicada:** “finge não conhecer sua mãe”
+- **Justificativa linguística:** 'Se nosse dissimulat' é agir como quem não conhece; em português 'dissimula conhecer' sugere o contrário (esconder que conhece) ou fica obscuro.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G03-02 · Homilia III · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia III
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 21, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-03.txt`, bloco 6
+- **Texto latino:** sic post se timuit vivos in carne relinquere, sicut carnales parentes solent metuere ne mortuos praemittant.
+- **Tradução recebida:** “como os pais carnais costumam temer precedê-los mortos.”
+- **Tradução aplicada:** “como os pais carnais costumam temer que os filhos morram antes deles.”
+- **Justificativa linguística:** 'Ne mortuos praemittant' é 'que os mandem à frente mortos', isto é, que os filhos morram primeiro. A tradução dizia que os pais temem morrer antes dos filhos, o contrário.
+- **Justificativa teológica ou contextual:** O contraste de Gregório: Felicidade temia deixar os filhos vivos depois de si, ao passo que os pais comuns temem vê-los morrer antes.
+- **Motivo:** Sentido invertido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G03-03 · Homilia III · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia III
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 22, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-03.txt`, bloco 6
+- **Texto latino:** Optavit nullum post se relinquere, ne si quem haberet superstitem, non posset habere consortem.
+- **Tradução recebida:** “não pudesse deixar de tê-lo como companheiro.”
+- **Tradução aplicada:** “não pudesse tê-lo como companheiro.”
+- **Justificativa linguística:** O latim diz 'não pudesse tê-lo como companheiro' (no martírio e na glória). 'Deixar de' inverte o sentido.
+- **Motivo:** Sentido invertido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G03-04 · Homilia III · § 3, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia III
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 23, § 3
+- **Localização no texto:** § 3, fim — `dados/homilias/gregorio-magno/recebida/homilia-03.txt`, bloco 6
+- **Texto latino:** pro Christo frequenter occubuit, quia et amori illius sola sua mors minime suffecit.
+- **Tradução recebida:** “porque para o amor dela sua morte sozinha de modo algum bastou.”
+- **Tradução aplicada:** “porque, para o amor d’Ele, a sua morte sozinha de modo algum bastou.”
+- **Justificativa linguística:** 'Illius' não se refere ao sujeito (Felicidade), que seria 'suo', mas a Cristo, nomeado logo antes ('pro Christo'). As duas edições têm 'illius'.
+- **Justificativa teológica ou contextual:** O amor a Cristo é que pede mais do que uma só morte; a tradução fazia do amor dela a medida.
+- **Motivo:** Pronome com referente errado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G04-01 · Homilia IV · § 5, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 31, § 5 (igual a Migne)
+- **Localização no texto:** § 5, início — `dados/homilias/gregorio-magno/recebida/homilia-04.txt`, bloco 8
+- **Texto latino:** Cuncta erga vos vicissim gratis agite.
+- **Tradução recebida:** “Fazei também vós, em relação a tudo, gratuitamente.”
+- **Tradução aplicada:** “Fazei tudo gratuitamente uns para com os outros.”
+- **Justificativa linguística:** 'Erga vos vicissim' é 'uns para com os outros', 'reciprocamente'; a tradução omitiu a reciprocidade e deixou a frase sem objeto claro.
+- **Justificativa teológica ou contextual:** Depois de falar do dom gratuito do ministério, Gregório aplica o 'de graça recebestes, de graça dai' às relações entre os fiéis.
+- **Motivo:** Omissão que deixa o sentido obscuro.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G05-01 · Homilia V · § 1, 1º parágrafo da homilia
@@ -266,6 +329,54 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Erro tipográfico da tradução recebida.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G09-01 · Homilia IX · rubrica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 58 (igual a Migne)
+- **Localização no texto:** rubrica — `dados/homilias/gregorio-magno/recebida/homilia-09.txt`, bloco 0
+- **Texto latino:** Habita ad populum in basilica sancti Silvestri, in die natalis ejus.
+- **Tradução recebida:** “no dia de seu nascimento.”
+- **Tradução aplicada:** “no dia do seu natalício.”
+- **Justificativa linguística:** Para um santo, 'dies natalis' é o dia do nascimento para o céu (a festa), não o do nascimento. A tradução usa 'natalício' nas rubricas das Homilias III e V, com a mesma fórmula latina.
+- **Motivo:** Termo litúrgico mal traduzido; uniformidade com as outras rubricas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G09-02 · Homilia IX · § 1, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 58, § 1 (igual a Migne)
+- **Localização no texto:** § 1, início — `dados/homilias/gregorio-magno/recebida/homilia-09.txt`, bloco 3
+- **Texto latino:** Lectio sancti Evangelii, fratres charissimi, sollicite considerare nos admonet, ne nos, qui plus caeteris in hoc mundo accepisse aliquid cernimur ab auctore mundi, gravius inde judicemur.
+- **Tradução recebida:** “admoesta-nos a considerar com cuidado que nós, que parecemos ter recebido do Autor do mundo algo mais do que os demais neste mundo, por isso mesmo sejamos julgados com mais rigor.”
+- **Tradução aplicada:** “admoesta-nos a considerar com cuidado, para que nós, que parecemos ter recebido do Autor do mundo algo mais do que os demais neste mundo, não sejamos por isso julgados com mais rigor.”
+- **Justificativa linguística:** 'Ne… judicemur' é 'para que não sejamos julgados'. Sem a negação, a frase recebida faz do julgamento mais severo o objeto da reflexão, em vez do risco a evitar.
+- **Motivo:** Omissão da negação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G09-03 · Homilia IX · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 59, § 1 (o aparato registra 'recte docent' em parte dos manuscritos)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-09.txt`, bloco 3
+- **Texto latino:** pro intentione tamen supernae patriae docent recta quos possunt de ipsis exterioribus quae acceperunt
+- **Tradução recebida:** “ensinam retamente, quanto podem,”
+- **Tradução aplicada:** “ensinam retamente a quantos podem,”
+- **Justificativa linguística:** 'Quos possunt' é 'aqueles que podem' (os ouvintes que conseguem alcançar), não 'quanto podem'. 'Retamente' corresponde à variante 'recte' e foi mantido.
+- **Motivo:** Objeto do verbo mal traduzido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G09-04 · Homilia IX · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 60, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-09.txt`, bloco 5
+- **Texto latino:** Notandum quod inutilis servus durum dominum vocat, cui tamen ad lucrum deservire dissimulat
+- **Tradução recebida:** “a cujo proveito, contudo, dissimula servir,”
+- **Tradução aplicada:** “a cujo proveito, contudo, descuida de servir,”
+- **Justificativa linguística:** Falso cognato: 'dissimulare' + infinitivo é deixar de fazer, descuidar-se (como em G02-02).
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G10-02 · Homilia X · § 2
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia X
@@ -302,6 +413,128 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “que nenhuma alegria vã nos seduza”
 - **Justificativa linguística:** As duas orações têm o mesmo objeto, 'nos' (nós). A tradução passou para 'vos' na segunda, separando o pregador dos ouvintes.
 - **Motivo:** Alteração da pessoa gramatical.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G11-01 · Homilia XI · § 2, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 75, § 2 (igual a Migne)
+- **Localização no texto:** § 2, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 5
+- **Texto latino:** Nam quem perfecte absorbuerit, ad terrena foris desideria velut insensibilem reddit.
+- **Tradução recebida:** “Pois aquele a quem ela tiver absorvido perfeitamente torna como insensível aos desejos terrenos exteriores.”
+- **Tradução aplicada:** “Pois aquele a quem ela tiver absorvido perfeitamente, ela o torna como insensível aos desejos terrenos exteriores.”
+- **Justificativa linguística:** Faltava o objeto de 'torna' ('quem… reddit': torna-o); sem ele a frase fica sem construção.
+- **Motivo:** Construção incompleta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-01 · Homilia XII · § 6, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 86, § 6 (igual a Migne)
+- **Localização no texto:** § 6, início — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 9
+- **Texto latino:** Quia post peccata Deus poenitentiam suscipit, si sciret quisque de praesenti saeculo quo tempore exiret, aliud tempus voluptatibus, atque aliud poenitentiae aptare potuisset.
+- **Tradução recebida:** “Porque, se cada um soubesse em que tempo sairia deste mundo,”
+- **Tradução aplicada:** “Porque Deus acolhe a penitência depois dos pecados, se cada um soubesse em que tempo sairia deste mundo,”
+- **Justificativa linguística:** A oração 'Quia post peccata Deus poenitentiam suscipit' foi omitida; sem ela, falta a premissa do raciocínio (justamente porque há perdão depois do pecado, alguém poderia calcular o tempo da penitência).
+- **Justificativa teológica ou contextual:** A frase seguinte ('Aquele que prometeu perdão ao penitente não prometeu o dia de amanhã ao pecador') responde a essa premissa.
+- **Motivo:** Omissão de uma oração do original.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-02 · Homilia XII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
+- **Texto latino:** filiumque suum nomine Maximum, quem ipse jam monachus monachum vidi
+- **Tradução recebida:** “a quem eu mesmo, depois de monge, vi também monge,”
+- **Tradução aplicada:** “a quem eu mesmo, já monge, vi também monge,”
+- **Justificativa linguística:** 'Jam monachus' é 'já sendo monge'; 'depois de monge' é ambíguo e pode ser lido como 'depois de deixar de ser monge'.
+- **Motivo:** Expressão ambígua.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G13-01 · Homilia XIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 89
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-13.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XII, 35-40.
+- **Tradução recebida:** “Lucas XII, 35-40.”
+- **Tradução aplicada:** “Lucas 12, 35-40.”
+- **Justificativa linguística:** Capítulo em algarismos arábicos, como nos títulos das outras 39 homilias da tradução.
+- **Motivo:** Uniformidade da identificação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G13-02 · Homilia XIII · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 93, § 5 (igual a Migne)
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-13.txt`, bloco 8
+- **Texto latino:** Ignoras quoniam benignitas Dei ad poenitentiam te adducit? (Rom. II, 4)
+- **Tradução recebida:** “Ou desprezas que a bondade de Deus te conduz à penitência?”
+- **Tradução aplicada:** “Ignoras que a bondade de Deus te conduz à penitência?”
+- **Justificativa linguística:** Gregório cita só a segunda metade de Rm 2,4: 'Ignoras' (não sabes). 'Desprezas' vem da primeira metade do versículo ('contemnis'), que ele não cita, e não combina com o 'que'.
+- **Motivo:** Citação bíblica trocada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G13-03 · Homilia XIII · § 6
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 94, § 6 (igual a Migne)
+- **Localização no texto:** § 6 — `dados/homilias/gregorio-magno/recebida/homilia-13.txt`, bloco 9
+- **Texto latino:** Et cum certa mors maneat omnibus, nolite de temporalis vitae providentia incerta cogitare.
+- **Tradução recebida:** “não penseis de modo incerto no provimento da vida temporal.”
+- **Tradução aplicada:** “não penseis no provimento incerto da vida temporal.”
+- **Justificativa linguística:** 'Incerta' concorda com 'providentia': o provimento da vida temporal é que é incerto, em contraste com a morte certa ('certa mors').
+- **Motivo:** Adjetivo transformado em advérbio; perde-se o contraste certo/incerto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G15-01 · Homilia XV · § 2, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 104, § 2 (igual a Migne)
+- **Localização no texto:** § 2, início — `dados/homilias/gregorio-magno/recebida/homilia-15.txt`, bloco 4
+- **Texto latino:** Et quasi acceptus cibus stomacho languente rejicitur, quando auditus sermo in ventre memoriae non tenetur. Sed quisquis alimenta non retinet, hujus profecto vita desperatur.
+- **Tradução recebida:** “E, assim como o alimento recebido é rejeitado por um estômago enfermo quando a palavra ouvida não é conservada no ventre da memória, assim também, de quem não retém o alimento, certamente se desespera a vida.”
+- **Tradução aplicada:** “E é como se o alimento recebido fosse rejeitado por um estômago enfermo, quando a palavra ouvida não é conservada no ventre da memória. Ora, de quem não retém os alimentos, certamente se desespera da vida.”
+- **Justificativa linguística:** São duas frases no latim: a comparação ('quasi… rejicitur, quando… non tenetur') e a consequência ('Sed quisquis… desperatur'). A tradução as fundiu num 'assim como… assim também' que não tem sentido.
+- **Motivo:** Construção que desfaz o raciocínio.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G15-02 · Homilia XV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 104, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-15.txt`, bloco 4
+- **Texto latino:** Sed qui cunctis aures habentibus Si quis habet aures audiendi audiat dicit, aures procul dubio cordis requirit.
+- **Tradução recebida:** “Mas Aquele que, a todos tendo ouvidos, diz:”
+- **Tradução aplicada:** “Mas Aquele que diz a todos os que têm ouvidos:”
+- **Justificativa linguística:** 'Cunctis aures habentibus' é um dativo: 'a todos os que têm ouvidos'. A construção recebida não se entende.
+- **Motivo:** Construção incompreensível.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G15-03 · Homilia XV · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 106, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-15.txt`, bloco 6
+- **Texto latino:** Sic oliva contusionibus expressa amurcam suam deserit, et in olei liquorem pinguescit.
+- **Tradução recebida:** “Assim a oliveira, espremida por golpes,”
+- **Tradução aplicada:** “Assim a azeitona, espremida por golpes,”
+- **Justificativa linguística:** 'Oliva' aqui é o fruto (espremido no lagar, como a uva antes), não a árvore.
+- **Motivo:** Palavra errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G15-04 · Homilia XV · § 5, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 108, § 5 (igual a Migne)
+- **Localização no texto:** § 5, fim — `dados/homilias/gregorio-magno/recebida/homilia-15.txt`, bloco 7
+- **Texto latino:** cui longus languor brachia tenuit, sed tamen haec a bono opere non ligavit?
+- **Tradução recebida:** “mas não os ligou à boa obra?”
+- **Tradução aplicada:** “mas não os prendeu longe da boa obra?”
+- **Justificativa linguística:** 'A bono opere non ligavit' é 'não os amarrou de modo a afastá-los da boa obra' (a preposição 'a' indica separação). 'Não os ligou à boa obra' diz o contrário.
+- **Justificativa teológica ou contextual:** O exemplo de Sérvulo é justamente o de quem, paralítico, continuou a fazer o bem.
+- **Motivo:** Sentido invertido.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G16-01 · Homilia XVI · § 1
@@ -352,6 +585,114 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** A tradução omitiu 'afflictis et paenitentibus', que qualifica 'nobis'. O aparato não registra omissão em nenhum manuscrito.
 - **Justificativa teológica ou contextual:** A condição do perdão (a penitência e a aflição de quem jejua) é o tema do parágrafo; a omissão a apagava da frase conclusiva.
 - **Motivo:** Omissão de uma expressão.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-01 · Homilia XVII · § 5, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 120, § 5 (igual a Migne)
+- **Localização no texto:** § 5, fim — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 8
+- **Texto latino:** Omnis vero qui salutat in via, ex occasione salutat itineris, non ex studio optandae ejusdem salutis. Qui igitur non amore aeternae patriae, sed praemiorum ambitu salutem audientibus praedicat…
+- **Tradução recebida:** “não pelo desejo de saudar de fato.”
+- **Tradução aplicada:** “não pelo empenho de desejar essa mesma salvação.”
+- **Justificativa linguística:** Gregório joga com 'salutare' (saudar) e 'salus' (saúde, salvação): quem saúda de passagem não deseja de fato a 'salus' que a saudação exprime. A frase seguinte ('prega a salvação', 'deseja a salvação dos ouvintes') depende dessa palavra, que a tradução tinha eliminado.
+- **Motivo:** Perda do termo em que se apoia o raciocínio.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-02 · Homilia XVII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 121, § 7: 'Verus ergo quisque praedicator'
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 10
+- **Texto latino:** Vetus ergo quisque praedicator non ideo praedicare debet, ut in hoc tempore mercedem recipiat (Migne, na transcrição do Corpus Corporum)
+- **Tradução recebida:** “Portanto, todo pregador reto não deve”
+- **Tradução aplicada:** “Portanto, todo verdadeiro pregador não deve”
+- **Justificativa linguística:** A transcrição de Migne usada como base traz 'Vetus' (velho), erro evidente de leitura de 'Verus' (verdadeiro), que é o texto crítico. A tradução recebida contornou o erro com 'reto'; o latim diz 'verdadeiro'.
+- **Motivo:** Erro na transcrição latina de base; tradução ajustada ao texto correto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-03 · Homilia XVII · § 8–9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 124, § 9
+- **Localização no texto:** § 8–9 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** Quis ergo venturum judicem nuntiet, si praeco tacet? 9. Proinde considerandum nobis est…
+- **Tradução recebida:** “se o anunciador se cala? 9. Portanto,”
+- **Tradução aplicada:** “se o anunciador se cala? ¶ Portanto,”
+- **Justificativa linguística:** O número '9.' é a numeração dos parágrafos de Migne, que ficou solta no meio do texto português. Retirado o número, o parágrafo é separado onde Migne o separa.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-04 · Homilia XVII · § 9–10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 125, § 10
+- **Localização no texto:** § 9–10 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** qui praedicationis verbum non subtrahit. 10. Sed tunc vere aliis recta praedicamus…
+- **Tradução recebida:** “da pregação. 10. Mas então”
+- **Tradução aplicada:** “da pregação. ¶ Mas então”
+- **Justificativa linguística:** Mesma razão de G17-03.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-05 · Homilia XVII · § 10–11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 126, § 11
+- **Localização no texto:** § 10–11 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** quasi in labro de speculis mulierum lavamur. 11. Est autem valde necessarium…
+- **Tradução recebida:** “espelhos das mulheres. 11. É, porém,”
+- **Tradução aplicada:** “espelhos das mulheres. ¶ É, porém,”
+- **Justificativa linguística:** Mesma razão de G17-03.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-06 · Homilia XVII · § 11–12
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 127, § 12
+- **Localização no texto:** § 11–12 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** ex amore veritatis animus inflammatur. 12. Sed inter haec sciendum nobis est…
+- **Tradução recebida:** “e para com o próximo. 12. Mas, em meio”
+- **Tradução aplicada:** “e para com o próximo. ¶ Mas, em meio”
+- **Justificativa linguística:** Mesma razão de G17-03.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-07 · Homilia XVII · § 12–13
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 128, § 13
+- **Localização no texto:** § 12–13 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** zelus districtionis accendat. 13. Sed ista cur loquimur…
+- **Tradução recebida:** “talvez frouxa. 13. Mas por que”
+- **Tradução aplicada:** “talvez frouxa. ¶ Mas por que”
+- **Justificativa linguística:** Mesma razão de G17-03.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-09 · Homilia XVII · § 12
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 128, § 12 (igual a Migne)
+- **Localização no texto:** § 12 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** ut et iram mansuetudo condiat, et eamdem mansuetudinem, ne fortasse dissoluta sit, zelus districtionis accendat.
+- **Tradução recebida:** “e o mesmo zelo da severidade inflame essa mansidão”
+- **Tradução aplicada:** “e o zelo da severidade inflame essa mesma mansidão”
+- **Justificativa linguística:** 'Eamdem' concorda com 'mansuetudinem' (essa mesma mansidão), não com 'zelus'.
+- **Motivo:** Pronome ligado à palavra errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-11 · Homilia XVII · oração final
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 134 (igual a Migne)
+- **Localização no texto:** oração final — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 19
+- **Texto latino:** praesta, quaesumus, ut hoc quod humano ore dicimur, in tuis oculis esse valeamus.
+- **Tradução recebida:** “possamos valer por sê-lo aos teus olhos”
+- **Tradução aplicada:** “possamos sê-lo aos teus olhos”
+- **Justificativa linguística:** 'Esse valeamus' é simplesmente 'possamos ser'; 'valer por sê-lo' é decalque sem sentido em português.
+- **Motivo:** Construção que obscurece a oração.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G21-01 · Homilia XXI · § 1
@@ -559,6 +900,78 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Problema da fonte: artefato e junção indevida de parágrafos.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G12-04 · Homilia XII · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 83, § 3
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 6
+- **Texto latino:** Dies Domini sicut fur in nocte ita veniet (I Thess. V, 2).
+- **Tradução recebida:** “(1 Tess. 5, 2)”
+- **Tradução aplicada:** “(1Ts 5,2)”
+- **Justificativa linguística:** Referência no formato usado em todo o resto da tradução (abreviatura sem ponto, capítulo e versículo com vírgula).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-05 · Homilia XII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 85, § 4
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 7
+- **Texto latino:** Ecce nunc tempus acceptabile, ecce nunc dies salutis (II Cor. VI, 2).
+- **Tradução recebida:** “(2 Cor 6, 2)”
+- **Tradução aplicada:** “(2Cor 6,2)”
+- **Justificativa linguística:** Mesma uniformização de G12-04.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-03 · Homilia XII · § 7, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 88, § 7 (no texto crítico não há referência; a de Migne é 'Exod. VI')
+- **Localização no texto:** § 7, fim — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
+- **Texto latino:** Per legis quippe mandatum ambulare longius Sabbato non licet (Exod. VI)
+- **Tradução recebida:** “(Ex 6)”
+- **Tradução aplicada:** “(Ex 16,29)”
+- **Justificativa linguística:** A referência é editorial, não de Gregório. Êxodo 6 não trata do sábado; a proibição de sair do lugar no sétimo dia está em Ex 16,29 ('nullus egrediatur de loco suo die septimo'). Migne traz 'Exod. VI', provável erro de impressão.
+- **Motivo:** Referência bíblica errada na edição de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G14-01 · Homilia XIV · § 5 (numerado '3' em Migne)
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 100, § 5
+- **Localização no texto:** § 5 (numerado '3' em Migne) — `dados/homilias/gregorio-magno/recebida/homilia-14.txt`, bloco 7
+- **Texto latino:** Per me si quis introierit, salvabitur, et ingredietur, et egredietur, et pascua inveniet (Ibid., 9).
+- **Tradução recebida:** “(ibid., 9)”
+- **Tradução aplicada:** “(Jo 10,9)”
+- **Justificativa linguística:** A referência editorial 'Ibid.' remete a Jo 10, citado logo antes. No texto em português, onde as outras referências vêm por extenso, 'ibid.' fica obscuro.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-08 · Homilia XVII · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 124, § 9
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 11
+- **Texto latino:** Animalia tua habitabunt in ea (Psal. LXVII, 11).
+- **Tradução recebida:** “habitarão nela Sl 67,11.”
+- **Tradução aplicada:** “habitarão nela (Sl 67,11).”
+- **Justificativa linguística:** Referência bíblica solta no texto, sem parênteses, como em nenhum outro lugar da tradução.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-10 · Homilia XVII · § 15
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 131, § 15
+- **Localização no texto:** § 15 — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 14
+- **Texto latino:** Quomodo obscuratum est aurum… (Thren. IV, 1.)
+- **Tradução recebida:** “(Lm 4 Lm 1.)”
+- **Tradução aplicada:** “(Lm 4,1.)”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa ('Lm 4 Lm 1').
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G26-03 · Homilia XXVI · § 5
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
@@ -764,6 +1177,30 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “os coros dos anjos cantam em uníssono com a sua voz”
 - **Justificativa linguística:** 'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.
 - **Motivo:** Perda da imagem do canto. Duas leituras possíveis; não aplicado.
+- **Grau de segurança:** moderada · **estado:** não aplicada
+
+#### G11-02 · Homilia XI · § 4, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 79
+- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 8
+- **Texto latino:** Quidquid in mente pueriliter hilarescit, hoc disciplinae juvenilis censura coerceat
+- **Tradução recebida:** “contenha-o a censura de uma disciplina madura”
+- **Tradução proposta:** “contenha-o a censura de uma disciplina juvenil”
+- **Justificativa linguística:** 'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.
+- **Motivo:** Imagem alterada sem prejuízo grave do sentido.
+- **Grau de segurança:** moderada · **estado:** não aplicada
+
+#### G12-06 · Homilia XII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
+- **Texto latino:** vir valde idoneus, sed tantum plenus vitiis, quantum rebus
+- **Tradução recebida:** “homem muito capaz,”
+- **Tradução proposta:** “homem muito abastado,”
+- **Justificativa linguística:** No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.
+- **Motivo:** Sentido provável diferente do adotado; não há segurança para aplicar.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G16-05 · Homilia XVI · § 5
