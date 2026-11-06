@@ -16,12 +16,12 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 68 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 21 |
-| Sugestões não aplicadas | 12 |
-| Dúvidas não resolvidas | 3 |
+| Correções de tradução aplicadas | 81 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 30 |
+| Sugestões não aplicadas | 13 |
+| Dúvidas não resolvidas | 4 |
 | Variantes textuais registradas (texto mantido) | 25 |
-| Homilias conferidas | 21 de 40 |
+| Homilias conferidas | 24 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
@@ -695,6 +695,163 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Construção que obscurece a oração.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G18-02 · Homilia XVIII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 140, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-18.txt`, bloco 6
+- **Texto latino:** qui si divinitatis suae potentiam exercere voluisset, tacito nutu mentis in suis eos ictibus ligaret
+- **Tradução recebida:** “os prenderia sob seus golpes”
+- **Tradução aplicada:** “os prenderia em seus próprios golpes”
+- **Justificativa linguística:** 'In suis ictibus' são os golpes dos próprios perseguidores (os imobilizaria no ato de atirar as pedras); 'sob seus golpes' sugere golpes de Cristo.
+- **Motivo:** Possessivo com referente ambíguo que leva ao sentido errado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G18-03 · Homilia XVIII · § 5, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 141, § 5 (igual a Migne)
+- **Localização no texto:** § 5, fim — `dados/homilias/gregorio-magno/recebida/homilia-18.txt`, bloco 7
+- **Texto latino:** Ecce sustinet, et ejus patientiam dissimulamus.
+- **Tradução recebida:** “e dissimulamos sua paciência”
+- **Tradução aplicada:** “e não fazemos caso da sua paciência”
+- **Justificativa linguística:** Falso cognato: 'dissimulare' é aqui desconsiderar, não fazer caso (como em G02-02 e G09-04); 'dissimular a paciência' não tem sentido em português.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-01 · Homilia XIX · fim da leitura e início do § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 142–143
+- **Localização no texto:** fim da leitura e início do § 1 — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 3
+- **Texto latino:** Multi enim sunt vocati, pauci vero electi. [1510] 1. In explanatione sua multa ad loquendum…
+- **Tradução recebida:** “mas poucos, eleitos. 1510 1. Em sua”
+- **Tradução aplicada:** “mas poucos, eleitos. ¶ Em sua”
+- **Justificativa linguística:** Na tradução recebida, a leitura do Evangelho e o começo da homilia estavam no mesmo bloco, separados apenas pelo número de coluna de Migne ('1510') e pelo número do parágrafo ('1.'). Os números são retirados e a homilia passa a começar em parágrafo próprio, como em todas as outras.
+- **Motivo:** Artefatos da edição de base e leitura unida ao texto da homilia.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-02 · Homilia XIX · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 143, § 1
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 3
+- **Texto latino:** ad extremum vero per apostolos, [1511] dum plebis suae mores excoluit
+- **Tradução recebida:** “apóstolos, 1511 enquanto”
+- **Tradução aplicada:** “apóstolos, enquanto”
+- **Justificativa linguística:** '1511' é número de coluna de Migne, solto no texto.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-03 · Homilia XIX · § 1, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 143, § 1 (igual a Migne)
+- **Localização no texto:** § 1, início — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 3
+- **Texto latino:** ne vos et extensa processio, et prolixa expositio videatur onerare
+- **Tradução recebida:** “nem a sequência mais extensa,”
+- **Tradução aplicada:** “nem a procissão demorada,”
+- **Justificativa linguística:** 'Processio' é a procissão estacional que precedia a missa (a homilia foi pregada na basílica de São Lourenço, no fim da procissão), não uma 'sequência'.
+- **Justificativa teológica ou contextual:** O dado é histórico e litúrgico: Gregório encurta a homilia por causa da longa procissão daquele domingo.
+- **Motivo:** Palavra mal traduzida; perde-se um dado litúrgico.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-07 · Homilia XIX · § 7, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 152
+- **Localização no texto:** § 7, fim — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 9
+- **Texto latino:** Revocemus ergo ante oculos mala quae fecimus
+- **Tradução recebida:** “Tragamamos”
+- **Tradução aplicada:** “Tragamos”
+- **Justificativa linguística:** Erro de digitação.
+- **Motivo:** Ortografia.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-01 · Homilia XX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 153
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. III, 1-11.
+- **Tradução recebida:** “LIÇÃO DO SANTO EVANGELHO SEGUNDO LUCAS III, 1-11.”
+- **Tradução aplicada:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS 3, 1-11.”
+- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com fórmula e numeração diferentes das demais homilias ('Lição', capítulo em algarismos romanos). Passa a título da leitura, na forma usada em toda a tradução.
+- **Motivo:** Organização e uniformidade da identificação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-02 · Homilia XX · fim da leitura e início do § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 154, § 1
+- **Localização no texto:** fim da leitura e início do § 1 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 3
+- **Texto latino:** et qui habet escas similiter faciat. [1516] 1. Redemptoris nostri praecursor…
+- **Tradução recebida:** “faça do mesmo modo. 1516 1. Em que tempo”
+- **Tradução aplicada:** “faça do mesmo modo. ¶ Em que tempo”
+- **Justificativa linguística:** A leitura do Evangelho e o § 1 estavam num só parágrafo, separados pelo número de coluna de Migne ('1516') e pelo número do parágrafo. Os números são retirados; a leitura passa a bloco de leitura e a homilia começa em parágrafo próprio.
+- **Motivo:** Artefatos da edição de base; leitura unida ao texto da homilia.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-03 · Homilia XX · § 2–3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 155, § 3
+- **Localização no texto:** § 2–3 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 4
+- **Texto latino:** Sequitur: 3. Sicut scriptum est in libro sermonum Isaiae prophetae
+- **Tradução recebida:** “Segue-se: 3. Como”
+- **Tradução aplicada:** “Segue-se: Como”
+- **Justificativa linguística:** Número de parágrafo de Migne solto no texto (aqui depois de 'Segue-se:', por isso sem nova divisão).
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-10 · Homilia XX · § 12, citação de Is 41,18-20
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 165 (igual a Migne)
+- **Localização no texto:** § 12, citação de Is 41,18-20 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 14
+- **Texto latino:** dabo in solitudine cedrum et spinam, myrtum et lignum olivae; ponam in deserto abietem, ulmum et buxum simul
+- **Tradução recebida:** “o cedro e a acácia”
+- **Tradução aplicada:** “o cedro e o espinheiro”
+- **Justificativa linguística:** Gregório cita a Vulgata ('spinam') e, logo em seguida, comenta o espinheiro como figura dos pregadores que 'pungem'. 'Acácia' vem de tradução moderna do hebraico e desfaz a ligação; a própria tradução usa 'espinheiro' no comentário.
+- **Motivo:** Citação bíblica em versão diferente da que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-11 · Homilia XX · § 12, citação de Is 41,18-20
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 165 (igual a Migne)
+- **Localização no texto:** § 12, citação de Is 41,18-20 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 14
+- **Texto latino:** ponam in deserto abietem, ulmum et buxum simul
+- **Tradução recebida:** “o cipreste, o olmo”
+- **Tradução aplicada:** “o abeto, o olmo”
+- **Justificativa linguística:** 'Abies' é o abeto; Gregório o comenta pela altura que alcança, e a própria tradução usa 'abeto' no comentário.
+- **Motivo:** Citação bíblica em versão diferente da que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-12 · Homilia XX · § 13
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 166, § 13 (igual a Migne)
+- **Localização no texto:** § 13 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 15
+- **Texto latino:** Myrtus vero temperativae virtutis est, ita ut dissoluta membra temperando restringat.
+- **Tradução recebida:** “é símbolo da virtude da moderação, de tal sorte que, refreando,”
+- **Tradução aplicada:** “tem uma força que tempera, de tal sorte que, temperando,”
+- **Justificativa linguística:** 'Virtus' é aqui a propriedade medicinal da planta (adstringente), não a virtude moral; Gregório parte da propriedade natural para chegar ao sentido figurado, que vem na frase seguinte.
+- **Motivo:** Sentido alterado: a propriedade natural virou símbolo moral antes do tempo.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-13 · Homilia XX · § 15
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 169, § 15 (igual a Migne)
+- **Localização no texto:** § 15 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 17
+- **Texto latino:** Latro iste, cruentis manibus abstractus a fauce itineris, suspensus est in patibulo crucis
+- **Tradução recebida:** “da voragem do caminho”
+- **Tradução aplicada:** “da garganta da estrada”
+- **Justificativa linguística:** 'Fauces itineris' é a passagem estreita da estrada, onde os salteadores emboscavam; 'voragem' (abismo, redemoinho) não corresponde.
+- **Motivo:** Palavra mal traduzida.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G21-01 · Homilia XXI · § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
@@ -972,6 +1129,114 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Referência bíblica desfigurada.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G18-01 · Homilia XVIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 135
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-18.txt`, bloco 1
+- **Texto latino:** LECTIO. EVANG. SEC. JOAN. VIII, 45-69. (Migne)
+- **Tradução recebida:** “João 8, 45-69.”
+- **Tradução aplicada:** “João 8, 46-59.”
+- **Justificativa linguística:** João 8 tem 59 versículos. A leitura vai de 'Quis ex vobis arguet me de peccato?' (8,46) a 'exivit de templo' (8,59), referência dada também pelo índice da tradução de Hurst. '45-69' é erro da edição de Migne, copiado pela tradução.
+- **Motivo:** Referência bíblica impossível na edição de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-05 · Homilia XIX · § 7, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 152
+- **Localização no texto:** § 7, fim — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 9
+- **Texto latino:** Deus meus misericordia mea (Psal. LVIII, 18).
+- **Tradução recebida:** “minha misericórdia Sl 58 Sl 18.”
+- **Tradução aplicada:** “minha misericórdia (Sl 58,18).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G19-06 · Homilia XIX · § 7, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 152
+- **Localização no texto:** § 7, fim — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 9
+- **Texto latino:** dicens: Deus meus misericordia mea (Ibid.).
+- **Tradução recebida:** “(ibid.)”
+- **Tradução aplicada:** “(Sl 58,18)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-04 · Homilia XX · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 156, § 3
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 4
+- **Texto latino:** Et convalles abundabunt frumento (Psal. LXIV, 14).
+- **Tradução recebida:** “trigo Sl 64 Sl 14.”
+- **Tradução aplicada:** “trigo (Sl 64,14).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-05 · Homilia XX · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 157, § 4
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 5
+- **Texto latino:** Sed ait: Qui habet sponsam sponsus est (Ibid.).
+- **Tradução recebida:** “é o esposo (ibid.)”
+- **Tradução aplicada:** “é o esposo (Jo 3,29)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-06 · Homilia XX · § 4, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 158, § 4
+- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 5
+- **Texto latino:** A quo et subditur: Illum oportet crescere, me autem minui (Ibid.).
+- **Tradução recebida:** “e que eu diminua (ibid.)”
+- **Tradução aplicada:** “e que eu diminua (Jo 3,30)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-07 · Homilia XX · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 158, § 5
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 6
+- **Texto latino:** Illum oportet crescere, me autem minui (Ibid.).
+- **Tradução recebida:** “e que eu diminua (ibid.)”
+- **Tradução aplicada:** “e que eu diminua (Jo 3,30)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-08 · Homilia XX · § 11, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 163
+- **Localização no texto:** § 11, fim — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 13
+- **Texto latino:** Ignem ardentem exstinguit aqua, et eleemosyna resistit peccatis (Eccli. III, 33).
+- **Tradução recebida:** “resiste aos pecados Eclo 3,33.”
+- **Tradução aplicada:** “resiste aos pecados (Eclo 3,33).”
+- **Justificativa linguística:** Referência sem parênteses, ao contrário do resto da tradução.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-09 · Homilia XX · § 12
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 164
+- **Localização no texto:** § 12 — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 14
+- **Texto latino:** ut cooperatores simus veritatis (III Joan., 7, 8).
+- **Tradução recebida:** “da verdade 3Jo 7-8.”
+- **Tradução aplicada:** “da verdade (3Jo 7-8).”
+- **Justificativa linguística:** Referência sem parênteses, ao contrário do resto da tradução.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G26-03 · Homilia XXVI · § 5
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
@@ -1216,6 +1481,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** A decisão é sua: seguir o texto crítico ou a tradição seguida pela tradução.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
+#### G19-04 · Homilia XIX · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 147, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 5
+- **Texto latino:** qui Deum in cruce confessus est, et pene cum voce sententiae spiritum exhalavit vitae
+- **Tradução recebida:** “e quase ao mesmo tempo em que proferiu a sentença de vida exalou o espírito”
+- **Tradução proposta:** “e quase à própria voz da sentença exalou o espírito de vida”
+- **Justificativa linguística:** A ordem latina favorece 'spiritum… vitae' (o sopro de vida) e 'vox sententiae' como a sentença ouvida da boca de Cristo, mas a construção é condensada e admite as duas leituras.
+- **Motivo:** Construção ambígua; não aplicado.
+- **Grau de segurança:** moderada · **estado:** não aplicada
+
 #### G26-12 · Homilia XXVI · § 10
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
@@ -1289,6 +1566,17 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Justificativa linguística:** A frase admite duas construções: (a) sujeito 'obsequium nostrae deuotionis', objeto 'sollemnitas immutatae mentis' — 'Que o obséquio da nossa devoção mostre a solenidade de uma mente transformada'; (b) sujeito 'sollemnitas', objeto 'obsequium' — 'Que a solenidade mostre o obséquio da nossa devoção, (próprio) de uma mente transformada'. A tradução recebida segue, com liberdade, a leitura (b).
 - **Motivo:** Ambiguidade sintática real; não há base para escolher. Tradução recebida mantida; dúvida registrada.
 - **Grau de segurança:** moderada · **estado:** não aplicada
+
+#### G20-14 · Homilia XX · § 12, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 164, § 12 (igual a Migne)
+- **Localização no texto:** § 12, início — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 14
+- **Texto latino:** Ut autem quanta esset virtus in continentia et susceptione indigentium Redemptor noster ostenderet
+- **Tradução recebida:** “quão grande era a força da continência e do acolhimento dos necessitados”
+- **Justificativa linguística:** As duas edições têm 'continentia'. O contexto fala só de sustentar e acolher os necessitados, o que favorece o sentido de 'manutenção'; mas não há paralelo seguro em Gregório para essa acepção.
+- **Motivo:** Duas leituras plausíveis; texto mantido.
+- **Grau de segurança:** baixa · **estado:** não aplicada
 
 #### G21-06 · Homilia XXI · § 7, conclusão
 

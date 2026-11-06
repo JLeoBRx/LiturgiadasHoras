@@ -93,6 +93,8 @@ describe('Homilias: nenhuma alteração silenciosa', () => {
         rec[r.bloco].texto = rec[r.bloco].texto.replace(r.antes, r.depois);
         // blocos acrescentados antes (ex.: cabeçalho ausente, traduzido do latim)
         for (const [marca, texto] of r.insere_antes || []) rec[r.bloco].antes.push({ marca, texto });
+        // etiqueta corrigida (ex.: título da leitura marcado como parágrafo na recebida)
+        if (r.nova_marca) rec[r.bloco].marca = r.nova_marca;
       }
       // parágrafo partido no meio de uma frase na origem: une ao seguinte (de trás para frente)
       for (const r of aplicadas.filter((x) => x.une_ao_seguinte).sort((a, b) => b.bloco - a.bloco)) {

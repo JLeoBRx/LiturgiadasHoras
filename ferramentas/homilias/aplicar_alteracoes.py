@@ -58,6 +58,10 @@ def main():
             # que falta na tradução recebida, traduzido do latim): "insere_antes"
             for marca, texto in r.get("insere_antes", []):
                 blocos[r["bloco"]][2].append([marca, texto])
+            # ou corrigir a etiqueta do bloco (ex.: título da leitura marcado
+            # como parágrafo na tradução recebida): "nova_marca"
+            if r.get("nova_marca"):
+                blocos[r["bloco"]][0] = r["nova_marca"]
         # uma correção pode unir o bloco ao seguinte ("une_ao_seguinte": parágrafo
         # partido no meio de uma frase na origem); as uniões vêm antes das separações
         for r in sorted((x for x in reg["registros"] if x["homilia"] == n and x["estado"] == "aplicada" and x.get("une_ao_seguinte")),
