@@ -57,7 +57,7 @@ Ocasião: rubrica da edição crítica (CCSL 141); entre parênteses, o dia que 
 | XXVI | Jo 20,19-31 | habita ad populum in basilica beati Iohannis quae appellatur constantiniana (Migne: in octavis Paschae) | bíblica | 2º Domingo da Páscoa (anos A, B e C); São Tomé, Apóstolo (03/07); Pentecostes | todo ano | calendário |
 | XXVII | Jo 15,12-16 | habita ad populum in basilica sancti Pancratii die natalis eius | litúrgica + bíblica | São Pancrácio, Mártir (12/05); Sexta-feira da 5ª semana da Páscoa; 6º Domingo da Páscoa, Ano B; São Matias, Apóstolo (14/05) | todo ano; mais no Ano B | calendário |
 | XXVIII | Jo 4,46-53 | habita ad populum in cimiterio sanctorum Nerei et Achillei | bíblica | Segunda-feira da 4ª semana da Quaresma | todo ano | calendário |
-| XXIX | Mc 16,14-20 | habita ad populum in basilica beati Petri die ascensionis Domini | litúrgica + bíblica | Ascensão do Senhor, Ano B; São Marcos Evangelista (25/04); Conversão de São Paulo, Apóstolo (25/01) | todo ano; mais no Ano B | calendário |
+| XXIX | Mc 16,14-20 | habita ad populum in basilica beati Petri die ascensionis Domini | litúrgica + bíblica | Ascensão do Senhor; São Marcos Evangelista (25/04); Conversão de São Paulo, Apóstolo (25/01) | todo ano; mais no Ano B | calendário |
 | XXX | Jo 14,23-31 | habita ad populum in basilica beati Petri apostoli die sancto Pentecosten | litúrgica + bíblica | Domingo de Pentecostes; 6º Domingo da Páscoa, Ano C; Terça-feira da 5ª semana da Páscoa | todo ano; mais no Ano C | calendário |
 | XXXI | Lc 13,6-13 | habita ad populum in basilica beati Laurentii martyris (Migne: Sabbato Quatuor temporum Septembris) | sem correspondência suficiente | — | — | catálogo geral |
 | XXXII | Lc 9,23-27 | habita ad populum in basilica sanctorum Processi et Martiniani die natalis eorum | sem correspondência suficiente | — | — | catálogo geral |
@@ -89,7 +89,7 @@ Ocasião: rubrica da edição crítica (CCSL 141); entre parênteses, o dia que 
 - **XXV** (Jo 20,11-18): Terça-feira da oitava da Páscoa; Santa Maria Madalena (22/07).
 - **XXVI** (Jo 20,19-31): 2º Domingo da Páscoa (anos A, B e C); São Tomé, Apóstolo (03/07); Pentecostes.
 - **XXVII** (Jo 15,12-16): São Pancrácio, Mártir (12/05); Sexta-feira da 5ª semana da Páscoa; 6º Domingo da Páscoa, Ano B; São Matias, Apóstolo (14/05).
-- **XXIX** (Mc 16,14-20): Ascensão do Senhor, Ano B; São Marcos Evangelista (25/04); Conversão de São Paulo, Apóstolo (25/01).
+- **XXIX** (Mc 16,14-20): Ascensão do Senhor; São Marcos Evangelista (25/04); Conversão de São Paulo, Apóstolo (25/01).
 - **XXX** (Jo 14,23-31): Domingo de Pentecostes; 6º Domingo da Páscoa, Ano C; Terça-feira da 5ª semana da Páscoa.
 - **XXXIII** (Lc 7,36-50): Quinta-feira da 24ª semana do Tempo Comum (anos I e II); 11º Domingo do Tempo Comum, Ano C.
 - **XXXIV** (Lc 15,1-10): Quinta-feira da 31ª semana do Tempo Comum (anos I e II); 24º Domingo do Tempo Comum, Ano C; Sagrado Coração de Jesus, Ano C.

@@ -532,6 +532,13 @@ describe('Homilias: Etapa 2 (distribuição no calendário)', () => {
     }
   });
 
+  test('catálogo: rótulos dos dias juntam os anos sem perder "todo ano"', () => {
+    assert.deepEqual(HM.juntarRotulos(['Sexta-feira da 34ª semana do Tempo Comum, Ano I', 'Sexta-feira da 34ª semana do Tempo Comum, Ano II']), ['Sexta-feira da 34ª semana do Tempo Comum (anos I e II)']);
+    assert.deepEqual(HM.juntarRotulos(['Ascensão do Senhor', 'Ascensão do Senhor, Ano B']), ['Ascensão do Senhor']);
+    assert.deepEqual(HM.juntarRotulos(['3º Domingo do Advento, Ano B', '2 de janeiro (tempo do Natal)']), ['3º Domingo do Advento, Ano B', '2 de janeiro (tempo do Natal)']);
+    assert.deepEqual(HM.ondeAparece(GREG[28]), ['Ascensão do Senhor', 'São Marcos Evangelista (25/04)', 'Conversão de São Paulo, Apóstolo (25/01)']);
+  });
+
   test('Liturgia Diária: todo Evangelho está em seção própria (não dentro da aclamação)', () => {
     const PROCL = /^(?:\*\*)?Proclamação do Evangelho de Jesus Cristo segundo /;
     let vistos = 0;

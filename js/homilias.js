@@ -42,15 +42,16 @@ export const publicadas = () => (indice?.homilias || []).filter((h) => h.estado 
  * "…, Ano B" + "…, Ano C" -> "… (anos A, B e C)".
  */
 export function juntarRotulos(rotulos) {
-  const grupos = new Map();
+  const grupos = new Map(); // base -> anos; null = todos os anos (rótulo sem ano)
   for (const r of rotulos.filter(Boolean)) {
     const m = r.match(/^(.*), Ano (I|II|A|B|C)$/);
     const base = m ? m[1] : r;
     if (!grupos.has(base)) grupos.set(base, []);
-    if (m && !grupos.get(base).includes(m[2])) grupos.get(base).push(m[2]);
+    if (!m) grupos.set(base, null);
+    else if (grupos.get(base) && !grupos.get(base).includes(m[2])) grupos.get(base).push(m[2]);
   }
   return [...grupos].map(([base, anos]) => {
-    if (!anos.length) return base;
+    if (!anos || !anos.length) return base;
     if (anos.length === 1) return `${base}, Ano ${anos[0]}`;
     return `${base} (anos ${anos.slice(0, -1).join(', ')} e ${anos[anos.length - 1]})`;
   });
