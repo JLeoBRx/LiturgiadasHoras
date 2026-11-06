@@ -12,7 +12,7 @@
    "pericope": "Lc 21,25-32",
    "pericope_hurst": "Lc 21,25-33",
    "ccsl_paginas": "5-11",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -68,7 +68,7 @@
    "pericope": "Lc 18,31-44",
    "pericope_hurst": "Lc 18,31-43",
    "ccsl_paginas": "12-19",
-   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no domingo da Quinquagésima.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -100,7 +100,7 @@
    "pericope": "Mt 12,46-50",
    "pericope_hurst": "Mt 12,46-50",
    "ccsl_paginas": "20-25",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -132,7 +132,7 @@
    "pericope": "Mt 10,5-10",
    "pericope_hurst": "Mt 10,5-8",
    "ccsl_paginas": "26-32",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -196,7 +196,7 @@
    "pericope": "Mt 4,18-22",
    "pericope_hurst": "Mt 4,18-22",
    "ccsl_paginas": "33-37",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -229,7 +229,7 @@
    "pericope": "Mt 11,2-10",
    "pericope_hurst": "Mt 11,2-10",
    "ccsl_paginas": "38-44",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -253,7 +253,7 @@
    "pericope": "Jo 1,19-28",
    "pericope_hurst": "Jo 1,19-27",
    "ccsl_paginas": "45-52",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -281,7 +281,7 @@
    "pericope": "Lc 2,1-14",
    "pericope_hurst": "Lc 2,1-14",
    "ccsl_paginas": "53-56",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica da bem-aventurada Virgem Maria, no dia do Natal do Senhor.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica da bem-aventurada Virgem Maria, no dia do Natal do Senhor.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -308,7 +308,7 @@
    "pericope": "Mt 25,14-30",
    "pericope_hurst": "Mt 25,14-30",
    "ccsl_paginas": "57-64",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Silvestre, no dia de seu nascimento.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Silvestre, no dia do seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -340,7 +340,7 @@
    "pericope": "Mt 2,1-12",
    "pericope_hurst": "Mt 2,1-12",
    "ccsl_paginas": "65-72",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do santo apóstolo Pedro, no dia da Epifania.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do santo apóstolo Pedro, no dia da Epifania.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -367,7 +367,7 @@
    "pericope": "Mt 13,44-52",
    "pericope_hurst": "Mt 13,44-52",
    "ccsl_paginas": "73-79",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -415,7 +415,7 @@
    "pericope": "Mt 25,1-13",
    "pericope_hurst": "Mt 25,1-13",
    "ccsl_paginas": "80-88",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -455,7 +455,7 @@
    "pericope": "Lc 12,35-40",
    "pericope_hurst": "Lc 12,35-40",
    "ccsl_paginas": "89-95",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Félix, confessor, no dia natalício dele.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Félix, confessor, no dia natalício dele.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -503,7 +503,7 @@
    "pericope": "Jo 10,11-16",
    "pericope_hurst": "Jo 10,11-16",
    "ccsl_paginas": "96-102",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -535,7 +535,7 @@
    "pericope": "Lc 8,4-15",
    "pericope_hurst": "Lc 8,4-15",
    "ccsl_paginas": "103-108",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -567,7 +567,7 @@
    "pericope": "Mt 4,1-11",
    "pericope_hurst": "Mt 4,1-11",
    "ccsl_paginas": "109-115",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João, chamada Constantiniana, no primeiro domingo da Quaresma.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de São João, chamada Constantiniana, no primeiro domingo da Quaresma.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -610,7 +610,7 @@
    "pericope": "Lc 10,1-9",
    "pericope_hurst": "Lc 10,1-7",
    "ccsl_paginas": "116-134",
-   "ocasiao_na_traducao_recebida": "Proferida aos bispos nas fontes do Latrão.",
+   "ocasiao_na_traducao": "Proferida aos bispos nas fontes do Latrão.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -658,7 +658,7 @@
    "pericope": "Jo 8,45-69",
    "pericope_hurst": "Jo 8,46-59",
    "ccsl_paginas": "135-141",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -682,7 +682,7 @@
    "pericope": "Mt 20,1-16",
    "pericope_hurst": "Mt 20,1-16",
    "ccsl_paginas": "142-152",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -722,7 +722,7 @@
    "pericope": "Lc 3,1-11",
    "pericope_hurst": "Lc 3,1-11",
    "ccsl_paginas": "153-169",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João Batista, no sábado das Quatro Têmporas antes do Natal de Cristo.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de São João Batista, no sábado das Quatro Têmporas antes do Natal de Cristo.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -746,7 +746,7 @@
    "pericope": "Mc 16,1-7",
    "pericope_hurst": "Mc 16,1-7",
    "ccsl_paginas": "173-179",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -773,7 +773,7 @@
    "pericope": "Jo 20,1-9",
    "pericope_hurst": "Jo 20,1-9",
    "ccsl_paginas": "180-191",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -805,7 +805,7 @@
    "pericope": "Lc 24,13-35",
    "pericope_hurst": "Lc 24,13-35",
    "ccsl_paginas": "192-195",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -837,7 +837,7 @@
    "pericope": "Jo 21,1-14",
    "pericope_hurst": "Jo 21,1-14",
    "ccsl_paginas": "196-203",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -861,7 +861,7 @@
    "pericope": "Jo 20,11-18",
    "pericope_hurst": "Jo 20,11-18",
    "ccsl_paginas": "204-216",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São João, chamada Constantiniana, na quinta-feira da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São João, chamada Constantiniana, na quinta-feira da Páscoa.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -893,7 +893,7 @@
    "pericope": "Jo 20,19-31",
    "pericope_hurst": "Jo 20,19-29",
    "ccsl_paginas": "217-228",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana, na oitava da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana, na oitava da Páscoa.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -927,7 +927,7 @@
    "pericope": "Jo 15,12-16",
    "pericope_hurst": "Jo 15,12-16",
    "ccsl_paginas": "229-238",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -967,7 +967,7 @@
    "pericope": "Jo 4,46-53",
    "pericope_hurst": "Jo 4,46-53",
    "ccsl_paginas": "239-243",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos santos Nereu e Aquileu, no dia do seu natalício.",
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica dos santos Nereu e Aquileu, no dia do seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -991,7 +991,7 @@
    "pericope": "Mc 16,14-20",
    "pericope_hurst": "Mc 16,14-20",
    "ccsl_paginas": "244-254",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor.",
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -1018,7 +1018,7 @@
    "pericope": "Jo 14,23-31",
    "pericope_hurst": "Jo 14,23-27",
    "ccsl_paginas": "255-268",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes.",
    "estado": "publicada",
    "correspondencias_publicadas": [
     {
@@ -1039,7 +1039,7 @@
    "pericope": "Lc 13,6-13",
    "pericope_hurst": "Lc 13,6-13",
    "ccsl_paginas": "269-276",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Lourenço mártir, no sábado das Quatro Têmporas de setembro.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Lourenço mártir, no sábado das Quatro Têmporas de setembro.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1095,7 +1095,7 @@
    "pericope": "Lc 9,23-27",
    "pericope_hurst": "Lc 9,23-27",
    "ccsl_paginas": "277-286",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1119,7 +1119,7 @@
    "pericope": "Lc 7,36-50",
    "pericope_hurst": "Lc 7,36-50",
    "ccsl_paginas": "287-298",
-   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
+   "ocasiao_na_traducao": "Pregada ao povo na basílica de São Clemente, na sexta-feira das Têmporas de setembro.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1151,7 +1151,7 @@
    "pericope": "Lc 15,1-10",
    "pericope_hurst": "Lc 15,1-10",
    "ccsl_paginas": "299-319",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.",
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1199,7 +1199,7 @@
    "pericope": "Lc 21,9-19",
    "pericope_hurst": "Lc 21,9-19",
    "ccsl_paginas": "320-330",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1239,7 +1239,7 @@
    "pericope": "Lc 14,16-24",
    "pericope_hurst": "Lc 14,16-24",
    "ccsl_paginas": "331-346",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1271,7 +1271,7 @@
    "pericope": "Lc 14,25-33",
    "pericope_hurst": "Lc 14,16-33",
    "ccsl_paginas": "347-358",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado mártir Sebastião, no dia de sua festa natalícia.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado mártir Sebastião, no dia de sua festa natalícia.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1311,7 +1311,7 @@
    "pericope": "Mt 22,1-13",
    "pericope_hurst": "Mt 22,2-14",
    "ccsl_paginas": "359-378",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1343,7 +1343,7 @@
    "pericope": "Lc 19,42-47",
    "pericope_hurst": "Lc 19,41-47",
    "ccsl_paginas": "379-392",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
@@ -1391,7 +1391,7 @@
    "pericope": "Lc 16,19-31",
    "pericope_hurst": "Lc 16,19-31",
    "ccsl_paginas": "393-411",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.",
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [

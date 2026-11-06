@@ -122,9 +122,9 @@ export function gerar() {
   const publicadas = new Map(IND.homilias.filter((h) => h.estado === 'publicada').map((h) => [h.numero, h]));
   const colacao = new Set(REG.colacao.map((c) => c.homilia));
   const rubrica = (n) => {
-    const t = fs.readFileSync(path.join(RAIZ, 'dados', 'homilias', 'gregorio-magno', 'recebida', `homilia-${String(n).padStart(2, '0')}.txt`), 'utf8');
+    const t = fs.readFileSync(path.join(RAIZ, 'dados', 'homilias', 'gregorio-magno', 'revisada', `homilia-${String(n).padStart(2, '0')}.txt`), 'utf8');
     const b = t.split('\n\n').map((p) => p.split('\n')).filter((l) => /^@(cabecalho|rubrica)/.test(l[0])).map((l) => l.slice(1).join(' '));
-    return b.join(' ').replace(/^(LIVRO (PRIMEIRO|SEGUNDO)\. )?HOMILIA (PRIMEIRA|[IVXL]+)\.\s*/, '').trim() || '(sem cabeçalho nem rubrica na tradução recebida)';
+    return b.join(' ').replace(/^(LIVRO (PRIMEIRO|SEGUNDO)\. )?HOMILIA (PRIMEIRA|[IVXL]+)\.\s*/, '').trim() || '(sem rubrica)';
   };
   const gregorio = CAT.homilias.map((c) => {
     const h = publicadas.get(c.numero);
@@ -132,7 +132,7 @@ export function gerar() {
     return {
       numero: c.numero, livro: c.livro, titulo: `Homilia ${ROM[c.numero]}`, titulo_de_trabalho: c.titulo_de_trabalho,
       pericope: c.pericope_fonte_portuguesa, pericope_hurst: c.pericope_hurst, ccsl_paginas: c.ccsl_paginas,
-      ocasiao_na_traducao_recebida: rubrica(c.numero),
+      ocasiao_na_traducao: rubrica(c.numero),
       estado: h ? 'publicada' : (colacao.has(c.numero) ? 'conferida, não publicada' : 'aguardando colação com o latim'),
       correspondencias_publicadas: h ? h.correspondencias.map((x) => ({ tipo: x.tipo, descricao: x.descricao, ...(x.leituras ? { leituras: x.leituras, dia: descreverChave(x.leituras, SAN) } : {}), ...(x.celebracao ? { celebracao: x.celebracao } : {}), ...(x.chaves ? { chaves: x.chaves } : {}) })) : [],
       correspondencias_biblicas_candidatas: h ? [] : cand,
@@ -184,16 +184,16 @@ function inventarioMd(inv, REG) {
   }
   L.push('');
   L.push(`Procedência da tradução recebida: ${REG.procedencia.fonte_de_obtencao_da_traducao}; fonte textual declarada: ${REG.procedencia.fonte_textual_declarada}. Tradutor: ${REG.procedencia.tradutor}`, '');
-  L.push('### Homilias no site', '', '| Nº | Passagem | Ocasião (tradução recebida) | Dias em que aparece |', '|---|---|---|---|');
+  L.push('### Homilias no site', '', '| Nº | Passagem | Ocasião (rubrica da tradução revisada) | Dias em que aparece |', '|---|---|---|---|');
   for (const h of pub) {
-    L.push(`| ${h.titulo} | ${h.pericope} | ${md(h.ocasiao_na_traducao_recebida)} | ${h.correspondencias_publicadas.map((c) => `**${c.tipo === 'liturgica' ? 'litúrgica' : 'bíblica'}:** ${md(c.dia || c.descricao)}`).join('<br>')} |`);
+    L.push(`| ${h.titulo} | ${h.pericope} | ${md(h.ocasiao_na_traducao)} | ${h.correspondencias_publicadas.map((c) => `**${c.tipo === 'liturgica' ? 'litúrgica' : 'bíblica'}:** ${md(c.dia || c.descricao)}`).join('<br>')} |`);
   }
   L.push('', '### Homilias não inseridas (colacionadas; aguardando a Etapa 2)', '');
   L.push('Nenhuma destas foi publicada. A tradução de todas já foi colacionada com o latim (Etapa 1); a escolha dos dias em que entram no calendário é a Etapa 2, que ainda não começou. As correspondências bíblicas candidatas abaixo são só orientação para essa etapa (porcentagens: quanto do Evangelho do dia a homilia comenta / quanto da passagem da homilia é lido no dia).', '');
-  L.push('| Nº | Passagem | Ocasião histórica (tradução recebida) | Candidatas no calendário atual | Observação |', '|---|---|---|---|---|');
+  L.push('| Nº | Passagem | Ocasião histórica (rubrica da tradução revisada) | Candidatas no calendário atual | Observação |', '|---|---|---|---|---|');
   for (const h of g.filter((x) => x.estado !== 'publicada')) {
     const c = h.correspondencias_biblicas_candidatas.slice(0, 6).map((x) => `${md(x.dia)} — ${x.referencia_do_dia} (${x.cobre_o_evangelho_do_dia}% / ${x.cobre_a_homilia}%)`).join('<br>') || '— nenhuma no lecionário do site';
-    L.push(`| ${h.titulo} | ${h.pericope}${h.pericope_hurst !== h.pericope ? ` (Hurst: ${h.pericope_hurst})` : ''} | ${md(h.ocasiao_na_traducao_recebida)} | ${c} | ${md(h.observacao)} |`);
+    L.push(`| ${h.titulo} | ${h.pericope}${h.pericope_hurst !== h.pericope ? ` (Hurst: ${h.pericope_hurst})` : ''} | ${md(h.ocasiao_na_traducao)} | ${c} | ${md(h.observacao)} |`);
   }
   L.push('', '## São João Maria Vianney — Sermons', '');
   L.push('Nenhum sermão foi inserido. Motivos: (1) não foi enviada tradução portuguesa, e traduzir 75 sermões seria produzir um texto novo, que precisa da sua decisão e revisão; (2) os PDFs são transcrições em Word, sem folha de rosto, editor ou data, de modo que a edição de origem não pode ser identificada a partir do material; (3) o tomo 4 inclui uma seção de “sermões inéditos”, cuja procedência precisa ser verificada; (4) a dependência destes sermões de coletâneas de outros pregadores do século XVIII é questão a investigar antes de apresentá-los como textos do Cura d’Ars (ver a auditoria).', '');
