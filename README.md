@@ -12,7 +12,9 @@ o calendário permite consultar qualquer data passada ou futura.
   Sexta, Noa, Vésperas e Completas, cada hora com a sua estrutura própria.
   Quando há memória facultativa, o site pergunta qual celebração seguir.
 - **Liturgia Diária** — leituras, salmo, aclamação, Evangelho e orações da
-  Missa do dia (área independente do Ofício das Leituras).
+  Missa do dia (área independente do Ofício das Leituras). Quando há uma
+  **homilia de um santo** pregada para aquela celebração ou sobre aquela
+  leitura, aparece o botão “Homilia” (ver [`dados/homilias/LEIA-ME.md`](dados/homilias/LEIA-ME.md)).
 - **Calendário** — navegação por dias, meses e anos, com tempo, semana do
   saltério, ciclos, celebração, santos e memórias de cada dia.
 
@@ -48,13 +50,16 @@ css/calendar.css        calendário
 js/liturgical-calendar.js  motor do calendário litúrgico (independente da interface)
 js/liturgy-hours.js     regras de composição de cada hora + montagem do ofício
 js/daily-liturgy.js     Liturgia Diária (índice de leituras e orações)
+js/homilias.js          homilias dos santos na Liturgia Diária
 js/texto.js             leitura do formato de texto dos arquivos
 js/render.js            texto → HTML (rubricas, antífonas, salmos…)
 js/calendar.js          desenho do calendário
 js/dados.js             carregamento dos arquivos (com versões alternativas)
 js/app.js               telas, rotas e ajustes
 dados/                  TODOS os textos, em .txt editáveis — ver dados/LEIA-ME.md
+dados/homilias/         homilias: camadas do texto, registro editorial, auditoria e inventário
 ferramentas/            scripts de importação do acervo e testes
+Homilia dos Santos/     textos das homilias enviados (originais intocados)
 Recursos/               acervo original (intocado)
 ```
 
@@ -118,6 +123,25 @@ reconstruído por `ferramentas/gerar_indice_liturgia_diaria.py`, cruzando:
 
 O índice é um JSON legível e pode ser corrigido à mão.
 
+### Homilias dos santos
+
+O botão “Homilia” só aparece quando a homilia foi pregada para a celebração
+do dia (correspondência **litúrgica**) ou comenta uma leitura proclamada
+naquele dia (correspondência **bíblica**, conferida versículo por versículo).
+Correspondências apenas temáticas não são mostradas: ficam no inventário.
+
+Hoje estão publicadas 9 das 40 *Homilias sobre os Evangelhos* de São Gregório
+Magno, as que têm correspondência segura e cuja tradução portuguesa foi
+conferida com o latim da edição crítica (CCSL 141). O texto enviado nunca é
+alterado. Cada correção fica registrada com o latim e a justificativa, e pode
+ser desfeita. Os sermões de São João Maria Vianney e de Santo Antônio ainda
+não estão publicados: o primeiro não tem tradução portuguesa, e o segundo
+tem uma tradução com direitos reservados e sem latim para conferir.
+
+- [`dados/homilias/AUDITORIA.md`](dados/homilias/AUDITORIA.md): auditoria textual.
+- [`dados/homilias/INVENTARIO.md`](dados/homilias/INVENTARIO.md): inventário.
+- [`dados/homilias/LEIA-ME.md`](dados/homilias/LEIA-ME.md): como corrigir, desfazer e publicar.
+
 ## Lacunas do acervo (sinalizadas no site)
 
 Nenhum texto foi inventado. Quando algo não existe no acervo, o site mostra
@@ -172,14 +196,22 @@ node ferramentas/testes/validar_horas.mjs 2026 2027 --montar    # monta os ofíc
 node ferramentas/testes/validar_liturgia_diaria.mjs 2025 2031
 ```
 
-Os testes automáticos (111) conferem o calendário com a Tabela Temporária
+```bash
+python3 ferramentas/homilias/separar_gregorio.py      # tradução recebida → um arquivo por homilia (cópia exata)
+python3 ferramentas/homilias/aplicar_alteracoes.py    # recebida + correções aplicadas → texto publicado
+node ferramentas/homilias/gerar_documentos.mjs        # AUDITORIA.md, INVENTARIO.md, inventario.json
+```
+
+Os testes automáticos (138) conferem o calendário com a Tabela Temporária
 1994–2023 do livro, com as regras do Brasil e com um cálculo de referência
-independente até 2100; rodam no GitHub Actions a cada push e pull request.
+independente até 2100. Também conferem as homilias: integridade do texto,
+nenhuma alteração sem registro, correspondências e dias em que aparecem.
+Rodam no GitHub Actions a cada push e pull request.
 Os 7 erros encontrados no PDF da Tabela Temporária ficam documentados em
 [`ferramentas/testes/7Erros.md`](ferramentas/testes/7Erros.md) e nunca são
 aceitos como resultado. Detalhes em [`ferramentas/testes/LEIA-ME.md`](ferramentas/testes/LEIA-ME.md).
 
-Resultado atual: todas as horas de todos os dias de 2025 a 2031 (26.208
+Resultado atual: todas as horas de todos os dias de 2025 a 2031 (26.232
 combinações, incluindo as memórias facultativas) são montadas com textos
 existentes; a Liturgia Diária encontra leituras em 99,9% dos dias e orações
 em 98,4%.

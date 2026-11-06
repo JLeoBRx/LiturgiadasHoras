@@ -1,4 +1,4 @@
-# Testes do calendário litúrgico
+# Testes do calendário litúrgico e das homilias
 
 ```bash
 node --test "ferramentas/testes/*.test.mjs"
@@ -27,6 +27,11 @@ horas (`validar_horas.mjs 2025 2031`, que falha se alguma hora ficar sem texto).
 | | Documentação | `7Erros.md` descreve exatamente as divergências e particularidades registradas nos dados. |
 | `regras-brasil.test.mjs` | Regras do Brasil | Epifania, Batismo, Ascensão, Corpus, São Pedro e São Paulo, Assunção, Todos os Santos, Finados, Aparecida, São José, Anunciação, Imaculada…: datas confirmadas em fontes e comparação ano a ano com a referência (ver `REGRAS-DO-BRASIL.md`). |
 | `independencia.test.mjs` | Independência | A referência não importa nem lê nada; o processo onde ela roda é bloqueado ao tentar ler o motor ou os dados (teste de controle); o motor não lê os dados dos testes; os dois algoritmos de Páscoa concordam de 1583 a 4099. |
+| `homilias.test.mjs` | Integridade | Os 41 arquivos da tradução recebida de São Gregório Magno reproduzem, palavra por palavra, o arquivo enviado. |
+| | Nenhuma alteração silenciosa | O texto publicado é exatamente a tradução recebida mais as correções registradas como aplicadas (confiança alta); sugestões, dúvidas e variantes não aplicadas continuam intactas; só há texto publicado para homilias conferidas com o latim. |
+| | Correspondências | Só litúrgicas ou bíblicas; a referência declarada é a do arquivo de leituras do dia e os versículos comentados estão contidos nela e na passagem da homilia. |
+| | Dias em que aparecem | De 2025 a 2045, cada homilia aparece exatamente nos dias esperados, e em nenhum outro; Santo André no domingo e dias sem correspondência não têm homilia. |
+| | Documentos | `AUDITORIA.md`, `INVENTARIO.md` e `inventario.json` correspondem aos dados atuais. |
 
 ## Por que a referência é independente
 

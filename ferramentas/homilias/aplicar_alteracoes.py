@@ -54,6 +54,13 @@ def main():
             if k != 1:
                 erros.append(f"{r['id']}: 'antes' aparece {k} vez(es) no bloco {r['bloco']}"); continue
             blocos[r["bloco"]][1] = alvo.replace(r["antes"], r["depois"])
+        # uma correção pode unir o bloco ao seguinte ("une_ao_seguinte": parágrafo
+        # partido no meio de uma frase na origem); as uniões vêm antes das separações
+        for r in sorted((x for x in reg["registros"] if x["homilia"] == n and x["estado"] == "aplicada" and x.get("une_ao_seguinte")),
+                        key=lambda x: -x["bloco"]):
+            b = r["bloco"]
+            blocos[b][1] = blocos[b][1] + " " + blocos[b + 1][1]
+            del blocos[b + 1]
         # uma correção pode separar parágrafos (linha em branco em "depois"):
         # o primeiro pedaço mantém a etiqueta, os seguintes viram @paragrafo
         separados = []

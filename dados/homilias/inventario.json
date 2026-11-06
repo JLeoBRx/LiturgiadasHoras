@@ -1,0 +1,2439 @@
+{
+ "_leia": [
+  "Gerado por ferramentas/homilias/gerar_documentos.mjs — não editar à mão.",
+  "As correspondências \"candidatas\" e \"prováveis\" NÃO estão no site: foram calculadas para orientar o trabalho e precisam de verificação antes de qualquer publicação."
+ ],
+ "gregorio_magno": [
+  {
+   "numero": 1,
+   "livro": "I",
+   "titulo": "Homilia I",
+   "titulo_de_trabalho": "Haverá sinais",
+   "pericope": "Lc 21,25-32",
+   "pericope_hurst": "Lc 21,25-33",
+   "ccsl_paginas": "5-11",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-34-sexta-I",
+     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 21,29-33",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 80,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-34-sexta-II",
+     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 21,29-33",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 80,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "ADV-1-domingo-C",
+     "dia": "1º Domingo do Advento, Ano C",
+     "referencia_do_dia": "Lc 21,25-28.34-36",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 57,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-34-quinta-I",
+     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 21,20-28",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-34-quinta-II",
+     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 21,20-28",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 50
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 2,
+   "livro": "I",
+   "titulo": "Homilia II",
+   "titulo_de_trabalho": "Um cego estava à beira do caminho",
+   "pericope": "Lc 18,31-44",
+   "pericope_hurst": "Lc 18,31-43",
+   "ccsl_paginas": "12-19",
+   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-33-segunda-I",
+     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 18,35-43",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 64
+    },
+    {
+     "chave": "TC-33-segunda-II",
+     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 18,35-43",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 64
+    }
+   ],
+   "observacao": "Na tradução recebida falta o cabeçalho e a rubrica desta homilia (o texto começa direto no Evangelho, dentro do bloco da Homilia I)."
+  },
+  {
+   "numero": 3,
+   "livro": "I",
+   "titulo": "Homilia III",
+   "titulo_de_trabalho": "Quem é minha mãe?",
+   "pericope": "Mt 12,46-50",
+   "pericope_hurst": "Mt 12,46-50",
+   "ccsl_paginas": "20-25",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-16-terca-I",
+     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 12,46-50",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-16-terca-II",
+     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 12,46-50",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 4,
+   "livro": "I",
+   "titulo": "Homilia IV",
+   "titulo_de_trabalho": "Estes doze Jesus enviou",
+   "pericope": "Mt 10,5-10",
+   "pericope_hurst": "Mt 10,5-8",
+   "ccsl_paginas": "26-32",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-14-quinta-I",
+     "dia": "Quinta-feira da 14ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 10,7-15",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-14-quinta-II",
+     "dia": "Quinta-feira da 14ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 10,7-15",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-14-quarta-I",
+     "dia": "Quarta-feira da 14ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 10,1-7",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 43,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-14-quarta-II",
+     "dia": "Quarta-feira da 14ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 10,1-7",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 43,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-11-domingo-A",
+     "dia": "11º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 9,36-10,8",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 8,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "ADV-1-sabado",
+     "dia": "Sábado da 1ª semana do Advento",
+     "referencia_do_dia": "Mt 9,35-10,1.6-8",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 6,
+     "cobre_a_homilia": 50
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 5,
+   "livro": "I",
+   "titulo": "Homilia V",
+   "titulo_de_trabalho": "À beira do mar da Galileia",
+   "pericope": "Mt 4,18-22",
+   "pericope_hurst": "Mt 4,18-22",
+   "ccsl_paginas": "33-37",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia).",
+     "celebracao": "santoandre"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22.",
+     "leituras": "santo:santoandre",
+     "dia": "Santo André, Apóstolo (30/11)"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23).",
+     "leituras": "TC-3-domingo-A",
+     "dia": "3º Domingo do Tempo Comum, Ano A"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 6,
+   "livro": "I",
+   "titulo": "Homilia VI",
+   "titulo_de_trabalho": "És tu aquele que há de vir?",
+   "pericope": "Mt 11,2-10",
+   "pericope_hurst": "Mt 11,2-10",
+   "ccsl_paginas": "38-44",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "ADV-3-domingo-A",
+     "dia": "3º Domingo do Advento, Ano A",
+     "referencia_do_dia": "Mt 11,2-11",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 90,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": "Próxima a conferir: o Evangelho do 3º domingo do Advento, Ano A (Mt 11,2-11), contém a passagem comentada."
+  },
+  {
+   "numero": 7,
+   "livro": "I",
+   "titulo": "Homilia VII",
+   "titulo_de_trabalho": "O testemunho de João",
+   "pericope": "Jo 1,19-28",
+   "pericope_hurst": "Jo 1,19-27",
+   "ccsl_paginas": "45-52",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). A homilia foi pregada num domingo do Advento.",
+     "leituras": "ADV-3-domingo-B",
+     "dia": "3º Domingo do Advento, Ano B"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho de hoje: Jo 1,19-28.",
+     "leituras": "NAT-jan02",
+     "dia": "2 de janeiro (tempo do Natal)"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 8,
+   "livro": "I",
+   "titulo": "Homilia VIII",
+   "titulo_de_trabalho": "Saiu um decreto de César Augusto",
+   "pericope": "Lc 2,1-14",
+   "pericope_hurst": "Lc 2,1-14",
+   "ccsl_paginas": "53-56",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica da bem-aventurada Virgem Maria, no dia do Natal do Senhor.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia.",
+     "celebracao": "natal"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14.",
+     "leituras": "natal-noite",
+     "dia": "Natal — Missa da noite"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 9,
+   "livro": "I",
+   "titulo": "Homilia IX",
+   "titulo_de_trabalho": "A parábola dos talentos",
+   "pericope": "Mt 25,14-30",
+   "pericope_hurst": "Mt 25,14-30",
+   "ccsl_paginas": "57-64",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Silvestre, no dia de seu nascimento.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-21-sabado-I",
+     "dia": "Sábado da 21ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 25,14-30",
+     "versiculos_em_comum": 17,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-21-sabado-II",
+     "dia": "Sábado da 21ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 25,14-30",
+     "versiculos_em_comum": 17,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 10,
+   "livro": "I",
+   "titulo": "Homilia X",
+   "titulo_de_trabalho": "Quando Jesus nasceu",
+   "pericope": "Mt 2,1-12",
+   "pericope_hurst": "Mt 2,1-12",
+   "ccsl_paginas": "65-72",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do santo apóstolo Pedro, no dia da Epifania.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia).",
+     "celebracao": "epifania"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12.",
+     "leituras": "epifania",
+     "dia": "Epifania do Senhor"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 11,
+   "livro": "I",
+   "titulo": "Homilia XI",
+   "titulo_de_trabalho": "Um tesouro escondido num campo",
+   "pericope": "Mt 13,44-52",
+   "pericope_hurst": "Mt 13,44-52",
+   "ccsl_paginas": "73-79",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-17-quinta-I",
+     "dia": "Quinta-feira da 17ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 13,47-53",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 86,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-17-quinta-II",
+     "dia": "Quinta-feira da 17ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 13,47-53",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 86,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-17-quarta-I",
+     "dia": "Quarta-feira da 17ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 13,44-46",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 33
+    },
+    {
+     "chave": "TC-17-quarta-II",
+     "dia": "Quarta-feira da 17ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 13,44-46",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 33
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 12,
+   "livro": "I",
+   "titulo": "Homilia XII",
+   "titulo_de_trabalho": "Cinco delas eram prudentes",
+   "pericope": "Mt 25,1-13",
+   "pericope_hurst": "Mt 25,1-13",
+   "ccsl_paginas": "80-88",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-32-domingo-A",
+     "dia": "32º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 25,1-13",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-21-sexta-I",
+     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 25,1-13",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-21-sexta-II",
+     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 25,1-13",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 13,
+   "livro": "I",
+   "titulo": "Homilia XIII",
+   "titulo_de_trabalho": "Tende os rins cingidos",
+   "pericope": "Lc 12,35-40",
+   "pericope_hurst": "Lc 12,35-40",
+   "ccsl_paginas": "89-95",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Félix, confessor, no dia natalício dele.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "santo:fieisdefuntos",
+     "dia": "Comemoração de Todos os Fiéis Defuntos (02/11)",
+     "referencia_do_dia": "Lc 12,35-40",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-29-terca-I",
+     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 12,35-38",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-29-terca-II",
+     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 12,35-38",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-19-domingo-C",
+     "dia": "19º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 12,32-48",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 35,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 14,
+   "livro": "I",
+   "titulo": "Homilia XIV",
+   "titulo_de_trabalho": "Eu sou o bom pastor",
+   "pericope": "Jo 10,11-16",
+   "pericope_hurst": "Jo 10,11-16",
+   "ccsl_paginas": "96-102",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "PAS-4-domingo-B",
+     "dia": "4º Domingo da Páscoa, Ano B",
+     "referencia_do_dia": "Jo 10,11-18",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "PAS-4-segunda",
+     "dia": "Segunda-feira da 4ª semana da Páscoa",
+     "referencia_do_dia": "Jo 10,11-18",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 15,
+   "livro": "I",
+   "titulo": "Homilia XV",
+   "titulo_de_trabalho": "Um semeador saiu a semear",
+   "pericope": "Lc 8,4-15",
+   "pericope_hurst": "Lc 8,4-15",
+   "ccsl_paginas": "103-108",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-24-sabado-I",
+     "dia": "Sábado da 24ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 8,4-15",
+     "versiculos_em_comum": 12,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-24-sabado-II",
+     "dia": "Sábado da 24ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 8,4-15",
+     "versiculos_em_comum": 12,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 16,
+   "livro": "I",
+   "titulo": "Homilia XVI",
+   "titulo_de_trabalho": "Ao deserto",
+   "pericope": "Mt 4,1-11",
+   "pericope_hurst": "Mt 4,1-11",
+   "ccsl_paginas": "109-115",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João, chamada Constantiniana, no primeiro domingo da Quaresma.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma.",
+     "chaves": [
+      "QUA-1-domingo-A"
+     ]
+    },
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11).",
+     "chaves": [
+      "QUA-1-domingo-B"
+     ]
+    },
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11).",
+     "chaves": [
+      "QUA-1-domingo-C"
+     ]
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11.",
+     "leituras": "QUA-1-domingo-A",
+     "dia": "1º Domingo da Quaresma, Ano A"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 17,
+   "livro": "I",
+   "titulo": "Homilia XVII",
+   "titulo_de_trabalho": "A messe é grande",
+   "pericope": "Lc 10,1-9",
+   "pericope_hurst": "Lc 10,1-7",
+   "ccsl_paginas": "116-134",
+   "ocasiao_na_traducao_recebida": "Proferida aos bispos nas fontes do Latrão.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "santo:saotimoteoetito",
+     "dia": "Santos Timóteo e Tito, Bispos (26/01)",
+     "referencia_do_dia": "Lc 10,1-9",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "santo:saolucas",
+     "dia": "São Lucas, Evangelista (18/10)",
+     "referencia_do_dia": "Lc 10,1-9",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-26-quinta-I",
+     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 10,1-12",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-26-quinta-II",
+     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 10,1-12",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 18,
+   "livro": "I",
+   "titulo": "Homilia XVIII",
+   "titulo_de_trabalho": "Quem de vós me acusa de pecado?",
+   "pericope": "Jo 8,45-69",
+   "pericope_hurst": "Jo 8,46-59",
+   "ccsl_paginas": "135-141",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "QUA-5-quinta",
+     "dia": "Quinta-feira da 5ª semana da Quaresma",
+     "referencia_do_dia": "Jo 8,51-59",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 36
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 19,
+   "livro": "I",
+   "titulo": "Homilia XIX",
+   "titulo_de_trabalho": "Os trabalhadores contratados na undécima hora",
+   "pericope": "Mt 20,1-16",
+   "pericope_hurst": "Mt 20,1-16",
+   "ccsl_paginas": "142-152",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-25-domingo-A",
+     "dia": "25º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 20,1-16a",
+     "versiculos_em_comum": 16,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-20-quarta-I",
+     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 20,1-16a",
+     "versiculos_em_comum": 16,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-20-quarta-II",
+     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 20,1-16a",
+     "versiculos_em_comum": 16,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 20,
+   "livro": "I",
+   "titulo": "Homilia XX",
+   "titulo_de_trabalho": "No décimo quinto ano do império de Tibério César",
+   "pericope": "Lc 3,1-11",
+   "pericope_hurst": "Lc 3,1-11",
+   "ccsl_paginas": "153-169",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João Batista, no sábado das Quatro Têmporas antes do Natal de Cristo.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "ADV-2-domingo-C",
+     "dia": "2º Domingo do Advento, Ano C",
+     "referencia_do_dia": "Lc 3,1-6",
+     "versiculos_em_comum": 6,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 55
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 21,
+   "livro": "II",
+   "titulo": "Homilia XXI",
+   "titulo_de_trabalho": "Ele ressuscitou",
+   "pericope": "Mc 16,1-7",
+   "pericope_hurst": "Mc 16,1-7",
+   "ccsl_paginas": "173-179",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia).",
+     "celebracao": "pascoa"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B.",
+     "leituras": "vigilia-pascal-B",
+     "dia": "Vigília Pascal, Ano B"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 22,
+   "livro": "II",
+   "titulo": "Homilia XXII",
+   "titulo_de_trabalho": "No primeiro dia da semana",
+   "pericope": "Jo 20,1-9",
+   "pericope_hurst": "Jo 20,1-9",
+   "ccsl_paginas": "180-191",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "pascoa",
+     "dia": "Domingo da Páscoa — Missa do dia",
+     "referencia_do_dia": "Jo 20,1-9",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "santo:joaoevangelista",
+     "dia": "São João, Apóstolo e Evangelista (27/12)",
+     "referencia_do_dia": "Jo 20,2-8",
+     "versiculos_em_comum": 7,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 78
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 23,
+   "livro": "II",
+   "titulo": "Homilia XXIII",
+   "titulo_de_trabalho": "Uma aldeia chamada Emaús",
+   "pericope": "Lc 24,13-35",
+   "pericope_hurst": "Lc 24,13-35",
+   "ccsl_paginas": "192-195",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "PAS-3-domingo-A",
+     "dia": "3º Domingo da Páscoa, Ano A",
+     "referencia_do_dia": "Lc 24,13-35",
+     "versiculos_em_comum": 23,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "PAS-1-quarta",
+     "dia": "Quarta-feira da oitava da Páscoa",
+     "referencia_do_dia": "Lc 24,13-35",
+     "versiculos_em_comum": 23,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 24,
+   "livro": "II",
+   "titulo": "Homilia XXIV",
+   "titulo_de_trabalho": "Jesus estava à beira-mar",
+   "pericope": "Jo 21,1-14",
+   "pericope_hurst": "Jo 21,1-14",
+   "ccsl_paginas": "196-203",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "PAS-1-sexta",
+     "dia": "Sexta-feira da oitava da Páscoa",
+     "referencia_do_dia": "Jo 21,1-14",
+     "versiculos_em_comum": 14,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 25,
+   "livro": "II",
+   "titulo": "Homilia XXV",
+   "titulo_de_trabalho": "Maria estava junto ao sepulcro",
+   "pericope": "Jo 20,11-18",
+   "pericope_hurst": "Jo 20,11-18",
+   "ccsl_paginas": "204-216",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São João, chamada Constantiniana, na quinta-feira da Páscoa.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "PAS-1-terca",
+     "dia": "Terça-feira da oitava da Páscoa",
+     "referencia_do_dia": "Jo 20,11-18",
+     "versiculos_em_comum": 8,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "santo:stamariamadalena",
+     "dia": "Santa Maria Madalena (22/07)",
+     "referencia_do_dia": "Jo 20,1-2.11-18",
+     "versiculos_em_comum": 8,
+     "cobre_o_evangelho_do_dia": 80,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 26,
+   "livro": "II",
+   "titulo": "Homilia XXVI",
+   "titulo_de_trabalho": "Como o Pai me enviou, também eu vos envio",
+   "pericope": "Jo 20,19-31",
+   "pericope_hurst": "Jo 20,19-29",
+   "ccsl_paginas": "217-228",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana, na oitava da Páscoa.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10).",
+     "leituras": "divinamisericordia-A",
+     "dia": "2º Domingo da Páscoa, Ano A"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10).",
+     "leituras": "divinamisericordia-B",
+     "dia": "2º Domingo da Páscoa, Ano B"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10).",
+     "leituras": "divinamisericordia-C",
+     "dia": "2º Domingo da Páscoa, Ano C"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 27,
+   "livro": "II",
+   "titulo": "Homilia XXVII",
+   "titulo_de_trabalho": "Este é o meu mandamento",
+   "pericope": "Jo 15,12-16",
+   "pericope_hurst": "Jo 15,12-16",
+   "ccsl_paginas": "229-238",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "PAS-5-sexta",
+     "dia": "Sexta-feira da 5ª semana da Páscoa",
+     "referencia_do_dia": "Jo 15,12-17",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 83,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "PAS-6-domingo-B",
+     "dia": "6º Domingo da Páscoa, Ano B",
+     "referencia_do_dia": "Jo 15,9-17",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 56,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "santo:saomatias",
+     "dia": "São Matias, Apóstolo (14/05)",
+     "referencia_do_dia": "Jo 15,9-17",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 56,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 28,
+   "livro": "II",
+   "titulo": "Homilia XXVIII",
+   "titulo_de_trabalho": "Teu filho vive",
+   "pericope": "Jo 4,46-53",
+   "pericope_hurst": "Jo 4,46-53",
+   "ccsl_paginas": "239-243",
+   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos santos Nereu e Aquileu, no dia do seu natalício.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "QUA-4-segunda",
+     "dia": "Segunda-feira da 4ª semana da Quaresma",
+     "referencia_do_dia": "Jo 4,43-54",
+     "versiculos_em_comum": 8,
+     "cobre_o_evangelho_do_dia": 67,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 29,
+   "livro": "II",
+   "titulo": "Homilia XXIX",
+   "titulo_de_trabalho": "Depois apareceu aos Onze",
+   "pericope": "Mc 16,14-20",
+   "pericope_hurst": "Mc 16,14-20",
+   "ccsl_paginas": "244-254",
+   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia).",
+     "celebracao": "ascensaodosenhor"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho da Ascensão no Ano B: Mc 16,15-20.",
+     "leituras": "ascensaodosenhor-B",
+     "dia": "Ascensão do Senhor, Ano B"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 30,
+   "livro": "II",
+   "titulo": "Homilia XXX",
+   "titulo_de_trabalho": "Se alguém me ama, guardará minha palavra",
+   "pericope": "Jo 14,23-31",
+   "pericope_hurst": "Jo 14,23-27",
+   "ccsl_paginas": "255-268",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes.",
+   "estado": "publicada",
+   "correspondencias_publicadas": [
+    {
+     "tipo": "liturgica",
+     "descricao": "Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2).",
+     "celebracao": "pentecostes"
+    }
+   ],
+   "correspondencias_biblicas_candidatas": [],
+   "observacao": ""
+  },
+  {
+   "numero": 31,
+   "livro": "II",
+   "titulo": "Homilia XXXI",
+   "titulo_de_trabalho": "A figueira estéril",
+   "pericope": "Lc 13,6-13",
+   "pericope_hurst": "Lc 13,6-13",
+   "ccsl_paginas": "269-276",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Lourenço mártir, no sábado das Quatro Têmporas de setembro.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-30-segunda-I",
+     "dia": "Segunda-feira da 30ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 13,10-17",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 50,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-30-segunda-II",
+     "dia": "Segunda-feira da 30ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 13,10-17",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 50,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "QUA-3-domingo-C",
+     "dia": "3º Domingo da Quaresma, Ano C",
+     "referencia_do_dia": "Lc 13,1-9",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-29-sabado-I",
+     "dia": "Sábado da 29ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 13,1-9",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-29-sabado-II",
+     "dia": "Sábado da 29ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 13,1-9",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 50
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 32,
+   "livro": "II",
+   "titulo": "Homilia XXXII",
+   "titulo_de_trabalho": "Quem quiser salvar a sua vida",
+   "pericope": "Lc 9,23-27",
+   "pericope_hurst": "Lc 9,23-27",
+   "ccsl_paginas": "277-286",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "QUA-0-quinta",
+     "dia": "Quinta-feira depois das Cinzas",
+     "referencia_do_dia": "Lc 9,22-25",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 60
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 33,
+   "livro": "II",
+   "titulo": "Homilia XXXIII",
+   "titulo_de_trabalho": "Entrou na casa do fariseu e sentou-se à mesa",
+   "pericope": "Lc 7,36-50",
+   "pericope_hurst": "Lc 7,36-50",
+   "ccsl_paginas": "287-298",
+   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-24-quinta-I",
+     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 7,36-50",
+     "versiculos_em_comum": 15,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-24-quinta-II",
+     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 7,36-50",
+     "versiculos_em_comum": 15,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 34,
+   "livro": "II",
+   "titulo": "Homilia XXXIV",
+   "titulo_de_trabalho": "Um pecador que se arrepende",
+   "pericope": "Lc 15,1-10",
+   "pericope_hurst": "Lc 15,1-10",
+   "ccsl_paginas": "299-319",
+   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-31-quinta-I",
+     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 15,1-10",
+     "versiculos_em_comum": 10,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-31-quinta-II",
+     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 15,1-10",
+     "versiculos_em_comum": 10,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "scj-C",
+     "dia": "Sagrado Coração de Jesus, Ano C",
+     "referencia_do_dia": "Lc 15,3-7",
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-24-domingo-C",
+     "dia": "24º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 15,1-32",
+     "versiculos_em_comum": 10,
+     "cobre_o_evangelho_do_dia": 31,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 35,
+   "livro": "II",
+   "titulo": "Homilia XXXV",
+   "titulo_de_trabalho": "Pela vossa perseverança",
+   "pericope": "Lc 21,9-19",
+   "pericope_hurst": "Lc 21,9-19",
+   "ccsl_paginas": "320-330",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-33-domingo-C",
+     "dia": "33º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 21,5-19",
+     "versiculos_em_comum": 11,
+     "cobre_o_evangelho_do_dia": 73,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-34-quarta-I",
+     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 21,12-19",
+     "versiculos_em_comum": 8,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 73
+    },
+    {
+     "chave": "TC-34-quarta-II",
+     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 21,12-19",
+     "versiculos_em_comum": 8,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 73
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 36,
+   "livro": "II",
+   "titulo": "Homilia XXXVI",
+   "titulo_de_trabalho": "Um homem deu uma grande ceia",
+   "pericope": "Lc 14,16-24",
+   "pericope_hurst": "Lc 14,16-24",
+   "ccsl_paginas": "331-346",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-31-terca-I",
+     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 14,15-24",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 90,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-31-terca-II",
+     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 14,15-24",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 90,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 37,
+   "livro": "II",
+   "titulo": "Homilia XXXVII",
+   "titulo_de_trabalho": "Não pode ser meu discípulo",
+   "pericope": "Lc 14,25-33",
+   "pericope_hurst": "Lc 14,16-33",
+   "ccsl_paginas": "347-358",
+   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado mártir Sebastião, no dia de sua festa natalícia.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-23-domingo-C",
+     "dia": "23º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 14,25-33",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-31-quarta-I",
+     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 14,25-33",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-31-quarta-II",
+     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 14,25-33",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 38,
+   "livro": "II",
+   "titulo": "Homilia XXXVIII",
+   "titulo_de_trabalho": "Muitos são chamados, mas poucos escolhidos",
+   "pericope": "Mt 22,1-13",
+   "pericope_hurst": "Mt 22,2-14",
+   "ccsl_paginas": "359-378",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-20-quinta-I",
+     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Mt 22,1-14",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 93,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-20-quinta-II",
+     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Mt 22,1-14",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 93,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 39,
+   "livro": "II",
+   "titulo": "Homilia XXXIX",
+   "titulo_de_trabalho": "Se ao menos neste dia conhecesses",
+   "pericope": "Lc 19,42-47",
+   "pericope_hurst": "Lc 19,41-47",
+   "ccsl_paginas": "379-392",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-33-quinta-I",
+     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 19,41-44",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-33-quinta-II",
+     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 19,41-44",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-33-sexta-I",
+     "dia": "Sexta-feira da 33ª semana do Tempo Comum, Ano I",
+     "referencia_do_dia": "Lc 19,45-48",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 50
+    },
+    {
+     "chave": "TC-33-sexta-II",
+     "dia": "Sexta-feira da 33ª semana do Tempo Comum, Ano II",
+     "referencia_do_dia": "Lc 19,45-48",
+     "versiculos_em_comum": 3,
+     "cobre_o_evangelho_do_dia": 75,
+     "cobre_a_homilia": 50
+    }
+   ],
+   "observacao": ""
+  },
+  {
+   "numero": 40,
+   "livro": "II",
+   "titulo": "Homilia XL",
+   "titulo_de_trabalho": "Havia um homem rico",
+   "pericope": "Lc 16,19-31",
+   "pericope_hurst": "Lc 16,19-31",
+   "ccsl_paginas": "393-411",
+   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.",
+   "estado": "aguardando colação com o latim",
+   "correspondencias_publicadas": [],
+   "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-26-domingo-C",
+     "dia": "26º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 16,19-31",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "QUA-2-quinta",
+     "dia": "Quinta-feira da 2ª semana da Quaresma",
+     "referencia_do_dia": "Lc 16,19-31",
+     "versiculos_em_comum": 13,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    }
+   ],
+   "observacao": ""
+  }
+ ],
+ "joao_maria_vianney": [
+  {
+   "tomo": 1,
+   "pagina": 4,
+   "ocasiao": "PREMIER DIMANCHE DE L'AVENT",
+   "titulo": "Sur le Jugement dernier",
+   "ocasiao_atual_provavel": "Domingo do Advento (numeração tridentina; o Evangelho difere do atual)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 11,
+   "ocasiao": "PREMIER DIMANCHE DE L'AVENT",
+   "titulo": "Sur les vérités éternelles",
+   "ocasiao_atual_provavel": "Domingo do Advento (numeração tridentina; o Evangelho difere do atual)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 19,
+   "ocasiao": "DEUXIEME DIMANCHE DE L'AVENT",
+   "titulo": "Sur le respect humain",
+   "ocasiao_atual_provavel": "Domingo do Advento (numeração tridentina; o Evangelho difere do atual)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 25,
+   "ocasiao": "QUATRIEME DIMANCHE DE L'AVENT",
+   "titulo": "Sur la Satisfaction",
+   "ocasiao_atual_provavel": "Domingo do Advento (numeração tridentina; o Evangelho difere do atual)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 33,
+   "ocasiao": "POUR LE JOUR DE NOËL",
+   "titulo": "Sur le Mystère",
+   "ocasiao_atual_provavel": "Natal do Senhor (25/12)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 40,
+   "ocasiao": "POUR LE JOUR DE NOËL",
+   "titulo": "Sur le Mystère",
+   "ocasiao_atual_provavel": "Natal do Senhor (25/12)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 46,
+   "ocasiao": "PREMIER DIMANCHE DE L'ANNEE",
+   "titulo": "Sur la Sanctification du Chrétien",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 54,
+   "ocasiao": "EPIPHANIE",
+   "titulo": "Sur les Rois Mages",
+   "ocasiao_atual_provavel": "Epifania do Senhor",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 60,
+   "ocasiao": "DEUXIÈME DIMANCHE APRÈS L'ÉPIPHANIE",
+   "titulo": "Sur le Mariage",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 67,
+   "ocasiao": "TROISIÈME DIMANCHE APRÈS L'ÉPIPHANIE",
+   "titulo": "Sur la prière d'un pécheur qui ne veut pas quitter le péché",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 75,
+   "ocasiao": "TROISIÈME DIMANCHE APRES L'ÉPIPHANIE",
+   "titulo": "Sur l'enfer des Chrétiens",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 82,
+   "ocasiao": "QUATRIÈME DIMANCHE APRES L'ÉPIPHANIE",
+   "titulo": "Sur les ennemis de notre salut",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 89,
+   "ocasiao": "LA SEXAGÉSIME",
+   "titulo": "Sur la parole de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 97,
+   "ocasiao": "MERCREDI DES CENDRES",
+   "titulo": "Sur la Pénitence",
+   "ocasiao_atual_provavel": "Quarta-feira de Cinzas",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 106,
+   "ocasiao": "PREMIER DIMANCHE DE CARÊME",
+   "titulo": "Sur les tentations",
+   "ocasiao_atual_provavel": "1º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 113,
+   "ocasiao": "PREMIER DIMANCHE DE CARÊME",
+   "titulo": "Sur les Indulgences",
+   "ocasiao_atual_provavel": "1º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 120,
+   "ocasiao": "DEUXIÈME DIMANCHE DE CARÊME",
+   "titulo": "Sur l'aumône",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 128,
+   "ocasiao": "QUATRIÈME DIMANCHE DE CARÊME",
+   "titulo": "Sur la mort du pécheur",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 1,
+   "pagina": 138,
+   "ocasiao": "DIMANCHE DE LA PASSION",
+   "titulo": "Sur la Contrition",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 3,
+   "ocasiao": "DIMANCHE DE QUASIMODO",
+   "titulo": "Sur la Confession Pascale",
+   "ocasiao_atual_provavel": "2º Domingo da Páscoa (oitava)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 8,
+   "ocasiao": "2ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur la Persévérance",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 16,
+   "ocasiao": "3ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur les Afflictions",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 22,
+   "ocasiao": "5ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur la Prière",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 30,
+   "ocasiao": "5ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur les Rogations et les Processions",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 52,
+   "ocasiao": "2ème dimanche après la Pentecôte",
+   "titulo": "Sur la sainte Messe",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 80,
+   "ocasiao": "5ème dimanche après la Pentecôte",
+   "titulo": "Sur le deuxième Commandement de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 89,
+   "ocasiao": "6ème dimanche après la Pentecôte",
+   "titulo": "Sur la Communion",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 98,
+   "ocasiao": "7ème dimanche après la Pentecôte",
+   "titulo": "Sur la fausse et vraie Vertu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 106,
+   "ocasiao": "7ème dimanche après la Pentecôte",
+   "titulo": "Sur le Mensonge",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 123,
+   "ocasiao": "8ème dimanche après la Pentecôte",
+   "titulo": "Sur le jugement particulier",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 129,
+   "ocasiao": "9ème dimanche après la Pentecôte",
+   "titulo": "Sur les larmes de Jésus‐Christ",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 138,
+   "ocasiao": "10ème dimanche après la Pentecôte",
+   "titulo": "Sur l’orgueil",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 146,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur le jugement téméraire",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 154,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur la Médisance",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 2,
+   "pagina": 162,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur les péchés cachés en confession",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 3,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le premier Commandement de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 10,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le premier Commandement de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 18,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'amour du prochain.",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 25,
+   "ocasiao": "13ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Absolution",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 31,
+   "ocasiao": "13ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le service de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 38,
+   "ocasiao": "14ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le Monde",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 45,
+   "ocasiao": "15ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la pensée de la mort",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 52,
+   "ocasiao": "16ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Humilité",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 57,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'amour de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 64,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la Charité",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 70,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la pureté",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 77,
+   "ocasiao": "18ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la Tiédeur",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 83,
+   "ocasiao": "18ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Envie",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 90,
+   "ocasiao": "19ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Impureté",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 104,
+   "ocasiao": "20ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Ivrognerie",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 110,
+   "ocasiao": "21ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la colère",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 117,
+   "ocasiao": "22ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la restitution",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 3,
+   "pagina": 123,
+   "ocasiao": "23ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la mort du juste",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 3,
+   "ocasiao": "3 MAI ‐ INVENTION DE LA SAINTE CROIX",
+   "titulo": "Sur la Croix",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 9,
+   "ocasiao": "24 JUIN FÊTE DE SAINT JEAN-BAPTISTE",
+   "titulo": "Dieu est admirable dans ses saints",
+   "ocasiao_atual_provavel": "Natividade de São João Batista (24/6)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 16,
+   "ocasiao": "1er AOUT SUR LE MARTYRE DES MACHABÉES",
+   "titulo": "Nous sommes prêts à mourir plutôt que de violer la loi de Dieu et de notre pays.",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 22,
+   "ocasiao": "15 AOUT FÊTE DE L'ASSOMPTION DE LA STE VIERGE",
+   "titulo": "Sur les grandeurs de Marie.",
+   "ocasiao_atual_provavel": "Assunção de Nossa Senhora",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 28,
+   "ocasiao": "8 SEPTEMBRE FÊTE DE LA NATIVITÉ DE LA STE VIERGE",
+   "titulo": "C'est de Marie qu'il nous est né un Sauveur.",
+   "ocasiao_atual_provavel": "Natividade de Nossa Senhora (8/9)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 34,
+   "ocasiao": "PREMIER DIMANCHE D'OCTOBRE FÊTE DU SAINT ROSAIRE",
+   "titulo": "Jésus dit au disciple qu'il aimait : Mon Fils, voilà votre Mère.",
+   "ocasiao_atual_provavel": "Nossa Senhora do Rosário (7/10)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 40,
+   "ocasiao": "2 OCTOBRE FÊTE DES SAINTS ANGES GARDIENS",
+   "titulo": "Les anges de ces petits enfants voient sans cesse la face de mon Père céleste",
+   "ocasiao_atual_provavel": "Santos Anjos da Guarda (2/10)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 46,
+   "ocasiao": "1er NOVEMBRE FÊTE DE TOUS LES SAINTS",
+   "titulo": "Sur la Sainteté",
+   "ocasiao_atual_provavel": "Todos os Santos",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 51,
+   "ocasiao": "DEUXIÈME SERMON POUR LA FÊTE DE TOUS LES SAINTS",
+   "titulo": "Sur le culte des Saints et des saintes Images",
+   "ocasiao_atual_provavel": "Todos os Santos",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 55,
+   "ocasiao": "2 NOVEMBRE COMMÉMORATION DES MORTS",
+   "titulo": "La nuit vient, pendant laquelle personne ne peut plus travailler",
+   "ocasiao_atual_provavel": "Fiéis Defuntos (2/11)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 61,
+   "ocasiao": "AUTRE SERMON POUR LE JOUR DES MORTS",
+   "titulo": "Ayez pitié de moi, vous au moins qui êtes mes amis, car la main du Seigneur s'appesantit sur moi.",
+   "ocasiao_atual_provavel": "Fiéis Defuntos (2/11)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 66,
+   "ocasiao": "SERMON POUR LA FÊTE DU SAINT PATRON",
+   "titulo": "J'ai cherché parmi eux un homme qui se présentât comme un rempart entre moi et eux…",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 73,
+   "ocasiao": "SERMON POUR LA FÊTE DE LA DÉDICACE",
+   "titulo": "Du respect que l'on doit avoir dans les églises",
+   "ocasiao_atual_provavel": "Dedicação de uma igreja (data local)",
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 80,
+   "ocasiao": "SERMON SUR LA RELIGION",
+   "titulo": "L'impie a dit dans son cœur : Non, il n'y a point de Dieu",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 85,
+   "ocasiao": "SERMON SUR LA CONFIRMATION",
+   "titulo": "Dispositions qu'il faut avoir pour recevoir ce sacrement",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 91,
+   "ocasiao": "SERMON SUR L'EXTRÊME-ONCTION",
+   "titulo": "Le Seigneur portera secours au malade sur son lit de douleur…",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 98,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR L'EXAMEN DE CONSCIENCE",
+   "titulo": "Celui qui cache ses péchés se perdra…",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 106,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES QUALITÉS DE LA CONFESSION",
+   "titulo": "Je me lèverai, et j'irai me jeter aux pieds de mon père…",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 114,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LE PÉCHÉ MORTEL",
+   "titulo": "Malheur à nous, parce que nous avons péché.",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 121,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LA COMMUNION INDIGNE",
+   "titulo": "L'âme qui péchera, mourra",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 129,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES DEVOIRS DES PARENTS",
+   "titulo": "Pères et mères, élevez vos enfants…",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "tomo": 4,
+   "pagina": 138,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES INDULGENCES",
+   "titulo": "",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  }
+ ],
+ "antonio_de_padua": [
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Domingo da Septuagésima",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Domingo da Sexagésima",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Domingo da quinquagésima",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Início do jejum (Quarta-feira de Cinzas)",
+   "ocasiao_atual_provavel": "Quarta-feira de Cinzas",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo da Quaresma (1)",
+   "ocasiao_atual_provavel": "1º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo da Quaresma (2) – A penitência",
+   "ocasiao_atual_provavel": "1º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo da Quaresma (1)",
+   "ocasiao_atual_provavel": "2º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo da Quaresma (2)",
+   "ocasiao_atual_provavel": "2º Domingo da Quaresma",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "III domingo da Quaresma",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "IV domingo da Quaresma",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "V domingo da Quaresma",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Domingo de Ramos",
+   "ocasiao_atual_provavel": "Domingo de Ramos",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "A Ceia do Senhor (Quinta-feira Santa)",
+   "ocasiao_atual_provavel": "Quinta-feira Santa — Ceia do Senhor",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Páscoa do Senhor (1)",
+   "ocasiao_atual_provavel": "Domingo da Páscoa",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "A ressurreição do Senhor (2)",
+   "ocasiao_atual_provavel": "Domingo da Páscoa",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Oitava da Páscoa",
+   "ocasiao_atual_provavel": "2º Domingo da Páscoa (oitava)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo depois da Páscoa",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "III domingo depois da Páscoa",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "IV domingo depois da Páscoa",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "V domingo depois da Páscoa",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "VI domingo depois da Páscoa",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Ladainhas ou rogações",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Ascensão do Senhor",
+   "ocasiao_atual_provavel": "Ascensão do Senhor",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Domingo de Pentecostes (1)",
+   "ocasiao_atual_provavel": "Pentecostes",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Festa de Pentecostes (2)",
+   "ocasiao_atual_provavel": "Pentecostes",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "III domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "IV domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "V domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "VI domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "VII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "VIII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "IX domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "X domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XI domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XIII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XIV domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XV domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XVI domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XVII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XVIII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XIX domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XX domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XXI domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XXII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XXIII domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "XXIV domingo depois de Pentecostes",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo do Advento",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo do Advento",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "III domingo do Advento",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "IV domingo do Advento",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Natal do Senhor",
+   "ocasiao_atual_provavel": "Natal do Senhor",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Festa de Santo Estêvão protomártir",
+   "ocasiao_atual_provavel": "Santo Estêvão (26/12)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Festa de São João Evangelista",
+   "ocasiao_atual_provavel": "São João Evangelista (27/12)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Festa dos Santos Inocentes",
+   "ocasiao_atual_provavel": "Santos Inocentes (28/12)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo depois do Natal",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Circuncisão do Senhor",
+   "ocasiao_atual_provavel": "Santa Maria, Mãe de Deus (1/1; o Evangelho atual inclui a circuncisão, Lc 2,21)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo depois do Natal",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "Epifania do Senhor",
+   "ocasiao_atual_provavel": "Epifania do Senhor",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "I domingo depois da oitava da epifania",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "II domingo depois da oitava da epifania",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "dominicais e festivos",
+   "titulo": "III domingo depois da oitava da epifania",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Natividade da Bem-aventurada Virgem Maria",
+   "ocasiao_atual_provavel": "Natividade de Nossa Senhora (8/9)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Anunciação da Bem-aventurada Virgem Maria (1)",
+   "ocasiao_atual_provavel": "Anunciação do Senhor (25/3)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Purificação da Bem-aventurada Virgem Maria (1)",
+   "ocasiao_atual_provavel": "Apresentação do Senhor (2/2)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Assunção da Bem-aventurada Virgem Maria",
+   "ocasiao_atual_provavel": "Assunção de Nossa Senhora",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Purificação da Bem-aventurada Virgem Maria (2)",
+   "ocasiao_atual_provavel": "Apresentação do Senhor (2/2)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "marianos",
+   "titulo": "Anunciação da Bem-aventurada Virgem Maria (2)",
+   "ocasiao_atual_provavel": "Anunciação do Senhor (25/3)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Conversão de São Paulo",
+   "ocasiao_atual_provavel": "Conversão de São Paulo (25/1)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Cátedra de São Pedro",
+   "ocasiao_atual_provavel": "Cátedra de São Pedro (22/2)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Festa dos Santos Apóstolos Filipe e Tiago",
+   "ocasiao_atual_provavel": "Santos Filipe e Tiago (3/5)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Invenção da Santa Cruz",
+   "ocasiao_atual_provavel": null,
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Natividade de São João Batista",
+   "ocasiao_atual_provavel": "Natividade de São João Batista (24/6)",
+   "estado": "não publicado"
+  },
+  {
+   "colecao": "festivos",
+   "titulo": "Festa dos Santos Apóstolos Pedro e Paulo",
+   "ocasiao_atual_provavel": "São Pedro e São Paulo",
+   "estado": "não publicado"
+  }
+ ]
+}

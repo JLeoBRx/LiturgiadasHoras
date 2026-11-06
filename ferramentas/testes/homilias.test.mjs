@@ -12,6 +12,7 @@
  *    de leituras do dia e com a passagem comentada pela homilia.
  * 4. Calendário: de 2025 a 2045, cada homilia aparece exatamente nos dias
  *    esperados — e em nenhum outro.
+ * 5. Documentos: auditoria e inventário correspondem aos dados atuais.
  */
 import { test, describe } from 'node:test';
 import assert from 'node:assert/strict';
@@ -87,7 +88,13 @@ describe('Homilias: nenhuma alteração silenciosa', () => {
     test(`Homilia ${n}: revisada = recebida + correções aplicadas`, () => {
       const nn = String(n).padStart(2, '0');
       const rec = blocos(path.join(G, 'recebida', `homilia-${nn}.txt`)).map((b) => ({ ...b }));
-      for (const r of REG.registros.filter((x) => x.homilia === n && x.estado === 'aplicada')) rec[r.bloco].texto = rec[r.bloco].texto.replace(r.antes, r.depois);
+      const aplicadas = REG.registros.filter((x) => x.homilia === n && x.estado === 'aplicada');
+      for (const r of aplicadas) rec[r.bloco].texto = rec[r.bloco].texto.replace(r.antes, r.depois);
+      // parágrafo partido no meio de uma frase na origem: une ao seguinte (de trás para frente)
+      for (const r of aplicadas.filter((x) => x.une_ao_seguinte).sort((a, b) => b.bloco - a.bloco)) {
+        rec[r.bloco].texto += ' ' + rec[r.bloco + 1].texto;
+        rec.splice(r.bloco + 1, 1);
+      }
       const esperado = rec.flatMap((b) => b.texto.split('\n\n').map((t, i) => ({ marca: i ? '@paragrafo' : b.marca, texto: t })));
       const rev = blocos(path.join(G, 'revisada', `homilia-${nn}.txt`));
       assert.deepEqual(rev.map((b) => [b.marca, b.texto]), esperado.map((b) => [b.marca, b.texto]));
@@ -129,7 +136,8 @@ describe('Homilias: dados publicados e correspondências', () => {
       const t = await HM.carregarTexto(h);
       const m = h.pericope.match(/^\S+ (\d+),(\d+)-(\d+)$/);
       assert.ok(m, `${h.id}: perícope em formato inesperado`);
-      assert.match(t.leituraTitulo.replace(/\s/g, ''), new RegExp(`${m[1]},${m[2]}-${m[3]}`), `${h.id}: título da leitura não traz ${h.pericope}`);
+      const romano = (n) => ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI'][+n];
+      assert.match(t.leituraTitulo.replace(/\s/g, ''), new RegExp(`(${m[1]}|${romano(m[1])}),${m[2]}-${m[3]}`), `${h.id}: título da leitura não traz ${h.pericope}`);
       assert.ok(t.leitura && t.paragrafos.join(' ').split(/\s+/).length > 500, `${h.id}: texto incompleto`);
     }
   });
@@ -179,6 +187,17 @@ describe('Homilias: dias em que aparecem (2025–2045)', () => {
   const D = (a) => datasDoAno(a);
   const esperado = {
     'gregorio-hom-08': anos.map((a) => `${a}-12-25`),
+    // 3º domingo do Advento quando começa um Ano B + 2 de janeiro (exceto quando é domingo: Epifania)
+    'gregorio-hom-07': anos.flatMap((a) => {
+      const r = [];
+      if (cal.dia(`${a}-01-02`).diaSemana !== 0) r.push(`${a}-01-02`);
+      const adv3 = isoDeNumero(D(a).advento1 + 14);
+      if (cal.dia(adv3).cicloDominical === 'B') r.push(adv3);
+      return r;
+    }),
+    'gregorio-hom-26': anos.map((a) => isoDeNumero(D(a).divinaMisericordia)),
+    'gregorio-hom-29': anos.map((a) => isoDeNumero(D(a).ascensao)),
+    'gregorio-hom-30': anos.map((a) => isoDeNumero(D(a).pentecostes)),
     'gregorio-hom-10': anos.map((a) => isoDeNumero(D(a).epifania)),
     'gregorio-hom-16': anos.map((a) => isoDeNumero(D(a).quaresma1)),
     // Páscoa (todos os anos) + Sábado Santo nos anos B (a página mostra as leituras da Vigília, Mc 16,1-7)
@@ -206,5 +225,17 @@ describe('Homilias: dias em que aparecem (2025–2045)', () => {
   });
   test('dia sem correspondência: nenhuma homilia', () => {
     assert.deepEqual(HM.homiliasDoDia(LD.resolver(cal.dia('2026-11-06'), null)), []);
+  });
+});
+
+describe('Homilias: documentos gerados', () => {
+  test('AUDITORIA.md, INVENTARIO.md e inventario.json estão em dia com os dados', async () => {
+    const { gerar } = await import('../homilias/gerar_documentos.mjs');
+    const r = gerar();
+    const ler = (n) => fs.readFileSync(path.join(DADOS, 'homilias', n), 'utf8');
+    const msg = 'rode: node ferramentas/homilias/gerar_documentos.mjs';
+    assert.equal(ler('inventario.json'), JSON.stringify(r.inventario, null, 1) + '\n', msg);
+    assert.equal(ler('INVENTARIO.md'), r.inventarioMd, msg);
+    assert.equal(ler('AUDITORIA.md'), r.auditoriaMd, msg);
   });
 });

@@ -35,7 +35,8 @@
     {
       "id": "gregorio-hom-05",
       "obra": "gregorio-homiliae-in-evangelia",
-      "numero": 5, "livro": "I",
+      "numero": 5,
+      "livro": "I",
       "titulo": "Homilia V",
       "pericope": "Mt 4,18-22",
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Andreae apostoli, die natalis eius.",
@@ -43,18 +44,64 @@
       "arquivo": "homilias/gregorio-magno/revisada/homilia-05",
       "estado": "publicada",
       "correspondencias": [
-        { "tipo": "liturgica", "celebracao": "santoandre",
-          "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia)." },
-        { "tipo": "biblica", "leituras": "santo:santoandre", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,18-22", "versiculos_comentados": "Mt 4,18-22",
-          "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22." },
-        { "tipo": "biblica", "leituras": "TC-3-domingo-A", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,12-23", "versiculos_comentados": "Mt 4,18-22",
-          "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23)." }
+        {
+          "tipo": "liturgica",
+          "celebracao": "santoandre",
+          "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:santoandre",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 4,18-22",
+          "versiculos_comentados": "Mt 4,18-22",
+          "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-3-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 4,12-23",
+          "versiculos_comentados": "Mt 4,18-22",
+          "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23)."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-07",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 7,
+      "livro": "I",
+      "titulo": "Homilia VII",
+      "pericope": "Jo 1,19-28",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 45–52",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-07",
+      "estado": "publicada",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "ADV-3-domingo-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 1,6-8.19-28",
+          "versiculos_comentados": "Jo 1,19-28",
+          "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). A homilia foi pregada num domingo do Advento."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "NAT-jan02",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 1,19-28",
+          "versiculos_comentados": "Jo 1,19-28",
+          "descricao": "Comenta o Evangelho de hoje: Jo 1,19-28."
+        }
       ]
     },
     {
       "id": "gregorio-hom-08",
       "obra": "gregorio-homiliae-in-evangelia",
-      "numero": 8, "livro": "I",
+      "numero": 8,
+      "livro": "I",
       "titulo": "Homilia VIII",
       "pericope": "Lc 2,1-14",
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die natalis Domini.",
@@ -62,16 +109,26 @@
       "arquivo": "homilias/gregorio-magno/revisada/homilia-08",
       "estado": "publicada",
       "correspondencias": [
-        { "tipo": "liturgica", "celebracao": "natal",
-          "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia." },
-        { "tipo": "biblica", "leituras": "natal-noite", "leitura": "Evangelho", "referencia_do_dia": "Lc 2,1-14", "versiculos_comentados": "Lc 2,1-14",
-          "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14." }
+        {
+          "tipo": "liturgica",
+          "celebracao": "natal",
+          "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "natal-noite",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 2,1-14",
+          "versiculos_comentados": "Lc 2,1-14",
+          "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14."
+        }
       ]
     },
     {
       "id": "gregorio-hom-10",
       "obra": "gregorio-homiliae-in-evangelia",
-      "numero": 10, "livro": "I",
+      "numero": 10,
+      "livro": "I",
       "titulo": "Homilia X",
       "pericope": "Mt 2,1-12",
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli die sancto theophaniae.",
@@ -79,16 +136,26 @@
       "arquivo": "homilias/gregorio-magno/revisada/homilia-10",
       "estado": "publicada",
       "correspondencias": [
-        { "tipo": "liturgica", "celebracao": "epifania",
-          "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia)." },
-        { "tipo": "biblica", "leituras": "epifania", "leitura": "Evangelho", "referencia_do_dia": "Mt 2,1-12", "versiculos_comentados": "Mt 2,1-12",
-          "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12." }
+        {
+          "tipo": "liturgica",
+          "celebracao": "epifania",
+          "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "epifania",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 2,1-12",
+          "versiculos_comentados": "Mt 2,1-12",
+          "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12."
+        }
       ]
     },
     {
       "id": "gregorio-hom-16",
       "obra": "gregorio-homiliae-in-evangelia",
-      "numero": 16, "livro": "I",
+      "numero": 16,
+      "livro": "I",
       "titulo": "Homilia XVI",
       "pericope": "Mt 4,1-11",
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
@@ -96,20 +163,42 @@
       "arquivo": "homilias/gregorio-magno/revisada/homilia-16",
       "estado": "publicada",
       "correspondencias": [
-        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-A"],
-          "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma." },
-        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-B"],
-          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11)." },
-        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-C"],
-          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11)." },
-        { "tipo": "biblica", "leituras": "QUA-1-domingo-A", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,1-11", "versiculos_comentados": "Mt 4,1-11",
-          "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11." }
+        {
+          "tipo": "liturgica",
+          "chaves": [
+            "QUA-1-domingo-A"
+          ],
+          "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma."
+        },
+        {
+          "tipo": "liturgica",
+          "chaves": [
+            "QUA-1-domingo-B"
+          ],
+          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11)."
+        },
+        {
+          "tipo": "liturgica",
+          "chaves": [
+            "QUA-1-domingo-C"
+          ],
+          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "QUA-1-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 4,1-11",
+          "versiculos_comentados": "Mt 4,1-11",
+          "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11."
+        }
       ]
     },
     {
       "id": "gregorio-hom-21",
       "obra": "gregorio-homiliae-in-evangelia",
-      "numero": 21, "livro": "II",
+      "numero": 21,
+      "livro": "II",
       "titulo": "Homilia XXI",
       "pericope": "Mc 16,1-7",
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die sancto Paschae.",
@@ -117,10 +206,103 @@
       "arquivo": "homilias/gregorio-magno/revisada/homilia-21",
       "estado": "publicada",
       "correspondencias": [
-        { "tipo": "liturgica", "celebracao": "pascoa",
-          "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia)." },
-        { "tipo": "biblica", "leituras": "vigilia-pascal-B", "leitura": "Evangelho", "referencia_do_dia": "Mc 16,1-7", "versiculos_comentados": "Mc 16,1-7",
-          "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B." }
+        {
+          "tipo": "liturgica",
+          "celebracao": "pascoa",
+          "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "vigilia-pascal-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mc 16,1-7",
+          "versiculos_comentados": "Mc 16,1-7",
+          "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-26",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 26,
+      "livro": "II",
+      "titulo": "Homilia XXVI",
+      "pericope": "Jo 20,19-31",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "ccsl": "CCSL 141, p. 217–228",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-26",
+      "estado": "publicada",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "divinamisericordia-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,19-31",
+          "versiculos_comentados": "Jo 20,19-31",
+          "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "divinamisericordia-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,19-31",
+          "versiculos_comentados": "Jo 20,19-31",
+          "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "divinamisericordia-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,19-31",
+          "versiculos_comentados": "Jo 20,19-31",
+          "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-29",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 29,
+      "livro": "II",
+      "titulo": "Homilia XXIX",
+      "pericope": "Mc 16,14-20",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri die ascensionis Domini.",
+      "ccsl": "CCSL 141, p. 244–254 (o texto crítico da leitura começa em Mc 16,15)",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-29",
+      "estado": "publicada",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "ascensaodosenhor",
+          "descricao": "Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "ascensaodosenhor-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mc 16,15-20",
+          "versiculos_comentados": "Mc 16,15-20",
+          "descricao": "Comenta o Evangelho da Ascensão no Ano B: Mc 16,15-20."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-30",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 30,
+      "livro": "II",
+      "titulo": "Homilia XXX",
+      "pericope": "Jo 14,23-31",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli die sancto Pentecosten.",
+      "ccsl": "CCSL 141, p. 255–268",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-30",
+      "estado": "publicada",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "pentecostes",
+          "descricao": "Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2)."
+        }
       ]
     }
   ]
