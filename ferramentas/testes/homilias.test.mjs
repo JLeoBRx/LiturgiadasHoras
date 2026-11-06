@@ -87,15 +87,19 @@ describe('Homilias: nenhuma alteração silenciosa', () => {
   for (const n of colacionadas) {
     test(`Homilia ${n}: revisada = recebida + correções aplicadas`, () => {
       const nn = String(n).padStart(2, '0');
-      const rec = blocos(path.join(G, 'recebida', `homilia-${nn}.txt`)).map((b) => ({ ...b }));
+      const rec = blocos(path.join(G, 'recebida', `homilia-${nn}.txt`)).map((b) => ({ ...b, antes: [] }));
       const aplicadas = REG.registros.filter((x) => x.homilia === n && x.estado === 'aplicada');
-      for (const r of aplicadas) rec[r.bloco].texto = rec[r.bloco].texto.replace(r.antes, r.depois);
+      for (const r of aplicadas) {
+        rec[r.bloco].texto = rec[r.bloco].texto.replace(r.antes, r.depois);
+        // blocos acrescentados antes (ex.: cabeçalho ausente, traduzido do latim)
+        for (const [marca, texto] of r.insere_antes || []) rec[r.bloco].antes.push({ marca, texto });
+      }
       // parágrafo partido no meio de uma frase na origem: une ao seguinte (de trás para frente)
       for (const r of aplicadas.filter((x) => x.une_ao_seguinte).sort((a, b) => b.bloco - a.bloco)) {
         rec[r.bloco].texto += ' ' + rec[r.bloco + 1].texto;
         rec.splice(r.bloco + 1, 1);
       }
-      const esperado = rec.flatMap((b) => b.texto.split('\n\n').map((t, i) => ({ marca: i ? '@paragrafo' : b.marca, texto: t })));
+      const esperado = rec.flatMap((b) => [...b.antes, ...b.texto.split('\n\n').map((t, i) => ({ marca: i ? '@paragrafo' : b.marca, texto: t }))]);
       const rev = blocos(path.join(G, 'revisada', `homilia-${nn}.txt`));
       assert.deepEqual(rev.map((b) => [b.marca, b.texto]), esperado.map((b) => [b.marca, b.texto]));
       const textoRev = rev.map((b) => b.texto).join('\n');

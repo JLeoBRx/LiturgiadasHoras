@@ -16,18 +16,129 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 28 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 14 |
+| Correções de tradução aplicadas | 40 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 15 |
 | Sugestões não aplicadas | 10 |
 | Dúvidas não resolvidas | 3 |
-| Variantes textuais registradas (texto mantido) | 24 |
-| Homilias conferidas | 9 de 40 |
+| Variantes textuais registradas (texto mantido) | 25 |
+| Homilias conferidas | 12 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
 ## 1. Alterações efetivamente aplicadas
 
 ### 1.1 Correções de tradução
+
+#### G01-01 · Homilia I · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 6, § 1 (igual a Migne)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 3
+- **Texto latino:** Huic etenim lectioni sancti Evangelii, quam modo vestra fraternitas audivit, paulo superius Dominus praemisit, dicens: Exsurget gens contra gentem…
+- **Tradução recebida:** “o Senhor acrescentou um pouco acima, dizendo:”
+- **Tradução aplicada:** “o Senhor antepôs, um pouco acima, dizendo:”
+- **Justificativa linguística:** 'Praemisit' é 'pôs antes', 'disse antes'; 'acrescentou' diz o contrário e não combina com 'um pouco acima'. Logo depois o latim usa 'adjunxit' (acrescentou) para a passagem que vem a seguir, e a tradução mantém essa distinção.
+- **Motivo:** Verbo com sentido invertido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G01-02 · Homilia I · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 7, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 4
+- **Texto latino:** Nam virtutes coelorum movebuntur. Quid etenim Dominus virtutes coelorum nisi angelos, archangelos, thronos, dominationes, principatus et potestates appellat…
+- **Tradução recebida:** “Pois as potestades dos céus serão abaladas.”
+- **Tradução aplicada:** “Pois as virtudes dos céus serão abaladas.”
+- **Justificativa linguística:** 'Virtutes' e 'potestates' são duas das nove ordens de anjos para Gregório (Homilia XXXIV, § 7, enumera ambas). Logo em seguida ele explica que as 'virtutes' significam todas as ordens, entre elas as 'potestates'; traduzir 'virtutes' por 'potestades' torna a explicação circular.
+- **Justificativa teológica ou contextual:** Preserva a terminologia angélica que Gregório desenvolve na Homilia XXXIV.
+- **Motivo:** Termo técnico trocado por outro da mesma série.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G01-03 · Homilia I · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 7, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 4
+- **Texto latino:** Quid etenim Dominus virtutes coelorum nisi angelos, archangelos, thronos, dominationes, principatus et potestates appellat
+- **Tradução recebida:** “que chama o Senhor de potestades dos céus, senão”
+- **Tradução aplicada:** “que chama o Senhor de virtudes dos céus, senão”
+- **Justificativa linguística:** Mesma razão de G01-02.
+- **Motivo:** Termo técnico trocado por outro da mesma série.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G01-04 · Homilia I · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 7, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 5
+- **Texto latino:** cum terror judicii virtutibus commotis ostenditur
+- **Tradução recebida:** “pelo abalo das potestades”
+- **Tradução aplicada:** “pelo abalo das virtudes”
+- **Justificativa linguística:** Mesma razão de G01-02: 'virtutibus commotis' retoma as 'virtutes coelorum' do Evangelho.
+- **Motivo:** Termo técnico trocado por outro da mesma série.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G01-05 · Homilia I · § 3, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 8, § 3 (igual a Migne)
+- **Localização no texto:** § 3, fim — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 5
+- **Texto latino:** quia tunc moeroris nostri nubila transeunt, et vitae dies aeterni solis claritate fulgescunt.
+- **Tradução recebida:** “e os dias da vida eterna resplandecem com a claridade do sol.”
+- **Tradução aplicada:** “e os dias da vida resplandecem com a claridade do sol eterno.”
+- **Justificativa linguística:** 'Aeterni' concorda com 'solis' (do sol eterno), não com 'vitae'.
+- **Justificativa teológica ou contextual:** O sol eterno é imagem de Deus/Cristo, que ilumina a vida dos eleitos; a tradução transferiu o adjetivo e perdeu a imagem.
+- **Motivo:** Adjetivo ligado à palavra errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G02-02 · Homilia II · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 13, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 3
+- **Texto latino:** si autem jam credit, sed ut aeternam lucem recipiat rogare dissimulat, atque a precibus cessat
+- **Tradução recebida:** “mas dissimula pedir para receber a luz eterna”
+- **Tradução aplicada:** “mas descuida de pedir para receber a luz eterna”
+- **Justificativa linguística:** Falso cognato: no latim tardio 'dissimulare' + infinitivo é deixar de fazer, descuidar-se; em português 'dissimular' é fingir ou disfarçar.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G02-03 · Homilia II · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 15, § 5 (igual a Migne)
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 6
+- **Texto latino:** Ecce stat qui ante transibat
+- **Tradução recebida:** “Eis que para quem antes passava, agora para;”
+- **Tradução aplicada:** “Eis que se detém aquele que antes passava;”
+- **Justificativa linguística:** A construção recebida se lê como 'para (preposição) quem antes passava'. O latim diz simplesmente: está parado aquele que antes passava.
+- **Motivo:** Construção ambígua que leva a uma leitura errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G02-04 · Homilia II · § 8
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 17, § 8 (igual a Migne)
+- **Localização no texto:** § 8 — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 9
+- **Texto latino:** Aspiciamus qua graditur, et ejus vestigia imitando teneamus.
+- **Tradução recebida:** “e firmemos os seus passos, imitando-o.”
+- **Tradução aplicada:** “e, imitando-o, sigamos as suas pegadas.”
+- **Justificativa linguística:** 'Vestigia tenere' é seguir as pegadas de alguém; 'firmemos os seus passos' diz que nós daríamos firmeza aos passos de Cristo.
+- **Motivo:** Sentido alterado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G02-05 · Homilia II · § 8, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 19, § 8 (igual a Migne)
+- **Localização no texto:** § 8, fim — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 9
+- **Texto latino:** sed haec ipsa nostra conversatio ad laudem Dei et alios accendat
+- **Tradução recebida:** “a nossa própria conversão inflama os outros”
+- **Tradução aplicada:** “o nosso próprio modo de viver inflama os outros”
+- **Justificativa linguística:** Falso cognato: 'conversatio' é o modo de viver, a conduta; 'conversão' seria 'conversio'.
+- **Justificativa teológica ou contextual:** Gregório fala do exemplo da vida que move os outros a louvar a Deus, como o povo que viu o cego seguir Jesus.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
 
 #### G05-01 · Homilia V · § 1, 1º parágrafo da homilia
 
@@ -77,6 +188,44 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Portanto, o reino de Deus, como dissemos, vale tanto quanto tens.”
 - **Justificativa linguística:** Mesma sentença de G05-03, repetida pelo autor: 'quantum habes', 2ª pessoa do singular.
 - **Motivo:** Alteração da pessoa gramatical de uma sentença do autor.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G06-01 · Homilia VI · § 1, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 40, § 1 (igual a Migne)
+- **Localização no texto:** § 1, fim — `dados/homilias/gregorio-magno/recebida/homilia-06.txt`, bloco 3
+- **Texto latino:** Ac si patenter dicat: Mira quidem facio, sed abjecta perpeti non dedignor. Quia ergo moriendo te subsequor, cavendum valde est hominibus…
+- **Tradução recebida:** “Portanto, porque eu Te sigo morrendo,”
+- **Tradução aplicada:** “Portanto, porque eu te sigo morrendo,”
+- **Justificativa linguística:** Quem fala é Cristo, dirigindo-se a João ('moriendo te subsequor': sigo-te na morte, já que João morre antes). A maiúscula, que a tradução reserva a Deus, faz o pronome parecer dirigido a Cristo.
+- **Justificativa teológica ou contextual:** Gregório explica que João, precursor no nascimento, será precursor também na morte e na descida aos infernos; a maiúscula inverte quem precede e quem segue.
+- **Motivo:** Pronome com referente trocado pela maiúscula.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G06-02 · Homilia VI · § 6, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 43, § 6 (igual a Migne)
+- **Localização no texto:** § 6, início — `dados/homilias/gregorio-magno/recebida/homilia-06.txt`, bloco 8
+- **Texto latino:** si aeternum regnum vel supplicium erranti denuntiat, cum sanctae annuntiationis verba impendit, profecto angelus existit.
+- **Tradução recebida:** “quando lhe oferece palavras de santa admoestação, certamente é anjo.”
+- **Tradução aplicada:** “quando lhe oferece palavras do santo anúncio, certamente é anjo.”
+- **Justificativa linguística:** 'Annuntiatio' é anúncio, não admoestação. Todo o argumento se apoia na equivalência 'angelus' = 'nuntius' (mensageiro): quem anuncia é anjo.
+- **Justificativa teológica ou contextual:** Gregório estende a todos os fiéis o nome de anjo pelo ofício de anunciar; com 'admoestação' perde-se o nexo com o nome.
+- **Motivo:** Termo trocado; perde-se o jogo de palavras em que se apoia o argumento.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G06-03 · Homilia VI · § 6, perto do fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 44, § 6
+- **Localização no texto:** § 6, perto do fim — `dados/homilias/gregorio-magno/recebida/homilia-06.txt`, bloco 8
+- **Texto latino:** Mecum vos admoneo, ut ab otioso sermone parcamus, inutiliter loqui declinemus.
+- **Tradução recebida:** “Eu vos admoesto comigo mesmo: pouparemos nossa língua da conversa ociosa, evitaremos falar inutilmente.”
+- **Tradução aplicada:** “Eu vos admoesto comigo mesmo a que nos abstenhamos da conversa ociosa, a que evitemos falar inutilmente.”
+- **Justificativa linguística:** 'Admoneo ut' pede o subjuntivo (exorto a que nos abstenhamos); o futuro do indicativo transforma a exortação em afirmação. 'Língua' não está no latim desta frase. A correção segue Migne, base da tradução; no texto crítico a frase está no imperativo ('parcite… declinate'), sem mudança de sentido.
+- **Motivo:** Modo verbal errado e acréscimo.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G07-01 · Homilia VII · § 3
@@ -385,6 +534,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 ### 1.2 Correções de problemas da fonte
 
 Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram junto com a tradução, ou corrigem referências bíblicas acrescentadas pela edição.
+
+#### G02-01 · Homilia II · início da homilia (cabeçalho e rubrica)
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 12 (o texto crítico traz só 'Homilia II'; a rubrica é de Migne)
+- **Localização no texto:** início da homilia (cabeçalho e rubrica) — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 0
+- **Texto latino:** HOMILIA II. Habita ad populum in basilica sancti Petri apostoli, Dominica in Quinquagesima.
+- **Tradução recebida:** “Leitura do Santo Evangelho segundo Lucas 18, 31-44.”
+- **Tradução aplicada:** “Leitura do Santo Evangelho segundo Lucas 18, 31-44.”
+- **Justificativa linguística:** A tradução recebida não tem cabeçalho nem rubrica para esta homilia (o texto começa direto na leitura). O número e a rubrica foram traduzidos de Migne, com as mesmas fórmulas usadas nas outras homilias ('Proferida ao povo na basílica do santo apóstolo Pedro'). Nada do texto recebido foi alterado.
+- **Motivo:** Identificação ausente na fonte portuguesa; acrescentada a partir do latim. A rubrica é de Migne: o texto crítico não a traz.
+- **Grau de segurança:** alta · **estado:** aplicada
 
 #### G10-01 · Homilia X · fim da leitura do Evangelho / início do § 1
 
@@ -725,6 +886,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G05-05 | V | anuncia a proximidade do dia do seu severo juízo | districti sui iudicii propinquitatem denuntiat (aparato: 'diem propinquantem' em S J N M) |
 | G05-06 | V | se renunciais aos desejos terrenos | Multa, fratres, relinquitis, si desideriis renuntiatis (aparato: 'desideriis' + 'terrenis' em J S M L R p.c.) |
 | G05-07 | V | seja um dia conduzida a desprezar as próprias, com a ajuda de nosso Senhor Jesus Cristo, etc. | quandoque ad propria contemnenda perducatur (aparato: + 'praestante domino nostro' em F V) |
+| G06-04 | VI | Na medida em que conseguimos resistir à língua | Inquantum reniti linguae praevalemus (Migne) |
 | G07-03 | VII | no quarto domingo do Advento do Senhor | Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli. (sem indicação do domingo) |
 | G07-02 | VII | anuncia o consolo do Redentor à Judeia abandonada e desamparada | derelictae ac destitutae Iudaeae solacium (suae: α) redemptionis annuntiat (aparato: 'redemptoris' em F V N M) |
 | G08-09 | VIII | porque não havia lugar para eles na hospedaria | quia non erat ei locus in diuersorio |
