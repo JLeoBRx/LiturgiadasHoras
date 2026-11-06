@@ -444,3 +444,40 @@ h4.subsecao .ref { color: var(--texto-3); font-weight: 500; margin-left: .4em; }
 .sobre code { background: var(--fundo-2); padding: 1px 6px; border-radius: 6px; font-size: .88em; }
 
 :focus-visible { outline: 2px solid var(--cor-dia); outline-offset: 2px; border-radius: 8px; }
+
+/* homilias dos santos (Liturgia Diária) */
+.bloco-homilia .homilia-cartao { padding: 4px 0 14px; font-family: var(--fonte-ui); }
+.bloco-homilia .homilia-cartao + .homilia-cartao { border-top: 1px solid var(--linha); padding-top: 16px; }
+.homilia-autor { font-family: var(--fonte-titulo); font-size: 1.25rem; font-weight: 600; margin: .4em 0 .1em !important; line-height: 1.2; }
+.homilia-autor span { display: block; font-family: var(--fonte-ui); font-size: .8rem; font-weight: 500; color: var(--texto-3); margin-top: 2px; }
+.homilia-titulo { font-size: .92rem; color: var(--texto-2); margin: 0 0 .6em !important; }
+.homilia-motivos { margin: 0 0 14px; padding-left: 18px; font-size: .86rem; line-height: 1.5; color: var(--texto-2); }
+.homilia-motivos li { margin: 0 0 4px; }
+.homilia-motivos strong { color: var(--texto); font-weight: 600; }
+.voltar {
+  display: inline-flex; align-items: center; gap: 6px; margin: 18px 0 0; font-size: .85rem; color: var(--texto-2); text-decoration: none;
+}
+.voltar svg { width: 16px; height: 16px; }
+.voltar:hover { color: var(--texto); }
+.cab-homilia h1 { font-size: clamp(1.8rem, 5.4vw, 2.5rem); }
+.homilia-meta {
+  margin: 0 0 18px; padding: 14px 18px; border: 1px solid var(--linha); border-radius: var(--raio-p); background: var(--cartao);
+  font-family: var(--fonte-ui); font-size: .86rem; line-height: 1.5;
+}
+.homilia-meta div + div { margin-top: 10px; }
+.homilia-meta dt { font-weight: 600; color: var(--texto-3); font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; }
+.homilia-meta dd { margin: 2px 0 0; color: var(--texto); }
+.homilia-meta ul { margin: 0; padding-left: 18px; }
+.controle-voz { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0 0 22px; }
+.controle-voz [hidden] { display: none !important; }
+.controle-voz small { flex-basis: 100%; color: var(--texto-3); font-size: .76rem; }
+.controle-voz svg { width: 16px; height: 16px; }
+.texto-homilia p { text-align: left; hyphens: auto; }
+.texto-homilia .homilia-leitura { font-style: italic; color: var(--texto-2); }
+.homilia-fonte {
+  margin: 34px 0 0; padding-top: 14px; border-top: 1px solid var(--linha);
+  font-family: var(--fonte-ui); font-size: .8rem; line-height: 1.55; color: var(--texto-2); word-break: break-word;
+}
+.homilia-fonte h3 { font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: var(--texto-3); margin: 0 0 8px; }
+.homilia-fonte p { margin: 0 0 8px; }
+.homilia-fonte code { font-size: .74rem; }

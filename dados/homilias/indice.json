@@ -1,0 +1,127 @@
+{
+  "_leia": [
+    "Homilias dos santos mostradas na Liturgia Diária. Só entram aqui textos conferidos e com correspondência verificada; o restante fica em inventario.json.",
+    "estado: 'publicada' aparece no site; qualquer outro valor (ex.: 'suspensa') esconde a homilia sem apagar nada.",
+    "correspondencias: 'liturgica' (pregada para esta celebração: 'celebracao' = id da celebração do dia, ou 'chaves' = chaves de leituras do dia do tempo) e 'biblica' (comenta a leitura proclamada: 'leituras' = chave de dados/liturgia-diaria/indice.json, 'leitura' = seção, 'referencia_do_dia' = referência exatamente como no arquivo de leituras, 'versiculos_comentados' = trecho comentado pela homilia que também é lido no dia). Correspondência só temática NUNCA entra aqui.",
+    "arquivo: camada revisada (texto publicado), gerada a partir da tradução recebida e do registro editorial. Ver dados/homilias/LEIA-ME.md.",
+    "Os testes (ferramentas/testes/homilias.test.mjs) conferem a integridade dos textos, as referências bíblicas e os dias em que cada homilia aparece."
+  ],
+  "autores": {
+    "gregorio-magno": {
+      "nome": "São Gregório Magno",
+      "titulo": "Papa e Doutor da Igreja",
+      "datas": "c. 540–604 (papa de 590 a 604)",
+      "memoria": "3 de setembro"
+    }
+  },
+  "obras": {
+    "gregorio-homiliae-in-evangelia": {
+      "autor": "gregorio-magno",
+      "titulo": "Homilias sobre os Evangelhos",
+      "titulo_latino": "Homiliae in Evangelia (XL homiliae)",
+      "data": "pregadas em 590–592, em Roma, nas missas das igrejas estacionais",
+      "autenticidade": "Atribuição segura. O próprio Gregório descreve a obra na carta ao bispo Secundino que a acompanha (40 homilias em dois livros: as 20 primeiras ditadas e lidas por um notário, as 20 seguintes pregadas por ele e anotadas enquanto falava) e mandou guardar os exemplares corrigidos no arquivo da Igreja de Roma.",
+      "edicao_critica": "R. Étaix (ed.), Gregorius Magnus, Homiliae in Evangelia, Corpus Christianorum Series Latina 141, Turnhout: Brepols, 1999.",
+      "edicao_historica": "Patrologia Latina, vol. 76 (ed. J.-P. Migne), base declarada da tradução recebida.",
+      "traducao": {
+        "tradutor": "não identificado",
+        "origem": "Arquivo 'Texto Traduzido, as 40 homilias.txt', enviado pelo responsável do projeto (pasta Homilia dos Santos). O inventário que o acompanha relaciona o texto ao site OpenSaints, que declara como base a edição de Migne.",
+        "direitos": "não verificados (o site OpenSaints não pôde ser consultado nesta sessão)",
+        "revisao": "Conferida neste projeto com o texto latino da CCSL 141, parágrafo por parágrafo. Correções, sugestões, dúvidas e variantes em dados/homilias/gregorio-magno/registro-editorial.json."
+      }
+    }
+  },
+  "homilias": [
+    {
+      "id": "gregorio-hom-05",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 5, "livro": "I",
+      "titulo": "Homilia V",
+      "pericope": "Mt 4,18-22",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Andreae apostoli, die natalis eius.",
+      "ccsl": "CCSL 141, p. 33–37",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-05",
+      "estado": "publicada",
+      "correspondencias": [
+        { "tipo": "liturgica", "celebracao": "santoandre",
+          "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia)." },
+        { "tipo": "biblica", "leituras": "santo:santoandre", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,18-22", "versiculos_comentados": "Mt 4,18-22",
+          "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22." },
+        { "tipo": "biblica", "leituras": "TC-3-domingo-A", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,12-23", "versiculos_comentados": "Mt 4,18-22",
+          "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23)." }
+      ]
+    },
+    {
+      "id": "gregorio-hom-08",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 8, "livro": "I",
+      "titulo": "Homilia VIII",
+      "pericope": "Lc 2,1-14",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die natalis Domini.",
+      "ccsl": "CCSL 141, p. 53–56",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-08",
+      "estado": "publicada",
+      "correspondencias": [
+        { "tipo": "liturgica", "celebracao": "natal",
+          "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia." },
+        { "tipo": "biblica", "leituras": "natal-noite", "leitura": "Evangelho", "referencia_do_dia": "Lc 2,1-14", "versiculos_comentados": "Lc 2,1-14",
+          "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14." }
+      ]
+    },
+    {
+      "id": "gregorio-hom-10",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 10, "livro": "I",
+      "titulo": "Homilia X",
+      "pericope": "Mt 2,1-12",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli die sancto theophaniae.",
+      "ccsl": "CCSL 141, p. 65–72",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-10",
+      "estado": "publicada",
+      "correspondencias": [
+        { "tipo": "liturgica", "celebracao": "epifania",
+          "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia)." },
+        { "tipo": "biblica", "leituras": "epifania", "leitura": "Evangelho", "referencia_do_dia": "Mt 2,1-12", "versiculos_comentados": "Mt 2,1-12",
+          "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12." }
+      ]
+    },
+    {
+      "id": "gregorio-hom-16",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 16, "livro": "I",
+      "titulo": "Homilia XVI",
+      "pericope": "Mt 4,1-11",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
+      "ccsl": "CCSL 141, p. 109–115",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-16",
+      "estado": "publicada",
+      "correspondencias": [
+        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-A"],
+          "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma." },
+        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-B"],
+          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11)." },
+        { "tipo": "liturgica", "chaves": ["QUA-1-domingo-C"],
+          "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11)." },
+        { "tipo": "biblica", "leituras": "QUA-1-domingo-A", "leitura": "Evangelho", "referencia_do_dia": "Mt 4,1-11", "versiculos_comentados": "Mt 4,1-11",
+          "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11." }
+      ]
+    },
+    {
+      "id": "gregorio-hom-21",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 21, "livro": "II",
+      "titulo": "Homilia XXI",
+      "pericope": "Mc 16,1-7",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die sancto Paschae.",
+      "ccsl": "CCSL 141, p. 173–179",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-21",
+      "estado": "publicada",
+      "correspondencias": [
+        { "tipo": "liturgica", "celebracao": "pascoa",
+          "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia)." },
+        { "tipo": "biblica", "leituras": "vigilia-pascal-B", "leitura": "Evangelho", "referencia_do_dia": "Mc 16,1-7", "versiculos_comentados": "Mc 16,1-7",
+          "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B." }
+      ]
+    }
+  ]
+}
