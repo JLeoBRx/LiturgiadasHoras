@@ -16,12 +16,12 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 92 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 45 |
+| Correções de tradução aplicadas | 105 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 49 |
 | Sugestões não aplicadas | 13 |
 | Dúvidas não resolvidas | 4 |
 | Variantes textuais registradas (texto mantido) | 25 |
-| Homilias conferidas | 28 de 40 |
+| Homilias conferidas | 31 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
@@ -1049,6 +1049,93 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Termo que não transmite o sentido do original.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G27-01 · Homilia XXVII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 230, § 1 (igual a Migne)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 3
+- **Texto latino:** Sed aliud est quod sponte impenditur naturae, aliud quod praeceptis dominicis ex charitate debetur obedientiae.
+- **Tradução recebida:** “outra é o que, pelos preceitos do Senhor, a obediência deve à caridade”
+- **Tradução aplicada:** “outra é o que, por caridade, se deve à obediência aos preceitos do Senhor”
+- **Justificativa linguística:** 'Obedientiae' é dativo: o amor 'ex charitate' é devido à obediência aos preceitos. A tradução inverteu os papéis (a obediência devendo à caridade).
+- **Justificativa teológica ou contextual:** Gregório distingue o afeto natural, dado espontaneamente, do amor que se deve por obediência ao mandamento de Cristo.
+- **Motivo:** Funções sintáticas invertidas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-02 · Homilia XXVII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 233, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 6
+- **Texto latino:** Sic sic per amarum poculum confectionis pervenitur ad gaudium salutis.
+- **Tradução recebida:** “pelo amargo cálice da provação”
+- **Tradução aplicada:** “pelo amargo cálice do remédio”
+- **Justificativa linguística:** 'Confectio' é a poção medicinal preparada; a imagem é a do remédio amargo que traz a saúde ('salutis'), como na Homilia III, § 3 ('amarum poculum… purgationis').
+- **Motivo:** Imagem trocada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-06 · Homilia XXVII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 235, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 6
+- **Texto latino:** Jam pene tot qui videamus non sumus quot veritatis testes habemus.
+- **Tradução recebida:** “Já quase não somos tantos nós que vemos, quantos temos testemunhas da verdade.”
+- **Tradução aplicada:** “Nós, que vemos, já quase não somos tantos quantas são as testemunhas da verdade que temos.”
+- **Justificativa linguística:** Construção recebida ininteligível; reordenada sem mudar palavras de sentido: os vivos que veem já são quase menos numerosos que os mártires.
+- **Motivo:** Construção incompreensível.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-07 · Homilia XXVII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 237, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 9
+- **Texto latino:** Oratio quippe in peccatum est illa petere quae prohibet ipse qui petitur.
+- **Tradução recebida:** “é pedir aquilo que proíbe o próprio Aquele a quem se pede”
+- **Tradução aplicada:** “é pedir aquilo que proíbe Aquele mesmo a quem se pede”
+- **Justificativa linguística:** 'O próprio Aquele' é construção agramatical; 'ipse qui petitur' é 'aquele mesmo a quem se pede'.
+- **Motivo:** Construção agramatical.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-08 · Homilia XXVII · § 9, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 238, § 9 (igual a Migne)
+- **Localização no texto:** § 9, início — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 11
+- **Texto latino:** Sed ecce in nos graviter inimicus deliquit, damna intulit, juvantes laesit, amantes persecutus est.
+- **Tradução recebida:** “feriu os que nos ajudavam, perseguiu os que nos amavam”
+- **Tradução aplicada:** “feriu-nos quando o ajudávamos, perseguiu-nos quando o amávamos”
+- **Justificativa linguística:** Os particípios 'juvantes' e 'amantes' referem-se a 'nos' (nós, que o ajudávamos e amávamos), não a terceiros que nos ajudavam ou amavam.
+- **Justificativa teológica ou contextual:** O exemplo é o do inimigo que retribui o bem com o mal, situação em que Gregório pede o perdão do Pai-nosso.
+- **Motivo:** Referente dos particípios trocado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G28-01 · Homilia XXVIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 239
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-28.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. IV, 46-53.
+- **Tradução recebida:** “JOÃO (Jo 4,46-53).”
+- **Tradução aplicada:** “JOÃO 4, 46-53.”
+- **Justificativa linguística:** Referência no formato dos títulos das outras homilias.
+- **Motivo:** Uniformidade da identificação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G28-02 · Homilia XXVIII · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 242, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-28.txt`, bloco 5
+- **Texto latino:** Hoc propter Deum honorate in hominibus, quibus tamen commissi non estis, quod facti sunt ad imaginem Dei.
+- **Tradução recebida:** “ainda que eles não vos tenham sido confiados”
+- **Tradução aplicada:** “ainda que não estejais confiados a eles”
+- **Justificativa linguística:** 'Quibus… commissi non estis' é 'aos quais vós não estais confiados' (não estais sob a autoridade deles); a tradução inverteu quem é confiado a quem.
+- **Justificativa teológica ou contextual:** Gregório pede que se honre a imagem de Deus em todo homem, inclusive naqueles que não são vossos superiores.
+- **Motivo:** Sujeito e complemento invertidos.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G29-08 · Homilia XXIX · § 10
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
@@ -1160,6 +1247,78 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “quão grande artista é este Espírito Santo”
 - **Justificativa linguística:** Nome divino grafado com minúscula, ao contrário de todo o resto da tradução.
 - **Motivo:** Erro de grafia de um nome divino.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-01 · Homilia XXXI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 269
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIII, 6-13.
+- **Tradução recebida:** “Lição do Santo Evangelho segundo Lucas 13, 6-13.”
+- **Tradução aplicada:** “Leitura do Santo Evangelho segundo Lucas 13, 6-13.”
+- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com a fórmula 'Lição', diferente das demais homilias. Passa a título da leitura, na forma usada em toda a tradução.
+- **Motivo:** Organização e uniformidade da identificação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-02 · Homilia XXXI · leitura do Evangelho
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 269
+- **Localização no texto:** leitura do Evangelho — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 2
+- **Texto latino:** In illo tempore, dicebat Jesus turbis similitudinem hanc…
+- **Tradução recebida:** “Naquele tempo, Jesus dizia”
+- **Tradução aplicada:** “Naquele tempo, Jesus dizia”
+- **Justificativa linguística:** O texto da leitura (Lc 13,6-13) estava marcado como parágrafo da homilia; passa a bloco de leitura, como nas demais homilias. Nenhuma palavra muda.
+- **Motivo:** Organização do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-03 · Homilia XXXI · § 6
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 273, § 6 (igual a Migne)
+- **Localização no texto:** § 6 — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 8
+- **Texto latino:** quid horis omnibus in cogitationibus vestris volvatis semper aspicite
+- **Tradução recebida:** “vede sempre o que revolvei a toda hora”
+- **Tradução aplicada:** “vede sempre o que revolveis a toda hora”
+- **Justificativa linguística:** 'Revolvei' é imperativo; aqui o verbo está numa oração interrogativa indireta e pede o indicativo ('revolveis').
+- **Motivo:** Erro de concordância verbal.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-04 · Homilia XXXI · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 274, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 9
+- **Texto latino:** Incurvatus sum et humiliatus sum usquequaque (Psal. XXXVII, 7).
+- **Tradução recebida:** “Estou encurvado e profundamente abatido (Sl 37,7)”
+- **Tradução aplicada:** “Estou encurvado e humilhado de todo (Sl 37,7)”
+- **Justificativa linguística:** Gregório comenta logo depois a palavra 'usquequaque' (de todo, em tudo): quem pensa só nas necessidades da carne estaria curvado, 'mas não de todo'. A tradução do versículo ('profundamente abatido') apagava a palavra comentada.
+- **Motivo:** Citação traduzida sem a palavra que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-05 · Homilia XXXI · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 274, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 9
+- **Texto latino:** in seipso exclamavit, dicens: Incurvatus sum et humiliatus sum usquequaque.
+- **Tradução recebida:** “exclamou, dizendo: Estou encurvado e profundamente abatido.”
+- **Tradução aplicada:** “exclamou, dizendo: Estou encurvado e humilhado de todo.”
+- **Justificativa linguística:** Mesma razão de G31-04.
+- **Motivo:** Citação traduzida sem a palavra que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G31-06 · Homilia XXXI · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 274, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 9
+- **Texto latino:** incurvatus et humiliatus esset, sed tamen usquequaque non esset.
+- **Tradução recebida:** “estaria encurvado e abatido, mas não estaria assim em tudo”
+- **Tradução aplicada:** “estaria encurvado e humilhado, mas não de todo”
+- **Justificativa linguística:** Mesma razão de G31-04: o comentário retoma as palavras do versículo.
+- **Motivo:** Coerência entre a citação e o comentário.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 ### 1.2 Correções de problemas da fonte
@@ -1608,6 +1767,54 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “Desligai-o e deixai-o ir (Jo 11,44)”
 - **Justificativa linguística:** A referência bíblica entre parênteses (nota editorial, não texto do autor) está errada: 'Desligai-o e deixai-o ir' é Jo 11,44. A CCSL, no aparato de fontes, também indica Jo 11,44.
 - **Motivo:** Erro na referência bíblica acrescentada pela edição.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-03 · Homilia XXVII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 234
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 6
+- **Texto latino:** Mihi autem nimis honorificati sunt amici tui, Deus (Psal. CXXXVIII, 17).
+- **Tradução recebida:** “ó Deus Sl 138 Sl 17.”
+- **Tradução aplicada:** “ó Deus (Sl 138,17).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-04 · Homilia XXVII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 234
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 6
+- **Texto latino:** Nimis confortatus est principatus eorum (Ibid.).
+- **Tradução recebida:** “é a sua autoridade (ibid.)”
+- **Tradução aplicada:** “é a sua autoridade (Sl 138,17)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-05 · Homilia XXVII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 235
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 6
+- **Texto latino:** Dinumerabo eos, et super arenam multiplicabuntur (Ibid., 18).
+- **Tradução recebida:** “mais do que a areia (ibid., 18)”
+- **Tradução aplicada:** “mais do que a areia (Sl 138,18)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G28-03 · Homilia XXVIII · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 242
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-28.txt`, bloco 5
+- **Texto latino:** Humiliatus sum, et liberavit me (Ibid.).
+- **Tradução recebida:** “Ele me libertou” (ibid.)”
+- **Tradução aplicada:** “Ele me libertou” (Sl 114,6)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G29-01 · Homilia XXIX · § 3, fim
