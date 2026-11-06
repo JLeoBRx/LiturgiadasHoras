@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 42, Trecho 43, Trecho 44
-@correcoes G21-01, G21-02, G21-03
+@correcoes G21-01, G21-02, G21-03, G21-08
 
 @cabecalho continua
 LIVRO SEGUNDO. HOMILIA XXI. Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.
 
 @leitura-titulo
-LEITURA do santo Evangelho segundo Marcos 16, 1-7.
+Leitura do santo Evangelho segundo Marcos 16,1-7.
 
 @leitura
 Naquele tempo, Maria Madalena, e Maria, mãe de Tiago, e Salomé compraram aromas, para irem ungir Jesus. E, muito de manhã, no primeiro dia da semana, vão ao sepulcro, já nascido o sol. E diziam entre si: Quem nos revolverá a pedra da entrada do sepulcro? E, levantando os olhos, viram a pedra revolvida. Com efeito, era muito grande. E, entrando no sepulcro, viram um jovem sentado à direita, vestido com uma túnica branca, e ficaram tomadas de espanto. Ele lhes disse: Não vos assusteis. Procurais Jesus Nazareno, o crucificado; ressuscitou, não está aqui. Eis o lugar onde o puseram. Mas ide, dizei a seus discípulos, e a Pedro, que ele irá adiante de vós para a Galileia. Lá o vereis, como vos disse.

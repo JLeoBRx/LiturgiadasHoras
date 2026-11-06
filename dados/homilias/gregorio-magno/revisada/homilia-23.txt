@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 48, Trecho 49
-@correcoes (nenhuma)
+@correcoes G23-01
 
 @cabecalho continua
 HOMILIA XXIII. Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.
 
 @leitura-titulo
-LEITURA do santo Evangelho segundo Lucas 24, 13-35.
+Leitura do santo Evangelho segundo Lucas 24,13-35.
 
 @leitura
 Naquele tempo, dois dos discípulos de Jesus iam, nesse mesmo dia, a uma aldeia que distava de Jerusalém sessenta estádios, chamada Emaús; e conversavam entre si sobre tudo o que acontecera. E sucedeu que, enquanto conversavam e discutiam, o próprio Jesus, aproximando-se, caminhava com eles. Os olhos deles, porém, estavam impedidos de o reconhecer. E Ele lhes disse: Que palavras são essas que trocais entre vós enquanto caminhais? E por que estais tristes? Respondendo um deles, chamado Cléofas, disse-Lhe: Tu és o único forasteiro em Jerusalém que não sabes o que ali aconteceu nestes dias? E Ele lhes perguntou: O quê? Disseram-Lhe: O que se refere a Jesus Nazareno, que foi um profeta poderoso em obras e palavras diante de Deus e de todo o povo; e como os sumos sacerdotes e as nossas autoridades o entregaram para ser condenado à morte e o crucificaram. Nós, porém, esperávamos que fosse Ele quem haveria de redimir Israel. E, com tudo isso, hoje já é o terceiro dia desde que essas coisas aconteceram. É verdade que também algumas mulheres dentre as nossas nos deixaram assustados: foram ao sepulcro antes do amanhecer e, não tendo encontrado o seu corpo, voltaram dizendo até terem visto uma visão de anjos, os quais afirmam que Ele vive. Alguns dos nossos foram ao sepulcro e encontraram tudo exatamente como as mulheres haviam dito; a Ele, porém, não encontraram. Então Ele lhes disse: Ó insensatos e lentos de coração para crer em tudo o que disseram os profetas! Não era necessário que o Cristo padecesse essas coisas e assim entrasse em sua glória? E, começando por Moisés e passando por todos os profetas, explicava-lhes, em todas as Escrituras, o que a respeito d’Ele se encontrava. Aproximaram-se da aldeia para onde iam, e Ele fez menção de seguir adiante. Mas eles O constrangeram, dizendo: Fica conosco, porque já é tarde e o dia declina. E entrou para ficar com eles. E aconteceu que, estando à mesa com eles, tomou o pão, abençoou-o, partiu-o e lhes dava. Então os olhos deles se abriram, e O reconheceram; mas Ele desapareceu de diante deles. E disseram um ao outro: Não ardia o nosso coração dentro de nós, quando Ele nos falava pelo caminho e nos abria as Escrituras? E, levantando-se na mesma hora, voltaram para Jerusalém, onde encontraram reunidos os Onze e os que estavam com eles, os quais diziam: O Senhor ressuscitou verdadeiramente e apareceu a Simão. E eles, por sua vez, contavam o que lhes acontecera no caminho e como O reconheceram ao partir o pão.

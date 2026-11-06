@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 10, Trecho 11, Trecho 12
-@correcoes G07-01
+@correcoes G07-01, G07-05
 
 @cabecalho
 HOMILIA VII.
@@ -10,7 +10,7 @@ HOMILIA VII.
 Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO JOÃO 1, 19-28.
+Leitura do santo Evangelho segundo João 1,19-28.
 
 @leitura
 Naquele tempo, os judeus enviaram de Jerusalém sacerdotes e levitas a João, para o interrogarem: Tu, quem és? E ele confessou e não negou. E confessou: Eu não sou o Cristo. E interrogaram-no: Então, quê? És tu Elias? E ele disse: Não sou. És tu o profeta? E respondeu: Não. Disseram-lhe, pois: Quem és, para que demos resposta aos que nos enviaram? Que dizes de ti mesmo? Ele disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías. E os que tinham sido enviados eram dos fariseus. E o interrogaram e lhe disseram: Por que, então, batizas, se tu não és o Cristo, nem Elias, nem o profeta? João lhes respondeu, dizendo: Eu batizo com água; no meio de vós está quem vós não conheceis. É ele o que há de vir depois de mim, que foi posto adiante de mim, de quem não sou digno de desatar a correia da sandália. Isso aconteceu em Betânia, além do Jordão, onde João batizava.

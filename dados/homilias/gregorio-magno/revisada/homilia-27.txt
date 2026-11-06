@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 59, Trecho 60, Trecho 61, Trecho 62
-@correcoes G27-01, G27-02, G27-03, G27-04, G27-05, G27-06, G27-07, G27-08
+@correcoes G27-01, G27-02, G27-03, G27-04, G27-05, G27-06, G27-07, G27-08, G27-09
 
 @cabecalho continua
 HOMILIA XXVII. Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.
 
 @leitura-titulo
-LEITURA do santo Evangelho segundo João 15, 12-16.
+Leitura do santo Evangelho segundo João 15,12-16.
 
 @leitura
 Naquele tempo, Jesus disse a seus discípulos: Este é o meu mandamento: que vos ameis uns aos outros como Eu vos amei. Ninguém tem amor maior do que este: dar alguém a própria vida por seus amigos. Vós sois meus amigos, se fizerdes o que Eu vos mando. Já não vos chamo servos, porque o servo não sabe o que faz o seu senhor. Mas a vós chamei amigos, porque tudo quanto ouvi de meu Pai vos dei a conhecer. Não fostes vós que me escolhestes, mas fui Eu que vos escolhi e vos constituí para que vades, e deis fruto, e o vosso fruto permaneça, a fim de que tudo quanto pedirdes ao Pai em meu nome, Ele vos conceda.

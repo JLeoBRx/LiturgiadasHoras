@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 84, Trecho 85, Trecho 86, Trecho 87
-@correcoes G35-01, G35-02, G35-03, G35-04, G35-05, G35-06, G35-07, G35-08, G35-10
+@correcoes G35-01, G35-02, G35-03, G35-04, G35-05, G35-06, G35-07, G35-08, G35-10, G35-11
 
 @cabecalho continua
 HOMILIA XXXV. Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS (Lc 21,9-19).
+Leitura do santo Evangelho segundo Lucas 21,9-19.
 
 @leitura
 Naquele tempo, disse Jesus a seus discípulos: Quando ouvirdes falar de guerras e revoltas, não vos assusteis; pois é necessário que estas coisas aconteçam primeiro, mas o fim não virá imediatamente. Então lhes dizia: Levantar-se-á nação contra nação, e reino contra reino; haverá grandes terremotos em vários lugares, pestes e fomes; haverá também horrores do céu e grandes sinais. Mas, antes de tudo isso, lançarão as mãos sobre vós e vos perseguirão, entregando-vos às sinagogas e aos cárceres, arrastando-vos à presença de reis e governadores por causa do meu nome. Isso vos acontecerá para testemunho. Ponde, pois, em vossos corações não premeditar como haveis de responder. Pois Eu vos darei boca e sabedoria, à qual todos os vossos adversários não poderão resistir nem contradizer. Sereis entregues até por pais, irmãos, parentes e amigos; e matarão alguns de vós. Sereis odiados por todos por causa do meu nome, e nem um cabelo de vossa cabeça se perderá. Na vossa paciência possuireis as vossas almas.

@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 19, Trecho 20, Trecho 21
-@correcoes G12-01, G12-02, G12-03, G12-04, G12-05
+@correcoes G12-01, G12-02, G12-03, G12-04, G12-05, G12-07
 
 @cabecalho continua
 HOMILIA XII.
@@ -10,7 +10,7 @@ HOMILIA XII.
 Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 25, 1-13.
+Leitura do santo Evangelho segundo Mateus 25,1-13.
 
 @leitura
 Naquele tempo, disse Jesus a seus discípulos esta parábola: O reino dos céus é semelhante a dez virgens que, tomando suas lâmpadas, saíram ao encontro do esposo e da esposa. Ora, cinco delas eram néscias, e cinco prudentes. As cinco néscias, tendo tomado as suas lâmpadas, não levaram consigo óleo; as prudentes, porém, levaram óleo em seus recipientes, juntamente com as lâmpadas. Como o esposo demorasse, todas cochilaram e adormeceram. Mas, à meia-noite, ouviu-se um clamor: Eis que o esposo vem, saí ao seu encontro. Então se levantaram todas aquelas virgens e prepararam as suas lâmpadas. E as néscias disseram às prudentes: Dai-nos do vosso óleo, porque as nossas lâmpadas estão se apagando. Mas as prudentes responderam, dizendo: Talvez não baste para nós e para vós; ide antes aos que vendem e comprai para vós. Enquanto, porém, iam comprar, chegou o esposo; e as que estavam preparadas entraram com ele para as núpcias, e a porta foi fechada. Por fim vieram também as outras virgens, dizendo: Senhor, Senhor, abre-nos. Mas ele respondeu: Em verdade vos digo: não vos conheço. Vigiai, portanto, porque não sabeis nem o dia nem a hora.

@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 44, Trecho 45, Trecho 46, Trecho 47, Trecho 48
-@correcoes G22-01, G22-02, G22-03, G22-04, G22-05, G22-06, G22-07, G22-08, G22-09
+@correcoes G22-01, G22-02, G22-03, G22-04, G22-05, G22-06, G22-07, G22-08, G22-09, G22-10
 
 @cabecalho
 HOMILIA XXII.
@@ -10,7 +10,7 @@ HOMILIA XXII.
 Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.
 
 @leitura-titulo
-Leitura do santo Evangelho segundo João 20, 1–9.
+Leitura do santo Evangelho segundo João 20,1-9.
 
 @leitura
 Naquele tempo, no primeiro dia da semana, Maria Madalena foi ao sepulcro de manhã, quando ainda estava escuro, e viu que a pedra havia sido retirada do sepulcro. Correu, então, e foi a Simão Pedro e ao outro discípulo, aquele a quem Jesus amava, e disse-lhes: Levaram o Senhor do sepulcro, e não sabemos onde o puseram. Saiu, então, Pedro e também aquele outro discípulo, e foram ao sepulcro. Os dois corriam juntos; mas aquele outro discípulo correu mais depressa do que Pedro e chegou primeiro ao sepulcro. E, inclinando-se, viu os lençóis postos ali, mas não entrou. Chegou, então, Simão Pedro, seguindo-o, e entrou no sepulcro. E viu os lençóis postos ali, e o sudário que estivera sobre a sua cabeça, não posto com os lençóis, mas dobrado à parte, em lugar separado. Então entrou também aquele discípulo que havia chegado primeiro ao sepulcro; ele viu e creu. Pois ainda não conheciam a Escritura, segundo a qual era necessário que Ele ressuscitasse dentre os mortos.

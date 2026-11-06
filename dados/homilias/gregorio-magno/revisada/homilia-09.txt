@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 13, Trecho 14, Trecho 15
-@correcoes G09-01, G09-02, G09-03, G09-04
+@correcoes G09-01, G09-02, G09-03, G09-04, G09-05
 
 @cabecalho continua
 HOMILIA IX. Proferida ao povo na basílica de São Silvestre, no dia do seu natalício.
 
 @leitura-titulo
-LEITURA do Santo Evangelho segundo Mateus 25, 14-30.
+Leitura do santo Evangelho segundo Mateus 25,14-30.
 
 @leitura
 Naquele tempo, disse Jesus a seus discípulos esta parábola: Um homem, ao partir para longe, chamou os seus servos e lhes entregou os seus bens. A um deu cinco talentos, a outro dois, e a outro um, a cada um segundo a sua própria capacidade; e partiu imediatamente. Então foi o que havia recebido cinco talentos, negociou com eles e ganhou outros cinco. Do mesmo modo, o que havia recebido dois ganhou outros dois. Mas o que havia recebido um, saindo, cavou na terra e escondeu o dinheiro de seu senhor. Depois de muito tempo, veio o senhor daqueles servos e acertou contas com eles. Aproximando-se o que havia recebido cinco talentos, apresentou outros cinco, dizendo: Senhor, entregaste-me cinco talentos; eis que ganhei outros cinco. Disse-lhe o seu senhor: Muito bem, servo bom e fiel; porque foste fiel no pouco, sobre o muito te constituirei; entra na alegria do teu senhor. Aproximou-se também o que havia recebido dois talentos e disse: Senhor, entregaste-me dois talentos; eis que ganhei outros dois. Disse-lhe o seu senhor: Muito bem, servo bom e fiel; porque foste fiel no pouco, sobre o muito te constituirei; entra na alegria do teu senhor. Aproximando-se, porém, também o que havia recebido um talento, disse: Senhor, sei que és um homem duro, que colhes onde não semeaste e ajuntas onde não espalhaste; e, com medo, fui esconder o teu talento na terra; eis aí o que é teu. Mas o seu senhor, respondendo, disse-lhe: Servo mau e preguiçoso, sabias que eu colho onde não semeei e ajunto onde não espalhei; devias, pois, ter entregado o meu dinheiro aos banqueiros, e eu, ao voltar, teria recebido o que é meu com juros. Tirai-lhe, portanto, o talento e dai-o àquele que tem dez talentos. Pois a todo o que tem será dado, e terá em abundância; mas daquele que não tem, até o que parece ter lhe será tirado. E lançai o servo inútil nas trevas exteriores; ali haverá choro e ranger de dentes.

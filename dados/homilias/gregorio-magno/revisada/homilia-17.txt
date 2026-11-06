@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 28, Trecho 29, Trecho 30, Trecho 31, Trecho 32, Trecho 33, Trecho 34
-@correcoes G17-01, G17-02, G17-03, G17-04, G17-05, G17-06, G17-07, G17-08, G17-09, G17-10, G17-11
+@correcoes G17-01, G17-02, G17-03, G17-04, G17-05, G17-06, G17-07, G17-08, G17-09, G17-10, G17-11, G17-12
 
 @cabecalho continua
 HOMILIA XVII.
@@ -10,7 +10,7 @@ HOMILIA XVII.
 Proferida aos bispos nas fontes do Latrão.
 
 @leitura-titulo
-LEITURA DO EVANGELHO SEGUNDO LUCAS 10, 1-9.
+Leitura do Evangelho segundo Lucas 10,1-9.
 
 @leitura
 Naquele tempo, o Senhor designou também outros setenta e dois, e os enviou de dois em dois diante de sua face, a toda cidade e lugar aonde ele mesmo havia de vir. E dizia-lhes: A messe é, na verdade, grande, mas os trabalhadores são poucos. Rogai, pois, ao Senhor da messe que envie trabalhadores para a sua messe. Ide; eis que eu vos envio como cordeiros para o meio de lobos. Não leveis bolsa, nem alforje, nem sandálias, e a ninguém saudeis pelo caminho. Em qualquer casa em que entrardes, dizei primeiro: Paz a esta casa. E, se ali houver um filho da paz, repousará sobre ele a vossa paz; se, porém, não houver, ela voltará para vós. Permanecei na mesma casa, comendo e bebendo do que eles tiverem; pois digno é o trabalhador de seu salário. Não passeis de casa em casa. E, em qualquer cidade em que entrardes, se vos receberem, comei do que vos for posto diante; curai os enfermos que nela houver e dizei-lhes: O Reino de Deus se aproximou de vós.

@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 72, Trecho 73, Trecho 74
-@correcoes G32-01, G32-02, G32-03, G32-04, G32-05, G32-06, G32-07, G32-08, G32-09, G32-10
+@correcoes G32-01, G32-02, G32-03, G32-04, G32-05, G32-06, G32-07, G32-08, G32-09, G32-10, G32-12
 
 @cabecalho
 HOMILIA XXXII.
@@ -10,7 +10,7 @@ HOMILIA XXXII.
 Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS IX, 23-27.
+Leitura do santo Evangelho segundo Lucas 9,23-27.
 
 @leitura
 Naquele tempo, Jesus disse a seus discípulos: Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia a sua cruz e siga-me. Pois quem quiser salvar a sua vida, perdê-la-á; mas quem perder a sua vida por causa de mim, salvá-la-á. Pois que aproveita ao homem ganhar o mundo inteiro, se perde a si mesmo e causa a própria ruína? Porque quem se envergonhar de mim e das minhas palavras, dele o Filho do homem se envergonhará quando vier na sua majestade, e na do Pai, e dos santos anjos. Digo-vos, em verdade: há alguns dos que aqui estão que não provarão a morte até que vejam o Reino de Deus.

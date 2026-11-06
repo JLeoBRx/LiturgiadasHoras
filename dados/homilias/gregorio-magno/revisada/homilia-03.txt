@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 4, Trecho 5
-@correcoes G03-01, G03-02, G03-03, G03-04
+@correcoes G03-01, G03-02, G03-03, G03-04, G03-05
 
 @cabecalho
 HOMILIA III.
@@ -10,7 +10,7 @@ HOMILIA III.
 Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.
 
 @leitura-titulo
-LEITURA do santo Evangelho segundo Mateus 12, 46-50.
+Leitura do santo Evangelho segundo Mateus 12,46-50.
 
 @leitura
 Naquele tempo, enquanto Jesus falava às multidões, eis que sua mãe e seus irmãos estavam do lado de fora, procurando falar-lhe. Então alguém lhe disse: Eis que tua mãe e teus irmãos estão do lado de fora, procurando-te. Mas Ele, respondendo ao que lhe falava, disse: Quem é minha mãe, e quem são meus irmãos? E, estendendo as mãos para os seus discípulos, disse: Eis minha mãe e meus irmãos. Pois todo aquele que fizer a vontade de meu Pai, que está nos céus, esse é meu irmão, e irmã, e mãe.

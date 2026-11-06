@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 24, Trecho 25, Trecho 26
-@correcoes G15-01, G15-02, G15-03, G15-04
+@correcoes G15-01, G15-02, G15-03, G15-04, G15-05
 
 @cabecalho continua
 HOMILIA XV. Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS 8, 4-15.
+Leitura do santo Evangelho segundo Lucas 8,4-15.
 
 @leitura
 Naquele tempo, quando uma grande multidão se ajuntava, e das cidades acorriam a Jesus, Ele disse por meio de uma parábola: Saiu o semeador a semear a sua semente. E, enquanto semeava, uma parte caiu à beira do caminho, foi pisada, e as aves do céu a comeram. Outra caiu sobre a pedra e, tendo brotado, secou, porque não tinha umidade. Outra caiu entre espinhos e, crescendo ao mesmo tempo os espinhos, estes a sufocaram. Outra, porém, caiu em terra boa e, depois de nascer, produziu fruto centuplicado. Dizendo isto, clamava: Quem tem ouvidos para ouvir, ouça. Seus discípulos, porém, perguntavam-Lhe o que significava esta parábola. E Ele lhes disse: A vós foi dado conhecer o mistério do reino de Deus; aos demais, porém, em parábolas, para que, vendo, não vejam, e, ouvindo, não entendam. Esta é, pois, a parábola: a semente é a palavra de Deus. A que caiu à beira do caminho são os que ouvem; depois vem o diabo e tira a palavra do coração deles, para que não creiam e não sejam salvos. A que caiu sobre a pedra são os que, ao ouvirem, recebem a palavra com alegria. Mas estes não têm raiz, porque creem por algum tempo e, no tempo da tentação, se afastam. A que caiu entre espinhos são os que ouviram, mas, indo adiante, são sufocados pelas preocupações, pelas riquezas e pelos prazeres da vida, e não chegam a dar fruto. A que caiu em terra boa são os que, ouvindo a palavra com coração bom e ótimo, a guardam e dão fruto na perseverança.

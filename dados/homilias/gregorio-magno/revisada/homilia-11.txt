@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 17, Trecho 18, Trecho 19
-@correcoes G11-01
+@correcoes G11-01, G11-03
 
 @cabecalho
 HOMILIA XI.
@@ -10,7 +10,7 @@ HOMILIA XI.
 Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.
 
 @leitura-titulo
-LEITURA do Santo Evangelho segundo Mateus 13, 44–52.
+Leitura do santo Evangelho segundo Mateus 13,44-52.
 
 @leitura
 Naquele tempo, Jesus disse aos seus discípulos esta parábola: O reino dos céus é semelhante a um tesouro escondido no campo; quando um homem o encontra, torna a escondê-lo e, pela alegria que isso lhe dá, vai, vende tudo o que tem e compra aquele campo. De novo, o reino dos céus é semelhante a um negociante que procura boas pérolas; tendo encontrado uma pérola preciosa, foi, vendeu tudo o que possuía e a comprou. De novo, o reino dos céus é semelhante a uma rede lançada ao mar, que ajunta peixes de toda espécie. E, quando fica cheia, os homens a puxam para a praia e, sentados à beira-mar, recolhem os bons em cestos, mas lançam fora os maus. Assim será na consumação do século. Os anjos sairão e separarão os maus do meio dos justos, e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes. Compreendestes tudo isso? Eles lhe dizem: Sim, Senhor. Então ele lhes disse: Por isso, todo escriba instruído no reino dos céus é semelhante a um pai de família que tira de seu tesouro coisas novas e coisas velhas.
