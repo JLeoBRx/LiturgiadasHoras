@@ -115,12 +115,15 @@ santificai-nos na verdade.
 
 {EVANGELHO (mais longo)}
 
+@secao Evangelho | Mc 2,23-3,6
+
 @tema
 O Filho do homem é Senhor também do sábado.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Marcos** {2,23-3,6}
 
+@texto
 [23] Jesus estava passando por uns campos de trigo,
 em dia de sábado.
 Seus discípulos começaram a arrancar espigas,

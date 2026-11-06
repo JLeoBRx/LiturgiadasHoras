@@ -288,12 +288,15 @@ e sobre nós há de reinar o Salvador do mundo.
 
 {EVANGELHO (mais longo)}
 
+@secao Evangelho | Mt 1,1-25
+
 @tema
 Origem de Jesus Cristo, filho de Davi.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {1,1-25}
 
+@texto
 [1] Livro da origem de Jesus Cristo,
 filho de Davi, filho de Abraão.
 [2] Abraão gerou Isaac; Isaac gerou Jacó;

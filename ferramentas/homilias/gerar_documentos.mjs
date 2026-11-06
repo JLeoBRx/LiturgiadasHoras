@@ -128,10 +128,10 @@ export function gerar() {
   };
   const gregorio = CAT.homilias.map((c) => {
     const h = publicadas.get(c.numero);
-    const cand = candidatas(c.pericope_fonte_portuguesa, evangelhos, SAN);
+    const cand = candidatas(c.pericope, evangelhos, SAN);
     return {
       numero: c.numero, livro: c.livro, titulo: `Homilia ${ROM[c.numero]}`, titulo_de_trabalho: c.titulo_de_trabalho,
-      pericope: c.pericope_fonte_portuguesa, pericope_hurst: c.pericope_hurst, ccsl_paginas: c.ccsl_paginas,
+      pericope: c.pericope, pericope_hurst: c.pericope_hurst, ccsl_paginas: c.ccsl_paginas,
       ocasiao_na_traducao: rubrica(c.numero),
       estado: h ? 'publicada' : (colacao.has(c.numero) ? 'conferida, não publicada' : 'aguardando colação com o latim'),
       correspondencias_publicadas: h ? h.correspondencias.map((x) => ({ tipo: x.tipo, descricao: x.descricao, ...(x.leituras ? { leituras: x.leituras, dia: descreverChave(x.leituras, SAN) } : {}), ...(x.celebracao ? { celebracao: x.celebracao } : {}), ...(x.chaves ? { chaves: x.chaves } : {}) })) : [],

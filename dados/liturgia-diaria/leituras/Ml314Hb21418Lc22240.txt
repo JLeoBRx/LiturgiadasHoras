@@ -99,14 +99,15 @@ Palavra do Senhor.
 {V.} Sois a luz que brilhará para os gentios,
 e para a glória de Israel, o vosso povo.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Lc 2,22-40
 
 @tema
 Meus olhos viram a tua salvação.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Lucas** {2,22-40}
 
+@texto
 [22] Quando se completaram os dias
 para a purificação da mãe e do filho,
 conforme a Lei de Moisés,

@@ -40,12 +40,12 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 #### G01-06 · Homilia I · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 21, 25-33
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 1
 - **Texto latino:** LECTIO EVANGELII SEC. LUC. XXI, 25-32.
 - **Tradução recebida:** “LEITURA DO EVANGELHO SEGUNDO LUCAS (21, 25-32).”
-- **Tradução aplicada:** “Leitura do Evangelho segundo Lucas 21,25-32.”
-- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Tradução aplicada:** “Leitura do Evangelho segundo Lucas 21,25-33.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 21,25-33: a leitura termina em 'Coelum et terra transibunt, verba autem mea non transibunt' (Lc 21,33); é também a extensão dada pela CCSL 141 (Evg. Lc 21, 25-33). O título de Migne, copiado pela tradução, indicava outra extensão.
 - **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -127,12 +127,12 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 #### G02-06 · Homilia II · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 18, 31-43
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 0
 - **Texto latino:** LECTIO S. EVANGELII SEC. LUC. XVIII, 31-44.
 - **Tradução recebida:** “Leitura do Santo Evangelho segundo Lucas 18, 31-44.”
-- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 18,31-44.”
-- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 18,31-43.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 18,31-43: Lc 18 tem 43 versículos; a leitura termina em 'Et omnis plebs, ut vidit, dedit laudem Deo' (Lc 18,43); é também a extensão dada pela CCSL 141 (Evg. Lc 18, 31-43). O título de Migne, copiado pela tradução, indicava outra extensão.
 - **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -2699,12 +2699,12 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 #### G38-25 · Homilia XXXVIII · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Mt 22, 1-14
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 1
 - **Texto latino:** LECTIO S. EVANG. SEC. MATTH. XXII, 1-13.
 - **Tradução recebida:** “LEITURA do Santo Evangelho segundo Mateus 22, 1-13.”
-- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 22,1-13.”
-- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 22,1-14.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 22,1-14: a leitura termina em 'Multi enim sunt vocati, pauci vero electi' (Mt 22,14), versículo que Gregório comenta no § 14; é também a extensão dada pela CCSL 141 (Evg. Mt 22, 1-14). O título de Migne, copiado pela tradução, indicava outra extensão.
 - **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -2915,12 +2915,12 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 #### G39-08 · Homilia XXXIX · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 19, 41-47
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 2
 - **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIX, 42-47.
 - **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS XIX, 42-47.”
-- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 19,42-47.”
-- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 19,41-47.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 19,41-47: a leitura começa em 'cum appropinquaret Jesus Jerusalem, videns civitatem, flevit super illam' (Lc 19,41); é também a extensão dada pela CCSL 141 (Evg. Lc 19, 41-47). O título de Migne, copiado pela tradução, indicava outra extensão.
 - **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -4800,6 +4800,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **Decisão editorial (06/11/2026):** Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.
 - **Decisão editorial (06/11/2026):** G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.
 - **Decisão editorial (06/11/2026):** Etapa 1 aprovada. C1: preenchimento da lacuna da Homilia XL aprovado. C2: frase da Homilia XXVI mantida com nota editorial. C3: PDFs protegidos permanecem por ora; o responsável fará a exclusão. C4: Migne como referência, com a leitura da CCSL adotada quando houver justificativa filológica consistente e o sentido o exigir (aplicado em G01-07 e G16-05; demais variantes avaliadas e mantidas). C5: G05-08 mantida; G20-14 mantida por enquanto, com a dúvida registrada; G21-06 'incessante'. C6: aplicar G08-04, G08-05, G11-02, G12-06, G23-04, G30-06; manter G07-04, G19-04, G29-09, G30-04. C7: tradução própria piloto aprovada como experiência metodológica, separada da recebida.
+- **Decisão editorial (06/11/2026):** Extensão da leitura corrigida no título das Homilias I (Lc 21,25-33), II (Lc 18,31-43), XXXVIII (Mt 22,1-14) e XXXIX (Lc 19,41-47), conforme o próprio texto da leitura e a CCSL 141. A Homilia IV fica com Mt 10,5-10: a leitura de Migne vai até o v. 10 (a CCSL corta no v. 8), e a tradução segue Migne. A perícope da Homilia XVIII (Jo 8,46-59) foi corrigida no catálogo.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
 - **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).
@@ -4826,8 +4827,8 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 
 | Santo | Texto | Motivo |
 |---|---|---|
-| São Gregório Magno | Homilia I (Lc 21,25-32) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia II (Lc 18,31-44) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia I (Lc 21,25-33) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia II (Lc 18,31-43) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia III (Mt 12,46-50) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia IV (Mt 10,5-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia VI (Mt 11,2-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
@@ -4838,7 +4839,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | São Gregório Magno | Homilia XIV (Jo 10,11-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XV (Lc 8,4-15) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XVII (Lc 10,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XVIII (Jo 8,45-69) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XVIII (Jo 8,46-59) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XIX (Mt 20,1-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XX (Lc 3,1-11) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XXII (Jo 20,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
@@ -4854,8 +4855,8 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | São Gregório Magno | Homilia XXXV (Lc 21,9-19) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XXXVI (Lc 14,16-24) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XXXVII (Lc 14,25-33) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXVIII (Mt 22,1-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXIX (Lc 19,42-47) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXVIII (Mt 22,1-14) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXIX (Lc 19,41-47) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
 | São Gregório Magno | Homilia XL (Lc 16,19-31) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
 | São João Maria Vianney | todos os sermões | sem tradução portuguesa; edição de origem e autoria a investigar |
 | Santo Antônio de Pádua | todos os sermões | direitos da tradução portuguesa (Vozes, 2019); sem texto latino para conferência |

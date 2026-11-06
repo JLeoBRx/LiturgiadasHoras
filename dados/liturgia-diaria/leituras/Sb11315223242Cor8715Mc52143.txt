@@ -86,14 +86,15 @@ Palavra do Senhor.
 {V.} Jesus Cristo, Salvador, destruiu o mal e a morte;
 fez brilhar, pelo Evangelho, a luz e a vida imperecíveis.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mc 5,21-43
 
 @tema
 Menina, levanta-te!
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Marcos** {5,21-43}
 
+@texto
 Naquele tempo,
 [21] Jesus atravessou de novo, numa barca,
 para a outra margem.

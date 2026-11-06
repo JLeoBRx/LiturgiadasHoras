@@ -123,14 +123,15 @@ Palavra do Senhor.
 {V.} Tanto amor Deus nos mostrou, que seu Filho entregou,
 como vítima expiatória pelas nossas transgressões.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Lc 7,36-8,3
 
 @tema
 Os muitos pecados que ela cometeu estão perdoados, porque ela mostrou muito amor.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Lucas** {7,36-8,3}
 
+@texto
 Naquele tempo,
 
 36

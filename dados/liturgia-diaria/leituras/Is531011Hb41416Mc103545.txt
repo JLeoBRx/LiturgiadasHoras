@@ -78,14 +78,15 @@ Palavra do Senhor.
 {V.} Jesus Cristo veio servir, Cristo veio dar sua vida.
 Jesus Cristo veio salvar, viva Cristo, Cristo viva!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mc 10,35-45
 
 @tema
 O Filho do Homem veio para dar a sua vida como resgate para muitos.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Marcos** {10,35-45}
 
+@texto
 Naquele tempo,
 
 [35] Tiago e João, filhos de Zebedeu,

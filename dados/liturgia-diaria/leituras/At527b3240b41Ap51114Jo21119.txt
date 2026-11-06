@@ -97,14 +97,15 @@ Palavra do Senhor.
 {V.} Jesus Cristo ressurgiu, por quem tudo foi criado;
 ele teve compaixão do gênero humano.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Jo 21,1-19
 
 @tema
 Jesus aproximou-se, tomou o pão e distribuiu-o a eles.E fez a mesma coisa com o peixe.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo João** {21,1-19}
 
+@texto
 Naquele tempo,
 [1] Jesus apareceu de novo aos discípulos,
 à beira do mar de Tiberíades.

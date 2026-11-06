@@ -98,7 +98,9 @@ Palavra do Senhor.
 
 @secao Aclamação ao Evangelho | Cl 3,15a.16a R. Aleluia, Aleluia, Aleluia.
 
-@texto
+@secao Evangelho | Lc 10,1-12.17-20
+
+@leitura
 {V.} A paz de Cristo reine em vossos corações;
 ricamente habite em vós sua palavra!
 
@@ -106,6 +108,7 @@ EVANGELHO (mais longo)
 
 **Proclamação do Evangelho de Jesus Cristo segundo Lucas** {10,1-12.17-20}
 
+@texto
 _A vossa paz repousará sobre ele._
 
 Naquele tempo,

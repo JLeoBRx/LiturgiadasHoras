@@ -9,7 +9,7 @@
    "livro": "I",
    "titulo": "Homilia I",
    "titulo_de_trabalho": "Haverá sinais",
-   "pericope": "Lc 21,25-32",
+   "pericope": "Lc 21,25-33",
    "pericope_hurst": "Lc 21,25-33",
    "ccsl_paginas": "5-11",
    "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
@@ -20,17 +20,17 @@
      "chave": "TC-34-sexta-I",
      "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano I",
      "referencia_do_dia": "Lc 21,29-33",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 80,
-     "cobre_a_homilia": 50
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 56
     },
     {
      "chave": "TC-34-sexta-II",
      "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano II",
      "referencia_do_dia": "Lc 21,29-33",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 80,
-     "cobre_a_homilia": 50
+     "versiculos_em_comum": 5,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 56
     },
     {
      "chave": "ADV-1-domingo-C",
@@ -38,23 +38,7 @@
      "referencia_do_dia": "Lc 21,25-28.34-36",
      "versiculos_em_comum": 4,
      "cobre_o_evangelho_do_dia": 57,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-34-quinta-I",
-     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 21,20-28",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 44,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-34-quinta-II",
-     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 21,20-28",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 44,
-     "cobre_a_homilia": 50
+     "cobre_a_homilia": 44
     }
    ],
    "estado_final": "finalizada",
@@ -65,7 +49,7 @@
    "livro": "I",
    "titulo": "Homilia II",
    "titulo_de_trabalho": "Um cego estava à beira do caminho",
-   "pericope": "Lc 18,31-44",
+   "pericope": "Lc 18,31-43",
    "pericope_hurst": "Lc 18,31-43",
    "ccsl_paginas": "12-19",
    "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no domingo da Quinquagésima.",
@@ -78,7 +62,7 @@
      "referencia_do_dia": "Lc 18,35-43",
      "versiculos_em_comum": 9,
      "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 64
+     "cobre_a_homilia": 69
     },
     {
      "chave": "TC-33-segunda-II",
@@ -86,7 +70,7 @@
      "referencia_do_dia": "Lc 18,35-43",
      "versiculos_em_comum": 9,
      "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 64
+     "cobre_a_homilia": 69
     }
    ],
    "estado_final": "finalizada",
@@ -137,6 +121,14 @@
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
     {
+     "chave": "santo:saobarnabe",
+     "dia": "São Barnabé, Apóstolo (11/06)",
+     "referencia_do_dia": "Mt 10,7-13",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 57,
+     "cobre_a_homilia": 67
+    },
+    {
      "chave": "TC-14-quinta-I",
      "dia": "Quinta-feira da 14ª semana do Tempo Comum, Ano I",
      "referencia_do_dia": "Mt 10,7-15",
@@ -150,6 +142,14 @@
      "referencia_do_dia": "Mt 10,7-15",
      "versiculos_em_comum": 4,
      "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-11-domingo-A",
+     "dia": "11º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 9,36-10,8",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 36,
      "cobre_a_homilia": 67
     },
     {
@@ -169,19 +169,11 @@
      "cobre_a_homilia": 50
     },
     {
-     "chave": "TC-11-domingo-A",
-     "dia": "11º Domingo do Tempo Comum, Ano A",
-     "referencia_do_dia": "Mt 9,36-10,8",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 8,
-     "cobre_a_homilia": 67
-    },
-    {
      "chave": "ADV-1-sabado",
      "dia": "Sábado da 1ª semana do Advento",
      "referencia_do_dia": "Mt 9,35-10,1.6-8",
      "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 6,
+     "cobre_o_evangelho_do_dia": 38,
      "cobre_a_homilia": 50
     }
    ],
@@ -313,6 +305,14 @@
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
     {
+     "chave": "TC-33-domingo-A",
+     "dia": "33º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 25,14-30",
+     "versiculos_em_comum": 17,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
      "chave": "TC-21-sabado-I",
      "dia": "Sábado da 21ª semana do Tempo Comum, Ano I",
      "referencia_do_dia": "Mt 25,14-30",
@@ -371,6 +371,14 @@
    "estado": "conferida, não publicada",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "TC-17-domingo-A",
+     "dia": "17º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 13,44-52",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
     {
      "chave": "TC-17-quinta-I",
      "dia": "Quinta-feira da 17ª semana do Tempo Comum, Ano I",
@@ -645,6 +653,22 @@
      "versiculos_em_comum": 9,
      "cobre_o_evangelho_do_dia": 75,
      "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-14-domingo-C",
+     "dia": "14º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 10,1-12.17-20",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 56,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "santo:saonicolau",
+     "dia": "São Nicolau, Bispo (06/12)",
+     "referencia_do_dia": "Lc 10,1-12.17-20",
+     "versiculos_em_comum": 9,
+     "cobre_o_evangelho_do_dia": 56,
+     "cobre_a_homilia": 100
     }
    ],
    "estado_final": "finalizada",
@@ -655,7 +679,7 @@
    "livro": "I",
    "titulo": "Homilia XVIII",
    "titulo_de_trabalho": "Quem de vós me acusa de pecado?",
-   "pericope": "Jo 8,45-69",
+   "pericope": "Jo 8,46-59",
    "pericope_hurst": "Jo 8,46-59",
    "ccsl_paginas": "135-141",
    "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
@@ -668,7 +692,7 @@
      "referencia_do_dia": "Jo 8,51-59",
      "versiculos_em_comum": 9,
      "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 36
+     "cobre_a_homilia": 64
     }
    ],
    "estado_final": "finalizada",
@@ -847,6 +871,14 @@
      "referencia_do_dia": "Jo 21,1-14",
      "versiculos_em_comum": 14,
      "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
+     "chave": "PAS-3-domingo-C",
+     "dia": "3º Domingo da Páscoa, Ano C",
+     "referencia_do_dia": "Jo 21,1-19",
+     "versiculos_em_comum": 14,
+     "cobre_o_evangelho_do_dia": 74,
      "cobre_a_homilia": 100
     }
    ],
@@ -1138,6 +1170,14 @@
      "versiculos_em_comum": 15,
      "cobre_o_evangelho_do_dia": 100,
      "cobre_a_homilia": 100
+    },
+    {
+     "chave": "TC-11-domingo-C",
+     "dia": "11º Domingo do Tempo Comum, Ano C",
+     "referencia_do_dia": "Lc 7,36-8,3",
+     "versiculos_em_comum": 15,
+     "cobre_o_evangelho_do_dia": 83,
+     "cobre_a_homilia": 100
     }
    ],
    "estado_final": "finalizada",
@@ -1308,7 +1348,7 @@
    "livro": "II",
    "titulo": "Homilia XXXVIII",
    "titulo_de_trabalho": "Muitos são chamados, mas poucos escolhidos",
-   "pericope": "Mt 22,1-13",
+   "pericope": "Mt 22,1-14",
    "pericope_hurst": "Mt 22,2-14",
    "ccsl_paginas": "359-378",
    "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
@@ -1316,19 +1356,27 @@
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
     {
+     "chave": "TC-28-domingo-A",
+     "dia": "28º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 22,1-14",
+     "versiculos_em_comum": 14,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 100
+    },
+    {
      "chave": "TC-20-quinta-I",
      "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano I",
      "referencia_do_dia": "Mt 22,1-14",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 93,
+     "versiculos_em_comum": 14,
+     "cobre_o_evangelho_do_dia": 100,
      "cobre_a_homilia": 100
     },
     {
      "chave": "TC-20-quinta-II",
      "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano II",
      "referencia_do_dia": "Mt 22,1-14",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 93,
+     "versiculos_em_comum": 14,
+     "cobre_o_evangelho_do_dia": 100,
      "cobre_a_homilia": 100
     }
    ],
@@ -1340,7 +1388,7 @@
    "livro": "II",
    "titulo": "Homilia XXXIX",
    "titulo_de_trabalho": "Se ao menos neste dia conhecesses",
-   "pericope": "Lc 19,42-47",
+   "pericope": "Lc 19,41-47",
    "pericope_hurst": "Lc 19,41-47",
    "ccsl_paginas": "379-392",
    "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
@@ -1351,17 +1399,17 @@
      "chave": "TC-33-quinta-I",
      "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano I",
      "referencia_do_dia": "Lc 19,41-44",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 57
     },
     {
      "chave": "TC-33-quinta-II",
      "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano II",
      "referencia_do_dia": "Lc 19,41-44",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 100,
+     "cobre_a_homilia": 57
     },
     {
      "chave": "TC-33-sexta-I",
@@ -1369,7 +1417,7 @@
      "referencia_do_dia": "Lc 19,45-48",
      "versiculos_em_comum": 3,
      "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "cobre_a_homilia": 43
     },
     {
      "chave": "TC-33-sexta-II",
@@ -1377,7 +1425,7 @@
      "referencia_do_dia": "Lc 19,45-48",
      "versiculos_em_comum": 3,
      "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "cobre_a_homilia": 43
     }
    ],
    "estado_final": "finalizada",

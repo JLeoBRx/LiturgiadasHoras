@@ -84,14 +84,15 @@ Palavra do Senhor.
 {V.} Eu sou a ressurreição, eu sou a vida.
 Quem crê em mim não morrerá eternamente.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Jo 11,1-45
 
 @tema
 Eu sou a ressurreição e a vida.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo João** {11,1-45}
 
+@texto
 Naquele tempo,
 [1] havia um doente, Lázaro, que era de Betânia,
 o povoado de Maria e de Marta, sua irmã.

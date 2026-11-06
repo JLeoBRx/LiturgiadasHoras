@@ -75,14 +75,15 @@ Palavra do Senhor.
 {V.} Ficai em mim, e eu em vós hei de ficar, diz o Senhor;
 quem em mim permanece, esse dá muito fruto.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mt 25,14-30
 
 @tema
 Como foste fiel na administração de tão pouco, vem participar de minha alegria.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {25,14-30}
 
+@texto
 Naquele tempo,
 Jesus contou esta parábola a seus discípulos:
 [14] "Um homem ia viajar para o estrangeiro.

@@ -78,13 +78,15 @@ Palavra do Senhor.
 {V.} Felizes os pobres em espírito,
 porque deles é o Reino dos Céus.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mc 10,17-30
 
 @tema
 Vende tudo o que tens e segue-me!
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Marcos** {10,17-30}
+
+@texto
 Naquele tempo,
 
 [17] quando Jesus saiu a caminhar, veio alguém correndo,

@@ -254,14 +254,15 @@ Palavra do Senhor.
 {V.} Na verdade, sois, Senhor, o Salvador do mundo.
 Senhor, dai-me água viva a fim de eu não ter sede!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Jo 4,5-42
 
 @tema
 Uma fonte de água que jorra para a vida eterna.
 
-@texto
+@leitura
 Proclamação do Evangelho de Jesus Cristo segundo João {4,5-42}
 
+@texto
 Naquele tempo,
 [5] Jesus chegou a uma cidade da Samaria, chamada Sicar,
 perto do terreno que Jacó tinha dado ao seu filho José.
