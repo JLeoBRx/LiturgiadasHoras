@@ -167,6 +167,14 @@ function inventarioMd(inv, REG) {
   L.push('- As candidatas abaixo foram calculadas sobre o índice de leituras do site, que foi reconstruído (ver `dados/liturgia-diaria/indice.json`). Antes de publicar, confira o dia no Lecionário.', '');
 
   L.push('## São Gregório Magno — Homiliae in Evangelia', '');
+  const lista = (f) => g.filter(f).map((h) => ROM[h.numero]).join(', ') || 'nenhuma';
+  L.push('### Situação das 40 homilias', '', '| Camada | Homilias | Quantidade |', '|---|---|---|');
+  L.push(`| Recebida: cópia exata da tradução, \`recebida/\` | prefácio e I a XL | ${g.length} + prefácio |`);
+  L.push(`| Revisada: conferida com a CCSL 141, \`revisada/\` | ${lista((h) => REG.colacao.some((c) => c.homilia === h.numero))} | ${REG.colacao.length} |`);
+  L.push(`| Publicada na Liturgia Diária | ${lista((h) => h.estado === 'publicada')} | ${pub.length} |`);
+  L.push(`| Aguardando colação com o latim | ${lista((h) => !REG.colacao.some((c) => c.homilia === h.numero))} | ${g.length - REG.colacao.length} |`);
+  L.push(`| Tradução própria do latim | nenhuma: ${REG.procedencia.traducao_propria.split('.')[0]} | 0 |`, '');
+  L.push(`Procedência da tradução recebida: ${REG.procedencia.fonte_de_obtencao_da_traducao}; fonte textual declarada: ${REG.procedencia.fonte_textual_declarada}. Tradutor: ${REG.procedencia.tradutor}`, '');
   L.push('### Homilias no site', '', '| Nº | Passagem | Ocasião (tradução recebida) | Dias em que aparece |', '|---|---|---|---|');
   for (const h of pub) {
     L.push(`| ${h.titulo} | ${h.pericope} | ${md(h.ocasiao_na_traducao_recebida)} | ${h.correspondencias_publicadas.map((c) => `**${c.tipo === 'liturgica' ? 'litúrgica' : 'bíblica'}:** ${md(c.dia || c.descricao)}`).join('<br>')} |`);
@@ -219,7 +227,8 @@ function auditoriaMd(REG, IND, gregorio) {
   L.push('# Auditoria das traduções — Homilias dos santos', '', '> Gerado a partir de `dados/homilias/gregorio-magno/registro-editorial.json` por `ferramentas/homilias/gerar_documentos.mjs`. Não edite à mão.', '');
   L.push('## Método', '');
   L.push('- **Texto latino de referência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e as duas redações do próprio Gregório (α e β).');
-  L.push('- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”. Tradutor não identificado; o inventário enviado o relaciona ao site OpenSaints, que declara usar a edição de Migne (PL 76). Essa edição não foi enviada.');
+  const P = REG.procedencia;
+  L.push(`- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”, obtido no portal OpenSaints (${P.fonte_de_obtencao_da_traducao.replace(/^Portal OpenSaints: /, '')}). Fonte textual declarada pela OpenSaints: ${P.fonte_textual_declarada}. Tradutor: ${P.tradutor} A edição de Migne não foi enviada.`);
   L.push('- **Procedimento:** cada homilia publicada foi lida em paralelo com o latim, parágrafo por parágrafo. Em todo ponto em que o português diverge do texto crítico, o aparato foi consultado; quando o OCR era duvidoso, a imagem da página.');
   L.push('- **Regra decisiva:** quando o português segue uma leitura que o aparato atribui a manuscritos, isso é diferença de tradição textual (provavelmente a da edição de Migne), não erro de tradução: o texto fica como recebido e a diferença é registrada como *variante*.');
   L.push('- **Só correções de confiança alta foram aplicadas.** Confiança moderada ou baixa = sugestão ou dúvida, nunca aplicada.');
@@ -240,7 +249,9 @@ function auditoriaMd(REG, IND, gregorio) {
   L.push('| Registro | Homilia | Tradução recebida | Latim crítico e aparato |', '|---|---|---|---|');
   for (const r of varia) L.push(`| ${r.id} | ${ROM[r.homilia]} | ${md(r.antes)} | ${md(r.latim)} |`);
   L.push('', '## 5. Problemas encontrados nas fontes', '');
-  L.push('- **Tradução portuguesa sem identificação:** o arquivo não traz tradutor, edição nem licença. O site OpenSaints, que o inventário indica como origem, não pôde ser consultado nesta sessão (bloqueado pela rede). Direitos de publicação: **pendentes de sua confirmação**.');
+  const PR = REG.procedencia.politica_de_reutilizacao_declarada;
+  L.push(`- **Tradução portuguesa sem tradutor identificado:** o arquivo não traz tradutor, edição nem licença. Foi obtido no portal OpenSaints, que declara na ${PR.onde}: “${PR.texto}” Também declara que ${PR.tambem_declarado}. Alcance: ${PR.alcance}. Verificação: ${PR.verificacao}.`);
+  for (const h of REG.historico) L.push(`- **Decisão editorial (${h.data.split('-').reverse().join('/')}):** ${h.decisao}`);
   L.push('- **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).');
   L.push('- **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.');
   L.push('- **Artefatos numéricos** (“1468”, “1573”) e numeração de parágrafos colados ao texto, juntando parágrafos (Homilias X e XXIX) — corrigidos nas homilias publicadas (ver 1.2).');

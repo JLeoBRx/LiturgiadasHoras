@@ -456,6 +456,7 @@ function telaSobre() {
     <h2>Créditos</h2>
     <p><strong>Textos da Liturgia das Horas, Lecionários, Missal e documentos da Igreja</strong><br>Conferência Nacional dos Bispos do Brasil (CNBB)<br>© Todos os direitos reservados.</p>
     <p><strong>Coletas salmódicas</strong><br>Secretariado Nacional de Liturgia — Conferência Episcopal Portuguesa<br>© Todos os direitos reservados.</p>
+    <p><strong>Homilias de São Gregório Magno</strong><br>Tradução portuguesa obtida no portal OpenSaints, a partir do texto latino da edição de Migne (Patrologia Latina 76); tradutor não identificado. Revisão deste projeto, conferida com a edição crítica de R. Étaix (CCSL 141, Brepols, 1999).</p>
     <h2>Para quem cuida do conteúdo</h2>
     <p>Todos os textos estão em arquivos <code>.txt</code> na pasta <code>dados/</code>. Os salmos ficam em <code>dados/salmos/</code> (um arquivo por salmo, usado em todos os ofícios). Veja o guia em <code>dados/LEIA-ME.md</code>.</p>
   </div>`;

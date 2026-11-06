@@ -22,11 +22,13 @@
       "data": "pregadas em 590–592, em Roma, nas missas das igrejas estacionais",
       "autenticidade": "Atribuição segura. O próprio Gregório descreve a obra na carta ao bispo Secundino que a acompanha (40 homilias em dois livros: as 20 primeiras ditadas e lidas por um notário, as 20 seguintes pregadas por ele e anotadas enquanto falava) e mandou guardar os exemplares corrigidos no arquivo da Igreja de Roma.",
       "edicao_critica": "R. Étaix (ed.), Gregorius Magnus, Homiliae in Evangelia, Corpus Christianorum Series Latina 141, Turnhout: Brepols, 1999.",
-      "edicao_historica": "Patrologia Latina, vol. 76 (ed. J.-P. Migne), base declarada da tradução recebida.",
+      "edicao_historica": "Patrologia Latina, vol. 76 (ed. J.-P. Migne), na transcrição da Wikisource latina indicada pela OpenSaints; base declarada da tradução recebida.",
       "traducao": {
-        "tradutor": "não identificado",
-        "origem": "Arquivo 'Texto Traduzido, as 40 homilias.txt', enviado pelo responsável do projeto (pasta Homilia dos Santos). O inventário que o acompanha relaciona o texto ao site OpenSaints, que declara como base a edição de Migne.",
-        "direitos": "não verificados (o site OpenSaints não pôde ser consultado nesta sessão)",
+        "tradutor": "não identificado nos materiais atualmente disponíveis",
+        "origem": "Obtida no portal OpenSaints (opensaints.com), que indica como fonte o texto latino da edição de Migne (Patrologia Latina 76) na Wikisource. A OpenSaints não é indicada aqui como autora da tradução.",
+        "fonte_de_obtencao": "https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne",
+        "arquivo_recebido": "Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt",
+        "direitos": "A OpenSaints declara, na introdução aos textos adicionais dos Padres da Igreja: \"Anyone may do anything they wish with any part of this material, whether for private, educational or commercial purposes.\" (informado pelo responsável do projeto em 06/11/2026). A declaração não se estende automaticamente a materiais de terceiros. Decisão editorial de 06/11/2026: manter a tradução como testemunho de referência, com a fonte indicada. Detalhes em gregorio-magno/registro-editorial.json (procedencia e historico).",
         "revisao": "Conferida neste projeto com o texto latino da CCSL 141, parágrafo por parágrafo. Correções, sugestões, dúvidas e variantes em dados/homilias/gregorio-magno/registro-editorial.json."
       }
     }

@@ -16,6 +16,32 @@ Os dois documentos e o `inventario.json` são **gerados**. Não os edite à mão
 rode `node ferramentas/homilias/gerar_documentos.mjs`. Os testes falham se eles
 estiverem desatualizados.
 
+## Procedência da tradução de São Gregório Magno
+
+| Campo | Registro |
+|---|---|
+| Autor original | São Gregório Magno (c. 540–604) |
+| Obra | *Homiliae in Evangelia* (40 homilias) |
+| Fonte textual declarada pela OpenSaints | edição de Migne, *Patrologia Latina* 76, na [Wikisource latina](https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne)) |
+| Fonte de obtenção da tradução portuguesa | [portal OpenSaints](https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne) |
+| Tradutor | não identificado nos materiais atualmente disponíveis |
+| Revisões do projeto | uma a uma em `gregorio-magno/registro-editorial.json` |
+| Edição crítica de conferência | R. Étaix, CCSL 141 (Brepols, 1999); usada só para conferir, sem publicar seu texto |
+
+A OpenSaints declara uma política de reutilização na introdução aos textos
+adicionais dos Padres da Igreja: “Anyone may do anything they wish with any
+part of this material, whether for private, educational or commercial
+purposes.” A declaração não se estende automaticamente a materiais de
+terceiros apenas hospedados ou referenciados pelo site.
+
+Não atribua a tradução à OpenSaints nem a uma pessoa específica sem prova
+documental. Os dados completos e a decisão editorial de 06/11/2026 estão em
+`procedencia` e `historico`, no registro editorial.
+
+A tradução própria, feita diretamente do latim, ainda não começou. Quando
+começar, ficará numa camada própria (por exemplo, `gregorio-magno/propria/`),
+sem apagar nem sobrescrever a recebida e a revisada.
+
 ## Camadas do texto (nada é sobrescrito)
 
 | Camada | Onde | Quem escreve |

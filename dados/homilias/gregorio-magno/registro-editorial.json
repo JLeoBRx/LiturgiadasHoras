@@ -2,13 +2,39 @@
  "_leia": [
   "Registro de TODAS as decisões editoriais sobre a tradução portuguesa recebida das Homiliae in Evangelia de São Gregório Magno.",
   "Referência latina: R. Étaix (ed.), Gregorius Magnus, Homiliae in Evangelia, CCSL 141, Turnhout: Brepols, 1999 (PDF enviado em Homilia dos Santos/…/para conferencia_homiliae-in-evangelia.pdf). 'ccsl' indica a página IMPRESSA e o parágrafo (§) da edição. Leituras com 'α' são da primeira redação, impressas pela edição entre parênteses.",
-  "A tradução recebida declara como base a Patrologia Latina (Migne, PL 76), que não foi enviada. Por isso, quando o português segue uma leitura que o aparato da CCSL atribui a manuscritos (variante), isso NÃO é tratado como erro: fica registrado como 'variante' e o texto não muda.",
+  "A tradução recebida foi obtida no portal OpenSaints, que indica como fonte o texto latino da edição de Migne (Patrologia Latina 76) na Wikisource latina (ver 'procedencia'). Essa edição não foi enviada. Por isso, quando o português segue uma leitura que o aparato da CCSL atribui a manuscritos (variante), isso NÃO é tratado como erro: fica registrado como 'variante' e o texto não muda.",
   "tipo: correcao (aplicada) | sugestao (não aplicada) | duvida (não aplicada) | variante (não aplicada) | problema-fonte (não aplicada).",
   "Só se aplica uma correção de confiança ALTA. 'antes' é copiado exatamente da tradução recebida (bloco indicado em 'bloco', contado a partir de 0 dentro do arquivo da camada recebida); 'depois' é o texto aplicado na camada revisada.",
   "A camada revisada é gerada por ferramentas/homilias/aplicar_alteracoes.py a partir da recebida e das correções com estado 'aplicada'. Para desfazer uma correção, mude o estado para 'nao-aplicada' e rode o script: a recebida nunca é alterada.",
   "Escolhas de estilo que não mudam o sentido (artigos, pontuação, tempo verbal harmonizado, ordem das palavras) não são itemizadas."
  ],
  "obra": "gregorio-homiliae-in-evangelia",
+ "procedencia": {
+  "autor_original": "São Gregório Magno (c. 540–604)",
+  "obra": "Homiliae in Evangelia (XL homiliae)",
+  "fonte_textual_declarada": "Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne)",
+  "fonte_de_obtencao_da_traducao": "Portal OpenSaints: https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne",
+  "arquivo_recebido": "Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt",
+  "tradutor": "não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.",
+  "politica_de_reutilizacao_declarada": {
+   "texto": "Anyone may do anything they wish with any part of this material, whether for private, educational or commercial purposes.",
+   "onde": "página de introdução aos textos adicionais dos Padres da Igreja: https://opensaints.com/pt-BR/padres-da-igreja/",
+   "tambem_declarado": "os prefácios adicionais produzidos pelo responsável do projeto OpenSaints são disponibilizados em domínio público",
+   "alcance": "não se estende automaticamente a materiais de terceiros apenas hospedados ou referenciados pelo site",
+   "verificacao": "informado pelo responsável deste projeto no relatório editorial de 06/11/2026; as páginas não puderam ser abertas na sessão que registrou esta informação (restrição de rede)"
+  },
+  "edicao_critica_de_conferencia": "R. Étaix (ed.), Gregorius Magnus, Homiliae in Evangelia, CCSL 141, Turnhout: Brepols, 1999 — instrumento de conferência crítica; seu texto não é publicado no site.",
+  "revisoes_do_projeto": "registradas uma a uma em 'registros' (correções aplicadas, sugestões, dúvidas, variantes e problemas da fonte).",
+  "traducao_propria": "não iniciada. Será feita diretamente do latim (Migne/PL 76, conferida com a CCSL 141), com auxílio de IA e revisão editorial humana, numa camada própria; poderá complementar ou substituir editorialmente a tradução recebida, sem apagá-la e mantendo o histórico das versões."
+ },
+ "historico": [
+  {
+   "data": "2026-11-06",
+   "origem": "relatório editorial do responsável do projeto (OpenSaints e as homilias de São Gregório Magno)",
+   "decisao": "Manter preservadas as 40 homilias recebidas e publicadas as 9 revisadas, com atribuição transparente da fonte (OpenSaints; Migne/PL 76 via Wikisource). A ausência de identificação do tradutor não é motivo automático para suspender ou ocultar a publicação. Não excluir 'recebida/', não ocultar homilias, não desfazer revisões, não reiniciar a tradução; a CCSL 141 continua como instrumento de conferência; a tradução própria do latim continua prevista.",
+   "alteracoes": "Procedência registrada em 'procedencia' (este arquivo) e em dados/homilias/indice.json (edicao_historica e traducao). Valores anteriores em indice.json: traducao.tradutor = 'não identificado'; traducao.direitos = 'não verificados (o site OpenSaints não pôde ser consultado nesta sessão)'. Nenhum texto de homilia foi alterado."
+  }
+ ],
  "registros": [
   {
    "id": "G05-01",

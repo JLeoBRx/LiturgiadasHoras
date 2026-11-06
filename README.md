@@ -132,8 +132,9 @@ Correspondências apenas temáticas não são mostradas: ficam no inventário.
 
 Hoje estão publicadas 9 das 40 *Homilias sobre os Evangelhos* de São Gregório
 Magno, as que têm correspondência segura e cuja tradução portuguesa foi
-conferida com o latim da edição crítica (CCSL 141). O texto enviado nunca é
-alterado. Cada correção fica registrada com o latim e a justificativa, e pode
+conferida com o latim da edição crítica (CCSL 141). A tradução foi obtida no
+portal OpenSaints, que indica como fonte a edição de Migne (PL 76); o
+tradutor não foi identificado. O texto enviado nunca é alterado. Cada correção fica registrada com o latim e a justificativa, e pode
 ser desfeita. Os sermões de São João Maria Vianney e de Santo Antônio ainda
 não estão publicados: o primeiro não tem tradução portuguesa, e o segundo
 tem uma tradução com direitos reservados e sem latim para conferir.

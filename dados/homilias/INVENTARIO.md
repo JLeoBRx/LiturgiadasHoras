@@ -20,6 +20,18 @@
 
 ## São Gregório Magno — Homiliae in Evangelia
 
+### Situação das 40 homilias
+
+| Camada | Homilias | Quantidade |
+|---|---|---|
+| Recebida: cópia exata da tradução, `recebida/` | prefácio e I a XL | 40 + prefácio |
+| Revisada: conferida com a CCSL 141, `revisada/` | V, VII, VIII, X, XVI, XXI, XXVI, XXIX, XXX | 9 |
+| Publicada na Liturgia Diária | V, VII, VIII, X, XVI, XXI, XXVI, XXIX, XXX | 9 |
+| Aguardando colação com o latim | I, II, III, IV, VI, IX, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV, XXV, XXVII, XXVIII, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL | 31 |
+| Tradução própria do latim | nenhuma: não iniciada | 0 |
+
+Procedência da tradução recebida: Portal OpenSaints: https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne; fonte textual declarada: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
+
 ### Homilias no site
 
 | Nº | Passagem | Ocasião (tradução recebida) | Dias em que aparece |
