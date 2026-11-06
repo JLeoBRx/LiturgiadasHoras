@@ -19,9 +19,9 @@
 |---|---|
 | Correções de tradução aplicadas | 250 |
 | Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 123 |
-| Sugestões não aplicadas | 13 |
+| Sugestões não aplicadas | 11 |
 | Dúvidas não resolvidas | 4 |
-| Variantes textuais registradas (texto mantido) | 28 |
+| Variantes textuais registradas (texto mantido) | 30 |
 | Homilias conferidas | 40 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
@@ -4556,18 +4556,6 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Atualização de um nome antigo. Fica para sua decisão (seriam três ocorrências).
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
-#### G08-03 · Homilia VIII · leitura do Evangelho (Lc 2,13)
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 53, l. 19-20 e aparato
-- **Localização no texto:** leitura do Evangelho (Lc 2,13) — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 3
-- **Texto latino:** facta est cum angelo multitudo militiae caelestis (aparato: + 'exercitus' em E)
-- **Tradução recebida:** “juntou-se ao anjo uma multidão da milícia do exército celeste”
-- **Tradução proposta:** “juntou-se ao anjo uma multidão da milícia celeste”
-- **Justificativa linguística:** 'do exército' não está no texto crítico nem na Vulgata; só um manuscrito (E) acrescenta 'exercitus'. Pode ser glosa do tradutor ou leitura da edição de Migne, que não foi conferida.
-- **Motivo:** Possível acréscimo. Não aplicado porque a edição-base da tradução (Migne) não pôde ser consultada.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
 #### G08-04 · Homilia VIII · § 1, 1ª frase
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
@@ -4652,18 +4640,6 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.”
 - **Justificativa linguística:** O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.
 - **Motivo:** Jogo de palavras intraduzível; decisão sua.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G26-12 · Homilia XXVI · § 10
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 226, § 10
-- **Localização no texto:** § 10 — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 13
-- **Texto latino:** Certe in die tremendi examinis sui, cum angelis, cum archangelis, cum thronis et dominationibus … apparebit
-- **Tradução recebida:** “Ele aparecerá com os seus, com os anjos”
-- **Tradução proposta:** “Ele aparecerá com os anjos”
-- **Justificativa linguística:** 'com os seus' não está no texto crítico. Não foi possível confirmar no aparato se algum manuscrito o tem.
-- **Motivo:** Possível acréscimo, sem efeito no sentido. Fica como sugestão.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G29-09 · Homilia XXIX · § 9
@@ -4764,6 +4740,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G06-04 | VI | Na medida em que conseguimos resistir à língua | Inquantum reniti linguae praevalemus (Migne) |
 | G07-03 | VII | no quarto domingo do Advento do Senhor | Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli. (sem indicação do domingo) |
 | G07-02 | VII | anuncia o consolo do Redentor à Judeia abandonada e desamparada | derelictae ac destitutae Iudaeae solacium (suae: α) redemptionis annuntiat (aparato: 'redemptoris' em F V N M) |
+| G08-03 | VIII | juntou-se ao anjo uma multidão da milícia do exército celeste | Migne (transcrição, camada latim/): 'facta est cum angelo multitudo militiae coelestis exercitus'; CCSL 141, p. 53: 'multitudo militiae caelestis', com 'exercitus' só no manuscrito E (aparato). |
 | G08-09 | VIII | porque não havia lugar para eles na hospedaria | quia non erat ei locus in diuersorio |
 | G08-06 | VIII | que a ambição não nos dilacere por meio dos deleites terrenos, que a ira não nos inflame | non ambitio per terrena oblectamenta dilaniet. (aparato: + 'non ira inflammet' em M p.c.) |
 | G08-07 | VIII | porque por ti Deus se fez homem, Ele que vive e reina pelos séculos dos séculos. Amém. | quia propter te factus est Deus homo. (aparato: doxologias acrescentadas em S e V) |
@@ -4779,6 +4756,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G26-09 | XXVI | na oitava da Páscoa | Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana. (sem indicação do dia) |
 | G26-10 | XXVI | fortalecesse para a fé | praebendo palpabile, formaret ad fidem (aparato: 'firmaret' em S) |
 | G26-11 | XXVI | Jesus lhe disse: Porque me viste, Tomé, creste. | Dicit ei Iesus: Quia uidisti me, credidisti. |
+| G26-12 | XXVI | Ele aparecerá com os seus, com os anjos | Migne (PL 76, col. 1558 da tiragem de 1849; conferido na imagem da página do PDF de Migne): 'Certe in die tremendi examinis suis, cum angelis, cum archangelis…'; CCSL 141, p. 226: 'in die tremendi examinis sui, cum angelis…'. |
 | G29-10 | XXIX | Naquele tempo, estando à mesa os onze discípulos, Jesus apareceu-lhes e censurou a sua incredulidade | In illo tempore dixit Iesus discipulis suis: Euntes in uniuersum mundum … (o texto crítico começa em Mc 16,15; o aparato registra em E p.c., F p.c. e X o acréscimo do v. 14: 'recumbentibus undecim discipulis apparuit illis Iesus et exprobrauit incredulitatem illorum…') |
 | G30-13 | XXX | porque em sua própria vontade se opõe a Ele | quia ei in sua uoluptate contradicit (aparato: 'uoluntate' em E B S F V A X) |
 | G30-12 | XXX | Naquela, Deus, permanecendo em si mesmo, assumiu o homem | In illa quippe Deus in se creando suscepit hominem (aparato: 'permanens … semetipsum creauit' em J, L p.c., X, M p.c.) |
@@ -4792,6 +4770,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **Decisão editorial (06/11/2026):** Uniformizar os títulos das leituras nas 40 homilias (forma única, referência em algarismos arábicos).
 - **Decisão editorial (06/11/2026):** G29-11 passa de sugestão a correção aplicada (grafia do Acordo Ortográfico, como no restante do site); G26-08 continua dúvida, agora com a conferência de Migne.
 - **Decisão editorial (06/11/2026):** Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.
+- **Decisão editorial (06/11/2026):** G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
 - **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).

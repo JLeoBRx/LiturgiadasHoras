@@ -51,6 +51,12 @@
    "origem": "Etapa 1 (finalização textual das 40 homilias), tradução própria",
    "decisao": "Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.",
    "alteracoes": "procedencia.traducao_propria atualizado. Valor anterior: 'não iniciada. Será feita diretamente do latim (Migne/PL 76, conferida com a CCSL 141), com auxílio de IA e revisão editorial humana, numa camada própria; poderá complementar ou substituir editorialmente a tradução recebida, sem apagá-la e mantendo o histórico das versões.'"
+  },
+  {
+   "data": "2026-11-06",
+   "origem": "Etapa 1 (finalização textual das 40 homilias), conferência com Migne",
+   "decisao": "G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.",
+   "alteracoes": "Valores anteriores — G08-03: tipo 'sugestao', confiança 'moderada', depois 'juntou-se ao anjo uma multidão da milícia celeste', justificativa ''do exército' não está no texto crítico nem na Vulgata; só um manuscrito (E) acrescenta 'exercitus'. Pode ser glosa do tradutor ou leitura da edição de Migne, que não foi conferida.', motivo 'Possível acréscimo. Não aplicado porque a edição-base da tradução (Migne) não pôde ser consultada.'. G26-12: tipo 'sugestao', confiança 'moderada', depois 'Ele aparecerá com os anjos', justificativa ''com os seus' não está no texto crítico. Não foi possível confirmar no aparato se algum manuscrito o tem.', motivo 'Possível acréscimo, sem efeito no sentido. Fica como sugestão.'."
   }
  ],
  "registros": [
@@ -738,17 +744,16 @@
   {
    "id": "G08-03",
    "homilia": 8,
-   "tipo": "sugestao",
+   "tipo": "variante",
    "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "confianca": "alta",
    "bloco": 3,
    "localizacao": "leitura do Evangelho (Lc 2,13)",
    "ccsl": "p. 53, l. 19-20 e aparato",
-   "latim": "facta est cum angelo multitudo militiae caelestis (aparato: + 'exercitus' em E)",
+   "latim": "Migne (transcrição, camada latim/): 'facta est cum angelo multitudo militiae coelestis exercitus'; CCSL 141, p. 53: 'multitudo militiae caelestis', com 'exercitus' só no manuscrito E (aparato).",
    "antes": "juntou-se ao anjo uma multidão da milícia do exército celeste",
-   "depois": "juntou-se ao anjo uma multidão da milícia celeste",
-   "justificativa_linguistica": "'do exército' não está no texto crítico nem na Vulgata; só um manuscrito (E) acrescenta 'exercitus'. Pode ser glosa do tradutor ou leitura da edição de Migne, que não foi conferida.",
-   "motivo": "Possível acréscimo. Não aplicado porque a edição-base da tradução (Migne) não pôde ser consultada."
+   "justificativa_linguistica": "Conferido agora com Migne: 'exercitus' está na edição de Migne, base da tradução. 'Do exército' não é acréscimo do tradutor: a tradução segue Migne, e o texto crítico não traz a palavra. Registra-se a variante, sem alterar o português.",
+   "motivo": "Variante entre Migne e a CCSL 141."
   },
   {
    "id": "G08-04",
@@ -2889,17 +2894,16 @@
   {
    "id": "G26-12",
    "homilia": 26,
-   "tipo": "sugestao",
+   "tipo": "variante",
    "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "confianca": "alta",
    "bloco": 13,
    "localizacao": "§ 10",
    "ccsl": "p. 226, § 10",
-   "latim": "Certe in die tremendi examinis sui, cum angelis, cum archangelis, cum thronis et dominationibus … apparebit",
+   "latim": "Migne (PL 76, col. 1558 da tiragem de 1849; conferido na imagem da página do PDF de Migne): 'Certe in die tremendi examinis suis, cum angelis, cum archangelis…'; CCSL 141, p. 226: 'in die tremendi examinis sui, cum angelis…'.",
    "antes": "Ele aparecerá com os seus, com os anjos",
-   "depois": "Ele aparecerá com os anjos",
-   "justificativa_linguistica": "'com os seus' não está no texto crítico. Não foi possível confirmar no aparato se algum manuscrito o tem.",
-   "motivo": "Possível acréscimo, sem efeito no sentido. Fica como sugestão."
+   "justificativa_linguistica": "Conferido agora com Migne, inclusive na imagem da página: Migne imprime 'examinis suis', e a tradução leu 'suis' como 'com os seus' ('Ele aparecerá com os seus, com os anjos'). O texto crítico tem 'sui' ('no dia do seu tremendo exame'). A tradução segue a base; registra-se a variante, sem alterar o português.",
+   "motivo": "Variante entre Migne e a CCSL 141."
   },
   {
    "id": "G26-13",
@@ -6513,7 +6517,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas na tradução",
    "ressalvas": [
-    "Sugestões não aplicadas (G08-03, G08-04, G08-05), de redação; decisão sua."
+    "Sugestões não aplicadas (G08-04, G08-05), de redação; decisão sua. G08-03 ('do exército') passou a variante: a palavra está em Migne."
    ]
   },
   {
@@ -6690,7 +6694,7 @@
    "referencias_biblicas": "conferidas com Migne; dois 'ibid.' completados (Jó 40,18)",
    "ressalvas": [
     "Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão.",
-    "Sugestão não aplicada (G26-12), de redação."
+    "G26-12 ('com os seus') passou a variante: Migne imprime 'examinis suis' (conferido na imagem da página)."
    ]
   },
   {

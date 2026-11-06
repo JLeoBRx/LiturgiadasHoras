@@ -43,7 +43,7 @@ Estados: **finalizada**: texto colacionado, correções aplicadas, nenhuma dúvi
 | V | finalizada com ressalvas | 5 | — | G05-08 | 4 | Dúvida de construção registrada (G05-08): a frase admite duas leituras sintáticas; mantida a tradução recebida. |
 | VI | finalizada | 4 | — | — | 1 | — |
 | VII | finalizada | 2 | G07-04 | — | 2 | Sugestão não aplicada (G07-04): 'Idumeia' em vez de 'Edom', como no latim; decisão sua. |
-| VIII | finalizada | 3 | G08-03, G08-04, G08-05 | — | 4 | Sugestões não aplicadas (G08-03, G08-04, G08-05), de redação; decisão sua. |
+| VIII | finalizada | 3 | G08-04, G08-05 | — | 5 | Sugestões não aplicadas (G08-04, G08-05), de redação; decisão sua. G08-03 ('do exército') passou a variante: a palavra está em Migne. |
 | IX | finalizada | 5 | — | — | 0 | — |
 | X | finalizada | 6 | — | — | 4 | — |
 | XI | finalizada | 2 | G11-02 | — | 0 | — |
@@ -61,7 +61,7 @@ Estados: **finalizada**: texto colacionado, correções aplicadas, nenhuma dúvi
 | XXIII | finalizada | 3 | G23-04 | — | 0 | Sugestão não aplicada (G23-04): indicar entre parênteses o latim 'figuli', para tornar compreensível o jogo de palavras 'fingere'/'figulus'. |
 | XXIV | finalizada | 5 | — | — | 0 | — |
 | XXV | finalizada | 15 | — | — | 0 | — |
-| XXVI | finalizada com ressalvas | 10 | G26-12 | G26-08 | 3 | Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão. Sugestão não aplicada (G26-12), de redação. |
+| XXVI | finalizada com ressalvas | 10 | — | G26-08 | 4 | Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão. G26-12 ('com os seus') passou a variante: Migne imprime 'examinis suis' (conferido na imagem da página). |
 | XXVII | finalizada | 9 | — | — | 0 | — |
 | XXVIII | finalizada | 3 | — | — | 0 | — |
 | XXIX | finalizada | 20 | G29-09 | — | 1 | Sugestão não aplicada (G29-09), de redação. Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22). |
