@@ -1,6 +1,6 @@
 @origem dados/homilias/gregorio-magno/latim/homilia-23.txt — Migne, PL 76, col. 1538-1539 (transcrição do Corpus Corporum via Wikisource); conferido com a CCSL 141 (ed. R. Étaix, 1999), p. 192-195
 @camada tradução própria com auxílio de IA e revisão editorial — feita diretamente do latim, sem partir da tradução recebida; piloto da Etapa 1; não publicada no site
-@estado piloto — aguarda a revisão editorial do responsável pelo projeto
+@estado piloto aprovado pelo responsável do projeto como experiência metodológica (06/11/2026); separado da tradução recebida; não publicado
 @notas traducao-propria/notas-homilia-23.md
 @data 2026-11-06
 

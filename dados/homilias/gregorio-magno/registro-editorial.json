@@ -57,6 +57,12 @@
    "origem": "Etapa 1 (finalização textual das 40 homilias), conferência com Migne",
    "decisao": "G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.",
    "alteracoes": "Valores anteriores — G08-03: tipo 'sugestao', confiança 'moderada', depois 'juntou-se ao anjo uma multidão da milícia celeste', justificativa ''do exército' não está no texto crítico nem na Vulgata; só um manuscrito (E) acrescenta 'exercitus'. Pode ser glosa do tradutor ou leitura da edição de Migne, que não foi conferida.', motivo 'Possível acréscimo. Não aplicado porque a edição-base da tradução (Migne) não pôde ser consultada.'. G26-12: tipo 'sugestao', confiança 'moderada', depois 'Ele aparecerá com os anjos', justificativa ''com os seus' não está no texto crítico. Não foi possível confirmar no aparato se algum manuscrito o tem.', motivo 'Possível acréscimo, sem efeito no sentido. Fica como sugestão.'."
+  },
+  {
+   "data": "2026-11-06",
+   "origem": "Relatório final da Etapa 1 — decisões do responsável do projeto (C1–C7)",
+   "decisao": "Etapa 1 aprovada. C1: preenchimento da lacuna da Homilia XL aprovado. C2: frase da Homilia XXVI mantida com nota editorial. C3: PDFs protegidos permanecem por ora; o responsável fará a exclusão. C4: Migne como referência, com a leitura da CCSL adotada quando houver justificativa filológica consistente e o sentido o exigir (aplicado em G01-07 e G16-05; demais variantes avaliadas e mantidas). C5: G05-08 mantida; G20-14 mantida por enquanto, com a dúvida registrada; G21-06 'incessante'. C6: aplicar G08-04, G08-05, G11-02, G12-06, G23-04, G30-06; manter G07-04, G19-04, G29-09, G30-04. C7: tradução própria piloto aprovada como experiência metodológica, separada da recebida.",
+   "alteracoes": "Valores anteriores das entradas alteradas: {\"G26-08\": {\"tipo\": \"duvida\", \"estado\": \"nao-aplicada\", \"confianca\": \"baixa\", \"justificativa_linguistica\": \"Conferida agora com a edição de Migne (camada latim/): a frase está em Migne, base declarada da tradução, logo no início do § 2, mas falta no texto crítico e no seu aparato. É, com toda probabilidade, uma glosa que entrou na tradição impressa usada por Migne; a CCSL não a atribui a Gregório.\", \"motivo\": \"Autenticidade: frase presente em Migne e ausente da CCSL 141. Decisão editorial sua.\"}, \"G01-07\": {\"tipo\": \"variante\", \"estado\": \"nao-aplicada\", \"confianca\": \"alta\", \"justificativa_linguistica\": \"Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português.\", \"motivo\": \"Variante entre Migne e a CCSL 141.\"}, \"G16-05\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"trezentos e sessenta dias\", \"justificativa_linguistica\": \"O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue.\", \"motivo\": \"A decisão é sua: seguir o texto crítico ou a tradição seguida pela tradução.\"}, \"G21-06\": {\"tipo\": \"duvida\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"justificativa_linguistica\": \"'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.\", \"motivo\": \"Duas leituras possíveis; não há base para escolher. Mantido; dúvida registrada.\"}, \"G08-04\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"hoje celebraremos três vezes as solenidades das missas\", \"justificativa_linguistica\": \"'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.\", \"motivo\": \"Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão.\"}, \"G08-05\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"os coros dos anjos cantam em uníssono com a sua voz\", \"justificativa_linguistica\": \"'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.\", \"motivo\": \"Perda da imagem do canto. Duas leituras possíveis; não aplicado.\"}, \"G11-02\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"contenha-o a censura de uma disciplina juvenil\", \"justificativa_linguistica\": \"'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.\", \"motivo\": \"Imagem alterada sem prejuízo grave do sentido.\"}, \"G12-06\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"homem muito abastado,\", \"justificativa_linguistica\": \"No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.\", \"motivo\": \"Sentido provável diferente do adotado; não há segurança para aplicar.\"}, \"G23-04\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.\", \"justificativa_linguistica\": \"O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.\", \"motivo\": \"Jogo de palavras intraduzível; decisão sua.\"}, \"G30-06\": {\"tipo\": \"sugestao\", \"estado\": \"nao-aplicada\", \"confianca\": \"moderada\", \"depois\": \"e há máxima afinidade entre a língua e a palavra\", \"justificativa_linguistica\": \"O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.\", \"motivo\": \"Perda de um jogo de palavras do autor. Fica como sugestão.\"}}"
   }
  ],
  "registros": [
@@ -155,21 +161,29 @@
   {
    "id": "G01-07",
    "homilia": 1,
-   "tipo": "variante",
-   "estado": "nao-aplicada",
+   "tipo": "correcao",
+   "estado": "aplicada",
    "confianca": "alta",
    "bloco": 7,
    "localizacao": "§ 5",
    "ccsl": "p. 9, § 5: 'plerumque senibus ipsa sua salus aegritudo est'",
    "latim": "nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne)",
    "antes": "a própria saúde já é enfermidade para os sentidos",
-   "justificativa_linguistica": "Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português.",
+   "justificativa_linguistica": "Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português. Pelo critério C4 (Migne como referência, CCSL quando a justificativa filológica é consistente e o sentido o exige), adota-se 'senibus': o parágrafo compara o mundo ao homem que envelhece.",
    "alternativas": [
     "manter 'para os sentidos' (Migne, base da tradução)",
     "'para os velhos' (CCSL 141)"
    ],
    "recomendacao": "Adotar 'para os velhos', se se decidir seguir o texto crítico nos pontos em que ele dá sentido mais claro; até lá, mantém-se a tradução recebida.",
-   "motivo": "Variante entre Migne e a CCSL 141."
+   "motivo": "Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).",
+   "depois": "a própria saúde já é enfermidade para os velhos",
+   "criterio": "C4",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "adotar a leitura da CCSL",
+    "texto": "Aprovado no item C4."
+   }
   },
   {
    "id": "G02-01",
@@ -485,7 +499,8 @@
    "latim": "districti sui iudicii propinquitatem denuntiat (aparato: 'diem propinquantem' em S J N M)",
    "antes": "anuncia a proximidade do dia do seu severo juízo",
    "justificativa_linguistica": "O texto crítico não tem 'dia'; a palavra corresponde à variante 'diem propinquantem' de vários manuscritos, provavelmente presente na edição de Migne usada pela tradução.",
-   "motivo": "Diferença de tradição textual, não erro de tradução. Mantido."
+   "motivo": "Diferença de tradição textual, não erro de tradução. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G05-06",
@@ -499,7 +514,8 @@
    "latim": "Multa, fratres, relinquitis, si desideriis renuntiatis (aparato: 'desideriis' + 'terrenis' em J S M L R p.c.)",
    "antes": "se renunciais aos desejos terrenos",
    "justificativa_linguistica": "'terrenos' não está no texto crítico, mas é leitura de vários manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G05-07",
@@ -513,7 +529,8 @@
    "latim": "quandoque ad propria contemnenda perducatur (aparato: + 'praestante domino nostro' em F V)",
    "antes": "seja um dia conduzida a desprezar as próprias, com a ajuda de nosso Senhor Jesus Cristo, etc.",
    "justificativa_linguistica": "A conclusão doxológica não está no texto crítico; aparece em manuscritos. O 'etc.' já está na tradução recebida (doxologia abreviada).",
-   "motivo": "Diferença de tradição textual. Mantido como recebido."
+   "motivo": "Diferença de tradição textual. Mantido como recebido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G05-08",
@@ -527,7 +544,13 @@
    "latim": "Ostendat nostrae obsequium deuotionis immutatae sollemnitas mentis.",
    "antes": "Que a solenidade mostre, em nosso serviço de devoção, uma mente transformada",
    "justificativa_linguistica": "A frase admite duas construções: (a) sujeito 'obsequium nostrae deuotionis', objeto 'sollemnitas immutatae mentis' — 'Que o obséquio da nossa devoção mostre a solenidade de uma mente transformada'; (b) sujeito 'sollemnitas', objeto 'obsequium' — 'Que a solenidade mostre o obséquio da nossa devoção, (próprio) de uma mente transformada'. A tradução recebida segue, com liberdade, a leitura (b).",
-   "motivo": "Ambiguidade sintática real; não há base para escolher. Tradução recebida mantida; dúvida registrada."
+   "motivo": "Ambiguidade sintática real; não há base para escolher. Tradução recebida mantida; dúvida registrada.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter a tradução recebida",
+    "texto": "A sintaxe admite as duas leituras; não há segurança para alterar."
+   }
   },
   {
    "id": "G05-09",
@@ -541,7 +564,8 @@
    "latim": "mittentes retia sua in mare (aparato: 'rete' em E L)",
    "antes": "lançando a rede ao mar",
    "justificativa_linguistica": "A CCSL lê o plural 'retia sua'; o singular corresponde à variante 'rete' e à Vulgata.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G05-10",
@@ -619,7 +643,8 @@
    "latim_ccsl": "in quantum reniti linguae praeualetis (texto crítico)",
    "antes": "Na medida em que conseguimos resistir à língua",
    "justificativa_linguistica": "A tradução segue Migne (1ª pessoa do plural); o texto crítico tem a 2ª pessoa. Diferença de edição.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G06-05",
@@ -664,7 +689,8 @@
    "latim": "derelictae ac destitutae Iudaeae solacium (suae: α) redemptionis annuntiat (aparato: 'redemptoris' em F V N M)",
    "antes": "anuncia o consolo do Redentor à Judeia abandonada e desamparada",
    "justificativa_linguistica": "O texto crítico diz 'redemptionis' (o consolo da redenção); 'do Redentor' corresponde à leitura 'redemptoris' de vários manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G07-03",
@@ -678,7 +704,8 @@
    "latim": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli. (sem indicação do domingo)",
    "antes": "no quarto domingo do Advento do Senhor",
    "justificativa_linguistica": "O título da edição crítica não indica o domingo, e o aparato não registra manuscrito que o faça; a indicação vem da edição impressa seguida pela tradução.",
-   "motivo": "Diferença de edição. Mantido; a homilia é associada ao calendário apenas pela correspondência bíblica (Jo 1,19-28)."
+   "motivo": "Diferença de edição. Mantido; a homilia é associada ao calendário apenas pela correspondência bíblica (Jo 1,19-28).",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G07-04",
@@ -693,7 +720,13 @@
    "antes": "Sobre Edom estenderei a minha sandália (Sl 59,10)",
    "depois": "Sobre a Idumeia estenderei a minha sandália (Sl 59,10)",
    "justificativa_linguistica": "Gregório usa o nome latino 'Idumaea' (Idumeia), três vezes no trecho; a tradução moderniza para 'Edom'. As duas designações indicam a mesma região, e não há erro de sentido.",
-   "motivo": "Atualização de um nome antigo. Fica para sua decisão (seriam três ocorrências)."
+   "motivo": "Atualização de um nome antigo. Fica para sua decisão (seriam três ocorrências).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter a tradução recebida",
+    "texto": "Recomendação aprovada no item C6."
+   }
   },
   {
    "id": "G07-05",
@@ -753,14 +786,15 @@
    "latim": "Migne (transcrição, camada latim/): 'facta est cum angelo multitudo militiae coelestis exercitus'; CCSL 141, p. 53: 'multitudo militiae caelestis', com 'exercitus' só no manuscrito E (aparato).",
    "antes": "juntou-se ao anjo uma multidão da milícia do exército celeste",
    "justificativa_linguistica": "Conferido agora com Migne: 'exercitus' está na edição de Migne, base da tradução. 'Do exército' não é acréscimo do tradutor: a tradução segue Migne, e o texto crítico não traz a palavra. Registra-se a variante, sem alterar o português.",
-   "motivo": "Variante entre Migne e a CCSL 141."
+   "motivo": "Variante entre Migne e a CCSL 141.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G08-04",
    "homilia": 8,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 4,
    "localizacao": "§ 1, 1ª frase",
    "ccsl": "p. 54, § 1",
@@ -769,14 +803,20 @@
    "depois": "hoje celebraremos três vezes as solenidades das missas",
    "justificativa_linguistica": "'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.",
    "justificativa_teologica": "A expressão não está errada quanto à doutrina, mas introduz um termo que o autor não usa aqui. Gregório refere-se às três missas do Natal.",
-   "motivo": "Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão."
+   "motivo": "Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G08-05",
    "homilia": 8,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 5,
    "localizacao": "§ 2, 1ª frase",
    "ccsl": "p. 55, § 2",
@@ -784,7 +824,13 @@
    "antes": "os coros dos anjos concordam com a sua voz",
    "depois": "os coros dos anjos cantam em uníssono com a sua voz",
    "justificativa_linguistica": "'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.",
-   "motivo": "Perda da imagem do canto. Duas leituras possíveis; não aplicado."
+   "motivo": "Perda da imagem do canto. Duas leituras possíveis; não aplicado. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G08-06",
@@ -798,7 +844,8 @@
    "latim": "non ambitio per terrena oblectamenta dilaniet. (aparato: + 'non ira inflammet' em M p.c.)",
    "antes": "que a ambição não nos dilacere por meio dos deleites terrenos, que a ira não nos inflame",
    "justificativa_linguistica": "'que a ira não nos inflame' não está no texto crítico; corresponde ao acréscimo de um manuscrito corrigido (M p.c.), que a edição de Migne parece seguir.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G08-07",
@@ -812,7 +859,8 @@
    "latim": "quia propter te factus est Deus homo. (aparato: doxologias acrescentadas em S e V)",
    "antes": "porque por ti Deus se fez homem, Ele que vive e reina pelos séculos dos séculos. Amém.",
    "justificativa_linguistica": "A doxologia final não está no texto crítico; aparece em manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G08-08",
@@ -826,7 +874,8 @@
    "latim": "Prius quippe quam Redemptor noster per carnem (in carne: α) nasceretur … Hinc est enim quod Loth uel Iosue angelos adorant (β; α: Gedeon angelum adorat) … angelis (aparato: + 'eius' em M p.c.) aequales sumus",
    "antes": "antes que o nosso Redentor nascesse na carne",
    "justificativa_linguistica": "A CCSL imprime as duas redações do próprio Gregório. A tradução segue 'in carne' (α) neste ponto e Ló/Josué (β) no seguinte, e 'aos seus anjos' corresponde ao acréscimo 'eius' de M p.c. — perfil compatível com a edição de Migne.",
-   "motivo": "Diferenças de redação e de tradição textual. Mantido."
+   "motivo": "Diferenças de redação e de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G08-09",
@@ -840,7 +889,8 @@
    "latim": "quia non erat ei locus in diuersorio",
    "antes": "porque não havia lugar para eles na hospedaria",
    "justificativa_linguistica": "A CCSL lê 'ei' (para ele), no singular; a tradução segue 'eis' (para eles), como a Vulgata.",
-   "motivo": "Diferença de tradição textual do texto bíblico citado. Mantido."
+   "motivo": "Diferença de tradição textual do texto bíblico citado. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G08-10",
@@ -1006,7 +1056,8 @@
    "latim": "habita ad populum in basilica beati Petri apostoli die sancto theophaniae (aparato: 'epiphaniae' em N J M; 'die theophaniae' em R)",
    "antes": "no dia da Epifania",
    "justificativa_linguistica": "O texto crítico diz 'theophaniae' (Teofania); 'Epifania' é leitura de manuscritos. Teofania e Epifania designam a mesma festa.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G10-06",
@@ -1020,7 +1071,8 @@
    "latim": "Sicut ex lectione euangelica, fratres, audistis (aparato: + 'karissimi' em F V M p.c.)",
    "antes": "irmãos caríssimos",
    "justificativa_linguistica": "'caríssimos' não está no texto crítico, mas é leitura de manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G10-07",
@@ -1034,7 +1086,8 @@
    "latim": "α: Vnde etiam per Paulum dicitur: Prophetiae fidelibus non infidelibus, signa autem infidelibus non fidelibus. — β: Quia et illis prophetiae tamquam fidelibus non infidelibus, et istis signa tamquam infidelibus non fidelibus data sunt.",
    "antes": "Por isso também se diz por Paulo: As profecias foram dadas aos fiéis",
    "justificativa_linguistica": "A CCSL imprime as duas redações em colunas paralelas. A tradução traduz as duas, uma após a outra (citação de Paulo + explicação), como faz a tradição impressa anterior.",
-   "motivo": "Diferença de redação. Mantido."
+   "motivo": "Diferença de redação. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G10-08",
@@ -1048,7 +1101,8 @@
    "latim": "ad eam malis amaricati redeamus. (aparato: + 'praestante domino nostro I. C. …' em vários manuscritos)",
    "antes": "por graça de nosso Senhor, etc.",
    "justificativa_linguistica": "A conclusão não está no texto crítico; é acréscimo de manuscritos. O 'etc.' já está na tradução recebida.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G10-09",
@@ -1098,9 +1152,9 @@
   {
    "id": "G11-02",
    "homilia": 11,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 8,
    "localizacao": "§ 4, fim",
    "ccsl": "p. 79",
@@ -1108,7 +1162,13 @@
    "antes": "contenha-o a censura de uma disciplina madura",
    "depois": "contenha-o a censura de uma disciplina juvenil",
    "justificativa_linguistica": "'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.",
-   "motivo": "Imagem alterada sem prejuízo grave do sentido."
+   "motivo": "Imagem alterada sem prejuízo grave do sentido. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G11-03",
@@ -1204,22 +1264,28 @@
   {
    "id": "G12-06",
    "homilia": 12,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 10,
    "localizacao": "§ 7",
    "ccsl": "p. 87, § 7 (igual a Migne)",
    "latim": "vir valde idoneus, sed tantum plenus vitiis, quantum rebus",
    "antes": "homem muito capaz,",
-   "depois": "homem muito abastado,",
+   "depois": "homem de grandes posses,",
    "alternativas": [
     "'muito capaz' (sentido clássico de 'idoneus', mantido na tradução recebida)",
     "'muito abastado' ou 'de grandes posses' (sentido do latim tardio e jurídico: 'idoneus' = solvente, rico)",
     "'muito respeitável' (posição social)"
    ],
    "justificativa_linguistica": "No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.",
-   "motivo": "Sentido provável diferente do adotado; não há segurança para aplicar."
+   "motivo": "Sentido provável diferente do adotado; não há segurança para aplicar. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G12-07",
@@ -1452,18 +1518,25 @@
   {
    "id": "G16-05",
    "homilia": 16,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 8,
    "localizacao": "§ 5",
    "ccsl": "p. 114, § 5, aparato à l. 102",
    "latim": "Dum uero per trecentos et sexaginta dies annus ducitur, nos autem per triginta et sex dies affligimur, quasi anni nostri decimas Deo damus (aparato: '+ quinque' em F, K e L p.c.)",
    "antes": "trezentos e sessenta e cinco dias",
    "depois": "trezentos e sessenta dias",
-   "justificativa_linguistica": "O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue.",
+   "justificativa_linguistica": "O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue. Pelo critério C4, adota-se a leitura da CCSL: o argumento de Gregório (os 36 dias de jejum como dízimo do ano) só fecha com 360 dias; '365' é correção posterior de manuscritos, seguida por Migne.",
    "justificativa_teologica": "O argumento de Gregório é aritmético: 36 dias de jejum são a DÉCIMA parte (o dízimo) de 360. Com 365 a conta deixa de ser exata.",
-   "motivo": "A decisão é sua: seguir o texto crítico ou a tradição seguida pela tradução."
+   "motivo": "Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).",
+   "criterio": "C4",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "adotar a leitura da CCSL",
+    "texto": "Aprovado no item C4."
+   }
   },
   {
    "id": "G16-06",
@@ -1477,7 +1550,8 @@
    "latim": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana. (sem indicação do domingo)",
    "antes": "no primeiro domingo da Quaresma",
    "justificativa_linguistica": "A indicação do domingo não está no título da edição crítica, nem o aparato a registra; vem da edição impressa seguida pela tradução. A ocasião, porém, é confirmada pelo próprio texto: 'nós que começamos o tempo da Quaresma' e 'do dia presente até as alegrias da solenidade pascal vêm seis semanas' (§ 5).",
-   "motivo": "Diferença de edição. Mantido; a correspondência com o 1º domingo da Quaresma se apoia no texto do § 5."
+   "motivo": "Diferença de edição. Mantido; a correspondência com o 1º domingo da Quaresma se apoia no texto do § 5.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G16-07",
@@ -1798,7 +1872,13 @@
     "'quase à própria voz da sentença exalou o espírito de vida' ('sententia' é a promessa de Cristo, 'Hoje estarás comigo', e 'vitae' liga-se a 'spiritum')"
    ],
    "justificativa_linguistica": "A ordem latina favorece 'spiritum… vitae' (o sopro de vida) e 'vox sententiae' como a sentença ouvida da boca de Cristo, mas a construção é condensada e admite as duas leituras.",
-   "motivo": "Construção ambígua; não aplicado."
+   "motivo": "Construção ambígua; não aplicado.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter a tradução recebida",
+    "texto": "Recomendação aprovada no item C6."
+   }
   },
   {
    "id": "G19-05",
@@ -2074,7 +2154,14 @@
    ],
    "justificativa_linguistica": "As duas edições têm 'continentia'. O contexto fala só de sustentar e acolher os necessitados, o que favorece o sentido de 'manutenção'; mas não há paralelo seguro em Gregório para essa acepção.",
    "motivo": "Duas leituras plausíveis; texto mantido.",
-   "recomendacao": "Manter 'continência' até conferir o uso da palavra em outras obras de Gregório (Moralia, Regula pastoralis)."
+   "recomendacao": "Manter 'continência' até conferir o uso da palavra em outras obras de Gregório (Moralia, Regula pastoralis).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter 'continência' por enquanto",
+    "texto": "Dúvida mantida no registro para eventual comparação com outras obras de Gregório (Moralia, Regula pastoralis).",
+    "pendente": true
+   }
   },
   {
    "id": "G20-15",
@@ -2150,7 +2237,8 @@
    "latim": "ad Deum per sancta desideria proficiscuntur (aparato: 'dominum' em V L X)",
    "antes": "avançam para o Senhor",
    "justificativa_linguistica": "O texto crítico diz 'Deum'; 'Senhor' corresponde à variante 'dominum' de manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G21-05",
@@ -2164,21 +2252,29 @@
    "latim": "Vnde scriptum est: Laeua eius … (aparato: + 'in canticis canticorum' em F e Ba)",
    "antes": "Por isso está escrito no Cântico dos Cânticos",
    "justificativa_linguistica": "A indicação 'no Cântico dos Cânticos' não está no texto crítico; é acréscimo de manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G21-06",
    "homilia": 21,
-   "tipo": "duvida",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 9,
    "localizacao": "§ 7, conclusão",
    "ccsl": "p. 179, § 7",
    "latim": "Ad horum ergo ciuium illam frequentem sollemnitatem festinemus.",
    "antes": "Corramos, pois, para aquela frequente solenidade desses cidadãos.",
    "justificativa_linguistica": "'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.",
-   "motivo": "Duas leituras possíveis; não há base para escolher. Mantido; dúvida registrada."
+   "motivo": "'frequens' entendido como 'contínua' (paralelo da Homilia XXVI, § 10: 'non est annua, sed continua'); decisão do responsável (C5).",
+   "depois": "Corramos, pois, para aquela solenidade incessante desses cidadãos.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "adotar 'incessante'",
+    "texto": "Aprovado no item C5."
+   }
   },
   {
    "id": "G21-07",
@@ -2192,7 +2288,8 @@
    "latim": "Quis reuoluit nobis lapidem ab ostio monumenti? Erat enim magnus ualde. Et respicientes uiderunt reuolutum lapidem.",
    "antes": "E, levantando os olhos, viram a pedra revolvida. Com efeito, era muito grande.",
    "justificativa_linguistica": "A CCSL põe 'Erat enim magnus ualde' antes de 'Et respicientes…'; a tradução segue a ordem da Vulgata.",
-   "motivo": "Diferença de tradição textual do texto bíblico. Mantido."
+   "motivo": "Diferença de tradição textual do texto bíblico. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G21-08",
@@ -2408,9 +2505,9 @@
   {
    "id": "G23-04",
    "homilia": 23,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 3,
    "localizacao": "§ 1",
    "ccsl": "p. 193, § 1",
@@ -2418,7 +2515,13 @@
    "antes": "daí também chamarmos oleiros aos que moldam o barro.",
    "depois": "daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.",
    "justificativa_linguistica": "O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.",
-   "motivo": "Jogo de palavras intraduzível; decisão sua."
+   "motivo": "Jogo de palavras intraduzível; decisão sua. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G24-01",
@@ -2831,7 +2934,7 @@
   {
    "id": "G26-08",
    "homilia": 26,
-   "tipo": "duvida",
+   "tipo": "variante",
    "estado": "nao-aplicada",
    "confianca": "baixa",
    "bloco": 4,
@@ -2841,13 +2944,19 @@
    "antes": "Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.",
    "justificativa_linguistica": "Conferida agora com a edição de Migne (camada latim/): a frase está em Migne, base declarada da tradução, logo no início do § 2, mas falta no texto crítico e no seu aparato. É, com toda probabilidade, uma glosa que entrou na tradição impressa usada por Migne; a CCSL não a atribui a Gregório.",
    "justificativa_teologica": "A frase afirma a divindade do Pai e do Filho e a humanidade dos enviados; é ortodoxa, mas não pode ser apresentada como palavra do autor sem verificação.",
-   "motivo": "Autenticidade: frase presente em Migne e ausente da CCSL 141. Decisão editorial sua.",
+   "motivo": "Variante entre Migne e a CCSL 141 (frase presente só em Migne); mantida com nota editorial, por decisão do responsável.",
    "alternativas": [
     "manter a frase como está (segue Migne, base da tradução)",
     "manter a frase com uma nota dizendo que falta no texto crítico",
     "retirar a frase do texto de leitura, registrando-a aqui"
    ],
-   "recomendacao": "Manter a frase com uma nota (segunda alternativa): o texto continua fiel à base declarada, e o leitor fica sabendo que a frase não está no texto crítico. Até sua decisão, o texto fica como recebido."
+   "recomendacao": "Manter a frase com uma nota (segunda alternativa): o texto continua fiel à base declarada, e o leitor fica sabendo que a frase não está no texto crítico. Até sua decisão, o texto fica como recebido.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "(b) manter com nota",
+    "texto": "Manter a frase no texto, com observação editorial de que consta em Migne (PL 76), mas não na CCSL 141 nem no seu aparato. A nota está em dados/homilias/indice.json (notas_editoriais da Homilia XXVI) e aparece na página da homilia."
+   }
   },
   {
    "id": "G26-09",
@@ -2861,7 +2970,8 @@
    "latim": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana. (sem indicação do dia)",
    "antes": "na oitava da Páscoa",
    "justificativa_linguistica": "O título crítico não indica o dia, e o aparato não registra manuscrito que o faça. A indicação vem da edição impressa. O próprio texto confirma apenas o tempo pascal: 'Eis que celebramos as solenidades pascais' (§ 10).",
-   "motivo": "Diferença de edição. Mantido; a homilia é associada ao 2º domingo da Páscoa pela correspondência bíblica (Jo 20,19-31)."
+   "motivo": "Diferença de edição. Mantido; a homilia é associada ao 2º domingo da Páscoa pela correspondência bíblica (Jo 20,19-31).",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G26-10",
@@ -2875,7 +2985,8 @@
    "latim": "praebendo palpabile, formaret ad fidem (aparato: 'firmaret' em S)",
    "antes": "fortalecesse para a fé",
    "justificativa_linguistica": "O texto crítico diz 'formaret' (formasse); 'fortalecesse' corresponde à variante 'firmaret'.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G26-11",
@@ -2889,7 +3000,8 @@
    "latim": "Dicit ei Iesus: Quia uidisti me, credidisti.",
    "antes": "Jesus lhe disse: Porque me viste, Tomé, creste.",
    "justificativa_linguistica": "'Tomé' não está na citação da CCSL; está na Vulgata (Jo 20,29: 'quia vidisti me, Thoma'), que a tradução segue.",
-   "motivo": "Diferença de tradição textual do texto bíblico. Mantido."
+   "motivo": "Diferença de tradição textual do texto bíblico. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G26-12",
@@ -2903,7 +3015,8 @@
    "latim": "Migne (PL 76, col. 1558 da tiragem de 1849; conferido na imagem da página do PDF de Migne): 'Certe in die tremendi examinis suis, cum angelis, cum archangelis…'; CCSL 141, p. 226: 'in die tremendi examinis sui, cum angelis…'.",
    "antes": "Ele aparecerá com os seus, com os anjos",
    "justificativa_linguistica": "Conferido agora com Migne, inclusive na imagem da página: Migne imprime 'examinis suis', e a tradução leu 'suis' como 'com os seus' ('Ele aparecerá com os seus, com os anjos'). O texto crítico tem 'sui' ('no dia do seu tremendo exame'). A tradução segue a base; registra-se a variante, sem alterar o português.",
-   "motivo": "Variante entre Migne e a CCSL 141."
+   "motivo": "Variante entre Migne e a CCSL 141.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G26-13",
@@ -3269,7 +3382,13 @@
    "depois": "ao subir o Senhor, porém, a humanidade foi exaltada.",
    "justificativa_linguistica": "No texto crítico há um contraste deliberado: 'uidebatur' (parecia) para a divindade humilhada e 'est … exaltata' (foi exaltada) para a humanidade. A tradução estende 'parecia/via-se' às duas. Mas dois manuscritos omitem 'est', e então 'uidebatur' pode valer para as duas orações, como na tradução.",
    "justificativa_teologica": "O contraste tem peso doutrinal: a divindade não pode ser realmente humilhada (apenas 'parecia'), mas a humanidade de Cristo foi realmente exaltada na Ascensão.",
-   "motivo": "Correção sustentada pelo texto crítico, mas há variante que apoia a tradução. Fica para sua decisão."
+   "motivo": "Correção sustentada pelo texto crítico, mas há variante que apoia a tradução. Fica para sua decisão.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter a tradução recebida",
+    "texto": "Recomendação aprovada no item C6."
+   }
   },
   {
    "id": "G29-10",
@@ -3283,7 +3402,8 @@
    "latim": "In illo tempore dixit Iesus discipulis suis: Euntes in uniuersum mundum … (o texto crítico começa em Mc 16,15; o aparato registra em E p.c., F p.c. e X o acréscimo do v. 14: 'recumbentibus undecim discipulis apparuit illis Iesus et exprobrauit incredulitatem illorum…')",
    "antes": "Naquele tempo, estando à mesa os onze discípulos, Jesus apareceu-lhes e censurou a sua incredulidade",
    "justificativa_linguistica": "A leitura do Evangelho da CCSL é Mc 16,15-20; a tradução segue a forma com o v. 14, atestada em manuscritos e adotada pela edição impressa (por isso o título 'Mc 16,14-20').",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G29-11",
@@ -3524,7 +3644,13 @@
    "antes": "no sentido de trazer à mente",
    "depois": "no sentido de fornecer",
    "justificativa_linguistica": "'subministrare' é fornecer, prover (por baixo, às ocultas); é esse sentido que justifica o fim da frase ('não … desde baixo, mas desde o oculto'). A dificuldade vem de a tradução verter 'suggerere' por 'recordar' em toda a homilia, o que torna o jogo de palavras de Gregório difícil de reproduzir.",
-   "motivo": "Perda de um jogo de palavras do autor; solução depende de rever a tradução de 'suggerere'. Fica para sua decisão."
+   "motivo": "Perda de um jogo de palavras do autor; solução depende de rever a tradução de 'suggerere'. Fica para sua decisão.",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "manter a tradução recebida",
+    "texto": "Recomendação aprovada no item C6. Sem revisão geral de 'suggerere' nesta etapa."
+   }
   },
   {
    "id": "G30-05",
@@ -3544,9 +3670,9 @@
   {
    "id": "G30-06",
    "homilia": 30,
-   "tipo": "sugestao",
-   "estado": "nao-aplicada",
-   "confianca": "moderada",
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
    "bloco": 8,
    "localizacao": "§ 5",
    "ccsl": "p. 260, § 5",
@@ -3554,7 +3680,13 @@
    "antes": "e há máxima afinidade entre a língua e o Verbo",
    "depois": "e há máxima afinidade entre a língua e a palavra",
    "justificativa_linguistica": "O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.",
-   "motivo": "Perda de um jogo de palavras do autor. Fica como sugestão."
+   "motivo": "Perda de um jogo de palavras do autor. Fica como sugestão. Aplicada por decisão do responsável (C6, 06/11/2026).",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aplicar",
+    "texto": "Aprovado no item C6."
+   }
   },
   {
    "id": "G30-07",
@@ -3647,7 +3779,8 @@
    "antes": "Naquela, Deus, permanecendo em si mesmo, assumiu o homem",
    "justificativa_linguistica": "O texto crítico diz 'in se creando' (criando-o em si); 'permanecendo' corresponde à variante 'permanens' de vários manuscritos, entre eles o corrigido M, perfil que a tradução costuma seguir.",
    "justificativa_teologica": "A leitura crítica exprime a doutrina de que a humanidade de Cristo foi criada no próprio ato de ser assumida; a variante afirma que Deus permaneceu o que era ao assumi-la. As duas são ortodoxas, mas dizem coisas diferentes.",
-   "motivo": "Diferença de tradição textual com consequência doutrinal. Mantido; registrado para sua decisão."
+   "motivo": "Diferença de tradição textual com consequência doutrinal. Mantido; registrado para sua decisão.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G30-13",
@@ -3661,7 +3794,8 @@
    "latim": "quia ei in sua uoluptate contradicit (aparato: 'uoluntate' em E B S F V A X)",
    "antes": "porque em sua própria vontade se opõe a Ele",
    "justificativa_linguistica": "O texto crítico diz 'uoluptate' (prazer); 'vontade' corresponde à variante 'uoluntate', de muitos manuscritos.",
-   "motivo": "Diferença de tradição textual. Mantido."
+   "motivo": "Diferença de tradição textual. Mantido.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G30-14",
@@ -4350,7 +4484,8 @@
    "latim": "Apparuit conditor et Redemptor noster in carne",
    "antes": "Apareceu em carne nosso Criador e Redentor,",
    "justificativa_linguistica": "Migne traz 'conditor et Redemptor noster'; o texto crítico, apenas 'conditor noster'. A tradução recebida segue Migne. Não se altera o português: registra-se a diferença entre as edições.",
-   "motivo": "Variante entre Migne e a CCSL 141."
+   "motivo": "Variante entre Migne e a CCSL 141.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G33-19",
@@ -5099,7 +5234,8 @@
    "latim": "Non in finem oblivio erit pauperis (Psal. IX, 19).",
    "antes": "Não será esquecido para sempre o pobre;",
    "justificativa_linguistica": "Migne traz 'pauperis' (do pobre); o texto crítico, 'pauperum' (dos pobres), em harmonia com a segunda metade do versículo. A tradução recebida segue Migne; não se altera o português.",
-   "motivo": "Variante entre Migne e a CCSL 141."
+   "motivo": "Variante entre Migne e a CCSL 141.",
+   "avaliacao_c4": "Avaliada pelo critério C4 (06/11/2026): a leitura de Migne dá sentido coerente e a diferença não exige adotar a CCSL. Mantida."
   },
   {
    "id": "G35-10",
@@ -6181,7 +6317,13 @@
    "depois": "exprimiria com tanto cuidado que o rico atormentado no inferno se vestira de linho finíssimo e de púrpura. Pois ninguém procura vestes de luxo senão por vã glória, isto é, para parecer mais honrado que os demais.",
    "justificativa_linguistica": "Na tradução recebida, a frase interrompe-se no meio de uma palavra ('exprim') e o resto foi substituído por anotações de trabalho deixadas por uma ferramenta automática ('glria? Wait correct typo. Need final clean.'), sem a tradução de duas frases do latim. É a única lacuna desse tipo nas 40 homilias (verificação por busca em todo o texto recebido). As anotações saem do texto de leitura, e as duas frases são traduzidas diretamente do latim, que é o mesmo em Migne e na CCSL. O texto acrescentado não vem da tradução recebida: é tradução própria, identificada como tal neste item. A cópia recebida continua intacta em recebida/.",
    "motivo": "Lacuna e resíduo de ferramenta automática na tradução recebida.",
-   "origem_do_texto": "tradução própria do latim (Migne, texto idêntico na CCSL 141), com auxílio de IA e revisão editorial"
+   "origem_do_texto": "tradução própria do latim (Migne, texto idêntico na CCSL 141), com auxílio de IA e revisão editorial",
+   "decisao": {
+    "data": "2026-11-06",
+    "por": "responsável do projeto (relatório final da Etapa 1)",
+    "escolha": "aprovado",
+    "texto": "Preenchimento aprovado como está; mantém-se a identificação de tradução própria."
+   }
   },
   {
    "id": "G40-06",
@@ -6447,7 +6589,9 @@
    "resultado": "conferida parágrafo por parágrafo com Migne (camada latim/); pontos divergentes conferidos na CCSL 141",
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas; todas as de Migne presentes e corretas na tradução",
-   "ressalvas": []
+   "ressalvas": [
+    "'para os velhos' (senibus, CCSL) adotado em lugar de 'para os sentidos' (sensibus, Migne) pelo critério C4 (G01-07)."
+   ]
   },
   {
    "homilia": 2,
@@ -6483,10 +6627,10 @@
    "ccsl_paginas": "33–37",
    "pdf_paginas": "107–111",
    "resultado": "conferida parágrafo por parágrafo, inclusive aparato nos pontos divergentes; revisão complementar na Etapa 1 (verificações automáticas de artefatos, números de coluna e de seção, etiquetas de bloco e falsos cognatos; referências bíblicas conferidas com Migne, camada latim/; título da leitura uniformizado)",
-   "estado_final": "finalizada-com-ressalvas",
+   "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas na tradução",
    "ressalvas": [
-    "Dúvida de construção registrada (G05-08): a frase admite duas leituras sintáticas; mantida a tradução recebida."
+    "Dúvida de construção (G05-08) decidida: mantida a tradução recebida, porque a sintaxe admite as duas leituras."
    ]
   },
   {
@@ -6506,7 +6650,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas na tradução",
    "ressalvas": [
-    "Sugestão não aplicada (G07-04): 'Idumeia' em vez de 'Edom', como no latim; decisão sua."
+    "Sugestão G07-04 ('Idumeia') não aplicada: mantido 'Edom' por decisão do responsável (C6)."
    ]
   },
   {
@@ -6517,7 +6661,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas na tradução",
    "ressalvas": [
-    "Sugestões não aplicadas (G08-04, G08-05), de redação; decisão sua. G08-03 ('do exército') passou a variante: a palavra está em Migne."
+    "Sugestões G08-04 e G08-05 aplicadas por decisão do responsável (C6). G08-03 ('do exército') é variante: a palavra está em Migne."
    ]
   },
   {
@@ -6593,7 +6737,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas (a de 1Rs 19,8 corresponde a 'III Reg.' da Vulgata); espaçamento de uma referência uniformizado",
    "ressalvas": [
-    "Sugestão não aplicada (G16-05): '360 dias' (texto crítico) em vez de '365' (Migne e alguns manuscritos); decisão sua."
+    "'360 dias' (CCSL) adotado em lugar de '365' (Migne) pelo critério C4 (G16-05)."
    ]
   },
   {
@@ -6633,7 +6777,7 @@
    "estado_final": "finalizada-com-ressalvas",
    "referencias_biblicas": "conferidas; uma desfigurada, duas sem parênteses e três 'ibid.' corrigidas; na citação de Is 41,18-20 a tradução foi ajustada à Vulgata comentada pelo autor; espaçamento de referência uniformizado na revisão final",
    "ressalvas": [
-    "Dúvida sobre o sentido de 'continentia' no § 12 (G20-14), sem efeito na integridade do texto."
+    "Dúvida sobre 'continentia' no § 12 (G20-14): mantido 'continência' por decisão do responsável, com a dúvida registrada para comparação com outras obras de Gregório."
    ]
   },
   {
@@ -6641,10 +6785,10 @@
    "ccsl_paginas": "173–179",
    "pdf_paginas": "246–252",
    "resultado": "conferida parágrafo por parágrafo, inclusive aparato nos pontos divergentes; revisão complementar na Etapa 1 (verificações automáticas de artefatos, números de coluna e de seção, etiquetas de bloco e falsos cognatos; referências bíblicas conferidas com Migne, camada latim/; título da leitura uniformizado)",
-   "estado_final": "finalizada-com-ressalvas",
+   "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; todas presentes e corretas na tradução",
    "ressalvas": [
-    "Dúvida registrada (G21-06): 'frequens' (solenidade 'frequente') pode ser 'concorrida' ou 'contínua'; mantida a tradução recebida."
+    "'frequente' substituído por 'incessante' por decisão do responsável (G21-06)."
    ]
   },
   {
@@ -6664,7 +6808,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas; todas as de Migne presentes e corretas na tradução",
    "ressalvas": [
-    "Sugestão não aplicada (G23-04): indicar entre parênteses o latim 'figuli', para tornar compreensível o jogo de palavras 'fingere'/'figulus'."
+    "Sugestão G23-04 ('oleiros (em latim, figuli)') aplicada por decisão do responsável (C6). Tradução própria piloto aprovada como experiência metodológica (C7)."
    ]
   },
   {
@@ -6690,11 +6834,11 @@
    "ccsl_paginas": "217–228",
    "pdf_paginas": "290–301",
    "resultado": "conferida parágrafo por parágrafo, inclusive aparato nos pontos divergentes; revisão complementar na Etapa 1 (verificações automáticas de artefatos, números de coluna e de seção, etiquetas de bloco e falsos cognatos; referências bíblicas conferidas com Migne, camada latim/; título da leitura uniformizado)",
-   "estado_final": "finalizada-com-ressalvas",
+   "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; dois 'ibid.' completados (Jó 40,18)",
    "ressalvas": [
-    "Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão.",
-    "G26-12 ('com os seus') passou a variante: Migne imprime 'examinis suis' (conferido na imagem da página)."
+    "Frase do § 2 presente em Migne e ausente da CCSL (G26-08): mantida, com nota editorial na página da homilia (decisão C2).",
+    "G26-12 ('com os seus') é variante: Migne imprime 'examinis suis'."
    ]
   },
   {
@@ -6723,8 +6867,8 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; um 'ibid.' completado (At 1,9) e oito referências em abreviatura latina uniformizadas, entre elas a do Segundo Livro dos Reis, partida entre dois parágrafos na origem (2Rs 2,11)",
    "ressalvas": [
-    "Sugestão não aplicada (G29-09), de redação.",
-    "Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22)."
+    "Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22).",
+    "Sugestão G29-09 não aplicada: mantida a tradução recebida, que tem apoio em variante textual (C6)."
    ]
   },
   {
@@ -6735,7 +6879,7 @@
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas com Migne; cinco 'ibid.' completados e três referências uniformizadas",
    "ressalvas": [
-    "Sugestões não aplicadas (G30-04, G30-06), de redação."
+    "Sugestão G30-06 aplicada (C6); G30-04 mantida sem revisão geral de 'suggerere' nesta etapa."
    ]
   },
   {
@@ -6851,8 +6995,23 @@
    "referencias_biblicas": "conferidas; duas referências desfiguradas restituídas (Sl 67,24; Sl 72,28), duas referências erradas na fonte de base corrigidas (Ex 22,1, pelo aparato da CCSL; Mt 25,40), uma ao Segundo Livro de Samuel corrigida (estava como '2Rs') e uma uniformizada",
    "ressalvas": [
     "Lacuna na tradução recebida (§ 3): duas frases faltavam e no lugar delas havia anotações de trabalho de uma ferramenta automática ('Wait correct typo. Need final clean.'). As anotações foram retiradas e as duas frases traduzidas do latim (G40-05). Esse trecho é tradução própria, não da tradução recebida; está identificado no registro e pode ser revisto ou revertido.",
-    "A nota de Migne que remete ao Decreto de Graciano ('De poenit., dist. 3, can. Cavendum') já tinha sido omitida pela tradução recebida."
+    "A nota de Migne que remete ao Decreto de Graciano ('De poenit., dist. 3, can. Cavendum') já tinha sido omitida pela tradução recebida.",
+    "Preenchimento da lacuna aprovado pelo responsável (C1, 06/11/2026)."
    ]
   }
- ]
+ ],
+ "etapas": {
+  "etapa_1": {
+   "nome": "Finalização textual das 40 homilias",
+   "estado": "concluída",
+   "data_de_conclusao": "2026-11-06",
+   "aprovacao": "Aprovada pelo responsável do projeto em 06/11/2026, com as decisões C1–C7 (ver historico).",
+   "resultado": "40 homilias colacionadas com Migne (PL 76) e a CCSL 141; camada revisada gerada para as 40; tradução própria piloto (Homilia XXIII)."
+  },
+  "etapa_2": {
+   "nome": "Distribuição litúrgica",
+   "estado": "em andamento",
+   "autorizada_em": "2026-11-06"
+  }
+ }
 }

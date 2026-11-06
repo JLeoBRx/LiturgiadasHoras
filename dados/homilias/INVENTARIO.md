@@ -36,36 +36,36 @@ Estados: **finalizada**: texto colacionado, correções aplicadas, nenhuma dúvi
 
 | Nº | Estado final | Correções aplicadas | Sugestões | Dúvidas | Variantes e problemas da fonte | Ressalvas |
 |---|---|---|---|---|---|---|
-| I | finalizada | 6 | — | — | 1 | — |
+| I | finalizada | 7 | — | — | 0 | 'para os velhos' (senibus, CCSL) adotado em lugar de 'para os sentidos' (sensibus, Migne) pelo critério C4 (G01-07). |
 | II | finalizada | 6 | — | — | 0 | O cabeçalho e a rubrica faltavam na tradução recebida; foram traduzidos de Migne (G02-01). |
 | III | finalizada | 5 | — | — | 0 | — |
 | IV | finalizada | 4 | — | — | 0 | — |
-| V | finalizada com ressalvas | 5 | — | G05-08 | 4 | Dúvida de construção registrada (G05-08): a frase admite duas leituras sintáticas; mantida a tradução recebida. |
+| V | finalizada | 5 | — | G05-08 | 4 | Dúvida de construção (G05-08) decidida: mantida a tradução recebida, porque a sintaxe admite as duas leituras. |
 | VI | finalizada | 4 | — | — | 1 | — |
-| VII | finalizada | 2 | G07-04 | — | 2 | Sugestão não aplicada (G07-04): 'Idumeia' em vez de 'Edom', como no latim; decisão sua. |
-| VIII | finalizada | 3 | G08-04, G08-05 | — | 5 | Sugestões não aplicadas (G08-04, G08-05), de redação; decisão sua. G08-03 ('do exército') passou a variante: a palavra está em Migne. |
+| VII | finalizada | 2 | G07-04 | — | 2 | Sugestão G07-04 ('Idumeia') não aplicada: mantido 'Edom' por decisão do responsável (C6). |
+| VIII | finalizada | 5 | — | — | 5 | Sugestões G08-04 e G08-05 aplicadas por decisão do responsável (C6). G08-03 ('do exército') é variante: a palavra está em Migne. |
 | IX | finalizada | 5 | — | — | 0 | — |
 | X | finalizada | 6 | — | — | 4 | — |
-| XI | finalizada | 2 | G11-02 | — | 0 | — |
-| XII | finalizada | 6 | G12-06 | — | 0 | — |
+| XI | finalizada | 3 | — | — | 0 | — |
+| XII | finalizada | 7 | — | — | 0 | — |
 | XIII | finalizada | 3 | — | — | 0 | — |
 | XIV | finalizada | 2 | — | — | 0 | Migne numera dois parágrafos como '3' (o segundo deveria ser o 5); a numeração não aparece na tradução. |
 | XV | finalizada | 5 | — | — | 0 | — |
-| XVI | finalizada | 6 | G16-05 | — | 1 | Sugestão não aplicada (G16-05): '360 dias' (texto crítico) em vez de '365' (Migne e alguns manuscritos); decisão sua. |
+| XVI | finalizada | 7 | — | — | 1 | '360 dias' (CCSL) adotado em lugar de '365' (Migne) pelo critério C4 (G16-05). |
 | XVII | finalizada | 12 | — | — | 0 | Um erro da transcrição latina de base ('Vetus' por 'Verus', § 7) foi identificado pela CCSL 141 (G17-02). |
 | XVIII | finalizada | 3 | — | — | 0 | — |
 | XIX | finalizada | 7 | G19-04 | — | 0 | — |
-| XX | finalizada com ressalvas | 14 | — | G20-14 | 0 | Dúvida sobre o sentido de 'continentia' no § 12 (G20-14), sem efeito na integridade do texto. |
-| XXI | finalizada com ressalvas | 4 | — | G21-06 | 3 | Dúvida registrada (G21-06): 'frequens' (solenidade 'frequente') pode ser 'concorrida' ou 'contínua'; mantida a tradução recebida. |
+| XX | finalizada com ressalvas | 14 | — | G20-14 | 0 | Dúvida sobre 'continentia' no § 12 (G20-14): mantido 'continência' por decisão do responsável, com a dúvida registrada para comparação com outras obras de Gregório. |
+| XXI | finalizada | 5 | — | — | 3 | 'frequente' substituído por 'incessante' por decisão do responsável (G21-06). |
 | XXII | finalizada | 10 | — | — | 0 | — |
-| XXIII | finalizada | 3 | G23-04 | — | 0 | Sugestão não aplicada (G23-04): indicar entre parênteses o latim 'figuli', para tornar compreensível o jogo de palavras 'fingere'/'figulus'. |
+| XXIII | finalizada | 4 | — | — | 0 | Sugestão G23-04 ('oleiros (em latim, figuli)') aplicada por decisão do responsável (C6). Tradução própria piloto aprovada como experiência metodológica (C7). |
 | XXIV | finalizada | 5 | — | — | 0 | — |
 | XXV | finalizada | 15 | — | — | 0 | — |
-| XXVI | finalizada com ressalvas | 10 | — | G26-08 | 4 | Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão. G26-12 ('com os seus') passou a variante: Migne imprime 'examinis suis' (conferido na imagem da página). |
+| XXVI | finalizada | 10 | — | — | 5 | Frase do § 2 presente em Migne e ausente da CCSL (G26-08): mantida, com nota editorial na página da homilia (decisão C2). G26-12 ('com os seus') é variante: Migne imprime 'examinis suis'. |
 | XXVII | finalizada | 9 | — | — | 0 | — |
 | XXVIII | finalizada | 3 | — | — | 0 | — |
-| XXIX | finalizada | 20 | G29-09 | — | 1 | Sugestão não aplicada (G29-09), de redação. Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22). |
-| XXX | finalizada | 18 | G30-04, G30-06 | — | 2 | Sugestões não aplicadas (G30-04, G30-06), de redação. |
+| XXIX | finalizada | 20 | G29-09 | — | 1 | Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22). Sugestão G29-09 não aplicada: mantida a tradução recebida, que tem apoio em variante textual (C6). |
+| XXX | finalizada | 19 | G30-04 | — | 2 | Sugestão G30-06 aplicada (C6); G30-04 mantida sem revisão geral de 'suggerere' nesta etapa. |
 | XXXI | finalizada | 6 | — | — | 1 | Um erro da transcrição latina de base ('non' por 'nos', § 8) foi identificado pela CCSL 141 (G31-07); a tradução já estava correta. |
 | XXXII | finalizada | 11 | — | — | 1 | Migne repete a numeração '3.' (dois parágrafos com o mesmo número); a numeração foi mantida como impressa na camada latim/. Um erro da transcrição latina de base ('prorant' por 'proruat', § 8) foi identificado pela CCSL 141 (G32-11); a tradução já estava correta. |
 | XXXIII | finalizada | 24 | — | — | 2 | Um erro da transcrição latina de base ('retinebamur' por 'renitebamur', § 5) foi identificado pela CCSL 141 (G33-07); a tradução já estava correta. A mesma transcrição traz 'vival' por 'vivat' (Ez 33,11, § 8), erro tipográfico evidente sem efeito na tradução. Variante Migne × CCSL registrada (G33-18: 'conditor et Redemptor noster' × 'conditor noster'); a tradução segue Migne. |
@@ -75,7 +75,7 @@ Estados: **finalizada**: texto colacionado, correções aplicadas, nenhuma dúvi
 | XXXVII | finalizada | 13 | — | — | 0 | As duas notas de Migne que remetem aos Diálogos de Gregório foram mantidas e postas na forma portuguesa já usada pela tradução recebida na Homilia XXXVI. |
 | XXXVIII | finalizada | 25 | — | — | 0 | As duas notas de Migne que remetem ao Decreto de Graciano ('23, q. 4') já tinham sido omitidas pela tradução recebida; as que remetem aos Diálogos de Gregório foram mantidas, numa só forma. |
 | XXXIX | finalizada | 8 | — | — | 0 | O versículo de Lc 19,42 é traduzido de três maneiras ao longo da homilia, porque Gregório o comenta em partes ('Se também tu conhecesses', 'E na verdade neste teu dia…'); as formas foram mantidas, por acompanharem o comentário. As notas de Migne que remetem ao Decreto de Graciano ('1, q. 3, c. 10') já tinham sido omitidas pela tradução recebida. |
-| XL | finalizada com ressalvas | 22 | — | — | 0 | Lacuna na tradução recebida (§ 3): duas frases faltavam e no lugar delas havia anotações de trabalho de uma ferramenta automática ('Wait correct typo. Need final clean.'). As anotações foram retiradas e as duas frases traduzidas do latim (G40-05). Esse trecho é tradução própria, não da tradução recebida; está identificado no registro e pode ser revisto ou revertido. A nota de Migne que remete ao Decreto de Graciano ('De poenit., dist. 3, can. Cavendum') já tinha sido omitida pela tradução recebida. |
+| XL | finalizada com ressalvas | 22 | — | — | 0 | Lacuna na tradução recebida (§ 3): duas frases faltavam e no lugar delas havia anotações de trabalho de uma ferramenta automática ('Wait correct typo. Need final clean.'). As anotações foram retiradas e as duas frases traduzidas do latim (G40-05). Esse trecho é tradução própria, não da tradução recebida; está identificado no registro e pode ser revisto ou revertido. A nota de Migne que remete ao Decreto de Graciano ('De poenit., dist. 3, can. Cavendum') já tinha sido omitida pela tradução recebida. Preenchimento da lacuna aprovado pelo responsável (C1, 06/11/2026). |
 
 Procedência da tradução recebida: Portal OpenSaints: https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne; fonte textual declarada: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
 

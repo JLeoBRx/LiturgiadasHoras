@@ -4,7 +4,8 @@
     "estado: 'publicada' aparece no site; qualquer outro valor (ex.: 'suspensa') esconde a homilia sem apagar nada.",
     "correspondencias: 'liturgica' (pregada para esta celebração: 'celebracao' = id da celebração do dia, ou 'chaves' = chaves de leituras do dia do tempo) e 'biblica' (comenta a leitura proclamada: 'leituras' = chave de dados/liturgia-diaria/indice.json, 'leitura' = seção, 'referencia_do_dia' = referência exatamente como no arquivo de leituras, 'versiculos_comentados' = trecho comentado pela homilia que também é lido no dia). Correspondência só temática NUNCA entra aqui.",
     "arquivo: camada revisada (texto publicado), gerada a partir da tradução recebida e do registro editorial. Ver dados/homilias/LEIA-ME.md.",
-    "Os testes (ferramentas/testes/homilias.test.mjs) conferem a integridade dos textos, as referências bíblicas e os dias em que cada homilia aparece."
+    "Os testes (ferramentas/testes/homilias.test.mjs) conferem a integridade dos textos, as referências bíblicas e os dias em que cada homilia aparece.",
+    "notas_editoriais: observações do editor sobre o texto (ex.: frase presente só em Migne), mostradas na página da homilia; o texto em si não muda."
   ],
   "autores": {
     "gregorio-magno": {
@@ -258,6 +259,13 @@
           "referencia_do_dia": "Jo 20,19-31",
           "versiculos_comentados": "Jo 20,19-31",
           "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
+        }
+      ],
+      "notas_editoriais": [
+        {
+          "localizacao": "§ 2",
+          "registro": "G26-08",
+          "texto": "A frase «Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.» consta na edição de Migne (Patrologia Latina 76), base desta tradução, mas não aparece na edição crítica (CCSL 141) nem no seu aparato de manuscritos. Foi mantida por transparência quanto à tradição textual seguida."
         }
       ]
     },

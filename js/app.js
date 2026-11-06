@@ -366,6 +366,7 @@ async function telaHomilia(iso, id, op) {
       <p><strong>Tradução portuguesa:</strong> tradutor ${esc(tr.tradutor || 'não identificado')}. ${esc(tr.origem || '')}</p>
       <p><strong>Revisão:</strong> ${esc(tr.revisao || '')}</p>
       ${ob.autenticidade ? `<p><strong>Autoria:</strong> ${esc(ob.autenticidade)}</p>` : ''}
+      ${(h.notas_editoriais || []).map((n) => `<p><strong>Nota editorial${n.localizacao ? ` (${esc(n.localizacao)})` : ''}:</strong> ${esc(n.texto)}</p>`).join('')}
       <p class="homilia-arquivo">Arquivo do texto publicado: <code>dados/${esc(h.arquivo)}.txt</code></p>
     </section>
     <div class="seguinte"><a href="${voltar}"><small>Voltar para</small><strong>Liturgia Diária</strong></a><a class="dir" href="#/calendario/${iso.slice(0, 7)}?dia=${iso}"><small>Ver no</small><strong>Calendário</strong></a></div>

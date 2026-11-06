@@ -2,6 +2,13 @@
 
 > Gerado a partir de `dados/homilias/gregorio-magno/registro-editorial.json` por `ferramentas/homilias/gerar_documentos.mjs`. Não edite à mão.
 
+## Etapas
+
+| Etapa | Estado | Data |
+|---|---|---|
+| Finalização textual das 40 homilias | concluída | 06/11/2026 |
+| Distribuição litúrgica | em andamento | 06/11/2026 |
+
 ## Método
 
 - **Texto latino de base:** J.-P. Migne, *Patrologia Latina* 76 (Paris, 1849), na transcrição do Corpus Corporum (Universidade de Zurique) publicada na Wikisource latina, enviada em PDF e separada por homilia em `dados/homilias/gregorio-magno/latim/`. Os números de coluna citados no registro (1434-1661) são os que essa transcrição traz entre colchetes; podem não coincidir com os de outras tiragens da PL 76, que não foram conferidas. É a base declarada da tradução recebida.
@@ -17,10 +24,10 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 250 |
+| Correções de tradução aplicadas | 259 |
 | Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 123 |
-| Sugestões não aplicadas | 11 |
-| Dúvidas não resolvidas | 4 |
+| Sugestões não aplicadas | 4 |
+| Dúvidas (1 ainda em aberto) | 2 |
 | Variantes textuais registradas (texto mantido) | 30 |
 | Homilias conferidas | 40 de 40 |
 
@@ -102,6 +109,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** 'Aeterni' concorda com 'solis' (do sol eterno), não com 'vitae'.
 - **Justificativa teológica ou contextual:** O sol eterno é imagem de Deus/Cristo, que ilumina a vida dos eleitos; a tradução transferiu o adjetivo e perdeu a imagem.
 - **Motivo:** Adjetivo ligado à palavra errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G01-07 · Homilia I · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 9, § 5: 'plerumque senibus ipsa sua salus aegritudo est'
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 7
+- **Texto latino:** nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne)
+- **Tradução recebida:** “a própria saúde já é enfermidade para os sentidos”
+- **Tradução aplicada:** “a própria saúde já é enfermidade para os velhos”
+- **Justificativa linguística:** Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português. Pelo critério C4 (Migne como referência, CCSL quando a justificativa filológica é consistente e o sentido o exige), adota-se 'senibus': o parágrafo compara o mundo ao homem que envelhece.
+- **Motivo:** Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).
+- **Decisão do responsável (06/11/2026):** adotar a leitura da CCSL. Aprovado no item C4.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G02-06 · Homilia II · título da leitura
@@ -414,6 +434,20 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Construção portuguesa que não transmite a sintaxe e o sentido do latim.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G08-04 · Homilia VIII · § 1, 1ª frase
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 54, § 1
+- **Localização no texto:** § 1, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 4
+- **Texto latino:** Quia, largiente Domino, missarum sollemnia ter hodie celebraturi sumus
+- **Tradução recebida:** “hoje celebraremos três vezes os solenes mistérios da missa”
+- **Tradução aplicada:** “hoje celebraremos três vezes as solenidades das missas”
+- **Justificativa linguística:** 'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.
+- **Justificativa teológica ou contextual:** A expressão não está errada quanto à doutrina, mas introduz um termo que o autor não usa aqui. Gregório refere-se às três missas do Natal.
+- **Motivo:** Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G08-01 · Homilia VIII · § 2, último parágrafo
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
@@ -424,6 +458,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “nenhum pensamento torpe nos acuse”
 - **Justificativa linguística:** Erro de concordância (digitação): 'pensamento' é masculino.
 - **Motivo:** Erro tipográfico da tradução recebida.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G08-05 · Homilia VIII · § 2, 1ª frase
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 55, § 2
+- **Localização no texto:** § 2, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 5
+- **Texto latino:** eiusque uoci angelorum chori concinunt et congaudentes clamant
+- **Tradução recebida:** “os coros dos anjos concordam com a sua voz”
+- **Tradução aplicada:** “os coros dos anjos cantam em uníssono com a sua voz”
+- **Justificativa linguística:** 'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.
+- **Motivo:** Perda da imagem do canto. Duas leituras possíveis; não aplicado. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G09-01 · Homilia IX · rubrica
@@ -560,6 +607,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Construção incompleta.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G11-02 · Homilia XI · § 4, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 79
+- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 8
+- **Texto latino:** Quidquid in mente pueriliter hilarescit, hoc disciplinae juvenilis censura coerceat
+- **Tradução recebida:** “contenha-o a censura de uma disciplina madura”
+- **Tradução aplicada:** “contenha-o a censura de uma disciplina juvenil”
+- **Justificativa linguística:** 'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.
+- **Motivo:** Imagem alterada sem prejuízo grave do sentido. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G12-07 · Homilia XII · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
@@ -595,6 +655,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “a quem eu mesmo, já monge, vi também monge,”
 - **Justificativa linguística:** 'Jam monachus' é 'já sendo monge'; 'depois de monge' é ambíguo e pode ser lido como 'depois de deixar de ser monge'.
 - **Motivo:** Expressão ambígua.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-06 · Homilia XII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
+- **Texto latino:** vir valde idoneus, sed tantum plenus vitiis, quantum rebus
+- **Tradução recebida:** “homem muito capaz,”
+- **Tradução aplicada:** “homem de grandes posses,”
+- **Justificativa linguística:** No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.
+- **Motivo:** Sentido provável diferente do adotado; não há segurança para aplicar. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G13-01 · Homilia XIII · título da leitura
@@ -741,6 +814,20 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** A tradução omitiu 'a nostris cordibus' (dos nossos corações). O aparato registra só a ordem 'cordibus nostris' em V, sem omissão.
 - **Justificativa teológica ou contextual:** A expressão diz de ONDE o tentador é expulso: dos nossos corações, que ele ocupava.
 - **Motivo:** Omissão de uma expressão.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G16-05 · Homilia XVI · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 114, § 5, aparato à l. 102
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 8
+- **Texto latino:** Dum uero per trecentos et sexaginta dies annus ducitur, nos autem per triginta et sex dies affligimur, quasi anni nostri decimas Deo damus (aparato: '+ quinque' em F, K e L p.c.)
+- **Tradução recebida:** “trezentos e sessenta e cinco dias”
+- **Tradução aplicada:** “trezentos e sessenta dias”
+- **Justificativa linguística:** O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue. Pelo critério C4, adota-se a leitura da CCSL: o argumento de Gregório (os 36 dias de jejum como dízimo do ano) só fecha com 360 dias; '365' é correção posterior de manuscritos, seguida por Migne.
+- **Justificativa teológica ou contextual:** O argumento de Gregório é aritmético: 36 dias de jejum são a DÉCIMA parte (o dízimo) de 360. Com 365 a conta deixa de ser exata.
+- **Motivo:** Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).
+- **Decisão do responsável (06/11/2026):** adotar a leitura da CCSL. Aprovado no item C4.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G16-03 · Homilia XVI · § 6
@@ -1107,6 +1194,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Tradução incorreta que altera o sentido da frase.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G21-06 · Homilia XXI · § 7, conclusão
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 179, § 7
+- **Localização no texto:** § 7, conclusão — `dados/homilias/gregorio-magno/recebida/homilia-21.txt`, bloco 9
+- **Texto latino:** Ad horum ergo ciuium illam frequentem sollemnitatem festinemus.
+- **Tradução recebida:** “Corramos, pois, para aquela frequente solenidade desses cidadãos.”
+- **Tradução aplicada:** “Corramos, pois, para aquela solenidade incessante desses cidadãos.”
+- **Justificativa linguística:** 'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.
+- **Motivo:** 'frequens' entendido como 'contínua' (paralelo da Homilia XXVI, § 10: 'non est annua, sed continua'); decisão do responsável (C5).
+- **Decisão do responsável (06/11/2026):** adotar 'incessante'. Aprovado no item C5.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G22-10 · Homilia XXII · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
@@ -1166,6 +1266,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “em seus corações, fingiu ir mais longe.”
 - **Justificativa linguística:** Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.
 - **Motivo:** Tradução que apaga a palavra comentada na frase seguinte.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-04 · Homilia XXIII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
+- **Texto latino:** Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
+- **Tradução recebida:** “daí também chamarmos oleiros aos que moldam o barro.”
+- **Tradução aplicada:** “daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.”
+- **Justificativa linguística:** O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.
+- **Motivo:** Jogo de palavras intraduzível; decisão sua. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G24-05 · Homilia XXIV · título da leitura
@@ -1533,6 +1646,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “porque inflama para a súplica aqueles que Ele enche”
 - **Justificativa linguística:** Mesmo verbo de G30-02 ('quos repleuerit').
 - **Motivo:** Termo que altera o sentido do original.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-06 · Homilia XXX · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 260, § 5
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 8
+- **Texto latino:** quia idem Spiritus coaeternus est Filio, et habet cognationem maximam lingua cum uerbo. Verbum quippe Patris Filius.
+- **Tradução recebida:** “e há máxima afinidade entre a língua e o Verbo”
+- **Tradução aplicada:** “e há máxima afinidade entre a língua e a palavra”
+- **Justificativa linguística:** O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.
+- **Motivo:** Perda de um jogo de palavras do autor. Fica como sugestão. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G30-07 · Homilia XXX · § 5
@@ -2892,6 +3018,7 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “exprimiria com tanto cuidado que o rico atormentado no inferno se vestira de linho finíssimo e de púrpura. Pois ninguém procura vestes de luxo senão por vã glória, isto é, para parecer mais honrado que os demais.”
 - **Justificativa linguística:** Na tradução recebida, a frase interrompe-se no meio de uma palavra ('exprim') e o resto foi substituído por anotações de trabalho deixadas por uma ferramenta automática ('glria? Wait correct typo. Need final clean.'), sem a tradução de duas frases do latim. É a única lacuna desse tipo nas 40 homilias (verificação por busca em todo o texto recebido). As anotações saem do texto de leitura, e as duas frases são traduzidas diretamente do latim, que é o mesmo em Migne e na CCSL. O texto acrescentado não vem da tradução recebida: é tradução própria, identificada como tal neste item. A cópia recebida continua intacta em recebida/.
 - **Motivo:** Lacuna e resíduo de ferramenta automática na tradução recebida.
+- **Decisão do responsável (06/11/2026):** aprovado. Preenchimento aprovado como está; mantém-se a identificação de tradução própria.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G40-06 · Homilia XL · § 3
@@ -4544,6 +4671,8 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 
 ## 2. Alterações sugeridas, mas não aplicadas
 
+Cada uma traz a decisão do responsável (relatório final da Etapa 1, 06/11/2026).
+
 #### G07-04 · Homilia VII · § 3
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VII
@@ -4554,68 +4683,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “Sobre a Idumeia estenderei a minha sandália (Sl 59,10)”
 - **Justificativa linguística:** Gregório usa o nome latino 'Idumaea' (Idumeia), três vezes no trecho; a tradução moderniza para 'Edom'. As duas designações indicam a mesma região, e não há erro de sentido.
 - **Motivo:** Atualização de um nome antigo. Fica para sua decisão (seriam três ocorrências).
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G08-04 · Homilia VIII · § 1, 1ª frase
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 54, § 1
-- **Localização no texto:** § 1, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 4
-- **Texto latino:** Quia, largiente Domino, missarum sollemnia ter hodie celebraturi sumus
-- **Tradução recebida:** “hoje celebraremos três vezes os solenes mistérios da missa”
-- **Tradução proposta:** “hoje celebraremos três vezes as solenidades das missas”
-- **Justificativa linguística:** 'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.
-- **Justificativa teológica ou contextual:** A expressão não está errada quanto à doutrina, mas introduz um termo que o autor não usa aqui. Gregório refere-se às três missas do Natal.
-- **Motivo:** Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G08-05 · Homilia VIII · § 2, 1ª frase
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 55, § 2
-- **Localização no texto:** § 2, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 5
-- **Texto latino:** eiusque uoci angelorum chori concinunt et congaudentes clamant
-- **Tradução recebida:** “os coros dos anjos concordam com a sua voz”
-- **Tradução proposta:** “os coros dos anjos cantam em uníssono com a sua voz”
-- **Justificativa linguística:** 'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.
-- **Motivo:** Perda da imagem do canto. Duas leituras possíveis; não aplicado.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G11-02 · Homilia XI · § 4, fim
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 79
-- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 8
-- **Texto latino:** Quidquid in mente pueriliter hilarescit, hoc disciplinae juvenilis censura coerceat
-- **Tradução recebida:** “contenha-o a censura de uma disciplina madura”
-- **Tradução proposta:** “contenha-o a censura de uma disciplina juvenil”
-- **Justificativa linguística:** 'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.
-- **Motivo:** Imagem alterada sem prejuízo grave do sentido.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G12-06 · Homilia XII · § 7
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
-- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
-- **Texto latino:** vir valde idoneus, sed tantum plenus vitiis, quantum rebus
-- **Tradução recebida:** “homem muito capaz,”
-- **Tradução proposta:** “homem muito abastado,”
-- **Justificativa linguística:** No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.
-- **Motivo:** Sentido provável diferente do adotado; não há segurança para aplicar.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G16-05 · Homilia XVI · § 5
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 114, § 5, aparato à l. 102
-- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 8
-- **Texto latino:** Dum uero per trecentos et sexaginta dies annus ducitur, nos autem per triginta et sex dies affligimur, quasi anni nostri decimas Deo damus (aparato: '+ quinque' em F, K e L p.c.)
-- **Tradução recebida:** “trezentos e sessenta e cinco dias”
-- **Tradução proposta:** “trezentos e sessenta dias”
-- **Justificativa linguística:** O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue.
-- **Justificativa teológica ou contextual:** O argumento de Gregório é aritmético: 36 dias de jejum são a DÉCIMA parte (o dízimo) de 360. Com 365 a conta deixa de ser exata.
-- **Motivo:** A decisão é sua: seguir o texto crítico ou a tradição seguida pela tradução.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G19-04 · Homilia XIX · § 3
@@ -4628,18 +4696,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “e quase à própria voz da sentença exalou o espírito de vida”
 - **Justificativa linguística:** A ordem latina favorece 'spiritum… vitae' (o sopro de vida) e 'vox sententiae' como a sentença ouvida da boca de Cristo, mas a construção é condensada e admite as duas leituras.
 - **Motivo:** Construção ambígua; não aplicado.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G23-04 · Homilia XXIII · § 1
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1
-- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
-- **Texto latino:** Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
-- **Tradução recebida:** “daí também chamarmos oleiros aos que moldam o barro.”
-- **Tradução proposta:** “daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.”
-- **Justificativa linguística:** O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.
-- **Motivo:** Jogo de palavras intraduzível; decisão sua.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G29-09 · Homilia XXIX · § 9
@@ -4653,6 +4710,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Justificativa linguística:** No texto crítico há um contraste deliberado: 'uidebatur' (parecia) para a divindade humilhada e 'est … exaltata' (foi exaltada) para a humanidade. A tradução estende 'parecia/via-se' às duas. Mas dois manuscritos omitem 'est', e então 'uidebatur' pode valer para as duas orações, como na tradução.
 - **Justificativa teológica ou contextual:** O contraste tem peso doutrinal: a divindade não pode ser realmente humilhada (apenas 'parecia'), mas a humanidade de Cristo foi realmente exaltada na Ascensão.
 - **Motivo:** Correção sustentada pelo texto crítico, mas há variante que apoia a tradução. Fica para sua decisão.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G30-04 · Homilia XXX · § 3, fim
@@ -4665,21 +4723,12 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “no sentido de fornecer”
 - **Justificativa linguística:** 'subministrare' é fornecer, prover (por baixo, às ocultas); é esse sentido que justifica o fim da frase ('não … desde baixo, mas desde o oculto'). A dificuldade vem de a tradução verter 'suggerere' por 'recordar' em toda a homilia, o que torna o jogo de palavras de Gregório difícil de reproduzir.
 - **Motivo:** Perda de um jogo de palavras do autor; solução depende de rever a tradução de 'suggerere'. Fica para sua decisão.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6. Sem revisão geral de 'suggerere' nesta etapa.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
-#### G30-06 · Homilia XXX · § 5
+## 3. Dúvidas
 
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 260, § 5
-- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 8
-- **Texto latino:** quia idem Spiritus coaeternus est Filio, et habet cognationem maximam lingua cum uerbo. Verbum quippe Patris Filius.
-- **Tradução recebida:** “e há máxima afinidade entre a língua e o Verbo”
-- **Tradução proposta:** “e há máxima afinidade entre a língua e a palavra”
-- **Justificativa linguística:** O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.
-- **Motivo:** Perda de um jogo de palavras do autor. Fica como sugestão.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-## 3. Dúvidas ainda não resolvidas
+Dúvidas de sentido que as fontes não resolvem, com a decisão tomada. Uma decisão marcada como provisória mantém a dúvida em aberto.
 
 #### G05-08 · Homilia V · § 4
 
@@ -4690,6 +4739,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução recebida:** “Que a solenidade mostre, em nosso serviço de devoção, uma mente transformada”
 - **Justificativa linguística:** A frase admite duas construções: (a) sujeito 'obsequium nostrae deuotionis', objeto 'sollemnitas immutatae mentis' — 'Que o obséquio da nossa devoção mostre a solenidade de uma mente transformada'; (b) sujeito 'sollemnitas', objeto 'obsequium' — 'Que a solenidade mostre o obséquio da nossa devoção, (próprio) de uma mente transformada'. A tradução recebida segue, com liberdade, a leitura (b).
 - **Motivo:** Ambiguidade sintática real; não há base para escolher. Tradução recebida mantida; dúvida registrada.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. A sintaxe admite as duas leituras; não há segurança para alterar.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G20-14 · Homilia XX · § 12, início
@@ -4701,29 +4751,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução recebida:** “quão grande era a força da continência e do acolhimento dos necessitados”
 - **Justificativa linguística:** As duas edições têm 'continentia'. O contexto fala só de sustentar e acolher os necessitados, o que favorece o sentido de 'manutenção'; mas não há paralelo seguro em Gregório para essa acepção.
 - **Motivo:** Duas leituras plausíveis; texto mantido.
-- **Grau de segurança:** baixa · **estado:** não aplicada
-
-#### G21-06 · Homilia XXI · § 7, conclusão
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 179, § 7
-- **Localização no texto:** § 7, conclusão — `dados/homilias/gregorio-magno/recebida/homilia-21.txt`, bloco 9
-- **Texto latino:** Ad horum ergo ciuium illam frequentem sollemnitatem festinemus.
-- **Tradução recebida:** “Corramos, pois, para aquela frequente solenidade desses cidadãos.”
-- **Justificativa linguística:** 'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.
-- **Motivo:** Duas leituras possíveis; não há base para escolher. Mantido; dúvida registrada.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G26-08 · Homilia XXVI · § 2, início
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 219, § 2 e aparato à l. 27
-- **Localização no texto:** § 2, início — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 4
-- **Texto latino:** Migne (PL 76, col. 1553-1554), § 2: 'Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos. Id est, sicut misit me Pater Deus Deum, et ego mitto vos homo homines. Pater Filium misit…'. A CCSL 141 (p. 219, § 2) não tem a frase 'Id est… homo homines', e o aparato não a registra em nenhum manuscrito.
-- **Tradução recebida:** “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.”
-- **Justificativa linguística:** Conferida agora com a edição de Migne (camada latim/): a frase está em Migne, base declarada da tradução, logo no início do § 2, mas falta no texto crítico e no seu aparato. É, com toda probabilidade, uma glosa que entrou na tradição impressa usada por Migne; a CCSL não a atribui a Gregório.
-- **Justificativa teológica ou contextual:** A frase afirma a divindade do Pai e do Filho e a humanidade dos enviados; é ortodoxa, mas não pode ser apresentada como palavra do autor sem verificação.
-- **Motivo:** Autenticidade: frase presente em Migne e ausente da CCSL 141. Decisão editorial sua.
+- **Decisão do responsável (06/11/2026):** manter 'continência' por enquanto (provisória). Dúvida mantida no registro para eventual comparação com outras obras de Gregório (Moralia, Regula pastoralis).
 - **Grau de segurança:** baixa · **estado:** não aplicada
 
 ## 4. Variantes textuais (diferenças de edição; texto mantido)
@@ -4732,7 +4760,6 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 
 | Registro | Homilia | Tradução recebida | Latim crítico e aparato |
 |---|---|---|---|
-| G01-07 | I | a própria saúde já é enfermidade para os sentidos | nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne) |
 | G05-09 | V | lançando a rede ao mar | mittentes retia sua in mare (aparato: 'rete' em E L) |
 | G05-05 | V | anuncia a proximidade do dia do seu severo juízo | districti sui iudicii propinquitatem denuntiat (aparato: 'diem propinquantem' em S J N M) |
 | G05-06 | V | se renunciais aos desejos terrenos | Multa, fratres, relinquitis, si desideriis renuntiatis (aparato: 'desideriis' + 'terrenis' em J S M L R p.c.) |
@@ -4755,6 +4782,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G21-05 | XXI | Por isso está escrito no Cântico dos Cânticos | Vnde scriptum est: Laeua eius … (aparato: + 'in canticis canticorum' em F e Ba) |
 | G26-09 | XXVI | na oitava da Páscoa | Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana. (sem indicação do dia) |
 | G26-10 | XXVI | fortalecesse para a fé | praebendo palpabile, formaret ad fidem (aparato: 'firmaret' em S) |
+| G26-08 | XXVI | Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens. | Migne (PL 76, col. 1553-1554), § 2: 'Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos. Id est, sicut misit me Pater Deus Deum, et ego mitto vos homo homines. Pater Filium misit…'. A CCSL 141 (p. 219, § 2) não tem a frase 'Id est… homo homines', e o aparato não a registra em nenhum manuscrito. |
 | G26-11 | XXVI | Jesus lhe disse: Porque me viste, Tomé, creste. | Dicit ei Iesus: Quia uidisti me, credidisti. |
 | G26-12 | XXVI | Ele aparecerá com os seus, com os anjos | Migne (PL 76, col. 1558 da tiragem de 1849; conferido na imagem da página do PDF de Migne): 'Certe in die tremendi examinis suis, cum angelis, cum archangelis…'; CCSL 141, p. 226: 'in die tremendi examinis sui, cum angelis…'. |
 | G29-10 | XXIX | Naquele tempo, estando à mesa os onze discípulos, Jesus apareceu-lhes e censurou a sua incredulidade | In illo tempore dixit Iesus discipulis suis: Euntes in uniuersum mundum … (o texto crítico começa em Mc 16,15; o aparato registra em E p.c., F p.c. e X o acréscimo do v. 14: 'recumbentibus undecim discipulis apparuit illis Iesus et exprobrauit incredulitatem illorum…') |
@@ -4771,6 +4799,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **Decisão editorial (06/11/2026):** G29-11 passa de sugestão a correção aplicada (grafia do Acordo Ortográfico, como no restante do site); G26-08 continua dúvida, agora com a conferência de Migne.
 - **Decisão editorial (06/11/2026):** Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.
 - **Decisão editorial (06/11/2026):** G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.
+- **Decisão editorial (06/11/2026):** Etapa 1 aprovada. C1: preenchimento da lacuna da Homilia XL aprovado. C2: frase da Homilia XXVI mantida com nota editorial. C3: PDFs protegidos permanecem por ora; o responsável fará a exclusão. C4: Migne como referência, com a leitura da CCSL adotada quando houver justificativa filológica consistente e o sentido o exigir (aplicado em G01-07 e G16-05; demais variantes avaliadas e mantidas). C5: G05-08 mantida; G20-14 mantida por enquanto, com a dúvida registrada; G21-06 'incessante'. C6: aplicar G08-04, G08-05, G11-02, G12-06, G23-04, G30-06; manter G07-04, G19-04, G29-09, G30-04. C7: tradução própria piloto aprovada como experiência metodológica, separada da recebida.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
 - **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).
@@ -4789,7 +4818,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 
 ## 6. Textos cuja autenticidade ou atribuição precisa de investigação
 
-- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Está publicada como recebida; a decisão de mantê-la, anotá-la ou retirá-la é sua.
+- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Por decisão do responsável (C2), continua no texto, com nota editorial na página da homilia.
 - **São João Maria Vianney** — os 4 tomos são a coleção tradicional dos sermões escritos pelo Cura d’Ars. A dependência destes textos de coletâneas de sermões de outros autores, e a extensão dos retoques dos editores, precisam ser investigadas antes de apresentá-los como palavras do santo. Os “sermões inéditos” do tomo 4 exigem identificação da fonte. Esta auditoria não afirma nem nega a autoria: registra que o material enviado não permite verificá-la.
 - **Santo Antônio de Pádua** — a autoria dos *Sermones dominicales et festivi* é sólida (edição crítica de 1979), mas os textos não foram conferidos com o latim porque ele não foi enviado.
 

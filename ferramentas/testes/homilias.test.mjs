@@ -297,9 +297,27 @@ describe('Homilias: Etapa 1 (latim, revisão final e tradução própria)', () =
     for (const c of REG.colacao) {
       assert.ok(estados.includes(c.estado_final), `Homilia ${c.homilia}: estado_final`);
       assert.ok(c.referencias_biblicas && Array.isArray(c.ressalvas), `Homilia ${c.homilia}: referencias_biblicas e ressalvas`);
-      const duvidas = REG.registros.filter((r) => r.homilia === c.homilia && r.tipo === 'duvida' && r.estado !== 'aplicada');
+      // dúvida em aberto = sem decisão do responsável, ou decidida só provisoriamente ("pendente")
+      const duvidas = REG.registros.filter((r) => r.homilia === c.homilia && r.tipo === 'duvida' && r.estado !== 'aplicada' && (!r.decisao || r.decisao.pendente));
       if (duvidas.length) assert.notEqual(c.estado_final, 'finalizada', `Homilia ${c.homilia}: tem dúvida em aberto (${duvidas.map((d) => d.id)})`);
     }
+  });
+
+  test('Etapa 1 encerrada: decisões do responsável registradas e aplicadas', () => {
+    assert.equal(REG.etapas?.etapa_1?.estado, 'concluída');
+    const ids = (f) => REG.registros.filter(f).map((r) => r.id).sort();
+    // C4 e C5/C6: o que foi aprovado está aplicado; o que foi mantido continua como recebido
+    for (const id of ['G01-07', 'G16-05', 'G21-06', 'G08-04', 'G08-05', 'G11-02', 'G12-06', 'G23-04', 'G30-06']) {
+      const r = REG.registros.find((x) => x.id === id);
+      assert.ok(r.estado === 'aplicada' && r.decisao, `${id}: decisão aprovada não aplicada`);
+    }
+    for (const id of ['G05-08', 'G20-14', 'G07-04', 'G19-04', 'G29-09', 'G30-04', 'G40-05', 'G26-08']) assert.ok(REG.registros.find((x) => x.id === id).decisao, `${id}: sem decisão registrada`);
+    // nenhuma sugestão ou dúvida ficou sem decisão
+    assert.deepEqual(ids((r) => ['sugestao', 'duvida'].includes(r.tipo) && !r.decisao), []);
+    // C2: a frase da Homilia XXVI continua no texto e a nota editorial está no índice
+    const h26 = INDICE.homilias.find((h) => h.numero === 26);
+    assert.ok(h26.notas_editoriais?.some((n) => n.registro === 'G26-08' && /Migne/.test(n.texto) && /CCSL 141/.test(n.texto)));
+    assert.ok(fs.readFileSync(path.join(G, 'revisada', 'homilia-26.txt'), 'utf8').includes('Isto é: assim como o Pai, Deus, enviou a mim, Deus'));
   });
 
   test('texto acrescentado por tradução própria na camada revisada está identificado no registro', () => {

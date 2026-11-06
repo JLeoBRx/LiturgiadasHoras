@@ -33,7 +33,7 @@ As demais correções da camada revisada mudam palavras ou construções da trad
 
 | Homilia | Estado |
 |---|---|
-| XXIII | piloto traduzido; aguarda revisão editorial |
+| XXIII | piloto aprovado em 06/11/2026 como experiência metodológica (decisão C7); continua separado da tradução recebida e não publicado |
 | as outras 39 | não traduzidas |
 
 ## Por que não as 40 agora
@@ -42,6 +42,6 @@ As demais correções da camada revisada mudam palavras ou construções da trad
 - **Pouco a ganhar já.** A Etapa 1 deixou a tradução recebida colacionada e corrigida nas 40 homilias. O que uma tradução nova acrescentaria agora é sobretudo diferença de estilo.
 - **O piloto confirma o método.** A tradução direta, seguida de comparação, ainda encontra problemas: em XXIII, um que a colação não tinha apanhado. Isso justifica continuar homilia por homilia, com revisão.
 
-## Proposta
+## Decisão (06/11/2026)
 
-Avançar uma homilia de cada vez, a começar pelas publicadas, com o mesmo método e o mesmo glossário. Cada nova homilia acrescenta um `homilia-NN.txt` e um `notas-homilia-NN.md`.
+O responsável do projeto aprovou o piloto como experiência metodológica e decidiu que não se fará agora uma terceira tradução integral: a prioridade é a tradução recebida, já revisada e colacionada. A possibilidade de traduções próprias futuras continua aberta; cada nova homilia, se houver, acrescentará um `homilia-NN.txt` e um `notas-homilia-NN.md`, com o mesmo método e o mesmo glossário.

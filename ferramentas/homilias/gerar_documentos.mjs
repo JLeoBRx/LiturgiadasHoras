@@ -220,6 +220,8 @@ function entrada(r) {
   L.push(`- **Justificativa linguística:** ${r.justificativa_linguistica}`);
   if (r.justificativa_teologica) L.push(`- **Justificativa teológica ou contextual:** ${r.justificativa_teologica}`);
   L.push(`- **Motivo:** ${r.motivo}`);
+  if (r.decisao) L.push(`- **Decisão do responsável (${r.decisao.data.split('-').reverse().join('/')}):** ${r.decisao.escolha}${r.decisao.pendente ? ' (provisória)' : ''}. ${r.decisao.texto}`);
+  if (r.avaliacao_c4) L.push(`- **Critério C4:** ${r.avaliacao_c4}`);
   L.push(`- **Grau de segurança:** ${r.confianca} · **estado:** ${ESTADO[r.estado]}`, '');
   return L.join('\n');
 }
@@ -234,6 +236,11 @@ function auditoriaMd(REG, IND, gregorio) {
   const varia = grupo((r) => r.tipo === 'variante');
   const L = [];
   L.push('# Auditoria das traduções — Homilias dos santos', '', '> Gerado a partir de `dados/homilias/gregorio-magno/registro-editorial.json` por `ferramentas/homilias/gerar_documentos.mjs`. Não edite à mão.', '');
+  if (REG.etapas) {
+    L.push('## Etapas', '', '| Etapa | Estado | Data |', '|---|---|---|');
+    for (const e of Object.values(REG.etapas)) L.push(`| ${e.nome} | ${e.estado} | ${(e.data_de_conclusao || e.autorizada_em || '').split('-').reverse().join('/')} |`);
+    L.push('');
+  }
   L.push('## Método', '');
   L.push('- **Texto latino de base:** J.-P. Migne, *Patrologia Latina* 76 (Paris, 1849), na transcrição do Corpus Corporum (Universidade de Zurique) publicada na Wikisource latina, enviada em PDF e separada por homilia em `dados/homilias/gregorio-magno/latim/`. Os números de coluna citados no registro (1434-1661) são os que essa transcrição traz entre colchetes; podem não coincidir com os de outras tiragens da PL 76, que não foram conferidas. É a base declarada da tradução recebida.');
   L.push('- **Texto latino de conferência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e de fontes; usada para resolver passos duvidosos, identificar erros da transcrição de Migne e registrar variantes.');
@@ -245,15 +252,15 @@ function auditoriaMd(REG, IND, gregorio) {
   L.push('- Escolhas de estilo que não mudam o sentido (artigos, pontuação, tempos verbais harmonizados, ordem das palavras) não foram alteradas nem itemizadas.');
   L.push('- **Reversível:** a tradução recebida está intacta em `dados/homilias/gregorio-magno/recebida/`; o texto publicado (`revisada/`) é gerado a partir dela e do registro. Para desfazer uma correção, mude seu estado para `nao-aplicada` e rode `python3 ferramentas/homilias/aplicar_alteracoes.py`.', '');
   L.push('## Números', '', '| Tipo | Quantidade |', '|---|---|');
-  L.push(`| Correções de tradução aplicadas | ${tradAplic.length} |`, `| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | ${fonteAplic.length} |`, `| Sugestões não aplicadas | ${sug.length} |`, `| Dúvidas não resolvidas | ${duv.length} |`, `| Variantes textuais registradas (texto mantido) | ${varia.length} |`, `| Homilias conferidas | ${REG.colacao.length} de 40 |`, '');
+  L.push(`| Correções de tradução aplicadas | ${tradAplic.length} |`, `| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | ${fonteAplic.length} |`, `| Sugestões não aplicadas | ${sug.length} |`, `| Dúvidas (${duv.filter((r) => !r.decisao || r.decisao.pendente).length} ainda em aberto) | ${duv.length} |`, `| Variantes textuais registradas (texto mantido) | ${varia.length} |`, `| Homilias conferidas | ${REG.colacao.length} de 40 |`, '');
   L.push('Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.', '');
   L.push('## 1. Alterações efetivamente aplicadas', '', '### 1.1 Correções de tradução', '');
   for (const r of tradAplic) L.push(entrada(r));
   L.push('### 1.2 Correções de problemas da fonte', '', 'Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram junto com a tradução, ou corrigem referências bíblicas acrescentadas pela edição.', '');
   for (const r of fonteAplic) L.push(entrada(r));
-  L.push('## 2. Alterações sugeridas, mas não aplicadas', '');
+  L.push('## 2. Alterações sugeridas, mas não aplicadas', '', 'Cada uma traz a decisão do responsável (relatório final da Etapa 1, 06/11/2026).', '');
   for (const r of sug) L.push(entrada(r));
-  L.push('## 3. Dúvidas ainda não resolvidas', '');
+  L.push('## 3. Dúvidas', '', 'Dúvidas de sentido que as fontes não resolvem, com a decisão tomada. Uma decisão marcada como provisória mantém a dúvida em aberto.', '');
   for (const r of duv) L.push(entrada(r));
   L.push('## 4. Variantes textuais (diferenças de edição; texto mantido)', '', 'Em cada caso abaixo, o português não segue o texto crítico, mas segue uma leitura atestada nos manuscritos ou na edição impressa. Nada foi alterado.', '');
   L.push('| Registro | Homilia | Tradução recebida | Latim crítico e aparato |', '|---|---|---|---|');
@@ -278,7 +285,7 @@ function auditoriaMd(REG, IND, gregorio) {
   L.push('- **Santo Antônio:** a tradução portuguesa é de Frei Ary E. Pintarelli, OFM (Vozes, 2019), indicada no próprio PDF, obtido do site academia.edu. A tradução inglesa (Paul Spilsbury, a partir da edição crítica de 1979) foi capturada do site franciscan-archive.org em 2006.');
   L.push('- **São João Maria Vianney:** os PDFs são documentos do Word convertidos, sem folha de rosto; há erros de reconhecimento de ligaduras (“SancLfication”, “ChréLen”).', '');
   L.push('## 6. Textos cuja autenticidade ou atribuição precisa de investigação', '');
-  L.push('- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Está publicada como recebida; a decisão de mantê-la, anotá-la ou retirá-la é sua.');
+  L.push('- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Por decisão do responsável (C2), continua no texto, com nota editorial na página da homilia.');
   L.push('- **São João Maria Vianney** — os 4 tomos são a coleção tradicional dos sermões escritos pelo Cura d’Ars. A dependência destes textos de coletâneas de sermões de outros autores, e a extensão dos retoques dos editores, precisam ser investigadas antes de apresentá-los como palavras do santo. Os “sermões inéditos” do tomo 4 exigem identificação da fonte. Esta auditoria não afirma nem nega a autoria: registra que o material enviado não permite verificá-la.');
   L.push('- **Santo Antônio de Pádua** — a autoria dos *Sermones dominicales et festivi* é sólida (edição crítica de 1979), mas os textos não foram conferidos com o latim porque ele não foi enviado.', '');
   L.push('## 7. Homilias examinadas e não inseridas', '');
