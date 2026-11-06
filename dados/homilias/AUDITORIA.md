@@ -16,12 +16,12 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 81 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 30 |
+| Correções de tradução aplicadas | 92 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 45 |
 | Sugestões não aplicadas | 13 |
 | Dúvidas não resolvidas | 4 |
 | Variantes textuais registradas (texto mantido) | 25 |
-| Homilias conferidas | 24 de 40 |
+| Homilias conferidas | 28 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
@@ -890,6 +890,139 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Tradução incorreta que altera o sentido da frase.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G22-09 · Homilia XXII · § 9, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 191, § 9 (igual a Migne)
+- **Localização no texto:** § 9, fim — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 14
+- **Texto latino:** Si ad amorem Dei pigri non sumus, adjuvat ipse quem amamus, Jesus Christus Dominus noster
+- **Tradução recebida:** “Ele mesmo ajuda a nós, que amamos: Jesus Cristo”
+- **Tradução aplicada:** “ajuda-nos Aquele mesmo a quem amamos, Jesus Cristo”
+- **Justificativa linguística:** 'Quem amamus' é 'a quem amamos' (o objeto do nosso amor é Cristo), não 'nós, que amamos'.
+- **Justificativa teológica ou contextual:** A frase final diz que o próprio Cristo, amado, ajuda os que não são preguiçosos no amor; a tradução recebida perdia o objeto do amor.
+- **Motivo:** Relativo com função trocada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G24-01 · Homilia XXIV · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 200, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-24.txt`, bloco 7
+- **Texto latino:** Ducamus ergo per trigonum decem et septem, et veniunt ad quinquaginta unum.
+- **Tradução recebida:** “Tomemos, pois, o triângulo de dezessete, e chegamos a cinquenta e um.”
+- **Tradução aplicada:** “Multipliquemos, pois, dezessete pelo triângulo, e chegamos a cinquenta e um.”
+- **Justificativa linguística:** 'Ducere per trigonum' é multiplicar pelo número do triângulo, isto é, por três (17 × 3 = 51), como o próprio Gregório explica logo depois ('decem et septem ter ducimus'). 'O triângulo de dezessete' é, em português, o número triangular de 17, que dá 153 e não 51; a frase recebida contradiz a conta.
+- **Motivo:** Termo técnico mal traduzido; a conta perdia o sentido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G24-02 · Homilia XXIV · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 200, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-24.txt`, bloco 7
+- **Texto latino:** Ducamus ergo per trigonum quinquaginta et unum, ut fiant centum quinquaginta tres.
+- **Tradução recebida:** “Tomemos, pois, o triângulo de cinquenta e um, para que se façam cento e cinquenta e três.”
+- **Tradução aplicada:** “Multipliquemos, pois, cinquenta e um pelo triângulo, para que se façam cento e cinquenta e três.”
+- **Justificativa linguística:** Mesma razão de G24-01 (51 × 3 = 153).
+- **Motivo:** Termo técnico mal traduzido; a conta perdia o sentido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G24-04 · Homilia XXIV · § 6, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 203, § 6 (igual a Migne)
+- **Localização no texto:** § 6, fim — `dados/homilias/gregorio-magno/recebida/homilia-24.txt`, bloco 9
+- **Texto latino:** Nam qui imperfectorum desideria dignanter inflammat, haec quandoque ad perfectionem roborat
+- **Tradução recebida:** “Pois Aquele que dignamente inflama os desejos dos imperfeitos”
+- **Tradução aplicada:** “Pois Aquele que benignamente inflama os desejos dos imperfeitos”
+- **Justificativa linguística:** Falso cognato: 'dignanter' é 'condescendendo', 'por bondade' (de 'dignari', dignar-se); 'dignamente' seria 'digne'.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-01 · Homilia XXV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 206, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 4
+- **Texto latino:** actumque est ut desideria dilata crescerent, et crescentia caperent quod invenissent
+- **Tradução recebida:** “os desejos, dilatados, crescessem”
+- **Tradução aplicada:** “os desejos, adiados, crescessem”
+- **Justificativa linguística:** Falso cognato: 'dilata' é particípio de 'differre' (adiar), não de 'dilatare'. Gregório diz logo depois que os santos desejos crescem com a demora ('dilatione crescunt'), e a própria tradução usa ali 'demora'.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-05 · Homilia XXV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 207, § 2 (igual a Migne)
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 4
+- **Texto latino:** Mens namque hominis conditoris sui speciem non quaerentis male dura est
+- **Tradução recebida:** “é mau endurecida”
+- **Tradução aplicada:** “é mal endurecida”
+- **Justificativa linguística:** 'Male' é advérbio ('mal'); 'mau' é adjetivo e não cabe aqui.
+- **Motivo:** Ortografia.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-07 · Homilia XXV · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 213, § 9: 'quos iam cepit'
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 12
+- **Texto latino:** ut aliquando eos etiam quos jam coepit amittat (Migne)
+- **Tradução recebida:** “que já havia começado a possuir”
+- **Tradução aplicada:** “que já havia capturado”
+- **Justificativa linguística:** 'Coepit' em Migne é grafia medieval de 'cepit' (de 'capere', capturar), como lê o texto crítico; a tradução tomou-o por 'coepit' (começou). O contexto é o Leviatã que perde os que já tinha na boca.
+- **Motivo:** Verbo mal identificado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-10 · Homilia XXV · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 214, § 9 (igual a Migne)
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 13
+- **Texto latino:** ut saltem post morsum fugiat, qui incautus prius cavere noluit ne morderetur
+- **Tradução recebida:** “por incautela”
+- **Tradução aplicada:** “por imprudência”
+- **Justificativa linguística:** 'Incautela' não existe em português; o latim diz 'incautus' (imprudente).
+- **Motivo:** Palavra inexistente.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-11 · Homilia XXV · § 9–10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 214, § 10
+- **Localização no texto:** § 9–10 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 13
+- **Texto latino:** per quod evadat. 10. Adest testis divinae misericordiae…
+- **Tradução recebida:** “pela qual escape. 10. Está presente”
+- **Tradução aplicada:** “pela qual escape. ¶ Está presente”
+- **Justificativa linguística:** Número de parágrafo de Migne solto no texto; o parágrafo é separado onde Migne o separa.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-12 · Homilia XXV · § 10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 215
+- **Localização no texto:** § 10 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 13
+- **Texto latino:** Inquinati post aquas salutis, renascamur ex lacrymis. [1553] Itaque…
+- **Tradução recebida:** “1553 Portanto”
+- **Tradução aplicada:** “Portanto”
+- **Justificativa linguística:** '1553' é número de coluna de Migne, solto no texto.
+- **Motivo:** Artefato da edição de base dentro do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-13 · Homilia XXV · § 10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 215, § 10 (igual a Migne)
+- **Localização no texto:** § 10 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 13
+- **Texto latino:** ut hunc ipsis quoque apostolis, ejus videlicet nuntiis, ipsa nuntiaret.
+- **Tradução recebida:** “aos seus mensageiros, tornando-se ela mensageira.”
+- **Tradução aplicada:** “aos seus mensageiros.”
+- **Justificativa linguística:** 'Tornando-se ela mensageira' não está no latim; o jogo nuntius/nuntiaret já está expresso em 'o anunciou… aos seus mensageiros'.
+- **Motivo:** Acréscimo sem sustentação no original.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G26-01 · Homilia XXVI · § 2
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
@@ -1235,6 +1368,186 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “da verdade (3Jo 7-8).”
 - **Justificativa linguística:** Referência sem parênteses, ao contrário do resto da tradução.
 - **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-01 · Homilia XXII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 184
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 7
+- **Texto latino:** dabis eis scutum cordis laborem tuum (Thren. III, 64, 65)
+- **Tradução recebida:** “o teu trabalho Lm 3 Lm 64-65.”
+- **Tradução aplicada:** “o teu trabalho (Lm 3,64-65).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-02 · Homilia XXII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 188
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 11
+- **Texto latino:** Exaruit velut testa virtus mea (Psal. XXI, 16).
+- **Tradução recebida:** “minha força Sl 21 Sl 16.”
+- **Tradução aplicada:** “minha força (Sl 21,16).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-03 · Homilia XXII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 186
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 11
+- **Texto latino:** et comedetis festinantes (Ibid., 11).
+- **Tradução recebida:** “às pressas (ibid., 11)”
+- **Tradução aplicada:** “às pressas (Ex 12,11)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-04 · Homilia XXII · § 8
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 188
+- **Localização no texto:** § 8 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 12
+- **Texto latino:** Et sacrificate de fermentato laudem (Ibid., 5).
+- **Tradução recebida:** “fermentado (ibid., 5)”
+- **Tradução aplicada:** “fermentado (Am 4,5)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-05 · Homilia XXII · § 8, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 190
+- **Localização no texto:** § 8, fim — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 12
+- **Texto latino:** Si quid autem remanserit, igne comburetis (Ibid.).
+- **Tradução recebida:** “no fogo (ibid.)”
+- **Tradução aplicada:** “no fogo (Ex 12,10)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-06 · Homilia XXII · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 190
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 13
+- **Texto latino:** Renes vestros accingetis (Ibid., 11).
+- **Tradução recebida:** “os vossos rins (ibid., 11)”
+- **Tradução aplicada:** “os vossos rins (Ex 12,11)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-07 · Homilia XXII · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 191
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 14
+- **Texto latino:** Tenentes baculos in manibus (Ibid.).
+- **Tradução recebida:** “nas mãos (Ibid.)”
+- **Tradução aplicada:** “nas mãos (Ex 12,11)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-08 · Homilia XXII · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 191
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 14
+- **Texto latino:** Et comedetis festinantes (Ibid.).
+- **Tradução recebida:** “apressadamente (Ibid.)”
+- **Tradução aplicada:** “apressadamente (Ex 12,11)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução (o 'ibid.' remete a Êxodo ou Amós, citados antes, e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G24-03 · Homilia XXIV · § 6
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 203
+- **Localização no texto:** § 6 — `dados/homilias/gregorio-magno/recebida/homilia-24.txt`, bloco 9
+- **Texto latino:** Imperfectum meum viderunt oculi tui, et in libro tuo omnes scribentur (Psal. CXXXVIII, 16).
+- **Tradução recebida:** “serão escritos Sl 138 Sl 16.”
+- **Tradução aplicada:** “serão escritos (Sl 138,16).”
+- **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-02 · Homilia XXV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 206
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 4
+- **Texto latino:** Quaesivi illum, et non inveni (Ibid.).
+- **Tradução recebida:** “Procurei-o e não o encontrei (ibid.)”
+- **Tradução aplicada:** “Procurei-o e não o encontrei (Ct 3,1)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução ('ibid.' remete ao livro citado logo antes e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-03 · Homilia XXV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 206
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 4
+- **Texto latino:** inveni quem diligit anima mea (Ibid., 3, 4).
+- **Tradução recebida:** “(ibid., 3-4)”
+- **Tradução aplicada:** “(Ct 3,3-4)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução ('ibid.' remete ao livro citado logo antes e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-04 · Homilia XXV · § 2
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 207
+- **Localização no texto:** § 2 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 4
+- **Texto latino:** Anima mea liquefacta est, ut dilectus locutus est (Ibid., V, 6).
+- **Tradução recebida:** “(ibid., 5,6)”
+- **Tradução aplicada:** “(Ct 5,6)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução ('ibid.' remete ao livro citado logo antes e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-06 · Homilia XXV · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 208
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 5
+- **Texto latino:** Verbum caro factum est, et habitavit in nobis (Ibid., 14).
+- **Tradução recebida:** “(ibid., 14)”
+- **Tradução aplicada:** “(Jo 1,14)”
+- **Justificativa linguística:** Referência no formato usado no resto da tradução ('ibid.' remete ao livro citado logo antes e fica obscuro em português).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-08 · Homilia XXV · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 213 (no texto crítico não há referência; Migne tem 'Matth. XXVI, 76, seq.')
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 12
+- **Texto latino:** An non in ore Petrum tenuit, cum negavit (Matth. XXVI, 76, seq.)?
+- **Tradução recebida:** “quando negou Mt 26 Mt 76?”
+- **Tradução aplicada:** “quando negou (Mt 26,69-75)?”
+- **Justificativa linguística:** Referência desfigurada na tradução e errada em Migne: Mateus 26 tem 75 versículos, e a negação de Pedro está em 26,69-75 (a mesma homilia cita depois Mt 26,75).
+- **Motivo:** Referência bíblica desfigurada e errada na edição de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-09 · Homilia XXV · § 9
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 213
+- **Localização no texto:** § 9 — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 12
+- **Texto latino:** An non in ore David tenuit… (II Reg. XII, 4)?
+- **Tradução recebida:** “(2Rs 12,4)”
+- **Tradução aplicada:** “(2Sm 12,4)”
+- **Justificativa linguística:** 'II Reg.' da Vulgata corresponde a 2 Samuel na numeração atual, usada nas demais referências da tradução; 2 Reis 12 trata de outro assunto. O pecado de Davi e a parábola de Natã estão em 2Sm 11–12.
+- **Motivo:** Referência bíblica com o livro trocado.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G26-03 · Homilia XXVI · § 5
