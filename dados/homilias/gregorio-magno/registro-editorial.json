@@ -141,6 +141,25 @@
    "motivo": "Uniformidade da formatação."
   },
   {
+   "id": "G01-07",
+   "homilia": 1,
+   "tipo": "variante",
+   "estado": "nao-aplicada",
+   "confianca": "alta",
+   "bloco": 7,
+   "localizacao": "§ 5",
+   "ccsl": "p. 9, § 5: 'plerumque senibus ipsa sua salus aegritudo est'",
+   "latim": "nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne)",
+   "antes": "a própria saúde já é enfermidade para os sentidos",
+   "justificativa_linguistica": "Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português.",
+   "alternativas": [
+    "manter 'para os sentidos' (Migne, base da tradução)",
+    "'para os velhos' (CCSL 141)"
+   ],
+   "recomendacao": "Adotar 'para os velhos', se se decidir seguir o texto crítico nos pontos em que ele dá sentido mais claro; até lá, mantém-se a tradução recebida.",
+   "motivo": "Variante entre Migne e a CCSL 141."
+  },
+  {
    "id": "G02-01",
    "homilia": 2,
    "tipo": "correcao",
@@ -2344,6 +2363,51 @@
    "depois": "Leitura do santo Evangelho segundo Lucas 24,13-35.",
    "justificativa_linguistica": "Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.",
    "motivo": "Uniformidade da formatação."
+  },
+  {
+   "id": "G23-02",
+   "homilia": 23,
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
+   "bloco": 2,
+   "localizacao": "leitura do Evangelho (Lc 24,28)",
+   "ccsl": "p. 192 (igual a Migne: 'et ipse finxit se longius ire')",
+   "latim": "Et ipse finxit se longius ire.",
+   "antes": "Aproximaram-se da aldeia para onde iam, e Ele fez menção de seguir adiante.",
+   "depois": "Aproximaram-se da aldeia para onde iam, e Ele fingiu ir mais longe.",
+   "justificativa_linguistica": "Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.",
+   "motivo": "Leitura traduzida sem a palavra que o autor comenta."
+  },
+  {
+   "id": "G23-03",
+   "homilia": 23,
+   "tipo": "correcao",
+   "estado": "aplicada",
+   "confianca": "alta",
+   "bloco": 3,
+   "localizacao": "§ 1",
+   "ccsl": "p. 193, § 1 (igual a Migne)",
+   "latim": "se ire longius finxit. Fingere namque componere dicimus; unde et compositores luti figulos vocamus.",
+   "antes": "em seus corações, fez menção de seguir adiante.",
+   "depois": "em seus corações, fingiu ir mais longe.",
+   "justificativa_linguistica": "Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.",
+   "motivo": "Tradução que apaga a palavra comentada na frase seguinte."
+  },
+  {
+   "id": "G23-04",
+   "homilia": 23,
+   "tipo": "sugestao",
+   "estado": "nao-aplicada",
+   "confianca": "moderada",
+   "bloco": 3,
+   "localizacao": "§ 1",
+   "ccsl": "p. 193, § 1",
+   "latim": "Fingere namque componere dicimus; unde et compositores luti figulos vocamus.",
+   "antes": "daí também chamarmos oleiros aos que moldam o barro.",
+   "depois": "daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.",
+   "justificativa_linguistica": "O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.",
+   "motivo": "Jogo de palavras intraduzível; decisão sua."
   },
   {
    "id": "G24-01",
@@ -6363,25 +6427,6 @@
    "depois": "Leitura do santo Evangelho segundo Lucas 16,19-31.",
    "justificativa_linguistica": "Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.",
    "motivo": "Uniformidade da formatação."
-  },
-  {
-   "id": "G01-07",
-   "homilia": 1,
-   "tipo": "variante",
-   "estado": "nao-aplicada",
-   "confianca": "alta",
-   "bloco": 7,
-   "localizacao": "§ 5",
-   "ccsl": "p. 9, § 5: 'plerumque senibus ipsa sua salus aegritudo est'",
-   "latim": "nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne)",
-   "antes": "a própria saúde já é enfermidade para os sentidos",
-   "justificativa_linguistica": "Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português.",
-   "alternativas": [
-    "manter 'para os sentidos' (Migne, base da tradução)",
-    "'para os velhos' (CCSL 141)"
-   ],
-   "recomendacao": "Adotar 'para os velhos', se se decidir seguir o texto crítico nos pontos em que ele dá sentido mais claro; até lá, mantém-se a tradução recebida.",
-   "motivo": "Variante entre Migne e a CCSL 141."
   }
  ],
  "colacao": [
@@ -6605,10 +6650,12 @@
    "homilia": 23,
    "ccsl_paginas": "192–195",
    "pdf_paginas": "265–268",
-   "resultado": "conferida parágrafo por parágrafo com Migne (camada latim/); nenhuma divergência de sentido encontrada",
+   "resultado": "conferida parágrafo por parágrafo com Migne (camada latim/); pontos divergentes conferidos na CCSL 141; ao preparar a tradução própria piloto, encontrada uma divergência de sentido (G23-02, G23-03)",
    "estado_final": "finalizada",
    "referencias_biblicas": "conferidas; todas as de Migne presentes e corretas na tradução",
-   "ressalvas": []
+   "ressalvas": [
+    "Sugestão não aplicada (G23-04): indicar entre parênteses o latim 'figuli', para tornar compreensível o jogo de palavras 'fingere'/'figulus'."
+   ]
   },
   {
    "homilia": 24,

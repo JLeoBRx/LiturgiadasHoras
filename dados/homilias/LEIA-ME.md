@@ -38,18 +38,22 @@ Não atribua a tradução à OpenSaints nem a uma pessoa específica sem prova
 documental. Os dados completos e a decisão editorial de 06/11/2026 estão em
 `procedencia` e `historico`, no registro editorial.
 
-A tradução própria, feita diretamente do latim, ainda não começou. Quando
-começar, ficará numa camada própria (por exemplo, `gregorio-magno/propria/`),
-sem apagar nem sobrescrever a recebida e a revisada.
+A tradução própria, feita diretamente do latim, começou na Etapa 1 com um
+piloto (Homilia XXIII). Ela fica numa camada separada,
+`gregorio-magno/traducao-propria/`, identificada como "tradução própria com
+auxílio de IA e revisão editorial", sem apagar nem sobrescrever a recebida e a
+revisada; ver o LEIA-ME dessa pasta. Nada dessa camada é publicado no site.
 
 ## Camadas do texto (nada é sobrescrito)
 
 | Camada | Onde | Quem escreve |
 |---|---|---|
 | Fonte original | `Homilia dos Santos/…` (arquivos enviados) | ninguém: nunca é alterada |
+| Texto latino (Migne, PL 76) | `gregorio-magno/latim/homilia-NN.txt` (e `prefacio.txt`) | `ferramentas/homilias/separar_latim.py`, transcrição do Corpus Corporum via Wikisource, sem alteração de palavras |
 | Tradução recebida | `gregorio-magno/recebida/homilia-NN.txt` | `ferramentas/homilias/separar_gregorio.py`, cópia exata da origem dividida por homilia |
 | Decisões editoriais | `gregorio-magno/registro-editorial.json` | à mão: cada correção, sugestão, dúvida, variante ou problema, com latim, justificativa e confiança |
 | Tradução revisada (= texto publicado) | `gregorio-magno/revisada/homilia-NN.txt` | `ferramentas/homilias/aplicar_alteracoes.py`, recebida + correções com estado `aplicada` |
+| Tradução própria (não publicada) | `gregorio-magno/traducao-propria/` | à mão, do latim; piloto da Homilia XXIII, notas e glossário |
 | O que o site mostra | `indice.json` | à mão: metadados, fonte e correspondências |
 
 Os testes conferem que:

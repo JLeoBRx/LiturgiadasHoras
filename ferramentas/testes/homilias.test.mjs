@@ -245,3 +245,93 @@ describe('Homilias: documentos gerados', () => {
     assert.equal(ler('AUDITORIA.md'), r.auditoriaMd, msg);
   });
 });
+
+// ------------------------------------------------------------------------
+describe('Homilias: Etapa 1 (latim, revisão final e tradução própria)', () => {
+  const lerCamada = (arq) => {
+    const [cab, ...corpo] = fs.readFileSync(arq, 'utf8').replace(/\n+$/, '').split('\n\n');
+    const h = Object.fromEntries(cab.split('\n').map((l) => [l.split(' ')[0], l.slice(l.indexOf(' ') + 1)]));
+    return { h, corpo: corpo.map((b) => { const [m, ...r] = b.split('\n'); return { marca: m.split(' ')[0], texto: r.join('\n') }; }) };
+  };
+  const lista = (s) => (s || '').split(',').map((x) => x.trim()).filter(Boolean);
+
+  test('camada latim/: 41 arquivos de Migne, com colunas e numeração declaradas conferindo com o texto', () => {
+    for (const a of arquivos) {
+      const { h, corpo } = lerCamada(path.join(G, 'latim', a + '.txt'));
+      assert.match(h['@fonte'], /Migne, Patrologia Latina 76/, a);
+      assert.match(h['@camada'], /sem alteração de palavras/, a);
+      const texto = corpo.map((b) => b.texto).join('\n');
+      assert.deepEqual(texto.match(/\[(\d{4})\]/g)?.map((c) => c.slice(1, -1)) || [], lista(h['@colunas']), `${a}: colunas`);
+      const nums = corpo.filter((b) => b.marca === '@paragrafo').map((b) => b.texto.match(/^(\d+)\. /)?.[1]).filter(Boolean);
+      assert.deepEqual(nums, lista(h['@numeracao']), `${a}: numeração de Migne`);
+      if (a === 'prefacio') continue;
+      assert.deepEqual(corpo.slice(0, 3).map((b) => b.marca), ['@cabecalho', '@leitura-titulo', '@leitura'], a);
+      assert.match(corpo[0].texto, /^(LIBER (PRIMUS|SECUNDUS)\. )?HOMILIA/, a);
+      assert.match(corpo[1].texto, /^LECTIO/, a);
+    }
+  });
+
+  test('camada revisada/: sem resíduos de digitalização nem de ferramentas nas 40 homilias', () => {
+    const padroes = {
+      'número de coluna de Migne': /(?<![\d,(])\b1[3-6]\d\d\b(?![\d,)])/,
+      'número de seção no meio do parágrafo': /[a-zà-ú,;.!?»”] (?:[1-9]|[12]\d)\. [A-ZÁÉÍÓÚÂÊÔÀ]/,
+      'referência desfigurada (ex.: "Sl 64 Sl 14")': /\b[1-3]?[A-Z][a-zó]{0,3} \d+ [1-3]?[A-Z][a-zó]{0,3} \d+/,
+      'ibid. no lugar da referência': /\((?:ibid|ibidem)\b/i,
+      'referência em abreviatura latina': /\((?:[1-4] ?)?(?:I{1,3}|IV)? ?[A-Z][a-z]{1,6}\.? [IVXLC]+[,.][^)]*\)/,
+      'nota ao Decreto de Graciano': /\((?:Dist\.|De poenit|De consecr|\d+, q\.)/,
+      'texto de ferramenta em inglês': /\b(?:Wait|Need|typo|final clean)\b/,
+      'grafia anterior ao Acordo Ortográfico (trema)': /[üÜ]/,
+    };
+    for (let n = 1; n <= 40; n++) {
+      const nn = String(n).padStart(2, '0');
+      const t = blocos(path.join(G, 'revisada', `homilia-${nn}.txt`)).map((b) => b.texto).join('\n');
+      for (const [nome, re] of Object.entries(padroes)) assert.ok(!re.test(t), `Homilia ${n}: ${nome}: «${(t.match(re) || [''])[0]}»`);
+      const tit = blocos(path.join(G, 'revisada', `homilia-${nn}.txt`)).find((b) => b.marca === '@leitura-titulo').texto;
+      assert.match(tit, /^Leitura do (santo )?Evangelho segundo (Mateus|Marcos|Lucas|João) \d+,\d+-\d+\.$/, `Homilia ${n}: forma do título da leitura`);
+    }
+  });
+
+  test('colação: as 40 homilias têm estado final, referências conferidas e ressalvas; dúvida em aberto implica ressalva', () => {
+    const estados = ['finalizada', 'finalizada-com-ressalvas', 'pendente-de-decisao', 'pendente-de-fonte-adicional'];
+    assert.deepEqual(REG.colacao.map((c) => c.homilia).sort((a, b) => a - b), Array.from({ length: 40 }, (_, i) => i + 1));
+    for (const c of REG.colacao) {
+      assert.ok(estados.includes(c.estado_final), `Homilia ${c.homilia}: estado_final`);
+      assert.ok(c.referencias_biblicas && Array.isArray(c.ressalvas), `Homilia ${c.homilia}: referencias_biblicas e ressalvas`);
+      const duvidas = REG.registros.filter((r) => r.homilia === c.homilia && r.tipo === 'duvida' && r.estado !== 'aplicada');
+      if (duvidas.length) assert.notEqual(c.estado_final, 'finalizada', `Homilia ${c.homilia}: tem dúvida em aberto (${duvidas.map((d) => d.id)})`);
+    }
+  });
+
+  test('texto acrescentado por tradução própria na camada revisada está identificado no registro', () => {
+    const lacuna = REG.registros.find((r) => r.id === 'G40-05');
+    assert.match(lacuna.origem_do_texto, /tradução própria/);
+    const c40 = REG.colacao.find((c) => c.homilia === 40);
+    assert.equal(c40.estado_final, 'finalizada-com-ressalvas');
+  });
+
+  test('camada traducao-propria/: identificada, com notas, mesma estrutura do latim e fora do site', () => {
+    const P = path.join(G, 'traducao-propria');
+    const arqs = fs.readdirSync(P).filter((f) => /^homilia-\d\d\.txt$/.test(f));
+    assert.ok(arqs.length >= 1);
+    for (const f of arqs) {
+      const { h, corpo } = lerCamada(path.join(P, f));
+      assert.match(h['@camada'], /^tradução própria com auxílio de IA e revisão editorial/, f);
+      assert.ok(fs.existsSync(path.join(P, f.replace('homilia-', 'notas-homilia-').replace('.txt', '.md'))), `${f}: notas`);
+      const lat = lerCamada(path.join(G, 'latim', f)).corpo;
+      const conta = (bs, m) => bs.filter((b) => b.marca === m).length;
+      for (const m of ['@leitura-titulo', '@leitura', '@paragrafo']) assert.equal(conta(corpo, m), conta(lat, m), `${f}: blocos ${m}`);
+      assert.ok(!/\[\d{4}\]/.test(corpo.map((b) => b.texto).join('\n')), `${f}: número de coluna`);
+    }
+    // o site lê só a camada revisada
+    assert.ok(!JSON.stringify(INDICE).includes('traducao-propria'));
+    assert.ok(!fs.readFileSync(path.join(RAIZ, 'js', 'homilias.js'), 'utf8').includes('traducao-propria'));
+  });
+
+  test('glossário da tradução própria remete a entradas que existem no registro', () => {
+    const g = fs.readFileSync(path.join(G, 'traducao-propria', 'glossario.md'), 'utf8');
+    const ids = new Set(REG.registros.map((r) => r.id));
+    const citados = [...new Set(g.match(/G\d\d-\d\d/g))];
+    assert.ok(citados.length > 20);
+    for (const id of citados) assert.ok(ids.has(id), `glossário cita ${id}, que não existe`);
+  });
+});

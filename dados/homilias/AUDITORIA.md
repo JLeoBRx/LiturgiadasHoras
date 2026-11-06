@@ -16,9 +16,9 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 248 |
+| Correções de tradução aplicadas | 250 |
 | Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 123 |
-| Sugestões não aplicadas | 12 |
+| Sugestões não aplicadas | 13 |
 | Dúvidas não resolvidas | 4 |
 | Variantes textuais registradas (texto mantido) | 28 |
 | Homilias conferidas | 40 de 40 |
@@ -1141,6 +1141,30 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 24,13-35.”
 - **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-02 · Homilia XXIII · leitura do Evangelho (Lc 24,28)
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 192 (igual a Migne: 'et ipse finxit se longius ire')
+- **Localização no texto:** leitura do Evangelho (Lc 24,28) — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 2
+- **Texto latino:** Et ipse finxit se longius ire.
+- **Tradução recebida:** “Aproximaram-se da aldeia para onde iam, e Ele fez menção de seguir adiante.”
+- **Tradução aplicada:** “Aproximaram-se da aldeia para onde iam, e Ele fingiu ir mais longe.”
+- **Justificativa linguística:** Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.
+- **Motivo:** Leitura traduzida sem a palavra que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-03 · Homilia XXIII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1 (igual a Migne)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
+- **Texto latino:** se ire longius finxit. Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
+- **Tradução recebida:** “em seus corações, fez menção de seguir adiante.”
+- **Tradução aplicada:** “em seus corações, fingiu ir mais longe.”
+- **Justificativa linguística:** Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.
+- **Motivo:** Tradução que apaga a palavra comentada na frase seguinte.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G24-05 · Homilia XXIV · título da leitura
@@ -4615,6 +4639,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “e quase à própria voz da sentença exalou o espírito de vida”
 - **Justificativa linguística:** A ordem latina favorece 'spiritum… vitae' (o sopro de vida) e 'vox sententiae' como a sentença ouvida da boca de Cristo, mas a construção é condensada e admite as duas leituras.
 - **Motivo:** Construção ambígua; não aplicado.
+- **Grau de segurança:** moderada · **estado:** não aplicada
+
+#### G23-04 · Homilia XXIII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
+- **Texto latino:** Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
+- **Tradução recebida:** “daí também chamarmos oleiros aos que moldam o barro.”
+- **Tradução proposta:** “daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.”
+- **Justificativa linguística:** O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.
+- **Motivo:** Jogo de palavras intraduzível; decisão sua.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G26-12 · Homilia XXVI · § 10
