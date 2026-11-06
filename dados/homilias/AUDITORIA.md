@@ -16,12 +16,12 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 174 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 83 |
+| Correções de tradução aplicadas | 212 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 97 |
 | Sugestões não aplicadas | 13 |
 | Dúvidas não resolvidas | 4 |
 | Variantes textuais registradas (texto mantido) | 27 |
-| Homilias conferidas | 37 de 40 |
+| Homilias conferidas | 40 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
 
@@ -2149,6 +2149,462 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Falso cognato.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G38-01 · Homilia XXXVIII · § 4, citação
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 362, § 4: 'diliges amicum tuum et odio habebis inimicum tuum' (igual a Migne)
+- **Localização no texto:** § 4, citação — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 6
+- **Texto latino:** Diliges amicum tuum, et odio habebis inimicum tuum (Matth. V, 43; Levit. XIX, 18)
+- **Tradução recebida:** “Amarás o teu próximo e odiarás o teu inimigo”
+- **Tradução aplicada:** “Amarás o teu amigo e odiarás o teu inimigo”
+- **Justificativa linguística:** Gregório cita o preceito na forma 'diliges amicum tuum' (amarás o teu amigo), tanto em Migne quanto na CCSL, e argumenta com a oposição amigo/inimigo. A tradução recebida substituiu-a pela forma corrente de Mt 5,43 ('o teu próximo'), que não é a do autor.
+- **Motivo:** Citação substituída pela forma de outra versão bíblica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-02 · Homilia XXXVIII · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 362, § 4: 'ad sublimia contemplationis sue penna subleuantur'
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 6
+- **Texto latino:** ad sublimia contemplationis suae pennis sublevantur
+- **Tradução recebida:** “elevam-se às alturas da contemplação com as asas do espírito?”
+- **Tradução aplicada:** “elevam-se às alturas com as asas da sua contemplação?”
+- **Justificativa linguística:** 'Contemplationis suae' depende de 'pennis' (as asas da sua contemplação), e 'ad sublimia' é o termo do movimento (às alturas). A tradução recebida ligou 'contemplação' a 'alturas' e acrescentou 'do espírito', que não está no latim.
+- **Motivo:** Genitivo deslocado e acréscimo sem base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-03 · Homilia XXXVIII · § 6, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 364, § 6 (igual a Migne)
+- **Localização no texto:** § 6, início — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 8
+- **Texto latino:** Sed is qui invitantem se contemni conspicit regis filii sui nuptias vacuas non habebit.
+- **Tradução recebida:** “Mas Aquele que vê ser desprezado por quem convida não deixará vazias as núpcias de seu Filho rei.”
+- **Tradução aplicada:** “Mas Aquele que, ao convidar, se vê desprezado não deixará vazias as núpcias do rei seu Filho.”
+- **Justificativa linguística:** 'Invitantem se contemni conspicit': vê que ele próprio, o que convida, é desprezado. A tradução recebida dizia que ele é desprezado 'por quem convida', invertendo os papéis.
+- **Motivo:** Sentido invertido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-04 · Homilia XXXVIII · § 7, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 365, § 7: 'in qua cum bonis et mali conueniunt'
+- **Localização no texto:** § 7, início — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 9
+- **Texto latino:** in qua cum bonis et mali conveniunt
+- **Tradução recebida:** “na qual se reúnem maus e bons com os bons.”
+- **Tradução aplicada:** “na qual também os maus se reúnem com os bons.”
+- **Justificativa linguística:** 'Cum bonis et mali conveniunt' é 'também os maus se reúnem com os bons'. A tradução recebida ('se reúnem maus e bons com os bons') repetia 'bons' e não fazia sentido.
+- **Motivo:** Frase truncada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-05 · Homilia XXXVIII · § 7, frase partida entre dois parágrafos
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 365, § 7
+- **Localização no texto:** § 7, frase partida entre dois parágrafos — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 9
+- **Texto latino:** Haec autem vita (23, q. 4, c. 15) quae inter coelum et infernum sita est…
+- **Tradução recebida:** “Mas esta vida”
+- **Tradução aplicada:** “Mas esta vida” (e o bloco é unido ao seguinte)
+- **Justificativa linguística:** Na tradução recebida o parágrafo está partido no meio da frase ('Mas esta vida' / 'que está situada entre o céu e o inferno'), no ponto em que Migne traz uma nota que remete ao Decreto de Graciano (omitida pela tradução). A correção apenas une os dois pedaços; nenhuma palavra muda.
+- **Motivo:** Parágrafo partido na origem.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-11 · Homilia XXXVIII · § 8
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 367, § 8
+- **Localização no texto:** § 8 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 11
+- **Texto latino:** quanto sanctiores quique sunt, tanto pauciores
+- **Tradução recebida:** “quanto mais santos são alguns, tanto mais poucos são.”
+- **Tradução aplicada:** “quanto mais santos são alguns, tanto menos numerosos são.”
+- **Justificativa linguística:** 'Mais poucos' não é forma correta do comparativo em português; usa-se 'menos numerosos'.
+- **Motivo:** Erro gramatical.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-14 · Homilia XXXVIII · § 13
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 372, § 13 (igual a Migne)
+- **Localização no texto:** § 13 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 17
+- **Texto latino:** Pedes enim qui visitare aegrum negligunt, manus quae nihil indigentibus tribuunt a bono opere jam ex voluntate ligatae sunt.
+- **Tradução recebida:** “já estão atados à boa obra por sua própria vontade.”
+- **Tradução aplicada:** “já estão, por sua própria vontade, atados longe da boa obra.”
+- **Justificativa linguística:** 'A bono opere ligatae' é 'atadas (impedidas) em relação à boa obra': os pés que não visitam o enfermo e as mãos que nada dão já estão presos longe do bem. 'Atados à boa obra' diz o contrário. A frase anterior da própria tradução ('a culpa amarrou longe das boas obras') tem o sentido correto.
+- **Motivo:** Sentido invertido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-15 · Homilia XXXVIII · § 14
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 373, § 14 (igual a Migne)
+- **Localização no texto:** § 14 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 18
+- **Texto latino:** Alter pene totam vitam ducere in pravitate conspicitur
+- **Tradução recebida:** “Um é visto levar vida perversa quase até o fim todo da existência,”
+- **Tradução aplicada:** “Um é visto levar quase toda a vida na perversidade,”
+- **Justificativa linguística:** 'Pene totam vitam ducere in pravitate': passar quase toda a vida na perversidade. A forma recebida ('quase até o fim todo da existência') era confusa e antecipava o 'juxta finem vitae' da oração seguinte.
+- **Motivo:** Frase confusa.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-16 · Homilia XXXVIII · § 15
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 374, § 15 (igual a Migne)
+- **Localização no texto:** § 15 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 19
+- **Texto latino:** Neque enim res longe ante gestas dicimus
+- **Tradução recebida:** “Pois não falamos de fatos ocorridos há muito longe,”
+- **Tradução aplicada:** “Pois não falamos de fatos ocorridos há muito tempo,”
+- **Justificativa linguística:** 'Longe ante' é advérbio de tempo (muito antes); 'há muito longe' não é construção portuguesa.
+- **Motivo:** Erro de construção.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-17 · Homilia XXXVIII · § 15
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 374, § 15: 'tharsille amite mee'
+- **Localização no texto:** § 15 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 20
+- **Texto latino:** huic Tharsillae amitae meae
+- **Tradução recebida:** “a esta Tarsila, minha tia-avó,”
+- **Tradução aplicada:** “a esta Tarsila, minha tia,”
+- **Justificativa linguística:** 'Amita' é a tia paterna, irmã do pai. O próprio parágrafo começa por dizer que Tarsila, Gordiana e Emiliana eram as três irmãs do pai de Gregório ('Tres pater meus sorores habuit'). 'Tia-avó' atribuía a Tarsila um grau de parentesco que o texto não dá.
+- **Motivo:** Grau de parentesco errado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-18 · Homilia XXXVIII · § 15
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 375, § 15: 'atauus meus felix'
+- **Localização no texto:** § 15 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 20
+- **Texto latino:** per visionem atavus meus Felix hujus Romanae Ecclesiae antistes apparuit
+- **Tradução recebida:** “apareceu em visão meu bisavô Félix”
+- **Tradução aplicada:** “apareceu em visão meu antepassado Félix”
+- **Justificativa linguística:** 'Atavus' designa um ascendente remoto (no uso estrito romano, o quinto grau na linha ascendente; no uso corrente, 'antepassado'); 'bisavô' seria 'proavus'. Traduz-se pelo termo genérico, que não atribui ao texto um grau de parentesco determinado.
+- **Motivo:** Grau de parentesco sem base no latim.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-19 · Homilia XXXVIII · § 15, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 376, § 15: 'aliud adhuc e uicino refero'
+- **Localização no texto:** § 15, fim — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 20
+- **Texto latino:** aliud adhuc e vicino refero
+- **Tradução recebida:** “refiro ainda outro, próximo deste,”
+- **Tradução aplicada:** “refiro ainda outro, também próximo de nós,”
+- **Justificativa linguística:** 'E vicino' é 'de perto, recente' (como no início do parágrafo, 'aliquid de proximo'); não significa 'semelhante ao anterior'.
+- **Motivo:** Locução latina mal interpretada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-20 · Homilia XXXVIII · § 16, início
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 376, § 16: 'gratia conuersationis uenit'
+- **Localização no texto:** § 16, início — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 21
+- **Texto latino:** frater quidam in monasterium meum … gratia conversationis venit
+- **Tradução recebida:** “um certo irmão veio, por graça de conversão de vida, ao meu mosteiro”
+- **Tradução aplicada:** “um certo irmão veio, para abraçar a conversão de vida, ao meu mosteiro”
+- **Justificativa linguística:** 'Gratia' com genitivo é 'por causa de, em vista de' ('gratia conversationis': para abraçar a vida monástica); não é 'graça'. O contraste vem logo a seguir: o irmão dele seguiu-o 'não por zelo de conversão, mas por afeição carnal'.
+- **Motivo:** Locução latina mal interpretada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-21 · Homilia XXXVIII · § 16, nota de Migne
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 376 (sem a nota)
+- **Localização no texto:** § 16, nota de Migne — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 21
+- **Texto latino:** quandoque susceptus est (Lib. IV, Dialog., cap. 38)
+- **Tradução recebida:** “foi por fim recebido (Dial., liv. IV, cap. 38).”
+- **Tradução aplicada:** “foi por fim recebido (Liv. IV dos Diálogos, cap. 38).”
+- **Justificativa linguística:** Nota de Migne que remete aos Diálogos de Gregório; posta na mesma forma da nota do § 15 desta homilia ('Liv. IV dos Diálogos, cap. 16').
+- **Motivo:** Uniformidade das notas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-22 · Homilia XXXVIII · § 16
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 378, § 16: 'ab extrema fuerat parte premortuum'
+- **Localização no texto:** § 16 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 21
+- **Texto latino:** Jam corpus ejus ab extrema fuerat parte praemortuum
+- **Tradução recebida:** “Seu corpo já estava meio morto em sua parte extrema;”
+- **Tradução aplicada:** “Seu corpo já estava morto nas extremidades;”
+- **Justificativa linguística:** 'Ab extrema parte praemortuum': já morto a partir das extremidades (só o peito conservava calor, diz a frase seguinte). 'Meio morto' acrescentava uma gradação que o latim não tem.
+- **Motivo:** Tradução imprecisa.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-23 · Homilia XXXVIII · § 16
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 378, § 16
+- **Localização no texto:** § 16 — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 21
+- **Texto latino:** ab extrema corporis fuerat parte praemortuus
+- **Tradução recebida:** “já estava meio morto em sua parte extrema do corpo,”
+- **Tradução aplicada:** “já estava morto nas extremidades do corpo,”
+- **Justificativa linguística:** Mesma expressão do item anterior, retomada pelo autor.
+- **Motivo:** Tradução imprecisa.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-24 · Homilia XXXVIII · § 16, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 379
+- **Localização no texto:** § 16, fim — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 21
+- **Texto latino:** quia multi sunt vocati, pauci vero electi
+- **Tradução recebida:** “mas poucos os escolhidos.”
+- **Tradução aplicada:** “mas poucos os eleitos.”
+- **Justificativa linguística:** A sentença de Mt 22,14, repetida cinco vezes nesta homilia, está traduzida em todas as outras com 'eleitos'; uniformiza-se a última ocorrência.
+- **Motivo:** Uniformidade.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-01 · Homilia XXXIX · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 380, § 1: 'prior illa Ierusalem, ut dicitur, funditus est euersa'
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 4
+- **Texto latino:** prior illa Jerusalem, ut dicitur, funditus est eversa
+- **Tradução recebida:** “aquela Jerusalém anterior foi, por assim dizer, destruída até os fundamentos.”
+- **Tradução aplicada:** “aquela Jerusalém anterior, segundo se diz, foi destruída até os fundamentos.”
+- **Justificativa linguística:** 'Ut dicitur' é 'como se diz, segundo se conta': Gregório refere uma informação que recebeu. 'Por assim dizer' faria da destruição uma metáfora, sentido que o latim não tem.
+- **Motivo:** Locução latina mal interpretada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-02 · Homilia XXXIX · § 6
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 386, § 6: 'ementes uero in templo sunt qui …' (igual a Migne)
+- **Localização no texto:** § 6 — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 10
+- **Texto latino:** Ementes vero in templo sunt qui dum hoc persolvere proximo quod justum est nolunt, dumque rem jure debitam facere contemnunt, dato patronis praemio emunt peccatum.
+- **Tradução recebida:** “Mas vós estais no templo quando não quereis pagar ao próximo aquilo que é justo e, desprezando fazer o que lhe é devido por direito, mediante recompensa dada a patronos, comprais o pecado.”
+- **Tradução aplicada:** “Compradores no templo, por sua vez, são os que, não querendo pagar ao próximo aquilo que é justo e desprezando fazer o que lhe é devido por direito, mediante recompensa dada a patronos compram o pecado.”
+- **Justificativa linguística:** A frase define os 'compradores' do templo ('ementes'), em paralelo com a anterior, que define os 'vendedores' ('vendentes'). A tradução recebida leu 'ementes' como se fosse uma interpelação aos ouvintes ('Mas vós estais no templo … comprais'), o que desfaz o paralelismo e atribui aos ouvintes o que o texto diz de uma categoria de pessoas.
+- **Motivo:** Sujeito da frase mal identificado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-03 · Homilia XXXIX · § 6
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 386, § 6 (igual a Migne)
+- **Localização no texto:** § 6 — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 10
+- **Texto latino:** Quibus bene dicitur
+- **Tradução recebida:** “E com razão se vos diz:”
+- **Tradução aplicada:** “E com razão se lhes diz:”
+- **Justificativa linguística:** 'Quibus' retoma os vendedores e compradores das frases anteriores (terceira pessoa); consequência da correção do item anterior.
+- **Motivo:** Pessoa gramatical trocada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-04 · Homilia XXXIX · início do § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 386, § 7
+- **Localização no texto:** início do § 7 — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 10
+- **Texto latino:** 7. Templum quoque et domus Dei est ipsa mens…
+- **Tradução recebida:** “ 7. Também o templo”
+- **Tradução aplicada:** “ ¶ Também o templo”
+- **Justificativa linguística:** Número de seção de Migne que ficou no meio do parágrafo; o parágrafo é dividido nesse ponto, como na edição latina.
+- **Motivo:** Artefato de digitalização e divisão de parágrafos.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-06 · Homilia XXXIX · início do § 10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 390, § 10
+- **Localização no texto:** início do § 10 — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 12
+- **Texto latino:** 10. Sed quia ad amorem Dei et proximi…
+- **Tradução recebida:** “ 10. Mas, porque para o amor”
+- **Tradução aplicada:** “ ¶ Mas, porque para o amor”
+- **Justificativa linguística:** Número de seção de Migne que ficou no meio do parágrafo; o parágrafo é dividido nesse ponto, como na edição latina.
+- **Motivo:** Artefato de digitalização e divisão de parágrafos.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-07 · Homilia XXXIX · § 10, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 392, § 10 (igual a Migne)
+- **Localização no texto:** § 10, fim — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 15
+- **Texto latino:** decurrens sermo retineri non potest, quem disponit ipse de quo loquimur
+- **Tradução recebida:** “quando a dispõe o próprio aquele de quem falamos,”
+- **Tradução aplicada:** “porque a dispõe Aquele mesmo de quem falamos,”
+- **Justificativa linguística:** 'O próprio aquele' não é construção portuguesa; o relativo 'quem disponit ipse' é 'que o próprio (Aquele) de quem falamos dispõe'. A conjunção 'quando' não está no latim e torna a frase condicional.
+- **Motivo:** Construção incorreta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-05 · Homilia XL · § 3, lacuna da tradução recebida
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 399, § 3: 'nequaquam sermo dei tam uigilanter exprimeret quod diues qui torquetur apud inferos bysso et purpura indutus fuisset. nemo quippe uestimenta precipua nisi ad inanem gloriam querit, uidelicet ut honorabilior ceteris esse uideatur' (igual a Migne)
+- **Localização no texto:** § 3, lacuna da tradução recebida — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 5
+- **Texto latino:** nequaquam sermo Dei tam vigilanter exprimeret quod dives qui torquetur apud inferos bysso et purpura indutus fuisset. Nemo quippe vestimenta praecipua nisi ad inanem gloriam quaerit, videlicet, ut honorabilior caeteris esse videatur.
+- **Tradução recebida:** “exprim glria? Wait correct typo. Need final clean.”
+- **Tradução aplicada:** “exprimiria com tanto cuidado que o rico atormentado no inferno se vestira de linho finíssimo e de púrpura. Pois ninguém procura vestes de luxo senão por vã glória, isto é, para parecer mais honrado que os demais.”
+- **Justificativa linguística:** Na tradução recebida, a frase interrompe-se no meio de uma palavra ('exprim') e o resto foi substituído por anotações de trabalho deixadas por uma ferramenta automática ('glria? Wait correct typo. Need final clean.'), sem a tradução de duas frases do latim. É a única lacuna desse tipo nas 40 homilias (verificação por busca em todo o texto recebido). As anotações saem do texto de leitura, e as duas frases são traduzidas diretamente do latim, que é o mesmo em Migne e na CCSL. O texto acrescentado não vem da tradução recebida: é tradução própria, identificada como tal neste item. A cópia recebida continua intacta em recebida/.
+- **Motivo:** Lacuna e resíduo de ferramenta automática na tradução recebida.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-06 · Homilia XL · § 3
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 399, § 3 (igual a Migne)
+- **Localização no texto:** § 3 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 6
+- **Texto latino:** Nam quia pro sola inani gloria vestimentum pretiosius quaeritur res ipsa testatur, quod nemo vult ibi pretiosis vestibus indui, ubi ab aliis non possit videri.
+- **Tradução recebida:** “Pois, visto que se procura uma veste mais preciosa unicamente por vã glória, a própria coisa testemunha que ninguém quer ser vestido com roupas preciosas onde não possa ser visto pelos outros.”
+- **Tradução aplicada:** “Pois que se procura uma veste mais preciosa unicamente por vã glória, atesta-o a própria realidade: ninguém quer vestir roupas preciosas onde não possa ser visto pelos outros.”
+- **Justificativa linguística:** 'Quia … quaeritur' é o objeto de 'testatur' (a própria realidade atesta que se procura a veste preciosa por vã glória), e 'quod nemo vult…' é a prova. A tradução recebida leu 'quia' como causal ('visto que'), o que inverte a ordem do raciocínio.
+- **Motivo:** Conjunção mal interpretada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-07 · Homilia XL · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 400, § 4
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 6
+- **Texto latino:** si Lazarus pauper et ulcerosus ante ejus januam non jacuisset
+- **Tradução recebida:** “não jacesse diante”
+- **Tradução aplicada:** “não jazesse diante”
+- **Justificativa linguística:** O imperfeito do subjuntivo de 'jazer' é 'jazesse' (forma usada corretamente na própria tradução, mais adiante).
+- **Motivo:** Erro ortográfico.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-08 · Homilia XL · § 4
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 400, § 4 (igual a Migne)
+- **Localização no texto:** § 4 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 6
+- **Texto latino:** Quantus putamus, fratres mei, tunc in corde pauperis tumultus tentationis fuit, cui certe poterat ad poenam sufficere paupertas, etiamsi sanus fuisset
+- **Tradução recebida:** “Quão grande julgamos, meus irmãos, ter sido então no coração do pobre o tumulto da tentação, para o qual certamente poderia bastar, como provação, a pobreza, ainda que estivesse são;”
+- **Tradução aplicada:** “Quão grande julgamos, meus irmãos, ter sido então o tumulto da tentação no coração do pobre, a quem certamente poderia bastar, como provação, a pobreza, ainda que estivesse são;”
+- **Justificativa linguística:** O relativo 'cui' retoma o pobre ('pauperis'), e não o tumulto: era ao pobre que a pobreza bastaria como provação, 'ainda que estivesse são'. A tradução recebida ligava o relativo a 'tumulto'.
+- **Motivo:** Antecedente do relativo trocado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-09 · Homilia XL · § 4, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 400, § 4
+- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 6
+- **Texto latino:** Conspiciebat ille quotidie cui non miseretur
+- **Tradução recebida:** “Aquele contemplava diariamente quem não compadecia;”
+- **Tradução aplicada:** “Aquele contemplava diariamente aquele de quem não se compadecia;”
+- **Justificativa linguística:** 'Compadecer-se' é pronominal e rege a preposição 'de'.
+- **Motivo:** Erro de regência.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-10 · Homilia XL · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 401, § 5: 'quanta est subtilitas iudiciorum dei'
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 7
+- **Texto latino:** O quanta est subtilitas judiciorum Dei!
+- **Tradução recebida:** “Ó quão sutil é a justiça dos juízos de Deus!”
+- **Tradução aplicada:** “Ó quão grande é a sutileza dos juízos de Deus!”
+- **Justificativa linguística:** O latim exclama sobre a 'subtilitas' (sutileza, precisão) dos juízos de Deus; 'a justiça' é acréscimo da tradução recebida.
+- **Motivo:** Acréscimo sem base no latim.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-11 · Homilia XL · § 8
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 405, § 8: 'tanto bonis sua gaudia excrescunt'
+- **Localização no texto:** § 8 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 11
+- **Texto latino:** tanto bonis sua gaudia excrescunt
+- **Tradução recebida:** “os bens veem suas alegrias”
+- **Tradução aplicada:** “os bons veem suas alegrias”
+- **Justificativa linguística:** 'Bonis' é aqui 'os bons' (os justos de que trata todo o parágrafo), não 'os bens'.
+- **Motivo:** Erro de leitura que altera o sentido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-12 · Homilia XL · § 10
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 407, § 10: 'nolite accepta remedia dissimulare'
+- **Localização no texto:** § 10 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 13
+- **Texto latino:** nolite accepta remedia dissimulare
+- **Tradução recebida:** “não dissimuleis os remédios recebidos”
+- **Tradução aplicada:** “não negligencieis os remédios recebidos”
+- **Justificativa linguística:** 'Dissimulare' é aqui 'descuidar, deixar de lado' (paralelo a 'não percais o tempo da misericórdia'); 'dissimular' em português é encobrir ou fingir. Falso cognato já corrigido em outras homilias.
+- **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-13 · Homilia XL · § 10, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 407
+- **Localização no texto:** § 10, fim — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 13
+- **Texto latino:** tantoque necesse est ut omnibus te humiliare debeas
+- **Tradução recebida:** “necessário que Tu te humilhes”
+- **Tradução aplicada:** “necessário que tu te humilhes”
+- **Justificativa linguística:** O pronome refere-se ao ouvinte, não a Deus; a maiúscula reverencial não cabe.
+- **Motivo:** Maiúscula indevida.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-14 · Homilia XL · § 11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 407: 'speciosus'
+- **Localização no texto:** § 11 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 14
+- **Texto latino:** frater et compresbyter meus Speciosus
+- **Tradução recebida:** “que está presente, Speciosus.”
+- **Tradução aplicada:** “que está presente, Especioso.”
+- **Justificativa linguística:** Uniformidade dos nomes próprios: a tradução recebida dá forma portuguesa a todos os nomes de pessoas das narrativas de Gregório (Tarsila, Emiliana, Teofânio, Cássio, Martírio, Epifânio, Rômula, Herundina); só aqui mantinha a forma latina.
+- **Motivo:** Uniformidade ortográfica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-15 · Homilia XL · § 11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 407: 'redempta'
+- **Localização no texto:** § 11 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 14
+- **Texto latino:** anus quaedam, Redempta nomine
+- **Tradução recebida:** “de nome Redempta,”
+- **Tradução aplicada:** “de nome Redenta,”
+- **Justificativa linguística:** Uniformidade dos nomes próprios: a tradução recebida dá forma portuguesa a todos os nomes de pessoas das narrativas de Gregório (Tarsila, Emiliana, Teofânio, Cássio, Martírio, Epifânio, Rômula, Herundina); só aqui mantinha a forma latina.
+- **Motivo:** Uniformidade ortográfica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-16 · Homilia XL · § 11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 408
+- **Localização no texto:** § 11 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 14
+- **Texto latino:** eamdem Redemptam … vocavit
+- **Tradução recebida:** “chamou a mesma Redempta”
+- **Tradução aplicada:** “chamou a mesma Redenta”
+- **Justificativa linguística:** Uniformidade dos nomes próprios: a tradução recebida dá forma portuguesa a todos os nomes de pessoas das narrativas de Gregório (Tarsila, Emiliana, Teofânio, Cássio, Martírio, Epifânio, Rômula, Herundina); só aqui mantinha a forma latina.
+- **Motivo:** Uniformidade ortográfica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-17 · Homilia XL · § 11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 409
+- **Localização no texto:** § 11 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 15
+- **Texto latino:** assistentem sibi et trementem Redemptam
+- **Tradução recebida:** “Redempta, sua mestra”
+- **Tradução aplicada:** “Redenta, sua mestra”
+- **Justificativa linguística:** Uniformidade dos nomes próprios: a tradução recebida dá forma portuguesa a todos os nomes de pessoas das narrativas de Gregório (Tarsila, Emiliana, Teofânio, Cássio, Martírio, Epifânio, Rômula, Herundina); só aqui mantinha a forma latina.
+- **Motivo:** Uniformidade ortográfica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-18 · Homilia XL · § 11
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 409
+- **Localização no texto:** § 11 — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 15
+- **Texto latino:** Necdum vero eadem Redempta et alia ejus discipula
+- **Tradução recebida:** “E ainda Redempta e outra”
+- **Tradução aplicada:** “E ainda Redenta e outra”
+- **Justificativa linguística:** Uniformidade dos nomes próprios: a tradução recebida dá forma portuguesa a todos os nomes de pessoas das narrativas de Gregório (Tarsila, Emiliana, Teofânio, Cássio, Martírio, Epifânio, Rômula, Herundina); só aqui mantinha a forma latina.
+- **Motivo:** Uniformidade ortográfica.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-21 · Homilia XL · § 12, conclusão
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 411: 'sed hec omnipotens deus que per me in uestris auribus loquitur per se in uestris mentibus loquatur'
+- **Localização no texto:** § 12, conclusão — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 16
+- **Texto latino:** Sed haec omnipotens Deus quae per me in vestris auribus loquitur, per se in vestris mentibus loquatur
+- **Tradução recebida:** “Mas que este Deus onipotente, que por meu intermédio fala aos vossos ouvidos, fale por si mesmo aos vossos corações,”
+- **Tradução aplicada:** “Mas que Deus onipotente, que por meu intermédio diz estas coisas aos vossos ouvidos, as diga Ele mesmo aos vossos corações,”
+- **Justificativa linguística:** 'Haec' (estas coisas) é o objeto dos dois verbos ('quae … loquitur … loquatur'); a tradução recebida o tomou por demonstrativo de 'Deus' ('este Deus') e perdeu o objeto.
+- **Motivo:** Pronome mal interpretado.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 ### 1.2 Correções de problemas da fonte
 
 Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram junto com a tradução, ou corrigem referências bíblicas acrescentadas pela edição.
@@ -3147,6 +3603,174 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “nascerá o sol da justiça (Ml 4,2).”
 - **Justificativa linguística:** Referência desfigurada na tradução recebida; restituída a partir de Migne (Ml 4,2 na numeração da Vulgata, como as demais referências da tradução; Ml 3,20 nas Bíblias que seguem o hebraico).
 - **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-06 · Homilia XXXVIII · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 365 (aparato de fontes: 'Cf. Gn 4, 1-')
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 10
+- **Texto latino:** alter reprobus fuit (Genes. I, 1, seq.)
+- **Tradução recebida:** “o outro foi réprobo (Gn 1,1 e segs.).”
+- **Tradução aplicada:** “o outro foi réprobo (Gn 4,1ss).”
+- **Justificativa linguística:** Os dois filhos do primeiro homem, um eleito e outro réprobo, são Abel e Caim, cuja história está em Gn 4. A referência de Migne ('Genes. I, 1'), copiada pela tradução, não corresponde ao episódio; o aparato de fontes da CCSL remete a Gn 4.
+- **Motivo:** Referência bíblica errada na fonte de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-07 · Homilia XXXVIII · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 365 (aparato de fontes: 'Cf. Gn 6, 10; 9, 18-27')
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 10
+- **Texto latino:** et unus reprobus fuit (Ibid., VI, 7)
+- **Tradução recebida:** “e um foi réprobo (ibid., 6, 7).”
+- **Tradução aplicada:** “e um foi réprobo (Gn 6,10; 9,18-27).”
+- **Justificativa linguística:** Os três filhos de Noé estão nomeados em Gn 6,10, e a reprovação de Cam em Gn 9,18-27, como indica o aparato de fontes da CCSL. A referência de Migne ('VI, 7'), copiada pela tradução, remete à decisão de Deus de destruir os homens, que não é o ponto citado.
+- **Motivo:** Referência bíblica errada na fonte de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-08 · Homilia XXXVIII · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 365 (aparato: 'Cf. Gn 21, 1-21')
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 10
+- **Texto latino:** (Ibid., XXI, 10, seq.)
+- **Tradução recebida:** “o outro foi réprobo (ibid., 21, 10 e segs.).”
+- **Tradução aplicada:** “o outro foi réprobo (Gn 21,10ss).”
+- **Justificativa linguística:** Referência a Gênesis restituída por extenso no lugar de 'ibid.', conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-09 · Homilia XXXVIII · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 366 (aparato: 'Cf. Gn 27, 27-37')
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 10
+- **Texto latino:** (Ibid., XXVII, 37)
+- **Tradução recebida:** “o outro réprobo (ibid., 27, 37).”
+- **Tradução aplicada:** “o outro réprobo (Gn 27,37).”
+- **Justificativa linguística:** Referência a Gênesis restituída por extenso no lugar de 'ibid.', conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-10 · Homilia XXXVIII · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 366 (aparato: 'Cf. Gn 37, 27-28')
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 10
+- **Texto latino:** (Ibid., XXXVII, 28)
+- **Tradução recebida:** “vendedores do próprio irmão (ibid., 37, 28).”
+- **Tradução aplicada:** “vendedores do próprio irmão (Gn 37,28).”
+- **Justificativa linguística:** Referência a Gênesis restituída por extenso no lugar de 'ibid.', conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-12 · Homilia XXXVIII · § 8, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 367 (aparato de fontes: 'Ps 101, 8')
+- **Localização no texto:** § 8, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 11
+- **Texto latino:** Factus est sicut passer unicus in aedificio (Psal. CI, 1).
+- **Tradução recebida:** “como o pardal solitário no telhado (Sl 101,1).”
+- **Tradução aplicada:** “como o pardal solitário no telhado (Sl 101,8).”
+- **Justificativa linguística:** O versículo do pardal solitário é Sl 101,8 na Vulgata, como indica o aparato de fontes da CCSL; a referência de Migne ('CI, 1'), copiada pela tradução, aponta para o título do salmo.
+- **Motivo:** Referência bíblica errada na fonte de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-13 · Homilia XXXVIII · § 12, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 372
+- **Localização no texto:** § 12, referência — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 16
+- **Texto latino:** et in libro tuo omnes scribentur (Psal. CXXXVIII, 16).
+- **Tradução recebida:** “e no teu livro todos serão escritos Sl 138,16.”
+- **Tradução aplicada:** “e no teu livro todos serão escritos (Sl 138,16).”
+- **Justificativa linguística:** Referência sem parênteses e solta no fim da citação; posta na forma usada em toda a tradução.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G39-05 · Homilia XXXIX · § 7, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 387
+- **Localização no texto:** § 7, referência — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 10
+- **Texto latino:** et in aeternum non peccabis (Eccli. VII, 40).
+- **Tradução recebida:** “e jamais pecarás Eclo 7 Eclo 40.”
+- **Tradução aplicada:** “e jamais pecarás (Eclo 7,40).”
+- **Justificativa linguística:** Referência desfigurada na tradução recebida; restituída a partir de Migne.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-01 · Homilia XL · § 2, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 395
+- **Localização no texto:** § 2, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 4
+- **Texto latino:** Lingua canum tuorum ex inimicis ab ipso (Psal. LXVII, 24).
+- **Tradução recebida:** “da parte dele mesmo Sl 67 Sl 24.”
+- **Tradução aplicada:** “da parte dele mesmo (Sl 67,24).”
+- **Justificativa linguística:** Referência desfigurada na tradução recebida; restituída a partir de Migne.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-02 · Homilia XL · § 2, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 397
+- **Localização no texto:** § 2, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 4
+- **Texto latino:** Mihi autem adhaerere Deo bonum est (Psal. LXXII, 28).
+- **Tradução recebida:** “aderir a Deus é o bem Sl 72 Sl 28.”
+- **Tradução aplicada:** “aderir a Deus é o bem (Sl 72,28).”
+- **Justificativa linguística:** Referência desfigurada na tradução recebida; restituída a partir de Migne.
+- **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-03 · Homilia XL · § 3, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 398 (aparato de fontes: 'Cf. Ex 22, 1; II Sm 12, 6')
+- **Localização no texto:** § 3, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 5
+- **Texto latino:** In illo enim non tenacia, sed rapina multatur (II Reg. XII, 6).
+- **Tradução recebida:** “mas o roubo (2Rs 12,6).”
+- **Tradução aplicada:** “mas o roubo (2Sm 12,6).”
+- **Justificativa linguística:** Na Vulgata, 'II Reg.' corresponde ao Segundo Livro de Samuel das Bíblias atuais (2Sm 12,6: a restituição quádrupla na parábola de Natã). A tradução recebida trazia '2Rs', que hoje designa outro livro.
+- **Motivo:** Referência bíblica errada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-04 · Homilia XL · § 3, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 398 (aparato de fontes: 'Cf. Ex 22, 1; II Sm 12, 6')
+- **Localização no texto:** § 3, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 5
+- **Texto latino:** Ibi res injuste sublata restitutione quadrupli punitur (Matth. XIX, 8).
+- **Tradução recebida:** “com restituição quádrupla (Mt 19,8).”
+- **Tradução aplicada:** “com restituição quádrupla (Ex 22,1).”
+- **Justificativa linguística:** A frase fala da Lei antiga ('ibi'), que manda restituir o quádruplo do que foi roubado (Ex 22,1), como indica o aparato de fontes da CCSL. A referência de Migne ('Matth. XIX, 8'), copiada pela tradução, remete a um versículo sobre o divórcio, sem relação com o passo.
+- **Motivo:** Referência bíblica errada na fonte de base.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-19 · Homilia XL · § 12, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 410
+- **Localização no texto:** § 12, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 16
+- **Texto latino:** (II Cor. VIII, 14)
+- **Tradução recebida:** “(II Cor. VIII, 14)”
+- **Tradução aplicada:** “(2Cor 8,14)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G40-20 · Homilia XL · § 12, referência
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 410
+- **Localização no texto:** § 12, referência — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 16
+- **Texto latino:** Quandiu fecistis uni de his fratribus meis minimis, mihi fecistis (Matth. XXV, 45).
+- **Tradução recebida:** “(Mt 25,45)”
+- **Tradução aplicada:** “(Mt 25,40)”
+- **Justificativa linguística:** As palavras citadas ('Quandiu fecistis… mihi fecistis') são de Mt 25,40; o v. 45 é a forma negativa ('non fecistis… nec mihi fecistis'). A referência de Migne foi copiada pela tradução; na Homilia XXXIX a mesma citação já está referida como Mt 25,40.
+- **Motivo:** Referência bíblica errada na fonte de base.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 ## 2. Alterações sugeridas, mas não aplicadas
