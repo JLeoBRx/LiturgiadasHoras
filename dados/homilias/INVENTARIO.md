@@ -25,9 +25,9 @@
 | Camada | Homilias | Quantidade |
 |---|---|---|
 | Recebida: cópia exata da tradução, `recebida/` | prefácio e I a XL | 40 + prefácio |
-| Revisada: conferida com a CCSL 141, `revisada/` | I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI | 31 |
+| Revisada: conferida com a CCSL 141, `revisada/` | I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV | 34 |
 | Publicada na Liturgia Diária | V, VII, VIII, X, XVI, XXI, XXVI, XXIX, XXX | 9 |
-| Aguardando colação com o latim | XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL | 9 |
+| Aguardando colação com o latim | XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL | 6 |
 | Tradução própria do latim | nenhuma: não iniciada | 0 |
 
 Procedência da tradução recebida: Portal OpenSaints: https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne; fonte textual declarada: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
