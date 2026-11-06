@@ -6,7 +6,7 @@
 
 | Santo | Material recebido | Textos | No site | Motivo principal |
 |---|---|---|---|---|
-| São Gregório Magno | tradução portuguesa (40 homilias), texto latino crítico (CCSL 141), planilha de inventário | 40 homilias | 9 | as demais aguardam colação com o latim |
+| São Gregório Magno | tradução portuguesa (40 homilias), texto latino de Migne (PL 76), texto latino crítico (CCSL 141), planilha de inventário | 40 homilias | 9 | as 40 estão colacionadas com o latim (Etapa 1); as demais aguardam a distribuição no calendário (Etapa 2, não iniciada) |
 | São João Maria Vianney | texto francês dos 4 tomos (transcrição em Word) | 75 sermões | 0 | não há tradução portuguesa; edição de origem não identificada |
 | Santo Antônio de Pádua | tradução portuguesa (Vozes, 2019) e tradução inglesa (Spilsbury) | 76 sermões | 0 | direitos da tradução portuguesa; sem texto latino para conferência |
 
@@ -25,10 +25,57 @@
 | Camada | Homilias | Quantidade |
 |---|---|---|
 | Recebida: cópia exata da tradução, `recebida/` | prefácio e I a XL | 40 + prefácio |
-| Revisada: conferida com a CCSL 141, `revisada/` | I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL | 40 |
+| Revisada: conferida com Migne (PL 76) e a CCSL 141, `revisada/` | I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL | 40 |
 | Publicada na Liturgia Diária | V, VII, VIII, X, XVI, XXI, XXVI, XXIX, XXX | 9 |
 | Aguardando colação com o latim | nenhuma | 0 |
-| Tradução própria do latim | nenhuma: não iniciada | 0 |
+| Tradução própria do latim, `traducao-propria/` (não publicada) | XXIII (piloto) | 1 |
+
+### Estado final de cada homilia (Etapa 1)
+
+Estados: **finalizada**: texto colacionado, correções aplicadas, nenhuma dúvida em aberto (pode haver sugestões de redação para sua decisão); **finalizada com ressalvas**: texto utilizável, com dúvida em aberto ou trecho que merece atenção (ver ressalvas).
+
+| Nº | Estado final | Correções aplicadas | Sugestões | Dúvidas | Variantes e problemas da fonte | Ressalvas |
+|---|---|---|---|---|---|---|
+| I | finalizada | 6 | — | — | 1 | — |
+| II | finalizada | 6 | — | — | 0 | O cabeçalho e a rubrica faltavam na tradução recebida; foram traduzidos de Migne (G02-01). |
+| III | finalizada | 5 | — | — | 0 | — |
+| IV | finalizada | 4 | — | — | 0 | — |
+| V | finalizada com ressalvas | 5 | — | G05-08 | 4 | Dúvida de construção registrada (G05-08): a frase admite duas leituras sintáticas; mantida a tradução recebida. |
+| VI | finalizada | 4 | — | — | 1 | — |
+| VII | finalizada | 2 | G07-04 | — | 2 | Sugestão não aplicada (G07-04): 'Idumeia' em vez de 'Edom', como no latim; decisão sua. |
+| VIII | finalizada | 3 | G08-03, G08-04, G08-05 | — | 4 | Sugestões não aplicadas (G08-03, G08-04, G08-05), de redação; decisão sua. |
+| IX | finalizada | 5 | — | — | 0 | — |
+| X | finalizada | 6 | — | — | 4 | — |
+| XI | finalizada | 2 | G11-02 | — | 0 | — |
+| XII | finalizada | 6 | G12-06 | — | 0 | — |
+| XIII | finalizada | 3 | — | — | 0 | — |
+| XIV | finalizada | 2 | — | — | 0 | Migne numera dois parágrafos como '3' (o segundo deveria ser o 5); a numeração não aparece na tradução. |
+| XV | finalizada | 5 | — | — | 0 | — |
+| XVI | finalizada | 6 | G16-05 | — | 1 | Sugestão não aplicada (G16-05): '360 dias' (texto crítico) em vez de '365' (Migne e alguns manuscritos); decisão sua. |
+| XVII | finalizada | 12 | — | — | 0 | Um erro da transcrição latina de base ('Vetus' por 'Verus', § 7) foi identificado pela CCSL 141 (G17-02). |
+| XVIII | finalizada | 3 | — | — | 0 | — |
+| XIX | finalizada | 7 | G19-04 | — | 0 | — |
+| XX | finalizada com ressalvas | 14 | — | G20-14 | 0 | Dúvida sobre o sentido de 'continentia' no § 12 (G20-14), sem efeito na integridade do texto. |
+| XXI | finalizada com ressalvas | 4 | — | G21-06 | 3 | Dúvida registrada (G21-06): 'frequens' (solenidade 'frequente') pode ser 'concorrida' ou 'contínua'; mantida a tradução recebida. |
+| XXII | finalizada | 10 | — | — | 0 | — |
+| XXIII | finalizada | 3 | G23-04 | — | 0 | Sugestão não aplicada (G23-04): indicar entre parênteses o latim 'figuli', para tornar compreensível o jogo de palavras 'fingere'/'figulus'. |
+| XXIV | finalizada | 5 | — | — | 0 | — |
+| XXV | finalizada | 15 | — | — | 0 | — |
+| XXVI | finalizada com ressalvas | 10 | G26-12 | G26-08 | 3 | Dúvida de autenticidade (G26-08): a frase 'Isto é: assim como o Pai, Deus, enviou a mim, Deus…' está em Migne, base da tradução, mas não no texto crítico nem no seu aparato; mantida até sua decisão. Sugestão não aplicada (G26-12), de redação. |
+| XXVII | finalizada | 9 | — | — | 0 | — |
+| XXVIII | finalizada | 3 | — | — | 0 | — |
+| XXIX | finalizada | 20 | G29-09 | — | 1 | Sugestão não aplicada (G29-09), de redação. Referência ao Segundo Livro dos Reis partida entre dois parágrafos na origem, reconstituída (G29-02, G29-21, G29-22). |
+| XXX | finalizada | 18 | G30-04, G30-06 | — | 2 | Sugestões não aplicadas (G30-04, G30-06), de redação. |
+| XXXI | finalizada | 6 | — | — | 1 | Um erro da transcrição latina de base ('non' por 'nos', § 8) foi identificado pela CCSL 141 (G31-07); a tradução já estava correta. |
+| XXXII | finalizada | 11 | — | — | 1 | Migne repete a numeração '3.' (dois parágrafos com o mesmo número); a numeração foi mantida como impressa na camada latim/. Um erro da transcrição latina de base ('prorant' por 'proruat', § 8) foi identificado pela CCSL 141 (G32-11); a tradução já estava correta. |
+| XXXIII | finalizada | 24 | — | — | 2 | Um erro da transcrição latina de base ('retinebamur' por 'renitebamur', § 5) foi identificado pela CCSL 141 (G33-07); a tradução já estava correta. A mesma transcrição traz 'vival' por 'vivat' (Ez 33,11, § 8), erro tipográfico evidente sem efeito na tradução. Variante Migne × CCSL registrada (G33-18: 'conditor et Redemptor noster' × 'conditor noster'); a tradução segue Migne. |
+| XXXIV | finalizada | 32 | — | — | 1 | Três notas editoriais de Migne que remetem ao Decreto de Graciano foram retiradas do texto de leitura e ficam registradas (G34-04, G34-06, G34-24); a nota que remete a Dionísio Areopagita (§ 12) foi mantida, porque indica a fonte de uma afirmação que o próprio Gregório atribui a esse autor. Um erro da transcrição latina de base ('concidit' por 'condidit', § 15) foi identificado pela CCSL 141 (G34-23); a tradução já estava correta. |
+| XXXV | finalizada | 10 | — | — | 1 | Variante Migne × CCSL registrada (G35-09: 'pauperis' × 'pauperum', Sl 9,19); a tradução segue Migne. O título da homilia traz a rubrica (local e ocasião) no mesmo bloco do cabeçalho, como em várias outras homilias da tradução recebida; mantido. |
+| XXXVI | finalizada | 19 | — | — | 0 | A nota de Migne que remete aos Diálogos de Gregório (livro IV, cap. 27), onde o mesmo episódio do conde Teofânio é narrado, foi mantida, porque a própria tradução recebida a traduziu ('Liv. IV dos Diálogos, cap. 27') e ela informa o leitor. |
+| XXXVII | finalizada | 13 | — | — | 0 | As duas notas de Migne que remetem aos Diálogos de Gregório foram mantidas e postas na forma portuguesa já usada pela tradução recebida na Homilia XXXVI. |
+| XXXVIII | finalizada | 25 | — | — | 0 | As duas notas de Migne que remetem ao Decreto de Graciano ('23, q. 4') já tinham sido omitidas pela tradução recebida; as que remetem aos Diálogos de Gregório foram mantidas, numa só forma. |
+| XXXIX | finalizada | 8 | — | — | 0 | O versículo de Lc 19,42 é traduzido de três maneiras ao longo da homilia, porque Gregório o comenta em partes ('Se também tu conhecesses', 'E na verdade neste teu dia…'); as formas foram mantidas, por acompanharem o comentário. As notas de Migne que remetem ao Decreto de Graciano ('1, q. 3, c. 10') já tinham sido omitidas pela tradução recebida. |
+| XL | finalizada com ressalvas | 22 | — | — | 0 | Lacuna na tradução recebida (§ 3): duas frases faltavam e no lugar delas havia anotações de trabalho de uma ferramenta automática ('Wait correct typo. Need final clean.'). As anotações foram retiradas e as duas frases traduzidas do latim (G40-05). Esse trecho é tradução própria, não da tradução recebida; está identificado no registro e pode ser revisto ou revertido. A nota de Migne que remete ao Decreto de Graciano ('De poenit., dist. 3, can. Cavendum') já tinha sido omitida pela tradução recebida. |
 
 Procedência da tradução recebida: Portal OpenSaints: https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne; fonte textual declarada: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
 
@@ -46,17 +93,17 @@ Procedência da tradução recebida: Portal OpenSaints: https://opensaints.com/p
 | Homilia XXIX | Mc 16,14-20 | Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor. | **litúrgica:** Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia).<br>**bíblica:** Ascensão do Senhor, Ano B |
 | Homilia XXX | Jo 14,23-31 | Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes. | **litúrgica:** Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2). |
 
-### Homilias não inseridas (aguardando colação com o latim)
+### Homilias não inseridas (colacionadas; aguardando a Etapa 2)
 
-Nenhuma destas foi publicada: a tradução ainda não foi conferida com a CCSL 141. As correspondências bíblicas candidatas mostram em que dias cada uma poderia entrar depois da colação (porcentagens: quanto do Evangelho do dia a homilia comenta / quanto da passagem da homilia é lido no dia).
+Nenhuma destas foi publicada. A tradução de todas já foi colacionada com o latim (Etapa 1); a escolha dos dias em que entram no calendário é a Etapa 2, que ainda não começou. As correspondências bíblicas candidatas abaixo são só orientação para essa etapa (porcentagens: quanto do Evangelho do dia a homilia comenta / quanto da passagem da homilia é lido no dia).
 
 | Nº | Passagem | Ocasião histórica (tradução recebida) | Candidatas no calendário atual | Observação |
 |---|---|---|---|---|
 | Homilia I | Lc 21,25-32 (Hurst: Lc 21,25-33) | Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor. | Sexta-feira da 34ª semana do Tempo Comum, Ano I — Lc 21,29-33 (80% / 50%)<br>Sexta-feira da 34ª semana do Tempo Comum, Ano II — Lc 21,29-33 (80% / 50%)<br>1º Domingo do Advento, Ano C — Lc 21,25-28.34-36 (57% / 50%)<br>Quinta-feira da 34ª semana do Tempo Comum, Ano I — Lc 21,20-28 (44% / 50%)<br>Quinta-feira da 34ª semana do Tempo Comum, Ano II — Lc 21,20-28 (44% / 50%) |  |
-| Homilia II | Lc 18,31-44 (Hurst: Lc 18,31-43) | (sem cabeçalho nem rubrica na tradução recebida) | Segunda-feira da 33ª semana do Tempo Comum, Ano I — Lc 18,35-43 (100% / 64%)<br>Segunda-feira da 33ª semana do Tempo Comum, Ano II — Lc 18,35-43 (100% / 64%) | Na tradução recebida falta o cabeçalho e a rubrica desta homilia (o texto começa direto no Evangelho, dentro do bloco da Homilia I). |
+| Homilia II | Lc 18,31-44 (Hurst: Lc 18,31-43) | (sem cabeçalho nem rubrica na tradução recebida) | Segunda-feira da 33ª semana do Tempo Comum, Ano I — Lc 18,35-43 (100% / 64%)<br>Segunda-feira da 33ª semana do Tempo Comum, Ano II — Lc 18,35-43 (100% / 64%) | Na tradução recebida faltam o cabeçalho e a rubrica desta homilia; foram traduzidos de Migne na camada revisada (G02-01). |
 | Homilia III | Mt 12,46-50 | Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício. | Terça-feira da 16ª semana do Tempo Comum, Ano I — Mt 12,46-50 (100% / 100%)<br>Terça-feira da 16ª semana do Tempo Comum, Ano II — Mt 12,46-50 (100% / 100%) |  |
 | Homilia IV | Mt 10,5-10 (Hurst: Mt 10,5-8) | Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos. | Quinta-feira da 14ª semana do Tempo Comum, Ano I — Mt 10,7-15 (44% / 67%)<br>Quinta-feira da 14ª semana do Tempo Comum, Ano II — Mt 10,7-15 (44% / 67%)<br>Quarta-feira da 14ª semana do Tempo Comum, Ano I — Mt 10,1-7 (43% / 50%)<br>Quarta-feira da 14ª semana do Tempo Comum, Ano II — Mt 10,1-7 (43% / 50%)<br>11º Domingo do Tempo Comum, Ano A — Mt 9,36-10,8 (8% / 67%)<br>Sábado da 1ª semana do Advento — Mt 9,35-10,1.6-8 (6% / 50%) |  |
-| Homilia VI | Mt 11,2-10 | Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor. | 3º Domingo do Advento, Ano A — Mt 11,2-11 (90% / 100%) | Próxima a conferir: o Evangelho do 3º domingo do Advento, Ano A (Mt 11,2-11), contém a passagem comentada. |
+| Homilia VI | Mt 11,2-10 | Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor. | 3º Domingo do Advento, Ano A — Mt 11,2-11 (90% / 100%) |  |
 | Homilia IX | Mt 25,14-30 | Proferida ao povo na basílica de São Silvestre, no dia de seu nascimento. | Sábado da 21ª semana do Tempo Comum, Ano I — Mt 25,14-30 (100% / 100%)<br>Sábado da 21ª semana do Tempo Comum, Ano II — Mt 25,14-30 (100% / 100%) |  |
 | Homilia XI | Mt 13,44-52 | Proferida ao povo na basílica de Santa Inês, no dia de seu natalício. | Quinta-feira da 17ª semana do Tempo Comum, Ano I — Mt 13,47-53 (86% / 67%)<br>Quinta-feira da 17ª semana do Tempo Comum, Ano II — Mt 13,47-53 (86% / 67%)<br>Quarta-feira da 17ª semana do Tempo Comum, Ano I — Mt 13,44-46 (100% / 33%)<br>Quarta-feira da 17ª semana do Tempo Comum, Ano II — Mt 13,44-46 (100% / 33%) |  |
 | Homilia XII | Mt 25,1-13 | Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício. | 32º Domingo do Tempo Comum, Ano A — Mt 25,1-13 (100% / 100%)<br>Sexta-feira da 21ª semana do Tempo Comum, Ano I — Mt 25,1-13 (100% / 100%)<br>Sexta-feira da 21ª semana do Tempo Comum, Ano II — Mt 25,1-13 (100% / 100%) |  |

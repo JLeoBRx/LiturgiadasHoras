@@ -25,7 +25,7 @@
   },
   "edicao_critica_de_conferencia": "R. Étaix (ed.), Gregorius Magnus, Homiliae in Evangelia, CCSL 141, Turnhout: Brepols, 1999 — instrumento de conferência crítica; seu texto não é publicado no site.",
   "revisoes_do_projeto": "registradas uma a uma em 'registros' (correções aplicadas, sugestões, dúvidas, variantes e problemas da fonte).",
-  "traducao_propria": "não iniciada. Será feita diretamente do latim (Migne/PL 76, conferida com a CCSL 141), com auxílio de IA e revisão editorial humana, numa camada própria; poderá complementar ou substituir editorialmente a tradução recebida, sem apagá-la e mantendo o histórico das versões."
+  "traducao_propria": "iniciada na Etapa 1 (06/11/2026) com um piloto, a Homilia XXIII, na camada gregorio-magno/traducao-propria/ (com notas da tradução, glossário de decisões e LEIA-ME). É feita diretamente do latim (Migne/PL 76, conferida com a CCSL 141), com auxílio de IA e revisão editorial humana, e identificada como 'tradução própria com auxílio de IA e revisão editorial'; não é publicada e não substitui a tradução recebida, que continua preservada. Dois trechos de tradução própria estão na camada revisada, por lacuna da tradução recebida: G02-01 (cabeçalho e rubrica da Homilia II) e G40-05 (duas frases da Homilia XL)."
  },
  "historico": [
   {
@@ -45,6 +45,12 @@
    "origem": "Etapa 1 (finalização textual das 40 homilias), revisão complementar das nove homilias publicadas",
    "decisao": "G29-11 passa de sugestão a correção aplicada (grafia do Acordo Ortográfico, como no restante do site); G26-08 continua dúvida, agora com a conferência de Migne.",
    "alteracoes": "Valores anteriores — G29-11: tipo 'sugestao', estado 'nao-aplicada', confiança 'alta', motivo 'Atualização ortográfica, sem relação com o sentido; não aplicada para não alterar a tradução recebida além do necessário.'. G26-08: latim 'Dicit eis: Pax uobis. Sicut misit me Pater, et ego mitto uos. Pater Filium misit … (a CCSL não tem a frase 'id est, sicut misit me Pater Deus Deum…', e o aparato não a registra em nenhum manuscrito)'; justificativa 'A frase não está no texto crítico nem no aparato. Provavelmente vem da edição de Migne (base declarada da tradução), mas essa edição não foi enviada para conferência. Se for interpolação, a frase não é de Gregório.'; motivo 'Autenticidade a investigar (comparar com PL 76). Mantida no texto como recebida, até sua decisão.'."
+  },
+  {
+   "data": "2026-11-06",
+   "origem": "Etapa 1 (finalização textual das 40 homilias), tradução própria",
+   "decisao": "Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.",
+   "alteracoes": "procedencia.traducao_propria atualizado. Valor anterior: 'não iniciada. Será feita diretamente do latim (Migne/PL 76, conferida com a CCSL 141), com auxílio de IA e revisão editorial humana, numa camada própria; poderá complementar ou substituir editorialmente a tradução recebida, sem apagá-la e mantendo o histórico das versões.'"
   }
  ],
  "registros": [

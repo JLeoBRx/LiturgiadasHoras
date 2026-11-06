@@ -4,9 +4,10 @@
 
 ## Método
 
-- **Texto latino de referência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e as duas redações do próprio Gregório (α e β).
-- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”, obtido no portal OpenSaints (https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne). Fonte textual declarada pela OpenSaints: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental. A edição de Migne não foi enviada.
-- **Procedimento:** cada homilia publicada foi lida em paralelo com o latim, parágrafo por parágrafo. Em todo ponto em que o português diverge do texto crítico, o aparato foi consultado; quando o OCR era duvidoso, a imagem da página.
+- **Texto latino de base:** J.-P. Migne, *Patrologia Latina* 76 (Paris, 1849), na transcrição do Corpus Corporum (Universidade de Zurique) publicada na Wikisource latina, enviada em PDF e separada por homilia em `dados/homilias/gregorio-magno/latim/`. Os números de coluna citados no registro (1434-1661) são os que essa transcrição traz entre colchetes; podem não coincidir com os de outras tiragens da PL 76, que não foram conferidas. É a base declarada da tradução recebida.
+- **Texto latino de conferência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e de fontes; usada para resolver passos duvidosos, identificar erros da transcrição de Migne e registrar variantes.
+- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”, obtido no portal OpenSaints (https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne). Fonte textual declarada pela OpenSaints: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
+- **Procedimento:** as 40 homilias foram lidas em paralelo com o latim, parágrafo por parágrafo (Etapa 1: as 9 publicadas primeiro com a CCSL 141 e depois revistas com Migne; as outras 31 com Migne e a CCSL). Em todo ponto em que o português diverge do latim, a CCSL e o seu aparato foram consultados. Verificações automáticas completaram a leitura: números de coluna e de seção, referências desfiguradas, notas editoriais, resíduos de ferramentas, falsos cognatos recorrentes.
 - **Regra decisiva:** quando o português segue uma leitura que o aparato atribui a manuscritos, isso é diferença de tradição textual (provavelmente a da edição de Migne), não erro de tradução: o texto fica como recebido e a diferença é registrada como *variante*.
 - **Só correções de confiança alta foram aplicadas.** Confiança moderada ou baixa = sugestão ou dúvida, nunca aplicada.
 - Escolhas de estilo que não mudam o sentido (artigos, pontuação, tempos verbais harmonizados, ordem das palavras) não foram alteradas nem itemizadas.
@@ -4790,20 +4791,26 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **Decisão editorial (06/11/2026):** Manter preservadas as 40 homilias recebidas e publicadas as 9 revisadas, com atribuição transparente da fonte (OpenSaints; Migne/PL 76 via Wikisource). A ausência de identificação do tradutor não é motivo automático para suspender ou ocultar a publicação. Não excluir 'recebida/', não ocultar homilias, não desfazer revisões, não reiniciar a tradução; a CCSL 141 continua como instrumento de conferência; a tradução própria do latim continua prevista.
 - **Decisão editorial (06/11/2026):** Uniformizar os títulos das leituras nas 40 homilias (forma única, referência em algarismos arábicos).
 - **Decisão editorial (06/11/2026):** G29-11 passa de sugestão a correção aplicada (grafia do Acordo Ortográfico, como no restante do site); G26-08 continua dúvida, agora com a conferência de Migne.
+- **Decisão editorial (06/11/2026):** Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
-- **Artefatos numéricos** (“1468”, “1573”) e numeração de parágrafos colados ao texto, juntando parágrafos (Homilias X e XXIX) — corrigidos nas homilias publicadas (ver 1.2).
-- **Remissões ao Decreto de Graciano** — notas marginais da edição impressa, como “(11, q. 3, c. 88)”, dentro do texto (Homilias XXVI e XXIX) — retiradas nas homilias publicadas.
-- **Referências bíblicas desfiguradas** (“Sl 67 Sl 19”, “Hb 12 Hb 29”) e uma errada (Jo 11,45 por 11,44) — corrigidas nas homilias publicadas.
+- **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).
+- **Remissões ao Decreto de Graciano** — notas marginais da edição impressa, como “(11, q. 3, c. 88)”, dentro do texto — retiradas onde a tradução as conservava.
+- **Referências bíblicas desfiguradas** (“Sl 67 Sl 19”, “Hb 12 Hb 29”), “ibid.” e abreviaturas latinas — corrigidas e uniformizadas nas 40 homilias.
+- **Blocos com etiqueta errada** (título ou texto da leitura marcado como parágrafo, leitura colada ao § 1, parágrafos partidos no meio de uma frase) — corrigidos.
 - **Rubricas com dados ausentes do texto crítico:** a indicação do domingo nas Homilias VII, XVI e XXVI vem da edição impressa (ver variantes G07-03, G16-06, G26-09). Por isso a VII e a XXVI entram no calendário só pela correspondência bíblica, e a XVI pela ocasião confirmada no próprio texto (§ 5).
-- **Grafia anterior ao Acordo Ortográfico** em alguns pontos (ex.: “ungüentos”), mantida como recebida.
+- **Lacuna na Homilia XL, § 3:** duas frases faltam na tradução recebida e, no lugar delas, há anotações de trabalho de uma ferramenta automática (“exprim glria? Wait correct typo. Need final clean.”). É a única ocorrência nas 40 homilias. Na camada revisada, as anotações saíram e as frases foram traduzidas do latim, como tradução própria identificada (G40-05).
+- **Erros da edição de Migne nas referências bíblicas**, copiados pela tradução (ex.: Ct 1,1 dada como “I, 7”; Sl 101,8 como “CI, 1”; Mt 19,8 no lugar de Ex 22,1) — corrigidos com o aparato de fontes da CCSL.
+- **Livros dos Reis e de Samuel:** a tradução recebida converteu “I/II Reg.” da Vulgata em “1Rs/2Rs”, que hoje designam outros livros — corrigidos para 1Sm/2Sm.
+- **Erros da transcrição latina de base** (Corpus Corporum), identificados pela CCSL, sem efeito na tradução (ex.: “non” por “nos”, “concidit” por “condidit”) — registrados como problemas da fonte.
+- **Grafia anterior ao Acordo Ortográfico:** “ungüentos” (Homilia XXIX), atualizada na Etapa 1 (G29-11).
 - **Texto latino (CCSL 141):** a digitalização traz aviso de direitos reservados (Brepols). Foi usada só para conferência; nenhum texto latino é publicado no site, apenas citações curtas nesta auditoria.
 - **Santo Antônio:** a tradução portuguesa é de Frei Ary E. Pintarelli, OFM (Vozes, 2019), indicada no próprio PDF, obtido do site academia.edu. A tradução inglesa (Paul Spilsbury, a partir da edição crítica de 1979) foi capturada do site franciscan-archive.org em 2006.
 - **São João Maria Vianney:** os PDFs são documentos do Word convertidos, sem folha de rosto; há erros de reconhecimento de ligaduras (“SancLfication”, “ChréLen”).
 
 ## 6. Textos cuja autenticidade ou atribuição precisa de investigação
 
-- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” não está no texto crítico nem no aparato (registro G26-08). Está publicada como recebida, mas marcada como dúvida de confiança baixa: conferir com a PL 76.
+- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Está publicada como recebida; a decisão de mantê-la, anotá-la ou retirá-la é sua.
 - **São João Maria Vianney** — os 4 tomos são a coleção tradicional dos sermões escritos pelo Cura d’Ars. A dependência destes textos de coletâneas de sermões de outros autores, e a extensão dos retoques dos editores, precisam ser investigadas antes de apresentá-los como palavras do santo. Os “sermões inéditos” do tomo 4 exigem identificação da fonte. Esta auditoria não afirma nem nega a autoria: registra que o material enviado não permite verificá-la.
 - **Santo Antônio de Pádua** — a autoria dos *Sermones dominicales et festivi* é sólida (edição crítica de 1979), mas os textos não foram conferidos com o latim porque ele não foi enviado.
 
@@ -4811,36 +4818,36 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 
 | Santo | Texto | Motivo |
 |---|---|---|
-| São Gregório Magno | Homilia I (Lc 21,25-32) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia II (Lc 18,31-44) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia III (Mt 12,46-50) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia IV (Mt 10,5-10) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia VI (Mt 11,2-10) | correspondência identificada (3º domingo do Advento, Ano A), mas ainda não conferida com o latim — próxima da fila |
-| São Gregório Magno | Homilia IX (Mt 25,14-30) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XI (Mt 13,44-52) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XII (Mt 25,1-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIII (Lc 12,35-40) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIV (Jo 10,11-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XV (Lc 8,4-15) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XVII (Lc 10,1-9) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XVIII (Jo 8,45-69) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIX (Mt 20,1-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XX (Lc 3,1-11) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXII (Jo 20,1-9) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXIII (Lc 24,13-35) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXIV (Jo 21,1-14) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXV (Jo 20,11-18) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXVII (Jo 15,12-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXVIII (Jo 4,46-53) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIII (Lc 7,36-50) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIV (Lc 15,1-10) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXV (Lc 21,9-19) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVI (Lc 14,16-24) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVII (Lc 14,25-33) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVIII (Mt 22,1-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIX (Lc 19,42-47) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XL (Lc 16,19-31) | tradução ainda não conferida com a CCSL 141 |
+| São Gregório Magno | Homilia I (Lc 21,25-32) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia II (Lc 18,31-44) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia III (Mt 12,46-50) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia IV (Mt 10,5-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia VI (Mt 11,2-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia IX (Mt 25,14-30) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XI (Mt 13,44-52) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XII (Mt 25,1-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XIII (Lc 12,35-40) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XIV (Jo 10,11-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XV (Lc 8,4-15) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XVII (Lc 10,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XVIII (Jo 8,45-69) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XIX (Mt 20,1-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XX (Lc 3,1-11) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXII (Jo 20,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXIII (Lc 24,13-35) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXIV (Jo 21,1-14) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXV (Jo 20,11-18) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXVII (Jo 15,12-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXVIII (Jo 4,46-53) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXIII (Lc 7,36-50) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXIV (Lc 15,1-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXV (Lc 21,9-19) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXVI (Lc 14,16-24) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXVII (Lc 14,25-33) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXVIII (Mt 22,1-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XXXIX (Lc 19,42-47) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia XL (Lc 16,19-31) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
 | São João Maria Vianney | todos os sermões | sem tradução portuguesa; edição de origem e autoria a investigar |
 | Santo Antônio de Pádua | todos os sermões | direitos da tradução portuguesa (Vozes, 2019); sem texto latino para conferência |
