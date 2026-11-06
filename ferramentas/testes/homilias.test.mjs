@@ -134,7 +134,14 @@ describe('Homilias: dados publicados e correspondências', () => {
       for (const k of ['tradutor', 'origem', 'direitos', 'revisao']) assert.ok(ob.traducao[k], `${h.obra}: tradução sem ${k}`);
       assert.ok(fs.existsSync(path.join(DADOS, h.arquivo + '.txt')), `${h.id}: arquivo ausente`);
       assert.ok(colacionadas.includes(h.numero), `${h.id}: publicada sem colação com o latim`);
-      assert.ok(h.correspondencias?.length, `${h.id}: sem correspondência`);
+      if (h.situacao === 'catalogo') {
+        // só no catálogo geral: sem data litúrgica, e com o motivo declarado
+        assert.equal(h.correspondencias.length, 0, `${h.id}: homilia do catálogo com correspondência`);
+        assert.ok(h.motivo_catalogo, `${h.id}: falta o motivo de ficar só no catálogo`);
+      } else {
+        assert.equal(h.situacao, 'calendario', `${h.id}: situação desconhecida`);
+        assert.ok(h.correspondencias?.length, `${h.id}: sem correspondência`);
+      }
     }
   });
   test('a passagem comentada confere com o título da leitura no próprio texto', async () => {
@@ -191,6 +198,96 @@ describe('Homilias: dias em que aparecem (2025–2045)', () => {
   const dias = (id) => [...new Set(aparicoes.get(id).map((a) => a.iso))].sort();
   const anos = Array.from({ length: ATE - DE + 1 }, (_, i) => DE + i);
   const D = (a) => datasDoAno(a);
+
+  // Dias esperados das 40 homilias, calculados SÓ com o calendário (sem
+  // daily-liturgy.js nem homilias.js) a partir desta lista, escrita à mão
+  // e independente de distribuicao.json. Cada item é:
+  //   'cel:ID'      a celebração do dia (ou uma memória à escolha) é ID;
+  //   'cel:ID-B'    idem, num dia do Ano B;
+  //   'TC-34-sexta' dia do tempo com as leituras do tempo (anos I e II);
+  //   'TC-17-domingo-A', 'QUA-1-domingo' (Anos A, B e C), 'PAS-1-quarta'…
+  // As leituras do tempo valem nos dias sem celebração própria e nas
+  // memórias; festas e solenidades têm leituras próprias.
+  const ESPERADO = {
+    1: ['TC-34-sexta'], 2: ['TC-33-segunda'], 3: ['TC-16-terca'], 4: [],
+    5: ['cel:santoandre', 'TC-3-domingo-A'], 6: ['ADV-3-domingo-A'], 7: ['ADV-3-domingo-B', 'NAT-jan02'], 8: ['cel:natal'],
+    9: ['TC-21-sabado', 'TC-33-domingo-A'], 10: ['cel:epifania'], 11: ['cel:santaines', 'TC-17-domingo-A'],
+    12: ['cel:santaines', 'TC-21-sexta', 'TC-32-domingo-A'], 13: ['cel:fieisdefuntos', 'TC-29-terca', 'TC-19-domingo-C'],
+    14: ['PAS-4-domingo-B', 'PAS-4-segunda'], 15: ['TC-24-sabado'], 16: ['QUA-1-domingo'],
+    17: ['cel:saolucas', 'cel:saotimoteoetito', 'TC-26-quinta', 'TC-14-domingo-C'], 18: ['QUA-5-quinta'],
+    19: ['TC-20-quarta', 'TC-25-domingo-A'], 20: ['ADV-2-domingo-C'], 21: ['cel:pascoa', 'cel:sabadosanto-B'],
+    22: ['cel:pascoa', 'cel:joaoevangelista'], 23: ['PAS-1-quarta', 'PAS-3-domingo-A'], 24: ['PAS-1-sexta', 'PAS-3-domingo-C'],
+    25: ['PAS-1-terca', 'cel:stamariamadalena'], 26: ['cel:divinamisericordia', 'cel:saotome', 'cel:pentecostes'],
+    27: ['cel:saopancracio', 'PAS-5-sexta', 'PAS-6-domingo-B', 'cel:saomatias'], 28: ['QUA-4-segunda'],
+    29: ['cel:ascensaodosenhor', 'cel:saomarcos', 'cel:conversaosaopaulo'], 30: ['cel:pentecostes', 'PAS-6-domingo-C', 'PAS-5-terca'],
+    31: [], 32: [], 33: ['TC-24-quinta', 'TC-11-domingo-C'], 34: ['TC-31-quinta', 'TC-24-domingo-C', 'cel:scj-C'],
+    35: ['TC-33-domingo-C', 'TC-34-quarta'], 36: ['TC-31-terca'], 37: ['cel:saosebastiao', 'TC-23-domingo-C', 'TC-31-quarta'],
+    38: ['TC-20-quinta', 'TC-28-domingo-A'], 39: ['TC-33-quinta'], 40: ['QUA-2-quinta', 'TC-26-domingo-C'],
+  };
+  const SEMANA = ['domingo', 'segunda', 'terca', 'quarta', 'quinta', 'sexta', 'sabado'];
+  const PREFIXO = { comum: 'TC', advento: 'ADV', quaresma: 'QUA', pascoa: 'PAS' };
+  const doTempo = (d) => {
+    if (d.tempo === 'natal' && d.mes === 1 && d.subtipo === 'antes-epifania') return `NAT-jan${String(d.dia).padStart(2, '0')}`;
+    if (!PREFIXO[d.tempo] || d.semana == null) return null;
+    return d.diaSemana === 0 ? `${PREFIXO[d.tempo]}-${d.semana}-domingo-${d.cicloDominical}` : `${PREFIXO[d.tempo]}-${d.semana}-${SEMANA[d.diaSemana]}`;
+  };
+  const leiturasDoTempo = (d) => d.celebracao.tipo === 'temporal' ? !d.celebracao.id : ['memoria', 'memoria-facultativa'].includes(d.celebracao.grau);
+  function diasDe(itens) {
+    const out = [];
+    for (let n = numeroDia(DE, 1, 1); n <= numeroDia(ATE, 12, 31); n++) {
+      const iso = isoDeNumero(n);
+      const d = cal.dia(iso);
+      const vale = itens.some((it) => {
+        const c = it.match(/^cel:([^-]+)(?:-([ABC]))?$/);
+        if (c) return (d.celebracao.id === c[1] || d.opcoes.some((o) => o.id === c[1])) && (!c[2] || d.cicloDominical === c[2]);
+        const k = doTempo(d);
+        return !!k && leiturasDoTempo(d) && (k === it || k.startsWith(it + '-'));
+      });
+      if (vale) out.push(iso);
+    }
+    return out;
+  }
+  for (const h of PUBLICADAS.filter((x) => x.obra === 'gregorio-homiliae-in-evangelia')) {
+    test(`${h.id}: exatamente nos dias calculados pelo calendário`, () => {
+      assert.ok(ESPERADO[h.numero], `defina os dias esperados de ${h.id} neste teste`);
+      const esp = diasDe(ESPERADO[h.numero]);
+      const obs = dias(h.id);
+      const falta = esp.filter((x) => !obs.includes(x)), sobra = obs.filter((x) => !esp.includes(x));
+      assert.deepEqual({ falta, sobra }, { falta: [], sobra: [] }, `${h.id}: dias divergentes`);
+      assert.equal(esp.length > 0, h.situacao === 'calendario', `${h.id}: situação incoerente com os dias`);
+    });
+  }
+  test('datas conferidas à mão (2026–2027)', () => {
+    const em = (iso, op = null) => HM.homiliasDoDia(LD.resolver(cal.dia(iso), op)).map((x) => x.homilia.numero).sort((a, b) => a - b);
+    assert.deepEqual(em('2026-11-27'), [1]);                // sexta-feira da 34ª semana do Tempo Comum
+    assert.deepEqual(em('2027-01-21'), [11, 12]);           // Santa Inês (quinta-feira)
+    assert.deepEqual(em('2027-01-20'), []);                 // 20/1 sem escolher memória
+    assert.deepEqual(em('2027-01-20', 'saosebastiao'), [37]);
+    assert.deepEqual(em('2027-01-20', 'saofabiano'), []);
+    assert.deepEqual(em('2027-02-25'), [40]);               // quinta-feira da 2ª semana da Quaresma
+    assert.deepEqual(em('2027-03-28'), [21, 22]);           // Páscoa: XXI (pregada no dia) e XXII (Jo 20,1-9)
+    assert.deepEqual(em('2027-03-31'), [23]);               // quarta-feira da oitava da Páscoa
+    assert.deepEqual(em('2027-05-12'), []);
+    assert.deepEqual(em('2027-05-12', 'saopancracio'), [27]);
+    assert.deepEqual(em('2027-05-12', 'nereueaquiles'), []); // dúvida da Homilia XXVIII: não ligada
+    assert.deepEqual(em('2027-05-16'), [26, 30]);           // Pentecostes
+    assert.deepEqual(em('2027-07-03'), [26]);               // São Tomé
+    assert.deepEqual(em('2027-10-18'), [17]);               // São Lucas
+    assert.deepEqual(em('2027-12-27'), [22]);               // São João Evangelista
+    assert.deepEqual(em('2026-12-31'), []);                 // São Silvestre não é oferecido na oitava do Natal
+    // Santa Rosa de Lima (festa) sem leituras próprias no acervo: o site mostra as do dia de semana
+    // (Mt 20,1-16a em 2028), mas elas não são as da festa, e a Homilia XIX não aparece
+    assert.ok(LD.resolver(cal.dia('2028-08-23'), null).substitutas);
+    assert.deepEqual(em('2028-08-23'), []);
+  });
+  test('as 9 homilias publicadas antes da Etapa 2 continuam nos dias de antes', () => {
+    for (const [id, l] of Object.entries(esperado)) {
+      const obs = dias(id);
+      for (const x of l) assert.ok(obs.includes(x), `${id}: deixou de aparecer em ${x}`);
+      if (!['gregorio-hom-26', 'gregorio-hom-29', 'gregorio-hom-30'].includes(id)) assert.deepEqual(obs, l, `${id}: dias mudaram`);
+    }
+  });
+  // dias calculados na etapa anterior (só as 9 homilias publicadas então)
   const esperado = {
     'gregorio-hom-08': anos.map((a) => `${a}-12-25`),
     // 3º domingo do Advento quando começa um Ano B + 2 de janeiro (exceto quando é domingo: Epifania)
@@ -219,12 +316,6 @@ describe('Homilias: dias em que aparecem (2025–2045)', () => {
       return r;
     }).sort(),
   };
-  for (const h of PUBLICADAS) {
-    test(`${h.id}: só nos dias com correspondência`, () => {
-      assert.ok(esperado[h.id], `defina os dias esperados de ${h.id} neste teste`);
-      assert.deepEqual(dias(h.id), esperado[h.id]);
-    });
-  }
   test('Santo André no domingo (2025, 2031…): a festa é omitida e a homilia não aparece', () => {
     assert.equal(cal.dia('2031-11-30').diaSemana, 0);
     assert.ok(!dias('gregorio-hom-05').includes('2031-11-30'));
@@ -351,5 +442,108 @@ describe('Homilias: Etapa 1 (latim, revisão final e tradução própria)', () =
     const citados = [...new Set(g.match(/G\d\d-\d\d/g))];
     assert.ok(citados.length > 20);
     for (const id of citados) assert.ok(ids.has(id), `glossário cita ${id}, que não existe`);
+  });
+});
+
+// ------------------------------------------------------------------------
+describe('Homilias: Etapa 2 (distribuição no calendário)', () => {
+  const DIST = lerJSON('dados/homilias/gregorio-magno/distribuicao.json');
+  const GREG = INDICE.homilias.filter((h) => h.obra === 'gregorio-homiliae-in-evangelia');
+  // correspondências bíblicas publicadas antes da Etapa 2 (descrições escritas então)
+  const ANTERIORES = new Set(['5:santo:santoandre', '5:TC-3-domingo-A', '7:ADV-3-domingo-B', '7:NAT-jan02', '8:natal-noite', '10:epifania',
+    '16:QUA-1-domingo-A', '21:vigilia-pascal-B', '26:divinamisericordia-A', '26:divinamisericordia-B', '26:divinamisericordia-C', '29:ascensaodosenhor-B']);
+
+  test('índice e DISTRIBUICAO.md estão em dia com distribuicao.json', async () => {
+    const { gerarDistribuicao } = await import('../homilias/aplicar_distribuicao.mjs');
+    const r = await gerarDistribuicao();
+    const msg = 'rode: node ferramentas/homilias/aplicar_distribuicao.mjs';
+    assert.equal(fs.readFileSync(path.join(DADOS, 'homilias', 'indice.json'), 'utf8'), JSON.stringify(r.indice, null, 2), msg);
+    assert.equal(fs.readFileSync(path.join(DADOS, 'homilias', 'DISTRIBUICAO.md'), 'utf8'), r.md, msg);
+  });
+
+  test('as 40 homilias estão no índice e em distribuicao.json, com justificativa', () => {
+    assert.deepEqual(GREG.map((h) => h.numero), Array.from({ length: 40 }, (_, i) => i + 1));
+    assert.deepEqual(DIST.homilias.map((d) => d.numero), Array.from({ length: 40 }, (_, i) => i + 1));
+    for (const d of DIST.homilias) {
+      assert.ok(d.justificativa && d.rubrica_ccsl && d.rubrica_migne, `Homilia ${d.numero}: falta justificativa ou rubrica`);
+      for (const l of d.liturgicas) assert.ok(l.fundamento && l.descricao, `Homilia ${d.numero}: litúrgica sem fundamento`);
+      for (const x of d.nao_usadas || []) assert.ok(x.alvo && x.motivo && ['parcial', 'paralela', 'tematica', 'ocasiao-antiga', 'fora-do-calendario', 'outra-celebracao', 'dados'].includes(x.classe), `Homilia ${d.numero}: recusa sem classe ou motivo`);
+      for (const x of d.duvidas || []) assert.ok(x.questao && x.opcao_adotada, `Homilia ${d.numero}: dúvida incompleta`);
+    }
+  });
+
+  test('as 8 candidatas fortes da Etapa 1 foram verificadas e estão no calendário', () => {
+    const fortes = DIST.homilias.filter((d) => d.candidata_forte_etapa_1).map((d) => d.numero);
+    assert.deepEqual(fortes, [6, 12, 13, 19, 22, 23, 37, 40]);
+    for (const n of fortes) assert.equal(GREG[n - 1].situacao, 'calendario');
+  });
+
+  test('toda correspondência bíblica publicada é plena pelos critérios declarados', () => {
+    const lim = DIST.criterios.biblica_plena.limiares;
+    for (const h of GREG) {
+      const P = versiculos(h.pericope);
+      for (const c of h.correspondencias.filter((x) => x.tipo === 'biblica')) {
+        const R = versiculos(c.referencia_do_dia);
+        const O = intersecao(P, R);
+        const daHomilia = O.size / P.size, doDia = O.size / R.size;
+        const plena = daHomilia >= lim.cobre_a_homilia || (doDia >= lim.cobre_o_dia && (R.size >= lim.minimo_de_versiculos_do_dia || daHomilia >= lim.minimo_da_homilia_se_curto));
+        assert.ok(plena, `${h.id} × ${c.leituras}: ${O.size} versículos em comum (${Math.round(doDia * 100)}% do dia, ${Math.round(daHomilia * 100)}% da homilia)`);
+      }
+    }
+  });
+
+  test('nenhuma correspondência recusada ou em dúvida está no índice', () => {
+    let n = 0;
+    for (const d of DIST.homilias) {
+      const h = GREG[d.numero - 1];
+      const usadas = new Set(h.correspondencias.flatMap((c) => [c.leituras, c.celebracao, ...(c.chaves || [])]).filter(Boolean));
+      for (const x of d.nao_usadas || []) {
+        const alvos = [...x.alvo.matchAll(/\b(santo:[a-z]+|(?:TC|PAS|QUA|ADV)-[\w-]+?)(?=[\s/(]|$)/g)].map((m) => m[1]);
+        const cel = x.alvo.match(/^([a-z]+) \(/);
+        if (cel) alvos.push(cel[1]);
+        for (const a of alvos) { n++; assert.ok(!usadas.has(a), `Homilia ${d.numero}: ${a} foi recusada, mas está no índice`); }
+      }
+    }
+    assert.ok(n >= 30, 'poucas recusas reconhecidas: confira o formato de nao_usadas');
+    // as duas dúvidas abertas: correspondências não usadas
+    assert.ok(!GREG[8].correspondencias.some((c) => c.celebracao === 'saosilvestre'));
+    assert.ok(!GREG[27].correspondencias.some((c) => c.celebracao === 'nereueaquiles'));
+  });
+
+  test('correspondência bíblica nova diz que a homilia não foi pregada para o dia', () => {
+    for (const h of GREG) {
+      for (const c of h.correspondencias.filter((x) => x.tipo === 'biblica')) {
+        if (ANTERIORES.has(`${h.numero}:${c.leituras}`)) continue;
+        assert.match(c.descricao, /não foi pregada para este dia/, `${h.id} × ${c.leituras}`);
+      }
+      for (const c of h.correspondencias) assert.ok(c.dia, `${h.id}: correspondência sem nome do dia`);
+    }
+  });
+
+  test('correspondência litúrgica só para celebração do calendário atual, com a ocasião na rubrica crítica ou no texto', () => {
+    const lit = GREG.filter((h) => h.correspondencias.some((c) => c.tipo === 'liturgica')).map((h) => h.numero);
+    assert.deepEqual(lit, [5, 8, 10, 11, 12, 16, 21, 27, 29, 30, 37]);
+    for (const n of lit) {
+      const d = DIST.homilias[n - 1];
+      for (const l of d.liturgicas) assert.ok(/rubrica da edição crítica|texto/.test(l.fundamento), `Homilia ${n}: fundamento ${l.fundamento}`);
+      if (d.liturgicas.some((l) => l.celebracao && !['natal', 'epifania', 'pascoa', 'ascensaodosenhor', 'pentecostes'].includes(l.celebracao))) {
+        assert.match(d.rubrica_ccsl, /die natalis/, `Homilia ${n}: santo sem o natalício na rubrica crítica`);
+      }
+    }
+  });
+
+  test('Liturgia Diária: todo Evangelho está em seção própria (não dentro da aclamação)', () => {
+    const PROCL = /^(?:\*\*)?Proclamação do Evangelho de Jesus Cristo segundo /;
+    let vistos = 0;
+    for (const arq of new Set(Object.values(LDI.leituras))) {
+      const p = path.join(DADOS, 'liturgia-diaria', arq + '.txt');
+      if (!fs.existsSync(p)) continue;
+      let secao = '';
+      for (const l of fs.readFileSync(p, 'utf8').split('\n')) {
+        if (l.startsWith('@secao')) secao = l;
+        else if (PROCL.test(l)) { vistos++; assert.match(secao, /^@secao Evangelho/, `${arq}: Evangelho dentro de "${secao}"`); }
+      }
+    }
+    assert.ok(vistos > 300);
   });
 });

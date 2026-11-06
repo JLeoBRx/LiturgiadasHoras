@@ -7,7 +7,7 @@
 | Etapa | Estado | Data |
 |---|---|---|
 | Finalização textual das 40 homilias | concluída | 06/11/2026 |
-| Distribuição litúrgica | em andamento | 06/11/2026 |
+| Distribuição litúrgica | entregue; aguardando avaliação do responsável | 06/11/2026 |
 
 ## Método
 
@@ -4801,6 +4801,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **Decisão editorial (06/11/2026):** G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.
 - **Decisão editorial (06/11/2026):** Etapa 1 aprovada. C1: preenchimento da lacuna da Homilia XL aprovado. C2: frase da Homilia XXVI mantida com nota editorial. C3: PDFs protegidos permanecem por ora; o responsável fará a exclusão. C4: Migne como referência, com a leitura da CCSL adotada quando houver justificativa filológica consistente e o sentido o exigir (aplicado em G01-07 e G16-05; demais variantes avaliadas e mantidas). C5: G05-08 mantida; G20-14 mantida por enquanto, com a dúvida registrada; G21-06 'incessante'. C6: aplicar G08-04, G08-05, G11-02, G12-06, G23-04, G30-06; manter G07-04, G19-04, G29-09, G30-04. C7: tradução própria piloto aprovada como experiência metodológica, separada da recebida.
 - **Decisão editorial (06/11/2026):** Extensão da leitura corrigida no título das Homilias I (Lc 21,25-33), II (Lc 18,31-43), XXXVIII (Mt 22,1-14) e XXXIX (Lc 19,41-47), conforme o próprio texto da leitura e a CCSL 141. A Homilia IV fica com Mt 10,5-10: a leitura de Migne vai até o v. 10 (a CCSL corta no v. 8), e a tradução segue Migne. A perícope da Homilia XVIII (Jo 8,46-59) foi corrigida no catálogo.
+- **Decisão editorial (06/11/2026):** Distribuição das 40 homilias registrada em distribuicao.json e aplicada ao índice do site por ferramentas/homilias/aplicar_distribuicao.mjs: 37 homilias no calendário (11 com correspondência litúrgica; 84 correspondências bíblicas plenas) e 3 só no catálogo geral (IV, XXXI, XXXII), sem data litúrgica. As 9 homilias já publicadas mantêm todas as correspondências anteriores; foram acrescentadas São Tomé e Pentecostes (XXVI), São Marcos e Conversão de São Paulo (XXIX), 6º domingo da Páscoa (Ano C) e terça-feira da 5ª semana da Páscoa (XXX). Duas dúvidas ficam para decisão do responsável (IX: São Silvestre; XXVIII: São Nereu e Santo Aquiles); por ora, nenhuma das duas correspondências é usada.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
 - **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).
@@ -4823,40 +4824,12 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 - **São João Maria Vianney** — os 4 tomos são a coleção tradicional dos sermões escritos pelo Cura d’Ars. A dependência destes textos de coletâneas de sermões de outros autores, e a extensão dos retoques dos editores, precisam ser investigadas antes de apresentá-los como palavras do santo. Os “sermões inéditos” do tomo 4 exigem identificação da fonte. Esta auditoria não afirma nem nega a autoria: registra que o material enviado não permite verificá-la.
 - **Santo Antônio de Pádua** — a autoria dos *Sermones dominicales et festivi* é sólida (edição crítica de 1979), mas os textos não foram conferidos com o latim porque ele não foi enviado.
 
-## 7. Homilias examinadas e não inseridas
+## 7. Homilias examinadas e não inseridas na Liturgia Diária
 
 | Santo | Texto | Motivo |
 |---|---|---|
-| São Gregório Magno | Homilia I (Lc 21,25-33) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia II (Lc 18,31-43) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia III (Mt 12,46-50) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia IV (Mt 10,5-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia VI (Mt 11,2-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia IX (Mt 25,14-30) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XI (Mt 13,44-52) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XII (Mt 25,1-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XIII (Lc 12,35-40) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XIV (Jo 10,11-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XV (Lc 8,4-15) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XVII (Lc 10,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XVIII (Jo 8,46-59) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XIX (Mt 20,1-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XX (Lc 3,1-11) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXII (Jo 20,1-9) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXIII (Lc 24,13-35) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXIV (Jo 21,1-14) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXV (Jo 20,11-18) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXVII (Jo 15,12-16) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXVIII (Jo 4,46-53) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXIII (Lc 7,36-50) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXIV (Lc 15,1-10) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXV (Lc 21,9-19) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXVI (Lc 14,16-24) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXVII (Lc 14,25-33) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXVIII (Mt 22,1-14) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XXXIX (Lc 19,41-47) | colacionada (estado: finalizada); a distribuição no calendário é a Etapa 2, não iniciada |
-| São Gregório Magno | Homilia XL (Lc 16,19-31) | colacionada (estado: finalizada com ressalvas); a distribuição no calendário é a Etapa 2, não iniciada |
+| São Gregório Magno | Homilia IV (Mt 10,5-10) | publicada só no catálogo geral, sem data litúrgica: Nenhum dia do lecionário atual lê Mt 10,5-10 de modo a cobrir a passagem comentada: as leituras mais próximas (São Barnabé; 14ª semana do Tempo Comum) têm só 3 ou 4 versículos em comum com ela. |
+| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | publicada só no catálogo geral, sem data litúrgica: A passagem comentada (Lc 13,6-13) junta a parábola da figueira estéril e a cura da mulher curvada; o lecionário atual lê as duas em dias diferentes, e nenhum deles cobre a maior parte do que a homilia comenta. |
+| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | publicada só no catálogo geral, sem data litúrgica: Os santos do dia em que foi pregada não estão no calendário atual, e a única leitura de Lucas que coincide com a passagem (quinta-feira depois das Cinzas, Lc 9,22-25) fica abaixo do critério de correspondência plena. |
 | São João Maria Vianney | todos os sermões | sem tradução portuguesa; edição de origem e autoria a investigar |
 | Santo Antônio de Pádua | todos os sermões | direitos da tradução portuguesa (Vozes, 2019); sem texto latino para conferência |

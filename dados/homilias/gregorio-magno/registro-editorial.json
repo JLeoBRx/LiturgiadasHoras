@@ -69,6 +69,12 @@
    "origem": "Etapa 2 (distribuição litúrgica), conferência das perícopes",
    "decisao": "Extensão da leitura corrigida no título das Homilias I (Lc 21,25-33), II (Lc 18,31-43), XXXVIII (Mt 22,1-14) e XXXIX (Lc 19,41-47), conforme o próprio texto da leitura e a CCSL 141. A Homilia IV fica com Mt 10,5-10: a leitura de Migne vai até o v. 10 (a CCSL corta no v. 8), e a tradução segue Migne. A perícope da Homilia XVIII (Jo 8,46-59) foi corrigida no catálogo.",
    "alteracoes": "Valores anteriores: {\"G01-06\": {\"depois\": \"Leitura do Evangelho segundo Lucas 21,25-32.\", \"justificativa_linguistica\": \"Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.\"}, \"G02-06\": {\"depois\": \"Leitura do santo Evangelho segundo Lucas 18,31-44.\", \"justificativa_linguistica\": \"Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.\"}, \"G38-25\": {\"depois\": \"Leitura do santo Evangelho segundo Mateus 22,1-13.\", \"justificativa_linguistica\": \"Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.\"}, \"G39-08\": {\"depois\": \"Leitura do santo Evangelho segundo Lucas 19,42-47.\", \"justificativa_linguistica\": \"Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.\"}}"
+  },
+  {
+   "data": "2026-11-06",
+   "origem": "Etapa 2 (distribuição litúrgica)",
+   "decisao": "Distribuição das 40 homilias registrada em distribuicao.json e aplicada ao índice do site por ferramentas/homilias/aplicar_distribuicao.mjs: 37 homilias no calendário (11 com correspondência litúrgica; 84 correspondências bíblicas plenas) e 3 só no catálogo geral (IV, XXXI, XXXII), sem data litúrgica. As 9 homilias já publicadas mantêm todas as correspondências anteriores; foram acrescentadas São Tomé e Pentecostes (XXVI), São Marcos e Conversão de São Paulo (XXIX), 6º domingo da Páscoa (Ano C) e terça-feira da 5ª semana da Páscoa (XXX). Duas dúvidas ficam para decisão do responsável (IX: São Silvestre; XXVIII: São Nereu e Santo Aquiles); por ora, nenhuma das duas correspondências é usada.",
+   "alteracoes": "Homilia VII, correspondência com o 3º domingo do Advento (Ano B): a descrição terminava com 'A homilia foi pregada num domingo do Advento.', afirmação que só se apoia no título de Migne; passou a dizer 'O título da homilia em Migne a situa no 4º domingo do Advento; a edição crítica indica só o lugar (basílica de São Pedro).' Campos acrescentados às entradas do índice: situacao, motivo_catalogo (homilias do catálogo) e dia (nome legível) em cada correspondência. A versão anterior do índice continua no histórico do Git (commit 60982e1)."
   }
  ],
  "registros": [
@@ -7016,8 +7022,10 @@
   },
   "etapa_2": {
    "nome": "Distribuição litúrgica",
-   "estado": "em andamento",
-   "autorizada_em": "2026-11-06"
+   "estado": "entregue; aguardando avaliação do responsável",
+   "autorizada_em": "2026-11-06",
+   "entregue_em": "2026-11-06",
+   "resultado": "40 homilias examinadas com as suas leituras e distribuídas segundo critérios explícitos (gregorio-magno/distribuicao.json; relatório em DISTRIBUICAO.md): 37 no calendário da Liturgia Diária, 3 só no catálogo geral (IV, XXXI, XXXII). Duas dúvidas para decisão (IX, XXVIII)."
   }
  }
 }

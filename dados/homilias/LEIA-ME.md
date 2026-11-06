@@ -1,9 +1,11 @@
 # Homilias dos santos
 
 Esta pasta guarda as homilias que aparecem na **Liturgia Diária** (botão
-“Homilia”) e o material ainda não publicado. Uma homilia só aparece num dia
-quando existe uma correspondência **litúrgica** ou **bíblica** conferida;
-correspondências apenas temáticas ficam no inventário e não aparecem no site.
+“Homilia”) e no **catálogo geral** do site (`#/homilias`), e o material ainda
+não publicado. Uma homilia só aparece num dia quando existe uma
+correspondência **litúrgica** ou **bíblica** conferida; correspondências apenas
+temáticas ficam documentadas e não aparecem no site. Uma homilia publicada sem
+correspondência suficiente fica só no catálogo geral, sem data litúrgica.
 
 - [`AUDITORIA.md`](AUDITORIA.md): cada alteração na tradução, as sugestões não
   aplicadas, as dúvidas, as variantes do latim, os problemas da fonte e a
@@ -11,10 +13,14 @@ correspondências apenas temáticas ficam no inventário e não aparecem no site
 - [`INVENTARIO.md`](INVENTARIO.md): todas as homilias e sermões recebidos, com
   a situação de cada um (publicado, a conferir, sem correspondência, sem
   tradução…).
+- [`DISTRIBUICAO.md`](DISTRIBUICAO.md): a distribuição das 40 homilias de São
+  Gregório no calendário (Etapa 2): critérios, tabela das 40, datas em três
+  anos litúrgicos, correspondências usadas e recusadas, dúvidas.
 
-Os dois documentos e o `inventario.json` são **gerados**. Não os edite à mão:
-rode `node ferramentas/homilias/gerar_documentos.mjs`. Os testes falham se eles
-estiverem desatualizados.
+Esses documentos e o `inventario.json` são **gerados**. Não os edite à mão:
+rode `node ferramentas/homilias/gerar_documentos.mjs` (auditoria e inventário)
+e `node ferramentas/homilias/aplicar_distribuicao.mjs` (índice e distribuição).
+Os testes falham se eles estiverem desatualizados.
 
 ## Procedência da tradução de São Gregório Magno
 
@@ -54,7 +60,8 @@ revisada; ver o LEIA-ME dessa pasta. Nada dessa camada é publicado no site.
 | Decisões editoriais | `gregorio-magno/registro-editorial.json` | à mão: cada correção, sugestão, dúvida, variante ou problema, com latim, justificativa e confiança |
 | Tradução revisada (= texto publicado) | `gregorio-magno/revisada/homilia-NN.txt` | `ferramentas/homilias/aplicar_alteracoes.py`, recebida + correções com estado `aplicada` |
 | Tradução própria (não publicada) | `gregorio-magno/traducao-propria/` | à mão, do latim; piloto da Homilia XXIII, notas e glossário |
-| O que o site mostra | `indice.json` | à mão: metadados, fonte e correspondências |
+| Distribuição no calendário | `gregorio-magno/distribuicao.json` | à mão: para cada homilia, as correspondências usadas e recusadas, com fundamento e justificativa |
+| O que o site mostra | `indice.json` | as entradas de São Gregório são geradas por `ferramentas/homilias/aplicar_distribuicao.mjs` a partir de `distribuicao.json`; as obras e os autores, à mão |
 
 Os testes conferem que:
 
@@ -115,29 +122,40 @@ Mude o estado da entrada para `"nao-aplicada"` e rode os dois scripts de novo.
 A camada recebida não muda. Para voltar ao texto recebido inteiro, apague o
 arquivo da revisada e retire a homilia de `colacao` e de `indice.json`.
 
-## Publicar outra homilia
+## Mudar os dias de uma homilia de São Gregório
 
-1. Faça a colação completa com o latim (passo anterior) e acrescente a homilia
-   em `colacao` no registro, com as páginas da CCSL e do PDF.
-2. Rode `aplicar_alteracoes.py` para gerar a revisada.
-3. Em `indice.json`, acrescente a homilia com `"estado": "publicada"` e as
-   correspondências:
-   - `{"tipo": "liturgica", "celebracao": "<id da celebração>"}` ou
-     `{"tipo": "liturgica", "chaves": ["QUA-1-domingo-A", …]}`, quando a
-     homilia foi pregada para aquela celebração (rubrica ou o próprio texto o
-     dizem);
-   - `{"tipo": "biblica", "leituras": "<chave do dia em liturgia-diaria/indice.json>",
-     "referencia_do_dia": "…", "versiculos_comentados": "…"}`, quando ela
-     comenta a leitura daquele dia. Os testes conferem a referência com o
-     arquivo de leituras e exigem que os versículos comentados estejam
-     contidos nas duas passagens.
-4. Acrescente em `ferramentas/testes/homilias.test.mjs` os dias esperados
-   (o teste exige que cada homilia apareça exatamente nesses dias, de 2025 a
-   2045, e em nenhum outro).
-5. Rode `gerar_documentos.mjs` e os testes.
+As 40 homilias estão publicadas (Etapa 2). Os dias em que cada uma aparece
+vêm de `gregorio-magno/distribuicao.json`:
 
-Na dúvida, não publique. Uma homilia ausente é preferível a uma associação
-incorreta.
+- `liturgicas`: a homilia foi pregada para a celebração, que existe no
+  calendário atual (`celebracao` = id do santoral, ou `chaves` de um dia do
+  tempo). Exige a ocasião na rubrica da edição crítica ou no próprio texto,
+  e um `fundamento`.
+- `biblicas`: `{"leituras": "<chave de liturgia-diaria/indice.json>"}`. O
+  script lê o Evangelho do arquivo de leituras, calcula os versículos em
+  comum e **recusa** (sem gravar nada) uma correspondência que não seja plena
+  pelos critérios do próprio arquivo (`criterios.biblica_plena`).
+- `nao_usadas` e `duvidas`: o que foi examinado e recusado, ou espera decisão.
+- `situacao`: `calendario` ou `catalogo` (com `motivo_catalogo`).
+
+Depois de editar:
+
+```bash
+node ferramentas/homilias/aplicar_distribuicao.mjs
+```
+
+```bash
+node ferramentas/homilias/gerar_documentos.mjs
+```
+
+Acerte também a lista `ESPERADO` em `ferramentas/testes/homilias.test.mjs`
+(escrita à parte, de propósito: o teste calcula os dias só com o calendário e
+exige que cada homilia apareça exatamente neles, de 2025 a 2045) e rode os
+testes. Para esconder uma homilia sem apagar nada, acrescente
+`"estado": "suspensa"` à entrada dela em `distribuicao.json` e rode o script.
+
+Na dúvida, não publique a correspondência. Uma homilia ausente de um dia é
+preferível a uma associação incorreta.
 
 ## Outros autores
 

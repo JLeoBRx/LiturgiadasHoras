@@ -1,8 +1,10 @@
 {
   "_leia": [
-    "Homilias dos santos mostradas na Liturgia Diária. Só entram aqui textos conferidos e com correspondência verificada; o restante fica em inventario.json.",
+    "Homilias dos santos no site. As entradas de São Gregório Magno são GERADAS por ferramentas/homilias/aplicar_distribuicao.mjs a partir de dados/homilias/gregorio-magno/distribuicao.json (decisões e justificativas); não as edite aqui.",
     "estado: 'publicada' aparece no site; qualquer outro valor (ex.: 'suspensa') esconde a homilia sem apagar nada.",
-    "correspondencias: 'liturgica' (pregada para esta celebração: 'celebracao' = id da celebração do dia, ou 'chaves' = chaves de leituras do dia do tempo) e 'biblica' (comenta a leitura proclamada: 'leituras' = chave de dados/liturgia-diaria/indice.json, 'leitura' = seção, 'referencia_do_dia' = referência exatamente como no arquivo de leituras, 'versiculos_comentados' = trecho comentado pela homilia que também é lido no dia). Correspondência só temática NUNCA entra aqui.",
+    "ocasiao_nota: quando o lugar ou o dia da pregação (que a página mostra a partir do título da tradução, que segue Migne) não constam da edição crítica.",
+    "situacao: 'calendario' (aparece na Liturgia Diária nos dias das suas correspondências) ou 'catalogo' (só no catálogo geral, #/homilias, sem data litúrgica; motivo_catalogo diz por quê).",
+    "correspondencias: 'liturgica' (pregada para esta celebração: 'celebracao' = id da celebração do dia, ou 'chaves' = chaves de leituras do dia do tempo) e 'biblica' (comenta a leitura proclamada: 'leituras' = chave de dados/liturgia-diaria/indice.json, 'leitura' = seção, 'referencia_do_dia' = referência exatamente como no arquivo de leituras, 'versiculos_comentados' = trecho comentado pela homilia que também é lido no dia). 'dia' = nome legível do dia ou da celebração. Correspondência só temática NUNCA entra aqui.",
     "arquivo: camada revisada (texto publicado), gerada a partir da tradução recebida e do registro editorial. Ver dados/homilias/LEIA-ME.md.",
     "Os testes (ferramentas/testes/homilias.test.mjs) conferem a integridade dos textos, as referências bíblicas e os dias em que cada homilia aparece.",
     "notas_editoriais: observações do editor sobre o texto (ex.: frase presente só em Migne), mostradas na página da homilia; o texto em si não muda."
@@ -36,6 +38,122 @@
   },
   "homilias": [
     {
+      "id": "gregorio-hom-01",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 1,
+      "livro": "I",
+      "titulo": "Homilia I",
+      "pericope": "Lc 21,25-33",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 5–11",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-01",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-34-sexta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 21,29-33",
+          "versiculos_comentados": "Lc 21,29-33",
+          "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 21,25-33, passagem que inclui todo o Evangelho deste dia (Lc 21,29-33). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-34-sexta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 21,29-33",
+          "versiculos_comentados": "Lc 21,29-33",
+          "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 21,25-33, passagem que inclui todo o Evangelho deste dia (Lc 21,29-33). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-02",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 2,
+      "livro": "I",
+      "titulo": "Homilia II",
+      "pericope": "Lc 18,31-43",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 12–19",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-02",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-segunda-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 18,35-43",
+          "versiculos_comentados": "Lc 18,35-43",
+          "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 18,31-43, passagem que inclui todo o Evangelho deste dia (Lc 18,35-43). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-segunda-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 18,35-43",
+          "versiculos_comentados": "Lc 18,35-43",
+          "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 18,31-43, passagem que inclui todo o Evangelho deste dia (Lc 18,35-43). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-03",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 3,
+      "livro": "I",
+      "titulo": "Homilia III",
+      "pericope": "Mt 12,46-50",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Felicitatis die natalis eius.",
+      "ccsl": "CCSL 141, p. 20–25",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-03",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-16-terca-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 12,46-50",
+          "versiculos_comentados": "Mt 12,46-50",
+          "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Mt 12,46-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-16-terca-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 12,46-50",
+          "versiculos_comentados": "Mt 12,46-50",
+          "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Mt 12,46-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-04",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 4,
+      "livro": "I",
+      "titulo": "Homilia IV",
+      "pericope": "Mt 10,5-10",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Stephani.",
+      "ccsl": "CCSL 141, p. 26–32",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-04",
+      "estado": "publicada",
+      "situacao": "catalogo",
+      "motivo_catalogo": "Nenhum dia do lecionário atual lê Mt 10,5-10 de modo a cobrir a passagem comentada: as leituras mais próximas (São Barnabé; 14ª semana do Tempo Comum) têm só 3 ou 4 versículos em comum com ela.",
+      "correspondencias": []
+    },
+    {
       "id": "gregorio-hom-05",
       "obra": "gregorio-homiliae-in-evangelia",
       "numero": 5,
@@ -46,10 +164,12 @@
       "ccsl": "CCSL 141, p. 33–37",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-05",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "santoandre",
+          "dia": "Santo André, Apóstolo (30/11)",
           "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia)."
         },
         {
@@ -58,6 +178,7 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mt 4,18-22",
           "versiculos_comentados": "Mt 4,18-22",
+          "dia": "Santo André, Apóstolo (30/11)",
           "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22."
         },
         {
@@ -66,7 +187,33 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mt 4,12-23",
           "versiculos_comentados": "Mt 4,18-22",
+          "dia": "3º Domingo do Tempo Comum, Ano A",
           "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23)."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-06",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 6,
+      "livro": "I",
+      "titulo": "Homilia VI",
+      "pericope": "Mt 11,2-10",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Marcellini et Petri.",
+      "ccsl": "CCSL 141, p. 38–44",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-06",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "ADV-3-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 11,2-11",
+          "versiculos_comentados": "Mt 11,2-10",
+          "dia": "3º Domingo do Advento, Ano A",
+          "descricao": "Comenta Mt 11,2-10, parte do Evangelho deste dia (Mt 11,2-11). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -80,7 +227,9 @@
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
       "ccsl": "CCSL 141, p. 45–52",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-07",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "biblica",
@@ -88,7 +237,8 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Jo 1,6-8.19-28",
           "versiculos_comentados": "Jo 1,19-28",
-          "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). A homilia foi pregada num domingo do Advento."
+          "dia": "3º Domingo do Advento, Ano B",
+          "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). O título da homilia em Migne a situa no 4º domingo do Advento; a edição crítica indica só o lugar (basílica de São Pedro)."
         },
         {
           "tipo": "biblica",
@@ -96,6 +246,7 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Jo 1,19-28",
           "versiculos_comentados": "Jo 1,19-28",
+          "dia": "2 de janeiro (tempo do Natal)",
           "descricao": "Comenta o Evangelho de hoje: Jo 1,19-28."
         }
       ]
@@ -111,10 +262,12 @@
       "ccsl": "CCSL 141, p. 53–56",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-08",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "natal",
+          "dia": "Natal do Senhor",
           "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia."
         },
         {
@@ -123,7 +276,50 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Lc 2,1-14",
           "versiculos_comentados": "Lc 2,1-14",
+          "dia": "Natal — Missa da noite",
           "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-09",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 9,
+      "livro": "I",
+      "titulo": "Homilia IX",
+      "pericope": "Mt 25,14-30",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Siluestri die natalis eius.",
+      "ccsl": "CCSL 141, p. 57–64",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-09",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-21-sabado-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,14-30",
+          "versiculos_comentados": "Mt 25,14-30",
+          "dia": "Sábado da 21ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-21-sabado-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,14-30",
+          "versiculos_comentados": "Mt 25,14-30",
+          "dia": "Sábado da 21ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,14-30",
+          "versiculos_comentados": "Mt 25,14-30",
+          "dia": "33º Domingo do Tempo Comum, Ano A",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -138,10 +334,12 @@
       "ccsl": "CCSL 141, p. 65–72",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-10",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "epifania",
+          "dia": "Epifania do Senhor",
           "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia)."
         },
         {
@@ -150,7 +348,205 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mt 2,1-12",
           "versiculos_comentados": "Mt 2,1-12",
+          "dia": "Epifania do Senhor",
           "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-11",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 11,
+      "livro": "I",
+      "titulo": "Homilia XI",
+      "pericope": "Mt 13,44-52",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Agnae die natalis eius.",
+      "ccsl": "CCSL 141, p. 73–79",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-11",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "santaines",
+          "dia": "Santa Inês, Virgem e Mártir (21/01)",
+          "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia); o próprio texto diz: “esta santa, cujo natalício hoje celebramos” (§ 3)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-17-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 13,44-52",
+          "versiculos_comentados": "Mt 13,44-52",
+          "dia": "17º Domingo do Tempo Comum, Ano A",
+          "descricao": "Comenta o Evangelho deste dia: Mt 13,44-52. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-12",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 12,
+      "livro": "I",
+      "titulo": "Homilia XII",
+      "pericope": "Mt 25,1-13",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Agnae die natalis eius.",
+      "ccsl": "CCSL 141, p. 80–88",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-12",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "santaines",
+          "dia": "Santa Inês, Virgem e Mártir (21/01)",
+          "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear a santa."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-21-sexta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,1-13",
+          "versiculos_comentados": "Mt 25,1-13",
+          "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-21-sexta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,1-13",
+          "versiculos_comentados": "Mt 25,1-13",
+          "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-32-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 25,1-13",
+          "versiculos_comentados": "Mt 25,1-13",
+          "dia": "32º Domingo do Tempo Comum, Ano A",
+          "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-13",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 13,
+      "livro": "I",
+      "titulo": "Homilia XIII",
+      "pericope": "Lc 12,35-40",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Felicis confessoris die natalis eius.",
+      "ccsl": "CCSL 141, p. 89–95",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-13",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "santo:fieisdefuntos",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 12,35-40",
+          "versiculos_comentados": "Lc 12,35-40",
+          "dia": "Comemoração de Todos os Fiéis Defuntos (02/11)",
+          "descricao": "Comenta Lc 12,35-40, um dos Evangelhos propostos para esta comemoração (o primeiro no lecionário do site): a vigilância de quem espera o Senhor, que a homilia aplica à hora da morte. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-29-terca-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 12,35-38",
+          "versiculos_comentados": "Lc 12,35-38",
+          "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 12,35-40, passagem que inclui todo o Evangelho deste dia (Lc 12,35-38). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-29-terca-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 12,35-38",
+          "versiculos_comentados": "Lc 12,35-38",
+          "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 12,35-40, passagem que inclui todo o Evangelho deste dia (Lc 12,35-38). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-19-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 12,32-48",
+          "versiculos_comentados": "Lc 12,35-40",
+          "dia": "19º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta Lc 12,35-40, parte do Evangelho deste dia (Lc 12,32-48). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-14",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 14,
+      "livro": "I",
+      "titulo": "Homilia XIV",
+      "pericope": "Jo 10,11-16",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 96–102",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-14",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-4-domingo-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 10,11-18",
+          "versiculos_comentados": "Jo 10,11-16",
+          "dia": "4º Domingo da Páscoa, Ano B",
+          "descricao": "Comenta Jo 10,11-16, parte do Evangelho deste dia (Jo 10,11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-4-segunda",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 10,11-18",
+          "versiculos_comentados": "Jo 10,11-16",
+          "dia": "Segunda-feira da 4ª semana da Páscoa",
+          "descricao": "Comenta Jo 10,11-16, parte do Evangelho deste dia (Jo 10,11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-15",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 15,
+      "livro": "I",
+      "titulo": "Homilia XV",
+      "pericope": "Lc 8,4-15",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Pauli apostoli.",
+      "ccsl": "CCSL 141, p. 103–108",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-15",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-24-sabado-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 8,4-15",
+          "versiculos_comentados": "Lc 8,4-15",
+          "dia": "Sábado da 24ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Lc 8,4-15. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-24-sabado-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 8,4-15",
+          "versiculos_comentados": "Lc 8,4-15",
+          "dia": "Sábado da 24ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Lc 8,4-15. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -164,13 +560,16 @@
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
       "ccsl": "CCSL 141, p. 109–115",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-16",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "chaves": [
             "QUA-1-domingo-A"
           ],
+          "dia": "1º Domingo da Quaresma, Ano A",
           "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma."
         },
         {
@@ -178,6 +577,7 @@
           "chaves": [
             "QUA-1-domingo-B"
           ],
+          "dia": "1º Domingo da Quaresma, Ano B",
           "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11)."
         },
         {
@@ -185,6 +585,7 @@
           "chaves": [
             "QUA-1-domingo-C"
           ],
+          "dia": "1º Domingo da Quaresma, Ano C",
           "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11)."
         },
         {
@@ -193,7 +594,161 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mt 4,1-11",
           "versiculos_comentados": "Mt 4,1-11",
+          "dia": "1º Domingo da Quaresma, Ano A",
           "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-17",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 17,
+      "livro": "I",
+      "titulo": "Homilia XVII",
+      "pericope": "Lc 10,1-9",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad episcopos in fontes lateranenses.",
+      "ccsl": "CCSL 141, p. 116–134",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-17",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "santo:saolucas",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 10,1-9",
+          "versiculos_comentados": "Lc 10,1-9",
+          "dia": "São Lucas, Evangelista (18/10)",
+          "descricao": "Comenta o Evangelho deste dia: Lc 10,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:saotimoteoetito",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 10,1-9",
+          "versiculos_comentados": "Lc 10,1-9",
+          "dia": "Santos Timóteo e Tito, Bispos (26/01)",
+          "descricao": "Comenta o Evangelho deste dia: Lc 10,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-26-quinta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 10,1-12",
+          "versiculos_comentados": "Lc 10,1-9",
+          "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-26-quinta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 10,1-12",
+          "versiculos_comentados": "Lc 10,1-9",
+          "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-14-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 10,1-12.17-20",
+          "versiculos_comentados": "Lc 10,1-9",
+          "dia": "14º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12.17-20). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-18",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 18,
+      "livro": "I",
+      "titulo": "Homilia XVIII",
+      "pericope": "Jo 8,46-59",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 135–141",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-18",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "QUA-5-quinta",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 8,51-59",
+          "versiculos_comentados": "Jo 8,51-59",
+          "dia": "Quinta-feira da 5ª semana da Quaresma",
+          "descricao": "Comenta Jo 8,46-59, passagem que inclui todo o Evangelho deste dia (Jo 8,51-59). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-19",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 19,
+      "livro": "I",
+      "titulo": "Homilia XIX",
+      "pericope": "Mt 20,1-16",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica.",
+      "ccsl": "CCSL 141, p. 142–152",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-19",
+      "ocasiao_nota": "O lugar e o dia indicados no título constam só da edição de Migne; a edição crítica (CCSL 141) não os especifica.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-20-quarta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 20,1-16a",
+          "versiculos_comentados": "Mt 20,1-16",
+          "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-20-quarta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 20,1-16a",
+          "versiculos_comentados": "Mt 20,1-16",
+          "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-25-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 20,1-16a",
+          "versiculos_comentados": "Mt 20,1-16",
+          "dia": "25º Domingo do Tempo Comum, Ano A",
+          "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-20",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 20,
+      "livro": "I",
+      "titulo": "Homilia XX",
+      "pericope": "Lc 3,1-11",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum.",
+      "ccsl": "CCSL 141, p. 153–169",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-20",
+      "ocasiao_nota": "O lugar e o dia indicados no título constam só da edição de Migne; a edição crítica (CCSL 141) não os especifica.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "ADV-2-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 3,1-6",
+          "versiculos_comentados": "Lc 3,1-6",
+          "dia": "2º Domingo do Advento, Ano C",
+          "descricao": "Comenta Lc 3,1-11, passagem que inclui todo o Evangelho deste dia (Lc 3,1-6). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -208,10 +763,12 @@
       "ccsl": "CCSL 141, p. 173–179",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-21",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "pascoa",
+          "dia": "Domingo da Páscoa na Ressurreição do Senhor",
           "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia)."
         },
         {
@@ -220,7 +777,144 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mc 16,1-7",
           "versiculos_comentados": "Mc 16,1-7",
+          "dia": "Vigília Pascal, Ano B",
           "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-22",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 22,
+      "livro": "II",
+      "titulo": "Homilia XXII",
+      "pericope": "Jo 20,1-9",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "ccsl": "CCSL 141, p. 180–191",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-22",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "pascoa",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,1-9",
+          "versiculos_comentados": "Jo 20,1-9",
+          "dia": "Domingo da Páscoa — Missa do dia",
+          "descricao": "Comenta o Evangelho deste dia: Jo 20,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:joaoevangelista",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,2-8",
+          "versiculos_comentados": "Jo 20,2-8",
+          "dia": "São João, Apóstolo e Evangelista (27/12)",
+          "descricao": "Comenta Jo 20,1-9, passagem que inclui todo o Evangelho deste dia (Jo 20,2-8). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-23",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 23,
+      "livro": "II",
+      "titulo": "Homilia XXIII",
+      "pericope": "Lc 24,13-35",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "ccsl": "CCSL 141, p. 192–195",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-23",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-1-quarta",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 24,13-35",
+          "versiculos_comentados": "Lc 24,13-35",
+          "dia": "Quarta-feira da oitava da Páscoa",
+          "descricao": "Comenta o Evangelho deste dia: Lc 24,13-35. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-3-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 24,13-35",
+          "versiculos_comentados": "Lc 24,13-35",
+          "dia": "3º Domingo da Páscoa, Ano A",
+          "descricao": "Comenta o Evangelho deste dia: Lc 24,13-35. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-24",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 24,
+      "livro": "II",
+      "titulo": "Homilia XXIV",
+      "pericope": "Jo 21,1-14",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "ccsl": "CCSL 141, p. 196–203",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-24",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-1-sexta",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 21,1-14",
+          "versiculos_comentados": "Jo 21,1-14",
+          "dia": "Sexta-feira da oitava da Páscoa",
+          "descricao": "Comenta o Evangelho deste dia: Jo 21,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-3-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 21,1-19",
+          "versiculos_comentados": "Jo 21,1-14",
+          "dia": "3º Domingo da Páscoa, Ano C",
+          "descricao": "Comenta Jo 21,1-14, parte do Evangelho deste dia (Jo 21,1-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-25",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 25,
+      "livro": "II",
+      "titulo": "Homilia XXV",
+      "pericope": "Jo 20,11-18",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "ccsl": "CCSL 141, p. 204–216",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-25",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-1-terca",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,11-18",
+          "versiculos_comentados": "Jo 20,11-18",
+          "dia": "Terça-feira da oitava da Páscoa",
+          "descricao": "Comenta o Evangelho deste dia: Jo 20,11-18. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:stamariamadalena",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,1-2.11-18",
+          "versiculos_comentados": "Jo 20,11-18",
+          "dia": "Santa Maria Madalena (22/07)",
+          "descricao": "Comenta Jo 20,11-18, parte do Evangelho deste dia (Jo 20,1-2.11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -234,7 +928,16 @@
       "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
       "ccsl": "CCSL 141, p. 217–228",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-26",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
       "estado": "publicada",
+      "situacao": "calendario",
+      "notas_editoriais": [
+        {
+          "localizacao": "§ 2",
+          "registro": "G26-08",
+          "texto": "A frase «Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.» consta na edição de Migne (Patrologia Latina 76), base desta tradução, mas não aparece na edição crítica (CCSL 141) nem no seu aparato de manuscritos. Foi mantida por transparência quanto à tradição textual seguida."
+        }
+      ],
       "correspondencias": [
         {
           "tipo": "biblica",
@@ -242,6 +945,7 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Jo 20,19-31",
           "versiculos_comentados": "Jo 20,19-31",
+          "dia": "2º Domingo da Páscoa, Ano A",
           "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
         },
         {
@@ -250,6 +954,7 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Jo 20,19-31",
           "versiculos_comentados": "Jo 20,19-31",
+          "dia": "2º Domingo da Páscoa, Ano B",
           "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
         },
         {
@@ -258,14 +963,99 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Jo 20,19-31",
           "versiculos_comentados": "Jo 20,19-31",
+          "dia": "2º Domingo da Páscoa, Ano C",
           "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)."
-        }
-      ],
-      "notas_editoriais": [
+        },
         {
-          "localizacao": "§ 2",
-          "registro": "G26-08",
-          "texto": "A frase «Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.» consta na edição de Migne (Patrologia Latina 76), base desta tradução, mas não aparece na edição crítica (CCSL 141) nem no seu aparato de manuscritos. Foi mantida por transparência quanto à tradição textual seguida."
+          "tipo": "biblica",
+          "leituras": "santo:saotome",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,24-29",
+          "versiculos_comentados": "Jo 20,24-29",
+          "dia": "São Tomé, Apóstolo (03/07)",
+          "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho desta festa (Jo 20,24-29): a dúvida e a fé de Tomé, que a homilia comenta longamente. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "pentecostes",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 20,19-23",
+          "versiculos_comentados": "Jo 20,19-23",
+          "dia": "Pentecostes",
+          "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho da Missa do dia de Pentecostes (Jo 20,19-23): Jesus sopra sobre os discípulos e lhes dá o Espírito Santo. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-27",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 27,
+      "livro": "II",
+      "titulo": "Homilia XXVII",
+      "pericope": "Jo 15,12-16",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Pancratii die natalis eius.",
+      "ccsl": "CCSL 141, p. 229–238",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-27",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "saopancracio",
+          "dia": "São Pancrácio, Mártir (12/05)",
+          "descricao": "Pregada na basílica de São Pancrácio, no dia do seu natalício (rubrica da homilia); o próprio texto fala dos fiéis que vieram “à solenidade do mártir” (§ 7)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-5-sexta",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 15,12-17",
+          "versiculos_comentados": "Jo 15,12-16",
+          "dia": "Sexta-feira da 5ª semana da Páscoa",
+          "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,12-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-6-domingo-B",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 15,9-17",
+          "versiculos_comentados": "Jo 15,12-16",
+          "dia": "6º Domingo da Páscoa, Ano B",
+          "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,9-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:saomatias",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 15,9-17",
+          "versiculos_comentados": "Jo 15,12-16",
+          "dia": "São Matias, Apóstolo (14/05)",
+          "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,9-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-28",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 28,
+      "livro": "II",
+      "titulo": "Homilia XXVIII",
+      "pericope": "Jo 4,46-53",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in cimiterio sanctorum Nerei et Achillei.",
+      "ccsl": "CCSL 141, p. 239–243",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-28",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "QUA-4-segunda",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 4,43-54",
+          "versiculos_comentados": "Jo 4,46-53",
+          "dia": "Segunda-feira da 4ª semana da Quaresma",
+          "descricao": "Comenta Jo 4,46-53, parte do Evangelho deste dia (Jo 4,43-54). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -280,10 +1070,12 @@
       "ccsl": "CCSL 141, p. 244–254 (o texto crítico da leitura começa em Mc 16,15)",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-29",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "ascensaodosenhor",
+          "dia": "Ascensão do Senhor",
           "descricao": "Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia)."
         },
         {
@@ -292,7 +1084,26 @@
           "leitura": "Evangelho",
           "referencia_do_dia": "Mc 16,15-20",
           "versiculos_comentados": "Mc 16,15-20",
+          "dia": "Ascensão do Senhor, Ano B",
           "descricao": "Comenta o Evangelho da Ascensão no Ano B: Mc 16,15-20."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:saomarcos",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mc 16,15-20",
+          "versiculos_comentados": "Mc 16,15-20",
+          "dia": "São Marcos Evangelista (25/04)",
+          "descricao": "Comenta Mc 16,14-20, passagem que inclui todo o Evangelho deste dia (Mc 16,15-20). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "santo:conversaosaopaulo",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mc 16,15-18",
+          "versiculos_comentados": "Mc 16,15-18",
+          "dia": "Conversão de São Paulo, Apóstolo (25/01)",
+          "descricao": "Comenta Mc 16,14-20, passagem que inclui todo o Evangelho deste dia (Mc 16,15-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     },
@@ -307,11 +1118,390 @@
       "ccsl": "CCSL 141, p. 255–268",
       "arquivo": "homilias/gregorio-magno/revisada/homilia-30",
       "estado": "publicada",
+      "situacao": "calendario",
       "correspondencias": [
         {
           "tipo": "liturgica",
           "celebracao": "pentecostes",
+          "dia": "Domingo de Pentecostes",
           "descricao": "Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2)."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-6-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 14,23-29",
+          "versiculos_comentados": "Jo 14,23-29",
+          "dia": "6º Domingo da Páscoa, Ano C",
+          "descricao": "Comenta Jo 14,23-31, passagem que inclui todo o Evangelho deste dia (Jo 14,23-29). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "PAS-5-terca",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Jo 14,27-31a",
+          "versiculos_comentados": "Jo 14,27-31",
+          "dia": "Terça-feira da 5ª semana da Páscoa",
+          "descricao": "Comenta Jo 14,23-31, passagem que inclui todo o Evangelho deste dia (Jo 14,27-31a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-31",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 31,
+      "livro": "II",
+      "titulo": "Homilia XXXI",
+      "pericope": "Lc 13,6-13",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "ccsl": "CCSL 141, p. 269–276",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-31",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "catalogo",
+      "motivo_catalogo": "A passagem comentada (Lc 13,6-13) junta a parábola da figueira estéril e a cura da mulher curvada; o lecionário atual lê as duas em dias diferentes, e nenhum deles cobre a maior parte do que a homilia comenta.",
+      "correspondencias": []
+    },
+    {
+      "id": "gregorio-hom-32",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 32,
+      "livro": "II",
+      "titulo": "Homilia XXXII",
+      "pericope": "Lc 9,23-27",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Processi et Martiniani die natalis eorum.",
+      "ccsl": "CCSL 141, p. 277–286",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-32",
+      "estado": "publicada",
+      "situacao": "catalogo",
+      "motivo_catalogo": "Os santos do dia em que foi pregada não estão no calendário atual, e a única leitura de Lucas que coincide com a passagem (quinta-feira depois das Cinzas, Lc 9,22-25) fica abaixo do critério de correspondência plena.",
+      "correspondencias": []
+    },
+    {
+      "id": "gregorio-hom-33",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 33,
+      "livro": "II",
+      "titulo": "Homilia XXXIII",
+      "pericope": "Lc 7,36-50",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Clementis.",
+      "ccsl": "CCSL 141, p. 288–298",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-33",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-24-quinta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 7,36-50",
+          "versiculos_comentados": "Lc 7,36-50",
+          "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Lc 7,36-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-24-quinta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 7,36-50",
+          "versiculos_comentados": "Lc 7,36-50",
+          "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Lc 7,36-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-11-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 7,36-8,3",
+          "versiculos_comentados": "Lc 7,36-50",
+          "dia": "11º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta Lc 7,36-50, parte do Evangelho deste dia (Lc 7,36-8,3). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-34",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 34,
+      "livro": "II",
+      "titulo": "Homilia XXXIV",
+      "pericope": "Lc 15,1-10",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Iohannis et Pauli.",
+      "ccsl": "CCSL 141, p. 299–318",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-34",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-quinta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 15,1-10",
+          "versiculos_comentados": "Lc 15,1-10",
+          "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Lc 15,1-10. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-quinta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 15,1-10",
+          "versiculos_comentados": "Lc 15,1-10",
+          "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Lc 15,1-10. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-24-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 15,1-32",
+          "versiculos_comentados": "Lc 15,1-10",
+          "dia": "24º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta Lc 15,1-10, parte do Evangelho deste dia (Lc 15,1-32). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "scj-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 15,3-7",
+          "versiculos_comentados": "Lc 15,3-7",
+          "dia": "Sagrado Coração de Jesus, Ano C",
+          "descricao": "Comenta Lc 15,1-10, passagem que inclui todo o Evangelho deste dia (Lc 15,3-7). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-35",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 35,
+      "livro": "II",
+      "titulo": "Homilia XXXV",
+      "pericope": "Lc 21,9-19",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Mennae die natalis eius.",
+      "ccsl": "CCSL 141, p. 320–330",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-35",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 21,5-19",
+          "versiculos_comentados": "Lc 21,9-19",
+          "dia": "33º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta Lc 21,9-19, parte do Evangelho deste dia (Lc 21,5-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-34-quarta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 21,12-19",
+          "versiculos_comentados": "Lc 21,12-19",
+          "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 21,9-19, passagem que inclui todo o Evangelho deste dia (Lc 21,12-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-34-quarta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 21,12-19",
+          "versiculos_comentados": "Lc 21,12-19",
+          "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 21,9-19, passagem que inclui todo o Evangelho deste dia (Lc 21,12-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-36",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 36,
+      "livro": "II",
+      "titulo": "Homilia XXXVI",
+      "pericope": "Lc 14,16-24",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beatorum apostolorum Philippi et Iacobi.",
+      "ccsl": "CCSL 141, p. 331–345",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-36",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-terca-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 14,15-24",
+          "versiculos_comentados": "Lc 14,16-24",
+          "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 14,16-24, parte do Evangelho deste dia (Lc 14,15-24). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-terca-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 14,15-24",
+          "versiculos_comentados": "Lc 14,16-24",
+          "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 14,16-24, parte do Evangelho deste dia (Lc 14,15-24). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-37",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 37,
+      "livro": "II",
+      "titulo": "Homilia XXXVII",
+      "pericope": "Lc 14,25-33",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Sebastiani, die natalis eius.",
+      "ccsl": "CCSL 141, p. 347–358",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-37",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "liturgica",
+          "celebracao": "saosebastiao",
+          "dia": "São Sebastião, Mártir (20/01)",
+          "descricao": "Pregada na basílica de São Sebastião, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear o santo."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-23-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 14,25-33",
+          "versiculos_comentados": "Lc 14,25-33",
+          "dia": "23º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-quarta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 14,25-33",
+          "versiculos_comentados": "Lc 14,25-33",
+          "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-31-quarta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 14,25-33",
+          "versiculos_comentados": "Lc 14,25-33",
+          "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-38",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 38,
+      "livro": "II",
+      "titulo": "Homilia XXXVIII",
+      "pericope": "Mt 22,1-14",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Clementis.",
+      "ccsl": "CCSL 141, p. 359–379",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-38",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-20-quinta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 22,1-14",
+          "versiculos_comentados": "Mt 22,1-14",
+          "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-20-quinta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 22,1-14",
+          "versiculos_comentados": "Mt 22,1-14",
+          "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-28-domingo-A",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Mt 22,1-14",
+          "versiculos_comentados": "Mt 22,1-14",
+          "dia": "28º Domingo do Tempo Comum, Ano A",
+          "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-39",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 39,
+      "livro": "II",
+      "titulo": "Homilia XXXIX",
+      "pericope": "Lc 19,41-47",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
+      "ccsl": "CCSL 141, p. 379–392",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-39",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-quinta-I",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 19,41-44",
+          "versiculos_comentados": "Lc 19,41-44",
+          "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano I",
+          "descricao": "Comenta Lc 19,41-47, passagem que inclui todo o Evangelho deste dia (Lc 19,41-44). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-33-quinta-II",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 19,41-44",
+          "versiculos_comentados": "Lc 19,41-44",
+          "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano II",
+          "descricao": "Comenta Lc 19,41-47, passagem que inclui todo o Evangelho deste dia (Lc 19,41-44). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        }
+      ]
+    },
+    {
+      "id": "gregorio-hom-40",
+      "obra": "gregorio-homiliae-in-evangelia",
+      "numero": 40,
+      "livro": "II",
+      "titulo": "Homilia XL",
+      "pericope": "Lc 16,19-31",
+      "rubrica_latina": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "ccsl": "CCSL 141, p. 393–411",
+      "arquivo": "homilias/gregorio-magno/revisada/homilia-40",
+      "ocasiao_nota": "O dia indicado no título consta só da edição de Migne; a edição crítica (CCSL 141) indica apenas o lugar.",
+      "estado": "publicada",
+      "situacao": "calendario",
+      "correspondencias": [
+        {
+          "tipo": "biblica",
+          "leituras": "QUA-2-quinta",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 16,19-31",
+          "versiculos_comentados": "Lc 16,19-31",
+          "dia": "Quinta-feira da 2ª semana da Quaresma",
+          "descricao": "Comenta o Evangelho deste dia: Lc 16,19-31. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
+        },
+        {
+          "tipo": "biblica",
+          "leituras": "TC-26-domingo-C",
+          "leitura": "Evangelho",
+          "referencia_do_dia": "Lc 16,19-31",
+          "versiculos_comentados": "Lc 16,19-31",
+          "dia": "26º Domingo do Tempo Comum, Ano C",
+          "descricao": "Comenta o Evangelho deste dia: Lc 16,19-31. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho."
         }
       ]
     }

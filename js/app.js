@@ -6,6 +6,8 @@
  *   #/horas/AAAA-MM-DD/laudes?op=id    um ofício (op = memória escolhida)
  *   #/liturgia-diaria/AAAA-MM-DD       liturgia da Missa
  *   #/liturgia-diaria/AAAA-MM-DD/homilia/ID   homilia de um santo ligada ao dia
+ *   #/homilias                         catálogo geral das homilias
+ *   #/homilias/ID                      uma homilia, fora de um dia do calendário
  *   #/calendario/AAAA-MM?dia=...       calendário
  *   #/sobre                            créditos e como editar os textos
  */
@@ -268,6 +270,7 @@ async function telaLiturgiaDiaria(iso, op, alt) {
   const q = op ? '?op=' + encodeURIComponent(op) : '';
   const secaoHomilia = homilias.length ? `<section class="bloco-leitura bloco-homilia" id="homilia"><h3 class="secao">Homilia</h3>
     ${homilias.map(({ homilia: h, motivos }) => cartaoHomilia(h, motivos, `#/liturgia-diaria/${iso}/homilia/${encodeURIComponent(h.id)}${q}`)).join('')}
+    <p class="homilia-catalogo-link"><a href="#/homilias">Todas as homilias</a></p>
   </section>` : '';
   const anc = [...lt.ancoras];
   if (oracoes) anc.push({ id: 'oracoes', nome: 'Orações' });
@@ -313,27 +316,36 @@ let leitorVoz = null;
 function pararVoz() { try { window.speechSynthesis?.cancel(); } catch { /* sem voz */ } leitorVoz = null; }
 window.addEventListener('hashchange', pararVoz);
 
+/** Uma homilia: ligada a um dia (iso) ou aberta do catálogo geral (iso = null). */
 async function telaHomilia(iso, id, op) {
-  marcarNav('diaria');
   const h = HM.homilia(decodeURIComponent(id));
   const q = op ? '?op=' + encodeURIComponent(op) : '';
-  const voltar = `#/liturgia-diaria/${iso}${q}`;
+  const voltar = iso ? `#/liturgia-diaria/${iso}${q}` : '#/homilias';
   if (!h) { location.hash = voltar; return; }
-  const d = cal.dia(iso);
-  if (op === undefined) op = escolhaDoDia(iso);
-  const res = LD.resolver(d, op);
-  const cel = LH.celebracaoEscolhida(d, op);
-  definirCor(cel.cor || d.cor);
+  let doDia = null;
+  if (iso) {
+    marcarNav('diaria');
+    const d = cal.dia(iso);
+    if (op === undefined) op = escolhaDoDia(iso);
+    const res = LD.resolver(d, op);
+    const cel = LH.celebracaoEscolhida(d, op);
+    definirCor(cel.cor || d.cor);
+    doDia = HM.homiliasDoDia(res).find((x) => x.homilia.id === h.id);
+  } else {
+    marcarNav('');
+    definirCor('verde');
+  }
   carregando();
   const t = await HM.carregarTexto(h);
   const ob = HM.obra(h.obra) || {};
   const a = HM.autor(ob.autor) || {};
-  const doDia = HM.homiliasDoDia(res).find((x) => x.homilia.id === h.id);
+  const onde = HM.ondeAparece(h);
+  const ondeHTML = onde.length ? `<ul>${onde.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>` : `Sem data litúrgica: fica só no catálogo geral. ${esc(h.motivo_catalogo || '')}`;
   if (!t) { app.innerHTML = `<div class="pagina"><div class="lacuna" style="margin-top:30px">${ICONE_INFO}<span>O texto desta homilia não foi encontrado.</span></div></div>`; return; }
   const tr = ob.traducao || {};
   const temVoz = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
   app.innerHTML = `<div class="pagina leitura">
-    <a class="voltar" href="${voltar}">${svg('esq')} Liturgia Diária · ${esc(dataPorExtenso(iso))}</a>
+    <a class="voltar" href="${voltar}">${svg('esq')} ${iso ? `Liturgia Diária · ${esc(dataPorExtenso(iso))}` : 'Homilias dos santos'}</a>
     <header class="cab-oficio cab-homilia">
       <span class="rotulo-tempo" style="display:flex"><span class="ponto-cor"></span>Homilia dos santos</span>
       <h1>${esc(a.nome || '')}</h1>
@@ -341,8 +353,9 @@ async function telaHomilia(iso, id, op) {
     </header>
     <dl class="homilia-meta">
       <div><dt>Passagem comentada</dt><dd>${esc(h.pericope)}</dd></div>
-      <div><dt>Ocasião em que foi pregada</dt><dd>${esc(t.ocasiao || '—')}</dd></div>
-      ${doDia ? `<div><dt>Por que está neste dia</dt><dd><ul>${doDia.motivos.map((m) => { const x = HM.descreverMotivo(m); return `<li><strong>${esc(x.rotulo)}.</strong> ${esc(x.texto)}</li>`; }).join('')}</ul></dd></div>`
+      <div><dt>Ocasião em que foi pregada</dt><dd>${esc(t.ocasiao || '—')}${h.ocasiao_nota ? `<br><small>${esc(h.ocasiao_nota)}</small>` : ''}</dd></div>
+      ${!iso ? `<div><dt>Na Liturgia Diária</dt><dd>${ondeHTML}</dd></div>`
+        : doDia ? `<div><dt>Por que está neste dia</dt><dd><ul>${doDia.motivos.map((m) => { const x = HM.descreverMotivo(m); return `<li><strong>${esc(x.rotulo)}.</strong> ${esc(x.texto)}</li>`; }).join('')}</ul></dd></div>`
         : `<div><dt>Liturgia deste dia</dt><dd>Esta homilia não está associada à liturgia de ${esc(dataPorExtenso(iso))}.</dd></div>`}
     </dl>
     ${temVoz ? `<div class="controle-voz" role="group" aria-label="Ouvir a homilia">
@@ -369,9 +382,37 @@ async function telaHomilia(iso, id, op) {
       ${(h.notas_editoriais || []).map((n) => `<p><strong>Nota editorial${n.localizacao ? ` (${esc(n.localizacao)})` : ''}:</strong> ${esc(n.texto)}</p>`).join('')}
       <p class="homilia-arquivo">Arquivo do texto publicado: <code>dados/${esc(h.arquivo)}.txt</code></p>
     </section>
-    <div class="seguinte"><a href="${voltar}"><small>Voltar para</small><strong>Liturgia Diária</strong></a><a class="dir" href="#/calendario/${iso.slice(0, 7)}?dia=${iso}"><small>Ver no</small><strong>Calendário</strong></a></div>
+    <div class="seguinte">${iso ? `<a href="${voltar}"><small>Voltar para</small><strong>Liturgia Diária</strong></a>` : ''}<a${iso ? ' class="dir"' : ''} href="#/homilias"><small>Ver todas as</small><strong>Homilias</strong></a>${iso ? '' : '<a class="dir" href="#/liturgia-diaria"><small>Ir para a</small><strong>Liturgia Diária</strong></a>'}</div>
   </div>`;
   if (temVoz) ligarVoz([t.leituraTitulo, t.leitura, 'Homilia.', ...t.paragrafos].filter(Boolean));
+  window.scrollTo({ top: 0 });
+}
+
+/** Catálogo geral: todas as homilias publicadas, com ou sem data litúrgica. */
+function telaCatalogoHomilias() {
+  marcarNav('');
+  definirCor('verde');
+  const lista = HM.publicadas();
+  const porObra = new Map();
+  for (const h of lista) { if (!porObra.has(h.obra)) porObra.set(h.obra, []); porObra.get(h.obra).push(h); }
+  const semData = lista.filter((h) => !h.correspondencias?.length).length;
+  app.innerHTML = `<div class="pagina leitura catalogo-homilias">
+    <h1 class="titulo-pagina" style="margin-top:22px">Homilias dos santos</h1>
+    <p class="catalogo-intro">Todas as homilias publicadas no site. A maior parte aparece também na Liturgia Diária, nos dias em que se lê o Evangelho que comentam ou na celebração para a qual foram pregadas. ${semData ? `Destas, ${semData === 1 ? 'uma não tem' : `${semData} não têm`} correspondência suficiente com o calendário atual e ${semData === 1 ? 'fica' : 'ficam'} só aqui, sem data litúrgica.` : ''}</p>
+    ${[...porObra].map(([idObra, hs]) => {
+      const ob = HM.obra(idObra) || {};
+      const a = HM.autor(ob.autor) || {};
+      return `<section class="catalogo-obra">
+        <h2>${esc(a.nome || '')}</h2>
+        <p class="catalogo-obra-titulo">${esc(ob.titulo || '')}${ob.titulo_latino ? ` · <em>${esc(ob.titulo_latino)}</em>` : ''}</p>
+        <ul class="catalogo-lista">${hs.map((h) => {
+          const onde = HM.ondeAparece(h);
+          return `<li><a href="#/homilias/${encodeURIComponent(h.id)}"><strong>${esc(h.titulo)}</strong><span>${esc(h.pericope)}</span></a>
+            <p>${onde.length ? `Na Liturgia Diária: ${esc(onde.join('; '))}.` : 'Sem data litúrgica (só no catálogo).'}</p></li>`;
+        }).join('')}</ul>
+      </section>`;
+    }).join('')}
+  </div>`;
   window.scrollTo({ top: 0 });
 }
 
@@ -532,6 +573,10 @@ async function rotear() {
       const m = (p[1] || '').match(/^(\d{4})-(\d{2})$/);
       const ano = m ? +m[1] : +hoje.slice(0, 4), mes = m ? +m[2] : +hoje.slice(5, 7);
       return telaCalendario(ano, Math.min(12, Math.max(1, mes)), isoValido(qs.get('dia')) ? qs.get('dia') : null);
+    }
+    if (p[0] === 'homilias') {
+      if (p[1]) return await telaHomilia(null, p[1]);
+      return telaCatalogoHomilias();
     }
     if (p[0] === 'sobre') return telaSobre();
     location.hash = '#/';

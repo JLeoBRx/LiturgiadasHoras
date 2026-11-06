@@ -58,3 +58,25 @@ export function versiculos(ref) {
 
 export const intersecao = (a, b) => new Set([...a].filter((x) => b.has(x)));
 export const contido = (a, b) => [...a].every((x) => b.has(x));
+
+/**
+ * Conjunto de versículos (de um só livro) -> referência no formato do
+ * lecionário: { Lc 21:29 … Lc 21:33 } -> "Lc 21,29-33";
+ * { Lc 7:36 … Lc 8:3 } -> "Lc 7,36-50; 8,1-3". Inverso de versiculos().
+ */
+export function formatar(conjunto) {
+  const vs = [...conjunto].map((v) => v.match(/^(\S+) (\d+):(\d+)$/)).filter(Boolean)
+    .map((m) => ({ livro: m[1], cap: +m[2], v: +m[3] }))
+    .sort((a, b) => a.cap - b.cap || a.v - b.v);
+  if (!vs.length) return '';
+  const livros = new Set(vs.map((x) => x.livro));
+  if (livros.size > 1) throw new Error(`formatar: mais de um livro (${[...livros].join(', ')})`);
+  const caps = [];
+  for (const x of vs) {
+    let c = caps[caps.length - 1];
+    if (!c || c.cap !== x.cap) caps.push(c = { cap: x.cap, trechos: [] });
+    const t = c.trechos[c.trechos.length - 1];
+    if (t && x.v === t[1] + 1) t[1] = x.v; else c.trechos.push([x.v, x.v]);
+  }
+  return `${vs[0].livro} ${caps.map((c) => `${c.cap},${c.trechos.map(([a, b]) => (a === b ? `${a}` : `${a}-${b}`)).join('.')}`).join('; ')}`;
+}

@@ -1,7 +1,7 @@
 """Dá seção própria ao Evangelho nos arquivos de leituras em que a importação o
 deixou dentro da seção "Aclamação ao Evangelho".
 
-Defeito corrigido (31 arquivos de dados/liturgia-diaria/leituras, encontrados na
+Defeito corrigido (27 Evangelhos em 23 arquivos de dados/liturgia-diaria/leituras, encontrados na
 Etapa 2 das homilias): o Evangelho vinha logo depois da aclamação, sem
 "@secao Evangelho | referência", às vezes precedido de uma linha solta
 "EVANGELHO (mais longo)", "EVANGELHO (mais breve)" ou "EVANGELHO (apropriado)",
