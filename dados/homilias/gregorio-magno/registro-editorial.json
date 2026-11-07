@@ -75,6 +75,12 @@
    "origem": "Etapa 2 (distribuição litúrgica)",
    "decisao": "Distribuição das 40 homilias registrada em distribuicao.json e aplicada ao índice do site por ferramentas/homilias/aplicar_distribuicao.mjs: 37 homilias no calendário (11 com correspondência litúrgica; 84 correspondências bíblicas plenas) e 3 só no catálogo geral (IV, XXXI, XXXII), sem data litúrgica. As 9 homilias já publicadas mantêm todas as correspondências anteriores; foram acrescentadas São Tomé e Pentecostes (XXVI), São Marcos e Conversão de São Paulo (XXIX), 6º domingo da Páscoa (Ano C) e terça-feira da 5ª semana da Páscoa (XXX). Duas dúvidas ficam para decisão do responsável (IX: São Silvestre; XXVIII: São Nereu e Santo Aquiles); por ora, nenhuma das duas correspondências é usada.",
    "alteracoes": "Homilia VII, correspondência com o 3º domingo do Advento (Ano B): a descrição terminava com 'A homilia foi pregada num domingo do Advento.', afirmação que só se apoia no título de Migne; passou a dizer 'O título da homilia em Migne a situa no 4º domingo do Advento; a edição crítica indica só o lugar (basílica de São Pedro).' Campos acrescentados às entradas do índice: situacao, motivo_catalogo (homilias do catálogo) e dia (nome legível) em cada correspondência. A versão anterior do índice continua no histórico do Git (commit 60982e1)."
+  },
+  {
+   "data": "2026-11-07",
+   "origem": "Avaliação do relatório da Etapa 2 — decisões do responsável do projeto (D1–D4)",
+   "decisao": "Etapa 2 aprovada; as 31 homilias novas permanecem publicadas e IV, XXXI e XXXII ficam só no catálogo geral. D1 (Homilia IX): alternativa (a); São Silvestre não é oferecido em 31/12 (oitava do Natal), a homilia fica só com as correspondências bíblicas e o calendário geral não muda. D2 (Homilia XXVIII): alternativa (a); não é ligada a 12/5, porque o natalício de Nereu e Aquiles só consta de Migne. D3 (São Nicolau): corrigir o mapeamento das leituras sem usar referência estrangeira como oficial; sem indicação própria confirmada, usar as leituras da féria; não ligar a Homilia XVII por semelhança temática; documentar e testar. D4 (Pentecostes): corrigir a referência do Evangelho da Missa da vigília de '7,37-39' para 'Jo 7,37-39', sem alterar o texto.",
+   "alteracoes": "D3: retirada de dados/liturgia-diaria/indice.json a chave de leituras 'santo:saonicolau' (valor anterior: 'leituras/Is661014Gl61418Lc101121720', arquivo do 14º domingo do Tempo Comum, Ano C; método 'tabela-aberta', isto é, casado a partir do lecionário em inglês da Liturgical Calendar API, que indica Is 6,1-8 e Lc 10,1-9). As orações do Missal de São Nicolau continuam. O acervo não traz leituras de São Nicolau, e o Lecionário Santoral brasileiro não pôde ser consultado nesta sessão (os sites do Diretório da Liturgia da CNBB não estão acessíveis na rede do ambiente); por isso vale a regra decidida: sem indicação própria confirmada, leituras da féria (em 6/12, sempre um dia do Advento ou um domingo). O gerador do índice passou a excluir São Nicolau e a recusar leitura de santo, vinda da tabela estrangeira, que caia num arquivo de domingo ou dia do tempo. D4: cabeçalho '@secao Evangelho | 7,37-39' (duas vezes) passou a '@secao Evangelho | Jo 7,37-39' em leituras/At2111a1Cor123b71213Jo201923.txt (usado pelo site em Pentecostes) e, pela mesma razão, em At2111b… e At2111c… (Pentecostes, Anos B e C, no acervo e não usados pelo índice); a linha da proclamação confirma o livro ('segundo João {7,37-39}'). Nenhuma palavra das leituras mudou. Registradas, sem alteração, outras referências incompletas no mesmo arquivo de Pentecostes e na quinta-feira da 9ª semana do Tempo Comum, Ano I, e a ligação de Nossa Senhora de Guadalupe ao arquivo de 21/12 (ver distribuicao.json, lecionario)."
   }
  ],
  "registros": [
@@ -7022,10 +7028,12 @@
   },
   "etapa_2": {
    "nome": "Distribuição litúrgica",
-   "estado": "entregue; aguardando avaliação do responsável",
+   "estado": "concluída",
    "autorizada_em": "2026-11-06",
    "entregue_em": "2026-11-06",
-   "resultado": "40 homilias examinadas com as suas leituras e distribuídas segundo critérios explícitos (gregorio-magno/distribuicao.json; relatório em DISTRIBUICAO.md): 37 no calendário da Liturgia Diária, 3 só no catálogo geral (IV, XXXI, XXXII). Duas dúvidas para decisão (IX, XXVIII)."
+   "data_de_conclusao": "2026-11-07",
+   "aprovacao": "Aprovada pelo responsável do projeto em 07/11/2026, condicionada a quatro correções (D1–D4), aplicadas no mesmo dia (ver historico).",
+   "resultado": "40 homilias distribuídas segundo critérios explícitos (gregorio-magno/distribuicao.json; relatório em DISTRIBUICAO.md): 37 no calendário da Liturgia Diária (11 com correspondência litúrgica, 84 correspondências bíblicas plenas) e 3 só no catálogo geral (IV, XXXI, XXXII). Nenhuma dúvida em aberto."
   }
  }
 }

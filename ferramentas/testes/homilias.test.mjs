@@ -274,7 +274,8 @@ describe('Homilias: dias em que aparecem (2025–2045)', () => {
     assert.deepEqual(em('2027-07-03'), [26]);               // São Tomé
     assert.deepEqual(em('2027-10-18'), [17]);               // São Lucas
     assert.deepEqual(em('2027-12-27'), [22]);               // São João Evangelista
-    assert.deepEqual(em('2026-12-31'), []);                 // São Silvestre não é oferecido na oitava do Natal
+    assert.deepEqual(em('2026-12-31'), []);                 // São Silvestre não é oferecido na oitava do Natal (decisão D1)
+    assert.deepEqual(em('2027-12-06', 'saonicolau'), []);   // São Nicolau: leituras da féria; a XVII não é ligada (D3)
     // Santa Rosa de Lima (festa) sem leituras próprias no acervo: o site mostra as do dia de semana
     // (Mt 20,1-16a em 2028), mas elas não são as da festa, e a Homilia XIX não aparece
     assert.ok(LD.resolver(cal.dia('2028-08-23'), null).substitutas);
@@ -470,6 +471,17 @@ describe('Homilias: Etapa 2 (distribuição no calendário)', () => {
       for (const x of d.nao_usadas || []) assert.ok(x.alvo && x.motivo && ['parcial', 'paralela', 'tematica', 'ocasiao-antiga', 'fora-do-calendario', 'outra-celebracao', 'dados'].includes(x.classe), `Homilia ${d.numero}: recusa sem classe ou motivo`);
       for (const x of d.duvidas || []) assert.ok(x.questao && x.opcao_adotada, `Homilia ${d.numero}: dúvida incompleta`);
     }
+  });
+
+  test('Etapa 2 encerrada: decisões D1–D4 registradas e nenhuma dúvida em aberto', () => {
+    assert.equal(REG.etapas?.etapa_2?.estado, 'concluída');
+    assert.equal(REG.etapas.etapa_2.data_de_conclusao, '2026-11-07');
+    const duvidas = DIST.homilias.flatMap((d) => (d.duvidas || []).map((x) => ({ ...x, numero: d.numero })));
+    assert.deepEqual(duvidas.map((x) => [x.numero, x.decisao?.escolha]), [[9, '(a)'], [28, '(a)']]);
+    const h = REG.historico.find((x) => x.data === '2026-11-07' && /D1–D4/.test(x.origem));
+    assert.ok(h && /santo:saonicolau/.test(h.alteracoes) && /Jo 7,37-39/.test(h.alteracoes), 'histórico das decisões D1–D4');
+    assert.equal(GREG.filter((x) => x.situacao === 'catalogo').map((x) => x.numero).join(), '4,31,32');
+    assert.equal(GREG.filter((x) => x.estado === 'publicada').length, 40);
   });
 
   test('as 8 candidatas fortes da Etapa 1 foram verificadas e estão no calendário', () => {

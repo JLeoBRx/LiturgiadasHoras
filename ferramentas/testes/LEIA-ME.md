@@ -30,8 +30,11 @@ horas (`validar_horas.mjs 2025 2031`, que falha se alguma hora ficar sem texto).
 | `homilias.test.mjs` | Integridade | Os 41 arquivos da tradução recebida de São Gregório Magno reproduzem, palavra por palavra, o arquivo enviado. |
 | | Nenhuma alteração silenciosa | O texto publicado é exatamente a tradução recebida mais as correções registradas como aplicadas (confiança alta); sugestões, dúvidas e variantes não aplicadas continuam intactas; só há texto publicado para homilias conferidas com o latim. |
 | | Correspondências | Só litúrgicas ou bíblicas; a referência declarada é a do arquivo de leituras do dia e os versículos comentados estão contidos nela e na passagem da homilia. |
-| | Dias em que aparecem | De 2025 a 2045, cada homilia aparece exatamente nos dias esperados, e em nenhum outro; Santo André no domingo e dias sem correspondência não têm homilia. |
+| | Dias em que aparecem | De 2025 a 2045, cada uma das 40 homilias aparece exatamente nos dias calculados só com o calendário (lista escrita no teste, independente de `distribuicao.json`), e em nenhum outro; datas conferidas à mão; as 9 homilias publicadas antes da Etapa 2 continuam nos mesmos dias. |
 | | Documentos | `AUDITORIA.md`, `INVENTARIO.md` e `inventario.json` correspondem aos dados atuais. |
+| | Etapa 2 (distribuição) | `indice.json` e `DISTRIBUICAO.md` correspondem a `distribuicao.json`; toda correspondência bíblica publicada é plena pelos critérios declarados; nenhuma correspondência recusada ou em dúvida está no índice; as novas dizem que a homilia não foi pregada para o dia; só 11 litúrgicas, com a ocasião na rubrica crítica ou no texto; decisões D1–D4 registradas; todo Evangelho dos arquivos de leituras está em seção própria. |
+| `liturgia-diaria.test.mjs` | Leituras de santos | São Nicolau (6/12) usa as leituras da féria (sem leitura própria confirmada); nenhuma leitura de santo vinda da tabela estrangeira aponta para um domingo ou dia do tempo; o gerador do índice mantém a regra. |
+| | Referências | O Evangelho da vigília de Pentecostes é `Jo 7,37-39`; todo Evangelho dos arquivos usados pelo site traz o livro (uma exceção registrada, para decisão). |
 
 ## Por que a referência é independente
 

@@ -21,7 +21,8 @@
 | Com correspondência litúrgica | 11 (V, VIII, X, XI, XII, XVI, XXI, XXVII, XXIX, XXX, XXXVII) |
 | Correspondências bíblicas plenas publicadas | 84 |
 | Correspondências examinadas e não usadas | 54 |
-| Dúvidas para decisão do responsável | 2 |
+| Dúvidas decididas pelo responsável | 2 |
+| Dúvidas em aberto | 0 |
 
 ## As 40 homilias
 
@@ -125,7 +126,7 @@ Datas que constam só nos títulos de Migne, ou celebrações do século VI que 
 - **II** — Domingo da Quinquagésima (título em Migne): O domingo só aparece no título de Migne, e o tempo da Septuagésima não existe no calendário atual.
 - **III** — Santa Felicidade, mártir romana (natalício antigo): A homilia foi pregada no natalício de Santa Felicidade, mãe de sete filhos mártires (rubrica e § 3). Essa santa não está no calendário atual do site.
 - **VI** — 3º domingo do Advento nos Anos B e C: Migne situa a homilia no 3º domingo do Advento, mas só o Ano A lê hoje Mt 11,2-11. Nos Anos B e C o Evangelho é outro (Jo 1; Lc 3). O domingo não consta da edição crítica.
-- **IX** — saosilvestre (São Silvestre I, 31/12): A homilia foi pregada no natalício de São Silvestre (rubrica da edição crítica; o texto não volta a nomeá-lo). O santoral do site tem a memória facultativa em 31/12, mas ela cai na oitava do Natal e o calendário do site não a oferece como opção: a correspondência nunca apareceria. Ver dúvida.
+- **IX** — saosilvestre (São Silvestre I, 31/12): A homilia foi pregada no natalício de São Silvestre (rubrica da edição crítica; o texto não volta a nomeá-lo). O santoral do site tem a memória facultativa em 31/12, mas ela cai na oitava do Natal e o calendário do site não a oferece como opção. Por decisão do responsável (07/11/2026), o calendário não é alterado e a homilia não é ligada a 31/12.
 - **XIII** — São Félix, confessor (natalício antigo): A homilia foi pregada no natalício de São Félix (rubrica e § 6), santo que não está no calendário atual do site.
 - **XIV** — 4º domingo da Páscoa (domingo do Bom Pastor) nos Anos A e C: Migne situa a homilia no 2º domingo depois da Páscoa, o antigo domingo do Bom Pastor. Hoje o domingo do Bom Pastor é o 4º da Páscoa, mas só o Ano B lê Jo 10,11-18; os Anos A e C leem Jo 10,1-10 e Jo 10,27-30. Estender a homilia aos Anos A e C seria converter a celebração antiga na atual.
 - **XV** — Domingo da Sexagésima (título em Migne): O domingo só aparece no título de Migne e não existe no calendário atual.
@@ -143,16 +144,22 @@ Datas que constam só nos títulos de Migne, ou celebrações do século VI que 
 - **XXXV** — São Menas, mártir (natalício antigo, 11/11): A homilia foi pregada no natalício de São Menas (rubrica e § 7), santo que não está no calendário atual do site (em 11/11 celebra-se São Martinho de Tours).
 - **XL** — 2º domingo depois de Pentecostes (título em Migne): O domingo só consta em Migne, na numeração antiga dos domingos depois de Pentecostes.
 
-## Dúvidas para decisão do responsável
+## Dúvidas em aberto
 
-- **Homilia IX.** São Silvestre (31/12) cai sempre na oitava do Natal, e o calendário do site não oferece a memória. Deseja que o calendário passe a oferecer a comemoração de São Silvestre em 31/12, para que esta homilia apareça nesse dia como correspondência litúrgica? *Opção adotada por ora:* Não alterar o calendário; a homilia aparece só pelas correspondências bíblicas.
-- **Homilia XXVIII.** Ligar a Homilia XXVIII à memória facultativa de São Nereu e Santo Aquiles (12/5)? A favor: título de Migne ("die natalis eorum"), base da tradução, e o texto pregado junto ao túmulo dos mártires. Contra: a edição crítica não traz o dia, e o critério desta etapa exige a ocasião na rubrica crítica ou no texto. *Opção adotada por ora:* Não ligar (opção mais restritiva) até decisão do responsável.
+Nenhuma.
+
+## Decisões do responsável
+
+- **Homilia IX** (07/11/2026, alternativa (a)). São Silvestre (31/12) cai sempre na oitava do Natal, e o calendário do site não oferece a memória. Deseja que o calendário passe a oferecer a comemoração de São Silvestre em 31/12, para que esta homilia apareça nesse dia como correspondência litúrgica? **Decisão:** Não oferecer São Silvestre como celebração em 31/12, que está na oitava do Natal; manter a Homilia IX só nas correspondências bíblicas aprovadas; não alterar o calendário geral para acomodar a homilia.
+- **Homilia XXVIII** (07/11/2026, alternativa (a)). Ligar a Homilia XXVIII à memória facultativa de São Nereu e Santo Aquiles (12/5)? A favor: título de Migne ("die natalis eorum"), base da tradução, e o texto pregado junto ao túmulo dos mártires. Contra: a edição crítica não traz o dia, e o critério desta etapa exige a ocasião na rubrica crítica ou no texto. **Decisão:** Não associar a homilia ao dia 12 de maio: Migne indica o natalício dos mártires, mas a edição crítica não confirma a data, e o critério é não transformar uma indicação isolada de Migne em correspondência litúrgica. A Homilia XXVIII fica com a correspondência bíblica aprovada.
 
 ## Problemas encontrados nos dados da Liturgia Diária
 
 - **corrigido nesta etapa.** Em 23 arquivos de leituras (27 Evangelhos), a importação deixou o Evangelho dentro da seção "Aclamação ao Evangelho", sem seção própria; no site ele aparecia com o título e a referência da aclamação, e a comparação com as homilias não o via (17º domingo do Tempo Comum A, 28º A, 33º A, 11º C, 14º C, 3º da Páscoa C, entre outros). Corrigido por ferramentas/corrigir_secao_evangelho.py sem mudar nenhuma palavra das leituras; um teste confere que todo arquivo de leituras tem o Evangelho em seção própria.
-- **não corrigido (para decisão).** O índice da Liturgia Diária liga as leituras próprias de São Nicolau (santo:saonicolau, 6/12) ao arquivo do 14º domingo do Tempo Comum, Ano C (Is 66,10-14; Gl 6,14-18; Lc 10,1-12.17-20). Parece erro de mapeamento; quem escolhe a memória de São Nicolau vê essas leituras como opção. A Homilia XVII não foi ligada a esse dia.
-- **não corrigido (para decisão).** No arquivo de Pentecostes, as duas seções do Evangelho da Missa da vigília trazem a referência sem o livro ("7,37-39" em vez de "Jo 7,37-39"). Não afeta as homilias.
+- **corrigido em 07/11/2026.** As leituras próprias de São Nicolau (santo:saonicolau, 6/12) apontavam para o arquivo do 14º domingo do Tempo Comum, Ano C (Is 66,10-14; Gl 6,14-18; Lc 10,1-12.17-20). A origem era a tabela estrangeira usada para gerar o índice (Liturgical Calendar API, lecionário em inglês: Is 6,1-8; Lc 10,1-9); sem esse par no acervo, o gerador ficou só com o Evangelho e achou o arquivo do domingo. O acervo traz apenas as orações do Missal para São Nicolau, e não foi possível consultar o Lecionário Santoral brasileiro nesta sessão (os sites com o Diretório da Liturgia da CNBB não estão acessíveis na rede do ambiente). Sem indicação própria confirmada, a chave foi retirada: com a memória escolhida, o site usa as leituras da féria do Advento. O gerador (ferramentas/gerar_indice_liturgia_diaria.py) passou a excluir São Nicolau e a recusar qualquer leitura de santo, vinda da tabela estrangeira, que caia num arquivo de domingo ou dia do tempo; um teste impede a volta do mapeamento. A Homilia XVII continua sem ligação com São Nicolau.
+- **corrigido em 07/11/2026.** No arquivo de Pentecostes, as duas seções do Evangelho da Missa da vigília traziam a referência sem o livro ("7,37-39"); passaram a "Jo 7,37-39", como confirma a própria linha da proclamação ("segundo João {7,37-39}"). A mesma correção foi feita nos arquivos de Pentecostes dos Anos B e C, que estão no acervo mas não são usados pelo índice. Só mudou o cabeçalho das seções; o texto das leituras não mudou. Um teste confere.
+- **não corrigido (para decisão).** No mesmo arquivo de Pentecostes, outras referências de cabeçalho estão incompletas ou erradas: "Primeira leitura | 11,1-9" (vigília, Gn 11,1-9; duas vezes), "Primeira leitura | At 11" (Missa do dia, At 2,1-11, como diz o nome do próprio arquivo) e "3Sc" no salmo (provavelmente 35c, Sl 103(104)). Também a quinta-feira da 9ª semana do Tempo Comum, Ano I, traz "Evangelho | 12,28b-34" sem "Mc". Não fazem parte das correções autorizadas e não afetam as homilias.
+- **observação (para decisão futura).** Nossa Senhora de Guadalupe (12/12) foi ligada pelo gerador, com base só no Evangelho (Lc 1,39), ao arquivo de 21 de dezembro (Ct 2,8-14; Lc 1,39-45). Convém conferir no Lecionário Santoral brasileiro se essas são as leituras da festa. Não afeta as homilias e não foi alterado.
 - **tratado nesta etapa.** As festas de Nossa Senhora do Carmo (16/7) e de Santa Rosa de Lima (23/8) não têm leituras próprias no acervo; o site mostra as do dia de semana, com aviso. Como essas não são as leituras da festa, as correspondências bíblicas não valem nesses dias (o motor da Liturgia Diária passou a marcar essa substituição, sem mudar o que mostra). Sem isso, as Homilias XIX e XXXVIII apareceriam em 23/8 em alguns anos (2028, 2029, 2034, 2035).
 - **observação.** O arquivo de 24 de dezembro traz também as leituras das Missas da vigília e da noite de Natal (Mt 1,1-25; Lc 2,1-14). Por isso uma homilia ligada à Missa da noite apareceria em 24/12; a Homilia VIII não foi ligada a esse dia.
 
@@ -304,9 +311,9 @@ Examinadas e não usadas:
 
 Examinadas e não usadas:
 
-- *fora-do-calendario* — saosilvestre (São Silvestre I, 31/12): A homilia foi pregada no natalício de São Silvestre (rubrica da edição crítica; o texto não volta a nomeá-lo). O santoral do site tem a memória facultativa em 31/12, mas ela cai na oitava do Natal e o calendário do site não a oferece como opção: a correspondência nunca apareceria. Ver dúvida.
+- *fora-do-calendario* — saosilvestre (São Silvestre I, 31/12): A homilia foi pregada no natalício de São Silvestre (rubrica da edição crítica; o texto não volta a nomeá-lo). O santoral do site tem a memória facultativa em 31/12, mas ela cai na oitava do Natal e o calendário do site não a oferece como opção. Por decisão do responsável (07/11/2026), o calendário não é alterado e a homilia não é ligada a 31/12.
 
-**Dúvida:** São Silvestre (31/12) cai sempre na oitava do Natal, e o calendário do site não oferece a memória. Deseja que o calendário passe a oferecer a comemoração de São Silvestre em 31/12, para que esta homilia apareça nesse dia como correspondência litúrgica? *Por ora:* Não alterar o calendário; a homilia aparece só pelas correspondências bíblicas.
+**Decisão do responsável (07/11/2026):** Não oferecer São Silvestre como celebração em 31/12, que está na oitava do Natal; manter a Homilia IX só nas correspondências bíblicas aprovadas; não alterar o calendário geral para acomodar a homilia.
 
 **Datas nos anos litúrgicos 2026–2027 (Ano B), 2027–2028 (Ano C), 2028–2029 (Ano A):** 2026–2027: 28/08/2027; 2027–2028: 02/09/2028; 2028–2029: 01/09/2029, 18/11/2029
 
@@ -444,7 +451,7 @@ Examinadas e não usadas:
 
 Examinadas e não usadas:
 
-- *dados* — santo:saonicolau (São Nicolau, 6/12): O índice da Liturgia Diária liga as "leituras próprias" de São Nicolau ao mesmo arquivo do 14º domingo do Tempo Comum, Ano C (Is 66; Gl 6; Lc 10,1-12.17-20). Isso parece um erro de mapeamento do lecionário, que não foi corrigido nesta etapa. A homilia não é ligada a São Nicolau.
+- *dados* — santo:saonicolau (São Nicolau, 6/12): O índice da Liturgia Diária ligava as "leituras próprias" de São Nicolau ao arquivo do 14º domingo do Tempo Comum, Ano C (Is 66; Gl 6; Lc 10,1-12.17-20), por um casamento feito com uma tabela estrangeira. Corrigido em 07/11/2026: sem leitura própria confirmada, a memória usa as leituras da féria do Advento. A homilia não é ligada a São Nicolau, nem por semelhança de tema.
 
 **Datas nos anos litúrgicos 2026–2027 (Ano B), 2027–2028 (Ano C), 2028–2029 (Ano A):** 2026–2027: 26/01/2027, 30/09/2027, 18/10/2027; 2027–2028: 26/01/2028, 09/07/2028, 05/10/2028, 18/10/2028; 2028–2029: 26/01/2029, 04/10/2029, 18/10/2029
 
@@ -630,9 +637,9 @@ Examinadas e não usadas:
 
 Examinadas e não usadas:
 
-- *tematica* — nereueaquiles (São Nereu e Santo Aquiles, 12/5): A edição crítica e o texto (§ 3) dão o lugar, o cemitério dos dois mártires, mas não o dia; o natalício só consta do título de Migne. Ver dúvida.
+- *tematica* — nereueaquiles (São Nereu e Santo Aquiles, 12/5): A edição crítica e o texto (§ 3) dão o lugar, o cemitério dos dois mártires, mas não o dia; o natalício só consta do título de Migne. Não ligada por decisão do responsável (07/11/2026).
 
-**Dúvida:** Ligar a Homilia XXVIII à memória facultativa de São Nereu e Santo Aquiles (12/5)? A favor: título de Migne ("die natalis eorum"), base da tradução, e o texto pregado junto ao túmulo dos mártires. Contra: a edição crítica não traz o dia, e o critério desta etapa exige a ocasião na rubrica crítica ou no texto. *Por ora:* Não ligar (opção mais restritiva) até decisão do responsável.
+**Decisão do responsável (07/11/2026):** Não associar a homilia ao dia 12 de maio: Migne indica o natalício dos mártires, mas a edição crítica não confirma a data, e o critério é não transformar uma indicação isolada de Migne em correspondência litúrgica. A Homilia XXVIII fica com a correspondência bíblica aprovada.
 
 **Datas nos anos litúrgicos 2026–2027 (Ano B), 2027–2028 (Ano C), 2028–2029 (Ano A):** 2026–2027: 08/03/2027; 2027–2028: 27/03/2028; 2028–2029: 12/03/2029
 

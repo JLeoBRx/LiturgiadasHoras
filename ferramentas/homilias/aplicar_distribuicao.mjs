@@ -218,7 +218,7 @@ function relatorio(DIST, CAT, indice, calculo, datas, SAN) {
   L.push('## Resumo', '', '| | Quantidade |', '|---|---|');
   L.push(`| Homilias no calendário (Liturgia Diária) | ${noCal.length} |`, `| Homilias só no catálogo geral | ${cat.length} (${cat.map((h) => ROM[h.numero]).join(', ')}) |`);
   L.push(`| Com correspondência litúrgica | ${lit.length} (${lit.map((h) => ROM[h.numero]).join(', ')}) |`);
-  L.push(`| Correspondências bíblicas plenas publicadas | ${nBib} |`, `| Correspondências examinadas e não usadas | ${naoUsadas.length} |`, `| Dúvidas para decisão do responsável | ${duvidas.length} |`, '');
+  L.push(`| Correspondências bíblicas plenas publicadas | ${nBib} |`, `| Correspondências examinadas e não usadas | ${naoUsadas.length} |`, `| Dúvidas decididas pelo responsável | ${duvidas.filter((x) => x.decisao).length} |`, `| Dúvidas em aberto | ${duvidas.filter((x) => !x.decisao).length} |`, '');
 
   L.push('## As 40 homilias', '', 'Ocasião: rubrica da edição crítica (CCSL 141); entre parênteses, o dia que só o título de Migne indica. Anos: “todo ano” quando ao menos uma correspondência vale em todos os anos (festas, solenidades, dias de semana: o Evangelho dos dias de semana é o mesmo nos anos I e II); “Ano A/B/C” quando depende do ciclo dominical.', '');
   L.push('| Nº | Passagem | Ocasião | Classificação | Dias | Anos | Situação |', '|---|---|---|---|---|---|---|');
@@ -245,10 +245,17 @@ function relatorio(DIST, CAT, indice, calculo, datas, SAN) {
   for (const x of naoUsadas.filter((y) => y.classe === 'ocasiao-antiga' || y.classe === 'fora-do-calendario')) L.push(`- **${ROM[x.numero]}** — ${md(x.alvo)}: ${x.motivo}`);
   L.push('');
 
-  L.push('## Dúvidas para decisão do responsável', '');
-  if (!duvidas.length) L.push('Nenhuma.');
-  for (const x of duvidas) L.push(`- **Homilia ${ROM[x.numero]}.** ${x.questao} *Opção adotada por ora:* ${x.opcao_adotada}`);
+  L.push('## Dúvidas em aberto', '');
+  const abertas = duvidas.filter((x) => !x.decisao);
+  if (!abertas.length) L.push('Nenhuma.');
+  for (const x of abertas) L.push(`- **Homilia ${ROM[x.numero]}.** ${x.questao} *Opção adotada por ora:* ${x.opcao_adotada}`);
   L.push('');
+  const decididas = duvidas.filter((x) => x.decisao);
+  if (decididas.length) {
+    L.push('## Decisões do responsável', '');
+    for (const x of decididas) L.push(`- **Homilia ${ROM[x.numero]}** (${x.decisao.data.split('-').reverse().join('/')}, alternativa ${x.decisao.escolha}). ${x.questao} **Decisão:** ${x.decisao.texto}`);
+    L.push('');
+  }
 
   if (DIST.lecionario?.length) {
     L.push('## Problemas encontrados nos dados da Liturgia Diária', '');
@@ -275,7 +282,7 @@ function relatorio(DIST, CAT, indice, calculo, datas, SAN) {
     }
     const nu = d.nao_usadas || [];
     if (nu.length) { L.push('Examinadas e não usadas:', ''); for (const x of nu) L.push(`- *${x.classe}* — ${md(x.alvo)}: ${x.motivo}`); L.push(''); }
-    for (const x of d.duvidas || []) L.push(`**Dúvida:** ${x.questao} *Por ora:* ${x.opcao_adotada}`, '');
+    for (const x of d.duvidas || []) L.push(x.decisao ? `**Decisão do responsável (${x.decisao.data.split('-').reverse().join('/')}):** ${x.decisao.texto}` : `**Dúvida:** ${x.questao} *Por ora:* ${x.opcao_adotada}`, '');
     const ds = datas.get(h.id) || [];
     L.push(`**Datas nos anos litúrgicos ${anos}:** ${ds.length ? ANOS_LITURGICOS.map((a) => { const l = ds.filter((x) => x.ano === a); return l.length ? `${a}–${a + 1}: ${l.map((x) => `${dataCurta(x.iso)}${x.op ? ` (se escolhida a memória de ${x.op})` : ''}`).join(', ')}` : null; }).filter(Boolean).join('; ') : 'nenhuma (catálogo geral).'}`, '');
   }

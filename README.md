@@ -123,6 +123,13 @@ reconstruído por `ferramentas/gerar_indice_liturgia_diaria.py`, cruzando:
 
 O índice é um JSON legível e pode ser corrigido à mão.
 
+A tabela do projeto aberto é estrangeira (lecionário em inglês) e **não é a
+referência oficial brasileira**: serve só para achar o arquivo do acervo. O
+gerador recusa leituras de santo vindas dela que caiam num arquivo de domingo
+ou dia do tempo, e mantém uma lista de memórias sem leitura própria confirmada,
+que usam as leituras da féria (hoje, São Nicolau, 6/12; ver
+`ferramentas/testes/liturgia-diaria.test.mjs`).
+
 ### Homilias dos santos
 
 O botão “Homilia” só aparece quando a homilia foi pregada para a celebração
@@ -167,8 +174,9 @@ Lacunas que continuam:
   acervo só tem a versão de 24/12, que é usada com um aviso.
 - **Santo Adalberto** (23/04, memória facultativa): o acervo não traz os textos
   próprios; quando escolhido, o site usa o ofício e as orações do dia e avisa.
-- **Nossa Senhora do Carmo** (16/07, festa): as leituras próprias da Missa não
-  estão no índice; o site mostra as do dia, com aviso.
+- **Nossa Senhora do Carmo** (16/07) e **Santa Rosa de Lima** (23/08), festas:
+  as leituras próprias da Missa não estão no índice; o site mostra as do dia,
+  com aviso (e, por isso, sem homilia por correspondência bíblica).
 - **Coletas salmódicas** (oração depois do salmo do Invitatório): o texto está
   em `salterio/coletasalmodica.js.bin`, ainda criptografado.
 - **Liturgia Diária**: faltam no acervo as leituras do 9º domingo do Ano A,

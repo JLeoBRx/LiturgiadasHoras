@@ -487,6 +487,20 @@ def main():
                 por(chave, r[0], "tabela-aberta")
 
     # ---------- 5. santos (datas fixas): tabela aberta + santoral do Brasil
+    # A tabela aberta é estrangeira (Liturgical Calendar API, lecionário em inglês):
+    # serve para achar o arquivo do acervo, mas não é a referência oficial brasileira.
+    # SEM_LEITURAS_PROPRIAS: memórias para as quais não há leitura própria confirmada no
+    # Lecionário brasileiro nem no acervo; o site usa as leituras do dia (féria).
+    SEM_LEITURAS_PROPRIAS = {
+        # 6/12, memória facultativa, sempre num dia de semana do Advento (ou domingo).
+        # O acervo traz só as orações do Missal. A tabela estrangeira indica Is 6,1-8 e
+        # Lc 10,1-9; o arquivo que casava era o do 14º domingo do Tempo Comum, Ano C.
+        # Corrigido em 07/11/2026 (decisão do responsável; ver
+        # dados/homilias/gregorio-magno/registro-editorial.json, historico).
+        "santo:saonicolau",
+    }
+    TEMPORAL = re.compile(r"^(TC|ADV|QUA|PAS|NAT|SS)-")
+    santos_recusados = []
     sant = json.load(open(SANTORAL, encoding="utf-8"))
     por_data = defaultdict(list)
     for c in sant["fixas"]:
@@ -510,7 +524,17 @@ def main():
         if not r:
             r = casar(arquivos, ev=ancora_en(v.get("gospel")), l1=ancora_en(v.get("first_reading")))
         if r:
-            por("santo:" + ids[0], r[0], "tabela-aberta")
+            chave = "santo:" + ids[0]
+            if chave in SEM_LEITURAS_PROPRIAS:
+                continue
+            # leitura "própria" achada só pelo Evangelho, num arquivo que é de um domingo
+            # ou dia do tempo: não é leitura do santo (ex.: São Nicolau caía no 14º
+            # domingo do Tempo Comum, Ano C). Sem leitura própria confirmada, o site usa
+            # as leituras do dia.
+            if any(v == r[0] and TEMPORAL.match(k) for k, v in indice.items()):
+                santos_recusados.append([chave, r[0]])
+                continue
+            por(chave, r[0], "tabela-aberta")
 
     for chave, (l1, ev, tem2) in FESTAS.items():
         a1, a2 = ancora_pt(l1), ancora_pt(ev)
@@ -606,6 +630,8 @@ def main():
         print("   ", d)
     print("ambíguos:", origem.get("_ambiguos", [])[:5])
     print("arquivos do lecionário não usados:", len(sem_uso))
+    print("santos sem leitura própria confirmada (usam a féria):", sorted(SEM_LEITURAS_PROPRIAS))
+    print("leituras de santo recusadas (arquivo de domingo ou dia do tempo):", santos_recusados)
     json.dump({"sem_uso": sem_uso, "divergencias": divergencias}, open(os.path.join(RAIZ, "ferramentas", "saida", "relatorio_indice_ld.json"), "w"), ensure_ascii=False, indent=1)
 
 
