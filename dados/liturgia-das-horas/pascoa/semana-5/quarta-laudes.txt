@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5quartapascoa_laudes.htm
+@documento Laudes - Quarta-feira da 5ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Em vós está a fonte da vida! Aleluia.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vós está a fonte da vida! Aleluia.
+
+@antifona 2
+Enviastes, Senhor, vosso Espírito
+e tudo passou a existir. Aleluia.
+
+@salmo canticos/jt-16-1-2-13-15
+
+@gloria
+
+@antifona
+Enviastes, Senhor, vosso Espírito
+e tudo passou a existir. Aleluia.
+
+@antifona 3
+É Deus o grande Rei de toda a terra:
+com arte celebrai os seus louvores! Aleluia.
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@antifona
+É Deus o grande Rei de toda a terra:
+com arte celebrai os seus louvores! Aleluia.
+
+@secao Leitura breve | Rm 6,8-11
+
+@texto
+Se morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele. Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive. Assim, vós também considerai-vos mortos para o pecado e vivos para Deus, em Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sou a videira, aleluia, e vós sois os ramos. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sou a videira, aleluia, e vós sois os ramos. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Jesus Cristo, que se entregou à morte por nossos pecados e ressuscitou para nossa justificação; e aclamemos:
+
+R. **Salvai-nos, Senhor, pela vossa vitória!**
+
+Cristo Salvador, que ressuscitando de entre os mortos nos restituístes a esperança da vida imortal,
+– santificai neste dia os nossos corações com a graça do Espírito Santo. R.
+
+Vós, que sois glorificado nos céus pelos anjos e adorado na terra pelos seres humanos,
+– recebei a adoração que vos prestamos em espírito e em verdade neste tempo santo da ressurreição. R.
+
+Cristo Jesus, salvai-nos e derramai a vossa misericórdia sobre o povo que vive na esperança da ressurreição,
+– e conservai-nos, hoje e sempre, livres de todo o mal. R.
+
+Cristo, rei da glória e nossa vida, quando vierdes no último dia,
+– fazei que também nós apareçamos convosco na vossa glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que amais e restituís a inocência, orientai para vós os nossos corações, para que jamais se afastem da luz da verdade os que tirastes das trevas da desgraça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

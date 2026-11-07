@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saomaximiliano.htm
+@documento Ofício das Leituras - São Maximiliano Maria Kolbe, Presbítero E Mártir Memória
+
+@celebracao
+SÃO MAXIMILIANO MARIA KOLBE, PRESBÍTERO E MÁRTIR
+{Memória}
+
+@biografia
+Maximiliano Maria Kolbe nasceu na Polônia no dia 8 de janeiro de 1894. Ainda adolescente, ingressou na Ordem dos Frades Menores Conventuais e foi ordenado sacerdote em Roma, no ano de 1918. Animado de filial piedade para com a Virgem Mãe de Deus, fundou uma confraria religiosa com o nome de “Milícia de Maria Imaculada”, que se propagou de modo extraordinário tanto em sua pátria como em outras regiões. Chegando ao Japão como missionário, aplicou-se em difundir a fé cristã sob os auspícios e patrocínio da mesma Virgem Imaculada. Finalmente, regressando à Polônia, tendo padecido, por ocasião da guerra que então grassava, terríveis atrocidades no campo de concentração de Auschwitz, distrito de Cracóvia, consumou sua fecunda vida num holocausto de caridade, a 14 de agosto de 1941.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002-v3
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios
+
+@tema
+4,7-
+
+@texto
+[5,8] _{Nas tribulações manifesta-se a força de Cristo}_ Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R.Felizes quando a vós insultarem, perseguirem e, calúnias proferindo, disserem todo mal contra vós por minha causa.
+* Alegrai-vos e exultai, pois a vossa recompensa no céu é muito grande.
+V.Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Maximiliano Maria Kolbe
+{(Séc.XX)} {(O. Joachim Roman Bar, O.F.M. Conv., ed. Wybór Pism, Warszawa 1973, 41-42;226)}
+
+@tema
+Do zelo apostólico que se deve ter ao procurar a salvação e santificação das almas
+
+@texto
+Muito me alegra, caro irmão, o zelo que te inflama na promoção da glória de Deus. Pois observamos com tristeza, em nossos tempos, não só entre os leigos mas também entre os religiosos, a doença quase epidêmica que se chama indiferentismo, que se propaga de várias formas. Ora, como Deus é digno de infinita glória, nosso primeiro e mais importante ideal deve ser, com nossas exíguas forças, lhe darmos o máximo de glória, embora nunca possamos dar quanto de nós, pobres peregrinos, ele merece. Como a glória de Deus resplandece principalmente na salvação das almas que Cristo remiu com seu próprio sangue, o desejo mais elevado da vida apostólica será procurar a salvação e santificação do maior número possível. E quero brevemente dizer-te qual o melhor caminho para este fim, isto é, para conseguir a glória divina e a santificação de muitas almas. Deus, ciência e sabedoria infinita, sabendo o que, de nossa parte, mais contribui para aumentar sua glória, manifesta-nos a sua vontade sobretudo pelos seus ministros na terra. É a obediência, e ela só, que nos indica a vontade de Deus com evidência. O superior pode errar, mas não é possível que nós, ao seguirmos a obediência, sejamos levados ao erro. Só poderia haver uma exceção se o superior mandasse algo que incluísse – mesmo em grau mínimo – uma violação da lei divina; pois, neste caso, o superior não seria fiel intérprete de Deus. Só Deus é infinito, sapientíssimo, santíssimo e clementíssimo, Senhor, Criador e Pai nosso, princípio e fim, sabedoria, poder e amor; tudo isso é Deus. Tudo que não seja Deus só vale enquanto se refere a ele, Criador de tudo e Redentor dos homens, último fim de toda a criação. É ele que nos manifesta a sua adorável vontade por meio daqueles que o representam, e nos atrai a si, querendo, deste modo, atrair por nós outras almas, unindo-as a si em amor cada vez mais perfeito. Vê, irmão, quão grande é, pela misericórdia divina, a dignidade de nossa condição! Pela obediência com que ultrapassamos os limites de nossa pequenez e conformamo-nos à vontade divina, que nos dirige com sua infinita sabedoria e prudência, a fim de agirmos com retidão. Pode-se até dizer que, seguindo assim a vontade de Deus à qual nenhuma criatura pode resistir, nos tornamos mais fortes que tudo. Esta é a vereda da sabedoria e da prudência, este é o único caminho pelo qual possamos dar a Deus maior glória. Pois, se existisse caminho diferente e mais alto, certamente Cristo no-lo teria manifestado com sua doutrina e exemplo. Ora, a divina Escritura resumiu a sua longa permanência em Nazaré com estas palavras: _E era-lhes submisso_ (Lc 2,51), como nos indicou toda a sua vida ulterior sob o signo da obediência, mostrando que desceu à terra para fazer a vontade do Pai. Amemos por isso, irmão, amemos sumamente o amantíssimo Pai celeste, e deste amor seja prova a nossa obediência, exercida em grau supremo quando nos exige o sacrifício da própria vontade. Não conhecemos, para progredir no amor a Deus, livro mais sublime que Jesus Cristo crucificado. Tudo isso conseguiremos mais facilmente pela Virgem Imaculada, a quem a bondade de Deus confiou os tesouros da sua misericórdia. Pois não há dúvida que a vontade de Maria seja para nós a própria vontade de Deus. E, quando nos dedicamos a ela, tornamo-nos em suas mãos como instrumentos, como ela própria, nas mãos de Deus. Portanto, deixemo-nos dirigir por ela, ser conduzidos por ela, e sejamos calmos e seguros por ela guiados: pois cuidará de nós, tudo proverá e há de socorrer-nos prontamente nas necessidades do corpo e da alma, afastando nossas dificuldades e angústias.
+
+@secao Responsório | Ef 5,1-2; 6,6b
+
+@responsorio
+R. Tornai-vos, irmãos, imitadores de Deus
+como filhos amados, e andai em amor,
+como Cristo nos amou e se entregou por nós a Deus,
+* Como oferta e sacrifício de perfume agradável,
+V. Como servos de Cristo,
+de bom grado fazendo a vontade de Deus.
+* Como oferta.
+
+@secao Oração
+
+@oracao
+Ó Deus, inflamastes São Maximiliano Maria, presbítero e mártir, com amor à Virgem Imaculada e lhe destes grande zelo pastoral e dedicação ao próximo. Concedei-nos, por sua intercessão, que trabalhemos intensamente pela vossa glória no serviço do próximo, para que nos tornemos semelhantes ao vosso Filho até a morte. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

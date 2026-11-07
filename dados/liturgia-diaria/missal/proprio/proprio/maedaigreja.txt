@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/maedaigreja.htm
+
+@secao Antífona da entrada | Cf. At 1,14
+@texto
+Os discípulos perseveraram unânimes em oração
+com Maria, a Mãe de Jesus.
+
+@secao Coleta
+@texto
+Ó Deus, Pai das misericórdias,
+vosso Filho Unigênito, pregado na cruz,
+nos deu sua Mãe, a Bem-aventurada Virgem Maria,
+como nossa Mãe.
+Concedei que a vossa Igreja,
+cada dia mais fecunda em seu amor materno,
+exulte com a santidade dos seus filhos e filhas
+e atraia todos os povos para o seu convívio numa só família.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, as nossas oferendas
+e transformai-as em sacramento de salvação,
+pelo qual sejamos inflamados
+com o mesmo amor da Virgem Maria, Mãe da Igreja,
+e mereçamos ser associados com ela mais estreitamente
+à obra da redenção.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Jo 2,1.11}
+Houve um casamento em Caná da Galileia.
+A mãe de Jesus estava presente.
+Este foi o início dos sinais de Jesus.
+Manifestou a sua glória,
+e seus discípulos creram nele.
+{Ou:}{Cf. Jo 19,26-27}
+Pendente da cruz,
+disse Jesus ao discípulo que ele amava: Eis a tua mãe!
+
+@secao Depois da comunhão
+@texto
+Senhor, tendo recebido o penhor da redenção e da vida,
+nós vos pedimos que a vossa Igreja,
+com o auxílio materno da Virgem Maria,
+leve a todas as nações o anúncio do Evangelho
+e encha toda a terra com a efusão do Espírito Santo.
+Por Cristo, nosso Senhor.

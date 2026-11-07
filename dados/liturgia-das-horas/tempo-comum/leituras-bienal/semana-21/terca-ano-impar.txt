@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/21tercaTC_impar.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {5,8-21}
+
+@tema
+Caminheis como filhos da luz
+
+@texto
+Caríssimos, [8] outrora éreis treva, mas agora sois luz no Senhor: andai como filhos da luz, [9] pois o fruto da luz consiste em toda bondade e justiça e verdade. [10] Procurai discernir o que é agradável ao Senhor [11] e não sejais participantes das obras infrutuosas das trevas, antes denunciai-as, [12] pois o que eles fazem em oculto até o dizê-lo é vergonhoso. [13] Mas tudo o que é condenável é manifesto pela luz, [14] pois é luz tudo o que é manifesto. É por isso que se diz: Ó tu, que dormes, desperta e levanta-te de entre os mortos, que Cristo te iluminará. [15] Vede, pois, cuidadosamente como andais: não como tolos, mas como sábios, [16] tirando bom proveito do período presente, porque os dias são maus. [17] Por isso não sejais insensatos, mas procurai conhecer a vontade do Senhor. [18] E não vos embriagueis com vinho, que é porta para a devassidão, mas buscai a plenitude do Espírito. [19] Falai uns aos outros com salmos, hinos e cânticos espirituais, cantando e louvando ao Senhor em vosso coração, [20] sempre e por tudo dando graças a Deus, o pai, em nome de nosso Senhor Jesus Cristo. [21] Sede submissos uns aos outros no temor de Cristo.
+
+@secao Responsório | Ef 5,8-9; Mt 5,14.16
+
+@responsorio
+R. Mas agora sois luz no Senhor:
+Andai como filhos da luz,
+* Pois o fruto da luz consiste
+em toda bondade e justiça e
+verdade.
+V. Vós sois a luz do mundo,
+brilhe a vossa luz diante dos
+homens. * Pois o fruto.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado “O bem da Salmodia” de Niceto de Remensiana, bispo
+{(Nn.13-14)}
+
+@tema
+Quando se salmodia, todos devem salmodiar
+
+@texto
+Caríssimos, salmodiemos com ânimo atento e mente vigilante, como nos exorta o salmista dizendo: _Deus é rei_ _de toda a terra, cantai hinos com arte_ (Sl 46,8); de maneira que o salmo seja recitado não somente com o “espírito”, isto é, com o som da voz, mas também com a “mente” (cf.1Cor 14,15), meditando interiormente o que salmodiamos, a fim de que a mente, dominada por pensamentos estranhos, não tenha que afadigar-se em vão, sem frutos. Tudo deve ser celebrado estando na presença de Deus, e não com a preocupação de agradar aos homens ou a si próprio. Temos um exemplo desta consonância de voz naqueles três jovens bem-aventurados de que nos fala o livro de Daniel, quando diz: _Então os três jovens, a uma só voz, se puseram a lou__var, a glorificar e a bendizer a Deus na fornalha dizendo:_ _Bendito és tu, Senhor, Deus de nossos pais_ (Dn 3,51-52).
+Observa como nos é ensinado que os três louvavam o Senhor a uma só voz, a fim de que, também nós todos, exprimamos em unanimidade o mesmo sentimento com a mesma modulação de voz. Por isso quando se salmodia, todos devem salmodiar; quando se ora, todos devem orar, quando é proclamada a leitura, feito o silêncio, todos juntos escutem, e não suceda que enquanto o leitor proclama a leitura, um outro atrapalhe orando em voz alta. Se, portanto, tu tiveres que chegar durante a leitura, feita a adoração a Deus e o sinal da cruz, dispõe-te, com solicitude, à escuta. A ti, é dado o tempo de oração quando todos oramos, e a ti, é dado ainda, todas as vezes que quiseres, orar particularmente: porém, para orares não percas a leitura, porque esta não podes ter sempre à tua disposição e da maneira que quiseres, enquanto que a possibilidade de orar está sempre ao teu alcance. E não crê que seja de pouca utilidade a escuta da leitura sagrada: na verdade, a própria oração se enriquece, porque a mente, nutrida pelas realidades divinas ouvidas, prossegue com maior facilidade. De fato, Maria, depois de ter deixado a sua irmã Marta, e estando sentada aos pés de Jesus, escutava mais atentamente a sua palavra, _escolheu a_ _melhor parte_ (cf. Lc 10,39.42), como confirmou o Senhor. Por isso o diácono proclama com voz clara, admoestando todos para que, na oração, nas prostrações, na salmodia, como na escuta das leituras sagradas conservem a unidade; o Senhor ama aqueles que são unânimes e os faz habitar na sua casa (cf. Sl 67,7 vulg.).
+
+@secao Responsório | Sl 137(138),1-2; 117(118),28
+
+@responsorio
+V. A ti quero cantar diante dos anjos,
+prostro-me voltado
+para o teu templo santo.
+* Rendo graças ao teu nome, Senhor.
+R. Tu és o meu Deus e a ti rendo graças,
+tu és o meu Deus e eu te exalto. * Rendo graças.
+
+@secao Oração
+
+@oracao
+Ó Deus, que unis os corações dos vossos fiéis num só desejo, dai ao vosso povo amar o que ordenais e esperar o que prometeis, para que, na instabilidade deste mundo, fixemos os nossos corações onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

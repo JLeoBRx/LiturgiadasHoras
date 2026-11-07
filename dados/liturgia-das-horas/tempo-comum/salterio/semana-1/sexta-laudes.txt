@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_laudes.htm
+@documento Laudes - Sexta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Sois do céu a glória eterna,
+esperança dos mortais,
+sois da casta Virgem prole,
+Unigênito do Pai.
+
+Dai àqueles que despertam
+seja a mente vigilante.
+Em louvor e ação de graças,
+nossa voz seja vibrante.
+
+Nasce o astro luminoso,
+nova luz ele anuncia.
+Foge a noite, foi a treva,
+vossa luz nos alumia.
+
+Nossa mente torne clara,
+faça a noite cintilar,
+purifique nosso íntimo
+até a vida terminar.
+
+Cresça a nossa fé primeira
+dentro em nosso interior;
+a esperança acompanhe,
+e maior seja o amor.
+
+A vós, Cristo, rei piedoso,
+e a vós, Pai, glória também
+com o Espírito Paráclito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aceitareis o verdadeiro sacrifício
+no altar do coração arrependido.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Aceitareis o verdadeiro sacrifício
+no altar do coração arrependido.
+
+@antifona 2
+Será vitoriosa no Senhor
+e gloriosa toda a raça de Israel.
+
+@salmo canticos/is-45-15-25
+
+@gloria
+
+@antifona
+Será vitoriosa no Senhor
+e gloriosa toda a raça de Israel.
+
+@antifona 3
+Vinde todos ao Senhor com cantos de alegria!
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+Vinde todos ao Senhor com cantos de alegria!
+
+@secao Leitura breve | Ef 4,29-32
+
+@texto
+Nenhuma palavra perniciosa deve sair dos vossos lábios, mas sim alguma palavra boa, capaz de edificar oportunamente e de trazer graça aos que a ouvem. Não contristeis o Espírito Santo com o qual Deus vos marcou como com um selo para o dia da libertação. Toda a amargura, irritação, cólera, gritaria, injúrias, tudo isso deve desaparecer do meio de vós, como toda a espécie de maldade. Sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Fazei-me cedo sentir,
+* Ó Senhor, vosso amor! R. Fazei-me.
+V. Indicai-me o caminho, que eu devo seguir.
+* Ó Senhor. Glória ao Pai. R. Fazei-me.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@secao Preces
+
+@preces
+Adoremos a Cristo, que por sua cruz trouxe a salvação do gênero humano; e rezemos, dizendo:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Cristo, sol nascente e luz sem ocaso, iluminai os nossos passos,
+– e, desde o amanhecer, afastai de nós toda inclinação para o mal. R.
+
+Vigiai sobre nossos pensamentos, palavras e ações,
+– para que vivamos todo este dia de acordo com a vossa vontade. R.
+
+Desviai o vosso olhar dos nossos pecados,
+– e apagai todas as nossas transgressões. R.
+
+Pela vossa cruz e ressurreição,
+– dai-nos a consolação do Espírito Santo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que dissipais as trevas da ignorância com a luz de Cristo, vossa Palavra, fortalecei a fé em nossos corações, para que nenhuma tentação apague a chama acesa por vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

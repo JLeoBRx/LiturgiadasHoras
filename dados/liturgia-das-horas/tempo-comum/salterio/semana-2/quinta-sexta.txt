@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@salmo salmos/salmo-118-65-72-ix-teth
+
+@gloria
+
+@antifona
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@antifona 2
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@antifona
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@antifona 3
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@secao Leitura breve | Gl 5,16-17
+
+@texto
+Procedei segundo o Espírito. Assim, não satisfareis aos desejos da carne. Pois a carne tem desejos contra o espírito, e o espírito tem desejos contra a carne. Há uma oposição entre carne e espírito, de modo que nem sempre fazeis o que gostaríeis de fazer.
+
+@texto
+V. Senhor, sois bom e realizais somente o bem.
+R. Ensinai-me a fazer vossa vontade!
+
+@secao Oração
+
+@oracao
+Deus onipotente, em vós não há trevas nem escuridão; fazei que vossa luz resplandeça sobre nós e, acolhendo vossos preceitos com alegria, sigamos fielmente o vosso caminho. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

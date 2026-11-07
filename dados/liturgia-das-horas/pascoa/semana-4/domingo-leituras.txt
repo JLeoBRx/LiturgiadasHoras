@@ -1,0 +1,230 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/4domingoPascoa.htm
+@documento Ofício das Leituras - 4º Domingo Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aleluia, removida foi a pedrada entrada do sepulcro, aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Aleluia, removida foi a pedrada entrada do sepulcro, aleluia.
+
+@antifona 2
+Aleluia, quem procuras, ó mulher?Entre os mortos o Vivente? aleluia.
+
+@salmo salmos/salmo-065-i
+
+@gloria
+
+@antifona
+Aleluia, quem procuras, ó mulher?Entre os mortos o Vivente? aleluia.
+
+@antifona 3
+Aleluia, não chores, Maria:O Senhor ressurgiu, aleluia.
+
+@salmo salmos/salmo-065-ii
+
+@gloria
+
+@antifona
+Aleluia, não chores, Maria:O Senhor ressurgiu, aleluia.
+
+@texto
+V. Refloresceu a minha carne e eu canto: Aleluia.
+R. Eu agradeço ao Senhor de coração. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {12,1-18}
+
+@tema
+O sinal da mulher
+
+@texto
+[1] Apareceu no céu um grande sinal: uma mulher vestida de sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. [2] Estava grávida e gritava em dores de parto, atormentada para dar à luz. [3] Então apareceu outro sinal no céu: um grande Dragão, cor de fogo. Tinha sete cabeças e dez chifres e, sobre as cabeças, sete coroas. [4] Com a cauda, varria a terça parte das estrelas do céu, atirando-as sobre a terra. O Dragão parou diante da Mulher que estava para dar à luz, pronto para devorar o seu Filho, logo que nascesse. [5] E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o Filho foi levado para junto de Deus e do seu trono. [6] A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para que aí fosse alimentada durante mil duzentos e sessenta dias. [7] Houve então uma batalha no céu: Miguel e seus anjos guerrearam contra o Dragão. O Dragão lutou juntamente com os seus anjos, [8] mas foi derrotado, e não se encontrou mais o seu lugar no céu. [9] E foi expulso o grande Dragão, a antiga Serpente, que é chamado Diabo e Satanás, o sedutor do mundo inteiro. Ele foi expulso para a terra, e os seus anjos foram expulsos com ele. [10] Ouvi então uma voz forte no céu, proclamando: “Agora realizou-se a salvação, a força e a realeza do nosso Deus, e o poder do seu Cristo. Porque foi expulso o acusador dos nossos irmãos, aquele que os acusava dia e noite diante do nosso Deus. [1] Eles venceram o Dragão pelo sangue do Cordeiro e pela palavra do seu próprio testemunho, pois não se apegaram à vida, mesmo diante da morte. [12] Por isso, alegra-te, ó céu, e todos os que viveis nele. Mas ai da terra e do mar, porque o Diabo desceu para o meio de vós e está cheio de grande furor; pois sabe que lhe resta pouco tempo”. [13] Quando viu que tinha sido expulso para a terra, o Dragão começou a perseguir a Mulher que tinha dado à luz o menino. [14] A Mulher recebeu as duas asas da grande águia e voou para o deserto, para o lugar onde é alimentada, por um tempo, dois tempos e meio tempo, bem longe da Serpente. [15] A Serpente, então, vomitou como um rio de água atrás da Mulher, a fim de a submergir. [16] A terra, porém, veio em socorro da Mulher: abriu a boca e engoliu o rio que o Dragão tinha vomitado. [17] Cheio de raiva por causa da Mulher, o Dragão começou a combater o resto dos filhos dela, os que observam os mandamentos de Deus e guardam o testemunho de Jesus. [18] E colocou-se na praia do mar.
+
+@secao Responsório | Ap 12,11.12a; 2Mac 7,36a
+
+@responsorio
+R. Triunfaram pelo sangue do Cordeiro
+e pelo testemunho que eles deram,
+pois desprezaram sua vida até à morte.
+* Por isso, ó céus, cantai alegres e exultai
+e vós todos os que neles habitais! Aleluia.
+V. Tendo eles suportado breve pena,
+a vida eterna prometida já alcançaram. * Por isso.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre os Evangelhos, de São Gregório Magno, papa
+{(Séc.VI)} {(Hom. 14,3-6:PL76,1129-1130)}
+
+@tema
+Cristo, o bom pastor
+
+@texto
+Eu sou o bom pastor. Conheço as minhas ovelhas, isto é, eu as amo, e minhas ovelhas me conhecem (Jo 10,14). É como se quisesse dizer francamente: elas correspondem ao amor daquele que as ama. Quem não ama a verdade, é porque ainda não conhece perfeitamente. Depois de terdes ouvido, irmãos caríssimos, qual é o perigo que corremos, considerai também, por estas palavras do Senhor, o perigo que vós também correis. Vede se sois suas ovelhas, vede se o conheceis, vede se conheceis a luz da verdade. Se o conheceis, quero dizer, não só pela fé, mas também pelo amor, se o conheceis não só pelo que credes, mas também pelas obras. O mesmo evangelista João, de quem são estas palavras, afirma ainda: Quem diz: _“Eu conheço Deus”, mas não guarda os seus mandamentos, é mentiroso_ (1Jo 2,4). Por isso, nesta passagem do evangelho, o Senhor acrescenta imediatamente: _Assim como o Pai me conhece, eu também conheço o Pai e dou minha vida por minhas ovelhas_ (Jo 10,15). Como se dissesse explicitamente: a prova de que eu conheço o Pai e sou por ele conhecido, é que dou minha vida por minhas ovelhas; por outras palavras, este amor que me leva a morrer por minhas ovelhas, mostra o quanto eu amo o Pai. Continuando a falar de suas ovelhas, diz ainda: _Minhas ovelhas escutam a minha voz, eu as conheço e elas me seguem. Eu lhes dou a vida eterna_ (Jo 10,27-28). É a respeito delas que fala um pouco acima: _Quem entrar por mim, será salvo; entrará e sairá e encontrará pastagem_ (Jo 10,9). Entrará, efetivamente, abrindo-se à fé; sairá passando da fé à visão e à contemplação, e encontrará pastagem no banquete eterno. Suas ovelhas encontram pastagem, pois todo aquele que o segue na simplicidade de coração é nutrido por pastagens sempre verdes. Quais são afinal as pastagens dessas ovelhas, senão as profundas alegrias de um paraíso sempre verdejante? Sim, o alimento dos eleitos é o rosto de Deus, sempre presente. Ao contemplá-lo sem cessar, a alma sacia-se eternamente com o alimento da vida. Procuremos, portanto, irmãos caríssimos, alcançar essas pastagens, onde nos alegraremos na companhia dos cidadãos do céu. Que a própria alegria dos bem-aventurados nos estimule. Corações ao alto, meus irmãos! Que a nossa fé se afervore nas verdades em que acreditamos; inflame-se o nosso desejo pelas coisas do céu. Amar assim já é pôr-se a caminho. Nenhuma contrariedade nos afaste da alegria desta solenidade interior. Se alguém, com efeito, pretende chegar a um determinado lugar, não há obstáculo algum no caminho que o faça desistir de chegar aonde deseja. Nenhuma prosperidade sedutora nos iluda. Insensato seria o viajante que, contemplando a beleza da paisagem, se esquece de continuar sua viagem até o fim.
+
+@secao Responsório | Cf. Jo 10,14.15. 1Cor 5,7b
+
+@responsorio
+R. Ressuscitou o Bom Pastor que entregou a sua vida
+* E morreu por seu rebanho. Aleluia.
+V. Pois o Cristo, nossa Páscoa, foi por nós sacrificado.
+* E morreu.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, conduzi-nos à comunhão das alegrias celestes, para que o rebanho possa atingir, apesar de sua fraqueza, a fortaleza do Pastor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

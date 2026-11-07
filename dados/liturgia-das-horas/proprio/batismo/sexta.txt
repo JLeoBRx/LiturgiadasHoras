@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/batismo_sexta.htm
+@documento Hora Média - Batismo do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Jesus respondeu a João Batista:
+Por agora deixa estar, para cumprir-se
+o que é justo aos olhos de meu Pai.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Jesus respondeu a João Batista:
+Por agora deixa estar, para cumprir-se
+o que é justo aos olhos de meu Pai.
+
+@secao Leitura breve | Is 42,1
+
+@texto
+Eis o meu servo – eu o recebo; eis o meu eleito – nele se compraz minh’alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações.
+
+@texto
+V. Eis aqui o meu servo que eu amparo.
+R. O meu eleito, a alegria da minh’alma.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que, sendo o Cristo batizado no Jordão, e pairando sobre ele o Espírito Santo, o declarastes solenemente vosso Filho, concedei aos vossos filhos adotivos, renascidos da água e do Espírito Santo, perseverar constantemente em vosso amor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

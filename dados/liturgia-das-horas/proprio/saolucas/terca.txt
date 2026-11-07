@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolucas_terca.htm
+@documento Hora Média - São Lucas, Evangelista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@secao Leitura breve | Rm 1,16-17
+
+@texto
+Eu não me envergonho do Evangelho, pois ele é uma força salvadora de Deus para todo aquele que crê, primeiro para o judeu, mas também para o grego. Nele, com efeito, a justiça de Deus se revela da fé para a fé, como está escrito: O justo viverá pela fé.
+
+@texto
+V. Em toda a terra se espalha o seu anúncio.
+R. E sua voz pelos confins do universo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que escolhestes São Lucas para revelar em suas palavras e escritos o mistério do vosso amor para com os pobres, concedei aos que já se gloriam do vosso nome perseverar num só coração e numa só alma, e a todos os povos do mundo ver a vossa salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

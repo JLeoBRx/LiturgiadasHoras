@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2janeiro_laudes.htm
+@documento 2janeiro_laudes.htm
+
+@secao Leitura breve | Is 49,8b-9a
+
+@texto
+Eu te preservei para seres elo de aliança entre os povos, para restaurar a terra, para distribuir a herança dispersa; para dizer aos que estão presos: “Saí!” e aos que estão nas trevas: “Mostrai-vos!”
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação. * Aleluia, aleluia. Glória ao Pai.
+R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Deitado no presépio, no céu resplandecia;
+feito homem, veio a nós, e junto ao Pai permanecia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Deitado no presépio, no céu resplandecia;
+feito homem, veio a nós, e junto ao Pai permanecia.
+
+@secao Preces
+
+@preces
+Elevemos as nossas súplicas a Cristo, o homem novo que desceu do céu como segundo Adão para nos restituir a vida verdadeira; e digamos:
+
+R. **Kyrie eleison!** {**ou**} **Senhor, tende piedade de nós!**
+
+Cristo, sol da justiça, que manifestastes a glória de Deus em nossa natureza, para levar a antiga aliança à sua realização perfeita,
+– derramai vossa luz sobre nós. R.
+
+Cristo, glorificado pelos anjos e anunciado pelos pastores, reconhecido e louvado por Simeão e Ana:
+– que vossa Boa-Nova seja acolhida pelo povo da promessa. R.
+
+Cristo, em vosso nascimento os anjos cantaram “glória nas alturas e paz na terra”;
+– que vossa paz se irradie pelo mundo inteiro. R.
+
+Cristo, novo Adão, vós renovastes a velhice do homem e preparastes para nós um lugar em vosso reino;
+– fortalecei a esperança dos oprimidos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo uma fé inabalável, para que, ao proclamarmos que o vosso Filho Unigênito, Deus eterno e glorioso como vós, se fez homem no seio da Virgem Mãe, sejamos livres dos males que nos cercam e introduzidos nas eternas alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

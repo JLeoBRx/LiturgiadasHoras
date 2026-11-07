@@ -1,0 +1,230 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/santamaria_par.htm
+@documento Ofício das Leituras - 1º De Janeiro Solenidade De Santa Maria, Mãe De Deus
+
+@celebracao
+SOLENIDADE DE SANTA MARIA, MÃE DE DEUS
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Raiz judaica floresce,
+a virgem mãe dá à luz.
+Maria ao mundo oferece
+quem vem salvá-lo: Jesus.
+
+No manto azul agasalha
+e envolve o Filho de Deus.
+Reclina em berço de palha
+quem com seu Pai fez os céus.
+
+O mesmo que a lei nos dera,
+nasce debaixo da lei.
+O leite materno espera,
+escravo torna-se o rei.
+
+Desponta um sol mais fecundo,
+da morte funde os grilhões.
+Maria traz Deus ao mundo,
+vinde adorá-lo, nações!
+
+Ao Pai e ao Espírito unido,
+Filho de Deus, luz da luz.
+Por virgem mãe concebido,
+vos adoramos, Jesus!
+
+@secao Salmodia
+
+@antifona 1
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar.
+
+@antifona 2
+Um homem nasceu dela:
+o próprio Deus a consagrou.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Um homem nasceu dela:
+o próprio Deus a consagrou.
+
+@antifona 3
+Gerado antes da aurora, antes dos tempos,
+nasceu hoje nosso Deus e Salvador.
+
+@salmo salmos/salmo-098-v2
+
+@gloria
+
+@antifona
+Gerado antes da aurora, antes dos tempos,
+nasceu hoje nosso Deus e Salvador.
+
+@texto
+V. O Verbo se fez carne. Aleluia.
+R. E habitou entre nós. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {2,9-17}
+
+@tema
+Cristo se fez em tudo semelhante aos irmãos
+
+@texto
+Irmãos, [9] vemos, todavia Jesus, que foi feito, por um pouco, menor que os anjos, por causa dos sofrimentos da morte, coroado de honra e glória. É que pela graça de Deus provou a morte em favor de todos os homens. [10] Convinha, de fato, que aquele por quem e para quem todas as coisas existem, querendo conduzir muitos filhos à glória, levasse à perfeição, por meio de sofrimentos, o Iniciador da salvação deles. [11] Pois tanto o Santificador quanto os santificados, todos descendem de um só; razão por que não se envergonha de os chamar irmãos, [12] dizendo: Anunciarei o teu nome a meus irmãos; em plena assembleia te louvarei; [13] e mais: Porei nele a minha confiança; e ainda; Eis-me aqui com os filhos que Deus me deu. [14] Uma vez que os filhos têm em comum carne e sangue, por isso também ele participou da mesma condição, a fim de destruir pela morte o dominador da morte, isto é, o diabo; [15] e libertar os que passaram toda a vida em estado de servidão, pelo temor da morte. [16] Pois não veio ele ocupar-se com anjos, mas, sim, com a descendência de Abraão. [17] Convinha, por isso, que em tudo se tornasse semelhante aos irmãos, para ser, em relação a Deus, sumo sacerdote misericordioso e fiel, para expiar assim os pecados do povo.
+
+@secao Responsório | Cf. Lc 1,28
+
+@responsorio
+R. Bendita sejais, ó Virgem Maria,
+trouxestes no ventre quem fez o universo;
+* Vós destes a vida a quem vos criou
+e virgem sereis para sempre, ó Maria!
+V. Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo. * Vós destes.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de Santo Atanásio, bispo
+{(Séc. IV)} {(Epist. ad Epictetum, 5-9: PG 26, 1058. 1062-1066)}
+
+@tema
+O Verbo assumiu nossa natureza no seio de Maria
+
+@texto
+O Verbo de Deus veio em auxílio da descendência de Abraão, como diz o Apóstolo. _Por isso devia fazer-se em tudo semelhante aos irmãos_ (Hb 2,16-17) e assumir um corpo semelhante ao nosso. Eis por que Maria está verdadeiramente presente neste mistério; foi dela que o Verbo assumiu, como próprio, aquele corpo que havia de oferecer por nós. A Sagrada Escritura, recordando este nascimento, diz: _Envolveu-o em panos_ (Lc 2,7); proclama felizes os seios que o amamentaram e fala também do sacrifício oferecido pelo nascimento deste Primogênito. O anjo Gabriel, com prudência e sabedoria, já o anunciara a Maria; não lhe disse simplesmente: aquele que nascer _em ti_, para não se julgar que se tratava de um corpo extrínseco nela introduzido; mas: _de ti_ (cf. Lc 1,35 Vulg.), para se acreditar que o fruto desta concepção procedia realmente de Maria. Assim foi que o Verbo, recebendo nossa natureza humana e oferecendo-a em sacrifício, assumiu-a em sua totalidade, para nos revestir depois da sua natureza divina, segundo as palavras do Apóstolo: _É preciso que este ser corruptível se vista de incorruptibilidade; é preciso que este ser mortal se vista de imortalidade_ (1Cor 15,53). Estas coisas não se realizaram de maneira fictícia, como julgam alguns, o que é inadmissível! Nosso Salvador fez-se verdadeiro homem, alcançando assim a salvação do homem na sua totalidade. Nossa salvação não é absolutamente algo de fictício, nem limitado só ao corpo; mas realmente a salvação do homem todo, corpo e alma, foi realizada pelo Verbo de Deus. A natureza que ele recebeu de Maria era uma natureza humana, segundo as divinas Escrituras, e o corpo do Senhor era um corpo verdadeiro. Digo verdadeiro, porque era um corpo idêntico ao nosso. Maria é portanto nossa irmã, pois todos somos descendentes de Adão. As palavras de João: _O Verbo se fez carne_ (Jo 1,14) têm o mesmo sentido que se pode atribuir a uma expressão semelhante de Paulo: _O Cristo fez-se maldição por nós_ (cf. Gl 3,13). Pois da íntima e estreita união com o Verbo, resultou para o corpo humano um engrandecimento sem par: de mortal tornou-se imortal; sendo animal, tornou-se espiritual; terreno, transpôs as portas do céu. Contudo, mesmo tendo o Verbo tomado um corpo no seio de Maria, a Trindade continua sendo a mesma Trindade, sem aumento nem diminuição. É sempre perfeita, e na Trindade reconhecemos uma só Divindade; assim, a Igreja proclama um único Deus no Pai e no Verbo.
+
+@secao Responsório | Cf. Lc 1,42
+
+@responsorio
+R.Virgem santa e imaculada,
+eu não sei com que louvores poderei engrandecer-vos!
+* Pois Aquele a quem os céus não puderam abranger,
+repousou em vosso seio.
+V. Sois bendita entre as mulheres
+e bendito é o fruto, que nasceu de vosso ventre. * Pois Aquele.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela virgindade fecunda de Maria destes à humanidade a salvação eterna, dai-nos contar sempre com a sua intercessão, pois ela nos trouxe o autor da vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

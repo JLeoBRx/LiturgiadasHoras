@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSGuadalupe.htm
+
+@secao Antífona da entrada
+@texto
+Alegremo-nos todos no Senhor,
+celebrando este dia festivo
+em honra de Nossa Senhora de Guadalupe;
+os anjos se alegram conosco
+e dão glória ao Filho de Deus.
+
+@secao Coleta
+@texto
+Ó Deus, que nos destes a Santa Virgem de Guadalupe
+para amparar-nos como mãe solícita,
+concedei aos povos da América Latina,
+que se alegram com sua proteção,
+crescer constantemente na fé
+e alcançar o desejado progresso
+no caminho da justiça e da paz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, o mesmo Espírito Santo,
+que com seu poder fecundou o seio de Maria,
+santifique estas oferendas,
+colocadas sobre o vosso altar.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Is 7,14
+@texto
+A virgem conceberá e dará à luz um filho;
+e ele será chamado Emanuel, Deus-conosco.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+a comunhão nos vossos mistérios
+manifeste sempre em nós a vossa misericórdia
+e nos salve pela encarnação do vosso Filho,
+cuja Mãe agora festejamos,
+cheios de fé e devoção.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,57 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 6º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Quem praticar e ensinar a minha Lei,
+no Reino dos céus há de ser grande
+
+@antifona vesperas-i-B
+Se queres, ó Senhor, tu podes me curar!
+Jesus lhe respondeu: Eu quero, sê curado!
+
+@antifona vesperas-i-C
+Felizes de vós, que sois pobres,
+porque vosso é o Reino de Deus!
+Felizes de vós, os famintos,
+pois todos sereis saciados!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Se não superar vossa justiça
+a dos fariseus e dos escribas,
+no Reino dos céus não entrareis!
+
+@antifona laudes-B
+Jesus teve pena do leproso,
+estendeu sua mão e o tocou;
+e ele logo ficou purificado.
+
+@antifona laudes-C
+Felizes de vós que chorais,
+porque havereis de sorrir!
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Se estás para fazer ao Senhor a tua oferta,
+e diante do altar
+te lembrares que o irmão tem algo contra ti,
+reconcilia-te com ele, e faze, então, a tua oferta!
+
+@antifona vesperas-ii-B
+Não digas nada a ninguém,
+mas vai mostrar-te ao sacerdote
+para servir de testemunho.
+Mas o homem foi embora
+e começou a divulgar e a espalhar esta notícia.
+
+@antifona vesperas-ii-C
+Felizes haveis de ser,
+quando os homens vos odiarem
+por causa do Filho do Homem.
+Alegrai-vos naquele dia
+e exultai, porque será grande
+nos céus vossa recompensa!

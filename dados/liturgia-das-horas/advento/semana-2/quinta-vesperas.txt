@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2quinta_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@salmo salmos/salmo-071
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@antifona 2
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor, fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@antifona 3
+Chegou agora a salvação e o reino do Senhor.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v3
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o reino do Senhor.
+
+@secao Leitura breve | Tg 5,7-8.9b
+
+@texto
+Irmãos, ficai firmes até à vinda do Senhor. Vede o agricultor: ele espera o precioso fruto da terra e fica firme até cair a chuva do outono ou da primavera. Também vós ficai firmes e fortalecei vossos corações, porque a vinda do Senhor está próxima. Eis que o juiz está às portas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O que virá depois de mim, já existia antes de mim;
+não sou digno de servi-lo e desatar suas sandálias.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+O que virá depois de mim, já existia antes de mim;
+não sou digno de servi-lo e desatar suas sandálias.
+
+@secao Preces
+
+@preces
+Oremos, irmãos caríssimos, a Cristo nosso Senhor, que por nossa causa se humilhou; e digamos cheios de alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus, que vieste ao mundo para socorrer a humanidade,
+– purificai de todo pecado as nossas almas e os nossos corpos. R.
+
+Não deixeis que se separem de vós,
+– aqueles que pelo mistério da encarnação vos dignastes chamar de irmãos. R.
+
+Não castigueis eternamente os que remistes,
+– quando vierdes para julgar o mundo. R.
+
+Vós, que nesta vida nos cumulais com as riquezas infinitas da vossa bondade,
+– fazei que alcancemos no céu a coroa imperecível da glória. R.
+
+{(intenções livres)}
+
+Nós vos recomendamos, Senhor, as almas daqueles que já se separaram do corpo;
+– mortos para este mundo, vivam eternamente para vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, ó Deus, os nossos corações, a fim de prepararmos os caminhos do vosso Filho, para que possamos, pelo seu advento, vos servir de coração purificado. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

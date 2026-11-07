@@ -1,0 +1,129 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/3domingo_quaresma.htm
+@documento Ofício das Leituras - 3º Domingo Da Quaresma
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Seguindo o preceito místico,
+guardemos a abstinência
+durante os quarenta dias
+votados à penitência.
+
+A Lei e os Profetas dantes
+cumpriram igual preceito,
+Mas Cristo, no seu deserto,
+viveu o jejum perfeito.
+
+Usemos de modo sóbrio
+da fala, bebida e pão,
+do sono e do riso e, atentos,
+peçamos a Deus perdão.
+
+Fujamos do mal oculto
+que os laços do amor desfaz;
+à voz do tirano astuto
+não demos lugar jamais.
+
+Ouvi, Unidade simples,
+Trindade, Supremo Bem:
+a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Todos os dias haverei
+de bendizer-vos, ó Senhor.
+
+@salmo salmos/salmo-144-i
+
+@gloria
+
+@antifona
+Todos os dias haverei
+de bendizer-vos, ó Senhor.
+
+@antifona 2
+O vosso reino, ó Senhor, é para sempre.
+
+@salmo salmos/salmo-144-ii
+
+@gloria
+
+@antifona
+O vosso reino, ó Senhor, é para sempre.
+
+@antifona 3
+O Senhor é amor fiel em sua palavra,
+é santidade em toda obra que ele faz. †
+
+@salmo salmos/salmo-144-iii
+
+@gloria
+
+@antifona
+O Senhor é amor fiel em sua palavra,
+é santidade em toda obra que ele faz.
+
+@texto
+V. Vós o nutris com o pão da vida e do saber.
+R. E o saciais com uma água salutar.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {22,19―23,9}
+
+@tema
+Leis para proteger o estrangeiro e o pobre (Código da Aliança)
+
+@texto
+Eis o que diz o Senhor: [2,19] Quem oferecer sacrifícios aos deuses, e não unicamente ao Senhor, será condenado ao extermínio. [20] Não oprimas nem maltrates o estrangeiro, pois vós fostes estrangeiros na terra do Egito. [21] Não façais mal algum à viúva nem ao órfão. [22] Se os maltratardes, gritarão por mim e eu ouvirei o seu clamor. [23] Minha cólera, então, se inflamará e eu vos matarei à espada; vossas mulheres ficarão viúvas, e órfãos os vossos filhos. [24] Se emprestares dinheiro a alguém do meu povo, a um pobre que vive ao teu lado, não sejas um usurário, dele cobrando juros. [25] Se tomares como penhor o manto do teu próximo, deverás devolvê-lo antes do pôr-do-sol. [26] Pois é a única veste que tem para o seu corpo, e coberta que ele tem para dormir. Se clamar por mim, eu o ouvirei, porque sou misericordioso. [27] Não blasfemarás contra Deus, nem injuriarás o príncipe do povo. [28] Não atrasarás a oferta da tua colheita e do teu lagar. Deverás dar-me o primogênito de teus filhos. [29] O mesmo farás com o primogênito das vacas e das ovelhas: ele ficará sete dias com a mãe, e no oitavo dia tu o entregarás a mim. [30] Para mim, vós deveis ser santos. Não comais carne de animal dilacerado no campo, mas lançai-a aos cães. [23,1] Não aceitarás rumores falsos contra o teu próximo, nem darás tua mão ao ímpio, pronunciando um falso testemunho. [2] Não seguirás a multidão para fazer o mal; nem aceitarás, num processo, o parecer da maioria, para te desviares da verdade. [3] Não favorecerás um pobre num julgamento. [4] Se encontrares o boi do teu inimigo ou o seu jumento desgarrado, não deixes de reconduzi-los ao seu dono. [5] Se vires o jumento daquele que te odeia caído debaixo da sua carga, não passarás adiante, mas ajudarás a erguê-lo. [6] Não distorcerás o direito do pobre no seu processo. [7] Fugirás da mentira. Não matarás o inocente e o justo, porque eu abomino o ímpio. [8] Não aceitarás presentes, porque eles tornam cegos os perspicazes, e comprometem a causa dos justos. [9] Não oprimirás o estrangeiro; pois sabeis o que sente um estrangeiro, vós que também fostes estrangeiros no Egito.
+
+@secao Responsório | Sl 81(82),3-4; cf. Tg 2,5
+
+@responsorio
+R. Fazei justiça aos indefesos e aos órfãos,
+ao pobre e ao humilde absolvei!
+* Libertai o oprimido, o infeliz, da mão dos opressores arrancai-os.
+V. Deus escolheu os que são pobres neste mundo para que eles sejam ricos pela fé, e se tornem os herdeiros de seu reino. * Libertai.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre o Evangelho de São João, de Santo Agostinho, bispo
+{(Séc.V)} {(Tract.15,10-12.16-17:CCL 36,154-156)}
+
+@tema
+Veio uma mulher da Samaria para tirar água
+
+@texto
+Veio uma mulher. Esta mulher é figura da Igreja, ainda não justificada, mas já a caminho da justificação. É disso que iremos tratar. A mulher veio sem saber o que ali a esperava; encontrou Jesus, e Jesus dirigiu-lhe a palavra. Vejamos o fato e a razão por que veio uma mulher da Samaria para tirar água (Jo 4,7). Os samaritanos não pertenciam ao povo judeu; não eram do povo escolhido. Faz parte do simbolismo da narração que esta mulher, figura da Igreja, tenha vindo de um povo estrangeiro; porque a Igreja viria dos pagãos, dos que não pertenciam à raça judaica. Ouçamos, portanto, a nós mesmos nas palavras desta mulher, reconheçamo-nos nela e nela demos graças a Deus por nós. Ela era uma figura, não a realidade; começou por ser figura, e tornou-se realidade. Pois acreditou naquele que queria torná-la uma figura de nós mesmos. Veio para tirar água. Viera simplesmente para tirar água, como costumam fazer os homens e as mulheres. _Jesus lhe disse: “Dá-me de beber”. Os discípulos tinham ido à cidade para comprar alimentos. A mulher samaritana disse então a Jesus: “Como é que tu, sendo judeu, pedes de beber a mim, que sou uma mulher samaritana?” De fato os judeus não se dão com os samaritanos_ (Jo 4,7-9). Estais vendo que são estrangeiros. Os judeus de modo algum se serviam dos cântaros dos samaritanos. Como a mulher trazia consigo um cântaro para tirar água, admirou-se que um judeu lhe pedisse de beber, pois os judeus não costumavam fazer isso. Mas aquele que pedia de beber tinha sede da fé daquela mulher. _Escuta agora quem pede de beber. Respondeu-lhe Jesus? “Se tu conhecesses o dom de Deus e quem é que te pede: ‘Dá-me de beber’, tu mesma lhe pedirias a ele, e ele te daria água viva_ (Jo 4,10). Pede de beber e promete dar de beber. Apresenta-se como necessitado que espera receber, mas possui em abundância para saciar os outros. Se tu conhecesses o dom de Deus, diz ele. O dom de Deus é o Espírito Santo. Jesus fala ainda veladamente à mulher, mas pouco a pouco entra em seu coração, e vai lhe ensinando. Que haverá de mais suave e bondoso que esta exortação? Se tu conhecesses o dom de Deus e quem é que te pede: ‘Dá-me de beber’,tu mesma lhe pedirias a ele, e ele te daria água viva. Que água lhe daria ele, senão aquela da qual está escrito: _Em vós está a fonte da vida?_ (Sl 35,10). Pois _como podem ter sede os que vêm saciar-se na abundância de vossa morada?_ (Sl 35,9). O Senhor prometia à mulher um alimento forte, prometia saciá-la com o Espírito Santo. Mas ela ainda não compreendia. E, na sua incompreensão, que respondeu? Disse-lhe então a mulher: _“Senhor, dá-me dessa água, para que eu não tenha mais sede e nem tenha de vir aqui para tirá-la”_ (Jo 4,15). A necessidade a obrigava a trabalhar, mas sua fraqueza recusava o trabalho. Se ao menos ela tivesse ouvido aquelas palavras: _Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos e eu vos darei descanso!_ (Mt 11,28). Jesus dizia-lhe tudo aquilo para que não se cansasse mais; ela, porém, ainda não compreendia.
+
+@secao Responsório | Cf. Jo 7,37-39; 4,14
+
+@responsorio
+R. Estando em pé, Jesus clamava em alta voz:
+Quem tem sede venha a mim, venha beber; e torrentes de água viva jorrarão do mais íntimo de quem tem fé em mim.
+* Jesus dizia isto do Espírito que devia receber quem nele cresse.
+V. Quem beber daquela água que eu lhe der, nunca mais sentirá sede, diz Jesus. * Jesus dizia.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de toda misericórdia e de toda bondade, vós nos indicastes o jejum, a esmola e a oração como remédio contra o pecado. Acolhei esta confissão da nossa fraqueza para que, humilhados pela consciência de nossas faltas, sejamos confortados pela vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

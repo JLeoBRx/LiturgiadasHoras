@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/3tercaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 16,6.8
+@texto
+Eu vos chamo, ó meu Deus, porque me ouvis,
+inclinai o vosso ouvido e escutai-me!
+Protegei-me qual dos olhos a pupila
+e guardai-me, à proteção de vossas asas.
+
+@secao Coleta
+@texto
+Senhor, a vossa graça não nos abandone,
+mas nos faça dedicados ao vosso santo serviço
+e sempre nos obtenha o vosso auxílio.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei-nos, Senhor,
+que este sacrifício salvador
+nos purifique dos pecados
+e faça de nós um louvor da vossa glória.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 14,1-2
+@texto
+Senhor, quem morará em vossa casa,
+e em vosso monte santo habitará?
+É aquele que caminha sem pecado
+e pratica a justiça fielmente.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que a santa participação neste mistério
+renove a nossa vida,
+nos obtenha a remissão dos pecados
+e o auxílio da vossa proteção.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Ó Deus, Pai e Pastor do vosso povo,
+afastai os pecados que o oprimem
+para que sempre vos possa agradar
+e ter certeza da vossa proteção.
+Por Cristo, nosso Senhor.

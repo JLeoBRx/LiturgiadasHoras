@@ -1,0 +1,106 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4segunda_leituras.htm
+@documento Ofício das Leituras - IV Segunda-Feira
+
+@titulo IV SEGUNDA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Chegou o tempo para nós,
+segundo o anúncio do Senhor,
+em que virá do céu o Esposo,
+do reino eterno o Criador.
+
+A seu encontro as virgens sábias
+correm, levando em suas mãos
+lâmpadas vivas, luminosas,
+cheias de imensa exultação.
+
+Pelo contrário, as virgens loucas
+lâmpadas levam apagadas
+e, em vão, do Rei batem às portas,
+que já se encontram bem fechadas.
+
+Sóbrios, agora vigiemos
+para que, vindo o Rei das gentes,
+corramos logo ao seu encontro,
+com nossas lâmpadas ardentes.
+
+Divino Rei, fazei-nos dignos
+do Reino eterno, que já vem,
+e assim possamos para sempre
+vosso louvor cantar. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Dos santos vida e esperança,
+Cristo, caminho e salvação,
+luz e verdade, autor da paz,
+a vós, louvor e adoração.
+
+Vosso poder se manifesta
+nas vidas santas, ó Senhor.
+Tudo o que pode e faz o justo,
+traz o sinal do vosso amor.
+
+Concedei paz aos nossos tempos,
+força na fé, cura ao doente,
+perdão àqueles que caíram;
+a todos, vida, eternamente!
+
+Igual louvor ao Pai, ao Filho,
+e ao Santo Espírito também
+seja cantado em toda parte
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração! †
+
+@salmo salmos/salmo-072-i
+
+@gloria
+
+@antifona
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração!
+
+@antifona 2
+Os maus que hoje riem, amanhã hão de chorar.
+
+@salmo salmos/salmo-072-ii
+
+@gloria
+
+@antifona
+Os maus que hoje riem, amanhã hão de chorar.
+
+@antifona 3
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.
+
+@salmo salmos/salmo-072-iii
+
+@gloria
+
+@antifona
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.
+
+@texto
+V. Como é doce ao paladar vossa palavra.
+R. Muito mais doce do que o mel na minha boca!

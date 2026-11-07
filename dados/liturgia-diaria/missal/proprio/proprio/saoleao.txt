@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saoleao.htm
+
+@secao Antífona da entrada
+@texto
+O Senhor firmou com ele uma aliança de paz
+e o colocou à frente do seu povo
+a fim de ser sacerdote para sempre.
+
+@secao Coleta
+@texto
+Ó Deus, jamais permitis que as forças do mal
+prevaleçam contra a vossa Igreja,
+fundada sobre a rocha inabalável dos Apóstolos;
+concedei-lhe, pela intercessão do papa São Leão Magno,
+permanecer firme na vossa verdade
+e gozar de paz para sempre.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, pelas oferendas que apresentamos,
+iluminai benigno a vossa Igreja,
+para que o vosso rebanho cresça por toda parte,
+e os pastores, por vós guiados,
+sejam agradáveis aos vossos olhos.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Cf. Mt 16,16.18}
+Simão Pedro disse a Jesus:
+Tu és o Cristo, o Filho do Deus vivo.
+Jesus então declarou:
+Tu és Pedro, e sobre esta pedra construirei a minha Igreja.
+
+@secao Depois da comunhão
+@texto
+Senhor, governai com bondade a vossa Igreja,
+alimentada nesta santa ceia, para que,
+conduzida por vossa mão poderosa,
+cresça na liberdade
+e permaneça firme na integridade da fé.
+Por Cristo, nosso Senhor.

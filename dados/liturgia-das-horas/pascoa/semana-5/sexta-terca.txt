@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5sextapascoa_terca.htm
+@documento Hora Média - Terça - Sexta-feira da 5ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | At 2,32.36
+
+@texto
+Deus ressuscitou Jesus e disto todos nós somos testemunhas. Portanto, que todo o povo de Israel reconheça com plena certeza: Deus constituiu Senhor e Cristo a este Jesus que vós crucificastes.
+
+@texto
+V. O Senhor ressurgiu realmente. Aleluia.
+R. E apareceu a Simão.Aleluia.
+
+@secao Oração
+
+@oracao
+Amparai, ó Deus, nossos corações para vivermos dignamente os mistérios pascais, a fim de que esta celebração realizada com alegria nos proteja por sua força inesgotável e nos comunique a salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopatricio.htm
+@documento Ofício das Leituras - São Patrício, Bispo
+
+@celebracao
+SÃO PATRÍCIO, BISPO
+
+@biografia
+Nasceu na Grã-Bretanha, cerca de 385; ainda jovem, foi levado prisioneiro para a Irlanda e mandado pastorear ovelhas. Recuperando a liberdade, abraçou o estado clerical e foi eleito bispo da Irlanda. Evangelizou com grande zelo os habitantes daquela ilha, convertendo muitos à fé cristã e organizando aquela Igreja. Morreu nas cercanias de Down, em 461.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Confissão de São Patrício, bispo
+{(Séc. V)} {(Cap. 14-16: PL 53,808-809)}
+
+@tema
+Por meu intermédio, muitos povos renasceram para Deus
+
+@texto
+Sem cessar dou graças a meu Deus que me conservou fiel no dia da provação; por isso ofereço hoje, com toda confiança, o sacrifício da minha vida, como hóstia viva, a Cristo meu Senhor, que me salvou de todas as angústias. E lhe pergunto: Quem sou eu, Senhor, qual é a minha vocação, para me terdes concedido tantas graças do céu? Assim, posso hoje exultar constantemente e glorificar o vosso nome, onde quer que eu esteja; não só na prosperidade, mas também nas tribulações. Devo acolher de igual modo tudo quanto me acontecer de bom ou de mau; e sempre agradecerei a Deus que me ensinou a crer nele sem hesitação, sempre, até ao fim. Por vossa graça, nestes últimos tempos, apesar da minha ignorância, pude realizar uma obra tão santa e maravilhosa, a ponto de imitar aqueles que iriam anunciar o Evangelho do Senhor, conforme ele mesmo predissera, em testemunho a todos os povos.
+De onde me veio essa sabedoria que não existia em mim, se nem sabia contar o número dos dias, e nada conhecia sobre Deus? De onde me veio depois tão salutar e grande dom: não apenas de conhecer e amar a Deus, mas também largar a pátria e a família, e vir pregar o evangelho aos povos da Irlanda? E ainda sofrer insultos dos incrédulos, ser desprezado como estrangeiro e suportar perseguições sem conta até ser encarcerado, sacrificando minha condição de homem livre pelo bem dos outros?
+E se for achado digno de tal honra, estou pronto também, sem vacilar e de boa vontade, para dar minha vida pelo seu nome, entregando-a por ele até à morte, se o Senhor me fizer este favor. Porque minha dívida para com Deus é imensa, ele que me concedeu esta graça tão grande: por meu intermédio, muitos povos renasceram para Deus, e em seguida foram conduzidos à perfeição. Em toda parte, muitos clérigos foram ordenados para servirem este povo recém-chegado à fé, que o Senhor veio buscar dos confins da terra, como prometera no passado pelos profetas: A ti virão os povos desde os confins da terra, e dirão: _Nossos pais reconheceram que os ídolos eram falsos, e neles não havia vantagem alguma_ (cf. Jr 16,19). E ainda: Eu farei de ti luz das nações, para que minha salvação chegue até os confins da terra (Is 49,6).
+E é aqui que quero esperar a realização de sua promessa que nunca falha, como está garantido no evangelho: _Muitos virão do Oriente e do Ocidente e se sentarão à mesa do Reino dos céus com Abraão, Isaac e Jacó_ (Mt 11,8). Assim acreditamos que do mundo inteiro virão os que creem.
+
+@secao Responsório | Rm 15,15b-16; 1,9
+
+@responsorio
+R. Foi-me dada por Deus esta graça:
+Ser ministro de Cristo aos gentios,
+anunciando o Evangelho de Deus,
+* Para que os gentios se tornem oferta aceita e santificada
+pelo Espírito Santo de Deus.
+V. Em meu espírito sirvo a Deus Pai,
+anunciando o Evangelho do Filho. * Para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa providência, para anunciar o Evangelho aos povos da Irlanda, escolhestes o bispo São Patrício, concedei, por seus méritos e preces, que os cristãos anunciem a todos as maravilhas do vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

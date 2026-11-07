@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ceiadosenhor_sexta.htm
+@documento Hora Média - Ceia do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+a unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos.
+
+ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem,
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Como o Pai me conhece, eu conheço meu Pai;
+minha vida eu entrego por minhas ovelhas.
+
+@salmo salmos/salmo-118-65-72
+
+@gloria
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Como o Pai me conhece, eu conheço meu Pai;
+minha vida eu entrego por minhas ovelhas.
+
+@secao Leitura breve | Hb 7,26-27
+
+@texto
+Tal é precisamente o sumo-sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus. Ele não precisa, como os sumos-sacerdotes, oferecer sacrifícios a cada dia, primeiro por seus próprios pecados e depois pelos do povo. Ele já o fez uma vez por todas, oferecendo-se a si mesmo, Jesus Cristo nosso Senhor.
+
+@texto
+V. O Cristo tomou sobre si nossas dores.
+R. Carregou em seu corpo os nossos pecados.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, amar-vos acima de tudo é ser perfeito; multiplicai em nós a vossa graça e concedei, aos que firmamos nossa esperança na morte do vosso Filho, alcançarmos por sua ressurreição aqueles bens que na fé buscamos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

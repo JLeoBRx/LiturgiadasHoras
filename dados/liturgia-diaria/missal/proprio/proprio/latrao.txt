@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/latrao.htm
+
+@secao Antífona da entrada | Cf. Ap 21,2
+@texto
+Eu vi a cidade santa, a nova Jerusalém,
+descendo do céu, de junto de Deus,
+preparada como esposa
+adornada para seu esposo.
+
+@secao Coleta
+@texto
+Ó Deus, com pedras vivas e escolhidas
+preparais um templo eterno para a vossa glória;
+aumentai na vossa Igreja os dons do Espírito que lhe destes,
+para que vosso povo fiel cresça sempre mais,
+edificando a Jerusalém celeste.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+Ou:
+Ó Deus, que chamastes esposa a vossa Igreja,
+concedei aos que estão a serviço do vosso nome
+temer-vos, amar-vos e seguir-vos até alcançar,
+guiados por vós, as promessas eternas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, as nossas oferendas,
+e concedei aos que vos suplicam
+obter a força dos sacramentos e o fruto de suas preces.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Pd 2,5
+@texto
+Como pedras vivas,
+formai um edifício espiritual, um sacerdócio santo.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que nos destes a Igreja neste mundo
+como imagem da Jerusalém celeste,
+concedei-nos, pela participação neste sacramento,
+ser templos da vossa graça
+e chegar onde habita a vossa glória.
+Por Cristo, nosso Senhor.

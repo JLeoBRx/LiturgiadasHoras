@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/3sextaAD.htm
+
+@secao Antífona da entrada
+@texto
+O Senhor descerá com esplendor
+para visitar o seu povo na paz
+e comunicar-lhe a vida eterna.
+
+@secao Coleta
+@texto
+Ó Deus todo-poderoso,
+a vossa graça sempre nos preceda e acompanhe,
+para que, esperando ardentemente a vinda do vosso Filho,
+consigamos o vosso auxílio
+na vida presente e na vida futura.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, com bondade
+nossas humildes preces e oferendas;
+e, como não podemos invocar os nossos méritos,
+venha em nosso socorro a vossa misericórdia.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. FI 3,20-21
+@texto
+Aguardamos como salvador o Senhor Jesus Cristo.
+Ele transformará o nosso corpo, humilhado,
+tornando-o semelhante ao seu corpo glorioso.
+
+@secao Depois da comunhão
+@texto
+Nós vos suplicamos, Senhor,
+que saciados com o alimento espiritual,
+pela participação nestes santos mistérios,
+nos ensineis a apreciar com sabedoria as coisas terrenas
+e colocar nossas esperanças nos bens eternos.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santosreligiosos_terca.htm
+@documento COMUM DOS SANTOS RELIGIOSOS - Hora Média
+
+@titulo COMUM DOS SANTOS RELIGIOSOS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+O que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. Deus dirige os humildes na justiça.
+R. E aos pobres ele ensina o seu caminho.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo abade:
+
+@texto
+Ó Deus, que nos destes no santo abade {N.} um testemunho de perfeição evangélica, fazei-nos, em meio às agitações deste mundo, fixar os corações nos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

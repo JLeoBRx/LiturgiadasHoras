@@ -1,0 +1,88 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@secao XIX (Coph)
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@antifona
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@antifona 2
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@salmo salmos/salmo-093-i
+
+@gloria
+
+@antifona
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@antifona 3
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@salmo salmos/salmo-093-ii
+
+@gloria
+
+@antifona
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@secao Leitura breve | Cl 3,23-24
+
+@texto
+Tudo o que fizerdes, fazei-o de coração, como para o Senhor e não para os homens. Pois vós bem sabeis que recebereis do Senhor a herança como recompensa. Servi a Cristo, o Senhor!
+
+@texto
+V. Ó Senhor, sois minha herança e minha taça,
+R. Meu destino está seguro em vossas mãos.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que para salvar o gênero humano estendestes vossos braços na cruz, concedei que nossas ações vos agradem e manifestem ao mundo vossa obra redentora. Vós que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

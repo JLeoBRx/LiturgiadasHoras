@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolucas_laudes.htm
+@documento Laudes - São Lucas, Evangelista
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Cantamos, hoje, Lucas, teu martírio,
+teu sangue derramado por Jesus,
+os dois livros que trazes nos teus braços
+e o teu halo de luz.
+
+Levado pelo Espírito, escreveste
+tudo o que disse e fez o Bom Pastor,
+pois aos sermões de Cristo acrescentaste
+os seus gestos de amor.
+
+De Pedro e Paulo registraste os atos,
+e do povo fiel a comunhão,
+quando unidos em preces pelas casas,
+iam partindo o pão.
+
+De Paulo foste o amigo e companheiro,
+ouviste de seu peito as pulsações;
+faze vibrar no mesmo amor de Cristo
+os nossos corações.
+
+Médico santo, cura os nossos males,
+leva ao aprisco o pobre pecador;
+dá que no céu sejamos acolhidos
+pelo próprio Senhor.
+
+@secao Salmodia
+
+@antifona 1
+O santo Evangelista investigou
+o saber dos grandes homens do passado
+e confirmou o que os profetas predisseram.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O santo Evangelista investigou
+o saber dos grandes homens do passado
+e confirmou o que os profetas predisseram.
+
+@antifona 2
+Deus chamou-nos à fé na Verdade,
+pelo anúncio do santo Evangelho,
+para obtermos a glória de Cristo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Deus chamou-nos à fé na Verdade,
+pelo anúncio do santo Evangelho,
+para obtermos a glória de Cristo.
+
+@antifona 3
+Muitos louvaram seu saber, que jamais perecerá.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Muitos louvaram seu saber, que jamais perecerá.
+
+@secao Leitura breve | 1Cor 15,1-2a.3-4
+
+@texto
+Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes. Por ele sois salvos, se o estais guardando tal qual ele vos foi pregado por mim. Com efeito, transmiti-vos, em primeiro lugar, aquilo que eu mesmo tinha recebido, a saber: que Cristo morreu por nossos pecados, segundo as Escrituras; que foi sepultado; que, ao terceiro dia, ressuscitou, segundo as Escrituras.
+
+@secao Responsório breve
+
+@responsorio
+R. Eles contaram as grandezas
+* Do Senhor e seu poder. R. Eles contaram.
+V. E as suas maravilhas que por nós realizou. * Do Senhor.
+Glória ao Pai. R. Eles contaram.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+São Lucas transmitiu-nos o Evangelho do Senhor,
+e anunciou-nos Jesus Cristo, Sol nascente lá do alto.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+São Lucas transmitiu-nos o Evangelho do Senhor,
+e anunciou-nos Jesus Cristo, Sol nascente lá do alto.
+
+@secao Preces
+
+@preces
+Invoquemos nosso Salvador que, destruindo a morte, iluminou a vida por meio do Evangelho; e peçamos humildemente:
+
+R. **Confirmai a vossa Igreja na fé e na caridade!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes doutores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que escolhestes São Lucas para revelar em suas palavras e escritos o mistério do vosso amor para com os pobres, concedei aos que já se gloriam do vosso nome perseverar num só coração e numa só alma, e a todos os povos do mundo ver a vossa salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

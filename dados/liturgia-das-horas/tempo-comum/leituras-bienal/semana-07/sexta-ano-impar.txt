@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/07sextaTC_impar.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo 7a SEMANA DO TEMPO COMUM / SEXTA-FEIRA / III Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {12,31-13,13}
+
+@tema
+De todas a caridade é a maior
+
+@texto
+Irmãos, [12,31] aspirai aos dons mais altos. Aliás, passo a indicar-vos um caminho que ultrapassa a todos. [13,1] Ainda que eu falasse línguas, as dos homens e as dos anjos, se eu não tivesse a caridade, seria como um bronze que soa ou como um címbalo que tine. [2] Ainda que eu tivesse o dom da profecia, o conhecimento de todos os mistérios e de toda a ciência, ainda que tivesse toda a fé, a ponto de transportar montanhas, se não tivesse a caridade, eu nada seria. [3] Ainda que eu distribuísse todos os meus bens aos famintos, ainda que entregasse o meu corpo às chamas, se não tivesse a caridade, isso nada adiantaria. [4] A caridade é prestativa, não é invejosa, não se ostenta, não se incha de orgulho. [5] Nada faz de inconveniente, não procura o seu próprio interesse, não se irrita, não guarda rancor. [6] Não se alegra com a injustiça, mas se regozija com a verdade. [7] Tudo desculpa, tudo crê, tudo espera, tudo suporta. [8] A caridade jamais passará. Quanto às profecias, desaparecerão. Quanto às línguas, cessarão. Quanto à ciência, também desaparecerá. [9] Pois o nosso conhecimento é limitado, e limitada é a nossa profecia. [10] Mas, quando vier a perfeição, o que é limitado desaparecerá. [11] Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Depois que me tornei homem, fiz desaparecer o que era próprio da criança. [12] Agora vemos em espelho e de maneira confusa, mas, depois, veremos face a face. Agora o meu conhecimento é limitado, mas, depois, conhecerei como sou conhecido. [13] Agora, portanto, permanecem fé, esperança, caridade, estas três coisas. A maior delas, porém, é a caridade.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Nós conhecemos e cremos no amor
+que Deus tem para conosco.
+* Deus é amor, e quem permanece no amor
+permanece em Deus e Deus nele.
+V. Amemo-nos uns aos outros,
+porque o amor vem de Deus.
+* Deus é amor.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre a carta aos Romanos”, de Orígenes, presbítero
+{(Séc. III)} {(Liv. 9,2)}
+
+@tema
+Na Igreja que é o corpo de Cristo, cada um tem um lugar diferente
+
+@texto
+Cada um reflita e tente compreender qual é a medida da graça de Deus que tem merecido alcançar através da fé. Um recebe de Deus o dom de exercitar a caridade, ou visitando ou praticando misericórdia com os pobres, ou cuidando dos enfermos, ou defendendo as viúvas e os órfãos, ou com a solicitude com os hóspedes. Deus tem dispensado a cada um esses dons segundo a medida da fé.
+Mas se aquele que recebe um desses dons não conhece a medida da graça a ele concedida, e pretende no seu lugar ser um experto na sabedoria de Deus, na doutrina ou numa ciência mais profunda da qual não tem recebido o dom, e em vez de aprender busca ensinar coisas que na verdade não conhece, este não só é ignorante, mas é também presunçoso.
+Falta-lhe a discrição que deveria ter _cada um segundo a_ _medida de fé que Deus tem lhe dado_ (Rm 12,3). Antes, para ser mais claro, o Apóstolo dá um exemplo: _Pois, como num_ _só corpo temos muitos membros e estes membros não têm_ _a mesma função, assim também nós, embora sendo muitos,_ _somos um só corpo em Cristo e cada um por sua parte somos_ _membros uns dos outros_ (Rm 12,4-5). Ele estrutura assim de maneira excelente todo o corpo da Igreja.
+Como cada membro do corpo tem uma função própria e cada um cumpre o próprio dever, não pode acontecer que não colaborem mutuamente em acordo recíproco, assim também na Igreja, que é o corpo de Cristo, temos cada um uma mansão diversa. Um, por exemplo, aplica-se ao estudo da sabedoria de Deus e à doutrina da palavra, e insiste dia e noite na meditação da lei divina: é o olho deste grande corpo. Outro se ocupa do serviço dos irmãos e dos necessitados: é a mão deste santo corpo. Outro escuta avidamente a palavra de Deus: é o ouvido. Outro ainda é todo dedicado a visitar os doentes e consolar os aflitos, vai ao encontro de quem se encontra em dificuldade para libertá-lo: ele, no corpo da Igreja, pode se chamar de pé. E assim cada um, sendo mais esperto no próprio ministério, o explica no modo mais eficiente.
+
+@secao Responsório | 1Cor 12,11.28; Sb 7,16
+
+@responsorio
+R. Todas estas coisas é o único
+e o mesmo Espírito quem as opera.
+* Alguns por isto tem-nos colocado na Igreja como apóstolos,
+outros como profetas, outros como mestres;
+depois vêm os milagres, depois o dom de fazer curas.
+V. No seu poder estamos nós e as nossas palavras,
+cada inteligência e cada habilidade nossa.
+* Alguns por isto.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, procurando conhecer sempre o que é reto, realizemos vossa vontade em nossas palavras e ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

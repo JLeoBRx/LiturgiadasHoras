@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sabado_aposepifania_vesperas.htm
+@documento I Vésperas
+
+@titulo BATISMO DO SENHOR / {Festa}
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+A nós vindes pela Virgem,
+Unigênito do Pai.
+Os que na água consagrastes
+pela fé regenerai.
+
+Vindo a nós dos altos céus,
+forma humana adotastes.
+Ao pagar co’a morte a conta,
+vida e gáudio nos doastes.
+
+Redentor, propício vinde
+lá do alto e nos salvai.
+Com a vossa luz divina
+nossa mente iluminai.
+
+Ó Senhor, ficai conosco,
+apartai a noite escura,
+nos lavai de toda culpa,
+às doenças dai a cura.
+
+Cristo luz, vida e verdade,
+para vós todo o louvor.
+Pai e Espírito revelam
+vosso eterno resplendor.
+
+@secao Salmodia
+
+@antifona 1
+João Batista no deserto pregava um batismo
+de penitência e conversão para os pecados perdoar.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+João Batista no deserto pregava um batismo
+de penitência e conversão para os pecados perdoar.
+
+@antifona 2
+Com água eu vos batizo.
+Mas o Cristo haverá de batizar-vos com o fogo
+e o Espírito de Deus.
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Com água eu vos batizo.
+Mas o Cristo haverá de batizar-vos com o fogo
+e o Espírito de Deus.
+
+@antifona 3
+Depois de batizado, Jesus saiu da água,
+e abriram-se os céus.
+
+@secao O mistério e a glória de Cristo
+
+@texto
+R. Louvai o Senhor Deus, todos os povos.
+
+@salmo canticos/1tm-3-16
+
+@gloria
+
+@antifona
+Depois de batizado, Jesus saiu da água,
+e abriram-se os céus.
+
+@secao Leitura breve | At 10,37-38
+
+@texto
+Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó Senhor e nosso Deus.
+* Ouvi o clamor de vosso povo! R. Ó Senhor.
+V. E abri-lhe a fonte d’água viva. * Ouvi o clamor.
+Glória ao Pai. R. Ó Senhor.
+
+@secao Cântico Evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Salvador foi batizado e renovou o velho homem;
+pela água restaurou a natureza corrompida;
+revestiu-nos de uma veste incorruptível e imortal.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+O Salvador foi batizado e renovou o velho homem;
+pela água restaurou a natureza corrompida;
+revestiu-nos de uma veste incorruptível e imortal.
+
+@secao Preces
+
+@preces
+Oremos a nosso Redentor, que quis ser batizado por João no rio Jordão; e digamos:
+
+R. **Senhor, enviai-nos vosso Espírito!**
+
+Cristo, servo de Deus, em quem o Pai põe todo o seu agrado,
+– enviai sobre nós o vosso Espírito. R.
+
+Cristo, Eleito de Deus, que não quebrais o caniço rachado nem apagais a mecha que ainda fumega,
+– tende compaixão de todos os que vos procuram de coração sincero. R.
+
+Cristo, Filho de Deus, a quem o Pai escolheu pela Nova Aliança para ser a luz das nações,
+– abri, nas águas do batismo, os olhos dos que ainda não têm fé. R.
+
+Cristo, Salvador da humanidade, a quem o Pai ungiu com o Espírito Santo para o ministério da salvação;
+– fazei que todos vos conheçam e creiam em vós, para alcançarem a vida eterna. R.
+
+{(intenções livres)}
+
+Cristo, nossa Esperança, que conduzis para a luz da salvação os povos que se acham nas trevas,
+– recebei no vosso reino os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que, sendo o Cristo batizado no Jordão, e pairando sobre ele o Espírito Santo, o declarastes solenemente vosso Filho, concedei aos vossos filhos adotivos, renascidos da água e do Espírito Santo, perseverar constantemente em vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

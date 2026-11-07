@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6quartapascoa_laudes.htm
+@documento Laudes - Quarta-feira da 6ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+As águas, ó Senhor, vos avistaram
+conduzistes vosso povo pelo mar. Aleluia.
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+As águas, ó Senhor, vos avistaram
+conduzistes vosso povo pelo mar. Aleluia.
+
+@antifona 2
+É o Senhor que dá a morte e dá a vida, Aleluia.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+É o Senhor que dá a morte e dá a vida, Aleluia.
+
+@antifona 3
+Uma luz já se levanta para os justos
+e a alegria para os retos corações. Aleluia.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Uma luz já se levanta para os justos
+e a alegria para os retos corações. Aleluia.
+
+@secao Leitura breve | Rm 6,8-11
+
+@texto
+Se morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele. Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive. Assim, vós também considerai-vos mortos para o pecado e vivos para Deus, em Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.* Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz.* Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Tenho ainda muitas coisas a dizer-vos,
+mas agora não podeis compreendê-las;
+quando vier o Espírito da verdade,
+toda a verdade haverá de ensinar-vos. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Tenho ainda muitas coisas a dizer-vos,
+mas agora não podeis compreendê-las;
+quando vier o Espírito da verdade,
+toda a verdade haverá de ensinar-vos. Aleluia.
+
+@secao Preces
+
+@preces
+Elevemos nossas preces a Deus Pai, que quis revelar aos apóstolos a glória de Cristo ressuscitado; e aclamemos:
+
+R. **Iluminai-nos, Senhor, com a glória de Cristo!**
+
+Nós vos louvamos, Senhor, fonte de luz e de glória,
+– que nos chamastes à vossa luz admirável para alcançarmos a salvação. R.
+
+Purificai e fortalecei com o poder do Espírito Santo a atividade da Igreja em toda a terra,
+– para que melhorem as relações humanas entre todos os cidadãos do mundo. R.
+
+Fazei que nos dediquemos de tal modo ao serviço do próximo,
+– que possamos transformar a comunidade humana numa oferenda agradável aos vossos olhos. R.
+
+Desde o amanhecer, cumulai-nos com os dons da vossa bondade,
+– para vivermos na alegria de vosso louvor durante todo este dia. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, ao celebrarmos solenemente a ressurreição do vosso Filho, concedei que nos alegremos com todos os santos, quando ele vier na sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

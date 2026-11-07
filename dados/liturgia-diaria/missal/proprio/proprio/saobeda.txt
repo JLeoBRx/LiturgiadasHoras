@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saobeda.htm
+
+@secao Coleta
+@texto
+Ó Deus, que iluminais a vossa Igreja
+com os ensinamentos do presbítero São Beda,
+concedei-nos sempre em vossa bondade
+a luz da sua sabedoria e o auxílio dos seus méritos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, possa agradar-vos
+o sacrifício oferecido com alegria
+na festa de São Beda;
+fazei que, por sua exortação, também nós
+nos entreguemos totalmente ao vosso louvor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 12,42
+@texto
+Servo fiel e prudente,
+a quem o Senhor confiou a sua família
+para dar-lhe alimento no tempo oportuno {(T.P.} aleluia).
+
+@secao Depois da comunhão
+@texto
+Senhor, instruí pelo Cristo Mestre
+aqueles que alimentais com o Cristo, pão da vida,
+para que, na celebração da festa de São Beda,
+aprendam a vossa verdade e a realizem pela caridade.
+Por Cristo, nosso Senhor.

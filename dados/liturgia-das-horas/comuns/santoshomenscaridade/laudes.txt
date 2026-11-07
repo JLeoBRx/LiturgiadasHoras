@@ -1,0 +1,248 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santoshomenscaridade_laudes.htm
+@documento Laudes - COMUM DOS SANTOS HOMENS
+
+@titulo COMUM DOS SANTOS HOMENS
+
+@texto
+R. Adoremos o Senhor, admirável nos seus santos.
+
+@rubrica
+Ou:
+
+@texto
+R. Na festa de são (sto.) N., celebremos o Senhor.
+
+@salmo salmos/salmo-094
+
+@gloria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Para um santo:
+
+Jesus, coroa celeste,
+Jesus, verdade sem véu,
+ao servo que hoje cantamos
+destes o prêmio do céu.
+
+Dai que por nós interceda
+em fraternal comunhão,
+e nossas faltas consigam
+misericórdia e perdão.
+
+Bens e honrarias da terra
+sem valor ele julgou;
+vãs alegrias deixando,
+só as do céu abraçou.
+
+Que sois, Jesus, Rei supremo,
+jamais cessou de afirmar;
+com seu fiel testemunho
+soube o demônio esmagar.
+
+Cheio de fé e virtude,
+os seus instintos domou,
+e a recompensa divina,
+servo fiel, conquistou.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+ao celebrarmos o servo
+de quem Jesus é o Senhor.
+
+Para vários santos:
+
+Ó fiéis seguidores de Cristo,
+a alegria da glória feliz,
+como prêmio do vosso martírio,
+para sempre no céu possuís.
+
+Escutai, com ouvidos benignos,
+os louvores que a vós entoamos.
+Nós, ainda exilados da Pátria,
+vossa glória, num hino, cantamos.
+
+Pelo amor de Jesus impelidos,
+dura cruz sobre os ombros levastes.
+Pressurosos, ardentes de amor
+e submissos, a fé preservastes.
+
+Desprezastes o ardil do demônio
+e os enganos do mundo também.
+Testemunhas de Cristo na vida,
+vós subistes dos astros além.
+
+E agora, na glória celeste,
+sede atentos à voz da oração
+dos que querem seguir vossos passos
+e vos clamam com seu coração.
+
+Glória seja à Divina Trindade
+para que nos conduza também
+pela ajuda e as preces dos mártires
+às moradas celestes. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@antifona 2
+Vós, servos do Senhor, bendizei-o para sempre!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, servos do Senhor, bendizei-o para sempre!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@antifona 3
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@rubrica
+Ou:
+
+@rubrica
+Para vários santos homens:
+
+@texto
+R. Os justos se alegram
+* na presença do Senhor. R. Os justos.
+V. Rejubilam satisfeitos, e exultam de alegria. * Na presença.
+Glória ao Pai. R. Os justos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Nisto todos saberão que vós sois os meus discípulos: se uns aos outros vos amardes.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Nisto todos saberão que vós sois os meus discípulos: se uns aos outros vos amardes.
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, só vós sois santo e sem vós ninguém pode ser bom. Pela intercessão de são (sto.) N., dai-nos viver de tal modo, que não sejamos despojados da vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que o exemplo de vossos santos nos leve a uma vida mais perfeita e, celebrando a memória de são (sto.) N., imitemos constantemente suas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para vários santos:
+
+@texto
+Deus eterno e todo-poderoso, que pela glorificação dos santos continuais manifestando o vosso amor por nós, concedei que sejamos ajudados por sua intercessão e animados pelo seu exemplo, na imitação fiel do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo religioso:
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são (sto.) N., a quem destes perseverar na imitação de Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo que se dedicou às obras de caridade:
+
+@texto
+Ó Pai, como ensinastes à vossa Igreja que todos os mandamentos se resumem em amar a Deus e ao próximo, concedei-nos, a exemplo de são (sto.) N., praticar obras de caridade, para sermos contados entre os benditos do vosso Reino. Por nosso Senhor Jesus Cristo, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo educador:
+
+@texto
+Ó Deus, que suscitastes são (sto.) N. na vossa Igreja, para mostrar ao próximo o caminho da salvação, concedei-nos seguir também o Cristo, nosso Mestre, e chegar até vós com nossos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

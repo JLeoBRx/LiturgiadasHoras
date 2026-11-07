@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5sextaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 30,10.16.18
+@texto
+Tende piedade, estou sofrendo.
+Libertai-me do inimigo e do opressor!
+Não serei confundido, Senhor, porque vos invoquei.
+
+@secao Coleta
+@texto
+Perdoai, Senhor, as faltas do vosso povo
+e, na vossa bondade,
+desfazei os laços dos pecados
+que em nossa fraqueza cometemos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+{Ou:}
+Deus de misericórdia,
+que concedeis neste tempo à vossa Igreja
+imitar piedosamente a Bem-aventurada Virgem Maria
+na contemplação da paixão de Cristo,
+fazei que, pela intercessão da mesma Virgem,
+sigamos cada vez mais firmemente o vosso Filho Unigênito
+e alcancemos um dia a plenitude da sua graça.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, ó Deus de misericórdia,
+que mereçamos sempre servir dignamente o vosso altar e,
+pela participação assídua nesse sacrifício, alcançar a salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Pd 2,24
+@texto
+Jesus carregou nossos pecados em seu próprio corpo,
+sobre o lenho da cruz, a fim de que,
+mortos para os pecados, vivamos para a justiça.
+Por suas chagas fomos curados.
+
+@secao Depois da comunhão
+@texto
+Senhor, sejamos sempre protegidos pelo sacrifício que recebemos;
+que ele afaste sempre de nós tudo o que é nocivo.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Deus todo-poderoso,
+concedei aos vossos fiéis que procuram a graça da vossa proteção,
+serem livres de todos os males e vos servirem de todo o coração.
+Por Cristo, nosso Senhor.

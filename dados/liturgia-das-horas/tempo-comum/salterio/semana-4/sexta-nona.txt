@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@secao XXI (Sin)
+
+@salmo salmos/salmo-118-161-168-xxi-sin-v2
+
+@gloria
+
+@antifona
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@antifona 2
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@antifona
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@antifona 3
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@secao Leitura breve | 1Jo 4,9-11
+
+@texto
+Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados. Caríssimos, se Deus nos amou assim, nós também devemos amar-nos uns aos outros.
+
+@texto
+V. Olhai, ó Deus, que sois a nossa proteção.
+R. Vede a face do eleito, vosso Ungido!
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que fizestes o ladrão arrependido passar da cruz ao vosso Reino, aceitai a humilde confissão de nossas culpas e fazei que, no instante da morte, entremos com alegria no paraíso. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

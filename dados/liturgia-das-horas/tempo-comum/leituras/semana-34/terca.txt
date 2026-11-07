@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/34tercaTC.htm
+@documento Ofício das Leituras
+
+@titulo TERÇA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Pedro {1,12-21}
+
+@tema
+O testemunho dos Apóstolos e dos profetas
+
+@texto
+Caríssimos: [12] Eis por que sempre vos recordarei estas coisas, embora as conheçais e estejais firmes na verdade que já vos foi apresentada. [13] Sim, creio ser meu dever, enquanto habitar nesta tenda, estimular-vos com minhas admoestações; [14] estou certo de que em breve será desarmada esta minha tenda, conforme nosso Senhor Jesus Cristo me tem manifestado. [15] Portanto, eu me empenharei para que, depois da minha partida, vos recordeis disto.
+
+@texto
+[16] Pois não foi seguindo fábulas habilmente inventadas que vos demos a conhecer o poder e a vinda de nosso Senhor Jesus Cristo, mas sim, por termos sido testemunhas oculares da sua majestade. [17] Efetivamente, ele recebeu honra e glória da parte de Deus Pai, quando do seio da esplêndida glória se fez ouvir aquela voz que dizia: "Este é o meu Filho bem-amado, no qual ponho o meu bem-querer". [18] Esta voz, nós a ouvimos, vinda do céu, quando estávamos com ele no monte santo. [19] E assim se nos tornou ainda mais firme a palavra da profecia, que fazeis bem em ter diante dos olhos, como lâmpada que brilha em lugar escuro, até clarear o dia e levantar-se a estrela da manhã em vossos corações. [20] Pois deveis saber, antes de tudo, que nenhuma profecia da Escritura é objeto de interpretação pessoal, [21] visto que jamais uma profecia foi proferida por vontade humana. Mas foi sob o impulso do Espírito Santo que homens falaram da parte de Deus.
+
+@secao Responsório | Jo 1,14; 2Pd 1,16b.18b
+
+@responsorio
+R. A Palavra se fez carne e habitou entre nós
+* E nós vimos sua glória, que recebe do Pai,
+como Filho Unigênito.
+V. Nós mesmos nos tornamos testemunhas oculares
+da sua grande majestade, quando estávamos com ele.
+* E nós vimos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre João, de Santo Agostinho, bispo
+{(Séc. V)}{(Tract. 35,8-9: CCL 36,321-323)}
+
+@tema
+Chegarás à fonte, verás a luz
+
+@texto
+Nós, cristãos, em comparação com os infiéis, já somos luz; porque, como diz o Apóstolo: Outrora éreis trevas; agora, luz no Senhor. Andai como filhos da luz (Ef 5,8). E em outro lugar: Passou a noite, o dia se aproximou; rejeitemos, pois, as obras das trevas e revistamos as armas da luz; como em pleno dia caminhemos com dignidade (Rm 13,12-13).
+
+@texto
+Todavia, em comparação com aquela luz a que chegaremos, ainda é noite até mesmo o dia em que estamos. Ouve o apóstolo Pedro, quando do magnífico esplendor desceu até ele a voz dirigida a Cristo Senhor: Tu és meu Filho muito amado, em que pus minhas complacências. Esta voz, continua, nós a ouvimos vinda do céu, quando estávamos com ele no monte santo (2Pd 1,17-18). Já que, porém, nós não estivemos lá e não ouvimos então esta voz do céu, o mesmo Pedro nos fala: E a palavra profética se tornou mais segura para nós; fazeis bem em dar-lhe atenção como a uma lâmpada em lugar escuro, até que brilhe o dia e a estrela da manhã desponte em vossos corações (cf. 2Pd 1,19).
+
+@texto
+Quando, pois, vier nosso Senhor Jesus Cristo e, segundo diz o apóstolo Paulo, iluminar tudo quanto se oculta nas trevas e manifestar os pensamentos do coração, para que receba cada um de Deus seu louvor (1Cor 4,5), então num dia assim não haverá mais necessidade de lâmpadas: não se lerá mais o profeta, não se abrirá o volume do Apóstolo, não buscaremos o testemunho de João, não precisaremos do próprio Evangelho. Portanto, todas as Escrituras serão retiradas do centro onde, na noite deste mundo, elas se acendiam como lâmpadas a fim de não ficarmos nas trevas.
+
+@texto
+Afastadas todas estas luzes, não tendo mais de brilhar para nós, indigentes, e dispensando o auxílio que por esses homens de Deus nos era dado, vendo conosco aquela verdadeira e clara luz, o que é que veremos? Onde nosso espírito irá alimentar-se? Por que se alegrará com o que vê? Donde virá aquele júbilo que nem olhos viram, nem ouvidos ouviram, nem subiu jamais ao coração do homem? (cf. 1Cor 2,9). O que é que veremos?
+
+@texto
+Eu vos peço: amai comigo, correi crendo comigo, desejemos a pátria celeste, suspiremos pela pátria do alto, sintamo-nos como peregrinos aqui. Que veremos então? Responda o evangelho: No princípio era o Verbo e o Verbo era com Deus, e o Verbo era Deus (Jo 1,1). No lugar de onde te banhou o orvalho, chegarás à fonte. Aí, de onde o raio de luz, indiretamente e como por rodeios, foi lançado a teu coração tenebroso, verás a luz sem véus; vendo-a, recebendo-a, serás purificado. Caríssimos, diz João, somos filhos de Deus e ainda não se manifestou o que seremos; sabendo que, quando aparecer, seremos semelhantes a ele, porque o veremos tal qual é (1Jo 3,2).
+
+@texto
+Percebo que vossos sentimentos sobem comigo para as alturas, mas o corpo corruptível pesa sobre a alma; e a habitação terrena com a multiplicidade dos pensamentos oprime o espírito (Sb 9,15). Também eu irei deixar de lado este livro, saireis também vós, cada um para sua casa. Sentimo-nos bem na luz comum, muito nos alegramos, exultamos de verdade; mas, ao afastar-nos uns dos outros, dele não nos afastemos.
+
+@secao Responsório | Ap 22,5.4
+
+@responsorio
+R. Nunca mais haverá noite e eles não precisarão
+da luz da lâmpada ou do sol.
+* O Senhor será sua luz e reinarão eternamente.
+V. Hão de ver a sua face, e o nome do Senhor
+estará em suas frontes. * O Senhor.
+
+@secao Oração
+
+@oracao
+Levantai, ó Deus, o ânimo dos vossos filhos e filhas, para que, aproveitando melhor as vossas graças, obtenham de vossa paternal bondade mais poderosos auxílios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

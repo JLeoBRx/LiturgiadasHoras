@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_laudes.htm
+@documento Laudes - Quinta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Já surge a luz dourada,
+a treva dissipando,
+que as almas do abismo
+aos poucos vai levando.
+
+Dissipa-se a cegueira
+que a todos envolvia;
+alegres caminhemos
+na luz de um novo dia.
+
+Que a luz nos traga paz,
+pureza ao coração:
+longe a palavra falsa,
+o pensamento vão.
+
+Decorra calmo o dia:
+a mão, a língua, o olhar.
+Não deixe nosso corpo
+na culpa se manchar.
+
+Do alto, nossos atos
+Deus vê, constantemente;
+solícito nos segue
+da aurora ao sol poente.
+
+A glória seja ao Pai,
+ao Filho seu também;
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Despertem a harpa e a lira,
+eu irei acordar a aurora.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Despertem a harpa e a lira,
+eu irei acordar a aurora.
+
+@antifona 2
+O meu povo há de fartar-se de meus bens.
+
+@salmo canticos/jr-31-10-14
+
+@gloria
+
+@antifona
+O meu povo há de fartar-se de meus bens.
+
+@antifona 3
+Grande é o Senhor e muito digno de louvores
+na cidade onde ele mora. †
+
+@salmo salmos/salmo-047
+
+@gloria
+
+@antifona
+Grande é o Senhor e muito digno de louvores
+na cidade onde ele mora.
+
+@secao Leitura breve | Is 66,1-2
+
+@texto
+Isto diz o Senhor: o céu é o meu trono e a terra é o apoio de meus pés. Que casa é esta que edificareis para mim, e que lugar é este para meu descanso? Tudo isso foi minha mão que fez, tudo isso é meu, diz o Senhor. Mas eu olho para este, para o pobrezinho de alma abatida, que treme ao ouvir a minha palavra.
+
+@secao Responsório breve
+
+@responsorio
+R. Clamo de todo o coração:
+* Atendei-me, ó Senhor! R. Clamo.
+V. Quero cumprir vossa vontade. * Atendei-me.
+Glória ao Pai. R. Clamo de todo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sirvamos ao Senhor em justiça e santidade,
+e de nossos inimigos haverá de nos salvar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sirvamos ao Senhor em justiça e santidade,
+e de nossos inimigos haverá de nos salvar.
+
+@secao Preces
+
+@preces
+Demos graças a Cristo que nos concede a luz deste novo dia; e lhe peçamos:
+
+R. **Senhor, abençoai-nos e santificai-nos!**
+
+Senhor, que vos entregastes como vítima pelos nossos pecados,
+– aceitai os trabalhos que já começamos e os nossos planos de ação para hoje. R.
+
+Senhor, que alegrais nossos olhos com a luz deste novo dia,
+– sede vós mesmo a luz dos nossos corações. R.
+
+Tornai-nos generosos para com todos,
+– para sermos imagens fiéis da vossa bondade. R.
+
+Fazei-nos desde a manhã sentir o vosso amor,
+– para que a vossa alegria seja hoje a nossa força. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ouvi as súplicas que vos dirigimos de manhã, ao meio-dia e à tarde; expulsai de nossos corações as trevas do pecado e fazei-nos alcançar a verdadeira luz, Jesus Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

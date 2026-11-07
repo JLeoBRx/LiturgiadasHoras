@@ -1,0 +1,121 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sabado_leituras.htm
+@documento Ofício das Leituras - II Sábado
+
+@titulo II SÁBADO / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Luz eterna, luz potente,
+dia cheio de esplendor,
+vencedor da noite escura
+e da luz restaurador,
+luz que, as trevas destruindo,
+enche as mentes de fulgor.
+
+Ao nascerdes, nos chamais,
+e acordamos pressurosos;
+sem vós, somos miseráveis,
+mas convosco, venturosos
+e, por vós da morte livres,
+nos tornamos luminosos.
+
+Sobre a morte e sobre a noite
+por vós somos vencedores.
+Dai-nos, Rei, a vossa luz,
+luz de esplêndidos fulgores.
+Desta luz nem mesmo a noite
+escurece os esplendores.
+
+Honra seja ao Pai, a vós
+e ao Espírito também,
+Una e Trina Divindade,
+paz e vida, luz e bem,
+nome doce mais que todos,
+Deus agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Deus que não tendes princípio,
+Deus procedente do Pai,
+Deus, que dos dois sois o Amor,
+vinde até nós, nos salvai!
+
+Vós sois o nosso desejo,
+sede amor e alegria;
+vai para vós nosso anseio,
+a vossa luz nos recria.
+
+Com o Nascido da Virgem,
+ó Pai, de todos Senhor,
+regei dos seres o íntimo
+por vosso Espírito de amor.
+
+Lembrai-vos, Santa Trindade,
+do amor com que nos amastes:
+Criando o homem primeiro,
+de novo em sangue o criastes.
+
+O que o Deus uno criou,
+Cristo na cruz redimiu.
+Tendo por nós padecido,
+guarde os que em sangue remiu.
+
+A vós, ó Santa Trindade,
+paz e alegria convêm,
+poder, império e beleza,
+honra e louvores. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor, somente ele é que fez grandes maravilhas:
+porque eterno é seu amor.
+
+@salmo salmos/salmo-135-i
+
+@gloria
+
+@antifona
+O Senhor, somente ele é que fez grandes maravilhas:
+porque eterno é seu amor.
+
+@antifona 2
+Tirou do meio deles Israel
+com mão forte e com braço estendido.
+
+@salmo salmos/salmo-135-ii-v3
+
+@gloria
+
+@antifona
+Tirou do meio deles Israel
+com mão forte e com braço estendido.
+
+@antifona 3
+Demos graças ao Senhor, o Deus dos céus,
+pois ele nos salvou dos inimigos.
+
+@salmo salmos/salmo-135-iii
+
+@gloria
+
+@antifona
+Demos graças ao Senhor, o Deus dos céus,
+pois ele nos salvou dos inimigos.
+
+@texto
+V. Mostrai-nos, ó Senhor, vossos caminhos.
+R. E fazei conhecer a vossa estrada!

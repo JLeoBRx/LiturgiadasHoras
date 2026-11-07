@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/1domingo_quaresma_impar.htm
+@documento Ofício das Leituras - 1º Domingo Da Quaresma
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Deuteronômio {6,4-25}
+
+@tema
+A lei do amor
+
+@texto
+Ouve, ó Israel: o Senhor, nosso Deus, é o único Senhor! Portanto, amarás ao Senhor, teu Deus, com todo o teu coração, com toda a tua alma e com toda a tua força. Que estas palavras que hoje te ordeno estejam em teu coração! Tu as inculcarás aos teus filhos, e delas falarás sentado em tua casa e andando em teu caminho, deitado e de pé. Tu as atarás também à tua mão como um sinal, e serão como um frontal entre os teus olhos; tu as escreverás nos umbrais da tua casa e nas tuas portas. Quando o Senhor, teu Deus, te introduzir na terra que ele, sob juramento, prometeu a teus pais - Abraão, Isaac e Jacó - que te daria, nas cidades grandes e boas que não edificaste, nas casas cheias de tudo o que é bom, casas que não encheste; poços abertos que não cavaste; vinhas e olivais que não plantaste; quando, pois, comeres e estiveres saciado, fica atento a ti mesmo! Não te esqueças do Senhor, que te fez sair da terra do Egito, da casa da escravidão! É ao Senhor, teu Deus, que temerás. A ele servirás e pelo seu nome jurarás. Não seguireis outros deuses, qualquer um dos deuses dos povos que estão ao vosso redor, pois o Senhor, teu Deus, é um Deus ciumento, que habita em teu meio. A cólera do Senhor, teu Deus, se inflamaria contra ti, e ele te exterminaria da face da terra. Não tentareis ao Senhor, vosso Deus, como o tentastes em Massa. Observareis cuidadosamente os mandamentos do Senhor, vosso Deus, bem como os testemunhos e os estatutos que ele te ordenou. Farás o que é reto e bom aos olhos do Senhor, para que tudo te corra bem e venhas a possuir a boa terra que o Senhor prometeu aos teus pais, expulsando da tua frente todos os teus inimigos. Assim falou o Senhor! Amanhã, quando o teu filho te perguntar: “Que são estes testemunhos e estatutos e normas que o Senhor, nosso Deus, vos ordenou?”, dirás ao teu filho: “Nós éramos escravos do Faraó no Egito, mas o Senhor nos fez sair do Egito com mão forte. Aos nossos olhos o Senhor realizou sinais e prodígios grandes e terríveis contra o Egito, contra o Faraó e toda a sua casa. Quanto a nós, porém, fez-nos sair de lá para nos introduzir e nos dar a terra que, sob juramento, havia prometido aos nossos pais. O Senhor ordenou-nos então cumprirmos todos estes estatutos, temendo o Senhor, nosso Deus, para que tudo nos corra bem, todos os dias; para dar-nos a vida, como hoje se vê. Esta será a nossa justiça: cuidarmos de pôr em prática todos estes mandamentos diante do Senhor, nosso Deus, conforme nos ordenou.”
+
+@secao Responsório | Dt 6,3.5;7,9
+
+@responsorio
+R. Ouve, Israel,
+e cuida de pôr em prática o que o Senhor te ordenou.
+* Saberás que o Senhor, teu Deus, é o único Deus,
+um Deus fiel, que guarda a sua aliança e a sua misericórdia
+para com aqueles que o amam
+e observam seus mandamentos.
+V. Amarás o Senhor, teu Deus, com todo o teu coração,
+com toda a tua alma e com todas as forças.
+* Saberás que.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos Coríntios, de São Clemente I, papa
+{(Séc. II)} {(Nn. 49-50: Funk 1,123-125)}
+
+@tema
+Quem poderia descrever o vínculo da caridade de Deus?
+
+@texto
+Quem possui a caridade em Cristo, cumpra os mandamentos de Cristo. Quem poderia descrever o vínculo da caridade de Deus? Quem seria capaz de exprimir a perfeição da sua beleza? A altura a que nos leva a caridade é indizível. A caridade nos une a Deus, _a caridade cobre uma multidão_ _de pecados_ (lPd 4,8). A caridade tudo suporta, tudo tolera com paciência. Nada há de indigno nem de soberbo na caridade. A caridade não conhece divisão, a caridade não se revolta, a caridade tudo realiza com harmonia. Pela caridade é que todos os eleitos de Deus chegaram à perfeição, e sem a caridade nada pode agradar a Deus. Na caridade foi que o Senhor nos acolheu. Pela caridade que teve para conosco, Jesus Cristo, nosso Senhor, obediente à vontade divina, derramou o seu sangue por nós, imolou a sua carne para redimir a nossa carne, deu a sua vida para salvar a nossa vida. Vede, caríssimos, como é grande e admirável a caridade, e como é impossível descrever-lhe a perfeição. Quem é capaz de a praticar, senão aqueles a quem Deus quiser tornar dignos? Oremos, portanto, e peçamos à sua misericórdia para que nos faça viver irrepreensíveis na caridade, sem qualquer interesse puramente humano. Todas as gerações, de Adão até hoje, passaram. Mas aqueles que, pela graça de Deus, foram perfeitos na caridade, alcançaram a terra dos santos e hão de manifestar-se quando vier o Reino de Cristo. Porque está escrito: _Entrai nos aposentos só por_ _um instante, até que passe a minha ira_ (cf. Is 26,20); _e me_ _lembrarei então de minha aliança convosco_ (Gn 9,15), _e_ _vos ressuscitarei dos vossos túmulos_ (cf. Ez 37,13). Felizes de nós, caríssimos, se cumprirmos os mandamentos de Deus na concórdia da caridade, para que, pela caridade, nos sejam perdoados os pecados. Pois diz a Escritura: _Feliz o homem cujo pecado foi perdoado e cuja_ _falta já foi encoberta! Feliz o homem a quem o Senhor não_ _olha mais como sendo culpado, e em cuja alma não há_ _falsidade!_ (Sl 31,1-2). Essa felicidade diz respeito aos que foram escolhidos por Deus, por meio de Jesus Cristo, nosso Senhor. A ele a glória pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Por tê-lo experimentado,
+acreditamos no amor que Deus tem para conosco.
+* Quem permanece no amor,
+permanece em Deus, e Deus permanece nele.
+V. Amemo-nos uns aos outros,
+porque o amor vem de Deus.* Quem permanece.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que, ao longo desta Quaresma, possamos progredir no conhecimento de Jesus Cristo e corresponder ao seu amor por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

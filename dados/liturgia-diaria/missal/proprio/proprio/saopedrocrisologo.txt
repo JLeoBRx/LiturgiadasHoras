@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saopedrocrisologo.htm
+
+@secao Antífona da entrada | Cf. Eclo 15,5
+@texto
+No meio da Igreja
+o Senhor abriu os seus lábios,
+encheu-o com o espírito de sabedoria e inteligência
+e o revestiu com um manto de glória, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, que fizestes do bispo São Pedro Crisólogo
+exímio pregador do vosso Verbo encarnado,
+concedei-nos, por suas preces,
+meditar sempre no coração os mistérios da salvação
+e testemunhá-los fielmente em nossa vida.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Olhai, Senhor, os dons que vos apresentamos
+na comemoração de São Pedro Crisólogo;
+concedei àqueles que professam a fé autêntica
+chegarem à salvação pelo testemunho da verdade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | 1Cor 3,11
+@texto
+Ninguém pode pôr outro alicerce
+diferente do que está aí, já posto:
+Jesus Cristo, aleluia.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Deus todo-poderoso,
+que a verdadeira divindade do vosso Filho,
+que professamos firmemente com São Pedro Crisólogo,
+nos vivifique e nos proteja pela recepção deste sacramento.
+Por Cristo, nosso Senhor.

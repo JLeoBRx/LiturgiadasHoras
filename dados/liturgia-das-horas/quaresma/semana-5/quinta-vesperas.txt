@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5quintaquaresma_vesperas.htm
+@documento Vésperas - Quinta-feira da 5ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@antifona
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@antifona 2
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@salmo salmos/salmo-031
+
+@gloria
+
+@antifona
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@secao Leitura breve | Hb 13,12-15
+
+@texto
+Jesus sofreu do lado de fora da porta, para santificar o povo pelo seu próprio sangue. Vamos, portanto, sair ao seu encontro, fora do acampamento, carregando a sua humilhação. Porque não temos aqui cidade permanente, mas estamos à procura daquela que está para vir. Por meio de Jesus, ofereçamos a Deus um perene sacrifício de louvor, isto é, o fruto dos lábios que celebram o seu nome.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos bendizemos e adoramos,
+* Ó Jesus, nosso Senhor. R. Nós vos.
+V. Por vossa cruz vós redimistes este mundo. * Ó Jesus.
+Glória ao Pai. R. Nós vos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Tu nem tens cinquenta anos de existência,
+como, pois, dizes ter visto Abraão?
+Eu vos digo com certeza, diz Jesus,
+já bem antes que Abraão nascesse "Eu Sou".
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Tu nem tens cinquenta anos de existência,
+como, pois, dizes ter visto Abraão?
+Eu vos digo com certeza, diz Jesus,
+já bem antes que Abraão nascesse "Eu Sou".
+
+@secao Preces
+
+@preces
+Oremos a Cristo nosso Senhor, que nos deu o mandamento novo de nos amarmos uns aos
+outros como ele nos amou; e imploremos:
+
+R. **Senhor, fazei crescer o amor em vosso povo!**
+
+Bom Mestre, ensinai-nos a vos amar em nossos irmãos e irmãs,
+– e a vos servir em cada um deles. R.
+
+Vós, que na cruz pedistes ao Pai perdão para vossos algozes,
+– ensinai-nos a amar os nossos inimigos e a orar pelos que nos perseguem. R.
+
+Pela participação no mistério do vosso Corpo e Sangue, aumentai em nós a caridade, a fortaleza
+e a confiança;
+– fortalecei os fracos, consolai os tristes e dai esperança aos agonizantes. R.
+
+Cristo, Luz do mundo, que na piscina de Siloé destes a vista ao cego de nascença,
+– iluminai os catecúmenos pelo sacramento do batismo e pela palavra da vida. R.
+
+{(intenções livres)}
+
+Concedei a plenitude do vosso amor aos que morreram,
+– e contai-nos também entre os vossos escolhidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Assisti, ó Deus, aqueles que vos suplicam e guardai com solicitude os que esperam em vossa misericórdia, para que, libertos de nossos pecados, levemos uma vida santa e sejamos herdeiros das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

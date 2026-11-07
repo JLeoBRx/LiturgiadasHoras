@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/24quintaTC_impar.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo QUINTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Oseias {13,1-14,1}
+
+@tema
+Última sentença de reprovação
+
+@texto
+[1] Quando Efraim falava, era o terror, ele era sublime em Israel, mas tornou-se culpado por causa de Baal e morreu. [2] E agora continuam pecando: eles constroem para si uma imagem de metal fundido, com sua prata, ídolos de acordo com sua habilidade: tudo isso não é senão obra de um artesão! A propósito deles, dizem: “Homens sacrificam, eles abraçam bezerros.” [3] Por isso, serão como a nuvem da manhã, como o orvalho que cedo desaparece, como a palha que voa fora da eira e como a fumaça que sai pela janela. [4] Mas eu sou o Senhor, teu Deus, desde a terra do Egito. Não deves reconhecer outro Deus além de mim, não há salvador que não seja eu. [5] Eu te conheci no deserto, em uma terra árida. [6] Estando na pastagem, e eles se saciaram; uma vez saciados, seu coração se exaltou; por isso eles se esqueceram de mim. [7] E eu me tornei para eles como um leão, como uma pantera no caminho eu estava à espreita. [8] Eu os ataco como uma ursa despojada de seus filhotes, rasgo-lhes o peito e aí os devoro como uma leoa, as feras selvagens os despedaçarão. [9] É tua destruição, pois só em mim está o teu auxílio. [10] Onde está, pois, o teu rei para que te salve em todas as tuas cidades, e os teus juízes a quem dizias: “Dá-me um rei e um príncipe”? [11] Eu te dou um rei em minha ira, eu o retomo em meu furor. [12] A falta de Efraim está guardada, seu pecado está conservado. [13] As dores de parto lhe sobrevêm, mas é filho néscio, porque, chegado o momento, ele não sai do seio materno. Deveria eu livrá-los do poder do Xeol? [14] Deveria eu resgatá-los da morte? Onde estão, ó morte, as tuas calamidades? Onde está, ó Xeol, o teu flagelo? A compaixão se esconde de meus olhos. [15] Ainda que Efraim prospere entre seus irmãos, virá um vento do oriente: um vento do Senhor subindo do deserto, secará o seu manancial e a sua fonte se esgotará. Ele saqueará o tesouro de todos os objetos preciosos. [14,1] Samaria deverá expiar, porque se revoltou contra o seu Deus. Cairão pela espada, seus filhos serão esmagados, às suas mulheres grávidas serão abertos os ventres.
+
+@secao Responsório | Os 13,6.9.4
+
+@responsorio
+R. Estando na pastagem, eles se saciaram,
+e uma vez saciados, seu coração se exaltou;
+por isso eles se esqueceram de mim.
+* É tua destruição, pois só em mim está o teu auxílio.
+V. Mas eu sou o Senhor teu Deus,
+desde a terra do Egito;
+não deves reconhecer outro Deus além de mim,
+não há salvador que não seja eu. * É tua destruição.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o profeta Isaías”, de São Cirilo de Alexandria, bispo
+{(Liv. 3, t. 1)}
+
+@tema
+Toda a nossa esperança está colocada em Cristo
+
+@texto
+O bendito profeta Jeremias indicava a vida evangélica em Cristo e a justiça, dizendo aos amantes da verdade: _Ponde-vos nos caminhos, e vede, e perguntai pelas veredas_ _antigas, qual é o bom caminho, e andai por ele; e achareis_ _descanso para as vossas almas_ (Jr 6,16).
+De fato, as palavras dos santos profetas são os caminhos e as vias do Senhor, e a lei mosaica uma predição como sombra e em figura do mistério de Cristo. E assim, perscrutando esses caminhos, conheceremos a boa estrada, isto é, os preceitos da vida cristã, para que, avançando nessa estrada, encontremos a verdadeira paz espiritual das nossas almas. Por isso diz que _a estrada dos justos é plana_ (cf. Is 26,7). E não é realmente plana e reta, livre de precipícios, se, proclamando a palavra da fé, somos justificados e purificados abundantemente e plenamente por meio do batismo? Mas a estrada dos justos é plana também em outro sentido. Pois, vencidos os inimigos, afastada a tirania do diabo, superado todo obstáculo, o que poderá ainda impedir ou atrapalhar os amantes da piedade?
+Contudo, considerai que, depois de tornada plana a estrada dos justos, devem ser anuladas as antigas figuras. De fato, não foi dito simplesmente que a _via do Senhor é o_ _juízo_ (cf. Is 26,8) e, portanto, não consiste em oblação de cordeiros, sacrifícios de ovelhas, libações ou incensos; mas que o juízo se identifica com a justiça. Pois é comum na Escritura, profetizada por inspiração divina, indicar justiça com o nome de juízo, como diz Davi: o louvor do rei ama o juízo (cf. Sl 98,4 vulg.); isto é, a justiça. Todo reino que ama a justiça está em louvor perto de Deus e perto dos homens. Portanto, a estrada do Senhor é o juízo que conduz, plenos de júbilo, aqueles que entram nessa reta estrada, os quais dizem: _Senhor, temos esperado por ti; no teu nome_ _e na tua memória está o desejo da nossa alma_ (Is 26,8). Porque toda a nossa esperança está colocada em Cristo, que sempre temos na mente e no desejo, porque é por Ele que somos salvos.
+
+@secao Responsório | Sl 30(31),2.4
+
+@responsorio
+R. Em ti, Senhor, me refugio,
+que eu não seja confundido para sempre.
+* Por tua justiça, salva-me.
+V. Tu és minha rocha e fortaleza,
+para o teu nome dirigi os meus passos. * Por tua.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador de todas as coisas, volvei para nós o vosso olhar e, para sentirmos em nós a ação do vosso amor, fazei que vos sirvamos de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,183 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santotomas.htm
+@documento Ofício das Leituras - Santo Tomás De Aquino, Presbítero E Doutor Da Igreja Memória
+
+@celebracao
+SANTO TOMÁS DE AQUINO, PRESBÍTERO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu por volta do ano 1225, da família dos Condes de Aquino. Estudou primeiramente no mosteiro de Monte Cassino e depois em Nápoles. Ingressou na Ordem dos Frades Pregadores e completou os estudos em Paris e em Colônia, tendo tido como professor Santo Alberto Magno. Escreveu muitas obras de grande erudição, e, como professor, lecionou disciplinas filosóficas e teológicas, o que lhe valeu grande reputação. Morreu nas proximidades de Terracina, a 7 de março de 1274. Sua memória é celebrada a 28 de janeiro, data em que seu corpo foi trasladado para Toulouse (França), em 1369.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Das Conferências de Santo Tomás de Aquino, presbítero
+{(Séc.XIII)} {(Colatio 6 super Credoin Deum)}
+
+@tema
+Na cruz não falta nenhum exemplo de virtude
+
+@texto
+Que necessidade havia para que o Filho de Deus sofresse por nós? Uma necessidade grande e, por assim dizer, dupla: para ser remédio contra o pecado e para exemplo do que devemos praticar. Foi em primeiro lugar um remédio, porque na paixão de Cristo encontramos remédio contra todos os males que nos sobrevêm por causa dos nossos pecados.
+Mas não é menor a utilidade em relação ao exemplo. Na verdade, a paixão de Cristo é suficiente para orientar nossa vida inteira. Quem quiser viver na perfeição, nada mais tem a fazer do que desprezar aquilo que Cristo desprezou na cruz e desejar o que eledesejou. Na cruz, pois, não falta nenhum exemplo de virtude.
+Se procuras um exemplo de caridade: _Ninguém tem amor maior do que aquele que dá_ _sua vida pelos amigos_ (Jo 15,13). Assim fez Cristo na cruz. E se ele deu sua vida por nós, não devemos considerar penoso qualquer mal que tenhamos de sofrer por causa dele.
+Se procuras um exemplo de paciência, encontras na cruz o mais excelente! Podemos reconhecer uma grande paciência em duas circunstâncias: quando alguém suporta com serenidade grandes sofrimentos, ou quando pode evitar os sofrimentos e não os evita. Ora, _Cristo suportou na cruz grandes sofrimentos, e com grande serenidade, porque_ _atormentado, não ameaçava_ (1Pd 2,23); _foi levado como ovelha ao matadouro e não_ _abriu a boca_(cf. Is 53,7; At 8,32).
+É grande, portanto, a paciência de Cristo na cruz. Corramos com paciência ao combate que nos é proposto, com os olhos fixos em Jesus, que em nós começa e completa a obra da fé. _Em vista da alegria que lhe foi proposta, suportou a cruz, não se importando com_ _a infâmia_ (cf. Hb 12,1-2).
+Se procuras um exemplo de humildade, contempla o crucificado: Deus quis ser julgado sob Pôncio Pilatos e morrer.
+Se procuras um exemplo de obediência, segue aquele que se fez obediente ao Pai até à morte: _Como pela desobediência de um só homem, isto é, de Adão, a humanidade toda_ _foi estabelecida numa condição de pecado, assim também pela obediência de um só,__toda a humanidade passará para uma situação de justiça_ (Rm 5,19).
+Se procuras um exemplo de desprezo pelas coisas da terra, segue aquele que é Rei dos reis e Senhor dos senhores, _no qual estão encerrados todos os tesouros da sabedoria e da ciência_ (Cl 2,3), e que na cruz está despojado de suas vestes, escarnecido, cuspido, espancado, coroado de espinhos e, por fim, tendo vinagre e fel como bebida para matar a sede.
+Não te preocupes com as vestes e riquezas, _porque repartiram entre si as minhas vestes_ (Jo 19,24); nem com honras, porque fui ultrajado e flagelado; nem com a dignidade, porque _tecendo uma coroa de espinhos, puseram-na em minha cabeça_ (cf. Mc 15,17); nem com os prazeres, porque _em minha sede ofereceram-me vinagre_ (Sl 68,22).
+
+@secao Responsório | Sb 7,7-8; 9,17
+
+@responsorio
+R. Pedi e foi-me dada inteligência,
+roguei e recebi sabedoria.
+* Aos tronos e ao poder a preferi;
+a ela comparadas, as riquezas
+perderam para mim todo o valor.
+V. Quem pode conhecer vossos desígnios
+se vós não lhe doais sabedoria,
+enviando, das alturas celestiais,
+o vosso Santo Espírito, Senhor? * Aos tronos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que tornastes Santo Tomás de Aquino um modelo admirável, pela procura da santidade e amor à ciência sagrada, dai-nos compreender seus ensinamentos e seguir seus exemplos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

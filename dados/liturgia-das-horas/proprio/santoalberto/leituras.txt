@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoalberto.htm
+@documento Ofício das Leituras - Santo Alberto Magno, Bispo E Doutor Da Igreja
+
+@celebracao
+SANTO ALBERTO MAGNO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Lauingen, junto ao Danúbio na Baviera (Alemanha), cerca do ano 1206. Fez os seus estudos em Pádua e em Paris. Entrou na Ordem dos Pregadores e exerceu o magistério em vários lugares com grande competência. Ordenado bispo de Ratisbona, pôs todo o seu empenho em estabelecer a paz entre povos e cidades. É autor de muitas e importantes obras, tanto de ciências sagradas como naturais. Morreu em Colônia no ano 1280.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o
+prêmio, com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também,
+Honra e poder ao vosso Santo Espírito,
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de Lucas, de Santo Alberto Magno, bispo
+{(Séc. XIII)} {(22,19: Opera omnia, Parisiis 1890-1899,23,672-674)}
+
+@tema
+Pastor e doutor para a edificação do Corpo de Cristo
+
+@texto
+_Fazei isto em minha memória_ (Lc 22,19): há duas coisas a notar aqui. Primeiro, a ordem de realizar este sacramento com as palavras: Fazei isto. Segundo, que é um memorial do Senhor, quando se encaminhava para a morte por nós.Ele diz, portanto: Fazei isto. Nada mais útil, nada mais suave, mais salutar, amável, mais semelhante à vida eterna poderia ele ordenar. Vamos mostrar um por um estes predicados. Útil para a remissão dos pecados, e utilíssimo na vida para a plenitude da graça. O Pai dos espíritos nos guia ao que é útil para receber sua santificação. Porque a santificação está em seu sacrifício, isto é, quando se ofereceu no mistério, tanto ao Pai em nosso favor, quanto a nós, para nossa união. Por eles, santifico-me a mim mesmo (Jo 17,19). Cristo, que se ofereceu imaculado a Deus pelo Espírito Santo, purificará nossa consciência das obras mortas para que sirvamos ao Deus vivo (cf. Hb 9,14). Nada igualmente mais suave. Nada se pode imaginar mais suave do que aquilo onde Deus mostra toda a sua doçura: Concedeste-lhes o pão do céu preparado sem esforço, tendo em si todo o deleite e todo o sabor. Este alimento manifestava tua doçura para com teus filhos, acomodando-se ao gosto de cada um, convertia-se no que cada qual desejava (Sb 16,20-21). Não poderia também ordenar nada mais salutar. Este sacramento é o fruto da Árvore da vida. Quem o tomar com fé sincera e devota, não provará para sempre a morte. É árvore da vida para quem a alcançar; _e feliz quem a possuir_ (Pr 3,18). _Quem me come, viverá por mim_ (Jo 6,57). Não pôde ordenar nada mais digno de amor. Pois este sacramento é realização do amor e da união. A maior prova de amor é dar-se a si mesmo como alimento. Diziam os companheiros de minha tenda: _Quem nos dará de suas carnes para saciar nossa fome?_ (Jó 31,31), como se dissesse: tanto os amei e eles a mim, que eu desejava estar em seus corações e eles queriam comer-me para se tornarem membros meus, a mim incorporados. Eles não teriam podido unir-se a mim mais íntima e naturalmente. Não poderiam, também, determinar nada mais semelhante à vida eterna, pois a continuidade da vida eterna se origina de Deus, que em sua doçura se infunde nos que vivem a felicidade.
+
+@secao Responsório | Lc 22,29-30a; Jo 15,16a
+
+@responsorio
+R. Assim como meu Pai confiou-me o Reino,
+vo-lo confio também.
+* Para comerdes e beberdes à mesa do meu Reino.
+V. Não fostes vós que me escolhestes,
+mas sim eu vos escolhi,
+e, depois, vos designei para que vades e deis frutos.
+* Para comerdes.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que o bispo Santo Alberto fosse grande, porque soube conciliar a sabedoria humana e a verdadeira fé; dai-nos, na escola de tão grande mestre, conhecer-vos e amar-vos mais profundamente, na medida em que progredimos nas ciências. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

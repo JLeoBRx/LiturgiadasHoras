@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/imaculada_Ivesperas.htm
+@documento I Vésperas - Imaculada Conceição da Bem-aventurada Virgem Maria
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Virgem Mãe de Deus,
+das virgens guardiã,
+ó porta azul dos céus,
+estrela da manhã.
+
+És lírio entre os espinhos,
+és pura sem igual,
+brilhando nos caminhos
+da culpa original.
+
+Estrela na procela,
+tu és nossa esperança:
+o porto se revela
+e a nau, segura, avança.
+
+És torre inabalada,
+farol que nos conduz,
+trazendo, imaculada,
+o bálsamo: Jesus.
+
+A culpa onipresente
+não mancha a tua aurora:
+venceste a vil serpente.
+Protege-nos agora!
+
+És mãe, esposa e filha
+do Deus que é uno e trino:
+tão grande maravilha
+cantamos neste hino.
+
+@secao Salmodia
+
+@antifona 1
+Porei inimizades entre ti e a mulher,
+entre a tua descendência e a que dela nascerá.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Porei inimizades entre ti e a mulher,
+entre a tua descendência e a que dela nascerá.
+
+@antifona 2
+O Senhor me revestiu de Salvação,
+e com o manto de justiça me cobriu.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+O Senhor me revestiu de Salvação,
+e com o manto de justiça me cobriu.
+
+@antifona 3
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo.
+
+@secao Leitura breve | Rm 8,29a.30a
+
+@texto
+Aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos.
+
+@secao Responsório breve
+
+@responsorio
+R. Eu vos exalto, ó Senhor,
+* Pois me livrastes. R. Eu vos.
+V. E não deixastes rir de mim meus inimigos. * Pois me.
+Glória ao Pai. R. Eu vos exalto.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Poderoso fez em mim maravilhas:
+as gerações hão de chamar-me de bendita.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Poderoso fez em mim maravilhas:
+as gerações hão de chamar-me de bendita.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso! Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a Mãe da misericórdia,
+– concedei a todos os que estão em perigo sentirem o seu amor materno. R.
+
+Vós, que confiastes a Maria a missão da mãe de família no lar de Jesus e José,
+– fazei que, por sua intercessão, todas as mães vivam em família o amor e a santidade. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

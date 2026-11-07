@@ -1,0 +1,236 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pentecostes.htm
+@documento Ofício das Leituras - Domingo De Pentecostes Solenidade
+
+@celebracao
+DOMINGO DE PENTECOSTES
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Suave luz, luz esplêndida,
+fogo do trono enviado
+sobre os discípulos de Cristo
+como seu dom mais sagrado,
+
+Os corações torna plenos,
+a nossa voz enriquece.
+Os corações e as línguas
+concordes vibrem, em prece.
+
+Consolador Santo, vinde,
+os corações abrandai,
+regei as línguas fiéis,
+fel e veneno queimai.
+
+Com mente pura cantamos,
+criação nova tornados.
+Nascidos filhos da ira,
+da graça agora gerados.
+
+Sois doador e sois dom,
+dos corações todo o bem.
+A nossa mente inclinai
+para o louvor que convém.
+
+Vós os lavais do pecado,
+autor de toda a piedade,
+gozemos novos em Cristo
+desta total novidade.
+
+@secao Salmodia
+
+@antifona 1
+O Espírito sopra aonde quer,
+e ouves seu ruído, mas não sabes
+de onde vem nem para onde ele vai. Aleluia.
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+O Espírito sopra aonde quer,
+e ouves seu ruído, mas não sabes
+de onde vem nem para onde ele vai. Aleluia.
+
+@antifona 2
+De repente um estrondo vem dos céus
+como o ruído de um vento impetuoso. Aleluia.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+De repente um estrondo vem dos céus
+como o ruído de um vento impetuoso. Aleluia.
+
+@antifona 3
+Enviai o vosso Espírito e renasce todo ser
+e havereis de renovar toda a face desta terra! Aleluia.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Enviai o vosso Espírito e renasce todo ser
+e havereis de renovar toda a face desta terra! Aleluia.
+
+@texto
+V. O Espírito do Senhor encheu todo o universo. Aleluia.
+R. Ele une todo ser e conhece toda voz. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,5-27}
+
+@tema
+Os que se deixam conduzir pelo Espírito de Deus_
+_são filhos de Deus
+
+@texto
+Irmãos: [5] Os que vivem segundo a carne aspiram pelas coisas da carne; os que vivem segundo o Espírito, aspiram pelas coisas do espírito. [6] Na verdade, as aspirações da carne levam à morte e as aspirações do Espírito levam à vida e à paz. [7] Tudo isso, porque as tendências da carne são inimizade contra Deus: não se submetem – nem poderiam submeter-se – à Lei de Deus. [8] Os que vivem segundo a carne não podem agradar a Deus. [9] Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. [10] Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. [11] E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós. [12] Portanto, irmãos, temos uma dívida, mas não para com a carne, para vivermos segundo a carne. [13] Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis. [14] Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. [15] De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Aba – ó Pai! [16] O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. [17] E, se somos filhos, somos também herdeiros – herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele. [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; também ela espera ser libertada [21] da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos.
+
+@secao Responsório | Gl 4,6; 3,26; 2Tm 1,7
+
+@responsorio
+R. Porque todos vós sois filhos, pela fé em Jesus Cristo,
+* Enviou o Senhor Deus aos nossos corações
+o Espírito de seu Filho, que clama: “Aba”, Pai. Aleluia.
+V. Não nos deu Nosso Senhor um espírito de medo,
+mas o Espírito de força, de amor e sobriedade. * Enviou.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc.II)} {(Lib. 3,17,1-3:SCh34,302-306)}
+
+@tema
+O envio do Espírito Santo
+
+@texto
+Ao dar a seus discípulos poder para que fizessem os homens renascer em Deus, o Senhor lhes disse: _Ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do_ _Filho e do Espírito Santo_ Deus prometera, por meio dos profetas, que nos últimos tempos derramaria o seu Espírito sobre os seus servos e servas para que recebessem o dom da profecia. Por isso, o Espírito Santo desceu sobre o Filho de Deus, que se fez Filho do homem, habituando-se com ele a conviver com o gênero humano, a repousar sobre os homens e a morar na criatura de Deus. Assim renovava os homens segundo a vontade do Pai, fazendo-os passar da sua antiga condição para a vida nova em Cristo. São Lucas nos diz que esse Espírito, depois da ascensão do Senhor, desceu sobre os discípulos no dia de Pentecostes, com o poder de dar a vida nova a todos os povos e de fazê-los participar da Nova Aliança. Eis por que, naquele dia, todas as línguas se uniram no mesmo louvor de Deus, enquanto o Espírito congregava na unidade as raças mais diferentes e oferecia ao Pai as primícias de todas as nações. Foi por isso que o Senhor prometeu enviar o Paráclito, que os tornaria capazes de receber a Deus. Assim como a farinha seca não pode, sem água, tornar-se uma só massa nem um só pão, nós também, que somos muitos, não poderíamos transformar-nos num só corpo, em Cristo Jesus, sem a água que vem do céu. E assim como a terra árida não produz fruto se não for regada, também nós, que éramos antes como uma árvore ressequida, jamais daríamos frutos de vida, sem a chuva da graça enviada do alto. Com efeito, nossos corpos receberam, pela água do batismo, aquela unidade que os torna incorruptíveis; nossas almas, porém, a receberam pelo Espírito. O Espírito de Deus desceu sobre o Senhor como _espírito de sabedoria e discernimento,_ _espírito de conselho e fortaleza, espírito de ciência e de temor de Deus_ (Is 11,2). É este mesmo Espírito que o Senhor por sua vez deu à Igreja, enviando do céu o Paráclito sobre toda a terra, daquele céu de onde também _Satanás caiu como um relâmpago_ (cf. Lc 10,18). Por esse motivo, temos necessidade deste orvalho da graça de Deus para darmos fruto e não sermos lançados ao fogo, e para que também tenhamos um Defensor onde temos um acusador. Pois o Senhor confiou ao Espírito Santo o cuidado da sua criatura, daquele homem que caíra nas mãos dos ladrões e a quem ele, cheio de compaixão, enfaixou as feridas e deu dois denários reais. Tendo assim recebido pelo Espírito a imagem e a inscrição do Pai e do Filho, façamos frutificar os dons que nos foram confiados e os restituamos multiplicados ao Senhor.
+
+@secao Responsório | At 2,1-2
+
+@responsorio
+R. Ao completar-se Pentecostes, todos eles
+na mesma casa se encontrando reunidos,
+de repente um ruído veio do céu,
+* Como se fosse de um vento impetuoso,
+que encheu a casa toda, aleluia.
+V. E assim, estando juntos os discípulos,
+de repente, um ruído veio do céu. * Como se fosse.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, quisestes que o mistério pascal se completasse durante cinquenta dias, até à vinda do Espírito Santo. Fazei que todas as nações dispersas pela terra, na diversidade de suas línguas, se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

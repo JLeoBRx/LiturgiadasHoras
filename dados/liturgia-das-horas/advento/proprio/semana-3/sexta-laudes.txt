@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3sexta_laudes.htm
+@documento Próprio - Laudes - III Sexta-feira do Advento
+
+@secao Leitura breve | Jr 30,21a.22
+
+@texto
+Eis o que diz o Senhor: Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Sereis meu povo e eu serei vosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Justiça e paz se abraçarão.
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Respeitai o direito, praticai a justiça,
+pois a minha salvação já não tarda e vai chegar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Respeitai o direito, praticai a justiça,
+pois a minha salvação já não tarda e vai chegar.
+
+@secao Preces
+
+@preces
+Aclamemos com alegria Deus nosso Pai, que por meio de seu Filho revelou aos seres humanos a sua glória; e digamos:
+
+R. **Senhor, glorificado seja o vosso nome!**
+
+Fazei, Senhor, que aprendamos a nos acolher uns aos outros,
+– como Cristo nos acolheu para a glória de Deus Pai. R.
+
+Cumulai-nos de toda alegria e paz em nossa fé,
+– para caminharmos na esperança e na força do Espírito Santo. R.
+
+Ajudai a todos, Senhor, segundo a imensidade de vossa compaixão;
+– ide ao encontro daqueles que, mesmo sem saber, vos esperam. R.
+
+Vós chamais e santificais os eleitos;
+– perdoai as nossas culpas e admiti-nos no reino da eterna bem-aventurança. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus todo-poderoso, que a vossa graça sempre nos preceda e acompanhe, para que, esperando ansiosamente a vinda do vosso Filho, possamos obter a vossa ajuda nesta vida e na outra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saovicente_laudes.htm
+@documento Laudes - São Vicente, diácono e mártir
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó mártir de Deus, que seguindo
+o Filho divino, com amor,
+venceste o poder inimigo
+e gozas no céu, vencedor:
+
+Na graça da tua oração,
+das culpas apaga o sinal,
+afasta o desgosto da vida,
+afasta o contágio do mal.
+
+Desfeitos os laços do corpo,
+triunfas com Cristo nos céus:
+Dos laços do mundo nos livra
+por causa do Filho de Deus.
+
+Louvor a Deus Pai com o Filho,
+e ao Sopro de vida também.
+Os Três, com coroa de glória,
+no céu te cingiram. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vosso amor vale mais do que a vida,
+e por isso meus lábios vos louvam.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vosso amor vale mais do que a vida,
+e por isso meus lábios vos louvam.
+
+@antifona 2
+Vós, mártires de Deus, bendizei-o para sempre!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, mártires de Deus, bendizei-o para sempre!
+
+@antifona 3
+Eu farei do vencedor uma coluna no meu templo.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Eu farei do vencedor uma coluna no meu templo.
+
+@secao Leitura breve | 2Cor 1,3-5
+
+@texto
+Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação. Ele nos consola em todas as nossas aflições, para que, com a consolação que nós mesmos recebemos de Deus, possamos consolar os que se acham em toda e qualquer aflição. Pois, à medida que os sofrimentos de Cristo crescem para nós, cresce também a nossa consolação por Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é minha força,
+* Ele é o meu canto. R. O Senhor.
+V. E tornou-se para mim o Salvador. * Ele é.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem perder a sua vida neste mundo,
+vai guardá-la eternamente para os céus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem perder a sua vida neste mundo,
+vai guardá-la eternamente para os céus.
+
+@secao Preces
+
+@preces
+Irmãos, celebremos nosso Salvador, a Testemunha fiel, nos mártires que deram a vida pela palavra de Deus; e digamos:
+
+R. **Com vosso sangue nos remistes, Senhor!**
+
+Por intercessão de vossos mártires que abraçaram livremente a morte para testemunharem a sua fé,
+– dai-nos, Senhor, a verdadeira liberdade de espírito. R.
+
+Por intercessão de vossos mártires, que proclamaram a fé, derramando o próprio sangue,
+– dai-nos, Senhor, pureza e constância na fé. R.
+
+Por intercessão de vossos mártires que, carregando a cruz, seguiram vossos passos,
+– dai-nos, Senhor, suportar com coragem as dificuldades da vida. R.
+
+Por intercessão de vossos mártires, que lavaram suas vestes no sangue do Cordeiro,
+– dai-nos, Senhor, vencer todas as ciladas da carne e do mundo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, infundi em nossos corações o vosso Espírito para que sejam fortalecidos pelo intenso amor que levou o diácono São Vicente a vencer os tormentos do martírio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

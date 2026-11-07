@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/estevaodahungria.htm
+@documento Ofício das Leituras - Santo Estêvão Da Hungria Nasceu Na Panônia Cerca Do Ano 969; Tendo Recebido O Batismo, Foi Coroado Rei Da Hungria No Ano 1000. No Governo Do Seu Reino Foi Justo, Pacífico E Piedoso, Observando Com Toda A Diligência As Leis Da Igreja E Procurando Sempre O Bem Dos Súditos. Fundou Vários Episcopados E Auxiliou Com O Máximo Zelo A Vida Da Igreja. Morreu Em Alba Real (Szekesfehérvar) No Ano 1038. __________________________________
+
+@texto
+SANTO ESTÊVÃO DA HUNGRIA Nasceu na Panônia cerca do ano 969; tendo recebido o batismo, foi coroado rei da Hungria no ano 1000. No governo do seu reino foi justo, pacífico e piedoso, observando com toda a diligência as leis da Igreja e procurando sempre o bem dos súditos. Fundou vários episcopados e auxiliou com o máximo zelo a vida da Igreja. Morreu em Alba Real (Szekesfehérvar) no ano 1038. __________________________________
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Jesus, Redentor nosso,
+coroais os vossos santos;
+ouvi hoje, compassivo,
+nossas preces, nossos cantos.
+
+Hoje, o santo confessor
+vosso nome fez brilhar,
+e a Igreja, anualmente,
+vem seus feitos celebrar.
+
+Caminhou com passo firme
+pela vida transitória,
+e seguiu a vossa estrada
+que nos leva para a glória.
+
+Desprendendo o coração
+de alegrias passageiras,
+frui agora, junto aos anjos,
+as delícias verdadeiras.
+
+O perdão de nossas culpas
+nos alcance a sua prece.
+Nos seus passos conduzi-nos
+para a luz que não perece.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai louvor também.
+Honra e graças ao Espírito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {12,1-21}
+
+@tema
+A vida cristã é culto espiritual
+
+@texto
+[1] Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. [2] Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito. [3] Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma ideia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um. [4] Como, num só corpo, temos muitos membros, cada qual com uma função diferente, [5] assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros. [6] Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; [7] se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; [8] se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. [9] O amor seja sincero. Detestai o mal, apegai-vos ao bem. [10] Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. [11] Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, [12] alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. [13] Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. [14] Abençoai os que vos perseguem, abençoai e não amaldiçoeis. [15] Alegrai-vos com os que se alegram, chorai com os que choram. [16] Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria. [17] Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos. [18] Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo. [19] Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”. [20] Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça. [21] 1Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@secao Responsório | Rm 12,2; Ef 4,23-24
+
+@responsorio
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Dos Conselhos de Santo Estêvão a seu filho
+
+@tema
+(Cap. 1.2.10: PL 151,1236-1237.1242-1244) (Séc. XI) Escuta, meu filho, os ensinamentos de teu pai
+
+@texto
+Em primeiro lugar, se desejas honrar a coroa real, recomendo-te, aconselho e exorto, filho muito caro, que guardes a fé católica e apostólica com tanta diligência e cuidado, que te tornes um exemplo para todos os que da parte de Deus te estão sujeitos; e todos os eclesiásticos com razão te denominem o verdadeiro homem da fé cristã, sem a qual, não tenhas dúvida, não te poderás dizer cristão nem filho da Igreja. No palácio real, depois da fé, a Igreja ocupa o segundo lugar, ela que foi plantada por nosso chefe, o Cristo; em seguida, transplantada, solidamente edificada e espalhada pelo universo por seus membros, os apóstolos e santos padres. Embora gerando sempre nova prole, em alguns lugares é considerada antiga.
+Em nossa monarquia, filho, ela é ainda jovem e recente; por este motivo precisa de protetores mais precavidos e declarados. Não aconteça que por teu desleixo, preguiça e negligência seja destruído e aniquilado o que a divina clemência nos concedeu sem merecimento de nossa parte.
+Meu filho muito querido, doçura de meu coração, esperança da continuidade de nossa linhagem, rogo-te e ordeno que por tudo e em tudo, firmado na piedade, sejas propício não apenas aos parentes e próximos, ou aos príncipes e aos chefes, ou aos ricos ou vizinhos e povo; mas também aos estrangeiros e a todos que te procuram. Pois a prática da compaixão te leva à máxima felicidade. Sê misericordioso para com os oprimidos, guardando sempre no fundo do coração o exemplo do Senhor: _Quero a misericórdia e não o sacrifício_ (Mt 9,13). Sê paciente com todos, não apenas com os poderosos, mas também com os pequeninos.
+Sê, enfim, forte para que a prosperidade não te ensoberbeça ou a adversidade não te abata. Sê também humilde para que Deus te eleve agora e no futuro. Sê, ainda, modesto, e a ninguém castigues ou condenes em excesso. Sê manso para não faltares à justiça. Sê fidalgo, de modo a jamais infligir deliberadamente um ultraje a alguém. Sê casto, para evitares, como aguilhão da morte, todo o mau cheiro da luxúria.
+Todas estas coisas ditas acima, reunidas, tecem a coroa real, porque sem ela ninguém consegue reinar aqui nem chegar ao reino eterno.
+
+@secao Responsório | Tb 4,8-9; Eclo 35,11a.12a
+
+@responsorio
+R. Sê misericordioso na medida em que puderes.
+* Se tiveres muitos bens, dá com grande coração;
+e se pouco pussuíres, dá do pouco de bom grado.
+V. Faze toda oferenda com semblante sorridente,
+oferece ao Deus Altíssimo
+conforme o dom que ele te fez.
+* Se tiveres.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei à vossa Igreja a gloriosa proteção de Santo Estêvão, rei da Hungria, que propagou o vosso Evangelho quando reinava na terra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

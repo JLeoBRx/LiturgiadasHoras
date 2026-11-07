@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A plenitude da lei é o amor.
+
+@salmo salmos/salmo-118-97-104-xiii-mem
+
+@gloria
+
+@antifona
+A plenitude da lei é o amor.
+
+@antifona 2
+Recordai-vos deste povo que outrora adquiristes!
+
+@salmo salmos/salmo-073-i
+
+@gloria
+
+@antifona
+Recordai-vos deste povo que outrora adquiristes!
+
+@antifona 3
+Levantai-vos, Senhor Deus,
+e defendei a vossa causa!
+
+@salmo salmos/salmo-073-ii
+
+@gloria
+
+@antifona
+Levantai-vos, Senhor Deus, e defendei a vossa causa!
+
+@secao Leitura breve | Jr 22,3
+
+@texto
+Administrai bem e praticai a justiça; ao que sofre violência, livrai-o das mãos do explorador, e não deixeis sofrer aflições e opressão iníqua o estrangeiro, o órfão e a viúva; e não derrameis sangue inocente.
+
+@texto
+V. Julgará o mundo inteiro com justiça.
+R. E as nações há de julgar com equidade.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nesta hora enviastes aos Apóstolos vosso santo Paráclito, comunicai-nos também este Espírito de amor, para darmos de vós um testemunho fiel diante de todos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

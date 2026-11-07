@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoantoniomzacaria_laudes.htm
+@documento Laudes - Santo Antônio Maria Zaccaria, presbítero
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Hoje cantemos o triunfo
+do guia sábio e bom pastor;
+que já reina entre os eleitos
+a testemunha do Senhor.
+
+Foi guia e mestre mui brilhante,
+da vida santa deu lição;
+buscou a Deus ser agradável,
+mantendo puro o coração.
+
+Oremos para que, bondoso,
+peça perdão para os faltosos,
+e sua prece nos conduza
+do céu aos cumes luminosos.
+
+Poder, louvor, honra e glória
+ao Deus eterno e verdadeiro,
+que, em suas leis, rege e sustenta,
+governa e guia o mundo inteiro.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@antifona 2
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@antifona 3
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@secao Leitura breve | Hb 13,7-9a
+
+@texto
+Lembrai-vos de vossos dirigentes, que vos pregaram a palavra de Deus, e, considerando o fim de sua vida, imitai-lhes a fé. Jesus Cristo é o mesmo, ontem e hoje e por toda a eternidade. Não vos deixeis enganar por qualquer espécie de doutrina estranha.
+
+@secao Responsório breve
+
+@responsorio
+R. Colocastes sentinelas
+* Vigiando vosso povo. R. Colocastes.
+V. Anunciam, dia e noite, vosso nome, ó Senhor. * Vigiando.
+Glória ao Pai. R. Colocastes.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Não sois vós que falareis,
+é o Espírito do Pai que em vós há de falar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Não sois vós que falareis,
+é o Espírito do Pai que em vós há de falar.
+
+@secao Preces
+
+@preces
+Agradeçamos a Cristo, o bom Pastor que deu a vida por suas ovelhas; e lhe peçamos:
+
+R. **Apascentai, Senhor, o vosso rebanho!**
+
+Cristo, quisestes mostrar vosso amor e misericórdia nos santos pastores;
+– por meio deles, sede sempre misericordioso para conosco. R.
+
+Através dos vossos representantes na terra, continuais a ser o Pastor das nossas almas;
+– não vos canseis de nos dirigir por intermédio de nossos pastores. R.
+
+Em vossos santos, que guiam os povos, sois o médico dos corpos e das almas;
+– não cesseis de exercer para conosco o ministério da vida e da santidade. R.
+
+Pela sabedoria e caridade dos santos, instruístes o vosso rebanho;
+– guiados pelos nossos pastores, fazei-nos crescer na santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, aquele incomparável conhecimento de Jesus Cristo que destes ao apóstolo São Paulo, e que inspirou Santo Antônio Maria Zacaria, ao anunciar constantemente em vossa Igreja a palavra da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

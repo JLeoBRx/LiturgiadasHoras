@@ -1,0 +1,125 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1sabado_quaresma.htm
+@documento Ofício das Leituras - 1ª Semana Da Quaresma - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Cantai, entoai salmos ao Senhor,
+publicai todas as suas maravilhas!
+
+@salmo salmos/salmo-104-i
+
+@gloria
+
+@antifona
+Cantai, entoai salmos ao Senhor,
+publicai todas as suas maravilhas!
+
+@antifona 2
+O Senhor não abandona o justo que é traído.
+
+@salmo salmos/salmo-104-ii
+
+@gloria
+
+@antifona
+O Senhor não abandona o justo que é traído.
+
+@antifona 3
+Deus lembrou-se de seu santo juramento
+e fez sair com grande júbilo o seu povo.
+
+@salmo salmos/salmo-104-iii
+
+@gloria
+
+@antifona
+Deus lembrou-se de seu santo juramento
+e fez sair com grande júbilo o seu povo.
+
+@texto
+V. Quem pratica a verdade se põe junto à luz.
+R. E suas obras de filho de Deus se revelam.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {12,37-49; 13,11-16}
+
+@tema
+Partida dos hebreus. Leis sobre a Páscoa e os primogênitos
+
+@texto
+Naqueles dias, [37] os filhos de Israel partiram de Ramsés para Sucot. Eram cerca de seiscentos mil homens a pé, sem contar as crianças. [38] Além disso, uma multidão numerosa subiu com eles, assim como rebanhos consideráveis de ovelhas e bois. [39] Com a massa trazida do Egito fizeram pães ázimos, já que a massa não pudera fermentar, pois foram expulsos do Egito, e não tinham podido esperar, nem preparar provisões para si. [40] A permanência dos filhos de Israel no Egito foi de quatrocentos e trinta anos. [41] No mesmo dia em que se concluíam os quatrocentos e trinta anos, todos os exércitos do Senhor saíram da terra do Egito. [42] Aquela foi uma noite de vigília para o Senhor, quando os fez sair da terra do Egito: essa noite em honra do Senhor deve ser observada por todos os filhos de Israel em todas as suas gerações. [43] O Senhor disse a Moisés e a Aarão: “Esta é a prescrição da Páscoa. Nenhum estrangeiro dela poderá comer. [44] Todo o escravo comprado a dinheiro, depois de circuncidado, poderá comê-la. [45] O hóspede e o mercenário não poderão participar dela. [46] O cordeiro será consumido numa só casa. Não levareis para fora das casas nenhum pedaço de sua carne, nem lhe quebrareis osso algum. [47] Toda a comunidade dos filhos de Israel celebrará a Páscoa. [48] Se o estrangeiro que vive contigo quiser celebrar a Páscoa do Senhor, fará circuncidar todos os homens da sua família, e então a celebrará segundo o rito e será como um nativo do país; porém, se algum não for circuncidado, dela não comerá. [49] A mesma lei servirá para o nativo do país e para o estrangeiro que vive convosco”. [13,1] “E quando o Senhor te houver introduzido na terra dos cananeus e a tiver dado a ti, conforme te jurou e a teus pais, [12] consagrarás ao Senhor todos os primogênitos desde o ventre materno e também as primeiras crias do teu gado; consagrarás ao Senhor tudo o que tiveres do sexo masculino. [13] Resgatarás o primogênito do jumento com uma ovelha; se, porém, não o resgatares, deverás matá-lo. Resgatarás com dinheiro todo o primogênito de teus filhos. [14] E quando o teu filho, amanhã, te perguntar: ‘Que significa isto?’, tu lhe responderás: ‘O Senhor tirou-nos do Egito, da casa da escravidão, com mão forte. [15] Como o Faraó se obstinasse em não nos deixar partir, o Senhor matou todos os primogênitos na terra do Egito, desde os primogênitos dos homens até aos primogênitos dos animais. Por isso, eu sacrifico ao Senhor todo o primogênito macho dos animais, e resgato todo o primogênito de meus filhos’. [16] Isto será para ti como um sinal em tua mão, e como uma marca entre os teus olhos para lembrança; pois foi com mão forte que o Senhor nos tirou do Egito”.
+
+@secao Responsório | Cf. Lc 2,22.23.24
+
+@responsorio
+R. Seus pais levaram o Menino à Cidade,
+e no templo, apresentaram-no ao Senhor,
+* Como na lei do Senhor está escrito: Todo o primogênito masculino seja consagrado ao Senhor.
+V. Ofereceram ao Senhor em sacrifício duas pombinhas, de acordo com a lei. * Como na lei.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição pastoral Gaudium et Spes sobre a Igreja no mundo de hoje, do Concílio Vaticano II
+{(Séc.XX)} {(N.9-10)}
+
+@tema
+As interrogações mais profundas do gênero humano
+
+@texto
+O mundo moderno apresenta-se simultaneamente poderoso e fraco, capaz do melhor e do pior; abre-se diante dele o caminho da liberdade ou da escravidão, do progresso ou da regressão, da fraternidade e do ódio. Por outro lado, o homem toma consciência de que depende dele a boa orientação das forças por ele despertadas e que podem oprimi-lo ou servi-lo. Eis por que se interroga a si mesmo. Na verdade, os desequilíbrios que atormentam o mundo moderno estão ligados a um desequilíbrio mais profundo, que se enraíza no coração do homem. No íntimo do próprio homem, muitos elementos lutam entre si. De um lado, ele experimenta, como criatura, suas múltiplas limitações; por outro, sente-se ilimitado em seus desejos e chamado a uma vida superior. Atraído por muitas solicitações, é continuamente obrigado a escolher e a renunciar. Mais ainda: fraco e pecador, faz muitas vezes o que não quer e não faz o que desejaria. Em suma, é em si mesmo que o homem sofre a divisão que dá origem a tantas e tão grandes discórdias na sociedade. Muitos, sem dúvida, que levam uma vida impregnada de materialismo prático, não podem ter uma clara percepção desta situação dramática; ou, oprimidos pela miséria, sentem-se incapazes de prestar-lhe atenção. Outros, em grande número, julgam encontrar satisfação nas diversas interpretações da realidade que lhes são propostas. Alguns, porém, esperam unicamente do esforço humano a verdadeira e plena libertação da humanidade, e estão persuadidos de que o futuro domínio do homem sobre a terra dará satisfação a todos os desejos de seu coração. Não faltam também os que, desesperando de encontrar o sentido da vida, louvam a audácia daqueles que, julgando a existência humana vazia de qualquer significado próprio, se esforçam por encontrar todo o seu valor apoiando-se apenas no próprio esforço. Contudo, diante da atual evolução do mundo, cresce o número daqueles que formulam as questões mais fundamentais ou as percebem com nova acuidade. Que é o homem? Qual é o sentido do sofrimento, do mal e da morte que, apesar de tão grandes progressos, continuam a existir? Para que servem semelhantes vitórias, conseguidas a tanto custo? Que pode o homem dar à sociedade e dela esperar? Que haverá depois desta vida terrestre? A Igreja, porém, acredita que Jesus Cristo, morto e ressuscitado por todo o gênero humano, oferece ao homem, pelo Espírito Santo, luz e forças que lhe permitirão corresponder à sua vocação suprema; ela crê que não há debaixo do céu outro nome dado aos homens pelo qual possam ser salvos. Crê igualmente que a chave, o centro e o fim de toda a história humana encontra-se em seu Senhor e Mestre. A Igreja afirma, além disso, que, subjacente a todas as transformações, permanecem imutáveis muitas coisas que têm seu fundamento último em Cristo, o mesmo ontem, hoje e sempre.
+
+@secao Responsório | 1Cor 15,55-56a.57; Lm 3,25
+
+@responsorio
+R. Ó morte, onde está tua vitória?
+Ó morte, onde está teu aguilhão? O pecado é da morte o aguilhão.
+* Graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo.
+V. Bom é o Senhor para quem nele espera
+para cada pessoa que o busca. * Graças a Deus.
+
+@secao Oração
+
+@oracao
+Convertei para vós, ó Pai, nossos corações, a fim de que, buscando sempre o único necessário e praticando as obras da caridade, nos dediquemos ao vosso culto. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

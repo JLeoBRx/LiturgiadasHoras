@@ -1,0 +1,259 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_virgens_laudes_TP.htm
+@documento Laudes - COMUM DAS VIRGENS
+
+@titulo COMUM DAS VIRGENS
+
+@texto
+R. Ao Senhor, Rei das virgens, oh! vinde, adoremos.
+
+@rubrica
+Ou:
+
+@texto
+R. Adoremos o Cordeiro, a quem as virgens sempre seguem.
+
+@salmo salmos/salmo-094
+
+@gloria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Para uma virgem:
+
+Com tua lâmpada acesa,
+viste chegar o Senhor:
+do Esposo sentas-te à mesa,
+cheia de graça e esplendor.
+
+Para uma eterna aliança,
+põe-te no dedo um anel;
+cessam a fé e a esperança:
+Belém se torna Betel.
+
+Dá que aprendamos contigo
+ter sempre os olhos nos céus:
+calcar o mundo inimigo,
+buscar a glória de Deus.
+
+Jesus nos dê, por Maria,
+que como Mãe te acolheu,
+tê-lo na terra por guia,
+ao caminhar para o céu.
+
+Ao Pai e ao Espírito glória,
+ao Filho o mesmo louvor,
+pois virginal é a vitória
+da que desposa o Senhor.
+
+Para várias virgens:
+
+Jesus, coroa das virgens,
+por Virgem Mãe concebido,
+perdoai os nossos pecados,
+atendei nosso pedido!
+
+Por entre as virgens passando,
+entre alvos lírios pousais,
+e a todas elas saudando
+o prêmio eterno entregais.
+
+Por toda a parte onde fordes,
+as virgens seguem cantando,
+e os mais suaves louvores
+vão pelo céu ressoando.
+
+Nós vos pedimos a graça
+de um coração sem pecado,
+qual diamante sem jaça,
+por vosso amor transformado.
+
+Ao Pai e ao Espírito unido,
+vos adoramos, ó Filho:
+por Virgem Mãe concebido,
+das virgens todas auxílio.
+
+@secao Salmodia
+
+@antifona 1
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@antifona 2
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons! Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons! Aleluia.
+
+@antifona 3
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo. Aleluia.
+
+@secao Leitura breve | Ct 8,7
+
+@texto
+Águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, é vossa face que eu procuro. Meu coração fala convosco confiante.
+* Aleluia, aleluia. R. Senhor.
+V. Senhor, não me escondais a vossa face! * Aleluia.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@rubrica
+Para uma virgem e mártir:
+
+@antifona
+Tomastes vossa cruz como o Cristo, ó santa virgem. Na virgindade e no martírio imitastes vosso Esposo. Aleluia.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma virgem:
+
+@antifona
+A virgem prudente entrou para as bodas e vive com Cristo na glória celeste. Como o sol, ela brilha entre os coros das virgens. Aleluia.
+
+@rubrica
+Ou:
+
+@rubrica
+Para várias virgens:
+
+@antifona
+Santas virgens do Senhor, bendizei-o para sempre! Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@rubrica
+Para uma virgem e mártir:
+
+@antifona
+Tomastes vossa cruz como o Cristo, ó santa virgem. Na virgindade e no martírio imitastes vosso Esposo. Aleluia.
+
+@rubrica
+Ou:
+
+@rubrica
+Para uma virgem:
+
+@antifona
+A virgem prudente entrou para as bodas e vive com Cristo na glória celeste. Como o sol, ela brilha entre os coros das virgens. Aleluia.
+
+@rubrica
+Ou:
+
+@rubrica
+Para várias virgens:
+
+@antifona
+Santas virgens do Senhor, bendizei-o para sempre! Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, esposo e prêmio das virgens; e lhe supliquemos com fé:
+
+R. **Jesus, prêmio das virgens, ouvi-nos!**
+
+Cristo, amado pelas santas virgens como único Esposo,
+– concedei que nada nos separe do vosso amor. R.
+
+Coroastes Maria, como Rainha das virgens;
+– concedei-nos, por sua intercessão, que vos sirvamos sempre de coração puro. R.
+
+Por intercessão de vossas servas, que a vós se consagraram de todo o coração para serem santas de corpo e de alma;
+– concedei que jamais a instável figura deste mundo nos afaste de vós. R.
+
+Senhor Jesus, esposo por cuja vinda as virgens prudentes esperaram sem desanimar;
+– concedei que vos aguardemos vigilantes na esperança. R.
+
+Por intercessão de santa N., uma das virgens sábias e prudentes,
+– concedei-nos sabedoria e uma vida sem mancha. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, que prometestes habitar nos corações puros, dai-nos, pela intercessão da virgem santa N., viver de tal modo, que possais fazer em nós vossa morada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Atendei, ó Deus, nossa oração para que, recordando as virtudes da virgem santa N., mereçamos permanecer e crescer sempre mais no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para várias virgens:
+
+@texto
+Ó Deus, mostrai-nos sempre mais a vossa misericórdia, e, ao celebrarmos com alegria a festa das virgens santa N. e santa N., concedei-nos também o seu eterno convívio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

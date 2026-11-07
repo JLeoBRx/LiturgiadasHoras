@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Onze horas havendo passado,
+chega a tarde e o dia termina;
+entoemos louvores a Cristo,
+que é imagem da glória divina.
+
+Já passaram as lutas do dia,
+o trabalho por vós contratado;
+dai aos bons operários da vinha
+dons de glória no Reino esperado.
+
+Ó Senhor, aos que agora chamais
+e que ireis premiar no futuro,
+por salário, dai força na luta,
+e, na paz, um repouso seguro.
+
+Glória a vós, Cristo, Rei compassivo,
+glória ao Pai e ao Espírito também.
+Unidade e Trindade indivisa,
+Deus e Rei pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Todos os dias haverei de bendizer-vos
+e contar as vossas grandes maravilhas.
+
+@salmo salmos/salmo-144-i-v2
+
+@gloria
+
+@antifona
+Todos os dias haverei de bendizer-vos
+e contar as vossas grandes maravilhas.
+
+@antifona 2
+Todos os olhos, ó Senhor, em vós esperam,
+estais perto de quem pede vossa ajuda.
+
+@salmo salmos/salmo-144-ii-v2
+
+@gloria
+
+@antifona
+Todos os olhos, ó Senhor, em vós esperam,
+estais perto de quem pede vossa ajuda.
+
+@antifona 3
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@secao Leitura breve | Rm 8,1-2
+
+@texto
+Não há mais condenação para aqueles que estão em Cristo Jesus. Pois a lei do Espírito que dá a vida em Jesus Cristo te libertou da lei do pecado e da morte.
+
+@secao Responsório breve
+
+@responsorio
+R. O Cristo morreu pelos nossos pecados;
+* Pelos ímpios, o justo e conduziu-nos a Deus.
+R. O Cristo.
+V. Foi morto na carne, mas vive no Espírito.
+* Pelos ímpios. Glória ao Pai. R. O Cristo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, sede fiel ao vosso amor,
+como havíeis prometido a nossos pais!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, sede fiel ao vosso amor,
+como havíeis prometido a nossos pais!
+
+@secao Preces
+
+@preces
+Aclamemos a Cristo Jesus, esperança daqueles que conhecem o seu nome; e peçamos confiantes:
+
+R. **Kyrie, eleison! (Senhor, tende piedade de nós!)**
+
+Cristo Jesus, vós conheceis a fragilidade da nossa natureza, sempre inclinada para o pecado;
+– fortalecei-a com a vossa graça. R.
+
+Tende compaixão da nossa fraqueza humana, sempre propensa ao mal;
+– por vossa misericórdia, dai-nos o vosso perdão. R.
+
+Vós aceitais, benigno, a penitência para reparar a ofensa;
+– afastai de nós os castigos que merecemos pelos nossos pecados. R.
+
+Vós, que perdoastes a pecadora arrependida e carregastes nos ombros a ovelha desgarrada,
+– não nos recuseis a vossa misericórdia. R.
+
+{(intenções livres)}
+
+Vós, que, pelo sacrifício da cruz, abristes as portas do céu,
+– acolhei na eternidade todos aqueles que nesta vida esperaram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus onipotente e misericordioso, que quisestes salvar o mundo pela paixão de vosso Cristo, concedei que vosso povo se ofereça a vós em sacrifício e seja saciado com vosso amor imenso. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

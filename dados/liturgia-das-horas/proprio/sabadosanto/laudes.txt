@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sabadosanto_laudes.htm
+@documento Laudes - Sábado Santo
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SÁBADO SANTO
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Chorando vos cantamos
+um hino de louvor;
+as faltas perdoai-nos,
+de todos Redentor!
+
+Vencestes o inimigo,
+morrendo sobre a cruz:
+marcada em nossas frontes,
+é o sol que nos conduz.
+
+Jamais venha lesar-nos
+o antigo tentador:
+lavou-nos no batismo
+o sangue redentor.
+
+Por nós descer quisestes
+da morte à região:
+aos pais que aguardavam
+trouxestes salvação.
+
+Vireis no fim dos tempos,
+Senhor, Juiz e Rei,
+então recompensando
+quem segue a vossa lei.
+
+Curai nossas feridas,
+pedimo-vos, Senhor,
+a vós e ao Pai louvando
+e ao Espírito de amor.
+
+@secao Salmodia
+
+@antifona 1
+Lamentarão a sua morte
+como a um filho primogênito,
+pois foi morto o Inocente,
+Jesus Cristo, Senhor nosso.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Lamentarão a sua morte
+como a um filho primogênito,
+pois foi morto o Inocente,
+Jesus Cristo, Senhor nosso.
+
+@antifona 2
+Das portas do abismo livrai-me, Senhor!
+
+@salmo canticos/is-38-10-14-17-20
+
+@gloria
+
+@antifona
+Das portas do abismo livrai-me, Senhor!
+
+@antifona 3
+Estive morto e agora vivo:
+sou o Vivente pelos séculos;
+tenho as chaves dos abismos
+e a vitória sobre a morte.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Estive morto e agora vivo:
+sou o Vivente pelos séculos;
+tenho as chaves dos abismos
+e a vitória sobre a morte.
+
+@secao Leitura breve | Os 5,15d–6,2
+
+@texto
+Eis o que diz o Senhor: Em suas aflições me procurarão. Vinde, voltemos para o Senhor, ele nos feriu e há de tratar-nos, ele nos machucou e há de curar-nos. Em dois dias, nos dará vida, e, ao terceiro dia, há de restaurar-nos, e viveremos em sua presença.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte, e morte de cruz.
+Por isso Deus o exaltou sobremaneira em sua glória,
+e deu-lhe o nome mais sublime,
+muito acima de outro nome.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Salvai-nos, Salvador do universo!
+Por vossa cruz e vosso sangue nos remistes:
+ajudai-nos, vos pedimos, nosso Deus!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Salvai-nos, Salvador do universo!
+Por vossa cruz e vosso sangue nos remistes:
+ajudai-nos, vos pedimos, nosso Deus!
+
+@secao Preces
+
+@preces
+Adoremos com sincera piedade a Cristo, nosso Redentor, que por nós sofreu a Paixão e foi sepultado para ressuscitar ao terceiro dia; e peçamos humildemente:
+
+R. **Senhor, tende piedade de nós!**
+
+Cristo, nosso Salvador, que junto à cruz e ao sepulcro quisestes ter presente vossa Mãe dolorosa,
+– tornai-nos também participantes da vossa Paixão por meio dos sofrimentos da vida. R.
+
+Cristo, nosso Senhor, que como grão de trigo caído na terra fizestes germinar para nós o admirável fruto da vida eterna,
+– dai-nos a graça de morrer para o pecado e viver somente para Deus. R.
+
+Cristo, nosso Pastor, que jazendo no sepulcro quisestes vos ocultar da vista de todos,
+– ensinai-nos a amar nossa vida escondida convosco em Deus Pai. R.
+
+Cristo, novo Adão, que descestes ao reino dos mortos para libertar os justos que, desde a origem do mundo, lá estavam encarcerados,
+– compadecei-vos dos que estão mortos no túmulo de seus pecados, para que, escutando a vossa voz, recuperem a vida. R.
+
+Cristo, Filho do Deus vivo, que pelo batismo nos sepultastes convosco,
+– tornai-nos cada vez mais semelhantes a vós, no mistério da vossa ressurreição, para que vivamos a vida nova da graça. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

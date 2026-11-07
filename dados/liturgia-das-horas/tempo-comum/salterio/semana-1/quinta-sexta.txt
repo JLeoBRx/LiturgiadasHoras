@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@antifona
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@antifona 2
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@antifona
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@antifona 3
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@secao Leitura breve | Am 5,8
+
+@texto
+Aquele que fez as estrelas das Plêiades e o Órion e transforma as trevas em manhã e, de noite, escurece o dia, aquele que reúne as águas do mar e as derrama pela face da terra, seu nome é Senhor.
+
+@texto
+V. Diante dele vão a glória e a majestade,
+R. E o seu templo, que beleza e esplendor!
+
+@secao Oração
+
+@oracao
+Deus onipotente, em vós não há trevas nem escuridão; fazei que vossa luz resplandeça sobre nós e, acolhendo vossos preceitos com alegria, sigamos fielmente o vosso caminho. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

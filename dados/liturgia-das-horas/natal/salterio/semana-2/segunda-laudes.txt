@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2segunda_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Quando terei a alegria de ver vossa face, Senhor?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Quando terei a alegria de ver vossa face, Senhor?
+
+@antifona 2
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@antifona 3
+Sede bendito, Senhor, no mais alto dos céus.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Sede bendito, Senhor, no mais alto dos céus.

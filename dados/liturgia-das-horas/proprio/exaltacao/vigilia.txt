@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_vigilia.htm
+@documento Vigília da Exaltação da Santa Cruz
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Ó cruz gloriosa, ó cruz venerável,
+madeiro precioso, sinal admirável,
+vencendo o demônio, remiste este mundo
+pelo sangue de Cristo. Aleluia.
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@salmo canticos/is-61-1062-5-v2
+
+@gloria
+
+@antifona
+Ó cruz gloriosa, ó cruz venerável,
+madeiro precioso, sinal admirável,
+vencendo o demônio, remiste este mundo
+pelo sangue de Cristo. Aleluia.
+
+@secao Evangelho | Jo 12,31-36a
+
+@texto
+Naquele tempo, disse Jesus à multidão: [31] “Chegou a hora em que este mundo vai ser julgado. Chegou a hora em que vai ser expulso o príncipe deste mundo. [32] E quando Eu for elevado da terra, atrairei todos a Mim”. [33] Falava deste modo, para indicar de que morte ia morrer.
+[34] A multidão disse a Jesus: “Nós sabemos, pela Lei, que o Messias permanecerá para sempre. Como podes dizer: ‘É preciso que o Filho do homem seja elevado da terra’? Quem é esse Filho do homem?”.
+[35] Jesus respondeu: “A luz ainda estará no meio de vós por pouco tempo. Caminhai enquanto tendes luz, para que as trevas não vos surpreendam. Quem caminha nas trevas não sabe para onde vai. [36a] Enquanto tendes a luz, acreditai na luz”.

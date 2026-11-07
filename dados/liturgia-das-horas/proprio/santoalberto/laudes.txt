@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoalberto_laudes.htm
+@documento Laudes - Santo Alberto Magno, bispo e doutor da Igreja
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Doutor eterno, vos louvamos, Cristo,
+que revelais a salvação aos povos.
+Só vós, Senhor, tendes palavras vivas
+que nos dão vida e geram homens novos.
+
+Nós proclamamos, Bom pastor do orbe,
+que vós, do alto, confirmais a Esposa
+e suas palavras, pelas quais, constante,
+está no mundo como luz radiosa.
+
+Também nos destes refulgentes servos,
+que resplandecem como estrelas de ouro,
+e nos explicam a doutrina santa
+da vida eterna, singular tesouro.
+
+Por isso, ó Mestre, a vossa glória soa,
+pois dos doutores pela voz nos dais
+maravilhosos bens do Santo Espírito,
+mostrando a luz com que no céu brilhais.
+
+Implore o justo, celebrado agora,
+que o vosso povo possa andar também
+pelos caminhos de uma luz crescente,
+até vos ver na plena luz. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@antifona 2
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@antifona 3
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@secao Leitura breve | Sb 7,13-14
+
+@texto
+Aprendi a Sabedoria sem maldade e reparto-a sem inveja; não escondo a sua riqueza. É um tesouro inesgotável para os homens; os que a adquirem atraem a amizade de Deus, porque recomendados pelos dons da instrução.
+
+@secao Responsório breve
+
+@responsorio
+R. Que os povos da terra proclamem
+* A sabedoria dos santos. R. Que os povos.
+V. E a Igreja anuncie, cantando, os louvores que eles merecem. * A sabedoria.
+Glória ao Pai. R. Que os povos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem é sábio brilhará como luz no firmamento;
+quem ensina à multidão os caminhos da justiça,
+fulgirá como as estrelas pelos séculos eternos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem é sábio brilhará como luz no firmamento;
+quem ensina à multidão os caminhos da justiça,
+fulgirá como as estrelas pelos séculos eternos.
+
+@secao Preces
+
+@preces
+Agradeçamos a Cristo, o bom Pastor que deu a vida por suas ovelhas; e lhe peçamos:
+
+R. **Apascentai, Senhor, o vosso rebanho!**
+
+Cristo, quisestes mostrar vosso amor e misericórdia nos santos pastores;
+– por meio deles, sede sempre misericordioso para conosco. R.
+
+Através dos vossos representantes na terra, continuais a ser o Pastor das nossas almas;
+– não vos canseis de nos dirigir por intermédio de nossos pastores. R.
+
+Em vossos santos, que guiam os povos, sois o médico dos corpos e das almas;
+– não cesseis de exercer para conosco o ministério da vida e da santidade. R.
+
+Pela sabedoria e caridade dos santos, instruístes o vosso rebanho;
+– guiados pelos nossos pastores, fazei-nos crescer na santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que o bispo Santo Alberto fosse grande, porque soube conciliar a sabedoria humana e a verdadeira fé; dai-nos, na escola de tão grande mestre, conhecer-vos e amar-vos mais profundamente, na medida em que progredimos nas ciências. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

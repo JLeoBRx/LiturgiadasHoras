@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3sabado_laudes.htm
+@documento Laudes - III Sábado do Advento (entre 17 e 23 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Das alturas Deus virá! O seu brilho é como o Sol.
+
+@salmo salmos/salmo-118-145-152-xix-coph-v2
+
+@gloria
+
+@antifona
+Das alturas Deus virá! O seu brilho é como o Sol.
+
+@antifona 2
+Que os céus, lá do alto, derramem o orvalho,
+que chova das nuvens o Justo esperado.
+Que a terra se abra e germine o Senhor!
+
+@salmo canticos/sb-9-1-6-9-11
+
+@gloria
+
+@antifona
+Que os céus, lá do alto, derramem o orvalho,
+que chova das nuvens o Justo esperado.
+Que a terra se abra e germine o Senhor!
+
+@antifona 3
+Estai preparados, ó filhos de Deus,
+e ide ao encontro do Deus que virá.
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+Estai preparados, ó filhos de Deus,
+e ide ao encontro do Deus que virá.

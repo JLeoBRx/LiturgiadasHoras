@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/05sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 5a SEMANA DO TEMPO COMUM / SÁBADO / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Gálatas {5,25–6,18}
+
+@tema
+Conselhos sobre a caridade e o zelo
+
+@texto
+Irmãos: [5,25] Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente. [26] Não busquemos vanglória, provocando-nos ou invejando-nos uns aos outros. [6,1] No caso de alguém ser surpreendido numa falta, vós, que sois espirituais, corrigi esse tal, em espírito de mansidão. E que cada um de vós vigie sobre si mesmo, para não ser surpreendido também por alguma tentação. [2] Carregai os fardos uns dos outros: assim cumprireis a lei de Cristo. [3] Pois, se alguém julga ser uma pessoa importante, quando na verdade não é nada, está se iludindo a si mesmo. [4] Cada qual examine a sua própria maneira de agir e, então, poderá ter de que se gloriar, mas somente em relação a si mesmo e não em relação a outrem. [5] Pois cada qual tem que carregar o seu próprio fardo. [6] Aquele que recebe o ensinamento da Palavra torne quem o instrui participante de todos os seus bens. [7] Não vos iludais, de Deus não se zomba, pois o que o homem tiver semeado, é isso que vai colher. [8] Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna. [9] Não desanimemos de fazer o bem, pois no tempo devido haveremos de colher, sem desânimo. [10] Portanto, enquanto temos tempo, façamos o bem a todos, principalmente aos irmãos na fé. [11] Vede com que grandes letras eu vos escrevo, de próprio punho. [12] Os que desejam sobressair na ordem da carne, esses é que vos obrigam à circuncisão, unicamente para não serem perseguidos por causa da cruz de Cristo. [13] Pois nem eles mesmos que são circuncidados observam a Lei, mas querem que vos circuncideis para se gloriarem na vossa carne. [14] Quanto a mim, que eu me glorie somente da cruz do Senhor nosso, Jesus Cristo. Por ele, o mundo está crucificado para mim, como eu estou crucificado para o mundo. [15] Pois nem a circuncisão, nem a incircuncisão têm valor, o que conta é a criação nova. [16] E para todos os que seguirem esta norma, como para o Israel de Deus: paz e misericórdia. [17] Doravante, que ninguém me moleste, pois eu trago em meu corpo as marcas de Jesus. [18] Irmãos, a graça do Senhor nosso, Jesus Cristo, esteja convosco. Amém!
+
+@secao Responsório | Gl 6,7b-8; Jo 6,63a
+
+@responsorio
+R. O que o homem semear, isso, também, há de ceifar:
+quem semear na sua carne, colherá a corrupção;
+* Quem no Espírito semear, colherá a vida eterna.
+V. Quem dá vida é o Espírito; para nada serve a carne.
+* Quem no Espírito.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões do Bem-aventurado Isaac, abade do mosteiro de Stella
+{(Séc. XII)} {(Sermo 31: PL 194,1292-1293)}
+
+@tema
+A supremacia da caridade
+
+@texto
+Por que, irmãos, somos tão pouco solícitos em buscar ocasiões de salvação uns para os outros? Tão pouco cuidadosos em mais ajudarmo-nos mutuamente onde a necessidade for maior em carregar os fardos dos irmãos? O Apóstolo a isto nos exorta dizendo: _Carregai os fardos uns dos outros e cumprireis assim a lei de Cristo_; e em outro lugar: _Suportando-vos reciprocamente na caridade._ É esta, na verdade, a lei de Cristo. Se há em meu irmão – seja por indigência seja por fraqueza corporal ou de educação – alguma coisa de incorrigível, por que não a suporto com paciência, e não a levo de bom grado? Pois está escrito: _Seus filhos serão levados aos ombros e consolados no regaço?_ Não será porque me falta aquela caridade que tudo sofre, que é paciente para suportar e benigna para amar? Certamente esta é a lei de Cristo, dele que _assumiu verdadeiramente_ _nossas enfermidades_ pela paixão _e suportou nossas dores_ pela compaixão, amando os que carregava, carregando os que amava. Quem ataca o irmão em necessidade, quem põe armadilhas de qualquer tipo à sua fraqueza, está, sem dúvida alguma, sujeito à lei do demônio e a obedece. Sejamos então compassivos uns pelos outros, amantes da fraternidade, pacientes com as fraquezas, perseguidores dos vícios. Toda vida que se preocupa sinceramente com o amor de Deus e, por ele, com o amor do próximo, é mais aprovada por Deus, sejam quais forem suas observâncias ou seus usos religiosos. A caridade é aquela em vista da qual tudo se deve fazer ou não fazer, mudar ou não mudar. É ela o princípio e o fim que devem regular tudo. Nada é culpável quando feito por ela e em conformidade com ela. Oxalá ela nos seja concedida por aquele a quem não podemos agradar sem ela, pois sem ele nada absolutamente podemos, ele que vive e reina, Deus, pelos séculos infindos. Amém.
+
+@secao Responsório | 1Jo 3,11; Gl 5,14a
+
+@responsorio
+R. É esta a mensagem que ouvistes desde o início:
+* Amai-vos uns aos outros.
+V. Toda a lei se encerra nisso: * Amai-vos.
+
+@secao Oração
+
+@oracao
+Velai, ó Deus, sobre a vossa família, com incansável amor; e como só confiamos na vossa graça, guardai-nos sob a vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

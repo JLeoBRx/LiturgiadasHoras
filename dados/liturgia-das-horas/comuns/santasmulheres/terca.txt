@@ -1,0 +1,94 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santasmulheres_terca.htm
+@documento COMUM DAS SANTAS MULHERES - Hora Média
+
+@titulo COMUM DAS SANTAS MULHERES
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Derramarei meu Espírito sobre meus servos e servas.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Derramarei meu Espírito sobre meus servos e servas.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+O que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. Feliz o homem sem pecado em seu caminho.
+R. Que na Lei do Senhor Deus vai progredindo.
+
+@secao Oração
+
+@oracao
+Não havendo oração própria, diz-se uma das seguintes:
+Ó Deus, que nos alegrais cada ano com a festa de santa N., fazei-nos, venerando sua memória, seguir o exemplo de sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Concedei-nos, ó Deus, a sabedoria e o amor que inspirastes à vossa filha santa {N.}, para que, seguindo seu exemplo de fidelidade, nos dediquemos ao vosso serviço, e vos agrademos pela fé e pelas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para várias santas mulheres:
+
+@texto
+Ó Deus todo-poderoso, pelas preces das santas {N.} e {N.}, que nos deixaram em suas vidas um exemplo admirável, concedei-nos os auxílios celestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa religiosa:
+
+@texto
+Ó Deus, concedei-nos pelas preces de santa {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa que se dedicou às obras de caridade:
+
+@texto
+Ó Pai, como ensinastes à vossa Igreja que todos os mandamentos se resumem em amar a Deus e ao próximo, concedei-nos, a exemplo de santa {N.}, praticar obras de caridade, para sermos contados entre os benditos do vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa educadora:
+
+@texto
+Ó Deus, que suscitastes santa {N.} na vossa Igreja para mostrar ao próximo o caminho da salvação, concedei-nos seguir também o Cristo, nosso Mestre, e chegar até vós com nossos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

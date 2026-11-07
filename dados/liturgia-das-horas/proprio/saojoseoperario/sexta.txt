@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoseoperario_sexta.htm
+@documento Hora Média - São José Operário
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@secao Leitura breve | Cf. Sb 10,10
+
+@texto
+A sabedoria guiou, por caminhos retos, o justo que fugia do ódio do irmão, mostrou-lhe o reino de Deus e deu-lhe conhecimento das coisas santas; deu sucesso às suas tarefas e recompensa aos seus trabalhos.
+
+@texto
+V. Haverá glória e riqueza em sua casa.
+R. Permanece para sempre o bem que fez.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador do universo, que destes aos homens a lei do trabalho, concedei-nos, pelo exemplo e a proteção de São José, cumprir as nossas tarefas e alcançar os prêmios prometidos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

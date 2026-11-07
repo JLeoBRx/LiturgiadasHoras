@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/19sextaTC.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Miqueias {6,1-15}
+
+@tema
+O Senhor julga o seu povo
+
+@texto
+[1] Ouvi o que diz o Senhor: "Levanta-te, convoca um julgamento perante os montes e faze que as colinas ouçam tua voz". [2] Ouvi, montes, as razões do Senhor em juízo, escutai-o, fundamentos da terra; a pendência do Senhor é com seu povo, ele disputa em juízo contra Israel. [3] "Povo meu, que é que te fiz? Em que te fui penoso? Responde-me. [4] Eu te retirei da terra do Egito e te libertei da casa da servidão, e pus à tua frente Moisés, Aarão e Maria. [5] Ó meu povo, eu te peço, relembra as tramas de Balac, rei de Moab, e o que lhe respondeu Balaão, filho de Beor, no caminho de Setim até Guilgal, a fim de conheceres as ações justas do Senhor".
+
+@texto
+[6] "Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? [7] Acaso agradam ao Senhor carneiros aos milhares, e torrentes de óleo? Porventura ofertaria eu o meu primogênito, por um crime meu, o fruto do meu sangue pelos pecados da minha vida? [8] Foi-te revelado, ó homem, o que é o bem, e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericórdia, e caminhar solícito com teu Deus.
+
+@texto
+[9] A voz do Senhor clama contra a cidade – é sabedoria temer o teu nome –: "Ouvi, tribos e grupos da cidade! [10] Acaso suportarei uma roupa não-justa e o maldito efá encurtado? [11] Acaso justificarei a balança viciada e os pesos falsos da sacola? [12] Dessas iniquidades cobriram-se os ricos; seus habitantes falavam mentira, e na sua boca a língua era fonte de fraude. [13] Eu, portanto, pus-me a castigar-te, por causa de teus pecados. [14] Comerás, sem poder saciar-te, a miséria campeará em tua casa. Esconderás os teus bens, mas não os salvarás; e os homens que salvares, entregá-los-ei à espada. [15] Semearás, e não colherás; espremerás azeitonas, e não te ungirás com óleo; pisarás o mosto, e não beberás do vinho".
+
+@secao Responsório | Mq 6,8; Sl 36(37),3
+
+@responsorio
+R. Vou mostrar-te, ó homem, o que é bom
+e o que é que o Senhor pede de ti:
+* Que apenas pratiques a justiça,
+que ames o amor e a bondade
+e que diante de Deus sejas humilde.
+V. Confia no Senhor e faze o bem
+e sobre a terra habitarás em segurança. * Que apenas.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão sobre o batismo, de São Paciano, bispo
+{(Séc. IV)} {(Nn. 5-6: PL 13,1092-1093)}
+
+@tema
+Pelo Espírito sigamos o novo modo de viver em Cristo
+
+@texto
+O pecado de Adão passara para toda a raça: _Por um homem_, assim diz o apóstolo, _entrou o delito e pelo delito, a morte; assim também a morte passou para todos os homens_ (Rm 5,12). Portanto é necessário que a justiça de Cristo também passe para o gênero humano. Como aquele, pelo pecado fez perecer sua raça, assim Cristo pela justiça vivificará todo o seu povo. O Apóstolo insiste: _Como pela desobediência de um só muitos foram constituídos pecadores, assim pela obediência de um só muitos se constituem justos. Como reinou o delito para a morte, de igual modo reinará a graça pela justiça para a vida eterna_ (Rm 5,19.21).
+
+@texto
+Dirá alguém: "Mas havia motivo para o pecado de Adão passar aos seus descendentes, pois foram gerados por ele; e nós, será que somos gerados por Cristo para podermos ser salvos por ele? Nada de pensamentos carnais. Já diremos de que modo somos gerados, tendo Cristo por pai. Nos últimos tempos, assumiu Cristo de Maria a alma com a carne. A ela veio salvar, não a abandonou nos infernos, uniu-a a seu Espírito, fazendo-a sua. São estas as núpcias do Senhor, a união a uma carne, para formarem, conforme o grande sacramento, de dois uma só carne, Cristo e a Igreja.
+
+@texto
+Destas núpcias nasce o povo cristão, com a vinda do alto do Espírito do Senhor. À substância de nossas almas une-se logo a semente celeste descida do céu e brotamos nas entranhas da mãe e, postos em seu seio, somos vivificados em Cristo. Daí dizer o Apóstolo: _O primeiro Adão, alma vivente; o último Adão, espírito vivificante_ (1Cor 15,45). Assim gera Cristo, na Igreja, por meio de seus sacerdotes. O mesmo Apóstolo: _Em Cristo eu vos gerei_ (1Cor 4,15). A semente de Cristo, o Espírito de Deus, suscitando o novo homem no seio da mãe e dando-o à luz pelo parto da fonte, é dada pelas mãos do sacerdote; a madrinha do casamento é a fé.
+
+@texto
+É preciso receber a Cristo para nascer, pois assim diz o apóstolo João: _A todos aqueles que o receberam, deu-lhes o poder de se tornarem filhos de Deus_ (Jo 1,12). Não há possibilidade de se cumprir isto a não ser pelo sacramento do batismo, da crisma e do sacerdócio. O batismo purifica os pecados. Pela crisma é infundido o Espírito Santo. Solicitamos ambos das mãos e das palavras do bispo. Deste modo o homem todo renasce e se renova em Cristo. _Da forma como Cristo ressuscitou dos mortos, assim também nós caminhemos com vida_ (Rm 6,4). Quer dizer, despojados dos erros da vida antiga, sigamos pelo Espírito o novo modo de viver em Cristo.
+
+@secao Responsório | Rm 5,19.21; 1Jo 4,10
+
+@responsorio
+R. Pela desobediência de um só,
+muitos se tornaram pecadores;
+assim, pela obediência de um só,
+também, muitos hão de ser justificados.
+* Como o pecado para a morte dominou,
+assim a graça reinará pela justiça,
+para a vida eterna através de Jesus Cristo.
+V. Deus enviou-nos seu Filho unigênito,
+como vítima por nossos pecados. * Como o pecado.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos um dia a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

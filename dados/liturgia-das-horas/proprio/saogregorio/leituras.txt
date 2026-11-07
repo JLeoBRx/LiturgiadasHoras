@@ -1,0 +1,129 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saogregorio.htm
+@documento Ofício das Leituras - São Gregório Magno, Papa E Doutor Da Igreja Memória
+
+@celebracao
+SÃO GREGÓRIO MAGNO, PAPA E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Roma por volta do ano 540. Tendo tomado a carreira política, chegou a ser nomeado prefeito de Roma. Abraçou depois a vida monástica, foi ordenado diácono e desempenhou o cargo de legado pontifício em Constantinopla. No dia 3 de setembro do ano 590 foi elevado à Cátedra de Pedro, cargo que exerceu como verdadeiro bom pastor no governo da Igreja, no cuidado dos pobres, na propagação e consolidação da fé. Escreveu muitas obras de Moral e Teologia. Morreu a 12 de março do ano 604.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro, seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro, seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas, recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel, vem entrar na alegria de Jesus, teu Senhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, 8mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, 9firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, 5a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados 7e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, 8de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre Ezequiel, de São Gregório Magno, papa
+{(Séc. VI)} {(Lib. 1,11,4-6: CCL 142,170-172)}
+
+@tema
+Por amor de Cristo, me consagro totalmente à sua palavra
+
+@texto
+_Filho do homem, eu te coloquei como sentinela da casa de Israel_ (Ez 3,16). É de se notar que o Senhor chama de sentinela aquele a quem envia a pregar. A sentinela, de fato, está sempre no alto para enxergar de longe quem vem. E quem quer que seja sentinela do povo deve manter-se no alto por sua vida, para ser útil por sua providência. Como é duro para mim isto que digo! Ao falar, firo-me a mim mesmo, pois minha língua não mantém, como seria justo, a pregação e, mesmo que consiga mantê-la, a vida não concorda com a língua. Eu não nego ser culpado, conheço minha inércia e negligência. Talvez haja diante do juiz bondoso um pedido de perdão no reconhecimento da culpa. Na verdade, quando no mosteiro podia não só reter a língua de palavras ociosas, mas quase continuamente manter o espírito atento à oração. Mas depois que pus aos ombros do coração o cargo pastoral, meu espírito não consegue recolher-se sempre, porque está dividido entre muitas coisas. Sou obrigado a decidir ora questões das Igrejas, ora dos mosteiros; com frequência ponderar a vida e as ações de outrem; ora auxiliar em certos negócios dos cidadãos, ora gemer sob as espadas dos bárbaros invasores e temer os lobos que rondam o rebanho sob minha guarda. Por vezes, devo encarregar-me da administração, para que não venha a faltar o necessário aos submetidos à disciplina da regra. Às vezes devo tolerar com igualdade de ânimo certos ladrões, ora opor-me a eles pelo desejo de conservar a caridade. Estando assim dispersa e dilacerada a mente, quando voltará a recolher-se toda na pregação, e não se afastar do ministério da proclamação da Palavra? Por obrigação do cargo, muitas vezes tenho de encontrar-me com seculares; por isso sempre relaxo a guarda da língua. Pois se constantemente me mantenho sob o rigor de minha censura, sei que sou evitado pelos mais fracos e nunca os atraio para onde desejo. Por esta razão, muitas vezes tenho de ouvi-los pacientemente em questões ociosas. Mas, sendo eu mesmo fraco, arrastado aos poucos pelas palavras vãs, começo a dizer sem dificuldade aquilo que a princípio tinha ouvido com má vontade; e ali onde me aborrecia cair, agrada-me permanecer. Que, pois, ou que espécie de sentinela sou eu, que não estou de pé no monte da ação, mas ainda deitado no vale da fraqueza? Poderoso é, porém, o criador e redentor do gênero humano para conceder-me, a mim, indigno, a elevação da vida e a eficácia da palavra. Por seu amor, me consagro totalmente à sua palavra.
+
+@secao Responsório
+
+@responsorio
+R. Fez brotar das escrituras a moral e a mística;
+como a água da fonte,
+fez correr para os povos os rios do Evangelho.
+* E estando ausente, ainda nos fala.
+V. Como a águia no alto, sobre o mundo voando,
+com amor sem fronteiras, ele cuida de todos:
+dos pequenos e grandes.* E estando.
+
+@secao Oração
+
+@oracao
+Ó Deus, que cuidais do vosso povo com indulgência e o governais com amor, dai, pela intercessão de São Gregório Magno, o espírito de sabedoria àqueles a quem confiastes o governo da vossa Igreja, a fim de que o progresso das ovelhas contribua para a alegria dos pastores. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

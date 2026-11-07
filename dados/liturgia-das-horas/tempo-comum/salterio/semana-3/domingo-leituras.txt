@@ -1,0 +1,111 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3domingo_leituras.htm
+@documento Ofício das Leituras - III Domingo
+
+@titulo III DOMINGO / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Cantemos todos este dia,
+no qual o mundo começou,
+no qual o Cristo ressurgido
+da morte eterna nos salvou.
+
+Já o profeta aconselhava
+buscar de noite o Deus da luz.
+Deixando pois o nosso sono,
+vimos em busca de Jesus.
+
+Que ele ouça agora a nossa prece,
+tome a ovelhinha em sua mão,
+leve o rebanho pela estrada
+que nos conduz à salvação.
+
+Eis que o esperamos vigilantes,
+cantando à noite o seu louvor:
+vem de repente como esposo,
+como o ladrão, como o senhor.
+
+Ao Pai eterno demos glória,
+ao Unigênito também;
+a mesma honra eternamente
+ao seu Espírito convém.
+
+@rubrica
+II.Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Santo entre todos, já fulgura
+o dia oitavo, resplendente,
+que consagrais em vós, ó Cristo,
+vós, o primeiro dos viventes.
+
+Às nossas almas, por primeiro,
+vinde trazer ressurreição,
+e da segunda morte livres,
+os nossos corpos surgirão.
+
+Ao vosso encontro, sobre as nuvens,
+em breve, ó Cristo, nós iremos.
+Ressurreição e vida nova,
+convosco sempre viveremos.
+
+Dai-nos, à luz da vossa face,
+participar da divindade,
+vos conhecendo como sois,
+Luz, verdadeira suavidade.
+
+Por vós entregues a Deus Pai,
+que seu Espírito nos dá,
+à perfeição da caridade
+o Trino Deus nos levará.
+
+@secao Salmodia
+
+@antifona 1
+Todos os dias haverei
+de bendizer-vos, ó Senhor. Aleluia.
+
+@salmo salmos/salmo-144-i
+
+@gloria
+
+@antifona
+Todos os dias haverei
+de bendizer-vos, ó Senhor. Aleluia.
+
+@antifona 2
+O vosso reino, ó Senhor, é para sempre. Aleluia.
+
+@salmo salmos/salmo-144-ii
+
+@gloria
+
+@antifona
+O vosso reino, ó Senhor, é para sempre. Aleluia.
+
+@antifona 3
+O Senhor é amor fiel em sua palavra,
+é santidade em toda obra que ele faz. Aleluia. †
+
+@salmo salmos/salmo-144-iii
+
+@gloria
+
+@antifona
+O Senhor é amor fiel em sua palavra,
+é santidade em toda obra que ele faz. Aleluia.
+
+@texto
+V. Meu filho, ouve minhas palavras.
+R. Presta ouvido a meus conselhos!

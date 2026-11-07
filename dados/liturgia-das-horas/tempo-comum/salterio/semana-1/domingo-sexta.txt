@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1domingo_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+É melhor buscar refúgio no Senhor,
+pois eterna é a sua misericórdia. Aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@antifona
+É melhor buscar refúgio no Senhor,
+pois eterna é a sua misericórdia. Aleluia.
+
+@antifona 2
+O Senhor é minha força e o meu canto, aleluia.
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@antifona
+O Senhor é minha força e o meu canto, aleluia.
+
+@antifona 3
+Dou-vos graças, ó Senhor,
+porque me ouvistes, aleluia.
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Dou-vos graças, ó Senhor,
+porque me ouvistes, aleluia.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+O que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. É eterna, Senhor, vossa palavra.
+R. De geração em geração, vossa verdade.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,54 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 2º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Eis aqui o Cordeiro de Deus,
+O que tira o pecado do mundo. Aleluia.
+
+@antifona vesperas-i-B
+Ao ouvirem a palavra de João,
+os dois discípulos seguiram a Jesus,
+e disseram-lhe: Ó Mestre, onde moras?
+Vinde e vede, disse a eles o Senhor.
+
+@antifona vesperas-i-C
+Celebrou-se um casamento em Caná da Galileia,
+e Jesus com sua mãe achavam-se presentes.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Foi este o testemunho que João deu do Senhor:
+O que virá depois de mim, já existia antes de mim.
+
+@antifona laudes-B
+Os discípulos foram ver onde é que ele morava;
+e ficaram com Jesus durante aquele dia.
+
+@antifona laudes-C
+Disse a Mãe de Jesus aos serventes:
+Fazei tudo o que ele disser!
+E Jesus ordenou que enchessem
+aquelas seis talhas com água,
+que foi transformada em vinho.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Do céu, o Espírito Santo
+em forma de pomba desceu,
+e sobre Jesus repousou:
+Eis quem batiza com o Espírito Santo.
+
+@antifona vesperas-ii-B
+Disse André a Simão Pedro:
+Encontramos o Messias.
+E a Jesus o conduziu.
+
+@antifona vesperas-ii-C
+Nas bodas de Caná da Galileia,
+Jesus iniciou os seus sinais,
+e assim manifestou a sua glória,
+e nele acreditaram seus discípulos.

@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pascoa_laudes.htm
+@documento Laudes - Domingo da Páscoa na Ressurreição do Senhor
+
+@celebracao
+DOMINGO DA PÁSCOA NA RESSURREIÇÃO DO SENHOR
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@antifona 2
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@antifona 3
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@secao Leitura breve | At 10,40-43
+
+@texto
+Deus ressuscitou Jesus no terceiro dia, concedendo-lhe manifestar-se não a todo o povo, mas às testemunhas que Deus havia escolhido: a nós, que comemos e bebemos com Jesus, depois que ressuscitou dos mortos. E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos, e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Na manhã do dia da Páscoa, tendo o sol aparecido,
+as mulheres vão ao túmulo. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Na manhã do dia da Páscoa, tendo o sol aparecido,
+as mulheres vão ao túmulo. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Cristo, autor da vida, a quem Deus ressuscitou dos mortos e que pelo seu poder também nos ressuscitará; e digamos:
+
+R. **Cristo, nossa vida, salvai-nos!**
+
+Cristo, luz esplendorosa que brilhais nas trevas, Senhor da vida e Salvador da humanidade,
+– fazei-nos viver todo este dia no louvor da vossa glória. R.
+
+Senhor Jesus, que percorrestes o caminho da paixão e da cruz,
+– concedei que, unidos a vós no sofrimento e na morte, também convosco ressuscitemos. R.
+
+Filho do eterno Pai, nosso mestre e nosso irmão, que fizestes de nós, para Deus, sacerdotes e povo de reis,
+– ensinai-nos a oferecer com alegria o nosso sacrifício de louvor. R.
+
+Rei da glória, aguardamos na esperança o dia da vossa vinda gloriosa,
+– para contemplarmos vossa face e sermos semelhantes a vós. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, por vosso Filho Unigênito, vencedor da morte, abristes hoje para nós as portas da eternidade. Concedei que, celebrando a ressurreição do Senhor, renovados pelo vosso Espírito, ressuscitemos na luz da vida nova. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

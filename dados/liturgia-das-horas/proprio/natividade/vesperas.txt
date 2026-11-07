@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natividade_vesperas.htm
+@documento Vésperas - Natividade da Bem-aventurada Virgem Maria
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó florão da humana raça,
+virginal Mãe de Jesus,
+tu, aos filhos da desgraça,
+vens fazer filhos da luz.
+
+Já trazendo a realeza
+ao nascer do rei Davi,
+vês crescer tua nobreza,
+quando Deus nasce de ti.
+
+Tua luz venceu a treva
+do pecado original,
+transformando os filhos de Eva
+em nação sacerdotal.
+
+Tua prece nos consiga
+de Deus Pai pleno perdão,
+e, calcada a culpa antiga,
+a divina comunhão.
+
+Ao Deus trino, Virgem pura,
+erga o homem seu louvor;
+restauraste a criatura,
+dando à luz o Criador.
+
+@secao Salmodia
+
+@antifona 1
+A Virgem Maria nasceu,
+brotou da raiz de Jessé;
+pelo Espírito Santo de Deus
+tornou-se a Mãe do Senhor.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+A Virgem Maria nasceu,
+brotou da raiz de Jessé;
+pelo Espírito Santo de Deus
+tornou-se a Mãe do Senhor.
+
+@antifona 2
+É hoje o nascimento de Maria, a Virgem santa.
+Deus olhou sua beleza e visitou sua humildade.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+É hoje o nascimento de Maria, a Virgem santa.
+Deus olhou sua beleza e visitou sua humildade.
+
+@antifona 3
+Santa Maria, Mãe de Deus, sois bendita e venerável;
+ao celebrarmos vossa festa, intercedei por todos nós
+junto ao Cristo, vosso Filho.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Santa Maria, Mãe de Deus, sois bendita e venerável;
+ao celebrarmos vossa festa, intercedei por todos nós
+junto ao Cristo, vosso Filho.
+
+@secao Leitura breve | Rm 9,4-5
+
+@texto
+Eles são israelitas. A eles pertencem a filiação adotiva, a glória, as alianças, as leis, o culto, as promessas e também os patriarcas. Deles é que descende, quanto à sua humanidade, Cristo, o qual está acima de todos – Deus bendito para sempre! – Amém!
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres, e bendito é o fruto do teu ventre. * O Senhor.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Celebremos o natal glorioso de Maria!
+Deus olhou sua humildade, quando o anjo lhe falou,
+e ela concebeu o Redentor da humanidade.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Celebremos o natal glorioso de Maria!
+Deus olhou sua humildade, quando o anjo lhe falou,
+e ela concebeu o Redentor da humanidade.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos e filhas. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Abri, ó Deus, para os vossos servos e servas os tesouros da vossa graça: e assim como a maternidade de Maria foi a aurora da salvação, a festa do seu nascimento aumente em nós a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

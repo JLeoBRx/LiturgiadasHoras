@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_Ivesperas.htm
+@documento I Vésperas - Exaltação da Santa Cruz
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+sangue e água jorraram.
+
+Árvore explêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna, só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor crucificado dentre os mortos ressurgiu,
+e a todos nos remiu. Aleluia.
+
+@salmo salmos/salmo-146a
+
+@gloria
+
+@antifona
+O Senhor crucificado dentre os mortos ressurgiu,
+e a todos nos remiu. Aleluia.
+
+@antifona 2
+No meio da cidade de Sião eleva-se a árvore da vida;
+suas folhas dão saúde para os povos. Aleluia.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+No meio da cidade de Sião eleva-se a árvore da vida;
+suas folhas dão saúde para os povos. Aleluia.
+
+@antifona 3
+Nós devemos gloriar-nos na Cruz de Jesus Cristo.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Nós devemos gloriar-nos na Cruz de Jesus Cristo.
+
+@secao Leitura breve | 1Cor 1,23-24
+
+@texto
+Nós pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. O sinal da santa Cruz estará no céu,
+* Quando o Senhor Jesus vier para julgar. R. O sinal.
+V. Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima. * Quando o Senhor.
+Glória ao Pai. R. O sinal.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Era preciso que o Cristo sofresse
+e ressuscitasse dos mortos,
+para entrar em sua glória, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Era preciso que o Cristo sofresse
+e ressuscitasse dos mortos,
+para entrar em sua glória, aleluia.
+
+@secao Preces
+
+@preces
+Oremos ao nosso Redentor que nos remiu pela sua Cruz; e digamos com toda a confiança:
+
+R. **Elevai-nos pela cruz até o vosso Reino!**
+
+Cristo, que vos humilhastes, assumindo a condição de um escravo e fazendo-vos semelhante à nossa condição humana,
+– dai aos membros da Igreja a graça de imitarem a vossa humildade. R.
+
+Cristo, que fostes obediente até à morte e morte humilhante numa cruz,
+– concedei a vossos servos e servas a força de vos imitar na obediência e na paciência. R.
+
+Cristo, que fostes exaltado por Deus e recebestes um nome que está acima de todo nome,
+– concedei aos vossos fiéis o dom da perseverança até o fim. R.
+
+Cristo, a cujo nome todo joelho se dobra no céu, na terra e nos abismos,
+– derramai sobre a humanidade o vosso espírito de caridade, para que todos vos adorem na paz. R.
+
+{(intenções livres)}
+
+Cristo, a quem toda língua proclama Senhor para a glória de Deus Pai,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

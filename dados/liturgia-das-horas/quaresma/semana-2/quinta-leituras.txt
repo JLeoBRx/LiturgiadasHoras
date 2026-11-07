@@ -1,0 +1,128 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/2quinta_quaresma.htm
+@documento Ofício das Leituras - 2ª Semana Da Quaresma - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@antifona 2
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@salmo salmos/salmo-043-ii-v4
+
+@gloria
+
+@antifona
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@antifona 3
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!
+
+@texto
+V. Quem medita a lei de Deus
+R. Dará frutos a seu tempo.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {18,13-27}
+
+@tema
+Moisés nomeia juízes do povo
+
+@texto
+Naqueles dias, [13] Moisés assentou-se para julgar as questões do povo, que se conservava de pé diante dele desde a manhã até à tarde. [14] Vendo tudo o que fazia pelo povo, Jetro, o sogro de Moisés, disse: “Que é isto que fazes com o povo? Por que estás aí sentado, tu sozinho, enquanto todo o povo espera desde a manhã até à tarde?” [15] Moisés respondeu ao sogro: “É que o povo vem a mim para consultar a Deus. [16] Quando surge entre eles alguma disputa, vêm a mim para que julgue entre eles e lhes mostre os preceitos de Deus e suas leis”. [17] Mas o sogro de Moisés lhe disse: “Não está bem o que fazes. [18] Acabarás por sucumbir, tu e este povo que está contigo; essa tarefa está acima das tuas forças e não poderás executá-la sozinho. [19] Agora escuta-me: vou dar-te um conselho, e que Deus esteja contigo: Tu deves representar o povo diante de Deus, e levar perante ele os problemas. [20] Esclarece o povo a respeito dos preceitos e das leis, e dá-lhe a conhecer o caminho a seguir, e o que deve fazer. [21] Mas escolhe entre todo o povo homens de valor, tementes a Deus, dignos de confiança e inimigos da cobiça, e constitui-os chefes de mil, de cem, de cinquenta e de dez.
+
+[22] Eles julgarão o povo em todo o tempo. A ti levarão as questões de maior importância, mas as de menor importância decidirão eles mesmos. Desta maneira, sendo repartido com os outros, o peso que te oprime será mais leve. [23] Se assim procederes, e Deus te der as suas ordens, poderás resistir, e toda esta gente voltará em paz para suas casas”. [24] Moisés ouviu o conselho do sogro, e fez tudo o que ele tinha dito. [25] Escolheu entre todo o Israel homens de valor, e os pôs à frente do povo como chefes de mil, de cem, de cinquenta e de dez. [26] Eles julgavam o povo em todo o tempo, e levavam a Moisés as questões mais graves, resolvendo eles mesmos as menores. [27] Depois disso, Moisés despediu-se do sogro, e este voltou para a sua terra.
+
+@secao Responsório | Cf. Nm 11,25; Ex 18,25a
+
+@responsorio
+R. O Senhor desceu na nuvem e falou para Moisés;
+e tomando do espírito que estava em Moisés, deu aos setenta anciãos.
+* Quando o espírito pousou sobre aqueles anciãos, profetizaram sem parar.
+V. Moisés, tendo escolhido homens capazes dentre o povo, colocou-os como chefes sobre os filhos de Israel. * Quando.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre os Salmos, de Santo Hilário, bispo
+{(Séc.IV)} {(Ps 127,1-3:CSEL 24,628-630)}
+
+@tema
+O verdadeiro temor do Senhor
+
+@texto
+_Feliz és tu se temes o Senhor e trilhas seus caminhos_ (Sl 127,1). Todas as vezes que na Escritura se fala do temor do Senhor, nunca se fala isoladamente, como se ele bastasse para a perfeição da nossa fé; mas vem sempre acompanhado de muitas outras virtudes que nos ajudam a compreender sua natureza e perfeição. Assim aprendemos desta palavra que disse Salomão no livro dos Provérbios: _Se suplicares a inteligência e pedires em voz alta a prudência; se andares à sua procura como ao dinheiro, e te lançares no seu encalço como a um tesouro, então compreenderás o temor do Senhor_ (Pr 2,3-5). Vemos assim quantos degraus é necessário subir para chegar ao temor do Senhor. Em primeiro lugar, devemos suplicar a inteligência, pedir a prudência, procurá-la como ao dinheiro e nos lançarmos ao seu encalço como a um tesouro. Então chegaremos a compreender o temor do Senhor. Porque o temor, na opinião comum dos homens, tem outro sentido. É a perturbação que experimenta a fraqueza humana quando receia sofrer o que não quer que lhe aconteça. Este gênero de temor manifesta-se em nós pelo remorso do pecado, pela autoridade do mais poderoso ou a violência do mais forte, por alguma doença, pelo encontro com um animal feroz e pela ameaça de qualquer mal.
+Esse temor, por conseguinte, não precisa ser ensinado, porque deriva espontaneamente de nossa fraqueza natural. Não aprendemos o que se deve temer, mas são as próprias coisas temíveis que nos incutem o terror. Pelo contrário, sobre o temor de Deus, assim está escrito: _Meus filhos, vinde agora e escutai-me: vou ensinar-vos o temor do Senhor Deus_ (Sl 33,12). Portanto, se o temor do Senhor é ensinado, deve-se aprender. Não nasce do nosso receio natural, mas do cumprimento dos mandamentos, das obras de uma vida pura e do conhecimento da verdade. Para nós, todo o temor do Senhor está contido no amor, e a caridade perfeita expulsa o temor. O nosso amor a Deus leva-nos a seguir os seus conselhos, a cumprir os seus mandamentos e a confiar em suas promessas. Ouçamos o que diz a Escritura: _E agora, Israel, o que é que o Senhor teu Deus te pede? Apenas que o temas e andes em seus caminhos; que ames e guardes os mandamentos do Senhor teu Deus, com todo o teu coração e com toda a tua alma, para que sejas feliz_ (Dt 10,12-13). Ora, os caminhos do Senhor são muitos, embora ele próprio seja o Caminho. Pois, ele chama-se a si mesmo caminho, e mostra a razão porque fala assim_: Ninguém vai ao Pai senão por mim_ (Jo 14,6). Devemos, portanto, examinar e avaliar muitos caminhos, para encontrarmos, por entre os ensinamentos de muitos, o único caminho certo, o único que nos conduz à vida eterna. Há caminhos na Lei, caminhos nos profetas, caminhos nos evangelhos e nos apóstolos, caminhos nas diversas obras dos mestres. Felizes os que andam por eles, movidos pelo temor do Senhor.
+
+@secao Responsório | Eclo 2,19; Lc 1,50
+
+@responsorio
+R. Os que temem o Senhor, buscam aquilo que lhe agrada;
+* Os que amam o Senhor, se contentam com sua lei.
+V. Seu amor de geração em geração, sobre aqueles que o temem. * Os que amam.
+
+@secao Oração
+
+@oracao
+Ó Deus, que amais e restaurais a inocência, orientai para vós os corações dos vossos filhos e filhas para que, renovados pelo vosso Espírito, sejamos firmes na fé e eficientes nas obras. Por nosso Senhor, Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

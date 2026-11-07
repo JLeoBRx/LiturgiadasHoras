@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/22quintaTC_par.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo QUINTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo a Timóteo {2,1-21}
+
+@tema
+Exortação à perseverança na fadiga e na perseguição
+
+@texto
+[1] Tu, pois, meu filho, fortifica-te na graça que está em Cristo Jesus. [2] O que de mim ouviste na presença de muitas testemunhas, confia-o a homens fiéis, que sejam idôneos para ensiná-lo a outros. [3] Assume a tua parte de sofrimento como bom soldado de Cristo Jesus. [4] Ninguém, engajando-se no exército, se deixa envolver pelas questões da vida civil, se quer dar satisfação àquele que o arregimentou. [5] Do mesmo modo o atleta não recebe a coroa se não lutou segundo as regras. [6] O agricultor que trabalha deve ser o primeiro a participar dos frutos. Entende o que eu digo; e o Senhor te dará compreensão em todas as coisas. [8] Lembra-te de Jesus Cristo, ressuscitado dentre os mortos, da descendência de Davi, segundo o meu Evangelho, [9] pelo qual sofro, até às cadeias, como malfeitor. Mas a palavra de Deus não está algemada! [10] É por isso que tudo suporto, por causa dos eleitos, a fim de que também eles obtenham a salvação que está em Cristo Jesus, com a glória eterna. [11] Fiel é esta palavra: Se com ele morremos, com ele viveremos. [12] Se com ele sofremos, com ele reinaremos. Se nós o renegamos, também ele nos renegará. [13] Se lhe somos infiéis, ele permanece fiel, pois não pode renegar-se a si mesmo. [14] Recorda todas estas coisas, atestando diante de Deus que é preciso evitar as discussões de palavras: elas não servem para nada, a não ser para a perdição dos que as ouvem. [15] Procura apresentar-te a Deus como homem provado, um trabalhador que não tem de que se envergonhar, que dispensa com retidão a palavra da verdade. [16] Evita o palavreado vão e ímpio, já que os que o praticam progredirão na impiedade; [17] a palavra deles é como gangrena que corrói, entre os quais se acham Himeneu e Fileto. [18] Eles se desviaram da verdade, dizendo que a ressurreição já se realizou; pervertem a fé de vários. [19] Não obstante, o sólido fundamento colocado por Deus permanece, marcado pelo selo desta palavra: O Senhor conhece os que lhe pertencem. E ainda: Aparte-se da injustiça todo aquele que pronuncia o nome do Senhor. [20] Numa grande casa não há somente vasos de ouro e de prata; há também de madeira e de barro; alguns para uso nobre, outros para uso vulgar. [21] Aquele, pois, que se purificar destes erros será vaso nobre, santificado, útil ao seu possuidor, preparado para toda boa obra.
+
+@secao Responsório | 2Cor 4,10.12; 2Tm 2,10
+
+@responsorio
+R. Trazemos em nosso corpo a agonia de Jesus,
+a fim de que a vida de Jesus
+seja também manifestada em nosso corpo.
+* Assim a morte trabalha em nós;
+a vida, porém, em vós.
+V. Por isso tudo suporto, por causa dos eleitos,
+a fim de que também eles obtenham a salvação.
+* Assim a morte.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Efésios” de Santo Inácio de Antioquia, bispo e mártir
+{(Séc. II)} {(Nm 13-15)}
+
+@tema
+Nada melhor do que ter paz em Cristo
+
+@texto
+Cuidai pois de reunir-vos com mais frequência, para dar a Deus ação de graças e louvor. Pois, quando vos reunis com frequência, abatem-se as forças de satanás e desfaz-se o malefício, pela vossa união na fé. Nada melhor que a paz, que aniquila toda guerra de poderes celestes ou terrestres.
+Nada disso constitui novidade, se mantiverdes de modo perfeito em Jesus Cristo a fé e a caridade, que são o começo da vida e seu fim. Pois o começo é a fé; e o fim, a caridade. Ambas reunidas são Deus, enquanto que tudo o mais é consequência para a perfeição humana. Ninguém peca enquanto professa a fé, ninguém odeia enquanto possui a caridade. Conhece-se a árvore pelos seus frutos; assim os que professam ser de Cristo serão reconhecidos pelas obras. Pois nesta hora não é de profissão de fé que se trata, mas de nos mantermos na prática da fé até o fim.
+É melhor calar-se e ser do que falar e não ser. É maravilhoso ensinar, quando se faz o que se diz. Assim, um é o Mestre “que falou e tudo foi feito”; também aquilo que realizou em silêncio é digno do Pai. Quem de fato possui a Palavra de Jesus pode até ouvir-lhe o silêncio; para ser perfeito, para agir pelo que fala, e ser reconhecido pelo que cala. Nada escapa ao Senhor; antes, o que é segredo para nós está perto d’Ele. Façamos pois tudo como se Ele em nós morasse, para sermos seus templos; e Ele, nosso Deus em nós. E é essa a realidade; e ela se manifestará aos nossos olhos, se o amarmos devidamente.
+
+@secao Responsório | 1Jo 4,7; cf. Eclo 25,1.2
+
+@responsorio
+R. Caríssimos, amemo-nos uns aos outros!
+* Porque o amor vem de Deus.
+V. A concórdia entre os irmãos e a amizade entre os vizinhos
+são agradáveis a Deus e aos homens.
+* Porque.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

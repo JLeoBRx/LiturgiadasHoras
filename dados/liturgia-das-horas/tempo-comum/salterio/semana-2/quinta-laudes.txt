@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Já o dia nasceu novamente.
+Supliquemos, orando, ao Senhor
+que nos guarde do mal neste dia
+e por atos vivamos o amor.
+
+Ponha freios à língua e a modere,
+da discórdia evitando a paixão;
+que nos vele o olhar e o defenda
+da vaidade e de toda a ilusão.
+
+Sejam puros os seres no íntimo,
+dominando os instintos do mal.
+Evitemos do orgulho o veneno,
+moderando o impulso carnal.
+
+Para que, no final deste dia,
+quando a noite, em seu curso, voltar,
+abstinentes e puros, possamos
+sua glória e louvores cantar.
+
+Glória ao Pai, ao seu Unigênito
+e ao Espírito Santo também.
+Suba aos Três o louvor do universo
+hoje e sempre, nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Despertai vosso poder, ó nosso Deus,
+e vinde logo nos trazer a salvação!
+
+@antifona 2
+Publicai em toda a terra as maravilhas do Senhor!
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@antifona
+Publicai em toda a terra as maravilhas do Senhor!
+
+@antifona 3
+Exultai no Senhor, nossa força! †
+
+@salmo salmos/salmo-080
+
+@gloria
+
+@antifona
+Exultai no Senhor, nossa força!
+
+@secao Leitura breve | Rm 14,17-19
+
+@texto
+O Reino de Deus não é comida nem bebida, mas é justiça e paz e alegria no Espírito Santo. É servindo a Cristo, dessa maneira, que seremos agradáveis a Deus e teremos a aprovação dos homens. Portanto, busquemos tenazmente tudo o que contribui para a paz e a edificação de uns pelos outros.
+
+@secao Responsório breve
+
+@responsorio
+R. Penso em vós no meu leito, de noite,
+* Nas vigílias, suspiro por vós. R. Penso em vós.
+V. Para mim fostes sempre um socorro! * Nas vigílias.
+Glória ao Pai. R. Penso em vós.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Anunciai ao vosso povo a salvação
+e perdoai-nos, ó Senhor, nossos pecados!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Anunciai ao vosso povo a salvação
+e perdoai-nos, ó Senhor, nossos pecados!
+
+@secao Preces
+
+@preces
+Bendigamos a Deus, nosso Pai, que protege os seus filhos e filhas e não despreza as suas súplicas; e peçamos-lhe humildemente:
+
+R. **Iluminai, Senhor, nossos caminhos!**
+
+Nós vos damos graças, Senhor, porque nos iluminastes por meio de vosso Filho Jesus Cristo;
+– concedei-nos a sua luz ao longo de todo este dia. R.
+
+Que a vossa Sabedoria hoje nos conduza,
+– para que andemos sempre pelos caminhos de uma vida nova. R.
+
+Ajudai-nos a suportar com paciência as dificuldades por amor de vós,
+– a fim de vos servirmos cada vez melhor na generosidade de coração. R.
+
+Dirigi e santificai nossos pensamentos, palavras e ações deste dia,
+– e dai-nos um espírito dócil às vossas inspirações. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, luz verdadeira e fonte da luz, concedei-nos perseverar na meditação de vossa Palavra e viver iluminados pelo esplendor de vossa verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

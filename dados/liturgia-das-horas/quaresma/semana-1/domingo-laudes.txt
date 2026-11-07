@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/1domingoquaresma_laudes.htm
+@documento Laudes - Domingo da 1ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Humildes, ajoelhados
+na prece que a fé inspira,
+ao justo Juiz roguemos
+que abrande o rigor da ira.
+
+Ferimos por nossas culpas
+o vosso infinito amor.
+A vossa misericórdia
+do alto infundi, Senhor.
+
+Nós somos, embora frágeis,
+a obra de vossa mão;
+a honra do vosso nome
+a outros não deis, em vão.
+
+Senhor, destruí o mal,
+fazei progredir o bem;
+possamos louvar-vos sempre,
+e dar-vos prazer também.
+
+Conceda o Deus Uno e Trino,
+que a terra e o céu sustém,
+que a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quero, assim, vos louvar pela vida
+e elevar para vós minhas mãos.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Quero, assim, vos louvar pela vida
+e elevar para vós minhas mãos.
+
+@antifona 2
+Cantai ao nosso Deus, bendizei-o eternamente.
+Louvai-o e exaltai-o pelos séculos sem fim!
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Cantai ao nosso Deus, bendizei-o eternamente.
+Louvai-o e exaltai-o pelos séculos sem fim!
+
+@antifona 3
+De fato, o Senhor ama o seu povo
+e coroa com vitória os seus humildes.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+De fato, o Senhor ama o seu povo
+e coroa com vitória os seus humildes.
+
+@secao Leitura breve | Ne 8,9b.10b
+
+@texto
+Este é um dia consagrado ao Senhor, nosso Deus! Não fiqueis tristes nem choreis. Pois este dia é santo para o nosso Senhor. Não fiqueis tristes, porque a alegria do Senhor será a vossa força.
+
+@secao Responsório breve
+
+@responsorio
+R. A alegria do Senhor é nossa força e amparo.
+* Sois bendito, Senhor Deus, de geração em geração. R. A alegria.
+V. Seja bendito vosso nome glorioso, que céu e terra vos exaltem, sem cessar!
+* Sois bendito. Glória ao Pai. R. A alegria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Bendigamos o nosso Redentor que na sua bondade nos concede este tempo de salvação; e supliquemos:
+
+R. **Criai em nós, Senhor, um espírito novo!**
+
+Cristo, nossa vida, que pelo batismo nos sepultastes sacramentalmente convosco na morte para que também convosco ressuscitemos,
+– ajudai-nos hoje a ser fiéis à vida nova que recebemos. R.
+
+Senhor Jesus, que passastes pelo mundo fazendo o bem,
+– tornai-nos solícitos pelo bem comum de toda a humanidade. R.
+
+Ensinai-nos a trabalhar generosamente na construção da cidade terrena,
+– e ao mesmo tempo buscar a cidade celeste. R.
+
+Médico dos corpos e das almas, curai as feridas do nosso coração,
+– para progredirmos sempre no caminho da santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que, ao longo desta Quaresma, possamos progredir no conhecimento de Jesus Cristo e corresponder ao seu amor por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

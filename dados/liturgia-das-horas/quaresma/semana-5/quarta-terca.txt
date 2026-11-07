@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5quartaquaresma_terca.htm
+@documento Hora Média - Terça - Quarta-feira da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@salmo salmos/salmo-118-9-16-i-beth
+
+@gloria
+
+@salmo salmos/salmo-016-i
+
+@gloria
+
+@salmo salmos/salmo-016-ii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@secao Leitura breve | 1Tm2,4-6
+
+@texto
+Deus, nosso Salvador, quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade. Pois há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus, que se entregou em resgate por todos. Este é o testemunho dado no tempo estabelecido por Deus.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, iluminai nossos corações purificados pela penitência. E ouvi com paternal bondade aqueles a quem dais o afeto filial. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

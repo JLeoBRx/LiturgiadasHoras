@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4sextaquaresma_nona.htm
+@documento Hora Média - Nona - Sexta-feira da 4ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força.
+
+@salmo salmos/salmo-118-161-168-xxi-sin
+
+@gloria
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força.
+
+@secao Leitura breve | Tg 1,27
+
+@texto
+A religião pura e sem mancha diante de Deus Pai é esta: assistir os órfãos e as viúvas em suas tribulações e não se deixar contaminar pelo mundo.
+
+@texto
+V. Meu sacrifício é minha alma penitente.
+R. Não desprezeis um coração arrependido!
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes para a nossa fraqueza os auxílios necessários à nossa renovação, dai-nos recebê-los com alegria e vê-los frutificar em nossa vida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/corpuschristi.htm
+@documento Ofício das Leituras - Santíssimo Sacramento Do Corpo E Sangue De Cristo Solenidade
+
+@celebracao
+SANTÍSSIMO SACRAMENTO DO CORPO E SANGUE DE CRISTO
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+A Santa Festa alegres celebremos,
+vibre o louvor em nossos corações;
+termine o velho e tudo seja novo:
+o coração, a voz e as ações.
+
+Da Última Ceia a noite recordamos,
+em que Jesus se deu, Cordeiro e Pão;
+conforme as leis entregues aos antigos,
+ele também se entrega a seus irmãos.
+
+Aos fracos deu seu corpo em alimento,
+aos tristes deu seu sangue por bebida.
+Diz: “Recebei o cálice com vinho,
+dele bebei, haurindo eterna vida”.
+
+Instituído estava o sacrifício,
+que aos seus ministros Cristo confiou.
+Devem tomá-lo e dá-lo aos seus irmãos,
+seguindo assim as ordens do Senhor.
+
+O Pão dos anjos fez-se pão dos homens,
+o pão do céu põe término às figuras.
+Oh maravilha: a carne do Senhor
+dada a pobres, frágeis criaturas.
+
+A vós, ó Una e Trina Divindade,
+pedimos: Vinde, ó Deus, nos visitai
+e pela santa estrada conduzi-nos
+à nossa meta, à luz onde habitais.
+
+@secao Salmodia
+
+@antifona 1
+Dizei aos convidados: Preparei o meu banquete,
+vinde à festa nupcial. Aleluia.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@antifona
+Dizei aos convidados: Preparei o meu banquete,
+vinde à festa nupcial. Aleluia.
+
+@antifona 2
+Quem tem sede venha a mim,
+venha e beba à fonte eterna.
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Quem tem sede venha a mim,
+venha e beba à fonte eterna.
+
+@antifona 3
+O Senhor nos saciou com a flor do trigo,
+e com o mel que sai da rocha nos fartou.
+
+@salmo salmos/salmo-080
+
+@gloria
+
+@antifona
+O Senhor nos saciou com a flor do trigo,
+e com o mel que sai da rocha nos fartou.
+
+@texto
+V. A Sabedoria construiu a sua casa, aleluia.
+R. Pôs a mesa com seu vinho generoso, aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {24,1-11}
+
+@tema
+Viram a Deus, e comeram e beberam
+
+@texto
+Naqueles dias: [1] Deus disse a Moisés: “Sobe até ao Senhor, tu e Aarão, Nadab, Abiú e os setenta anciãos de Israel, e prostrai-vos à distância. [2] Só Moisés se aproximará do Senhor. Os outros não se aproximarão, nem o povo subirá com ele”. [3] Moisés veio e transmitiu ao povo todas as palavras do Senhor e todos os decretos. O povo respondeu em coro: “Faremos tudo o que o Senhor nos disse”. [4] Então Moisés escreveu todas as palavras do Senhor. Levantando-se na manhã seguinte, ergueu ao pé da montanha um altar e doze marcos de pedra pelas doze tribos de Israel. [5] Em seguida, mandou alguns jovens israelitas oferecer holocaustos e imolar novilhos como sacrifícios pacíficos ao Senhor. [6] Moisés tomou metade do sangue e o pôs em vasilhas, e derramou a outra metade sobre o altar. [7] Tomou depois o livro da aliança e o leu em voz alta ao povo, que respondeu: “Faremos tudo o que o Senhor disse e lhe obedeceremos”. [8] Moisés, então, com o sangue separado, aspergiu o povo, dizendo: “Este é o sangue da aliança, que o Senhor fez convosco, segundo todas estas palavras”. [9] Moisés subiu com Aarão, Nadab e Abiú e os setenta anciãos de Israel. [10] E viram o Deus de Israel, e sob os seus pés havia uma espécie de pavimento de safira, límpido como o próprio céu. [11] Ele não estendeu a mão contra os escolhidos dentre os filhos de Israel; eles viram a Deus e depois comeram e beberam.
+
+@secao Responsório | Jo 6,48.49.50.51ab
+
+@responsorio
+R. Eu sou o pão da vida; vossos pais, no deserto,
+comeram o maná e no entanto morreram.
+* É este o pão vivo, descido dos céus,
+para que todo aquele que dele comer
+não morra, aleluia.
+V. Eu sou o pão vivo, descido dos céus;
+quem comer deste pão, viverá para sempre.
+* É este.
+
+@secao Segunda leitura
+
+@leitura
+Das Obras de Santo Tomás de Aquino, presbítero
+{(Séc. XIII)} {(Opusculum 57, In festo Corporis Christi, lect. 1-4)}
+
+@tema
+Ó precioso e admirável banquete!
+
+@texto
+O unigênito Filho de Deus, querendo fazer-nos participantes da sua divindade, assumiu nossa natureza, para que, feito homem, dos homens fizesse deuses. Assim, tudo quanto assumiu da nossa natureza humana, empregou-o para nossa salvação. Seu corpo, por exemplo, ele o ofereceu a Deus Pai como sacrifício no altar da cruz, para nossa reconciliação; seu sangue, ele o derramou ao mesmo tempo como preço do nosso resgate e purificação de todos os nossos pecados. Mas, a fim de que permanecesse para sempre entre nós o memorial de tão imenso benefício, ele deixou aos fiéis, sob as aparências do pão e do vinho, o seu corpo como alimento e o seu sangue como bebida. Ó precioso e admirável banquete, fonte de salvação e repleto de toda suavidade! Que há de mais precioso que este banquete? Nele, já não é mais a carne de novilhos e cabritos que nos é dada a comer, como na antiga Lei, mas é o próprio Cristo, verdadeiro Deus, que se nos dá em alimento. Poderia haver algo de mais admirável que este sacramento? De fato, nenhum outro sacramento é mais salutar do que este; nele os pecados são destruídos, crescem as virtudes e a alma é plenamente saciada de todos os dons espirituais. É oferecido na Igreja pelos vivos e pelos mortos, para que aproveite a todos o que foi instituído para a salvação de todos. Ninguém seria capaz de expressar a suavidade deste sacramento; nele se pode saborear a doçura espiritual em sua própria fonte; e torna-se presente a memória daquele imenso e inefável amor que Cristo demonstrou para conosco em sua Paixão. Enfim, para que a imensidade deste amor ficasse mais profundamente gravada nos corações dos fiéis, Cristo instituiu este sacramento durante a última Ceia, quando, ao celebrar a Páscoa com seus discípulos, estava prestes a passar deste mundo para o Pai. A Eucaristia é o memorial perene da sua Paixão, o cumprimento perfeito das figuras da Antiga Aliança e o maior de todos os milagres que Cristo realizou. É ainda singular conforto que ele deixou para os que se entristecem com sua ausência.
+
+@secao Responsório
+
+@responsorio
+R. Reconhecei neste pão, quem na cruz foi pregado
+neste cálice aquilo que do lado jorrou.
+Tomai e comei, é o corpo de Cristo;
+tomai e bebei, é o sangue de Cristo.
+* Nós já nos tornamos os membros de Cristo.
+V. Não queirais separar-vos, comei o que une,
+para não parecerdes sem valor a vós mesmos,
+bebei vosso preço. * Nós já...
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

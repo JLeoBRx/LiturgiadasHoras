@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1terca_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Feliz o homem que na lei
+do Senhor Deus vai progredindo.
+
+@salmo salmos/salmo-118-1-8-i-aleph-v2
+
+@gloria
+
+@antifona
+Feliz o homem que na lei
+do Senhor Deus vai progredindo.
+
+@antifona 2
+Meu coração, por vosso auxílio, rejubile!
+
+@salmo salmos/salmo-012
+
+@gloria
+
+@antifona
+Meu coração, por vosso auxílio, rejubile!
+
+@antifona 3
+À humanidade, quando imersa no pecado,
+o Senhor manifestou sua bondade.
+
+@salmo salmos/salmo-013
+
+@gloria
+
+@antifona
+À humanidade, quando imersa no pecado,
+o Senhor manifestou sua bondade.
+
+@secao Leitura breve | Jr 17,7-8
+
+@texto
+Bendito o homem que confia no Senhor, cuja esperança é o Senhor; é como a árvore plantada junto às águas, que estende as raízes em busca de umidade, por isso não teme a chegada do calor: sua folhagem mantém-se verde, não sofre míngua em tempo de seca e nunca deixa de dar frutos.
+
+@texto
+V. O Senhor nunca recusa bem algum.
+R. Àqueles que caminham na justiça.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nesta hora enviastes aos Apóstolos vosso santo Paráclito, comunicai-nos também este Espírito de amor, para darmos de vós um testemunho fiel diante de todos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

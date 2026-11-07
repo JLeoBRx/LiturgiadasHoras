@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/tiagodeviterbo.htm
+@documento Ofício das Leituras - Bem-Aventurado Tiago De Viterbo, Bispo
+
+@celebracao
+BEM-AVENTURADO TIAGO DE VITERBO, BISPO
+
+@biografia
+Tiago (Viterbo, em tomo ao ano 1255 - Nápoles, 1307/1308), tendo ingressado na Ordem, foi enviado a Paris em razão de seus estudos, onde teve por mestre o grande agostiniano Egídio (ou Gil) Romano. Obteve o doutorado, e assim, em Paris e em Nápoles, exerceu a docência. Em 1302, foi nomeado Bispo de Benevento e, pouco depois, aos 12 de dezembro daquele mesmo ano, Bispo de Nápoles. Escreveu obras de grande relevo, nas quais resplandece um amor sincero à Igreja e à doutrina de Santo Agostinho. Jordão de Saxônia, no livro Vitasfratrum (II, 4), narra acerca de um debate surgido entre os Bem-aventurados Tiago de Viterbo e Agostinho de Tarano, então Prior geral, durante o Capítulo Geral de 1300. Tal episódio lança um raio de luz sobre a maturidade e as virtudes que animavam esses grandes varões da história dos primeiros séculos da Ordem. São Pio X confirmou o culto do Bem-aventurado Tiago de Viterbo em 1911.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos escritos do Bem-aventurado Tiago de Viterbo, bispo
+{(Disputatio tertia de quolibet, q I, ed. E. Ypma O.S.A., Romae 1973,pp 15-21)}
+
+@tema
+Tudo que é santo ordena-se no amor
+
+@texto
+Como dizem os grandes doutores, o amor de Deus é o fim da sagrada doutrina, e não apenas de alguma de suas partes, mas da sua totalidade. O fim da Sagrada Escritura é, com efeito, a nossa salvação, donde lhe vem que se chame também ciência da salvação.
+A salvação de uma coisa consiste na unidade ou união que tem com aquilo que lhe convém. Nada, porém, é mais conveniente à alma racional do que o Bem supremo, que é Deus. Por isso, na união com Deus, consiste a salvação humana. E essa união realiza-se principalmente pelo amor. Logo, o fim da sagrada doutrina é, sobretudo, o amor de Deus e, por conseguinte, o amor do próximo, que é imagem de Deus.
+Isso mesmo manifesta-se, conforme a autoridade de Santo Agostinho, no primeiro livro sobre a Doutrina Cristã, em que, depois de ter tratado muitas das coisas relativas àquela ciência, ele diz: "De tudo o que foi dito anteriormente ao tratarmos sobre as coisas (_de rebus_), esta é a suma: que se entenda ser a plenitude e o fim da Lei, como de toda a Escritura divina, o amor àquela Realidade, que será nosso gozo, e o amor dos que podem partilhar conosco daquela fruição". E pouco mais à frente: "Se alguém julga ter entendido as Escrituras divinas ou partes delas, mas, se com esse entendimento, não edifica a caridade - a de Deus e a do próximo -, é preciso reconhecer que nada entendeu".
+Quando se diz que o fim do preceito é a caridade, isso não somente deve entender-se do fim próximo, que se pode atingir na vida presente, mas também do fim último, que existirá na futura, pois o amor é o fim, tanto lá como cá. Assim como a fé ordena-se, aqui, ao amor, também, ali, a visão, que sucede à fé, ordena-se ao amor; um amor que não acaba, mas aperfeiçoa-se, pois o amor será então tanto mais perfeito quanto mais perfeito for o conhecimento, que é caminho e princípio.
+Tudo quanto se revela na Sagrada Escritura ou é o próprio amor, ou é um preâmbulo que induz ao amor, como o conhecimento de Deus, em si mesmo ou através de suas obras, ou ainda é uma consequência do amor e seu argumento, como a observância dos preceitos e dos conselhos.
+A Teologia ordena-se ao amor de Deus que se chama de amizade. A amizade consiste na comunhão de vida. Ora, nada é mais próprio da amizade do que o conviver e o dialogar, como diz o Filósofo. Por outro lado, não existe naturalmente tal forma de comunhão da parte de Deus para conosco e, por isso, não existe amizade em sentido próprio. Por obra da graça, porém, há certa amizade ou comunhão amistosa da nossa parte para com Deus, por meio da qual podemos chamar-nos filhos e amigos de Deus. É para essa amizade, que se chama caridade, que a Sagrada Escritura se ordena principalmente, ainda que se ordene também ao amor de Deus, por meio do qual é Ele amado como fim, que se chama amor de concupiscência e que pertence igualmente à caridade. Mas é sobretudo o amor de amizade que pertence à caridade, sendo esta uma espécie de amizade.
+
+@secao Responsório | Cf. 1Jo 2,4; 4,8
+
+@responsorio
+R. Quem diz: "Eu conheço a Deus",
+mas não guarda os seus mandamentos,
+é mentiroso, e a verdade não está nele,
+*pois Deus é amor.
+V. Quem não ama, não chegou a conhecer a Deus,*pois Deus é amor.
+
+@secao Oração
+
+@oracao
+Senhor que, no Bem-aventurado Tiago, bispo, destes à vossa Igreja um mestre diligente na doutrina da fé, fazei que, por sua intercessão, nós nos empenhemos com todas as forças no serviço à Igreja e aos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

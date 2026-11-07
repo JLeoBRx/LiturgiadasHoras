@@ -1,0 +1,88 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quinta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Sustentai-me e viverei como dissestes, ó Senhor!
+
+@secao XV (Samech)
+
+@salmo salmos/salmo-118-113-120
+
+@gloria
+
+@antifona
+Sustentai-me e viverei como dissestes, ó Senhor!
+
+@antifona 2
+Ajudai-nos, nosso Deus e Salvador,
+por vosso nome, perdoai nossos pecados!
+
+@salmo salmos/salmo-078-1-5-8-11-13
+
+@gloria
+
+@antifona
+Ajudai-nos, nosso Deus e Salvador,
+por vosso nome, perdoai nossos pecados!
+
+@antifona 3
+Voltai-vos para nós, Deus do universo,
+olhai dos altos céus e observai,
+visitai a vossa vinha e protegei-a!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Voltai-vos para nós, Deus do universo,
+olhai dos altos céus e observai,
+visitai a vossa vinha e protegei-a!
+
+@secao Leitura breve | Est 10,3f
+
+@texto
+Meu povo é Israel. Eles invocaram a Deus e foram salvos. Sim, o Senhor salvou o seu povo, o Senhor nos arrebatou de todos estes males, Deus realizou sinais e prodígios como jamais houve entre as nações.
+
+@texto
+V. Dou-vos graças, ó Senhor, porque me ouvistes,
+R. E vos tornastes para mim o Salvador.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, atendei a nossa oração, dando-nos a graça de imitar o exemplo da paixão do vosso Filho e levar serenamente nossa cruz de cada dia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

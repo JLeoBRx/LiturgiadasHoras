@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3tercapascoa_laudes.htm
+@documento Laudes - Terça-feira da 3ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vinde, Senhor, restituir a nossa vida
+para que em vós se rejubile o vosso povo! Aleluia.
+
+@salmo salmos/salmo-084
+
+@gloria
+
+@antifona
+Vinde, Senhor, restituir a nossa vida
+para que em vós se rejubile o vosso povo! Aleluia.
+
+@antifona 2
+. Confiamos no Senhor e nos deu a sua paz. Aleluia.
+
+@salmo canticos/is-26-1-4-7-9-12
+
+@gloria
+
+@antifona
+Confiamos no Senhor e nos deu a sua paz. Aleluia.
+
+@antifona 3
+. A terra produziu sua colheita:
+alegrem-se os povos. Aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+A terra produziu sua colheita:
+alegrem-se os povos. Aleluia.
+
+@secao Leitura breve | At 13, 30-33
+
+@texto
+Deus ressuscitou Jesus dos mortos e, durante muitos dias ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: Tu és o meu filho, eu hoje te gerei.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Não foi Moisés, mas o meu Pai é quem vos dá
+o verdadeiro pão dos céus, diz o Senhor. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Não foi Moisés, mas o meu Pai é quem vos dá
+o verdadeiro pão dos céus, diz o Senhor. Aleluia**.**
+
+@secao Preces
+
+@preces
+Exultemos de alegria em Cristo nosso Senhor, que, ressuscitado de entre os mortos, reconstituiu o templo do seu corpo; e lhe supliquemos:
+
+R. **Ouvi-nos, Senhor, pela vossa ressurreição!**
+
+Cristo, Salvador do mundo, que anunciastes às santas mulheres e aos apóstolos a alegria da ressurreição,
+– fazei-nos testemunhas do vosso triunfo pascal. R.
+
+Vós, que prometestes a todos a ressurreição, que nos fará nascer para uma vida nova,
+– tornai-nos fiéis mensageiros do vosso evangelho. R.
+
+Vós, que, aparecendo aos apóstolos depois da ressurreição, lhes comunicastes o Espírito Santo,
+– renovai-nos com os dons do Espírito criador. R.
+
+Vós, que prometestes permanecer com os vossos discípulos até o fim do mundo,
+– ficai conosco hoje e sempre. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que abris as portas do reino dos céus aos que renasceram pela água e pelo Espírito Santo, aumentai em vossos filhos e filhas a graça que lhes destes para que, purificados de todo pecado, obtenham os bens que prometestes. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

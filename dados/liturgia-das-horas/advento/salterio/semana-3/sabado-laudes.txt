@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3sabado_laudes.htm
+@documento Laudes - III Sábado do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Vós estais perto, ó Senhor, perto de mim:
+todos os vossos mandamentos são verdade.
+
+@salmo salmos/salmo-118-145-152-xix-coph-v2
+
+@gloria
+
+@antifona
+Vós estais perto, ó Senhor, perto de mim:
+todos os vossos mandamentos são verdade.
+
+@antifona 2
+Que a vossa Sabedoria, ó Senhor,
+esteja junto a mim no meu trabalho.
+
+@salmo canticos/sb-9-1-6-9-11
+
+@gloria
+
+@antifona
+Que a vossa Sabedoria, ó Senhor,
+esteja junto a mim no meu trabalho.
+
+@antifona 3
+O Senhor para sempre é fiel.
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+O Senhor para sempre é fiel.

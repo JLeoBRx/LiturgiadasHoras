@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/josemariaescriva_vesperas.htm
+@documento Vésperas - São Josemaria Escrivá de Balaguer, presbítero
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Tu ensinaste-nos a imitar Cristo
+Nos caminhos da vida quotidiana,
+Transmitindo-nos a luz que a Luz divina
+Te deu, e que acolheste e nos inflama.
+
+Fugindo a todo fútil espectáculo,
+Exerceste a função sacerdotal
+Pregando integralmente o Evangelho
+Com espírito humilde e paternal.
+
+Sempre te protegeu Nossa Senhora,
+A Santa Mãe de Deus, Virgem Maria,
+Mãe do Amor Formoso, Nossa Esperança,
+Escrava do Senhor, Sede de Sabedoria.
+
+Rogai por nós, ó Virgem santíssima
+E bendita Mãe do nosso Deus,
+Vós que nos dais um caminho seguro
+E seguro o guardais até aos céus
+
+A Deus Trino elevemos nossa mente,
+Adorando-O com a maior piedade,
+Louvando o Pai e o Filho e o Paráclito
+Agora e por toda a eternidade. Amém
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o amigo dos irmãos,
+* Que intercede pelo povo. R. Eis o amigo.
+V. Dedicou a sua vida em favor de seus irmãos. * Que intercede.
+Glória ao Pai. R. Eis o amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Dou-vos um mandamento novo:
+amai-vos uns aos outros como Eu vos amei.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Dou-vos um mandamento novo:
+amai-vos uns aos outros como Eu vos amei.
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, nosso Deus, que, na Igreja, escolhestes São Josemaria, sacerdote, para anunciar a vocação universal à santidade e ao apostolado, concedei-nos, por sua intercessão e exemplo, que, através do trabalho quotidiano, nos identifiquemos com Cristo, vosso Filho, e sirvamos com amor ardente a obra da Redenção. Por nosso Senhor Jesus Cristo, vosso filho, na Unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

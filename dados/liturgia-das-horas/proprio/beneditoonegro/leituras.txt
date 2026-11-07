@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/beneditoonegro.htm
+@documento Ofício das Leituras - São Benedito, O Negro, Religioso
+
+@celebracao
+SÃO BENEDITO, O NEGRO, RELIGIOSO
+
+@biografia
+Benedito, cognominado o Mouro, ou “o Negro” no Brasil, nasceu na Sicília. Filho de escravos vindos da Etiópia para San Fratello, na Sicília, vendeu seus bens e fez-se eremita franciscano nas vizinhanças de Palermo. Mais tarde, obedecendo a uma determinação do Papa Pio VI, obrigando todos os seguidores da Regra de São Francisco a viverem em conventos de sua Ordem, abandonou o eremitério. No convento, dedicou-se a trabalhos humildes. Chegou a exercer o cargo de Superior, mesmo não sendo sacerdote e, mais tarde, vemo-lo novamente trabalhando na cozinha. Morreu em 1589. Seu culto logo se espalhou pela Itália, Espanha, Portugal, Brasil e México. O papa Pio VIII inscreveu-o no rol dos santos.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {3,7—4,1.4-9}
+
+@tema
+Alegrai-vos sempre no Senhor
+
+@texto
+Irmãos:[3,7] Essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. [8] Na verdade, considero tudo perda diante da vantagem suprema que
+consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, [9] não com minha justiça
+provinda da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé.. [10] Esta consiste em conhecer a Cristo, experimentar a força da ressurreição,
+ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, [11] para ver se alcanço a ressurreição dentre os mortos. [12] Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
+
+[13] Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. [14] Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
+
+[15] É assim que, enquanto perfeitos, devemos sentir e pensar. E se tiverdes um outro modo de sentir, Deus vos revelará o seu pensamento a esse respeito. [16] Entretanto, onde quer que já tenhamos chegado, caminhemos na mesma direção.
+
+[17] Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. [18] Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. [19] O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. [20] Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor Jesus Cristo. [21] Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso,com o poder que tem de sujeitar a si todas as coisas. [4,1] Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minhacoroa, meus amigos, continuai firmes no Senhor. [2] Exorto Evódia e exorto Síntique a viverem de pleno acordo, no Senhor. [3] E tu, fiel companheiro, Sízigo, eu te peço que as ajudes, porque elas me ajudaram na luta do evangelho, na companhia de Clemente e todos os outros, cujos nomes estão inscritos no livro da vida. [4] Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. [5] Que a vossa bondade sejaconhecida de todos os homens! O Senhor está próximo! [6] Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas,acompanhadas de ação de graças. [7] E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus. [8] Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro,amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. [9] Praticai o queaprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da pazestará convosco.
+
+@secao Responsório | Lc 12,35-36a; Mt 24,42
+
+@responsorio
+R. Estai de prontidão, cingi os vossos rins
+e trazei em vossas mãos as lâmpadas acesas.
+* E sede semelhantes a empregados, que esperam
+voltar o seu senhor das festas nupciais
+V. Portanto, vigiai, pois não sabeis o dia
+em que o Senhor há de chegar. * E sede.
+
+@secao Segunda leitura
+
+@leitura
+Da Regra não bulada, de São Francisco de Assis
+{(Séc. XIII)} {(Escritos e Biografias de São Francisco de Assis, Ed. Vozes-CEFEPAL, Petrópolis 1982, p. 146-147)}
+
+@tema
+Do modo de servir e de trabalhar
+
+@texto
+Os irmãos que forem capazes de trabalhar, trabalhem; e exerçam a profissão que aprenderam, enquanto não prejudicar o bem de sua alma e eles puderem exercê-la honestamente. Porquanto diz o profeta: Viverás do trabalho de tuas mãos: _serás feliz e terás bem-estar_ (Sl 127,2); e o Apóstolo: _Quem não quer trabalhar não coma_ (2Ts 3,10). Cada qual _permaneça naquele ofício e cargo para o qual foi chamado_ (1Cor 7,24). E como retribuição pelo trabalho podem aceitar todas as coisas de que precisam, exceto dinheiro. E, se for necessário, podem pedir esmolas como outros pobres. E podem ter as ferramentas necessárias ao seu ofício.
+
+Todos os irmãos se esforcem seriamente em praticar boas obras, pois está escrito: “Vê se estás sempre empenhado em praticar alguma boa obra, para que o diabo te encontre ocupado”; e ainda: “A ociosidade é inimiga da alma”. Por isso os servos de Deus devem estar sempre entregues à oração ou a qualquer outra boa obra.
+
+Cuidem os irmãos, onde quer que estejam, nos eremitérios ou em outros lugares, de não apropriar-se de qualquer lugar nem disputá-lo a outrem. E todo aquele que deles se acercar, seja amigo ou adversário, ladrão ou bandido, recebam-no com bondade. E onde quer que estejam os irmãos, e sempre que se encontrarem em algum lugar, devem respeitar-se e honrar-se espiritual e diligentemente uns aos outros, sem murmuração (1Pd 4,9). E guardem-se os irmãos de se mostrarem em seu exterior como tristes e sombrios hipócritas. Mas antes comportem-se como gente que se alegra no Senhor, satisfeitos e amáveis, como convém.
+
+@secao Responsório | Fl 2,2-3; Cl 3,12
+
+@responsorio
+R. Cultivai o amor fraterno
+considerando os demais superiores a vós mesmos;
+* Tenha em vista cada qual não seus próprios interesses
+e, sim, o bem dos outros.
+V. Revesti-vos, como eleitos do Senhor,
+de amor, misericórdia e compaixão,
+humildade, mansidão e paciência. * Tenha em vista.
+
+@secao Oração
+
+@oracao
+Ó Deus, que em São Benedito, o Negro, manifestais as vossas maravilhas, chamando à vossa Igreja homens de todos os povos, raças e nações, concedei, por sua intercessão, que todos, feitos vossos filhos e filhas pelo batismo, convivam como verdadeiros irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santacatarina.htm
+@documento Ofício das Leituras - Santa Catarina De Sena, Virgem, E Doutora Da Igreja Memória
+
+@celebracao
+SANTA CATARINA DE SENA, VIRGEM, E DOUTORA DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Sena (Itália), em 1347. Ainda adolescente, movida pelo desejo de perfeição, entrou na Ordem Terceira de São Domingos. Cheia de amor por Deus e pelo próximo, trabalhou incansavelmente pela paz e concórdia entre as cidades; defendeu com ardor os direitos e a liberdade do Romano Pontífice e promoveu a renovação da vida religiosa. Escreveu importantes obras de espiritualidade, cheias de boa doutrina e de inspiração celeste. Morreu em 1380.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Virgem prudente entre as outras,
+espera o esposo Jesus;
+acende auréolas na noite
+da sua lâmpada a luz.
+
+Anel de fúlgidas pedras
+põe-lhe no dedo o Senhor:
+“Ó minha amada, eu te entrego
+dos esponsais o penhor!”
+
+Por tal ardor, Catarina
+já desfalece de amor,
+vendo em seus membros as chagas,
+joias de infindo valor.
+
+Feliz a esposa que o Esposo
+acolhe nos braços seus:
+dá-lhe na terra o antegozo
+da plena glória dos céus.
+
+Possa nos céus o Deus Trino
+nosso louvor acolher,
+ele, que a terra governa
+com seu divino poder.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Não procures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eu digo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como se não tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, como se não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisa alguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com as coisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, a mulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar ao seu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eu desejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que as coisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, ao contrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolve respeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não se casa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livre de casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim, conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Do Diálogo sobre a divina Providência, de Santa Catarina de Sena
+{(Séc.XIV)} {(Cap. 167, Gratiarum actio ad Trinitatem: ed.lat., Ingolstadi 1583, f.290v-291)}
+
+@tema
+Provei e vi
+
+@texto
+Ó Divindade eterna, ó eterna Trindade, que pela união da natureza divina tanto fizeste valer o sangue de teu Filho unigênito! Tu, Trindade eterna, és como um mar profundo, onde quanto mais procuro mais encontro; e quanto mais encontro, mais cresce a sede de te procurar. Tu sacias a alma, mas de um modo insaciável; porque, saciando-se no teu abismo, a alma permanece sempre sedenta e faminta de ti, ó Trindade eterna, cobiçando e desejando ver-te à luz de tua luz. Provei e vi em tua luz com a luz da inteligência, o teu insondável abismo, ó Trindade eterna, e a beleza de tua criatura. Por isso, vendo-me em ti, vi que sou imagem tua por aquela inteligência que me é dada como participação do teu poder, ó Pai eterno, e também da tua sabedoria, que é apropriada ao teu Filho unigênito. E o Espírito Santo, que procede de ti e de teu Filho, deu-me a vontade que me torna capaz de amar-te. Pois tu, ó Trindade eterna, és criador e eu criatura; e conheci – porque me fizeste compreender quando de novo me criaste no sangue de teu Filho – conheci que estás enamorado pela beleza de tua criatura. Ó abismo, ó Trindade eterna, ó Divindade, ó mar profundo! Que mais poderias dar-me do que a ti mesmo? Tu és um fogo que arde sempre e não se consome. Tu és que consomes por teu calor todo o amor profundo da alma. Tu és de novo o fogo que faz desaparecer toda frieza e iluminas as mentes com tua luz. Com esta luz me fizeste conhecer a verdade. Espelhando-me nesta luz, conheço-te como Sumo Bem, o Bem que está acima de todo bem, o Bem feliz, o Bem incompreensível, o Bem inestimável, a Beleza que ultrapassa toda beleza, a Sabedoria superior a toda sabedoria. Porque tu és a própria Sabedoria, tu, o pão dos anjos, que no fogo da caridade te deste aos homens. Tu és a veste que cobre minha nudez; alimentas nossa fome com a tua doçura, porque és doce sem amargura alguma. Ó Trindade eterna!
+
+@secao Responsório
+
+@responsorio
+R. Catarina, minha irmã, abre-me a porta;
+co-herdeira do meu reino, diz-lhe Cristo,
+minha amiga, que conheces meus mistérios,
+meus segredos mais ocultos da verdade.
+* Enriquecida pelo dom do meu Espírito,
+purificada do pecado e toda mancha
+por meu sangue derramado, aleluia.
+V. Deixa a paz da oração contemplativa
+e testemunha minha verdade com firmeza.
+* Enriquecida.
+
+@secao Oração
+
+@oracao
+Ó Deus, que inflamastes de amor Santa Catarina de Sena, na contemplação da paixão do Senhor e no serviço da Igreja, concedei-nos, por sua intercessão, participar do mistério de Cristo, e exultar em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

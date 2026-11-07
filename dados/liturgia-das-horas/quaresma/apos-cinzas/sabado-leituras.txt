@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/sabadocinzas.htm
+@documento Ofício das Leituras - Sábado Depois Das Cinzas
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor nos libertou do poder do opressor.
+
+@salmo salmos/salmo-077-40-72-iv
+
+@gloria
+
+@antifona
+O Senhor nos libertou do poder do opressor.
+
+@antifona 2
+O Senhor nos conduziu para a Terra Prometida.
+
+@salmo salmos/salmo-077-40-72-v
+
+@gloria
+
+@antifona
+O Senhor nos conduziu para a Terra Prometida.
+
+@antifona 3
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido.
+
+@salmo salmos/salmo-077-40-72-vi
+
+@gloria
+
+@antifona
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido.
+
+@texto
+V. Quem pratica a verdade se põe junto à luz.
+R. E suas obras de filho de Deus se revelam.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {3,1 -20}
+
+@tema
+Vocação de Moisés e revelação do nome de Deus
+
+@texto
+Naqueles dias, [1] Moisés apascentava o rebanho de Jetro, seu sogro, sacerdote de Madiã. Levou, um dia, o rebanho deserto adentro e chegou ao monte de Deus, o Horeb. [2] Apareceu-lhe o anjo do Senhor numa chama de fogo, do meio de uma sarça. Moisés notou que a sarça estava em chamas, mas não se consumia, e disse consigo: [3] "Vou aproximar-me desta visão extraordinária, para ver por que a sarça não se consome".
+
+[4] O Senhor viu que Moisés se aproximava para observar e chamou-o do meio da sarça, dizendo: "Moisés! Moisés!" Ele respondeu: "Aqui estou". [5] E Deus disse: "Não te aproximes! Tira as sandálias dos pés, porque o lugar onde estás é uma terra santa". [6] E acrescentou: "Eu sou o Deus de teus pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó". Moisés cobriu o rosto, pois temia olhar para Deus.
+
+[7] E o Senhor lhe disse: “Eu vi a aflição do meu povo que está no Egito e ouvi o seu clamor por causa da dureza de seus opressores. Sim, conheço os seus sofrimentos. [8] Desci para libertá-los das mãos dos egípcios, e fazê-los sair daquele país para uma terra boa e espaçosa, uma terra onde corre leite e mel, para o país dos cananeus, dos hititas, dos amorreus, dos fereseus, dos heveus e dos jebuseus. [9] E agora, o clamor dos filhos de Israel chegou até mim, e vi a opressão que os egípcios fazem pesar sobre eles. [10] Mas vai, eu te envio ao Faraó, para que faças sair do Egito o meu povo, os filhos de Israel". [11] E Moisés disse a Deus: "Quem sou eu para ir ao Faraó e fazer sair os filhos de Israel do Egito?" [12] Deus lhe disse: "Eu estarei contigo; e este será o sinal de que fui eu que te enviei: quando tiveres tirado do Egito o povo, vós servireis a Deus sobre esta montanha". [13] Moisés disse a Deus: "Sim, eu irei aos filhos de Israel e lhes direi: 'O Deus de vossos pais enviou-me a vós'. Mas, se eles perguntarem: 'Qual é o seu nome?' o que lhes devo responder?" [14] Deus disse a Moisés: _"Eu Sou_ aquele que sou". E acrescentou: "Assim responderás aos filhos de Israel: 'Eu sou enviou-me a vós'". [15] E Deus disse ainda a Moisés: "Assim dirás aos filhos de Israel: 'O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós'. Este é o meu nome para sempre, e assim serei lembrado de geração em geração. Vai, reúne os anciãos de Israel e dize-lhes: [16] O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, apareceu-me, dizendo: Eu vos visitei e vi tudo o que vos sucede no Egito. [17] E decidi tirar-vos da opressão do Egito e conduzir-vos à terra dos cananeus, dos hititas, dos amorreus, dos fereseus, dos heveus e dos jebuseus, a uma terra onde corre leite e mel. [18] Eles te escutarão e tu, com os anciãos de Israel, irás ao rei do Egito e lhe direis: 'O Senhor, o Deus dos hebreus, veio ao nosso encontro. E, agora, temos que ir, a três dias de marcha no deserto, para oferecermos sacrifícios ao Senhor nosso Deus'.
+
+[19] Eu sei, no entanto, que o rei do Egito não vos deixará partir, se não for obrigado por mão forte. [20] Por isso, estenderei minha mão e castigarei o Egito com toda a sorte de prodígios que vou realizar no meio deles. Depois disso, o rei do Egito vos deixará partir".
+
+@secao Responsório | Ex 3,14; Is 43,11
+
+@responsorio
+R. Disse Deusa Moisés: eu sou o que sou.
+* Dirás isto aos filhos dos Israelitas:
+quem se chama 'Eu sou" me enviou até vós.
+V. Sou eu o Senhor, eu sou "O que sou";
+Salvador não há outro, além de mim mesmo. * Dirás isto.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc. II)} {(Lib. 4,13,4-14,1: Sch 100, 534-540)}
+
+@tema
+A amizade de Deus
+
+@texto
+Nosso Senhor, o Verbo de Deus, que primeiro atraiu os homens para serem servos de Deus, libertou em seguida os que lhe estavam submissos, como ele próprio disse a seus discípulos: _Já não vos chamo servos, pois o servo não sabe o que faz o seu senhor. Eu vos chamo amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai (Jo 15,15). A amizade de Deus concede a imortalidade aos que a obtém._
+No princípio, Deus formou Adão, não porque tivesse necessidade do homem, mas para ter alguém que pudesse receber os seus benefícios. De fato, não só antes de Adão, mas antes da criação, o Verbo glorificava seu Pai, permanecendo nele, e era também glorificado pelo Pai, como ele mesmo declara: _Pai, glorifica-me com a glória que eu tinha junto de ti antes que o mundo existisse_ (Jo 17,5). Não foi também por necessitar do nosso serviço que Deus nos mandou segui-lo, mas para dar-nos a salvação. Pois seguir o Salvador é participar da salvação, e seguir a luz é receber a luz.
+
+Quando os homens estão na luz, não são eles que a iluminam, mas são iluminados e tornam-se resplandecentes por ela. Nada lhe proporcionam, mas dela recebem o benefício e a iluminação.
+
+Do mesmo modo, o serviço que prestamos a Deus nada acrescenta a Deus, porque ele não precisa do serviço dos homens. Mas aos que o seguem e servem, Deus concede a vida, a incorruptibilidade e a glória eterna. Ele dá seus benefícios aos que o servem precisamente porque o servem e aos que o seguem precisamente porque o seguem; mas não recebe deles nenhum benefício, porque é rico, perfeito e de nada precisa.
+
+Se Deus requer o serviço dos homens é porque, sendo bom e misericordioso, deseja conceder os seus dons aos que perseveram no seu serviço. Com efeito, Deus de nada precisa, mas o homem é que precisa da comunhão com Deus.
+
+É esta, pois, a glória do homem: perseverar e permanecer no serviço de Deus. Por esse motivo dizia o Senhor a seus discípulos: _Não fostes vós que me escolhestes, mas fui eu que vos escolhi_ (Jo 15,16), dando assim a entender que não eram eles que o glorificavam seguindo-o, mas, por terem seguido o Filho de Deus, eram por ele glorificados. E disse ainda: _Quero que estejam comigo onde eu estiver, para que eles contemplem a minha glória_ (Jo 17,24)
+
+@secao Responsório | Cf. Dt 10,12; Mt 22,38
+
+@responsorio
+R. É isto que Deus, teu Senhor, te ordena:
+* Que respeites a Deus, teu Senhor, e o ames,
+e o sirvas de todo o teu coração,
+de toda a tua alma e com todas as forças.
+V. É este o primeiro e o maior mandamento.
+* Que respeites.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, olhai com bondade a nossafraqueza, e estendei, para proteger-nos, a vossa mão poderosa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

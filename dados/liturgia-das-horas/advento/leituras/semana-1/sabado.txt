@@ -1,0 +1,93 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/1sabadoAdvento.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 1ª SEMANA DO ADVENTO / SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {21,6-12}
+
+@tema
+A sentinela anuncia a queda da Babilônia
+
+@texto
+[6] Isto me disse o Senhor:
+“Vai e coloca uma sentinela
+para relatar tudo que vê.
+[7] Se ela vê um carro, uma parelha de cavalos,
+uma pessoa montada num burro, outra num camelo,
+deve concentrar o olhar com grande atenção”.
+[8] Gritou a sentinela:
+“Eu fico sempre o dia inteiro, Senhor,
+em meu posto de observação,
+fico as noites inteiras
+em meu posto de guarda;
+[9] eis que está vindo para cá um punhado de homens,
+uma parelha de cavalos”.
+E, retomando, disse:
+“Caiu, caiu Babilônia,
+todas as estátuas de seus deuses
+foram quebradas no chão”.
+[10] Ó minha gente, triturada, batida na minha eira,
+eu vos tenho relatado
+o que ouvi do Senhor dos exércitos, Deus de Israel.
+[11] Oráculo sobre Duma.
+Alguém grita para mim de Seir:
+“Guarda, que notícias da noite?
+Guarda, que notícias da noite?”
+[12] Disse o guarda:
+“Chegou manhã, chegou noite;
+se buscais alguém, continuai buscando,
+voltai, vinde”.
+
+@secao Responsório | Ap 18,2.4.5
+
+@responsorio
+R. Com voz poderosa, o anjo exclamou:
+Caiu Babilônia, a grande, caiu!
+E ouvi outra voz do céu que dizia:
+* Deixai-a, meu povo, para que cada um
+se preserve da fúria e da ira de Deus.
+V. Seus pecados chegaram ao mais alto dos céus,
+e o Senhor se lembrou dos atos iníquos,
+praticados por ela.
+* Deixai-a, meu povo, para que cada um
+se preserve da fúria e da ira de Deus.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre o bem da paciência, de São Cipriano, bispo e mártir
+{(Séc. III)} {(Nn. 13 et 15: CSEL 3,406-408)}
+
+@tema
+Esperamos o que não vemos
+
+@texto
+É este o preceito salvífico de nosso Senhor e Mestre: _Quem perseverar até o fim, será salvo_ (Mt 10,22). E ainda: _Se permanecerdes na minha palavra, sereis verdadeiramente meus discípulos, e conhecereis a verdade, e a verdade vos libertará_ (Jo 8,31-32).
+É preciso ter paciência e perseverar, irmãos caríssimos, para que, tendo sido introduzidos na esperança da verdade e da liberdade, possamos chegar à verdade e à liberdade. O fato de sermos cristãos exige que tenhamos fé e esperança, mas a paciência é necessária para que elas possam dar seus frutos.
+Nós não buscamos a glória presente, mas a futura, como também ensina o Apóstolo Paulo: _Já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que se vê; como pode alguém esperar o que já vê? Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança_ (Rm 8,24-25). A esperança e a paciência são necessárias para levarmos a bom termo o que começamos a ser e para conseguirmos aquilo que, tendo-nos sido apresentado por Deus, esperamos e acreditamos.
+Noutro lugar, o mesmo Apóstolo ensina os justos, os que praticam o bem e os que acumulam para si tesouros no céu, na esperança da felicidade eterna, a serem também pacientes, dizendo: _Portanto, enquanto temos tempo, façamos o bem a todos, principalmente aos irmãos na fé. Não desanimemos de fazer o bem, pois no tempo devido haveremos de colher, sem desânimo_ (Gl 6,10.9).
+Ele recomenda a todos que não deixem de fazer o bem por falta de paciência; que ninguém, vencido ou desanimado pelas tentações, desista no meio do caminho do mérito e da glória, e venha a perder as boas obras já feitas, por não ter levado até o fim o que começou.
+Finalmente, o Apóstolo, ao falar da caridade, une a ela a tolerância e a paciência. _A caridade_, diz ele, _é paciente, é benigna; não é invejosa, não se ensoberbece, não se encoleriza, não suspeita mal; tudo ama, tudo crê, tudo espera, tudo suporta_ (1Cor 13,4-5). Ensina-nos, portanto, que só a caridade pode permanecer, porque é capaz de tudo suportar.
+E noutra passagem diz: _Suportai-vos uns aos outros com amor; aplicai-vos a guardar a unidade do espírito pelo vínculo da paz_ (Ef 4,2b-3). Provou deste modo que só é possível conservar a união e a paz quando os irmãos se suportam mutuamente e guardam, mediante a paciência, o vínculo da concórdia.
+
+@secao Responsório | Cf. Hab 2,3; Hb 10,37
+
+@responsorio
+R. O Senhor há de vir sem frustrar nossa espera;
+* Esperemos atentos,pois virá com certeza, sem mais retardar.
+V. Ainda um pouco, um pouco somente
+e virá o que vem.* Esperemos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que enviastes a este mundo o vosso Unigênito para libertar da antiga escravidão o gênero humano, concedei aos que esperam vossa misericórdia chegar à verdadeira liberdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

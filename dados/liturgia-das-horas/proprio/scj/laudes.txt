@@ -1,0 +1,166 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/scj_laudes.htm
+@documento Laudes - Sagrado Coração de Jesus
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Jesus, autor da clemência,
+gozo, esperança e perdão,
+fonte de graça e doçura,
+delícia do coração.
+
+Do penitente esperança,
+ao suplicante atendeis.
+Sois bom com quem vos procura;
+se vos achar, que sereis?
+
+O vosso amor, ó Jesus,
+doce alimento da mente,
+sem dar fastio, sacia,
+gerando fome crescente.
+
+Ó muito amado Jesus,
+da alma ansiosa esperança:
+o coração, num clamor,
+chama por vós, não descansa.
+
+Ficai conosco, Senhor,
+nova Manhã que fulgura
+e vence as trevas da noite,
+trazendo ao mundo a doçura.
+
+Jesus, suprema clemência,
+dos corações suavidade,
+o vosso amor nos impele,
+incompreendida Bondade.
+
+Jesus, ó flor da Mãe Virgem,
+encanto, amor, sumo Bem,
+a vós louvor para sempre
+no Reino eterno. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Estando em pé, Jesus clamava em alta voz:
+Quem tem sede venha a mim, venha beber!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Estando em pé, Jesus clamava em alta voz:
+Quem tem sede venha a mim, venha beber!
+
+@antifona 2
+Vinde a mim, todos vós que estais cansados
+e penais a carregar pesado fardo,
+e descanso eu vos darei, diz o Senhor.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vinde a mim, todos vós que estais cansados
+e penais a carregar pesado fardo,
+e descanso eu vos darei, diz o Senhor.
+
+@antifona 3
+Meu filho, entrega a mim teu coração,
+e teus olhos sempre guardem meus caminhos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Meu filho, entrega a mim teu coração,
+e teus olhos sempre guardem meus caminhos.
+
+@secao Leitura breve | Jr 31,33
+
+@texto
+Esta será a aliança que concluirei com a casa de Israel, depois desses dias, diz o Senhor: imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo.
+
+@secao Responsório breve
+
+@responsorio
+R. Tomai meu jugo sobre vós,
+* E aprendei de mim. R. Tomai.
+V. Pois eu sou de coração humilde e manso. * E aprendei.
+Glória ao Pai. R. Tomai meu jugo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Pelo amor do Coração de nosso Deus,
+o Senhor nos visitou e libertou.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Pelo amor do Coração de nosso Deus,
+o Senhor nos visitou e libertou.
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs, a Jesus manso e humilde de coração; peçamos-lhe cheios de confiança:
+
+R. **Rei de bondade, tende compaixão de nós!**
+
+Jesus Cristo, em quem habita toda a plenitude da divindade,
+– fazei-nos participantes da vossa natureza divina. R.
+
+Jesus Cristo, em quem se encontram todos os tesouros da sabedoria e da ciência,
+– revelai-nos, pelo ministério da Igreja, a infinita sabedoria de Deus. R.
+
+Jesus Cristo, em quem o Pai colocou toda a sua afeição,
+– ensinai-nos a ouvir fielmente a vossa palavra. R.
+
+Jesus Cristo, de cuja plenitude todos nós recebemos,
+– dai-nos sempre e cada vez mais a graça e a verdade do Pai. R.
+
+Jesus Cristo, fonte de vida e santidade,
+– tornai-nos santos e puros no amor. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

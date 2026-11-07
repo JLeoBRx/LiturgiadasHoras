@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/08sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 8a SEMANA DO TEMPO COMUM / SÁBADO / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {13,13–14,6}
+
+@tema
+Jó apela para o julgamento de Deus
+
+@texto
+Respondeu Jó, dizendo aos amigos:[13,13] Fica calado, agora sou eu quem vai falar, aconteça o que acontecer. [14] Por que lacero minha carne com os meus dentes? Por que trago minha vida nas minhas mãos? [15] Ainda que ele me mate, nele esperarei; na sua presença defenderei o meu caminho. [16] Isto já seria a minha salvação, pois nenhum ímpio comparece diante dele. [17] Escutai atentamente minhas palavras, ouvi o que vou declarar. [18] Preparei a minha defesa, e sei que sou inocente. [19] Quem quer disputar comigo? De antemão, estou pronto para calar-me e para morrer! [20] Faze-me apenas duas concessões, e não me esconderei de tua presença: [21] afasta de mim a tua mão e não me amedrontes com teu terror; [22] depois acusa-me e eu te responderei, ou falarei eu e tu me hás de replicar. [23] Quantos são os meus pecados e minhas culpas? Mostra-me as minhas faltas e pecados. [24] Por que escondes tua face e me tratas como teu inimigo? [25] Ostentas teu poder contra uma folha que é levada pelo vento, e persegues uma folha ressequida. [26] Pois ditas contra mim sentenças amargas, e me obrigas a assumir os pecados da minha juventude, [27] prendes os meus pés ao cepo, vigias todos os meus caminhos e examinas as minhas pegadas. [28] Sou como um odre que se deve consumir, como um vestido roído pela traça.[14,1] O homem, nascido de mulher, tem a vida curta e cheia de tormentos. [2] É como a flor que se abre e logo murcha, foge como sombra sem parar. [3] E é sobre alguém assim que abres os olhos e o levas a julgamento contigo? [4] Quem fará sair o puro do impuro? Ninguém! [5] Se os seus dias já estão determinados e sabes o número de seus meses, se lhe fixaste um limite intransponível, [6] afasta dele teus olhos, para que descanse, para que possa terminar o seu dia como assalariado.
+
+@secao Responsório | Cf. Jo 13,20.21; cf. Jr 10,24
+
+@responsorio
+R. Não me escondais, ó Senhor, vossa face
+e de mim afastai vossa mão;
+* Não me apavore o vosso terror.
+V. Corrigi-me, Senhor, com clemência,
+corrigi-me, Senhor, sem furor,
+pois a nada me reduziríeis! * Não me.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados de São Zeno de Verona, bispo
+{(Séc. IV)} {(Tract. 15,2: PL 11,441-443)}
+
+@tema
+Jó prefigurava Cristo
+
+@texto
+Tanto quanto se pode entender, irmãos caríssimos, Jó prenunciava a figura de Cristo, o que é provado por uma comparação: Jó é chamado de justo por Deus. Ora, Cristo é a justiça de cuja fonte bebem todos os bem-aventurados. Dele se disse: _Levantar-se-á para vós o sol da justiça._ Jó é dito veraz. O Senhor, que declara no evangelho: _Eu sou o caminho e a verdade,_ é a própria verdade. Jó foi rico. E quem mais rico do que o Senhor? Dele são todos os servos ricos, dele o mundo inteiro e toda a natureza, no testemunho do Santo Davi: _Do Senhor é a terra e sua plenitude, o orbe da terra e todos quantos nele habitam._ O diabo tentou Jó por três vezes. De modo semelhante, narra o Evangelista, por três vezes o mesmo diabo esforçou-se por tentar o Senhor. Jó perdeu os bens que possuía. O Senhor, por nosso amor, abandonou os bens celestes e fez-se pobre para enriquecer-nos. O diabo, furioso, matou os filhos de Jó. E aos profetas, filhos de Deus, o louco povo fariseu assassinou. Jó manchou-se pelas úlceras. O Senhor, assumindo a carne de todo o gênero humano, apareceu manchado com as sujeiras dos pecadores. Jó foi instigado pela esposa a pecar. A sinagoga quis obrigar o Senhor a seguir a depravação dos anciãos. Apresentam-se os amigos de Jó a insultá-lo. E ao Senhor insultaram os sacerdotes que deviam cultuá-lo. Jó senta-se no monturo coberto de vermes. Também o Senhor no verdadeiro monturo, isto é, na lama desse mundo se demorou rodeado de homens estuantes de crimes e paixões, os verdadeiros vermes. Jó recuperou tanto a saúde quanto a riqueza. E o Senhor, ressuscitando, concedeu não só a saúde, mas a imortalidade aos que nele creem e recuperou o domínio sobre toda a natureza, segundo suas próprias palavras: _Tudo me foi dado por meu Pai._ Jó teve filhos em substituição aos primeiros. O Senhor também gerou, depois dos filhos dos profetas, os santos apóstolos. Jó, feliz, descansou em paz. O Senhor, porém, permanece o bendito eternamente, antes dos séculos, nos séculos e por todos os séculos dos séculos.
+
+@secao Responsório | Hb 12,1c-2a; cf. 2Cor 6.4-5
+
+@responsorio
+R. Corramos persistentes ao combate a nós proposto;
+* De olhos fixos em Jesus, o autor da nossa fé
+e que a leva à perfeição.
+V. Mostremo-nos, irmãos, com grande paciência
+no sofrer, nas privações, na penúria,
+nas angústias, nos açoites e prisões.
+* De olhos fixos.
+
+@secao Oração
+
+@oracao
+Fazei, ó Deus, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja vos possa servir, alegre e tranquila. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

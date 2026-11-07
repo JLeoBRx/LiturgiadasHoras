@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_vigilia.htm
+@documento Vigília de Pentecostes
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Não vos deixo como órfãos,
+e o vosso coração haverá de se alegrar. Aleluia!
+
+@salmo canticos/i-is-63-1-5
+
+@gloria
+
+@salmo canticos/ii-os-6-1-6
+
+@gloria
+
+@salmo canticos/iii-sf-3-8-13
+
+@gloria
+
+@antifona
+Não vos deixo como órfãos,
+e o vosso coração haverá de se alegrar. Aleluia!
+
+@secao Evangelho | Mt 28,16-20
+
+@texto
+Naquele tempo: [16] Os onze discípulos foram para a Galileia, ao monte que Jesus lhes tinha indicado. [17] Quando viram Jesus, prostraram-se diante dele. Ainda assim alguns duvidaram. [18] Então Jesus aproximou-se e falou: “Toda a autoridade me foi dada no céu e sobre a terra. [19] Portanto, ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, [20] e ensinando-os a observar tudo o que vos ordenei! Eis que eu estarei convosco todos os dias, até ao fim do mundo”.

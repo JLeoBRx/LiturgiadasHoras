@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ceiadosenhor_laudes.htm
+@documento Laudes - Ceia do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O fel lhe dão por bebida
+sobre o madeiro sagrado.
+Espinhos, cravos e lança
+ferem seu corpo e seu lado.
+No sangue e água que jorram,
+mar, terra e céu são lavados.
+
+Ó cruz fiel sois a árvore
+mais nobre em meio às demais,
+que selva alguma produz
+com flor e frutos iguais.
+Ó lenho e cravos tão doces,
+um doce peso levais.
+
+Árvore, inclina os teus ramos,
+abranda as fibras mais duras.
+A quem te fez germinar
+minora tantas torturas.
+Leito mais brando oferece
+ao Santo Rei das alturas.
+
+Só tu, ó Cruz, mereceste
+suster o preço do mundo
+e preparar para o náufrago
+um porto, em mar tão profundo.
+Quis o cordeiro imolado
+banhar-te em sangue fecundo.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho Louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Olhai, Senhor, e contemplai meu sofrimento!
+Escutai-me e vinde logo em meu auxílio!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Olhai, Senhor, e contemplai meu sofrimento!
+Escutai-me e vinde logo em meu auxílio!
+
+@antifona 2
+Eis o Deus, meu Salvador, eu confio e nada temo!
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@antifona
+Eis o Deus, meu Salvador, eu confio e nada temo!
+
+@antifona 3
+Deus nos deu de comer a flor do trigo,
+e com o mel que sai da rocha nos fartou.
+
+@salmo salmos/salmo-080
+
+@gloria
+
+@antifona
+Deus nos deu de comer a flor do trigo,
+e com o mel que sai da rocha nos fartou.
+
+@secao Leitura breve | Hb 2,9b-10
+
+@texto
+Vemos Jesus coroado de glória e honra, por ter sofrido a morte. Sim, pela graça de Deus em favor de todos, ele provou a morte. Convinha de fato que aquele, por quem e para quem todas as coisas existem, e que desejou conduzir muitos filhos à glória, levasse o iniciador da salvação deles à consumação, por meio de sofrimentos.
+
+@secao Responsório breve
+
+@responsorio
+R. Lembra-te de Cristo, ressuscitado dentre os mortos!
+* Ele é nossa salvação e nossa glória para sempre. R. Lembra-te.
+V. Se com ele nós morremos, também, com ele viveremos.
+* Ele é. Glória ao Pai. R. Lembra-te.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ardentemente eu desejei comer convosco esta Páscoa
+antes de ir sofrer a morte.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ardentemente eu desejei comer convosco esta Páscoa
+antes de ir sofrer a morte.
+
+@secao Preces
+
+@preces
+A Cristo, eterno sacerdote, a quem o Pai ungiu com o Espírito Santo para anunciar aos cativos a libertação, supliquemos humildemente; e digamos:
+
+R. **Senhor, tende piedade de nós!**
+
+Vós, que subistes a Jerusalém para sofrer a Paixão, e assim entrar na glória,
+– conduzi vossa Igreja à Páscoa da eternidade. R.
+
+Vós, que, elevado na cruz, deixastes a lança do soldado vos traspassar,
+– curai as nossas feridas. R.
+
+Vós, que transformastes o madeiro da cruz em árvore da vida,
+– concedei de seus frutos aos que renasceram pelo batismo. R.
+
+Vós que, pregado na cruz, perdoastes o ladrão arrependido,
+– perdoai-nos também a nós pecadores. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, amar-vos acima de tudo é ser perfeito; multiplicai em nós a vossa graça e concedei, aos que firmamos nossa esperança na morte do vosso Filho, alcançarmos por sua ressurreição aqueles bens que na fé buscamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

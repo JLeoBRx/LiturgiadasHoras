@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4quartaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 68,14
+@texto
+Para vós elevo minha oração,
+neste tempo favorável, Senhor Deus!
+Respondei-me pelo vosso imenso amor,
+pela vossa salvação que nunca falha!
+
+@secao Coleta
+@texto
+Ó Deus, que recompensais os méritos dos justos
+e perdoais aos pecadores que fazem penitência,
+tende compaixão dos que vos suplicam,
+para que a confissão de nossa culpa
+possa alcançar o perdão dos nossos pecados.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus de bondade, que a força deste sacrifício
+nos lave da antiga culpa e nos faça crescer na vida nova,
+participando da vossa salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 3,17
+@texto
+Deus não enviou o seu Filho ao mundo
+para condenar o mundo,
+mas para que o mundo seja salvo por ele.
+
+@secao Depois da comunhão
+@texto
+Não permitais, Senhor,
+que esta Eucaristia, que nos destes como remédio,
+se torne causa de condenação.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Os vossos fiéis, Senhor,
+com a vossa paternal proteção,
+façam o bem neste mundo
+e cheguem até vós, o sumo bem.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5sabadoquaresma_vesperas.htm
+@documento Vésperas - Sábado da 5ª Semana da Quaresma
+
+@titulo DOMINGO DE RAMOS DA PAIXÃO DO SENHOR / I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+o sangue e água jorraram.
+
+Árvore esplêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Tanto tempo eu estive no meio de vós
+ensinando no templo, e não me prendestes;
+já serei flagelado e pregado na cruz!
+
+@salmo salmos/salmo-118-105-112-xiv-nun-v2
+
+@gloria
+
+@antifona
+Tanto tempo eu estive no meio de vós
+ensinando no templo, e não me prendestes;
+já serei flagelado e pregado na cruz!
+
+@antifona 2
+O Senhor é o meu auxílio, não serei envergonhado!
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+O Senhor é o meu auxílio, não serei envergonhado!
+
+@antifona 3
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte, e morte numa cruz.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+. Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte, e morte numa cruz.
+
+@secao Leitura breve | 1Pd 1,18-21
+
+@texto
+Sabeis que fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito. Antes da criação do mundo,ele foi destinado para isso, e neste final dos tempos, ele apareceu, por amor de vós. Por ele é que alcançastes a fé em Deus. Deus o ressuscitou dos mortos e lhe deu a glória, e assim, a vossa fé e esperança estão em Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Jesus, lembrai-vos de mim, ao chegar a vosso Reino!
+* Vós que não rejeitais um coração oprimido. {R}. Jesus.
+V. Vós que vos fizestes obediente até a morte.
+* Vós que não. Glória ao Pai. R. Jesus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@antifona Ano C
+Os discípulos puseram os seus mantos no jumento
+e Jesus nele montou.
+E à medida que passava,
+as pessoas estendiam suas vestes no caminho.
+
+@secao Preces
+
+@preces
+Adoremos a Cristo, que nas vésperas de sua Paixão, ao ver Jerusalém, chorou sobre ela, porque não quis receber a graça que lhe era oferecida. Arrependidos dos nossos pecados, peçamos:
+
+R. **Senhor, tende piedade do vosso povo!**
+
+Vós, que quisestes reunir os filhos de Jerusalém,como a galinha reúne os pintinhos debaixo de suas asas,
+– ensinai todos a reconhecer o tempo de vossa visita. R.
+
+Não abandoneis os fiéis que de vós se afastaram;
+– convertei-nos e nos voltaremos para vós, Senhor nosso Deus. R.
+
+Vós, que pela vossa Paixão reconciliastes o mundo com Deus,
+– dai-nos viver sempre do Espírito que recebemos no batismo. R.
+
+Concedei-nos a graça de imitar vossa Paixão, renunciando ao pecado com todas as nossas forças,
+– para que, livres de todo mal, possamos celebrar santamente a vossa ressurreição. R.
+
+{(intenções livres)}
+
+Vós, que viveis e reinais na glória do Pai,
+– lembrai-vos daqueles que hoje partiram deste mundo. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

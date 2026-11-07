@@ -1,0 +1,164 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natal_Ivesperas.htm
+@documento I Vésperas - Natal do Senhor
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+O Príncipe da paz foi exaltado:
+deseja toda a terra a sua face.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+O Príncipe da paz foi exaltado:
+deseja toda a terra a sua face.
+
+@antifona 2
+Deus envia suas ordens para a terra,
+e a Palavra que ele diz corre veloz.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Deus envia suas ordens para a terra,
+e a Palavra que ele diz corre veloz.
+
+@antifona 3
+Hoje o Verbo Divino, gerado pelo Pai
+já bem antes dos tempos,
+humilhou-se a si mesmo e, por nós, se fez homem.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+Hoje o Verbo Divino, gerado pelo Pai
+já bem antes dos tempos,
+humilhou-se a si mesmo e, por nós, se fez homem.
+
+@secao Leitura breve | Gl 4,4-5
+
+@texto
+Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva.
+
+@secao Responsório breve
+
+@responsorio
+R. Hoje sabereis:
+* O Senhor mesmo virá. R. Hoje.
+V. E amanhã haveis de ver sua glória em nosso meio.
+* O Senhor. Glória ao Pai. R. Hoje.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quando o sol aparecer no horizonte,
+contemplareis o Rei dos reis sair do Pai
+como o esposo de seu quarto nupcial.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quando o sol aparecer no horizonte,
+contemplareis o Rei dos reis sair do Pai
+como o esposo de seu quarto nupcial.
+
+@secao Preces
+
+@preces
+Adoremos a Cristo, que se aniquilou a si mesmo, assumindo a condição de servo, e foi igual a nós em tudo, exceto no pecado. Com toda a nossa fé, peçamos:
+
+R. **Pelo vosso natal, socorrei os que remistes!**
+
+Ao entrardes no mundo, inaugurastes os novos tempos anunciados pelos profetas;
+– fazei que de geração em geração a Igreja se rejuvenesça. R.
+
+Vós, que assumistes a fragilidade da natureza humana,
+– sede a luz dos cegos, a força dos fracos, o auxílio de todos os que padecem. R.
+
+Vós, que nascestes pobre e humilde,
+– olhai para os pobres e confortai-os com bondade. R.
+
+Vós, que, nascendo na terra, anunciais a todos a alegria da eternidade prometida,
+– confortai os corações dos agonizantes com a esperança do nascimento para o céu. R.
+
+{(intenções livres)}
+
+Vós, que descestes à terra para levar todos para o céu,
+– associai a vós na glória os nossos irmãos e irmãs que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que reacendeis em nós cada ano a jubilosa esperança da salvação, dai-nos contemplar com toda confiança, quando vier como Juiz, o Redentor que recebemos com alegria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@rubrica
+Rezam as Completas somente os que não participam do Ofício das Leituras e da Missa da Noite.

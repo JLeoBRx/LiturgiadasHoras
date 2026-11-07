@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/09sabadoTC_impar.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Tiago {5,12-20}
+
+@tema
+Algumas recomendações
+
+@texto
+[12] Especialmente, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem por outra coisa qualquer. Antes, seja o vosso sim, sim, e o vosso não, não, a fim de não incorrerdes no julgamento. [13] Sofre alguém dentre vós um contratempo? Recorra à oração. Está alguém alegre? Cante. [14] Alguém dentre vós está doente? Mande chamar os presbíteros da Igreja para que orem sobre ele, ungindo-o com óleo em nome do Senhor. [15] A oração da fé salvará o doente e o Senhor o porá de pé; e se tiver cometido pecados, estes serão perdoados. [16] Confessai, pois, uns aos outros, os vossos pecados e orai uns pelos outros, para que sejais curados. A oração fervorosa do justo tem grande poder. [17] Assim, Elias, que era um homem semelhante a nós, orou com insistência para que não chovesse, e não houve chuva na terra durante três anos e seis meses. [18] Em seguida, tornou a orar e o céu deu a sua chuva e a terra voltou a produzir o seu fruto. [19] Meus irmãos, se alguém dentre vós se desviar da verdade e outro o reconduzir, [20] saiba que aquele que reconduz um pecador desencaminhado salvará sua alma da morte e cobrirá uma multidão de pecados.
+
+@secao Responsório | 1Pd 4,8; Tg 5,20
+
+@responsorio
+R. Antes de tudo, mantende entre vós uma ardente caridade,
+* Porque a caridade cobre a multidão dos pecados.
+V. Aquele que fizer um pecador retroceder do seu erro,
+salvará sua alma da morte e fará desaparecer uma multidão de pecados.
+* Porque a caridade.
+
+@secao Segunda leitura
+
+@leitura
+Das “Homilias sobre o Levítico”, de Orígenes, presbítero
+{(Séc. III)} {(Hom. 2,4)}
+
+@tema
+A remissão dos pecados
+
+@texto
+Escuta quantos meios de remissão dos pecados achamos no Evangelho. Primeiro: o batismo, que é dado em remissão dos pecados. Segundo: os sofrimentos do martírio. Terceiro: _a esmola. Diz, de fato, o Salvador: Dai antes em_ _esmola o que possuís, e todas as coisas vos serão limpas_ (Lc 11,41).
+Quarto: obtemos o perdão, quando nós também perdoamos aos nossos irmãos. O próprio Senhor e nosso Salvador nos diz: _Se perdoardes aos homens as suas ofensas, vosso_ _Pai celeste também vos perdoará; mas se não perdoardes_ _aos homens, tampouco vosso Pai vos perdoará_ (Mt 6,1415) e, na oração, nos ensinou a falar desse modo: _Perdoai-__nos as nossas ofensas, assim como nós perdoamos aos que_ _nos ofenderam_ (Mt 6,12).
+Quinto: obtém a remissão dos pecados quem afasta o pecador de seu desvio. Dizem, de fato, as Escrituras Sagradas que: _aquele que fizer um pecador retroceder do seu_ _erro, salvará a sua alma da morte e fará desaparecer uma_ _multidão de pecado_ (Tg 5,20). Sexto: _obtemos a remissão_ _dos pecados também através de uma intensa caridade, as__sim como nos diz o próprio Senhor: Seus numerosos peca-_ _dos lhe foram perdoados, porque muito amou_ (Lc 71,47). O Apóstolo também diz que _a caridade cobre a multidão_ _dos pecados_ (1Pd 4,8). Há ainda uma sétima forma, difícil e desgastante, que é a penitência: o pecador inunda de pranto a sua cama, as lágrimas são seu pão, dia e noite, não se envergonha de confessar ao padre o seu pecado e de pedir o remédio a ele, como diz o salmista: _Disse:_ _Sim, vou confessar ao Senhor a minha iniquidade. E vos_ _perdoastes a pena do meu pecado_ (Sl 31,5). É cumprida, assim, a palavra do apóstolo Tiago: _Está alguém enfermo?_ _Chame os sacerdotes da Igreja, e estes façam oração so__bre ele, ungindo-o com óleo em nome do Senhor. A oração_ _da fé salvará o enfermo e o Senhor o restabelecerá. Se ele_ _cometeu pecados, ser-lhe-ão perdoados_ (Tg 5,14.15). Tu também, quando recebes a graça do Batismo, é como se oferecesses um bezerro, por que és batizado na morte de Cristo. Se, depois, és conduzido ao martírio, é como se oferecesses um cordeiro, por que degolas o diabo, autor do pecado. Quando dás a esmola e, com amável solicitude, demonstras a tua ternura para com os necessitados, acumulas fartos cordeiros no altar sagrado. Se, em seguida, perdoas com todo o coração o irmão e, deposto o rancor da ira, recompões o teu ânimo em paz e doçura, esteja certo: é como se imolasses em sacrifício um bode ou um carneiro. Se, enfim, abundará no teu coração aquela virtude, que está acima da fé e da esperança, a caridade, de tal modo que amarás o próximo não apenas como a ti mesmo, mas como nos ensinou aquele que disse: _Ninguém tem maior_ _amor do aquele que dá a vida por seus amigos_ (Jo 15,13), saibas que estás oferecendo pães de farinha, temperados em óleo de caridade, sem _o fermento da malícia e da cor__rupção, mas com os pães não fermentados da pureza e da_ _verdade_ (1Cor 5,8).
+
+@secao Responsório | Zc 7,9; Mt 6,14
+
+@responsorio
+R. O Senhor dizia: julgai segundo a verdadeira justiça;
+* Cada um de vós tenha bom coração
+e seja compassivo para com o seu irmão.
+V. Se perdoardes aos homens as suas ofensas,
+também vosso Pai celestial vos perdoará a vós.
+* Cada um.
+
+@secao Oração
+
+@oracao
+Ó Deus, cuja providência jamais falha, nós vos suplicamos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

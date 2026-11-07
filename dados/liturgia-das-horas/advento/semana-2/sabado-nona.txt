@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sabado_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh’alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!
+
+@secao XI (Caph)
+
+@salmo salmos/salmo-118-81-88
+
+@gloria
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh’alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!
+
+@secao Leitura breve | Is 61,11
+
+@texto
+Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, que desponte em nossos corações o esplendor da vossa glória, para que, vencidas as trevas do pecado, a vinda do vosso Unigênito revele que somos filhos da luz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

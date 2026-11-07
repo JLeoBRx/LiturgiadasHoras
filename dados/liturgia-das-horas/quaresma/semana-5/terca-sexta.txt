@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5tercaquaresma_sexta.htm
+@documento Hora Média - Sexta - Terça-feira da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@salmo salmos/salmo-118-1-8-i-aleph-v2
+
+@gloria
+
+@salmo salmos/salmo-012
+
+@gloria
+
+@salmo salmos/salmo-013
+
+@gloria
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@secao Leitura breve | 1Cor 1,22-24
+
+@texto
+Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus: Nós ofendemos o Senhor, nosso Deus, nós e nossos pais, desde a juventude até ao dia de hoje, não escutamos a voz do Senhor, nosso Deus.
+
+@texto
+V. Desviai o vosso olhar dos meus pecados.
+R. E apagai todas as minhas transgressões!
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, perseverar no vosso serviço para que, em nossos dias, cresça em número e santidade o povo que vos serve. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

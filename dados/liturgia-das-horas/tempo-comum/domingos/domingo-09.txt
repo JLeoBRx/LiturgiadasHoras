@@ -1,0 +1,55 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 9º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Não é aquele que me diz: Senhor, Senhor,
+que no Reino dos céus irá entrar,
+mas quem faz a vontade do meu Pai.
+
+@antifona vesperas-i-B
+O sábado foi feito para o homem,
+e não foi feito o homem para o sábado.
+
+@antifona vesperas-i-C
+Tendo ouvido falar de Jesus, o centurião enviou
+alguns anciãos dos judeus,
+pedindo que viesse curar
+o seu servo a quem muito estimava.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Quem escuta minhas palavras
+e as pratica, é comparado
+ao homem sábio e previdente
+que constrói a sua casa
+sobre rocha inabalável.
+
+@antifona laudes-B
+Jesus respondeu aos fariseus:
+O Filho do Homem é Senhor até do sábado.
+
+@antifona laudes-C
+Senhor, eu não sou digno
+de que entreis em minha casa,
+mas dizei uma palavra e meu servo será salvo!
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+As enchentes e os ventos investiram
+contra a casa do homem sábio. E não caiu,
+pois estava construída sobre a rocha.
+
+@antifona vesperas-ii-B
+Jesus disse ao homem que tinha a mão seca:
+Estende a tua mão! E ele a estendeu,
+e sua mão foi curada.
+
+@antifona vesperas-ii-C
+Jesus se admirou da fé do centurião
+e disse: Eu vos digo que nem mesmo em Israel
+encontrei tamanha fé. E voltando para casa,
+os enviados encontraram o empregado já curado.

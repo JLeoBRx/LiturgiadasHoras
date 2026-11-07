@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3quintapascoa_laudes.htm
+@documento Laudes - Quinta-feira da 3ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Entre ritmos festivos, a dançar, nós cantaremos;
+Estão em ti as nossas fontes, ó Cidade do Senhor! Aleluia.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Entre ritmos festivos, a dançar, nós cantaremos;
+Estão em ti as nossas fontes, ó Cidade do Senhor! Aleluia.
+
+@antifona 2
+Como o pastor, ele apascenta o seu rebanho
+e carrega os cordeirinhos nos seus braços. Aleluia.
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/is-40-10-17
+
+@gloria
+
+@antifona
+Como o pastor, ele apascenta o seu rebanho
+e carrega os cordeirinhos nos seus braços. Aleluia.
+
+@antifona 3
+Como é grande o Senhor em Sião!
+Muito acima dos povos se eleva. Aleluia.
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Como é grande o Senhor em Sião!
+Muito acima dos povos se eleva. Aleluia.
+
+@secao Leitura breve | Rm 8,10-11
+
+@texto
+Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Diz Jesus: Em verdade eu vos digo:
+Quem tem fé e confia em mim, tem a vida eterna. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Diz Jesus: Em verdade eu vos digo:
+Quem tem fé e confia em mim, tem a vida eterna. Aleluia.
+
+@secao Preces
+
+@preces
+Unidos num só coração e numa só alma, invoquemos a Cristo ressuscitado, sempre presente em sua Igreja; e digamos:
+
+R. **Ficai conosco, Senhor!**
+
+Senhor Jesus, vencedor do pecado e da morte, permanecei no meio de nós,
+– vós, que viveis e reinais pelos séculos sem fim. R.
+
+Vinde em nosso auxílio com vosso poder invencível,
+– e revelai aos nossos corações a infinita bondade de Deus Pai. R.
+
+Salvai o mundo da violência e da discórdia,
+– porque só vós tendes poder para renovar e reconciliar. R.
+
+Confirmai-nos na fé da vitória final,
+– e fortalecei-nos na esperança da vossa vinda gloriosa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e onipotente, que nestes dias vos mostrais tão generoso, dai-nos sentir mais de perto o vosso amor paterno para que, libertados das trevas do erro, sigamos com firmeza a luz da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

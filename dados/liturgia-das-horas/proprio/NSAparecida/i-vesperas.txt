@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSAparecida_Ivesperas.htm
+@documento I Vésperas - Bem-aventurada Virgem Maria da Conceição Aparecida
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Maria, Mãe dos mortais,
+as nossas preces acolhes;
+escuta, pois, nossos ais,
+e sempre, sempre nos olhes.
+
+Vem socorrer, se do crime
+o laço vil nos envolve.
+Com tua mão que redime
+a nossa culpa dissolve.
+
+Vem socorrer, se do mundo
+o brilho vão nos seduz,
+a abandonar num segundo
+a estrada que ao céu conduz.
+
+Vem socorrer, quando a alma
+e o corpo a doença prostrar.
+Vejamos com doce calma
+a eternidade chegar.
+
+Tenham teus filhos, na morte,
+tua assistência materna.
+E seja assim nossa sorte,
+o prêmio da Vida eterna.
+
+Jesus, ao Pai seja glória.
+Seja ao Espírito também.
+E a vós, ó Rei da vitória,
+Filho da Virgem. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Bendita sejais, ó Virgem Maria:
+trouxestes no ventre o que fez o universo!
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria:
+trouxestes no ventre o que fez o universo!
+
+@antifona 2
+Vós destes a vida a Quem vos criou,
+e Virgem sereis para sempre, ó Maria.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Vós destes a vida a Quem vos criou,
+e Virgem sereis para sempre, ó Maria.
+
+@antifona 3
+Sois bendita por Deus entre todas, Maria,
+pois de vós recebemos o Fruto da Vida.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Sois bendita por Deus entre todas, Maria,
+pois de vós recebemos o Fruto da Vida.
+
+@secao Leitura breve | Gl 4,4-5
+
+@texto
+Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres da terra e bendito é o fruto que nasceu do teu ventre! * O Senhor.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Sou morena, tão bela e formosa, filhas de Jerusalém!
+Por isso o Rei me amou e fez-me entrar em sua morada.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Sou morena, tão bela e formosa, filhas de Jerusalém!
+Por isso o Rei me amou e fez-me entrar em sua morada.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Nossa Senhora Aparecida, rogai a Deus por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações dos vossos filhos e filhas. R.
+
+Vós, que nos destes Maria por Mãe,
+– concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente no vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, fiel à sua vocação e vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

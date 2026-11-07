@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoapolinario.htm
+
+@secao Coleta
+@texto
+Senhor, conduzi os vossos fiéis
+no caminho da salvação eterna,
+que o bispo Santo Apolinário
+mostrou com seu ensinamento e martírio;
+concedei-nos, por sua intercessão,
+perseverar de tal modo em vossos mandamentos
+que mereçamos com ele receber a coroa da glória.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Santificai, Senhor, com vossa bênção,
+os dons que de vós recebemos e agora vos apresentamos;
+e acendei em nós o fogo do vosso amor
+que levou Santo Apolinário a vencer os tormentos do martírio.
+Por Cristo, nosso Senhor.
+Ou:
+Aceitai, Senhor, os dons que trazemos
+na comemoração do vosso santo mártir Santo Apolinário;
+como foi preciosa diante de vós a efusão do seu sangue,
+assim também vos agrade a nossa oblação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Se alguém quer me seguir, renuncie a si mesmo,
+tome a sua cruz e me siga, diz o Senhor.
+Ou:
+Quem perde a sua vida por causa de mim
+vai encontrá-la, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, os sagrados mistérios que comungamos
+nos concedam a fortaleza de ânimo que levou
+o santo mártir Santo Apolinário
+a ser fiel no vosso serviço e vitorioso no martírio.
+Por Cristo, nosso Senhor.

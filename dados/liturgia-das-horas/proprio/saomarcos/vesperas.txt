@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomarcos_vesperas.htm
+@documento Vésperas - São Marcos Evangelista
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cantamos hoje alegremente,
+ó São João Marcos, teu louvor,
+pois tu trouxeste a toda gente
+a Boa-nova do Senhor.
+
+Por mestre a Pedro tu tiveste,
+suas palavras recolhias,
+e, se a Jesus não conheceste,
+era a Jesus que nele ouvias.
+
+Breve o Evangelho que escreveste,
+tão dilatado em seu amor:
+em poucas páginas puseste
+as maravilhas do Senhor.
+
+Deixa-te Paulo, e a Paulo segues,
+vais imitando a sua lida;
+perfeita é a cópia que consegues,
+dando por Cristo a própria vida.
+
+Filho de Deus O proclamemos,
+por ti e Pedro alimentados,
+e face a face O contemplemos,
+ao céu um dia transportados.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor constituiu-me ministro do Evangelho
+pelo dom de sua graça. Aleluia.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+O Senhor constituiu-me ministro do Evangelho
+pelo dom de sua graça. Aleluia.
+
+@antifona 2
+Tudo faço por causa do Evangelho,
+para dele receber a minha parte. Aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Tudo faço por causa do Evangelho,
+para dele receber a minha parte. Aleluia.
+
+@antifona 3
+A mim foi concedida esta graça:
+aos pagãos anunciar a Boa-nova
+das riquezas insondáveis de Jesus. Aleluia.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+A mim foi concedida esta graça:
+aos pagãos anunciar a Boa-nova
+das riquezas insondáveis de Jesus. Aleluia.
+
+@secao Leitura breve | Cl 1,3-6a
+
+@texto
+Damos graças a Deus, Pai de nosso Senhor Jesus Cristo, sempre rezando por vós, pois ouvimos acerca da vossa fé em Cristo Jesus e do amor que mostrais para com todos os santos, animados pela esperança na posse do céu. Disso já ouvistes falar no Evangelho, cuja palavra de verdade chegou até vós. E como no mundo inteiro, assim também entre vós ela está produzindo frutos.
+
+@secao Responsório breve
+
+@responsorio
+R. Anunciai, entre as nações, a glória do Senhor.
+* Aleluia, aleluia. R. Anunciai.
+V. E entre os povos do universo, as suas maravilhas. * Aleluia, aleluia.
+Glória ao Pai. R. Anunciai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A Palavra do Senhor permanece eternamente;
+e esta é a Palavra que vos foi anunciada. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A Palavra do Senhor permanece eternamente;
+e esta é a Palavra que vos foi anunciada. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, fonte de toda luz, que nos chamou à verdadeira fé por meio do Evangelho de seu Filho; e peçamos em favor do seu povo santo, dizendo:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Deus Pai, que ressuscitastes dos mortos vosso Filho, o grande Pastor das ovelhas,
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes a São Marcos, vosso evangelista, a glória de proclamar a Boa-nova, dai-nos assimilar de tal modo seus ensinamentos, que sigamos fielmente os caminhos do Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

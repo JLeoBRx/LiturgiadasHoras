@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2janeiro_vesperas.htm
+@documento 2janeiro_vesperas.htm
+
+@secao Leitura breve | Cl 1,13-15
+
+@texto
+Deus nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado, por quem temos a redenção, o perdão dos pecados. Ele é a imagem do Deus invisível, o primogênito de toda a criação.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Infância ditosa do Filho de Deus,
+renovastes a vida do gênero humano!
+Como esposo exultante que sai do seu tálamo,
+saístes do ventre da Virgem Maria.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Infância ditosa do Filho de Deus,
+renovastes a vida do gênero humano!
+Como esposo exultante que sai do seu tálamo,
+saístes do ventre da Virgem Maria.
+
+@secao Preces
+
+@preces
+Deus, que falou outrora a nossos antepassados por meio dos profetas, agora nos fala por meio de seu Filho. Imploremos a sua misericórdia:
+
+R. **Kyrie eleison!** {**ou:**} **Senhor, tende piedade de nós!**
+
+Por vossa santa Igreja:
+– que vossos filhos com fé e coragem proclamem o nome do Salvador. R.
+
+Pelos que anunciam o Evangelho:
+– que os colaboradores por vós enviados preguem com coragem a todos os povos o nome do Salvador. R.
+
+Por nossos irmãos enfermos:
+– que obtenham a saúde pela invocação do nome do Salvador. R.
+
+Pelos cristãos perseguidos:
+– que suportem com paciência as injúrias por causa do nome do Salvador. R.
+
+{(intenções livres)}
+
+Por nossos irmãos e irmãs que morreram por culpa dos homens:
+– que por vossa misericórdia alcancem a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo uma fé inabalável, para que, ao proclamarmos que o vosso Filho Unigênito, Deus eterno e glorioso como vós, se fez homem no seio da Virgem Mãe, sejamos livres dos males que nos cercam e introduzidos nas eternas alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

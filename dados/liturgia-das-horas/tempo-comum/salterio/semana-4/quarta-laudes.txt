@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_laudes.htm
+@documento Laudes - Quarta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Criador das alturas celestes,
+vós fixastes caminhos de luz
+para a lua, rainha da noite,
+para o sol, que de dia reluz.
+
+Vai-se a treva, fugindo da aurora,
+e do dia se espalha o clarão.
+Nova força também nos desperta
+e nos une num só coração.
+
+O nascer deste dia convida
+a cantarmos os vossos louvores.
+Do céu jorra uma paz envolvente,
+harmonia de luz e de cores.
+
+Ao clarão desta luz que renasce,
+fuja a treva e se apague a ilusão.
+A discórdia não trema nos lábios,
+a maldade não turve a razão.
+
+Quando o sol vai tecendo este dia,
+brilhe a fé com igual claridade,
+cresça a espera nos bens prometidos
+e nos una uma só caridade.
+
+Escutai-nos, ó Pai piedoso,
+e vós, Filho, do Pai esplendor,
+que reinais, com o Espírito Santo,
+na manhã sem ocaso do amor.
+
+@secao Salmodia
+
+@antifona 1
+Meu coração está pronto, meu Deus,
+está pronto o meu coração! †
+
+@salmo salmos/salmo-107
+
+@gloria
+
+@antifona
+Meu coração está pronto, meu Deus,
+está pronto o meu coração!
+
+@antifona 2
+Deus me envolveu de salvação qual uma veste,
+e com o manto da justiça me cobriu.
+
+@salmo canticos/is-61-1062-5
+
+@gloria
+
+@antifona
+Deus me envolveu de salvação qual uma veste,
+e com o manto da justiça me cobriu.
+
+@antifona 3
+Bendirei ao Senhor toda a vida.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Bendirei ao Senhor toda a vida.
+
+@secao Leitura breve | Dt 4,39-40a
+
+@texto
+Reconhece, hoje, e grava-o em teu coração, que o Senhor é o Deus lá em cima do céu e cá embaixo na terra, e que não há outro além dele. Guarda suas leis e seus mandamentos que hoje te prescrevo.
+
+@secao Responsório breve
+
+@responsorio
+R. Bendirei o Senhor Deus,
+* Bendirei em todo o tempo. R. Bendirei.
+V. Seu louvor em minha boca, seu louvor eternamente.
+* Bendirei. Glória ao Pai. R. Bendirei.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sirvamos ao Senhor em santidade,
+enquanto perdurarem nossos dias.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sirvamos ao Senhor em santidade,
+enquanto perdurarem nossos dias.
+
+@secao Preces
+
+@preces
+Jesus Cristo, esplendor do Pai, nos ilumina com a sua palavra. Cheios de amor o invoquemos:
+
+R. **Rei da eterna glória, ouvi-nos!**
+
+Sois bendito, Senhor, autor e consumador da nossa fé,
+– porque nos chamastes das trevas para a vossa luz admirável. R.
+
+Vós, que abristes os olhos aos cegos e fizestes os surdos ouvirem,
+– aumentai a nossa fé. R.
+
+Fazei-nos, Senhor, permanecer firmes no vosso amor,
+– e que nunca nos separemos uns dos outros. R.
+
+Dai-nos força para resistir à tentação, paciência na tribulação,
+– e sentimentos de gratidão na prosperidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Lembrai-vos, Senhor, de vossa santa aliança, consagrada pelo Sangue do Cordeiro, para que vosso povo obtenha o perdão dos pecados e avance continuamente no caminho da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

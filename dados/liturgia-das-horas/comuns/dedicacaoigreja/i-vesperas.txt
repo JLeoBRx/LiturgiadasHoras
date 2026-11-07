@@ -1,0 +1,171 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_Ivesperas.htm
+@documento I Vésperas - COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(Aleluia.)}
+
+@secao Hino
+
+@hino
+Jerusalém gloriosa,
+visão bendita de paz,
+de pedras vivas erguida,
+por entre os astros brilhais
+qual noiva, de anjos cingida,
+que seu caminho perfaz.
+
+Já vem do céu preparada
+para o festim nupcial,
+e ao Senhor será dada
+no esplendor virginal.
+As suas praças e muros
+são do mais puro metal.
+
+Pérolas brilham nas portas
+desta cidade sem par,
+e pela força dos méritos
+vem no seu seio habitar
+quem pelo nome de Cristo
+soube sofrer e lutar.
+
+Ásperas pedras, talhadas
+por um perito no ofício,
+com marteladas polidas,
+constroem todo o edifício,
+umas às outras unidas,
+sem qualquer fenda ou orifício.
+
+Ao Pai louvor seja dado,
+ao Filho glória também,
+com o Espírito sagrado
+que dum e doutro provém.
+Honra e poder são devidos
+aos Três nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Jerusalém está em festa:
+ruas e praças rejubilam de alegria, aleluia.
+
+@salmo salmos/salmo-146a
+
+@gloria
+
+@antifona
+Jerusalém está em festa:
+ruas e praças rejubilam de alegria, aleluia.
+
+@antifona 2
+O Senhor reforçou as tuas portas
+e os teus filhos em teu seio abençoou.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+O Senhor reforçou as tuas portas
+e os teus filhos em teu seio abençoou.
+
+@antifona 3
+Os santos se alegram na Cidade do Senhor;
+os anjos cantam hinos de louvor ante seu trono. Aleluia.
+
+@rubrica
+No cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer os Aleluias no começo, entre as estrofes e no fim.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Os santos se alegram na Cidade do Senhor;
+os anjos cantam hinos de louvor ante seu trono. Aleluia.
+
+@secao Leitura breve | Ef 2,19-22
+
+@texto
+Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Refulge, ó Senhor,
+* A santidade em vossa casa. R. Refulge.
+V. Pelos séculos dos séculos. * A santidade.
+Glória ao Pai. R. Refulge.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Alegrai-vos com Sião e exultai por sua causa, todos vós que a amais.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Alegrai-vos com Sião e exultai por sua causa, todos vós que a amais.
+
+@secao Preces
+
+@preces
+Oremos a nosso Salvador, que entregou a vida para reunir num só povo os filhos de Deus dispersos; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Senhor Jesus, que edificastes a vossa casa sobre a rocha firme,
+– consolidai e robustecei a fé e a esperança de vossa Igreja. R.
+
+Senhor Jesus, de cujo lado aberto jorraram sangue e água,
+– renovai a vossa Igreja pelos sacramentos da nova e eterna aliança. R.
+
+Senhor Jesus, que estais no meio daqueles que se reúnem em vosso nome,
+– escutai a oração de toda a vossa Igreja. R.
+
+Senhor Jesus, que vindes com o Pai morar naqueles que vos amam,
+– tornai a vossa Igreja perfeita na caridade. R.
+
+{(intenções livres)}
+
+Senhor Jesus, que nunca rejeitais quem se aproxima de vós,
+– fazei entrar na casa do Pai todos os que já morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

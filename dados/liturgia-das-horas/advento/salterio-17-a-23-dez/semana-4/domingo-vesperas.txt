@@ -1,0 +1,114 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/4domingo_vesperas.htm
+@documento II Vésperas - IV Domingo do Advento (entre 17 e 23 de dezembro)
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Contemplai o Senhor! Quão glorioso ele vem!
+Para os povos salvar ele entra no mundo.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Contemplai o Senhor! Quão glorioso ele vem!
+Para os povos salvar ele entra no mundo.
+
+@antifona 2
+Será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@antifona 3
+Será grande o seu poder, e a paz não terá fim. Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer os} Aleluias {no começo, entre as estrofes e no fim.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Será grande o seu poder, e a paz não terá fim. Aleluia.
+
+@secao Leitura breve | Fl 4,4-5
+
+@texto
+Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo!
+
+@secao Responsório breve
+
+@responsorio
+R. Alegremo-nos, todos, no Senhor!
+* Alegremo-nos, pois ele está bem perto! R. Alegremo-nos.
+V. A justiça andará na sua frente,
+e a salvação no vestígio de seus passos. * Alegremo-nos.
+Glória ao Pai. R. Alegremo-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Imploremos, irmãos e irmãs caríssimos, a Cristo Redentor, que veio salvar a humanidade; e digamos confiantes:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que pelo mistério da encarnação revelastes aos seres humanos a glória da vossa divindade,
+– dai vida ao mundo com a vossa vinda. R.
+
+Vós, que assumistes a fragilidade da natureza humana,
+– concedei-nos vossa misericórdia. R.
+
+Vós, que, na primeira vez, viestes humilde, para remir o mundo de seus pecados,
+– quando vierdes novamente, absolvei-nos de toda culpa. R.
+
+Vós, que viveis eternamente e tudo governais com justiça,
+– por vossa bondade, fazei-nos alcançar a herança prometida. R.
+
+{(intenções livres)}
+
+Vós, que estais sentado à direita do Pai,
+– alegrai as almas dos nossos defuntos com a luz da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Derramai ó Deus a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/visitacao.htm
+
+@secao Antífona da entrada | Cf. Sl 65,16
+@texto
+Todos vós que a Deus temeis, vinde escutar:
+vou contar-vos todo o bem que ele me fez.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que inspirastes à Virgem Maria sua visita a Isabel,
+levando no seio o vosso Filho,
+concedei, nós vos pedimos,
+que, dóceis ao sopro do Espírito,
+possamos sempre com ela cantar as vossas maravilhas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Seja-vos agradável, Senhor,
+este nosso sacrifício de salvação,
+assim como vos agradou o serviço de caridade
+da Santa Mãe do vosso Filho.
+Que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Cf. Lc 1,48-49
+@texto
+Desde agora as gerações hão de chamar-me de bendita.
+O Poderoso fez por mim maravilhas
+e Santo é o seu nome.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que a vossa Igreja vos glorifique
+pelas maravilhas que fizestes em vossos fiéis
+e possa reconhecer com alegria neste sacramento
+o Cristo sempre vivo, oculto no seio materno,
+que João Batista pressentiu com exultação.
+Por Cristo, nosso Senhor.

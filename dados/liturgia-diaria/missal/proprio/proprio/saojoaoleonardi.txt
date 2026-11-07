@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojoaoleonardi.htm
+
+@secao Coleta
+@texto
+Ó Deus, doador de todos os bens,
+pelo presbítero São João Leonardi,
+quisestes anunciar o Evangelho aos povos;
+concedei, por sua intercessão,
+que a verdadeira fé cresça sempre mais
+e se propague por toda parte.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus todo-poderoso, voltai o vosso olhar
+para o sacrifício que vos oferecemos
+na festa de São João Leonardi,
+e concedei-nos imitar o mistério da paixão do Senhor
+que agora celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Ez 34,15
+@texto
+Eu mesmo vou apascentar as minhas ovelhas
+e fazê-las repousar, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+confirmai-nos na verdadeira fé,
+para que a professemos por toda parte, c
+om palavras e obras,
+a exemplo de São João Leonardi,
+que por ela trabalhou incansavelmente,
+consagrando-lhe a sua vida.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@antifona
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@antifona 2
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@antifona
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@antifona 3
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@secao Leitura breve | Am 9,6
+
+@texto
+Senhor é o nome daquele que constrói no céu os degraus do seu trono e assenta na terra sua abóbada, reúne as águas do mar, derramando-as sobre a face da terra.
+
+@texto
+V. Os céus proclamam a glória do Senhor
+R. E o firmamento, a obra de suas mãos.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, atendei a nossa oração, dando-nos a graça de imitar o exemplo da paixão do vosso Filho e levar serenamente nossa cruz de cada dia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

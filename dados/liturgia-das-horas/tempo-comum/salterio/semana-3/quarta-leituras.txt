@@ -1,0 +1,114 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quarta_leituras.htm
+@documento Ofício das Leituras - III Quarta-Feira
+
+@titulo III QUARTA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Criastes céu e terra,
+a vós tudo obedece;
+livrai a nossa mente
+do sono que entorpece.
+
+As culpas perdoai,
+Senhor, vos suplicamos;
+de pé, para louvar-vos,
+o dia antecipamos.
+
+À noite as mãos e as almas
+erguemos para o templo:
+mandou-nos o Profeta,
+deixou-nos Paulo o exemplo.
+
+As faltas conheceis
+e até as que ocultamos;
+a todas perdoai,
+ansiosos suplicamos.
+
+A glória seja ao Pai,
+ao Filho seu também,
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+A vós, honra e glória,
+Senhor do saber,
+que vedes o íntimo
+profundo do ser,
+e em fontes de graça
+nos dais de beber.
+
+As boas ovelhas
+guardando, pastor,
+buscais a perdida
+nos montes da dor,
+unindo-as nos prados
+floridos do amor.
+
+A ira do Rei
+no dia final
+não junte aos cabritos
+o pobre mortal.
+Juntai-o às ovelhas
+no prado eternal.
+
+A vós, Redentor,
+Senhor, Sumo Bem,
+louvores, vitória
+e glória convém,
+porque reinais sempre
+nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O amor e a verdade vão andando à vossa frente.
+
+@salmo salmos/salmo-088-2-38-i-v2
+
+@gloria
+
+@antifona
+O amor e a verdade vão andando à vossa frente.
+
+@antifona 2
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@salmo salmos/salmo-088-2-38-ii
+
+@gloria
+
+@antifona
+O Filho de Deus se fez homem
+e nasceu da família de Davi.
+
+@antifona 3
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.
+
+@salmo salmos/salmo-088-2-38-iii
+
+@gloria
+
+@antifona
+Eu jurei uma só vez a Davi, meu servidor:
+Eis que a tua descendência durará eternamente.
+
+@texto
+V. Vossa palavra, ao revelar-se, me ilumina.
+R. Ela dá sabedoria aos pequeninos.

@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quarta_aposepifania_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde ó Deus em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Elevai o olhar aos céus
+vós que a Cristo procurais.
+E da sua eterna glória
+podereis ver os sinais.
+
+Essa estrela vence o sol
+em fulgor e em beleza,
+e nos diz ter vindo à terra
+Deus, em nossa natureza.
+
+Da região do mundo persa,
+onde o sol tem seu portal,
+sábios Magos reconhecem
+do Rei novo o sinal.
+
+Quem será tão grande Rei,
+a quem astros obedecem,
+a quem servem luz e céus
+e suas forças estremecem?
+
+Percebemos algo novo,
+imortal, superior,
+que domina céus e caos
+e lhes é anterior.
+
+Rei do povo de Israel,
+este é o Rei das gentes,
+prometido a Abraão
+e à sua raça eternamente.
+
+Ó Jesus, louvor a vós
+que às nações vos revelais.
+Glória ao Pai e ao Espírito
+pelos tempos eternais.
+
+@secao Salmodia
+
+@antifona 1
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@antifona 2
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados:
+
+@antifona 3
+Deus é Rei! Exulte a terra de alegria! †
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Deus é Rei! Exulte a terra de alegria!
+
+@secao Leitura breve | Is 49,8b-9a
+
+@texto
+Eu te preservei para seres elo de aliança entre os povos, para restaurar a terra, para distribuir a herança dispersa; para dizer aos que estão presos: "Saí!" e aos que estão nas trevas: “Mostrai-vos!”
+
+@secao Responsório breve
+
+@responsorio
+R. Os reis de toda a terra.
+* Hão de adorá-lo. R. Os reis.
+V. E todas as nações hão de servi-lo.
+* Hão de adorá-lo. Glória ao Pai. R. Os reis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Nós vimos a estrela do Senhor no Oriente,
+e viemos com presentes adorar o nosso Deus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Nós vimos a estrela do Senhor no Oriente,
+e viemos com presentes adorar o nosso Deus.
+
+@secao Preces
+
+@preces
+O Verbo eterno, gerado pelo Pai, nasceu para nós como criança, na plenitude dos tempos, e nos foi dado como um filho. Por isso, o aclamemos com alegria:
+
+R. **Senhor, vós sois bendito eternamente!**
+
+Filho de Deus vivo, que existis antes da criação do mundo e viestes à terra para salvar a humanidade,
+– fazei de nós testemunhas fiéis do vosso Evangelho. R.
+
+Sol de justiça, que fizestes brilhar sobre nós a luz eterna de Deus Pai e resplandeceis no mundo inteiro,
+– iluminai a todos os que vivem nas trevas da morte. R.
+
+Vós, que vos fizestes criança, e fostes colocado num presépio,
+– renovai em nós a simplicidade das crianças. R.
+
+Vós, que vos tornastes para nós o pão vivo que dá a vida eterna,
+– alegrai nossos corações pelo sacramento de vosso altar. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, luz de todas as nações, concedei aos povos da terra viver em perene paz, e fazei resplandecer em nossos corações aquela luz admirável que vimos despontar no povo da antiga aliança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

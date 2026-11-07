@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/bienal/3segundaAdvento_impar.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@secao Primeira leitura
+
+@leitura
+Do Primeiro Livro das Crônicas {17,1-15}
+
+@tema
+Profecia sobre o filho de Davi
+
+@texto
+[1] Quando Davi se instalou em sua casa, disse ao profeta Natã: “Eis que habito numa casa de cedro e a Arca da Aliança do Senhor está sob a tenda!” [2] Natã respondeu a Davi: “Faze tudo o que estiver em teus planos, porque Deus está contigo.” [3] Mas, naquela mesma noite, a palavra de Deus foi dirigida a Natã nestes termos: [4] “Vai dizer a Davi, meu servo: Assim fala o Senhor: Não serás tu quem me construirá uma casa para eu nela morar. [5] Sim, jamais morei numa casa, desde o dia em que fiz Israel subir até hoje, mas eu passava de tenda em tenda e de abrigo em abrigo. [6] Durante todo o tempo em que caminhei com todo o Israel, acaso disse eu a algum dos Juízes de Israel que designei como pastores do meu povo: Por que não me construís uma casa de cedro? [7] Eis agora o que dirás a meu servo Davi: Assim fala o Senhor dos Exércitos. Fui eu quem te tirou do pastoreio, de detrás das ovelhas, para seres chefe do meu povo Israel. [8] Estive contigo por toda parte aonde ias, exterminei diante de ti todos os teus inimigos. Dar-te-ei um renome igual ao dos mais ilustres da terra. [9] Escolherei um lugar para Israel, meu povo, lá o estabelecerei e ele habitará nesse lugar, sem ser inquietado, e os maus não tornarão a oprimi-lo como outrora, [10] desde quando estabeleci juízes sobre meu povo Israel. Submeterei todos os teus inimigos. Eu te anuncio que o Senhor te fará uma casa [11] e quando se completar o tempo de te reunires a teus pais manterei depois de ti a tua posteridade: vai ser um de teus filhos, cujo reinado firmarei. [12] Ele me construirá uma casa e eu firmarei seu trono para sempre. [13] Eu serei para ele pai e ele será para mim filho; não lhe retirarei meu amor, como o retirei daquele que te precedeu. [14] Mantê-lo-ei para sempre na minha casa e no meu reino, e seu trono será firme para sempre.” [15] Natã comunicou a Davi todas essas palavras e toda essa revelação.
+
+@secao Responsório | Cf. 1Cr 17,7.12;Sl 88,5
+
+@responsorio
+R. Fui eu quem te tirou do pastoreio, de detrás das ovelhas,
+para seres chefe do meu povo Israel;
+estive contigo por toda parte aonde ias.
+* Eu firmarei o teu trono para sempre.
+V. Estabelecerei tua descendência para sempre,
+de geração em geração construirei um trono para ti. * Eu firmarei.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Profeta Miqueias, de São Cirilo de Alexandria, bispo
+{(Séc. V)} {(Cap. 7,72: PG 71,774-775)}
+
+@tema
+Os que vêm da fé são abençoados com o fiel Abraão
+
+@texto
+É espantoso o mistério de Cristo, cuja grandeza excede sua admirável mansidão para conosco! Por isso, o santo Habacuque, abismado ante o prodígio da Encarnação, exclama abertamente: _Senhor, ouvi a vossa mensagem, e_ _senti medo; considerei as vossas obras, e fiquei pasmo_ (Hab 3,2). Pois o Unigênito, existindo na forma de Deus Pai, e rico como ele, fez-se pobre, para com sua pobreza nos tornar ricos (cf. 2Cor 8,9), salvando o que se havia perdido, revigorando o que estava enfermo, curando o que estava ferido, dando vida ao que estava morto, limpando o que estava manchado, revestindo com a honra de filhos adotivos, os que por natureza eram servos. Portanto, exclamem todos: _Ó Deus, quem como vós_ (Mq 7,18)? Na verdade, ele é bom e não se lembra das injurias; perdoa os pecados ao resto dos seus herdeiros. Por esse resto deve entender-se os israelitas que acreditaram, pois a grande maioria perdeu-se completamente, recusando crer.
+_E não guardou a sua ira em testemunho_ (Mq 7,18). Pois, expulsos em Adão, fomos readmitidos em Cristo. Amaldiçoou-os naquele, mas abençoou-os em Cristo. Está escrito: Assim como pelo pecado de um só muitos mor- reram, pela justiça de um só muitos vivem (cf. Rm 5,15). Pôs de lado a ira, pois quer a misericórdia (cf. Os 6,6). No tempo da conversão, isto é, da Encarnação, ao assumir a natureza humana, submergiu no mar os pecados de todos. Mas, tendo prometido aos santos patriarcas Abraão e Jacó multiplicar-lhes a descendência como as estrelas do céu, dar-lhes-á realmente o que prometera. Pois serão chamados pais de muitas nações, não só em relação aos que são filhos de Israel pelo sangue, mas também aos que são chamados filhos da promessa.
+Os que provêm da fé e os que provêm da circuncisão legal são como que unidos espiritualmente. Pois está escrito: _Nem todos os que descendem de Israel são israelitas,_ _mas os filhos da promessa é que são considerados como_ _descendentes_ (Rm 3,6.8). Pois os que vêm da fé são abençoados como o fiel Abraão. E por bênção deve-se entender a graça em Cristo, por quem e no qual é dada glória a Deus Pai, com o Espírito Santo, pelos séculos. Amém.
+
+@secao Responsório | Gl 3,8-9;Gn 17,4
+
+@responsorio
+R. Prevendo que Deus justificaria os gentios pela fé,
+a Escritura preanunciou a Abraão esta boa nova:
+Em ti serão abençoadas todas as nações.
+* De modo que os que são pela fé são abençoados
+juntamente com Abraão, que teve fé.
+V. Deus falou assim a Abraão: Eis a minha aliança contigo:
+serás pai de uma multidão de nações. * De modo.
+
+@secao Oração
+
+@oracao
+Inclinai, ó Deus, o vosso ouvido de Pai à voz da nossa súplica, e iluminai as trevas do nosso coração com a visita do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

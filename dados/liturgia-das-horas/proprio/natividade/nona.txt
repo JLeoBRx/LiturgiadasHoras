@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natividade_nona.htm
+@documento Hora Média - Natividade da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Cantemos alegres a glória de Cristo
+na festa da Virgem, a Mãe do Senhor.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Cantemos alegres a glória de Cristo
+na festa da Virgem, a Mãe do Senhor.
+
+@secao Leitura breve | Ap 21,3
+
+@texto
+Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles.
+
+@texto
+V. És bendita entre todas as mulheres da terra.
+R. E bendito é o Fruto que nasceu do teu ventre!
+
+@secao Oração
+
+@oracao
+Abri, ó Deus, para os vossos servos e servas os tesouros da vossa graça: e assim como a maternidade de Maria foi a aurora da salvação, a festa do seu nascimento aumente em nós a vossa paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

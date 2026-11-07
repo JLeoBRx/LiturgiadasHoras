@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoestevao_terca.htm
+@documento Hora Média - Santo Estêvão, Protomártir
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@gloria
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@secao Leitura breve | 1Pd 5,10-11
+
+@texto
+Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@texto
+V. O Senhor o revestiu de alegria.
+R. E lhe deu uma coroa de triunfo.
+
+@secao Oração
+
+@oracao
+Ensinai-nos, ó Deus, a imitar o que celebramos, amando os nossos próprios inimigos, pois festejamos Santo Estêvão, vosso primeiro mártir, que soube rezar por seus perseguidores. Por Cristo, Nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

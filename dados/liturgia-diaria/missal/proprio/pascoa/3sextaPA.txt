@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/3sextaPA.htm
+
+@secao Antífona da entrada | Ap 5,12
+@texto
+O Cordeiro imolado é digno de receber
+o poder, a riqueza, a sabedoria e a força,
+a honra, a glória e o louvor, aleluia.
+
+@secao Coleta
+@texto
+Concedei-nos, Deus todo-poderoso
+que, tendo conhecido a graça da ressurreição do Senhor,
+possamos, pelo amor do vosso Espírito,
+ressurgir para uma vida nova.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos,
+santificai com benevolência estes dons
+e, aceitando a oblação do sacrifício espiritual,
+fazei de nós uma eterna oferenda para vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+O Crucificado ressurgiu dos mortos
+e nos redimiu, aleluia.
+
+@secao Depois da comunhão
+@texto
+Alimentados, Senhor, com os dons deste sagrado mistério,
+nós vos pedimos humildemente
+que nos faça crescer na caridade
+a Eucaristia que vosso Filho nos mandou celebrar em sua memória.
+Por Cristo, nosso Senhor.

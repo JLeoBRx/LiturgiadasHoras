@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/22sextaTC.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {30,18–31,9}
+
+@tema
+Promessas de restauração de Israel
+
+@texto
+[30,18] Isto diz o Senhor: Eis que eu mudarei a sorte das tendas de Jacó e terei compaixão de suas moradias, a cidade ressurgirá das suas ruínas e a fortaleza terá lugar para suas fundações; [19] de lá sairão cânticos de louvor e sons festivos. Hei de multiplicá-los, eles não diminuirão, hei de glorificá-los, eles não serão humilhados. [20] Teus filhos serão felizes como outrora, e sua comunidade, estável na minha presença; e agirei contra todos os que os molestarem. [21] Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Quem dará a vida em penhor da sua aproximação de mim? – diz o Senhor. [22] Sereis meu povo e eu serei vosso Deus. [23] Eis o vento do Senhor, força que explode, tempestade que tomba; termina sobre a cabeça dos ímpios. [24] Não recuará o Senhor de sua irada indignação, enquanto não fizer realizar seus profundos pensamentos; entenderás estas coisas nos últimos tempos. [31,1] Naquele tempo, diz o Senhor, serei Deus para todas as tribos de Israel, e elas serão meu povo. [2] Isto diz o Senhor: "Encontrou perdão no deserto o povo que escapara à espada; Israel encaminha-se para o seu descanso. [3] O Senhor apareceu-me de longe: "Amei-te com amor eterno e te atraí com a misericórdia. [4] De novo te edificarei, serás reedificada, ó jovem nação de Israel; de novo teus tambores ornarão as praças e sairás entre grupos de dançantes. [5] Hás de plantar vinhas nos montes de Samaria; os cultivadores hão de plantar e também colher. [6] Virá o dia em que gritarão os guardas no monte Efraim: "Levantai-vos, vamos a Sião, vamos ao Senhor, nosso Deus". [7] Isto diz o Senhor: Exultai de alegria por Jacó, aclamai a primeira das nações; tocai, cantai e dizei: "Salva, Senhor, teu povo, o resto de Israel". [8] Eis que eu os trarei do país do Norte e os reunirei desde as extremidades da terra; entre eles há cegos e aleijados, mulheres grávidas e parturientes: são uma grande multidão os que retornam. [9] Eles chegarão entre lágrimas e eu os receberei entre preces; eu os conduzirei por torrentes d'água, por um caminho reto onde não tropeçarão, pois tornei-me um pai para Israel, e Efraim é o meu primogênito.
+
+@secao Responsório | Jr 31,6; Is 2,5
+
+@responsorio
+R. O dia chegará em que os guardas clamarão:
+* Levantai-vos, levantai-vos e subamos a Sião,
+ao Senhor e nosso Deus!
+V. Vinde, ó casa de Jacó, caminhemos sob a luz
+do Senhor e nosso Deus. * Levantai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão sobre as Bem-aventuranças, de São Leão Magno, papa
+{(Séc. V)} {(Sermo 95,2-3: PL 54,462)}
+
+@tema
+Bem-aventurados os pobres de espírito
+
+@texto
+Não há dúvida de que os pobres alcançam mais facilmente que os ricos o bem da humildade; estes, nas riquezas, a conhecida altivez. Contudo em muitos ricos encontra-se a disposição de empregar sua abundância não para se inchar de soberba, mas para realizar obras de benignidade; e assim eles têm por máximo lucro tudo quanto gastam em aliviar a miséria do trabalho dos outros.
+
+@texto
+A todo gênero e classe de pessoas é dado ter parte nesta virtude, porque podem ser iguais na intenção e desiguais no lucro; e não importa quanto sejam diferentes nos bens terrenos, se são idênticos nos bens espirituais. Feliz então a pobreza que não se prende ao amor das coisas transitórias, nem deseja o crescimento das riquezas do mundo, mas anseia por enriquecer-se com os tesouros celestes.
+
+@texto
+Exemplo de fidalga pobreza foi-nos dado primeiro, depois do Senhor, pelos apóstolos que, abandonando igualmente todas as posses à voz do Mestre celeste, se transformaram, por célebre conversão, de pescadores de peixes em pescadores de homens (cf. Mt 4,19). Eles tornaram a muitos outros semelhantes a si, à imitação de sua fé, quando nos filhos da Igreja primitiva era um só o coração de todos e uma só a alma dos que criam (cf. At 4,32). Desapegados de todas as coisas e de suas posses, pela pobreza sagrada enriqueciam-se com os tesouros eternos. Segundo a pregação apostólica, alegravam-se por nada ter do mundo e tudo possuir com Cristo.
+
+@texto
+O santo apóstolo Pedro, subindo ao templo, respondeu ao entrevado que lhe pedia esmola: _Prata e ouro não possuo; mas o que tenho te dou: Em nome de Jesus Cristo Nazareno, levanta-te e anda_ (At 3,6). Que de mais sublime do que esta humildade? E mais rico do que esta pobreza? Não tem os auxílios do dinheiro, mas tem os dons do espírito. Saíra ele paralítico do seio de sua mãe; com a palavra Pedro o curou. Quem não deu a efígie de César na moeda, reformou no homem a imagem de Cristo.
+
+@texto
+Com este rico tesouro não foi socorrido só aquele que recuperou o andar, mas ainda as cinco mil pessoas que naquele momento creram na exortação do Apóstolo por causa do milagre da cura (cf. At 4,4). E o pobre que não tinha para dar a um mendigo, distribuiu com tanta largueza a graça divina! Da mesma forma como estabeleceu a um só homem em seus pés, assim curou a tantos milhares de fiéis em seus corações e tornou saltitantes em Cristo aqueles que encontrara entrevados.
+
+@secao Responsório | Mt 5,1b-3; Is 66,2b
+
+@responsorio
+R. Os discípulos se achegaram a Jesus;
+ele, então, pôs-se a falar e os ensinava:
+* Felizes os pobres em espírito,
+porque deles é o Reino dos céus.
+V. O pobre é que atrai os meus olhares,
+o aflito e o de espírito abatido,
+quem perante minha palavra estremece. * Felizes.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

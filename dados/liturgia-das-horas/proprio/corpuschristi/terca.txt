@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/corpuschristi_terca.htm
+@documento Hora Média - Santíssimo Sacramento do Corpo e Sangue de Cristo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Ardentemente desejei comer convosco esta Páscoa
+antes de ir sofrer a morte. Aleluia.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Ardentemente desejei comer convosco esta Páscoa
+antes de ir sofrer a morte. Aleluia.
+
+@secao Leitura breve | Sb 16,20
+
+@texto
+A teu povo nutriste com um alimento de anjos; de graça, enviaste do céu um pão já preparado, que contém em si todo o sabor e satisfaz a todos os gostos.
+
+@texto
+V. Irei aos altares do Senhor, aleluia.
+R. O Cristo me alimenta e me renova, aleluia.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

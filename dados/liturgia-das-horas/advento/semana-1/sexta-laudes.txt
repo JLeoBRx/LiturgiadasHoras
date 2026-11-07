@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sexta_laudes.htm
+@documento Laudes - I Sexta-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Aceitareis o verdadeiro sacrifício
+no altar do coração arrependido.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Aceitareis o verdadeiro sacrifício
+no altar do coração arrependido.
+
+@antifona 2
+Será vitoriosa no Senhor
+e gloriosa toda a raça de Israel.
+
+@salmo canticos/is-45-15-25
+
+@gloria
+
+@antifona
+Será vitoriosa no Senhor
+e gloriosa toda a raça de Israel.
+
+@antifona 3
+Vinde todos ao Senhor com cantos de alegria!
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+Vinde todos ao Senhor com cantos de alegria!
+
+@secao Leitura breve | Jr 30,21a.22
+
+@texto
+Eis o que diz o Senhor: Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Sereis meu povo e eu serei vosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Justiça e paz se abraçarão:
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eis que vem o Deus e homem da casa de Davi,
+e será o nosso Rei. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eis que vem o Deus e homem da casa de Davi,
+e será o nosso Rei. Aleluia.
+
+@secao Preces
+
+@preces
+Aclamemos com alegria Deus, nosso Pai, que por meio de seu Filho revelou aos seres humanos a sua glória; e digamos:
+
+R. **Senhor, glorificado seja o vosso nome!**
+
+Fazei, Senhor, que aprendamos a nos acolher uns aos outros,
+– como Cristo nos acolheu para a glória de Deus. R.
+
+Cumulai-nos de toda alegria e paz em nossa fé,
+– para caminharmos na esperança e na força do Espírito Santo. R.
+
+Ajudai a todos, Senhor, segundo a imensidade de vossa compaixão;
+– ide ao encontro daqueles que, mesmo sem saber, vos esperam. R.
+
+Vós chamais e santificais os eleitos;
+– perdoai as nossas culpas e admiti-nos no reino da eterna bem-aventurança. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, Senhor, vosso poder e vinde, para que vossa proteção afaste os perigos a que nossos pecados nos expõem, e a vossa salvação nos liberte. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

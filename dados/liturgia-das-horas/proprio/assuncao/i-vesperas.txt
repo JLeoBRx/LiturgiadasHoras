@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/assuncao_Ivesperas.htm
+@documento I Vésperas - Assunção da Bem-aventurada Virgem Maria
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Nova estrela do céu, gáudio da terra,
+ó Mãe do Sol, geraste o Criador:
+estende a tua mão ao que ainda erra,
+levanta o pecador.
+
+Deus fez de ti escada luminosa:
+por ela o abismo galga o próprio céu;
+dá subirmos contigo, ó gloriosa,
+envolva-nos teu véu!
+
+Os anjos apregoam-te Rainha,
+e apóstolos, profetas, todos nós:
+no mais alto da Igreja estás sozinha,
+da Divindade após.
+
+Louvor rendamos à Trindade eterna,
+que a ti como Rainha hoje coroa.
+Toma o teu cetro, pois, reina e governa,
+Mãe que acolhe e perdoa!
+
+@secao Salmodia
+
+@antifona 1
+Cristo Jesus subiu aos céus
+e preparou, no Reino eterno,
+um lugar para sua Mãe, a santa Virgem, aleluia.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Cristo Jesus subiu aos céus
+e preparou, no Reino eterno,
+um lugar para sua Mãe, a santa Virgem, aleluia.
+
+@antifona 2
+A porta do céu foi fechada por Eva;
+por Maria ela abriu-se, aos homens de novo. Aleluia.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+A porta do céu foi fechada por Eva;
+por Maria ela abriu-se, aos homens de novo. Aleluia.
+
+@antifona 3
+A Virgem Maria foi hoje elevada acima dos céus.
+Vinde todos, louvemos o Cristo Senhor.
+Seu Reino se estende por todos os séculos.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+A Virgem Maria foi hoje elevada acima dos céus.
+Vinde todos, louvemos o Cristo Senhor.
+Seu Reino se estende por todos os séculos.
+
+@secao Leitura breve | Rm 8,30
+
+@texto
+Aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria foi assunta ao céu,
+* Os anjos se alegram, louvando. R. Maria.
+V. Bendizem o Senhor, jubilosos. * Os anjos.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+As gerações hão de chamar-me de bendita,
+pois maravilhas fez em mim o Poderoso. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+As gerações hão de chamar-me de bendita,
+pois maravilhas fez em mim o Poderoso. Aleluia.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+(oração do dia na Missa da Vigília, conforme a edição típica) Ó Deus, considerando a humildade da Virgem Maria, vós lhe concedestes a graça e a honra de ser a Mãe do vosso Filho unigênito, e a coroastes hoje de glória e esplendor; concedei, por suas preces, que, salvos pelo mistério da redenção, sejamos elevados à vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

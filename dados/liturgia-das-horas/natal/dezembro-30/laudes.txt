@@ -1,0 +1,174 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/30dezembro_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@antifona 2
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@antifona 3
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@secao Leitura breve | Is 9,5
+
+@texto
+Nasceu para nós um menino, foi-nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ao nascer o Senhor em Belém,
+os coros dos anjos cantavam:
+Glória a Deus em seu trono e ao Cordeiro!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ao nascer o Senhor em Belém,
+os coros dos anjos cantavam:
+Glória a Deus em seu trono e ao Cordeiro!
+
+@secao Preces
+
+@preces
+Supliquemos a Cristo nosso Senhor, em quem o Pai quis renovar todas as coisas; e digamos:
+
+R. **Filho de Deus muito amado, ouvi-nos!**
+
+Filho de Deus, que desde o princípio estáveis junto do Pai e, ao chegar a plenitude dos tempos, vos fizestes homem,
+– fazei que nos amemos todos como irmãos e irmãs. R.
+
+Cristo, Filho de Deus, que vos fizestes pobre para nos enriquecer com vossa pobreza, e vos humilhastes para nos fazerdes participantes da vossa glória,
+– tornai-nos fiéis ministros do vosso Evangelho. R.
+
+Vós, que viestes iluminar os que viviam nas trevas e na sombra da morte,
+– guiai nossos passos no caminho da santidade, da justiça e da paz. R.
+
+Dai-nos um coração puro e sincero para escutar fielmente a vossa Palavra,
+– e multiplicai em nós e em todos os seres humanos os frutos da salvação para vossa maior glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que o novo nascimento de vosso Filho como homem nos liberte da antiga escravidão do pecado. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

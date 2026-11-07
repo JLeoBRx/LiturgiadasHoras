@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5domingoquaresma_terca.htm
+@documento Hora Média - Terça - Domingo da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@salmo salmos/salmo-117
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@secao Leitura breve | 2Cor 4,10-11
+
+@texto
+Por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossa frágil natureza. De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus,para que também a vida de Jesus seja manifestada em nossos corpos.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos por vossa graça caminhar com alegria na mesma caridade que levou o vosso Filho a entregar-se à morte no seu amor pelo mundo. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

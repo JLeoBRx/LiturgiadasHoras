@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2terca_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Não podeis servir a Deus e ao dinheiro.
+
+@salmo salmos/salmo-048
+
+@gloria
+
+@antifona
+Não podeis servir a Deus e ao dinheiro.
+
+@antifona 2
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@salmo salmos/salmo-048-ii
+
+@gloria
+
+@antifona
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@antifona 3
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@secao Leitura breve | 1Cor 1,7b-9
+
+@texto
+Aguardamos a revelação do Senhor nosso, Jesus Cristo. É ele também que vos dará perseverança em vosso procedimento irrepreensível, até ao dia de nosso Senhor, Jesus Cristo. Deus é fiel; por ele fostes chamados à comunhão com seu filho.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Está perto a salvação dos que o respeitam. * Nele se alegra.
+Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+No deserto ressoa uma voz:
+preparai o caminho do Senhor,
+aplainai as estradas de Deus.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+No deserto ressoa uma voz:
+preparai o caminho do Senhor,
+aplainai as estradas de Deus.
+
+@secao Preces
+
+@preces
+Invoquemos, irmãos diletos, a Cristo nosso Senhor e Redentor, que virá em sua glória nos últimos tempos; e peçamos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor e Redentor do gênero humano, que, nascendo segundo a carne, viestes nos libertar do jugo da lei,
+– multiplicai em nós os benefícios da vossa bondade. R.
+
+Vós, que tomastes da nossa natureza o que podia unir-se à vossa divindade,
+– fortalecei a fragilidade humana com os dons da natureza divina. R.
+
+Cumulai nossos desejos com a manifestação da vossa presença,
+– e acendei em nossos corações o fogo do vosso amor. R.
+
+Concedei que se alegrem um dia convosco na glória,
+– os que neste mundo vos invocam na sinceridade da fé. R.
+
+{(intenções livres)}
+
+Derramai sobre as almas de todos os fiéis defuntos,
+– as riquezas da vossa infinita misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que manifestastes o vosso Salvador até os confins da terra, dai-nos esperar com alegria a glória do seu natal. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

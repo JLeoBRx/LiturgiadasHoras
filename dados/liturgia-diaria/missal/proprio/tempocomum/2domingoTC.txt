@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/2domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 65,4
+@texto
+Toda a terra vos adore com respeito,
+e proclame o louvor do vosso nome, ó Altíssimo.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+que governais o céu e a terra,
+escutai clemente as súplicas do vosso povo
+e dai ao nosso tempo a vossa paz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei-nos, Senhor,
+a graça de participar dignamente destes mistérios,
+pois todas as vezes que celebramos o memorial
+do sacrifício do vosso Filho,
+realiza-se em nós a obra da redenção.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 22,5
+@texto
+Preparastes à minha frente uma mesa,
+o meu cálice transborda!
+{Ou:}{1Jo 4,16}
+Nós conhecemos o amor que Deus tem para conosco
+e acreditamos nele.
+
+@secao Depois da comunhão
+@texto
+Infundi em nós, Senhor, o Espírito do vosso amor,
+e fazei que vivam sempre unidos
+os que saciastes com o único pão do céu.
+Por Cristo, nosso Senhor.

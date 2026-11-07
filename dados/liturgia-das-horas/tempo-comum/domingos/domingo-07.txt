@@ -1,0 +1,53 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 7º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Amai os vossos inimigos, diz Jesus.
+Orai por quem vos persegue e calunia,
+e sereis filhos do vosso Pai celeste.
+
+@antifona vesperas-i-B
+Trouxeram a Jesus um paralítico.
+Vendo a fé daqueles homens, ele disse:
+Meu filho, estão perdoados teus pecados.
+
+@antifona vesperas-i-C
+Como vós desejais que os outros vos façam,
+fazei vós também o mesmo com eles.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O Pai faz seu sol nascer
+sobre os maus e sobre os bons,
+e igualmente faz chover
+sobre os justos e os injustos.
+
+@antifona laudes-B
+A fim de que saibais que o Filho do Homem
+sobre a terra tem poder de perdoar os pecados,
+disse a ele: Eu te mando:
+Fica em pé, toma o teu leito e vai para tua casa!
+
+@antifona laudes-C
+Não julgueis e não sereis também julgados;
+na medida em que julgardes vosso irmão,
+também vós, pelo Senhor, sereis julgados.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Sede perfeitos, como o vosso Pai celeste é perfeito.
+
+@antifona vesperas-ii-B
+Então o paralítico tomou a sua maca,
+levantou-se e caminhou, dando glórias ao Senhor.
+Vendo isto a multidão, com temor, louvou a Deus.
+
+@antifona vesperas-ii-C
+Perdoai, e vos será perdoado.
+Dai aos outros, e a vós será dado.
+Com a mesma medida com que a outros medirdes,
+medidos sereis.

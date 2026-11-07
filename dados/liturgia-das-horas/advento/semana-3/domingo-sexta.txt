@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+E paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@secao Salmodia
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao Leitura breve | 1Ts 3,12-13
+
+@texto
+O Senhor vos conceda que o amor entre vós e para com todos aumente e transborde sempre mais, a exemplo do amor que temos por vós. Que assim ele confirme os vossos corações numa santidade sem defeito aos olhos de Deus, nosso Pai, no dia da vinda de nosso Senhor Jesus, com todos os seus santos.
+
+@texto
+V. Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+pelo amor que demonstrais ao vosso povo!
+R. Visitai-me com a vossa salvação!
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que vedes o vosso povo esperando fervoroso o natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

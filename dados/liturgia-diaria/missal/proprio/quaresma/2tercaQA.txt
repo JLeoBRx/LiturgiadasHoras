@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/2tercaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 12,4-5
+@texto
+Iluminai meus olhos, Senhor,
+para que eu não adormeça no sono da morte.
+Que meu inimigo não possa dizer: triunfei sobre ele.
+
+@secao Coleta
+@texto
+Guardai, Senhor, com eterna bondade a vossa Igreja
+e, como a fraqueza humana desfalece sem o vosso auxílio,
+livrai-nos constantemente do mal
+e conduzi-nos pelos caminhos da salvação.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Dignai-vos, Senhor, santificar-nos
+por estes mistérios,
+para que sejamos curados dos vícios terrenos
+e conduzidos para os bens celestiais.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 9,2-3
+@texto
+Senhor, de coração vos darei graças,
+as vossas maravilhas cantarei!
+Em vós exultarei de alegria,
+cantarei ao vosso nome, Deus altíssimo!
+
+@secao Depois da comunhão
+@texto
+A participação na vossa mesa sagrada, Senhor,
+faça crescer em nós o amor fraterno
+e nos assegure sempre o auxílio da vossa bondade.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Sede propício, Senhor, às súplicas dos vossos fiéis,
+e curai-lhes a fraqueza do espírito,
+para que, recebido o perdão,
+alegrem-se sempre com a vossa bênção.
+Por Cristo, nosso Senhor.

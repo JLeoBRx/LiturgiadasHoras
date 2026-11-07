@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/7janeiro_terca.htm
+@documento 7janeiro_terca.htm
+
+@secao Leitura breve | Dt 4,7
+
+@texto
+Qual é a grande nação cujos deuses lhe são tão próximos como o Senhor nosso Deus, sempre que o invocamos?
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, pela vinda do vosso Filho vos manifestastes em nova luz. Assim como ele quis participar da nossa humanidade, nascendo da Virgem, dai-nos participar de sua vida no Reino. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

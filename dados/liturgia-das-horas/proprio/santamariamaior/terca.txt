@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santamariamaior_terca.htm
+@documento Hora Média - Dedicação da Basílica de Santa Maria Maior
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus.
+
+@secao Leitura breve | Sf 3,14.15b
+
+@texto
+Canta de alegria, cidade de Sião; rejubila, povo de Israel! Alegra-te e exulta de todo o coração, cidade de Jerusalém! O rei de Israel é o Senhor, ele está no meio de ti.
+
+@texto
+V. Felizes os que ouvem a palavra do Senhor.
+R. Felizes os que a vivem e a praticam cada dia.
+
+@secao Oração
+
+@oracao
+Perdoai, Senhor, os nossos pecados, e como não vos podemos agradar por nossos atos, sejamos salvos pela intercessão da Virgem Maria, Mãe de Deus. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

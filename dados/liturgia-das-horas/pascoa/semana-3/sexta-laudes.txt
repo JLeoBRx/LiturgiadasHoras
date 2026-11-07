@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3sextapascoa_laudes.htm
+@documento Laudes - Sexta-feira da 3ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Do meu pecado todo inteiro, ó Senhor purificai-me! Aleluia.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Do meu pecado todo inteiro, ó Senhor purificai-me! Aleluia.
+
+@antifona 2
+Jesus tomou nossos pecados sobre si em sua cruz. Aleluia.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@antifona
+Jesus tomou nossos pecados sobre si em sua cruz. Aleluia.
+
+@antifona 3
+Ide a ele cantando jubilosos, aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+Ide a ele cantando jubilosos, aleluia.
+
+@secao Leitura breve | At 5,30-32
+
+@texto
+O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem come a minha carne e bebe o meu sangue,
+fica em mim e eu fico nele. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem come a minha carne e bebe o meu sangue,
+fica em mim e eu fico nele. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, que pela ressurreição de Jesus Cristo nos deu uma vida nova; e supliquemos humildemente:
+
+R. **Iluminai-nos, Senhor, com a luz de Cristo!**
+
+Deus de bondade e fidelidade, que criastes o universo e manifestastes a todas as gerações o vosso desígnio de salvação,
+– escutai-nos, ó Pai clementíssimo. R.
+
+Purificai os nossos corações com a luz da vossa verdade,
+– para que todas as nossas obras sejam justas e agradáveis aos vossos olhos. R.
+
+Fazei brilhar sobre nós a luz da vossa face,
+– para que, libertos do pecado, nos saciemos com a riqueza de vossos dons. R.
+
+Vós, que por Cristo nos reconciliastes convosco,
+– fazei reinar a vossa paz em toda a terra. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei que, conhecendo a ressurreição do Senhor e a graça que ela nos trouxe, ressuscitemos para uma vida nova pelo amor do vosso Espírito. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

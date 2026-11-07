@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3quartapascoa_vesperas.htm
+@documento Vésperas - Quarta-feira da 3ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Vossa tristeza vai mudar-se em alegria, aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Vossa tristeza vai mudar-se em alegria, aleluia.
+
+@antifona 2
+Quer vivamos, quer morramos,
+ao Senhor pertencemos. Aleluia.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Quer vivamos, quer morramos,
+ao Senhor pertencemos. Aleluia.
+
+@antifona 3
+Todas as coisas vêm de Cristo, são por ele e nele existem;
+a ele glória pelos séculos! Aleluia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Todas as coisas vêm de Cristo, são por ele e nele existem;
+a ele glória pelos séculos! Aleluia.
+
+@secao Leitura breve | Hb 7,24-27
+
+@texto
+Cristo, uma vez que permanece para a eternidade, possui um sacerdócio que não muda. Por isso ele é capaz de salvar para sempre aqueles que, por seu intermédio, se aproximam de Deus. Ele está sempre vivo para interceder por eles. Tal é precisamente o sumo-sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus. Ele não precisa, como os sumos-sacerdotes oferecer sacrifícios em cada dia, primeiro por seus próprios pecados e depois pelos do povo. Ele já o fez uma vez por todas, oferecendo-se a si mesmo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Todo aquele que o Pai me entregou
+há de vir até mim, diz Jesus;
+e quem vem até mim nunca irei rejeitar. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Todo aquele que o Pai me entregou
+há de vir até mim, diz Jesus;
+e quem vem até mim nunca irei rejeitar. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Cristo nosso Senhor, que ressuscitou de entre os mortos e está sentado à direita do Pai; e digamos confiantes:
+
+R. **Cristo, rei da glória, ouvi a nossa oração!**
+
+Lembrai-vos, Senhor, de todos os que se consagram ao vosso serviço,
+– para que deem ao vosso povo o exemplo da verdadeira santidade. R.
+
+Concedei aos governantes e legisladores o espírito de justiça e de paz,
+– para que reine a concórdia em toda a comunidade humana. R.
+
+Orientai os caminhos de toda a humanidade para a esperança da salvação,
+– e aumentai os bens da terra para podermos socorrer todos os necessitados. R.
+
+{(intenções livres)}
+
+Cristo, nosso Salvador, que nos libertastes da escravidão do pecado e da morte,
+– concedei a luz eterna aos nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Permanecei, ó Pai, com vossa família e, na vossa bondade fazei que participem eternamente da ressurreição do vosso Filho aqueles a quem destes a graça da fé. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

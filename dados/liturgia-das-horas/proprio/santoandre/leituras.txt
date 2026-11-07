@@ -1,0 +1,236 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoandre.htm
+@documento Ofício das Leituras - Santo André, Apóstolo Festa
+
+@celebracao
+SANTO ANDRÉ, APÓSTOLO
+{Festa}
+
+@biografia
+André, nascido em Betsaida, foi primeiramente discípulo de João Batista; seguiu a Cristo e levou à presença deste Pedro. Junto com Filipe, apresentou a Cristo os pagãos e indicou o rapaz que levava pães e peixes. Narra-se que, depois de Pentecostes, pregou o Evangelho em muitas regiões e foi crucificado na Acaia.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {1,18–2,5}
+
+@tema
+Os apóstolos anunciam a cruz
+
+@texto
+Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens. Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, “quem se gloria, glorie-se no Senhor”.
+Irmãos, quando fui à vossa cidade anunciar-vos o mistério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este, crucificado. Aliás, eu estive junto de vós, com fraqueza e receio, e muito tremor. Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, para que a vossa fé se baseasse no poder de Deus e não na sabedoria dos homens.
+
+@secao Responsório | Mt 4,18.19
+
+@responsorio
+R. Junto ao mar da Galileia, Jesus viu André e Pedro
+a lançar a rede ao mar; chamou-os e lhes disse:
+* Vinde comigo e, pescadores de homens, vos farei.
+V. Eles eram pescadores e lhes disse o Senhor:
+* Vinde comigo.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre o Evangelho de João, de São João Crisóstomo, bispo
+{(Séc. IV)} {(Hom. 19,1: PG 59,120-121)}
+
+@tema
+Encontramos o Messias
+
+@texto
+André, tendo permanecido com Jesus e aprendido com ele muitas coisas, não escondeu o tesouro só para si mas correu depressa à procura de seu irmão, para fazê-lo participar da sua descoberta. Repara o que lhe disse: _Encontramos o Messias (que quer dizer Cristo)_ (Jo 1,41). Vede como logo revela o que aprendera em pouco tempo! Demonstra assim o valor do Mestre que o persuadira, bem como a aplicação e o zelo daqueles que, desde o princípio, já estavam atentos. Esta expressão, com efeito, é de quem deseja intensamente a sua vinda, espera aquele que deveria vir do céu, exulta de alegria quando ele se manifestou, e se apressa em comunicar aos outros a grande notícia. Repara também a docilidade e a prontidão de espírito de Pedro. Acorre imediatamente. _E conduziu-o a Jesus_ (Jo 1,42), afirma o Evangelho. Mas ninguém condene a facilidade com que, não sem muita reflexão, aceitou a notícia.
+É provável que o irmão lhe tenha falado pormenorizadamente mais coisas. Na verdade, os evangelistas sempre narram muitas coisas resumidamente, por razões de brevidade. Aliás, não afirma que acreditou logo, mas: _E conduziu-o a Jesus_ (Jo 1,42), e a ele o confiou para que aprendesse com Jesus todas as coisas. Estava ali, também, outro discípulo que viera com os mesmos sentimentos. Se João Batista, quando afirma: _Eis o Cordeiro e batiza no Espírito Santo_ (cf. Jo 1,29.33), deixou mais clara, sobre esta questão, a doutrina que seria dada pelo Cristo, muito mais fez André. Pois, não se julgando capaz de explicar tudo, conduziu o irmão à própria fonte da luz, tão contente e pressuroso, que não duvidou sequer um momento.
+
+@secao Responsório
+
+@responsorio
+R. Ao chamado do Senhor, Santo André deixou as redes,
+com as quais ganhava a vida.
+* E seguiu a quem nos dá de presente a vida eterna.
+V. Foi ele que aceitou o martírio
+por amor do Senhor e do Evangelho. * E seguiu.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Nós vos suplicamos, ó Deus onipotente, que o apóstolo Santo André, pregador do Evangelho e pastor da vossa Igreja, não cesse no céu de interceder por nós. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

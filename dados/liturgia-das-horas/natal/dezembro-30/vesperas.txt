@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/30dezembro_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria,
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho antes da aurora, eu te gerei.
+
+@antifona 2
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+No Senhor se encontra toda graça e copiosa redenção.
+
+@antifona 3
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, Primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@secao Leitura breve | Cf. 2Pd 1,3-4
+
+@texto
+Cristo, por seu divino poder, nos deu todas as coisas necessárias para a vida e para a piedade, mediante o conhecimento daquele que, pela sua própria glória e virtude, nos chamou. Por meio de tudo isso nos foram dadas as preciosas promessas, as maiores que há, a fim de que vos tornásseis participantes da natureza divina, depois de libertos da corrupção da concupiscência no mundo.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, Aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Nós vos louvamos, Santa Mãe do nosso Deus,
+pois de vós nasceu o Cristo Salvador.
+Intercedei por todos nós que vos louvamos!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Nós vos louvamos, Santa Mãe do nosso Deus,
+pois de vós nasceu o Cristo Salvador.
+Intercedei por todos nós que vos louvamos!
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, rei nascido em Belém de Judá para dirigir seu povo santo; e aclamemos com alegria:
+
+R. **Ajudai-nos, Senhor, com a vossa graça!**
+
+Cristo, nosso Salvador, desejado das nações, iluminai com a luz do Evangelho aqueles que ainda não reconheceram a Palavra da vida,
+– e atraí para vós todos os homens. R.
+
+Cristo, Senhor do universo, fazei que a vossa Igreja se estenda até aos confins da terra,
+– e congregai nela os homens e as mulheres de todas as línguas e nações. R.
+
+Cristo, Rei dos reis, dirigi o coração e o pensamento dos governantes,
+– para que promovam fielmente a justiça, a paz e a liberdade de todos os povos. R.
+
+Cristo, Senhor dos senhores e fortaleza dos humildes, ajudai os que são tentados, reanimai os deprimidos, protegei os que vivem em perigo,
+– revigorai os desiludidos e desesperados, firmai a esperança dos perseguidos. R.
+
+{(intenções livres)}
+
+Cristo, Consolador dos aflitos, confortai os agonizantes,
+– e conduzi-os para as fontes de água viva. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que o novo nascimento de vosso Filho como homem nos liberte da antiga escravidão do pecado. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

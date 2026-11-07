@@ -1,0 +1,6 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/benedictusemlatim.htm
+@documento Benedictus em latim
+
+@titulo BENEDICTUS (EM LATIM) / {Lc 1,68-79}
+
+@salmo salmos/trecho-benedictus

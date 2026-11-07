@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3segunda_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@salmo salmos/salmo-118-89-96-xii-lamed
+
+@gloria
+
+@antifona
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@antifona 2
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@salmo salmos/salmo-070-i
+
+@gloria
+
+@antifona
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@antifona 3
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@salmo salmos/salmo-070-ii
+
+@gloria
+
+@antifona
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@secao Leitura breve | 2Cor 13,11
+
+@texto
+Irmãos, alegrai-vos, trabalhai no vosso aperfeiçoamento, encorajai-vos, cultivai a concórdia, vivei em paz, e o Deus do amor e da paz estará convosco.
+
+@texto
+V. O Senhor pousa seus olhos sobre os justos.
+R. O seu ouvido está atento ao seu chamado.
+
+@secao Oração
+
+@oracao
+Ó Deus, Pai de bondade, destes o trabalho aos seres humanos para que, unindo seus esforços, progridam cada vez mais; concedei que, em nossas atividades, vos amemos a vós como filhos e filhas e a todos como irmãos e irmãs. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

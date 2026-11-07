@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1segundaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 122,2-3
+@texto
+Como os olhos dos escravos
+estão fitos nas mãos do seu senhor,
+assim os nossos olhos, no Senhor nosso Deus,
+até de nós ter piedade.
+Tende piedade, ó Senhor, tende piedade!
+
+@secao Coleta
+@texto
+Convertei-nos, ó Deus, nosso Salvador,
+e, para que o esforço quaresmal nos seja proveitoso,
+instruí nossas mentes com a doutrina celeste.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, a oferenda de nossa devoção.
+Fazei que ela santifique a nossa vida
+e nos obtenha o vosso perdão.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 25,40.34
+@texto
+Em verdade eu vos digo,
+que todas as vezes que fizestes isso
+a um dos menores de meus irmãos,
+foi a mim que o fizestes, diz o Senhor.
+Vinde, benditos de meu Pai!
+Recebei como herança o reino que meu Pai
+vos preparou desde a criação do mundo.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela recepção do vosso sacramento
+possamos sentir vosso auxílio na alma e no corpo,
+e assim, salvos em todo o nosso ser,
+nos alegremos com a plenitude da redenção.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Senhor, iluminai, com a luz da vossa claridade,
+a mente do vosso povo,
+para que veja o que deve fazer,
+e pratique o que é correto.
+Por Cristo, nosso Senhor.

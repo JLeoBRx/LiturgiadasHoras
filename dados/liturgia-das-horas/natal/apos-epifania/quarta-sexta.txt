@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quarta_aposepifania_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@salmo salmos/salmo-118-57-64
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@secao Leitura breve | Ap 21,23-24
+
+@texto
+A cidade não precisa de sol, nem de lua que a iluminem, pois a glória de Deus é a sua luz e a sua lâmpada é o Cordeiro. As nações caminharão à sua luz e os reis da terra levarão a ela a sua glória.
+
+@texto
+V. As nações hão de ver vossa justiça.
+R. E os reis contemplarão a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus, luz de todas as nações, concedei aos povos da terra viver em perene paz, e fazei resplandecer em nossos corações aquela luz admirável que vimos despontar no povo da antiga aliança. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

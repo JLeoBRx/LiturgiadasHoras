@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sexta_laudes.htm
+@documento Laudes - Sexta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Sois do céu a glória eterna,
+esperança dos mortais,
+sois da casta Virgem prole,
+Unigênito do Pai.
+
+Dai àqueles que despertam
+seja a mente vigilante.
+Em louvor e ação de graças,
+nossa voz seja vibrante.
+
+Nasce o astro luminoso,
+nova luz ele anuncia.
+Foge a noite, foi a treva,
+vossa luz nos alumia.
+
+Nossa mente torne clara,
+faça a noite cintilar,
+purifique nosso íntimo
+até a vida terminar.
+
+Cresça a nossa fé primeira
+dentro em nosso interior;
+a esperança acompanhe,
+e maior seja o amor.
+
+A vós, Cristo, rei piedoso,
+e a vós, Pai, glória também
+com o Espírito Paráclito
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@antifona 2
+Conhecemos nossas culpas,
+pois pecamos contra vós.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@antifona
+Conhecemos nossas culpas,
+pois pecamos contra vós.
+
+@antifona 3
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.
+
+@secao Leitura breve | 2Cor 12,9b-10
+
+@texto
+De bom grado, eu me gloriarei das minhas fraquezas, para que a força de Cristo habite em mim. Eis por que eu me comprazo nas fraquezas, nas injúrias, nas necessidades, nas perseguições e nas angústias sofridas por amor a Cristo. Pois, quando eu me sinto fraco, é então que sou forte.
+
+@secao Responsório breve
+
+@responsorio
+R. Fazei-me cedo sentir,
+* Ó Senhor, vosso amor! R. Fazei-me.
+V. Indicai-me o caminho, que eu devo seguir.
+* Ó Senhor. Glória ao Pai. R. Fazei-me.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@secao Preces
+
+@preces
+Levantemos o nosso olhar para Cristo que nasceu, morreu e ressuscitou pelo seu povo; e peçamos com fé:
+
+R. **Salvai, Senhor, os que remistes com o vosso sangue!**
+
+Nós vos bendizemos, Jesus, Salvador da humanidade, que não hesitastes em sofrer por nós a paixão e a cruz,
+– e nos remistes com o vosso sangue precioso. R.
+
+Vós, que prometestes dar aos vossos fiéis a água que jorra para a vida eterna,
+– derramai o vosso Espírito sobre todos os homens e mulheres. R.
+
+Vós, que enviastes vossos discípulos para pregar o evangelho a todas as nações,
+– ajudai-nos a proclamar pela terra inteira a vitória da vossa cruz. R.
+
+Aos doentes e infelizes que associastes aos sofrimentos da vossa paixão,
+– concedei-lhes força e paciência. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Pai todo-poderoso, derramai vossa graça em nossos corações para que, caminhando à luz dos vossos preceitos, sigamos sempre a vós, como Pastor e Guia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

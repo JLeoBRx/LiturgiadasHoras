@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/4domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 105,47
+@texto
+Salvai-nos, Senhor nosso Deus,
+e do meio das nações nos congregai,
+para ao vosso nome agradecer
+e para termos nossa glória em vos louvar!
+
+@secao Coleta
+@texto
+Concedei-nos, Senhor nosso Deus,
+adorar-vos de coração sincero
+e amar todas as pessoas com verdadeira caridade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Apresentamos, Senhor, no vosso altar
+os dons do nosso serviço.
+Acolhei-os com bondade
+e transformai-os em sacramento da nossa redenção.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 30,17s
+@texto
+Mostrai serena a vossa face ao vosso servo
+e salvai-me pela vossa compaixão.
+Não serei confundido, Senhor, porque vos invoquei.
+{Ou:}{Mt 5,3.5}
+Bem-aventurados os pobres em espírito,
+porque deles é o reino dos céus.
+Bem-aventurados os mansos,
+porque possuirão a terra.
+
+@secao Depois da comunhão
+@texto
+Alimentados com o sacramento da nossa redenção,
+nós vos pedimos, Senhor,
+que, com este auxílio de salvação eterna,
+cresça sempre mais a verdadeira fé.
+Por Cristo, nosso Senhor.

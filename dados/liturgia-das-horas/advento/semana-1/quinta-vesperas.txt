@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quinta_vesperas.htm
+@documento Vésperas - I Quinta-Feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@antifona
+Senhor meu Deus, clamei por vós e me curastes!
+A vós louvor eternamente!
+
+@antifona 2
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@salmo salmos/salmo-031
+
+@gloria
+
+@antifona
+Feliz o homem a quem o Senhor
+não olha mais como sendo culpado!
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@secao Leitura breve | Tg 5,7-8.9b
+
+@texto
+Irmãos, ficai firmes até à vinda do Senhor. Vede o agricultor: ele espera o precioso fruto da terra e fica firme até cair a chuva do outono ou da primavera. Também vós, ficai firmes e fortalecei vossos corações, porque a vinda do Senhor está próxima. Eis que o juiz está às portas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação.
+* Vosso nome. Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre!
+
+@salmo canticos/magnificat-v2
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre!
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, imploremos a Cristo, a grande luz anunciada pelos profetas aos que viviam na sombra da morte; e digamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Cristo, Palavra de Deus, que no princípio criastes todas as coisas e nos últimos tempos assumistes a nossa natureza humana,
+– vinde salvar-nos do pecado e da morte. R.
+
+Luz verdadeira, que iluminais todo homem que vem a este mundo,
+– vinde dissipar as trevas de nossa ignorância. R.
+
+Filho unigênito, que estais no seio do Pai,
+– vinde revelar a todos as maravilhas do amor de Deus. R.
+
+Cristo Jesus, que viestes para nós como Filho do Homem,
+– tornai filhos de Deus todos aqueles que vos receberam. R.
+
+{(intenções livres)}
+
+Vós, que abris as portas de todas as prisões,
+– admiti ao banquete das núpcias eternas aqueles que esperam a entrada na vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Despertai, ó Deus, o vosso poder e socorrei-nos com a vossa força, para que vossa misericórdia apresse a salvação que nossos pecados retardam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

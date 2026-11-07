@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santohilario.htm
+@documento Ofício das Leituras - Santo Hilário, Bispo E Doutor Da Igreja
+
+@celebracao
+SANTO HILÁRIO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Poitiers no início do século IV. Cerca do ano 315, foi eleito bispo de sua cidade natal. Lutou corajosamente contra a heresia dos arianos, sendo por isso exilado pelo imperador Constâncio. Escreveu várias obras cheias de sabedoria e doutrina, para defender a fé católica e interpretar a Sagrada Escritura. Morreu em 367.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Trindade, de Santo Hilário, bispo
+{(Séc. IV)} {(Lib. 1,37-38: PL 10,48-49)}
+
+@tema
+Servir-te-ei na pregação
+
+@texto
+Estou bem consciente, Deus Pai todo-poderoso, de ser a vós que devo consagrar a tarefa mais importante de minha vida: que todos os meus pensamentos e minhas palavras falem de vós. O dom da palavra que me concedestes, não pode ter maior recompensa que a de vos servir na pregação, e demonstrar ao mundo que ignora ou ao herege que nega que sois Pai, isto é, Pai do Deus unigênito. Apesar de ser esta a única manifestação da minha vontade, é preciso suplicar o auxílio de vossa misericórdia. Desfraldando as velas da nossa fé e do nosso testemunho, vinde enchê-las com o sopro do vosso Espírito, e orientai-nos pelo caminho da pregação que iniciamos. Pois não nos faltará aquele que prometeu: _Pedi e vos será dado! Procurai e achareis! Batei e a porta vos será aberta!_ (Mt 7,7). Nós somos pobres, e por isso pedimos o que nos falta; perscrutamos com esforço obstinado as palavras de vossos profetas e apóstolos, e batemos com insistência para que se abram para nós as portas do conhecimento da verdade. Mas é somente de vós que depende dar o que se pede, estar presente, quando se procura, e abrir para quem bate. Quando se trata de compreender as verdades que se referem a vós, vemo-nos impedidos por um certo entorpecimento preguiçoso da nossa natureza e nos sentimos limitados pela nossa inevitável ignorância e fraqueza. Mas o estudo da vossa doutrina nos dispõe para compreender as realidades divinas e a obediência da fé nos conduz a superar o nosso conhecimento natural. Esperamos, portanto, que façais progredir o nosso tímido esforço inicial, que consolideis seu desenvolvimento crescente e o leveis à união com o espírito dos profetas e dos apóstolos. Assim compreenderemos o sentido exato de suas palavras e interpretaremos o seu verdadeiro significado. Então proclamaremos o que eles pregaram no mistério: que vós sois o Deus eterno, o Pai do Unigênito eterno de Deus; que somente vós sois sem nascimento; e que há um só Senhor Jesus Cristo que procede de vós por nascimento eterno; não afirmamos que ele seja outro deus além de vós, mas proclamamos que foi gerado de vós que sois o único Deus; e professamos que ele é Deus verdadeiro, nascido de vós que sois verdadeiro Deus e Pai. Dai-nos, pois, o significado autêntico das palavras, dai-nos a luz da inteligência, a perfeição da linguagem, a verdadeira fé. Tornai-nos capazes de exprimir nossa fé, ou seja, que vós sois o único Deus Pai e que há um único Senhor Jesus Cristo, segundo o que nos transmitiram os profetas e os apóstolos. E contra os hereges que negam tais afirmações, fazei que saibamos afirmar que vós sois Deus com o Filho e que proclamamos sem erro a sua divindade.
+
+@secao Responsório 1 Jo 4,2b-3a.6c.15
+
+@responsorio
+R.Todo espírito que confessa
+que Jesus Cristo, o Senhor,
+veio em carne, é de Deus.
+Não é de Deus, porém, o espírito
+que não confessa Jesus Cristo.
+* Sim, nisto conhecemos o espírito da verdade
+e o espírito do erro.
+V. Quem confessa que Jesus é o Filho de Deus Pai,
+Deus fica nele e ele, em Deus. * Sim, nisto.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, conhecer e proclamar fielmente a divindade de vosso Filho, que foi defendida com firmeza pelo vosso bispo Santo Hilário. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

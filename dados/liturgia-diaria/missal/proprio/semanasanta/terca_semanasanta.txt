@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/semanasanta/terca_semanasanta.htm
+
+@secao Antífona da entrada | Cf. Sl 26,12
+@texto
+Não me entregueis, Senhor, às mãos dos que me perseguem,
+pois contra mim se levantaram falsas testemunhas,
+mas volta-se contra eles a sua iniquidade.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+dai-nos celebrar de tal modo
+os mistérios da Paixão do Senhor,
+que possamos receber vosso perdão.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Olhai, Senhor, com bondade,
+as oferendas da vossa família;
+e, aos que participam agora dos sagrados dons,
+concedei chegar à sua plenitude.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Rm 8,32
+@texto
+Deus não poupou seu próprio Filho,
+mas o entregou por todos nós.
+
+@secao Depois da comunhão
+@texto
+Saciados pelo dom que nos salva,
+imploramos, Senhor, a vossa misericórdia,
+a fim de que, pelo mesmo sacramento
+que nos dais como alimento neste mundo,
+nos leveis a participar da vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Ó Deus, que a vossa misericórdia
+liberte das ciladas da antiga culpa
+o povo que se inclina diante de vós,
+e o torne capaz de uma vida nova.
+Por Cristo, nosso Senhor.

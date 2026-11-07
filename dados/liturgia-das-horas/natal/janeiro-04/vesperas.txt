@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/4janeiro_vesperas.htm
+@documento 4janeiro_vesperas.htm
+
+@secao Leitura breve | Rm 8,3b-4
+
+@texto
+Tendo Deus enviado seu próprio Filho numa condição semelhante àquela da humanidade pecadora, e por causa justamente do pecado, condenou o pecado em nossa condição humana, para que toda a justiça exigida pela Lei seja cumprida em nós que não procedemos segundo a carne, mas segundo o Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eu venho de Deus, de Deus eu saí.
+Não vim de mim mesmo, o Pai me enviou.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eu venho de Deus, de Deus eu saí.
+Não vim de mim mesmo, o Pai me enviou.
+
+@secao Preces
+
+@preces
+Cristo veio ao mundo, e entregou-se a si mesmo a fim de purificar e preparar para si um povo perfeito, santificado pelas boas obras. Com fervor o invoquemos:
+
+R. **Kyrie eleison!** {**ou:**} **Senhor, tende piedade de nós.**
+
+Por vossa santa Igreja:
+– que todos os seus filhos e filhas renasçam para uma vida nova. R.
+
+Pelos pobres, prisioneiros e fugitivos:
+– que eles vos encontrem, ó Filho de Deus encarnado, pelo nosso testemunho de caridade. R.
+
+Para que nossa alegria seja completa;
+– e nos maravilhemos com o dom que em vós o Pai nos concedeu. R.
+
+{(intenções livres)}
+
+Pelos vossos servos e servas falecidos, a fim de que iluminados pela luz do vosso natal contemplem vossa face;
+– que jamais haja noite para eles. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno, e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

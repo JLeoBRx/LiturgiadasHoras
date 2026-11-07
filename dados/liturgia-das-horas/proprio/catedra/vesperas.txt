@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/catedra_vesperas.htm
+@documento Vésperas - Cátedra de São Pedro, Apóstolo
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+'Pescador de homens te faço!'
+Ouviste, ó Pedro, de Deus:
+redes e remos deixando,
+ganhaste as chaves dos céus.
+
+Negando Cristo três vezes,
+três vezes clamas amor:
+então, de todo o rebanho,
+tornas-te mestre e pastor.
+
+Ó Pedro, és pedra da Igreja,
+que sobre ti se constrói,
+que vence as forças do inferno,
+e quais grãos de Cristo nos mói.
+
+Quando no mar afundavas,
+o Salvador deu-te as mãos:
+com as palavras da vida
+confirma agora os irmãos.
+
+Pés para o alto apontando,
+foste pregado na cruz:
+cajado que une o rebanho,
+barca que a todos conduz.
+
+Ao Cristo Rei demos glória,
+rendamos nosso louvor;
+voltando à terra, ele encontre
+um só rebanho e pastor.
+
+@secao Salmodia
+
+@antifona 1
+Tu me amas, Simão Pedro?
+Ó Senhor, tu sabes tudo, tu bem sabes que eu te amo!
+Apascenta os meus cordeiros.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Tu me amas, Simão Pedro?
+Ó Senhor, tu sabes tudo, tu bem sabes que eu te amo!
+Apascenta os meus cordeiros.
+
+@antifona 2
+Pedro no cárcere era guardado.
+E a Igreja sem cessar rezava a Deus por ele.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Pedro no cárcere era guardado.
+E a Igreja sem cessar rezava a Deus por ele.
+
+@antifona 3
+Tu és Pedro, e sobre esta pedra
+eu irei construir minha Igreja.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Tu és Pedro, e sobre esta pedra
+eu irei construir minha Igreja.
+
+@secao Leitura breve | 1Pd 1,3-5
+
+@texto
+Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Em sua grande misericórdia, pela ressurreição de Jesus Cristo dentre os mortos, ele nos fez nascer de novo, para uma esperança viva, para uma herança incorruptível, que não estraga, que não se mancha nem murcha, e que é reservada para vós nos céus. Graças à fé, e pelo poder de Deus, vós fostes guardados para a salvação que deve manifestar-se nos últimos tempos.
+
+@secao Responsório breve
+
+@responsorio
+R. Anunciai entre as nações
+* A glória do Senhor. R. Anunciai.
+V. E as suas maravilhas entre os povos do universo.
+* A glória. Glória ao Pai. R. Anunciai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+És pastor das ovelhas de Cristo, dos apóstolos o chefe;
+a ti foram entregues as chaves do reino dos céus.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+És pastor das ovelhas de Cristo, dos apóstolos o chefe;
+a ti foram entregues as chaves do reino dos céus.
+
+@secao Preces
+
+@preces
+Irmãos, edificados sobre o fundamento dos apóstolos, roguemos a Deus Pai todo-poderoso em favor de seu povo santo; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Vós quisestes, ó Pai, que o vosso Filho, ressuscitado dos mortos, aparecesse em primeiro lugar aos apóstolos;
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que nada nos possa abalar, pois edificastes a vossa Igreja sobre aquela pedra que foi a profissão de fé do apóstolo Pedro. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

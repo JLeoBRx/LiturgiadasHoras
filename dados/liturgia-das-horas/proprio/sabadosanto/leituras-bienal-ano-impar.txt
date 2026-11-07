@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/sabadosanto_impar.htm
+@documento Ofício das Leituras - Tríduo Pascal Da Paixão E Ressurreição Do Senhor Sábado Santo
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SÁBADO SANTO
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Jesus, Senhor supremo,
+do mundo redentor,
+na cruz salvastes todos,
+da morte vencedor!
+
+Mantende, suplicamos,
+em nossos corações,
+os dons que conquistastes
+por todas as nações.
+
+Cordeiro imaculado,
+pregado sobre a cruz,
+lavastes nossas vestes
+em vosso sangue e luz.
+
+Aqueles que lavastes
+com sangue de Homem-Deus,
+convosco ressurgidos,
+levai-os para os céus.
+
+Ó povos redimidos,
+ao Deus do céu louvai,
+Jesus nos fez, morrendo,
+um reino para o Pai.
+
+@secao Salmodia
+
+@antifona 1
+Tranquilo eu adormeço e repouso em vossa paz.
+
+@salmo salmos/salmo-004
+
+@gloria
+
+@antifona
+Tranquilo eu adormeço e repouso em vossa paz.
+
+@antifona 2
+Até meu corpo no repouso está tranquilo.
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+Até meu corpo no repouso está tranquilo.
+
+@antifona 3
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar!
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar!
+
+@texto
+V. Defendei a minha causa e libertai-me.
+R. Pela palavra que me destes, dai-me a vida!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {5,1-22}
+
+@tema
+Súplica pela salvação do povo
+
+@texto
+Lembra-te, Senhor, do que nos sucedeu, vê e considera o nosso opróbrio! Nossa herança passou a estrangeiros, nossas casas a desconhecidos. Somos órfãos, já não temos pai; nossas mães são como viúvas. Nossa água por dinheiro a bebemos, nossa lenha entra com pagamento. O jugo está sobre nosso pescoço, empurram-nos; estamos exaustos, não nos dão descanso. Estendemos a mão ao Egito, à Assíria para nos fartarmos de pão. Nossos pais pecaram: já não existem; quanto a nós, carregamos as suas faltas. Escravos dominam sobre nós, ninguém nos liberta de sua mão! Arriscamos nossas vidas por nosso pão por causa da espada no deserto. Nossa pele queima como um forno por causa dos ardores da fome. Violaram as mulheres em Sião, as virgens nas cidades de Judá. Com suas mãos enforcaram os príncipes, não foi honrada a face dos anciãos. Os adolescentes levam a mó, os jovens tropeçam sob a lenha. Os anciãos cessam de ir à porta, os jovens cessaram sua música. A alegria desapareceu de nosso coração, converteu-se em luto a nossa dança. Caiu a coroa de nossa cabeça. Ai de nós, porque pecamos! Eis por que nosso coração está doente, eis por que se escureceram nossos olhos: porque o monte Sião está desolado, nele passeiam os chacais! Mas tu, Senhor, permaneces para sempre; teu trono subsiste de geração em geração. Por que nos esquecerias para sempre, nos abandonarias até o fim dos dias? Faze-nos voltar a ti Senhor, e voltaremos. Renova nossos dias como outrora. Ou será que nos rejeitaste totalmente, irritado, sem medida, contra nós?
+
+@secao Responsório Jó 16,16; Lam 1,12
+
+@responsorio
+R. Os meus olhos se fecharam de tanto chorar,
+porque se afastou de mim o consolador. Povos todos, vede:
+* Se há dor semelhante à dor que me atormenta.
+V. Vós todos que passais pelo caminho, olhai e vede:
+* Se há dor semelhante.
+
+@secao Segunda leitura
+
+@leitura
+De uma antiga Homilia no grande Sábado Santo
+{(Hom. in sancto et magno Sabbato: PG 43,439.451.462-463)}
+
+@tema
+A descida do Senhor à mansão dos mortos
+
+@texto
+Que está acontecendo hoje? Um grande silêncio reina sobre a terra. Um grande silêncio e uma grande solidão. Um grande silêncio, porque o Rei está dormindo; a terra estremeceu e ficou silenciosa, porque o Deus feito homem adormeceu e acordou os que dormiam há séculos. Deus morreu na carne e despertou a mansão dos mortos. Ele vai antes de tudo à procura de Adão, nosso primeiro pai, a ovelha perdida. Faz questão de visitar os que estão mergulhados nas trevas e na sombra da morte. Deus e seu Filho vão ao encontro de Adão e Eva cativos, agora libertos dos sofrimentos. O Senhor entrou onde eles estavam, levando em suas mãos a arma da cruz vitoriosa. Quando Adão, nosso primeiro pai, o viu, exclamou para todos os demais, batendo no peito e cheio de admiração: “O meu Senhor está no meio de nós”. E Cristo respondeu a Adão: “E com teu espírito”. E tomando-o pela mão, disse: “Acorda, tu que dormes, levanta-te dentre os mortos, e Cristo te iluminará”. “Eu sou o teu Deus, que por tua causa me tornei teu filho; por ti e por aqueles que nasceram de ti, agora digo, e com todo o meu poder, ordeno aos que estavam na prisão: ‘Saí!’; e aos que jaziam nas trevas: ‘Vinde para a luz!’; e aos entorpecidos: ‘Levantai-vos!’ Eu te ordeno: Acorda, tu que dormes, porque não te criei para permaneceres na mansão dos mortos. Levanta-te dentre os mortos; eu sou a vida dos mortos. Levanta-te, obra das minhas mãos; levanta-te, ó minha imagem, tu que foste criado à minha semelhança. Levanta-te, saiamos daqui; tu em mim e eu em ti, somos uma só e indivisível pessoa. Por ti, eu, o teu Deus, me tornei teu filho; por ti, eu, o Senhor, tomei tua condição de escravo. Por ti, eu, que habito no mais alto dos céus, desci à terra e fui até mesmo sepultado debaixo da terra; por ti, feito homem, tornei-me como alguém sem apoio, abandonado entre os mortos. Por ti, que deixaste o jardim do paraíso, ao sair de um jardim fui entregue aos judeus e num jardim, crucificado. Vê em meu rosto os escarros que por ti recebi, para restituir-te o sopro da vida original. Vê na minha face as bofetadas que levei para restaurar, conforme à minha imagem, tua beleza corrompida. Vê em minhas costas as marcas dos açoites que suportei por ti para retirar de teus ombros o peso dos pecados. Vê minhas mãos fortemente pregadas à árvore da cruz, por causa de ti, como outrora estendeste levianamente as tuas mãos para a árvore do paraíso. Adormeci na cruz e por tua causa a lança penetrou no meu lado, como Eva surgiu do teu, ao adormeceres no paraíso. Meu lado curou a dor do teu lado. Meu sono vai arrancar-te do sono da morte. Minha lança deteve a lança que estava dirigida contra ti. Levanta-te, vamos daqui. O inimigo te expulsou da terra do paraíso; eu, porém, já não te coloco no paraíso mas num trono celeste. O inimigo afastou de ti a árvore, símbolo da vida; eu, porém, que sou a vida, estou agora junto de ti. Constituí anjos que, como servos, te guardassem; ordeno agora que eles te adorem como Deus, embora não sejas Deus. Está preparado o trono dos querubins, prontos e a postos os mensageiros, construído o leito nupcial, preparado o banquete, as mansões e os tabernáculos eternos adornados, abertos os tesouros de todos os bens e o Reino dos Céus preparado para ti desde toda a eternidade.”
+
+@secao Responsório
+
+@responsorio
+R. Nosso pastor se retirou, ele, a fonte de água viva;
+e o sol, na sua morte, escurecendo, se apagou;
+e aquele que trazia prisioneiro o homem primeiro,
+por Cristo aprisionado.
+* Hoje o nosso Salvador arrombou as portas da morte
+e quebrou os seus ferrolhos.
+V. Destruiu as prisões do inferno
+e derrubou o poder satânico.
+* Hoje o nosso Salvador.
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

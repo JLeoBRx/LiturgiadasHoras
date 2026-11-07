@@ -1,0 +1,131 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sabado_laudes.htm
+@documento II SÁBADO
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Raiando o novo dia,
+as vozes elevamos,
+de Deus a graça e glória
+em Cristo proclamamos.
+
+Por ele o Criador
+compôs a noite e o dia,
+criando a lei eterna
+que os dois alternaria.
+
+A vós, Luz dos fiéis,
+nenhuma lei domina.
+Fulgis de dia e noite,
+clarão da luz divina.
+
+Ó Pai, por vossa graça,
+vivamos hoje bem,
+servindo a Cristo e cheios
+do vosso Espírito. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@antifona 2
+Vinde todos e dai glória ao nosso Deus!
+
+@salmo canticos/dt-32-1-12
+
+@gloria
+
+@antifona
+Vinde todos e dai glória ao nosso Deus!
+
+@antifona 3
+Ó Senhor, nosso Deus, como é grande
+vosso nome por todo o universo! †
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Ó Senhor nosso Deus, como é grande
+vosso nome por todo o universo!
+
+@secao Leitura breve | Rm 12,14-16a
+
+@texto
+Abençoai os que vos perseguem, abençoai e não amaldiçoeis. Alegrai-vos com os que se alegram, chorai com os que choram. Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes.
+
+@secao Responsório breve
+
+@responsorio
+R. A alegria cantará sobre meus lábios,
+* E a minh’alma libertada exultará. R. A alegria.
+V. Também celebrarei vossa justiça. * E a minh’alma.
+Glória ao Pai. R. A alegria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Guiai nossos passos no caminho da paz!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Guiai nossos passos no caminho da paz!
+
+@secao Preces
+
+@preces
+Celebremos a bondade e a sabedoria de Jesus Cristo, que quer ser amado e servido em todos os nossos irmãos e irmãs, principalmente nos que sofrem; e lhe peçamos:
+
+R. **Senhor, tornai-nos perfeitos na caridade!**
+
+Recordamos, Senhor, nesta manhã, a vossa ressurreição,
+– e vos pedimos que estendais à humanidade inteira os benefícios da vossa redenção. R.
+
+Fazei, Senhor, que demos hoje bom testemunho de vós,
+– e, por vosso intermédio, ofereçamos ao Pai um sacrifício santo e agradável. R.
+
+Ensinai-nos, Senhor, a descobrir a vossa imagem em todos os seres humanos,
+– e a vos servir em cada um deles. R.
+
+Cristo, verdadeiro tronco da videira do qual somos os ramos,
+– fortalecei a nossa união convosco para produzirmos muitos frutos e glorificarmos a Deus Pai. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Cantem vossa glória, Senhor, os nossos lábios, cantem nossos corações e nossa vida; e já que é vosso dom tudo o que somos, para vós se oriente também todo o nosso viver. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojoaquimesantana.htm
+
+@texto
+{Antífona da} {entrada Cf. Eclo 44,1.25} Festejemos São Joaquim e Sant’Ana, pais da Virgem Maria,
+pois Deus lhes concedeu a bênção de todas as nações.
+
+@secao Coleta
+@texto
+Senhor, Deus de nossos pais,
+que concedestes a São Joaquim e Sant’Ana
+a graça de darem a vida à Mãe do vosso Filho Jesus,
+fazei que, pela intercessão de ambos,
+alcancemos a salvação prometida a vosso povo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, aceitai as oferendas da nossa devoção
+e fazei que mereçamos participar da mesma bênção
+que prometestes a Abraão e à sua descendência.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 23,5
+@texto
+Receberam a bênção do Senhor,
+e a misericórdia de Deus, seu Salvador.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, quisestes que vosso Filho
+nascesse de uma família humana,
+para que, por desígnio admirável,
+recebêssemos de vós nova vida;
+santificai benigno, pelo espírito de adoção,
+os que alimentastes com o pão dos filhos.
+Por Cristo, nosso Senhor.

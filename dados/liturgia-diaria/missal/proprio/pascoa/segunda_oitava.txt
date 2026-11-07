@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/segunda_oitava.htm
+
+@secao Antífona da entrada | Cf. Ex 13,5.9
+@texto
+O Senhor vos introduziu
+na terra onde corre leite e mel;
+a lei do Senhor esteja sempre em vossa boca, aleluia.
+Ou:
+O Senhor ressuscitou dos mortos,
+como havia anunciado;
+exultemos e alegremo-nos todos,
+porque ele reina eternamente, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, que fazeis crescer vossa Igreja,
+dando-lhe sempre novos filhos,
+concedei a vossos fiéis
+perseverarem na vivência do sacramento
+que receberam na fé.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos:
+aceitai com bondade,
+as oferendas do vosso povo, para que,
+renovado pela confissão do vosso nome e pelo Batismo,
+alcance a felicidade eterna.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Rm 6,9
+@texto
+Cristo, ressuscitado dos mortos, não morre mais;
+a morte já não tem poder sobre ele, aleluia.
+
+@secao Depois da comunhão
+@texto
+Transborde em nossos corações, Senhor,
+a graça do sacramento pascal
+e tornai dignos dos vossos dons
+aqueles que fizestes entrar
+no caminho da salvação eterna.
+Por Cristo, nosso Senhor.

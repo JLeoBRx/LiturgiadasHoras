@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4quinta_vesperas.htm
+@documento Vésperas - IV Quinta-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Senhor, meu Deus, a vós elevo a minha alma,
+vinde e salvai-me, pois em vós me refugio!
+
+@salmo salmos/salmo-143-i
+
+@gloria
+
+@antifona
+Senhor, meu Deus, a vós elevo a minha alma,
+vinde e salvai-me, pois em vós me refugio!
+
+@antifona 2
+Recompensai, Senhor, aqueles que esperam vossa vinda,
+para que todos reconheçam a verdade dos profetas.
+
+@salmo salmos/salmo-143-ii
+
+@gloria
+
+@antifona
+Recompensai, Senhor, aqueles que esperam vossa vinda,
+para que todos reconheçam a verdade dos profetas.
+
+@antifona 3
+Voltai-vos, Senhor, para nós por um pouco.
+Não tardeis mais em vir até nós, vossos servos!
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+Voltai-vos, Senhor, para nós por um pouco.
+Não tardeis mais em vir até nós, vossos servos!

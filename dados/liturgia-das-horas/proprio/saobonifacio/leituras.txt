@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saobonifacio.htm
+@documento Ofício das Leituras - São Bonifácio, Bispo E Mártir Memória
+
+@celebracao
+SÃO BONIFÁCIO, BISPO E MÁRTIR
+{Memória}
+
+@biografia
+Nasceu na Inglaterra, cerca de 673. Fez a profissão religiosa e viveu no mosteiro de Exeter. Em 719 partiu para a Alemanha, a fim de pregar o evangelho, obtendo excelentes resultados. Ordenado bispo, governou a Igreja de Mogúncia e, com a ajuda de vários colaboradores, fundou e restaurou diversas Igrejas na Baviera, na Turíngia e na Francônia. Realizou concílios e promulgou leis. Quando evangelizava os frisões, foi assassinado por pagãos em 754. Seu corpo foi sepultado no mosteiro de Fulda.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios
+
+@tema
+4,7―5,8 Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno.[5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Bonifácio, bispo e mártir
+{(Séc.VIII)} {(Ep.78:MGH, Epistolae, 3,352.354)}
+
+@tema
+Pastor solícito, vigilante sobre o rebanho de Cristo
+
+@texto
+A Igreja é como uma grande barca que navega pelo mar deste mundo. Sacudida nesta vida pelas diversas ondas das tentações, não deve ser abandonada a si mesma, mas governada. Na Igreja primitiva temos o exemplo de Clemente, Cornélio e muitos outros na cidade de Roma, de Cipriano em Cartago, de Atanásio em Alexandria. Sob o reinado dos imperadores pagãos, eles governaram a barca de Cristo, ou melhor, a sua caríssima esposa, que é a Igreja, ensinando-a, defendendo-a, trabalhando e sofrendo até ao derramamento de sangue. Ao pensar neles e noutros semelhantes, fico apavorado; _o temor e o tremor me penetram_ e o pavor dos meus pecados _me envolve e deprime!_ (Sl 54,6); gostaria muito de abandonar inteiramente o leme da Igreja, se encontrasse igual precedente nos Padres ou na Sagrada Escritura. Mas não sendo assim, e dado que a verdade pode ser contestada mas nunca vencida nem enganada, nossa alma fatigada se refugia nas palavras de Salomão: _Confia no Senhor com todo_ _o teu coração, e não te fies em tua própria inteligência; em todos os teus caminhos, reconhece-o, e ele conduzirá teus passos_ (Pr 3,5-6). E noutro lugar: _O nome do Senhor é uma torre_ _fortíssima. Nela se refugia o justo e será salvo_ (cf. Pr 18,10). Permaneçamos firmes na justiça e preparemos nossas almas para a provação; suportemos as demoras de Deus, e lhe digamos: _Vós fostes um refúgio para nós, Senhor, de geração em_ _geração_ (Sl 89,1). Confiemos naquele que colocou sobre nós este fardo. Por não podermos carregá-lo sozinhos, carreguemo-lo com o auxílio daquele que é onipotente e nos diz: _O meu jugo é suave e o meu_ _fardo é leve_ (Mt 11,30). Fiquemos firmes no combate, no dia do Senhor, porque vieram sobre nós _dias de angústia e de_ _tribulação_ (cf. Sl 118,143). Se Deus assim quiser _morramos pelas santas leis de nossos pais_ (cf. 1Mc 2,50), a fim de merecermos alcançar junto com eles a herança eterna. Não sejamos cães mudos, não sejamos sentinelas caladas, não sejamos mercenários que fogem dos lobos, mas pastores solícitos, vigilantes sobre o rebanho de Cristo. Enquanto Deus nos der forças, preguemos toda a doutrina do Senhor ao grande e ao pequeno, ao rico e ao pobre, e todas as classes e idades, oportuna e inoportunamente, tal como São Gregório escreveu em sua Regra Pastoral.
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós,
+que teria vos dado não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós. Aleluia.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós. * Pois é tanto.
+
+@secao Oração
+
+@oracao
+Interceda por nós, ó Deus, o mártir São Bonifácio, para que guardemos fielmente e proclamemos em nossas obras a fé que ele ensinou com a sua palavra e testemunhou com o seu sangue. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

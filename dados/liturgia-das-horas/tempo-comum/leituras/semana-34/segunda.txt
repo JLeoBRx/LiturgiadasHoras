@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/34segundaTC.htm
+@documento Ofício das Leituras
+
+@titulo SEGUNDA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Início da Segunda Carta de São Pedro {1,1-11}
+
+@tema
+Incentivo ao caminho da salvação
+
+@texto
+[1] Simão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco receberam a mesma fé, na justiça que vem de nosso Deus e salvador Jesus Cristo. [2] Graça e paz vos sejam concedidas abundantemente, porque conheceis Deus e Jesus, nosso Senhor.
+
+@texto
+[3] O seu divino poder nos deu tudo o que contribui para a vida e para a piedade, mediante o conhecimento daquele que, pela sua própria glória e virtude, nos chamou. [4] Por meio de tudo isso nos foram dadas as preciosas promessas, as maiores que há, a fim de que vos tornásseis participantes da natureza divina, depois de libertos da corrupção, da concupiscência no mundo. [5] Por isso mesmo, dedicai todo o esforço em juntar à vossa fé a virtude, à virtude o conhecimento, [6] ao conhecimento o autodomínio, ao autodomínio a perseverança, à perseverança a piedade, [7] à piedade o amor fraterno e ao amor fraterno, a caridade. [8] Se estas virtudes existirem e crescerem em vós, não vos deixarão vazios e estéreis no conhecimento de nosso Senhor Jesus Cristo. [9] Mas quem delas carece é um míope, um cego: esqueceu-se da purificação de seus pecados de outrora. [10] Por isso, irmãos, cuidai cada vez mais de confirmar a vossa vocação e eleição. Procedendo assim, jamais tropeçareis. [11] Desta maneira vos será largamente proporcionado o acesso ao reino eterno de nosso Senhor e Salvador, Jesus Cristo.
+
+@secao Responsório | Cf. 2Pd 1,3b.4; Gl 3,27
+
+@responsorio
+R. Chamou-nos o Senhor por sua glória e poder
+e concedeu-nos as promessas mais preciosas e maiores,
+* Para que, desta maneira, vos torneis participantes
+da divina natureza.
+V. No Cristo batizados, revestistes-vos do Cristo.
+* Para que.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc. V)}{(Sermo 92,1.2.3: PL 54,454-455)}
+
+@tema
+Qual a obra, tal o ganho
+
+@texto
+O Senhor diz: Se vossa justiça não superar de muito a dos escribas e fariseus, não entrareis no reino dos céus (Mt 5,20). Como será superior à deles, a não ser que a misericórdia esteja acima da condenação? (cf. Tg 2,13). E que de mais justo, de mais digno do que a criatura, feita à imagem e semelhança de Deus, imitar seu criador? A ele que decidiu a renovação e santificação dos fiéis pela remissão dos pecados para que, afastado o rigor do castigo e acabada a pena, recupere o réu a inocência, e o fim dos crimes seja a origem das virtudes?
+
+@texto
+Não é pela rejeição da lei que a justiça cristã pode superar a dos escribas e fariseus, mas recusando sua compreensão carnal. Por exemplo, o Senhor deu aos discípulos a regra do jejum. Quando jejuardes, não fiqueis tristes como os hipócritas. Ficam com o rosto abatido para mostrar aos homens que estão jejuando. Na verdade, eu vos digo: já receberam sua recompensa (Mt 6,16). Que recompensa? Não é o elogio dos outros? Por causa desta ambição, muitos ostentam a aparência da justiça: cobiça-se a ilusão da fama, de modo que a iniquidade, conhecida ocultamente, se alegre com a boa opinião enganadora.
+
+@texto
+Para quem ama a Deus, basta-lhe agradar a quem ama; nenhuma recompensa maior espera do que o próprio amor. Assim a caridade vem de Deus porque Deus mesmo é a caridade. Quem é piedoso e casto alegra-se por vivê-la de tal modo que não deseja coisa alguma, exceto a Deus, para seu regozijo. É inteiramente verdade aquilo que o Senhor diz: Onde está teu tesouro aí está teu coração (Mt 6,21). O tesouro do homem não é o acúmulo de seus frutos e a soma de seus trabalhos? Aquilo que se semeou, isto se colherá (Gl 6,7), e qual o trabalho, tal o ganho; e onde põe o seu prazer, aí se prende o coração. Mas, por haver muitos gêneros de riquezas, há matérias diferentes para o gozo, logo, tesouro é para cada qual a inclinação de seu desejo: se feito de apetites terrenos, sua participação não fará ninguém feliz, mas desgraçado.
+
+@texto
+Ao contrário, aqueles que têm gosto pelas coisas do alto e não terrenas não se preocupam com as perecíveis mas com as eternas, possuem encerradas em si riquezas incorruptíveis, das que disse o Profeta: Chegaram nosso tesouro e salvação, sabedoria, disciplina e piedade da parte do Senhor; são estes os tesouros da justiça (Is 33,6 Vulg.) pelos quais, com o auxílio de Deus, até os bens da terra serão transferidos para os céus. De fato, são muitos que usam como meios de misericórdia as riquezas recebidas de outros pelo direito ou adquiridas de outro modo. Distribuindo para sustento dos pobres aquilo que lhes sobra, ajuntam para si riquezas que não podem ser perdidas; o que reservaram para esmolas não está sujeito a nenhuma perda. Com justiça, então, eles mantêm seu coração onde está seu tesouro; porque a maior felicidade consiste em trabalhar para que cresçam estas riquezas, sem temor de perdê-las.
+
+@secao Responsório | Gl 6,9-10a.7b
+
+@responsorio
+R. Não nos cansemos na prática do bem,
+pois sem falta, a seu tempo colheremos.
+* Façamos o bem, enquanto é tempo.
+V. Cada um há de colher o que em vida semear.
+* Façamos.
+
+@secao Oração
+
+@oracao
+Levantai, ó Deus, o ânimo dos vossos filhos e filhas, para que, aproveitando melhor as vossas graças, obtenham de vossa paternal bondade mais poderosos auxílios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

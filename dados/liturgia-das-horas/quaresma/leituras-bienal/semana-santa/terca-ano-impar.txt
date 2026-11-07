@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/tercafeirasanta_impar.htm
+@documento Ofício das Leituras - Terça-Feira Santa
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {1,1-12.18-20}
+
+@tema
+A desolação de Jerusalém
+
+@texto
+Quão solitária está a Cidade populosa! Tornou-se viúva a primeira entre as nações; a princesa das províncias, em trabalhos forçados. Passa a noite chorando, pelas faces correm-lhe as lágrimas. Não há quem a console entre os seus amantes; todos os seus amigos a traíram, tornaram-se seus inimigos. Judá foi exilada, submetida à opressão, à dura servidão; hoje habita entre as nações, sem encontrar repouso; os que a perseguiam alcançaram-na em lugares sem saída. Os caminhos de Sião estão de luto, ninguém vem às suas festas; todas as suas portas desertas, gemem seus sacerdotes; suas virgens estão tristes, ela mesma cheia de amargura. Venceram-na seus opressores, seus inimigos estão felizes, porque o Senhor a castigou por seus numerosos crimes; suas criancinhas partiram cativas diante do opressor. A filha de Sião perdeu toda a sua formosura; seus príncipes estavam como cervos que não acham pasto; caminhavam desfalecidos diante de quem os caçava. Jerusalém se lembra de seus dias de miséria e aflição, quando seu povo caía nas mãos do adversário e ninguém o socorria. Ao vê-la, seus adversários riam de sua ruína. Jerusalém pecou gravemente e tornou-se impura; os que antes a honravam desprezaram-na, vendo-lhe a nudez, e ela, entre gemidos, volta as costas. Leva sua impureza nas vestes sem pensar no futuro. Tão baixo caiu! Não há quem a console. “Vê, ó Senhor, minha miséria e o triunfo do inimigo.” O adversário estendeu a mão sobre todos os seus tesouros: ela viu os pagãos entrarem no seu santuário, aos quais havias proibido entrar em sua assembleia. Todo o seu povo, entre gemidos, procura pão; deram seus tesouros para comer, para reencontrar a vida. “Vê, ó Senhor, olha como me tornei desprezível! Vós todos que passais pelo caminho, olhai e vede: Se há dor semelhante à dor que me atormenta, com o que o Senhor me afligiu no dia de sua ardente ira.” “O Senhor é justo, pois me rebelei contra sua palavra. Ouvi, todos os povos, e vede minha dor. Minhas virgens e meus jovens partiram para o cativeiro. Chamei os meus amantes: eles me traíram. Meus sacerdotes e anciãos morreram na cidade, buscando um alimento que lhes devolvesse a vida. Vê, o Senhor, minha angústia e o tremor de minhas entranhas! Dentro, se me transtorna o coração: como fui rebelde! Na rua a espada me deixa sem filhos; em casa é como a morte.”
+
+@secao Responsório | Lm 1,12
+
+@responsorio
+R. Vós todos que passais pelo caminho, olhai e vede,
+* Se há dor semelhante à dor que me atormenta.
+V. Observai, povos todos e vede, * Se há dor.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de Santo Hilário, bispo
+{(Tract. in Ps 131,6-7: CSEL 22,666-667)}
+
+@tema
+Cristo obedeceu até à morte de cruz para nos tornar dignos de ser a morada de Deus
+
+@texto
+Nosso Senhor Jesus Cristo, Filho Unigênito de Deus, como um justo, realizou todos os mistérios da salvação humana cujo sentido nos foi revelado graças às profecias de Davi. Sua obra mais prodigiosa foi conscientizar o homem de que, instruído pela ciência divina, se tornaria digno de ser a morada de Deus. E que o homem é realmente a habitação de Deus, sabemos pela própria palavra do profeta: _No meio_ _deles habitarei e andarei; serei o seu Deus, e eles serão o_ _meu povo_ (2Cor 6,16; cf. Ez 37,27). E ainda: _Eu, morando_ _neles, me exaltarão eternamente_ (cf. Sl 5,12: Vulg.). Também o próprio Senhor nos diz no Evangelho: _Se_ _alguém me ama, guardará minha palavra; meu Pai o amará,_ _e nós viremos e faremos nele nossa morada_ (Jo 14,23).E o Apóstolo afirma: _Vós sois o templo de Deus, e o Espírito de_ _Deus habita em vós_ (1Cor 3,16). Deushabita os corações fiéis, não por uma penetração corporal que, pela força da gravidade, passasse de um lugar para outro, mas como algo que, por uma força espiritual, se infundisse nos corações já purificados das impurezas terrenas, tendo entrado pelas portas abertas da inocência como luz para iluminar esses corações. Revestindo-se de um corpo, o Unigênito de Deus prometeu que não entraria em seu tabernáculo com o homem, isto é, que não iria voltar à sua habitação celeste antes que encontrasse uma morada no coração do homem. Nem prometeu que sua ascensão se processasse num leito de repouso. O leito é o lugar de repouso dos trabalhos humanos. Mas, porque no céu haverá um permanente repouso e porque a natureza descansada desconhece o labor, sempre estará no leito, isto é, sempre na paz. Nosso Senhor, permanecendo na condição de Deus, aceitou a condição de escravo, _fazendo-se obediente até a morte e morte de cruz_ (Fl 2,8); e não existe morte mais cruel. Obedeceu até a morte de cruz para nos tornar dignos de ser morada de Deus. Quis morrer quem é a Vida. Não recusou a frágil morada do corpo, para que pudesse assumir a condição de escravo, embora permanecendo Deus. Afastou-se, pois, daquela paz própria da sua eterna bem- aventurança. Disso nos dá testemunho o Salmo 40 ao dizer que o _Senhor irá ampará-lo em seu leito de dor, e lhe vai_ _transformar a doença em vigor_ (Sl 40,4). Pela obediência à vontade do Pai transformou-se de Deus em homem, de força em fraqueza, de vivo em morto, de eterno juiz do mundo em réu, seu repouso tornando-se sofrimento.
+
+@secao Responsório | Fl 2,6.7;Rm 15,1.3
+
+@responsorio
+R. Embora de condição divina,
+Cristo Jesus não se prevaleceu de sua igualdade com Deus,
+* Mas aniquilou-se a si mesmo,
+assumindo a condição de escravo
+e assemelhando-se aos homens.
+V. Nós, os fortes, devemos suportar as fraquezas dos fracos,
+e não buscar só o que nos agrada.
+Cristo também não procurou o que lhe agradava.* Mas aniquilou-se a si.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos celebrar de tal modo os mistérios da paixão do Senhor, que possamos alcançar vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

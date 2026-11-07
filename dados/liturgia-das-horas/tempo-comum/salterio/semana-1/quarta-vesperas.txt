@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Santíssimo Deus do céu,
+que o céu encheis de cor
+e dais à luz beleza
+de ígneo resplendor;
+
+criais no quarto dia
+a rota chamejante
+do sol e das estrelas,
+da lua fulgurante.
+
+Assim, à luz e às trevas
+limites vós fixais.
+Dos meses o começo
+marcastes com sinais.
+
+Fazei a luz brilhar
+em nosso coração.
+Tirai da mente as trevas,
+da culpa a servidão.
+
+Ouvi-nos, Pai bondoso,
+e vós, único Filho,
+reinando com o Espírito
+na luz de eterno brilho.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor é minha luz e salvação;
+de quem eu terei medo? †
+
+@salmo salmos/salmo-026-i-v3
+
+@gloria
+
+@antifona
+O Senhor é minha luz e salvação;
+de quem eu terei medo?
+
+@antifona 2
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@salmo salmos/salmo-026-ii
+
+@gloria
+
+@antifona
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@antifona 3
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@secao Leitura breve | Tg 1,22.25
+
+@texto
+Sede praticantes da Palavra e não meros ouvintes, enganando-vos a vós mesmos. Aquele, porém, que se debruça sobre a Lei da liberdade, agora levada à perfeição, e nela persevera, não como um ouvinte distraído, mas praticando o que ela ordena, esse será feliz naquilo que faz.
+
+@secao Responsório breve
+
+@responsorio
+R. Libertai-me, ó Senhor,
+* Ó meu Deus, tende piedade! R. Libertai-me.
+V. Não junteis a minha vida à dos maus e sanguinários.
+* Ó meu Deus. Glória ao Pai. R. Libertai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Poderoso fez em mim maravilhas,
+e santo é seu nome.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Poderoso fez em mim
+maravilhas, e santo é seu nome.
+
+@secao Preces
+
+@preces
+Em tudo seja glorificado o nome do Senhor, que ama com infinito amor o povo que escolheu. Suba até ele a nossa oração:
+
+R. **Mostrai-nos, Senhor, o vosso amor!**
+
+Lembrai-vos, Senhor, da vossa Igreja;
+– guardai-a de todo o mal e tornai-a perfeita em vosso amor. R.
+
+Fazei que os povos vos reconheçam como único Deus verdadeiro,
+– e em vosso Filho Jesus Cristo, o Salvador que enviastes. R.
+
+Concedei todo o bem e prosperidade a nossos parentes;
+– dai-lhes vossa bênção e a recompensa eterna. R.
+
+Confortai os que vivem sobrecarregados no trabalho,
+– e defendei a dignidade dos marginalizados. R.
+
+{(intenções livres)}
+
+Abri as portas da vossa misericórdia para aqueles que hoje partiram desta vida,
+– e acolhei-os com bondade no vosso reino. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Acolhei, Senhor, as nossas súplicas e concedei-nos dia e noite a vossa proteção, a fim de que, nas mudanças do tempo, sempre nos sustente o vosso amor imutável. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

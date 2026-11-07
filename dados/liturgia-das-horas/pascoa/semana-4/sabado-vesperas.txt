@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4sabadopascoa_vesperas.htm
+@documento Vésperas - Sábado da 4ª Semana da Páscoa
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Minha oração suba a vós como incenso
+e minhas mãos como oferta da tarde. Aleluia.
+
+@salmo salmos/salmo-140-1-9
+
+@gloria
+
+@antifona
+Minha oração suba a vós como incenso
+e minhas mãos como oferta da tarde. Aleluia.
+
+@antifona 2
+Da prisão me arrancastes, Senhor,
+e, em louvor, bendirei vosso nome. Aleluia.
+
+@salmo salmos/salmo-141
+
+@gloria
+
+@antifona
+Da prisão me arrancastes, Senhor,
+e, em louvor, bendirei vosso nome. Aleluia.
+
+@antifona 3
+Embora fosse o próprio Filho,
+aprendeu a obediência através do sofrimento
+e tornou-se, para aqueles que o seguem,
+uma fonte de eterna salvação. Aleluia.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+Embora fosse o próprio Filho,
+aprendeu a obediência através do sofrimento
+e tornou-se, para aqueles que o seguem,
+uma fonte de eterna salvação. Aleluia.
+
+@secao Leitura breve | 1Pd 2,9-10
+
+@texto
+Vós sois a raça escolhida, o sacerdócio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiráveis daquele que vos chamou das trevas para a sua luz maravilhosa. Vós sois aqueles que antes não eram povo, agora porém são povo de Deus; os que não eram objeto de misericórdia, agora porém alcançaram misericórdia.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo Jesus, nossa vida e ressurreição; e digamos com alegre confiança:
+
+R. **Filho de Deus vivo, protegei o vosso povo!**
+
+Nós vos pedimos, Senhor, pela santa Igreja católica;
+– santificai-a e fortalecei-a, para que estabeleça o vosso reino em todas as nações da terra. R.
+
+Nós vos pedimos, Senhor, por todos os doentes, os tristes, os prisioneiros e os exilados;
+– dai-lhes conforto e ajuda. R.
+
+Nós vos pedimos, Senhor, pelos que se afastaram de vossos caminhos;
+– concedei-lhes a graça do vosso perdão, para que recomecem com alegria uma vida nova. R.
+
+Salvador do mundo, que fostes crucificado mas ressuscitastes e haveis de voltar para julgar os vivos e os mortos,
+– tende compaixão de nós pecadores. R.
+
+{(intenções livres)}
+
+Nós vos pedimos, Senhor, por todos os que vivem neste mundo,
+– e pelos que dele partiram na esperança da ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, por quem fomos remidos e adotados como filhos e filhas, velai sobre nós em vosso amor de Pai e concedei aos que creem no Cristo a liberdade verdadeira e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

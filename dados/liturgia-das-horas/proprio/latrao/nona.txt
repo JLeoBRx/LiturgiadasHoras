@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/latrao_nona.htm
+@documento Hora Média - Dedicação da Basílica do Latrão
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Eis a Casa do Senhor solidamente edificada,
+construída sobre a rocha.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Eis a Casa do Senhor solidamente edificada,
+construída sobre a rocha.
+
+@secao Leitura breve | Jr 7,2b.4-5a.7a
+
+@texto
+Ouvi a palavra do Senhor, todos vós, que entrais por estas portas para adorar o Senhor. Não ponhais vossa confiança em palavras mentirosas, dizendo: - 'É o templo do Senhor, o templo do Senhor, o templo do Senhor!' Mas, se melhorardes vossa conduta e vossas obras, então eu vos farei habitar neste lugar.
+
+@texto
+V. Entrai por suas portas dando graças.
+R. E em seus átrios com hinos de louvor!
+
+@secao Oração
+
+@oracao
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

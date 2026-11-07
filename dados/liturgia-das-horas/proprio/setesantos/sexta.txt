@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/setesantos_sexta.htm
+@documento Hora Média - Os sete Santos Fundadores da Ordem dos Servos de Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quem fizer a vontade do Pai,
+no Reino dos céus entrará.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Quem fizer a vontade do Pai,
+no Reino dos céus entrará.
+
+@secao Leitura breve | 1Cor 9,26-27b
+
+@texto
+Eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa-nova aos outros, eu mesmo seja reprovado.
+
+@texto
+V. É feliz, ó Senhor, quem formais,
+R. E educais nos caminhos da Lei.
+
+@secao Oração
+
+@oracao
+Inspirai-nos, ó Deus, a profunda piedade dos Fundadores dos Servitas, que se distinguiram pela devoção à Virgem Maria e a vós conduziram o vosso povo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

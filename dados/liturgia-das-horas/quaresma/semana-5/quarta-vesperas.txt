@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5quartaquaresma_vesperas.htm
+@documento Vésperas - Quarta-feira da 5ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor é minha luz e salvação;
+de quem eu terei medo? †
+
+@salmo salmos/salmo-026-i-v2
+
+@gloria
+
+@antifona
+O Senhor é minha luz e salvação;
+de quem eu terei medo?
+
+@antifona 2
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@salmo salmos/salmo-026-ii-v2
+
+@gloria
+
+@antifona
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@antifona 3
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@secao Leitura breve | Ef 4,32–5,2
+
+@texto
+Sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. Sede imitadores de Deus, como filhos que ele ama. Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor.
+
+@secao Responsório breve
+
+@responsorio
+R. Não há maior prova de amor,
+que dar a vida pelo amigo.
+* Ninguém tira a minha vida, eu a entrego livremente.
+R. Não há maior.
+V. A mesma coisa que vos fiz, vós deveis fazer também.
+* Ninguém tira. Glória ao Pai. R. Não há maior
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Por que quereis matar o homem que falou só a verdade?
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Por que quereis matar o homem que falou só a verdade?
+
+@secao Preces
+
+@preces
+Aclamemos o Deus todo-poderoso e previdente, que conhece todas as nossas necessidades, mas quer que busquemos, antes de tudo, o seu reino. Rezemos, dizendo:
+
+R. **Senhor, venha a nós o vosso Reino e a sua justiça!**
+
+Pai santo, que nos destes Jesus Cristo como Pastor de nossas almas, assisti os pastores da Igreja e o povo a eles confiado,
+– para que não falte ao rebanho a solicitude dos seus pastores nem aos pastores a obediência de suas ovelhas. R.
+
+Aumentai a caridade dos cristãos, para que ajudem os doentes com amor fraterno,
+– e socorram neles o vosso próprio Filho, Jesus Cristo. R.
+
+Fazei que ingressem na vossa Igreja os que ainda não creem no Evangelho,
+– para que, pelo exemplo das boas obras, a façam crescer na caridade. R.
+
+Dai a nós pecadores a contrição sincera das nossas culpas,
+– e a reconciliação perfeita convosco e com a vossa Igreja. R.
+
+{(intenções livres)}
+
+Concedei a vida eterna aos nossos irmãos e irmãs que morreram,
+– para que vivam eternamente na vossa presença. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, iluminai nossos corações purificados pela penitência. E ouvi com paternal bondade aqueles a quem dais o afeto filial. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

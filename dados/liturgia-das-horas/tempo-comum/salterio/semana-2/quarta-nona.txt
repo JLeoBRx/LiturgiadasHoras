@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quarta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Fico pensando, ó Senhor, nos meus caminhos;
+escolhi por vossa lei guiar meus passos.
+
+@salmo salmos/salmo-118-57-64-viii-heth
+
+@gloria
+
+@antifona
+Fico pensando, ó Senhor, nos meus caminhos;
+escolhi por vossa lei guiar meus passos.
+
+@antifona 2
+O temor e o tremor me penetram;
+dignai-vos me ouvir, respondei-me!
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@antifona
+O temor e o tremor me penetram;
+dignai-vos me ouvir, respondei-me!
+
+@antifona 3
+Eu, porém, clamo a Deus em meu pranto,
+e o Senhor me haverá de salvar.
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+Eu, porém, clamo a Deus em meu pranto,
+e o Senhor me haverá de salvar.
+
+@secao Leitura breve | 1Sm 16,7b
+
+@texto
+Não julgo segundo os critérios do homem: o homem vê as aparências, mas o Senhor olha o coração.
+
+@texto
+V. Senhor, sondai-me, conhecei meu coração,
+R. E conduzi-me no caminho para a vida!
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que para salvar o gênero humano estendestes vossos braços na cruz, concedei que nossas ações vos agradem e manifestem ao mundo vossa obra redentora. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

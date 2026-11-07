@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/pedroalcantara.htm
+
+@secao Antífona da entrada | Cf. Gl 6,14
+@texto
+Nós, porém, devemos gloriar-nos
+na cruz de nosso Senhor Jesus Cristo;
+nele está a salvação, nossa vida e ressurreição;
+por ele somos salvos e libertos.
+
+@secao Coleta
+@texto
+Ó Deus,
+que ilustrastes São Pedro de Alcântara
+com os dons de admirável penitência
+e de altíssima contemplação,
+concedei, por seus méritos, que,
+mortificados na carne,
+mereçamos participar dos bens celestes.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai com bondade,
+Senhor nosso Deus,
+pelos méritos de São Pedro de Alcântara,
+esta nossa oblação, que ele,
+tocando com suas mãos puríssimas,
+ofereceu à vossa majestade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 33,9
+@texto
+Provai e vede quão suave é o Senhor!
+Feliz o homem que tem nele o seu refúgio!
+
+@secao Depois da comunhão
+@texto
+Ó Deus todo-poderoso,
+concedei que também nós mereçamos receber
+os frutos colhidos por São Pedro de Alcântara
+deste celeste banquete.
+Por Cristo, nosso Senhor.

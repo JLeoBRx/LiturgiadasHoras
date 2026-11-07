@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5domingoquaresma_laudes.htm
+@documento Laudes - Domingo da 5ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Humildes, ajoelhados
+na prece que a fé inspira,
+ao justo Juiz roguemos
+que abrande o rigor da ira.
+
+Ferimos por nossas culpas
+o vosso infinito amor.
+A vossa misericórdia
+do alto infundi, Senhor.
+
+Nós somos, embora frágeis,
+a obra de vossa mão;
+a honra do vosso nome
+a outros não deis, em vão.
+
+Senhor, destruí o mal,
+fazei progredir o bem;
+possamos louvar-vos sempre,
+e dar-vos prazer também.
+
+Conceda o Deus Uno e Trino,
+que a terra e o céu sustém,
+que a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Para mim, ó meu Deus, fostes sempre um socorro.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Para mim, ó meu Deus, fostes sempre um socorro.
+
+@antifona 2
+Renovai vossos prodígios e salvai-nos!
+Libertai-nos do poder da morte eterna!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Renovai vossos prodígios e salvai-nos!
+Libertai-nos do poder da morte eterna!
+
+@antifona 3
+A hora já chegou:
+Jesus o Filho do Homem, será glorificado.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A hora já chegou:
+Jesus o Filho do Homem, será glorificado.
+
+@secao Leitura breve | Lv 23,4-7
+
+@texto
+São estas as solenidades do Senhor em que convocareis santas assembleias no devido tempo: No dia catorze do primeiro mês, ao entardecer, é a Páscoa do Senhor. No dia quinze do mesmo mês é a festa dos Ázimos, em honra do Senhor. Durante sete dias comereis pães ázimos. No primeiro dia tereis uma santa assembleia, não fareis nenhum trabalho servil.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que os dias se aproximam,
+em que há de ser entregue o Filho do Homem.
+* Mas três dias depois, ele ressurgirá. R. Eis que os dias.
+V. Naqueles dias haveis de jejuar, de chorar.
+* Mas três dias.
+Glória ao Pai. R. Eis que os dias.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Bendigamos o nosso Redentor que na sua bondade nos concede este tempo de salvação; e supliquemos:
+
+R. **Criai em nós, Senhor, um espírito novo!**
+
+Cristo, nossa vida, que pelo batismo nos sepultastes sacramentalmente convosco na morte para que também convosco ressuscitemos,
+– ajudai-nos hoje a ser fiéis à vida nova que recebemos. R.
+
+Senhor Jesus, que passastes pelo mundo fazendo o bem,
+– tornai-nos solícitos pelo bem comum de toda a humanidade. R.
+
+Ensinai-nos a trabalhar generosamente na construção da cidade terrena,
+– e ao mesmo tempo buscar a cidade celeste. R.
+
+Médico dos corpos e das almas, curai as feridas do nosso coração,
+– para progredirmos continuamente no caminho da santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos por vossa graça caminhar com alegria na mesma caridade que levou o vosso Filho a entregar-se à morte no seu amor pelo mundo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,121 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/oficio_fieisdefuntos_terca.htm
+@documento Hora Média - Ofício dos Fiéis Defuntos
+
+@titulo Ofício dos Fiéis Defuntos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@rubrica
+Quando se rezam as três Horas menores, pode-se distribuir o hino em 3 partes: na Oração das Nove: primeira, quarta e quinta estrofes; na Oração das Doze: segunda, quarta e quinta estrofes; na Oração das Quinze: terceira, quarta e quinta estrofes.
+
+@hino
+Vós que por Lázaro chorastes
+junto às irmãs, e compassivo,
+Onipotente, o devolvestes
+aos seus cuidados, redivivo.
+
+Pelos culpados implorastes,
+compadecido, a indulgência,
+e ao companheiro de suplício
+destes palavras da clemência.
+
+Agonizante, ao discípulo
+por sua mãe destes Maria,
+para os fiéis terem tal mãe
+presente à última agonia.
+
+Cristo Senhor, à vossa herança,
+por vosso sangue redimida,
+concedei ver a dor da morte
+mudar-se em gozo e nova vida.
+
+Chamai o(a,s) servo(a,s) que partiu (partiram)
+para onde a morte foi vencida.
+Um hino eterno ele(a,s) vos cante(m),
+Cristo Jesus, Senhor da vida.
+
+@secao Salmodia
+
+@antifona
+Voltai-vos, Senhor, para mim,
+e vinde salvar minha vida!
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@salmo salmos/salmo-084-v2
+
+@gloria
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Voltai-vos, Senhor, para mim,
+e vinde salvar minha vida!
+
+@secao Leitura breve | Jó 19,25-26
+
+@texto
+Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; e depois que tiverem destruído esta minha pele, na minha carne verei a Deus.
+
+@rubrica
+Ou: 2Mc 7,9b
+
+@texto
+O Rei do universo nos ressuscitará para uma vida eterna, a nós que morremos por suas leis.
+
+@texto
+V. Por que te entristeces, minh’alma, a chorar?
+R. Espera em Deus: ainda hei de louvá-lo!
+
+@secao Oração
+
+@oracao
+Pode-se dizer uma das seguintes orações:
+
+@texto
+Ouvi, ó Pai, as nossas preces para que, ao afirmarmos nossa fé na ressurreição do vosso Filho, se confirme também nossa esperança na ressurreição de vosso servo {N.} Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, glória dos fiéis e vida dos justos, que nos remistes pela morte e ressurreição do vosso Filho, concedei a vosso servo {N.} que, tendo professado o mistério da nossa ressurreição, mereça alegrar-se na eterna felicidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, inclinai vosso ouvido às nossas preces, ao implorarmos vossa misericórdia para com vosso filho {N.} Vós, que o unistes na terra ao vosso povo, colocai-o no reino da luz e da paz e concedei-lhe o convívio dos vossos santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para vários defuntos:
+
+@texto
+Ó Deus, fizestes o vosso Filho único vencer a morte e subir ao céu. Concedei a vossos Filhos {N.} e {N.} superar a mortalidade desta vida e contemplar eternamente a vós, Criador e Redentor de todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Pelos irmãos, parentes e benfeitores:
+
+@texto
+Ó Deus, que perdoais os homens e desejais salvá-los, concedei aos irmãos, parentes e benfeitores de nossa comunidade que partiram deste mundo, participar da vida eterna por intercessão da Virgem Maria e de todos os Santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@texto
+_Ou à escolha, no Missal Romano._
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

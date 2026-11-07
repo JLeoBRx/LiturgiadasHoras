@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saobento.htm
+
+@secao Antífona da entrada
+@texto
+Houve um homem de vida venerável,
+Bento pela graça e pelo nome;
+desejando agradar somente a Deus,
+deixou a casa do pai e seus bens
+e procurou um novo estilo de vida e santidade.
+
+@secao Coleta
+@texto
+Ó Deus, que constituístes o abade São Bento
+preclaro mestre na escola do serviço divino,
+concedei, nós vos pedimos,
+que, nada antepondo ao vosso amor,
+corramos de coração alegre e generoso
+no caminho dos vossos mandamentos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, olhai com bondade
+as oferendas que vos apresentamos na festa de São Bento;
+concedei que, imitando seu exemplo,
+busquemos somente a vós
+e, no vosso serviço, mereçamos alcançar
+os dons da unidade e da paz.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 12,42
+@texto
+Eis o servo fiel e prudente,
+a quem o Senhor confiou a sua família
+para dar-lhe alimento no tempo oportuno.
+
+@secao Depois da comunhão
+@texto
+Tendo recebido o penhor da vida eterna,
+nós vos pedimos humildemente, Senhor,
+que, seguindo os ensinamentos de São Bento,
+permaneçamos fiéis em vosso serviço
+e amemos os irmãos com caridade ardente.
+Por Cristo, nosso Senhor.

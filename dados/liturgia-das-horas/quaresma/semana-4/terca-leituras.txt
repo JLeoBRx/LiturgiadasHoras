@@ -1,0 +1,123 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4terca_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@salmo salmos/salmo-101-i
+
+@gloria
+
+@antifona
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@antifona 2
+Ouvi, Senhor, a oração dos oprimidos!
+
+@salmo salmos/salmo-101-ii
+
+@gloria
+
+@antifona
+Ouvi, Senhor, a oração dos oprimidos!
+
+@antifona 3
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados.
+
+@salmo salmos/salmo-101-iii
+
+@gloria
+
+@antifona
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados.
+
+@texto
+V. Eis o tempo de conversão.
+R. Eis o dia da salvação!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Levítico {19,1-18.31-37}
+
+@tema
+Preceitos referentes ao próximo
+
+@texto
+[1] O Senhor falou a Moisés, dizendo: [2] “Fala a toda a comunidade dos filhos de Israel, e dize-lhes: Sede santos, porque eu, o Senhor vosso Deus, sou santo. [3] Respeite cada um de vós seu pai e sua mãe. Guardai os meus sábados. Eu sou o Senhor vosso Deus. [4] Não vos volteis para ídolos nem façais para vós deuses de metal fundido. Eu sou o Senhor vosso Deus. [5] Quando oferecerdes ao Senhor um sacrifício pacífico, oferecei-o de modo a ser aceito. [6] A vítima deverá ser comida no mesmo dia em que for imolada e no dia seguinte; mas tudo o que sobrar para o terceiro dia será queimado no fogo. [7] Se alguém comer da vítima passados dois dias, será profano e réu de impiedade. [8] Quem transgredir será culpado por ter profanado o que se consagrou ao Senhor, e será eliminado do meio do povo. [9] Quando fizeres a colheita no teu país, não deverás ceifar até o último limite do teu campo, nem apanhar as espigas que restam. [10] Nem tampouco colherão os últimos cachos da tua vinha, nem ajuntarás as uvas caídas, mas deixarás isso para os pobres e os estrangeiros. Eu sou o Senhor vosso Deus. [11] Não furteis, não digais mentiras, nem vos enganeis uns aos outros. [12] Não jureis falso por meu nome, profanando o nome do Senhor teu Deus. Eu sou o Senhor. [13] Não explores o teu próximo nem pratiques extorsão contra ele. Não retenhas contigo a diária do assalariado até o dia seguinte. [14] Não amaldiçoes o surdo, nem ponhas tropeço diante do cego, mas temerás o teu Deus. Eu sou o Senhor. [15] Não cometas injustiças no exercício da justiça; não favoreças o pobre nem prestigies o poderoso. Julga teu próximo conforme a justiça. [16] Não sejas um maldizente entre o teu povo. Não conspires, caluniando-o, contra a vida do teu próximo. Eu sou o Senhor. [17] Não tenhas no coração ódio contra teu irmão. Repreende o teu próximo, para não te tornares culpado de pecado por causa dele. [18] Não procures vingança, nem guardes rancor aos teus compatriotas. Amarás o teu próximo como a ti mesmo. Eu sou o Senhor. [31] Não vos dirijais aos que evocam espíritos nem interrogueis os adivinhos, para que não vos torneis impuros por meio deles. Eu sou o Senhor vosso Deus. [32] Levanta-te diante de uma cabeça branca, e honra a pessoa do ancião. Teme o teu Deus. Eu sou o Senhor. [33] Se um estrangeiro vier morar convosco em vossa terra, não o maltrateis; [34] mas esteja entre vós como um natural do país. Ama-o como a ti mesmo, porque também vós fostes estrangeiros na terra do Egito. Eu sou o Senhor vosso Deus. [35] Não cometais injustiças nos julgamentos, nas medidas de comprimento, de peso ou de capacidade. [36] Tende balanças justas,pesos justos e medidas para sólidos e líquidos justas. Eu sou o Senhor vosso Deus, que vos tirei do Egito. [37] Guardai todos os meus preceitos e todas as minhas leis e cumpri-os. Eu sou o Senhor”.
+
+@secao Responsório | Gl 5,14.13b; Jo 13,34
+
+@responsorio
+R. Esta frase contém toda a lei:
+Ama o teu próximo como a ti mesmo.
+* Sede servos uns dos outros, pelo amor.
+V. Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado. * Sede servos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc.V)} {(Sermo 10 de Quadragesima, 3-5:PL 54,299-301)}
+
+@tema
+O bem da caridade
+
+@texto
+Diz o Senhor no Evangelho de João: _Nisto todos conhecerão que sois meus discípulos, se tiverdes amor uns aos outros_ (Jo 13,35). E também se lê numa Carta do mesmo Apóstolo: _Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus. Quem não ama, não chegou a conhecer Deus, pois Deus é amor_ (1Jo 4,7-8). Examine-se a si mesmo cada um dos fiéis, e procure discernir com sinceridade os mais íntimos sentimentos de seu coração. Se encontrar na sua consciência algo que seja fruto da caridade, não duvide que Deus está com ele; mas se esforce por tornar-se cada vez mais digno de tão grande hóspede, perseverando com maior generosidade na prática das obras de misericórdia. Se Deus é amor, a caridade não deve ter fim, porque a grandeza de Deus não tem limites. Para praticar o bem da caridade, amados filhos, todo tempo é próprio. Contudo, estes dias da Quaresma, a isso nos exortam de modo especial. Se desejamos celebrar a Páscoa do Senhor com o espírito e o corpo santificados, esforcemo-nos o mais possível por adquirir essa virtude que contém em si todas as outras e cobre a multidão dos pecados. Ao aproximar-se a celebração deste mistério que ultrapassa todos os outros, o mistério do sangue de Jesus Cristo que apagou as nossas iniquidades, preparemo-nos em primeiro lugar mediante o sacrifício espiritual da misericórdia; o que a bondade divina nos concedeu, demo-lo também nós àqueles que nos ofenderam. Seja, neste tempo, mais larga a nossa generosidade para com os pobres e todos os que sofrem, a fim de que os nossos jejuns possam saciar a fome dos indigentes e se multipliquem as vozes que dão graças a Deus. Nenhuma devoção dos fiéis agrada tanto a Deus como a dedicação para com os seus pobres, pois nesta solicitude misericordiosa ele reconhece a imagem de sua própria bondade. Não temamos que essas despesas diminuam nossos recursos, porque a benevolência é uma grande riqueza e não podem faltar meios para a generosidade onde Cristo alimenta e é alimentado. Em tudo isso, intervém aquela mão divina que ao partir o pão o faz crescer, e ao reparti-lo multiplica-o. Quem dá esmola, faça-o com alegria e confiança, porque tanto maior será o lucro quanto menos guardar para si, conforme diz o santo Apóstolo Paulo: _Aquele que dá a semente ao semeador e lhe dará pão como alimento, ele mesmo multiplicará vossas sementes e aumentará os frutos da vossa justiça_ (2Cor 9,10), em Cristo Jesus, nosso Senhor, que vive e reina com o Pai e o Espírito Santo pelos séculos dos séculos. Amém.
+
+@secao Responsório | Lc 6,38; Cl 3,13b
+
+@responsorio
+R. Dai aos outros e a vós será dado.
+* Boa medida, recalcada, sacudida, transbordante, de bom grado, vos darão.
+V. Como Cristo vos deu o perdão, perdoai-vos, também, uns aos outros. * Boa medida.
+
+@secao Oração
+
+@oracao
+Ó Deus, que a fiel observância dos exercícios quaresmais prepare o coração dos vossos filhos e filhas para acolher com amor o mistério pascal e anunciar ao mundo a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/estanislau.htm
+@documento Ofício das Leituras - Santo Estanislau, Bispo E Mártir Memória
+
+@celebracao
+SANTO ESTANISLAU, BISPO E MÁRTIR
+{Memória}
+
+@biografia
+Nasceu em Szczepanów (Polônia), cerca do ano 1030. Fez seus estudos em Liège (Bélgica). Ordenado sacerdote, sucedeu a Lamberto como bispo de Cracóvia, em 1072. Governou sua Igreja como bom pastor, socorreu os pobres e todos os anos visitou o seu clero. O rei Boleslau, a quem tinha censurado, mandou matá-lo em 1097.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+
+no teu dia de esplendor,
+
+em que cinges a coroa,
+
+o troféu de vencedor.
+
+Este dia sobre as trevas
+
+deste mundo te elevou,
+
+e, juiz e algoz vencendo,
+
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+
+testemunha inquebrantável,
+
+com as vestes que lavaste
+
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+
+poderoso intercessor;
+
+ouça ele as nossas preces
+
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+
+de Jesus traze o perdão,
+
+e os que gemem sob o fardo
+
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+
+e ao Espírito, a vitória.
+
+Deus te orna com coroa
+
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Cipriano, bispo e mártir
+{(Séc. III)} {(Ep. 58,8-9.11: CSEL 3,663-666)}
+
+@tema
+Combatendo o bom combate
+
+@texto
+Enquanto combatemos o bom combate da fé, Deus, seus anjos e o próprio Cristo nos contemplam. Que glória imensa e que felicidade lutarmos na presença de Deus e sermos coroados por Cristo Juiz! Armemo-nos, queridos irmãos, de coragem e fortaleza, e preparemo-nos para a luta com pureza de espírito, fé inquebrantável e generosa confiança. Avance o exército de Deus para a batalha que nos foi proposta. O santo Apóstolo ensina como nos devemos armar e preparar: _Cingi os vossos rins com a verdade, revesti-vos com a couraça da justiça e calçai os vossos pés com a prontidão em anunciar o evangelho da paz. Tomai o escudo da fé, o qual vos permitirá apagar todas as flechas ardentes do Maligno. Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus_ (Ef 6,14-17).
+Tomemos estas armas, protejamo-nos com estas defesas espirituais e celestes, para podermos resistir e vencer os assaltos do demônio no dia do combate.
+Revistamo-nos com a couraça da justiça. Com ela nosso peito estará protegido e seguro contra as flechas do inimigo. Estejam nossos pés calçados e guarnecidos com a doutrina evangélica. Assim, quando pisarmos e esmagarmos a serpente, não seremos mordidos nem vencidos.
+Seguremos com firmeza o escudo da fé, para que nele seja destruído tudo quanto o inimigo lançar contra esta proteção.
+Tomemos também o capacete espiritual para proteger nossa cabeça; com ele, os ouvidos não escutarão os anúncios da maldade, os olhos não verão as imagens detestáveis, a fronte conservará incólume o sinal de Deus e a boca proclamará vitoriosamente a Cristo, seu Senhor.
+Armemos finalmente nossa mão direita com a espada espiritual para rejeitar com determinação os sacrifícios infames; e, lembrando-nos da eucaristia, recebamos o corpo do Senhor e vivamos em união com ele, esperando receber mais tarde, das mãos do mesmo Senhor, o prêmio das coroas celestes.
+Que estas realidades, queridos irmãos, fiquem bem gravadas em vossos corações. Se o dia da perseguição nos encontrar nestes pensamentos e meditações, o soldado de Cristo, instruído por suas ordens e preceitos, não temerá o combate, mas estará pronto para a coroa.
+
+@secao Responsório
+
+@responsorio
+R. Este santo lutou até à morte
+pela lei de seu Deus e não temeu
+as palavras e ameaças dos malvados,
+* Pois se apoiou sobre a Rocha que é Cristo {(T.P.}Aleluia).
+V. As tentações deste mundo superou
+e ao reino dos céus feliz chegou.* Pois se apoiou.
+
+@secao Oração
+
+@oracao
+Ó Deus, em cuja honra o bispo Santo Estanislau tombou sob a espada dos perseguidores, concedei-nos também perseverar firmes na fé até a morte. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

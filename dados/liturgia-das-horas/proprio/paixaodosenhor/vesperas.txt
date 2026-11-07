@@ -1,0 +1,167 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paixaodosenhor_vesperas.htm
+@documento Vésperas - Paixão de Nosso Senhor Jesus Cristo
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SEXTA-FEIRA DA PAIXÃO DO SENHOR
+
+@titulo Vésperas
+
+@rubrica
+Hoje rezam as Vésperas somente os que não participaram da Ação ltúrgica da Paixão do Senhor.
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+o sangue e água jorraram.
+
+Árvore esplêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna, só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Olhai, ó povos todos, e vede a minha dor!
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Olhai, ó povos todos, e vede a minha dor!
+
+@antifona 2
+O alento em mim já se extingue,
+o coração se comprime em meu peito.
+
+@salmo salmos/salmo-142-1-11
+
+@gloria
+
+@antifona
+O alento em mim já se extingue,
+o coração se comprime em meu peito.
+
+@antifona 3
+E, tendo tomado o vinagre,
+Jesus disse: Tudo está consumado!
+E, inclinando a cabeça, entregou o espírito.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+E, tendo tomado o vinagre,
+Jesus disse: Tudo está consumado!
+E, inclinando a cabeça, entregou o espírito.
+
+@secao Leitura breve | 1Pd 2,21b-24
+
+@texto
+Cristo sofreu por vós deixando-vos um exemplo, a fim de que sigais os seus passos. Ele não cometeu pecado algum, mentira nenhuma foi encontrada em sua boca. Quando injuriado, não retribuía as injúrias; atormentado, não ameaçava; antes, colocava a sua causa nas mãos daquele que julga com justiça. Sobre a cruz, carregou nossos pecados em seu próprio corpo, a fim de que, mortos para os pecados, vivamos para a justiça. Por suas feridas fostes curados.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte, e morte de cruz.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Inimigos que nós éramos de Deus,
+reconciliados nós ficamos com Deus Pai
+pela morte de seu Filho, Jesus Cristo.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Inimigos que nós éramos de Deus,
+reconciliados nós ficamos com Deus Pai
+pela morte de seu Filho, Jesus Cristo.
+
+@secao Preces
+
+@preces
+{Recomenda-se usar hoje, como Preces das Vésperas, a Oração universal que se propõe para este dia no Missal Romano. Mas, se for preferível, podem-se dizer as Preces que a seguir se propõem, ou então, fazer um momento de oração em silêncio, depois de anunciar cada uma das intenções da Oração universal antes mencionada.}
+
+@texto
+Comemorando piedosamente a morte de nosso Senhor Jesus Cristo, de onde brotou a vida do mundo, roguemos a Deus Pai:
+R. **Pela morte de Cristo, vosso Filho, ouvi-nos, Senhor!**
+
+Fortalecei, Senhor, a unidade da Igreja. R.
+
+Protegei o Santo Padre {N.} R.
+
+Santificai pelo Espírito Santo os ministros da Igreja e todo o povo cristão. R.
+
+Aumentai a fé e a sabedoria dos catecúmenos. R.
+
+Congregai todos os cristãos na unidade. R.
+
+Conduzi os judeus à plenitude da redenção. R.
+
+Iluminai com a luz da vossa glória os que não creem em Cristo. R.
+
+Revelai aos ateus os sinais da vossa bondade nas obras da criação. R.
+
+Dirigi o espírito e o coração dos governantes. R.
+
+Confortai os atribulados. R.
+
+{(intenções livres)}
+
+Socorrei os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

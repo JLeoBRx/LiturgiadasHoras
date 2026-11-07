@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4domingo_quaresma.htm
+@documento Ofício das Leituras - 4º Domingo Da Quaresma
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Seguindo o preceito místico,
+guardemos a abstinência
+durante os quarenta dias
+votados à penitência.
+
+A Lei e os Profetas dantes
+cumpriram igual preceito,
+Mas Cristo, no seu deserto,
+viveu o jejum perfeito.
+
+Usemos de modo sóbrio
+da fala, bebida e pão,
+do sono e do riso e, atentos,
+peçamos a Deus perdão.
+
+Fujamos do mal oculto
+que os laços do amor desfaz;
+à voz do tirano astuto
+não demos lugar jamais.
+
+Ouvi, Unidade simples,
+Trindade, Supremo Bem:
+a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem subirá até o monte do Senhor?Quem ficará em sua santa habitação?
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quem subirá até o monte do Senhor?Quem ficará em sua santa habitação?
+
+@antifona 2
+Nações, glorificai ao nosso Deus,é ele quem dá vida à nossa vida.
+
+@salmo salmos/salmo-065-i
+
+@gloria
+
+@antifona
+Nações, glorificai ao nosso Deus,é ele quem dá vida à nossa vida.
+
+@salmo salmos/salmo-065-ii
+
+@gloria
+
+@antifona
+Todos vós que a Deus temeis, vinde escutar:Vou contar-vos todo o bem que ele me fez!
+
+@texto
+V. A vossa palavra, Senhor, é espírito e vida;
+R. Só vós é que tendes palavras de vida eterna!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Levítico {8,1-17; 9,22-24}
+
+@tema
+Consagração dos sacerdotes
+
+@texto
+Naqueles dias, [8,1] o Senhor falou a Moisés, dizendo: [2] “Toma contigo Aarão e seus filhos, as vestes deles e o óleo da unção, o bezerro para o sacrifício expiatório,dois carneiros, o cesto com pães ázimos, [3] e reúne toda a comunidade à entrada da Tenda da Reunião”. [4] Moisés fez como o Senhor lhe tinha mandado e a comunidade reuniu-se à entrada da Tenda da Reunião. [5] Moisés disse à comunidade: “Eis o que o Senhor ordenou que se faça”. [6] Apresentou Aarão e seus filhos, e, depois de lavá-los com água, [7] vestiu o pontífice com a túnica de linho, cingiu-o com o cinto, revestiu-o com o manto, colocou-lhe o véu umeral, atou-o com o respectivo cinto; [8] pôs-lhe em seguida o peitoral, colocando nele os urim e os tumim; [9] cobriu-lhe a cabeça com a mitra, e sobre ela, diante da testa, colocou a lâmina de ouro, o diadema sagrado, conforme o Senhor havia mandado a Moisés. [10] Depois Moisés tomou o óleo da unção, ungiu o tabernáculo e tudo o que nele havia, para consagrá-los. [11] Aspergiu sete vezes o altar, e ungiu-o com todos os utensílios, bem como a bacia como suporte, consagrando-os. [12] E, derramando o óleo sobre a cabeça de Aarão, o ungiu e consagrou. [13] Depois mandou que os filhos de Aarão se aproximassem, vestiu-os com as túnicas de linho, cingiu-os com o cinto e lhes pôs os turbantes, como o Senhor havia mandado a Moisés. [14] Em seguida, mandou trazer o bezerro para o sacrifício expiatório, e Aarão e seus filhos puseram as mãos sobre o bezerro. [15] Moisés imolou-o, pegou no sangue e molhou nele o dedo, tocou as pontas em volta do altar, e o purificou. Depois derramou o resto do sangue ao pé do altar, e o consagrou, fazendo sobre ele a expiação. [16] Moisés pegou em toda a gordura que envolve as vísceras, a camada gordurosa do fígado e os dois rins com sua gordura, e queimou tudo no altar. [17] O bezerro, com pele, carne e vísceras, queimou-os fora do acampamento, como o Senhor lhe tinha mandado. [9,22] Aarão levantou as mãos em direção ao povo e o abençoou. Tendo oferecido o sacrifício expiatório, o holocausto e o sacrifício pacífico, desceu, [23] e Moisés e Aarão entraram na Tenda da Reunião. Ao saírem, abençoaram o povo. Então a glória do Senhor apareceu a todo o povo, [24] e um fogo enviado pelo Senhor consumiu o holocausto e as gorduras que estavam sobre o altar. Vendo isto, o povo inteiro prorrompeu em gritos de alegria, e prostraram-se todos com o rosto em terra.
+
+@secao Responsório | Hb 7,23.24; Eclo 45,7a.8bc
+
+@responsorio
+R. Eram feitos sacerdotes numerosos,
+porque a morte os impedia de viver.
+* Mas o Cristo, porque vive eternamente, possui um sacerdócio para sempre.
+V. O Senhor tornou Aarão engrandecido, revestiu-o com um manto glorioso e lhe deu o sacerdócio do seu povo. * Mas Cristo.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre o Evangelho de São João, de Santo Agostinho, bispo
+{(Séc.V)} {(Tract. 34,8-9:CCL36,315-316)}
+
+@tema
+Cristo é o caminho para a luz, a verdade para a vida
+
+@texto
+Diz o Senhor: _Eu sou a luz do mundo. Quem me segue, não andará nas trevas, mas terá a luz da vida_ (Jo 8,12). Estas breves palavras contêm um preceito e uma promessa. Façamos o que o Senhor mandou, para esperarmos sem receio receber o que prometeu, e não nos vir ele a dizer no dia do Juízo: “Fizeste o que mandei para esperares agora alcançar o que prometi?” Responder-te-á: “Disse que me seguisses”. Pediste um conselho de vida. De que vida, senão daquela sobre a qual foi dito: _Em vós está a fonte da vida?_ (Sl 35,10). Por conseguinte, façamos agora o que nos manda, sigamos o Senhor, e quebremos os grilhões que nos impedem de segui-lo. Mas quem é capaz de romper tais amarras se não for ajudado por aquele de quem se disse: _Quebrastes os meus grilhões?_ (Sl 115,7). E também noutro salmo: _É o Senhor quem liberta os cativos, o Senhor faz erguer-se o caído_ (Sl 145,7.8). Somente os que assim são libertados e erguidos poderão seguir aquela luz que proclama: Eu sou a luz do mundo. Quem me segue, não andará nas trevas. Realmente o Senhor faz os cegos verem. Os nossos olhos, irmãos, são agora iluminados pelo colírio da fé. Para restituir a vista ao cego de nascença, o Senhor começou por ungir-lhe os olhos com sua saliva misturada com terra. Cegos também nós nascemos de Adão, e precisamos de ser iluminados pelo Senhor. Ele misturou sua saliva com a terra: _E a Palavra se fez carne e habitou entre nós_ (Jo 1,14). Misturou sua saliva com a terra, como fora predito: _A verdade brotou da terra_ (cf. Sl 84,12). E ele próprio disse: _Eu sou o caminho, a verdade e a vida_ (Jo 14,6). A verdade nos saciará quando o virmos face a face, porque também isso nos foi prometido. Pois quem ousaria esperar, se Deus não tivesse prometido ou dado? Veremos face a face, como diz o Apóstolo_: Agora, conheço apenas de modo imperfeito; agora, nós vemos num espelho, confusamente, mas, então, veremos face a face_ (1Cor 13,12). E o apóstolo João diz numa de suas cartas: _Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é_ (1Jo 3,2). Eis a grande promessa! Se o amas, segue-o! “Eu o amo, dizes tu, mas por onde o seguirei?” Se o Senhor te houvesse dito: “Eu sou a verdade e a vida”, tu que desejas a verdade e aspiras à vida, certamente procurarias o caminho para alcançá-la e dirias a ti mesmo: “Grande coisa é a verdade, grande coisa é a vida! Ah, se fosse possível à minha alma encontrar o caminho para lá chegar!” Queres conhecer o caminho? Ouve o que o Senhor diz em primeiro lugar: Eu sou o caminho. Antes de dizer aonde deves ir, mostrou por onde deves seguir. Eu sou, diz ele, o caminho. O caminho para onde? A verdade e a vida. Disse primeiro por onde deves seguir e logo depois indicou para onde deves ir. Eu sou o caminho, eu sou a verdade, eu sou a vida. Permanecendo junto do Pai, é verdade e vida; revestindo-se de nossa carne, tornou-se o caminho. Não te é dito: “Esforça-te por encontrar o caminho, para que possas chegar à verdade e à vida”. Decerto não é isso que te dizem. Levanta-te, preguiçoso! O próprio caminho veio ao teu encontro e te despertou do sono em que dormias, se é que chegou a despertar-te; levanta-te e anda! Talvez tentes andar e não consigas, porque te doem os pés. Por que estão doendo? Não será pela dureza dos caminhos que a avareza te levou a percorrer? Mas o Verbo de Deus curou também os coxos. “Eu tenho os pés sadios, respondes, mas não vejo o caminho”. Lembra-te que ele também deu a vista aos cegos.
+
+@secao Responsório | Sl 118(119),104b.105; Jo 6,68
+
+@responsorio
+R. Eu odeio os caminhos da mentira;
+* Vossa palavra é a luz para os meus passos, é uma lâmpada luzente em meu caminho.
+V. Senhor, a quem nós iremos? Tu tens as palavras da vida eterna. * Vossa palavra.
+
+@secao Oração
+
+@oracao
+Ó Deus, que por vosso Filho realizais de modo admirável a reconciliação do gênero humano, concedei ao povo cristão correr ao encontro das festas que se aproximam, cheio de fervor e exultando de fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

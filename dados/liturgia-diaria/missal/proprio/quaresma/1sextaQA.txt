@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1sextaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 24,17-18
+@texto
+Livrai-me, Senhor, das minhas aflições,
+vede minha pequenez e minha fadiga
+e perdoai todos os meus pecados.
+
+@secao Coleta
+@texto
+Concedei, Senhor, que vossos fiéis
+se preparem dignamente para a festa da Páscoa,
+de modo que a mortificação corporal que assumimos
+traga fruto e renove o nosso espírito.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, com bondade,
+estes dons para o sacrifício que nos reconcilia convosco
+e, no vosso grande amor,
+dai-nos de novo a salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Ez 33,11
+@texto
+Por minha vida, diz o Senhor:
+não quero a morte do pecador,
+mas que se converta e viva.
+
+@secao Depois da comunhão
+@texto
+Senhor, este sacramento da santa ceia nos restaure,
+para que, purificados da antiga culpa,
+sejamos admitidos na comunhão do mistério da salvação.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Olhai com bondade, Senhor, o vosso povo,
+para que se realize nos corações
+o que externamente se manifesta pela penitência.
+Por Cristo, nosso Senhor.

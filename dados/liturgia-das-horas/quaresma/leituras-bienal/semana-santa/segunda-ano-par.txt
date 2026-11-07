@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/segundafeirasanta_par.htm
+@documento Ofício das Leituras - Segunda-Feira Santa
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {26,1-15}
+
+@tema
+Prisão e julgamento de Jeremias
+
+@texto
+No começo do reinado de Joaquim, filho de Josias, rei de Judá, esta palavra foi dirigida a Jeremias da parte do Senhor: Assim disse o Senhor. Coloca-te no átrio da Casa do Senhor e diz contra todos os habitantes das cidades de Judá, que vêm prostrar-se na Casa do Senhor, todas as palavras que te ordenei dizer-lhes; não omitas palavra alguma. Talvez escutem e se convertam cada um de seu caminho perverso: então me arrependerei do mal que pensava fazer-lhes por causa da perversidade de seus atos. Tu lhes dirás: Assim disse o Senhor. Se não me escutardes para seguirdes a minha Lei, que vos dei, para atenderdes as palavras de meus servos, os profetas, que vos envio sem cessar, mas vós não escutais, tratarei este templo como Silo e farei desta cidade maldição para todas as nações da terra. Sacerdotes, profetas e todo o povo ouviram Jeremias pronunciar estas palavras no Templo do Senhor. E quando Jeremias terminou de falar tudo o que o Senhor o mandara dizer a todo o povo, os sacerdotes, os profetas e todo o povo prenderam-no dizendo: “Tu morrerás! Por que profetizaste em nome do Senhor, dizendo: ‘Este templo será como Silo e esta cidade será ruína sem habitantes?’” E todo o povo amotinou-se contra Jeremias no templo do Senhor. Quando os príncipes de Judá ouviram estas palavras, subiram do palácio do rei ao Templo do Senhor e se assentaram à entrada da porta Nova do Templo do Senhor. Os sacerdotes e os profetas disseram, então, aos príncipes e a todo o povo: “Este homem merece a morte, porque profetizou contra esta cidade como ouvistes com os vossos ouvidos!” E Jeremias disse a todos os príncipes e a todo o povo: “o Senhor enviou-me a profetizar contra o Templo e contra esta cidade todas as palavras que ouvistes. Mas, agora, melhorai os vossos caminhos e os vossos atos e escutai o apelo do Senhor, vosso Deus, e o Senhor se arrependerá do mal que anunciou contra vós. Quanto a mim eis-me em vossas mãos. Fazei de mim o que parece bom e justo a vossos olhos. Sabei, porém, que, se me matardes, é sangue inocente que poreis sobre vós, sobre esta cidade e seus habitantes. Porque, na verdade, o Senhor me enviou a vós para anunciar-vos todas estas palavras”.
+
+@secao Responsório
+
+@responsorio
+R. Entregaram-me nas mãos dos ímpios, jogaram-me entre os iníquos e não tiveram piedade da minha vida, os fortes juntaram-se para combater.
+* E como gigantes se colocaram contra mim.
+V. Os estrangeiros se insurgiram contra mim e os fortes pediram a minha vida. * E como gigantes.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc. IV)} {(Tract. 71, De resurrectione Domini, 1-2: CCL 138A,434-436)}
+
+@tema
+A morte de Cristo é causa da vida
+
+@texto
+Em nosso último sermão, amados filhos, vos exortamos, a meu ver não sem motivo, à participação na cruz de Cristo. Isso para dizer quanto o sacramento pascal contém em si a vida dos que creem. Desse modo honramos com a festa o que celebramos com a vida. Vós mesmos provastes quanto isso é útil e com a vossa devoção aprendestes quanto vale para as vossas almas e vossos corpos um jejum mais demorado, preces frequentes e esmolas mais generosas. Não houve quase ninguém que não progredisse em virtude e no interior de sua consciência não o percebesse e se alegrasse com isso. E tais lucros têm de ser guardados para que não termine em inveja diabólica quanto nos concedeu a graça divina. Com efeito, em quarenta dias quiséramos conseguir e sentir algo da cruz de Cristo no tempo da sua paixão. Para isso, admitamos participar da mesma sorte de Cristo, a fim de passarmos da morte à vida, estando ainda em nosso corpo.
+Com efeito, para qualquer homem, passar por uma conversão, de qualquer natureza, isto é, de um estado a outro, significa o fim de algo - não mais ser o que fora - e um início - tornar-se o que não era. O que importa seria saber quem morrerá ou viverá. Nem é fora desta vida efêmera que se decide uma e outra coisa, pois da vida temporal depende a eterna retribuição. Morrer é obra do diabo; viver é obra de Deus. Brilhe a justiça com o castigo da iniquidade. Perderam as coisas velhas para nascerem as novas. E porque, no dizer da Verdade, _ninguém pode servir_ _a dois senhores_ (Mt 6,24), o Senhor não esteja do lado de quem caiu na ruína, mas com quem ele elevou à glória.
+Com efeito, o Apóstolo disse: _O primeiro homem,_ _formado da terra, era terrestre; o segundo homem veio_ _do céu. Qual foi o homem terrestre, tais são os terrestres;_ _e qual é o homem celeste, tais serão os celestes. E como_ _já trouxemos a imagem do terrestre, traremos também a_ _imagem do celeste_ (1Cor 15,47-49). Temos de nos alegrar muito com tal mudança. Da baixeza terrena nos transfiramos para a celeste dignidade pela inefável misericórdia com que nos elevou à sua dignidade, aquele que desceu até nossa indignidade. E, ao assumir a substância e a condição da natureza pecaminosa, mostrou a quase divina impassibilidade sob a qual jazia a nossa humana mortalidade.
+
+@secao Responsório | Cl 2,19.20
+
+@responsorio
+R. Eu morri para a Lei, a fim de viver para Deus.
+Minha vida atual na carne,
+eu a vivo na fé, crendo no Filho de Deus,
+* Que me amou e se entregou por mim.
+V. Com Cristo, eu fui pregado na cruz. Eu vivo, mas não eu:
+é Cristo que vive em mim.* Que me amou.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo, que desfalece por sua fraqueza, recobrar novo alento pela Paixão do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

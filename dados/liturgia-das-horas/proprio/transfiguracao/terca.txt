@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/transfiguracao_terca.htm
+@documento Hora Média - Transfiguração do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+O Senhor transfigurou-se entre Elias e Moisés,
+para ter o testemunho da lei e dos profetas.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+O Senhor transfigurou-se entre Elias e Moisés,
+para ter o testemunho da lei e dos profetas.
+
+@secao Leitura breve | Ex 19,8b-9
+
+@texto
+Moisés transmitiu ao Senhor as palavras do povo, e o Senhor lhe falou: Virei a ti numa nuvem escura, para que o povo ouça quando falar contigo, e creia sempre em ti.
+
+@texto
+V. Sois tão belo, o mais belo entre os filhos dos homens.
+R. Vossos lábios espalham a graça, o encanto.
+
+@secao Oração
+
+@oracao
+Ó Deus, que na gloriosa Transfiguração de vosso Filho confirmastes os mistérios da fé pelo testemunho de Moisés e Elias, e manifestastes de modo admirável a nossa glória de filhos adotivos, concedei aos vossos servos e servas ouvir a voz do vosso Filho amado, e compartilhar da sua herança. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

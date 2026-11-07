@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4tercaquaresma_vesperas.htm
+@documento Vésperas - Terça-feira da 4ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Se de ti, Jerusalém, algum dia eu me esquecer,
+que resseque a minha mão!
+
+@salmo salmos/salmo-136-1-6
+
+@gloria
+
+@antifona
+Se de ti, Jerusalém, algum dia eu me esquecer,
+que resseque a minha mão!
+
+@antifona 2
+Perante os vossos anjos vou cantar-vos, ó meu Deus!
+
+@salmo salmos/salmo-137
+
+@gloria
+
+@antifona
+Perante os vossos anjos vou cantar-vos, ó meu Deus!
+
+@antifona 3
+O Cordeiro imolado é digno
+de receber honra, glória e poder.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+O Cordeiro imolado é digno
+de receber honra, glória e poder.
+
+@secao Leitura breve | Tg 2,14.17.18b
+
+@texto
+Meus irmãos, que adianta alguém dizer que tem fé, quando não a põe em prática? A fé seria então capaz de salvá-lo? A fé, se não se traduz em obras, por si só está morta. Tu, mostra-me a tua fé sem as obras, que eu te mostrarei a minha fé pelas obras!
+
+@secao Responsório breve
+
+@responsorio
+R. Iluminai-me, Senhor, conforme a vossa palavra,
+* Para que eu sempre faça a vossa vontade!
+R. Iluminai-me.
+V. Inclinai meu coração aos vossos preceitos. * Para que eu.
+Glória ao Pai. R. Iluminai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis que agora estás curado; já não voltes a pecar,
+para não te acontecer alguma coisa bem pior!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis que agora estás curado; já não voltes a pecar,
+para não te acontecer alguma coisa bem pior!
+
+@secao Preces
+
+@preces
+Demos glória ao Senhor Jesus Cristo que, exaltado na cruz, atraiu para si todo o gênero humano; e lhe supliquemos com piedade:
+
+R. **Senhor, atraí tudo para vós!**
+
+Senhor, iluminai com o mistério da vossa cruz o gênero humano,
+– para que, atraídos por ela, vos reconheçamos como caminho, verdade e vida. R.
+
+Dai água viva a todos os que estão sedentos de vós,
+– para que saciem para sempre a sua sede. R.
+
+Iluminai os intelectuais e os artistas,
+– para que manifestem a todos os caminhos do vosso Reino. R.
+
+Movei a consciência de todos aqueles a quem o pecado ou o escândalo afastou de vós,
+– para que voltem à vida da graça e permaneçam no vosso amor. R.
+
+{(intenções livres)}
+
+Admiti na glória do céu os nossos irmãos e irmãs falecidos,
+– para que se alegrem eternamente na companhia de Nossa Senhora e de todos os santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que a fiel observância dos exercícios quaresmais prepare o coração dos vossos filhos e filhas para acolher com amor o mistério pascal e anunciar ao mundo a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

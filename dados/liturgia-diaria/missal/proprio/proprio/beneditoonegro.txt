@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/beneditoonegro.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Eclo 3,20-21
+@texto
+Humilhou-se em tudo
+e perante Deus encontrou misericórdia;
+pois grande é o poder de Deus
+e pelos humildes ele é honrado.
+
+@secao Coleta
+@texto
+Ó Deus, em São Benedito, o Negro,
+manifestais as vossas maravilhas,
+chamando à vossa Igreja todos os povos, raças e nações;
+concedei que, por sua intercessão,
+feitos vossos filhos e filhas pelo Batismo,
+convivamos em verdadeira fraternidade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus de bondade,
+que, destruindo o velho homem,
+criastes em São Benedito
+um novo homem segundo a vossa imagem,
+dai-nos, igualmente renovados,
+oferecer este sacrifício de reparação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 11,29
+@texto
+Tomai sobre vós o meu jugo e aprendei de mim,
+porque sou manso e humilde de coração,
+e vós encontrareis descanso.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, pela força deste sacramento,
+conduzi-nos constantemente no vosso amor
+e, como fizestes a São Benedito,
+completai, até a vinda do Cristo,
+a boa obra que começastes em nós.
+Por Cristo, nosso Senhor.

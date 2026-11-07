@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3sexta_vesperas.htm
+@documento Vésperas - III Sexta-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+O Senhor, nosso Deus, é tão grande,
+é maior do que todos os deuses.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+O Senhor, nosso Deus, é tão grande,
+é maior do que todos os deuses.
+
+@antifona 2
+Israel, bendizei o Senhor, cantai ao seu nome suave!
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Israel, bendizei o Senhor, cantai ao seu nome suave!
+
+@antifona 3
+Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.

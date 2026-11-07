@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4sabadopascoa_laudes.htm
+@documento Laudes - Sábado da 4ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quão imensas, ó Senhor, são vossas obras, aleluia.
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Quão imensas, ó Senhor, são vossas obras, aleluia.
+
+@antifona 2
+Haverei de derramar sobre vós uma água pura. Aleluia.
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@antifona
+Haverei de derramar sobre vós uma água pura. Aleluia.
+
+@antifona 3
+Tudo é vosso, mas vós sois de Cristo
+e Cristo é de Deus, aleluia.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Tudo é vosso, mas vós sois de Cristo
+e Cristo é de Deus, aleluia.
+
+@secao Leitura breve | Rm 14,7-9
+
+@texto
+Ninguém dentre nós vive para si mesmo ou morre para si mesmo. Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quando vier o supremo Pastor de nossas almas
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quando vier o supremo Pastor de nossas almas
+recebereis a coroa de glória imperecível. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo nosso Senhor, que nos deu a vida eterna; e peçamos de coração sincero:
+
+R. **Enriquecei-nos, Senhor, com a graça da vossa ressurreição!**
+
+Pastor eterno, olhai com bondade para o vosso rebanho que desperta do sono da noite,
+– e alimentai-nos com as riquezas de vossa palavra e de vosso pão. R.
+
+Não permitais que sejamos arrebatados pelo lobo que devora e traídos pelo mercenário que foge,
+– mas fazei-nos ouvir com fidelidade a voz do Bom Pastor. R.
+
+Vós, que estais sempre com os ministros do evangelho e confirmais a sua palavra com o poder da vossa graça,
+– fazei que nossas palavras e ações neste dia proclamem fielmente a vossa ressurreição. R.
+
+Sede vós mesmo aquela alegria que ninguém pode arrancar do nosso coração,
+– para que, livres da tristeza que é fruto do pecado, busquemos sempre a felicidade da vida eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, fazei-nos viver sempre mais o mistério pascal para que, renovados pelo santo batismo, possamos, por vossa graça, produzir muitos frutos e chegar às alegrias da vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

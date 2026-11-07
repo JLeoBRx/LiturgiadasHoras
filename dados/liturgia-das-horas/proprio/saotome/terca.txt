@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saotome_terca.htm
+@documento Hora Média - São Tomé Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+O Evangelho do Reino anunciai!
+Dai de graça o que de graça recebestes.
+
+@secao Leitura breve | 2Cor 5,19b-20
+
+@texto
+Deus colocou em nós a palavra da reconciliação. Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós. Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus.
+
+@texto
+V. Em toda a terra se espalha o seu anúncio.
+R. E sua voz pelos confins do universo.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei-nos celebrar com alegria a festa do apóstolo São Tomé, para que sejamos sempre sustentados por sua proteção e tenhamos a vida pela fé no Cristo que ele reconheceu como Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

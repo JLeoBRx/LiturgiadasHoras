@@ -1,0 +1,129 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_vesperas.htm
+@documento Vésperas - Terça-Feira
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Autor e origem do tempo,
+por sábia ordem nos dais
+o claro dia no trabalho,
+e a noite, ao sono e à paz.
+
+As mentes castas guardai
+dentro da calma da noite
+e que não venha a feri-las
+do dardo mau o açoite.
+
+Os corações libertai
+de excitações persistentes.
+Não quebre a chama da carne
+a força viva das mentes.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho de Deus,
+que com o Espírito Santo
+reinais eterno nos céus.
+
+@secao Salmodia
+
+@antifona 1
+Se de ti, Jerusalém, algum dia eu me esquecer, que resseque a minha mão!
+
+@salmo salmos/salmo-136-1-6
+
+@gloria
+
+@antifona
+Se de ti, Jerusalém, algum dia eu me esquecer, que resseque a minha mão!
+
+@antifona 2
+Perante os vossos anjos vou cantar-vos, ó meu Deus!
+
+@salmo salmos/salmo-137
+
+@gloria
+
+@antifona
+Perante os vossos anjos vou cantar-vos, ó meu Deus!
+
+@antifona 3
+O Cordeiro imolado é digno de receber honra, glória e poder.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+O Cordeiro imolado é digno de receber honra, glória e poder.
+
+@secao Leitura breve | Cl 3,16
+
+@texto
+Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças.
+
+@secao Responsório breve
+
+@responsorio
+R. Junto a vós, felicidade,
+* Felicidade sem limites! R. Junto a vós.
+V. Delícia eterna, ó Senhor. * Felicidade.
+Glória ao Pai. R. Junto a vós.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, fazei conosco maravilhas, pois santo e poderoso é vosso Nome.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, fazei conosco maravilhas, pois santo e poderoso é vosso Nome.
+
+@secao Preces
+
+@preces
+Exaltemos a Jesus Cristo, que dá ao seu povo força e poder; e lhe peçamos de coração sincero:
+
+R. **Ouvi-nos, Senhor, e vos louvaremos para sempre!**
+
+Jesus Cristo, nossa força, que nos chamastes ao conhecimento da verdade,
+– concedei a vossos fiéis a perseverança na fé. R.
+
+Dirigi, Senhor, segundo o vosso coração, todos os que nos governam,
+– e inspirai-lhes bons propósitos, para que nos conduzam na paz. R.
+
+Vós, que saciastes as multidões no deserto,
+– ensinai-nos a repartir o pão com aqueles que têm fome. R.
+
+Fazei que os governantes não se preocupem apenas com seu próprio país,
+– mas respeitem as outras nações e sejam solícitos para com todas elas. R.
+
+{(intenções livres)}
+
+Ressuscitai para a vida eterna os nossos irmãos e irmãs que morreram,
+– quando vierdes manifestar a vossa glória naqueles que creram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Diante de vossa face, imploramos, Senhor, que vossa bondade nos conceda meditar sempre no coração aquilo que vos dizemos com nossos lábios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

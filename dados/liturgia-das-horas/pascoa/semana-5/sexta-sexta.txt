@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5sextapascoa_sexta.htm
+@documento Hora Média - Sexta - Sexta-feira da 5ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Aleluia
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes;
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | Gl 3,27-28
+
+@texto
+Vós todos que fostes batizados em Cristo vos revestistes de Cristo. O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Oração
+
+@oracao
+Amparai, ó Deus, nossos corações para vivermos dignamente os mistérios pascais, a fim de que esta celebração realizada com alegria nos proteja por sua força inesgotável e nos comunique a salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santajoanadechantal_vesperas.htm
+@documento Vésperas - Santa Joana Francisca de Chantal, religiosa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando a vossa santa
+perfeita servidora.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unida a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra presa
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@antifona 2
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@antifona 3
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. É justo o nosso Deus,
+* Ele ama a justiça. R. É justo.
+V. Quem tem reto coração há de ver a sua face. * Ele ama.
+Glória ao Pai. R. É justo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@secao Preces
+
+@preces
+Por intercessão das santas mulheres, peçamos ao Senhor em favor da Igreja; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Por intercessão das santas mártires, que venceram a morte do corpo com o vigor do espírito,
+– concedei à vossa Igreja a fortaleza nas provações. R.
+
+Por intercessão das santas casadas, que progrediram em graça na vida matrimonial,
+– concedei à vossa Igreja a fecundidade apostólica. R.
+
+Por intercessão das santas viúvas, que superaram e santificaram sua solidão mediante a oração e a hospitalidade,
+– concedei à vossa Igreja que manifeste perante o mundo o mistério da vossa caridade. R.
+
+Por intercessão das santas mães, que geraram filhos para o Reino de Deus e para a sociedade humana,
+– concedei à vossa Igreja que transmita a vida divina e a salvação a toda a humanidade. R.
+
+{(intenções livres)}
+
+Por intercessão de todas as santas mulheres, que já mereceram contemplar a luz da vossa face,
+– concedei aos irmãos e irmãs falecidos de vossa Igreja a eterna alegria da mesma visão. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que ornastes de grandes méritos a santa Joana Francisca de Chantal nos diversos estados de vida, concedei-nos, por suas preces, corresponder fielmente à nossa vocação e ser em todas as circunstâncias um exemplo para todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

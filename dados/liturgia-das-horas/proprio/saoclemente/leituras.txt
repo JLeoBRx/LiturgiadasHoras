@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoclemente.htm
+@documento Ofício das Leituras - São Clemente I, Papa E Mártir
+
+@celebracao
+SÃO CLEMENTE I, PAPA E MÁRTIR
+
+@biografia
+Depois de Pedro, Clemente foi o terceiro a governar a Igreja de Roma, em fins do século I. Escreveu uma importante carta aos coríntios para restabelecer entre eles a paz e a concórdia.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos coríntios, de São Clemente I, papa
+{(Séc. I)} {(Cap. 35,1-5; 36,1-2; 37,1.4-5; 38,1-2.4: Funk 1,105-109)}
+
+@tema
+Os dons de Deus são admiráveis
+
+@texto
+Caríssimos, como são maravilhosos, como são preciosos os dons de Deus! Vida imortal, esplêndida justiça, verdade liberta, fé intrépida, temperança santa: tudo isto nossa inteligência concebe. O que será então que se prepara para aqueles que o aguardam? O santíssimo Artífice e Pai dos séculos é o único a conhecer a sua santidade e beleza. Portanto, a fim de participarmos dos dons prometidos, empreguemos todo empenho em ser contados no número dos que o esperam.
+
+E como se fará isto, diletos? Estabilizando o nosso pensamento em Deus pela fé; procurando com diligência tudo o que lhe é agradável e aceito; fazendo tudo o que se relaciona com a sua vontade irrepreensível; seguindo o caminho da verdade e rejeitando para longe de nós toda injustiça, iniquidade, cobiça, contestações, maldades e fraudes.
+
+É este, queridos, o caminho onde encontramos a salvação: Jesus Cristo, o pontífice de nossas oblações, o defensor e o auxílio em nossa fraqueza. Por ele, vemos as profundezas dos céus; por ele contemplamos seu excelso rosto imaculado; por ele foram abertos os olhos do coração; por ele nossa mente, insensata e obscurecida, desabrocha na luz; por ele, o Senhor quis que provássemos da ciência imortal; por ele que é o esplendor da majestade de Deus, e está tão mais alto que os anjos, quanto o nome que recebeu é mais excelente (cf. Hb 1,3-4).
+
+Combatamos, portanto, irmãos, com todo o vigor, sob seus preceitos irrepreensíveis. Não podem manter-se os grandes sem os pequenos, nem os pequenos sem os grandes: estão misturados e daí sua vantagem. Sirva-nos de exemplo nosso corpo. A cabeça nada é sem os pés como também os pés sem a cabeça; os menores membros são necessários e úteis a nosso corpo todo; ou melhor, todos estão bem entrosados e se sujeitam unanimemente, para que todo o corpo se salve.
+
+Com efeito, nosso corpo todo se salvará em Cristo Jesus. Assim, cada qual se submeta a seu próximo em conformidade com o dom que por graça lhe foi concedido: o forte proteja o fraco, o fraco respeite o forte; o rico dê ao pobre, o pobre agradeça a Deus por ter-lhe concedido quem o ajude em sua indigência; o sábio, não por palavras, mas pelas boas obras, manifeste sua sabedoria; o humilde não se elogie a si mesmo, mas deixe que outros o façam. Recebamos, assim, todas as coisas de suas mãos. Por tudo devemos dar graças a ele, a quem a glória pelos séculos dos séculos. Amém.
+
+@secao Responsório | Cf. Mt 7,24; cf.1Pd 2,22; cf. 1Sm 2,28; cf. Eclo 44,16.17
+
+@responsorio
+R. Eis um homem previdente:
+construiu a sua casa sobre a rocha inabalável;
+em sua boca não havia falsidade ou mentira,
+* Porque Deus o escolheu sacerdote para si.
+V. Eis o grande sacerdote, que nos dias de sua vida,
+ao Senhor foi agradável, como justo foi achado.
+* Porque Deus.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, admirável na força dos vossos santos, dai-nos comemorar com alegria a festa do papa São Clemente, sacerdote e mártir do vosso Filho, que testemunhou com o seu sangue o mistério que celebrava e confirmou suas palavras com o exemplo de sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

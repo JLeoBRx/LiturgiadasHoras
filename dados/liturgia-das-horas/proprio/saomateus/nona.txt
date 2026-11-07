@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomateus_nona.htm
+@documento Hora Média - São Mateus, apóstolo e evangelista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+É na vossa constância que salvareis vossas vidas.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+É na vossa constância que salvareis vossas vidas.
+
+@secao Leitura breve | At 5,41-42
+
+@texto
+Os apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus. E cada dia, no Templo e pelas casas, não cessavam de ensinar e anunciar o evangelho de Jesus Cristo.
+
+@texto
+V. Alegrai-vos e exultai, diz o Senhor.
+R. Pois no céu estão inscritos vossos nomes!
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa inesgotável misericórdia escolhestes o publicano Mateus para torná-lo Apóstolo, dai-nos, por sua oração e exemplo, a graça de vos seguir e permanecer sempre convosco. Por Cristo nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

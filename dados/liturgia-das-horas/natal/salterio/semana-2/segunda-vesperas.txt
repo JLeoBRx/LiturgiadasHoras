@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2segunda_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@salmo salmos/salmo-044
+
+@gloria
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@antifona 2
+Eis que vem o esposo chegando: Saí ao encontro de Cristo!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Eis que vem o esposo chegando: Saí ao encontro de Cristo!
+
+@antifona 3
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.

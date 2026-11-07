@@ -1,0 +1,121 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4sabado_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Sábado
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor nos libertou do poder do opressor
+
+@salmo salmos/salmo-077-40-72-iv
+
+@gloria
+
+@antifona
+O Senhor nos libertou do poder do opressor
+
+@antifona 2
+O Senhor nos conduziu para a Terra Prometida
+
+@salmo salmos/salmo-077-40-72-v
+
+@gloria
+
+@antifona
+O Senhor nos conduziu para a Terra Prometida
+
+@antifona 3
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido
+
+@salmo salmos/salmo-077-40-72-vi
+
+@gloria
+
+@antifona
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido
+
+@texto
+V. Quem pratica a verdade se põe junto à luz.
+R. E suas obras de filho de Deus se revelam.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro dos Números {20,1-13; 21,4-9}
+
+@tema
+As águas de Meriba e a serpente de bronze
+
+@texto
+Naqueles dias, [20,1] toda a comunidade dos filhos de Israel chegou ao deserto de Sin, no primeiro mês, e o povo permaneceu em Cades. Ali morreu Maria e ali mesmo foi sepultada. [2] Como não havia água para o povo, este juntou-se contra Moisés e Aarão, [3] e, levantando-se em motim, disseram: “Antes tivéssemos morrido, quando morreram nossos irmãos diante do Senhor! [4] Para que trouxestes a comunidade do Senhor a este deserto, a fim de que morrêssemos, nós e nossos animais? [5] Por que nos fizestes sair do Egito e nos trouxestes a este lugar detestável, em que não se pode semear, e que não produz figueiras, nem vinhas, nem romãzeiras, e, além disso, não tem água para beber?” [6] Deixando a comunidade, Moisés e Aarão foram até a entrada da Tenda da Reunião, e prostraram-se com a face em terra. E a glória do Senhor apareceu sobre eles. [7] O Senhor falou, então, a Moisés, dizendo: [8] “Toma a tua vara e reúne o povo, tu e teu irmão Aarão; na presença deles ordenai à pedra e ela dará água. Quando fizeres sair água da pedra, dá de beber à comunidade e aos seus animais”. [9] Moisés tomou, então, a vara que estava diante do Senhor, como lhe fora ordenado. [10] Depois, Moisés e Aarão reuniram a assembleia diante do rochedo, e Moisés lhes disse: “Ouvi, rebeldes! Poderemos, acaso, fazer sair água desta pedra para vós?” [11] E, levantando a mão, Moisés feriu duas vezes a rocha com a vara, e jorrou água em abundância, de modo que o povo e os animais puderam beber. [12] Então o Senhor disse a Moisés e a Aarão: “Visto que não acreditastes em mim, para manifestar a minha santidade aos olhos dos filhos de Israel, não introduzireis este povo na terra que lhe vou dar”. [13] Estas são as águas de Meriba, onde os filhos de Israel disputaram contra o Senhor, e ele lhes manifestou a sua santidade. [21,4] Os filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom. Durante a viagem o povo começou a impacientar-se, [5] e se pôs a falar contra Deus e contra Moisés, dizendo: “Por que nos fizestes sair do Egito para morrermos no deserto? Não há pão, falta água, e já estamos com nojo desse alimento miserável”. [6] Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel. [7] O povo foi ter com Moisés e disse: “Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes”. Moisés intercedeu pelo povo, [8] e o Senhor respondeu: “Faze uma serpente abrasadora e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela viverá”. [9] Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste. Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado.
+
+@secao Responsório | Jo 3,14.15.17
+
+@responsorio
+R. Como Moisés ergueu na haste a serpente no deserto,
+assim o Filho do Homem há de ser levantado.
+* Para que, quem nele crer, não pereça para sempre, mas possua a vida eterna.
+V. Deus enviou seu Filho ao mundo, para que o mundo seja salvo e não para julgá-lo. * Para que.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição pastoral Gaudium et Spes sobre a Igreja no mundo de hoje, do ConcílioVaticano II
+{(Séc.XX)} {(N.37-38)}
+
+@tema
+Toda a atividade humana deve ser purificada no mistério pascal
+
+@texto
+A Sagrada Escritura, confirmada pela experiência dos séculos, ensina à família humana que o progresso, grande bem para o homem, traz também consigo uma enorme tentação. De fato, quando a hierarquia de valores é alterada e o bem e o mal se misturam, os indivíduos e os grupos consideram somente seus próprios interesses e não o dos outros. Por esse motivo, o mundo deixa de ser o lugar da verdadeira fraternidade, enquanto o aumento do poder da humanidade ameaça destruir o próprio gênero humano. Se alguém pergunta como pode ser vencida essa miserável situação, os cristãos afirmam que todas as atividades humanas, quotidianamente postas em perigo pelo orgulho do homem e o amor desordenado de si mesmo, precisam ser purificadas e levadas à perfeição por meio da cruz e ressurreição de Cristo. Redimido por Cristo e tornado nova criatura no Espírito Santo, o homem pode e deve amar as coisas criadas pelo próprio Deus. Com efeito, recebe-as de Deus; olha-as e respeita-as como dons vindos das mãos de Deus. Agradecendo por elas ao divino Benfeitor e usando e fruindo das criaturas em espírito de pobreza e liberdade, é introduzido na verdadeira posse do mundo, como se nada tivesse e possuísse: _Tudo é vosso, mas vós sois de Cristo, e Cristo é de Deus_ (1Cor 3,22-23). O Verbo de Deus, por quem todas as coisas foram feitas, que se encarnou e veio habitar na terra dos homens, entrou como homem perfeito na história do mundo, assumindo-a e recapitulando-a em si. Ele nos revela que _Deus é amor_ (1Jo 4,8) e ao mesmo tempo nos ensina que a lei fundamental da perfeição humana, e, portanto, da transformação do mundo, é o novo mandamento do amor. Aos que acreditam no amor de Deus, ele dá a certeza de que o caminho do amor está aberto a todos os homens e não é inútil o esforço para instaurar uma fraternidade universal. Adverte-nos também que esta caridade não deve ser praticada somente nas grandes ocasiões, mas, antes de tudo, nas circunstâncias ordinárias da vida. Sofrendo a morte por todos nós pecadores, ele nos ensina com o seu exemplo que devemos também carregar a cruz que a carne e o mundo impõem sobre os ombros dos que procuram a paz e a justiça. Constituído Senhor por sua ressurreição, Cristo, a quem foi dado todo poder no céu e na terra, age nos corações dos homens pelo poder de seu Espírito. Não somente suscita o desejo do mundo futuro, mas anima, purifica e fortalece por esse desejo os propósitos generosos com que a família humana procura melhorar suas condições de vida e submeter para este fim a terra inteira. São diversos, porém, os dons do Espírito. Enquanto chama alguns para testemunharem abertamente o desejo da morada celeste e conservarem vivo esse testemunho na família humana, chama outros para se dedicarem ao serviço terrestre dos homens e prepararem com esse ministério a matéria do reino dos céus. A todos, porém, liberta para que, renunciando ao egoísmo e empregando todas as energias terrenas em prol da vida humana, se lancem decididamente para as realidades futuras, quando a própria humanidade se tornará uma oferenda agradável a Deus.
+
+@secao Responsório | 2Cor 5,15; Rm 4,25
+
+@responsorio
+R. Cristo por todos morreu,
+* Para que aqueles que vivem não vivam mais para si, mas vivam, sim, para aquele que por eles morreu e ressurgiu dentre os mortos.
+V. Foi entregue por nossos pecados, ressurgiu para justificar-nos. * Para que aqueles.
+
+@secao Oração
+
+@oracao
+Ó Deus, na vossa misericórdia, dirigi os nossos corações, pois sem vosso auxílio não vos podemos agradar. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

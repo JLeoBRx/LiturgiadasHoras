@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7segundaPA.htm
+
+@secao Antífona da entrada | At 1,8
+@texto
+Recebereis o poder do Espírito Santo que descerá sobre vós,
+para serdes minhas testemunhas até os confins da terra, aleluia.
+
+@secao Coleta
+@texto
+Senhor, venha sobre nós a força do Espírito Santo, para que, com firmeza de coração,
+possamos acolher vossa vontade
+e testemunhá-la por uma vida santa.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+o sacrifício imaculado nos purifique,
+e dê aos nossos corações
+o vigor da graça do alto.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 14,18; 16,22
+@texto
+Não vos deixarei órfãos, diz o Senhor:
+virei de novo a vós, e vosso coração se alegrará, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, nós vos pedimos,
+permanecei com misericórdia junto ao vosso povo
+e fazei passar da antiga para a nova vida
+aqueles que iniciastes nos mistérios celestes.
+Por Cristo, nosso Senhor.

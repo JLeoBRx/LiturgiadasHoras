@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/segunda_aposepifania_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos Apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@salmo salmos/salmo-118-41-48
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Leitura breve | Cf. Tb 14,6-7
+
+@texto
+Os povos da terra inteira, todos se converterão e temerão verdadeiramente a Deus. Todos abandonarão seus ídolos. E bendirão na justiça o Deus eterno. Todos os israelitas salvos naqueles dias por se lembrarem de Deus na verdade, serão reunidos e virão para Jerusalém. Então se alegrarão os que amam a Deus em verdade.
+
+@texto
+V. Nações, glorificai o nosso Deus.
+R. Anunciai em alta voz o seu louvor.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o esplendor da vossa glória ilumine os nossos corações, para que, passando pelas trevas deste mundo, cheguemos à pátria da luz que não se extingue. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

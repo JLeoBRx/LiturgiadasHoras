@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomarcos_sexta.htm
+@documento Hora Média - São Marcos Evangelista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | 1Ts 2,2b-4
+
+@texto
+Encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus.
+
+@texto
+V. Eles guardavam os preceitos, aleluia,
+R. E as ordens do Senhor, aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes a São Marcos, vosso evangelista, a glória de proclamar a Boa-nova, dai-nos assimilar de tal modo seus ensinamentos, que sigamos fielmente os caminhos do Cristo. Que convosco vive e reina, na unidade do Espírito Santo. V. Bendigamos ao Senhor. R. Graças a Deus.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

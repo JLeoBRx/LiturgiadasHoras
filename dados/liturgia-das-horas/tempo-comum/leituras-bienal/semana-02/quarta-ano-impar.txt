@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/02quartaTC_impar.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo 2a SEMANA DO TEMPO COMUM / QUARTA-FEIRA / II Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {6,1-11}
+
+@tema
+Mortos para o pecado, mas vivos para Deus, em Cristo Jesus
+
+@texto
+[1] Que diremos, então? Que devemos permanecer no pecado a fim de que a graça atinja sua plenitude? [2] De modo algum! Nós, que morremos para o pecado, como haveríamos de viver ainda nele? [3] Ou não sabeis que todos os que fomos batizados em Cristo Jesus, é na sua morte que fomos batizados? [4] Portanto pelo batismo nós fomos sepultados com ele na morte para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim também nós vivamos vida nova. [5] Porque se nos tornamos uma coisa só com ele por uma morte semelhante à sua, seremos uma coisa só com ele também por uma ressurreição semelhante à sua, [6] sabendo que nosso velho homem foi crucificado com ele para que fosse destruído este corpo de pecado, e assim não sirvamos mais ao pecado. [7] Com efeito, quem morreu, ficou livre do pecado. [8] Mas se morremos com Cristo, temos fé que também viveremos com ele, [9] sabendo que Cristo, uma vez ressuscitado dentre os mortos, já não morre, a morte não tem mais domínio sobre ele. [10] Porque, morrendo, ele morreu para o pecado uma vez por todas; vivendo, ele vive para Deus. [11] Assim também vós considerai-vos mortos para o pecado e vivos para Deus em Cristo Jesus.
+
+@secao Responsório | Rm 6,4; Gl 3,27
+
+@responsorio
+R. Pelo batismo nós fomos sepultados com ele na morte,
+* Para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai,
+assim também nós vivamos vida nova.
+V. Pois todos vós, que fostes batizados em Cristo, vos vestistes de Cristo. *Para que, como Cristo.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre a Carta aos Romanos”, de Orígenes, presbítero
+{(Séc. III)} {(Liv 4,7)}
+
+@tema
+Se acreditarmos que Cristo ressuscitou para nos justificar, como podemos amar a injustiça?
+
+@texto
+Vejamos por que, embora sendo muitas as prerrogativas de Cristo - ele, com efeito, é chamado de sabedoria, virtude, justiça, Verbo, verdade e vida - o Apóstolo, como sustento da nossa fé, cite particularmente a sua ressurreição. O próprio Apóstolo atesta que _Deus nos ressuscitou e nos fez_ _assentar nos céus, em Cristo Jesus_ (Ef 2,6).
+Eis o que quer nos dizer: se acreditais que Cristo ressuscitou dos mortos, acreditai que também vós ressuscitastes juntamente com ele; e se acreditais que ele está sentado no céu à direita do Pai, acreditai que também vós fostes postos não entre as criaturas terrestres, mas entre as celestes. E se acreditais que vós morrestes com Cristo, acreditai que vós vivereis com ele: se acreditais que Cristo morreu para o pecado e vive para Deus, vós também morrei ao pecado e vivei para Deus. E, com autoridade apostólica, exorta-nos: _Se, portanto, ressuscitastes com Cristo, buscai as coisas lá_ _do alto, onde Cristo está sentado à direita de Deus; afeiçoai-__vos às coisas lá de cima, e não às da terra_ (Cl 3,1-2); porque somente quem age dessa forma demonstra a fé naquele que ressuscitou a Jesus nosso Senhor dos mortos, e a fé desse homem certamente será tida em conta de justiça.
+Com efeito, não é possível que, se um homem tem em si alguma injustiça, esta possa ser levada em conta de justiça, ainda que tal homem acredite naquele que ressuscitou o Senhor Jesus dos mortos. A injustiça nada pode ter em comum com a justiça, assim como a luz nada tem em comum com as trevas, nem a vida com a morte. Assim, a fé não pode ser motivo de justiça para aqueles que, embora acreditem em Cristo, não abandonam o homem velho e a injustiça.
+Da mesma maneira, podemos dizer que, assim como ao injusto não pode ser atribuída a justiça, tampouco ao ímpio pode ser atribuída a piedade até que ele não tenha abandonado os costumes antigos do vício e não se tenha _revestido do homem novo, criado segundo Deus, renovado_ _por um conhecimento pleno de Deus, à imagem do seu_ _Criador_ (Ef 4,24; Cl 3,10). Por isso, falando do Senhor Jesus, o Apóstolo acrescenta: _Ele foi entregue por nossos_ _pecados e ressuscitado para a nossa justificação_ (Rm 4,25). Revela, assim, que devemos detestar e afastar de nós tudo aquilo que causou a morte de Cristo. Se tivermos certeza de que Cristo foi entregue à morte por nossas enfermidades, como não abominar todo pecado, toda culpa que provocou a condenação de nosso Senhor? Com efeito, se admitimos qualquer sociedade ou amizade com o pecado, menospre zamos a morte de Jesus Cristo, abraçando e seguindo aquilo que ele combateu e venceu.
+Se eu estiver convencido disso, como poderei amar aquilo pelo qual Cristo padeceu a morte? Se eu acreditar que ele ressuscitou para me justificar, como amarei a injustiça? Pois Cristo justifica apenas aqueles que, a exemplo da sua ressurreição, começam uma vida nova e depõem os hábitos antigos da iniquidade e da injustiça que causam a morte.
+
+@secao Responsório | 2Cor 5,15; Rm 4,25
+
+@responsorio
+R. Cristo morreu por todos,
+* A fim de que os que vivem já não vivam mais para si,
+mas para aquele que por eles morreu e ressuscitou.
+V. Ele foi entregue por nossos pecados
+e ressuscitado para a nossa justificação.
+* A fim de que.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que governais o céu e a terra, escutai com bondade as preces do vosso povo e dai ao nosso tempo a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

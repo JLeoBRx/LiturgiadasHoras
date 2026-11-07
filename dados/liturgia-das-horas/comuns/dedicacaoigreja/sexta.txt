@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_sexta.htm
+@documento COMUM DA DEDICAÇÃO DE UMA IGREJA - Hora Média
+
+@titulo COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Refulge a santidade em vossa casa
+pelos séculos dos séculos, Senhor!
+
+@salmo salmos/salmo-122-v2
+
+@gloria
+
+@antifona
+Refulge a santidade em vossa casa
+pelos séculos dos séculos, Senhor!
+
+@secao Leitura breve | 2 Cor 6,16
+
+@texto
+Vós sois templo do Deus vivo, como disse o próprio Deus: Eu habitarei no meio deles e andarei entre eles. Serei o seu Deus e eles serão o meu povo.
+
+@texto
+V. Rogai que viva em paz Jerusalém.
+R. E em segurança os que te amam.
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

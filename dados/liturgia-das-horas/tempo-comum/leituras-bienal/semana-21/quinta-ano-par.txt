@@ -1,0 +1,67 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/21quintaTC_par.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo QUINTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {2,1-15}
+
+@tema
+Convite à oração
+
+@texto
+Caríssimo, [1] recomendo, pois, antes de tudo, que se façam pedidos, orações, súplicas e ações de graças, por todos os homens, [2] pelos reis e todos os que detêm a autoridade, a fim de que levemos uma vida calma e serena, com toda piedade e dignidade. [3] Eis o que é bom e aceitável diante de Deus, nosso Salvador, [4] que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade. [5] Pois há um só Deus, e um só mediador entre Deus e os homens, um homem, Cristo Jesus, [6] que se deu em resgate por todos.
+Este é o testemunho dado nos tempos estabelecidos [7] e para o qual fui designado pregador e apóstolo - digo a verdade, não minto - doutor das nações na fé e na verdade. [8] Quero, portanto, que os homens orem em todo lugar, erguendo mãos santas, sem ira e sem animosidade. [9] Quanto às mulheres, que elas tenham roupas decentes, se enfeitem com pudor e modéstia; nem tranças, nem objetos de ouro, pérolas ou vestuário suntuoso; [10] mas que se ornem, ao contrário, com boas obras, como convém a mulheres que se professam piedosas. [11] Durante a instrução a mulher conserve o silêncio, com toda submissão. [12] Não permito que a mulher ensine, ou domine o homem. Que conserve, pois, o silêncio. [13] Porque primeiro foi formado Adão, depois Eva. [14] E não foi Adão que foi seduzido, mas a mulher que, seduzida, caiu em transgressão. [15] Entretanto, ela será salva pela sua maternidade, desde que, com modéstia, permaneça na fé, no amor e na santidade.
+
+@secao Responsório | 1Tm 2,5-6; Hb 2,17a
+
+@responsorio
+R. Há somente um Deus
+e um só mediador entre Deus e os homens,
+o homem Cristo Jesus,
+* Que a si mesmo se deu como resgate por todos.
+V. Convinha que em tudo fosse igual a seus irmãos,
+para poder ter pena deles.
+* Que a si mesmo.
+
+@secao Segunda leitura
+
+@leitura
+Das “Homilias sobre a Primeira Carta a Timóteo”, de São João Crisóstomo, bispo
+{(Séc. V)} {(6,1-2)}
+
+@tema
+Toda nossa oração contenha uma ação de graças
+
+@texto
+O sacerdote é como um pai universal que cuida de todos, à imagem de Deus de quem é sacerdote. Por isso, Paulo diz: _Recomendo, antes de tudo, que se façam pedidos e súplicas_ (1Tm 2,1). Disso procedem duas coisas boas: dissolve-se o ódio que nutrimos contra os outros, porque ninguém pode odiar aquele para quem prega; e os outros se tornam melhores, seja porque se intercede por eles, seja porque o fim de tais orações é que deponham seu rancor contra nós. Nada, com efeito, serve mais para amansar do que amar e ser amado.
+Pensa que grande coisa seria se os que perpetram insídias e flagelos, batem e matam soubessem que as vítimas de tais violências elevam ardentes orações a Deus por eles!
+Vê como o Apóstolo quer que o cristão seja superior a todos! O mesmo ocorre com os meninos: ainda que a criança de colo golpeie o rosto do pai, o afeto paterno não diminui. Assim nós, embora fustigados, devemos nutrir sentimentos de benevolência para com os outros.
+O que significa: _Antes de tudo?_ (1Tm 2,1). Quer dizer: no culto cotidiano. Os iniciados sabem que, todo dia, rezamos, de manhã e à noite, e elevamos súplicas em favor de todos, pelos reis e pelos governantes.
+Para tornar aceita a exortação, o Apóstolo acrescenta a vantagem que dela procede: _Para podermos levar uma vida_ _calma e serena_ (1Tm 2,2). Em outras palavras, o bem estar dos outros é a causa da nossa serenidade. Assim também na carta aos Romanos, exortando os fieis a obedecer às autoridades civis, o Apóstolo diz: _Não somente por temor_ _do castigo, mas também por dever de consciência_ (Rm 13,5), _façam-se pedidos, súplicas, orações e ações de_ _graças_ (1Tm 2,1).
+Sim, certamente é necessário agradecer a Deus também pelos bens concedidos aos outros: por exemplo, porque _faz nascer o seu sol igualmente sobre maus e bons e cair a_ _chuva sobre justos e injustos_ (Mt 5,45). Vê como nos une e nos ata, não apenas por meio da oração, mas também com a ação de graças. Com efeito, o que nos leva a agradecer a Deus pelos bens do próximo impulsiona-nos também a amar o próximo e a ter uma boa disposição para com os outros. Se devemos dar graças pelos que estão próximos, mais ainda devemos agradecer pelos que se aproximam, oculta ou abertamente, amigavelmente ou não, e também por aqueles que parecem nos prejudicar: com efeito, Deus dispõe tudo pelo nosso bem.
+Portanto, toda nossa oração deve conter uma ação de graças. Se nos é pedido que rezemos pelos fiéis e pelos infiéis, pensa que grande prejuízo seria rezar contra os nossos irmãos!
+
+@secao Responsório | Sl 70(71),8-9.23
+
+@responsorio
+R. Minha boca está cheia do teu louvor,
+do teu esplendor, todo o dia.
+* Não me rejeites no tempo da velhice,
+não me abandones quando meu vigor se extingue!
+V. Que meus lábios exultem, quando eu tocar para ti,
+e também minha vida, porque a resgataste!
+* Não me.
+
+@secao Oração
+
+@oracao
+Ó Deus, que unis os corações dos vossos fiéis num só desejo, dai ao vosso povo amar o que ordenais e esperar o que prometeis, para que, na instabilidade deste mundo, fixemos os nossos corações onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

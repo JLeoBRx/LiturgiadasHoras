@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santacatarina_laudes.htm
+@documento Laudes - Santa Catarina de Sena, virgem e doutora da Igreja
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Louvamos-te, ó Catarina,
+com o mais intenso louvor,
+pois toda a Igreja ilumina
+a tua glória e fulgor.
+
+A mais sublime virtude
+teus santos passos conduz;
+tua alma, tão despojada,
+segue o caminho da cruz.
+
+Tu és estrela do mundo,
+arauto vivo da paz:
+tua presença, tão simples,
+toda discórdia desfaz.
+
+Com as mais candentes palavras
+exiges paz e união,
+pois fala o Espírito Santo
+que habita em teu coração.
+
+As tuas preces pedimos,
+ó santa virgem de Deus:
+dá que busquemos na terra
+chegar ao Reino dos Céus.
+
+Ao Pai e ao Espírito Santo,
+honra, louvor e poder.
+Também ao Filho, que homem
+quis de uma Virgem nascer.
+
+@secao Salmodia
+
+@antifona 1
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@antifona 2
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons!
+
+@antifona 3
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo.
+
+@secao Leitura breve | Ct 8,7
+
+@texto
+Águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, é vossa face que eu procuro. Meu coração fala convosco confiante.
+* Aleluia, aleluia. R. Senhor.
+V. Senhor, não me escondais a vossa face! * Aleluia.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A santa virgem Catarina não cessava de rezar
+que a paz voltasse novamente à Igreja do Senhor. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A santa virgem Catarina não cessava de rezar
+que a paz voltasse novamente à Igreja do Senhor. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, esposo e prêmio das virgens; e lhe supliquemos com fé:
+
+R. **Jesus, prêmio das virgens, ouvi-nos!**
+
+Cristo, amado pelas santas virgens como único Esposo,
+– concedei que nada nos separe do vosso amor. R.
+
+Coroastes Maria, como Rainha das virgens;
+– concedei-nos, por sua intercessão, que vos sirvamos sempre de coração puro. R.
+
+Por intercessão de vossas servas, que a vós se consagraram de todo o coração para serem santas de corpo e de alma;
+– concedei que jamais a instável figura deste mundo nos afaste de vós. R.
+
+Senhor Jesus, esposo por cuja vinda as virgens prudentes esperaram sem desanimar;
+– concedei que vos aguardemos vigilantes na esperança. R.
+
+Por intercessão de Santa Catarina de Sena, uma das virgens sábias e prudentes,
+– concedei-nos sabedoria e uma vida sem mancha. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que inflamastes de amor Santa Catarina de Sena, na contemplação da paixão do Senhor e no serviço da Igreja, concedei-nos, por sua intercessão, participar do mistério de Cristo, e exultar em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

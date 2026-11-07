@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/09sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {42,7-16}
+
+@tema
+Deus reabilita Jó diante dos seus adversários
+
+@texto
+[7] Quando o Senhor acabou de dirigir a Jó estas palavras, disse a Elifaz de Temã: "Estou indignado contra ti e os teus dois companheiros, porque não falastes corretamente de mim, como o fez meu servo Jó. [8] Tomai, pois, sete novilhas e sete carneiros e dirigi-vos ao meu servo Jó. Oferecei-os em holocausto, e ele intercederá por vós. Em atenção a ele, não vos tratarei como merece a vossa temeridade, por não terdes falado corretamente de mim, como o fez meu servo Jó". [9] Elifaz de Temã, Baldad de Suás e Sofar de Naamat fizeram como o Senhor lhes ordenou, e ele atendeu às orações de Jó. [10] Então o Senhor mudou a sorte de Jó, quando intercedeu por seus companheiros, e duplicou todos os seus bens. [11] Vieram visitá-lo todos os seus irmãos e irmãs e os antigos conhecidos; comeram com ele em sua casa, consolaram-no e confortaram-no pela desgraça que o Senhor lhe tinha enviado; cada qual lhe ofereceu uma quantia de dinheiro e um anel de ouro. [12] O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas. [13] Teve outros sete filhos e três filhas: [14] a primeira chamava-se "Rola, a segunda "Cássia, e a terceira "Azeviche". [15] Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança, entre os seus irmãos. [16] Depois destes acontecimentos, Jó viveu cento e quarenta anos, e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos.
+
+@secao Responsório Cf. Jó 42,7.8
+
+@responsorio
+R. Disse Deus a Elifaz: por que tu e teus amigos, falando sobre mim, não falastes retamente, como fez meu servo Jó?
+* Ele por vós suplicará.
+V. Olharei para seu rosto, para que vossa insensatez
+não vos seja imputada. * Ele por vós.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre João, de Santo Tomás de Aquino, presbítero
+{(Séc. XIII)} {(Cap. 14, lect. 2)}
+
+@tema
+O caminho para chegar à verdadeira vida
+
+@texto
+O caminho é o próprio Cristo, conforme ele próprio disse: _Eu sou o caminho._ E com muita razão, pois _temos por ele acesso junto ao Pai._ Porque, porém, este caminho não está distante do seu termo, mas unido a ele, Cristo acrescenta: _Verdade e vida_; de sorte que é ao mesmo tempo o caminho e o termo. É o caminho, segundo a humanidade; é o termo, segundo a divindade. Assim, como homem, diz: _Eu sou o caminho_; e, como Deus, acrescenta: _A verdade e a vida._ Por estas duas realidades indica bem o término deste caminho. O término deste caminho é a meta do desejo dos homens e o homem deseja principalmente duas coisas: primeiro, o conhecimento da verdade, o que lhe é próprio; segundo, a permanência no ser, o que é comum a todos os seres. Cristo é o caminho que leva ao conhecimento da verdade, porque é ele mesmo a Verdade: _Conduze-me, Senhor, à tua verdade e entrarei em teu caminho._ Cristo é também o caminho que faz chegar à vida; é ele próprio a vida: _Fizeste-me conhecer os caminhos da vida_. Por este motivo designou o término do caminho como verdade e vida: ambas se referem a Cristo. Em primeiro lugar, porque ele é a vida: _Nele era a vida_; em seguida, porque ele é a verdade: _Era a luz dos homens_. Ora, a luz é a verdade. Se, portanto, indagas por onde passar, acolhe a Cristo, o próprio caminho: _É este o caminho, caminhai por ele._ E Agostinho disse: _Caminha pelo homem e chegarás a Deus._ É melhor claudicar no caminho do que caminhar com desembaraço fora dele. Pois quem manqueja no caminho, conquanto demore, chegará ao termo. Quem, ao contrário, vai por fora do caminho, embora correndo, se afasta, cada vez mais, do termo. Se agora perguntas para onde ir, adere a Cristo, que é a verdade, meta de nossa caminhada: _Minha boca meditará tua verdade._ Se buscas permanecer, adere a Cristo, a própria vida: _Quem me encontra, encontra a vida e haurirá a salvação vinda do Senhor._ Adere, por conseguinte, a Cristo, se queres ter segurança; não te desviarás, porque ele é o caminho. Os que a ele aderem, não andam fora, mas no caminho reto. Também não podem enganar-se, pois, com efeito, é ele a verdade e ensina toda a verdade, conforme suas mesmas palavras: _Para isto nasci e vim aqui, para dar testemunho à verdade._ E ainda, nada te perturbará, porque ele mesmo é a vida e o que dá a vida: _Eu vim para que tenham a vida e a tenham em abundância._
+
+@secao Responsório Jó 42,10b.11ab.12a; 1Cor 10,13b
+
+@responsorio
+R. Deu o Senhor a Jó em dobro tudo quanto tinha antes,
+e seus irmãos e suas irmãs o consolaram e confortaram.
+* O Senhor o abençoou, mais no fim que no princípio.
+V. Deus é fiel e não permite que passeis por provações,
+que vão além das vossas forças,
+mas fará com que tireis proveito até na tentação.
+* O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, cuja providência jamais falha, nós vos suplicamos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

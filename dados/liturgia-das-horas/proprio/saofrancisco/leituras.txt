@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saofrancisco.htm
+@documento Ofício das Leituras - São Francisco De Assis Memória
+
+@celebracao
+SÃO FRANCISCO DE ASSIS
+{Memória}
+
+@biografia
+Nasceu em Assis (Itália), no ano 1182. Depois de uma juventude leviana, converteu-se a Cristo, renunciou a todos os bens paternos e entregou-se inteiramente a Deus. Abraçou a pobreza para seguir mais perfeitamente o exemplo de Cristo, e pregava a todos o amor de Deus. Formou os seus companheiros com normas excelentes, inspiradas no Evangelho, que foram aprovadas pela Sé Apostólica. Fundou também uma Ordem de religiosas (Clarissas) e uma Ordem de Penitentes Seculares; e promoveu a pregação da fé entre os infiéis. Morreu em 1226.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dossofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores dorebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso;não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vosforam confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer opastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos dehumildade no relacionamento mútuo, porqueDeus resiste aos soberbos,mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na horaoportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quemcuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como umleão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguaissofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para asua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] Aele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel.
+V. Muitos se dizem “homens de bem”; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta a todos os fiéis, de São Francisco de Assis
+{(Séc. XIII)} {(Opuscula, edit. Quaracchi 1949,87-94)}
+
+@tema
+Devemos ser simples, humildes e puros
+
+@texto
+O Pai Altíssimo anunciou a vinda do céu do tão digno, tão santo e glorioso Verbo do Pai, através de seu santo, Gabriel, à santa e gloriosa Virgem Maria, em cujo seio recebeu a verdadeira carne de nossa humanidade e fragilidade. Ele quis, no entanto, sendo incomparavelmente mais rico, escolher a pobreza junto com a sua santíssima mãe. Nas vésperas de sua paixão, celebrou a Páscoa com os discípulos. Depois, orou ao Pai dizendo: _Pai, se for possível, afaste-se de mim este cálice_ (Mt 26,39). Pôs, contudo, sua vontade na vontade do Pai. E a vontade do Pai era que seu Filho bendito e glorioso, dado a nós e nascido para nós, se oferecesse em sacrifício e vítima no altar da cruz, pelo seu próprio sangue. Sacrifício não para si, por quem tudo foi feito, mas por nossos pecados, deixando-nos o exemplo para lhe seguirmos as pegadas (cf. 1Pd 2,21). E quer que todos nos salvemos por ele e o acolhamos com coração puro e corpo casto. Ó como são felizes e benditos aqueles que amam o Senhor e fazem o que o mesmo Senhor diz no evangelho: _Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e ao próximo como a ti mesmo!_ (Lc 10,27). Amemos, portanto, a Deus e adoremo-lo com coração puro e mente pura porque, acima de tudo, disto está ele à procura e diz: _Os verdadeiros adoradores adorarão o Pai em espírito e em verdade_ (Jo 4,23). É necessário que todos que o adoram, o adorem no espírito da verdade. E dia e noite elevemos para ele louvores e orações, dizendo: _Pai nosso que estás nos céus_ (Mt 6,9); porque é preciso orar sempre e não desfalecer (cf. Lc 18,1). Além disto, produzamos dignos frutos de penitência (cf. Mt 3,8). E amemos os próximos como a nós mesmos. Tenhamos caridade e humildade e façamos esmolas, já que estas lavam as almas das nódoas dos pecados. Os homens perdem tudo o que deixam neste mundo. Levam consigo somente a paga da caridade e as esmolas que fizeram: delas receberão do Senhor o prêmio e a justa recompensa. Não nos convém sermos sábios e prudentes segundo a carne, mas temos antes de ser simples, humildes e puros. Jamais desejemos ficar acima dos outros, mas prefiramos ser servos e submissos a toda criatura humana, por causa de Deus. Sobre todos os que assim agirem e perseverarem até o fim repousará o Espírito do Senhor e fará neles sua casa e mansão. Serão filhos do Pai celeste, pois fazem suas obras, e são esposos, irmãos e mães de nosso Senhor Jesus Cristo.
+
+@secao Responsório | Mt 5,3.5.6
+
+@responsorio
+R. Felizes os pobres em espírito,
+porque deles é o Reino dos céus.
+* Felizes os mansos, pois a terra herdarão.
+V. Felizes os famintos e sedentos de justiça:
+serão todos saciados. * Felizes.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes São Francisco de Assis assemelhar-se ao Cristo por uma vida de humildade e pobreza, concedei que, trilhando o mesmo caminho, sigamos fielmente o vosso Filho, unindo-nos convosco na perfeita alegria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

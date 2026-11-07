@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoseoperario_laudes.htm
+@documento Laudes - São José Operário
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Anuncia a aurora o dia,
+chama todos ao trabalho;
+como outrora em Nazaré,
+já se escutam serra e malho.
+
+Salve, ó chefe de família!
+Que mistério tão profundo
+ver que ensinas teu ofício
+a quem fez e salva o mundo!
+
+Habitando agora o alto
+com a Esposa e o Salvador,
+vem e assiste aqui na terra
+todo pobre e sofredor!
+
+Ganhe o pobre um bom salário,
+e feliz seja em seu lar;
+gozem todos de saúde
+com modéstia e bem-estar.
+
+São José, roga por nós
+à Trindade que é um só Deus;
+encaminha os nossos passos,
+guia a todos para os céus.
+
+@secao Salmodia
+
+@antifona 1
+Os pastores vieram depressa
+e encontraram Maria e José
+e, no presépio, o Menino deitado.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Os pastores vieram depressa
+e encontraram Maria e José
+e, no presépio, o Menino deitado.
+
+@antifona 2
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+José e Maria, a Mãe de Jesus,
+se admiravam das coisas que dele eram ditas.
+
+@antifona 3
+José levantou-se de noite,
+tomou o Menino e sua Mãe,
+e fugiu para a terra do Egito;
+ficou lá até a morte de Herodes.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+José levantou-se de noite,
+tomou o Menino e sua Mãe,
+e fugiu para a terra do Egito;
+ficou lá até a morte de Herodes.
+
+@secao Leitura breve | 2Sm 7,28-29
+
+@texto
+Senhor Deus, tu és Deus e tuas palavras são verdadeiras. Pois que fizeste esta bela promessa ao teu servo, abençoa, então, a casa do teu servo, para que ela permaneça para sempre na tua presença. Porque és tu, Senhor Deus, que falaste, e é graças à tua bênção que a casa do teu servo será abençoada para sempre.
+
+@secao Responsório breve
+
+@responsorio
+R. Fez dele o senhor de sua casa.
+* Aleluia, aleluia. R. Fez dele.
+V. E de todos os seus bens, o despenseiro. * Aleluia.
+Glória ao Pai. R. Fez dele.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Homem fiel e exemplar carpinteiro dedicado
+em sua vida de trabalho, São José é nosso modelo. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Homem fiel e exemplar carpinteiro dedicado
+em sua vida de trabalho, São José é nosso modelo. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos humildemente ao Senhor, de quem procede toda perfeição e santidade dos justos; e digamos:
+
+R. **Santificai-nos, Senhor, segundo a vossa justiça!**
+
+Senhor Deus, que chamastes os nossos pais na fé para caminharem na vossa presença com um coração perfeito,
+– fazei que, seguindo os seus passos, alcancemos a perfeição de acordo com a vossa vontade. R.
+
+Vós, que escolhestes São José, homem justo, para cuidar de vosso Filho na infância e juventude,
+– fazei que sirvamos em nossos irmãos e irmãs o Corpo místico de Cristo. R.
+
+Vós, que destes a terra aos seres humanos para que a povoassem e dominassem,
+– ensinai-nos a trabalhar corajosamente neste mundo, buscando sempre a vossa glória. R.
+
+Pai de todos nós, lembrai-vos da obra de vossas mãos,
+– e dai a todos trabalho e condições de vida digna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, criador do universo, que destes aos homens a lei do trabalho, concedei-nos, pelo exemplo e a proteção de São José, cumprir as nossas tarefas e alcançar os prêmios prometidos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quarta_nona.htm
+@documento Próprio - Nona - III Quarta-feira do Advento
+
+@secao Leitura breve | Dn 9,19
+
+@texto
+Senhor, escuta! Senhor, perdoa! Senhor, atende e passa à ação sem tardar, em atenção a ti, meu Deus! Pois tua cidade e teu povo são chamados por teu nome.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que as próximas festas do vosso Filho nos sejam remédio nesta vida e prêmio na vida eterna. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

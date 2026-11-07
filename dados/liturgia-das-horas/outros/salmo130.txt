@@ -1,0 +1,6 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmo130.htm
+@documento Salmo 130(131)
+
+@salmo salmos/salmo-130
+
+@gloria

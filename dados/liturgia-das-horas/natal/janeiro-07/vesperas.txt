@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/7janeiro_vesperas.htm
+@documento 7janeiro_vesperas.htm
+
+@secao Leitura breve | At 10,37-38
+
+@texto
+Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+
+@texto
+V. E habitou entre nós. * Aleluia, aleluia.
+
+@salmo salmos/trecho-7janeiro-vesperas
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Do céu fez-se ouvir uma voz:
+Tu és o meu Filho querido,
+em ti ponho a minha afeição.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Do céu fez-se ouvir uma voz:
+Tu és o meu Filho querido,
+em ti ponho a minha afeição.
+
+@secao Preces
+
+@preces
+Celebremos com alegria a Jesus Cristo, em cujo natal os anjos anunciaram a paz ao mundo; e peçamos:
+
+R. **Vosso natal traga a paz para todos!**
+
+Senhor, que confortais a Igreja com o mistério do vosso nascimento,
+– enriquecei-a de todos os bens. R.
+
+Vós, que viestes ao mundo para inaugurar a era dos novos tempos,
+– atraí para vós todas as gerações. R.
+
+Esperado das nações, que viestes na plenitude dos tempos,
+
+– manifestai vossa presença àqueles que ainda estão à vossa espera. R.
+
+Viestes para salvar toda a humanidade;
+– conduzi os recém-nascidos à graça do batismo. R.
+
+{(intenções livres)}
+
+Verbo encarnado, que viestes renovar a natureza humana corrompida pelo pecado;
+– concedei a plenitude da redenção aos nossos irmãos e irmãs defuntos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, sede a luz dos vossos fiéis e abrasai seus corações com o esplendor da vossa glória, para reconhecerem sempre o Salvador e a ele aderirem totalmente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

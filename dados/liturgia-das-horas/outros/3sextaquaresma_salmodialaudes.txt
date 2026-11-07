@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/3sextaquaresma_salmodialaudes.htm
+@documento Salmodia opcional - Cinzas, início da Quaresma
+
+@titulo Cinzas, início da Quaresma
+
+@secao Salmodia
+
+@antifona 1
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@antifona 2
+Conhecemos nossas culpas,
+pois pecamos contra vós.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@antifona
+Conhecemos nossas culpas,
+pois pecamos contra vós.
+
+@antifona 3
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.

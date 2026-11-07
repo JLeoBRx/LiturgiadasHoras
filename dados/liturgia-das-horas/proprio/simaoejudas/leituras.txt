@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/simaoejudas.htm
+@documento Ofício das Leituras - Santos Simão E Judas, Apóstolos Festa
+
+@celebracao
+SANTOS SIMÃO E JUDAS, APÓSTOLOS
+{Festa}
+
+@biografia
+O nome de Simão figura em undécimo lugar na lista dos Apóstolos. Dele se sabe apenas que nasceu em Caná e que tinha o denominativo de “Zelotes”. Judas, de sobrenome Tadeu, é o Apóstolo que na Última Ceia perguntou ao Senhor por que razão se manifestava aos seus discípulos e não ao mundo (Jo 14,22).
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {4,1-16}
+
+@tema
+Sejamos imitadores do Apóstolo, como ele o foi de Cristo
+
+@texto
+Irmãos: [1] Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. [2] A este respeito, o que se exige dos administradores é que sejam fiéis. [3] Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. [4] É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. [5] Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido.
+[6] Irmãos, apliquei essa doutrina a mim e a Apolo, por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. [7] Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido?
+[8] Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! [9] Na verdade, parece-me que Deus nos apresentou, a nós apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. [10] Nós somos os tolos por causa de Cristo, vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. [11] Até à presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; [12] fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; [13] somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até ao presente.
+[14] Escrevo-vos tudo isto, não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. [15] De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo. [16] Portanto, eu vos peço, sede meus imitadores.
+
+@secao Responsório | Jo 15,15; Mt 13,11.16
+
+@responsorio
+R. Não vos chamo mais meus servos, mas vos chamo meus amigos,
+* Pois vos dei a conhecer tudo quanto ouvi do Pai.
+V. A vós foi concedido conhecer os mistérios do reino dos céus; felizes vossos olhos porque veem, felizes os ouvidos porque ouvem. * Pois vos dei.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de João, de São Cirilo de Alexandria, bispo
+{(Séc. V)} {(Lib. 12,1: PG 74,707-710)}
+
+@tema
+Como o Pai me enviou, também eu vos envio
+
+@texto
+Nosso Senhor Jesus Cristo designou guias e doutores do mundo e dispensadores de seus divinos mistérios. Semelhantes a lâmpadas, ordenou-lhes que esclarecessem e iluminassem não apenas o país dos judeus, mas todos os que existem sob o sol e em todo o universo, os homens e habitantes da terra. É verdadeiro aquele que disse: _Ninguém se arroga esta honra, mas quem foi chamado por Deus_ (Hb 5,4). Pois nosso Senhor Jesus Cristo chamou ao nobilíssimo apostolado, antes de todos os outros, os seus discípulos. Os santos Apóstolos foram colunas e firmamento da verdade. A eles diz que os envia da mesma forma como foi enviado pelo Pai. Mostrou assim, ao mesmo tempo, a dignidade do apóstolo e a glória incomparável do poder que lhe foi dado; como também, parece-me, sugerindo a meta da vida apostólica. Pois, se julgava que devia enviar seus discípulos do mesmo modo como o Pai o enviara, como não se seguiria necessariamente que seus futuros imitadores iriam conhecer a que fim o Pai enviara o Filho? Por isto, declarando em vários lugares a finalidade de sua missão, dizia: _Não vim chamar os justos, mas os pecadores para a conversão_ (cf. Mt 9,13). E também: _Desci do céu não para fazer minha vontade, mas a vontade daquele que me enviou. Deus não enviou seu Filho ao mundo para julgar o mundo, mas para que o mundo seja salvo por ele_ (Jo 3,17). Resumindo assim, em poucas palavras, o objetivo do apostolado, diz que foram enviados por ele, como ele o fora pelo Pai e soubessem ter recebido a missão de chamar os pecadores à conversão; de curar os doentes de corpo e de espírito; de não procurar, no ministério, sua vontade, mas a daquele por quem foram enviados; e de salvar o mundo por sua doutrina. Não será difícil saber quanto os santos apóstolos se esforçaram por bem realizar todas estas tarefas, se leres os escritos dos Atos dos Apóstolos e de São Paulo.
+
+@secao Responsório | Jo 15,16.8
+
+@responsorio
+R. Não fostes vós que me escolhestes,
+mas sim eu vos escolhi
+e vos dei esta missão de produzirdes muito fruto
+* E o vosso fruto permaneça.
+V. O meu Pai recebe glória, ao produzirdes muito fruto.
+* E o vosso fruto.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que, pela pregação dos Apóstolos, nos fizestes chegar ao conhecimento do vosso Evangelho, concedei, pelas preces de São Simão e São Judas, que a vossa Igreja não cesse de crescer, acolhendo com amor novos fiéis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

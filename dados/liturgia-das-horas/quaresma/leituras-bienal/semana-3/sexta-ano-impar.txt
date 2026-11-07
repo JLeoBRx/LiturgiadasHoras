@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/3sexta_quaresma_impar.htm
+@documento Ofício das Leituras - 3ª Semana Da Quaresma - Sexta-Feira
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {5,11-6,8}
+
+@tema
+Elevemo-nos a uma perfeição adulta
+
+@texto
+Muitas coisas teríamos a dizer sobre isso, e a sua explicação é difícil, porque vos tornastes lentos à compreensão. Pois, uma vez que com o tempo vós deveríeis ter-vos tornado mestres, necessitais novamente que se vos ensinem os primeiros rudimentos dos oráculos de Deus, e precisais de leite, e não de alimento sólido. De fato, aquele que ainda se amamenta não pode degustar a doutrina da justiça, pois é criancinha! Os adultos, porém, que pelo hábito possuem o senso moral exercitado para discernir o bem e o mal, recebem alimento sólido. Por isso, deixando de lado o ensinamento elementar sobre Cristo, elevemo-nos à perfeição adulta, sem ter que voltar aos artigos fundamentais: o arrependimento das obras mortas e a fé em Deus, a doutrina sobre batismos e a imposição das mãos, a ressurreição dos mortos e o julgamento eterno. É isso o que faremos, se a tanto Deus nos ajudar! De fato, é impossível que, para aqueles que foram iluminados – que saborearam o dom celeste, receberam o Espírito Santo, experimentaram a beleza da palavra de Deus e as forças do mundo que há de vir – e, não obstante, decaíram, [é impossível] que renovem a conversão a segunda vez, porque da sua parte crucificam novamente o Filho de Deus e o expõem às injúrias. Pois, a terra que bebe a chuva que lhe vem abundante e produz vegetação útil aos cultivadores, receberá a bênção de Deus. Mas, se produzir _espinhos e abrolhos_, é rejeitada, e está perto da _maldição_: acabará sendo queimada.
+
+@secao Responsório: Cf. Sl 94(95),8;Hb 3,12
+
+@responsorio
+R. Oxalá ouvísseis hoje a voz do Senhor:
+* Não fecheis os vossos corações.
+V. Cuidai, irmãos, que não se ache em algum de vós
+um coração transviado pela incredulidade:
+que ninguém se afaste do Deus vivo.* Não fecheis.
+
+@secao Segunda leitura
+
+@leitura
+Das Homílias sobre a segunda Carta aos Coríntios, de São João Crisóstomo, bispo
+{(Hom. 2,4-5: PG 61,397-399)}
+
+@tema
+A força da oração
+
+@texto
+Muitas vezes Deus parece ficar como que acanhado, quando vê uma multidão que tem um só coração e uma só voz para o implorar. Apressemo-nos, pois, a unir nossas preces, rezemos uns pelos outros, como faziam os coríntios pelos apóstolos. Assim, cumprimos o preceito e nos estimulamos à caridade; e, quando digo caridade, encerro nessa palavra todos os bens. Mostremos também mais solicitude em dar graças. Pois, se agradecemos a Deus os dons concedidos ao próximo, com maior razão devemos agradecer-lhe os benefícios por nós recebidos. É o que fazia Davi, ao dizer: _Comigo engrandecei ao Senhor Deus, exaltemos todos_ _juntos seu nome!_ (Sl 33,4). É o que reclama constantemente o Apóstolo; sigamos esse conselho, publiquemos por toda parte os benefícios de Deus para associar todos os irmãos às ações de graças que lhe rendemos. Quando publicamos os benefícios que recebemos dos homens, não aumentamos sua benevolência para conosco? Publiquemos os benefícios de Deus e atrairemos de sua parte maior benevolência. E, se depois de termos obtido dos homens alguns favores, convidamos os outros a unirem seus agradecimentos aos nossos, não devemos, com maior razão, convidar nossos irmãos a se unirem a nós para agradecer ao Senhor? Paulo o fazia, ele que se aproximava de Deus com tanta confiança: com maior razão, somos nós obrigados igualmente a fazê-lo. Imploremos também às pessoas santas, conjuremo-las a agradecerem a Deus por nós e agradeçamos também a Deus uns pelos outros. Isso é dever sobretudo dos sacerdotes; não existe função mais elevada do que essa. Quando subimos ao altar, começamos por dar graças ao Senhor em nome do mundo inteiro pelos benefícios comuns que todos receberam de sua generosidade. Certamente, todos juntos gozam desses benefícios, mas não tens também tua parte? Assim sendo, por essa parte que recebes, deves associar-te às comuns ações de graças e é justo também que, particularmente, agradeças a Deus por ter estendido seus benefícios a todos os homens. Não foi somente por tua causa que ele iluminou o sol no firmamento, mas visando a todos em geral; no entanto, usufruis dele tão completamente, como se tivesse sido criado exclusivamente para ti. Foi para a utilidade de todos que Deus o fez tão grande, e tu sozinho o vês tão imenso quanto todos os mortais juntos. Por conseguinte, tua gratidão deve igualar a comum gratidão do gênero humano inteiro. Deves agradecer pela virtude dos outros. Os benefícios que Deus nos concede são também para o proveito dos outros. Se tivesse havido somente dez justos em Sodoma, não cairiam sobre eles as calamidades que sofreram. Agradeçamos a Deus com liberdade e confiança os méritos de nossos irmãos; é uma antiga lei que se arraigou na Igreja. Assim, Paulo dá graças pelos romanos, pelos coríntios, pelo mundo inteiro.
+
+@secao Responsório | Jl 2,17
+
+@responsorio
+R. Jejuando e chorando, rezavam os sacerdotes dizendo:
+* Senhor, tem piedade do teu povo
+e não entregues à vergonha a tua herança.
+V. Entre o pórtico e o altar chorem os sacerdotes e digam.
+* Senhor, tem piedade.
+
+@secao Oração
+
+@oracao
+Infundi, ó Deus, vossa graça em nossos corações, para que, fugindo aos excessos humanos, possamos, com vosso auxílio, abraçar os vossos preceitos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

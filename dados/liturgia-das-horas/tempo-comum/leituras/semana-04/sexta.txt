@@ -1,0 +1,58 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/04sextaTC.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo 4a SEMANA DO TEMPO COMUM / SEXTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Tessalonicenses {2,1-17}
+
+@tema
+O dia do Senhor
+
+@texto
+[1] No que se refere à vinda de nosso Senhor Jesus Cristo e à nossa união com ele, nós vos pedimos, irmãos: [2] não deixeis tão facilmente transtornar a vossa cabeça, nem vos alarmeis por causa de alguma revelação, ou carta atribuída a nós, afirmando que o Dia do Senhor está próximo. [3] Que ninguém vos engane de modo algum. É preciso que venha primeiro a apostasia e que se revele o homem da impiedade, o filho da perdição, [4] aquele que se ergue e se levanta contra tudo o que se chama Deus ou que se adora, a ponto de se assentar em pessoa no templo de Deus e de se proclamar Deus. [5] Não vos lembrais que disto eu vos falava quando ainda estava no meio de vós? [6] E agora, vós sabeis o que o retém, para que apenas seja revelado a seu tempo. [7] Pois o mistério da impiedade já está em ação; basta que seja afastado aquele que o retém atualmente. [8] Então se manifestará o Ímpio, a quem o Senhor Jesus destruirá com o sopro de sua boca e aniquilará com o esplendor de sua vinda. [9] Quanto à vinda do Ímpio, assinalada pela atividade de Satanás, ela se manifestará com toda sorte de obras portentosas, milagres e prodígios enganadores [10] e com todas as seduções da injustiça para aqueles que se perdem, por não terem acolhido o amor da verdade, que os teria salvado. [11] É por isso que Deus lhes envia um poder de sedução, que os faz crer na mentira, [12] a fim de serem julgados todos aqueles que não creram na verdade, mas se comprazeram na injustiça. [13] Quanto a nós, devemos continuamente dar graças a Deus por vossa causa, irmãos amados do Senhor, pois Deus vos escolheu desde o começo, para serdes salvos pelo Espírito que santifica e pela fé na verdade. [14] Deus vos chamou para que, por meio do nosso evangelho, alcanceis a glória de nosso senhor Jesus Cristo. [15] Assim, portanto, irmãos, ficai firmes e conservai firmemente as tradições que vos ensinamos, de viva voz ou por carta. [16] Nosso Senhor Jesus Cristo e Deus nosso Pai, que nos amou em sua graça e nos proporcionou uma consolação eterna e feliz esperança, [17] animem os vossos corações e vos confirmem em toda a boa ação e palavra.
+
+@secao Responsório | Mt 24,30; 2Ts 2,8a
+
+@responsorio
+R. Nos céus se mostrará, o sinal do Filho do Homem
+* E hão de ver o Filho do Homem
+vir das nuvens com poder e com grande majestade.
+V. Vai, então, aparecer aquele ímpio a quem Jesus
+Nosso Senhor destruirá com o sopro de sua boca.
+* E hão de ver.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias, de um autor espiritual do IV século
+{(Hom. 18,7-11: PG 34,639-642)}
+
+@tema
+Oxalá sejais plenificados com toda a plenitude de Cristo!
+
+@texto
+Todos os que são considerados dignos de se tornarem filhos de Deus e renascerem do alto no Espírito Santo, trazendo em si a Cristo – que os ilumina e os regenera – são guiados de diversos modos pelo Espírito e conduzidos invisivelmente pela graça, tendo no coração a paz espiritual. Às vezes, desfazem-se em lágrimas e gemidos pela humanidade, pelo gênero humano elevam preces e choram, ardendo de afeto por todos os homens. Outras vezes, de tal maneira se inflamam pelo Espírito, com tamanho entusiasmo e amor, que, se possível fosse, acolheriam em seu coração todos os homens, sem distinção entre bons e maus. Entretanto, outros, pela humildade dos seus espíritos, colocam-se abaixo de todos, julgando-se os mais abjetos e desprezíveis. Por vezes, são guardados pelo Espírito numa alegria inefável. Ora, eles são como um valente, que, revestido com toda a armadura do rei, desce para o combate e luta contra os fortes inimigos e os vence. Assim o homem espiritual, munido com as celestes armas do Espírito, ataca os adversários e, no fim da peleja, calca-os aos pés. Ora, em absoluto silêncio, repousa a alma em paz e sossego, entregue unicamente ao gozo espiritual e a uma paz indizível, no perfeito contentamento. Por vezes, por certa compreensão e sabedoria inefável e conhecimento secreto do Espírito, é instruído pela graça sobre coisas que a língua não consegue dizer. De outras vezes, é como qualquer outra pessoa. E assim a graça habita e age de várias maneiras na alma, renovando-a conforme a vontade divina, provando-a de modos diferentes para torná-la íntegra, irrepreensível e pura diante do Pai do céu. Oremos, então, também nós a Deus, oremos no amor e imensa esperança de que ele nos concederá a celeste graça do dom do Espírito. A nós também o próprio Espírito nos governe e leve a realizar toda a vontade divina e nos restaure com a riqueza de sua paz a fim de que, conduzindo-nos e fazendo-nos viver sempre mais em sua graça e progresso espiritual, nos tornemos dignos de alcançar a perfeita plenitude de Cristo, segundo disse o Apóstolo: _Para que sejais plenificados com toda a plenitude de Cristo._
+
+@secao Responsório | 1Jo 2,20.27; Jl 2,23ab
+
+@responsorio
+R. Vós tendes, irmãos, do Santo a unção;
+em vós permaneça a unção recebida;
+* E não precisais que alguém vos ensine,
+pois a sua unção vos faz sábios em tudo.
+V. Exultai e alegrai-vos no Senhor, vosso Deus,
+porque ele vos deu o Doutor da justiça. * E não.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Senhor nosso Deus, adorar-vos de todo o coração, e amar todas as pessoas com verdadeira caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3sabadopascoa_laudes.htm
+@documento Laudes - Sábado da 3ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+As palavras que vos disse são espírito, são vida. Aleluia.
+
+@salmo salmos/salmo-118-145-152-xix-coph-v3
+
+@gloria
+
+@antifona
+As palavras que vos disse são espírito, são vida. Aleluia.
+
+@antifona 2
+Construístes vosso templo e vosso altar,
+ó Senhor, no Monte Santo, aleluia.
+
+@salmo canticos/sb-9-1-6-9-11
+
+@gloria
+
+@antifona
+Construístes vosso templo e vosso altar,
+ó Senhor, no Monte Santo, aleluia.
+
+@antifona 3
+Sou o Caminho, a Verdade e a Vida, aleluia.
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+Sou o Caminho, a Verdade e a Vida, aleluia.
+
+@secao Leitura breve | Rm 14,7-9
+
+@texto
+Ninguém dentre nós vive para si mesmo ou morre para si mesmo. Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A quem nós iremos, Senhor Jesus Cristo?
+Só tu tens palavras de vida eterna.
+Nós cremos sabendo que és o Senhor,
+que tu és o Cristo, o Filho de Deus. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A quem nós iremos, Senhor Jesus Cristo?
+Só tu tens palavras de vida eterna.
+Nós cremos sabendo que és o Senhor,
+que tu és o Cristo, o Filho de Deus. Aleluia.
+
+@secao Preces
+
+@preces
+Roguemos com alegria a Cristo, pão da vida, que ressuscitará no último dia os que se alimentam à mesa de sua palavra e de seu corpo; e digamos:
+
+R. **Dai-nos, Senhor, paz e alegria!**
+
+Filho de Deus, que ressuscitastes gloriosamente dos mortos como Senhor da vida,
+– abençoai e santificai a humanidade inteira. R.
+
+Senhor Jesus, fonte de paz e de alegria para todos os que creem em vós,
+– fazei-nos viver como filhos da luz na alegria do vosso triunfo pascal. R.
+
+Confirmai a fé da vossa Igreja, peregrina sobre a terra,
+– para que dê ao mundo o testemunho da vossa ressurreição. R.
+
+Vós, que, depois de muitos sofrimentos, entrastes na glória do Pai,
+– mudai em alegria a tristeza dos que choram. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que renovastes nas águas do batismo os que creem em vós, protegei os que renasceram no Cristo, para que vençam as ciladas do erro e permaneçam fiéis à vossa graça. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

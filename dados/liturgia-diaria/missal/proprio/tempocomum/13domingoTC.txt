@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/13domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 46,2
+@texto
+Povos todos do universo, batei palmas,
+gritai a Deus aclamações de alegria.
+
+@secao Coleta
+@texto
+Ó Deus, pela graça da adoção nos tornastes filhos da luz;
+concedei que não sejamos envolvidos pelas trevas do erro,
+mas permaneçamos sempre no esplendor da verdade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, que nos assegurais
+os frutos dos vossos mistérios,
+fazei que nosso serviço
+corresponda à santidade dos vossos dons.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 102,1
+@texto
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+{Ou:}{Cf. Jo 17,20-21}
+Pai, rogo por eles, para que sejam um em nós,
+a fim de que o mundo creia que tu me enviaste,
+diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, o Corpo e o Sangue de Jesus Cristo,
+que oferecemos em sacrifício
+e recebemos em comunhão,
+nos transmitam uma vida nova,
+para que, unidos a vós pela caridade que não passa,
+possamos produzir frutos que permaneçam.
+Por Cristo, nosso Senhor.

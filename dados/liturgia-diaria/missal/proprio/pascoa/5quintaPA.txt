@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/5quintaPA.htm
+
+@secao Antífona da entrada | Cf. Ex 15,1-2
+@texto
+Cantemos ao Senhor, pois fez brilhar a sua glória.
+O Senhor é minha força e meu canto,
+ele foi para mim a salvação, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus,
+cuja graça nos transforma de pecadores em justos,
+de míseros em bem-aventurados,
+acompanhai com vosso poder e vossos dons
+os que justificastes pela fé,
+para que jamais lhes falte a força da perseverança.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus,
+pelo venerável intercâmbio deste sacrifício
+nos fizestes participar de vossa única e suprema divindade;
+concedei, nós vos pedimos,
+que conhecendo a vossa verdade
+a testemunhemos pela prática das boas obras.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | 2Cor 5,15
+@texto
+Cristo morreu por todos,
+para que os vivos não vivam mais para si mesmos,
+mas para aquele que por eles morreu e ressuscitou, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, nós vos pedimos,
+permanecei com misericórdia junto ao vosso povo
+e fazei passar da antiga para a nova vida
+aqueles que iniciastes nos mistérios celestes.
+Por Cristo, nosso Senhor.

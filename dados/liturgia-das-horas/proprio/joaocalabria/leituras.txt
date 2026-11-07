@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaocalabria.htm
+@documento Ofício das Leituras - São João Calábria, Presbítero
+
+@celebracao
+SÃO JOÃO CALÁBRIA, PRESBÍTERO
+
+@biografia
+Nasceu em 8 de outubro de 1873, em Verona, Itália. Muito preocupado com os necessitados, desde o início cultivou o hábito de visitar os doentes, desdobrando-se também na catequese das crianças abandonadas. Fundou a Congregação dos Pobres Servos da Divina Providência e devido às necessidades funda o ramo feminino da Obra, as Pobres Servas da Divina Providência. A orientação básica que costumava repetir era muito simples, como foi toda a sua vida: "Sejamos evangelhos vivos". Faleceu no dia 4 de dezembro de 1954, quando ofereceu sua vida no lugar da do Papa Pio XII, que na ocasião também estava doente. Quando este recebeu a notícia da morte de padre Calábria, cuja vida acompanhou e admirava, assim o definiu: era um "campeão de evangélica caridade". Foi canonizado pelo papa João Paulo II em 1999.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando o vosso santo
+perfeito servidor
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unido a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra preso
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@secao Primeira leitura
+
+@leitura
+
+@tema
+V.
+
+@texto
+O Senhor conduz o justo em seu caminho. R. E lhe revela os segredos do seu reino. Da Primeira Carta de São Pedro {5,1-11} _{Deveres dos pastores e dos fiéis}_ [1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta de São João Calábria aos seus Religiosos
+{(Séc.XX)} {(nº 63 em 1° de julho de 1949, Arq. Hist. Doc. 6040, pp. 292-293)}
+
+@tema
+A Divina Providência é uma terna Mãe
+
+@texto
+A missão que a Divina Providência confia à nossa Obra é reavivar neste pobre mundo a fé, por meio da palavra e mais ainda do exemplo. Deus, a alma, a eternidade, para muitos são palavras quase sem significado. Nós ao contrário, é desta fé que vivemos, fé certa e inviolável, que não desfalece, sejam quais forem as provações, mesmo que se tratasse de perseguições e da própria morte.
+Deus não precisa ser demonstrado, e sim ser levado por nós. O exemplo vale mais do que qualquer apologia. Ah! Se vivêssemos concretamente as grandes verdades de nossa fé, o mistério inefável da Encarnação, o Presépio, o Calvário, a Eucaristia, Deus no meio de nós, conosco e em nós! São mistérios estes que deveriam extasiar-nos num arrebatamento de gratidão e de amor! De sermões ninguém mais quer saber, mas se os homens virem estas verdades realmente praticadas, que felizes e santas emoções provariam!
+
+Mas de onde, meus queridos e amados irmãos, haveremos de haurir esta fé viva, senão das puras fontes do Santo Evangelho? Por isso tantas vezes lhes disse e repeti que é preciso sermos outros Cristos e evangelhos vivos, para sermos faróis de luz a iluminar a pobre humanidade tateando nas densas trevas de tantos erros e na lama de tantos vícios. É preciso que se realize em nós a palavra de Jesus bendito: _Brilhe a vossa luz diante dos homens, de modo que, vendo as vossas boas obras, glorifiquem vosso Pai, que está nos céus_ (Mt 5,16).
+Nestas palavras vocês podem notar que Jesus, convidando-nos a olhar para Deus, chama-o de Pai, aliás, de nosso Pai. Com isso quero dizer-lhes, meus queridos irmãos, que a fé verdadeira e genuína considera a Deus não só como Criador e Senhor, mas antes como Pai. Fé, portanto, na paternidade de Deus e por isso confiança sem limites, abandono filial na Divina Providência, que é característica indispensável para a Obra, é uma das mensagens, que o Senhor, por meio da Obra, quer enviar ao mundo.
+
+Lembremo-nos de que a Divina Providência é uma terna Mãe que dispõe tudo para o bem, aliás, para o nosso maior bem; devemos sentir-nos carregados em suas mãos maternais (cf. Os 11,4). Sem dúvida nenhuma, muitas vezes enfrentamos sofrimentos e nossa natureza poderá se assustar bastante; mas não é de se admirar por isso; também Jesus experimentou a tristeza, a angústia e o medo, e chegou até o ponto de orar ao Pai para que lhe afastasse o cálice amargo, acrescentando, no entanto, que se entregava à sua paterna vontade (cf. Lc 22,42).
+Agora, nós podemos ver somente a urdidura do trabalho e o avesso do bordado: podemos ter a impressão de que há só confusão, mas quando chegarmos a ver o trabalho acabado e o lado correto, então o contemplaremos na sua magnífica e maravilhosa beleza. Se a Divina Providência cuida de todos, lembremo-lo bem, meus amados irmãos, ela cuida de nós com um carinho fora do comum, na medida em que vivermos o nosso grande e divino programa.
+
+Pelo amor de Deus, nada de angústias e ansiedades!
+
+Sim, poderá o Senhor permitir alguma grave provação para experimentar a nossa fé. Mas então não haveremos de nos angustiar, e sim, pelo contrário, alegrar-nos e considerarmo-nos quase que, diria, na "perfeita alegria". Tenhamos a certeza de que, se a consciência não nos acusar de infidelidade à nossa santa vocação, após a provação, a Providência irá voltar em medida _repleta, sacudida, transbordante_ (cf. Lc 6,38).
+
+@secao Responsório
+
+@responsorio
+R. Guardai-nos, Senhor, como a pupila dos olhos.
+* À sombra de vossas asas protegei-nos.
+V. Mostrai vossa maravilhosa misericórdia para conosco,
+vós que salvais aqueles que em vós esperam. * À sombra
+
+@secao Oração
+
+@oracao
+Deus, Pai todo-poderoso, que para reavivar no mundo a confiança em vossa paternidade e o abandono filial à vossa Providência, suscitastes na Igreja o sacerdote João Calábria, concedei-nos, por sua intercessão, que, animados pelo mesmo espírito, possamos reconhecer e servir o vosso próprio Filho em nossos irmãos e irmãs pobres e sofredores. Por nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

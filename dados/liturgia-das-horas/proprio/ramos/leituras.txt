@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/ramos.htm
+@documento Ofício das Leituras - Domingo De Ramos Da Paixão Do Senhor
+
+@celebracao
+DOMINGO DE RAMOS DA PAIXÃO DO SENHOR
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto!
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto!
+
+@antifona 2
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@antifona 3
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {10,1-18}
+
+@tema
+A nossa santificação pelo sacrifício de Cristo
+
+@texto
+Irmãos: [1] A Lei possui apenas o esboço dos bens futuros e não o modelo real das coisas. Também, com os seus sacrifícios sempre iguais e sem desistência repetidos cada ano, ela é totalmente incapaz de levar à perfeição aqueles que se aproximam para oferecê-los. [2] Se não fosse assim, não se teria deixado de oferecê-los, se os que prestam culto, uma vez purificados, já não tivessem nenhuma consciência dos pecados? [3] Mas, ao contrário, é por meio destes sacrifícios que, anualmente, se renova a memória dos pecados, [4] pois é impossível eliminar os pecados com o sangue de touros e bodes. [5] Por isso, ao entrar no mundo, Cristo afirma: “Tu não quiseste vítima nem oferenda, mas formaste-me um corpo. [6] Não foram do teu agrado holocaustos nem sacrifícios pelo pecado. [7] Por isso eu disse: Eis que eu venho. No livro está escrito a meu respeito: Eu vim, ó Deus, para fazer a tua vontade.” [8] Depois de dizer: “Tu não quiseste nem te agradaram vítimas, oferendas, holocaustos, sacrifícios pelo pecado” – coisas oferecidas segundo a Lei – [9] ele acrescenta: “Eu vim para fazer a tua vontade”. Com isso, suprime o primeiro sacrifício, para estabelecer o segundo. [10] É graças a esta vontade que somos santificados pela oferenda do corpo de Jesus Cristo, realizada uma vez por todas. [11] Todo o sacerdote se apresenta diariamente para celebrar o culto, oferecendo muitas vezes os mesmos sacrifícios, incapazes de apagar os pecados. [12] Cristo, ao contrário, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. [13] Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. [14] De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica. [15] É isto que também nos atesta o Espírito Santo, porque, depois de ter dito: [16] “Eis a aliança que farei com eles, depois daqueles dias”, o Senhor declara: “Pondo as minhas leis nos seus corações e inscrevendo-as na sua mente, [17] não me lembrarei mais dos seus pecados, nem das suas iniquidades.” [18] Ora, onde existe o perdão, já não se faz oferenda pelo pecado.
+
+@secao Responsório | Cf. Hb 10,5-7.4 (Sl 39 [40],7-8)
+
+@responsorio
+R. Sacrifício e oblação não quisestes,
+mas formastes-me um corpo, Senhor: não pedistes ofertas, nem vítimas nem holocaustos por nossos pecados; então eu vos disse: Eis que venho,
+* Venho, ó Deus, fazer vossa vontade!
+V. É impossível que o sangue de touros, de carneiros, apague os pecados; por isso, ao entrar neste mundo, o Cristo afirmou de si mesmo: * Venho, ó Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo André de Creta, bispo
+{(Séc.VI)} {(Oratio 9 in ramos palmarum: PG 97,990-994)}
+
+@tema
+Bendito o que vem em nome do Senhor, o rei de Israel
+
+@texto
+Vinde, subamos juntos ao monte das Oliveiras e corramos ao encontro de Cristo, que hoje volta de Betânia e se encaminha voluntariamente para aquela venerável e santa Paixão, a fim de realizar o mistério de nossa salvação. Caminha o Senhor livremente para Jerusalém, ele que desceu do céu por nossa causa – prostrados que estávamos por terra – para elevar-nos consigo bem acima de toda autoridade, poder, potência e soberania ou qualquer título que se possa mencionar (Ef 1,21), como diz a Escritura. O Senhor vem, mas não rodeado de pompa, como se fosse conquistar a glória. Ele não discutirá, diz a Escritura, nem gritará, e ninguém ouvirá sua voz (Mt 12,19; cf. Is 42,2). Pelo contrário, será manso e humilde, e se apresentará com vestes pobres e aparência modesta. Acompanhemos o Senhor, que corre apressadamente para a sua Paixão e imitemos os que foram ao seu encontro. Não para estendermos à sua frente, no caminho, ramos de oliveira ou de palma, tapetes ou mantos, mas para nos prostrarmos a seus pés, com humildade e retidão de espírito, a fim de recebermos o Verbo de Deus que se aproxima, e acolhermos aquele Deus que lugar algum pode conter. Alegra-se Jesus Cristo, porque deste modo nos mostra a sua mansidão e humildade, e se eleva, por assim dizer, sobre o ocaso (cf. Sl 67,5) de nossa infinita pequenez; ele veio ao nosso encontro e conviveu conosco, tornando-se um de nós, para nos elevar e nos reconduzir a si. Diz um salmo que ele subiu pelo mais alto dos céus ao Oriente (cf. Sl 67,34), isto é, para a excelsa glória da sua divindade, como primícias e antecipação da nossa condição futura; mas nem por isso abandonou o gênero humano, porque o ama e quer elevar consigo a nossa natureza, erguendo-a do mais baixo da terra, de glória em glória, até torná-la participante da sua sublime divindade. Portanto, em vez de mantos ou ramos sem vida, em vez de folhagens que alegram o olhar por pouco tempo, mas depressa perdem o seu verdor, prostremo-nos aos pés de Cristo. Revestidos de sua graça, ou melhor, revestidos dele próprio, – vós todos que fostes batizados em Cristo vos revestistes de Cristo (Gl 3,27) – prostremo-nos a seus pés com os mantos estendidos. Éramos antes como escarlate por causa dos nossos pecados,mas purificados pelo batismo da salvação, nos tornamos brancos como a lã. Por conseguinte, não ofereçamos mais ramos e palmas ao vencedor da morte, porém o prêmio da sua vitória. Agitando nossos ramos espirituais, o aclamemos todos os dias, juntamente com as crianças, dizendo estas santas palavras: “Bendito o que vem em nome do Senhor, o rei de Israel”.
+
+@secao Responsório | Cf. Jo 12,12.13; cf. Mt 21,8.9
+
+@responsorio
+R. Os filhos dos hebreus com ramos de oliveira
+correram ao encontro do Cristo que chegava; e uma grande multidão no chão punha seus mantos e outros colocavam seus ramos no caminho e aclamavam a Jesus:
+* Salve, ó Filho de Davi! Bendito o que nos vem, em nome do Senhor!
+V. Os que à frente caminhavam e os que atrás vinham seguindo, aclamavam com voz forte: * Salve, ó Filho.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

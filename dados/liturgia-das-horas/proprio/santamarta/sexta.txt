@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santamarta_sexta.htm
+@documento Hora Média - Santos Marta, Maria e Lázaro
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Meu coração e minha carne rejubilam
+e exultam de alegria no Deus vivo.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Meu coração e minha carne rejubilam
+e exultam de alegria no Deus vivo.
+
+@secao Leitura breve | 1Cor 9,26-27a
+
+@texto
+Por isso, eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. Trato duramente o meu corpo e o subjugo.
+
+@texto
+V. Encontrei o grande amor da minha vida.
+R. Vou guardá-lo para sempre junto a mim.
+
+@secao Oração
+
+@oracao
+Pai todo-poderoso, cujo Filho quis hospedar-se em casa de Marta, concedei por sua intercessão que, servindo fielmente a Cristo em nossos irmãos e irmãs, sejamos recebidos por vós em vossa casa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

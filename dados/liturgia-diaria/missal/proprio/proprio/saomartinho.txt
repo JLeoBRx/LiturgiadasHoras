@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saomartinho.htm
+
+@secao Antífona da entrada | Cf. 1Sm 2,35
+@texto
+Farei surgir para mim um sacerdote fiel
+que agirá segundo o meu coração e a minha vontade,
+diz o Senhor.
+
+@secao Coleta
+@texto
+Ó Deus, que fostes glorificado
+pela vida e pela morte do bispo São Martinho,
+renovai em nossos corações
+as maravilhas da vossa graça,
+de modo que nem a morte nem a vida
+nos possa separar do vosso amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor nosso Deus,
+santificai estes dons que alegremente
+vos apresentamos em honra de São Martinho;
+em meio às alegrias e provações,
+orientai sempre para vós a nossa vida.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Mt 25,40
+@texto
+Em verdade, eu vos digo:
+tudo o que fizestes a um destes meus irmãos
+mais pequeninos, foi a mim que o fizestes, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, alimentados com o sacramento da unidade,
+dai-nos em tudo perfeita concórdia com a vossa vontade,
+para que, assim como São Martinho vos foi sempre submisso,
+também nós nos gloriemos de pertencer verdadeiramente a vós.
+Por Cristo, nosso Senhor.

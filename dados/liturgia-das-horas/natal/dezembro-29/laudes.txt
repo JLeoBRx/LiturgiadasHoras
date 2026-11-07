@@ -1,0 +1,172 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/29dezembro_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@antifona 2
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@antifona 3
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@secao Leitura breve | Hb 1,1-2
+
+@texto
+Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas; nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação * Aleluia, aleluia. Glória ao Pai.
+R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Os pastores falavam entre si: Vamos todos a Belém,
+vamos ver o grande evento que o Senhor nos revelou.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Os pastores falavam entre si: Vamos todos a Belém,
+vamos ver o grande evento que o Senhor nos revelou.
+
+@secao Preces
+
+@preces
+Graças a Deus Pai, que na sua misericórdia nos enviou Jesus Cristo, Príncipe da paz; e digamos cheios de confiança:
+
+R. **Dai a paz, Senhor, a todos os homens!**
+
+Deus onipotente, Pai de nosso Senhor Jesus Cristo, nestes dias em que a Igreja celebra vosso amor salvador,
+– aceitai com bondade os nossos louvores. R.
+
+Vós, que, desde o início, prometestes dar aos seres humanos a vitória por meio de Cristo, Salvador do mundo,
+– iluminai todos os povos com a luz do Evangelho. R.
+
+Para a glória de vosso Filho, que Abraão contemplou com alegria, os patriarcas esperaram, os profetas anunciaram e os povos desejaram,
+– fazei que o povo de Israel também seja salvo. R.
+
+Vós, que mandastes os anjos proclamar o nascimento de vosso Filho, e os apóstolos, mártires e fiéis o louvarem por todos os séculos,
+– concedei à terra a vossa paz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus invisível e todo-poderoso, que dissipastes as trevas do mundo com a vinda da vossa luz, volvei para nós o vosso olhar, a fim de que proclamemos dignamente a maravilhosa natividade de vosso Filho Unigênito. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

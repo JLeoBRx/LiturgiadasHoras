@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoagostinho.htm
+
+@secao Antífona da entrada | Cf. Eclo 15,5
+@texto
+No meio da Igreja
+o Senhor abriu os seus lábios,
+encheu-o com o espírito de sabedoria e inteligência
+e o revestiu com um manto de glória.
+
+@secao Coleta
+@texto
+Senhor, nós vos pedimos,
+renovai em vossa Igreja o espírito
+com o qual dotastes o bispo Santo Agostinho;
+repletos do mesmo espírito,
+só de vós tenhamos sede, fonte da verdadeira sabedoria,
+só a vós busquemos, autor do amor eterno.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, celebrando o memorial da nossa salvação,
+imploramos humildemente a vossa misericórdia;
+que este sacramento do vosso amor
+seja para nós sinal de unidade
+e vínculo de caridade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 23,10.8
+@texto
+Um só é o vosso Guia, Cristo;
+e todos vós sois irmãos, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, a participação na mesa celeste nos santifique
+a fim de que, membros do seu Corpo,
+sejamos transformados naquele que recebemos.
+Por Cristo, nosso Senhor.

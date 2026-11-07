@@ -1,0 +1,80 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/18quartaTC.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Amós {9,1-15}
+
+@tema
+A salvação dos justos
+
+@texto
+[1] Vi o Senhor de pé sobre o altar, e disse-me: "Derruba a coluna e deixa desabar os umbrais; quebra a cabeça a estes infiéis todos, eu matarei com a espada o último deles; ninguém conseguirá escapar, não se salvará um sobrevivente. [2] Se tentarem descer aos infernos, de lá os puxará minha mão; e, se subirem até ao céu, eu os arrastarei de lá. [3] Se se esconderem no alto do monte Carmelo, irei buscá-los e tirá-los daí; e, se se ocultarem aos meus olhos no fundo do mar, ordenarei à serpente que os morda; [4] se forem levados prisioneiros por seus inimigos, mandarei que os passem a fio de espada, e porei meus olhos sobre eles, para seu mal, não para seu bem."
+
+@texto
+[5] É o Senhor, Deus dos exércitos, que toca a terra e ela se desfaz. Todos os seus habitantes se afligem, toda ela cresce como um rio, e decresce como o rio do Egito. [6] Senhor é o nome daquele que constrói no céu os degraus do seu trono e assenta na terra sua abóbada, reúne as águas do mar, derramando-as sobre a face da terra. [7] "Ó filhos de Israel, acaso não sois para mim como os filhos dos Etíopes"? diz o Senhor. Acaso não fiz sair Israel da terra do Egito, e os filisteus de Cáftor, e os sírios de Quir? [8] Os olhos do Senhor Deus estão sobre um reino pecador, eu vou suprimi-lo da face da terra; todavia não destruirei totalmente a casa de Jacó, diz o Senhor. [9] Pois eu já decidi, vou sacudir a casa de Israel, entre todas as nações, como se sacode trigo na peneira, sem deixar um só grão cair por terra. [10] Morrerão pela espada todos os pecadores do meu povo, os que dizem: Ele não está perto, nem vai cair sobre nós desgraça alguma!
+
+@texto
+[11] Naquele dia, reerguerei a tenda de Davi, em ruínas, e consertarei seus estragos, levantando-a dos escombros, e reconstruindo tudo, como nos dias de outrora; [12] deste modo possuirão todos o resto de Edom e das outras nações, que são chamadas com o meu nome, diz o Senhor, que tudo isso realiza.
+
+@texto
+[13] Eis que dias virão, diz o Senhor, em que se seguirão de perto quem ara e quem ceifa, o que pisa as uvas e o que lança a semente; os montes destilarão vinho e as colinas parecerão liquefazer-se. [14] Mudarei a sorte de Israel, meu povo cativo; eles reconstruirão as cidades devastadas, e as habitarão, plantarão vinhas e tomarão o vinho, cultivarão pomares e comerão seus frutos. [15] Eu os plantarei sobre o seu solo e eles nunca mais serão arrancados de sua terra, que eu lhes dei, diz o Senhor teu Deus.
+
+@secao Responsório | At 15,17a.16a.14b.15b
+
+@responsorio
+R. A fim de que procurem ao Senhor todos os homens
+e os povos sobre os quais foi invocado o meu nome,
+* Voltarei e reerguerei a tenda de Davi,
+diz o Senhor e o faz também.
+V. Deus, primeiro, escolheu dentre os gentios o seu povo,
+dedicado ao seu nome. * Voltarei.
+
+@secao Segunda leitura
+
+@leitura
+Da chamada Carta de Barnabé
+{(Séc. II)} {(Cap. 19,1-3.5-7.8-12: Funk 1,53-57)}
+
+@tema
+O caminho da luz
+
+@texto
+Eis o caminho da luz: se alguém deseja chegar a determinado lugar, que se esforce por seu modo de agir. Foi-nos dado saber como andar por este caminho: amarás quem te criou. Terás veneração por quem te formou; darás glória a quem te remiu da morte. Serás simples de coração e rico no espírito; não te juntarás aos que andam pelo caminho da morte. Terás aversão por tudo quanto desagrada a Deus; odiarás toda simulação; não desprezes os mandamentos do Senhor. Não te exaltes a ti mesmo, sê humilde em tudo; não procures tua glória. Não trames contra teu próximo; não te entregues à arrogância.
+
+@texto
+Ama teu próximo mais do que a tua vida. Não mates o feto por aborto, nem depois do nascimento. Não retires a mão de teu filho ou de tua filha e, desde a infância, ensina-lhes o temor do Senhor. Não cobices os bens de teu próximo nem sejas avaro; não te unas de coração aos soberbos, mas sê amigo dos humildes e justos.
+
+@texto
+Tudo quanto te acontecer, recebe-o como um bem, sabendo que nada se faz sem Deus. Não sejas inconstante nem usarás duplicidade no falar; na verdade, é laço de morte a língua dúplice.
+
+@texto
+Partilharás tudo com teu próximo e não dirás ser propriedade tua o que quer que seja; se sois co-herdeiros das realidades incorruptíveis, quanto mais daquilo que se corrompe. Não serás precipitado no falar, pois a boca é um laço de morte. Tanto quanto puderes, em favor de tua alma, sê casto. Não tenhas a mão estendida para receber e, encolhida, para dar. Ama como a pupila dos olhos todo aquele que te dirigir palavra do Senhor.
+
+@texto
+Relembra, dia e noite, o dia do juízo e procura diariamente a presença dos santos, estimulando pela palavra, exortando e meditando como salvar a alma por tua palavra ou trabalhar com tuas mãos para a remissão dos teus pecados.
+
+@texto
+Não hesites em dar nem dês murmurando; bem sabes quem é o bom remunerador da dádiva. Guarda o que recebeste, sem tirar nem pôr. Seja-te perpetuamente odioso o Maligno. Julgarás com justiça. Não fomentes dissídios, mas esforça-te por restituir a paz, reconciliando os contendores. Confessa teus pecados. Não vás à oração, de má consciência. Este é o caminho da luz.
+
+@secao Responsório | Sl 118(119),101-102
+
+@responsorio
+R. De todo mau caminho afasto os passos,
+* Para que eu siga, fielmente, as vossas ordens.
+V. Dos vossos julgamentos não me afasto,
+porque vós mesmo me ensinastes vossas leis. * Para.
+
+@secao Oração
+
+@oracao
+Manifestai, ó Deus, vossa inesgotável bondade para com os filhos e filhas que vos imploram e se gloriam de vos ter como criador e guia, restaurando para eles a vossa criação, e conservando-a renovada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

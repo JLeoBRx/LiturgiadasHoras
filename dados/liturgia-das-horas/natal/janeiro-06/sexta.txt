@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/6janeiro_sexta.htm
+@documento 6janeiro_sexta.htm
+
+@secao Leitura breve | Is 42,1
+
+@texto
+Eis o meu servo – eu o recebo; eis o meu eleito – nele se compraz minh’alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações.
+
+@texto
+V. Os confins do universo contemplaram, aleluia.
+R. A salvação do nosso Deus, aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, sede a luz dos vossos fiéis e abrasai seus corações com o esplendor da vossa glória, para reconhecerem sempre o Salvador e a ele aderirem totalmente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

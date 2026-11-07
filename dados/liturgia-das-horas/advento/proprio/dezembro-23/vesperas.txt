@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/23_vesperas.htm
+@documento Próprio - Vésperas - 23 de dezembro
+
+@secao Leitura breve | 2Pd 3,8b-9
+
+@texto
+Para o Senhor, um dia é como mil anos e mil anos como um dia. O Senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora. Ele está usando de paciência para conosco. Pois não deseja que alguém se perca. Ao contrário, quer que todos venham a converter-se.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Está perto a salvação dos que o respeitam.
+* Nele se alegra. Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Emanuel: Deus-conosco, nosso Rei Legislador,
+Esperança das nações e dos povos Salvador:
+Vinde enfim para salvar-nos, ó Senhor e nosso Deus!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Emanuel: Deus-conosco, nosso Rei Legislador,
+Esperança das nações e dos povos Salvador:
+Vinde enfim para salvar-nos, ó Senhor e nosso Deus!
+
+@secao Preces
+
+@preces
+Roguemos, irmãos e irmãs, a Cristo nosso Redentor, que veio à terra para anunciar a Boa-nova aos pobres; e lhe digamos com fervor:
+
+R. **Manifestai, Senhor, a todos a vossa glória!**
+
+Manifestai-vos, Senhor, a todos que ainda não vos conhecem,
+– para que também eles vejam vossa salvação. R.
+
+Seja o vosso nome anunciado até os confins da terra,
+– para que todos encontrem vosso caminho. R.
+
+Vós, que viestes, a primeira vez, para remir o mundo de seus pecados,
+– vinde novamente para que não se percam os que creem em vós. R.
+
+Conservai e protegei, com o poder da vossa graça,
+– a liberdade que nos destes com a vossa redenção. R.
+
+{(intenções livres)}
+
+Vós, que viestes do céu à terra para nascer segundo a carne, e de novo haveis de vir para julgar os vivos e os mortos,
+– dai aos defuntos a recompensa eterna, quando vierdes no último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ao aproximar-nos do natal do vosso Filho, concedei-nos obter a misericórdia do Verbo, que se encarnou no seio da Virgem e quis viver entre nós. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/26quintaTC.htm
+@documento Ofício das Leituras - QUINTA-FEIRA
+
+@titulo QUINTA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {3,1-16}
+
+@tema
+O exemplo de Paulo
+
+@texto
+[1] Meus irmãos, alegrai-vos no Senhor. Não me custa escrever-vos as mesmas coisas, e para vós dá maior segurança. [2] Cuidado com os cães! Cuidado com os maus operários! Cuidado com os falsos circuncidados! [3] Os verdadeiros circuncidados somos nós, que prestamos culto pelo Espírito de Deus, colocamos a nossa glória em Cristo Jesus e não pomos confiança na carne. [4] Aliás, também eu poderia pôr minha confiança na carne. Pois, se algum outro pensa que pode confiar na carne, eu mais ainda. [5] Fui circuncidado no oitavo dia, sou da raça de Israel, da tribo de Benjamim, hebreu, filho de hebreus. Em relação à Lei, fariseu, [6] pelo zelo, perseguidor da Igreja de Deus; quanto à justiça que vem da Lei, sempre irrepreensível.
+
+[7] Mas essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. [8] Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, [9] não com minha justiça provinda da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé. [10] Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, [11] para ver se alcanço a ressurreição dentre os mortos. [12] Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
+
+[13] Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. [14] Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
+
+[15] É assim que, enquanto perfeitos, devemos sentir e pensar. E se tiverdes um outro modo de sentir, Deus vos revelará o seu pensamento a esse respeito. [16] Entretanto, onde quer que já tenhamos chegado, caminhemos na mesma direção.
+
+@secao Responsório | Fl 3,8b.10a; Rm 6,8
+
+@responsorio
+R. Quis perder todas as coisas para o Cristo conquistar
+* A fim de conhecê-lo e sentir também a força
+de sua ressurreição e partilhar seus sofrimentos.
+V. Nós temos esta fé:
+Se com Cristo nós morremos, com Cristo viveremos.
+* A fim.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos filipenses, de São Policarpo, bispo e mártir
+{(Séc. II)}{(Nn. 12,1-14: Funk 1,279-283)}
+
+@tema
+Cristo vos faça crescer na fé e na verdade
+
+@texto
+Tenho a certeza de que estais bem instruídos nas sagradas Escrituras e de que nada vos escapa; não me foi isto concedido a mim. Agora, nestas Escrituras lê-se: _Irritai-vos, mas não pequeis_ (cf. Sl 4,5); e: _Que o sol não se deite sobre a vossa ira_ (Ef 4,26). Feliz quem se lembra disto; creio que há destes entre vós.
+
+Que Deus e Pai de nosso Senhor Jesus Cristo e o eterno Pontífice, o Filho de Deus, Jesus Cristo, vos façam crescer na fé e na verdade, em toda mansidão, sem cólera, na paciência e longanimidade, na tolerância, na castidade. E vos concedam a participação entre os santos. E convosco também a nós e a todos que existem sob o céu e que hão de crer em nosso Senhor Jesus Cristo e em seu _Pai que o ressuscitou dos mortos_ (Gl 1,1).
+
+Orai por todos os santos. E também pelos reis, governantes e príncipes e ainda pelos que vos perseguem e odeiam, pelos inimigos da cruz, para que vosso fruto apareça diante de todos e sejais perfeitos nele.
+
+Vós e também Inácio me escrevestes que se alguém for à Síria, leve a carta que eu vos tiver escrito, se houver boa ocasião, seja por mim ou por aquele que enviarei em vosso lugar.
+
+As cartas de Inácio que ele vos fez chegar e as outras, todas as que tínhamos conosco, vos entregamos conforme pedistes; vão unidas a esta carta; delas tirareis grande proveito. Pois contêm a fé, a paciência e toda edificação que levam a nosso Senhor. E sobre Inácio e seus companheiros, tudo quanto souberdes com certeza, dai-me a conhecer.
+
+Escrevi por intermédio de Crescente, que vos recomendei pessoalmente; de novo agora recomendo. Conviveu conosco de modo impecável; creio que igualmente entre vós. Acolhei com estima sua irmã quando for ter convosco.
+
+Conservai-vos firmes no Senhor Jesus Cristo e sua graça esteja em todos vós. Amém.
+
+@secao Responsório | Hb 13,20a.21; 2Mc 1,3
+
+@responsorio
+R. Que o Deus da paz vos torne aptos,
+meus irmãos, a todo bem, para fazer sua vontade.
+* Que em vós ele realize o que agrada aos seus olhos,
+através de Jesus Cristo.
+V. Que ele dê a todos vós um coração para servi-lo
+e fazer sua vontade. * Que em vós.
+
+@secao Oração
+
+@oracao
+Ó Deus, que mostrais vosso poder sobretudo no perdão e na misericórdia, derramai sempre em nós a vossa graça, para que, caminhando ao encontro das vossas promessas, alcancemos os bens que nos reservais. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

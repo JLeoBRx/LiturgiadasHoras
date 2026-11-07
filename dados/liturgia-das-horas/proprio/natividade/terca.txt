@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natividade_terca.htm
+@documento Hora Média - Natividade da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+É hoje o nascimento de Maria, a Virgem santa;
+sua vida gloriosa ilumina toda a Igreja.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+É hoje o nascimento de Maria, a Virgem santa;
+sua vida gloriosa ilumina toda a Igreja.
+
+@secao Leitura breve | Ct 6,10
+
+@texto
+Quem é essa que desponta como a aurora, bela como a lua, brilhante como o sol, terrível como os exércitos preparados para a batalha?
+
+@texto
+V. Felizes os que ouvem a Palavra do Senhor.
+R. Felizes os que a vivem e a praticam cada dia.
+
+@secao Oração
+
+@oracao
+Abri, ó Deus, para os vossos servos e servas os tesouros da vossa graça: e assim como a maternidade de Maria foi a aurora da salvação, a festa do seu nascimento aumente em nós a vossa paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

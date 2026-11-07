@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saovenceslau.htm
+
+@secao Coleta
+@texto
+Ó Deus, que ensinastes o mártir São Venceslau
+preferir o reino do céu ao reino da terra;
+por suas preces, concedei que, renunciando a nós mesmos,
+possamos nos unir a vós de todo o coração.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Santificai, Senhor, com vossa bênção,
+os dons que de vós recebemos e agora vos apresentamos;
+e acendei em nós o fogo do vosso amor
+que levou São Venceslau a vencer os tormentos do martírio.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Se alguém quer me seguir, renuncie a si mesmo,
+tome a sua cruz e me siga, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, os sagrados mistérios que comungamos
+nos concedam a fortaleza de ânimo que levou
+o santo mártir São Venceslau
+a ser fiel no vosso serviço e vitorioso no martírio.
+Por Cristo, nosso Senhor.

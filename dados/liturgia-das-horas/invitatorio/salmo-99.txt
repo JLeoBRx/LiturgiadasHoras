@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/invitatorio/invitatorio99.html
+@documento Invitatorio
+
+@texto
+{Quando se reza sozinho pode-se dizer a seguinte oração:}
+Abri, Senhor, os meus lábios para bendizer o vosso santo nome. Purificai o meu coração de todos os pensamentos vãos, desordenados e estranhos. Iluminai o meu entendimento e inflamai minha vontade para que possa rezar digna, atenta e devotamente este Ofício, e mereça ser atendido na presença da vossa divina Majestade. Por Cristo, nosso Senhor. Amém.
+{–––––––––––––––––––––––} {O Invitatório tem seu lugar no início da oração cotidiana, ou seja, antepõe-se ao Ofício das Leituras, ou às Laudes, conforme se comece o dia por uma ou por outra ação litúrgica.}
+
+@texto
+V. Abri os meus lábios, ó Senhor.
+R. E minha boca anunciará vosso louvor.
+
+@lacuna antifona-invitatorio
+
+@versos
+= [2] Aclamai o Senhor, ó terra inteira, †
+  servi ao Senhor com alegria, *
+  ide a ele cantando jubilosos!
+
+@lacuna antifona-invitatorio
+
+@versos
+= [3] Sabei que o Senhor, só ele, é Deus †
+  Ele mesmo nos fez, e somos seus, *
+  nós somos seu povo e seu rebanho.
+
+@lacuna antifona-invitatorio
+
+@versos
+= [4] Entrai por suas portas dando graças, †
+  e em seus átrios com hinos de louvor, *
+  dai-lhe graças, seu nome bendizei!
+
+@lacuna antifona-invitatorio
+
+@versos
+= [5] Sim, é bom o Senhor e nosso Deus, †
+  sua bondade perdura para sempre, *
+  seu amor é fiel eternamente!
+
+@lacuna antifona-invitatorio
+
+@gloria
+
+@lacuna antifona-invitatorio
+
+@lacuna conclusao-invitatorio

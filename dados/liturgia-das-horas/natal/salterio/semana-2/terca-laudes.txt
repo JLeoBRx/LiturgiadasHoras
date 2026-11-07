@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2terca_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+. Enviai, Senhor, vossa luz, vossa verdade!
+
+@salmo salmos/salmo-042
+
+@gloria
+
+@antifona
+Enviai, Senhor, vossa luz, vossa verdade!
+
+@antifona 2
+Salvai-nos, ó Senhor, todos os dias!
+
+@salmo canticos/is-38-10-14-17-20
+
+@gloria
+
+@antifona
+Salvai-nos, ó Senhor, todos os dias!
+
+@antifona 3
+Ó Senhor, convém cantar vosso louvor
+com um hino em Sião!
+
+@salmo salmos/salmo-064
+
+@gloria
+
+@antifona
+Ó Senhor, convém cantar vosso louvor
+com um hino em Sião!

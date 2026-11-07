@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/9domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 24,16.18
+@texto
+Olhai para mim, Senhor, e tende compaixão,
+porque sou pobre e estou sozinho.
+Considerai minha miséria e sofrimento
+e concedei vosso perdão aos meus pecados.
+
+@secao Coleta
+@texto
+Ó Deus, cuja providência jamais falha,
+nós vos pedimos humildemente:
+afastai de nós o que é nocivo,
+e concedei-nos tudo o que for útil.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, confiantes em vosso amor de Pai,
+acorremos com nossos dons ao santo altar.
+Concedei-nos que, ao celebrarmos os vossos mistérios,
+sejamos purificados por vossa graça santificadora.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 16,6
+@texto
+Eu vos chamo, ó meu Deus, porque me ouvis,
+inclinai o vosso ouvido e escutai-me!
+{Ou:} {Mc 11,23.24}
+Em verdade vos digo,
+tudo o que pedirdes em oração
+acreditai que já o recebestes,
+e assim será, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Governai, Senhor, pelo vosso Espírito
+os que alimentais com o Corpo e o Sangue do vosso Filho.
+Dai-nos proclamar a nossa fé
+não somente em palavras,
+mas também pela verdade das nossas ações,
+para que mereçamos entrar no reino dos céus.
+Por Cristo, nosso Senhor.

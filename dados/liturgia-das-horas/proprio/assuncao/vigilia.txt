@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/assuncao_vigilia.htm
+@documento Vigília da Assunção de Nossa Senhora
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Vencida a própria morte,
+a santa Mãe de Deus em corpo e alma foi levada
+à glória celestial, nas alturas, aleluia.
+
+@salmo canticos/i-is-61-1062-3
+
+@gloria
+
+@salmo canticos/ii-is-62-4-7
+
+@gloria
+
+@salmo canticos/iii-eclo-39-17-21
+
+@gloria
+
+@antifona
+Vencida a própria morte,
+a santa Mãe de Deus em corpo e alma foi levada
+à glória celestial, nas alturas, aleluia.
+
+@secao Evangelho | Lc 11,27-28
+
+@texto
+Naquele tempo, [27] enquanto Jesus falava, uma mulher levantou a voz no meio da multidão e lhe disse: "Feliz o ventre que te trouxe e os seios que te amamentaram". [28] Jesus respondeu: "Muitos mais felizes são aqueles que ouvem a Palavra de Deus e a põem em prática".

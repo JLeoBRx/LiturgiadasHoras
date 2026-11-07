@@ -1,0 +1,37 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/gregorionarek.htm
+
+@secao Coleta
+@texto
+Ó Deus eterno e todo-poderoso,
+que vos dignastes infundir a sabedoria espiritual em São Gregório,
+mestre e honra do povo Armênio,
+concedei-nos aprender, por seu ensinamento,
+a arte de falar convosco
+e sustentar continuamente a nossa vida
+com os sacramentos da Igreja.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, possa agradar-vos
+o sacrifício oferecido com alegria
+na festa de São Gregório;
+fazei que, por sua exortação, também nós
+nos entreguemos totalmente ao vosso louvor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Servo fiel e prudente,
+a quem o Senhor confiou a sua família
+para dar-lhe alimento no tempo oportuno.
+
+@secao Depois da comunhão
+@texto
+Senhor, instruí pelo Cristo Mestre
+aqueles que alimentais com o Cristo, pão da vida,
+para que, na celebração da festa de São Gregório,
+aprendam a vossa verdade e a realizem pela caridade.
+Por Cristo, nosso Senhor.

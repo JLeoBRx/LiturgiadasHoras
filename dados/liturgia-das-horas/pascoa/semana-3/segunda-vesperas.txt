@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3segundapascoa_vesperas.htm
+@documento Vésperas - Segunda-feira da 3ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor há de ser tua luz sempiterna
+e teu Deus há de ser tua glória, aleluia.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@antifona
+O Senhor há de ser tua luz sempiterna
+e teu Deus há de ser tua glória, aleluia.
+
+@antifona 2
+O laço arrebentou-se de repente
+e fomos libertados, aleluia.
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@antifona
+O laço arrebentou-se de repente
+e fomos libertados, aleluia.
+
+@antifona 3
+Quando eu for elevado da terra
+atrairei para mim todo ser. Aleluia.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Quando eu for elevado da terra
+atrairei para mim todo ser. Aleluia.
+
+@secao Leitura breve | Hb 8,1b-3a
+
+@texto
+Temos um sumo-sacerdote tão grande, que se assentou à direita do trono da majestade, nos céus. Ele é ministro do Santuário e da Tenda verdadeira, armada pelo Senhor, e não por mão humana. Todo sumo-sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis a obra que agrada ao Senhor:
+a vossa fé no mensageiro que enviou. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis a obra que agrada ao Senhor:
+a vossa fé no mensageiro que enviou. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Jesus Cristo, que vivificado pelo Espírito Santo, tornou-se fonte de vida para toda a humanidade; e digamos cheios de alegria:
+
+R. **Senhor, renovai todas as coisas e dai-nos vida nova!**
+
+Cristo, Salvador do mundo e Rei da nova criação, orientai toda a nossa vida para o reino da glória celeste,
+– onde estais sentado à direita do Pai. R.
+
+Senhor, que viveis na vossa Igreja até o fim dos tempos,
+– conduzi-a pelo Espírito Santo ao conhecimento da verdade perfeita. R.
+
+Fazei com que os doentes, sofredores e agonizantes sintam o vosso amor misericordioso;
+– confortai-os e fortalecei-os com vossa bondade. R.
+
+{(intenções livres)}
+
+Cristo, luz que não se apaga, aceitai o louvor que vos oferecemos ao cair desta tarde,
+– e fazei brilhar, para os nossos irmãos e irmãs que partiram desta vida, a luz da vossa ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, vós que mostrais aos que erram a luz da verdade para que possam voltar ao bom caminho, concedei a todos os que se gloriam da vocação cristã rejeitem o que se opõe a este nome e abracem quanto possa honrá-lo. Por nosso Senhor, Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

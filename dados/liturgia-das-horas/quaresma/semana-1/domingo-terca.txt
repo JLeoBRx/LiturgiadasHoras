@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/1domingoquaresma_terca.htm
+@documento Hora Média - Terça - Domingo da 1ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@salmo salmos/salmo-117
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@secao Leitura breve | 1Ts 4,1.7
+
+@texto
+Meus irmãos, eis o que vos pedimos e exortamos no Senhor Jesus: Aprendestes de nós como deveis viver para agradar a Deus, e já estais vivendo assim. Fazei progressos ainda maiores! Pois Deus não nos chamou à impureza mas à santidade.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que, ao longo desta Quaresma, possamos progredir no conhecimento de Jesus Cristo e corresponder ao seu amor por uma vida santa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

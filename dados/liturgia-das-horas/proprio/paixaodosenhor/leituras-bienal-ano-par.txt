@@ -1,0 +1,167 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/paixaodosenhor_par.htm
+@documento Ofício das Leituras - Tríduo Pascal Da Paixão E Ressurreição Do Senhor Sexta Feira Da Paixão Do Senhor
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SEXTA-FEIRA DA PAIXÃO DO SENHOR
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@antifona 2
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@salmo salmos/salmo-021-2-23-24-32
+
+@rubrica
+Esta última parte do salmo é facultativa
+
+@salmo salmos/salmo-021-2-23-24-32-v2
+
+@gloria
+
+@antifona
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@antifona 3
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@salmo salmos/salmo-037
+
+@gloria
+
+@antifona
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@texto
+V. As falsas testemunhas se ergueram.
+R. E vomitam violência contra mim.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {16,1-15}
+
+@tema
+A vida do Profeta como sinal
+
+@texto
+Naqueles dias a palavra do Senhor me foi dirigida nestes termos: Não tomes para ti mulher e não tenhas filhos e filhas neste lugar. Porque assim disse o Senhor a respeito dos filhos e das filhas que nascerão neste lugar, e a respeito de suas mães que os conceberão e a respeito de seus pais que os gerarão nesta terra. Eles morrerão de doenças mortais, não serão lamentados nem enterrados; servirão de esterco sobre o solo. Perecerão pela espada e pela fome, e seus cadáveres serão alimento para os pássaros do céu e para os animais selvagens.
+Porque assim disse o Senhor: Não entres em casa de luto, não vás lamentar e não lhes apresentes o teu pesar, porque retirarei a minha paz deste povo - oráculo do Senhor - o amor e a compaixão. Grandes e pequenos morrerão nesta terra, não serão enterrados, nem lamentados; por eles não se fará incisão nem tonsura. Não partirão o pão ao que está de luto para consolá-lo por um morto; não lhe oferecerão o cálice de consolação por seu pai e por sua mãe.
+Não entres, também, em uma casa em festa para te assentares com eles a comer e a beber. Porque assim disse o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar neste lugar, aos vossos olhos e em vossos dias, o grito de júbilo e o grito de alegria, o grito do noivo e o grito da noiva.
+Quando tiveres anunciado a esse povo todas estas palavras e eles te disserem: “Por que anunciou o Senhor, contra nós, toda esta grande desgraça? Qual é a nossa falta? Que pecado cometemos contra o Senhor, nosso Deus?” Então tu lhes dirás: “Porque vossos pais me abandonaram - oráculo do Senhor -, seguiram outros deuses, os serviram e se prostraram diante deles. Mas a mim eles abandonaram e não guardaram a minha Lei! Mas vós fizestes pior que vossos pais. Eis que cada um de vós seguiu a obstinação de seu coração perverso, sem me ouvir. Eu vos lançarei para fora desta terra, numa terra que vós e vossos pais não conhecestes; servireis lá a outros deuses, de dia e de noite, pois não usarei mais misericórdia convosco”.
+Por isso, eis que dias virão - oráculo do Senhor -, em que não se dirá mais: “Viva o Senhor, que fez subir os israelitas da terra do Egito!” Mas sim: “Viva o Senhor, que fez subir os israelitas da terra do Norte e de todas as regiões, para onde os tinha dispersado.” Eu os reconduzirei à terra que dera a seus pais.
+
+@secao Responsório | Is 53,2,4,5
+
+@responsorio
+R. Não tinha beleza nem esplendor que pudesse atrair o nosso olhar,
+nem formosura capaz de nos deleitar.
+* E no entanto eram nossos sofrimentos que ele levava sobre si,
+nossas dores que ele carregava.
+V. O castigo que havia de trazer-nos a paz, caiu sobre ele,
+sim, por suas feridas fomos curados. * E no entanto.
+
+@secao Segunda leitura
+
+@leitura
+Das Catequeses de São João Crisóstomo, bispo
+{(Séc. IV)} {(Cat. 3,13-19: SCh 50,174-177)}
+
+@tema
+O poder do sangue de Cristo
+
+@texto
+Queres conhecer o poder do sangue de Cristo? Voltemos às figuras que o profetizaram e recordemos a narrativa do Antigo Testamento: _Imolai,_ disse Moisés, _um cordeiro de_ _um ano e marcai as portas com o seu sangue_ (cf. Ex 12,6-7). Que dizes, Moisés? O sangue de um cordeiro tem poder para libertar o homem dotado de razão? É claro que não, responde ele, não porque é sangue, mas por ser figura do sangue do Senhor. Se agora o inimigo, em vez do sangue simbólico aspergido nas portas, vir brilhar nos lábios dos fiéis, portas do templo dedicado a Cristo, o sangue verdadeiro, fugirá ainda mais para longe.
+Queres compreender mais profundamente o poder deste sangue? Repara de onde começou a correr e de que fonte brotou. Começou a brotar da própria cruz, e a sua origem foi o lado do Senhor. Estando Jesus já morto e ainda pregado na cruz, diz o evangelista, um soldado aproximou-se, feriu-lhe o lado com uma lança, e imediatamente saiu água e sangue: a água, como símbolo do Batismo; o sangue, como símbolo da eucaristia. O soldado, traspassando-lhe o lado, abriu uma brecha na parede do templo santo, e eu, encontrando um enorme tesouro, alegro-me por ter achado riquezas extraordinárias. Assim aconteceu com este cordeiro. Os judeus mataram um cordeiro e eu recebi o fruto do sacrifício. _De seu lado saiu sangue e água_ (Jo 19,34). Não quero, querido ouvinte, que trates com superficialidade o segredo de tão grande mistério. Falta-me ainda explicar-te outro significado místico e profundo. Disse que essa água e este sangue são símbolos do Batismo e da eucaristia. Foi destes sacramentos que nasceu a santa Igreja, pelo banho da regeneração e pela renovação no Espírito Santo, isto é, pelo Batismo e pela eucaristia que brotaram do lado de Cristo. Pois Cristo formou a Igreja de seu lado traspassado, assim como do lado de Adão foi formada Eva, sua esposa.
+Por essa razão, a Sagrada Escritura, falando do primeiro homem, usa a expressão _osso dos meus ossos e carne da_ _minha carne_ (Gn 2,23), que São Paulo refere, aludindo ao lado de Cristo. Pois, assim como Deus formou a mulher do lado do homem, também Cristo, de seu lado, nos deu a água e o sangue para que surgisse a Igreja. E assim como Deus abriu o lado de Adão enquanto ele dormia, também Cristo nos deu a água e o sangue durante o sono de sua morte.
+Vede como Cristo se uniu à sua esposa, vede com que alimento nos sacia. Do mesmo alimento nos faz nascer e nos nutre. Assim como a mulher, impulsionada pelo amor natural, alimenta com o próprio leite e o próprio sangue o filho que deu à luz, também Cristo alimenta sempre com seu sangue aqueles a quem deu o novo nascimento.
+
+@secao Responsório | Cf. 1Pd 1,18-19;Ef 2,18;1Jo 1,7
+
+@responsorio
+R. Não foi nem com ouro nem com prata que fostes remidos, irmãos;
+mas sim pelo sangue precioso de Cristo, o Cordeiro sem mancha.
+* Por ele nós temos acesso num único Espírito ao Pai.
+V. O sangue do Filho de Deus nos lava de todo pecado. * Por ele.
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por nosso Senhor Jesus Cristo, vossoFilho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

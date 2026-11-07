@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaoevangelista_vesperas.htm
+@documento Vésperas - São João, Apóstolo e Evangelista
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@antifona 2
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@antifona 3
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@secao Leitura breve | Rm 8,3b-4
+
+@texto
+Tendo Deus enviado seu próprio Filho numa condição semelhante àquela da humanidade pecadora, e por causa justamente do pecado, condenou o pecado em nossa condição humana, para que toda a justiça exigida pela Lei seja cumprida em nós que não procedemos segundo a carne, mas segundo o Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Por vós, Santa Virgem Maria,
+cumpriu-se a Palavra de Deus
+que os profetas disseram do Cristo.
+Sendo virgem, concebestes e gerastes o Senhor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Por vós, Santa Virgem Maria,
+cumpriu-se a Palavra de Deus
+que os profetas disseram do Cristo.
+Sendo virgem, concebestes e gerastes o Senhor.
+
+@secao Preces
+
+@preces
+Rezemos, irmãos, a Deus Pai que por seu grande amor para conosco nos enviou seu Filho; e digamos:
+
+R. **A graça de Cristo esteja sempre conosco!**
+
+Deus de amor, Pai de nosso Senhor Jesus Cristo, que vos compadecestes daqueles que vivem nas trevas,
+– acolhei as preces que vos apresentamos pela salvação de todos. R.
+
+Lembrai-vos, Senhor, da vossa Igreja que se faz presente pelo mundo inteiro,
+– abençoai o povo cristão e concedei-lhe a paz. R.
+
+Pai de todos os homens, estabelecei também a paz entre as nações, e dirigi todos os povos para o conhecimento de vosso Filho,
+– e dai aos governantes das nações o espírito da paz. R.
+
+{(intenções livres)}
+
+Vós que, com a chegada de vosso Filho, quisestes que a paz fosse anunciada ao mundo inteiro,
+– dai a paz eterna aos que adormeceram na esperança. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus onipotente, agora que a nova luz do vosso Verbo Encarnado invade o nosso coração, fazei que manifestemos em ações o que brilha pela fé em nossas mentes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1sabado_vesperas.htm
+@documento I Vésperas
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+De alegria exulta, ó nova Sião:
+eis que vem na humildade o teu Rei, Salvador!
+
+@salmo salmos/salmo-118-105-112-xiv-nun
+
+@gloria
+
+@antifona
+De alegria exulta, ó nova Sião:
+eis que vem na humildade o teu Rei, Salvador!
+
+@antifona 2
+. Fortalecei-vos, mãos cansadas, tomai ânimo e dizei:
+Eis que vem o nosso Deus! Ele vem para salvar. Aleluia.
+
+@salmo salmos/salmo-015-v2
+
+@gloria
+
+@antifona
+Fortalecei-vos, mãos cansadas, tomai ânimo e dizei:
+Eis que vem o nosso Deus! Ele vem para salvar. Aleluia.
+
+@antifona 3
+A lei foi-nos dada por meio de Moisés,
+mas a graça e a verdade nos vieram por Jesus.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai)
+
+@salmo canticos/fl-2-6-11-v4
+
+@gloria
+
+@antifona
+A lei foi-nos dada por meio de Moisés,
+mas a graça e a verdade nos vieram por Jesus.
+
+@secao Leitura breve | 1Ts 5,23-24
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois - espírito, alma, corpo - seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! Aquele que vos chamou é fiel; ele mesmo realizará isso.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Eu vi um novo céu, eu vi uma nova terra;
+nunca mais haverá choro nem clamor nem aflição.
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+{Ano A} Naqueles dias, João Batista apareceu, pregando no deserto e dizendo:
+Convertei-vos e mudai a vossa vida,
+pois o Reino dos Céus está chegando.
+
+@antifona
+{Ano B} Vou mandar meu mensageiro preparar o meu caminho à tua frente. Aleluia.
+
+@antifona
+{Ano C} Vinde, ó Senhor, visitai-pos com a paz,
+para em vós nos alegrarmos de todo o coração.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+{Ano A} Naqueles dias, João Batista apareceu, pregando no deserto e dizendo:
+Convertei-vos e mudai a vossa vida,
+pois o Reino dos Céus está chegando.
+
+@antifona
+{Ano B} Vou mandar meu mensageiro preparar o meu caminho à tua frente. Aleluia.
+
+@antifona
+{Ano C} Vinde, ó Senhor, visitai-pos com a paz,
+para em vós nos alegrarmos de todo o coração.
+
+@secao Preces
+
+@preces
+Oremos, irmãos caríssimos, a Cristo nosso Senhor, que nasceu da Virgem Maria; e digamos com humildade e alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Filho Unigênito de Deus, que haveis de vir como o verdadeiro mensageiro da Aliança,
+– fazei que o mundo vos acolha e reconheça. R.
+
+Filho Unigênito de Deus, que vos fizestes filho do homem no seio da Virgem Maria,
+– livrai-nos de toda a corrupção da condição humana. R.
+
+Filho Unigênito de Deus, que sois fonte de vida e quisestes experimentar a morte,
+– livrai-nos da sentença de morte que merecemos. R.
+
+Filho Unigênito de Deus, que vindes julgar o mundo e trazeis convosco a recompensa,
+– aumentai a nossa esperança para que sejamos dignos das vossas promessas. R.
+
+{(intenções livres)}
+
+Senhor Jesus Cristo, que viestes, socorrer os mortos com a vossa morte,
+– escutai as súplicas que vos dirigimos pelos nossos defuntos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso e cheio de misericórdia, nós vos pedimos que nenhuma atividade terrena nos impeça de correr ao encontro do vosso Filho, mas, instruídos pela vossa sabedoria, participemos da plenitude de sua vida. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.

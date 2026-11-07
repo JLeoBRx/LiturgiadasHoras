@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2domingo_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Anunciaram os profetas, que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Anunciaram os profetas, que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Rm 13,13-14a
+
+@texto
+Procedamos honestamente, como em pleno dia: nada de glutonerias e bebedeiras, nem de orgias sexuais e imoralidades, nem de brigas e rivalidades. Pelo contrário, revesti-vos do Senhor Jesus Cristo.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso e cheio de misericórdia, nós vos pedimos que nenhuma atividade terrena nos impeça de correr ao encontro do vosso Filho, mas, instruídos pela vossa sabedoria, participemos da plenitude de sua vida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

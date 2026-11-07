@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/10segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo 10a SEMANA DO TEMPO COMUM / SEGUNDA-FEIRA / II Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {1,12-26}
+
+@tema
+Paulo é chamado a juízo
+
+@texto
+[12] Quero que saibais, irmãos, que o que me aconteceu redundou em progresso do evangelho: [13] minhas prisões se tornaram conhecidas em Cristo por todo o Pretório e por toda parte, [14] e a maioria dos irmãos, encorajados no Senhor pelas minhas prisões, proclamam a Palavra com mais ousadia e sem temor. [15] É verdade que alguns proclamam o Cristo por inveja e porfia, e outros por boa vontade: [16] estes por amor proclamam a Cristo, sabendo que fui posto para defesa do evangelho, [17] e aqueles por rivalidade, não sinceramente, julgando com isso acrescentar sofrimento às minhas prisões. [18] Mas que importa? De qualquer maneira - ou com segundas intenções ou sinceramente - Cristo é proclamado, e com isso me regozijo. Mas me regozijo [19] porque sei que isso me redundará em salvação pelas vossas orações e pelo socorro do Espírito de Jesus Cristo. [20] Minha expectativa e a esperança é de que em nada serei confundido, mas com toda a ousadia, agora como sempre, Cristo será engrandecido no meu corpo, pela vida ou pela morte. [21] Pois para mim o viver é Cristo e o morrer é lucro. [22] Mas, se o viver na carne me dá ocasião de trabalho frutífero, não sei bem o que escolher. [23] Sinto-me num dilema: o meu desejo é partir e ir estar com Cristo, pois isso me é muito melhor, [24] mas o permanecer na carne é mais necessário por vossa causa. [25] Convencido disso, sei que ficarei e continuarei com todos vós, para proveito vosso e para alegria de vossa fé, [26] a fim de que, por mim - pela minha volta entre vós -, aumente a vossa glória em Cristo Jesus.
+
+@secao Responsório | Fl 1,20-21
+
+@responsorio
+R. Meu ardente desejo e minha esperança
+são que em nada serei confundido:
+* Cristo será glorificado no meu corpo,
+quer pela minha vida quer pela minha morte.
+V. Porque para mim o viver é Cristo,
+e o morrer é lucro. * Cristo será.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Filipenses”, de São Policarpo, bispo e mártir
+{(Séc. II)} {(Nn. 3,1-5,2: Funk 1,269-273)}
+
+@tema
+Revistamo-nos com as armas da justiça
+
+@texto
+Eu vos escrevo sobre a justiça, não por pretensão minha, mas por insistência vossa. Pois nem eu nem outro semelhante a mim pode igualar a sabedoria do santo e glorioso Paulo. Estando junto de vós, diante dos homens vivos naquela ocasião, ensinou com perfeição e firmeza a palavra da verdade e, ausente, vos enviou cartas. Por estas, se as lerdes com atenção, sereis edificados na fé que vos foi dada. _Ela é a mãe de todos nós_ (Gl 4,26), seguida pela esperança, precedida pela caridade em Deus, em Cristo e no próximo. Quem estiver envolvido por elas, cumpre o mandamento da justiça; pois quem tem a caridade mantém longe de si o pecado.
+_A raiz de todos os males é a ânsia de possuir_ (1Tm 6,10). Certos de que _nada trouxemos para este mundo nem dele_ _poderemos levar coisa alguma_ (1Tm 6,7), revistamo-nos com as armas da justiça e ensinemos a caminhar no preceito do Senhor. A nós mesmos em primeiro lugar; depois, a vossas esposas, para que andem na fé que lhes foi entregue e na caridade e na castidade. Que amem seus maridos com inteira fidelidade e estimem a todos com recato. Eduquem os filhos na disciplina do temor de Deus (cf. Ef 5,23s). Às viúvas ensinemos a ser versadas na doutrina do Senhor, intercedendo sem cessar por todos, afastadas de toda impostura, maledicência, falso testemunho, da avareza e de todo mal. Conscientes de serem altar de Deus e de que ele tudo vê claramente, nada lhe escapa de apreciações, de pensamentos e dos segredos do coração (cf. 1Tm 5).
+Sabendo, portanto, que _não se zomba de Deus_ (Gl 6,7), devemos caminhar de modo digno conforme a seu preceito manifesto. Igualmente têm os diáconos de ser irrepreensíveis em face de sua justiça, como ministros de Deus e do Cristo, não dos homens. Não sejam maldizentes, falsos, avaros (cf. 1Tm 3,6s), mas sóbrios em tudo, misericordiosos, dedicados, vivendo de acordo com a verdade do Senhor que se fez o servo de todos. Se lhe formos agradáveis neste mundo, seremos recompensados no outro, como nos prometeu: ele ressuscitará dos mortos a cada um de nós. Se vivermos de modo digno dele, _também com ele reinaremos_ (2Tm 2,12), já que temos fé.
+
+@secao Responsório | Fl 4,8.9
+
+@responsorio
+R. Ocupai-vos com tudo o que é verdadeiro,
+nobre, justo e puro, amável, honroso;
+* E convosco estará o Senhor, Deus da Paz.
+V. Pensai no que é bom
+e em tudo aquilo que merece louvor. * E convosco.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de todo o bem, atendei ao nosso apelo e fazei-nos, por vossa inspiração, pensar o que é certo e realizá-lo com vossa ajuda. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

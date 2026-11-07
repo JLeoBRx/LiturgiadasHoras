@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quinta_aposepifania_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d’aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@salmo salmos/salmo-071
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@antifona 2
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@antifona 3
+Chegou agora a salvação e o reino do Senhor.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v3
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o reino do Senhor.
+
+@secao Leitura breve | 1Jo 1,5b.7
+
+@texto
+Deus é luz e nele não há trevas. Se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo o pecado.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Virão todos de Sabá a trazer incenso e ouro
+e a cantar os seus louvores. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Virão todos de Sabá a trazer incenso e ouro
+e a cantar os seus louvores. Aleluia.
+
+@secao Preces
+
+@preces
+Unidos na oração com todos os nossos irmãos e irmãs, bendigamos a Deus; e peçamos:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Pai santo, nós vos pedimos por aqueles que vos conhecem apenas pela luz da razão,
+– para que sejam também enriquecidos com a luz do Evangelho. R.
+
+Olhai com bondade para todos aqueles que, fora da Igreja, procuram libertar-se das angústias da condição humana,
+– para que encontrem em Cristo o caminho, a verdade e a vida. R.
+
+Vinde ajudar aqueles que praticam com sinceridade sua própria religião,
+– e conduzi-os à admirável luz de Cristo, vosso Filho. R.
+
+Purificai continuamente os corações de vossos fiéis,
+– para que vos conheçam cada vez melhor. R.
+
+{(intenções livres)}
+
+Manifestai a vossa misericórdia para com nossos irmãos e irmãs falecidos,
+– e recebei-os na glória de vossos eleitos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, a aurora do vosso dia eterno despontou sobre todas as nações. Concedei ao vosso povo conhecer a fulgurante glória do seu Redentor e por ele chegar à luz que não se extingue. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

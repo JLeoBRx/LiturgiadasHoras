@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saoleao.htm
+@documento Ofício das Leituras - São Leão Magno, Papa E Doutor Da Igreja Memória
+
+@celebracao
+SÃO LEÃO MAGNO, PAPA E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu na Toscana (Itália) e no ano 440 foi elevado à Cátedra de Pedro, cargo que exerceu como verdadeiro pastor e pai. Trabalhou intensamente pela integridade da fé, defendeu com ardor a unidade da Igreja, empenhou-se por todos os meios possíveis em evitar as incursões dos bárbaros ou mitigar os seus efeitos. Por toda esta atividade extraordinária mereceu com toda a justiça ser apelidado “Magno”. Morreu no ano 461.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro, seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro, seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas, recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel, vem entrar na alegria de Jesus, teu Senhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc. V)} {(Sermo 4,1-2: PL 54,148-149)}
+
+@tema
+O serviço especial do nosso ministério
+
+@texto
+Embora seja a Igreja de Deus toda ela ordenada em distintos graus, de forma a subsistir a integridade nos diversos membros do Corpo sagrado, todos, no entanto, no dizer do Apóstolo, em Cristo, somos um (cf. Gl 3,28). Ninguém está tão separado do outro pelo ofício, que até a mínima porção não pertença à conexão da cabeça. De fato, na unidade da fé e do batismo, nossa sociedade não conhece discriminações e é geral a dignidade, segundo a palavra do santo apóstolo Pedro: _Quais pedras vivas deixai-vos edificar como casas espirituais, um sacerdócio santo, para oferecer sacrifícios espirituais aceitos de Deus por Jesus Cristo_ (1Pd 2,5); e depois: _Vós, porém, raça eleita e sacerdócio real, nação santa, povo adquirido_ (1Pd 2,9).
+
+A todos os renascidos em Cristo o sinal da cruz torna reis, a unção do Espírito Santo consagra sacerdotes. Por isso, afora o especial serviço de nosso ministério, saibam todos os cristãos espirituais e racionais serem consortes da raça real e do ofício sacerdotal. Que de mais régio do que ser o espírito submisso a Deus, senhor de seu corpo? E que de mais sacerdotal do que entregar ao Senhor a consciência pura e oferecer as hóstias imaculadas da piedade no altar do coração? Sendo obra, pela graça de Deus, comum a todos, contudo, é piedoso e louvável de vossa parte alegrar-vos, como honra vossa, pelo dia de nossa elevação. Que se celebre no Corpo todo da Igreja o único sacramento do sacerdócio. Ao derramar-se o unguento da consagração, este sacramento derramou-se certamente com mais abundância nos membros superiores, mas não com menor liberalidade nos inferiores.
+
+Havendo assim, diletíssimos, pela participação neste dom, grande motivo de alegria em comum, haverá mais verdadeira e mais excelente causa de júbilo, se não pararmos na consideração de nossa pequenez. Com efeito muito mais vantajoso e mais digno será erguermos a força do espírito para contemplar a glória do santíssimo apóstolo Pedro; e, de preferência, neste dia venerar aquele que foi abundantemente regado pela fonte mesma dos carismas, para que, tendo recebido sozinho, nada seja transmitido a alguém sem sua participação. O Verbo feito carne já habitava entre nós. Cristo já se tinha entregado totalmente para restaurar o gênero humano.
+
+@secao Responsório | Mt 16,18; Sl 47(48),9d
+
+@responsorio
+R. Jesus disse, em seguida, a Simão:
+Tu és Pedro e sobre esta pedra
+eu irei construir minha Igreja.
+* E as portas do inferno não irão derrotá-la.
+V. Deus fundou sua cidade e será para sempre.
+* E as portas.
+
+@secao Oração
+
+@oracao
+Ó Deus, que jamais permitis que as potências do mal prevaleçam contra a vossa Igreja, fundada sobre a rocha inabalável dos Apóstolos, dai-lhe, pelos méritos do papa São Leão, permanecer firme na verdade e gozar paz para sempre. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

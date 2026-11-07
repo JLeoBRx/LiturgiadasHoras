@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/nuncdimittis.htm
+@documento hinosemlatim
+
+@texto
+**NUNC DIMITTIS**
+(Cântico de Simeão)
+Lc 2,29-32
+
+–29 Deixai, agora, vosso servo ir em paz, *
+conforme prometestes, ó Senhor.
+
+–30 Pois meus olhos viram vossa salvação *
+31 que preparastes ante a face das nações:
+
+–32 uma Luz que brilhará para os gentios *
+e para a glória de Israel, o vosso povo.
+
+– Glória ao Pai e ao Filho e ao Espírito Santo. *
+Como era no princípio, agora e sempre. Amém.
+
+{(em latim)}
+
+@texto
+–29 Nunc dimíttis servum tuum, Dómine, *
+secúndum verbum tuum in pace,
+–30 quia vidérunt óculi mei *
+salutáre tuum,
+–31 quod parásti *
+ante fáciem ómnium populórum,
+–32 lumen ad revelatiónem géntium *
+et glóriam plebis tuae Israel.
+
+– Glória Patri et Fílio *
+et Spirítui Sancto.
+– Sicut erat in princípio, et nunc et semper, *
+et in saécula saeculórum. Amen.

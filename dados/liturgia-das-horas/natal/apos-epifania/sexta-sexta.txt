@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@salmo salmos/salmo-118-73-80
+
+@gloria
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@secao Leitura breve | Jr 31,11-12
+
+@texto
+O Senhor resgatou Jacó e libertou-o das mãos dos poderosos. Virão cantar louvores no monte Sião e participar dos bens do Senhor.
+
+@texto
+V. As nações hão de ver vossa justiça.
+R. E os reis contemplarão a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que o natal do Salvador do mundo, manifestado pela luz da estrela, sempre refulja e cresça em nossas vidas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

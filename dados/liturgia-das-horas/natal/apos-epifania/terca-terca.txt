@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/terca_aposepifania_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+O mistério escondido desde os séculos,
+agora entre nós se manifesta.
+
+@salmo salmos/salmo-118-49-56
+
+@gloria
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+O mistério escondido desde os séculos,
+agora entre nós se manifesta.
+
+@secao Leitura breve | Is 45,13
+
+@texto
+Fui eu que o suscitei na justiça, aplainando todos os seus caminhos; ele reconstruirá minha cidade e repatriará os meus deportados, sem pagar resgates ou indenização – diz o Senhor dos exércitos.
+
+@texto
+V. Deus foi visto na terra.
+R. E viveu entre os homens.
+
+@secao Oração
+
+@oracao
+Ó Deus, cujo Filho Unigênito se manifestou na realidade da nossa carne, concedei que, reconhecendo sua humanidade semelhante à nossa, sejamos interiormente transformados por ele. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

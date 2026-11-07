@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saociriloalexandria.htm
+@documento Ofício das Leituras - São Cirilo De Alexandria, Bispo E Doutor Da Igreja
+
+@celebracao
+SÃO CIRILO DE ALEXANDRIA, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em 370 e levou vida monástica. Ordenado sacerdote, acompanhou seu tio, bispo de Alexandria, de quem foi sucessor no episcopado, em 412. Combateu energicamente as doutrinas de Nestório e teve um importante desempenho no Concílio de Éfeso. Escreveu muitas obras de grande erudição para explicar e defender a fé católica. Morreu em 444.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Cirilo de Alexandria, bispo
+{(Séc.IV)} {(Epist. 1: PG 77,14-18.27-30)}
+
+@tema
+Defensor da maternidade divina da Virgem Maria
+
+@texto
+Causa-me profunda admiração haver alguns que duvidam em dar à Virgem Santíssima o título de Mãe de Deus. Realmente, se nosso Senhor Jesus Cristo é Deus, por que motivo não pode ser chamada de Mãe de Deus a Virgem Santíssima que o gerou? Esta verdade nos foi transmitida pelos discípulos do Senhor, embora não usassem esta expressão. Assim fomos também instruídos pelos Santos Padres. Em particular, Santo Atanásio, nosso pai na fé, de ilustre memória, na terceira parte do livro que escreveu sobre a santa e consubstancial Trindade, dá frequentemente à Virgem Santíssima o título de Mãe de Deus. Vejo-me obrigado a citar aqui suas palavras, que têm o seguinte teor: “A Sagrada Escritura, como tantas vezes fizemos notar, tem por finalidade e característica afirmar de Cristo Salvador estas duas coisas: que ele é Deus e nunca deixou de o ser, visto que é a Palavra do Pai, seu esplendor e sabedoria; e também que nestes últimos tempos, por causa de nós, se fez homem, assumindo um corpo da Virgem Maria, Mãe de Deus”. E continua mais adiante: “Houve muitos que já nasceram santos e livres de todo pecado. Por exemplo: Jeremias foi santificado desde o seio materno; também João, antes de ser dado à luz, exultou de alegria ao ouvir a voz de Maria Mãe de Deus”. Estas palavras são de um homem inteiramente digno de lhe darmos crédito, sem receio, e a quem podemos seguir com toda segurança. Com efeito, ele jamais pronunciou uma só palavra que fosse contrária às Sagradas Escrituras. De fato, a Escritura, verdadeiramente inspirada por Deus, afirma que a Palavra de Deus se fez carne, quer dizer, uniu-se à carne dotada de alma racional. Portanto, a Palavra de Deus assumiu a descendência de Abraão e, formando para si um corpo vindo de uma mulher, tornou-se participante da carne e do sangue. Assim, já não é somente Deus mas homem também, semelhante a nós, em virtude da sua união com a nossa natureza. Por conseguinte, o Emanuel, Deus-conosco, possui duas realidades, isto é, a divindade e a humanidade. Todavia, é um só Senhor Jesus Cristo, único e verdadeiro Filho por natureza, ainda que ao mesmo tempo Deus e homem. Não é apenas um homem divinizado, igual àqueles que pela graça se tornam participantes da natureza divina; mas é verdadeiro Deus que, para nossa salvação, se tornou visível em forma humana, conforme Paulo testemunha com as seguintes palavras: _Quando se completou o tempo previsto, Deus enviou seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que estavam sujeitos à Lei e para que todos recebêssemos a filiação adotiva_ (Gl 4,4-5).
+
+@secao Responsório
+
+@responsorio
+R. Este homem realizou em sua vida
+grandes feitos na presença do Senhor
+e toda a terra se encheu de sua doutrina.
+* Seja ele para nós intercessor
+na presença do Senhor e nosso Deus.
+V. É este o sacerdote do Senhor
+que meditou os seus preceitos dia e noite.* Seja ele.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes em Alexandria o bispo São Cirilo para proclamar Maria Mãe de Deus, dai, aos que professam a maternidade divina, serem salvos pela encarnação do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

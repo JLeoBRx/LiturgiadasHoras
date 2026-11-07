@@ -1,0 +1,98 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anunciacao_sexta.htm
+@documento Hora Média - Anunciação do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(T.P.} Aleluia)
+
+@secao Hino
+
+@hino
+{Na Quaresma:}
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+{No Tempo pascal:}
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Eis que a Virgem conceberá um Menino e dará à luz,
+e o seu nome é Emanuel.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Eis que a Virgem conceberá um Menino e dará à luz,
+e o seu nome é Emanuel.
+
+@secao Leitura breve | 1Jo 4,10
+
+@texto
+Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados.
+
+@texto
+V. Eis a serva do Senhor.
+R. Realize-se em mim a Palavra do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

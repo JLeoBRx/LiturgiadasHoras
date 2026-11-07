@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paixaodosenhor_nona.htm
+@documento Hora Média - Paixão de Nosso Senhor Jesus Cristo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Da vida eterna a coroa
+dai-nos agora, Jesus,
+que por nós fostes pregado
+no santo lenho da cruz.
+
+Rasgando antiga sentença,
+implantais reino de amor,
+já não mais somos escravos,
+se sois de novo o Senhor.
+
+Ao Pai e ao Espírito glória,
+glória a vós, Cristo Jesus,
+que a vida eterna nos destes
+pelo triunfo da cruz.
+
+@secao Salmodia
+
+@antifona
+Jesus gritou em alta voz na hora nona.
+Meu Deus, meu Deus, por que me abandonastes?
+
+@salmo salmos/salmo-039-2-14-17-18
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@salmo salmos/salmo-087
+
+@gloria
+
+@antifona
+Jesus gritou em alta voz na hora nona.
+Meu Deus, meu Deus, por que me abandonastes?
+
+@secao Leitura breve | Is 53,6-7
+
+@texto
+Todos nós vagávamos como ovelhas desgarradas, cada qual seguindo seu caminho; e o Senhor fez recair sobre ele o pecado de todos nós. Foi maltratado, e submeteu-se, não abriu a boca; como cordeiro levado ao matadouro ou como ovelha diante dos que a tosquiam, ele não abriu a boca.
+
+@texto
+V. Colocaram-me nas trevas,
+R. Como mortos desde séculos.
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

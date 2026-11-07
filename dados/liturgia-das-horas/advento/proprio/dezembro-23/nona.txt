@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/23_nona.htm
+@documento Próprio - Nona - 23 de dezembro
+
+@secao Leitura breve | Br 3,5-6a
+
+@texto
+Não leves em conta as iniquidades de nossos pais mas recorda-te da bondade de tua mão e do teu nome neste tempo, porque és o Senhor, nosso Deus.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ao aproximar-nos do natal do vosso Filho, concedei-nos obter a misericórdia do Verbo, que se encarnou no seio da Virgem e quis viver entre nós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

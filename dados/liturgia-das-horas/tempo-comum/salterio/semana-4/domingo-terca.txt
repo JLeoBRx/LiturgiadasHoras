@@ -1,0 +1,85 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4domingo_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@antifona
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@antifona 2
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@antifona
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@antifona 3
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@secao Leitura breve | 1Cor 6,19-20
+
+@texto
+Ignorais que o vosso corpo é santuário do Espírito Santo, que mora em vós e que vos é dado por Deus? E, portanto, ignorais também que vós não pertenceis a vós mesmos? De fato, fostes comprados, e por preço muito alto. Então, glorificai a Deus com o vosso corpo.
+
+@texto
+V. Minha alma desfalece de saudades
+pelos átrios do Senhor.
+R. Meu coração e minha carne rejubilam
+de alegria no Deus vivo.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

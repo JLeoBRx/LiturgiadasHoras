@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/23quartaTC.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Habacuc {2,5-20}
+
+@tema
+Maldições contra os opressores
+
+@texto
+[5] As riquezas enganam o homem arrogante, e ele não permanecerá, ainda que escancare as fauces como o Xeol, e seja insaciável como a morte; ainda que reúna para si todas as nações e congregue em seu redor todos os povos! [6] Não entoarão, todos eles, uma sátira contra ele? Não lhe dirigirão enigmas? Dirão: Ai de quem acumula o que não é seu – até quando? – e se carrega de penhores! [7] Não se levantarão, de repente, os teus credores, não despertarão os exatores? Tu serás a sua presa. [8] Porque saqueaste numerosas nações, tudo o que resta dos povos te saqueará, por causa dos assassinatos e da violência feita ao país, à cidade e a todos os habitantes! [9] Ai do que ajunta ganhos injustos para sua casa para colocar bem no alto seu ninho, para escapar à mão da desgraça! [10] Decidiste a vergonha para tua casa: destruindo muitas nações, pecaste contra ti mesmo. [11] Sim, a pedra do muro gritará e as vigas do madeiramento responderão. [12] Ai do que constrói uma cidade com sangue e funda uma capital na injustiça! [13] Não vem do Senhor Todo-poderoso, que os povos trabalhem para o fogo e que as nações se esforcem em vão? [14] Porque a terra será repleta do conhecimento da glória do Senhor, como as águas enchem o mar! [15] Ai do que faz beber o seu próximo e mistura seu veneno até embriagá-lo para ver sua nudez! [16] Ficaste saciado de ignomínia e não de glória! Bebe, pois, tu também, e mostra a tua nudez. Volta-se para ti a taça da direita do Senhor e após a tua glória, a infâmia! [17] Porque a violência contra o Líbano recairá sobre ti e a matança de animais te causará horror, por causa dos assassinatos e da violência feita ao país, à cidade e a todos os habitantes! [18] De que serve uma escultura para que o seu artista a esculpa? Um ídolo de metal, um mestre de mentiras, para que nele confie o seu artista, construindo ídolos mudos? [19] Ai daquele que diz à madeira: "Desperta!" à pedra muda: "Acorda!" Será que ele deve ensinar? Ei-lo revestido de ouro e prata, mas não há sopro de vida em seu seio. [20] Mas o Senhor está no seu templo santo: silêncio em sua presença, terra inteira!
+
+@secao Responsório | Rm 2,12; 3,23; 11,32
+
+@responsorio
+R. Todos aqueles que pecaram sem a Lei,
+também sem Lei perecerão.
+Todos aqueles que pecaram, tendo a Lei,
+pela Lei serão julgados.
+* Pois, todos os homens pecaram
+e carecem da glória de Deus.
+V. Deus submeteu os homens todos ao pecado,
+para mostrar misericórdia a todos eles. * Pois todos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Séc. XII)} {(Sermo 5 de diversis, 4-5: Opera omnia. Edit. Cisterc. 6,1 [1970]103-104)}
+
+@tema
+Os graus da contemplação
+
+@texto
+Firmemos os pés no reduto, na pedra solidíssima, apoiados com todas as forças em Cristo, como está escrito: _Firmou meus pés sobre a pedra e dirigiu meus passos_ (Sl 39,3). Assim firmes e estáveis contemplemos para ver o que nos dirá e o que responderemos ao que nos repreende.
+
+@texto
+O primeiro grau da contemplação é então este, caríssimos, que consideremos sem cessar o que quer o Senhor, o que lhe agrada, aquilo que é aceito diante dele. E já que _em muitas coisas todos nós faltamos_ (Tg 3,2) e nossa força vai de encontro à retidão de sua vontade, sem poder unir-se ou adaptar-se a ela, humilhemo-nos sob a poderosa mão do Deus altíssimo e procuremos mostrar-nos bem miseráveis aos olhos de sua misericórdia, dizendo: _Cura-me, Senhor, e ficarei curado; salva-me e serei salvo_ (Jr 17,14), e ainda: _Senhor, tem compaixão de mim, cura minha alma porque pequei contra ti_ (Sl 40,5).
+
+@texto
+Com o olhar do coração purificado por estes pensamentos, já não nos entretemos com nosso espírito na amargura, porém, muito mais com o espírito divino com grande atrativo. Não refletimos mais sobre a vontade de Deus em nós e sim no que ela é em si mesma.
+
+@texto
+_Na vontade de Deus se encontra a vida_ (Sl 29,6 Vulg.). Por isto não duvidamos de que, em tudo, o mais útil e fácil para nós é aquilo que é conforme a sua vontade. Então com a mesma solicitude com que desejamos conservar a vida de nossa alma, não nos desviemos dela, na medida do possível.
+
+@texto
+Enfim, tendo-nos adiantado um pouco no exercício espiritual, guiados pelo Espírito, perscrutador das profundezas de Deus, pensemos na suavidade do Senhor, como é bom em si mesmo. Com o profeta, roguemos ver a vontade de Deus e visitar já não mais nosso coração, mas seu templo; dizendo contudo: _Dentro de mim, minha alma está perturbada: por isso lembrar-me-ei de ti_ (Sl 41,7).
+
+@texto
+Nestes dois pontos consiste toda a nossa vida espiritual: olhando para nós, nos perturbemos e entristeçamos, para nossa salvação; e respiremos desafogados na consideração das coisas divinas, para recebermos a consolação na alegria do Espírito Santo. De lá nos venha o temor e a humildade, e daqui, brote em nós a esperança e a caridade.
+
+@secao Responsório | Cf. Sl 110(111),10; Sb 6,18a; Eclo 19,18b
+
+@responsorio
+R. Temer a Deus é o princípio do saber,
+e é sábio aquele que o pratica.
+* Permanece eternamente o seu louvor.
+V. Toda a sabedoria consiste em respeitar o Senhor,
+e sabedoria não há sem observância da Lei.
+* Permanece.
+
+@secao Oração
+
+@oracao
+Ó Deus, pai de bondade, que nos redimistes e adotastes como filhos e filhas, concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

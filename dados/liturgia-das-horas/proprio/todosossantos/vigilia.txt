@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_vigilia.htm
+@documento Vigília de Todos os Santos
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Bendizei o Senhor, seus eleitos,
+fazei festas e, alegres, louvai-o!
+
+@salmo canticos/tb-13-2-8-9-11-13-18-i
+
+@gloria
+
+@salmo canticos/tb-13-2-8-9-11-13-18-ii
+
+@gloria
+
+@salmo canticos/tb-13-2-8-9-11-13-18-iii
+
+@gloria
+
+@antifona
+Bendizei o Senhor, seus eleitos,
+fazei festas e, alegres, louvai-o!
+
+@secao Evangelho
+
+@rubrica
+O Evangelho deve ser um dos indicados a seguir:
+
+@secao Mc 16,1-20
+
+@texto
+[1] Quando passou o sábado, Maria Madalena e Maria, a mãe de Tiago, e Salomé, compraram perfumes para ungir o corpo de Jesus. [2] E bem cedo, no primeiro dia da semana, ao nascer do sol, elas foram ao túmulo. [3] E diziam entre si: “Quem rolará para nós a pedra da entrada do túmulo?” [4] Era uma pedra muito grande. Mas, quando olharam, viram que a pedra já tinha sido retirada. [5] Entraram, então, no túmulo e viram um jovem, sentado do lado direito, vestido de branco. E ficaram muito assustadas. [6] Mas o jovem lhes disse: “Não vos assusteis! Vós procurais Jesus de Nazaré, que foi crucificado? Ele ressuscitou. Não está aqui. Vede o lugar onde o puseram. [7] Ide, dizei a seus discípulos e a Pedro que ele irá à vossa frente, na Galileia. Lá vós o vereis, como ele mesmo tinha dito.” [8] Elas saíram do túmulo e fugiram, pois estavam tomadas de temor e espanto. E não disseram nada a ninguém porque tinham medo.
+[9] Depois de ressuscitar, na madrugada do primeiro dia após o sábado, Jesus apareceu primeiro a Maria Madalena, da qual havia expulsado sete demônios. [10] Ela foi anunciar isso aos seguidores de Jesus, que estavam de luto e chorando. [11] Quando ouviram que ele estava vivo e fora visto por ela, não quiseram acreditar. [12] Em seguida, Jesus apareceu a dois deles, com outra aparência, enquanto estavam indo para o campo. [13] Eles também voltaram e anunciaram isso aos outros. Também a estes não deram crédito.
+[14] Por fim, Jesus apareceu aos onze discípulos enquanto estavam comendo, repreendeu-os por causa da falta de fé e pela dureza de coração, porque não tinham acreditado naqueles que o tinham visto ressuscitado. [15] E disse-lhes: “Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura! [16] Quem crer e for batizado será salvo. Quem não crer será condenado. [17] Os sinais que acompanharão aqueles que crerem serão estes: expulsarão demônios em meu nome, falarão novas línguas; [18] se pegarem em serpentes ou beberem algum veneno mortal não lhes fará mal algum; quando impuserem as mãos sobre os doentes, eles ficarão curados”.
+[19] Depois de falar com os discípulos, o Senhor Jesus foi levado ao céu, e sentou-se à direita de Deus.
+[20] Os discípulos então saíram e pregaram por toda parte. O Senhor os ajudava e confirmava sua palavra por meio dos sinais que a acompanhavam.
+
+@secao Ou
+
+@secao Lc 24,13-34
+
+@texto
+[13] Naquele mesmo dia, o primeiro da semana, dois dos discípulos de Jesus iam para um povoado, chamado Emaús, distante onze quilômetros de Jerusalém.
+[14] Conversavam sobre todas as coisas que tinham acontecido. [15] Enquanto conversavam e discutiam, o próprio Jesus se aproximou e começou a caminhar com eles.
+[16] Os discípulos, porém, estavam como que cegos, e não o reconheceram. [17] Então Jesus perguntou: “O que ides conversando pelo caminho?” Eles pararam, com o rosto triste, [18] e um deles, chamado Cléofas, lhe disse: “Tu és o único peregrino em Jerusalém que não sabe o que lá aconteceu nestes últimos dias?” [19] Ele perguntou: “O que foi?” Os discípulos responderam: “O que aconteceu com Jesus, o Nazareno, que foi um profeta poderoso em obras e palavras, diante de Deus e diante de todo o povo. [20] Nossos sumos-sacerdotes e nossos chefes o entregaram para ser condenado à morte e o crucificaram. [21] Nós esperávamos que ele fosse libertar Israel, mas, apesar de tudo isso, já faz três dias que todas essas coisas aconteceram! [22] É verdade que algumas mulheres do nosso grupo nos deram um susto. Elas foram de madrugada ao túmulo [23] e não encontraram o corpo dele. Então voltaram, dizendo que tinham visto anjos e que estes afirmaram que Jesus está vivo. [24] Alguns dos nossos foram ao túmulo e encontraram as coisas como as mulheres tinham dito. A ele, porém, ninguém o viu.”
+[25] Então Jesus lhes disse: “Como sois sem inteligência e lentos para crer em tudo o que os profetas falaram! [26] Será que o Cristo não devia sofrer tudo isso para entrar na sua glória?” [27] E, começando por Moisés e passando pelos Profetas, explicava aos discípulos todas as passagens da Escritura que falavam a respeito dele. [28] Quando chegaram perto do povoado para onde iam, Jesus fez de conta que ia mais adiante. [29] Eles, porém, insistiram com Jesus, dizendo: “Fica conosco, pois já é tarde e a noite vem chegando!” Jesus entrou para ficar com eles. [30] Quando se sentou à mesa com eles, tomou o pão, rezou a bênção, partiu-o e lhes distribuía. [31] Nisso os olhos dos discípulos se abriram e eles reconheceram Jesus. Jesus, porém, desapareceu da frente deles. [32] Então um disse ao outro: “Não estava ardendo o nosso coração quando ele nos falava pelo caminho, e nos explicava as Escrituras?” [33] Naquela mesma hora, eles se levantaram e voltaram para Jerusalém onde encontraram os Onze reunidos com os outros. [34] E estes confirmaram: “Realmente, o Senhor ressuscitou e apareceu a Simão!”
+
+@secao Ou
+
+@secao Lc 24,35-53
+
+@texto
+Naquele tempo: [35] os discípulos contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão.
+[36] Ainda estavam falando, quando o próprio Jesus apareceu no meio deles e lhes disse: “A paz esteja convosco!” [37] Eles ficaram assustados e cheios de medo, pensando que estavam vendo um fantasma. [38] Mas Jesus disse: “Por que estais preocupados, e por que tendes dúvidas no coração? [39] Vede minhas mãos e meus pés: sou eu mesmo! Tocai em mim e vede! Um fantasma não tem carne, nem ossos, como estais vendo que eu tenho.” [40] E dizendo isso, Jesus mostrou-lhes as mãos e os pés. [41] Mas eles ainda não podiam acreditar, porque estavam muito alegres e surpresos. Então Jesus disse: “Tendes aqui alguma coisa para comer?” [42] Deram-lhe um pedaço de peixe assado. [43] Ele o tomou e comeu diante deles.
+[44] Depois disse-lhes: “São estas as coisas que vos falei quando ainda estava convosco: era preciso que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos Salmos.” [45] Então Jesus abriu a inteligência dos discípulos para entenderem as Escrituras, [46] e lhes disse: “Assim está escrito: O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia [47] e no seu nome serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém. [48] Vós sereis testemunhas de tudo isso. [49] Eu enviarei sobre vós aquele que meu Pai prometeu. Por isso, permanecei na cidade, até que sejais revestidos da força do alto”.
+[50] Então Jesus levou-os para fora, até perto de Betânia. Ali ergueu as mãos e abençoou-os. [51] Enquanto os abençoava, afastou-se deles e foi levado para o céu. [52] Eles o adoraram. Em seguida voltaram para Jerusalém, com grande alegria. [53] E estavam sempre no Templo, bendizendo a Deus.

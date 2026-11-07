@@ -1,0 +1,266 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_variosmartires_leituras.htm
+@documento Ofício das Leituras - Comum Dos Mártires Para Vários Mártires Invitatório R. Ao Senhor, Rei Dos Mártires, Vinde, Adoremos!
+
+@celebracao
+COMUM DOS MÁRTIRES PARA VÁRIOS MÁRTIRES Invitatório R. Ao Senhor, Rei dos mártires, vinde, adoremos!
+
+@biografia
+Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). –1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! –2 Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) –3 Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. –4 Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; –5 o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) –6 Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! =7 Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) =8 Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9 como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) =10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém. R. Ao Senhor, Rei dos mártires, vinde, adoremos!
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+
+sois a coroa e o troféu,
+
+pois desprezando esta terra,
+
+procura apenas o céu.
+
+Que o coração inclinando,
+
+possais ouvir nossa voz;
+
+vossos heróis celebrando,
+
+supliquem eles por nós!
+
+Se pela morte venceram,
+
+mostrando tão grande amor,
+
+vençamos nós pela vida
+
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+
+sobe hoje nosso louvor,
+
+pelos heróis que imitaram
+
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos viverão eternamente,
+e a sua recompensa é o Senhor.
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; com pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Cipriano, bispo e mártir
+{(Séc. III)} {(Ep. 6,1-2: CSEL 3,480-482)}
+
+@tema
+Todos os que desejamos alcançar as promessas do Senhor, devemos imitá-lo em tudo
+
+@texto
+Eu vos saúdo, irmãos caríssimos, ansioso por gozar da vossa presença, se o lugar onde estou me permitisse ir até vós. Que me poderia acontecer de mais desejável e alegre que estar junto a vós neste momento, para apertar essas mãos, puras e inocentes, que por fidelidade ao Senhor recusaram os sacrifícios sacrílegos?
+
+Que haveria para mim de mais agradável e sublime que beijar agora os vossos lábios que proclamaram a glória do Senhor, como também ser visto por vossos olhos que, desprezando o mundo, se tornaram dignos de contemplar a Deus?
+Mas, como não me é dada essa alegria, eu vos envio esta carta, que me substituirá ante os vossos olhos e ouvidos. Por ela vos felicito e ao mesmo tempo exorto a perseverardes fortes e inabaláveis na proclamação da glória celeste. Uma vez no caminho da graça do Senhor, deveis prosseguir com espírito forte até conquistardes a coroa, tendo o Senhor como protetor e guia, pois ele disse: _Eis que eu estou convosco todos os dias até o fim do mundo_ (Mt 28,20).
+
+Ó cárcere feliz, iluminado pela vossa presença! Ó cárcere feliz, que leva para o céu os homens de Deus! Ó trevas mais luminosas que o próprio sol e mais brilhantes que a luz deste mundo, onde estão agora colocados os templos de Deus, que são os vossos corpos santificados pela proclamação da fé!
+Nada mais ocupe agora vossas mentes e corações, senão os preceitos divinos e os mandamentos celestes, pelos quais o Espírito Santo sempre vos animou a suportar os sofrimentos. Ninguém pense na morte mas na imortalidade nem no sofrimento passageiro, mas na glória eterna. Pois está escrito: _É preciosa aos olhos do Senhor a morte dos seus justos_ (Sl 115,15). E também: _É um sacrifício agradável a Deus um espírito que sofre; Deus não desprezará um coração contrito e humilhado_ (Sl 50,19).
+
+E ainda em outro lugar fala a Escritura divina dos tormentos que consagram os mártires de Deus e os santificam pelas provações dos sofrimentos: _Embora tenham suportado tormentos diante dos homens, sua esperança está cheia de imortalidade. Julgarão as nações e dominarão os povos, e o Senhor reinará sobre eles para sempre_ (Sb 3, 4.8).
+
+Assim, quando vos lembrais de que ides julgar e reinar com o Cristo Senhor, a alegria é que deve prevalecer em vós, superando os suplícios presentes pela exultação futura. Bem sabeis que, desde o princípio, a justiça está em luta com o mundo: logo na origem da humanidade, o justo Abel foi assassinado, como depois dele todos os justos, profetas e apóstolos enviados por Deus.
+
+A todos eles o Senhor quis dar a si mesmo como exemplo, ensinando que só aqueles que seguissem o seu caminho poderiam entrar em seu reino: _Quem ama a sua vida neste mundo, perdê-la-á. E quem odeia a sua vida neste mundo, conservá-la-á para a vida eterna_ (Jo 12,25). E ainda: _Não temais os que matam os corpos, não podem, contudo, matar a alma; temei antes aquele que pode matar na geena a alma e o corpo_ (Mt 10,28).
+São Paulo também nos exorta a imitar em tudo o Senhor, se desejamos alcançar as suas recompensas. Diz ele: _Somos filhos de Deus. E, se somos filhos, somos também herdeiros – herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele_ (Rm 8,17).
+
+@secao Responsório
+
+@responsorio
+R. Ao lutarmos pela fé, Deus nos vê, os anjos olham
+e o Cristo nos contempla.
+* Quanta honra e alegria combater, vendo-nos Deus,
+e a coroa receber do Juiz, que é Jesus Cristo.
+V. Concentremos nossas forças, para a luta preparemo-nos
+com a mente pura e forte, doação, fé e coragem.
+* Quanta honra.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Deus todo-poderoso, que destes aos santos {N.} e {N.} a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como eles não hesitaram em morrer por vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, ao comemorarmos todos os anos a paixão dos mártires {N.} e {N.}, dai-nos a alegria de ver atendidas as nossas preces, para imitarmos sua firmeza na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para virgens mártires:
+
+@texto
+Ó Deus, que hoje nos alegrais com a comemoração de vossas santas {N.} e {N.}, concedei que sejamos ajudados pelos seus méritos e iluminados pelos seus exemplos de castidade e fortaleza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para santas mulheres:
+
+@texto
+Ó Deus, cuja força se manifesta na fraqueza, fazei que, ao celebrarmos a glória das santas {N.} e {N.}, que de vós receberam a força para vencer, obtenhamos, por sua intercessão, a graça da vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

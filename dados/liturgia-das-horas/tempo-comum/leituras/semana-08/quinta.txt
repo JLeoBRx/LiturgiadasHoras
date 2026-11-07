@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/08quintaTC.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo 8a SEMANA DO TEMPO COMUM / QUINTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {11,1-20}
+
+@tema
+Discurso de Sofar sobre a opinião corrente
+
+@texto
+[1] Sofar de Naamat tomou a palavra e disse: [2] "O falador ficará sem resposta? Vamos dar razão a quem muito fala? [3] Tua vã linguagem calará os homens? Zombarás sem que ninguém te repreenda? [4] Disseste: Minha doutrina é pura, sou inocente aos teus olhos. [5] Mas se Deus quiser falar e abrir os lábios para te responder, [6] se te revelar os segredos da Sabedoria, que desconcertam todo o entendimento, então saberás que Deus muita culpa te perdoa. [7] Acaso podes sondar a profundeza de Deus, e atingir a perfeição do Todo-Poderoso? [8] É mais alta que o céu: que poderás fazer? Mais profunda que o abismo: que poderás saber? [9] É mais vasta que a terra, mais extensa que o mar. [10] Se ele intervém para encerrar e convocar a assembleia, quem pode impedi-lo? [11] Ele conhece a falsidade dos homens; vê a maldade e não presta atenção? [12] Mas o homem estúpido começará a ser sábio: ao nascer, é parecido com um burro que se vai domesticar. [13] Se dirigires teu coração a Deus e estenderes as mãos para ele, [14] se afastares das tuas mãos a maldade e não alojares a injustiça em tua tenda, [15] poderás levantar teu rosto sem mancha, serás inabalável e nada temerás; [16] e esquecerás tuas desgraças ou as recordarás como a água que passou; [17] tua vida ressurgirá como o meio-dia, a escuridão será como a manhã; [18] terás segurança na esperança, e se vivias perturbado, dormirás tranquilo; [19] repousarás sem sobressaltos e muitos procurarão o teu favor. [20] Quanto aos ímpios, os seus olhos ficam cegos, o seu refúgio não existe, a sua esperança é um sopro que se extingue".
+
+@secao Responsório | 2Cor 4,8-9a.10
+
+@responsorio
+R. Somos, em tudo, atribulados, mas não angustiados;
+dificultados em extremo, mas não desesperados;
+* Nós somos perseguidos, mas não abandonados.
+V. Trazemos sempre em nosso corpo a agonia de Jesus,
+para que a sua vida se revele em nosso corpo.
+* Nós somos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Livros "Moralia" sobre Jó, de São Gregório Magno, papa
+{(Séc. VI)} {(Lib. 10,7-8.10: PL 75,922.925-926)}
+
+@tema
+Múltipla é a lei do Senhor
+
+@texto
+Nesta passagem, o que se deve entender por lei de Deus a não ser a caridade? Pois por meio dela sempre se pode encontrar na mente como traduzir na prática os preceitos de Deus. Sobre esta lei de Deus, é dito pela palavra da Verdade: _Este é o meu mandamento, que vos ameis uns aos outros_. Desta lei fala Paulo: _A plenitude da lei é o amor_. E ainda: _Carregai os fardos uns dos outros e cumprireis assim a lei de Cristo._ O que de melhor se pode entender por lei de Cristo senão a caridade, vivida na perfeição, quando suportamos os fardos dos irmãos por amor? No entanto, esta mesma lei pode-se dizer ser múltipla, porque com zelosa solicitude a caridade se estende a todas as ações virtuosas. Começando por dois preceitos, ela vai atingir muitos outros. Paulo soube enumerar a multiplicidade desta lei ao dizer: _A caridade é paciente, é benigna; não é invejosa, não se ensoberbece, não age mal; não é ambiciosa, não busca o que é seu, não se irrita, não pensa mal, não se alegra com a iniquidade, mas rejubila com a verdade._ Na verdade é _paciente_ a caridade, pois tolera com serenidade as afrontas recebidas. É _benigna_ porque retribui os males com bens generosos. _Não é_ _invejosa_ porque, nada cobiçando neste mundo, não tem por onde invejar os êxitos terrenos. _Não se ensoberbece;_ deseja ansiosamente a retribuição interior, por isso não se exalta com os bens exteriores. _Não age mal_, pois somente se dilata com o amor a Deus e ao próximo, por isto ignora tudo quanto se afasta da retidão. _Não é ambiciosa_ porque, cuidando ardentemente de si no íntimo, não cobiça fora, de modo algum, as coisas alheias. _Não busca o que é seu_, pois tudo quanto possui aqui considera-o transitório e alheio, sabendo que nada lhe é próprio a não ser aquilo que permanece sempre com ela. _Não se irrita_, pois, quando insultada, não se deixa levar por sentimentos de vingança, já que por grandes trabalhos espera prêmios ainda maiores. _Não pensa mal_, porque, firmando o espírito no amor da pureza, arranca pela raiz todo ódio e não admite na alma mancha nenhuma. _Não se alegra com a iniquidade_: o seu único anseio consiste no amor para com todos sem se alegrar com a perda dos adversários. _Rejubila_, _porém, com a verdade_ porque, amando os outros como a si próprio, enche-se de gozo ao ver neles o que é reto como se se tratasse do progresso próprio. É múltipla, portanto, a lei de Deus.
+
+@secao Responsório | Rm 13,8.10b; Gl 5,14
+
+@responsorio
+R. Não devais coisa alguma a ninguém
+a não ser o amor mútuo;
+pois aquele que ama o seu próximo,
+tem cumprido a lei.
+* Pois amar é cumprir plenamente a lei do Senhor.
+V. Esta frase contém toda a lei:
+Ama o próximo como a ti mesmo. * Pois amar.
+
+@secao Oração
+
+@oracao
+Fazei, ó Deus, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja vos possa servir, alegre e tranquila. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

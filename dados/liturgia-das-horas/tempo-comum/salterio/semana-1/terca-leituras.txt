@@ -1,0 +1,99 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1terca_leituras.htm
+@documento Ofício das Leituras - I Terça-Feira
+
+@titulo I TERÇA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Da luz do Pai nascido,
+vós mesmo luz e aurora,
+ouvi os que suplicam,
+cantando noite afora.
+
+Varrei as nossas trevas
+e as hostes do inimigo:
+o sono, em seus assaltos,
+não ache em nós abrigo.
+
+Ó Cristo, perdoai-nos,
+pois Deus vos proclamamos.
+Propício seja o canto
+que agora iniciamos.
+
+A glória seja ao Pai,
+ao Filho seu também,
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Ó Trindade Sacrossanta,
+ordenais o que fizestes.
+Ao trabalho dais o dia,
+ao descanso a noite destes.
+
+De manhã, à tarde e à noite,
+vossa glória celebramos.
+Nesta glória conservai-nos
+todo o tempo que vivamos.
+
+Ante vós ajoelhamos
+em humilde adoração.
+Reuni as nossas preces
+à celeste louvação.
+
+Escutai-nos, Pai piedoso,
+e vós, Filho de Deus Pai,
+com o Espírito Paráclito,
+pelos séculos reinais.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor fará justiça para os pobres.
+
+@salmo salmos/salmo-009b-i
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres.
+
+@antifona 2
+Vós, Senhor, vedes a dor e o sofrimento.
+
+@salmo salmos/salmo-009b-ii
+
+@gloria
+
+@antifona
+Vós, Senhor, vedes a dor e o sofrimento.
+
+@antifona 3
+As palavras do Senhor são verdadeiras
+como a prata depurada pelo fogo.
+
+@salmo salmos/salmo-011
+
+@gloria
+
+@antifona
+As palavras do Senhor são verdadeiras
+como a prata depurada pelo fogo.
+
+@texto
+V. Deus dirige os humildes na justiça.
+R. E aos pobres ele ensina o seu caminho.

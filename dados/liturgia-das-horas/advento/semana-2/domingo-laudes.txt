@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2domingo_laudes.htm
+@documento Laudes - II Domingo do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Nossa cidade invencível é Sião,
+sua muralha e sua trincheira é o Salvador.
+Abri as portas: o Senhor está conosco. Aleluia.
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Nossa cidade invencível é Sião,
+sua muralha e sua trincheira é o Salvador.
+Abri as portas: o Senhor está conosco. Aleluia.
+
+@antifona 2
+Quem tem sede, venha à fonte!
+Buscai hoje o Senhor, que se deixa encontrar. Aleluia.
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Quem tem sede, venha à fonte!
+Buscai hoje o Senhor, que se deixa encontrar. Aleluia.
+
+@antifona 3
+Nosso Deus há de vir com poder
+iluminar nosso olhar. Aleluia.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Nosso Deus há de vir com poder
+iluminar nosso olhar. Aleluia.
+
+@secao Leitura breve | Rm 13,11-12
+
+@texto
+Já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz.
+
+@secao Responsório breve
+
+@responsorio
+R. Mesmo as trevas para vós não são escuras,
+* Vós sois a luz do mundo, aleluia! R. Mesmo as trevas.
+Senhor, sondai-me, conhecei meu coração!
+* Vós sois. Glória ao Pai. R. Mesmo as trevas.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Rezemos irmãos caríssimos a nosso Senhor Jesus Cristo, Juiz dos vivos e dos mortos; e digamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que viestes salvar os pecadores,
+– defendei-nos de toda tentação. R.
+
+Senhor Jesus Cristo, que vireis cheio de glória para julgar o mundo,
+– manifestai em nós o poder da vossa salvação. R.
+
+Ajudai-nos a cumprir, na força do Espírito, os mandamentos de vossa lei,
+– para que possamos acolher com amor o dia de vossa vinda. R.
+
+Senhor Jesus Cristo, que sois eternamente glorificado pelos anjos e santos, ensinai-nos por vossa misericórdia a viver neste mundo com equilíbrio, justiça e piedade,
+– aguardando a feliz esperança da vossa vinda gloriosa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso e cheio de misericórdia, nós vos pedimos que nenhuma atividade terrena nos impeça de correr ao encontro do vosso Filho, mas, instruídos pela vossa sabedoria, participemos da plenitude de sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

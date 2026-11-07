@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/agostinhodecantuaria.htm
+@documento Ofício das Leituras - Santo Agostinho De Cantuária, Bispo
+
+@celebracao
+SANTO AGOSTINHO DE CANTUÁRIA, BISPO
+
+@biografia
+Era do mosteiro de Santo André, em Roma, quando foi enviado por São Gregório Magno, em 597, à Inglaterra, para pregar o evangelho. Foi bem recebido e ajudado pelo rei Etelberto. Eleito bispo de Cantuária, converteu muitos à fé cristã e fundou várias Igrejas, principalmente no reino de Kent. Morreu a 26 de maio, cerca do ano 605.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Gregório Magno, papa
+{(Séc. VI)} {(Lib. 9,36: MGH, 1899, Epistolae, 2,305-306)}
+
+@tema
+A nação dos anglos foi iluminada pela luz da santa fé
+
+@texto
+_Glória a Deus no mais alto dos céus, e paz na terra aos homens por ele amados_ (Lc 2,14), porque Cristo, o grão de trigo, caiu na terra e morreu para não reinar sozinho no céu. Por sua morte nós vivemos, por sua fraqueza nos fortalecemos, por sua paixão nos libertamos da nossa. Por seu amor, procuramos na Grã-Bretanha irmãos que desconhecíamos; por sua bondade, encontramos aqueles que procurávamos sem conhecer.
+Quem será capaz de expressar a enorme alegria que encheu o coração de todos os fiéis, pelo fato de a nação dos anglos, repelindo as trevas do erro, ter sido iluminada pela luz da santa fé? É à ação da graça de Deus todo-poderoso e ao teu ministério, irmão, que devemos isto. Agora com grande fidelidade de espírito calcam aos pés os ídolos que antes adoravam com insensato temor; com pureza de coração, já se prosternam diante de Deus todo-poderoso; obedecendo às normas da santa pregação, abandonam as obras do pecado e aceitam de boa mente os mandamentos de Deus para chegarem a compreendê-lo melhor; inclinam-se profundamente em oração para que o espírito não fique preso à terra. De quem é esta obra? É daquele que disse: _Meu Pai trabalha sempre, portanto também eu trabalho_ (Jo 5,17).
+
+Cristo, para mostrar que o mundo não se converte com a sabedoria dos homens mas com o seu poder, escolheu como seus pregadores, para enviar ao mundo, homens iletrados. O mesmo fez também agora com a nação dos anglos, pois se dignou realizar prodígios por meio de fracos instrumentos.
+
+Mas nesta graça celestial, irmão caríssimo, há muito para nos alegrarmos e também muito para temermos.
+Bem sei que o Deus todo-poderoso realizou grandes milagres por meio do teu amor para com esse povo que ele quis escolher. Mas esta graça do céu deve ser para ti causa de alegria e de temor. De alegria, sem dúvida, por veres como as almas dos anglos são conduzidas, por meio dos milagres exteriores até à graça interior; e de temor para que, à vista dos milagres que se realizam, tua fraqueza não se exalte até à presunção, e, enquanto exteriormente és honrado, não caias interiormente na vanglória.
+
+Devemos lembrar-nos de que os discípulos, ao voltarem da pregação cheios de alegria, quando disseram ao divino mestre: S_enhor, até os demônios nos obedecem por causa do teu nome_ (Lc 10,17), ouviram como resposta: _Não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu_ (Lc 10,20).
+
+@secao Responsório | Fl 3,17; 4,9; 1Cor 1,10a
+
+@responsorio
+R. Sede meus imitadores, meus irmãos,
+e observai os que caminham de acordo
+com o modelo, que vós tendes em mim mesmo.
+* Praticai o que aprendestes e herdastes,
+o que ouvistes e em mim pudestes ver,
+e convosco estará o Deus da paz.
+V. Eu vos peço pelo nome de Jesus
+que guardeis a harmonia entre vós! * Praticai.
+
+@secao Oração
+
+@oracao
+Ó Deus, que conduzistes ao Evangelho os povos da Inglaterra pela pregação do bispo Santo Agostinho, concedei que os frutos do seu trabalho permaneçam na vossa Igreja com perene fecundidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

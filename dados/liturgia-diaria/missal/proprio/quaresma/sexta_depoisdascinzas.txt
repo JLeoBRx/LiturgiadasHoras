@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/sexta_depoisdascinzas.htm
+
+@secao Antífona da entrada | Cf. Sl 29,11
+@texto
+Escutai-me, Senhor Deus, tende piedade!
+Sede, Senhor, meu abrigo protetor!
+
+@secao Coleta
+@texto
+Nós vos pedimos, Senhor,
+acompanhai com vossa bondade
+a penitência que iniciamos,
+para que possamos realizar com sinceridade de coração
+o que corporalmente praticamos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Senhor, ao vos oferecer
+o sacrifício da observância quaresmal, vos pedimos:
+que ele vos torne agradável a nossa vida,
+e nos ajude a realizar com maior fervor
+as obras de penitência.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 24,4
+@texto
+Mostrai-me, Senhor, vossos caminhos,
+e fazei-me conhecer a vossa estrada.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Deus todo-poderoso,
+que, pela participação neste mistério,
+sejamos purificados de todas as faltas
+e transformados pelos remédios da vossa bondade.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Deus misericordioso,
+que vosso povo sempre vos dê graças
+por vossas maravilhas
+e, tendo passado pelas antigas observâncias,
+mereça ver-vos eternamente.
+Por Cristo, nosso Senhor.

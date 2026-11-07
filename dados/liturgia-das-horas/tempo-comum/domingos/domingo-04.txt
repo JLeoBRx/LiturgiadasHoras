@@ -1,0 +1,51 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 4º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Jesus, vendo as multidões, subiu ao monte,
+E a ele se achegaram seus discípulos.
+Ele, então, pôs-se a falar e os ensinava:
+Felizes os pobres em espírito,
+porque deles é o Reino dos Céus!
+
+@antifona vesperas-i-B
+Todo o povo se admirava da doutrina de Jesus,
+porque ele ensinava, possuindo autoridade.
+
+@antifona vesperas-i-C
+Todos eles se admiravam
+das palavras proferidas pelos lábios do Senhor.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Felizes os puros em seu coração,
+porque eles verão o seu Deus face a face.
+
+@antifona laudes-B
+Perguntavam entre si admirados: Que é isso?
+Um novo ensinamento! E com que autoridade!
+Ele ordena aos maus espíritos que a ele obedecem!
+
+@antifona laudes-C
+Eu vos digo com certeza, diz Jesus:
+Nenhum profeta é bem aceito em sua pátria.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Felizes aqueles que promovem a paz,
+porque filhos de Deus serão eles chamados!
+
+@antifona vesperas-ii-B
+Estava todo o povo admirado,
+e a fama de Jesus se espalhou
+por toda a região da Galileia.
+
+@antifona vesperas-ii-C
+Expulsaram a Jesus de sua cidade
+e queriam lançá-lo ao precipício.
+Mas ele, passando em seu meio,
+tranquilo, seguiu o seu caminho.

@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/2segunda_quaresma.htm
+@documento Ofício das Leituras - 2ª Semana Da Quaresma - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@salmo salmos/salmo-030-2-17-20-25-i
+
+@gloria
+
+@antifona
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@antifona 2
+Mostrai serena a vossa face ao vosso servo.
+
+@salmo salmos/salmo-030-2-17-20-25-ii
+
+@gloria
+
+@antifona
+Mostrai serena a vossa face ao vosso servo.
+
+@antifona 3
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!
+
+@salmo salmos/salmo-030-2-17-20-25-iii
+
+@gloria
+
+@antifona
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!
+
+@texto
+V. Convertei-vos e crede no Evangelho.
+R. Pois o reino de Deus está chegando.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {14,10-31}
+
+@tema
+Passagem do Mar Vermelho
+
+@texto
+Naqueles dias, [10] como o Faraó se aproximasse, levantando os olhos, os filhos de Israel viram os egípcios às suas costas. Aterrorizados, eles clamaram ao Senhor. [11] E disseram a Moisés: “Foi por não haver sepulturas no Egito que tu nos trouxeste para morrermos no deserto? De que nos valeu ter sido tirados do Egito? [12] Não era isso que te dizíamos lá: ‘Deixa-nos em paz servir os egípcios?’ Porque era muito melhor servir aos egípcios do que morrer no deserto”. [13] Moisés disse ao povo: “Não temais! Permanecei firmes, e vereis o que o Senhor fará hoje para vos salvar; os egípcios que hoje estais vendo, nunca mais os tornareis a ver. [14] O Senhor combaterá por vós, e vós, ficai tranquilos”. [15] O Senhor disse a Moisés: “Por que clamas a mim por socorro? Dize aos filhos de Israel que se ponham em marcha. [16] Quanto a ti, ergue a vara, estende o braço sobre o mar e divide-o, para que os filhos de Israel caminhem em seco pelo meio do mar. [17] Eu vou endurecer o coração dos egípcios, para que sigam atrás de vós, e eu serei glorificado às custas do Faraó, e de todo o seu exército, dos seus carros e cavaleiros. [18] E os egípcios saberão que eu sou o Senhor, quando eu for glorificado às custas do Faraó, dos seus carros e cavaleiros”. [19] Então, o anjo do Senhor, que caminhava à frente do acampamento de Israel, mudou de posição e foi para trás deles; e com ele, ao mesmo tempo, a coluna de nuvem, que estava na frente, colocou-se atrás, [20] inserindo-se entre o acampamento dos egípcios e o acampamento de Israel. Para aqueles a nuvem era tenebrosa, para estes, iluminava a noite. Assim, durante a noite inteira, uns não puderam aproximar-se dos outros. [21] Moisés estendeu a mão sobre o mar, e durante toda a noite o Senhor fez soprar sobre o mar um vento leste muito forte; e as águas se dividiram. [22] Então, os filhos de Israel entraram pelo meio do mar a pé enxuto, enquanto as águas formavam como que uma muralha à direita e à esquerda. [23] Os egípcios puseram-se a persegui-los, e todos os cavalos do Faraó, carros e cavaleiros os seguiram mar adentro. [24] Ora, de madrugada, o Senhor lançou um olhar, desde a coluna de fogo e da nuvem, sobre as tropas egípcias e as pôs em pânico. [25] Bloqueou as rodas dos seus carros, de modo que só a muito custo podiam avançar. Disseram, então, os egípcios: “Fujamos de Israel! Pois o Senhor combate a favor deles, contra nós”. [26] O Senhor disse a Moisés: “Estende a mão sobre o mar, para que as águas se voltem contra os egípcios, seus carros e cavaleiros”. [27] Moisés estendeu a mão sobre o mar e, ao romper da manhã, o mar voltou ao seu leito normal, enquanto os egípcios, em fuga, corriam ao encontro das águas, e o Senhor os mergulhou no meio das ondas. [28] As águas voltaram e cobriram carros, cavaleiros e todo o exército do Faraó, que tinha entrado no mar em perseguição de Israel. Não escapou um só. [29] Os filhos de Israel, ao contrário, tinham passado a pé enxuto pelo meio do mar, cujas águas lhes formavam uma muralha à direita e à esquerda. [30] Naquele dia, o Senhor livrou Israel da mão dos egípcios, e Israel viu os egípcios mortos nas praias do mar, [31] e a mão poderosa do Senhor agir contra eles. O povo temeu o Senhor, e teve fé no Senhor e em Moisés, seu servo.
+
+@secao Responsório | Ex 15,1.2.3
+
+@responsorio
+R. Ao Senhor quero cantar, pois fez brilhar a sua glória:
+precipitou no mar Vermelho o cavalo e o cavaleiro.
+* O Senhor é minha força, é a razão do meu cantar, pois foi ele, neste dia, para mim libertação!
+V. O Senhor é um Deus guerreiro, o seu nome é Senhor. * O Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Das Catequeses de São João Crisóstomo, bispo
+{(Séc. IV)} {(Cat. 3,24-27: SCh 50,165-167)}
+
+@tema
+Moisés e Cristo
+
+@texto
+Os judeus viram milagres. Tu também verás, maiores e mais estupendos do que os do tempo em que os judeus saíram do Egito. Não viste o Faraó afogado no mar com seu exército, mas viste o demônio tragado pelas ondas com as suas armas. Os judeus passaram o Mar Vermelho, tu passaste para além da morte. Eles foram libertados dos egípcios e tu, do poder dos demônios. Eles escaparam da escravidão do estrangeiro e tu, escapaste da escravidão muito mais triste do pecado. Queres ainda mais provas de que foste honrado com favores maiores? Os judeus não puderam contemplar o rosto resplandecente de Moisés, que era homem como eles e servo do mesmo Senhor; tu, porém, viste a glória do rosto de Cristo. E Paulo exclama: _Todos nós, com o rosto descoberto, contemplamos a glória do Senhor_ (2Cor 3,18). Os judeus tinham Cristo que os seguia; mas agora ele nos segue de modo muito mais real. Então o Senhor os acompanhava por causa de Moisés; agora nos acompanha não só por causa de Moisés, mas também por nossa obediência. Os judeus, depois do Egito, encontraram o deserto; tu, depois da morte, encontrarás o céu. Em Moisés eles tinham um guia e chefe excelente; nós temos como chefe e guia o novo Moisés, que é o próprio Deus. Qual era a característica de Moisés? Moisés,diz a Escritura, era um homem muito humilde, mais do que qualquer outro sobre a terra (Nm12,3). Esta qualidade podemos sem erro atribuí-la ao nosso Moisés, porque é assistido pelo suavíssimo Espírito que lhe é intimamente consubstancial. Moisés, erguendo as mãos ao céu, fazia cair o maná, o pão dos anjos; o nosso Moisés ergue as mãos ao céu e nos dá o alimento eterno. Aquele feriu a rocha e fez brotar torrentes de água; este toca na mesa, a mesa espiritual, e faz jorrar as fontes do Espírito. Por isso, a mesa está colocada no meio, como uma fonte, para que de todos os lados acorram os rebanhos à fonte e bebam das águas da salvação. Uma vez que nos é dada uma tal fonte, um manancial de vida tão abundante, uma vez que a nossa mesa está repleta de bens inumeráveis e nos inunda com seus dons espirituais, aproximemo-nos de coração sincero e consciência pura, para alcançarmos graça e misericórdia no tempo oportuno. Pela graça e misericórdia do Filho único, nosso Senhor e Salvador Jesus Cristo, por quem e com quem seja dada ao Pai e ao Espírito, fonte de vida, a glória, a honra e o poder, agora e para sempre, pelos séculos dos séculos. Amém.
+
+@secao Responsório | Cf. Hb 11,24-25.26.27
+
+@responsorio
+R. Movido pela fé, Moisés já sendo adulto,
+recusou considerar-se da família do Faraó, preferindo tomar parte nas agruras do seu povo, a gozar, por algum tempo, das vantagens do pecado;
+* Pois trazia os olhos fixos na esperada recompensa.
+V. Estimou maior riqueza os opróbrios pelo Cristo que os tesouros dos Egípcios; pela fé deixou o Egito. * Pois trazia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que para remédio e salvação nossa nos ordenais a prática da mortificação, concedei que possamos evitar todo pecado e cumprir de coração os mandamentos do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

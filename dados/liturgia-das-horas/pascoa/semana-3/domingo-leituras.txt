@@ -1,0 +1,233 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/3domingoPascoa.htm
+@documento Ofício das Leituras - 3º Domingo Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aleluia, removida foi a pedra da entrada do sepulcro. Aleluia.
+
+@salmo salmos/salmo-144-i
+
+@gloria
+
+@antifona
+Aleluia, removida foi a pedra da entrada do sepulcro. Aleluia.
+
+@antifona 2
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@salmo salmos/salmo-144-ii
+
+@gloria
+
+@antifona
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@antifona 3
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@salmo salmos/salmo-144-iii
+
+@gloria
+
+@antifona
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@texto
+V. Refloresceu a minha carne e eu canto: Aleluia.
+R. Eu agradeço ao Senhor de coração. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {6,1-17}
+
+@tema
+O livro de Deus é aberto pelo Cordeiro
+
+@texto
+[1] Eu, João, vi o Cordeiro abrir o primeiro dos sete selos, e ouvi o primeiro dos quatro Seres vivos dizer com voz de trovão: “Vem!” [2] Vi então aparecer um cavalo branco. O cavaleiro tinha um arco, e deram-lhe uma coroa. Saiu, vitorioso e para vencer ainda mais. [3] E quando o Cordeiro abriu o segundo selo, ouvi o segundo Ser vivo dizer: “Vem!” [4] E apareceu um outro cavalo, vermelho, e ao seu cavaleiro foi dado poder de afastar a paz da terra, de modo que os homens se matassem uns aos outros. Foi-lhe dada também uma grande espada. [5] E quando o Cordeiro abriu o terceiro selo, ouvi o terceiro Ser vivo dizer: “Vem!” Vi então um cavalo preto, e o seu cavaleiro segurava uma balança. [6] E ouvi uma voz que vinha do meio dos quatro Seres vivos: “Um quilo de trigo por um dia de trabalho! Três quilos de cevada por um dia de trabalho! Não estragues o azeite e o vinho”. [7] E quando o Cordeiro abriu o quarto selo, ouvi o quarto Ser vivo dizer: “Vem!” [8] Vi então um cavalo esverdeado, e o seu cavaleiro era chamado “a Morte”, e a Morada dos mortos o acompanhava. Foi-lhe dado poder sobre a quarta parte da terra, para que matasse pela espada, pela fome, pela peste e pelas feras da terra. [9] E quando o Cordeiro abriu o quinto selo, vi debaixo do altar as almas daqueles que tinham sido imolados por causa da Palavra de Deus e do testemunho que mantinham firme. [10] Gritavam com voz forte: “Senhor santo e verdadeiro, até quando tardarás em fazer justiça, vingando o nosso sangue contra os habitantes da terra? [11] Então, cada um deles recebeu uma veste branca e foi-lhes dito que descansassem mais um pouco de tempo, até se completar o número dos seus companheiros e irmãos, que iriam ser mortos como eles. [12] E quando o Cordeiro abriu o sexto selo, eu vi acontecer um grande terremoto, e o sol ficou escuro como grosseiro tecido de luto e a lua tornou-se toda cor de sangue. [13] As estrelas do céu caíram sobre a terra, como a figueira deixa cair seus frutos verdes, quando bate um vento forte, [14] e o céu foi-se recolhendo como folha de papel que se enrola. Todas as montanhas e ilhas foram arrancadas de seus lugares. [15] Os reis da terra, os magnatas e os chefes militares, os ricos, os poderosos e todos os escravos e livres, esconderam-se nas cavernas e nas rochas das montanhas [16] e diziam aos montes e aos rochedos: “Caí em cima de nós e escondei-nos da face daquele que está no trono e da ira do Cordeiro. [17] Pois chegou o grande dia de sua ira, e quem poderá ficar de pé?”
+
+@secao Responsório Cf. Ap. 6,9.10.11
+
+@responsorio
+R. Ouvi, sob o altar,
+a voz dos que haviam sido mortos e clamavam:
+Por que não defendeis nosso sangue derramado?
+Receberam a resposta do Senhor, que lhes dizia:
+* Aguardai por mais um pouco até que se complete
+o número de vossos companheiros e irmãos. Aleluia.
+V. Foi dada a cada um uma veste branca
+e receberam do Senhor esta resposta: * Aguardai.
+
+@secao Segunda leitura
+
+@leitura
+Da Primeira Apologia a favor dos cristãos, de São Justino, mártir
+{(Séc. II)} {(Cap.66-67: PG 6,427-431)}
+
+@tema
+A celebração da Eucaristia
+
+@texto
+A ninguém é permitido participar da Eucaristia, a não ser àquele que, admitindo como verdadeiros os nossos ensinamentos e tendo sido purificado pelo batismo para a remissão dos pecados e a regeneração, leve uma vida como Cristo ensinou. Pois não é pão ou vinho comum o que recebemos. Com efeito, do mesmo modo como Jesus Cristo, nosso salvador, se fez homem pela Palavra de Deus e assumiu a carne e o sangue para a nossa salvação, também nos foi ensinado que o alimento sobre o qual foi pronunciada a ação de graças com as mesmas palavras de Cristo e, depois de transformado, nutre nossa carne e nosso sangue, é a própria carne e o sangue de Jesus que se encarnou. Os apóstolos, em suas memórias que chamamos evangelhos, nos transmitiram a recomendação que Jesus lhes fizera. Tendo ele tomado o pão e dado graças, disse: _Fazei isto em memória de mim. Isto é o meu corpo_ (Lc 22,19; Mc 14,22); e tomando igualmente o cálice e dando graças, disse: _Este é o meu sangue_ (Mc 14,24), e os deu somente a eles. Desde então, nunca mais deixamos de recordar estas coisas entre nós. Com o que possuímos, socorremos a todos os necessitados e estamos sempre unidos uns aos outros. E por todas as coisas com que nos alimentamos, bendizemos o Criador do universo, por seu Filho Jesus Cristo e pelo Espírito Santo. No chamado dia do Sol, reúnem-se em um mesmo lugar todos os que moram nas cidades ou nos campos. Leem-se as memórias dos apóstolos ou os escritos dos profetas, na medida em que o tempo permite. Terminada a leitura, aquele que preside toma a palavra para aconselhar e exortar os presentes à imitação de tão sublimes ensinamentos. Depois, levantamo-nos todos juntos e elevamos as nossas preces; como já dissemos acima, ao acabarmos de rezar, apresentam-se pão, vinho e água.Então o que preside eleva ao céu, com todo o seu fervor, preces e ações de graças, e o povo aclama: Amém. Em seguida, faz-se entre os presentes a distribuição e a partilha dos alimentos que foram eucaristizados, que são também enviados aos ausentes por meio dos diáconos. Os que possuem muitos bens dão livremente o que lhes agrada. O que se recolhe é colocado à disposição do que preside. Este socorre os órfãos, as viúvas e os que, por doença ou qualquer outro motivo se acham em dificuldade, bem como os prisioneiros e os hóspedes que chegam de viagem; numa palavra, ele assume o encargo de todos os necessitados. Reunimo-nos todos no dia do Sol, não só porque foi o primeiro dia em que Deus, transformando as trevas e a matéria, criou o mundo, mas também porque neste mesmo dia Jesus Cristo, nosso salvador, ressuscitou dos mortos. Crucificaram-no na véspera do dia de Saturno; e no dia seguinte a este, ou seja, no dia do Sol,aparecendo aos seus apóstolos e discípulos, ensinou-lhes tudo o que também nós vos propusemos como digno de consideração.
+
+@secao Responsório
+
+@responsorio
+R. Pouco antes de passar deste mundo para o Pai,
+* Jesus instituiu, em memória de sua morte,
+o Sacramento de seu Corpo e de seu Sangue. Aleluia.
+V. Deu seu Corpo em comida e seu Sangue em bebida,
+quando disse: Fazei isto em memória de mim. * Jesus.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que o vosso povo sempre exulte pela sua renovação espiritual,para que, tendo recuperado agora com alegria a condição de filhos de Deus, espere com plena confiança o dia da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

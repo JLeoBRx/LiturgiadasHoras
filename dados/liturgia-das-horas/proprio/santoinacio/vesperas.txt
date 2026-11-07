@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoinacio_vesperas.htm
+@documento Vésperas - Santo Inácio de Loyola, presbítero
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Nosso canto celebre a Inácio,
+de um exército de heróis comandante,
+general que os soldados anima
+com palavras e atos, constante.
+
+O amor de Jesus, Cristo Rei,
+sobre ele obteve vitória.
+Depois disso, a sua alegria
+foi buscar para Deus maior glória.
+
+Ele aos seus companheiros reunido
+num exército aguerrido e valente,
+os direitos de Cristo defende
+e dissipa as trevas da mente.
+
+Pelo Espírito Santo inspirado
+este grande e prudente doutor,
+discernindo os caminhos do Reino,
+salvação para o mundo indicou.
+
+Desejando que a Igreja estendesse
+os seus ramos a muitas nações,
+aos rincões mais distantes da terra
+os seus sócios envia às missões.
+
+Seja glória e louvor à Trindade,
+que nos dê imitarmos também
+seu exemplo, buscando valentes,
+maior glória de Deus sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o amigo dos irmãos,
+* Que intercede pelo povo. R. Eis o amigo.
+V. Dedicou a sua vida em favor de seus irmãos. * Que intercede.
+Glória ao Pai. R. Eis o amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Que proveito tem o homem,
+se ganhar o mundo inteiro, mas perder a sua vida?
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Que proveito tem o homem,
+se ganhar o mundo inteiro, mas perder a sua vida?
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes em vossa Igreja Santo Inácio de Loyola para propagar a maior glória do vosso nome, fazei que, auxiliados por ele, imitemos seu combate na terra, para partilharmos no céu sua vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

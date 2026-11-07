@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1domingo_leituras.htm
+@documento Ofício das leituras - I Domingo do Advento
+
+@titulo Ofício das leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O Verbo eterno do Pai,
+da luz do Pai emanado,
+nascendo eleva a história,
+caída pelo pecado.
+
+Nos corações, vosso amor
+queime, qual fogo candente.
+Ao escutar vosso anúncio,
+fuja a mentira da mente.
+
+As profundezas dos seres,
+Juiz, vireis penetrar
+e, castigando o culpado,
+o Reino ao justo entregar.
+
+Enfim, libertos das culpas,
+fruto de nossas malícias,
+no céu possamos gozar
+vossas eternas delícias.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai toda a glória,
+com o Espírito Santo,
+eterna honra e vitória.
+
+@secao Salmodia
+
+@antifona 1
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia.
+
+@salmo salmos/salmo-001
+
+@gloria
+
+@antifona
+Eis que o Rei glorioso virá,
+com poder vem salvar as nações. Aleluia..
+
+@antifona 2
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies,
+está perto o teu Rei e Salvador.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Exulta de alegria, ó Sião,
+Jerusalém, tem confiança e não receies,
+está perto o teu Rei e Salvador.
+
+@antifona 3
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque Ele vem sem mais tardar.
+
+@salmo salmos/salmo-003
+
+@gloria
+
+@antifona
+Purificado seja o nosso coração,
+para irmos ao encontro do Senhor,
+o grande Rei, porque Ele vem sem mais tardar.
+
+@texto
+V. Levantai vossa cabeça e olhai,
+R. Pois a vossa redenção se aproxima.

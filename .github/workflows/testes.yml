@@ -1,0 +1,34 @@
+name: Testes
+
+# Roda a cada push (em qualquer branch) e a cada pull request.
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  testes:
+    name: Calendário e Liturgia das Horas
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      # Node 22.13 ou mais novo: os testes usam o modelo de permissões
+      # (--permission) para isolar o cálculo de referência do motor do site.
+      - name: Instalar o Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Testes automáticos (Tabela Temporária, 7 divergências, regras do Brasil, independência)
+        run: node --test "ferramentas/testes/*.test.mjs"
+
+      - name: Toda hora de todo dia tem texto (2025–2031)
+        run: node ferramentas/testes/validar_horas.mjs 2025 2031
+
+      - name: Relatório da Liturgia Diária (informativo)
+        run: node ferramentas/testes/validar_liturgia_diaria.mjs 2025 2031

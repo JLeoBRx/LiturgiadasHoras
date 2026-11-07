@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3terca_leituras.htm
+@documento Ofício das Leituras - III Terça-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ào Ofício das Leituras.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que Deus se põe de pé,
+e os inimigos se dispersam! †
+
+@salmo salmos/salmo-067-i
+
+@gloria
+
+@antifona
+Eis que Deus se põe de pé, e os inimigos se dispersam!
+
+@antifona 2
+Nosso Deus é um Deus que salva,
+só o Senhor livra da morte.
+
+@salmo salmos/salmo-067-ii
+
+@gloria
+
+@antifona
+Nosso Deus é um Deus que salva,
+só o Senhor livra da morte.
+
+@antifona 3
+Reinos da terra, celebrai
+o nosso Deus, cantai-lhe salmos!
+
+@salmo salmos/salmo-067-iii
+
+@gloria
+
+@antifona
+Reinos da terra celebrai o nosso Deus, cantai-lhe salmos!

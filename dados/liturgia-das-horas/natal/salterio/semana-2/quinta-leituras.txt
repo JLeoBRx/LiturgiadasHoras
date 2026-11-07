@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quinta_leituras.htm
+@documento Ofício das Leituras
+
+@titulo {Ofício das Leituras}
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@antifona 2
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@salmo salmos/salmo-043-ii-v3
+
+@gloria
+
+@antifona
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@antifona 3
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!

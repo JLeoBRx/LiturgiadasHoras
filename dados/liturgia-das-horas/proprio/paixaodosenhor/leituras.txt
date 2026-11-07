@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/paixaodosenhor.htm
+@documento Ofício das Leituras - Tríduo Pascal Da Paixão E Ressurreição Do Senhor Sexta Feira Da Paixão Do Senhor
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SEXTA-FEIRA DA PAIXÃO DO SENHOR
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Os reis de toda a terra se reúnem
+e conspiram os governos todos juntos
+contra o Deus onipotente e o seu Ungido.
+
+@antifona 2
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@salmo salmos/salmo-021-2-23-24-32
+
+@rubrica
+Esta última parte do salmo é facultativa
+
+@salmo salmos/salmo-021-2-23-24-32-v2
+
+@gloria
+
+@antifona
+Eles repartem entre si as minhas vestes
+e sorteiam entre si a minha túnica.
+
+@antifona 3
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@salmo salmos/salmo-037
+
+@gloria
+
+@antifona
+Os que buscam matar, me perseguem
+e procuram tirar minha vida.
+
+@texto
+V. As falsas testemunhas se ergueram.
+R. E vomitam violência contra mim.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {9,11-28}
+
+@tema
+Cristo, sumo sacerdote, com o seu próprio sangue,_
+_entrou no Santuário uma vez por todas
+
+@texto
+Irmãos: [11] Cristo veio como sumo-sacerdote dos bens futuros. Através de uma tenda maior e mais perfeita, que não é obra de mãos humanas, isto é, que não faz parte desta criação, [12] e não com o sangue de bodes e bezerros, mas com o seu próprio sangue, ele entrou no Santuário uma vez por todas, obtendo uma redenção eterna. [13] De fato, se o sangue de bodes e touros, e a cinza de novilhas espalhada sobre os seres impuros os santifica e realiza a pureza ritual dos corpos, [14] quanto mais o Sangue de Cristo, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo, pois, em virtude do espírito eterno, Cristo se ofereceu a si mesmo a Deus como vítima sem mancha. [15] Por isso, ele é mediador de uma nova aliança. Pela sua morte, ele reparou as transgressões cometidas no decorrer da primeira aliança. E, assim, aqueles que são chamados recebem a promessa da herança eterna. [16] Onde existe testamento, é preciso que seja constatada a morte de quem fez o testamento. [17] Pois um testamento só tem valor depois da morte, e não tem efeito nenhum enquanto ainda vive aquele que fez o testamento. [18] Por isso, nem mesmo a primeira aliança foi inaugurada sem sangue. [19] Quando anunciou a todo o povo cada um dos mandamentos da Lei, Moisés tomou sangue de novilhos e bodes, junto com água, lã vermelha e um hissopo. Em seguida, aspergiu primeiro o próprio livro e todo o povo, [20] e disse: “Este é o sangue da aliança que Deus faz convosco”. [21] Do mesmo modo, aspergiu com sangue também a Tenda e todos os objetos que serviam para o culto. [22] E assim, segundo a Lei, quase todas as coisas são purificadas com sangue, e sem derramamento de sangue não existe perdão. [23] Portanto, as cópias das realidades celestes tinham que ser purificadas dessa maneira; mas as próprias realidades celestes devem ser purificadas com sacrifícios melhores. [24] De fato, Cristo não entrou num santuário feito por mão humana, imagem do verdadeiro, mas no próprio céu, a fim de comparecer, agora, na presença de Deus, em nosso favor. [25] E não foi para se oferecer a si muitas vezes, como o sumo-sacerdote que, cada ano, entra no Santuário com sangue alheio. [26] Porque, se assim fosse, deveria ter sofrido muitas vezes, desde a fundação do mundo. Mas foi agora, na plenitude dos tempos, que, uma vez por todas, ele se manifestou para destruir o pecado pelo sacrifício de si mesmo. [27] O destino de todo homem é morrer uma só vez, e depois vem o julgamento. [28] Do mesmo modo, também Cristo, oferecido uma vez por todas, para tirar os pecados da multidão, aparecerá uma segunda vez, fora do pecado, para salvar aqueles que o esperam.
+
+@secao Responsório | Cf. Is 53,7.12
+
+@responsorio
+R. Foi levado como ovelha ao matadouro;
+e, maltratado, não abriu a sua boca;
+* Foi condenado para a vida de seu povo.
+V. Ele próprio entregou a sua vida e deixou-se colocar entre os facínoras. * Foi condenado.
+
+@secao Segunda leitura
+
+@leitura
+Das Catequeses de São João Crisóstomo, bispo
+{(Séc.IV)} {(Cat. 3,13-19: SCh 50,174-177)}
+
+@tema
+O poder do sangue de Cristo
+
+@texto
+Queres conhecer o poder do sangue de Cristo? Voltemos às figuras que o profetizaram e recordemos a narrativa do Antigo Testamento: _Imolai, disse Moisés, um cordeiro de um ano e marcai as portas com o seu sangue_ (cf. Ex 12,6-7). Que dizes, Moisés? O sangue de um cordeiro tem poder para libertar o homem dotado de razão? É claro que não, responde ele, não porque é sangue, mas por ser figura do sangue do Senhor. Se agora o inimigo, ao invés do sangue simbólico aspergido nas portas, vir brilhar nos lábios dos fiéis, portas do templo dedicado a Cristo, o sangue verdadeiro, fugirá ainda mais para longe. Queres compreender mais profundamente o poder deste sangue? Repara de onde começou a correr e de que fonte brotou. Começou a brotar da própria cruz, e a sua origem foi o lado do Senhor. Estando Jesus já morto e ainda pregado na cruz, diz o evangelista, um soldado aproximou-se, feriu-lhe o lado com uma lança, e imediatamente saiu água e sangue: a água, como símbolo do batismo; o sangue, como símbolo da eucaristia. O soldado, traspassando-lhe o lado, abriu uma brecha na parede do templo santo, e eu, encontrando um enorme tesouro, alegro-me por ter achado riquezas extraordinárias. Assim aconteceu com este cordeiro. Os judeus mataram um cordeiro e eu recebi o fruto do sacrifício. _De seu lado saiu sangue e água_ (Jo 19,34). Não quero, querido ouvinte, que trates com superficialidade o segredo de tão grande mistério. Falta-me ainda explicar-te outro significado místico e profundo. Disse que esta água e este sangue são símbolos do batismo e da eucaristia. Foi destes sacramentos que nasceu a santa Igreja, pelo banho da regeneração e pela renovação no Espírito Santo, isto é, pelo batismo e pela eucaristia que brotaram do lado de Cristo. Pois Cristo formou a Igreja de seu lado traspassado, assim como do lado de Adão foi formada Eva, sua esposa. Por esta razão, a Sagrada Escritura, falando do primeiro homem, usa a expressão _osso dos meus ossos e carne da minha carne_ (Gn 2,23), que São Paulo refere, aludindo ao lado de Cristo. Pois assim como Deus formou a mulher do lado do homem, também Cristo, de seu lado, nos deu a água e o sangue para que surgisse a Igreja. E assim como Deus abriu o lado de Adão enquanto ele dormia, também Cristo nos deu a água e o sangue durante o sono de sua morte. Vede como Cristo se uniu à sua esposa, vede com que alimento nos sacia. Do mesmo alimento nos faz nascer e nos nutre. Assim como a mulher, impulsionada pelo amor natural, alimenta com o próprio leite e o próprio sangue o filho que deu à luz, também Cristo alimenta sempre com o seu sangue aqueles a quem deu o novo nascimento.
+
+@secao Responsório | Cf. 1Pd 1,18-19; Ef 2,18; 1Jo 1,7
+
+@responsorio
+R. Não foi nem com ouro nem prata que fostes remidos, irmãos; mas sim pelo sangue precioso de Cristo, o Cordeiro sem mancha.
+* Por ele nós temos acesso num único Espírito ao Pai.
+V. O sangue do Filho de Deus nos lava de todo pecado. * Por ele.
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por nosso Senhor Jesus Cristo, vossoFilho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3terca_vesperas.htm
+@documento Vésperas - III Terça-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Deus nos cerca de carinho e proteção.
+
+@salmo salmos/salmo-124
+
+@gloria
+
+@antifona
+Deus nos cerca de carinho e proteção.
+
+@antifona 2
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@salmo salmos/salmo-130
+
+@gloria
+
+@antifona
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v4
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sarcedotes e povo de reis.

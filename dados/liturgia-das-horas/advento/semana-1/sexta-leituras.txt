@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1sexta_leituras.htm
+@documento Ofício das Leituras - I Sexta-Feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O Verbo eterno do Pai,
+da luz do Pai emanado,
+nascendo eleva a história,
+caída pelo pecado.
+
+Nos corações, vosso amor
+queime, qual fogo candente.
+Ao escutar vosso anúncio,
+fuja a mentira da mente.
+
+As profundezas dos seres,
+Juiz, vireis penetrar
+e, castigando o culpado,
+o Reino ao justo entregar.
+
+Enfim, libertos das culpas,
+fruto de nossas malícias,
+no céu possamos gozar
+vossas eternas delícias.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai toda a glória,
+com o Espírito Santo,
+eterna honra e vitória.
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-i
+
+@antifona
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@antifona 2
+Defendei minha causa, Senhor poderoso!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-ii
+
+@antifona
+Defendei minha causa, Senhor poderoso!
+
+@antifona 3
+Minha língua anunciará vossa justiça eternamente.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-iii
+
+@antifona
+Minha língua anunciará vossa justiça eternamente.
+
+@texto
+V. Venha a nós o vosso amor e compaixão.
+R. A Salvação que prometestes, ó Senhor!

@@ -1,0 +1,104 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_nossasenhora_terca.htm
+@documento COMUM DE NOSSA SENHORA - Hora Média
+
+@titulo COMUM DE NOSSA SENHORA
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Todos eles estavam unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus.
+
+@secao Leitura breve | Sf 3,14.15b
+
+@texto
+Canta de alegria, cidade de Sião; rejubila, povo de Israel! Alegra-te e exulta de todo o coração, cidade de Jerusalém! O rei de Israel é o Senhor, ele está no meio de ti.
+
+@texto
+V. Felizes os que ouvem a palavra do Senhor.
+R. Felizes os que a vivem e a praticam cada dia.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Senhor nosso Deus, concedei-nos sempre saúde de alma e corpo, e fazei que, pela intercessão da Virgem Maria, libertos das tristezas presentes, gozemos as alegrias eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Perdoai, ó Deus, os pecados dos vossos filhos e filhas, e salvai-nos pela intercessão da Virgem Maria, uma vez que não podemos agradar-vos apenas com os nossos méritos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus de misericórdia, socorrei a nossa fraqueza e concedei-nos ressurgir dos nossos pecados pela intercessão da Mãe de Jesus Cristo, cuja memória hoje celebramos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Valha-nos, ó Deus, a intercessão da sempre Virgem Maria, para que, livres de todos os perigos, vivamos em vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Fazei, ó Deus, que, ao celebrarmos a memória da Virgem Maria, possamos também, por sua intercessão, participar da plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus todo-poderoso, pela intercessão de Maria, nossa Mãe, socorrei os fiéis que se alegram com a sua proteção, livrando-os de todo mal neste mundo e dando-lhes a alegria do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

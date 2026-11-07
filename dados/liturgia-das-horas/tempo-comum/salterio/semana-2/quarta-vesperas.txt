@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Devagar, vai o sol se escondendo,
+deixa os montes, o campo e o mar,
+mas renova o presságio da luz,
+que amanhã vai de novo brilhar.
+
+Os mortais se admiram do modo
+pelo qual, generoso Senhor,
+destes leis ao transcurso do tempo,
+alternância de sombra e fulgor.
+
+Quando reina nos céus o silêncio
+e declina o vigor para a lida,
+sob o peso das trevas a noite
+nosso corpo ao descanso convida.
+
+De esperança e de fé penetrados,
+saciar-nos possamos, Senhor,
+de alegria na glória do Verbo
+que é do Pai o eterno esplendor.
+
+Este é o sol que jamais tem ocaso
+e também o nascer desconhece.
+Canta a terra, em seu brilho envolvida,
+nele o céu em fulgor resplandece.
+
+Dai-nos, Pai, gozar sempre da luz
+que este mundo ilumina e mantém,
+e cantar-vos, e ao Filho, e ao Espírito,
+canto novo nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@antifona 2
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós! †
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós!
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Leitura breve | 1Pd 5,5b-7
+
+@texto
+Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós.
+
+@secao Responsório breve
+
+@responsorio
+R. Protegei-nos, Senhor
+* Como a pupila dos olhos. R. Protegei-nos.
+V. Guardai-nos, defendei-nos, sob a vossa proteção.
+* Como a pupila. Glória ao Pai. R. Protegei-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, manifestai o poder de vosso braço,
+dispersai os soberbos e elevai os humildes.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, manifestai o poder de vosso braço,
+dispersai os soberbos e elevai os humildes.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs caríssimos, exultemos em Deus nosso Salvador, cuja alegria é enriquecer-nos com seus dons; e peçamos com todo fervor:
+
+R. **Dai-nos, Senhor, a vossa graça e a vossa paz!**
+
+Deus eterno, para quem mil anos são o dia de ontem que passou,
+– lembrai-nos sempre que a vida é como a erva que de manhã floresce e à tarde fica seca. R.
+
+Alimentai o vosso povo com o maná, para que não passe fome,
+– e dai-lhe a água viva para que nunca mais tenha sede. R.
+
+Fazei que os vossos fiéis procurem e saboreiem as coisas do alto,
+– e vos glorifiquem com o seu trabalho e o seu descanso. R.
+
+Concedei, Senhor, bom tempo às colheitas,
+– para que a terra produza muito fruto. R.
+
+{Ou:}
+
+(Livrai-nos, Senhor, de todos os perigos,
+– e abençoai os nossos lares). R.
+
+{(intenções livres)}
+
+Dai aos que morreram contemplar a vossa face,
+– e fazei-nos também participar, um dia, da mesma felicidade. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, vosso nome é santo e vossa misericórdia se celebra de geração em geração; atendei às súplicas do povo e concedei-lhe proclamar sempre a vossa grandeza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

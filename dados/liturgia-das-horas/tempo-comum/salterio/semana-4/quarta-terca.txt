@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@salmo salmos/salmo-118-145-152-xix-coph-v3
+
+@gloria
+
+@antifona
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@antifona 2
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@salmo salmos/salmo-093-i
+
+@gloria
+
+@antifona
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@antifona 3
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@salmo salmos/salmo-093-ii
+
+@gloria
+
+@antifona
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@secao Leitura breve | 1Cor 10,24.31
+
+@texto
+Ninguém procure a sua própria vantagem, mas a vantagem do outro. Quer comais, quer bebais, quer façais qualquer outra coisa, fazei tudo para a glória de Deus.
+
+@texto
+V. Como é bom agradecermos ao Senhor,
+R. E cantar salmos de louvor ao Deus Altíssimo!
+
+@secao Oração
+
+@oracao
+Senhor, nosso Pai, Deus santo e fiel, que enviastes o Espírito prometido por vosso Filho, para reunir os seres humanos divididos pelo pecado, fazei-nos promover no mundo os bens da unidade e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

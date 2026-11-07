@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sagradafamilia_nona.htm
+@documento Hora Média - Sagrada Família de Jesus, Maria e José
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@secao Leitura breve | Cl 3,17
+
+@texto
+Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo.
+
+@texto
+V. Os teus filhos serão todos instruídos por Deus.
+R. E entre eles reinará uma paz sem limites.
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que nos destes a Sagrada Família como exemplo, concedei-nos imitar em nossos lares as suas virtudes, para que, unidos pelos laços do amor, possamos chegar um dia às alegrias da vossa casa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

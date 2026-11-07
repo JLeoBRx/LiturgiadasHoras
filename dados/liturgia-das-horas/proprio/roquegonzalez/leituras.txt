@@ -1,0 +1,132 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/roquegonzalez.htm
+@documento Ofício das Leituras - Santos Roque González, Afonso Rodríguez E João De Castillo, Presbíteros E Mártires Memória
+
+@celebracao
+SANTOS ROQUE GONZÁLEZ, AFONSO RODRÍGUEZ E JOÃO DE CASTILLO, PRESBÍTEROS E MÁRTIRES
+{Memória}
+
+@biografia
+Roque González de Santa Cruz nasceu em 1576 na cidade de Assunção (Paraguai). Era já sacerdote quando entrou na Companhia de Jesus em 1609, e durante quase vinte anos procurou civilizar os índios que habitavam nas florestas daquelas regiões, agrupando-os nas “Reduções” e instruindo-os na fé e nos costumes cristãos. Foi morto traiçoeiramente pela fé, a 15 de novembro de 1628, juntamente com Afonso Rodríguez, espanhol. Dois dias mais tarde, em outra “Redução”, sofreu cruel martírio João del Castillo, também espanhol, que tinha sido ardente defensor dos índios contra os seus opressores. Estes três sacerdotes jesuítas, martirizados na região que hoje é diocese de Santo Ângelo, foram canonizados pelo Papa João Paulo II em 1988.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Roque González, presbítero
+{(Séc.XVII)} {(Lit. Annuae P. Rochi González pro anno 1615 [s. d.] datae ad P. Provincialem Petrum Oñate. Ed. [in lingua hispanica] in: Documentos para la Historia Argentina, vol.20, Buenos Aires 1920, pp. 24-25)}
+
+@tema
+Espero que esta cruz seja o princípio para se levantarem muitas outras
+
+@texto
+Voltando pouco depois para lá encontrei um local onde podia ficar: uma pequena choupana perto do rio; e, passado algum tempo, ofereceram-me uma palhoça maior. Dois meses mais tarde, o Padre Reitor enviou o Padre Diogo de Boroa. Este chegou finalmente na segunda-feira de Pentecostes. Com muita consolação considerávamos como o amor de Deus nos juntava naquelas terras tão longínquas. Dividimos entre nós o limitado espaço da nossa morada, com um tabique feito de canas. Ao lado tínhamos uma capela, pouco maior que o próprio altar em que celebrávamos a Missa. Por eficácia deste supremo e divino sacrifício, em que Cristo se ofereceu ao Pai na Cruz, começou ele a triunfar ali, pois os demônios que antes costumavam aparecer a estes índios não se atreveram a aparecer mais, como testemunhou algum deles. Resolvemos continuar na mesma palhoça, embora tudo nos faltasse. O frio era tanto que nos custava adormecer. O alimento também não era melhor: milho ou farinha de mandioca, que é a comida dos índios; e porque começamos a buscar pelos bosques umas ervas de que se alimentam os papagaios, com este apelido nos chamavam.
+
+Prosseguindo as coisas deste modo, e temendo os demônios que, se a Companhia de Jesus entrasse nestas regiões, eles perderiam em breve o que por tanto tempo tinham possuído, começaram a espalhar por todo o Paraná que nós éramos espiões e falsos sacerdotes, e que trazíamos a morte em nossos livros e imagens. Divulgou-se isto a tal ponto que, estando o Padre Boroa a explicar aos índios os mistérios da nossa fé, eles temiam aproximar-se das sagradas imagens, com receio de algum contágio mortífero. Mas estas ideias foram-se desfazendo pouco a pouco, sobretudo quando viram com os próprios olhos que os nossos eram para eles como verdadeiros pais, dando-lhes de bom grado quanto tinham em casa e assistindo-os nos seus trabalhos e enfermidades,de dia e de noite, auxiliando-os não só em proveito das suas almas, o que é certamente mais importante, mas também dos seus corpos.
+
+E assim, quando vimos consolidar-se o amor dos índios para conosco, pensamos em construir uma igreja, que, embora pequena e modesta e coberta com palha, apareceu a esta gente miserável como um palácio real, e ficam atônitos quando levantam os olhos para o teto. Ambos tivemos de trabalhar com barro para fazer o reboco e para ensinar os indígenas a fazer tijolos. Deste modo conseguimos ter a igreja pronta para o dia de Santo Inácio do ano passado de 1615. Neste dia celebramos lá a primeira missa e renovamos os nossos votos. Houve ainda outros ritos festivos, quanto era possível segundo a pobreza do lugar. Também quisemos organizar umas danças, mas estes rapazes são tão rudes que não conseguiram aprendê-las. Levantamos depois uma torre de madeira e pusemos nela um sino que a todos encheu de admiração, pois nunca tinham visto nem ouvido semelhante coisa. Também foi ocasião de grande devoção uma cruz que os próprios indígenas levantaram: tendo-lhes nós explicado por que razão os cristãos adoram a cruz, eles se ajoelharam conosco para adorá-la. Desconhecida até agora nestas terras, espero em nosso Senhor que esta cruz seja o princípio para se levantarem muitas outras.
+
+@secao Responsório | Jo 10,15.18; Jr 12,7
+
+@responsorio
+R. Do meu pai eu recebi uma missão para salvar.
+* Eu dou minha vida por minhas ovelhas.
+V. Deixei a minha casa, rejeitei a minha herança;
+minha vida muito amada coloquei-a livremente
+na mão dos inimigos. * Eu dou.
+
+@secao Oração
+
+@oracao
+Senhor, que a vossa palavra cresça nas terras onde os vossos mártires a semearam e seja multiplicada em frutos de justiça e de paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

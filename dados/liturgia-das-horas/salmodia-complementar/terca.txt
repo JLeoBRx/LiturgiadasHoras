@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_terca.htm
+@documento Salmodia Complementar - Terça (Série I)
+
+@secao Salmodia
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@rubrica
+Quando o salmo seguinte for recitado nas Vésperas, em seu lugar se diz o salmo 128(129)
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@texto
+Leitura breve

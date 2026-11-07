@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saomarcos.htm
+
+@secao Antífona da entrada | Mc 16,15
+@texto
+Ide pelo mundo inteiro
+e anunciai o Evangelho a toda criatura, aleluia!
+
+@secao Coleta
+@texto
+Ó Deus, que glorificastes São Marcos, vosso evangelista,
+com a graça de pregar o Evangelho,
+concedei-nos progredir de tal modo em seus ensinamentos
+que sigamos fielmente os passos de Cristo.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ao celebrarmos a glória de São Marcos,
+nós vos oferecemos, Senhor,
+este sacrifício de louvor
+e vos suplicamos humildemente
+que a pregação do Evangelho
+sempre floresça em vossa Igreja.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Mt 28,20}
+Eis que estarei convosco todos os dias,
+até o fim do mundo, diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso,
+o dom recebido do vosso altar nos santifique
+e nos torne firmes
+na fidelidade ao Evangelho que São Marcos pregou.
+Por Cristo, nosso Senhor.

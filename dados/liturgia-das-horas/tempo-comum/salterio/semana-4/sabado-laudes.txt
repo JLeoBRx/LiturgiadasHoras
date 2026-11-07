@@ -1,0 +1,128 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sabado_laudes.htm
+@documento Laudes - Sábado
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Raiando o novo dia,
+as vozes elevamos,
+de Deus a graça e glória
+em Cristo proclamamos.
+
+Por ele o Criador
+compôs a noite e o dia,
+criando a lei eterna
+que os dois alternaria.
+
+A vós, Luz dos fiéis,
+nenhuma lei domina.
+Fulgis de dia e noite,
+clarão da luz divina.
+
+Ó Pai, por vossa graça,
+vivamos hoje bem,
+servindo a Cristo e cheios
+do vosso Espírito. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Como é bom salmodiar em louvor ao Deus Altíssimo!
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Como é bom salmodiar em louvor ao Deus Altíssimo!
+
+@antifona 2
+Dar-vos-ei um novo espírito e um novo coração.
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@antifona
+Dar-vos-ei um novo espírito e um novo coração.
+
+@antifona 3
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+O perfeito louvor vos é dado
+pelos lábios dos mais pequeninos.
+
+@secao Leitura breve | 2Pd 3,13-15a
+
+@texto
+O que nós esperamos, de acordo com a sua promessa, são novos céus e uma nova terra, onde habitará a justiça. Caríssimos, vivendo nesta esperança, esforçai-vos para que ele vos encontre numa vida pura e sem mancha e em paz. Considerai também como salvação a longanimidade de nosso Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. A alegria cantará sobre meus lábios,
+* E a minh'alma libertada exultará. R. A alegria.
+V. Também celebrarei vossa justiça.
+* E a minh'alma. Glória ao Pai. R. A alegria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Guiai nossos passos no caminho da paz.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Guiai nossos passos no caminho da paz.
+
+@secao Preces
+
+@preces
+Adoremos a Deus, que por meio de seu Filho trouxe ao mundo vida e esperança; e peçamos humildemente:
+
+R. **Senhor, ouvi-nos!**
+
+Senhor, Pai de todos os seres humanos, que nos fizestes chegar ao princípio deste dia,
+– dai-nos viver unidos a Cristo para louvor da vossa glória. R.
+
+Conservai e aumentai em nós a fé, a esperança e a caridade,
+– que derramastes em nossos corações. R.
+
+Fazei que os nossos olhos estejam sempre voltados para vós,
+– para correspondermos com generosidade e alegria ao vosso chamado. R.
+
+Defendei-nos das ciladas e seduções do mal,
+– e protegei os nossos passos de todo tropeço. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus onipotente e eterno, luz esplendorosa e dia que não termina, nós vos pedimos nesta manhã que, vencidas as trevas do pecado, nossos corações sejam iluminados com o fulgor da vossa vinda. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna. Amém.

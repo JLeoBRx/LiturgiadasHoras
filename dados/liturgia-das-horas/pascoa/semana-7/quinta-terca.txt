@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7quintapascoa_terca.htm
+@documento Hora Média - Terça - Quinta-feira da 7ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@salmo salmos/salmo-118-113-120-xv-samech
+
+@gloria
+
+@salmo salmos/salmo-078-1-5-8-11-13
+
+@gloria
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia
+
+@secao Leitura breve | 1Cor 12,13
+
+@texto
+Todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+
+@texto
+V. O Senhor ressurgiu realmente. Aleluia.
+R. E apareceu a Simão. Aleluia.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o vosso Espírito nos transforme com a força dos seus dons, dando-nos um coração capaz de agradar-vos e de aceitar a vossa vontade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

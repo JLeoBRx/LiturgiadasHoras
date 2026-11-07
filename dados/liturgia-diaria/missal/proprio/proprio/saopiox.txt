@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saopiox.htm
+
+@secao Antífona da entrada
+@texto
+para a plenitude do sacerdócio
+e, abrindo o seu tesouro,
+o cumulou de todos os bens.
+
+@secao Coleta
+@texto
+Ó Deus, para defender a fé católica
+e restaurar todas as coisas em Cristo,
+cumulastes o papa São Pio X
+de sabedoria divina e coragem apostólica;
+concedei benigno que,
+seguindo seus exemplos e instruções,
+alcancemos o prêmio eterno.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, acolhei com bondade as nossas oferendas
+e dai-nos seguir os ensinamentos de São Pio X,
+para celebrar dignamente estes divinos mistérios
+e recebê-los com fé.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 10,11
+@texto
+O bom pastor deu a vida
+por suas ovelhas.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+na comemoração do papa São Pio X,
+nós vos pedimos que,
+pela força desta mesa celeste,
+nos tornemos firmes na fé
+e unidos na vossa caridade.
+Por Cristo, nosso Senhor.

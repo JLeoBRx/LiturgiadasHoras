@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoalberto.htm
+
+@secao Antífona da entrada
+@texto
+O Senhor o escolheu para a plenitude do sacerdócio e, abrindo seus tesouros, o cumulou de bens.
+
+@secao Coleta
+@texto
+Ó Deus, que destes santo Alberto à vossa Igreja como exemplo de bom pastor, concedei que, por sua intercessão, estejamos para sempre entre as vossas ovelhas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Sobre as oferendas
+@texto
+Nós vos oferecemos, ó Deus, este sacrifício de louvor ao comemorarmos os vossos santos; e confiamos que, por sua intercessão, nos liberteis dos males presentes e futuros. Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 10,11
+@texto
+O bom pastor dá a vida por suas ovelhas.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus, o sacramento que acabamos de receber alimente em nós aquela caridade ardente
+que inflamava santo Alberto na dedicação constante à vossa Igreja. Por Cristo, nosso Senhor.

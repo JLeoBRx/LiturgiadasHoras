@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/17segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo 17a SEMANA DO TEMPO COMUM / SEGUNDA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {29,1-10; 30,1.9-23}
+
+@tema
+Jó lamenta a própria condição.
+
+@texto
+[29,1] Jó continuou a exprimir-se em sentenças e disse: [2] Quem me dera voltar aos meses de antanho, aos dias em que Deus velava por mim; [3] quando sua lâmpada brilhava sobre minha cabeça e à sua luz eu andava na escuridão! [4] Tal qual eu estava nos dias do meu outono, quando Deus protegia minha tenda [5] e Shaddai ainda estava comigo e meus filhos me rodeavam! [6] Banhava meus pés em creme de leite, e a rocha vertia rios de azeite! [7] Quando me dirigia à porta da cidade e tomava assento na praça, [8] os jovens ao ver-me se retiravam, os anciãos se levantavam e ficavam de pé, [9] os chefes interrompiam suas conversas, pondo a mão sobre a boca; [10] emudecia a voz dos líderes e sua língua se colava ao céu da boca. [30,1] Mas agora zombam de mim moços mais jovens que eu, a cujos pais teria recusado deixar com os cães do meu rebanho. [9] E agora sou alvo de suas zombarias, o tema de seus escárnios. [10] Cheios de medo, ficam a distância e atrevem-se a cuspir-me no rosto. [11] Porque ele deteve meu arco e me abateu, perdem toda a compostura diante de mim. [12] À minha direita levanta-se a canalha, eles fazem escorregar meus pés e abrem contra mim seus caminhos sinistros; [13] desfazem minha senda, trabalham para minha ruína e não há quem os detenha. [14] Irrompem por uma larga brecha e são jogados sob os escombros. [15] Os terrores estão soltos contra mim, minha segurança se dissipa como vento, minha esperança é varrida como nuvem. [16] A minha alma agora se dissolve: os dias de aflição apoderam-se de mim. [17] De noite um mal penetra meus ossos, minhas chagas não dormem. [18] Ele me agarra com violência pela roupa, segura-me pela orla da túnica. [19] Joga-me para dentro do lodo e confundo-me com o pó e a cinza. [20] Clamo por Ti, e não me respondes; insisto, sem que te importes comigo. [21] Tu te tornaste meu verdugo e me atacas com teu braço musculoso. [22] Levantas-me e me fazes cavalgar o vento e me sacodes com a tempestade. [23] Bem vejo que me devolves à morte, ao lugar de encontro de todos os mortais.
+
+@secao Responsório Jó 30,17.19; 7,16
+
+@responsorio
+R. A noite traspassa meus ossos, consome-os;
+os males que me roem não dormem. Deus jogou-me no lodo,
+* Tenho o aspecto da poeira e da cinza.
+V. Deixa-me, Senhor, pois meus dias são apenas um sopro. * Tenho o aspecto.
+
+@secao Segunda leitura
+
+@leitura
+Das “Instruções”, de São Doroteu, abade
+{(Séc. VI)} {(Doct. 7, De accusatione sui ipsius, 1-2: PG 88,1695-1699)}
+
+@tema
+O motivo de toda perturbação vem de que ninguém se acusa a si mesmo.
+
+@texto
+Indaguemos, irmãos, por que acontece tantas vezes que, ao escutar alguém uma palavra desagradável, vai-se sem qualquer aborrecimento, como se não a houvesse ouvido; enquanto, em outras ocasiões, mal a ouve, logo se perturba e se aflige? Donde será esta diferença? Terá um motivo só ou vários? Noto haver muitas razões e causas, mas uma é a principal que gera as outras, como alguém já disse. Isto provém por vezes da própria situação em que se encontra a pessoa. Se está em oração ou contemplação, sem dificuldade suporta o irmão injurioso e continua tranquila. Outras vezes, pelo grande afeto que sente por um irmão, tudo tolera com toda a paciência pela amizade que lhe tem. De outras também, por desprezo, quando faz pouco caso e desdenha quem tenta perturbá-la, nem se digna olhar para ele como ao mais desprezível de todos, nem dar-lhe uma palavra em resposta, nem mesmo referir a outrem suas injúrias e maledicências.
+Não se perturbar ou afligir-se, como disse, vem de que se despreza, e não se faz caso do que dizem. Ao contrário, aborrecer-se e incomodar-se com as palavras do irmão resulta de não se encontrar em boas condições ou de odiar esse irmão. Existem muitas outras razões para este fato, ditas de diversos modos. Mas a causa de toda perturbação, se bem a procurarmos, está em que ninguém se acusa a si mesmo.
+Daí provém todo aborrecimento e toda aflição. Daí não termos às vezes nenhum sossego. Nem é de se admirar porque, como aprendemos de homens santos, não nos foi dado outro caminho para a tranquilidade. Que assim é, nós o vimos em muitos. Negligentes e amantes da vida cômoda, esperamos e acreditamos andar pelo caminho reto, apesar de impacientíssimos em tudo, sem nunca querer acusar-nos a nós mesmos.
+É isto o que acontece. Por mais virtudes que alguém possua, ainda mesmo inúmeras e infinitas, se abandonar este caminho, jamais terá sossego, mas sempre estará perturbado ou perturbará a outros e perderá todo o trabalho.
+
+@secao Responsório | 1Jo 1,8.9; Pr 28,13
+
+@responsorio
+R. Se dissermos que nós não pecamos,
+a nós mesmos, irmãos, enganamos.
+* Se, porém, confessarmos as culpas, nosso Deus,
+que é justo e fiel, nos perdoará nossas faltas.
+V. Quem esconde seus próprios pecados
+jamais será bem-sucedido.
+* Se, porém.
+
+@secao Oração
+
+@oracao
+Ó Deus, sois o amparo dos que em vós esperam e, sem vosso auxílio, ninguém é forte, ninguém é santo; redobrai de amor para conosco, para que, conduzidos por vós, usemos de tal modo os bens que passam, que possamos abraçar os que não passam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

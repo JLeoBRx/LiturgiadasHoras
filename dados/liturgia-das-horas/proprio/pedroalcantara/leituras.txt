@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedroalcantara.htm
+@documento Ofício das Leituras - São Pedro De Alcântara, Presbítero
+
+@celebracao
+SÃO PEDRO DE ALCÂNTARA, PRESBÍTERO
+
+@biografia
+Pedro (Alcântara, Espanha, 1499 – Arenas, perto de Ávila, 18 de outubro de 1562), depois de estudos feitos em Salamanca, entrou para a Ordem dos Frades Menores e, ordenado sacerdote, desempenhou diversos cargos na Ordem. Em 1554 obteve a licença de consagrar-se a uma observância mais estrita da Regra. Começou então a acolher seguidores, aos quais iniciou numa vida de mais austera pobreza, jejum e penitência e de oração mais prolongada. Impulsionado pelo zelo das almas, dedicou-se com grande fruto à pregação. E com seus conselhos ajudou Santa Teresa de Ávila em sua atividade reformadora entre as Carmelitas. Deixou também obras escritas, nas quais narra a própria experiência ascética, baseada sobretudo na devoção para com a Paixão de Cristo. São Pedro de Alcântara foi confirmado Padroeiro do Império do Brasil, por solicitação de Dom Pedro I, pelo Papa Leão XII, em 31 de maio de 1826. Dom Pedro II o escolheu como patrono da cidade de Petrópolis.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Pedro, ao céu onde subiste,
+nosso louvor te acompanha,
+sol que no mundo refulge,
+nascido em terras de Espanha.
+
+Por teu fervor se restaura
+a disciplina de outrora,
+E eis que o jardim franciscano
+de novas rosas se enflora
+
+As pompas do mundo foges,
+buscando apenas o eterno;
+Tua oração e pureza
+vencem as forjas do inferno.
+
+Com teus jejuns e flagelos,
+os castos membros dominas,
+e à noite o corpo cansado
+em duras tábuas reclinas.
+
+Nossos pedidos escuta,
+busquem os teus vida pura;
+chegue até nós tua ajuda,
+que a salvação assegura
+
+Pedro de Alcântara ouvindo,
+ao Pai e ao Filho louvemos,
+e ao que de ambos procede
+honra sem fim tributemos.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {5,17-22; 6,10-14}
+
+@tema
+O bom combate do presbítero e do homem de Deus
+
+@texto
+Caríssimo: [5,17] Os presbíteros que governam bem, sejam considerados dignos de honra redobrada, principalmente os que trabalham na pregação e no ensino. [18] Pois a Escritura diz: "Não coloques mordaça no boi que mói o trigo". E: "O trabalhador é digno do seu salário". [19] Não recebas acusação contra um presbítero, senão com duas ou três testemunhas. [20] Repreende diante de todos aqueles que pecarem, para inspirar temor também aos outros. [21] Eu te suplico, diante de Deus, de Jesus Cristo e dos seus Anjos eleitos, que observes estas normas, sem prevenção, nada fazendo por parcialidade. [22] A ninguém imponhas as mãos levianamente; nem te faças participante dos pecados alheios. Conserva-te puro. [6,10] A raiz de todos os males é a cobiça do dinheiro. Por se terem deixado levar por ela, muitos se extraviaram da fé e se atormentam a si mesmos com muitos sofrimentos. [11] Tu que és um homem de Deus, foge das coisas perversas, procura a justiça, a piedade, a fé, o amor, a firmeza, a mansidão. [12] Combate o bom combate da fé, conquista a vida eterna, para a qual foste chamado e pela qual fizeste tua nobre profissão de fé diante de muitas testemunhas. [13] Diante de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que deu o bom testemunho da verdade perante Pôncio Pilatos, eu te ordeno: [14] guarda o teu mandato íntegro e sem mancha até à manifestação gloriosa de nosso Senhor Jesus Cristo.
+
+@secao Responsório ICor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel. Aleluia.
+V. Muitos se dizem "homens de bem";
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da carta de São Pedro de Alcântara a Santa Teresa de Jesus.
+{(Séc.XVI)} {(Annales Minorum, XIX, p. 340-341)}
+
+@tema
+Quão suave é Deus para aqueles que o servem
+
+@texto
+Fiquei muito admirado de que a senhora tenha entregue esta questão a homens de letras, aos quais ela não compete. Quando se trata de conflitos ou de casos de consciência, é recomendável pedir e seguir o parecer de jurisconsultos e teólogos. Mas, sobre a perfeição de vida só devem ser consultados os que a professam; o motivo principal consiste em que não é possível melhor sentença ou opinião a respeito dela, do que a demonstrada claramente pelos esforços e as obras deles; nem se deve consultar a outrem sobre os conselhos evangélicos, se devem ser abraçados ou se podem ser observados. Isso seria sinal certo de falta de fé.
+
+Um conselho de Deus só pode ser bom, e não é difícil de ser observado, a não ser para os incrédulos ou aqueles que pouco confiam em Deus, que seguem apenas regras de prudência humana, O autor do conselho será também o doador do remédio, porque é todo-poderoso. O homem, todavia, por si não pode ser autor de um bom conselho, sem que deseje ter a paciência de bom, embora seja mal por natureza. Quanto mais aquele que é a própria bondade, quer e pode fazer com que seus conselhos revertem em bem para aqueles que o seguem. Se alguém quiser seguir o conselho de Cristo acerca de maior perfeição, siga-o. Este conselho não foi dado aos homens de preferência as mulheres. Cristo fará com que tenha feliz resultado, como aconteceu a tantos outros que o haviam seguido; se, porém, quiser adotar os conselhos dos literatos não espirituais, procure antes ter bons lucros, para que possa experimentar se ambos – os conselhos dos literatos e os lucros – valem mais do que a falta de tudo, conforme o conselho do Senhor.
+
+Quando, porém, virmos defeito nos mosteiros femininos pobres, consideremos que isto acontece porque suportam de má vontade esta pobreza, e não segundo o conselho divino. Não louvo simplesmente a pobreza, senão aquela que toleramos pacientemente por causa do amor do nosso Redentor crucificado, e muito mais aquela que é desejada e assumimos espontaneamente por causa do seu amor. Se pensasse ou julgasse doutro modo, não me sentiria muito seguro na fé; ao contrário, em todas essas coisas confio em Cristo e creio firmemente que seus conselhos são ótimos, porque divinos, E embora não obriguem sob pecado, todavia se alguém se obriga, na imitação de Cristo, é mais perfeito do que se os omite sem culpa. Digo que obrigam, enquanto persuadem à perfeição e com isto tornam alguém mais santo e mais agradável a Deus. Julgo, portanto, felizes, como o Senhor afirma, os pobres de espírito, isto é, espontâneos, conforme eu mesmo experimentei, embora confie mais em Deus do que em minha própria experiência.
+
+O Senhor lhe conceda tanta luz que possa entender essa verdade e realizá-la, e não acredite naqueles que afirmam o contrário, por falta de luz, de fé, ou porque jamais experimentaram como Deus é suave para aqueles que o servem, amam e por seu amor renunciam aos bens materiais não necessários. Pois esses são inimigos da cruz de Cristo e não acreditam na Glória que no fim advirá.
+
+Ele lhe conceda, por fim, não vacilar acerca da verdade tão manifesta, nem ouvir conselhos senão daqueles que seriamente abraçaram os conselhos evangélicos. Pois, embora os outros que observam os preceitos obrigatórios se salvem, em geral, porém não recebem mais luz do que sobre aquilo que praticam. E embora seja bom o conselho deles, melhor, porém, será o de Cristo nosso Senhor, que ao dom acrescenta auxílio para a realização, e por fim concede prêmios àqueles que não colocam nas coisas terrenas, e sim nele, plena confiança..
+
+@secao Responsório | Tg 2,5; Mt 19,21; 6,20
+
+@responsorio
+R. Deus escolheu os que são pobres neste
+mundo para que eles sejam ricos pela fé
+e se tornem os herdeiros de seu Reino
+* Que o Senhor prometeu aos que o amam.
+V. Se tu queres ser perfeito, diz Jesus,
+vai e vende os teus bens e dá aos pobres,
+e um tesouro haverás de ter nos céus. * Que o Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que ilustrastes São Pedro de Alcântara com os dons de admirável penitência e de altíssima contemplação, concedei, por seus méritos, que, mortificados na carne, mereçamos participar dos bens celestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

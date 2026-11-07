@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/basilicaspedroepaulo_laudes.htm
+@documento Laudes - Dedicação das basílicas dos Santos Pedro e Paulo, Apóstolos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Pedro, pastor piedoso,
+desfaze o grilhão dos réus:
+com tua palavra podes
+abrir e fechar os céus.
+
+Ó Paulo, mestre dos povos,
+ensina-nos teu amor:
+Correr em busca do prêmio,
+chegar ao Cristo Senhor.
+
+A vós, ó Trindade, glória,
+poder e louvor também;
+que sois eterna unidade
+nos séculos, sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+André, que era irmão de Simão Pedro,
+foi dos primeiros a seguir nosso Senhor.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+André, que era irmão de Simão Pedro,
+foi dos primeiros a seguir nosso Senhor.
+
+@antifona 2
+André era amigo de Cristo e doou sua vida por ele.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+André era amigo de Cristo e doou sua vida por ele.
+
+@antifona 3
+Disse André a seu irmão: encontramos o Messias!
+E a Jesus o conduziu.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Disse André a seu irmão: encontramos o Messias!
+E a Jesus o conduziu.
+
+@secao Leitura breve | Ef 2,19-22
+
+@texto
+Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Senhor, o apóstolo Pedro, e Paulo, o doutor das nações,
+transmitiram a nós vossa lei.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Senhor, o apóstolo Pedro, e Paulo, o doutor das nações,
+transmitiram a nós vossa lei.
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, por todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, guardai sob a proteção dos apóstolos Pedro e Paulo a vossa Igreja, que deles recebeu a primeira semente do Evangelho, e concedei que por eles receba até o fim dos tempos a graça que a faz crescer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

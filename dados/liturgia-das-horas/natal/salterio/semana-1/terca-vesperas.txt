@@ -1,0 +1,87 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1terca_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, exaltai o vosso Ungido!
+
+@salmo salmos/salmo-019
+
+@gloria
+
+@antifona
+Ó Senhor, exaltai o vosso Ungido!
+
+@antifona 2
+Cantaremos celebrando a vossa força.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Cantaremos celebrando a vossa força.
+
+@antifona 3
+Fizestes de nós para Deus
+sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus
+sacerdotes e povo de reis.

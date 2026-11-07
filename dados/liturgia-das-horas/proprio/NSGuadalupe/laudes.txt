@@ -1,0 +1,181 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSGuadalupe_laudes.htm
+@documento Laudes - Nossa Senhora de Guadalupe, Padroeira principal da América Latina
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Virgem suma, sem nenhuma,
+Do pecado corrupção:
+És tão forte que da morte
+Espedaças o grilhão.
+
+Dá clemente que contente,
+Tua festa celebrando,
+Seja novo todo o povo,
+Tua graça contemplando.
+
+Possa até a nossa fé
+Tua súplica aumentar.
+Ao doente faze a mente
+Na fortaleza firmar.
+
+Mãe de Deus, dos filhos teus,
+Esperança, luz e norte:
+Vence a guerra que os aterra,
+Fome, dor, e peste e morte.
+
+Ó dos presos e indefesos
+Considera a dor e o tédio;
+Aos gemidos dá ouvidos,
+Aos doentes dá remédio.
+
+Tua paz descanso traz,
+Dias cheios de ventura;
+Inimigos faze amigos,
+A calma a todos procura.
+
+Ó Maria, Virgem pia,
+Venhas tu em nosso auxílio.
+Cantaremos, louvaremos,
+Eternamente o teu Filho.
+
+O Pai é Deus, Deus o Filho,
+Deus o Espírito também;
+Trindade eterna, governa
+O universo inteiro. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem é esta que aparece como a luz da alvorada,
+e formosa como a lua, fulgurante como o sol,
+imponente como uma tropa,
+com bandeiras desfraldadas?
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Quem é esta que aparece como a luz da alvorada,
+e formosa como a lua, fulgurante como o sol,
+imponente como uma tropa,
+com bandeiras desfraldadas?
+
+@antifona 2
+Tu és Maria, sempre Virgem,
+Mãe do verdadeiro Deus, Autor de toda vida.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Tu és Maria, sempre Virgem,
+Mãe do verdadeiro Deus, Autor de toda vida.
+
+@antifona 3
+Como a águia estimula seus filhotes a voar,
+voejando sobre o ninho,
+assim ela leva os seus sobre as asas estendidas.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Como a águia estimula seus filhotes a voar,
+voejando sobre o ninho,
+assim ela leva os seus sobre as asas estendidas.
+
+@secao Leitura breve | Cf. Eclo 50,5-10
+
+@texto
+Como era glorioso ao fazer a volta do santuário, ao sair da casa do Véu! Era como a estrela da manhã no meio da nuvem, como a lua cheia nos dias de festa; como o sol resplandecendo sobre o santuário do Altíssimo, como o arco-íris brilhando entre as nuvens de glória; como a flor das roseiras em dias de primavera, como o lírio junto às fontes das águas, como a vegetação do Líbano em dias de verão. Era como o fogo e o incenso no turíbulo, como um vaso de ouro maciço, ornado de toda espécie de pedras preciosas; como a oliveira carregada de frutos, como o cipreste, que se eleva até às nuvens.
+
+@secao Responsório breve
+
+@responsorio
+R. Eu levanto os meus olhos para os montes:
+* De onde pode vir o meu socorro? R. Eu levanto.
+V. De manhã cedo, eu me acordo por vós, concedei-me um sinal que me prove. * De onde.
+Glória ao Pai. R. Eu levanto.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Tu, Sião, que anuncias boas-novas,
+vai subindo a um monte alto e dize às cidades de Judá:
+Eis aí está o vosso Deus!
+Qual pastor que apascenta seu rebanho,
+ele vela sobre o povo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Tu, Sião, que anuncias boas-novas,
+vai subindo a um monte alto e dize às cidades de Judá:
+Eis aí está o vosso Deus!
+Qual pastor que apascenta seu rebanho,
+ele vela sobre o povo.
+
+@secao Preces
+
+@preces
+Louvemos a Deus Pai todo-poderoso, o Criador que nos dá a vida; e peçamos:
+
+R. **Senhor, por quem vivemos e somos, escutai as nossas preces.**
+
+Bendito sejais, Senhor do universo, que em vossa imensa bondade nos enviastes a Mãe do vosso Filho,
+– para chamar-nos à fé e fazer-nos ingressar em vosso povo santo. R.
+
+Nós vos bendizemos, Senhor, porque escondestes vossa mensagem aos sábios e prudentes deste mundo,
+– e a revelastes aos pequeninos, considerados insignificantes e desprezíveis. R.
+
+Concedei-nos ser, como Juan Diego, vossos dignos embaixadores,
+– para levarmos a todos os homens e nações vossa mensagem de amor e de paz. R.
+
+Vós, que, com a presença de Maria, fazeis as pedras brilharem como pérolas e os espinhos como ouro,
+– fazei que o amor da Santíssima Virgem nos transforme em outros Cristos. R.
+
+Dai que, à semelhança de Juan Diego, sejamos sempre fiéis ao culto divino e a vossos mandamentos,
+– para que mereçamos também que Nossa Senhora venha ao nosso encontro na estrada desta vida. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos destes a Santa Virgem Maria para amparar-nos como mãe solícita, concedei aos povos da América Latina, que hoje se alegram com sua proteção, crescer constantemente na fé e alcançar o desejado progresso no caminho da justiça e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

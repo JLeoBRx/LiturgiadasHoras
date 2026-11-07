@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/sabadocinzas_sexta.htm
+@documento Hora Média - Sexta - Sábado depois das Cinzas
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@salmo salmos/salmo-118-169-176-xxii-tau
+
+@gloria
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@secao Leitura breve | Is 44,21-22
+
+@texto
+Lembra-te de que tu és meu servo; eu te criei, és meu servo, Israel, não me decepciones. Desmanchei como uma nuvem teus pecados, como a névoa desfiz tuas culpas; volta para mim, porque te resgatei!
+
+@texto
+V. Desviai o vosso olhar dos meus pecados.
+R. E apagai todas as minhas transgressões!
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, olhai com bondade a nossa fraqueza, e estendei, para proteger-nos, a vossa mão poderosa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,59 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 22º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Jesus começou a mostrar aos discípulos
+que devia seguir para Jerusalém,
+sofrer muito e ser morto
+e ressuscitar três dias depois.
+
+@antifona vesperas-i-B
+Praticai os mandamentos do Senhor,
+porque eles vos darão sabedoria
+e inteligência perante os outros povos.
+
+@antifona vesperas-i-C
+Quando fores convidado para núpcias
+coloca-te no último lugar,
+e quem te convidou, possa dizer:
+Amigo, vai chegando mais acima.
+Então serás honrado na presença
+de todos os que foram convidados.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Que proveito tem o homem,
+se ganhar o mundo inteiro,
+mas perder a sua vida?
+
+@antifona laudes-B
+Acolhei docilmente a Palavra,
+semeada em vós, meus irmãos:
+ela pode salvar vossas vidas.
+
+@antifona laudes-C
+Quem se exaltar, será humilhado;
+e quem se humilhar, será exaltado.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+O Filho do homem há de vir,
+revestido da glória do seu Pai,
+acompanhado de todos os seus anjos,
+e então pagará a cada um
+de acordo com seu procedimento.
+
+@antifona vesperas-ii-B
+Ouvi e compreendei a tradição,
+que o Senhor e nosso Deus vos transmitiu.
+
+@antifona vesperas-ii-C
+Quando deres um banquete,
+convida à tua mesa os pobres e aleijados
+que não têm com que pagar-te;
+e serás recompensado
+quando os justos ressurgirem.

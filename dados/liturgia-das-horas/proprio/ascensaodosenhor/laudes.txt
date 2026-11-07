@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_laudes.htm
+@documento Laudes - Ascensão do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Esperado com ânsia por todos,
+hoje o dia sagrado brilhou
+em que Cristo, esperança do mundo,
+Deus e Homem, ao céu se elevou.
+
+Triunfou sobre o príncipe do mundo,
+vencedor num combate gigante,
+e apresenta a Deus Pai, no seu rosto,
+toda a glória da carne triunfante.
+
+Dos fiéis ele é a esperança,
+numa nuvem de luz elevado,
+e de novo abre aos homens o céu
+que seus pais lhes haviam fechado.
+
+Ó imensa alegria de todos,
+quando o Filho que a Virgem gerou,
+logo após o flagelo e a cruz,
+à direita do Pai se assentou.
+
+Demos graças a tal defensor
+que nos salva, que vida nos deu,
+e consigo no céu faz sentar-se
+nosso corpo no trono de Deus.
+
+Com aqueles que habitam o céu
+partilhamos tão grande alegria.
+Cristo a eles se deu para sempre,
+mas conosco estará cada dia.
+
+Cristo, agora elevado às alturas,
+nossa mente convosco elevai,
+e, do alto, enviai-nos depressa
+vosso Espírito, o Espírito do Pai.
+
+@secao Salmodia
+
+@antifona 1
+Ó homens galileus, por que estais a olhar os céus?
+Jesus que aos céus subiu, da mesma forma há de vir. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Ó homens galileus, por que estais a olhar os céus?
+Jesus que aos céus subiu, da mesma forma há de vir. Aleluia.
+
+@antifona 2
+Exaltai o Rei dos reis, cantai hinos ao Senhor! Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Exaltai o Rei dos reis, cantai hinos ao Senhor! Aleluia.
+
+@antifona 3
+O Senhor se elevou à vista deles,
+e uma nuvem o acolheu na glória eterna. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O Senhor se elevou à vista deles,
+e uma nuvem o acolheu na glória eterna. Aleluia.
+
+@secao Leitura breve | Hb 10,12-14
+
+@texto
+Cristo, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica.
+
+@secao Responsório breve
+
+@responsorio
+R. Subindo o Cristo para o alto,
+* Aleluia, aleluia. R. Subindo.
+V. Levou cativo o cativeiro. * Aleluia.
+Glória ao Pai. R. Subindo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu subo ao meu Pai e vosso Pai,
+ao meu Deus e vosso Deus. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu subo ao meu Pai e vosso Pai,
+ao meu Deus e vosso Deus. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos com alegria o Senhor Jesus Cristo, que, elevado da terra, atrai para si todas as coisas; e o aclamemos:
+
+R. **Cristo, rei da glória, nós vos louvamos!**
+
+Senhor Jesus, rei da glória, que, oferecido em sacrifício uma vez para sempre, subistes vitorioso para o céu, onde estais à direita do Pai,
+– conduzi os homens e as mulheres à perfeição da caridade. R.
+
+Sacerdote eterno e ministro da Nova Aliança, que viveis eternamente intercedendo por nós,
+– salvai o povo que vos suplica. R.
+
+Senhor, que voltastes à vida depois de sofrer a Paixão e durante quarenta dias aparecestes a vossos discípulos,
+– confirmai, hoje, a nossa fé. R.
+
+Senhor, que, neste dia, prometestes dar aos apóstolos o Espírito Santo, para que fossem testemunhas vossas até os confins da terra,
+– fortalecei também, pela força do mesmo Espírito Santo, o nosso testemunho. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

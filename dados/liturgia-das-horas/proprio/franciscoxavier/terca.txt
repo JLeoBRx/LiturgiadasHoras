@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/franciscoxavier_terca.htm
+@documento Hora Média - São Francisco Xavier, presbítero
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai. Aleluia.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Como tu me enviaste ao mundo,
+também eu os envio, ó Pai. Aleluia.
+
+@secao Leitura breve | 1Tm 4,16
+
+@texto
+Cuida de ti mesmo e daquilo que ensinas. Mostra-te perseverante. Assim te salvarás a ti mesmo e também àqueles que te escutam.
+
+@texto
+V. O Senhor escolheu o seu servo,
+R. Para ser o pastor de seu povo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela pregação de São Francisco Xavier conquistastes para vós muitos povos do oriente, concedei a todos os fiéis o mesmo zelo, para que a santa Igreja possa alegrar-se com o nascimento de novos filhos em toda a terra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

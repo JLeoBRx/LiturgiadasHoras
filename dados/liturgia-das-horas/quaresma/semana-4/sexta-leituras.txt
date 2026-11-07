@@ -1,0 +1,126 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4sexta_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Sexta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder.
+
+@salmo salmos/salmo-077-1-39-i
+
+@gloria
+
+@antifona
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder
+
+@antifona 2
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual
+
+@salmo salmos/salmo-077-1-39-ii
+
+@gloria
+
+@antifona
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual
+
+@antifona 3
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!
+
+@salmo salmos/salmo-077-1-39-iii
+
+@gloria
+
+@antifona
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!
+
+@texto
+V. Voltai ao Senhor vosso Deus.
+R. Ele é bom, compassivo e clemente!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro dos Números {14,1-25}
+
+@tema
+Murmuração do povo e intercessão de Moisés
+
+@texto
+Naqueles dias, toda a comunidade começou a gritar, e passou aquela noite chorando. Todos os filhos de Israel murmuravam contra Moisés e Aarão, dizendo: “Antes tivéssemos morrido no Egito, ou ao menos perecido neste deserto! Por que nos leva o Senhor para essa terra? A fim de cairmos ao fio da espada, e para que nossas mulheres e nossos filhos sejam reduzidos ao cativeiro? Não seria melhor voltarmos para o Egito?” E disseram uns aos outros: “Escolhamos um chefe e voltemos para o Egito!” Ouvindo isto, Moisés e Aarão caíram com o rosto em terra perante toda a comunidade dos filhos de Israel. Josué, filho de Nun, e Caleb, filho de Jefoné, que estavam entre os que exploraram a terra, rasgaram suas vestes, e disseram a toda a comunidade dos filhos de Israel: “O país que percorremos e exploramos é uma terra excelente. Se o Senhor nos for propício, nos introduzirá nela e nos dará essa terra onde corre leite e mel. De modo algum deveis revoltar-vos contra o Senhor, nem temer a população daquele país, porque podemos devorá-los como pão. A sua sombra protetora apartou-se deles, enquanto que o Senhor está conosco. Não os temais”. Toda a comunidade ameaçava apedrejá-los, quando apareceu a glória do Senhor a todos os filhos de Israel sobre a Tenda da Reunião. E o Senhor disse a Moisés: “Até quando me desprezará este povo? Até quando se recusará a crer em mim, apesar de todos os sinais que tenho feito diante dele? Vou feri-los de peste e os exterminarei; de ti, porém, farei uma nação maior e mais forte do que esta”. Moisés disse ao Senhor: “Mas os egípcios sabem que de seu meio tiraste este povo com teu poder, e o dirão aos habitantes desta terra. Eles sabem que tu, Senhor, estás no meio deste povo; que te manifestas a ele face a face; que sobre eles vela a tua nuvem; que de dia o precedes numa coluna de nuvem e de noite numa coluna de fogo. Se fizeres morrer este povo, como se fosse um só homem, as nações ao ouvirem tais notícias a teu respeito, comentarão: ‘Ele foi incapaz de introduzir o povo no país que lhes prometeu com juramento; por isso os matou no deserto’. Seja, pois, glorificada a grandeza da força do Senhor, como tu mesmo juraste, dizendo: ‘O Senhor é paciente e misericordioso; suporta a maldade e a rebeldia, mas não a deixa impune; castiga a maldade dos pais nos filhos até a terceira e quarta geração’. Perdoa, te suplico, o pecado deste povo segundo a tua grande misericórdia, assim como lhe foste propício desde o Egito até aqui”. Disse-lhe então o Senhor: “Eu perdoei conforme o teu pedido. No entanto, juro por minha vida e pela glória do Senhor que enche a terra: nenhum dos homens que viram minha glória e os sinais que fiz no Egito e no deserto, e que já por dez vezes me tentaram e desobedeceram, verá a terra que jurei dar a seus pais. Não a verá nenhum dos que me desprezaram. Mas como meu servo Caleb, animado de um outro espírito, me seguiu fielmente, eu o introduzirei no país que visitou e que seus descendentes herdarão. Visto que os amalecitas e os cananeus habitam nos vales, amanhã levantai os acampamentos, e voltai para o deserto pelo caminho do mar Vermelho”.
+
+@secao Responsório | Sl 102(103),8.9.13.14
+
+@responsorio
+R. O Senhor é indulgente, é favorável,
+é paciente, é bondoso, é compassivo. Não fica sempre repetindo as suas queixas nem guarda eternamente o seu rancor.
+* Como um pai se compadece de seus filhos, o Senhor tem compaixão dos que o temem.
+V. Porque sabe de que barro somos feitos, e se lembra que apenas somos pó. * Como um pai.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas pascais de Santo Atanásio, bispo
+{(Séc.IV)} {(Ep. 5,1-2:PG26,1379-1380)}
+
+@tema
+O mistério pascal reúne na unidade da fé_
+_os que se encontram fisicamente afastados
+
+@texto
+É muito belo, meus irmãos, passar de uma para outra festa, de uma oração para outra, de uma solenidade para outra solenidade. Aproxima-se o tempo que nos traz um novo início e o anúncio da santa Páscoa, na qual o Senhor foi imolado. Do seu alimento nos sustentamos como de um manjar de vida, e a nossa alma se delicia com o Sangue precioso de Cristo como numa fonte. E, contudo, temos sempre sede desse Sangue, sempre o desejamos ardentemente. Mas o nosso Salvador está perto daqueles que têm sede, e na sua bondade convida todos os corações sedentos para o grande dia da festa, dizendo: _Se alguém tem sede, venha a mim, e beba_ (Jo 7,37). Sempre que nos aproximamos dele para beber, ele nos mata a sede; e sempre que pedimos, podemos nos aproximar dele. A graça própria desta celebração festiva não se limita apenas a um determinado momento; nem seus raios fulgurantes conhecem ocaso, mas estão sempre prontos para iluminar as almas de todos que o desejam. Exerce contínua influência sobre aqueles que já foram iluminados e se debruçam dia e noite sobre a Sagrada Escritura. Estes são como aquele homem que o salmo proclama feliz, quando afirma: _Feliz aquele homem que não anda conforme o conselho dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar_ (Sl 1,1-2). Por outro lado, amados irmãos, o Deus que desde o princípio instituiu esta festa para nós, concede-nos a graça de celebrá-la cada ano. Ele que, para nossa salvação, entregou à morte seu próprio Filho, pelo mesmo motivo nos proporciona esta santa solenidade que não tem igual no decurso do ano. Esta festa nos sustenta no meio das aflições que encontramos neste mundo. Por ela Deus nos concede a alegria da salvação e nos faz amigos uns dos outros. E nos conduz a uma única assembleia, unindo espiritualmente a todos em todo lugar, concedendo-nos orar em comum e render comuns ações de graças, como se deve fazer em toda festividade. É este um milagre de sua bondade: congrega nesta festa os que estão longe e reúne na unidade da fé os que, porventura, se encontram fisicamente afastados.
+
+@secao Responsório | Cf. Sf 3,8.9; Jo 12,32
+
+@responsorio
+R. Esperai-me até o dia em que eu me erguerei,
+* Pois darei naquele dia lábios puros para os povos, para que todos invoquem, em um só e mesmo espírito, o nome do Senhor.
+V. Quando eu for elevado da terra, atrairei para mim todo ser. * Pois darei.
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes para a nossa fraqueza os auxílios necessários à nossa renovação, dai-nos recebê-los com alegria e vê-los frutificar em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

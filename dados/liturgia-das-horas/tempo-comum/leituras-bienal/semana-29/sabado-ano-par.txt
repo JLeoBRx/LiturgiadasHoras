@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/29sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {51,1-12}
+
+@tema
+Hino de louvor
+
+@texto
+[1] Eu te dou graças, Senhor, Rei, e louvo-te, Deus meu Salvador. Eu rendo graças a teu nome. [2] Porque foste para mim protetor e sustentáculo e livraste meu corpo da ruína, do laço da língua caluniadora e dos lábios que fabricam a mentira; na presença dos que me rodeiam, foste meu sustentáculo [3] e me livraste, segundo a abundância de tua misericórdia e de teu nome, das mordeduras dos que estão prestes a me devorar, das mãos dos que querem a minha vida, das inumeráveis provas que sofri, [4] do sufocamento do fogo que me rodeava, do meio de um fogo que eu não acendi, das profundas entranhas do Xeol, da língua impura, da palavra mentirosa, [6] e das flechas de uma língua injusta. Minha alma esteve perto da morte, minha vida desceu às portas do Xeol. [7] Rodeavam-me por todos os lados, mas não havia quem me ajudasse; procurei pelo socorro dos homens e nada. [8] Então lembrei-me de tua misericórdia, Senhor, e de teu benefício, desde toda eternidade, sabendo que tu livras, os que esperam em ti, que tu os salvas das mãos de seus inimigos. [9] E fiz subir da terra a minha oração, pedi para ser livre da morte. [10] Invoquei o Senhor, pai de meu Senhor: “Não me abandones no dia da provação, no tempo dos orgulhosos e do abandono. [11] E louvarei o teu nome continuamente e o cantarei no meu agradecimento.” E minha oração foi ouvida, [12] tu me salvaste da ruína, livraste-me no tempo mau. Por isso eu te dou graças e te louvo e bendirei o nome do Senhor.
+
+@secao Responsório | Eclo 51,8.1.10.11
+
+@responsorio
+R. Lembrei-me de tua misericórdia, Senhor,
+e de teu benefício, desde toda a eternidade.
+* Eu te dou graças, Senhor, Rei,
+e louvo-te, Deus meu Salvador.
+V. Exclamei: “Senhor, pai de meu Senhor!”,
+e minha oração foi ouvida.
+* Eu te dou graças.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o profeta Isaías”, de São Cirilo de Alexandria, bispo
+{(Séc. IV)} {(Liv. 4,4)}
+
+@tema
+Rendamos graças a Deus Pai que nos libertou do poder das trevas
+
+@texto
+_O Senhor Deus me deu língua de discípulo_ para que eu saiba quando devo falar (cf. Is 50,4). Não está em contraste, mas sim em pleno acordo com a mais exata exposição, aplicar essas palavras à multidão dos santos apóstolos, e, também, a todos os que creem em Cristo e são instruídos na doutrina espiritual por quem tem a mente e a alma largamente iluminadas; àqueles que se tornaram partícipes dos carismas divinos e dignos de contemplar com os olhos puros da alma a profundidade da Escritura divinamente inspirada; e enfim incluirei entre os santos aqueles que seguiram a moral evangélica, a prudência e a ciência.
+Esses, portanto, cantam hinos de ação de graças e proclamam que a eles foi concedida uma língua de iniciados, ou seja, uma língua capaz de falar com conhecimento de causa sobre os mistérios divinos, e de explicá-los sem erros; e de entender quando e como é oportuno servir-se de palavras de consolação. É o que fizeram os discípulos do Senhor, quando encheram e adornaram as almas e os corações com a sã e imaculada doutrina da fé cristã, e apresentaram a todos os ouvintes da pregação divina um ou outro discurso conforme era conveniente a cada um.
+De fato, àqueles que eram ainda crianças, ofereceram oportunamente o leite de uma instrução simples ou catequeses; porém deram um alimento sólido e nutriente àqueles que se encontravam no estado de homem perfeito e haviam atingido a medida conveniente à plena maturidade de Cristo. Esta foi, portanto, a língua dos iniciados e o dom da ciência para saber quando convém falar; e eles dizem que ela lhes foi dada ao alvorecer, ou seja, surgiu nos seus corações o esplendor do dia, o fulgor da luz divina e inteligível, a estrela da manhã. Compreenderemos isso melhor com as palavras do bem-aventurado Paulo, que escreve: _Rendamos graças com alegria ao Pai que nos tornou ap-_ _tos para participar da sorte dos santos na luz; é ele, na_ _verdade, que nos libertou do poder das trevas e nos trans-_ _portou para o reino de seu Filho dileto_ (Cl 1,12-13).
+Em verdade, o ídolo deste mundo cegou os pagãos de maneira tal que para eles não resplandece a luz do Evangelho de Cristo. Para nós, ao contrário, surgiu o Sol de justiça para iluminar as mentes com o fulgor da luz divina, a fim de que sejamos chamados filhos da luz, e o somos de fato. Pois, logo que acolhemos a fé em Cristo e fomos iluminados por ele, foi-nos dado em acréscimo um ouvido particular, ou seja, um novo ouvido (cf. Is 50,4-5). Em verdade, nós que acreditamos que a lei é um pedagogo, escutando a lei mosaica a compreendemos com outro modo de ouvir e traduzimos o símbolo na verdade, transformando a sombra numa semente de contemplação espiritual. Pois a doutrina cristã, ou seja, a pregação evangélica e a iniciação nos seus mistérios, ensina a entender a lei espiritualmente, abrindo quase os ouvidos daqueles que creram em Cristo.
+
+@secao Responsório | Sl 85(86),12-13
+
+@responsorio
+R. Louvar-te-ei, ó Senhor, com todo o meu coração
+e sempre darei glória ao teu nome.
+* Porque é grande para comigo a tua misericórdia.
+V. Do profundo dos infernos me arrancaste,
+* Porque é grande.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos a graça de estar sempre ao vosso dispor, e vos servir de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/roquegonzalez.htm
+
+@secao Antífona da entrada
+@texto
+Por amor de Cristo,
+o sangue dos mártires foi derramado na terra;
+por isso, eles alcançaram a recompensa eterna.
+
+@secao Coleta
+@texto
+Senhor, que a vossa palavra cresça
+nas terras onde os vossos mártires a semearam
+e seja multiplicada em frutos de justiça e de paz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, com alegria,
+vos trazemos os frutos da terra,
+a fim de que, pelo sacrifício que vosso Filho ofereceu por todos,
+nos concedais a bênção e a santidade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 22,28ss
+@texto
+Vós ficastes comigo em minhas provações.
+Por isso vos confio o reino.
+Vós havereis de comer e beber à minha mesa
+no meu reino, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, que os vossos fiéis vivam na fé e na caridade,
+repartindo com os irmãos o pão da vida
+e bebendo o cálice da salvação até a vossa vinda.
+Por Cristo, nosso Senhor.

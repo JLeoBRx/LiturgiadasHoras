@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/14domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 47,10-11
+@texto
+Recebemos, Senhor, vossa misericórdia
+no meio do vosso templo.
+Como vosso nome, ó Deus,
+assim vosso louvor ressoa até os confins da terra;
+vossa destra está cheia de justiça.
+
+@secao Coleta
+@texto
+Ó Deus, pela humilhação do vosso Filho
+reerguestes o mundo decaído,
+dai-nos uma santa alegria,
+para que, livres da servidão do pecado,
+cheguemos à felicidade eterna.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Fazei, Senhor, que este sacrifício
+celebrado em honra do vosso nome,
+nos purifique e nos leve, cada vez mais,
+a viver a vida do vosso reino.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 33,9
+@texto
+Provai e vede quão suave é o Senhor.
+Feliz o homem que tem nele o seu refúgio!{Ou:}{Mt 11,28}
+Vinde a mim todos vós que estais cansados e fatigados,
+e eu vos darei descanso, diz o Senhor..
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que, enriquecidos por essa tão grande dádiva,
+possamos colher os frutos da salvação
+sem jamais cessar vosso louvor.
+Por Cristo, nosso Senhor.

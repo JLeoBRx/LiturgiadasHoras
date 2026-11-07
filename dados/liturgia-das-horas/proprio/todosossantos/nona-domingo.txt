@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_nona_domingo.htm
+@documento Hora Média - Todos os Santos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Os santos, pela fé, triunfaram sobre os reinos,
+praticaram a justiça e alcançaram as promessas.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Os santos, pela fé, triunfaram sobre os reinos,
+praticaram a justiça e alcançaram as promessas.
+
+@secao Leitura breve | Ap 21,10-11a; 22,3b-4
+
+@texto
+O anjo levou-me em espírito a uma montanha grande e alta. Mostrou-me a cidade santa, Jerusalém, descendo do céu, de junto de Deus, brilhando com a glória de Deus. Na cidade estará o trono de Deus e do Cordeiro e seus servos poderão prestar-lhe culto. Verão a sua face e o seu nome estará sobre suas frontes.
+
+@texto
+V. Os justos louvarão o vosso nome.
+R. E junto a vós habitarão os que são retos.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

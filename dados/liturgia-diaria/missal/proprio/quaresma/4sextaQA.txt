@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4sextaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 53,3-4
+@texto
+Por vosso nome, salvai-me, Senhor;
+e dai-me a vossa justiça!
+Ó meu Deus, atendei a minha prece
+e escutai as palavras que eu digo!
+
+@secao Coleta
+@texto
+Ó Deus, que preparastes para a nossa fraqueza
+os auxílios necessários à nossa renovação,
+dai-nos recebê-los com alegria
+e vê-los frutificar em nossa vida.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus todo-poderoso, fazei que este sacrifício
+nos santifique com o seu admirável poder
+e nos faça chegar, de coração purificado,
+às festas pascais, fonte da nossa salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Ef 1,7
+@texto
+Em Cristo, pelo seu sangue, nós somos libertados.
+Nele, as nossas faltas são perdoadas,
+segundo a riqueza da sua graça.
+
+@secao Depois da comunhão
+@texto
+Senhor, que nos fizestes passar da antiga para a nova aliança,
+fazei que este sacramento celeste
+nos liberte da velha condição do pecado
+e nos renove com uma vida santa.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Olhai, benigno, Senhor, os vossos fiéis
+e protegei com o celeste auxílio
+os que confiam em vossa misericórdia.
+Por Cristo, nosso Senhor.

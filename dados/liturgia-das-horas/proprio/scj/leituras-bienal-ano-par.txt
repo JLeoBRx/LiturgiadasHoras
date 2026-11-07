@@ -1,0 +1,238 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/scj_par.htm
+@documento Ofício das Leituras - Sagrado Coração De Jesus Solenidade
+
+@celebracao
+SAGRADO CORAÇÃO DE JESUS
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Coração, arca santa, guardando
+não a lei que aos antigos foi dada,
+mas o dom duma nova Aliança,
+no perdão e na graça firmada.
+
+Coração, sois o novo Sacrário
+da Aliança do céu com a terra,
+Templo novo, mais santo que o velho,
+véu que o Santo dos Santos encerra.
+
+Vosso lado por nós foi aberto,
+revelando ao olhar dos mortais
+as raízes do amor invisível,
+da ternura com que nos amais.
+
+Sois sinal do amor infinito
+de Jesus, que por nós se entregou,
+e na cruz, sacerdote perfeito,
+a perfeita oblação consumou.
+
+Tal amor, haverá quem não ame?
+Quem lhe possa ficar insensível?
+Quem não busque, na paz deste lado,
+o refúgio, a morada invisível?
+
+Esta graça esperamos do Pai
+e do Espírito Santo também:
+no fiel Coração de Jesus
+para sempre habitarmos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Em vós está a fonte da vida;
+na torrente de vossas delícias
+vós nos dais de beber água viva.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vós está a fonte da vida;
+na torrente de vossas delícias
+vós nos dais de beber água viva.
+
+@antifona 2
+Quando em mim o coração desfalecia,
+conduzistes-me às alturas do rochedo.
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@antifona
+Quando em mim o coração desfalecia,
+conduzistes-me às alturas do rochedo.
+
+@antifona 3
+Os confins do universo contemplaram
+a salvação do nosso Deus.
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+Os confins do universo contemplaram
+a salvação do nosso Deus.
+
+@texto
+V. Eu recordo os grandes feitos do Senhor.
+R. E relembro os seus prodígios do passado.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,28-39}
+
+@tema
+O amor de Deus manifesta-se em Cristo.
+
+@texto
+Irmãos, [28] nós sabemos que Deus coopera em tudo para o bem daqueles que o amam, daqueles que são chamados segundo o seu desígnio. [29] Porque os que de antemão ele conheceu, esses também predestinou a serem conformes à imagem do seu Filho, a fim de ser ele o primogênito entre muitos irmãos. [30] E os que predestinou, também os chamou; e os que chamou, também os justificou, e os que justificou, também os glorificou. [31] Depois disto, que nos resta a dizer? Se Deus está conosco, quem estará contra nós? [32] Quem não poupou o seu próprio Filho e o entregou por todos nós, como não nos haverá de agraciar em tudo junto com ele? [33] Quem acusará os eleitos de Deus? É Deus quem justifica. [34] Quem condenará? Cristo Jesus, aquele que morreu, ou melhor, que ressuscitou, aquele que está à direita de Deus e que intercede por nós? [35] Quem nos separará do amor de Cristo? A tribulação, a angústia, a perseguição, a fome, a nudez, o perigo, a espada? [36] Segundo está escrito: _Por sua causa somos postos à morte o dia todo,_ _somos considerados como ovelhas destinadas ao mata__douro._ [37] Mas em tudo isto somos mais que vencedores, graças àquele que nos amou. [38] Pois estou convencido de que nem a morte nem a vida, nem os anjos nem os principados, nem o presente nem o futuro, nem os poderes, [39] nem a altura, nem a profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Ef 2,5.4b.7a
+
+@responsorio
+R. Quando estávamos mortos por nossos pecados,
+deu-nos vida em seu Cristo,
+* Pelo amor sem limites com que Deus nos amou.
+V. A fim de mostrar, nos tempos vindouros,
+a imensa riqueza da graça de Cristo. * Pelo amor.
+
+@secao Segunda leitura
+
+@leitura
+Das “Homilias sobre a Carta aos Romanos”, de São João Crisóstomo, bispo
+{(Séc. IV)} {(15,1-2)}
+
+@tema
+Imensa é a bondade de Deus, que não poupou o seu Filho
+
+@texto
+_Aqueles que ele desde o princípio os conheceu, também_ _os predestinou a serem conformes à imagem do seu Filho_ (Rm 8,29). Vê qual é o cume da sua glória? Aquilo que o Unigênito é por natureza, eles assim se transformam pela graça. Porém não lhes foi suficiente ter-lhes dito dessa forma, acrescentou algo mais ainda, dizendo: _para que ele seja_ _o primogênito entre muitos irmãos_ (Rm 8,29), querendo com isso mostrar um parentesco manifesto sob cada aspecto.
+Creio firmemente que tudo isso se refira à encarnação: na verdade, segundo a natureza divina ele é o Unigênito.
+Vê quantas e quais coisas ele nos deu? Não se pode portanto ter dúvidas para o futuro; também em outro lugar mostra-nos a sua solicitude, quando nos revela que todas essas coisas estavam já, há um tempo, prefiguradas. Na verdade, os homens mudam o seu juízo sobre um mesmo argumento de acordo com as circunstâncias, mas o pensamento de Deus permanece imutável em todos os séculos e o seu comportamento para conosco permanece sempre cheio de bondade; por isso nos disse: _Os que chamou, também_ _os justificou_ (Rm.8,30): justificou-os regenerando-os com o batismo. _E os que justificou, também os glorificou_ (Rm 8,30). Glorificou-os com a graça da adoção, tornando-os seus filhos. _O que diremos então_? (Rm 8,31). Como dissesse: não me falem mais de perigos, nem das insídias que provêm de qualquer lugar. Mesmo que alguns não creiam nas realidades futuras, não podem negar, porém, todos os bens que receberam; por exemplo, tu não podes duvidar do amor de Deus por ti, da justificação, da glória.
+Tudo isso foi dado a ti através das coisas que pareciam amar, e aquilo que tu consideravas humilhante: a cruz, os flagelos, as cadeias, é justamente isso que restituiu à ordem primitiva todo o universo. Como, pois, ele se serviu das coisas que padeceu, porquanto parecessem funestas, para dar a liberdade e a salvação a toda a natureza, agindo assim naquilo que tu sofres, servindo-se disso para oferecer-te glória e esplendor.
+_Se Deus é por nós, quem será contra nós?_ (Rm 8,31). Contra o fiel que está atento à lei de Deus nada podem nem o homem, nem o demônio, nem qualquer outro poder. Se lhe tiras dinheiro, preparas a sua vantagem; se falas mal dele, justo pela tua maledicência, o tornas mais esplêndido diante de Deus; se tu o reduzes à fome, maior será a sua glória e a sua recompensa; se ainda, e isto é algo julgado mais grave, o entregas à morte, tece-lhe a coroa do martírio. O que será então comparável a essa vida, na qual nada pode atingi-lo, se também aqueles que parecem enganá-lo não são menos úteis do que aqueles que o cobrem de benefícios? Por isso disse: _Se Deus é por nós, quem será contra nós?_ (Rm 8,31).
+Depois, não contente de tudo o que já havia dito, como sinal máximo do amor do Pai para conosco, e que frequentemente nos repete, acrescenta também isso: a morte do Filho. Não somente, disse, te justificou e glorificou e tornou-te conforme à sua imagem, mas não poupou nem mesmo o seu Filho por ti. Portanto: _Ele que não poupou o próprio_ _Filho, mas o entregou por todos nós, como não nos dará_ _todas as coisas junto com ele?_ (Rm 8,32). Como poderia abandonar-nos se não poupou o seu Filho, mas o deu por todos nós? Pensa, que grande bondade foi aquela, para não poupar o seu Filho, mas o entregar à morte e entregá-lo por todos: pelos vis, pelos ingratos, pelos inimigos, pelos blasfemadores. _Como não nos dará todas as coisas junto_ _com ele?_ (Rm.8,32).
+Ou seja: se ele nos deu o seu Filho, não somente isso, mas se também o deu até à morte por nós, do que temes tu por todo o resto, depois de ter recebido o Senhor? Como podes duvidar dos outros bens se possuis o Senhor de todos os bens?
+
+@secao Responsório | Jo 6,57; cf. Si 15,3
+
+@responsorio
+R. Como o Pai, que tem a vida,
+enviou-me e eu vivo pelo Pai,
+* Assim também aquele que come a minha carne viverá por mim.
+V. O Senhor o nutrirá com o pão da vida e da inteligência: * Assim também.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

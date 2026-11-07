@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/27sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {7,22-36}
+
+@tema
+Deveres para com os filhos, os pais, os sacerdotes e os pobres
+
+@texto
+[22] Tens animais? Cuida deles; se te servem, conserva-os. [23] Tens filhos? Educa-os, e desde a infância faze-os dobrar o pescoço. Tens filhas? Cuida dos seus corpos e a elas não mostres face indulgente. [25] Casa a tua filha e terás concluído uma grande tarefa, mas entrega-a a homem sensato. [26] Tens mulher segundo o teu coração? Não a repudies; contudo, se não a amas, nela não confieis. [27] Honra teu pai de todo o coração e não esqueças as dores de tua mãe. [28] Lembra-te de que foste gerado por eles. O que lhes darás pelo que te deram? [29] De todo o teu coração teme ao Senhor e venera os seus sacerdotes. [30] Com todas as tuas forças ama o que te criou, e não abandones os seus ministros. [31] Teme ao Senhor e honra o sacerdote e dá-lhe a sua parte, como é prescrito: primícias, sacrifício de reparação, a oferenda das espáduas, o sacrifício de santificação e as primícias da coisas santas. [32] Estende tua mão ao pobre para que tua bênção seja perfeita. [33] Que tua generosidade atinja todos os viventes, mesmo aos mortos não recuses a tua piedade. [34] Não fujas dos que choram, aproxima-te dos que estão aflitos. [35] Não temas visitar doentes, porque serás amado por isso. [36] Em tudo o que fazes, lembra-te de teu fim e jamais pecarás.
+
+@secao Responsório | Eclo 7,29.32; Rm 12.15.13
+
+@responsorio
+R. De todo o coração teme ao Senhor
+e venera os seus sacerdotes.
+* Estende tua mão ao pobre
+para que tua bênção seja perfeita.
+V. Alegrai-vos com os que se alegram,
+chorai com os que choram,
+tomando parte nas necessidades dos santos.
+* Estende.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado “sobre o Batismo”, atribuído a São Basílio Magno, bispo
+{(Séc. IV)} {( Liv.1,1-2)}
+
+@tema
+Se permanecerdes fiéis à minha Palavra, sereis verdadeiramente meus discípulos
+
+@texto
+Nosso Senhor Jesus Cristo, Filho unigênito do Deus vivente, recebeu depois da sua ressurreição dos mortos a promessa de Deus Pai pela boca do profeta Davi: _Tu és o_ _meu filho, eu hoje te gerei. Pede-me, e eu te darei a posse_ _das nações e o domínio dos confins da terra_ (Sl 2,7-8). Tomou então consigo os seus discípulos, e pela primeira vez revelou-lhes o poder a Ele concedido pelo Pai com estas palavras: _Todo o poder me foi dado no céu e na terra_ (Mt 28,18). Depois, por sua vez, enviou-os dizendo: _Ide portanto e ensinai a todas as nações, batizando-as em_ _nome do Pai, do Filho e do Espírito Santo, ensinando-as a_ _observar tudo o que vos ordenei_ (Mt 28,19-20). O Senhor ordena, antes de tudo: “Ensinai todas as nações” e depois acrescenta: “batizando-as” com aquilo que segue; porém, vós, omitida a primeira parte, nos pedistes que explicássemos a segunda, e, se não vos respondêssemos de imediato, correríamos o risco de agir contra o preceito do Apóstolo que diz estar _sempre prontos a responder a quem vos pedir a razão da esperança que há em vós_ (1Pd 3,15). Por isso expusemos a doutrina do batismo segundo o evangelho do Senhor, batismo verdadeiramente mais sublime que o de João, mas de maneira a apresentar somente poucos argumentos dos muitos que se possam encontrar na Sagrada Escritura. Todavia, achamos necessário referir-nos à ordem do Senhor, de maneira que vós sejais antes de tudo instruídos sobre o poder e o significado desta expressão: “Ensinai” e num segundo momento recebais a doutrina do gloriosíssimo Batismo. Chegareis, assim, à perfeição, aprendendo a observar tudo o que o Senhor ordenou, como está escrito. Neste ponto, portanto, o escutamos dizer: “Ensinai”. Mas então é preciso recordar o que diz em outro lugar a respeito deste mandamento; assim, tendo primeiramente descoberto uma forma agradável a Deus, e observando, pois, a ordem correspondente e indispensável, não nos distanciaremos do significado deste preceito, segundo o propósito de agradar a Deus. O Senhor é solícito em explicar claramente aquilo que num texto foi ensinado de relance, servindo-se de argumentos usados em outras passagens. Tal é o caso do conselho: “Acumulai para vós tesouros no céu” (Mt 6,20). De fato, depois de haver acenado aqui simplesmente aquilo que se deve fazer, num outro texto ele explica como fazer, dizendo: _Vendei o que tendes e dai-o em esmolas, fazei_ _bolsas que não envelhecem, um tesouro inesgotável nos_ _céus_ (Lc12,33). Portanto, como aprendemos do próprio Senhor, é seu discípulo aquele que se aproxima dele para segui-lo, ou seja, para escutar as suas palavras, crer nele e obedecer-lhe como um Senhor, rei, médico e mestre de verdade, pela esperança da vida eterna; para que este persevere em tudo isso, como está escrito: _Jesus então disse aos judeus que_ _haviam acreditado nele: Se permanecerdes fiéis à minha_ _Palavra, sereis verdadeiramente meus discípulos; conhe__cereis a verdade, e a verdade vos tornará livres_ (Jo 8,31- 32).
+
+@secao Responsório | Sl 118(119),104,105; Jo 6,68
+
+@responsorio
+R. Dos teus decretos recebo sabedoria,
+por isso odeio todo caminho da mentira.
+* Lâmpada para os meus passos é a tua Palavra,
+luz para o meu caminho.
+V. Senhor, a quem iremos?
+Tu tens palavras de vida eterna.
+* Lâmpada para.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, que nos concedeis no vosso imenso amor de Pai mais do que merecemos e pedimos, derramai sobre nós a vossa misericórdia, perdoando o que nos pesa na consciência e dando-nos mais do que ousamos pedir. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

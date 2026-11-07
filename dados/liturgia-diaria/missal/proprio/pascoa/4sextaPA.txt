@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/4sextaPA.htm
+
+@secao Antífona da entrada | Cf. Ap 5,9-10
+@texto
+Vós nos redimistes, Senhor, pelo vosso sangue,
+de todas as raças, línguas, povos e nações,
+e fizestes de nós um reino e sacerdotes
+para nosso Deus, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, autor da nossa liberdade e da nossa salvação,
+ouvi os que vos suplicam
+e concedei aos redimidos pela efusão do sangue do vosso Filho
+viver por vós e alegrar-se com a vossa constante proteção.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+aceitai compassivo as oferendas da vossa família
+e concedei que, sob o auxílio de vossa proteção,
+não percamos os dons que nos destes
+e alcancemos os bens eternos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Rm 4,25
+@texto
+O Cristo Senhor foi entregue por causa de nossos pecados
+e foi ressuscitado para nossa justificação, aleluia.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor:
+guardai em vosso constante amor os que salvastes,
+para que, redimidos pela paixão do vosso Filho,
+se alegrem com a sua ressurreição.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojoaocrisostomo.htm
+
+@secao Antífona da entrada | Cf. Dn 12,3
+@texto
+Os sábios brilharão como o esplendor do firmamento;
+e os que ensinam a justiça para muitos
+brilharão como as estrelas para sempre.
+
+@secao Coleta
+@texto
+Ó Deus, força dos que esperam em vós,
+quisestes que o bispo São João Crisóstomo brilhasse
+por sua admirável eloquência e coragem nas tribulações;
+concedei que, instruídos por seus ensinamentos,
+sejamos fortalecidos pelo exemplo de sua invencível constância.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, possa agradar-vos
+o sacrifício oferecido com alegria
+na comemoração de São João Crisóstomo;
+fazei que, por sua exortação, também nós
+nos entreguemos totalmente ao vosso louvor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 1Cor 1,23-24
+@texto
+Nós anunciamos Cristo crucificado,
+poder e sabedoria de Deus.
+
+@secao Depois da comunhão
+@texto
+Ó Deus de misericórdia,
+concedei que os mistérios recebidos
+na comemoração de São João Crisóstomo
+nos confirmem em vossa caridade
+e nos tornem fiéis testemunhas da vossa verdade.
+Por Cristo, nosso Senhor.

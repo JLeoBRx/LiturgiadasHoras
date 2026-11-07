@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_Ivesperas.htm
+@documento I Vésperas - Natividade de São João Batista
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Doce, sonoro, ressoe o canto,
+minha garganta faça o pregão.
+Solta-me a língua, lava-me a culpa,
+ó São João!
+
+Anjo no templo, do céu descendo,
+teu nascimento ao pai comunica,
+de tua vida preclara fala,
+teu nome explica.
+
+Súbito mudo teu pai se torna,
+pois da promessa, incréu, duvida:
+apenas nasces, renascer fazes
+a voz perdida.
+
+Da mãe no seio, calado ainda,
+o Rei pressentes num outro vulto.
+E à mãe revelas o alto mistério
+do Deus oculto.
+
+Louvor ao Pai, ao Filho unigênito,
+e a vós, Espírito, honra também:
+dos dois provindes, com eles sois
+um Deus. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Isabel deu à luz um grande homem:
+João Batista, o precursor do Salvador.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Isabel deu à luz um grande homem:
+João Batista, o precursor do Salvador.
+
+@antifona 2
+Do ventre de uma estéril anciã
+nasceu João, o Precursor de Jesus Cristo.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Do ventre de uma estéril anciã
+nasceu João, o Precursor de Jesus Cristo.
+
+@antifona 3
+Entre aqueles que nasceram de mulher
+não surgiu ninguém maior que João Batista.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Entre aqueles que nasceram de mulher
+não surgiu ninguém maior que João Batista.
+
+@secao Leitura breve | At 13,22-25
+
+@texto
+Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. Estando para terminar sua missão, João declarou: Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias.
+
+@secao Responsório breve
+
+@responsorio
+R. Preparai o caminho do Senhor,
+* As estradas de Deus endireitai! R. Preparai.
+V. Aquele que vem depois de mim, bem antes de mim já existia. * As estradas.
+Glória ao Pai. R. Preparai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Entrou Zacarias no templo de Deus,
+e o anjo Gabriel apareceu-lhe
+à direita do altar do incenso.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Entrou Zacarias no templo de Deus,
+e o anjo Gabriel apareceu-lhe
+à direita do altar do incenso.
+
+@secao Preces
+
+@preces
+João Batista foi escolhido por Deus para anunciar à humanidade a chegada do reino de Cristo. Por isso, oremos com alegria, dizendo:
+
+R. **Dirigi, Senhor, os nossos passos no caminho da paz!**
+
+Vós, que chamastes João Batista desde o ventre materno para preparar os caminhos de vosso Filho,
+– chamai-nos para seguir o Senhor com a mesma fidelidade com que João o precedeu. R.
+
+Assim como destes a João Batista a graça de reconhecer o Cordeiro de Deus, fazei que vossa Igreja também o anuncie,
+– e que os homens e as mulheres do nosso tempo o reconheçam. R.
+
+Vós, que inspirastes a vosso profeta ser necessário ele diminuir para que Cristo crescesse,
+– ensinai-nos a ceder lugar aos outros, para que vossa presença se manifeste em cada um de nós. R.
+
+Vós, que quisestes proclamar a justiça mediante o martírio de João,
+– tornai-nos testemunhas incansáveis da vossa verdade. R.
+
+{(intenções livres)}
+
+Lembrai-vos de todos aqueles que já partiram desta vida,
+– recebei-os no reino da luz e da paz. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+(oração do dia na Missa da Vigília, conforme a edição típica) Concedei, Deus todo-poderoso, que a vossa família siga pelo caminho da salvação, e, atenta às exortações de São João Batista, chegue ao Redentor que ele anunciou. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,88 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quarta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, vós sois bendito para sempre:
+os vossos mandamentos ensinai-me!
+
+@salmo salmos/salmo-118-9-16-ii-beth-v3
+
+@gloria
+
+@antifona
+Ó Senhor, vós sois bendito para sempre:
+os vossos mandamentos ensinai-me!
+
+@antifona 2
+Firmai os meus passos em vossos caminhos.
+
+@salmo salmos/salmo-016-i
+
+@gloria
+
+@antifona
+Firmai os meus passos em vossos
+caminhos.
+
+@antifona 3
+Levantai-vos, ó Senhor, e salvai a minha vida!
+
+@salmo salmos/salmo-016-ii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e salvai a minha vida!
+
+@secao Leitura breve | Tg 4,7-8a.10
+
+@texto
+Obedecei a Deus, mas resisti ao diabo, e ele fugirá de vós. Aproximai-vos de Deus, e ele se aproximará de vós. Humilhai-vos diante do Senhor, e ele vos exaltará.
+
+@texto
+V. O Senhor pousa o olhar sobre os que o temem,
+R. E que confiam, esperando, em seu amor.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que para salvar o gênero humano estendestes vossos braços na cruz, concedei que nossas ações vos agradem e manifestem ao mundo vossa obra redentora. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

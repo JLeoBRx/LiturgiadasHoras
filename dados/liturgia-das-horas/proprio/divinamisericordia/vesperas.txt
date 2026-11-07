@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/divinamisericordia_vesperas.htm
+@documento Vésperas - Domingo da Divina Misericórdia
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Ant.1 Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Ant.1 Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@antifona 2
+Vinde ver o lugar onde estava o Senhor
+no sepulcro. Aleluia.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Vinde ver o lugar onde estava o Senhor
+no sepulcro. Aleluia.
+
+@antifona 3
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galileia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galileia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@secao Leitura breve | Hb 10,12-14
+
+@texto
+Cristo, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Acreditaste, Tomé, porque me viste.
+Felizes os que creem sem ter visto. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Acreditaste, Tomé, porque me viste.
+Felizes os que creem sem ter visto. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Deus Pai, que ressuscitou Jesus Cristo e o exaltou à sua direita; e peçamos humildemente:
+
+R. **Protegei o vosso povo, Senhor, pela glória de Cristo!**
+
+Pai santo, que pela vitória da cruz glorificastes Jesus sobre a terra,
+– atraí para ele todas as coisas. R.
+
+Por vosso Filho glorificado, enviai, Senhor, sobre a Igreja o Espírito Santo,
+– para que ela seja sinal de unidade para todo o gênero humano. R.
+
+Conservai na fé do seu batismo a vossa família, que fizestes renascer pela água e pelo Espírito Santo,
+– para que alcance a vida eterna. R.
+
+Por vosso Filho glorificado, dai alegria aos infelizes, libertai os prisioneiros, curai os doentes,
+– e estendei à humanidade inteira os benefícios da vossa redenção. R.
+
+{(intenções livres)}
+
+Aos nossos irmãos e irmãs falecidos, que receberam na terra o Corpo e o Sangue de Cristo,
+– dai-lhes a glória da ressurreição no último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de eterna misericórdia, que reacendeis a fé do vosso povo na renovação da festa pascal, aumentai a graça que nos destes. E fazei que compreendamos melhor o Batismo que nos lavou, o Espírito que nos deu vida nova, e o Sangue que nos remiu. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

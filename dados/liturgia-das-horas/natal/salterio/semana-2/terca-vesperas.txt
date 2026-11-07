@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2terca_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+. Não podeis servir a Deus e ao dinheiro.
+
+@salmo salmos/salmo-048-i
+
+@gloria
+
+@antifona
+Não podeis servir a Deus e ao dinheiro.
+
+@antifona 2
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@salmo salmos/salmo-048-ii
+
+@gloria
+
+@antifona
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@antifona 3
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!

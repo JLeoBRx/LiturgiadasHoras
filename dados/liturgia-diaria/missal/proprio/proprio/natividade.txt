@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/natividade.htm
+
+@secao Antífona da entrada
+@texto
+Celebremos com júbilo
+o nascimento da Santa Virgem Maria,
+da qual nasceu o Sol da justiça, Cristo, nosso Deus.
+
+@secao Coleta
+@texto
+Abri, Senhor, os tesouros da graça celeste
+para os vossos servos e servas
+e, assim como a maternidade de Maria
+foi a aurora da salvação,
+a festa do seu nascimento
+nos conceda o aumento da paz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Socorra-nos, ó Pai,
+a humanidade do vosso Unigênito
+que, ao nascer da Virgem, não diminuiu,
+mas consagrou a integridade da Mãe.
+Fazei que ele, apagando os nossos pecados,
+vos torne aceitável a nossa oferenda.
+Por Cristo, nosso Senhor.
+{Ou:}
+Celebrando com júbilo
+o nascimento da Santíssima Virgem Maria,
+apresentamos, Senhor, os nossos dons
+e humildemente vos suplicamos:
+socorra-nos a humanidade do vosso Filho
+que se dignou assumir da Virgem a nossa natureza humana.
+Ele que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Cf. Is 7,14; Mt 1,21
+@texto
+A Virgem dará à luz um filho,
+que salvará o seu povo dos seus pecados.
+
+@secao Depois da comunhão
+@texto
+Exulte, Senhor, a vossa Igreja
+que renovastes com os sagrados mistérios,
+pois nos alegramos
+pelo nascimento da Santíssima Virgem Maria,
+que foi para o mundo inteiro
+esperança e aurora da salvação.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quarta_aposepifania_leituras.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Vendo os Magos a Criança,
+vão abrindo seus tesouros
+e lhe fazem oferendas
+de incenso, mirra e ouro.
+
+Ó Menino, nos presentes,
+pelo Pai determinados,
+reconheces sinais claros
+do poder do teu Reinado.
+
+Para o Rei é dado o ouro,
+para Deus, o incenso puro.
+Mas a mirra prenuncia
+do sepulcro o pó escuro.
+
+Ó Belém, cidade única
+entre todas as nações,
+tu geraste, feito homem,
+o Autor da salvação!
+
+Como provam os profetas,
+Deus, o Pai que nos criou,
+enviou Jesus ao mundo,
+Juiz e Rei o consagrou.
+
+O seu reino abrange tudo:
+Oriente e Ocidente,
+dia e noite, terra e mares,
+fundo abismo e céu fulgente.
+
+Glória a vós, ó Jesus Cristo,
+que às nações vos revelais,
+com o Pai e o Santo Espírito
+pelos séculos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@salmo salmos/salmo-038-i
+
+@gloria
+
+@antifona
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@antifona 2
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@salmo salmos/salmo-038-ii
+
+@gloria
+
+@antifona
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@antifona 3
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@salmo salmos/salmo-051
+
+@gloria
+
+@antifona
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@texto
+V. O Senhor vai ensinar-nos seus caminhos.
+R. E andaremos pela estrada de seus passos.

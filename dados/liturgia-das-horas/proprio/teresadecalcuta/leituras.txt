@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/teresadecalcuta.htm
+@documento Ofício das Leituras - Até O Presente Momento A Santa Sé Ainda Não Aprovou Os Textos Em Português Do Brasil Para A Celebração Santa Teresa De Calcutá Na Liturgia Das Horas. Assim, Os Textos Específicos Aqui Adotados São De Livre Tradução Do Original Em Latim. Santa Teresa De Calcutá, Virgem
+
+@celebracao
+Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração Santa Teresa de Calcutá na Liturgia das Horas. Assim, os textos específicos aqui adotados são de livre tradução do original em latim.
+
+@biografia
+Agnes Gonxha Bojaxhiu, nascida na capital da atual Macedônia do Norte em 26 de agosto de 1910, por causa de sua vocação missionária, ingressou na Congregação das Irmãs de Loreto em 1929, antes de ser enviada à Índia. No dia 10 de setembro de 1946, fez o voto de servir ao Senhor nos mais pobres, de modo que, passados dois anos, dedicou-se à obra do apostolado entre o povo e as camadas mais humildes, fundando as Congregações das Missionárias e dos Missionários da Caridade. Aceitando serenamente a dor da escuridão interior, manifestou de modo admirável a vitória da luz de Cristo, até que, no dia 5 de setembro de 1997, entregou-se confiantemente ao descanso eterno em Calcutá.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O mais suave dos hinos
+entoe o povo de Deus,
+pois eis que hoje uma virgem
+subiu à glória dos céus.
+
+No exílio ainda da terra,
+já se entregava ao louvor;
+agora, junta-se aos santos
+nos mesmos hinos de amor.
+
+A frágil carne domando,
+rosa entre espinhos floriu;
+calcando as pompas do mundo,
+do Cristo os passos seguiu.
+
+As suas preces ouvindo,
+Jesus nos dê sua mão,
+sempre a guiar nossos passos
+para a celeste mansão.
+
+Ao Pai e ao Espírito unido,
+nós te adoramos, Jesus:
+caminho estreito e seguro
+que à vida eterna conduz.
+
+@secao Salmodia
+
+@antifona 1
+Virgem sábia e vigilante, já brilhais na eterna glória
+com Jesus, o eterno Verbo, vosso Esposo imaculado.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+
+@antifona 2
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Todo o amor eu consagrei a Jesus Cristo, meu Senhor;
+e o preferi aos bens do mundo e à glória desta terra.
+
+@antifona 3
+O Rei se encantou com a vossa beleza;
+prestai-lhe homenagem: é o vosso Senhor!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+O Rei se encantou com a
+
+@texto
+V. O caminho da vida me ensinais.
+R. Delícia eterna e alegria ao vosso lado.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {7,25-40}
+
+@tema
+A virgindade cristã
+
+@texto
+Irmãos: [25] A respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas,como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: [26] Penso que,em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. [27] Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Nãoprocures ligar-te. [28] Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas aspessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. [29] Eudigo, irmãos: o tempo está abreviado. Então, que, doravante,os que têm mulher vivam como senão tivessem mulher; [30] e os que choram, como se não choras em, e os que estão alegres, comose não estivessem alegres, e os que fazem compras, como se não possuíssem adquirindo coisaalguma; [31] e os que usam do mundo, como se dele não estivessem gozando. Pois a figura destemundo passa. [32] Eu gostaria que estivésseis livres de preocupações. O homem não casado ésolícito pelas coisas do Senhor e procura agradar ao Senhor. [33] O casado preocupa-se com ascoisas do mundo e procura agradar à sua mulher [34] e, assim, está dividido. Do mesmo modo, amulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito. Mas a que se casou preocupa-se com as coisas do mundo e procura agradar aoseu marido. [35] Digo isto para o vosso próprio bem e não para vos armar um laço. O que eudesejo é levar-vos ao que é melhor, permanecendo junto ao Senhor, sem outras preocupações. [36] Se alguém, transbordando de paixão, acha que não vai poder respeitar sua noiva, e que ascoisas devem seguir o seu curso, faça o que quiser; não peca; que se casem. [37] Quem, aocontrário, por uma firme convicção, sem constrangimento, mas por livre vontade, resolverespeitar a sua noiva, fará bem. [38] Portanto, quem se casa com sua noiva faz bem, e quem não secasa procede melhor. [39] A mulher está ligada ao marido enquanto ele vive; uma vez que o marido faleça, ela fica livrede casar com quem quiser, mas só no Senhor. [40] Mais feliz será ela se permanecer assim,conforme meu conselho. Pois também creio ter o Espírito de Deus.
+
+@secao Responsório
+
+@responsorio
+R. O Rei se encantou com a tua beleza, que ele criou;
+* É teu Deus, é teu Rei, teu Senhor, teu Esposo.
+V. Recebeste o dote de Deus, teu Esposo:
+redenção, santidade, enfeites e joias. * É o teu Deus.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de Santa Hildegarda, virgem e doutora da Igreja
+{(Séc. XX)} {(Da última carta de Madre Teresa, M.C., às Irmãs Missionárias da Caridade, datada de 5 de setembro de 1997)}
+
+@tema
+Se a minha escuridão for luz para alguma alma
+
+@texto
+Minhas queridíssimas filhas, Isto traz-lhes o amor, a oração e a benção da Madre, para que cada uma de vocês seja inteiramente só para Jesus através de Maria. Eu sei que a Madre diz frequentemente – “Pertençam inteiramente só a Jesus através de Maria” - mas é porque isso é tudo o que a Madre quer para vocês, tudo o que a Madre quer de vocês. Se nos seus corações vocês forem inteiramente só para Jesus através de Maria, e se vocês fizerem tudo completamente só por Jesus através de Maria, serão verdadeiras Missionárias da Caridade.
+Obrigada por todos os desejos amorosos que enviaram para a festa da Congregação. Nós temos muito para agradecer a Deus, especialmente porque nos deu o espírito de Nossa Senhora para ser o espírito de nossa Congregação. A Confiança Amorosa e a Total Submissão fizeram Nossa Senhora dizer “Sim” à mensagem do anjo, e a alegria fez com que ela corresse apressada a servir a sua prima Isabel. Isso é a nossa vida: dizer “Sim” a Jesus e correr apressadas a servi-Lo nos mais pobres dos pobres. Mantenhamo- nos perto de Nossa Senhora e ela fará crescer o mesmo espírito em cada uma de nós.
+O 10 de setembro está muito próximo. É mais uma bela oportunidade para estarmos perto de Nossa Senhora, para escutar a sede de Jesus e responder com todo o nosso coração. É apenas com Nossa Senhora que podemos ouvir Jesus gritar, “Tenho Sede”, e é apenas com Nossa Senhora que podemos agradecer adequadamente a Deus por ter dado este grande dom à nossa Congregação. No ano passado foi o Jubileu de Ouro do Dia da Inspiração, e eu espero que o ano inteiro tenha sido de ação de graças. Nunca chegaremos ao final do dom dado à Madre para a Congregação naquele dia; e por isso nunca devemos deixar de agradecê-lo. Que a nossa gratidão seja a nossa firme resolução de saciar a sede de Jesus através de vidas de verdadeira caridade – amor a Jesus na oração, amor a Jesus nas nossas irmãs, amor a Jesus nos mais pobres dos pobres – mais nada.
+Acabo de ouvir que Jesus nos vai dar outro presente. Este ano, cem anos após a Pequena Flor ter voltado para casa, para Jesus, o Santo Padre vai declará-la Doutora da Igreja. Imaginam?! – por fazer pequenas coisas com grande amor, a Igreja declara-a Doutora, com Santo Agostinho e a grande Santa Teresa!. È como Jesus disse no Evangelho ao que estava sentado no lugar mais baixo, “Amigo, vem mais para cima”. Mantenhamo-nos bem pequenas e sigamos o caminho de confiança, amor e alegria da pequena flor, e cumpriremos assim a promessa da Madre de dar santos à Mãe Igreja.
+
+@secao Responsório | Dn 2,21-22; 1Cor 12,11
+
+@responsorio
+R. O Senhor dá a sabedoria aos sábios e a ciência aos inteligentes.
+* O Senhor revela os mistérios profundos e ocultos,
+e com Ele habita a luz.
+V. O mesmo e único Espírito realiza tudo isto,
+distribuindo os seus dons a cada um, conforme entende.
+* O Senhor revela.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte da vida, que impregnastes a virgem Santa Hildegarda com o espírito de profecia, concedei-nos, por seu exemplo e intercessão, conhecer os vossos caminhos e contemplar, entre as trevas do mundo, o fulgor da vossa luz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

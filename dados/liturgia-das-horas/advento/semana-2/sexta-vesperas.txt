@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sexta_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@antifona 2
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@antifona 3
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@secao Leitura breve | 2Pd 3,8b-9
+
+@texto
+Para o Senhor, um dia é como mil anos e mil anos como um dia. O senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora. Ele está usando de paciência para convosco. Pois não deseja que alguém se perca. Ao contrário, quer que todos venham a converter-se.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Sua glória habitará em nossa terra. * Nele se alegra.
+Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Com alegria bebereis das águas abundantes
+do manancial do Salvador.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Com alegria bebereis das águas abundantes
+do manancial do Salvador.
+
+@secao Preces
+
+@preces
+Roguemos, irmãos e irmãs, a Cristo nosso Redentor, que veio à terra para anunciar a Boa-nova aos pobres; e lhe digamos com fervor:
+
+R. **Manifestai, Senhor, a todos a vossa glória!**
+
+Manifestais-vos, Senhor, a todos que ainda não vos conhecem,
+– para que também eles vejam vossa salvação. R.
+
+Seja o vosso nome anunciado até os confins da terra,
+– para que todos encontrem vosso caminho. R.
+
+Vós, que viestes, a primeira vez, para remir o mundo de seus pecados,
+– vinde novamente para que não se percam os que creêm em vós. R.
+
+Conservai e protegei, com poder da vossa graça,
+– a liberdade que nos destes com a vossa redenção. R.
+
+{(intenções livres)}
+
+Vós, que viestes do céu à terra para nascer segundo a carne, e de novo haveis de vir para julgar os vivos e os mortos,
+– dai aos defuntos a recompensa eterna, quando vierdes no último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus onipotente, dai ao vosso povo esperar vigilante a chegadado vosso Filho, para que, instruídos pelo próprio Salvador, corramos ao seu encontro com nossas lâmpadas acesas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

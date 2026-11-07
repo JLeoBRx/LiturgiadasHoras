@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/setesantos_terca.htm
+@documento Hora Média - Os sete Santos Fundadores da Ordem dos Servos de Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Quem observa a Lei de Cristo é perfeito em seu amor.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+O que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. Deus dirige os humildes na justiça.
+R. E aos pobres ele ensina o seu caminho.
+
+@secao Oração
+
+@oracao
+Inspirai-nos, ó Deus, a profunda piedade dos Fundadores dos Servitas, que se distinguiram pela devoção à Virgem Maria e a vós conduziram o vosso povo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

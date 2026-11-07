@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoandre_sexta.htm
+@documento Hora Média - Santo André, Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+
+E paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@secao Salmodia
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@secao Leitura breve | At 5,12a.14
+
+@texto
+Muitos sinais e maravilhas eram realizados entre o povo pelas mãos dos apóstolos. Crescia sempre mais o número dos que aderiam ao Senhor pela fé; era uma multidão de homens e mulheres.
+
+@texto
+V. Eles guardavam os preceitos,
+R. E as ordens do Senhor.
+
+@secao Oração
+
+@oracao
+Nós vos suplicamos, ó Deus onipotente, que o apóstolo santo André, pregador do Evangelho e pastor da vossa Igreja, não cesse no céu de interceder por nós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

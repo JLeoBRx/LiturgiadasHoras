@@ -1,0 +1,106 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2segundapascoa_completas.htm
+@documento Completas - Segunda-feira da 2ª Semana da Páscoa
+
+@titulo COMPLETAS / SEGUNDA-FEIRA
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@rubrica
+Depois, recomenda-se o , que na celebração comunitária pode ser inserido num Ato penitencial semelhante às fórmulas usadas na Missa.
+
+@secao Hino
+
+@hino
+Agora que o clarão da luz se apaga,
+a vós nós imploramos, Criador:
+com vossa paternal misericórdia,
+guardai-nos sob a luz do vosso amor.
+
+Os nossos corações sonhem convosco:
+no sono, possam eles vos sentir.
+Cantemos novamente a vossa glória
+ao brilho da manhã que vai surgir.
+
+Saúde concedei-nos nesta vida,
+as nossas energias renovai;
+da noite a pavorosa escuridão
+com vossa claridade iluminai.
+
+Ó Pai, prestai ouvido às nossas preces,
+ouvi-nos por Jesus, nosso Senhor,
+que reina para sempre em vossa glória,
+convosco e o Espírito de Amor.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | 1Ts 5,9-10
+
+@texto
+Deus não nos destinou para a ira, mas para alcançarmos a salvação, por meio de nosso Senhor Jesus Cristo. Ele morreu por nós, para que, quer vigiando nesta vida, quer adormecidos na morte, alcancemos a vida junto dele.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, em vossas mãos eu entrego o meu espírito.
+* Aleluia, aleluia. R. Senhor.
+V. Vós sois o Deus fiel, que salvastes vosso povo.
+* Aleluia, aleluia. Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico,
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz! Aleluia.
+
+@secao Cântico de Simeão Lc 2,29-32
+
+@salmo canticos/nunc-dimittis
+
+@gloria
+
+@antifona
+Salvai-nos, Senhor, quando velamos,
+guardai-nos também quando dormimos!
+Nossa mente vigie com o Cristo,
+nosso corpo repouse em sua paz! Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, Senhor, aos nossos corpos um sono restaurador, e fazei germinar para a messe eterna as sementes do Reino, que hoje lançamos com nosso trabalho. Por Cristo, nosso Senhor. Amém.
+
+@texto
+O Senhor todo-poderoso nos conceda uma noite tranquila
+e, no fim da vida, uma morte santa.
+R. Amém.
+
+@secao Antífona final de Nossa Senhora
+
+@texto
+Salve, Rainha, Mãe de misericórdia,
+vida doçura, esperança nossa, Salve!
+A vós bradamos os degredados filhos de Eva,
+a vós suspiramos gemendo e chorando
+neste vale de lágrimas!
+Eia, pois, Advogada nossa,
+esses vossos olhos misericordiosos a nós volvei,
+e depois deste desterro mostrai-nos Jesus,
+bendito fruto do vosso ventre!
+Ó clemente, ó piedosa,
+ó doce sempre Virgem Maria.

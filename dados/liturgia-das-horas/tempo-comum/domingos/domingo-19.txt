@@ -1,0 +1,48 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 19º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Despedida a multidão, Jesus subiu ao monte,
+a fim de lá rezar sozinho na montanha;
+e caindo, já, a tarde, lá estava ele, só.
+
+@antifona vesperas-i-B
+Ninguém poderá vir até mim
+se meu Pai, que me enviou, não o atrair;
+e eu o ressuscitarei no último dia.
+
+@antifona vesperas-i-C
+Onde está o teu tesouro, ali está teu coração.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Jesus disse aos discípulos que estavam apavorados:
+Coragem, confiai! Sou eu, não tenhais medo!
+
+@antifona laudes-B
+Em verdade eu vos digo: Quem tem fé em mim,
+tem a vida eterna, aleluia.
+
+@antifona laudes-C
+Felizes os servos que o Senhor, ao voltar,
+encontrar vigilantes.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Senhor, mandai-me ao vosso encontro,
+caminhando sobre as águas.
+Estendeu Jesus a mão, segurou Pedro e lhe disse:
+Ó homem de fé fraca, por que tu duvidaste?
+
+@antifona vesperas-ii-B
+É este o pão vivo, descido dos céus,
+para que todo aquele que dele comer
+não morra para sempre.
+
+@antifona vesperas-ii-C
+Vossas cinturas estejam cingidas,
+tende acesas nas mãos vossas lâmpadas!

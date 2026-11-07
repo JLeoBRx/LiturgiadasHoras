@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/2quintaPascoa.htm
+@documento Ofício das Leituras - 2ª Semana Da Páscoa - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fostes vós que nos salvastes, ó Senhor! Para sempre louvaremos vosso nome. Aleluia.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Fostes vós que nos salvastes, ó Senhor! Para sempre louvaremos vosso nome. Aleluia.
+
+@antifona 2
+Perdoai, ó Senhor, o vosso povo, não entregueis à vergonha a vossa herança!
+
+@salmo salmos/salmo-043-ii-v4
+
+@gloria
+
+@antifona
+Perdoai, ó Senhor, o vosso povo, não entregueis à vergonha a vossa herança!
+
+@antifona 3
+Levantai-vos, ó Senhor, e socorrei-nos, libertai-nos pela vossa compaixão! Aleluia.
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão! Aleluia.
+
+@texto
+V. Deus, o Pai que a Jesus, nosso Senhor, ressuscitou, aleluia,
+R. Nos fará também a nós ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {3,1-22}
+
+@tema
+Às Igrejas de Sardes, de Filadélfia e de Laodiceia
+
+@texto
+Eu, João, ouvi o Senhor que me dizia: [1] Escreve ao anjo da Igreja que está em Sardes: “Assim fala aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço a tua conduta. Tens fama de estar vivo, mas estás morto. [2] Acorda! Reaviva o que te resta, e que estava para se apagar! Pois não acho suficiente aos olhos do meu Deus aquilo que estás fazendo. [3] Lembra-te daquilo que tens aprendido e ouvido. Observa-o! Converte-te! Se não estiveres vigilante, eu virei como um ladrão, sem que tu saibas em que hora te vou surpreender! [4] Todavia, aí em Sardes existem algumas pessoas que não sujaram a roupa. Estas vão andar comigo, vestidas de branco, pois merecem isso. [5] O vencedor vestirá a roupa branca, e não apagarei o seu nome do livro da vida, mas o apresentarei diante de meu Pai e de seus anjos. [6] Quem tem ouvidos, ouça o que o Espírito diz às Igrejas”.
+[7] Escreve ao anjo da Igreja que está em Filadélfia: “Assim fala o Santo, o Verdadeiro, o que tem as chaves da casa de Davi, o que abre, sem que Ninguém possa fechar, e fecha, sem que ninguém possa abrir: [8] – Conheço a tua conduta. Eis que abri à tua frente uma porta e ninguém a poderá fechar. Pois a tua força é pequena, mas guardaste a minha palavra e não renegaste o meu nome. [9] Olha! Eu te entrego uma parte da sinagoga de Satanás, isto é, daqueles que se dizem judeus, mas na realidade não o são, pois são mentirosos. Vou fazer com que venham prostrar-se diante de teus pés, e reconhecerão, então, que tu tens o meu amor. [10] Porque guardaste a minha ordem de perseverar, também eu te vou guardar da hora da provação, que está para vir sobre todo o universo, para pôr à prova os habitantes da terra. [11] Eu venho logo! Guarda bem o que recebeste, para que ninguém roube a tua coroa. [12] Do vencedor vou fazer uma coluna no templo do meu Deus, e daí não sairá. Nela gravarei o nome do meu Deus, e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, de junto do meu Deus. E gravarei nela também o meu novo nome. [13] O que tem ouvidos, ouça o que o Espírito diz às Igrejas”. [14] Escreve ao anjo da Igreja que está em Laodiceia: “Assim fala o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus: [15] Conheço a tua conduta. Não és frio nem quente. Oxalá fosses frio ou quente! [16] Mas, porque és morno, nem frio nem quente, estou para vomitar-te de minha boca. [17] Tu dizes:“Sou rico e abastado e não careço de nada”, em vez de reconhecer que tu és infeliz, miserável, pobre, cego e nu! [18] Dou-te um conselho: compra de mim ouro purificado no fogo, para ficares rico, e vestes brancas, para vestires e não aparecer a tua nudez vergonhosa; e compra também um colírio para curar os teus olhos, para que enxergues. [19] Eu repreendo e educo os que eu amo. Esforça-te, pois, e converte-te. [20] Eis que estou à porta, e bato; se alguém ouvir minha voz e abrir a porta, eu entrarei na sua casa e tomaremos a refeição, eu com ele e ele comigo. [21] Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono. [22] Quem tem ouvidos, ouça o que o Espírito diz às Igrejas”.
+
+@secao Responsório | Ap 3,20b. 2,7b
+
+@responsorio
+R. Se alguém escutar minha voz
+e abrir para mim sua porta,
+* Entrarei e com ele cearei, e também ele comigo. Aleluia.
+V. Ao vencedor concederei comer da árvore da vida
+no paraíso do meu Deus. * Entrarei.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados de São Gaudêncio, bispo de Bréscia
+{(Séc.V)} {(Tract. 2: CSEL 68,30-32)}
+
+@tema
+O dom do Novo Testamento concedido como herança
+
+@texto
+O sacrifício celeste instituído por Cristo é verdadeiramente um dom do Novo Testamento concedido como herança; é o dom que ele nos deixou como garantia da sua presença, na noite em que foi entregue para ser crucificado. Este é o viático da nossa peregrinação. É o alimento que nos sustenta nos caminhos desta vida até o dia em que, partindo deste mundo, formos ao encontro do Senhor. Pois ele mesmo disse: _Se não comerdes a minha carne e não beberdes o meu sangue, não tereis a vida em vós_ (cf. Jo 6,53).
+Ele quis efetivamente com seus dons permanecer junto de nós; quis que as almas, remidas com o seu sangue precioso, se santificassem continuamente pelo memorial de sua Paixão. Por esse motivo, ordenou aos seus discípulos fiéis, constituídos como primeiros sacerdotes de sua Igreja, que sem cessar celebrassem estes mistérios da vida eterna. É necessário, portanto, que estes sacramentos sejam celebrados por todos os sacerdotes em cada Igreja do mundo inteiro, até que Cristo desça novamente dos céus. Deste modo, tanto os sacerdotes como todo o povo fiel, tendo diariamente ante os olhos o sacramento da Paixão de Cristo, tomando-o nas suas mãos e recebendo-o na boca e no coração, guardem indelével a memória de nossa redenção.
+Com razão se considera o pão como uma imagem inteligível do Corpo de Cristo. De fato, assim como para fazer o pão é necessário reunir muitos grãos de trigo, transformá-los em farinha, amassar a farinha com água e cozê-la ao fogo, assim também o Corpo de Cristo reúne a multidão de todo o gênero humano e o leva à perfeita unidade de um só corpo por meio do fogo do Espírito Santo. Cristo nasceu pelo poder do Espírito Santo. E porque convinha que nele se cumprisse toda a justiça, penetrou nas águas do batismo para santificá-las, e saiu do rio Jordão cheio do Espírito Santo que tinha descido sobre ele em forma de pomba. O evangelista dá testemunho disso dizendo: _Jesus, cheio do Espírito Santo, voltou do Jordão_ (Lc 4,1).
+Do mesmo modo, o vinho do seu sangue, proveniente de muitos cachos, quer dizer, feito das uvas da videira por ele plantada, espremido no lagar da cruz, fermenta por si mesmo em amplos recipientes que são os corações dos fiéis. Todos vós, pois, que fostes libertados do Egito e do poder do Faraó, isto é, do demônio, recebei com santa avidez de coração junto conosco, este sacrifício pascal portador de salvação. E assim, sejamos santificados até o mais íntimo de nosso ser por Jesus Cristo nosso Senhor, que cremos estar presente em seus sacramentos. Seu poder inestimável permanece por todos os séculos.
+
+@secao Responsório | Lc 22,19; Jo 6,58
+
+@responsorio
+R. Na Ceia derradeira Jesus tomou o pão,
+deu graças e o partiu, deu a eles e lhes disse:
+* Isto é o meu Corpo, entregue por vós.
+Fazei isto em memória de mim. Aleluia.
+V. É este o pão vivo descido dos céus;
+quem comer deste pão, viverá para sempre. * Isto é.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

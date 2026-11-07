@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/17sextaTC_par.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo 17a SEMANA DO TEMPO COMUM / SEXTA-FEIRA / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {40,1-14; 42,1-6}
+
+@tema
+Jó submete-se à grandeza de Deus
+
+@texto
+[40,1] O Senhor falou a Jó, e disse: [2] O adversário de Shaddai criticará? O censor de Deus responderá? [3] Jó respondeu ao Senhor: [4] Eis que falei levianamente: que poderei responder-te? Porei minha mão sobre a boca; [5] falei uma vez, não repetirei; duas vezes, nada mais acrescentarei. [6] O Senhor respondeu a Jó do meio da tempestade e disse: [7] Cinge teus rins como um herói: interrogar-te-ei, e tu me responderás. [8] Atreves-te a anular meu julgamento, ou a condenar-me, para ficares justificado? [9] Tens, então, um braço como o de Deus e podes trovejar com voz semelhante à sua, [10] reveste-te de glória e majestade, cobre-te de fausto e esplendor. [11] Derrama o ardor de tua ira e, com simples olhar, abate o arrogante. [12] Humilha com o olhar o soberbo e esmaga no chão os ímpios; [13] enterra-os todos juntos no pó e amarra-os cada qual na prisão. [14] Então também te louvarei, porque podes com tua direita garantir-te a salvação. [42,1] Jó respondeu ao Senhor: [2] Reconheço que tudo podes e que nenhum dos teus desígnios fica frustrado. [3] Quem é aquele que vela teus planos com propósitos sem sentido? Falei de coisas que não entendia, de maravilhas que me ultrapassam. [4] (Escuta-me, que vou falar; interrogar-te-ei e tu me responderás.) [5] Eu te conhecia só de ouvir, mas agora meus olhos te veem: [6] por isso, retrato-me e faço penitência no pó e na cinza.
+
+@secao Responsório Jó 42, 5-6; 40,5.4
+
+@responsorio
+R. Meus ouvidos tinham escutado falar de ti,
+mas agora meus olhos te viram.
+É por isso que me retrato,
+* Arrependo-me no pó e na cinza.
+V. Uma vez tenho falado, e não replicarei;
+ou ainda duas vezes, porém não prosseguirei.
+* Arrependo-me.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Tratados”, de Balduíno de Cantuária, bispo
+{(Séc. XII)} {(Tract. 6: PL 204,466-467)}
+
+@tema
+O Senhor é quem discerne os pensamentos e as intenções do coração
+
+@texto
+O Senhor conhece os pensamentos e as intenções de nosso coração. Quanto a si, conhece-os todos, sem dúvida alguma; quanto a nós, conhecemos aqueles que sua graça nos faz devidamente discernir. O espírito que há no homem não conhece tudo que existe no homem, e percebe a respeito de seus pensamentos quais os que deve ou não aceitar. Contudo, nem sempre julga conforme a realidade. O que vê pelos olhos da mente não o discerne com exatidão, por causa da fraqueza da vista.
+É frequente que, pela própria imaginação ou por outra pessoa ou pelo tentador, se apresente algo sob a aparência de piedade que, aos olhos de Deus, não merece o prêmio da virtude. Pois existem simulacros das verdadeiras virtudes e também dos vícios, que iludem os olhos do coração. Como por artifícios, de tal forma pressionam a penetração do espírito que muitas vezes lhe parece ver o bem onde não existe ou o mal onde não está. Faz isto parte de nossa miséria e ignorância, muito triste e muito de se lamentar e temer.
+Está escrito: _Caminhos há que parecem retos ao homem,_ _cujo fim leva ao inferno_. Para evitar esse perigo, São João nos adverte: _Provai os espíritos a ver se são de Deus_. Quem poderá provar se os espíritos são de Deus se não lhe for dado por Deus o discernimento deles, para que possa examinar com precisão e verdadeiro juízo os pensamentos, afetos e intenções espirituais? Na verdade a discrição é a mãe de todas as virtudes, necessária a cada um, seja para a orientação da vida de outros, seja para o governo e correção da sua. É reto o pensamento do que há a fazer se dirigido pela vontade de Deus, se a intenção é simplesmente dirigida para ele. Desta forma todo o corpo de nossa vida ou de qualquer ação nossa será luminoso, sendo simples os olhos. O olho simples é olho; e é simples porque pelo julgamento reto vê o que deve fazer e, pela intenção pura, age com simplicidade naquilo que nunca deveria fazer-se com duplicidade. O julgamento reto não admite o erro; a intenção pura exclui o fingimento. Este é o verdadeiro discernimento: a junção do reto juízo e da pura intenção.
+Tudo isto se há de fazer à luz da discrição, como em Deus e diante de Deus.
+
+@secao Responsório | Mq 6,8; Sl 36(37),3
+
+@responsorio
+R. Vou mostrar-te, ó homem,
+o que é bom e o que é que o Senhor pede de ti:
+* Que apenas pratiques a justiça, que ames o amor e a bondade
+e que diante de Deus sejas humilde.
+V. Confia no Senhor e faze o bem
+e sobre a terra habitarás em segurança.
+* Que apenas.
+
+@secao Oração
+
+@oracao
+Ó Deus, sois o amparo dos que em vós esperam e, sem vosso auxílio, ninguém é forte, ninguém é santo; redobrai de amor para conosco, para que, conduzidos por vós, usemos de tal modo os bens que passam, que possamos abraçar os que não passam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

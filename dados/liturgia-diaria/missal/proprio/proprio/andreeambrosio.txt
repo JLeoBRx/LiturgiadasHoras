@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/andreeambrosio.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada
+@texto
+Esses são os que vieram da grande tribulação.
+Lavaram e alvejaram as suas roupas no sangue do Cordeiro.
+
+@secao Coleta
+@texto
+Ó Deus, concedestes admirável constância no martírio
+aos Santos André e Ambrósio, presbíteros,
+Mateus Moreira e seus companheiros leigos;
+fazei que o seu testemunho de fé
+fortaleça as nossas comunidades
+e estimule a ação missionária de vossa Igreja.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Pai santo, aceitai as oferendas que vos apresentamos
+na comemoração dos Protomártires do Brasil,
+e a nós, vossos servos e servas,
+concedei a graça de permanecer firmes
+na confissão do vosso nome.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 12,24
+@texto
+Se o grão de trigo que cai na terra não morre,
+ele continua só um grão de trigo;
+mas se morre, então produz muito fruto.
+
+@secao Depois da comunhão
+@texto
+Recebemos, ó Deus, os dons celestes,
+alegrando-nos pela festa de hoje.
+Assim como anunciamos nesta Eucaristia
+a morte do vosso Filho,
+possamos participar, com os santos mártires,
+de sua ressurreição e de sua glória.
+Por Cristo, nosso Senhor.

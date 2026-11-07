@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@salmo salmos/salmo-118-145-152-xix-coph-v3
+
+@gloria
+
+@antifona
+Clamo de todo o coração: Senhor, ouvi-me,
+pois espero confiante em vossa lei!
+
+@antifona 2
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@salmo salmos/salmo-093-i
+
+@gloria
+
+@antifona
+Deus sabe o que pensam os homens:
+pois um nada é o seu pensamento.
+
+@antifona 3
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@salmo salmos/salmo-093-ii
+
+@gloria
+
+@antifona
+Para mim o Senhor, com certeza,
+é refúgio, é abrigo, é rochedo.
+
+@secao Leitura breve | Cl 3,17
+
+@texto
+Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@texto
+V. Eu oferto um sacrifício de louvor,
+R. Invocando o nome santo do Senhor.
+
+@secao Oração
+
+@oracao
+Deus onipotente e misericordioso, que nos dais novo alento no meio deste dia, olhai com bondade os trabalhos começados e, perdoando nossas faltas, fazei que eles atinjam os fins que vos agradam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3terca_vesperas.htm
+@documento Próprio - Vésperas - III Terça-feira do Advento
+
+@secao Leitura breve | 1Cor 1,7b-9
+
+@texto
+Aguardamos a revelação do Senhor nosso, Jesus Cristo. É ele também que vos dará perseverança em vosso procedimento irrepreensível até ao fim, até ao dia de nosso Senhor, Jesus Cristo. Deus é fiel; por ele fostes chamados à comunhão com seu Filho.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Está perto a salvação dos que o repeitam.
+* Nele se alegra. Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+E antes de viverem juntamente como esposos,
+Maria concebeu do Espírito Santo. Aleluia.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+E antes de viverem juntamente como esposos,
+Maria concebeu do Espírito Santo. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo, Palavra eterna, que inaugurou na terra, através de sua humanidade, um caminho novo para subir ao santuário celeste; e supliquemos humildemente:
+
+R. **Vinde, Senhor, salvar-nos!**
+
+Deus, em quem vivemos, nos movemos e somos,
+– vinde e revelai-nos que somos vosso povo. R.
+
+Vós, que não estais longe de nenhum de nós,
+– mostrai-vos sem demora a todos os que vos procuram. R.
+
+Pai dos pobres e consolador dos aflitos,
+– dai liberdade aos cativos e alegria aos tristes. R.
+
+{(intenções livres)}
+
+Vós, que destruís a morte e amais a vida,
+– livrai-nos da morte eterna, a nós e a todos os que em vós adormeceram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que por meio do vosso Unigênito nos transfigurastes em nova criatura, considerai a obra do vosso amor, e purificai-nos das manchas da antiga culpa no advento do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,179 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/basilioegregorio.htm
+@documento Ofício das Leituras - Santos Basílio Magno E Gregório De Nazianzeno, Bispos E Doutores Da Igreja Memória
+
+@celebracao
+SANTOS BASÍLIO MAGNO E GREGÓRIO DE NAZIANZENO, BISPOS E DOUTORES DA IGREJA
+{Memória}
+
+@biografia
+Basílio nasceu em Cesareia da Capadócia, em 330, de uma família cristã; possuidor de grande cultura e muita virtude, começou a levar vida eremítica, mas em 370 foi eleito bispo de sua cidade natal. Lutou contra os arianos; escreveu excelentes obras, sobretudo regras monásticas, observadas até hoje por muitíssimos monges do Oriente. Teve grande solicitude para com os pobres. Morreu no dia 1º de janeiro de 379. Gregório, nascido no mesmo ano de 330 nas proximidades de Nazianzo, empreendeu muitas viagens com o intuito de adquirir ciência. Acompanhou seu amigo Basílio à solidão, mas foi ordenado presbítero e bispo. Em 381 foi designado bispo de Constantinopla; contudo, devido a divisões existentes naquela Igreja, retirou-se para Nazianzo. Aí morreu no dia 25 de janeiro de 389 ou 390. Pela profundidade de sua doutrina e encanto da sua eloquência, foi cognominado “o teólogo”.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Gregório de Nazianzo, bispo
+{(Séc. IV)} {(Oratio 43, in laudem Basilii Magni, 15,16-17.19-21: PG 36, 514-523)}
+
+@tema
+Como uma só alma em dois corpos
+
+@texto
+Encontramo-nos em Atenas. Como o curso de um rio, que partindo da única fonte se divide em muitos braços, Basílio e eu nos tínhamos separado para buscar a sabedoria em diferentes regiões. Mas voltamos a nos reunir como se nos tivéssemos posto de acordo, sem dúvida porque Deus assim quis.
+Nesta ocasião, eu não apenas admirava meu grande amigo Basílio vendo-lhe a seriedade de costumes e a maturidade e prudência de suas palavras, mas ainda tratava de persuadir a outros que não o conheciam tão bem a fazerem o mesmo. Logo começou a ser considerado por muitos que já conheciam sua reputação.
+Que aconteceu então? Ele foi quase o único entre todos os que iam estudar em Atenas a ser dispensado da lei comum; e parecia ter alcançado maior estima do que comportava sua condição de novato. Este foi o prelúdio de nossa amizade, a centelha que fez surgir nossa intimidade; assim fomos tocados pelo amor mútuo.
+Com o passar do tempo, confessamos um ao outro nosso desejo: a filosofia era o que almejávamos. Desde então éramos tudo um para o outro; morávamos juntos, fazíamos as refeições à mesma mesa, estávamos sempre de acordo aspirando os mesmos ideais e cultivando cada dia mais estreita e firmemente nossa amizade.
+Movia-nos igual desejo de obter o que há de mais invejável: a ciência; no entanto, não tínhamos inveja, mas valorizávamos a emulação. Ambos lutávamos, não para ver quem tirava o primeiro lugar, mas para cedê-lo ao outro. Cada um considerava como própria a glória do outro.
+Parecia que tínhamos uma só alma em dois corpos. E embora não se deva dar crédito àqueles que dizem que tudo se encontra em todas as coisas, no nosso caso podia se afirmar que de fato cada um se encontrava no outro e com o outro.
+A única tarefa e objetivo de ambos era alcançar a virtude e viver para as esperanças futuras, de tal forma que, mesmo antes de partirmos desta vida, tivéssemos emigrado dela. Nesta perspectiva, organizamos toda a nossa vida e maneira de agir. Deixamo-nos conduzir pelos mandamentos divinos estimulando-nos mutuamente à prática da virtude. E, se não parecer presunção minha dizê-lo, éramos um para o outro a regra e o modelo para discernir o certo e o errado.
+Assim como cada pessoa tem um sobrenome recebido de seus pais ou adquirido de si próprio, isto é, por causa da atividade ou orientação de sua vida, para nós a maior atividade e o maior nome era sermos realmente cristãos e como tal reconhecidos.
+
+@secao Responsório | Dn 2,21-22; 1Cor 12,11
+
+@responsorio
+R. Aos sábios Deus dá sabedoria,
+aos entendidos ele dá entendimento.
+* É ele quem revela os mistérios mais profundos:
+junto dele habita a luz.
+V. Tudo isto realiza um só e mesmo Espírito,
+distribuindo a cada um, conforme lhe agrada. * É ele.
+
+@secao Oração
+
+@oracao
+Ó Deus, que iluminastes a vossa Igreja com o exemplo e a doutrina de São Basílio e São Gregório de Nazianzo, fazei-nos buscar humildemente a vossa verdade e segui-la com amor em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

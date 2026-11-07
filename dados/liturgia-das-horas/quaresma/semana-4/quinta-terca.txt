@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4quintaquaresma_terca.htm
+@documento Hora Média - Terça - Quinta-feira da 4ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@salmo salmos/salmo-118-153-160-xx-res
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@secao Leitura breve | Is 55,6-7
+
+@texto
+Buscai o Senhor, enquanto pode ser achado; invocai-o, enquanto ele está perto. Abandone o ímpio seu caminho, e o homem injusto, suas maquinações; volte para o Senhor, que terá piedade dele, volte para nosso Deus, que é generoso no perdão.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus de bondade, que, corrigidos pela penitência e renovados pelas boas obras, possamos perseverar nos vossos mandamentos e chegar purificados às festas pascais. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,132 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2segunda_laudes.htm
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Doador da luz esplêndida,
+pelo vosso resplendor,
+ao passar da noite o tempo,
+surge o dia em seu fulgor.
+
+Verdadeira Estrela d'alva,
+não aquela que anuncia
+de outro astro a luz chegando
+e a seu brilho se anuvia,
+
+mas aquela luminosa,
+mais que o sol em seu clarão,
+mais que a luz e mais que o dia,
+aclarando o coração.
+
+Casta, a mente vença tudo,
+que os sentidos pedem tanto;
+vosso Espírito guarde puro
+nosso corpo, templo santo.
+
+A vós, Cristo, Rei clemente,
+e a Deus Pai, Eterno Bem,
+com o Espírito Paráclito,
+honra e glória eterna. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quando terei a alegria de ver vossa face, Senhor?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Quando terei a alegria de ver vossa face, Senhor?
+
+@antifona 2
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@antifona 3
+Sede bendito, Senhor, no mais alto dos céus.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Sede bendito, Senhor, no mais alto dos céus.
+
+@secao Leitura breve | Jr 15,16
+
+@texto
+Quando encontrei tuas palavras, alimentei-me; elas se tornaram para mim uma delícia e a alegria do coração, o modo como invocar teu nome sobre mim, Senhor Deus dos exércitos.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó justos, alegrai-vos no Senhor!
+* Aos retos fica bem glorificá-lo. R. Ó justos.
+V. Cantai para o Senhor um canto novo. * Aos retos.
+Glória ao Pai. R. Ó justos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendito seja o Senhor Deus,
+que visitou e libertou a nós que somos o seu povo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendito seja o Senhor Deus,
+que visitou e libertou a nós que somos o seu povo.
+
+@secao Preces
+
+@preces
+Demos graças a nosso Salvador, que fez de nós um povo de reis e sacerdotes para oferecermos sacrifícios agradáveis a Deus. Por isso o invoquemos:
+
+R. **Conservai-nos, Senhor, em vosso serviço!**
+
+Cristo, sacerdote eterno, que nos tornastes participantes do vosso sacerdócio santo,
+– ensinai-nos a oferecer sempre sacrifícios espirituais agradáveis a Deus. R.
+
+Dai-nos os frutos do vosso Espírito:
+– paciência, bondade, mansidão. R.
+
+Fazei que vos amemos acima de todas as coisas e pratiquemos o bem,
+– para que nossas obras vos glorifiquem. R.
+
+Ajudai-nos a procurar sempre o bem dos nossos irmãos e irmãs,
+– para que eles alcancem mais facilmente a salvação. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus todo-poderoso, que nos fizestes chegar ao começo deste dia, salvai-nos hoje com o vosso poder, para não cairmos em nenhum pecado e fazermos sempre a vossa vontade em nossos pensamentos, palavras e ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna. Amém.

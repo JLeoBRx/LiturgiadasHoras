@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/4tercaPascoa.htm
+@documento Ofício das Leituras - 4ª Semana Da Páscoa - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@salmo salmos/salmo-101-i
+
+@gloria
+
+@antifona
+Ó Senhor, chegue até vós o meu clamor,não me oculteis a vossa face em minha dor!
+
+@antifona 2
+Ouvi, Senhor, a oração dos oprimidos!
+
+@salmo salmos/salmo-101-ii
+
+@gloria
+
+@antifona
+Ouvi, Senhor, a oração dos oprimidos!
+
+@antifona 3
+A terra, no princípio, vós criastes,e os céus, por vossas mãos, foram criados. Aleluia.
+
+@salmo salmos/salmo-101-iii
+
+@gloria
+
+@antifona
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados. Aleluia.
+
+@texto
+V. Ressurgindo dentre os mortos,
+Jesus Cristo já não morre. Aleluia.
+R. E a morte não tem mais
+nenhum domínio sobre ele. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {14,1-13}
+
+@tema
+O triunfo do Cordeiro
+
+@texto
+Eu, João, [1] depois disso, tive esta visão: o Cordeiro estava de pé sobre o monte Sião. Com ele, os cento e quarenta e quatro mil que tinham a fronte marcada com o nome dele e o nome do seu Pai. [2] Ouvi uma voz que vinha do céu; parecia o barulho de águas torrenciais e o estrondo de um forte trovão. O ruído que ouvi era como o som de músicos tocando harpa. [3] Estavam diante do trono, diante dos quatro Seres vivos e dos Anciãos, e cantavam um cântico novo. Era um cântico que ninguém podia aprender; só os cento e quarenta e quatro mil marcados, que foram resgatados da terra. [4] Estes são os que não se contaminaram com mulheres, pois são virgens. Eles seguem o Cordeiro aonde quer que vá. Foram resgatados do meio dos homens, como primeira oferta a Deus a ao Cordeiro. [5] Na sua boca nunca foi encontrada mentira. São íntegros! [6] Vi então outro anjo, que voava no ápice do céu, com uma mensagem eterna, que ele devia anunciar aos habitantes da terra, a toda nação, tribo, língua e povo. [7] O anjo clamava em alta voz: “Temei a Deus e dai-lhe glória, porque chegou a hora do julgamento. Adorai aquele que fez o céu e a terra, o mar e as fontes das águas”. [8] Um segundo anjo o seguia, dizendo: “Caiu, caiu Babilônia, a grande, aquela que embriagou todas as nações com o vinho do furor da sua prostituição”. [9] E um terceiro anjo o acompanhava, clamando em alta voz: “Se alguém adora a besta e a imagem dela, e recebe sua marca na fronte e na mão, [10] esse vai beber também o vinho do furor de Deus, servido sem mistura na taça da sua ira. Será atormentado com fogo e enxofre diante dos santos anjos e do Cordeiro. [11] A fumaça do seu tormento subirá para sempre, e, dia e noite, não terão descanso aqueles que adoram a besta e a imagem dela, e quem quer que receba a marca com seu nome”. [12] Aqui é preciso a perseverança dos santos, daqueles que guardam os mandamentos de Deus e a fé em Jesus. [13] Ouvi, então, uma voz vinda do céu, que dizia: “Escreve: Felizes os mortos, os que desde agora morrem unidos ao Senhor. Sim, diz o Espírito, que eles descansem de suas fadigas, pois suas obras os acompanham”.
+
+@secao Responsório | Cf. Ap 14,7.6
+
+@responsorio
+R. Escutei no céu a voz de muitos anjos, que diziam:
+* Temei a Deus e dai-lhe glória,
+adorai o Criador do céu e da terra, mar e fontes. Aleluia.
+V. Vi um anjo do Senhor, que voava em meio aos céus,
+e clamava em alta voz: * Temei a Deus.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Pedro Crisólogo, bispo
+{(Séc.V)} {(Sermo 108: PL 52,499-500)}
+
+@tema
+Sê tu sacrifício e sacerdote de Deus
+
+@texto
+_Pela misericórdia de Deus, eu vos exorto, irmãos_ (Rm12,1). Paulo exorta, ou melhor, é Deus que por intermédio de Paulo nos exorta, pois deseja ser mais amado que temido. Deus exorta-nos, porque quer ser mais Pai do que Senhor. Deus exorta-nos, pela sua misericórdia, para não ter de nos castigar com o seu rigor. Ouve como o Senhor exorta: Vede, vede em mim o vosso corpo, os vossos membros, o vosso coração, os vossos ossos, o vosso sangue. E se temeis o que é de Deus, por que não amais o que também é vosso? Se fugis do Senhor, por que não recorreis ao Pai? Talvez vos perturbe a enormidade de meus sofrimentos causados por vós. Não tenhais medo. Esta cruz não me feriu a mim, mas feriu a morte. Estes cravos não me provocam dor, mas cravam mais profundamente em mim o amor por vós. Estas chagas não me fazem soltar gemidos, mas vos introduzem ainda mais intimamente em meu coração. O meu corpo, ao ser estirado na cruz, não aumenta o meu sofrimento, mas dilata os espaços do coração para vos acolher. Meu sangue não é uma perda para mim, mas é o preço do vosso resgate. Vinde, pois, convertei-vos e pelo menos assim experimentareis a bondade do Pai, que paga os males com o bem, as injúrias com amor, tão grandes chagas com tamanha caridade. Ouçamos, porém, a insistência do Apóstolo: _Eu vos exorto a vos oferecerdes em sacrifício vivo_ (Rm 12,1). Pedindo deste modo, o Apóstolo ergueu todos os seres humanos à dignidade sacerdotal: a vos oferecerdes em sacrifício vivo. Ó inaudito mistério do sacerdócio cristão, em que o ser humano é para si mesmo vítima e sacerdote! O ser humano não precisa ir buscar fora de si a vítima que deve oferecer a Deus; traz consigo e em si o que irá sacrificar a Deus. Permanecem intactos tanto a vítima como o sacerdote; a vítima é imolada mas continua viva, e o sacerdote que oferece o sacrifício não pode matar a vítima. Admirável sacrifício em que o corpo é oferecido sem imolação e o sangue sem derramamento! Pela misericórdia de Deus eu vos exorto a vos oferecerdes em sacrifício vivo. Irmãos, este sacrifício é imagem do sacrifício de Cristo que, para dar a vida ao mundo, imolou o seu corpo, permanecendo vivo; na verdade, ele fez de seu corpo um sacrifício vivo, porque tendo morrido, continua vivo. Num sacrifício como este, a morte teve a sua parte, mas a vítima permanece; a vítima vive, enquanto a morte é castigada. Por isso, os mártires nascem com a morte, no fim da vida é que começam a vivê-la; com a sua imolação revivem e brilham agora nos céus os que na terra eram tidos como mortos. Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo. É o que também cantava o Profeta: _Tu não quiseste nem vítima nem oferenda, mas formaste-me um corpo_ (cf. Sl 39,7; Hb 10,5). Ó homem, sê tu sacrifício e sacerdote de Deus; não percas aquilo que te foi dado pelo poder do Senhor. Reveste-te com a túnica da santidade, cinge-te com o cíngulo da castidade; seja Cristo o véu de proteção da tua cabeça; que a cruz permaneça em tua fronte como defesa. Grava em teu peito o sinal da divina ciência; eleva continuamente a tua oração como perfume de incenso; empunha a espada do Espírito; faze de teu coração um altar. E assim, com toda confiança, oferece teu corpo como vítima a Deus. Deus não quer a morte, mas a fé; ele não tem sede do teu sangue, mas do teu sacrifício; não se aplaca com a morte violenta, mas com a vontade generosa.
+
+@secao Responsório | Ap 5,9bcd.10a
+
+@responsorio
+R. Vós sois digno, Senhor, nosso Deus,
+de o livro nas mãos receber
+e de abrir suas folhas lacradas,
+porque fostes por nós imolado,
+* Para Deus nos remiu vosso sangue. Aleluia.
+V. Pois fizestes, de nós, para Deus,
+sacerdotes e povo de reis.
+* Para Deus.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, celebrando o mistério da ressurreição do Senhor, possamos acolher com alegria a nossa redenção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

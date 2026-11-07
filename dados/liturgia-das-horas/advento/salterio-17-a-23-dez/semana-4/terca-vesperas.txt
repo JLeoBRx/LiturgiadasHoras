@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/4terca_vesperas.htm
+@documento Vésperas - IV Terça-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+O Senhor sai do seu santuário nos céus.
+Ele vem libertar e salvar o seu povo.
+
+@salmo salmos/salmo-136-1-6
+
+@gloria
+
+@antifona
+O Senhor sai do seu santuário nos céus.
+Ele vem libertar e salvar o seu povo.
+
+@antifona 2
+Nossa cidade invencível é Sião,
+sua muralha e sua trincheira é o Salvador.
+Abri as portas, pois conosco está o Senhor. Aleluia.
+
+@salmo salmos/salmo-137
+
+@gloria
+
+@antifona
+Nossa cidade invencível é Sião,
+sua muralha e sua trincheira é o Salvador.
+Abri as portas, pois conosco está o Senhor. Aleluia.
+
+@antifona 3
+Que na terra se conheça o seu caminho,
+e a sua salvação por entre os povos.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Que na terra se conheça o seu caminho,
+e a sua salvação por entre os povos.

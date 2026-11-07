@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/24tercaTC_impar.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Oseias {10,1-15}
+
+@tema
+Destruição dos símbolos idolátricos de Israel
+
+@texto
+[1] Israel era uma vinha exuberante, que dava frutos. Quanto mais se multiplicava seu fruto, tanto mais multiplicava os altares; quanto mais bela se tornava sua terra, tanto mais embelezava as estelas. [2] Seu coração é falso, agora eles vão expiar. Ele mesmo quebrará os seus altares e destruirá as suas estelas. [3] Então dirão: “Não temos rei, porque não tememos ao Senhor. Mas, até o rei, que poderia fazer por nós?” [4] Eles proferem discursos, juram falso, concluem pactos; e o direito prospera como planta venenosa nos sulcos dos campos! [5] Por causa do bezerro de Bet-Áven tremem os habitantes de Samaria; sim, o seu povo está de luto por ele, bem como os seus sacerdotes, que se alegravam de sua glória: porque ela foi deportada para longe de nós! [6] Ele mesmo será levado para a Assíria como tributo ao grande rei. Efraim colherá vergonha, e Israel se envergonhará de sua decisão. [7] Samaria está destruída. Seu rei é como um galho quebrado sobre a superfície da água. [8] Os lugares altos de Áven serão devastados, o pecado de Israel; espinhos e cardos crescerão sobre seus altares. Eles dirão às montanhas: “Cobri-nos!”, e às colinas: “Caí sobre nós!” [9] Desde os dias de Gabaá tu pecaste, Israel! Ali eles ficaram. Não os atingirá em Gabaá a guerra contra os filhos da injustiça? [10] Exijo castigá-los! Os povos se reunirão contra eles, quando forem castigados por suas duas faltas. [11] Efraim é novilha adestrada, que gosta de pisar a eira, mas eu passei o jugo em seu pescoço soberbo! Eu atrelarei Efraim, Judá lavrará e Jacó gradeará. [12] Semeai para vós segundo a justiça, colhei conforme o amor, arroteai para vós um terreno novo: é tempo de procurar o Senhor, até que ele venha e faça chover a justiça sobre vós. [13] Vós cultivastes a perversidade, colhestes a injustiça, comestes o fruto da mentira. Porque confiaste em teus carros e na multidão de teus guerreiros. [14] Levantar-se-á um tumulto em teu povo, e todas as tuas fortalezas serão destruídas, como Sálmana devastou Bet-Arbel no dia do combate, quando a mãe foi esmagada sobre os filhos. [15] Eis o que vos fez Betel, por causa de vossa enorme perversidade. Ao amanhecer, o rei de Israel será totalmente destruído.
+
+@secao Responsório | Os 10,8; Mt 24,22
+
+@responsorio
+R. Os lugares altos da iniquidade,
+o pecado de Israel, serão devastados.
+* Eles dirão às montanhas:
+cobri-nos, e às colinas: caí sobre nós.
+V. Se aqueles dias não fossem abreviados,
+nenhuma vida
+se salvaria. * Eles dirão às montanhas.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o salmo 118”, de Santo Ambrósio, bispo
+{(Disc. 1,2)}
+
+@tema
+Fazei resplandecer para vós a luz do conhecimento
+
+@texto
+_Bem-aventurados os que trilham com integridade o seu_ _caminho, os que andam na lei do Senhor! Bem-aventurados_ _os que guardam os seus ensinamentos, que o buscam de todo_ _o coração_ (Sl 118,1-2). Que belo mandamento, cheio de doutrina e de graça! Não disse primeiro “os que guardam os seus ensinamentos”, mas “bem-aventurados os que trilham com integridade o seu caminho”. Antes da doutrina deveis buscar a vida. Uma vida de bondade é bem recebida mesmo sem a doutrina; do contrário, a doutrina sem a vida não tem integridade. O dom da sabedoria não pode difundir-se numa alma indisposta. Por isso diz: os malvados me procuram e não me encontram, pois a maldade cega os olhos da mente e, obscurecidos pelas trevas da iniquidade, não conseguem descobrir a profundidade dos mistérios.
+A primeira coisa, portanto, é declarar guerra à malícia da vida e corrigir os costumes. Depois de havermos justamente ordenado estas coisas, ou seja, a correção da culpa e a graça da pureza, nos dedicaremos - segundo sua ordem e método - aos estudos da doutrina que devemos conhecer. Em primeiro lugar aos estudos morais, depois aos místicos. Aquele é sobre a vida, este sobre o conhecimento. Se buscais a perfeição saibais que a vida não é sem o conhecimento e o conhecimento não é sem a vida, e ambas se completam na vicissitude. Por isso diz a escritura: _Semeais para vós_ _segundo a justiça_ (Os 10,12); colhais o fruto da vida, façais resplandecer para vós a luz do conhecimento.
+Não disse antes: façais resplandecer, mas semeais; nem somente semear em justiça, mas também vindimais para obter o fruto da vida; e façais resplandecer a luz do conhecimento de tal modo que a perfeição seja provada nos frutos não só previstos, mas colhidos. No primeiro salmo também há este mandamento: primeiro se ensina o caminho sobre o qual caminhar, depois a lei sobre a qual meditar. De fato, aqueles que não seguiram os conselhos dos ímpios, nem abandonaram os caminhos da fé e os sentimentos de justiça são, com razão, proclamados bem-aventurados, pois caminham o bom caminho e, meditando dia e noite as leis do Senhor, obtêm a graça da bem-aventurança.
+
+@secao Responsório | Pr 23,26; 1,9; 5,1
+
+@responsorio
+R. Meu filho, dá-me teu coração.
+Que teus olhos observem meus caminhos,
+* Isto será, pois, um diadema de graça para tua cabeça.
+V. Meu filho, atende à minha sabedoria,
+presta atenção à minha razão. * Isto será.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador de todas as coisas, volvei para nós o vosso olhar e, para sentirmos em nós a ação do vosso amor, fazei que vos sirvamos de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/apresentacao_terca.htm
+@documento Hora Média - Apresentação do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@salmo salmos/salmo-118-137-144-xviii-sade
+
+@gloria
+
+@antifona
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@antifona 2
+Chegue a minha oração até vós, ó Senhor!
+
+@salmo salmos/salmo-087-i
+
+@gloria
+
+@antifona
+Chegue a minha oração até vós, ó Senhor!
+
+@antifona 3
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@salmo salmos/salmo-087-ii
+
+@gloria
+
+@antifona
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@secao Leitura breve | Is 8,14
+
+@texto
+O Senhor será vossa fonte de justiça, mas também o obstáculo, ou a pedra de escândalo para as duas casas de Israel, armadilha e emboscada para os habitantes de Jerusalém.
+
+@texto
+V. O Senhor se recordou de seu amor sempre fiel
+R. Pela casa de Israel.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ouvi as nossas súplicas. Assim como o vosso Filho único, revestido da nossa humanidade, foi hoje apresentado no Templo, fazei que nos apresentemos diante de vós com os corações purificados. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

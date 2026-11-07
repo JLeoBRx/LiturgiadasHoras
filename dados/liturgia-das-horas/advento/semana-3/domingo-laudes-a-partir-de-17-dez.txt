@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/3domingo_laudes17.htm
+@documento Laudes - III Domingo do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Os profetas, com voz poderosa,
+anunciam a vinda de Cristo,
+proclamando a feliz salvação,
+que liberta no tempo previsto.
+
+Ao fulgor da manhã radiosa,
+arde em fogo o fiel coração,
+quando a voz, portadora de glória,
+faz no mundo soar seu pregão.
+
+Não foi para punir este mundo
+que Ele veio na vinda primeira.
+Ele veio sarar toda chaga
+e salvar quem no mal perecera.
+
+Mas a vinda segunda anuncia
+que o Cristo Senhor vai chegar,
+para abrir-nos as portas do reino
+e os eleitos no céu coroar.
+
+Luz eterna nos é prometida
+e se eleva o astro-rei salvador,
+que nos chama à grandeza celeste
+com a luz do divino esplendor.
+
+Ó Jesus, só a vós desejamos
+para sempre no céu contemplar,
+e por vossa visão saciados,
+glória eterna sem fim vos cantar.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor vai chegar sem demora:
+trará à luz o oculto nas trevas,
+vai revelar-se a todos os povos. Aleluia.
+
+@salmo salmos/salmo-092
+
+@gloria
+
+@antifona
+O Senhor vai chegar sem demora:
+trará à luz o oculto nas trevas,
+vai revelar-se a todos os povos. Aleluia.
+
+@antifona 2
+Todo monte e colina serão abaixados,
+será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Todo monte e colina serão abaixados,
+será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@antifona 3
+Em Sião eu darei salvação,
+minha glória em Jerusalém. Aleluia.
+
+@salmo salmos/salmo-148
+
+@gloria
+
+@antifona
+Em Sião eu darei salvação,
+minha glória em Jerusalém. Aleluia.
+
+@secao Leitura breve | Rm 13,11-12
+
+@texto
+Já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz.
+
+@secao Responsório breve
+
+@responsorio
+R. Mesmo as trevas para vós não são escuras,
+* Vós sois a luz do mundo, aleluia! R. Mesmo as trevas.
+V. Senhor, sondai-me, conhecei meu coração! * Vós sois.
+Glória ao Pai. R. Mesmo as trevas.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sabei que está próximo o reino de Deus.
+Eu vos digo e confirmo que não tardará.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sabei que está próximo o reino de Deus.
+Eu vos digo e confirmo que não tardará.
+
+@secao Preces
+
+@preces
+Rezemos a Deus, Pai de bondade, que nos concede a graça de esperarmos a manifestação de nosso Senhor Jesus Cristo, e digamos confiantes:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Santificai, Senhor, nosso espírito, nossa alma e nosso corpo,
+– e guardai-nos irrepreensíveis para a vinda de vosso Filho. R.
+
+Ajudai-nos a passar santamente este dia,
+– e fazei-nos viver neste mundo com justiça e piedade. R.
+
+Revesti-nos de nosso Senhor Jesus Cristo,
+– e seremos repletos do Espírito Santo. R.
+
+Concedei-nos, Senhor, permanecer sempre vigilantes,
+– até o dia da gloriosa manifestação de vosso Filho. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que vedes o vosso povo esperando fervoroso o natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

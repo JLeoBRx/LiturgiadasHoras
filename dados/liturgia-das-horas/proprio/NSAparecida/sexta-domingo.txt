@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSAparecida_sexta_domingo.htm
+@documento Hora Média - Bem-aventurada Virgem Maria da Conceição Aparecida
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Sois a glória de Sião, a alegria de Israel
+e a flor da humanidade.
+
+@secao Leitura breve | Jt 13,18-19
+
+@texto
+Ó filha, tu és bendita pelo Deus Altíssimo, mais que todas as mulheres da terra! E bendito é o Senhor Deus, que criou o céu e a terra, e te levou a decepar a cabeça do chefe de nossos inimigos! Porque nunca o teu louvor se afastará do coração dos homens, que se lembrarão do poder de Deus para sempre.
+
+@texto
+V. Virgem Maria, gloriosa Rainha do mundo,
+R. Rogai por nós todos ao Cristo Senhor!
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, fiel à sua vocação e vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

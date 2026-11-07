@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/catedra_laudes.htm
+@documento Laudes - Cátedra de São Pedro, Apóstolo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Pedro, que rompes algemas
+pelo poder do Senhor,
+de toda a Igreja és mestre,
+de mil rebanhos pastor:
+protege, pois, cada ovelha,
+retém do lobo o furor.
+
+O que tu ligas na terra,
+o céu ligado retém:
+o que na terra desligas,
+o céu desliga também.
+Ao Deus trino que te assiste,
+louvemos como convém!
+
+@secao Salmodia
+
+@antifona 1
+Jesus disse a Simão: Não tenhas medo!
+De homens tu serás um pescador!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Jesus disse a Simão: Não tenhas medo!
+De homens tu serás um pescador!
+
+@antifona 2
+Tu és o Cristo, o Filho do Deus vivo!
+Tu és feliz, Simão Pedro, és feliz!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Tu és o Cristo, o Filho do Deus vivo!
+Tu és feliz, Simão Pedro, és feliz!
+
+@antifona 3
+O Senhor disse a Pedro:
+Hei de dar-te as chaves do reino dos céus.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O Senhor disse a Pedro:
+Hei de dar-te as chaves do reino dos céus.
+
+@secao Leitura breve | At 15,7b-9
+
+@texto
+Deus me escolheu, do vosso meio, para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis deles.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Disse o Senhor a Simão Pedro:
+eu pedi em teu favor, que tua fé não desfaleça.
+Quando estiveres convertido, fortalece os teus irmãos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Disse o Senhor a Simão Pedro:
+eu pedi em teu favor, que tua fé não desfaleça.
+Quando estiveres convertido, fortalece os teus irmãos.
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, por todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que nada nos possa abalar, pois edificastes a vossa Igreja sobre aquela pedra que foi a profissão de fé do apóstolo Pedro. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

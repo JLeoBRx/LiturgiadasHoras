@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2janeiro_nona.htm
+@documento 2janeiro_nona.htm
+
+@secao Leitura breve | 1Jo 1,5
+
+@texto
+A mensagem, que ouvimos de Jesus Cristo e vos anunciamos, é esta: Deus é luz e nele não há trevas.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo uma fé inabalável, para que, ao proclamarmos que o vosso Filho Unigênito, Deus eterno e glorioso como vós, se fez homem no seio da Virgem Mãe, sejamos livres dos males que nos cercam e introduzidos nas eternas alegrias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

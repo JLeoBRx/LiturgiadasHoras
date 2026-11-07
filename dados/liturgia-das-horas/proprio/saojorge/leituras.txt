@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojorge.htm
+@documento Ofício das Leituras - São Jorge, Mártir
+
+@celebracao
+SÃO JORGE, MÁRTIR
+
+@biografia
+Já no século IV era venerado em Dióspolis, na Palestina, onde foi construída uma igreja em sua honra. Seu culto propagou-se pelo Oriente e Ocidente desde a Antiguidade.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Pedro Damião, bispo
+{(Séc. XI)} {(Sermo 3, De sancto Georgio: PL 144,567-571)}
+
+@tema
+Invencivelmente protegido pelo estandarte da cruz
+
+@texto
+A festa de hoje, caríssimos irmãos, renova a alegria pascal e, como pedra preciosa, faz brilhar com a beleza do próprio esplendor o ouro em que se engasta.
+Jorge foi transferido de uma milícia para outra, porque deixou o cargo de oficial de um exército terreno para se dedicar à milícia cristã. Nesta, como valente soldado, começou por libertar-se dos bens terrenos, distribuindo-os aos pobres; assim, livre e desembaraçado, revestido com a couraça da fé, lançou-se na linha de frente do combate como valoroso guerreiro de Cristo.
+Isto nos ensina claramente que não podem lutar com força e eficácia, em defesa da fé, aqueles que ainda têm medo de se despojar dos bens da terra.
+Inflamado pelo fogo do Espírito Santo e invencivelmente protegido pelo estandarte da cruz, São Jorge combateu de tal modo contra o rei iníquo que, vencendo este enviado de Satanás, derrotou o chefe de toda iniquidade e estimulou os soldados de Cristo a lutarem com valentia.
+Assistia ao combate o supremo e invisível Árbitro que, segundo os planos da sua providência, permitiu que os ímpios o atormentassem. De fato, entregou o corpo de seu mártir às mãos dos carrascos, mas guardou a sua alma com proteção constante no baluarte inexpugnável da fé.
+Caríssimos irmãos, não nos limitemos a admirar este combatente do exército celeste, mas imitemo-lo também. Eleve-se o nosso espírito para o prêmio da glória celeste, contemplemo-lo com os olhos do coração. Assim não nos abalaremos nem pelo sorriso enganador do mundo nem pelas ameaças do seu ódio perseguidor.
+Purifiquemo-nos de toda mancha na carne e no espírito, como nos manda São Paulo, para merecermos um dia entrar naquele templo da bem-aventurança, que por ora apenas entrevemos com o olhar do espírito.
+Todo aquele que quer se oferecer a Deus em sacrifício no templo de Cristo, que é a Igreja, depois de lavar-se no banho sagrado do batismo, tem ainda que se revestir com as vestes das várias virtudes, conforme está escrito: _Que os vossos sacerdotes se vistam de justiça_ (Sl 131,9). Quem pelo batismo renasce como homem novo em Cristo, não se vestirá com a mortalha do homem velho, e sim com a veste do homem novo, vivendo sempre renovado numa vida pura.
+Só assim, purificados da imundície da nossa antiga condição pecadora e brilhando pelo fulgor de uma vida nova, seremos dignos de celebrar o mistério pascal e imitarmos verdadeiramente o exemplo dos santos mártires.
+
+@secao Responsório
+
+@responsorio
+R. Este santo lutou até à morte
+pela lei de seu Deus e não temeu
+as palavras e ameaças dos malvados,
+* Pois se apoiou sobre a Rocha que é Cristo. Aleluia.
+V. As tentações deste mundo superou
+e ao reino dos céus feliz chegou. * Pois se apoiou.
+
+@secao Oração
+
+@oracao
+Ó Deus, celebrando o vosso poder, nós vos pedimos que São Jorge seja tão pronto em socorrer-nos, como o foi em imitar a Paixão do Senhor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

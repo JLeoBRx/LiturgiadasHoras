@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/3quintaquaresma_vesperas.htm
+@documento Vésperas - Quinta-feira da 3ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@salmo salmos/salmo-131-i
+
+@gloria
+
+@antifona
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@antifona 2
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@salmo salmos/salmo-131-ii
+
+@gloria
+
+@antifona
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@secao Leitura breve | Tg 4,7-8.10
+
+@texto
+Obedecei a Deus, mas resisti ao diabo, e ele fugirá de vós. Aproximai-vos de Deus, e ele se aproximará de vós. Purificai as mãos, ó pecadores, e santificai os corações, homens dúbios. Humilhai-vos diante do Senhor, e ele vos exaltará.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, atendei minha prece,
+* Meu clamor chegue a vós! R. Senhor.
+V. Escutai-me, no dia em que chamo.* Meu clamor.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Bendito o ventre que vos gerou e os seios que vos nutriram!
+Antes bendito quem ouve e guarda a Palavra santa de Deus!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Bendito o ventre que vos gerou e os seios que vos nutriram!
+Antes bendito quem ouve e guarda a Palavra santa de Deus!
+
+@secao Preces
+
+@preces
+Oremos a Cristo nosso Senhor, que nos deu o mandamento novo de nos amarmos uns aos outros como ele nos amou; e imploremos:
+
+R. **Senhor, fazei crescer o amor em vosso povo!**
+
+Bom Mestre, ensinai-nos a vos amar em nossos irmãos e irmãs,
+– e a vos servir em cada um deles. R.
+
+Vós, que na cruz pedistes ao Pai perdão para vossos algozes,
+– ensinai-nos a amar os nossos inimigos e a orar pelos que nos perseguem. R.
+
+Pela participação no mistério do vosso Corpo e Sangue, aumentai em nós a caridade, a fortaleza e a confiança;
+– sustentai os fracos, consolai os tristes e dai esperança aos agonizantes. R.
+
+Cristo, Luz do mundo, que na piscina de Siloé destes a vista ao cego de nascença,
+– iluminai os catecúmenos pelo sacramento do batismo e pela palavra da vida. R.
+
+{(intenções livres)}
+
+Concedei a plenitude do vosso amor aos que morreram,
+– e contai-nos também entre os vossos escolhidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+À medida que se aproxima a festa da salvação, nós vos pedimos, ó Deus, que nos preparemos com maior empenho para celebrar o mistério da Páscoa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,168 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSLourdes.htm
+@documento Ofício das Leituras - Bem-Aventurada Virgem Maria De Lourdes _____________________________
+
+@celebracao
+BEM-AVENTURADA VIRGEM MARIA DE LOURDES
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+3 Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,10-14; 8,10c; 11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: 1“Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel;[8,10] porque Deus está conosco. [11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor;
+[2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus;
+[3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer;
+[4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a forçada sua palavra
+e destruirá o mau com o sopro dos lábios.
+[5] Cingirá a cintura com a correia da justiça
+e as costas com a faixa da fidelidade.
+[6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los.
+[7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi;
+[8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente.
+[9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+De uma carta de Santa Maria Bernarda Soubirous, virgem
+{(Séc.: XIX)} {(Lettre au P. Gondrand, a. 1861: cf. A. Ravier, Les écrits de sainte Bernadette, Paris 1961, pp. 53-59)}
+
+@tema
+A Senhora falou comigo
+
+@texto
+Certo dia, fui com duas meninas às margens do rio Gave buscar lenha. Ouvi um barulho, voltei-me para o prado, mas não vi movimento nas árvores. Levantei a cabeça e olhei para a gruta. Vi, então, uma Senhora vestida de branco; tinha um vestido alvo, com uma faixa azul celeste à cintura, e uma rosa de ouro em cada pé, da cor do rosário que trazia.
+Ao vê-la, esfreguei os olhos, julgando estar sonhando. Enfiei a mão no bolso de meu vestido onde encontrei o rosário. Quis ainda fazer o sinal da cruz, porém, não consegui levar a mão à testa. Entretanto, quando aquela Senhora fez o sinal da cruz, tentei fazê-lo também; a mão tremia, mas consegui. Comecei a rezar o rosário; a Senhora igualmente ia passando as contas de seu rosário, embora não movesse os lábios. Quando terminei, a visão logo desapareceu.
+
+Perguntei às duas meninas se tinham visto alguma coisa; disseram que não, e quiseram saber o que eu tinha para lhes contar. Garanti-lhes que vira uma Senhora vestida de branco, mas não sabia quem era, e pedi-lhes que não contassem a ninguém. Elas então me aconselharam a não voltar mais àquele lugar, porém não concordei. Voltei pois no domingo, porque me sentia interiormente chamada...
+
+Somente na terceira vez, a Senhora me falou e perguntou-me se queria voltar ali durante quinze dias. Respondi-lhe que sim. Mandou-me dizer aos sacerdotes que construíssem uma capela naquele lugar. Em seguida, ordenou-me que bebesse da fonte. Como não vi fonte alguma, dirigi-me ao rio Gave. Ela disse-me que não era lá, e fez-me um sinal com o dedo, indicando-me o lugar onde estava a fonte. Dirigi-me para lá, mas só vi um pouco de água lamacenta; quis encher a mão para beber, mas não consegui nada. Comecei a cavar, e logo pude tirar um pouco de água. Joguei-a fora por três vezes, até que na quarta pude beber. Em seguida, a visão desapareceu e fui-me embora.
+
+Durante quinze dias, lá voltei e a Senhora apareceu-me todos os dias, com exceção de uma segunda e de uma sexta-feira. Repetiu-me várias vezes que dissesse aos sacerdotes para construírem ali uma capela. Mandava que fosse à fonte para lavar-me e que rezasse pela conversão dos pecadores. Muitas e muitas vezes, perguntei-lhe quem era, mas apenas sorria com bondade. Finalmente, com braços e olhos erguidos para o céu, disse-me que era a Imaculada Conceição.
+
+Durante esses quinze dias, também me revelou três segredos, proibindo-me de dizê-los a quem quer que fosse; até o presente os tenho guardado com toda a fidelidade.
+
+@secao Responsório | Lc 1,46b.49.48b
+
+@responsorio
+R. A minh’alma engrandece o Senhor:
+* O Poderoso fez em mim maravilhas e santo é seu nome.
+V. Doravante as gerações hão de chamar-me de bendita.
+* O Poderoso.
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, socorrei a nossa fraqueza para que, ao celebrarmos a memória da Virgem Imaculada, Mãe de Deus, possamos, por sua intercessão, ressurgir de nossos pecados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

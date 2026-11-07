@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Elevai o olhar aos céus
+vós que a Cristo procurais.
+E da sua eterna glória
+podereis ver os sinais.
+
+Essa estrela vence o sol
+em fulgor e em beleza,
+e nos diz ter vindo à terra
+Deus, em nossa natureza.
+
+Da região do mundo persa,
+onde o sol tem seu portal,
+sábios Magos reconhecem
+do Rei novo o sinal.
+
+Quem será tão grande Rei,
+a quem astros obedecem,
+a quem servem luz e céus
+e suas forças estremecem?
+
+Percebemos algo novo,
+imortal, superior,
+que domina céus e caos
+e lhes é anterior.
+
+Rei do povo de Israel,
+este é o Rei das gentes,
+prometido a Abraão
+e à sua raça eternamente.
+
+Ó Jesus, louvor a vós
+que às nações vos revelais.
+Glória ao Pai e ao Espírito
+pelos tempos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, não desprezeis um coração arrependido!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Ó Senhor, não desprezeis um coração arrependido.
+
+@antifona 2
+Ó Senhor, mesmo na cólera, lembrai-vos de ter misericórdia.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Ó Senhor, mesmo na cólera, lembrai-vos de ter misericórdia.
+
+@antifona 3
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus! †
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus!
+
+@secao Leitura breve | Is 45,22-23
+
+@texto
+Povos de todos os confins da terra, voltai-vos para mim e sereis salvos, eu sou Deus e não há outro. Juro por mim mesmo: de minha boca sai o que é justo, a palavra que não volta atrás; todo joelho há de dobrar-se para mim, por mim há de jurar toda língua.
+
+@secao Responsório breve
+
+@responsorio
+R. Os reis de toda a terra.
+* Hão de adorá-lo. R. Os reis.
+V. E todas as nações hão de servi-lo.
+* Hão de adorá-lo. Glória ao Pai. R. Os reis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Todos aqueles que vos tinham desprezado,
+virão prostrar-se a vossos pés para adorar-vos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Todos aqueles que vos tinham desprezado,
+virão prostrar-se a vossos pés para adorar-vos.
+
+@secao Preces
+
+@preces
+Demos glória a Cristo, que veio renovar o coração e o espírito do homem; e o invoquemos:
+
+R. **Renovai-nos, Senhor, pelo vosso natal!**
+
+Vós, que assumindo a natureza humana vos tornastes para nós sacramento da divindade,
+– fazei que, por meio da Igreja, vos reconheçamos no mistério da vossa Palavra e do vosso Corpo. R.
+
+Criador do gênero humano, pela Virgem Imaculada vos fizestes homem entre os homens,
+– concedei-nos, por intercessão de Maria, participar da vossa divindade para nossa salvação. R.
+
+Redentor nosso, que descestes à terra como chuva sobre a relva,
+– derramai em nossas almas a água viva que brota para a vida eterna. R.
+
+A nós que celebramos nestes dias o início de vossa vida no mundo,
+– fazei-nos chegar à maturidade do ser humano perfeito, segundo a imagem da vossa estatura em sua plenitude. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que o natal do Salvador do mundo, manifestado pela luz da estrela, sempre refulja e cresça em nossas vidas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/ritadecassia.htm
+@documento Ofício das Leituras - Santa Rita De Cássia, Religiosa Resplandeceu Na Úmbria (Itália) No Século Xv. Casada Com Um Homem Violento, Suportou Pacientemente As Suas Crueldades E Conseguiu Reconciliá-Lo Com Deus. Depois, Privada Do Marido E Dos Filhos, Ingressou Como Religiosa Num Mosteiro Da Ordem De Santo Agostinho. Dando A Todos Um Sublime Exemplo De Paciência E De Compunção, Aí Morreu Antes Do Ano 1457.
+
+@celebracao
+SANTA RITA DE CÁSSIA, RELIGIOSA
+
+@biografia
+Resplandeceu na Úmbria (Itália) no século XV. Casada com um homem violento, suportou pacientemente as suas crueldades e conseguiu reconciliá-lo com Deus. Depois, privada do marido e dos filhos, ingressou como religiosa num mosteiro da Ordem de Santo Agostinho. Dando a todos um sublime exemplo de paciência e de compunção, aí morreu antes do ano 1457.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,1-17}
+
+@tema
+A vossa vida está escondida, com Cristo, em Deus
+
+@texto
+Irmãos: [1] Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; [2] aspirai às coisas celestes e não às coisas terrestres. [3] Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. [4] Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória. [5] Portanto, fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e da sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto, selvagem, escravo e livre, mas Cristo é tudo em todos. [12] Vós sois amados por Deus, sois os seus santos eleitos.Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. [16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. [17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@secao Responsório | Gl 3,27-28; Ef 4,24
+
+@responsorio
+R. No Cristo batizados, revestimo-nos de Cristo.
+Já não há judeu nem grego,
+* Todos nós somos um só em Jesus Cristo, Senhor nosso.
+V. Revesti-vos do homem novo que, à imagem do Senhor,
+foi criado na justiça e santidade verdadeira. * Todos nós.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de São João, de Santo Agostinho, bispo
+
+@tema
+(Tratactum 81, 4: CCL 36, 531-532) (Séc. V) Permaneçam em nós as palavras de Cristo
+
+@texto
+Se permanecerdes em Mim, diz o Senhor, e as minhas palavras permanecerem em vós, pedireis o que quiserdes e ser-vos-á concedido. Quem permanece em Cristo, que pode querer senão o que agrada a Cristo? Quem permanecem no Salvador, que pode querer senão o que não é alheio à salvação? De fato, queremos algumas coisas porque estamos em Cristo, mas queremos outras coisas porque ainda estamos neste mundo. Porque permanecemos neste mundo, somos por vezes impelidos a pedir o que nem sabemos se nos convém. Mas não suceda isto em nós, se permanecemos em Cristo, que, quando pedimos, não faça senão o que nos convém.
+Portanto, permanecendo n’Ele, quando as suas palavras permanecem em nós, pediremos o que queremos e ser-nos-á concedido. Porque se pedimos e não nos é concedido, não pedimos o que permanece n’Ele nem o que está nas suas palavras que permanecem em nós, mas o que provém da cobiça e da enfermidade da carne, que não está n’Ele e na qual não permanecem as suas palavras. Está de acordo com as suas palavras a oração que Ele mesmo nos ensinou, quando dizemos: _Pai nosso, que estais nos céus_. Não nos afastemos das palavras e do sentido desta oração nas nossas petições, e ser-nos-á concedido o que pedimos.
+Só podemos dizer que as suas palavras permanecem em nós, quando fazemos o que Ele nos mandou e amamos o que prometeu. Mas quando as suas palavras permanecem na memória e não se encontram no modo de viver, o ramo não está inserido na videira, porque não recebe a vida da raiz. A esta diferença se pode aplicar o que diz a Escritura: _Guardam na memória os seus mandamentos, para os cumprir_. Muitos guardam-nos na memória para os desprezar, ou até para os ridicularizar e atacar. As palavras de Cristo não permanecem naqueles que de algum modo tem contato com elas, mas não aderem a elas. Por isso não serão para eles um benefício, mas um testemunho adverso. E porque estão neles sem permanecerem neles, só as têm para serem julgados por elas..
+
+@secao Responsório | Cf. Rt 3,10a.11b; cf. Jt 13,19a
+
+@responsorio
+R. És bendita de Deus!
+* Todos sabem que és virtuosa mulher.
+V. O Senhor, de tal modo, tornou grande teu nome,
+que não mais cessará teu louvor entre os povos.* Todos sabem.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Senhor, a sabedoria da Cruz e a fortaleza de ânimo com que vos dignastes enriquecer Santa Rita de Cássia, para que, sofrendo com Cristo na tribulação, possamos participar mais intimamente do seu mistério pascal. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSLoreto_vesperas.htm
+@documento Vésperas - Bem-aventurada Virgem Maria de Loreto
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ave, do mar Estrela,
+bendita Mãe de Deus,
+fecunda e sempre Virgem,
+portal feliz dos céus.
+
+Ouvindo aquele Ave
+do anjo Gabriel,
+mudando de Eva o nome,
+trazei-nos paz do céu.
+
+Ao cego iluminai,
+ao réu livrai também;
+de todo mal guardai-nos
+e dai-nos todo o bem.
+
+Mostrai ser nossa Mãe,
+levando a nossa voz
+a Quem, por nós nascido,
+dignou-se vir de vós.
+
+Suave mais que todas,
+ó Virgem sem igual,
+fazei-nos mansos, puros,
+guardai-nos contra o mal.
+
+Oh! dai-nos vida pura,
+guiai-nos para a luz,
+e um dia, ao vosso lado,
+possamos ver Jesus.
+
+Louvor a Deus, o Pai,
+e ao Filho, Sumo Bem,
+com seu Divino Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+É Cristo a nossa paz pois nos trouxe pela cruz
+a paz com nosso Deus.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+É Cristo a nossa paz pois nos trouxe pela cruz
+a paz com nosso Deus.
+
+@antifona 2
+Aproximemo-nos, irmãos, da Cidade do Deus vivo,
+e de Jesus, o mediador de uma nova Aliança.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Aproximemo-nos, irmãos, da Cidade do Deus vivo,
+e de Jesus, o mediador de uma nova Aliança.
+
+@antifona 3
+É em Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+É em Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@secao Leitura breve | Gl 4,4-5
+
+@texto
+Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres da terra. e bendito é o fruto que nasceu do teu ventre! * O Senhor.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus
+vai cumprir-se conforme ele disse.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus
+vai cumprir-se conforme ele disse.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos e filhas. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que cumpristes as promessas a nossos Pais e escolhestes a Santa Virgem Maria para ser a Mãe do Salvador, concedei-nos seguir seu exemplo, cuja humildade vos agradou e cuja obediência nos auxiliou. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

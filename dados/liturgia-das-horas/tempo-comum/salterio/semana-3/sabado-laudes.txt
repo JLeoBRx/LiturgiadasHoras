@@ -1,0 +1,135 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sabado_laudes.htm
+@documento Laudes - Sábado
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+No céu refulge a aurora,
+e nasce um novo dia.
+As trevas se dissipem:
+a luz nos alumia.
+
+Bem longe os fantasmas,
+os sonhos e ilusões!
+Do mal que vem das trevas
+quebramos os grilhões.
+
+Na aurora derradeira
+possamos, preparados,
+cantar de Deus a glória,
+na sua luz banhados.
+
+Louvor e glória ao Pai,
+ao Filho seu também,
+e ao Divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós estais perto, ó Senhor, perto de mim;
+todos os vossos mandamentos são verdade.
+
+@secao XIX (Coph)
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@antifona
+Vós estais perto, ó Senhor, perto de mim;
+todos os vossos mandamentos são verdade.
+
+@antifona 2
+Que a vossa Sabedoria, ó Senhor,
+esteja junto a mim no meu trabalho.
+
+@salmo canticos/sb-9-1-6-9-11
+
+@gloria
+
+@antifona
+Que a vossa Sabedoria, ó Senhor,
+esteja junto a mim no meu trabalho.
+
+@antifona 3
+O Senhor para sempre é fiel.
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+O Senhor para sempre é fiel.
+
+@secao Leitura breve | Fl 2,14-15
+
+@texto
+Fazei tudo sem reclamar ou murmurar, para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós grito, ó Senhor, a vós clamo
+* E vos digo: Sois vós meu abrigo! R. A vós grito.
+V. Minha herança na terra dos vivos. * E vos digo.
+Glória ao Pai. R. A vós grito.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Iluminai, ó Senhor, os que jazem nas trevas
+e na sombra da morte.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Iluminai, ó Senhor, os que jazem nas trevas
+e na sombra da morte.
+
+@secao Preces
+
+@preces
+Invoquemos a Deus, que elevou a Virgem Maria, Mãe de Cristo, acima de todas as criaturas do céu e da terra; e digamos cheios de confiança:
+
+R. **Interceda por nós a Mãe do vosso Filho.**
+
+Pai de misericórdia, nós vos damos graças porque nos destes Maria como mãe e exemplo:
+– por sua intercessão, santificai os nossos corações. R.
+
+Vós, que fizestes de Maria a serva fiel e atenta à vossa Palavra,
+– por sua intercessão, fazei de nós servos e discípulos de vosso Filho. R.
+
+Vós, que fizestes de Maria a Mãe do vosso Filho por obra do Espírito Santo,
+– por sua intercessão, concedei-nos os frutos do mesmo Espírito. R.
+
+Vós, que destes força a Maria para permanecer junto da cruz, e a enchestes de alegria com a ressurreição de vosso Filho,
+– por sua intercessão, confortai-nos nas tribulações e reavivai a nossa esperança. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, fonte de salvação, fazei que o testemunho de nossa vida exalte sempre a vossa glória e mereçamos cantar nos céus vosso louvor eternamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

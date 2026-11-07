@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/7domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 12,6
+@texto
+Confiei no vosso amor, Senhor.
+Meu coração por vosso auxílio rejubile,
+E que eu vos cante pelo bem que me fizestes!
+
+@secao Coleta
+@texto
+Concedei-nos, Deus todo-poderoso,
+meditar sempre as realidades espirituais,
+e praticar em palavras e ações o que vos agrada.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, ao celebrarmos com reverência vossos mistérios,
+nós vos suplicamos,
+que o sacrifício oferecido em vossa honra
+nos seja útil para a salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 9,2-3
+@texto
+Senhor, de coração vos darei graças,
+as vossas maravilhas cantarei!
+Em vós exultarei de alegria,
+cantarei ao vosso nome, Deus Altíssimo!
+{Ou:}{Jo 11,27}
+Senhor, eu creio que tu és o Messias,
+o Filho de Deus, que devia vir ao mundo.
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso,
+concedei-nos em plenitude a salvação eterna,
+cujo penhor recebemos neste sacramento.
+Por Cristo, nosso Senhor.

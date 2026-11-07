@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2segunda_leituras.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@salmo salmos/salmo-030-2-17-20-25-i
+
+@gloria
+
+@antifona
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@antifona 2
+Mostrai serena a vossa face ao vosso servo!
+
+@salmo salmos/salmo-030-2-17-20-25-ii
+
+@gloria
+
+@antifona
+Mostrai serena a vossa face ao vosso servo!
+
+@antifona 3
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!
+
+@salmo salmos/salmo-030-2-17-20-25-iii
+
+@gloria
+
+@antifona
+Seja bendito o Senhor Deus
+por seu amor maravilhoso!

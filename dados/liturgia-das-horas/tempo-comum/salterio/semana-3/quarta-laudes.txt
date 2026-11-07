@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quarta_laudes.htm
+@documento Laudes - Quarta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó noite, ó treva, ó nuvem,
+não mais fiqueis aqui!
+Já surge a doce aurora,
+o Cristo vem: parti!
+
+Rompeu-se o véu da terra,
+cortado por um raio:
+as coisas tomam cores,
+já voltam do desmaio.
+
+Assim também se apague
+a noite do pecado,
+e o Cristo em nossas almas
+comece o seu reinado.
+
+Humildes, vos pedimos
+em nosso canto ou choro:
+ouvi, ó Cristo, a prece,
+que sobe a vós, em coro.
+
+Os fogos da vaidade
+a vossa luz desfaz.
+Estrela da manhã,
+quão doce vossa paz.
+
+Louvor ao Pai, ó Cristo,
+louvor a vós também;
+reinais, no mesmo Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Alegrai vosso servo, Senhor,
+pois a vós eu elevo a minh'alma.
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Alegrai vosso servo, Senhor,
+pois a vós eu elevo a minh'alma.
+
+@antifona 2
+Feliz de quem caminha na justiça,
+diz a verdade e não engana o semelhante!
+
+@salmo canticos/is-33-13-16
+
+@gloria
+
+@antifona
+Feliz de quem caminha na justiça,
+diz a verdade e não engana o semelhante!
+
+@antifona 3
+Aclamai ao Senhor e nosso Rei!
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+Aclamai ao Senhor e nosso Rei!
+
+@secao Leitura breve | Jó 1,21; 2,10b
+
+@texto
+Nu eu saí do ventre de minha mãe e nu voltarei para lá. O Senhor deu, o Senhor tirou; como foi do agrado do Senhor, assim foi feito. Bendito seja o nome do Senhor! Se recebemos de Deus os bens, não deveríamos receber também os males?
+
+@secao Responsório breve
+
+@responsorio
+R. Para os vossos mandamentos,
+* Inclinai meu coração! R. Para os vossos.
+V. Dai-me a vida em vossa Lei! * Inclinai.
+Glória ao Pai. R. Para os vossos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Mostrai-nos, ó Senhor, misericórdia,
+recordando vossa santa Aliança.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, misericórdia,
+recordando vossa santa Aliança.
+
+@secao Preces
+
+@preces
+Oremos a Cristo que nos alimenta e protege a Igreja, pela qual deu sua vida; e digamos com fé:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Bendito sejais, Senhor Jesus Cristo, Pastor da Igreja, que nos dais hoje luz e vida;
+– ensinai-nos a vos agradecer tão precioso dom. R.
+
+Velai com bondade sobre o rebanho reunido em vosso nome,
+– para que não se perca nenhum daqueles que o Pai vos confiou. R.
+
+Conduzi a Igreja pelo caminho dos vossos mandamentos,
+– e que o Espírito Santo a mantenha sempre fiel. R.
+
+Alimentai a Igreja com a vossa Palavra e o vosso Pão,
+– para que, fortalecida por este alimento, ela vos siga com alegria. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, que nos criastes em vossa sabedoria e nos governais em vossa providência, iluminai nossos corações com a luz do vosso Espírito, para que por toda a vida vos sejamos dedicados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,27 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/vigilia_canticos.htm
+@documento Cânticos da Vigília
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Sede o nosso braço forte, ó Senhor, cada manhã,
+e no tempo da aflição sede a nossa salvação!
+
+@salmo canticos/i-is-33-2-10
+
+@gloria
+
+@salmo canticos/is-33-13-16
+
+@gloria
+
+@salmo canticos/iii-eclo-36-14-19
+
+@gloria
+
+@antifona
+Sede o nosso braço forte, ó Senhor, cada manhã,
+e no tempo da aflição sede a nossa salvação!

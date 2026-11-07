@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3segunda_leituras.htm
+@documento Ofício das Leituras - III Segunda-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Vem a nós o nosso Deus e nos fala abertamente.
+
+@salmo salmos/salmo-049-i
+
+@gloria
+
+@antifona
+Vem a nós o nosso Deus e nos fala abertamente.
+
+@antifona 2
+Oferece ao Senhor um sacrifício de louvor!
+
+@salmo salmos/salmo-049-ii
+
+@gloria
+
+@antifona
+Oferece ao Senhor um sacrifício de louvor!
+
+@antifona 3
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor!
+
+@salmo salmos/salmo-049-iii
+
+@gloria
+
+@antifona
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor!

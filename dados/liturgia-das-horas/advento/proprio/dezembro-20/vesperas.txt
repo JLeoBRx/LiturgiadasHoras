@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/20_vesperas.htm
+@documento Próprio - Vésperas - 20 de dezembro
+
+@secao Leitura breve | Cf. 1Cor 1,7b-9
+
+@texto
+Aguardamos a revelação do Senhor nosso, Jesus Cristo. É ele também que vos dará perseverança em vosso procedimento irrepreensível até ao fim, até ao dia de nosso Senhor, Jesus Cristo. Deus é fiel; por ele fostes chamados à comunhão com seu Filho.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Está perto a salvação dos que o respeitam.
+* Nele se alegra. Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Chave de Davi, Cetro da casa de Israel,
+que abris e ninguém fecha, que fechais e ninguém abre:
+vinde logo e libertai o homem prisioneiro,
+que, nas trevas e na sombra da morte, está sentado.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Ó Chave de Davi, Cetro da casa de Israel,
+que abris e ninguém fecha, que fechais e ninguém abre:
+vinde logo e libertai o homem prisioneiro,
+que, nas trevas e na sombra da morte, está sentado.
+
+@secao Preces
+
+@preces
+Invoquemos, irmãos e irmãs diletos, a Cristo nosso Senhor e Redentor, que virá em sua glória nos últimos tempos; e peçamos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor e Redentor do gênero humano, que, nascendo segundo a carne, viestes nos libertar do jugo da lei,
+– multiplicai em nós os benefícios da vossa bondade. R.
+
+Vós, que tomastes da nossa natureza o que podia unir-se à vossa divindade,
+– fortalecei a fragilidade humana com os dons da natureza divina. R.
+
+Cumulai nossos desejos com a manifestação da vossa presença,
+– e acendei em nossos corações o fogo do vosso amor. R.
+
+Concedei que se alegrem um dia convosco na glória,
+– os que neste mundo vos invocam na sinceridade da fé. R.
+
+{(intenções livres)}
+
+Derramai sobre as almas de todos os fiéis defuntos,
+– as riquezas da vossa infinita misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus, ao anúncio do Anjo, a Virgem imaculada acolheu vosso Verbo inefável e, como habitação da divindade, foi inundada pela luz do Espírito Santo. Concedei que, a seu exemplo, abracemos humildemente a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

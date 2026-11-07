@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3sexta_vesperas.htm
+@documento Vésperas - III Sexta-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Aquele que reina há de vir de Sião.
+É grande o seu nome: Senhor, Deus-conosco.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+Aquele que reina há de vir de Sião.
+É grande o seu nome: Senhor, Deus-conosco.
+
+@antifona 2
+Sede firmes na esperança,
+e vereis vir sobre vós o auxílio do Senhor.
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Sede firmes na esperança,
+e vereis vir sobre vós o auxílio do Senhor.
+
+@antifona 3
+Eu volto os olhos ao Senhor,
+e aguardo a Deus, meu Salvador.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Eu volto os olhos ao Senhor,
+e aguardo a Deus, meu Salvador.

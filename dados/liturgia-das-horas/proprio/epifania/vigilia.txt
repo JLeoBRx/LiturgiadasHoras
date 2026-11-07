@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/epifania_vigilia.htm
+@documento Vigília da Epifania do Senhor
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+A mãe, hoje, para o mundo deu à luz
+o Deus do céu, que é adorado pelos Magos,
+e honrado com as suas oferendas.
+Ajoelhemo-nos perante o Redentor!
+
+@salmo canticos/is-26-1-4-7-9-12
+
+@gloria
+
+@salmo canticos/ii-is-40-1-8
+
+@gloria
+
+@salmo canticos/is-66-10-14a
+
+@gloria
+
+@antifona
+A mãe, hoje, para o mundo deu à luz
+o Deus do céu, que é adorado pelos Magos,
+e honrado com as suas oferendas.
+Ajoelhemo-nos perante o Redentor!
+
+@secao Evangelho | Jo 1,1-18
+
+@texto
+[1] No princípio era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. [2] No princípio, estava ela com Deus. [3] Tudo foi feito por ela e sem ela nada se fez de tudo que foi feito. [4] Nela estava a vida, e a vida era a luz dos homens. [5] E a luz brilha nas trevas, e as trevas não conseguiram dominá-la.
+[6] Surgiu um homem enviado por Deus; seu nome era João. [7] Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele. [8] Ele não era a luz, mas veio para dar testemunho da luz: [9] daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano.
+[10] A Palavra estava no mundo - e o mundo foi feito por meio dela - mas o mundo não quis conhecê-la. [11] Veio para o que era seu, e os seus não a acolheram. [12] Mas, a todos os que a receberam, deu-lhes capacidade de se tornar filhos de Deus, isto é, aos que acreditam em seu nome, [13] pois estes não nasceram do sangue, nem da vontade da carne, nem da vontade do varão, mas de Deus mesmo.
+[14] E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como Filho unigênito, cheio de graça e de verdade. [15] Dele, João dá testemunho, clamando: "Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim". [16] De sua plenitude todos nós recebemos graça por graça. [17] Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo.
+[18] A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer.

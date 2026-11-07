@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1domingo_laudes.htm
+@documento Laudes - I Domingo do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Naquele dia escorrerá vinho novo das montanhas
+e as colinas leite e mel destilarão. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Naquele dia escorrerá vinho novo das montanhas
+e as colinas leite e mel destilarão. Aleluia.
+
+@antifona 2
+As montanhas e as colinas cantarão,
+as florestas e as matas saudarão ao Senhor,
+o Rei Supremo, que virá
+e reinará eternamente. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+As montanhas e as colinas cantarão,
+as florestas e as matas saudarão ao Senhor,
+o Rei Supremo, que virá
+e reinará eternamente. Aleluia.
+
+@antifona 3
+Eis que o grande Profeta virá,
+e Sião renovada será. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Eis que o grande Profeta virá,
+e Sião renovada será. Aleluia.
+
+@secao Leitura breve | Rm 13,11-12
+
+@texto
+Já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz.
+
+@secao Responsório breve
+
+@responsorio
+R. Mesmo as trevas para vós não são escuras,
+* Vós sois a luz do mundo, aleluia! R. Mesmo as trevas.
+V. Senhor, sondai-me, conhecei meu coração! * Vós sois.
+Glória ao Pai. R. Mesmo as trevas.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Rezemos a Deus, Pai de bondade, que nos concede a graça de esperarmos a manifestação do nosso Senhor Jesus Cristo; e digamos confiantes:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Santificai-nos, Senhor, nosso espírito, nossa alma e nosso corpo,
+– e guardai-nos irrepreensíveis para a vinda de vosso Filho. R.
+
+Ajudai-nos a passar santamente este dia,
+– e fazei-nos viver neste mundo com justiça e piedade. R.
+
+Revesti-nos de nosso Senhor Jesus Cristo,
+– e seremos repletos do Espírito Santo. R.
+
+Concedei-nos, Senhor, permanecer sempre vigilantes,
+– até o dia da gloriosa manifestação de vosso Filho. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei a vossos fiéis o ardente desejo de possuir o reino celeste, para que, acorrendo com as nossas boas obras ao encontro do Cristo que vem, sejamos reunidos à sua direita na comunidade dos justos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

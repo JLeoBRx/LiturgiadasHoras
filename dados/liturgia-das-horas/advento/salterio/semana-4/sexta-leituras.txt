@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4sexta_leituras.htm
+@documento Ofício das Leituras - IV Sexta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder.
+
+@salmo salmos/salmo-077-1-39-i
+
+@gloria
+
+@antifona
+Nossos pais nos transmitiram as grandezas,
+os prodígios do Senhor e seu poder.
+
+@antifona 2
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual.
+
+@salmo salmos/salmo-077-1-39-ii
+
+@gloria
+
+@antifona
+Eles comeram o maná vindo do céu,
+beberam água de uma rocha espiritual.
+
+@antifona 3
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!
+
+@salmo salmos/salmo-077-1-39-iii
+
+@gloria
+
+@antifona
+Recordemos que o Senhor é nossa Rocha
+e que o nosso Redentor é o Deus Altíssimo!

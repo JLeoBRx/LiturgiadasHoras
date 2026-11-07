@@ -1,0 +1,21 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/_24dezembroAD.htm
+
+@secao Antífona da entrada | Gl 4,4
+@texto
+Eis que já veio a plenitude dos tempos, em que Deus mandou à terra o seu Filho.
+
+@secao Coleta
+@texto
+Apressai-vos e não tardeis, Senhor Jesus, para que a vossa chegada renove as forças do que confiam em vosso amor. Vós, que sois Deus com o Pai, na unidade do Espírito Santo.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, ó Deus, nossas oferendas para que, recebidas em comunhão, apaguem nossos pecados e preparem os corações para a vinda gloriosa do vosso Filho. Que vive e reina para sempre.
+
+@secao Antífona da comunhão | Lc 1,68
+@texto
+Bendito o Senhor, Deus de Israel, que visitou e resgatou seu povo!
+
+@secao Depois da comunhão
+@texto
+Renovados por esta eucaristia, concedei-nos, ó Deus de misericórdia, que, preparando hoje o solene natal do vosso Filho, mereçamos colher com alegria os seus dons eternos. Por Cristo, nosso Senhor.

@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/16domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 53,6.8
+@texto
+Quem me protege e me ampara é meu Deus;
+é o Senhor quem sustenta minha vida.
+Quero ofertar-vos o meu sacrifício
+de coração e com muita alegria
+
+@secao Coleta
+@texto
+Senhor, sede propício a vossos fiéis,
+e, benigno, multiplicai neles os dons da vossa graça,
+para que, fervorosos na fé, esperança e caridade,
+perseverem sempre vigilantes
+na observância dos vossos mandamentos.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, no único sacrifício da cruz
+levastes à plenitude os diversos sacrifícios da antiga lei.
+Aceitai esta oblação das mãos dos vossos fiéis
+e santificai-a, com a mesma bênção que destes à oferta de Abel,
+a fim de que sirva para a salvação de todos
+o que cada um trouxe em vossa honra.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 110,4-5
+@texto
+O Senhor bom e clemente nos deixou
+o memorial de suas grandes maravilhas.
+Ele dá o alimento aos que o temem.
+{Ou:}{Ap 3,20}
+Eis que estou à porta e bato, diz o Senhor;
+se alguém ouvir minha voz e abrir a porta,
+eu entrarei na sua casa e tomaremos a refeição,
+eu com ele e ele comigo.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor misericordioso,
+permanecei junto ao vosso povo
+e fazei passar da antiga para a nova vida
+aqueles que iniciastes nos mistérios do céu.
+Por Cristo, nosso Senhor.

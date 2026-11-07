@@ -1,0 +1,134 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2segunda_laudes.htm
+@documento Laudes - II Segunda-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Quando terei a alegria de ver vossa face, Senhor?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Quando terei a alegria de ver vossa face, Senhor?
+
+@antifona 2
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@antifona 3
+Sede bendito, Senhor, no mais alto dos céus.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Sede bendito, Senhor, no mais alto dos céus.
+
+@secao Leitura breve | Is 2.3
+
+@texto
+Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis que vem vosso Deus Salvador!
+* Eis vosso Deus e Senhor! R. Eis que vem.
+V. O Senhor vem com força e poder.
+* Eis vosso Deus. Glória ao Pai. R. Eis que vem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Convertei-vos, nos diz o Senhor!
+Está próximo o reino de Deus. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Convertei-vos, nos diz o Senhor!
+Está próximo o reino de Deus. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos, irmãos caríssimos, a Cristo, nosso Redentor, que vem para libertar do poder da morte todos os que se voltam para ele; e supliquemos com humilde confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Quando anunciarmos, Senhor, a vossa vinda,
+– purificai o nosso coração de todo espírito de vaidade. R.
+
+Santificai, Senhor, a Igreja que fundastes,
+– para que glorifique o vosso nome por toda a terra. R.
+
+Concedei, Senhor, que a vossa lei ilumine os olhos do nosso coração,
+– e proteja os povos que em vós confiam. R.
+
+Vós que, por meio da Igreja, anunciais ao mundo a alegria da vossa vinda,
+– fazei que estejamos preparados para vos receber dignamente. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Cheguem à vossa presença, ó Deus, as nossas orações suplicantes,e possamos celebrar de coração puro o grande mistério da encarnação do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

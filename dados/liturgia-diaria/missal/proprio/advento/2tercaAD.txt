@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/2tercaAD.htm
+
+@secao Antífona da entrada | Cf. Zc 14,5.7
+@texto
+Eis que o Senhor virá e com ele todos os seus santos,
+e naquele dia brilhará uma grande luz.
+
+@secao Coleta
+@texto
+Ó Deus, que manifestastes a vossa salvação
+até os confins da terra,
+dai-nos esperar com alegria
+a glória do Natal do vosso Filho.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, com bondade
+as nossas humildes preces e oferendas;
+e como não podemos invocar os nossos méritos,
+socorrei-nos com o remédio da vossa misericórdia.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. 2Tm 4,8
+@texto
+O Senhor, justo juiz, dará a coroa da justiça
+aos que esperam com amor a sua vinda.
+
+@secao Depois da comunhão
+@texto
+Nós vos suplicamos, Senhor,
+que saciados com o alimento espiritual,
+pela participação nestes santos mistérios,
+nos ensineis a apreciar com sabedoria as coisas terrenas
+e colocar nossas esperanças nos bens eternos.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,161 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSAparecida_vesperas.htm
+@documento Vésperas - Bem-aventurada Virgem Maria da Conceição Aparecida
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ave, do mar Estrela,
+bendita Mãe de Deus,
+fecunda e sempre Virgem,
+portal feliz dos céus.
+
+Ouvindo aquele Ave
+do anjo Gabriel,
+mudando de Eva o nome,
+trazei-nos paz do céu.
+
+Ao cego iluminai,
+ao réu livrai também;
+de todo mal guardai-nos
+e dai-nos todo o bem.
+
+Mostrai ser nossa Mãe,
+levando a nossa voz
+a Quem, por nós nascido,
+dignou-se vir de vós.
+
+Suave mais que todas,
+ó Virgem sem igual,
+fazei-nos mansos, puros,
+guardai-nos contra o mal.
+
+Oh! dai-nos vida pura,
+guiai-nos para a luz,
+e um dia, ao vosso lado,
+possamos ver Jesus.
+
+Louvor a Deus, o Pai,
+e ao Filho, Sumo Bem,
+com seu Divino Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus
+vai cumprir-se conforme ele disse.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus
+vai cumprir-se conforme ele disse.
+
+@antifona 2
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu de teu ventre!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu de teu ventre!
+
+@antifona 3
+Toda santa e sem mancha de pecado,
+mereceste ser a Mãe do Salvador.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Toda santa e sem mancha de pecado,
+mereceste ser a Mãe do Salvador.
+
+@secao Leitura breve | Ap 21,2-3
+
+@texto
+Vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido. Então, ouvi uma voz forte que saía do trono e dizia: Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles.
+
+@secao Responsório breve
+
+@responsorio
+R. Sois feliz, Virgem Maria,
+* E mereceis todo louvor! R. Sois feliz.
+V. Pois de vós se levantou o Sol brilhante da justiça que é Cristo, nosso Deus. * E mereceis.
+Glória ao Pai. R. Sois feliz.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Porque eu escolhi e santifiquei este lugar,
+para que nele o meu nome permaneça eternamente,
+meu coração e os meus olhos nele sempre fixarei.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Porque eu escolhi e santifiquei este lugar,
+para que nele o meu nome permaneça eternamente,
+meu coração e os meus olhos nele sempre fixarei.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Nossa Senhora Aparecida, rogai a Deus por nós!**
+
+Vós, que fizestes de Maria a Mãe da misericórdia,
+– concedei a todos os que estão em perigo sentirem o seu amor materno. R.
+
+Vós, que confiastes a Maria a missão de mãe de família no lar de Jesus e José,
+– fazei que, por sua intercessão, todas as mães vivam em família o amor e a santidade. R.
+
+Vós, que destes a Maria a força para ficar de pé junto à cruz, e a enchestes de alegria com a ressurreição de vosso Filho,
+– socorrei os atribulados e confortai-os na esperança. R.
+
+Vós, que fizestes de Maria a serva fiel e atenta à vossa Palavra,
+– fazei de nós, por sua intercessão, servos e discípulos de vosso Filho. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, fiel à sua vocação e vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

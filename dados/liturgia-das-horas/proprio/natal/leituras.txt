@@ -1,0 +1,257 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/natal.htm
+@documento Ofício das Leituras - Natal Do Senhor Solenidade
+
+@celebracao
+NATAL DO SENHOR
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno esplendor da beleza divina,
+ó Cristo, vós sois luz e vida e perdão.
+Às nossas doenças trazeis o remédio,
+abris uma porta para a salvação.
+
+O coro dos anjos ressoa na terra
+e um mundo novo seu canto anuncia:
+a glória a Deus Pai nas alturas celestes,
+e ao gênero humano a paz e alegria.
+
+Embora pequeno, deitado em presépio,
+em todo o Universo, ó Cristo, reinais.
+Ó fruto bendito da Virgem sem mancha,
+que todos vos amem num reino de paz.
+
+Nasceis para dar-nos o céu como Pátria,
+vivendo na carne da humanidade.
+Renovem-se as mentes e os corações,
+se unam por laços de tal caridade.
+
+Às vozes dos anjos as nossas unimos,
+num coro exultante de glória e louvor,
+cantando aleluias ao Pai e ao Filho,
+cantando louvores e graças ao Amor.
+
+@secao Salmodia
+
+@antifona 1
+Foi assim que me falou o Senhor Deus:
+Tu és meu Filho, e eu hoje te gerei.
+
+@salmo salmos/salmo-002-v2
+
+@gloria
+
+@antifona
+Foi assim que me falou o Senhor Deus:
+Tu és meu Filho, e eu hoje te gerei.
+
+@antifona 2
+Como um esposo, o Senhor sai de seu quarto nupcial.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Como um esposo, o Senhor sai de seu quarto nupcial.
+
+@antifona 3
+Vossos lábios espalham a graça, o encanto,
+porque Deus, para sempre, vos deu sua bênção.
+
+@salmo salmos/salmo-044-v2
+
+@gloria
+
+@antifona
+Vossos lábios espalham a graça, o encanto,
+porque Deus, para sempre, vos deu sua bênção.
+
+@texto
+V. O Verbo se fez carne. Aleluia.
+R. E habitou entre nós. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {11,1-10}
+
+@tema
+A raiz de Jessé
+
+@texto
+Eis o que diz o Senhor Deus: [1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor;
+[2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus;
+[3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer;
+[4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a força da sua palavra
+e destruirá o mau com o sopro dos lábios.
+[5] Cingirá a cintura com a correia da justiça
+e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los.
+[7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi;
+[8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente.
+[9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+[10] Naquele dia, a raiz de Jessé
+se erguerá como um sinal entre os povos;
+hão de buscá-la as nações,
+e gloriosa será a sua morada.
+
+@secao Responsório
+
+@responsorio
+R. Nasceu hoje para nós o Rei dos céus, da Santa Virgem,
+para levar a humanidade, que havia se perdido,
+de volta ao reino do Senhor:
+* Alegrem-se os anjos,
+pois ao gênero humano a salvação apareceu.
+V. Glória a Deus nas alturas
+e paz na terra aos homens por ele amados, aleluia. * Alegrem-se.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc. V)} {(Sermo 1 in Nativitate Domini, 1-3: PL 54, 190-193)}
+
+@tema
+Toma consciência, ó cristão, da tua dignidade
+
+@texto
+Hoje, amados filhos, nasceu o nosso Salvador. Alegremo-nos. Não pode haver tristeza no dia em que nasce a vida; uma vida que, dissipando o temor da morte, enche-nos de alegria com a promessa da eternidade. Ninguém está excluído da participação nesta felicidade. A causa da alegria é comum a todos, porque nosso Senhor, vencedor do pecado e da morte, não tendo encontrado ninguém isento de culpa, veio libertar a todos. Exulte o justo, porque se aproxima da vitória; rejubile o pecador, porque lhe é oferecido o perdão; reanime-se o pagão, porque é chamado à vida. Quando chegou a plenitude dos tempos, fixada pelos insondáveis desígnios divinos, o Filho de Deus assumiu a natureza do homem para reconciliá-lo com o seu Criador, de modo que o demônio, autor da morte, fosse vencido pela mesma natureza que antes vencera. Eis por que, no nascimento do Senhor, os anjos cantam jubilosos: _Glória a Deus nas alturas_; e anunciam: _Paz na terra aos homens de boa vontade_ (Lc 2,14). Eles veem a Jerusalém celeste ser formada de todas as nações do mundo. Diante dessa obra inexprimível do amor divino, como não devem alegrar-se os homens, em sua pequenez, quando os anjos, em sua grandeza, assim se rejubilam? Amados filhos, demos graças a Deus Pai, por seu Filho, no Espírito Santo; pois, na imensa misericórdia com que nos amou, compadeceu-se de nós. E _quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo_ (Ef 2,5) para que fôssemos nele uma nova criação, nova obra de suas mãos. Despojemo-nos, portanto, do velho homem com seus atos; e tendo sido admitidos a participar do nascimento de Cristo, renunciemos às obras da carne. Toma consciência, ó cristão, da tua dignidade. E já que participas da natureza divina, não voltes aos erros de antes por um comportamento indigno de tua condição. Lembra-te de que cabeça e de que corpo és membro. Recorda-te que foste arrancado do poder das trevas e levado para a luz e o reino de Deus. Pelo sacramento do batismo te tornaste templo do Espírito Santo. Não expulses com más ações tão grande hóspede, não recaias sob o jugo do demônio, porque o preço de tua salvação é o sangue de Cristo.
+
+@secao Responsório
+
+@responsorio
+R. Hoje, a paz verdadeira desceu-nos do céu:
+* Hoje, os céus e a terra espalham doçura.
+V. Raiou hoje o dia do novo resgate
+de eterna alegria há muito esperado. * Hoje os céus.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que admiravelmente criastes o ser humano e mais admiravelmente restabelecestes a sua dignidade, dai-nos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

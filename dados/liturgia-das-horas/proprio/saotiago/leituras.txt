@@ -1,0 +1,243 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saotiago.htm
+@documento Ofício das Leituras - São Tiago Maior, Apóstolo Festa
+
+@celebracao
+SÃO TIAGO MAIOR, APÓSTOLO
+{Festa}
+
+@biografia
+Nasceu em Betsaida; era filho de Zebedeu e irmão do apóstolo João. Esteve presente aos principais milagres realizados por Cristo. Foi morto por Herodes, cerca do ano 42. É venerado com grande devoção em Compostela (Espanha), onde se ergue uma célebre basílica dedicada a seu nome.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {4,1-16}
+
+@tema
+Sejamos imitadores do Apóstolo, como ele o foi de Cristo
+
+@texto
+Irmãos: [1] Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. [2] A este respeito, o que se exige dos administradores é que sejam fiéis. [3] Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. [4] É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. [5] Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido. [6] Irmãos, apliquei essa doutrina a mim e a Apolo, por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. [7] Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido? [8] Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! [9] Na verdade, parece-me que Deus nos apresentou, a nós apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. [10] Nós somos os tolos por causa de Cristo, vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. [11] Até à presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; [12] fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; [13] somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até ao presente. [14] Escrevo-vos tudo isto, não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. [15] De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo. [16] Portanto, eu vos peço, sede meus imitadores.
+
+@secao Responsório | Jo 15,15; Mt 13,11.16
+
+@responsorio
+R. Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+* Pois vos dei a conhecer tudo quanto ouvi do Pai.
+V. A vós foi concedido conhecer
+os mistérios do reino dos céus;
+felizes vossos olhos porque veem,
+felizes os ouvidos porque ouvem. * Pois vos dei.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre Mateus, de São João Crisóstomo, bispo
+{(Séc.IV)} {(Hom. 65,2-4:PG58,619-622)}
+
+@tema
+Participantes da paixão de Cristo
+
+@texto
+Os filhos de Zebedeu pedem a Cristo: _Deixa-nos sentar um à tua direita e outro, à tua_ _esquerda_ (Mc 10,37). Que resposta lhes dá o Senhor? Para mostrar que no seu pedido nada havia de espiritual, e se soubessem o que pediam não teriam ousado fazê-lo, diz: _Não sabeis o que estais pedindo_ (Mt 20,22), isto é, não sabeis como é grande, admirável e superior aos próprios poderes celestes aquilo que pedis. Depois acrescenta: _Por acaso_ _podeis beber o cálice que eu vou beber?_ (Mt 20,22). É como se lhes dissesse: “Vós me falais de honras e de coroas; eu, porém, de combates e de suores. Não é este o tempo das recompensas, nem é agora que minha glória há de se manifestar. Mas a vida presente é de morte violenta, de guerra e de perigos”.
+
+Reparai como o Senhor os atrai e exorta, pelo modo de interrogar. Não perguntou: “Podeis suportar os suplícios? podeis derramar vosso sangue? Mas indagou: _Por acaso_ _podeis beber o cálice?_ E para os estimular, ainda acrescentou: _que eu vou beber?_ Assim falava para que, em união com ele, se tornassem mais decididos. Chama sua paixão de _batismo_, para dar a entender que os sofrimentos haviam de trazer uma grande purificação para o mundo inteiro. Então os dois discípulos lhe disseram: _Podemos_ (Mt 20,22). Prometem imediatamente, cheios de fervor, sem perceber o alcance do que dizem, mas com a esperança de obter o que pediam.
+
+Que afirma o Senhor? _De fato, vós bebereis do meu cálice_ (Mt 20,23), _e sereis_ _batizados com o batismo com que eu devo ser batizado_ (Mc 10,39). Grandes são os bens que lhes anuncia, a saber: “Sereis dignos de receber o martírio e sofrereis comigo; terminareis a vida com morte violenta e assim participareis da minha paixão”. _Mas não_ _depende de mim conceder o lugar à minha direita ou à minha esquerda. Meu Pai é_ _quem dará esses lugares àqueles para os quais ele os preparou_ (Mt 20,23). Somente depois de lhes ter levantado os ânimos e de tê-los tornado capazes de superar a tristeza é que corrigiu o pedido que fizeram.
+
+_Então os outros dez discípulos ficaram irritados contra os dois irmãos_ (Mt 20,24). Vedes como todos eles eram imperfeitos, tanto os que tentavam ficar acima dos outros, como os dez que tinham inveja dos dois? Mas, como já tive ocasião de dizer, observai-os mais tarde e vereis como estão livres de todos esses sentimentos. Prestai atenção como o mesmo apóstolo João, que se adianta agora por este motivo, cederá sempre o primeiro lugar a Pedro, quer para usar da palavra, quer para fazer milagres, conforme se lê nos Atos dos Apóstolos. Tiago, porém, não viveu muito mais tempo. Desde o princípio, pondo de parte toda aspiração humana, elevou-se a tão grande santidade que bem depressa recebeu a coroa do martírio.
+
+@secao Responsório | Sl 18(19),5
+
+@responsorio
+R. São estes que vivendo neste mundo,
+plantaram a Igreja com seu sangue.
+* Beberam o cálice de Cristo
+e se tornaram amigos de Deus.
+V. Em toda a terra se espalha o seu anúncio
+e sua voz, pelos confins do universo. * Beberam.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que pelo sangue de São Tiago consagrastes as primícias dos trabalhos dos Apóstolos, concedei que a vossa Igreja seja confirmada pelo seu testemunho e sustentada pela sua proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

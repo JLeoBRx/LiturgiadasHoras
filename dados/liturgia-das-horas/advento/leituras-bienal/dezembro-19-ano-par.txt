@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/bienal/19dezembro_par.htm
+@documento Ofício das Leituras - 19 De Dezembro
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {47,1.3b-15}
+
+@tema
+Lamentação sobre a Babilônia
+
+@texto
+[1] Desce e assenta-te no pó, virgem, filha da Babilônia, senta-te no chão – já não tens trono –, filha dos caldeus, porque nunca mais te chamarão meiga e delicada. [3b] Eu tomo vingança de ti: ninguém se oporá a isto. [4] O nosso redentor – Senhor dos Exércitos é o seu nome – o Santo de Israel, disse: [5] Senta-te em silêncio, refugia-te nas trevas, filha dos caldeus, porque nunca mais tornarão a chamar-te senhora dos reinos. [6] Eu estava irritado contra o meu povo, reduzi a minha herança a humilhação, entreguei-a nas tuas mãos, mas tu não usaste de compaixão para com ela: até sobre os velhos impuseste o duro peso do teu jugo. [7] Certamente dizias: “Por todo o sempre serei senhora”. Estas coisas não puseste no teu coração, não te preocupaste com o que viria depois. [8] Ouve isto, agora, ó voluptuosa! Tu que te sentas despreocupada e dizes no teu coração: “Eu sou, e fora de mim não há nada! Não me tornarei viúva, nem ficarei desfilhada!” [9] Pois bem, justamente estas duas desgraças te sobrevirão, de repente em um só dia. Sim, desfilhamento e viuvez te sobrevirão repentinamente, apesar dos teus inúmeros sortilégios, apesar do poder dos teus encantamentos. [10] Puseste a tua confiança na tua maldade e disseste: “Não há quem me veja.” A tua sabedoria e o teu conhecimento é o que te transtornaram, e assim disseste no teu coração: “Eu sou, fora de mim não há nada.” [11] Uma desgraça te sobrevirá, tu não saberás como conjurá-la; uma ruína se desencadeará sobre ti e tu não poderás afastá-la. Repentinamente virá sobre ti a calamidade, sem que o saibas. [12] Persiste, pois, nos teus encantamentos e na multidão dos teus sortilégios, com os quais te fatigaste desde a tua juventude. Talvez consigas tirar deles algum proveito, talvez consigas inspirar medo. [13] Estás cansada de tuas inúmeras consultas; apresentem-se, pois, e te salvem aqueles que praticam a astrologia, que observam as estrelas, que te dão a conhecer de mês em mês o que há de sobrevir-te. [14] Eles são como o restolho, o fogo os queimará; não conseguirão salvar a sua vida do poder das chamas, pois não se tratará de um braseiro próprio para aquentar-se, ou de um fogo próprio para sentar-se junto dele! [15] Tais serão os teus adivinhos, com os quais te fatigaste desde a tua juventude: todos eles se desgarraram do seu caminho, nenhum conseguiu salvar-te.
+
+@secao Responsório | Is 49,13; 47,4
+
+@responsorio
+R. Cantai, ó céus, e exulte a terra,
+gritai, ó montes, de alegria:
+* Pois o Senhor se compadece de seu povo e dos aflitos.
+V. Ele é o nosso Redentor, o Senhor do universo,
+o Deus santo de Israel.* Pois o Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc. II)} {(Lib. 3, 20, 2-3: SCh 34, 342-344)}
+
+@tema
+A economia da Encarnação redentora
+
+@texto
+A glória do homem é Deus; mas quem se beneficia das obras de Deus e de toda a sua sabedoria e poder é o homem. Semelhante ao médico que demonstra sua competência no doente, assim Deus se manifesta nos homens. Eis por que o Apóstolo Paulo diz: _Deus encerrou todos os homens na desobediência, a fim de exercer misericórdia para com todos_ (Rm 11,32). Referia-se ao homem que, por ter desobedecido a Deus, perdeu a imortalidade, mas depois obteve misericórdia, recebendo a adoção por intermédio do Filho de Deus. Se o homem acolhe, sem orgulho nem presunção, a verdadeira glória que procede das criaturas e do criador, isto é, de Deus todo-poderoso que dá a tudo a existência, e se permanece em seu amor, na obediência e na ação de graças, receberá dele uma glória ainda maior, progredindo sempre mais, até se tornar semelhante àquele que morreu por ele. Com efeito, Cristo se revestiu de uma _carne semelhante à do pecado_ (Rm 8,3) para condenar o pecado e, depois de o condenar, expulsá-lo da carne. Tudo isso para incentivar o homem a tornar-se semelhante a ele, destinando-o a ser imitador de Deus, colocando-o sob a obediência paterna, a fim de que visse a Deus e tivesse acesso ao Pai. O Verbo de Deus habitou no homem e se fez filho do homem, para acostumar o homem a compreender a Deus e Deus a habitar no homem, segundo a vontade do Pai. Por esse motivo, o _sinal_ de nossa salvação, o _Emanuel_ nascido da _Virgem_ (cf. Is 7,11.14), foi dado pelo próprio Senhor; pois seria ele quem salvaria os homens, já que não poderiam salvar-se por si mesmos. Por isso São Paulo proclama a fraqueza do homem, dizendo: _Estou ciente de que o bem não habita em mim_ (Rm 7,18), indicando que o bem de nossa salvação não vem de nós, mas de Deus. E ainda: _Infeliz que sou! Quem me libertará deste corpo de morte?_ (Rm 7,24). E logo mostra quem o liberta: _A graça de nosso Senhor Jesus Cristo_ (cf. Rm 7,25). Também Isaías diz: _Fortalecei as mãos enfraquecidas e firmai os joelhos debilitados. Dizei às pessoas deprimidas: “Criai ânimo, não tenhais medo! Vede, é vosso Deus, é a vingança que vem, é a recompensa de Deus; é ele que vem para nos salvar”_ (cf. Is 35,3-4). Na verdade, nossa salvação não poderia vir de nós mesmos, mas unicamente do socorro de Deus.
+
+@secao Responsório | Cf. Jr 31,10; 4,5
+
+@responsorio
+R. Ouvi, nações, a palavra do Senhor
+e anunciai-a nas ilhas mais distantes:
+* Eis que vem nosso Deus e Salvador.
+V. Anunciai, em alta voz, fazei ouvir,
+com voz forte, proclamai aos homens todos: * Eis que vem.
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes ao mundo o esplendor de vossa glória pelo parto virginal de Maria, dai-nos venerar com fé pura e celebrar sempre com amor sincero o mistério tão profundo da encarnação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

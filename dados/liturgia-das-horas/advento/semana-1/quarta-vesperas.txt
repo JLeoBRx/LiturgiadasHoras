@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quarta_vesperas.htm
+@documento Vésperas - I Quarta-Feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+O Senhor é minha luz e salvação;
+de quem eu terei medo? †
+
+@salmo salmos/salmo-026-i
+
+@gloria
+
+@antifona
+O Senhor é minha luz e salvação;
+de quem eu terei medo?
+
+@antifona 2
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@salmo salmos/salmo-026-ii
+
+@gloria
+
+@antifona
+Senhor, é vossa face que eu procuro;
+não me escondais a vossa face!
+
+@antifona 3
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura,
+e em tudo Ele tem a primazia.
+
+@secao Leitura breve | 1Cor 4,5
+
+@texto
+Não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o tempo favorável,
+* Eis o dia da salvação! R. Eis o tempo.
+V. O Reino de Deus está bem perto.
+* Eis o dia. Glória ao Pai. R. Eis o tempo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+De Sião a sua lei há de sair.
+Jerusalém espalhará sua Palavra.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+De Sião a sua lei há de sair.
+Jerusalém espalhará sua Palavra.
+
+@secao Preces
+
+@preces
+Supliquemos humildemente a Deus Pai, que enviou seu Filho para trazer-nos a paz sem fim; e digamos:
+
+R. **Venha a nós, Senhor, o vosso reino!**
+
+Pai santo, olhai com bondade para a vossa Igreja,
+– e vinde visitar esta vinha que vossa mão plantou. R.
+
+Deus fiel, lembrai-vos de todos os filhos de Abraão,
+– e cumpri as promessas feitas a seus pais. R.
+
+Deus clementíssimo, compadecei-vos dos povos que ainda não vos conhecem,
+– para que vos glorifiquem por vossa misericórdia. R.
+
+Pastor eterno, visitai as ovelhas do vosso rebanho,
+– e reuni-as todas no único aprisco de Cristo. R.
+
+{(intenções livres)}
+
+Lembrai-vos também de todos os que partiram deste mundo na vossa paz,
+– e recebei-os na glória com vosso Filho. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus, preparai os nossos corações com a força da vossa graça, para que, ao chegar o Cristo, vosso Filho, nos encontre dignos do banquete da vida eterna, e ele mesmo nos sirva o alimento celeste. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

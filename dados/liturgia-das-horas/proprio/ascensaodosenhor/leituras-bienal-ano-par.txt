@@ -1,0 +1,260 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/ascensaodosenhor_par.htm
+@documento Ofício das Leituras - Ascensão Do Senhor Solenidade
+
+@celebracao
+ASCENSÃO DO SENHOR
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Senhor, Rei eterno e sublime,
+dos fiéis imortal Redentor!
+Morre a morte, por vós destruída,
+e triunfa, por graça, o amor.
+
+Sobre o trono celeste elevado,
+à direita do Pai vos sentais,
+e um poder é a vós concedido,
+que é do céu, não pertence aos mortais,
+
+para que todo ser que criastes
+nos abismos, na terra, ou nos céus
+ante vós, de joelhos, se incline,
+com respeito, adorando seu Deus.
+
+Tremem anjos, perante a mudança
+que o destino dos homens sofreu:
+peca a carne e a carne redime,
+reina a carne no Verbo de Deus.
+
+Sois, Senhor, nosso gozo e delícia,
+que a alegria do mundo ofuscais.
+Sois também nosso prêmio perene,
+vós que a todo o universo guiais.
+
+Suplicantes, portanto, rogamos:
+Nossas culpas, Senhor, perdoai.
+Pela força da graça divina,
+nossas mentes a vós elevai.
+
+Quando em glória voltardes na nuvem,
+a julgar as nações reunidas,
+afastai os devidos castigos,
+dai de novo as coroas perdidas.
+
+Honra a vós, ó Jesus glorioso,
+que às alturas dos céus ascendeis.
+Com o Pai e o Espírito Santo
+pelos séculos sem fim reinareis.
+
+@secao Salmodia
+
+@antifona 1
+Cantai a Deus, a Deus louvai,
+cantai um salmo a seu nome!
+Abri caminho para Aquele
+que é levado sobre as nuvens. Aleluia.
+
+@salmo salmos/salmo-067-i
+
+@gloria
+
+@antifona
+Cantai a Deus, a Deus louvai,
+cantai um salmo a seu nome!
+Abri caminho para Aquele
+que é levado sobre as nuvens. Aleluia.
+
+@antifona 2
+Vós subistes para o alto e levastes os cativos. Aleluia.
+
+@salmo salmos/salmo-067-ii-v2
+
+@gloria
+
+@antifona
+Vós subistes para o alto e levastes os cativos. Aleluia.
+
+@antifona 3
+Contemplamos, ó Senhor,
+vosso cortejo que desfila:
+é a entrada do meu Deus
+do meu Rei, no santuário. Aleluia.
+
+@salmo salmos/salmo-067-iii-v2
+
+@gloria
+
+@antifona
+Contemplamos, ó Senhor,
+vosso cortejo que desfila:
+é a entrada do meu Deus
+do meu Rei, no santuário. Aleluia.
+
+@texto
+V. O Senhor abriu suas mentes, aleluia,
+R. Para entenderem a Escritura. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {4,1-24}
+
+@tema
+Subindo às alturas, levou cativo o cativeiro
+
+@texto
+Irmãos, exorto-vos, pois, eu, o prisioneiro no Senhor, a andares de modo digno da vocação a que fostes chamados: com toda humildade e mansidão, com longanimidade, suportando-vos uns aos outros com amor, procurando conservar a unidade do Espírito pelo vínculo da paz. Há um só Corpo e um só Espírito, assim como é uma só a esperança da vocação a que fostes chamados; há um só Senhor, uma só fé, um só batismo; há um só Deus e Pai de todos, que está acima de todos, por meio de todos e em todos.
+Mas a cada um de nós foi dada a graça pela medida do dom de Cristo, por isso é que se diz: _Tendo subido às alturas, levou cativo o cativeiro,_ _concedeu dons aos homens._
+Que significa “subiu”, senão que ele também desceu às profundezas da terra? O que desceu é também o que subiu acima de todos os céus, a fim de plenificar todas as coisas. E ele é que “concedeu” a uns ser apóstolos, a outros profetas, a outros evangelistas, a outras pastores e doutores, para aperfeiçoar os santos em vista do ministério, para a edificação do Corpo de Cristo, até que alcancemos todos nós a unidade da fé e do pleno conhecimento do Filho de Deus, o estado de Homem Perfeito, a medida da estatura da plenitude de Cristo.
+Assim, não seremos mais crianças, joguetes das ondas, agitados por todo vento de doutrina, presos pela artimanha dos homens e da sua astúcia que nos induz ao erro. Mas, seguindo a verdade em amor, cresceremos em tudo em direção àquele que é a Cabeça, Cristo, cujo Corpo, em sua inteireza, bem ajustado e unido por meio de toda junta e ligadura, com a operação harmoniosa de cada uma das suas partes, realiza o seu crescimento para sua própria edificação no amor.
+Isto, portanto, digo e no Senhor testifico. Não andeis mais como andam os demais gentios, na futilidade dos seus pensamentos, com entendimento entenebrecido, alienados da vida de Deus pela sua ignorância e pela dureza dos seus corações. Tendo-se tornado insensíveis, entregaram-se à dissolução para praticarem avidamente toda sorte de impureza. Vós, porém, não aprendestes assim a Cristo, se realmente o ouvistes e, como é a verdade em Jesus, nele fostes ensinados a remover o vosso modo de vida anterior - o homem velho, que se corrompe ao sabor das concupiscências enganosas - e a renovar-vos pela transformação espiritual da vossa mente, e revestir-vos do Homem Novo, criado segundo Deus, na justiça e santidade da verdade.
+
+@secao Responsório | Sl 67(68),19;Ef 4,8;Sl 46(47),6
+
+@responsorio
+R. Por entre aclamações Deus se elevou, aleluia,
+* O Senhor subiu ao toque da trombeta, aleluia, aleluia.
+V. Cristo, subindo às alturas, levou cativo o cativeiro,
+e distribuiu dons aos homens. * O Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo in Ascensione Domini: Mai 98,1-2, PLS 2,494-495)}
+
+@tema
+Ninguém subiu ao céu_
+_senão aquele que desceu do céu
+
+@texto
+Hoje nosso Senhor Jesus Cristo subiu ao céu; suba também com ele o nosso coração.
+Ouçamos as palavras do Apóstolo: _Se ressuscitastes com_ _Cristo, buscai as coisas do alto, onde Cristo está sentado_ _à direita de Deus; cuidai das coisas do alto, não do que é_ _da terra_ (C1 3,1-2). E assim como ele subiu sem se afastar de nós, também nós subimos com ele, embora não se tenha ainda realizado em nosso corpo o que nos está prometido.
+Cristo já foi elevado ao mais alto dos céus; no entanto, continua sofrendo na terra através das tribulações que nós experimentamos como seus membros. Deu testemunho desta verdade quando se fez ouvir lá do céu: _Saulo, Saulo,_ _porque me persegues?_ (At 9,4). E ainda: _Estava com fome,_ _e me destes de comer_ (Mt 25,35).
+Por que razão nós também não trabalhamos aqui na terra de tal modo que, pela fé, esperança e caridade que nos unem a nosso Salvador, já descansemos com ele no céu? Cristo está no céu, mas também está conosco; e nós, permanecendo na terra, estamos também com ele. Por sua divindade, por seu poder e por seu amor ele está conosco; nós, embora não possamos realizar isso pela divindade, como ele, ao menos podemos realizar pelo amor que temos por ele.
+O Senhor Jesus Cristo não deixou o céu quando de lá desceu até nós; também não se afastou de nós quando subiu novamente ao céu. Ele mesmo afirma que se encontrava no céu quando vivia na terra, ao dizer: _Ninguém subiu ao céu_ _senão aquele que desceu do céu: o Filho do Homem que_ _está no céu_ (cf. Jo 3,13).
+Isso foi dito para significar a unidade que existe entre ele, nossa Cabeça, e nós, seu Corpo. E ninguém, senão ele, podia realizar essa unidade que nos identifica com ele mesmo, pois tornou-se Filho do Homem por nossa causa, e nós, por meio dele, nos tornamos filhos de Deus.
+Neste sentido diz o Apóstolo: _Como o corpo é um,_ _embora tenha muitos membros, e como todos os membros_ _do corpo, embora sejam muitos, formam um só corpo, assim_ _também acontece com Cristo_ (1Cor 12,12). Ele não diz: “Assim é Cristo”, mas: Assim também acontece com Cristo. Portanto, Cristo é um só, formado por muitos membros. Desceu do céu por sua misericórdia, e ninguém mais subiu senão ele; mas nele, pela graça, também nós subimos. Por conseguinte, ninguém mais desceu senão Cristo, e ninguém mais subiu além de Cristo.
+Isto não quer dizer que a dignidade da Cabeça se confunde com a do Corpo, mas que a unidade do Corpo não se separa da Cabeça.
+
+@secao Responsório | At 1,3.9.4
+
+@responsorio
+R. Depois de sua paixão,
+Jesus apareceu aos apóstolos por um período de quarenta dias,
+falando do Reino de Deus;
+* E, à vista deles, se elevou,
+e uma nuvem o ocultou a seus olhos, aleluia.
+V. Certa vez, tomando a refeição com eles, deu-lhes esta ordem:
+“Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai”. * E, à vista.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

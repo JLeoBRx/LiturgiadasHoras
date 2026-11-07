@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/20segundaTC.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Leitura do Profeta Isaías {3,1-15}
+
+@tema
+Censuras a Jerusalém
+
+@texto
+[1] Eis que o Dominador, Senhor dos exércitos, vai retirar de Jerusalém e de Judá a força e a proteção, todo o fornecimento de pão e todo o fornecimento de água, [2] o homem valente, o guerreiro, o juiz e o profeta, o adivinho e o ancião, [3] o chefe militar e o civil elegante, o conselheiro e o mágico ilusionista, e o perito em encantamentos. [4] Porei meninos para serem seus chefes e crianças para os governarem. [5] Motins populares explodirão, homem contra homem, uns contra os outros; tumultos de jovens contra velhos e de plebeus contra nobres. [6] Chega um e prende o irmão na casa de seu pai, e diz: "Tens traje adequado, sê nosso chefe, [7] fique esta desordem aos teus cuidados". Ele gritará, naquele dia, dizendo: "Não sou médico para curar nem há em minha casa pão nem roupa; não me ponhais como chefe do povo".
+
+@texto
+[8] Cai Jerusalém e rola, Judá juntamente, pois suas palavras e ações contra o Senhor desafiaram o seu olhar poderoso. [9] O descaramento dos seus rostos acusa-os; como Sodoma, propalam, não escondem o seu pecado; ai deles, porque vão sofrer novas desgraças! [10] Louvai o justo, dizendo: "Muito bem!", pois gozarão do fruto de suas boas obras. [11] Ai do mau! Para sua infelicidade ele terá a paga de suas obras! [12] Este meu povo, uma criança é capaz de reprimi-lo, mulheres mandam nele. Povo meu, os que te dizem feliz, esses mesmos te enganam e destroem o caminho dos teus passos.
+
+@texto
+[13] O Senhor levanta-se para acusar os povos e põe-se de pé para julgá-los. [14] O Senhor entrará em juízo com os anciãos do povo e seus príncipes: "Vós devorastes a vinha, e vossas casas guardam o roubo feito ao pobre. [15] Por que esmagais o meu povo, e esbofeteais o rosto dos pobres?" diz o Senhor Deus dos exércitos.
+
+@secao Responsório | Is 3,10.11.13
+
+@responsorio
+R. Dizei ao justo que tudo lhe vai bem,
+pois do fruto de suas obras colherá.
+* Ai do perverso, pois tudo lhe vai mal,
+será tratado de acordo com suas obras.
+V. O Senhor se dispõe para acusar;
+está em pé para julgar os povos todos.
+* Ai do perverso.
+
+@secao Segunda leitura
+
+@leitura
+Dos livros _Moralia_ sobre Jó, de São Gregório Magno, papa
+{(Séc. VI)} {(Lib. 3,39-40: PL 75,619-620)}
+
+@tema
+No exterior, combates; no interior, temores
+
+@texto
+Os santos varões, envolvidos na luta das adversidades, ao mesmo tempo que golpeiam a uns, a outros sustentam pela persuasão; àqueles opõem o escudo da paciência, a estes atiram as setas da doutrina, e em ambos os modos de combater, impõem-se pela maravilhosa arte da virtude. Dentro, compõem com sabedoria as coisas desregradas, e fora, desprezam com fortaleza as adversas. Ensinando, corrigem a uns; a outros, tolerando, barram o caminho. Pois pela paciência suportam os inimigos que atacam, mas por compaixão reconduzem à salvação os irmãos mais fracos. Resistem àqueles para que não desencaminhem os outros. A estes oferecem a sua solicitude, para que não se desviem totalmente do caminho reto.
+
+@texto
+Contemplemos o soldado dos exércitos de Deus, lutando contra ambos. Diz: _No exterior, combates; no interior, temores_ (2Cor 7,5). Enumera as pelejas que sustenta fora: _Perigos nos rios, dos ladrões, perigos de minha raça, perigos dos gentios, perigos na cidade, perigos no deserto, perigos no mar, perigos dos falsos irmãos_ (2Cor 11,26). Nesta guerra, aos dardos a se lançarem contra o adversário, acrescenta: _Nos trabalhos e tristezas, nas muitas vigílias, na fome e na sede, em muitos jejuns, no frio e na nudez_ (2Cor 11,27).
+
+@texto
+Mas, envolvido em tantas lutas, diz como guardava pela fortaleza das vigílias o próprio acampamento. Ajunta logo: _Além destas coisas exteriores, minha preocupação diária, a solicitude por todas as Igrejas_ (2Cor 11,28). Com coragem aceita em si as lutas e se consagra com misericórdia a proteger o próximo. Contra os males sofridos, acrescenta o bem realizado.
+
+@texto
+Imaginemos que trabalho tolerar os males de fora e ao mesmo tempo proteger os fracos de dentro. Suporta no exterior adversidades. Pois é rasgado pelas chicotadas, preso em cadeias. No interior, sente o medo de que seus sofrimentos sejam obstáculos não para si, mas para os discípulos. Por isto escreve-lhes: _Ninguém se perturbe com estas tribulações. Vós mesmos sabeis que para isto fomos escolhidos_ (1Ts 3,3). Em seus padecimentos temia a queda dos outros, porque se os discípulos soubessem que suportava açoites pela fé, talvez viessem a recusar o testemunho de fidelidade.
+
+@texto
+Ó entranhas de imensa caridade! Não se importa com aquilo que ele mesmo sofre e cuida de que os discípulos não sofram de alguma ideia perniciosa no coração. Despreza em si as feridas do corpo e sara nos outros as feridas do coração. Os justos têm isto de próprio: na dor de suas atribuições, não abandonam o interesse pelo bem do outro; e, sofrendo, estão atentos a ensinar o necessário aos outros e sofrem como grandes médicos doentes. Em si toleram as feridas profundas e prescrevem a outros os medicamentos salutares.
+
+@secao Responsório Cf. Jó 13,20-21; cf. Jr 10,24
+
+@responsorio
+R. Não me escondais, ó Senhor, vossa face
+e de mim afastai vossa mão;
+* Não me apavore o vosso terror.
+V. Corrigi-me, Senhor, com clemência,
+corrigi-me, Senhor, sem furor,
+pois a nada me reduziríeis! * Não me.
+
+@secao Oração
+
+@oracao
+Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

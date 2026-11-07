@@ -1,0 +1,87 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quarta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, vós sois bendito para sempre:
+os vossos mandamentos ensinai-me!
+
+@salmo salmos/salmo-118-9-16-ii-beth-v3
+
+@gloria
+
+@antifona
+Ó Senhor, vós sois bendito para sempre:
+os vossos mandamentos ensinai-me!
+
+@antifona 2
+Firmai os meus passos em vossos caminhos.
+
+@salmo salmos/salmo-016-i
+
+@gloria
+
+@antifona
+Firmai os meus passos em vossos caminhos.
+
+@antifona 3
+Levantai-vos, ó Senhor, e salvai a minha vida!
+
+@salmo salmos/salmo-016-ii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e salvai a minha vida!
+
+@secao Leitura breve | 1Pd 1,13-14
+
+@texto
+Aprontai a vossa mente; sede sóbrios e colocai toda a vossa esperança na graça que vos será oferecida na revelação de Jesus Cristo. Como filhos obedientes, não modeleis a vossa vida de acordo com as paixões de antigamente, do tempo da vossa ignorância.
+
+@texto
+V. Mostrai-me, ó Senhor, vossos caminhos.
+R. E fazei-me conhecer a vossa estrada!
+
+@secao Oração
+
+@oracao
+Senhor, nosso Pai, Deus santo e fiel, que enviastes o Espírito prometido por vosso Filho, para reunir os seres humanos divididos pelo pecado, fazei-nos promover no mundo os bens da unidade e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

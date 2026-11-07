@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@antifona 2
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@antifona 3
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!

@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/dia24/4domingo_terca.htm
+@documento Hora Média - IV Domingo do Advento (24 de dezembro, Terça)
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-022-v3
+
+@texto
+minh’alma, vem, bendize ao Senhor, o grande Rei, †
+
+@salmo salmos/salmo-022-v4
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Is 4,2
+
+@texto
+Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Derramai ó Deus a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,459 @@
+{
+ "_leia": [
+  "Sumário dos 4 tomos dos Sermons du saint Curé d'Ars, extraído dos sumários dos PDFs enviados (Homilia dos Santos/…/São João Maria Vianney (1786–1859)/). Os PDFs são transcrições em Word (sem folha de rosto nem identificação da edição).",
+  "Erros de reconhecimento de ligaduras do PDF ('SancLfication', 'ChréLen') foram corrigidos só neste sumário; os PDFs não foram alterados."
+ ],
+ "fonte": "Homilia dos Santos/Homilia de Santos/São João Maria Vianney (1786–1859)/sermons du saint cure d ars tome 1–4.pdf",
+ "sermoes": [
+  {
+   "tomo": 1,
+   "ocasiao": "PREMIER DIMANCHE DE L'AVENT",
+   "titulo": "Sur le Jugement dernier",
+   "pagina": 4
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "PREMIER DIMANCHE DE L'AVENT",
+   "titulo": "Sur les vérités éternelles",
+   "pagina": 11
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "DEUXIEME DIMANCHE DE L'AVENT",
+   "titulo": "Sur le respect humain",
+   "pagina": 19
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "QUATRIEME DIMANCHE DE L'AVENT",
+   "titulo": "Sur la Satisfaction",
+   "pagina": 25
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "POUR LE JOUR DE NOËL",
+   "titulo": "Sur le Mystère",
+   "pagina": 33
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "POUR LE JOUR DE NOËL",
+   "titulo": "Sur le Mystère",
+   "pagina": 40
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "PREMIER DIMANCHE DE L'ANNEE",
+   "titulo": "Sur la Sanctification du Chrétien",
+   "pagina": 46
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "EPIPHANIE",
+   "titulo": "Sur les Rois Mages",
+   "pagina": 54
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "DEUXIÈME DIMANCHE APRÈS L'ÉPIPHANIE",
+   "titulo": "Sur le Mariage",
+   "pagina": 60
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "TROISIÈME DIMANCHE APRÈS L'ÉPIPHANIE",
+   "titulo": "Sur la prière d'un pécheur qui ne veut pas quitter le péché",
+   "pagina": 67
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "TROISIÈME DIMANCHE APRES L'ÉPIPHANIE",
+   "titulo": "Sur l'enfer des Chrétiens",
+   "pagina": 75
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "QUATRIÈME DIMANCHE APRES L'ÉPIPHANIE",
+   "titulo": "Sur les ennemis de notre salut",
+   "pagina": 82
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "LA SEXAGÉSIME",
+   "titulo": "Sur la parole de Dieu",
+   "pagina": 89
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "MERCREDI DES CENDRES",
+   "titulo": "Sur la Pénitence",
+   "pagina": 97
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "PREMIER DIMANCHE DE CARÊME",
+   "titulo": "Sur les tentations",
+   "pagina": 106
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "PREMIER DIMANCHE DE CARÊME",
+   "titulo": "Sur les Indulgences",
+   "pagina": 113
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "DEUXIÈME DIMANCHE DE CARÊME",
+   "titulo": "Sur l'aumône",
+   "pagina": 120
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "QUATRIÈME DIMANCHE DE CARÊME",
+   "titulo": "Sur la mort du pécheur",
+   "pagina": 128
+  },
+  {
+   "tomo": 1,
+   "ocasiao": "DIMANCHE DE LA PASSION",
+   "titulo": "Sur la Contrition",
+   "pagina": 138
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "DIMANCHE DE QUASIMODO",
+   "titulo": "Sur la Confession Pascale",
+   "pagina": 3
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "2ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur la Persévérance",
+   "pagina": 8
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "3ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur les Afflictions",
+   "pagina": 16
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "5ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur la Prière",
+   "pagina": 22
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "5ème DIMANCHE APRES PÂQUES",
+   "titulo": "Sur les Rogations et les Processions",
+   "pagina": 30
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "2ème dimanche après la Pentecôte",
+   "titulo": "Sur la sainte Messe",
+   "pagina": 52
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "5ème dimanche après la Pentecôte",
+   "titulo": "Sur le deuxième Commandement de Dieu",
+   "pagina": 80
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "6ème dimanche après la Pentecôte",
+   "titulo": "Sur la Communion",
+   "pagina": 89
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "7ème dimanche après la Pentecôte",
+   "titulo": "Sur la fausse et vraie Vertu",
+   "pagina": 98
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "7ème dimanche après la Pentecôte",
+   "titulo": "Sur le Mensonge",
+   "pagina": 106
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "8ème dimanche après la Pentecôte",
+   "titulo": "Sur le jugement particulier",
+   "pagina": 123
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "9ème dimanche après la Pentecôte",
+   "titulo": "Sur les larmes de Jésus‐Christ",
+   "pagina": 129
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "10ème dimanche après la Pentecôte",
+   "titulo": "Sur l’orgueil",
+   "pagina": 138
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur le jugement téméraire",
+   "pagina": 146
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur la Médisance",
+   "pagina": 154
+  },
+  {
+   "tomo": 2,
+   "ocasiao": "11ème dimanche après la Pentecôte",
+   "titulo": "Sur les péchés cachés en confession",
+   "pagina": 162
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le premier Commandement de Dieu",
+   "pagina": 3
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le premier Commandement de Dieu",
+   "pagina": 10
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "12ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'amour du prochain.",
+   "pagina": 18
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "13ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Absolution",
+   "pagina": 25
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "13ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le service de Dieu",
+   "pagina": 31
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "14ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur le Monde",
+   "pagina": 38
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "15ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la pensée de la mort",
+   "pagina": 45
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "16ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Humilité",
+   "pagina": 52
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'amour de Dieu",
+   "pagina": 57
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la Charité",
+   "pagina": 64
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "17ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la pureté",
+   "pagina": 70
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "18ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la Tiédeur",
+   "pagina": 77
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "18ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Envie",
+   "pagina": 83
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "19ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Impureté",
+   "pagina": 90
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "20ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur l'Ivrognerie",
+   "pagina": 104
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "21ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la colère",
+   "pagina": 110
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "22ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la restitution",
+   "pagina": 117
+  },
+  {
+   "tomo": 3,
+   "ocasiao": "23ème DIMANCHE APRÈS LA PENTECÔTE",
+   "titulo": "Sur la mort du juste",
+   "pagina": 123
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "3 MAI ‐ INVENTION DE LA SAINTE CROIX",
+   "titulo": "Sur la Croix",
+   "pagina": 3
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "24 JUIN FÊTE DE SAINT JEAN-BAPTISTE",
+   "titulo": "Dieu est admirable dans ses saints",
+   "pagina": 9
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "1er AOUT SUR LE MARTYRE DES MACHABÉES",
+   "titulo": "Nous sommes prêts à mourir plutôt que de violer la loi de Dieu et de notre pays.",
+   "pagina": 16
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "15 AOUT FÊTE DE L'ASSOMPTION DE LA STE VIERGE",
+   "titulo": "Sur les grandeurs de Marie.",
+   "pagina": 22
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "8 SEPTEMBRE FÊTE DE LA NATIVITÉ DE LA STE VIERGE",
+   "titulo": "C'est de Marie qu'il nous est né un Sauveur.",
+   "pagina": 28
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "PREMIER DIMANCHE D'OCTOBRE FÊTE DU SAINT ROSAIRE",
+   "titulo": "Jésus dit au disciple qu'il aimait : Mon Fils, voilà votre Mère.",
+   "pagina": 34
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "2 OCTOBRE FÊTE DES SAINTS ANGES GARDIENS",
+   "titulo": "Les anges de ces petits enfants voient sans cesse la face de mon Père céleste",
+   "pagina": 40
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "1er NOVEMBRE FÊTE DE TOUS LES SAINTS",
+   "titulo": "Sur la Sainteté",
+   "pagina": 46
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "DEUXIÈME SERMON POUR LA FÊTE DE TOUS LES SAINTS",
+   "titulo": "Sur le culte des Saints et des saintes Images",
+   "pagina": 51
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "2 NOVEMBRE COMMÉMORATION DES MORTS",
+   "titulo": "La nuit vient, pendant laquelle personne ne peut plus travailler",
+   "pagina": 55
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "AUTRE SERMON POUR LE JOUR DES MORTS",
+   "titulo": "Ayez pitié de moi, vous au moins qui êtes mes amis, car la main du Seigneur s'appesantit sur moi.",
+   "pagina": 61
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMON POUR LA FÊTE DU SAINT PATRON",
+   "titulo": "J'ai cherché parmi eux un homme qui se présentât comme un rempart entre moi et eux…",
+   "pagina": 66
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMON POUR LA FÊTE DE LA DÉDICACE",
+   "titulo": "Du respect que l'on doit avoir dans les églises",
+   "pagina": 73
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMON SUR LA RELIGION",
+   "titulo": "L'impie a dit dans son cœur : Non, il n'y a point de Dieu",
+   "pagina": 80
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMON SUR LA CONFIRMATION",
+   "titulo": "Dispositions qu'il faut avoir pour recevoir ce sacrement",
+   "pagina": 85
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMON SUR L'EXTRÊME-ONCTION",
+   "titulo": "Le Seigneur portera secours au malade sur son lit de douleur…",
+   "pagina": 91
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR L'EXAMEN DE CONSCIENCE",
+   "titulo": "Celui qui cache ses péchés se perdra…",
+   "pagina": 98
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES QUALITÉS DE LA CONFESSION",
+   "titulo": "Je me lèverai, et j'irai me jeter aux pieds de mon père…",
+   "pagina": 106
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LE PÉCHÉ MORTEL",
+   "titulo": "Malheur à nous, parce que nous avons péché.",
+   "pagina": 114
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LA COMMUNION INDIGNE",
+   "titulo": "L'âme qui péchera, mourra",
+   "pagina": 121
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES DEVOIRS DES PARENTS",
+   "titulo": "Pères et mères, élevez vos enfants…",
+   "pagina": 129
+  },
+  {
+   "tomo": 4,
+   "ocasiao": "SERMONS INÉDITS — SERMON SUR LES INDULGENCES",
+   "titulo": "",
+   "pagina": 138
+  }
+ ]
+}

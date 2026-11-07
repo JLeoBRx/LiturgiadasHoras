@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5segundaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 55,2
+@texto
+Tende pena e compaixão de mim, ó Deus,
+pois há tantos que me calcam sob os pés,
+e agressores me oprimem todo o dia!
+
+@secao Coleta
+@texto
+Ó Deus, que pela vossa graça inefável
+nos enriqueceis de todos os bens,
+concedei-nos passar da antiga à nova vida,
+a fim de que estejamos preparados
+para a glória do vosso reino.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei-nos, Senhor,
+que, ao celebrarmos os santos mistérios,
+apresentemos como fruto da penitência corporal
+a alegria e a pureza do espírito.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 8,10-11
+@texto
+Quando se lê o evangelho da adúltera:
+Mulher, ninguém te condenou? Ninguém, Senhor.
+Eu também não te condeno.
+Podes ir, e de agora em diante não peques mais.{Jo 8,12}
+Quando se lê outro evangelho:
+Eu sou a luz do mundo, diz o Senhor.
+Quem me segue não andará nas trevas,
+mas terá a luz da vida.
+
+@secao Depois da comunhão
+@texto
+Revigorados, Senhor, pelos benefícios deste sacramento,
+nós vos pedimos que ele nos purifique sempre dos vícios,
+para que, seguindo a Cristo,
+corramos ao vosso encontro.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Nós vos pedimos, Senhor,
+libertai dos pecados o povo que vos suplica,
+para que, vivendo em santidade,
+não seja atormentado por mal algum.
+Por Cristo, nosso Senhor.

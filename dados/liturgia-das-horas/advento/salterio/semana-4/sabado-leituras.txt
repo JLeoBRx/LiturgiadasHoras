@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4sabado_leituras.htm
+@documento Ofício das Leituras - IV Sábado do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+O Senhor nos libertou
+do poder do opressor.
+
+@salmo salmos/salmo-077-40-72-iv
+
+@gloria
+
+@antifona
+O Senhor nos libertou
+do poder do opressor.
+
+@antifona 2
+O Senhor nos conduziu
+para a Terra Prometida.
+
+@salmo salmos/salmo-077-40-72-v
+
+@gloria
+
+@antifona
+O Senhor nos conduziu
+para a Terra Prometida.
+
+@antifona 3
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido.
+
+@salmo salmos/salmo-077-40-72-vi
+
+@gloria
+
+@antifona
+Escolheu a Davi, seu servidor,
+para guiar o seu povo preferido.

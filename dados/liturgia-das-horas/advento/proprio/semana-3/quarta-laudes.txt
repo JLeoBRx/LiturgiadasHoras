@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quarta_laudes.htm
+@documento Próprio - Laudes - III Quarta-feira do Advento
+
+@secao Leitura breve | Is 7,14b-15
+
+@texto
+Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; ele se alimentará de manteiga e de mel até quando aprender a fugir do mal e a procurar o bem.
+
+@secao Responsório breve
+
+@responsorio
+R.O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele voltou seu olhar para ti: realizou toda esperança.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Consola-te, consola-te, meu povo,
+é o Senhor e o teu Deus quem te consola!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Consola-te, consola-te, meu povo,
+é o Senhor e o teu Deus quem te consola!
+
+@secao Preces
+
+@preces
+Cristo, Palavra de Deus, quis habitar no meio de nós e revelar-nos a sua glória. Felizes com esta esperança, aclamemos:
+
+R. **Ficai conosco, Emanuel!**
+
+Príncipe justo e reto,
+– fazei justiça aos pobres e oprimidos. R.
+
+Rei pacífico, que das espadas fazeis arados e das lanças, foices,
+– ensinai-nos a transformar as invejas em amor e as ofensas em perdão. R.
+
+Vós que não julgais pela aparência,
+– confirmai na fidelidade perfeita aqueles que são vossos. R.
+
+Quando vierdes sobre as nuvens do céu com grande poder e glória,
+– fazei-nos comparecer sem temor na vossa presença. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que as próximas festas do vosso Filho nos sejam remédio nesta vida e prêmio na vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/21tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {3,3-15}
+
+@tema
+Lavados pelo poder regenerador
+
+@texto
+Irmãos, [3] porque também nós antigamente éramos insensatos, desobedientes, extraviados, escravos de toda sorte de paixões e de prazeres, vivendo em malícias e inveja, odiosos e odiando-nos uns aos outros. [4] Mas, quando a bondade e o amor de Deus, nosso Salvador, se manifestaram, ele salvou-nos, [5] não por causa dos atos justos que houvéssemos praticado, mas porque, por sua misericórdia, fomos lavados pelo poder regenerador e renovador do Espírito Santo, [6] que ele ricamente derramou sobre nós, por meio de Jesus Cristo, nosso Salvador, [7] a fim de que fôssemos justificados pela sua graça, e nos tornássemos herdeiros da esperança da vida eterna.
+[8] Esta é mensagem fiel. Desejo, pois, que insistas nestes pontos, de sorte que aqueles que creem em Deus sejam solícitos na prática das belas obras. Estas coisas são excelentes e proveitosas aos homens. [9] Evita controvérsias insensatas, genealogias, dissensões e debates sobre a Lei, porque para nada adiantam, e são fúteis. [10] Depois da primeira e da segunda admoestação, nada mais tem a fazer com um homem faccioso, [11] pois é sabido que o homem assim se perverteu e se entregou ao pecado, condenando-se a si mesmo. [12] Mandarei ao teu encontro Ártemas ou Tíquico. Quando tiver chegado aí, faze o possível para vir ter comigo em Nicópolis, onde resolvi passar o inverno. [13] Esforça-te por ajudar Zenas, o jurista, e Apolo, de modo que nada lhes falte. [14] Todos os da nossa gente precisam aprender a praticar belas obras, de sorte que se tornem aptos a atender às necessidades urgentes e, assim, não fiquem infrutíferos. [15] Todos os que estão comigo te saúdam. Saúda a todos os que nos amam na fé. A graça esteja com todos vós!
+
+@secao Responsório | Sl 102(103),13-14; Tt 3,5
+
+@responsorio
+R. Como um pai é compassivo com seus filhos,
+assim o Senhor é compassivo com aqueles que o temem;
+* Porque ele conhece nossa estrutura.
+V. Ele salvou-nos, não por causa dos atos justos que praticamos,
+mas por sua misericórdia.
+* Porque ele.
+
+@secao Segunda leitura
+
+@leitura
+De um Discurso do século IX
+{(4,2-7)}
+
+@tema
+Ninguém perca a esperança em razão da gravidade de seus pecados
+
+@texto
+Irmãos, frequentemente ouvistes falar de dois homens, Adão e Cristo: o primeiro é o velho; o segundo, o novo. O velho é mau, porque imita aquele que, no paraíso, foi soberbo e desobediente. O novo é bom, porque segue aquele que diz: _Aprendei de mim, que sou manso e humilde de coração_ (Mt 11,29). Desse, o Apóstolo afirma que se fez _obediente_ _até a morte_ (Fl 2,8).
+Ora, neste tempo presente que é chamado de novo, exortamos os que são velhos e vivem mal a se tornarem novos convertendo-se ao bem. Incitamos aqueles que já são novos por suas boas obras a que se renovem realizando obras melhores. Quem, por exemplo, é novo pela castidade, ao rejeitar o vício, renove-se renunciando também aos maus desejos.
+Assim, também, quem é humilde, obediente, misericordioso e paciente deve renovar-se, orando e progredindo, a cada dia, na virtude, conforme está escrito: Caminharão de virtude em virtude (Sl 83,8).
+Caríssimos, ninguém entre vós está seguro pelo fato de ter sido batizado. Nem todos os que correm no estádio conquistam o prêmio (cf. 1Cor 9,24), mas apenas quem chega primeiro. Da mesma maneira, nem todos os que têm fé se salvam, mas apenas os que perseveram nas obras boas que iniciaram. Como todo lutador _é temperante em tudo_ (1Cor 9,25), assim vós deveis abster-vos de todo vício para poder vencer o demônio, vosso perseguidor. Por meio da fé, fostes chamados pelo Senhor na sua vinha, ou seja, na unidade da sua santa Igreja: vivei e tornai-vos merecedores da retribuição, a saber, da bem-aventurança do reino proporcionada por Deus.
+Ninguém perca a esperança em razão da gravidade de seus pecados, dizendo: Os meus pecados são muitos e eu perseverei neles até minha velhice e decrepitude; já não posso mais alcançar o perdão, até porque foram meus pecados que me abandonaram e não eu que os abandonei. Ninguém duvide da misericórdia de Deus, porque alguns foram chamados na vinha do Senhor na hora primeira; outros na hora terceira; outros ainda na hora sexta; outros na hora nona; outros, enfim, na hora décima primeira. Isso quer dizer que alguns são atraídos para o serviço de Deus desde a infância; outros na adolescência; outros ainda na juventude; outros na velhice; outros, finalmente, na decrepitude.
+Como ninguém, apesar da idade, deve cair em desespero e perder a esperança da sua conversão, assim ninguém deve sentir-se seguro pelo simples fato de ter fé, lembrando sempre o que está escrito: _Muitos são chamados, mas poucos_ _escolhidos_ (Mt 22,14). Nós sabemos que fomos chamados mediante a fé, mas ignoramos se somos escolhidos. Portanto todos devem permanecer na humildade, por não saberem se foram escolhidos.
+Deus todo-poderoso vos conceda não pertencer ao número dos que atravessaram o mar Vermelho a pés enxutos, comeram do maná no deserto, saciaram-se com a bebida espiritual e, depois, morreram naquele mesmo deserto por culpa de sua murmuração. Queira Deus que vós sejais contados entre os que entraram na terra prometida e, trabalhando fielmente na vinha da Igreja, mereceram a recompensa da eterna bem-aventurança. Queira Deus que, junto com Cristo, vosso chefe de quem vós sois os membros, possais reinar por toda a eternidade. Amém.
+
+@secao Responsório | Cf. Est 14,3.19 vulg.; Tb 3,13; Jt 6,15
+
+@responsorio
+R. Fora de ti, Senhor, Deus de Israel,
+não existe outra esperança.
+* Tu, que, até na ira, tens misericórdia, e que,
+no tempo da tribulação, perdoas os pecados.
+V. Senhor, Deus do céu e da terra,
+olha para a nossa humilhação.
+* Tu, que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que unis os corações dos vossos fiéis num só desejo, dai ao vosso povo amar o que ordenais e esperar o que prometeis, para que, na instabilidade deste mundo, fixemos os nossos corações onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

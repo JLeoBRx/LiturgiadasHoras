@@ -1,0 +1,172 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/natal_laudes.htm
+@documento Laudes - Natal do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A quem vistes, ó pastores?
+Anunciai e nos dizei quem na terra apareceu?
+Nós vimos um menino e os anjos a cantar
+e a louvar Nosso Senhor. Aleluia.
+
+@antifona 2
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Disse o anjo aos pastores:
+Eu vos trago a boa-nova de uma grande alegria:
+nasceu hoje para vós o Salvador do universo. Aleluia.
+
+@antifona 3
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Um menino nasceu hoje para nós:
+o seu nome é Deus forte, aleluia.
+
+@secao Leitura breve | Hb 1,1-2
+
+@texto
+Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas; nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Glória a Deus nos altos céus,
+e na terra paz aos homens que Ele ama. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Glória a Deus nos altos céus,
+e na terra paz aos homens que Ele ama. Aleluia.
+
+@secao Preces
+
+@preces
+Celebremos dignamente o Verbo de Deus, que existe antes dos séculos e quis, por nosso amor, nascer no tempo; e aclamemos jubilosos:
+
+R. **Alegre-se a terra porque viestes!**
+
+Cristo, Verbo eterno, que descendo à terra, a enchestes de exultação,
+– alegrai o nosso coração com a graça da vossa visita. R.
+
+Salvador do mundo, que pelo vosso natal nos revelastes a fidelidade de Deus à sua aliança,
+– fazei-nos cumprir com fidelidade as promessas do nosso batismo. R.
+
+Rei do céu e da terra, que enviastes os anjos para anunciar a paz aos homens,
+– conservai na vossa paz os nossos dias. R.
+
+Senhor, que viestes para ser a videira que nos dá os frutos da vida,
+– fazei-nos permanecer unidos a vós, e dar frutos de santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus onipotente, agora que a nova luz do vosso Verbo Encarnado invade o nosso coração, fazei que manifestemos em ações o que brilha pela fé em nossas mentes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

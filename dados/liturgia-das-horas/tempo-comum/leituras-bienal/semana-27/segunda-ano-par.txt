@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/27segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {2,1-18}
+
+@tema
+Paciência na tentação
+
+@texto
+[1] Meu filho, se te ofereceres para servir o Senhor, prepara-te para a prova. [2] Endireita teu coração e sê constante, não te apavores no tempo da adversidade. [3] Une-te a ele e não te separes, a fim de seres exaltado no teu último dia. [4] Tudo o que te acontece, aceita-o, e nas vicissitudes que te humilharem sê paciente, [5] pois o ouro se prova no fogo, e os eleitos, no cadinho da humilhação. Na doença e na indigência, conserva tua confiança. [6] Confia no Senhor, ele te ajudará, endireita teus caminhos e espera nele. [7] Vós que temeis ao Senhor contai com sua misericórdia e não vos afasteis para não cairdes. [8] Vós que temeis ao Senhor, tende confiança nele e a recompensa não vos faltará. [9] Vós que temeis ao Senhor, esperai bens, alegria eterna e misericórdia. Pois sua recompensa é dom eterno na alegria. [10] Considerai as gerações passadas e vede: quem confiou no Senhor e ficou desiludido? Ou quem perseverou no seu temor e foi abandonado? Ou quem clamou por ele e ele o desprezou? [11] Porque o Senhor é compassivo e misericordioso, perdoa os pecados e salva no dia da tribulação. [12] Ai dos corações covardes e das mãos fracas, e do pecador que segue dois caminhos. [13] Ai do coração fraco, pois não acredita, por isso não será protegido. [14] Ai de vós que perdestes a paciência: que fareis quando o Senhor vos visitar? [15] Os que temem ao Senhor não desobedecem às suas palavras, os que o amam observam seus caminhos. [16] Os que temem ao Senhor procuram o seu beneplácito, os que o amam saciam-se com a lei. [17] Os que temem o Senhor preparam os seus corações e diante dele se humilham. [18] Caiamos nas mãos do Senhor e não nas dos homens, pois tal como é sua grandeza, assim é sua misericórdia.
+
+@secao Responsório | Eclo 2,10.11; Sl 33(34),6
+
+@responsorio
+R. Vós que temeis ao Senhor, amai-o
+e serão iluminados os vossos corações;
+considerai, ó filhos, as gerações dos homens e compreendei:
+* Aquele que confiou no Senhor jamais ficou desiludido.
+V. Contemplai-o e estareis radiantes,
+vosso rosto não ficará envergonhado.
+* Aquele que.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado “sobre a Oração”, de Orígenes, presbítero
+{(Séc. III)} {(Nn. 12-13)}
+
+@tema
+Orar incessantemente
+
+@texto
+Ademais, penso que são cheias de força as palavras da oração dos santos, principalmente quando os que oram, oram com espírito e inteligência. Essa inteligência é uma luz que surge da alma do orante e sai da sua boca para destruir, pela potência de Deus, o veneno espiritual instilado pelas forças hostis nas almas dos que negligenciam a oração, e não observam o que Paulo diz, conforme às exortações de Cristo: _Orai sem cessar_ (1Ts 5,17). Como um dardo, a prece sai da alma do orante, pelo seu conhecimento, sua palavra, sua fé, ferindo de morte e destruição os espíritos contrários a Deus, que querem prender nos laços do pecado.
+Como as obras de virtude e o cumprimento dos mandamentos fazem parte da oração, ora sem cessar aquele que une a oração às obras de preceito, e as ações à oração. Somente assim é que podemos compreender como possível a ordem de orar sem cessar, isto é, se definimos a vida do cristão como uma só contínua oração, da qual não é senão uma parte aquela que costumamos chamar de oração. Esta parte, porém, temos de praticá-la pelo menos três vezes ao dia, mesmo que por isso corresse grande perigo. O último tempo de oração está indicado assim: _A elevação das minhas mãos é o sacrifício vespertino_ (Sl 140,2). Mas não passaríamos de modo conveniente o tempo da noite sem a respectiva oração, como diz Davi: _Eu me levantava à meia-noite para te louvar pelos teus justos decretos_ (Sl 118,62). E Paulo, como se vê nos Atos dos Apóstolos, à meia-noite orava e louvava a Deus com Silas, em Filipos, e todos os outros presos os ouviam.
+Se Jesus ora, e não em vão, obtendo pela oração aquilo que, talvez, não receberia sem a oração, quem de nós poderá ser negligente em orar? Marcos, com efeito, diz: _Levantando-se bem cedo, (Jesus) foi a um lugar deserto, e ali orava_ (Mc 1,35). As palavras: _Eu sabia que tu me escutas sempre_ (Jo 11,42), ditas pelo Senhor, segundo o mesmo evangelista, mostram que aquele que sempre ora, é sempre ouvido. Será, acaso, necessário recordar aqueles que, tendo rezado como convém, obtiveram de Deus os maiores benefícios?
+Muitas vezes, na verdade, por algum dos seus santos, _o Senhor quebrou os dentes dos leões, e eles foram ani__quilados como água que escorre_ (Sl 57,7-8). Soubemos, muitas vezes, de homens que se afastaram dos mandamentos divinos e, feitos prisioneiros da morte, foram por ela devorados. Pela penitência, no entanto, foram, em seguida, salvos de tão grande mal, porque, apesar de já presos no ventre da morte, não desesperaram da salvação: _A morte,_ _prevalecendo, os devorara; mas Deus, de novo, enxugou_ _as lágrimas de toda face_ (Is 25,8).
+Julguei ser necessário dizer tudo isso, depois de enumerar aqueles que foram beneficiados pela oração. Meu propósito é dissuadir os que aspiram à vida espiritual em Cristo, de pedir na oração coisas terrenas e sem importância. Possam os leitores deste escrito anelar pelos bens místicos, dos quais são imagens os exemplos acima mencionados.
+
+@secao Responsório | Tg 5,16; 1Ts 5,17
+
+@responsorio
+R. Orai uns pelos outros, para que sareis.
+* Muito vale a oração do justo, feita com insistência.
+V. Orai incessantemente.
+* Muito vale a oração.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, que nos concedeis no vosso imenso amor de Pai mais do que merecemos e pedimos, derramai sobre nós a vossa misericórdia, perdoando o que nos pesa na consciência e dando-nos mais do que ousamos pedir. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

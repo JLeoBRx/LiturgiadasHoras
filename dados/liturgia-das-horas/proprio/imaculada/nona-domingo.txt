@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/imaculada_nona_domingo.htm
+@documento Hora Média - Imaculada Conceição da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Deus criou-me em santidade, segurou-me pela mão
+e para si me escolheu.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Deus criou-me em santidade, segurou-me pela mão
+e para si me escolheu.
+
+@secao Leitura breve | Cf. Ef 5,25-27
+
+@texto
+Cristo amou a Igreja e se entregou por ela. Ele quis assim torná-la santa e apresentá-la a si mesmo esplêndida, sem mancha nem ruga, nem defeito algum; ele quis sua Igreja santa e irrepreensível.
+
+@texto
+V. Com a vossa Imaculada Conceição, Virgem Maria,
+R. Um anúncio de alegria percorreu o mundo inteiro.
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

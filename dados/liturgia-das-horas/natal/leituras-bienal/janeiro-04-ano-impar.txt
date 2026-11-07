@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/leituras/bienal/4janeiro_impar.htm
+@documento Ofício das Leituras - 4 De Janeiro
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,17–4,1}
+
+@tema
+A vida da família cristã
+
+@texto
+Irmãos: [3,17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai. [18] Esposas, sede solícitas para com vossos maridos, como convém, no Senhor. [19] Maridos, amai vossas esposas e não sejais grosseiros com elas. [20] Filhos, obedecei em tudo aos vossos pais, pois isso é bom e correto no Senhor. [21] Pais, não intimideis os vossos filhos, para que eles não desanimem. [22] Servos, obedecei em tudo a vossos senhores segundo a carne, não servindo apenas diante de seu olhos, como quem procura agradar aos homens, mas com simplicidade de coração, por temor do Senhor. [23] Tudo o que fizerdes, fazei-o de coração, como para o Senhor e não para os homens. [24] Pois vós bem sabeis que recebereis do Senhor a herança como recompensa. Servi a Cristo, o Senhor! [25] Quem pratica o mal receberá o devido castigo, sem distinção de pessoa. [4,1] Quanto a vós, senhores, dai aos vossos servos o que é justo e adequado, sabendo que também vós tendes um Senhor no céu.
+
+@secao Responsório | Cl 3,17
+
+@responsorio
+R. O que fizerdes em palavras ou em obras,
+* Fazei-o em nome de Jesus, nosso Senhor.
+V. Dando graças a Deus Pai por meio dele.
+* Fazei-o.
+
+@secao Segunda leitura
+
+@leitura
+Das Sentenças de São Máximo, o confessor, abade
+{(Séc. VII)} {(Centuria 1, 8-13: PG 90, 1182-1186)}
+
+@tema
+O mistério sempre novo
+
+@texto
+O Verbo de Deus nasceu segundo a carne uma vez por todas. Mas pela sua bondade e condescendência para com os homens, quer nascer sempre espiritualmente naqueles que o desejam. Quer tornar-se criança, que vai se formando neles com o crescimento das virtudes; e manifesta-se na medida em que pode compreendê-lo quem o recebe. Se não se comunica com o esplendor de sua grandeza, não é porque não deseje, mas porque conhece as limitações das faculdades receptivas de cada um. Assim, o Verbo de Deus revela-se sempre a nós do modo que nos convém, e contudo ninguém pode conhecê-lo perfeitamente, por causa da imensidade de seu mistério. Por isso, o Apóstolo de Deus, considerando com sabedoria a força deste mistério, diz: _Jesus Cristo é o mesmo, ontem e hoje e por toda a eternidade_ (Hb 13,8). Ele contemplava esse mistério sempre novo, que nunca envelhece para a compreensão da inteligência humana. Nasce o Cristo, Deus que se faz homem, assumindo um corpo dotado de uma alma racional, ele por quem tudo que existe saiu do nada. No Oriente brilha uma estrela visível em pleno dia e conduz os magos ao lugar onde está deitado o Verbo feito homem, para demonstrar misticamente que o Verbo, contido na lei e nos profetas, supera o conhecimento sensível e conduz as nações à plena luz do conhecimento. Com efeito, a palavra da lei e dos profetas, entendida à luz da fé, é semelhante a uma estrela que conduz ao conhecimento do Verbo encarnado todos os que foram chamados pelo poder da graça, segundo o desígnio de Deus. Deus se fez homem perfeito, sem que nada lhe faltasse do que é próprio da natureza humana, à exceção do pecado (o qual, aliás, não era inerente à natureza humana). Ele queria assim apresentar sua carne como alimento para provocar o dragão insaciável que queria devorá-la. Mas ao arrebatar esta carne que seria um veneno para ele, o dragão foi destruído pelo poder da Divindade nela oculta. Para a natureza humana, porém, esta carne seria o remédio que lhe restituiria a graça original, pelo mesmo poder da Divindade. Assim como o inimigo, tendo inoculado o seu veneno na árvore da ciência, havia corrompido a natureza do homem que provara do seu fruto, também ele, ao pretender devorar a carne do Senhor, foi enganado e destruído pela força da Divindade que nela habitava. O grande mistério da encarnação de Deus permanecerá sempre um mistério! Como pode o Verbo que está em pessoa e essencialmente na carne existir ao mesmo tempo em pessoa e essencialmente junto do Pai? Como pode o Verbo, totalmente Deus por natureza, fazer-se totalmente homem por natureza, sem detrimento algum das duas naturezas, nem da divina, na qual é Deus nem da humana, na qual se fez homem? Só a fé pode alcançar estes mistérios, ela que é precisamente a substância e o fundamento das realidades que ultrapassam toda inteligência e compreensão.
+
+@secao Responsório | Jo 1,14.1
+
+@responsorio
+R. A Palavra se fez carne e habitou entre nós.
+* E nós vimos sua glória, que recebe de Deus Pai,
+como Filho Unigênito cheio de graça e de verdade.
+V. No começo era a Palavra e a Palavra estava em Deus
+e a Palavra era Deus. * E nós vimos.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

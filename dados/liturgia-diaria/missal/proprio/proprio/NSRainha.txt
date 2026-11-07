@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSRainha.htm
+
+@secao Antífona da entrada | Cf. Sl 44,10
+@texto
+A Rainha está à vossa direita
+com suas vestes de ouro,
+ornada de esplendor.
+
+@secao Coleta
+@texto
+Ó Deus,
+fizestes a Mãe do vosso Filho nossa Mãe e Rainha;
+concedei-nos propício que,
+apoiados por sua intercessão,
+alcancemos no reino do céu a glória dos vossos filhos e filhas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+celebrando a memória da Santa Virgem Maria,
+nós vos trazemos estas oferendas;
+venha em nosso auxílio o vosso Filho feito homem,
+que a vós se ofereceu na cruz como sacrifício sem mancha.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 1,45
+@texto
+Bem-aventurada aquela que acreditou,
+porque será cumprido, o que o Senhor lhe prometeu.
+
+@secao Depois da comunhão
+@texto
+Senhor, alimentados pelo sacramento celeste,
+suplicantes vos pedimos que,
+ao venerarmos a Virgem Maria,
+na celebração de sua memória,
+mereçamos participar eternamente
+do banquete do vosso Reino.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/simaoejudas_laudes.htm
+@documento Laudes - Santos Simão e Judas, Apóstolos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Um hino a vós, apóstolos,
+de júbilo e vitória.
+Unidos pela graça,
+também o sois na glória.
+
+Simão, ardente impulso
+levou-te a palmilhar
+os passos de Jesus,
+e o nome seu pregar.
+
+De Cristo em carne e espírito
+irmão e servo, ó Judas,
+pregando e escrevendo
+aos teus irmãos ajudas.
+
+Sois vítima e testemunha
+da fé que proclamastes.
+Provando-lhe a verdade,
+o sangue derramastes.
+
+Ó astros luminosos,
+ao céu todos guiai;
+por ásperos caminhos,
+inteira a fé guardai.
+
+Ao Pai, ao Filho, ao Espírito
+a honra e o louvor.
+Possamos para sempre
+gozar do seu amor.
+
+@secao Salmodia
+
+@antifona 1
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@antifona 2
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@antifona 3
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@secao Leitura breve | Ef 2,19-22
+
+@texto
+Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jerusalém, ó cidade celeste,
+teus alicerces são os doze Apóstolos,
+tua luz, teu fulgor é o Cordeiro!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jerusalém, ó cidade celeste,
+teus alicerces são os doze Apóstolos,
+tua luz, teu fulgor é o Cordeiro!
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que, pela pregação dos Apóstolos, nos fizestes chegar ao conhecimento do vosso Evangelho, concedei, pelas preces de São Simão e São Judas, que a vossa Igreja não cesse de crescer, acolhendo com amor novos fiéis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

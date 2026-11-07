@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/5quintaPascoa.htm
+@documento Ofício das Leituras - 5ª Semana Da Páscoa - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam. Aleluia.
+
+@salmo salmos/salmo-017-31-51-iv
+
+@gloria
+
+@antifona
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam. Aleluia.
+
+@antifona 2
+Com a vossa mão direita me amparastes. Aleluia.
+
+@salmo salmos/salmo-017-31-51-v
+
+@gloria
+
+@antifona
+Com a vossa mão direita me amparastes. Aleluia.
+
+@antifona 3
+Viva o Senhor! Bendito seja o meu Rochedo! Aleluia.†
+
+@salmo salmos/salmo-017-31-51-vi
+
+@gloria
+
+@antifona
+Viva o Senhor! Bendito seja o meu Rochedo! Aleluia.
+
+@texto
+V. Deus, o Pai, que a Jesus,
+nosso Senhor, ressuscitou, aleluia,
+R. Nos fará também a nós
+ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {21,9-27}
+
+@tema
+Visão da Jerusalém celeste, a esposa do Cordeiro
+
+@texto
+[9] Depois veio até mim um dos sete anjos das sete taças cheias com as últimas pragas. Ele falou comigo e disse: “Vem! Vou mostrar-te a noiva, a esposa do Cordeiro”. [10] Então me levou em espírito a uma montanha grande e alta. Mostrou-me a cidade santa, Jerusalém, descendo do céu, de junto de Deus, [11] brilhando com a glória de Deus. Seu brilho era como o de uma pedra preciosíssima, como o brilho de jaspe cristalino. [12] Estava cercada por uma muralha maciça e alta, com doze portas. Sobre as portas estavam doze anjos, e nas portas estavam escritos os nomes das doze tribos de Israel. [13] Havia três portas do lado do oriente, três portas do lado norte, três portas do lado sul e três portas do lado do ocidente. [14] A muralha da cidade tinha doze alicerces, e sobre eles estavam escritos os nomes dos doze apóstolos do Cordeiro. [15] Aquele que estava falando comigo usava uma vara de ouro para medir a cidade, as portas e a muralha. [16] A cidade é quadrada. Seu comprimento é igual à largura. O anjo mediu a cidade com a vara: doze mil estádios. O comprimento, largura e altura são iguais. [17] O anjo mediu a muralha: cento e quarenta e quatro côvados, em medidas humanas. [18] A muralha é feita de jaspe. A cidade é de ouro purificado, parecendo puro cristal. [19] Os alicerces da muralha da cidade são ornamentados com todo o tipo de pedras preciosas. O primeiro alicerce é de jaspe, o segundo de safira, o terceiro de calcedônia, o quarto de esmeralda, [20] o quinto de sardônica, o sexto de cornalina, o sétimo de crisólito, o oitavo de berilo, o nono de topázio, o décimo de crisópraso, o décimo primeiro de jacinto e o décimo segundo de ametista. [21] As doze portas são doze pérolas; cada porta é feita de uma única pérola. A praça da cidade é de ouro purificado, como vidro transparente. [22] Não vi templo na cidade, pois o seu Templo é o próprio Senhor, o Deus Todo-poderoso, e o Cordeiro. [23] A cidade não precisa de sol, nem de lua que a iluminem, pois a glória de Deus é a sua luz e a sua lâmpada é o Cordeiro. [24] As nações caminharão à sua luz e os reis da terra levarão a ela a sua glória. [25] Suas portas não precisam ser fechadas cada dia, pois já não haverá noite, [26] e a ela levarão a glória e a riqueza das nações. [27] Nunca mais entrará nela o que é impuro, nem alguém que pratica a abominação e a mentira. Entrarão nela somente os que estão inscritos no livro da vida do Cordeiro.
+
+@secao Responsório | Cf. Ap 21,21; Tb 13,17.18.11
+
+@responsorio
+R. Jerusalém, as tuas praças serão calçadas de ouro puro,
+e cantares de alegria em ti ressoarão.
+* E todos cantarão “Aleluia” em tuas ruas.
+V. Brilharás qual luz fulgente
+e hão de honrar-te os povos todos.
+* E todos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados de São Gaudêncio de Bréscia, bispo
+{(Séc. IV)} {(Tract. 2: CSEL 68,26.29-30)}
+
+@tema
+A eucaristia, páscoa do Senhor
+
+@texto
+Um só morreu por todos. É ele mesmo que em todas as igrejas do mundo, pelo mistério do pão e do vinho, imolado, nos alimenta, acreditado, nos vivifica e, consagrado, santifica os que o consagram. Esta é a carne e este é o sangue do Cordeiro. É o mesmo pão descido do céu que diz: _O pão que eu darei é a minha carne dada para a vida do mundo_ (Jo 6,51). Também o seu sangue está expresso sob a espécie do vinho. Ele mesmo afirma no Evangelho: _Eu sou a videira verdadeira_ (Jo 15,1), manifestando com toda clareza que é seu sangue todo vinho oferecido como sacramento da paixão. O grande patriarca Jacó já profetizara acerca de Cristo, ao dizer: _Lavará no vinho a sua túnica e no sangue da uva o seu manto_ (Gn 49,11). Na verdade, haveria de lavar no seu próprio sangue a túnica do nosso corpo, que tomara sobre si como uma veste. O Criador e Senhor da natureza, que produz o pão da terra, também transforma o pão no seu próprio Corpo (porque pode fazê-lo e assim havia prometido); do mesmo modo, aquele que transformou a água em vinho, transforma o vinho no seu sangue. Diz a Escritura: _É a páscoa do Senhor_ (Ex 12,11), isto é, a passagem do Senhor. Por isso não julguemos terrestres os elementos que se tornaram celestes, porque o Senhor “passou” para essas realidades terrestres e transformou-as no seu corpo e no seu sangue. O que recebes é o corpo daquele pão do céu, e o sangue é daquela videira sagrada. Porque, ao dar o pão e o vinho consagrados a seus discípulos, disse-lhes: _Isto é o meu corpo. Isto é o meu sangue_ (Mt 26,26.28). Acreditemos, portanto, naquele em quem pusemos a nossa confiança: a Verdade não sabe mentir. Quando Jesus falava sobre a necessidade de comer seu corpo e de beber seu sangue, a multidão, desconcertada, murmurava: _Esta palavra é dura! Quem consegue escutá-la?_ (Jo 6,60). Querendo purificar com o fogo celeste tais pensamentos – que deveis evitar, como já vos disse – ele acrescentou: _O Espírito é que dá vida, a carne não adianta nada. As palavras que vos falei são espírito e vida_ (Jo 6,63).
+
+@secao Responsório | Jo 6,57; Lc 22,19b
+
+@responsorio
+R. O Pai que vive me enviou e eu vivo pelo Pai:
+* E quem de mim se alimenta,
+viverá também por mim. Aleluia.
+V. Isto é o meu Corpo, entregue por vós. * E quem.
+
+@secao Oração
+
+@oracao
+Ó Deus, vossa graça nos santificou quando éramos pecadores e nos deu a felicidade, quando infelizes. Vinde em socorro das vossas criaturas e sustentai-nos com vossos dons, para que não falte a força da perseverança àqueles a quem destes a graça da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_vigilia.htm
+@documento Vigília da Ascensão do Senhor
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Vou preparar-vos um lugar, virei, de novo, para vós
+e o vosso coração haverá de se alegrar. Aleluia!
+
+@salmo canticos/i-is-63-1-5
+
+@gloria
+
+@salmo canticos/ii-os-6-1-6
+
+@gloria
+
+@salmo canticos/iii-sf-3-8-13
+
+@gloria
+
+@antifona
+Vou preparar-vos um lugar, virei, de novo, para vós
+e o vosso coração haverá de se alegrar. Aleluia!
+
+@secao Evangelho | Jo 20,19-31
+
+@texto
+[19] Ao anoitecer daquele dia, o primeiro da semana, estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e, pondo-se no meio deles, disse: “A paz esteja convosco”. [20] Depois destas palavras, mostrou-lhes as mãos e o lado. Então os discípulos se alegraram por verem o Senhor. [21] Novamente, Jesus disse: “A paz esteja convosco. Como o Pai me enviou, também eu vos envio”. [22] E depois de ter dito isto, soprou sobre eles e disse: “Recebei o Espírito Santo. [23] A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos”. [24] Tomé, chamado Dídimo, que era um dos doze, não estava com eles quando Jesus veio. [25] Os outros discípulos contaram-lhe depois: “Vimos o Senhor!” Mas Tomé disse-lhes: “Se eu não vir a marca dos pregos em suas mãos, se eu não puser o dedo nas marcas dos pregos e não puser a mão no seu lado, não acreditarei”. [26] Oito dias depois, encontravam-se os discípulos novamente reunidos em casa, e Tomé estava com eles. Estando fechadas as portas, Jesus entrou, pôs-se no meio deles e disse: “A paz esteja convosco”. [27] Depois disse a Tomé: “Põe o teu dedo aqui e olha as minhas mãos. Estende a tua mão e coloca-a no meu lado. E não sejas incrédulo, mas fiel”. [28] Tomé respondeu: “Meu Senhor e meu Deus!” [29] Jesus lhe disse: “Acreditaste, porque me viste? Bem-aventurados os que creram sem terem visto!” [30] Jesus realizou muitos outros sinais diante dos discípulos, que não estão escritos neste livro. [31] Mas estes foram escritos para que acrediteis que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenhais a vida em seu nome.

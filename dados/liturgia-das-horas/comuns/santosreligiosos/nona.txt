@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santosreligiosos_nona.htm
+@documento COMUM DOS SANTOS RELIGIOSOS - Hora Média
+
+@titulo COMUM DOS SANTOS RELIGIOSOS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Ninguém jamais viu, ó Senhor,
+o prêmio que vós preparastes
+para aqueles que esperam em vós.
+
+@salmo salmos/salmo-125-v2
+
+@gloria
+
+@antifona
+Ninguém jamais viu, ó Senhor,
+o prêmio que vós preparastes
+para aqueles que esperam em vós.
+
+@secao Leitura breve | Fl 4,8.9b
+
+@texto
+Irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. Assim o Deus da paz estará convosco.
+
+@texto
+V. Exultem os que em vós se refugiam,
+R. Pois convosco habitarão eternamente!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Ó Deus, concedei-nos, pelas preces de são {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um santo abade:
+
+@texto
+Ó Deus, que nos destes no santo abade {N.} um testemunho de perfeição evangélica, fazei-nos, em meio às agitações deste mundo, fixar os corações nos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

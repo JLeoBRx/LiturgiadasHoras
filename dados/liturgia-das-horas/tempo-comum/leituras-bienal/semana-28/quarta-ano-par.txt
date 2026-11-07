@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/28quartaTC_par.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {15,11-20}
+
+@tema
+Liberdade do homem
+
+@texto
+[11] Não digas: “É o Senhor que me faz pecar”, porque ele não faz aquilo que odeia. [12] Não digas: “É ele que me faz errar”, porque ele não tem necessidade de homem pecador. [13] O Senhor odeia toda espécie de abominação e nenhuma é amável para os que o temem. [14] Desde o princípio ele criou o homem e o abandonou nas mãos de sua própria decisão. [15] Se quiseres, observarás os mandamentos para permanecer fiel ao seu prazer. [16] Ele colocou diante de ti o fogo e a água; para o que quiseres estenderás tua mão. [17] Diante dos homens está a vida e a morte, ser-te-á dado o que preferires. [18] É grande, pois, a sabedoria do Senhor, ele é todo-poderoso e vê tudo. Seus olhos veem os que o temem, ele conhece todas as obras do homem. [20] Não ordenou a ninguém ser ímpio, não deu a ninguém licença de pecar.
+
+@secao Responsório | Cf. Eclo 15,14.17.19
+
+@responsorio
+R. Desde o princípio Deus criou o homem,
+e o abandonou nas mãos de sua própria decisão.
+* Diante dos homens está a vida e a morte, o bem e o mal.
+V. Seus olhos veem os que o temem,
+Ele conhece todas as obras do homem.
+* Diante dos homens.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Discursos” de Pedro de Blois, presbítero
+{(Séc. XIII)} {(54.º sobre o sacrifício do altar)}
+
+@tema
+Cristo se tornou pão para nós
+
+@texto
+_A lei foi dada por meio de Moisés, a graça e a verdade_ _vieram por meio de Jesus Cristo_ (Jo 1,17). Se, portanto, Cristo é a verdade, e, justamente porque é a verdade, se cremos em Cristo, cremos também por Cristo. Na verdade, é ele mesmo que diz: _Eu sou o pão vivo, descido do céu_ (Jo 6,51); ele é o maná restaurador, ele é o cordeiro que era imolado e comido sob a antiga lei; ele próprio se ofereceu a nós como prêmio e alimento: ele, que alimentou os nossos pais com o maná, sacia-nos com o pão, e cumpre assim o que está escrito: _Quando vier o novo lançareis fora o antigo,_ _e comereis o antiquíssimo_ (Lv 26,10 vulg.).
+O antigo são os sacrifícios da antiga lei que eram oferecidos por Aarão e pelos seus filhos, degolando os filhotes de carneiros e espargindo o sangue de bois e de cabritos. Mas o antiquíssimo foram o pão e o vinho oferecidos por Melquisedeque, que prefiguravam o sacramento de Cristo, a respeito do qual o Pai jurou: _Tu és sacerdote para sempre_ _segundo a ordem de Melquisedeque_ (Sl 109,4). Portanto, com a chegada do novo deveriam ser lançados fora os sacrifícios legais para comer o antiquíssimo, porquanto o homem comeu o pão dos anjos que Deus na sua bondade havia preparado para o pobre dos tempos antigos.
+O pão do qual nós nos nutrimos é a assunção da nossa natureza. Cristo, de fato, transformou em trigo o feno da nossa carne para nos alimentar com a flor do trigo. Tornou-se para nós pão que deve ser semeado e, multiplicado num coração bom, torna-se para nós grão de trigo. É pão que revigora, para a consolação desta vida miserável e para o sustento no cansaço do caminho: é pão na palavra da doutrina, pão no exemplo da vida, pão da graça espiritual, pão da glória sem fim. Esta, disse, _é a nova aliança no meu sangue_ (Lc 22,20; 1Cor 11,25). Esta nova aliança nos é confirmada na morte de Cristo, a fim de que sejamos totalmente unidos a ele numa morte semelhante à sua, morremos para o mundo para que a nossa vida seja escondida com Cristo em Deus. Sobre esta aliança é necessário ordenar os sacrifícios, de modo que todo o homem, oferecendo-se como uma oblação viva e agradável a Deus, apresente, antes de tudo, o sacrifício da penitência. _Um espírito contrito, diz, é um sacrifício_ _a Deus, um coração abatido e humilhado, ó Deus, tu não_ _desprezas_ (Sl 50,19).
+O segundo sacrifício é a oferta da misericórdia, que pela sua delicada excelência, o Senhor chama justiça, e não sacrifício, dizendo: _Misericórdia eu quero e não sacrifício_ (Mt 9,13;12,7). Disso, de fato, está escrito: “Oferecei sacrifícios de justiça” (Sl 4,6).
+Há ainda um terceiro que é totalmente interno, porque procede exclusivamente do íntimo da alma e da profundeza do coração: é o sacrifício de louvor. O profeta, que desejava oferecer este sacrifício com toda a generosidade do coração e a plenitude da caridade, disse: _eu me saciarei como de óleo_ _e gordura, e com alegria nos lábios minha boca te louvará_ (Sl 63,6). O primeiro sacrifício se refere a mim, o segundo ao próximo, e o terceiro a Deus. E, todavia, eu dirijo tudo a Deus, e a Ele tudo ofereço.
+Porém, se queremos oferecer sacrifícios sobre a aliança de Cristo, um só é o modo e a mensagem; esta é a ordem: que, como nos é prescrito lançar nele os nossos pensamentos, assim lancemos a fé dos sacrifícios na sua palavra. Creia o homem mais em Cristo do que em si próprio, a fim de que o seu espírito se mantenha fiel a Deus, renegue-se a si mesmo e siga Cristo com a esperança e a fé. Pois Ele é _o caminho, a verdade e a vida_ (Jo 14,6).
+
+@secao Responsório | Jo 6,48-51
+
+@responsorio
+R. Eu sou o pão da vida.
+Os vossos pais comeram o maná no deserto, e morreram.
+* Este é o pão que desce do céu,
+para que aquele que dele comer não morra.
+V. Eu sou o pão vivo descido do céu.
+Quem come deste pão viverá eternamente.
+* Este é o pão.
+
+@secao Oração
+
+@oracao
+Ó Deus, sempre nos preceda e acompanhe a vossa graça para que estejamos sempre atentos ao bem que devemos fazer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

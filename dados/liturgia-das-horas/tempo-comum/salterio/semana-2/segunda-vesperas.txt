@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2segunda_vesperas.htm
+@documento Vésperas - Segunda-Feira II
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Fonte da luz, da luz origem,
+as nossas preces escutai:
+da culpa as trevas expulsando,
+com vossa luz nos clareai.
+
+Durante a faina deste dia
+nos protegeu o vosso olhar.
+De coração vos damos graças
+em todo tempo e lugar.
+
+Se o pôr do sol nos trouxe as trevas,
+outro sol fulge, coruscante,
+e envolve até os próprios anjos
+com o seu brilho radiante.
+
+Todas as culpas deste dia
+apague o Cristo bom e manso,
+e resplandeça o coração
+durante as horas do descanso.
+
+Glória a vós, Pai, louvor ao Filho,
+poder ao Espírito também.
+No resplendor do vosso brilho,
+regeis o céu e a terra. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@antifona 2
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@antifona 3
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@salmo canticos/ef-1-3-10-v3
+
+@gloria
+
+@antifona
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@secao Leitura breve | 1Ts 2,13
+
+@texto
+Agradecemos a Deus sem cessar por vós terdes acolhido a pregação da palavra de Deus, não como palavra humana, mas como aquilo que de fato é: Palavra de Deus, que está produzindo efeito em vós que abraçastes a fé.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó Senhor, suba à vossa presença
+* A minha oração, como incenso. R. Ó Senhor.
+V. Minhas mãos como oferta da tarde. * A minha oração.
+Glória ao Pai. R. Ó Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A minh'alma vos engrandeça
+eternamente, Senhor meu Deus.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A minh'alma vos engrandeça
+eternamente, Senhor meu Deus.
+
+@secao Preces
+
+@preces
+Louvemos a Jesus Cristo, que alimenta e fortalece a sua Igreja. Oremos cheios de confiança, dizendo:
+
+R. **Ouvi, Senhor, a oração do vosso povo!**
+
+Senhor Jesus, fazei que todos os homens se salvem,
+– e cheguem ao conhecimento da verdade. R.
+
+Protegei o Santo Padre, o Papa {N.} e o nosso bispo {N.};
+– ajudai-os com o vosso poder. R.
+
+Favorecei os que procuram trabalho justo e estável,
+– para que vivam felizes e tranquilos. R.
+
+Sede, Senhor, o refúgio dos pobres e oprimidos,
+– ajudai-os na tribulação. R.
+
+{(intenções livres)}
+
+Nós vos recomendamos aqueles que durante a vida exerceram o ministério sagrado,
+– para que vos louvem eternamente no céu. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, que a nós, servos inúteis, sustentastes nos trabalhos deste dia, aceitai este louvor, qual sacrifício vespertino, em ação de graças por vossos benefícios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

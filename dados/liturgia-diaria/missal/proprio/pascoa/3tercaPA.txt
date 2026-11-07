@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/3tercaPA.htm
+
+@secao Antífona da entrada | Cf. Ap 19,5;12,10
+@texto
+Louvai o nosso Deus,
+todos os seus servos e todos os que o temeis, pequenos e grandes,
+pois chegou a salvação, o poder, o reino do nosso Deus
+e a autoridade do seu Cristo, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus,
+que abris as portas do reino do céu
+aos renascidos da água e do Espírito Santo,
+aumentai em vossos fiéis a graça que lhes destes
+para que, purificados de todo pecado,
+não sejam privados de nenhuma promessa de vossa bondade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, os dons da vossa Igreja em festa
+e concedei o fruto da eterna alegria
+a quem destes motivo de tão grande júbilo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Rm 6,8
+@texto
+Se morremos com Cristo,
+cremos que também viveremos com ele, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, olhai com bondade o vosso povo
+e fazei chegar à incorruptível ressurreição da carne
+aqueles que renovastes
+pelos sacramentos da vida eterna.
+Por Cristo, nosso Senhor.

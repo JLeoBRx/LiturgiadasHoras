@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/sabadosanto_par.htm
+@documento Ofício das Leituras - Tríduo Pascal Da Paixão E Ressurreição Do Senhor Sábado Santo
+
+@celebracao
+TRÍDUO PASCAL DA PAIXÃO E RESSURREIÇÃO DO SENHOR SÁBADO SANTO
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Jesus, Senhor supremo,
+do mundo redentor,
+na cruz salvastes todos,
+da morte vencedor!
+
+Mantende, suplicamos,
+em nossos corações,
+os dons que conquistastes
+por todas as nações.
+
+Cordeiro imaculado,
+pregado sobre a cruz,
+lavastes nossas vestes
+em vosso sangue e luz.
+
+Aqueles que lavastes
+com sangue de Homem-Deus,
+convosco ressurgidos,
+levai-os para os céus.
+
+Ó povos redimidos,
+ao Deus do céu louvai,
+Jesus nos fez, morrendo,
+um reino para o Pai.
+
+@secao Salmodia
+
+@antifona 1
+Tranquilo eu adormeço e repouso em vossa paz.
+
+@salmo salmos/salmo-004
+
+@gloria
+
+@antifona
+Tranquilo eu adormeço e repouso em vossa paz.
+
+@antifona 2
+Até meu corpo no repouso está tranquilo.
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+Até meu corpo no repouso está tranquilo.
+
+@antifona 3
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar!
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Elevai-vos bem mais alto, antigas portas,
+a fim de que o Rei da glória possa entrar!
+
+@texto
+V. Defendei a minha causa e libertai-me.
+R. Pela palavra que me destes, dai-me a vida!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {20,7-18}
+
+@tema
+Ansiedade do Profeta
+
+@texto
+Tu me seduziste, Senhor, e eu me deixei seduzir; tu te tornaste forte demais para mim, tu me dominaste. Sirvo de escárnio todo o dia, todos zombam de mim. Porque sempre que falo devo gritar, devo proclamar: “Violência e opressão!” Porque a palavra do Senhor tornou-se para mim opróbrio e ludíbrio todo dia. Quando pensava: ‘Não me lembrarei dele, já não falarei em seu Nome’, então isto era em meu coração como fogo devorador, encerrado em meus ossos. Estou cansado de suportar, não aguento mais! Eu ouvi a calúnia de muitos: “Terror de todos os lados! Denunciai! Denunciemo-lo” Todo aquele que estava em paz comigo aguarda a minha queda: “Talvez ele se deixe seduzir! Nós o dominaremos e nos vingaremos dele!” Mas o Senhor estará comigo como poderoso guerreiro; por isso os meus perseguidores tropeçarão, não prevalecerão. Eles se envergonharão profundamente, porque não tiveram êxito; vergonha eterna, inesquecível. Ó Senhor dos Exércitos, que perscrutas os justos, que vês rins e coração, verei a tua vingança contra eles, porque a ti expus a minha causa. Cantai ao Senhor, louvai ao Senhor, porque livrou a vida do pobre da mão dos perversos. Maldito o dia em que nasci! O dia em que minha mãe me gerou não seja abençoado! Maldito o homem que deu a meu pai a Boa-Nova: “Nasceu-te um filho homem!” e lhe causou grande alegria. Que este homem seja como as cidades que o Senhor destruiu sem compaixão; que ouça o clamor pela manhã e o grito de guerra ao meio-dia, porque não me matou desde o seio materno, para que minha mãe fosse para mim o meu sepulcro e suas entranhas estivessem grávidas para sempre, Por que saí do seio materno para ver trabalhos e penas e terminar os meus dias na vergonha?
+
+@secao Responsório | Sl 87,5-6.7
+
+@responsorio
+R. Sou visto como os que baixam à cova,
+tornei-me homem sem forças:
+* Despedido entre os mortos,
+como vítimas que jazem no sepulcro,
+V. Puseste-me no fundo da cova,
+em meio a trevas nos abismos; * Despedido entre os mortos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre o Evangelho de São João, de São Cirilo de Alexandria, bispo.
+{(Séc. IV)} {(Lib. 12: PG 74,679-682)}
+
+@tema
+Cristo com a morte do seu corpo redimiu a vida de todos
+
+@texto
+_“Eles pegaram então o corpo de Jesus e o envolveram_ _em faixas de linho com os aromas, como os judeus_ _costumam sepultar. Havia um jardim, no lugar onde ele_ _fora crucificado, no qual ninguém fora ainda colocado.”_ (Jo 19,40-41).
+Foi vivificado dentre os mortos aquele que por nós foi morto segundo a carne. Compreende-se, portanto, que tem a vida Nele mesmo e no Pai, e assim é em realidade. Mas _para_ _cumprir toda justiça_ (cf. Mt 3,15), isto é, para comunicar cada realidade ligada à condição humana, submeteu o templo do seu corpo não só à morte aceita espontaneamente, mas também a outras situações que se seguiram à morte: a sepultura e a deposição em uma tumba.
+No jardim existia um sepulcro, e ele era novo, diz o evangelista; o que, como um símbolo, significa que com a morte de Cristo nos é preparado e concedido o retorno ao paraíso. Ele, de fato, ali entrou como nosso precursor.
+O fato, pois, de que o sepulcro era novo, indica o novo e jamais dito retorno de Jesus da morte à vida e a restauração por Ele operada nos confrontos da corrupção.
+De fato, a nossa nova morte é transformada, pela morte do Cristo, em uma espécie de sono ou de repouso. Vivemos ao invés, _como aqueles que, segundo a Escritura, vivem_ _pelo Senhor_ (cf. Rm 14,8).
+Por isso o santo apóstolo Paulo, _para indicar aqueles_ _que foram mortos em Cristo, usa quase sempre a expressão_ _“aqueles que adormeceram”_ (cf. 1Co 15,6.18.20.51;1Tl 4,13-14 etc.).
+No passado, é certo, prevaleceu a força da morte contra a nossa natureza. Essa _“reinou de Adão até Moisés, também_ _sobre aqueles que não transgrediram de forma semelhante_ _a Adão”_ (Rm 5,14); e à semelhança dele, levamos a imagem do homem terreno, sofrendo a morte imposta sobre nós pela maldição de Deus.
+Mas quando aparece entre nós o segundo Adão, divino e celeste, que, combatendo pela vida de todos, com a morte do seu corpo, a todos restituiu a vida, e destruindo o reino da morte, ressuscitou, e então fomos transformados à sua imagem e confrontamos uma morte, de certa forma, nova. Essa, de fato, não nos dissolve em uma corrupção sem fim, mas infunde em nós um sono pleno de esperança consoladora, à semelhança daquele que abriu para nós esta vida, isto é, Cristo.
+
+@secao Responsório | Cf. Mt 27,62-66;Mc 15-46
+
+@responsorio
+R. Depois de sepultar o Senhor, fecharam a tumba
+e fizeram rolar uma pedra contra a entrada do sepulcro,
+* Puseram soldados de sentinela.
+V. Os sumo-sacerdotes se reuniram com Pilatos
+e lhe pediram que vigiasse o túmulo.
+"Ide - respondeu ele - e guardai o sepulcro como entendeis". * Puseram soldados.
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

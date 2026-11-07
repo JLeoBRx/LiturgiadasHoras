@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaoevangelista_laudes.htm
+@documento Laudes - São João, Apóstolo e Evangelista
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Os serafins louvam aquele
+a quem Cristo mais amou.
+À sua voz, a nossa unimos
+no mesmo canto de louvor.
+
+João testemunha o que aprendeu:
+Quem é o Verbo e de onde veio,
+no seio virgem se escondendo,
+mas sem deixar do Pai o seio.
+
+Feliz João, a quem o Mestre
+por livre escolha chamaria
+a ver no monte a sua glória
+e no horto ver a sua agonia.
+
+De Deus contemplas os segredos,
+sendo à altura arrebatado.
+Vês os mistérios do Cordeiro,
+e da Igreja, o povo amado.
+
+Tu como virgem sucedeste
+junto a Maria ao Filho amado.
+Faze-nos filhos de tal Mãe,
+do Mestre esconde-nos no lado.
+
+Glória infinita seja ao Verbo
+que se fez carne, como cremos.
+A ele, ao Pai e ao Espírito
+glória sem fim nos céus supremos.
+
+@secao Salmodia
+
+@antifona 1
+São João evangelista e apóstolo
+era amado e preferido por Jesus.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+São João evangelista e apóstolo
+era amado e preferido por Jesus.
+
+@antifona 2
+Jesus, na cruz morrendo,
+confiou a Virgem Mãe ao discípulo amado.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Jesus, na cruz morrendo,
+confiou a Virgem Mãe ao discípulo amado.
+
+@antifona 3
+O discípulo amado disse aos outros:
+É o Senhor! Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O discípulo amado disse aos outros:
+É o Senhor! Aleluia.
+
+@secao Leitura breve | At 4,19-20
+
+@texto
+Pedro e João responderam: Julgai vós mesmos, se é justo diante de Deus que obedeçamos a vós e não a Deus! Quanto a nós, não nos podemos calar sobre o que vimos e ouvimos.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis deles.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Verbo se fez carne e habitou entre nós,
+e vimos sua glória. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Verbo se fez carne e habitou entre nós,
+e vimos sua glória. Aleluia.
+
+@secao Preces
+
+@preces
+Irmãos, edificados sobre o fundamento dos apóstolos, roguemos a Deus Pai todo-poderoso em favor de seu povo santo; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Vós quisestes, ó Pai, que o vosso Filho, ressuscitado dos mortos, aparecesse em primeiro lugar aos apóstolos;
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pelo apóstolo São João nos revelastes os mistérios do vosso Filho, tornai-nos capazes de conhecer e amar o que ele nos ensinou de modo incomparável. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

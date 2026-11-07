@@ -1,0 +1,81 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+A plenitude da lei é o amor.
+
+@salmo salmos/salmo-118-97-104-xiii-mem
+
+@gloria
+
+@antifona
+A plenitude da lei é o amor.
+
+@antifona 2
+Recordai-vos deste povo que outrora adquiristes!
+
+@salmo salmos/salmo-073-i
+
+@gloria
+
+@antifona
+Recordai-vos deste povo que outrora adquiristes!
+
+@antifona 3
+Levantai-vos, Senhor Deus,
+e defendei a vossa causa!
+
+@salmo salmos/salmo-073-ii
+
+@gloria
+
+@antifona
+Levantai-vos, Senhor Deus, e defendei a vossa causa!
+
+@secao Leitura breve | Pr 22,22-23
+
+@texto
+Não faças violência ao fraco, por ser fraco, nem oprimas o pobre no tribunal, porque o Senhor julgará a causa deles e tirará a vida aos que os oprimiam.
+
+@texto
+V. O Senhor libertará o indigente.
+R. E a vida dos humildes salvará.
+
+@secao Oração
+
+@oracao
+Senhor Deus, que enviastes vosso anjo para mostrar ao centurião Cornélio o caminho da vida, concedei-nos trabalhar com alegria para a salvação da humanidade, a fim de que, unidos todos na vossa Igreja, possamos chegar até vós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

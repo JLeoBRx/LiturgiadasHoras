@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/ssnomedejesus.htm
+@documento Ofício das Leituras - Santíssimo Nome De Jesus
+
+@celebracao
+SANTÍSSIMO NOME DE JESUS
+
+@biografia
+O Santíssimo Nome de Jesus, invocado pelos cristãos desde os tempos apostólicos, foi introduzido no uso litúrgico a partir do século XIV. São Bernardino de Sena foi o grande propagador dessa devoção. A festa, aprovada para a Ordem dos Franciscanos (1530), foi estendida a toda a Igreja sob o pontificado de Inocêncio XIII (1721).
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Jesus, que grande esperança
+teu santo nome irradia:
+fonte de graça e doçura,
+dos corações alegria!
+
+Aos pecadores se abrindo,
+teu coração não se encobre;
+se quem te busca se alegra,
+que dirá quem te descobre?
+
+Jesus, em tua amizade,
+quanta alegria encontramos:
+se nossa fome sacias
+cada vez mais te buscamos.
+
+Na tua ausência chorando,
+ao teu encalço corremos:
+só com teu pão nos fartamos,
+só de teu vinho bebemos.
+
+Ó Senhor, fica conosco,
+consola a nossa amargura;
+afasta a sombra da noite
+com tua luz e doçura.
+
+Jesus, bondade suprema,
+Jesus, ternura infinita,
+coração pleno de afeto,
+que por nós bate e palpita.
+
+Jesus, ó flor de uma Virgem,
+fonte de paz e alegria,
+ao Reino que hoje cantamos
+possamos chegar um dia!
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@antifona 2
+Defendei minha causa, Senhor poderoso!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-ii
+
+@gloria
+
+@antifona
+Defendei minha causa, Senhor poderoso!
+
+@antifona 3
+Minha língua anunciará vossa justiça eternamente.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-iii
+
+@gloria
+
+@antifona
+Minha língua anunciará vossa justiça eternamente.
+
+@texto
+V. Veio o Filho de Deus e nos deu o saber,
+
+R. Para nós conhecermos o Deus verdadeiro
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,5-16}
+
+@tema
+A vida do ser humano novo
+
+@texto
+Irmãos: [5] Fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e de sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto e selvagem, escravo e livre, mas Cristo é tudo em todos. [12] Vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. [16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças.
+
+@secao Responsório | Cf. Gl 3,27-28
+
+@responsorio
+R. No Cristo batizados, revestimo-nos de Cristo.
+* Todos nós somos um só em Jesus Cristo, Senhor nosso.
+V. Já não há judeu nem grego, não há livre nem escravo;
+não há homem nem mulher. * Todos nós.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardino de Sena, presbítero
+{(Séc. XV)} {(Sermo 49, De glorioso Nomine Iesu Christi, cap. 2: Opera omnia, 4,505-506)}
+
+@tema
+O nome de Jesus é a luz dos pregadores
+
+@texto
+O nome de Jesus é a luz dos pregadores porque ilumina com o seu esplendor os que anunciam e os que ouvem a sua palavra. Por que razão a luz da fé se difundiu no mundo inteiro tão rápida e ardentemente, senão porque foi pregado este nome? Não foi também pela luz e suavidade do nome de Jesus que Deus nos _chamou para a sua luz maravilhosa?_ (1Pd 2,9). Com razão diz o Apóstolo aos que foram iluminados e nesta luz veem a luz: _Outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz_ (Ef 5,8).
+Portanto, é necessário proclamar este nome para que a sua luz não fique oculta, mas resplandeça. Entretanto, ele não deve ser pregado com o coração impuro ou com a boca profanada; deve ser guardado e proferido por meio de um vaso escolhido.
+Por isso, diz o Senhor, referindo-se ao Apóstolo: _Este homem é para mim um vaso escolhido para anunciar o meu nome aos pagãos, aos reis e ao povo de Israel_ (cf. At 9,15). Um vaso escolhido, diz o Senhor, onde se expõe uma bebida de agradável sabor, para que o brilho e o esplendor dos vasos preciosos provoquem o desejo de beber: _para anunciar_ – acrescenta – _o meu nome_.
+Com efeito, para limpar os campos se queimam com o fogo os espinheiros secos e inúteis; aos primeiros raios do sol nascente, as trevas desaparecem, e os ladrões, os noctívagos e os arrombadores de casas desaparecem. Da mesma forma, quando Paulo pregava aos povos – semelhante a um forte estrondo de trovão ou à irrupção de um violento incêndio mais luminoso que o nascer do sol – desaparecia a falta de fé, morria a falsidade e resplandecia a verdade, à semelhança da cera que se derrete ao calor de um fogo ardente.
+Ele levava o nome de Jesus a toda parte por meio de suas palavras, cartas, milagres e exemplos. De fato, _continuamente_ louvava _o_ _nome_ de Jesus e _cantava-lhe hinos de ação de graças_ (Eclo 51,15; Ef 5,19-20).
+O Apóstolo também apresentava este nome como uma luz aos pagãos, aos reis e ao povo de Israel, iluminava as nações e proclamava por toda parte: _A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz. Procedamos honestamente, como em pleno dia_ (Rm 13,12-13). E mostrava a todos a lâmpada que arde e ilumina sobre o candelabro, anunciando em todo lugar a _Jesus Cristo crucificado_ (1Cor 2,2).
+Assim, a Igreja, esposa de Cristo, sempre apoiada em seu testemunho, alegra-se com o Profeta, dizendo: _Deus, vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas_ (Sl 70,17), isto é, continuamente. Também o mesmo Profeta a isto nos exorta: _Cantai ao Senhor Deus e bendizei seu santo nome! Dia após dia anunciai sua salvação_ (Sl 95,2), quer dizer, Jesus, o Salvador.
+
+@secao Responsório | Eclo 51,15ab; Sl 9,3
+
+@responsorio
+R. Louvarei continuamente o vosso nome
+* E o cantarei com gratidão em meus louvores.
+V. Em vós exultarei de alegria,
+cantarei ao vosso nome, Deus Altíssimo. * E o cantarei.
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes origem à salvação do gênero humano na encarnação do vosso Verbo, concedei a vossos povos a misericórdia que imploram, para que todos saibam que não há outro nome a ser invocado além do nome do vosso Filho Unigênito. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,231 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopio.htm
+@documento Ofício das Leituras - São Pio De Pietrelcina, Presbítero Memória
+
+@celebracao
+SÃO PIO DE PIETRELCINA, PRESBÍTERO
+{Memória}
+
+@biografia
+Francesco Forgione (Pietrelcina, Itália, 1887 – 23 de setembro de 1968), ao ingressar no noviciado da Ordem dos Frades Menores Capuchinhos, recebeu o nome de Frei Pio. Seus frequentes problemas de saúde e as orações diante do Crucifixo fizeram crescer nele a missão de acolher o sofrimento do povo, sobretudo ao receber em suas mãos os sinais das chagas do Crucificado. Padre Pio também motivou e acompanhou a construção de um grande hospital, chamado “Casa Alívio do Sofrimento”. Como eminente diretor espiritual, entregou-se ao ministério da confissão para aliviar os sofrimentos do coração de seus fiéis. Foi canonizado por São João Paulo II, em 2002, como “São Pio de Pietrelcina”.
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração do dia 23/09. Assim, o primeiro hino é do Comum dos pastores, para presbíteros, e o segundo hino, assim como a segunda leitura, foram traduzidos livremente do original em latim para a memória.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+{Ou}
+
+Humilde Padre Pio,
+pregado na cruz com Cristo,
+irmão que ama e reza
+e oferece o Sacrifício:
+em ti glorificamos
+os dons do Deus Altíssimo.
+
+Teu coração contempla
+o Filho compassivo,
+e entregas, absolvendo,
+a graça do Batismo:
+por ti agradecemos
+ao Santo Jesus Cristo.
+
+Amigo dos enfermos,
+que são seus preferidos
+tu buscas e encontras
+para o sofrimento, alívio:
+em ti reconhecemos
+Jesus, o Médico Divino.
+
+A Virgem Mãe das Graças,
+te guarda no coração.
+Nas contas do rosário,
+tu mostras afeição.
+Em ti a Igreja sente,
+a fé de um cristão.
+
+A Cristo Redentor
+para amar o homem vem
+Ao Pai que o enviou
+e ao Espírito que nos mantém
+ascenda amor e glória,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+[5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes.
+
+[6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora.
+
+[10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel. Aleluia.
+V. Muitos se dizem "homens de bem"; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Do Decreto Presbyterorum ordinis sobre o ministério e a vida dos presbíteros, do Concílio Vaticano II
+{(Séc.XX)} {( N.12 )}
+
+@tema
+A vocação dos presbíteros à perfeição
+
+@texto
+Pelo sacramento da Ordem, os presbíteros são configurados com Cristo sacerdote, na qualidade de ministros da Cabeça, para construir e edificar todo o seu corpo que é a Igreja, como cooperadores da ordem episcopal. De fato, já pela consagração do batismo receberam, como todos os cristãos, o sinal e o dom de tão grande vocação e graça para que, apesar da fraqueza humana, possam e devam procurar a perfeição, segundo a palavra do Senhor: _Sede perfeitos como o vosso Pai celeste é perfeito_ (Mt 5,48).
+
+Os sacerdotes, porém, estão obrigados por especial motivo a atingir tal perfeição, uma vez que, consagrados a Deus de modo novo pela recepção do sacramento da Ordem, se transformaram em instrumentos vivos de Cristo, eterno Sacerdote, a fim de poderem continuar através dos tempos sua obra admirável que reuniu com suma eficiência toda a família humana.
+
+Como, pois, cada sacerdote, a seu modo, faz as vezes da própria pessoa de Cristo, é também enriquecido por uma graça especial, para que, no serviço dos homens a ele confiados e de todo o povo de Deus, possa alcançar melhor a perfeição daquele a quem representa, e para que veja a fraqueza do homem carnal curada pela santidade daquele que por nós se fez Pontífice _santo, inocente, sem mancha, separado dos pecadores_ (Hb 7,26).
+
+Cristo, a quem o Pai santificou, ou melhor, consagrou e enviou ao mundo, _se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem_ (Tt 2,1), e assim, pela Paixão, entrou na sua glória. De modo semelhante, os presbíteros, consagrados pela unção do Espírito Santo e enviados por Cristo, mortificam em si mesmos as obras da carne e dedicam-se totalmente ao serviço dos homens, e assim podem progredir na santidade pela qual foram enriquecidos em Cristo, até atingirem a estatura do homem perfeito.
+
+Deste modo, exercendo o ministério do Espírito e da justiça, se forem dóceis ao Espírito de Cristo que os vivifica e dirige, firmam-se na vida espiritual. Pelas próprias ações sagradas de cada dia, como também por todo o seu ministério, exercido em comunhão com o bispo e com os outros presbíteros, eles mesmos se orientam para a perfeição da vida.
+
+A santidade dos presbíteros, por sua vez, contribui muitíssimo para o desempenho frutuoso do próprio ministério; pois, embora a graça divina possa realizar a obra da salvação também por meio de ministros indignos, contudo Deus prefere, segundo a lei ordinária, manifestar as suas maravilhas através daqueles que, dóceis ao impulso e direção do Espírito Santo, pela sua íntima união com Cristo e santidade de vida, podem dizer com o Apóstolo: _Eu vivo, mas não eu, é Cristo que vive em mim_ (Gl 2,20).
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós,
+que teria vos dado não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós. * Pois é tanto.
+
+@rubrica
+Ou
+
+@leitura
+Das cartas de São Pio de Pietrelcina, presbítero
+{(Séc.XX)} {(Lett 500; 510; Epist. I, 1065; 1093 1095. Edic. 1992)}
+
+@tema
+Eu vou levantar minha voz com força e não vou desistir
+
+@texto
+Com a força dessa obediência, resolvo contar-lhe o que aconteceu comigo desde o dia 5 à tarde até todo o dia 6 do mês de agosto de 1918.
+
+Eu não sou capaz de lhe dizer o que aconteceu neste tempo de martírio superlativo. Estava confessando os nossos rapazes (seminaristas) na tarde do dia 5, quando de repente fiquei cheio de um extremo terror com a visão de um personagem celestial que se apresentou a mim diante dos olhos da inteligência. Tinha na mão uma espécie de arma, semelhante a uma lâmina de ferro muito comprida com uma ponta bem afiada e parecia que da ponta saía fogo. Ver tudo isso e observar esse personagem que descarrega com toda violência o referido instrumento na alma, foi tudo uma só coisa. Prestes a desmaiar, emiti um gemido; sentia que ia morrer. Disse ao rapaz que se retirasse, porque me sentia mal e não encontrava forças para continuar.
+
+Este martírio durou, sem interrupção, até a manhã do dia 7. Não sei como dizer o que sofri neste período tão lamentável. Sentia que até as entranhas se desgrudavam e se esticavam pelo efeito daquele dardo, todo o meu ser estava a ferro e fogo.
+
+O que posso lhe dizer a respeito do que me pergunta sobre como minha crucificação aconteceu? Meu Deus, que confusão e humilhação eu sinto quando tenho que manifestar o que o Senhor fez nesta criatura mesquinha!
+
+Era a manhã do dia 20 de setembro passado, estando no coro após a celebração da Santa Missa, quando me senti invadido por um repouso parecido com um doce sonho. Todos os sentidos, internos e externos, e as mesmas faculdades da alma, foram encontrados em uma quietude indescritível. Em tudo isso reinava um silêncio total ao meu redor e dentro de mim; sendo assim, se fez de repente uma grande paz e abandono à completa privação de tudo se fez presente, aceitando a própria destruição.
+
+Tudo isso foi instantâneo, como um relâmpago. E enquanto tudo isso acontecia, eu me vi diante de um personagem misterioso, semelhante ao visto na tarde de 5 de agosto, com a única diferença de que neste emanava de suas mãos, pés e lado. Sua visão me aterrorizou; o que senti em mim naquele momento, é impossível dizer. Senti que estava morrendo e teria morrido se o Senhor não tivesse intervindo para segurar o coração, que eu sentia que estava saindo do meu peito.
+
+A visão do personagem foi removida e eu vi que minhas mãos, pés e lado foram atravessados e o sangue fluia. Imagine o dilaceramento que eu experimentei então e que estou vivenciando quase todos os dias. A ferida do coração emana assiduamente sangue, especialmente de quinta-feira à tarde até sábado. Meu pai, eu morro de dor por causa do rasgo e subsequente confusão que sofro nas profundezas da minha alma. Tenho medo de morrer sangrando, se o Senhor não ouvir os gemidos do meu coração e não retirar essa operação de mim. Jesus, que é tão bom, me concederá esta graça?
+
+Me tirará, pelo menos, esta confusão que experimento por estes sinais externos? Forte levantarei minha voz a Ele e não cessarei de evocá-lo para que por sua misericórdia retire de mim, não o rasgo, não a dor, porque o vejo impossível e sinto que Ele quer me embriagar de dor, mas estes sinais externos, que são para mim de uma confusão e de uma humilhação indescritíveis e insustentáveis.
+O personagem do qual eu quis vos falar na minha carta anterior, não é outro senão aquele mesmo que mencionei em outra carta minha, visto no dia 5 de agosto. Ele continua sua obra sem descanso, com dilaceramento superlativo da alma. Eu sinto no interior um rumor contínuo, como o de uma cascata, que está sempre jorrando sangue. Meu Deus! É justo e reto seu juízo, mas no fim, use de misericórdia comigo. Deus te direi sempre com seu profeta: _tem misericórdia de mim, Senhor, porque sou fraco_ (Sl 6.2, 37.1). Meu pai, agora que todo o meu interior é conhecido por ti, não desdenhe de fazer chegar até mim a palavra que me consola, em meio de feroz e dura amargura.
+
+@secao Responsório
+
+@responsorio
+R. Se alguém quiser vir após mim, renuncie a si mesmo,
+* Tome sobre si a sua cruz, e siga-me;
+V. Cristo, no lugar da alegria,
+suportou a cruz sem medo do sofrimento.
+* Tome sobre si.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que destes ao presbítero São Pio a graça singular de participar da cruz de vosso Filho e, por seu ministério, renovastes as maravilhas de vossa misericórdia, concedei-nos, por sua intercessão, que nos associemos continuamente à paixão de Cristo e cheguemos alegremente à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

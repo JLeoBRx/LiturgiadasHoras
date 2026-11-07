@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/2domingo_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+Uma luz já se levanta para os justos,
+pois nasceu o Salvador da humanidade. Aleluia.
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Uma luz já se levanta para os justos,
+pois nasceu o Salvador da humanidade. Aleluia.
+
+@antifona 2
+Entoemos um hino ao Senhor nosso Deus.
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Entoemos um hino ao Senhor nosso Deus.
+
+@antifona 3
+Ao povo pagão, que jazia nas trevas,
+brilhou grande luz.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Ao povo pagão, que jazia nas trevas,
+brilhou grande luz.
+
+@secao Leitura breve | Hb 1,1-2
+
+@texto
+Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas; nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo.
+
+@secao Responsório breve
+
+@responsorio
+R. Cristo, Filho do Deus vivo,
+* Tende pena e compaixão! R. Cristo.
+V. Que por nós nascer quisestes de Maria sempre Virgem
+* Tende. Glória ao Pai. R. Cristo, Filho.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A Virgem fiel
+gerou a Palavra de Deus feita carne,
+e virgem ficou depois de seu parto.
+Louvemos Maria, dizendo contentes:
+Bendita entre todas as mulheres da terra!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A Virgem fiel
+gerou a Palavra de Deus feita carne,
+e virgem ficou depois de seu parto.
+Louvemos Maria, dizendo contentes:
+Bendita entre todas as mulheres da terra!
+
+@secao Preces
+
+@preces
+Celebremos dignamente o Verbo de Deus, que existe antes dos séculos e quis, por nosso amor, nascer no tempo; e aclamemos jubilosos:
+
+R. **Alegre-se a terra porque viestes!**
+
+Cristo, Verbo eterno, que, descendo à terra, a enchestes de exultação,
+– alegrai o nosso coração com a graça da vossa visita. R.
+
+Salvador do mundo, que pelo vosso natal nos revelastes a fidelidade de Deus à sua aliança,
+– fazei-nos cumprir com fidelidade as promessas do nosso batismo. R.
+
+Com os apóstolos e evangelistas,
+– nós vos damos graças, Senhor. R.
+
+Rei do céu e da terra, que enviastes os anjos para anunciar a paz aos homens,
+– conservai na vossa paz os nossos dias. R.
+
+Senhor, que viestes para ser a videira que nos dá os frutos da vida,
+– fazei-nos permanecer unidos a vós, e dar frutos de santidade. R.
+
+{(intenções livres)}
+
+Pai nosso ...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, esplendor dos vossos fiéis, irradiai por todo o mundo a vossa glória, e manifestai-vos a todos os povos no fulgor da vossa luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

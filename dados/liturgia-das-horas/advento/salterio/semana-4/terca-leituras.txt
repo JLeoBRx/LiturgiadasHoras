@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4terca_leituras.htm
+@documento Ofício das Leituras - IV Terça-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@salmo salmos/salmo-101-i
+
+@gloria
+
+@antifona
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@antifona 2
+Ouvi, Senhor, a oração dos oprimidos!
+
+@salmo salmos/salmo-101-ii
+
+@gloria
+
+@antifona
+Ouvi, Senhor, a oração dos oprimidos!
+
+@antifona 3
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados.
+
+@salmo salmos/salmo-101-iii
+
+@gloria
+
+@antifona
+A terra, no princípio, vós criastes
+e os céus, por vossas mãos, foram criados.

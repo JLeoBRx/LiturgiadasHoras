@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santarosa_nona.htm
+@documento Hora Média - Santa Rosa de Lima
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@secao Leitura breve | Ap 19,6b.7
+
+@texto
+O Senhor, nosso Deus, o Todo-poderoso passou a reinar. Fiquemos alegres e contentes, e demos glória a Deus, porque chegou o tempo das núpcias do Cordeiro. Sua esposa já se preparou.
+
+@texto
+V. Encontrei o grande amor da minha vida.
+R. Vou guardá-lo para sempre junto a mim!
+
+@secao Oração
+
+@oracao
+Ó Deus, que inspirastes Santa Rosa de Lima, inflamada de amor, a deixar o mundo, a servir os pobres e a viver em austera penitência, concedei-nos, por sua intercessão, seguir na terra os vossos caminhos e gozar no céu as vossas delícias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

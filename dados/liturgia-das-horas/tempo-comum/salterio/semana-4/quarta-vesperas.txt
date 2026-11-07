@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Devagar, vai o sol se escondendo,
+deixa os montes, o campo e o mar,
+mas renova o presságio da luz,
+que amanhã vai de novo brilhar.
+
+Os mortais se admiram do modo
+pelo qual, generoso Senhor,
+destes leis ao transcurso do tempo,
+alternância de sombra e fulgor.
+
+Quando reina nos céus o silêncio
+e declina o vigor para a lida,
+sob o peso das trevas a noite
+nosso corpo ao descanso convida.
+
+De esperança e de fé penetrados,
+saciar-nos possamos, Senhor,
+de alegria na glória do Verbo
+que é do Pai o eterno esplendor.
+
+Este é o sol que jamais tem ocaso
+e também o nascer desconhece.
+Canta a terra, em seu brilho envolvida,
+nele o céu em fulgor resplandece.
+
+Dai-nos, Pai, gozar sempre da luz
+que este mundo ilumina e mantém,
+e cantar-vos, e ao Filho, e ao Espírito,
+canto novo nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vosso saber é por demais maravilhoso, ó Senhor.
+
+@salmo salmos/salmo-138-1-18-23-24-i-v2
+
+@gloria
+
+@antifona
+Vosso saber é por demais maravilhoso, ó Senhor.
+
+@antifona 2
+Eu, o Senhor, vejo o mais íntimo
+e conheço os corações,
+recompenso a cada um conforme as obras realizadas.
+
+@salmo salmos/salmo-138-1-18-23-24-ii
+
+@gloria
+
+@antifona
+Eu, o Senhor, vejo o mais íntimo
+e conheço os corações,
+recompenso a cada um conforme as obras realizadas.
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+é por ele que subsiste o universo.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+é por ele que subsiste o universo.
+
+@secao Leitura breve | 1Jo 2,3-6
+
+@texto
+Para saber que o conhecemos, vejamos se guardamos os seus mandamentos. Quem diz: “Eu conheço a Deus”, mas não guarda os seus mandamentos, é mentiroso, e a verdade não está nele. Naquele, porém, que guarda a sua palavra, o amor de Deus é plenamente realizado. O critério para saber se estamos com Jesus é este: quem diz que permanece nele, deve também proceder como ele procedeu.
+
+@secao Responsório breve
+
+@responsorio
+R. Protegei-nos, Senhor,
+* Como a pupila dos olhos. R. Protegei-nos.
+V. Guardai-nos, defendei-nos, sob a vossa proteção.
+* Como a pupila. Glória ao Pai. R. Protegei-nos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Senhor, manifestai o poder de vosso braço,
+dispersai os soberbos e elevai os humildes!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Senhor, manifestai o poder de vosso braço,
+dispersai os soberbos e elevai os humildes!
+
+@secao Preces
+
+@preces
+Aclamemos ao Eterno Pai, cuja misericórdia para com o seu povo é sem limites; e digamos com alegria de coração:
+
+R. **Senhor, alegrem-se todos os que em vós esperam!**
+
+Senhor, que enviastes o vosso Filho não para julgar o mundo mas para salvá-lo,
+– concedei que a sua morte gloriosa produza em nós muitos frutos. R.
+
+Vós, que constituístes os sacerdotes como ministros de Cristo e dispensadores dos vossos mistérios,
+– dai-lhes um coração fiel, ciência e caridade. R.
+
+Àqueles que chamastes para uma vida de castidade perfeita por amor do reino dos céus,
+– concedei-lhes a graça de seguirem fiel e generosamente as pegadas de vosso Filho. R.
+
+Vós, que no princípio criastes o homem e a mulher,
+– conservai todas as famílias no amor sincero. R.
+
+{(intenções livres)}
+
+Vós, que, pelo sacrifício de Cristo, tirastes o pecado do mundo,
+– perdoai os pecados de todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor, que aos famintos saciais de bens celestes, lembrai-vos de vossa misericórdia e concedei à nossa pobreza tornar-se rica de vossos dons. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

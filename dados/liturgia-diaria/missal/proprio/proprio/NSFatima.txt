@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSFatima.htm
+
+@secao Antífona da entrada | Cf. Sl 29,12
+@texto
+Transformastes o meu pranto em uma festa,
+meus farrapos em adornos de alegria, aleluia!.
+
+@secao Coleta
+@texto
+Ó Deus, que nos destes a Mãe do vosso Filho como nossa Mãe,
+concedei-nos que, perseverando em penitência e oração
+pela salvação do mundo,
+possamos promover cada dia mais o reino de Cristo.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Pai santo,
+ao celebrarmos a memória da Bem-aventurada Virgem Maria,
+aceitai nossa humilde oblação apresentada com alegria,
+e, aos que nos unimos ao sacrifício do Cristo,
+seja ele consolo nesta vida e eterna salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 12,32
+@texto
+Alegra-te, Virgem Mãe,
+pois Cristo ressurgiu do sepulcro, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor,
+fortalecidos com os sacramentos pascais,
+concedei aos que celebramos a memória da Mãe do vosso Filho,
+testemunhar, em nossa carne mortal, a vida de Jesus.
+Que vive e reina pelos séculos dos séculos.

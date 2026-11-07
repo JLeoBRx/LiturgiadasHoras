@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/34quintaTC.htm
+@documento Ofício das Leituras
+
+@titulo QUINTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Pedro {2,9-22}
+
+@tema
+Denúncia dos pecados
+
+@texto
+Caríssimos: [9] O Senhor sabe livrar os homens piedosos da provação e reservar os malvados para os castigar no dia do juízo, [10] especialmente os que seguem a carne, levados por suas paixões impuras, e desprezam a dignidade do Senhor.
+
+@texto
+Atrevidos, presunçosos, não receiam maldizer os seres gloriosos, [11] enquanto os anjos, superiores em força e poder, não proferem ante o Senhor sentenças injuriosas contra eles. [12] Como animais irracionais, por natureza destinados a caírem em armadilha e apodrecerem, estas pessoas, que blasfemam contra o que não conhecem, vão apodrecer na sua própria corrupção. [13] Receberão a paga da sua injustiça, essa gente que faz do prazer sua delícia em pleno dia, que se deleita em imoralidades e perversões, e que se banqueteia convosco. [14] Estão sempre olhando por algum adultério, são insaciáveis no pecar. Seduzem aqueles que são inconstantes e têm o coração exercitado na avareza. São filhos da maldição. [15] Deixaram o caminho certo, para se transviarem pelo caminho de Balaão, filho de Bosor, que buscava enriquecer-se com a injustiça, [16] mas foi repreendido por sua desobediência: um animal mudo começou a falar com voz humana e impediu o plano insensato do profeta. [17] Essa gente são fontes sem água, nuvens impelidas pelo furacão. Espessa escuridão é a que os espera. [18] Vociferam discursos pomposos, mas vazios. Pela dissolução nos desejos carnais, seduzem aqueles que, há pouco, abandonaram a vida desvairada. [19] Prometem-lhes a liberdade, enquanto eles mesmos continuam escravos da corrupção. Pois cada um é escravo de quem o domina.
+
+@texto
+[20] Se uma vez escaparam das corrupções do mundo, conhecendo nosso Senhor e salvador Jesus Cristo, mas de novo se deixaram enredar e dominar, então seu estado final é pior que o do começo. [21] Melhor teria sido se não tivessem conhecido o caminho da justiça, do que depois de conhecê-lo abandonar o santo preceito que lhes fora transmitido. [22] Neles se verifica o que com verdade diz o provérbio:
+
+@texto
+"O cão volta para seu próprio vômito, e: "Apenas lavada, a porca torna a revolver-se na lama".
+
+@secao Responsório | Fl 4,8a.9b; 1Cor 16,13
+
+@responsorio
+R. Ocupai-vos com tudo
+o que é verdadeiro, nobre, justo e puro.
+* E convosco estará o Senhor, Deus da Paz.
+V. Ficai vigilantes, sede firmes na fé, agi com coragem.
+* E convosco.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre Mateus, de São João Crisóstomo, bispo
+{(Séc. IV)}{(Hom. 33,1.2: PG 57,389-390)}
+
+@tema
+Se somos ovelhas, vencemos; se formos lobos, somos vencidos
+
+@texto
+Enquanto somos ovelhas, vencemos e ficamos por cima, seja qual for o número dos lobos que nos rodeiam. Se, ao contrário, formos lobos, seremos vencidos; não teremos a ajuda do pastor. Pois este apascenta ovelhas, não lobos; abandonar-te-á e te deixará, porque não lhe dás ocasião de mostrar seu poder.
+
+@texto
+O que o Senhor quer dizer é isto: Não fiqueis perturbados quando, ao vos enviar para o meio dos lobos, eu vos ordeno ser como ovelhas e pombas. Eu vos poderia proporcionar o contrário: enviar-vos sem mal algum em vista, sem vos sujeitar ao lobo qual ovelha, porém, tornar-vos mais terríveis do que leões. Convém que seja assim. Isto vos fará mais refulgentes e proclamará meu poder. Dizia o mesmo a Paulo: Basta-te minha graça, pois a força se realiza na fraqueza (2Cor 12,9). Fui eu mesmo que estabeleci isto para vós. Ao dizer, pois: Eu vos envio como ovelhas (Lc 10,3), subentende: Não desanimeis por este motivo; eu sei, certamente, eu sei que assim sereis invencíveis.
+
+@texto
+Em seguida, para que não viessem a pensar que poderiam conseguir algo por si mesmos, sem demonstrar que tudo vem da graça, e, assim, não julgassem ser coroados sem méritos, diz: Sede prudentes como serpentes e simples como pombas (Mt 10,16). Que vantagem terá nossa prudência entre tantos perigos? dizem eles. Como poderemos ter prudência, sacudidos por tantas ondas? Por maior que seja a prudência que uma ovelha possua, no meio de lobos, e de tão grande número de lobos, que poderá fazer? Seja qual for a simplicidade de uma pomba, que lhe adiantará, diante de tantos gaviões ameaçadores? Para aqueles que não entendem, nada certamente. Para vós, porém, será de muito proveito.
+
+@texto
+Mas vejamos a prudência que aqui se exige: a da serpente. Esta expõe tudo, até mesmo se lhe cortam o corpo, não se defende, contanto que proteja a cabeça. Assim também tu, diz ele, à exceção da fé, entrega tudo: dinheiro, corpo, até mesmo a vida. A fé é a cabeça e a raiz; salva esta, tudo o mais que perderes, recuperarás depois ao dobro. Por isso, não ordenou ser só simples, nem só prudente; mas uniu as duas coisas, a fim de serem verdadeiramente uma força. Ordenou a prudência da serpente para não receberes golpes mortais; e a simplicidade da pomba, para não te vingares dos que te fazem o mal nem afastares por vingança os perseguidores. Sem ela, de nada vale a prudência.
+
+@texto
+E não pense alguém ser impossível cumprir este preceito. Mais do que todos, conhece ele a natureza das coisas; sabe que a ferocidade não se aplaca com a ferocidade, mas com a brandura.
+
+@secao Responsório | Mt 10,16; Jo 12,36a
+
+@responsorio
+R. Eu vos envio como ovelhas entre lobos,
+* Sede astutos e prudentes quais serpentes
+e simples como pombas, diz Jesus.
+V. Crede na luz, enquanto tendes a luz,
+a fim de serdes filhos da luz. * Sede astutos.
+
+@secao Oração
+
+@oracao
+Levantai, ó Deus, o ânimo dos vossos filhos e filhas, para que, aproveitando melhor as vossas graças, obtenham de vossa paternal bondade mais poderosos auxílios. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

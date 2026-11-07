@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sagradafamilia_laudes.htm
+@documento Laudes - Sagrada Família de Jesus, Maria e José
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, luz do Pai,
+ó Mãe de Deus, Maria,
+José, que protegeis
+o lar, com alegria.
+
+Com flores de virtude
+refulge o vosso lar.
+Da graça a própria fonte
+aí se vê jorrar.
+
+Os anjos ficam pasmos
+ao ver de Deus o Verbo,
+vestido em carne humana,
+servindo os próprios servos.
+
+Embora sendo o último,
+José, vós presidis.
+Dais ordens a Maria,
+aos dois, porém, servis.
+
+Mais nobre que os palácios,
+refulge esta mansão,
+pois nela teve origem
+do mundo a salvação.
+
+Jesus, Maria, José,
+do céu, onde reinais,
+fazei que nossos lares
+recebam vossa paz.
+
+Por vós, ó Jesus Cristo,
+cheguemos nós também,
+com vossos pais, à glória
+no lar dos céus. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Todos os anos, na festa da Páscoa,
+os pais de Jesus iam a Jerusalém.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Todos os anos, na festa da Páscoa,
+os pais de Jesus iam a Jerusalém.
+
+@antifona 2
+Jesus crescendo se fortalecia, repleto de sabedoria,
+e a graça de Deus nele estava.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Jesus crescendo se fortalecia, repleto de sabedoria,
+e a graça de Deus nele estava.
+
+@antifona 3
+Seu pai e sua mãe se admiravam
+do que se dizia do Menino.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Seu pai e sua mãe se admiravam
+do que se dizia do Menino.
+
+@secao Leitura breve | Dt 5,16
+
+@texto
+Honra teu pai e tua mãe, como o Senhor teu Deus te ordenou, para que vivas por longo tempo e sejas feliz na terra que o Senhor teu Deus te vai dar.
+
+@secao Responsório breve
+
+@responsorio
+R. Cristo, Filho do Deus vivo,
+* Tende pena e compaixão. R. Cristo.
+V. Vós que fostes obediente a Maria e a José. * Tende pena.
+Glória ao Pai. R. Cristo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Adoremos o Filho do Deus vivo, que se dignou tornar-se filho de uma família humana; e digamos:
+
+R. **Jesus, pela vossa obediência, santificai-nos!**
+
+Jesus, Verbo eterno do Pai, que vos submetestes à autoridade de Maria e de José,
+– ensinai-nos a viver na humildade e obediência. R.
+
+Jesus, nosso Mestre, cujas palavras e ações vossa Mãe conservava e meditava no coração,
+– ensinai-nos a escutar e guardar fielmente a vossa Palavra. R.
+
+Jesus Cristo, que criastes o universo e quisestes ser chamado filho do carpinteiro,
+– ensinai-nos a amar o trabalho. R.
+
+Jesus, que na Sagrada Família de Nazaré crescestes em sabedoria, idade e graça diante de Deus e dos homens,
+– ajudai-nos a crescer sempre em santidade e justiça. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que nos destes a Sagrada Família como exemplo, concedei-nos imitar em nossos lares as suas virtudes, para que, unidos pelos laços do amor, possamos chegar um dia às alegrias da vossa casa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

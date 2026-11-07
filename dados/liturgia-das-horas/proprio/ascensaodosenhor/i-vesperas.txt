@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_Ivesperas.htm
+@documento I Vésperas - Ascensão do Senhor
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Jesus, redenção nossa,
+nosso anelo e nosso amor,
+novo Rei dos novos tempos
+e dos seres Criador.
+
+Que clemência vos venceu
+para os crimes carregar,
+e, na cruz sofrendo a morte,
+doutra morte nos livrar?
+
+À mansão dos mortos indo,
+os cativos libertar,
+e do Pai à mão direita
+triunfante vos sentar?
+
+Esta mesma piedade
+nos liberte dos pecados,
+e ao clarão de vossa face
+nós seremos saciados.
+
+Nosso prêmio no futuro,
+nosso gozo sois também.
+Sede sempre nossa glória
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Saí do Pai e vim ao mundo;
+deixo o mundo e vou ao Pai. Aleluia.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Saí do Pai e vim ao mundo;
+deixo o mundo e vou ao Pai. Aleluia.
+
+@antifona 2
+O Senhor Jesus Cristo
+falou com os seus pela última vez;
+elevou-se aos céus
+e sentou-se à direita de Deus. Aleluia.
+
+@salmo salmos/salmo-116
+
+@gloria
+
+@antifona
+O Senhor Jesus Cristo
+falou com os seus pela última vez;
+elevou-se aos céus
+e sentou-se à direita de Deus. Aleluia.
+
+@antifona 3
+Ninguém jamais subiu ao céu,
+senão quem do céu desceu:
+o Filho do Homem, que é do céu. Aleluia.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+Ninguém jamais subiu ao céu,
+senão quem do céu desceu:
+o Filho do Homem, que é do céu. Aleluia.
+
+@secao Leitura breve | Ef 2,4-6
+
+@texto
+Deus é rico em misericórdia. Por causa do grande amor com que nos amou, quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos! Deus nos ressuscitou com Cristo e nos fez sentar nos céus em virtude de nossa união com Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Por entre aclamações Deus se elevou,
+* Aleluia, aleluia. R. Por entre.
+V. O Senhor subiu ao toque da trombeta. * Aleluia.
+Glória ao Pai. R. Por entre.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Meu Pai, revelei o teu nome àqueles os quais tu me deste.
+Agora eu te peço por eles;
+não peço, porém, pelo mundo, pois venho a ti, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Meu Pai, revelei o teu nome àqueles os quais tu me deste.
+Agora eu te peço por eles;
+não peço, porém, pelo mundo, pois venho a ti, aleluia.
+
+@secao Preces
+
+@preces
+Aclamemos a Jesus Cristo, que está sentado à direita do Pai na glória do céu; e digamos na alegria do Espírito:
+
+R. **Cristo, rei da glória, nós vos louvamos!**
+
+Rei da glória, que elevastes convosco a fragilidade da nossa carne para ser glorificada no céu,
+– apagai a maldade da antiga culpa e devolvei-nos a dignidade original que havíamos perdido. R.
+
+Vós, que descestes até nós pelo caminho do amor,
+– pelo mesmo caminho, fazei-nos subir até vós. R.
+
+Vós, que prometestes atrair para vós a humanidade inteira,
+– não permitais que nenhum de nós fique separado da unidade do vosso corpo. R.
+
+Fazei-nos desde agora viver de corpo e alma no céu,
+– para onde subistes cheio de glória como Senhor do universo. R.
+
+{(intenções livres)}
+
+Senhor, a quem esperamos como juiz dos vivos e dos mortos,
+– fazei que, um dia, juntamente com nossos irmãos e irmãs falecidos, possamos contemplar eternamente a vossa infinita misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

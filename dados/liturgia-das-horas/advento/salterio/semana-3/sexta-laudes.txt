@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3sexta_laudes.htm
+@documento Laudes - III Sexta-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Foi contra vós, só contra vós que eu pequei.
+Ó meu Deus, misericórdia e compaixão!
+
+@antifona 2
+Conhecemos nossas culpas, pois pecamos contra vós.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@antifona
+Conhecemos nossas culpas, pois pecamos contra vós.
+
+@antifona 3
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+O Senhor, somente ele é nosso Deus,
+e nós somos o seu povo e seu rebanho.

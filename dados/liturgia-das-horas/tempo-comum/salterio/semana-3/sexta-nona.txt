@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sexta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nós o vimos desprezado e sem beleza,
+homem das dores, habituado ao sofrimento.
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@antifona
+Nós o vimos desprezado e sem beleza,
+homem das dores, habituado ao sofrimento.
+
+@antifona 2
+Eles repartem entre si as minhas vestes,
+e sorteiam entre si a minha túnica.
+
+@salmo salmos/salmo-021-ii
+
+@gloria
+
+@antifona
+Eles repartem entre si as minhas vestes,
+e sorteiam entre si a minha túnica.
+
+@antifona 3
+Que se prostrem e adorem o Senhor,
+todos os povos e as famílias das nações!
+
+@salmo salmos/salmo-021-iii
+
+@gloria
+
+@antifona
+Que se prostrem e adorem o Senhor,
+todos os povos e as famílias das nações!
+
+@secao Leitura breve | Ef 2,8-9
+
+@texto
+É pela graça que sois salvos, mediante a fé. E isso não vem de vós; é dom de Deus! Não vem das obras, para que ninguém se orgulhe.
+
+@texto
+V. Que na terra se conheça o seu caminho.
+R. E a sua salvação por entre os povos.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que fizestes o ladrão arrependido passar da cruz ao vosso Reino, aceitai a humilde confissão de nossas culpas e fazei que, no instante da morte, entremos com alegria no paraíso. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

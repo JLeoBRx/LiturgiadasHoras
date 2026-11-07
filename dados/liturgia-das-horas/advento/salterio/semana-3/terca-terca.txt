@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3terca_terca.htm
+@documento Hora Média - III Terça-feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador
+
+@salmo salmos/salmo-118-97-104-xiii-mem
+
+@gloria
+
+@salmo salmos/salmo-073-i
+
+@gloria
+
+@salmo salmos/salmo-073-ii
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador

@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/arcanjos.htm
+
+@secao Antífona da entrada | Cf. Sl 102,20
+@texto
+Bendizei ao Senhor, todos os seus Anjos,
+poderosos executores de suas ordens,
+sempre prontos para ouvir a sua voz.
+
+@secao Coleta
+@texto
+Ó Deus, que organizais de modo admirável
+o ministério dos anjos e dos homens,
+concedei-nos, benigno,
+que sejamos protegidos na terra por aqueles que, no céu,
+estão sempre junto de vós para vos servir.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos apresentamos,
+com nossas humildes preces,
+estas oferendas de louvor;
+fazei que, levadas pelo ministério dos anjos à vossa presença,
+sejam recebidas com agrado
+e obtenham para nós a salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 137,1
+@texto
+Ó Senhor, de coração eu vos dou graças,
+perante os vossos Anjos vou cantar-vos, ó meu Deus!
+
+@secao Depois da comunhão
+@texto
+Alimentados pelo pão celeste,
+nós vos pedimos, Senhor,
+que, fortificados com seu vigor,
+sigamos com firmeza
+no caminho da salvação
+sob a fiel custódia dos anjos.
+Por Cristo, nosso Senhor.

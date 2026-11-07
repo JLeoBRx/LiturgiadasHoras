@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saobartolomeu.htm
+@documento Ofício das Leituras - São Bartolomeu, Apóstolo Festa
+
+@celebracao
+SÃO BARTOLOMEU, APÓSTOLO
+{Festa}
+
+@biografia
+Nasceu em Caná. O apóstolo Filipe conduziu-o a Jesus. Diz uma tradição que depois da Ascensão do Senhor pregou o Evangelho na Índia e aí recebeu a coroa do martírio.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua palavra chega aos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {4,1-16}
+
+@tema
+Sejamos imitadores do Apóstolo, como ele o foi de Cristo
+
+@texto
+Irmãos: [1] Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. [2] A este respeito, o que se exige dos administradores é que sejam fiéis. [3] Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. [4] É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. [5] Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido. [6] Irmãos, apliquei essa doutrina a mim e a Apolo, por causa de vós, para que o nosso exemplo vos ensine a não vos inchar de orgulho, tomando o partido de um contra outro, e a “não ir além daquilo que está escrito”. [7] Com efeito, quem é que te faz melhor que os outros? O que tens que não tenhas recebido? Mas, se recebeste tudo que tens, por que, então, te glorias, como se não o tivesses recebido? [8] Vós já estais saciados! Já vos enriquecestes! Sem nós, já começastes a reinar! Oxalá estivésseis mesmo reinando, para nós também reinarmos convosco! [9] Na verdade, parece-me que Deus nos apresentou, a nós apóstolos, em último lugar, como pessoas condenadas à morte. Tornamo-nos um espetáculo para o mundo, para os anjos e os homens. [10] Nós somos os tolos por causa de Cristo, vós, porém, os sábios nas coisas de Cristo. Nós somos os fracos; vós, os fortes. Vós sois tratados com toda a estima e atenção, e nós, com todo o desprezo. [11] Até à presente hora, padecemos fome, sede e nudez; somos esbofeteados e vivemos errantes; [12] fadigamo-nos, trabalhando com as nossas mãos; somos injuriados, e abençoamos; somos perseguidos, e suportamos; [13] somos caluniados, e exortamos. Tornamo-nos como que o lixo do mundo, a escória do universo, até ao presente. [14] Escrevo-vos tudo isto, não com a intenção de vos envergonhar, mas para vos admoestar como meus filhos queridos. [15] De fato, mesmo que tivésseis dez mil educadores na vida em Cristo, não tendes muitos pais. Pois fui eu que, pelo anúncio do Evangelho, vos gerei em Jesus Cristo. [16] Portanto, eu vos peço, sede meus imitadores.
+
+@secao Responsório | Jo 15,15; Mt 13,11.16
+
+@responsorio
+R. Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+* Pois vos dei a conhecer tudo quanto ouvi do Pai.
+V. A vós foi concedido conhecer
+os mistérios do reino dos céus;
+felizes vossos olhos porque veem,
+felizes os ouvidos porque ouvem. * Pois vos dei.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre a Primeira Carta aos Coríntios, de São João Crisóstomo, bispo
+{(Séc. IV)} {(Hom. 4,3.4:PG61,34-36)}
+
+@tema
+A fraqueza de Deus é mais forte que os homens
+
+@texto
+Por meio de homens ignorantes a cruz persuadiu, e mais, persuadiu a terra inteira. Não falava de coisas sem importância, mas de Deus, da verdadeira religião, do modo de viver o Evangelho e do futuro juízo. De incultos e ignorantes fez amigos da sabedoria. Vê como a loucura de Deus é mais sábia que os homens e a fraqueza, mais forte. De que modo mais forte? Cobriu toda a terra, cativou a todos por seu poder. Sucedeu exatamente o contrário do que pretendiam aqueles que tentavam apagar o nome do Crucificado. Este nome floresceu e cresceu enormemente. Mas seus inimigos pereceram em ruína total. Sendo vivos, lutando contra o morto, nada conseguiram. Por isso, quando o grego me chama de morto, mostra-se totalmente insensato, pois eu, que a seus olhos passo por ignorante, me revelo mais sábio que os sábios. Ele, tratando-me de fraco, dá provas de ser o mais fraco. Tudo o que, pela graça de Deus, souberam realizar aqueles publicanos e pescadores, os filósofos, os reis, numa palavra, todo o mundo perscrutando inúmeras coisas, nem mesmo puderam imaginar. Pensando nisto, Paulo dizia: _O que é fraqueza de Deus é mais forte que todos os homens_ (1Cor 1,25). Com isso se prova a pregação divina. Quando é que se pensou: doze homens, sem instrução, morando em lagos, rios e desertos, que se lançam a tão grande empresa? Quando se pensou que pessoas que talvez nunca houvessem pisado em uma cidade e, em sua praça pública, atacassem o mundo inteiro? Quem sobre eles escreveu, mostrou claramente que eles eram medrosos e pusilânimes, sem querer negar ou esconder os defeitos deles. Ora, este é o maior argumento em favor de sua veracidade. Que diz então a respeito deles? Que, preso o Cristo depois de tantos milagres feitos, uns fugiram, o principal deles o negou. Donde lhes veio que, durante a vida de Cristo, não resistiram à fúria dos judeus, mas, uma vez ele morto e sepultado – visto que, como dizeis, Cristo não ressuscitou, nem lhes falou, nem os encorajou – entraram em luta contra o mundo inteiro? Não teriam dito, ao contrário: “Que é isto? não pôde salvar-se,vai proteger-nos agora? Ainda vivo, não socorreu a si mesmo, e morto, nos estenderá a mão? Vivo, não sujeitou povo algum, e nós iremos convencer o mundo inteiro, só com dizer seu nome? Como não será insensato não só fazer, mas até pensar tal coisa?” Por este motivo é evidente que, se não o tivessem visto ressuscitado e recebido assim a grande prova de seu poder, jamais se teriam lançado em tamanha aventura.
+
+@secao Responsório | 1Cor 1,23-24; 2Cor 4,8a; Rm 8,37
+
+@responsorio
+R. É Cristo que anunciamos, Jesus Cristo, o Crucificado,
+escândalo para os judeus e para os gentios, loucura;
+mas, para aqueles que foram chamados,
+* É Cristo a força de Deus e a sabedoria de Deus.
+V. Somos em tudo atribulados; mas em todas essas coisas
+somos mais que vencedores por Jesus que nos amou.* É Cristo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, fortalecei em nós aquela fé que levou São Bartolomeu a seguir de coração o vosso Filho, e fazei que, pelas preces do Apóstolo, a vossa Igreja se torne sacramento da salvação para todos os povos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

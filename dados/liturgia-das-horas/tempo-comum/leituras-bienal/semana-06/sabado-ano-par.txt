@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/06sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 6a SEMANA DO TEMPO COMUM / SÁBADO / II Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta aos Tessalonicenses {3,1-18}
+
+@tema
+Exortação e conselho
+
+@texto
+[1] Irmãos, orai por nós, para que a palavra do Senhor continue o seu caminho e seja glorificada, como aconteceu entre vós, [2] e para que sejamos livres de homens ímpios e perversos; pois nem todos têm fé. [3] Mas o Senhor é fiel, e vos fortalecerá e guardará do maligno. [4] Temos confiança em vós, no Senhor, de que vos deixeis guiar agora pelas nossas diretrizes e de que o fareis também no futuro. [5] Que o Senhor conduza os vossos corações para o amor a Deus e a perseverança de Cristo.
+[6] Nós vos ordenamos, irmãos, em nome do Senhor Jesus Cristo, que vos afasteis de todo irmão que leve vida desordenada e contrária à tradição que de nós recebestes. [7] Bem sabeis como deveis imitar-nos. Não vivemos de maneira desordenada em vosso meio, [8] nem recebemos de graça o pão que comemos; antes, no esforço e na fadiga, de noite e de dia, trabalhamos para não sermos pesados a nenhum de vós. [9] Não porque não tivéssemos direito a isso; mas foi para vos dar exemplo a ser imitado. [10] Quando estávamos entre vós, já vos demos esta regra: quem não quer trabalhar também não há de comer. [11] Ora, ouvimos dizer que alguns dentre vós levam vida à toa, muitos atarefados sem nada fazer. [12] A estas pessoas ordenamos e exortamos, no Senhor Jesus Cristo, que trabalhem na tranquilidade, para ganhar o pão com o próprio esforço. [13] Quanto a vós, irmãos, não vos canseis de fazer o bem. [14] Se alguém desobedecer ao que dizemos nesta carta, notai-o, e não tenhais nenhuma comunicação com ele, para que fique envergonhado. [15] Não o considereis, todavia, como um inimigo, mas procurai corrigi-lo como irmão.
+[16] O Senhor da paz vos conceda a paz, em todo tempo e lugar. O Senhor esteja com todos vós. [17] A saudação é de meu próprio punho, Paulo. É este o sinal que distingue minhas cartas. Aí está a minha letra! [18] A graça de nosso Senhor Jesus Cristo esteja com todos vós!
+
+@secao Responsório | 1Ts 2,13; Ef 1,13
+
+@responsorio
+R. Tendo recebido a palavra de Deus,
+* A acolhestes, não como palavra de homens,
+mas como aquilo que realmente é, como palavra de Deus.
+V. Depois de terdes ouvido a palavra da verdade,
+o Evangelho de vossa salvação. * A acolhestes.
+
+@secao Segunda leitura
+
+@leitura
+Da “Constituição Pastoral Gaudium et spes”, sobre a Igreja no mundo de hoje, do Concílio Vaticano II
+{(Séc. XX)} {(N. 35-36)}
+
+@tema
+A atividade humana
+
+@texto
+A atividade humana origina-se no homem e para o homem se ordena. De fato, ao trabalhar, o homem não apenas modifica os seres e a sociedade, mas aperfeiçoa-se a si também. Aprende muitas coisas, desenvolve suas faculdades, sai de si mesmo e se supera.
+Este crescimento, se bem entendido, vale muito mais que toda a riqueza que possa ajuntar. O homem vale mais pelo que é do que pelo que tem.
+Igualmente, tudo quanto os homens fazem para obter maior justiça, fraternidade mais larga e uma ordem mais humana nas relações sociais tem maior valor do que os progressos técnicos. Estes podem proporcionar base material para a promoção humana, mas por si sós não conseguem realizá-la.
+Esta é, pois, a norma da atividade humana: que corresponda ao genuíno bem da humanidade, de acordo com o desígnio de Deus, e permita ao homem, como indivíduo ou como membro da sociedade, a plena realização de sua vocação.
+Contudo, muitos contemporâneos parecem temer um vínculo muito estreito entre a atividade humana e a religião. Veem nisso um perigo para a autonomia das pessoas, das sociedades e das ciências. Se por autonomia das realidades terrenas entendemos que toda criatura e as sociedades gozam de leis e de valores próprios, que o homem deve gradualmente reconhecer, utilizar e organizar, tal exigência de autonomia é plenamente legítima. Não só é exigida pelos homens de hoje, mas concorda com a vontade do Criador. Em virtude mesmo da criação todas as coisas possuem consistência própria, verdade, bondade, leis e ordens específicas. Deve o homem respeitá-las reconhecendo os métodos próprios de cada ciência e técnica.
+Seja-nos, portanto, permitido deplorar certas atitudes existentes mesmo entre cristãos, advertidos insuficientemente da legítima autonomia da ciência, que levaram, pelas tensões e controvérsias suscitadas, muitos espíritos a julgar que a fé e a ciência se opõem.
+Se, porém, por “autonomia das realidades temporais” se entende que as criaturas não dependem de Deus e que o homem pode usar delas sem qualquer referência ao Criador, quem reconhece a Deus não pode deixar de perceber a que ponto é falsa esta afirmação. Porque sem o Criador a criatura se reduz a nada.
+
+@secao Responsório | Dt 2,7; 8,5b
+
+@responsorio
+R. O Senhor te abençoou em todo trabalho de tuas mãos;
+vigiou sobre teus passos, caminhando no deserto,
+tantos anos em seguida.
+* O Senhor contigo esteve,
+coisa alguma te faltou.
+V. Como um pai educa o filho, o Senhor te educou. * O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que prometestes permanecer nos corações sinceros e retos, dai-nos, por vossa graça, viver de tal modo, que possais habitar em nós. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

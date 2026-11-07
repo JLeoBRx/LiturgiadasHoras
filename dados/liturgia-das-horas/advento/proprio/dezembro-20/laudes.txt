@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/20_laudes.htm
+@documento Próprio - Laudes - 20 de dezembro
+
+@secao Leitura breve | Gn 49,10
+
+@texto
+O cetro não será tirado de Judá, nem o bastão de comando dentre seus pés, até que venha Aquele a quem pertencem, e a quem obedecerão os povos.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Verdade e amor se encontrarão.
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O anjo Gabriel foi enviado
+à esposa de José, Virgem Maria.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O anjo Gabriel foi enviado
+à esposa de José, Virgem Maria.
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs caríssimos, ao Cristo Senhor, luz que ilumina todo homem; e aclamemos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Dissipai, Senhor, as nossas trevas com a luz da vossa presença,
+– e tornai-nos dignos de receber os vossos dons. R.
+
+Salvai-nos, Senhor nosso Deus,
+– e bendiremos todo o dia o vosso santo nome. R.
+
+Inflamai nossos corações para que tenham ardente sede de vós,
+– e com todo o desejo busquem a união convosco. R.
+
+Vós, que assumistes todas as nossas enfermidades, exceto o pecado,
+– socorrei hoje os enfermos e agonizantes. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus, ao anúncio do Anjo, a Virgem imaculada acolheu vosso Verbo inefável e, como habitação da divindade, foi inundada pela luz do Espírito Santo. Concedei que, a seu exemplo, abracemos humildemente a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

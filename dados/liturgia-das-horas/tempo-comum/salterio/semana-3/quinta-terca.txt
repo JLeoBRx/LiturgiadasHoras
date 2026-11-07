@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quinta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sustentai-me e viverei como dissestes, ó Senhor!
+
+@salmo salmos/salmo-118-113-120-xv-samech
+
+@gloria
+
+@antifona
+Sustentai-me e viverei como dissestes, ó Senhor!
+
+@antifona 2
+Ajudai-nos, nosso Deus e Salvador,
+por vosso nome, perdoai nossos pecados!
+
+@salmo salmos/salmo-078-1-5-8-11-13
+
+@gloria
+
+@antifona
+Ajudai-nos, nosso Deus e Salvador,
+por vosso nome, perdoai nossos pecados!
+
+@antifona 3
+Voltai-vos para nós, Deus do universo,
+olhai dos altos céus e observai,
+visitai a vossa vinha e protegei-a!
+
+@salmo salmos/salmo-079
+
+@gloria
+
+@antifona
+Voltai-vos para nós, Deus do universo,
+olhai dos altos céus e observai,
+visitai a vossa vinha e protegei-a!
+
+@secao Leitura breve | Sb 19,22
+
+@texto
+Senhor, em tudo engrandeceste e glorificaste o teu povo; sem perdê-lo de vista, em todo o tempo e lugar o socorreste!
+
+@texto
+V. Sois o Deus que operastes maravilhas.
+R. Vosso poder manifestastes entre os povos.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que nesta hora enviastes o Espírito Santo aos Apóstolos em oração, concedei-nos participar do mesmo Dom. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

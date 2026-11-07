@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedrochanel.htm
+@documento Ofício das Leituras - São Pedro Chanel, Presbítero E Mártir
+
+@celebracao
+SÃO PEDRO CHANEL, PRESBÍTERO E MÁRTIR
+
+@biografia
+Nasceu em Cuet (França), em 1803. Ordenado sacerdote, exerceu o ministério pastoral por poucos anos. Ingressou na Sociedade de Maria (Maristas), partiu como missionário para a Oceânia. Apesar das grandes dificuldades que encontrou, conseguiu converter alguns pagãos ao cristianismo; isto provocou o ódio dos inimigos da fé cristã, que o levaram à morte na ilha de Futuna, em 1841.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002-v3
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios
+
+@tema
+4,7-
+
+@texto
+[5,8] _{Nas tribulações manifesta-se a força de Cristo}_ Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R.Felizes quando a vós insultarem, perseguirem e, calúnias proferindo, disserem todo mal contra vós por minha causa.
+* Alegrai-vos e exultai, pois a vossa recompensa no céu é muito grande.
+V.Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Elogio de São Pedro Chanel, presbítero e mártir
+
+@tema
+O sangue dos mártires é semente de cristãos
+
+@texto
+Pedro, tão logo entrou para a vida religiosa na Sociedade de Maria, foi a seu pedido enviado para as missões da Oceânia; aportou na ilha de Futuna, no Oceano Pacífico, onde ainda não tinha sido anunciado o nome de Cristo. Um religioso leigo, que sempre o acompanhava, assim descreveu a sua vida missionária:
+“Depois dos seus trabalhos, voltava para casa enfraquecido pela fome, banhado em suor e morto de cansaço, mas sempre animado, disposto e alegre, como se voltasse de um lugar de delícias; e isto não era de vez em quando, mas quase diariamente.
+Não costumava negar coisa alguma aos habitantes de Futuna, nem mesmo àqueles que o perseguiam. Sempre os desculpava e nunca os repelia, por mais rudes e importunos que fossem. Tratava a todos com extraordinária amabilidade, que manifestava de diversos modos, sem excetuar ninguém”.
+Não é de admirar que os indígenas o chamassem “homem de grande coração”, àquele que certa vez dissera a um confrade seu: “Em missão tão difícil, é preciso que sejamos santos”.
+Pouco a pouco foi anunciando o evangelho de Cristo, mas recolhia frutos minguados. Apesar disso, continuava com invencível coragem seu trabalho missionário, ao mesmo tempo religioso e humanitário. Apoiava-se no exemplo e nas palavras de Cristo: _Um é o que semeia e outro o que colhe_ (Jo 4,37). E pedia com insistência o amparo da Mãe de Deus, por quem tinha particular devoção.
+Na sua pregação da religião cristã, Pedro destruiu o culto dos maus espíritos, alimentado pelos chefes de Futuna para conservar o povo sob seu domínio. Por esse motivo assassinaram-no cruelmente, na esperança de fazerem desaparecer com sua morte as sementes do cristianismo que plantara naquela terra.
+Mas, na véspera do martírio, ele próprio afirmou: “Minha morte não tem importância; o cristianismo está tão arraigado nesta ilha, que não será arrancado com minha morte”.
+O sangue do mártir frutificou primeiramente nos próprios habitantes de Futuna, que, poucos anos depois, abraçaram todos a fé em Cristo; mas frutificou também nas outras ilhas da Oceânia, onde existem florescentes Igrejas cristãs, que consideram e invocam Pedro como seu primeiro mártir.
+
+@secao Responsório | Lc 10,2; At 1,8
+
+@responsorio
+R. É grande a colheita e os operários são poucos.
+* Por isso pedi ao Senhor da colheita
+que mande operários à sua colheita. Aleluia.
+V. Recebereis vossa força do Espírito,
+que há de descer sobre vós;
+e sereis testemunhas de mim
+até os extremos da terra.* Por isso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que para expandir a vossa Igreja coroastes São Pedro Chanel com o martírio, concedei-nos, neste tempo de alegria pascal, celebrar de tal modo a morte e ressurreição de Cristo, que nos tornemos testemunhas de uma vida nova. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

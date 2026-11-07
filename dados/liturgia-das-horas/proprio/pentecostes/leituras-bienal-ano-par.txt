@@ -1,0 +1,247 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/pentecostes_par.htm
+@documento Ofício das Leituras - Domingo De Pentecostes Solenidade
+
+@celebracao
+DOMINGO DE PENTECOSTES
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Suave luz, luz esplêndida,
+fogo do trono enviado
+sobre os discípulos de Cristo
+como seu dom mais sagrado,
+
+Os corações torna plenos,
+a nossa voz enriquece.
+Os corações e as línguas
+concordes vibrem, em prece.
+
+Consolador Santo, vinde,
+os corações abrandai,
+regei as línguas fiéis,
+fel e veneno queimai.
+
+Com mente pura cantamos,
+criação nova tornados.
+Nascidos filhos da ira,
+da graça agora gerados.
+
+Sois doador e sois dom,
+dos corações todo o bem.
+A nossa mente inclinai
+para o louvor que convém.
+
+Vós os lavais do pecado,
+autor de toda a piedade,
+gozemos novos em Cristo
+desta total novidade.
+
+@secao Salmodia
+
+@antifona 1
+O Espírito sopra aonde quer,
+e ouves seu ruído, mas não sabes
+de onde vem nem para onde ele vai. Aleluia.
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+O Espírito sopra aonde quer,
+e ouves seu ruído, mas não sabes
+de onde vem nem para onde ele vai. Aleluia.
+
+@antifona 2
+De repente um estrondo vem dos céus
+como o ruído de um vento impetuoso. Aleluia.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+De repente um estrondo vem dos céus
+como o ruído de um vento impetuoso. Aleluia.
+
+@antifona 3
+Enviai o vosso Espírito e renasce todo ser
+e havereis de renovar toda a face desta terra! Aleluia.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Enviai o vosso Espírito e renasce todo ser
+e havereis de renovar toda a face desta terra! Aleluia.
+
+@texto
+V. O Espírito do Senhor encheu todo o universo. Aleluia.
+R. Ele une todo ser e conhece toda voz. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,5-27}
+
+@tema
+Os que se deixam conduzir pelo Espírito de Deus_
+_são filhos de Deus
+
+@texto
+Com efeito, os que vivem segundo a carne desejam as coisas da carne, e os que vivem segundo o espírito, as coisas que são do espírito. De fato, o desejo da carne é a morte, ao passo que o desejo do espírito é a vida e a paz, uma vez que o desejo da carne é inimigo de Deus: pois ele não se submete a lei de Deus, e nem o pode, pois os que estão na carne não podem agradar a Deus. Vós não estais na carne, mas no espírito, se é verdade que o Espírito de Deus habita em vós, pois quem não tem o espírito de Cristo não pertence a ele. Se, porém, Cristo está em vós, o corpo está morto, pelo pecado, mas o Espírito é vida, pela justiça. E se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vós, aquele que ressuscitou Cristo Jesus dentre os mortos dará a vida também a vossos corpos mortais, mediante o seu Espírito que habita em vós.
+Portanto, irmãos, somos devedores não à carne para vivermos segundo a carne. Pois se viverdes segundo a carne, morrereis, mas se pelo Espírito fizerdes morrer as obras do corpo, vivereis.
+Todos os que são conduzidos pelo Espírito de Deus são filhos de Deus. Com efeito, não recebestes um espírito de escravos para recair no temor, mas recebestes um espírito de filhos adotivos, pelo qual clamamos: Abba! Pai! O próprio Espírito se une ao nosso espírito para testemunhar que somos filhos de Deus. E se somos filhos, somos também herdeiros; herdeiros de Deus e coerdeiros de Cristo, pois sofremos com ele para também com ele sermos glorificados.
+Penso, com efeito, que os sofrimentos do tempo presente não têm proporção com a glória que deverá revelar-se em nós. Pois a criação em expectativa anseia pela revelação dos filhos de Deus. De fato, a criação foi submetida à vaidade - não por seu querer, mas por vontade daquele que a submeteu - na esperança de ela também ser libertada da escravidão da corrupção para entrar na liberdade da glória dos filhos de Deus. Pois sabemos que a criação inteira geme e sofre as dores de parto até o presente. E não somente ela. Mas também nós, que temos as primícias do Espírito, gememos interiormente, suspirando pela redenção do nosso corpo. Pois nossa salvação é objeto de esperança; e ver o que se espera, não é esperar. Acaso alguém espera o que vê? E se esperamos o que não vemos, é na perseverança que o aguardamos.
+Assim também o Espírito socorre a nossa fraqueza. Pois não sabemos o que pedir como convém; mas o próprio Espírito intercede por nós com gemidos inefáveis, e aquele que perscruta os corações sabe qual o desejo do Espírito; pois é segundo Deus que ele intercede pelos santos.
+
+@secao Responsório | Rm 8,15;cf. Gl 4,6
+
+@responsorio
+R. Vós não recebestes um espírito de escravos,
+para recairdes no medo, mas recebestes.
+* O Espírito que vos torna filhos, aleluia.
+V. Por que sois filhos é que Deus enviou aos vossos corações
+o Espírito de seu Filho. * O Espírito.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de um Autor Africano do século IV
+{(Sermo 8,1-3: PL 65,743-744)}
+
+@tema
+A Igreja unida fala todas as línguas
+
+@texto
+Falavam todas as línguas. Assim aprouve a Deus manifestar a presença do Espírito Santo: fazer com que falassem todas as línguas aqueles que o tivessem recebido. Porquanto é preciso compreender, caríssimos irmãos, que o amor é infundido em nossos corações por meio do Espírito Santo.
+Pela caridade é que a Igreja teria de congregar-se em todo o mundo. Por isso o que podia, então, uma pessoa ao receber o Espírito Santo - isto é, falar todas as línguas - pode agora a própria Igreja, já unida e congregada pelo Espírito Santo. É por isso que fala todas as línguas.
+Com efeito, se disserem a um de nós: “Recebeste o Espírito Santo, por que não falas todas as línguas?”, ele deve responder: “Sim, falo todas as línguas porque estou naquele Corpo de Cristo, isto é, na Igreja, que fala todas as línguas. Realmente, que outra coisa quis Deus significar pela presença do Espírito Santo senão sua Igreja que iria falar todas as línguas?”
+Cumpriu-se assim o que o Senhor prometera: _Ninguém_ _põe vinho novo em odres velhos. Antes, o vinho novo se_ _põe em odres novos. E assim ambos se conservam_ (cf. Lc 5,37-38).
+Com razão, pois, quando se ouviu que falavam todas as línguas, alguns disseram: _Estão bêbados de vinho doce_ (At 2,13). De fato, já se tinham tornado odres novos, renovados pela graça da santidade a fim de que, cheios de vinho novo, isto é, do Espírito Santo, fermentassem, falando todas as línguas e prefigurassem, por aquele milagre evidente, a Igreja Católica, que haveria de estar no meio das línguas de todos os povos.
+Celebrai, portanto, este dia, como membros unidos do Corpo de Cristo. De fato, não celebrareis em vão, se fordes o que celebrais: pessoas fiéis àquela Igreja que o Senhor reconhece como sua, a crescer em todo o mundo, e que ela, por sua vez, reconhece como seu Senhor. Pois, assim como o esposo não abandona a própria esposa, tampouco alguém coloca outra em seu lugar.
+A vós que estais organizados em todos os povos, isto é, a vós Igreja de Cristo, membros de Cristo, Corpo de Cristo, esposa de Cristo, diz o Apóstolo: _Suportai-vos uns aos_ _outros no amor, solícitos em guardar a unidade do Espírito_ _pelo vínculo da paz_ (Ef 4,2-3).
+Prestai atenção: quando ele prescreveu que nos supor tássemos uns aos outros, estabeleceu o amor. Quando falou da esperança da unidade, lembrou o vínculo da paz. Esta é a casa de Deus, construída de pedras vivas, na qual o Pai de família se sente feliz em morar e cujo olhar jamais deve ser ofendido pelo flagelo da divisão.
+
+@secao Responsório | At 15,8-9;11,18
+
+@responsorio
+R. Deus, que conhece os corações,
+deu aos pagãos o Espírito Santo como o deu a nós.
+* E não fez discriminação entre nós e eles,
+mas purificou os seus corações mediante a fé, aleluia.
+V. Deus também concedeu aos pagãos
+a conversão que leva à vida.
+* E não fez.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, quisestes que o mistério pascal se completasse durante cinquenta dias, até à vinda do Espírito Santo. Fazei que todas as nações dispersas pela terra, na diversidade de suas línguas, se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/5janeiro_terca.htm
+@documento 5janeiro_terca.htm
+
+@secao Leitura breve | Ez 20,41-42a
+
+@texto
+Eu vos acolherei como um suave perfume, quando vos retirar do meio dos povos e vos reunir dentre os países onde fostes dispersados. Assim mostrarei em vós a minha santidade à vista das nações. E sabereis que eu sou o Senhor.
+
+@texto
+V. O Senhor recordou seu amor sempre fiel
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, iniciastes maravilhosamente a redenção do vosso povo. Concedei a vossos servos uma fé tão firme, que nos deixemos conduzir por ele e cheguemos à glória prometida. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

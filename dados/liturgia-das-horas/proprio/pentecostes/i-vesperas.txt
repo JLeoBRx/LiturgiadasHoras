@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_Ivesperas.htm
+@documento I Vésperas - Domingo de Pentecostes
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Chegando o dia de Pentecostes,
+cinquenta dias depois da Páscoa,
+estavam todos eles reunidos. Aleluia.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Chegando o dia de Pentecostes,
+cinquenta dias depois da Páscoa,
+estavam todos eles reunidos. Aleluia.
+
+@antifona 2
+Línguas de fogo apareceram e pousaram sobre eles;
+e recebeu cada um deles o Espírito de Deus. Aleluia.
+
+@salmo salmos/salmo-146a
+
+@gloria
+
+@antifona
+Línguas de fogo apareceram e pousaram sobre eles;
+e recebeu cada um deles o Espírito de Deus. Aleluia.
+
+@antifona 3
+O Espírito que procede do meu Pai
+haverá de me dar glória, aleluia.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+O Espírito que procede do meu Pai
+haverá de me dar glória, aleluia.
+
+@secao Leitura breve | Rm 8,11
+
+@texto
+Se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito Santo, o Paráclito,
+* Aleluia, aleluia. R. O Espírito.
+V. Ele vos ensinará todas as coisas. * Aleluia.
+Glória ao Pai. R. O Espírito.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vinde, Espírito de Deus,
+e enchei os corações dos fiéis com vossos dons!
+Acendei neles o amor como um fogo abrasador!
+Vós que unistes tantas gentes, tantas línguas diferentes
+numa fé, na unidade e na mesma caridade. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vinde, Espírito de Deus,
+e enchei os corações dos fiéis com vossos dons!
+Acendei neles o amor como um fogo abrasador!
+Vós que unistes tantas gentes, tantas línguas diferentes
+numa fé, na unidade e na mesma caridade. Aleluia.
+
+@secao Preces
+
+@preces
+Com grande alegria celebremos a glória de Deus que, ao chegar o dia de Pentecostes, deu aos apóstolos a plenitude do Espírito Santo. Cheios de fé e entusiasmo, supliquemos, dizendo:
+
+R. **Enviai, Senhor, o vosso Espírito, e renovai a face da terra!**
+
+Vós, que no princípio criastes o céu e a terra, e na plenitude dos tempos recriastes todas as coisas por meio de Jesus Cristo,
+– renovai continuamente, pelo vosso Espírito, a face da terra e salvai a humanidade. R.
+
+Vós, que infundistes o sopro da vida no rosto de Adão,
+– enviai o vosso Espírito à Igreja para que, vivificada e rejuvenescida, comunique vossa vida ao mundo. R.
+
+Iluminai todos os seres humanos com a luz do vosso Espírito, e afastai para longe as trevas do nosso tempo,
+– para que o ódio se transforme em amor, o sofrimento em alegria e a guerra em paz. R.
+
+Purificai o gênero humano com a água viva do Espírito, que brota do coração de Cristo,
+– e curai as feridas de nossos pecados. R.
+
+{(intenções livres)}
+
+Vós, que, por meio do Espírito Santo, conduzis os homens e as mulheres à vida eterna,
+– dai, pelo mesmo Espírito, aos que morreram, a alegria sem fim da vossa presença. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, quisestes que o mistério pascal se completasse durante cinquenta dias, até à vinda do Espírito Santo. Fazei que todas as nações dispersas pela terra, na diversidade de suas línguas, se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

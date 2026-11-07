@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/cristoreidouniverso_impar.htm
+@documento Ofício das Leituras - Nosso Senhor Jesus Cristo, Rei Do Universo Solenidade
+
+@celebracao
+NOSSO SENHOR JESUS CRISTO, REI DO UNIVERSO
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Jesus, Rei tão admirável,
+nobre Rei triunfador,
+sois doçura inefável,
+desejável ao amor.
+
+Rei dos anjos, Rei do mundo,
+Rei da máxima vitória,
+doador de toda graça,
+dos eleitos honra e glória.
+
+Celebrando o vosso nome,
+canta em coro todo o céu.
+Jesus, gozo do universo,
+que nos dais a paz de Deus.
+
+Jesus reina pela paz
+que supera o intelecto.
+Nossas mentes a desejam
+e a procura o nosso afeto.
+
+A Jesus sigamos hoje
+com louvor, canções e prece.
+Dê-nos ele em sua casa
+o amor que não perece.
+
+Ó Jesus, total doçura,
+da Mãe Virgem sois a flor.
+Para nós, no Reino eterno,
+honra, graças e louvor.
+
+@secao Salmodia
+
+@antifona 1
+Fui escolhido como Rei sobre Sião, seu Monte santo,
+promulgando seu decreto.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Fui escolhido como Rei sobre Sião, seu Monte santo,
+promulgando seu decreto.
+
+@antifona 2
+Os reis de toda a terra hão de adorá-lo,
+e todas as nações hão de servi-lo.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Os reis de toda a terra hão de adorá-lo,
+e todas as nações hão de servi-lo.
+
+@antifona 3
+Todos os povos serão nele abençoados,
+todas as gentes cantarão o seu louvor.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+Todos os povos serão nele abençoados,
+todas as gentes cantarão o seu louvor.
+
+@texto
+V. Fiz de ti uma luz para as nações,
+R. Para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Daniel {7,1-27}
+
+@tema
+A visão do Filho do Homem 1
+
+@texto
+No primeiro ano de Baltazar, rei da Babilônia, Daniel, estando em seu leito, teve um sonho, e visões lhe assomaram sua mente. Ele redigiu o sonho por escrito. Eis o começo da narrativa: [2] Tomou a palavra Daniel, dizendo: Eu estava contemplando a minha visão noturna, quando vi os quatro ventos do céu que agitavam o grande mar. [3] E quatro feras monstruosas subiam do mar, uma diferente da outra. [4] A primeira era semelhante a um leão com asas de águia. Enquanto eu o contemplava, suas asas lhe foram arrancadas e ele foi erguido da terra e posto de pé sobre suas patas como um ser humano, e um coração humano lhe foi dado. [5] Apareceu um segundo animal, completamente diferente, semelhante a um urso, erguido de um lado e com três costelas na boca, entre os dentes. E a este diziam: “Levanta-te, devora muita carne!” [6] Depois disso, continuando eu a olhar, vi ainda outra fera, semelhante a um leopardo, que trazia sobre os flancos quatro asas de ave: tinha também quatro cabeças e foi-lhe dado o poder. [7] A seguir, ao contemplar essas visões noturnas, vi a quarta fera, terrível, espantosa, e extremamente forte: com enormes dentes de ferro, comia, triturava e calcava aos pés o que restava. Muito diferente das feras que a haviam precedido, tinha esta dez chifres. [8] Enquanto considerava esses chifres, notei que surgia entre eles ainda outro chifre, pequeno, diante do qual foram arrancados três dos primeiros chifres pela raiz. E neste chifre havia olhos como olhos humanos, e uma boca que proferia palavras arrogantes. [9] Eu continuava contemplando, quando foram preparados alguns tronos e um Ancião sentou-se. Suas vestes eram brancas como a neve; e os cabelos de sua cabeça, alvos como a lã. Seu trono eram chamas de fogo com rodas de fogo ardente. [10] Um rio de fogo corria, irrompendo diante dele. Mil milhares o serviam, e miríades de miríades o assistiam. O tribunal tomou assento e os livros foram abertos. [11] Eu continuava olhando, então, por causa do ruído das palavras arrogantes que proferia aquele chifre, quando vi que a fera fora morta, e seu cadáver destruído e entregue ao abrasamento do fogo. [12] Das outras feras também foi retirado o poder, mas elas receberam um prolongamento de vida, até uma data e um tempo determinados. [13] Eu continuava contemplando, nas minhas visões noturnas, quando notei, vindo sobre as nuvens do céu, um como Filho de Homem. Ele adiantou-se até o Ancião e foi introduzido à sua presença. [14] A ele foi outorgado o poder, a honra e o reino, e todos os povos, nações e línguas o serviram. Seu império é um império eterno que jamais passará, e seu reino jamais será destruído. [15] Eu, Daniel, fiquei inquieto no meu espírito, e as visões de minha cabeça me perturbavam. [16] Aproximei-me de um dos que estavam ali presentes e pedi-lhe que me dissesse a verdade a respeito de tudo aquilo. E ele me respondeu, fazendo-me conhecer a interpretação dessas coisas: [17] “Essas feras enormes, em número de quatro, são quatro reis que se levantarão da terra. [18] Os que receberão o reino são os santos do Altíssimo, e eles conservarão o reino para sempre, de eternidade em eternidade.” [19] Quis, então, saber a verdade acerca da quarta fera, que era diferente de todas as outras, extremamente terrível, com dentes de ferro e garras de bronze, que comia e triturava, e depois calcava aos pés o que restava; [20] e também sobre os dez chifres que estavam na sua cabeça - e o outro chifre que surgiu e diante do qual três dos primeiros caíram, esse chifre que tinha olhos e boca que proferia palavras arrogantes, e cujo aspecto era mais majestoso que o dos outros chifres ... [21] Estava eu contemplando: e este chifre movia guerra aos santos e prevalecia sobre eles, [22] até o momento em que veio o Ancião e foi feito o julgamento em favor dos santos do Altíssimo. E chegou o tempo em que os santos entraram na posse do reino. [23] E ele continuou: “A quarta fera será o quarto reino na terra, diferente de todos os reinos. Ele devorará a terra inteira, calcá-la-á aos pés e a esmagará. [24] Quanto aos dez chifres: são dez reis que surgirão desse reino, e outro se levantará depois deles; este será diferente dos primeiros e abaterá três reis; [25] proferirá insultos contra o Altíssimo e porá à prova os santos do Altíssimo; ele tentará mudar os tempos e a Lei, e os santos serão entregues em suas mãos por um tempo, tempos e metade de um tempo. [26] Mas o tribunal dará audiência e o domínio lhe será arrebatado, destruído e reduzido a nada até o fim. [27] E o reino e o poder e as grandezas dos reinos sob todos os céus serão entregues ao povo dos santos do Altíssimo. Seu reino é um reino eterno, e todos os poderes o servirão e lhe prestarão obediência”.
+
+@secao Responsório | Cf. Mc 13,2-27; Sl 97(98),9
+
+@responsorio
+R. Verão o Filho do Homem vindo entre nuvens
+com grande poder e glória.
+Ele enviará os seus anjos.
+* Reunirá os eleitos dos quatro ventos,
+da extremidade da terra à extremidade dos céus.
+V. Julgará o mundo com justiça e as nações com equidade. * Reunirá.
+
+@secao Segunda leitura
+
+@leitura
+Do Opúsculo sobre a Oração, de Orígenes, presbítero
+{(Séc. III)} {(Cap. 25: PG 11,495-499)}
+
+@tema
+Venha o teu reino
+
+@texto
+O _Reino de Deus_, conforme as palavras de nosso Senhor e Salvador, _não vem visivelmente, nem se dirá: Ei-lo aqui ou ei-lo ali; mas o reino de Deus está dentro de nós_ (cf. Lc 17,21)_, pois a palavra está muito próxima de_ nossa _boca e_ _em_ nosso _coração_ (cf. Rm 10,8). Donde se segue, sem dúvida nenhuma, que quem reza pedindo a vinda do reino de Deus pede – justamente por já ter em si um início deste reino – que ele desponte, dê frutos e chegue à perfeição. Pois Deus reina em todo o santo e quem é santo obedece às leis espirituais de Deus, que nele habita como em cidade bem administrada. Nele está presente o Pai e, junto com o Pai, reina Cristo na pessoa perfeita, segundo as palavras: _Viremos a ele e nele faremos nossa morada_ (Jo 14,23).
+Então o reino de Deus, que já está em nós, chegará por nosso contínuo adiantamento à plenitude, quando se completar o que foi dito pelo Apóstolo: sujeitados todos os inimigos, Cristo entregará _o reino a Deus e Pai, a fim de que Deus seja tudo em todos_ (cf. 1Cor 15,24.28). Por isto, rezemos sem cessar, com aquele amor que pelo Verbo se faz divino; e digamos a nosso Pai que está nos céus: _Santificado seja teu nome, venha o teu reino_ (Mt 6,9-10). É de se notar também a respeito do reino de Deus: da mesma forma que não há _participação da justiça com a iniquidade nem sociedade da luz com as trevas nem pacto de Cristo com Belial_ (cf. 2Cor 6,14-15), assim o reino de Deus não pode subsistir junto com o reino do pecado. Por conseguinte, se queremos que Deus reine em nós, de modo algum _reine o pecado em nosso corpo mortal_ (Rm 6,12), mas mortifiquemos nossos _membros que estão na terra_ (cf. Cl 3,5) e produzamos fruto no Espírito.
+Passeie, então, Deus em nós como em paraíso espiritual, e reine só ele, junto com seu Cristo; e que em nós se assente à destra de sua virtude espiritual, objeto de nosso desejo. Assente-se até que seus inimigos todos que existem em nós sejam reduzidos a _escabelo de seus pés_ (Sl 109,1), lançados fora todo principado, potestade e virtude. Tudo isto pode acontecer a cada um de nós e ser destruída a _última inimiga, a morte_ (1Cor 15,26). E Cristo diga também dentro de nós: _Onde está, ó morte, teu aguilhão? Onde está, inferno, tua vitória?_ (1Cor 15,55; cf. Os 13,14). Já agora, portanto, o corruptível em nós se revista de santidade e de _incorruptibilidade_, destruída a morte, vista a _imortalidade_ paterna (cf. 1Cor 15,54), para que, reinando Deus, vivamos dos bens do novo nascimento e da ressurreição.
+
+@secao Responsório | Ap 11,15b; Sl 21(22),28b-29a
+
+@responsorio
+R. Instalou-se sobre o mundo a realeza,
+a realeza do Senhor e de seu Cristo;
+* E ele reinará na eternidade.
+V. Pois ao Senhor é que pertence a realeza,
+ele domina sobre todas as nações;
+todos os povos e as famílias das nações
+se prostrem adorando diante dele. * E ele reinará.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que dispusestes restaurar todas as coisas no vosso amado Filho, Rei do universo, fazei que todas as criaturas, libertas da escravidão e servindo à vossa majestade, vos glorifiquem eternamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

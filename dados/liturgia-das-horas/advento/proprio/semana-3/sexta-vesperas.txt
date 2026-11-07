@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3sexta_vesperas.htm
+@documento Próprio - Vésperas - III Sexta-feira do Advento
+
+@secao Leitura breve | 2Pd 3,8b-9
+
+@texto
+Para o Senhor, um dia é como mil anos e mil anos como um dia. O Senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora. Ele está usando de paciência para conosco. Pois não deseja que alguém se perca. Ao contrário, quer que todos venham a converter-se.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Sua glória habitará em nossa terra. * Nele se alegra.
+Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+É este o testemunho que deu João Batista:
+o que virá depois de mim, já existia antes de mim.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+É este o testemunho que deu João Batista:
+o que virá depois de mim, já existia antes de mim.
+
+@secao Preces
+
+@preces
+Invoquemos com toda confiança a Cristo, pastor e guarda de nossas almas; e digamos:
+
+R. **Sede bondoso, Senhor, sede clemente!**
+
+Bom Pastor do rebanho de Deus,
+– vinde para congregar a todos em vossa Igreja. R.
+
+Auxiliai, Senhor, os pastores de vosso povo peregrino,
+– para que apascentem com dedicação o rebanho que lhes foi confiado, até a vossa vinda. R.
+
+Escolhei dentre nós mensageiros de vossa palavra,
+– que anunciem vosso Evangelho até os confins da terra. R.
+
+Tende piedade de todos os que sofrem e desfalecem no caminho,
+– fazei que encontrem um amigo que lhes traga conforto e alegria. R.
+
+{(intenções livres)}
+
+Mostrai a vossa glória nos prados celestes,
+– aos que já foram chamados deste mundo. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus todo-poderoso, que a vossa graça sempre nos preceda e acompanhe, para que, esperando ansiosamente a vinda do vosso Filho, possamos obter a vossa ajuda nesta vida e na outra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4quartapascoa_laudes.htm
+@documento Laudes - Quarta-feira da 4ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Elevai-vos, ó Deus, sobre os céus. Aleluia.
+
+@salmo salmos/salmo-107
+
+@gloria
+
+@antifona
+Elevai-vos, ó Deus, sobre os céus. Aleluia.
+
+@antifona 2
+O Senhor Deus fará brotar sua justiça
+e o louvor perante os povos, aleluia.
+
+@salmo canticos/is-61-1062-5
+
+@gloria
+
+@antifona
+O Senhor Deus fará brotar sua justiça
+e o louvor perante os povos, aleluia.
+
+@antifona 3
+Ó Sião, o teu Deus reinará,
+reinará para sempre, aleluia.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Ó Sião, o teu Deus reinará,
+reinará para sempre, aleluia.
+
+@secao Leitura breve | Rm 6,8-11
+
+@texto
+Se morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele. Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive. Assim, vós também considerai-vos mortos para o pecado e vivos para Deus, em Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu vim ao mundo como uma luz:
+quem crê em mim não fica nas trevas. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu vim ao mundo como uma luz:
+quem crê em mim não fica nas trevas. Aleluia.
+
+@secao Preces
+
+@preces
+Elevemos nossas preces a Deus Pai, que quis revelar aos apóstolos a glória de Cristo ressuscitado; e aclamemos:
+
+R. **Iluminai-nos, Senhor, com a glória de Cristo!**
+
+Nós vos louvamos, Senhor, fonte de luz e de glória,
+– que nos chamastes à vossa luz admirável para alcançarmos a salvação. R.
+
+Purificai e fortalecei com o poder do Espírito Santo a atividade da Igreja em toda a terra,
+– para que melhorem as relações humanas entre todos os cidadãos do mundo. R.
+
+Fazei que nos dediquemos de tal modo ao serviço do próximo,
+– que possamos transformar a comunidade humana numa oferenda agradável aos vossos olhos. R.
+
+Desde o amanhecer, cumulai-nos com os dons da vossa bondade,
+– para vivermos na alegria de vosso louvor durante todo este dia. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, vida dos que têm fé em vós, glória dos humildes, e felicidade dos justos, atendei com bondade às nossas preces, e saciai sempre com vossa plenitude os que anseiam pelas riquezas que prometestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

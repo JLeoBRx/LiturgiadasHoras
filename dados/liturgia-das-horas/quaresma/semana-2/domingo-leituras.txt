@@ -1,0 +1,133 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/2domingo_quaresma.htm
+@documento Ofício das Leituras - 2º Domingo Da Quaresma
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Seguindo o preceito místico,
+guardemos a abstinência
+durante os quarenta dias
+votados à penitência.
+
+A Lei e os Profetas dantes
+cumpriram igual preceito,
+Mas Cristo, no seu deserto,
+viveu o jejum perfeito.
+
+Usemos de modo sóbrio
+da fala, bebida e pão,
+do sono e do riso e, atentos,
+peçamos a Deus perdão.
+
+Fujamos do mal oculto
+que os laços do amor desfaz;
+à voz do tirano astuto
+não demos lugar jamais.
+
+Ouvi, Unidade simples,
+Trindade, Supremo Bem:
+a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis, e de luz vos envolveis como num manto!
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Ó meu Deus e meu Senhor, como sois grande!
+De majestade e esplendor vos revestis,
+e de luz vos envolveis como num manto!
+
+@antifona 2
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+O Senhor tira da terra o alimento
+e o vinho que alegra o coração.
+
+@antifona 3
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Deus viu todas as coisas que fizera
+e eram todas elas muito boas.
+
+@texto
+V. Eis meu Filho muito amado.
+R. Escutai-o, homens todos!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {13,17―14,9}
+
+@tema
+O povo caminha até ao mar Vermelho
+
+@texto
+[13,17] Quando o Faraó deixou sair o povo, Deus não o conduziu pelo caminho da terra dos filisteus, que é o mais curto, para que o povo, defrontando-se com algum combate, não se arrependesse e voltasse para o Egito. [18] Por isso, Deus fez o povo seguir pelo caminho do deserto, que está junto ao mar Vermelho. Os filhos de Israel saíram bem armados do Egito. [19] Moisés levou consigo os ossos de José, pois este tinha feito jurar os filhos de Israel: “Deus certamente vos há de visitar: então, levai daqui convosco os meus ossos”. [20] E, tendo saído de Sucot, eles acamparam em Etam, na extremidade do deserto. [21] O Senhor ia adiante deles, para lhes mostrar o caminho, de dia numa coluna de nuvem, e de noite numa coluna de fogo, para lhes servir de guia num e noutro tempo. [22] Nunca a coluna de nuvem deixou de aparecer diante do povo durante o dia, nem a coluna de fogo durante a noite. [14,1] O Senhor falou a Moisés, dizendo: [2] “Fala aos filhos de Israel que retrocedam e acampem diante de Fiairot, entre Magdol e o mar, defronte de Beel-Sefon: ali acampareis junto ao mar. [3] O Faraó pensará a respeito dos filhos de Israel: ‘Eles andam perdidos pelo país, e estão fechados no deserto’. [4] Eu endurecerei o coração do Faraó e ele vos perseguirá. Eu serei glorificado às custas do Faraó e de todo o seu exército, e os egípcios saberão que eu sou o Senhor”. E eles assim o fizeram. [5] Foi anunciado ao rei dos egípcios que o povo tinha fugido. Então, mudaram-se contra ele os sentimentos do Faraó e dos seus servos, os quais disseram: “Que fazemos? Como deixamos Israel escapar, privando-nos assim dos seus serviços?” [6] O Faraó mandou atrelar o seu caro e levou consigo o seu povo. [7] Tomou seiscentos carros escolhidos e todos os carros do Egito, com os respectivos escudeiros. [8] O Senhor endureceu o coração do Faraó,rei do Egito, que foi no encalço dos filhos de Israel, enquanto estes tinham saído de braço erguido. [9] Os egípcios perseguiram os filhos de Israel com todos os cavalos e carros do Faraó, seus cavaleiros e seu exército, e encontraram-nos acampados junto ao mar, perto de Fiairot, defronte de Beel-Sefon.
+
+@secao Responsório | Sl 113(114),1.2; Ex 13,21a
+
+@responsorio
+R. Quando o povo de Israel saiu do Egito
+e os filhos de Jacó, de um povo estranho,
+* Judá tornou-se o templo do Senhor e Israel se transformou em seu domínio.
+V. O Senhor os precedia numa nuvem luminosa e os guiava no caminho. * Judá tornou-se.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc.V)} {(Sermo 51, 3-4.8: PL 54, 310-311.313)}
+
+@tema
+Por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo
+
+@texto
+O Senhor manifesta a sua glória na presença de testemunhas escolhidas, e de tal modo fez resplandecer o seu corpo, semelhante ao de todos os homens, que seu rosto se tornou brilhante como o sol e suas vestes brancas como a neve. A principal finalidade dessa transfiguração era afastar dos discípulos o escândalo da cruz, para que a humilhação da paixão, voluntariamente suportada, não abalasse a fé daqueles a quem tinha sido revelada a excelência da dignidade oculta de Cristo. Mas, segundo um desígnio não menos previdente, dava-se um fundamento sólido à esperança da santa Igreja, de modo que todo o Corpo de Cristo pudesse conhecer a transfiguração com que ele também seria enriquecido, e os seus membros pudessem contar com a promessa da participação daquela glória que primeiro resplandecera na Cabeça. A esse respeito, o próprio Senhor dissera, referindo-se à majestade de sua vinda: _Então os justos brilharão como o sol no Reino de seu Pai_ (Mt 13,43). E o apóstolo Paulo declara o mesmo, dizendo_: Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós_ (Rm 8,18). E ainda: _Vós morrestes e a vossa vida está escondida com Cristo, em Deus. Quando Cristo, vossa vida, aparecer, então vós aparecereis também com ele, revestidos de glória_ (Cl 3,3-4). Entretanto, aos apóstolos que deviam ser confirmados na fé e introduzidos no conhecimento de todos os mistérios do Reino, esse prodígio ofereceu ainda outro ensinamento. Moisés e Elias, isto é, a Lei e os Profetas, apareceram conversando com o Senhor, a fim de cumprir-se plenamente, na presença daqueles cinco homens, o que fora dito: _Será digna de fé toda palavra proferida na presença de duas ou três testemunhas_ (cf. Mt18,16). Que pode haver de mais estável e mais firme que esta palavra? Para proclamá-la, ressoa em uníssono a dupla trombeta do Antigo e do Novo Testamento, e os testemunhos dos tempos passados concordam com o ensinamento do Evangelho. Na verdade, as páginas de ambas as alianças confirmam-se mutuamente; e o esplendor da glória presente mostra, com total evidência, Aquele que as antigas figuras tinham prometido sob o véu dos mistérios. Porque, como diz João, _por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo_ (Jo 1,17). Nele cumpriram-se integralmente não só a promessa das figuras proféticas, mas também o sentido dos preceitos da lei; pois pela sua presença mostra a verdade das profecias e, pela sua graça, torna possível cumprir os mandamentos. Sirva, portanto, a proclamação do santo Evangelho para confirmar a fé de todos, e ninguém se envergonhe da cruz de Cristo, pela qual o mundo foi redimido. Ninguém tenha medo de sofrer por causa da justiça ou duvide da recompensa prometida, porque é pelo trabalho que se chega ao repouso, e pela morte, à vida. O Senhor assumiu toda a fraqueza de nossa pobre condição e, se permanecermos no seu amor e na proclamação do seu nome, venceremos o que ele venceu e receberemos o que prometeu. Assim, quer cumprindo os mandamentos ou suportando a adversidade, deve sempre ressoar aos nossos ouvidos a voz do Pai, que se fez ouvir, dizendo: _Este é o meu filho amado, no qual pus todo o meu agrado. Escutai-o_ (Mt 17,5).
+
+@secao Responsório | Hb 12,22a.24a.25; Sl 94(95),8
+
+@responsorio
+R. Aproximastes-vos, irmãos, de Jesus,
+o Mediador de uma nova Aliança; prestai muita atenção para não deixar de ouvir aquele que vos fala!
+* Pois, se aqueles que deixaram de ouvir quem os chamava, advertindo-os sobre a terra, não fugiram do castigo, muito menos nós, irmãos, se deixarmos de ouvir ao que fala a nós dos céus.
+V. Oxalá ouvísseis hoje a sua voz: Não fecheis os corações ao Senhor Deus!
+* Pois, se aqueles.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos mandastes ouvir o vosso Filho amado, alimentai nosso espírito com a vossa palavra, para que, purificado o olhar de nossa fé, nos alegremos com a visão da vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSGuadalupe_vesperas.htm
+@documento Vésperas - Nossa Senhora de Guadalupe, Padroeira principal da América Latina
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Como foste a Belém dar à luz o teu Filho,
+que é substância do Pai e de carne vestiste,
+desces ao Tepeyac para gerar o índio
+ao amor de uma pátria e à fé em Jesus Cristo.
+
+Por rosas a brotar na brancura da neve,
+tu pedes que se erga um templo na colina;
+e dás-nos por teu ventre um duplo nascimento,
+flor de pátria mestiça e fruto do Evangelho.
+
+Crê Diego levar em sua manta rosas,
+que lança como prova ante os olhos do bispo,
+mas de uma Rosa só floresce a face escura,
+sob o mesmo pincel que pinta em luz a aurora.
+
+Dá-nos o trigo e a paz, Senhora e Filha nossa,
+uma pátria que una ao lar o templo e a escola,
+um pão que a todos farte e uma fé que os inflame,
+por tuas mãos em prece e teus olhos de estrela.
+
+@secao Salmodia
+
+@antifona 1
+Porque eu escolhi e santifiquei este lugar,
+para que nele o meu nome permaneça eternamente,
+meu coração e os meus olhos nele sempre fixarei.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Porque eu escolhi e santifiquei este lugar,
+para que nele o meu nome permaneça eternamente,
+meu coração e os meus olhos nele sempre fixarei.
+
+@antifona 2
+Que todos reconheçam, ó Senhor,
+que aqui se manifesta a vossa força,
+que vossa mão realizou este prodígio!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Que todos reconheçam, ó Senhor,
+que aqui se manifesta a vossa força,
+que vossa mão realizou este prodígio!
+
+@antifona 3
+O pardal encontrou casa para si
+e a andorinha o seu ninho,
+para nele seus filhotes colocar,
+em teus altares, ó Senhor!
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+O pardal encontrou casa para si
+e a andorinha o seu ninho,
+para nele seus filhotes colocar,
+em teus altares, ó Senhor!
+
+@secao Leitura breve | Ap 21,2-3
+
+@texto
+Vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido. Então, ouvi uma voz forte que saía do trono e dizia: Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles.
+
+@secao Responsório breve
+
+@responsorio
+R. Seus filhos se levantarão,
+* Eles hão de chamá-la ditosa. R. Seus filhos.
+V. Ele abriu os seus lábios com sabedoria, sua língua ensinou com amor e bondade. * Eles hão.
+Glória ao Pai. R. Seus filhos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Nem as águas das torrentes, nem os rios
+conseguiram apagar o meu amor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Nem as águas das torrentes, nem os rios
+conseguiram apagar o meu amor.
+
+@secao Preces
+
+@preces
+Elevemos nossas preces a Deus que enviou a Santíssima Virgem Maria para nos dar forças e levar-nos até ele. Peçamos cheios de confiança:
+
+R. **Concedei-nos vosso amor, auxílio e proteção.**
+
+Vós, que fizestes surgir Nossa Senhora como sol sobre os montes para iluminar a santa Igreja,
+– fazei que, por sua beleza e seu amor, reinem a justiça e a paz em todo o mundo. R.
+
+Vós quisestes que a Mãe do vosso Filho imprimisse sua imagem com os nossos traços fisionômicos na manta do índio Juan Diego;
+– fazei que imitemos suas virtudes e seu amor para com os pobres e desamparados. R.
+
+Vós, que, por meio de Maria, transformastes a aridez do Tepeyac num jardim florido e perfumado,
+– transformai, por meio dela, o nosso povo em floração fecunda de verdadeiros cristãos. R.
+
+Fazei que aprendamos com Juan Diego a simplicidade e a humildade,
+– a constância no sofrimento e a fidelidade à vossa Mãe. R.
+
+{(intenções livres)}
+
+Vós, que constituístes a Virgem Maria protetora de todos os que a invocam e nela confiam,
+– por sua maternal intercessão, fazei brilhar a luz da vossa face sobre os nossos irmãos e irmãs que partiram desta vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos destes a Santa Virgem Maria para amparar-nos como mãe solícita, concedei aos povos da América Latina, que hoje se alegram com sua proteção, crescer constantemente na fé e alcançar o desejado progresso no caminho da justiça e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

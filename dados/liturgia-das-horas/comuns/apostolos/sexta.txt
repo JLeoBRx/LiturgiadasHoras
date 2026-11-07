@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_apostolos_sexta.htm
+@documento COMUM DOS APÓSTOLOS - Hora Média
+
+@titulo COMUM DOS APÓSTOLOS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@salmo salmos/salmo-122-v2
+
+@gloria
+
+@antifona
+Eis que eu estou convosco em todos os dias
+até o fim do mundo, é o que diz o Senhor.
+
+@secao Leitura breve | At 5,12a.14
+
+@texto
+Muitos sinais e maravilhas eram realizados entre o povo pelas mãos dos apóstolos. Crescia sempre mais o número dos que aderiam ao Senhor pela fé; era uma multidão de homens e mulheres.
+
+@texto
+V. Eles guardavam os preceitos,
+R. E as ordens do Senhor.
+
+@secao Oração
+
+@oracao
+{Oração conforme o próprio.}
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

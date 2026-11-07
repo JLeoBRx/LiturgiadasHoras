@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5segundaquaresma_nona.htm
+@documento Hora Média - Nona - Segunda-feira da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@salmo salmos/salmo-007-ii
+
+@gloria
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força
+
+@secao Leitura breve | Jr 31,2.3b.4a
+
+@texto
+Isto diz o Senhor: Encontrou perdão no deserto o povo que escapara à espada; Israel encaminha-se para o seu descanso. Amei-te com amor eterno e te atraí com a misericórdia. De novo te edificarei, serás reedificada, ó jovem nação de Israel.
+
+@texto
+V. Meu sacrifício é minha alma penitente.
+R. Não desprezeis um coração arrependido!
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela vossa graça inefável nos enriqueceis de todos os bens, concedei-nos passar da antiga à nova vida, preparando-nos assim, para o reino da glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

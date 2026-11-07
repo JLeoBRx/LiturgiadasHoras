@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/turibiodemogrovejo.htm
+@documento Ofício das Leituras - São Turíbio De Mogrovejo, Bispo
+
+@celebracao
+SÃO TURÍBIO DE MOGROVEJO, BISPO
+
+@biografia
+Nasceu na Espanha pelo ano de 1538, e estudou Direito em Salamanca. Eleito bispo de Lima em 1580, partiu para a América. Cheio de zelo apostólico, celebrou vários sínodos e concílios que muito incentivaram a vida cristã em todo o território. Defendeu corajosamente os direitos da Igreja, dedicou-se com grande solicitude ao rebanho que lhe fora confiado, visitando-o com frequência, e preocupando-se de modo especial com os índios. Morreu em 1606.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Do Decreto Christus Dominus sobre o múnus pastoral dos bispos na Igreja, do Concílio Vaticano II
+{(Séc. XX)} {(N. 12-13.16)}
+
+@tema
+Aptos para toda boa obra
+
+@texto
+No exercício da sua missão de ensinar, anunciem aos homens o evangelho de Cristo. Um dos principais deveres dos bispos é chamar os homens à fé, na força do Espírito ou confirmá-los na vida de fé. Proponham-lhes na sua integridade o mistério de Cristo, ou seja, aquelas verdades que não se podem ignorar sem ignorar o próprio Cristo. Ensinem-lhes também o caminho revelado por Deus para que os homens o glorifiquem e desse modo alcancem a felicidade eterna.
+Mostrem-lhes ainda que as coisas terrenas e as instituições humanas, segundo os planos de Deus Criador, também se destinam à salvação dos homens, e podem, por conseguinte, muito contribuir para a edificação do Corpo de Cristo.
+Ensinem, portanto, como se deve ter em grande estima, segundo a doutrina social da Igreja, a pessoa humana com sua liberdade e a própria vida corporal; a família, sua unidade e estabilidade, a procriação e a educação dos filhos; a sociedade civil com suas leis e profissões; o trabalho e o lazer, as artes e as conquistas da técnica; a pobreza e a riqueza. Exponham, enfim, os meios de solucionar os gravíssimos problemas da propriedade, da promoção e da justa distribuição dos bens materiais, da paz e da guerra, da convivência fraterna entre todos os povos.
+Apresentem a doutrina cristã com métodos adaptados às necessidades dos tempos, quer dizer, que correspondam às dificuldades e aos problemas que mais preocupam os homens. Defendam esta doutrina e ensinem aos próprios fiéis como defendê-la e propagá-la. No modo de transmiti-la, mostrem a solicitude materna da Igreja para com todos os homens, quer fiéis ou não-fiéis. Com especial cuidado, se interessem pelos pobres e humildes, para cuja evangelização o Senhor os enviou.
+No exercício do ofício de pais e pastores, comportem-se os bispos no meio dos seus como quem serve. Sejam bons pastores que conhecem suas ovelhas, e por elas são conhecidos. Como verdadeiros pais, distingam-se pelo seu espírito de amor e solicitude para com todos. Portanto, de bom grado todos se submetam à sua autoridade recebida de Deus. Reúnam ao seu redor e formem de tal modo a família inteira de sua grei que todos, cônscios de suas obrigações, vivam e trabalhem na comunhão da caridade.
+Para que possam atingir este ideal, é mister que os bispos, _aptos para toda obra boa e suportando qualquer coisa pelos eleitos_ (2Tm 2,21.10), orientem de tal modo sua vida que ela corresponda às necessidades dos tempos.
+
+@secao Responsório | Cf. 1Pd 5,2-4; At 20,28
+
+@responsorio
+R. Apascentai o rebanho de Deus,
+sendo modelos do vosso rebanho.
+* E quando o supremo Pastor se manifestar, recebereis
+a coroa de glória imperecível.
+V. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos,
+para cuidar como pastores da Igreja do Senhor.* E quando.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes crescer a vossa Igreja pela solicitude pastoral de São Turíbio e seu zelo pela verdade, concedei ao vosso povo um contínuo aumento de fé e santidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sexta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@salmo salmos/salmo-118-73-80-x-iod
+
+@gloria
+
+@antifona
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@antifona 2
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@antifona
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@antifona 3
+Feliz o homem que por Deus é corrigido;
+se ele fere, também cuida da ferida.
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+Feliz o homem que por Deus é corrigido;
+se ele fere, também cuida da ferida.
+
+@secao Leitura breve | Br 4,28-29
+
+@texto
+Como por livre vontade vos desviastes de Deus, agora, voltando, buscai-o com zelo dez vezes maior; aquele que trouxe sofrimento para vós, para vós trará, com a vossa salvação, eterna alegria.
+
+@texto
+V. No Senhor se encontra toda a graça.
+R. No Senhor, copiosa redenção.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que, nesta hora, com o mundo envolto em trevas, fostes elevado na cruz, como vítima inocente para a salvação de todos, concedei-nos sempre vossa luz, que nos guie para a vida eterna. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

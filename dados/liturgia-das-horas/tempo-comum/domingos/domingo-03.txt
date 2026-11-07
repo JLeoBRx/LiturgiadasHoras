@@ -1,0 +1,51 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 3º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Convertei-vos, nos diz o Senhor,
+Está próximo o Reino dos céus.
+
+@antifona vesperas-i-B
+Dirigiu-se Jesus à Galileia,
+o Evangelho de Deus anunciando:
+Convertei-vos e crede no Evangelho,
+pois o Reino de Deus está chegando!
+
+@antifona vesperas-i-C
+Jesus, então, voltou pela força do Espírito.
+Nas sinagogas ensinava e todos o aclamavam.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Passando junto ao mar da Galileia,
+viu Jesus os dois irmãos André e Pedro
+a lançar a rede ao mar, e os chamou.
+E, deixando sem demora sua rede,
+os discípulos seguiram a Jesus.
+
+@antifona laudes-B
+Disse a eles Jesus: Vinde comigo,
+e pescadores de homens vos farei.
+
+@antifona laudes-C
+O Espírito de Deus repousa sobre mim,
+e enviou-me a anunciar aos pobres o Evangelho.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Jesus pregava a Boa-nova, o Reino anunciando,
+e curava toda espécie de doença entre o povo.
+
+@antifona vesperas-ii-B
+Deixando suas redes, sem demora,
+seguiram ao Senhor e Redentor.
+
+@antifona vesperas-ii-C
+Jesus, tendo fechado o livro,
+deu-o ao servente e começou a lhes dizer:
+Em mim cumpriu-se hoje, a vossos olhos,
+a Escritura que acabastes de ouvir.

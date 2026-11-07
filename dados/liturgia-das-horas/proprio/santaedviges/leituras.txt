@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santaedviges.htm
+@documento Ofício das Leituras - Santa Edviges, Religiosa
+
+@celebracao
+SANTA EDVIGES, RELIGIOSA
+
+@biografia
+Nasceu na Baviera (Alemanha), cerca do ano 1174; foi dada por esposa ao príncipe da Silésia e teve sete filhos. Levou uma vida de fervorosa piedade e dedicou-se generosamente à assistência aos pobres e doentes, para os quais fundou vários albergues. Quando morreu seu marido, entrou no mosteiro de Trebniz (Polônia) e aí morreu em 1243.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios
+
+@tema
+A excelência da caridade
+
+@texto
+Irmãos: [12,31] Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior.[13,1] Se eu falasse todas as línguas, as dos homens e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. [2] Se eu tivesse o dom da profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. [3] Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada me serviria. [4] A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; [5] não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor, [6] não se alegra com a iniquidade, mas regozija-se com a verdade. [7] Suporta tudo, crê tudo, espera tudo, desculpa tudo. [8] A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. [9] Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. [10] Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. [11] Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era próprio de criança. [12] Agora nós vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. [13] Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Conhecemos e cremos no amor
+que Deus manifesta por nós.
+* Pois quem permanece no amor,
+em Deus permanece e Deus nele.
+V. Amemo-nos, pois, uns aos outros,
+Porque o amor vem de Deus. * pois quem.
+
+@secao Segunda leitura
+
+@leitura
+Da Vida de Santa Edviges, escrita por um contemporâneo
+{(Séc. XIII)} {(Acta Sanctorum Octobris 8 [1853],201-202)}
+
+@tema
+Tendia sempre para Deus
+
+@texto
+A serva de Deus sabia que as pedras vivas, empregadas na construção da celeste Jerusalém, devem ser polidas neste mundo pelos golpes e aflições e que as muitas tribulações são necessárias para se passar para a suprema glória e a pátria esplêndida. Expôs-se com total generosidade a muitos padecimentos e, sem piedade, maltratou o corpo por muitas e frequentes flagelações. Macerava-se com jejuns e abstinências diárias tão severas que muitos se admiravam como uma mulher tão fraca e delicada pudesse aguentar tais tormentos.
+Quanto mais atentamente se entregava à assídua mortificação da carne, feita, porém, com discernimento, tanto mais crescia no vigor do espírito e no desabrochar da graça, e nela se alimentava mais fortemente o incêndio da devoção e do amor divino. Não poucas vezes era arrastada ao alto e levada a Deus por tão ardente desejo, que ficava insensível e sem se dar conta do que se passava ao redor.
+Da mesma forma como a devoção do espírito tendia sempre para Deus, sua piedade benfazeja inclinava-se para o próximo, distribuindo com liberalidade esmolas aos indigentes, aos conventos e religiosos, que moravam dentro ou fora dos mosteiros, às viúvas e aos órfãos, aos doentes e fracos, aos leprosos, aos presos nas cadeias ou nos cárceres, aos peregrinos, às mulheres pobres que amamentavam os filhinhos. Assim a todos socorria com seus benefícios; e absolutamente a ninguém que viesse em busca de auxílio permitia sair sem conforto.
+E porque esta serva de Deus nunca descuidou de exercer todas as boas obras a seu alcance, Deus lhe concedeu também esta graça: mesmo humanamente impossibilitada de agir, sem nada poder fazer com as próprias forças, por virtude divina da paixão de Cristo, conseguia realizar aquilo que as súplicas do próximo em necessidade lhe pediam. Por isto, aos que a ela recorriam tanto nas dificuldades do corpo quanto do espírito, teve o poder de ajudar, segundo a vontade do bem-querer divino.
+
+@secao Responsório | Cf. Pr 31,17.18
+
+@responsorio
+R. Eis aqui a mulher que é perfeita,
+revestida da força de Deus.
+* Sua luz não se apaga de noite.
+V. Percebeu satisfeita a vantagem da sabedoria de Deus.* Sua luz.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus onipotente, que a intercessão de Santa Edviges nos obtenha a graça de imitar o que nela admiramos, pois a humildade da sua vida serve de exemplo para todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

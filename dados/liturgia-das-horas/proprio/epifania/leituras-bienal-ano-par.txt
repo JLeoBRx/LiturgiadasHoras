@@ -1,0 +1,324 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/epifania_par.htm
+@documento Ofício das Leituras - Epifania Do Senhor Solenidade _________________________
+
+@celebracao
+EPIFANIA DO SENHOR
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Vendo os Magos a Criança,
+vão abrindo seus tesouros
+e lhe fazem oferendas
+de incenso, mirra e ouro.
+
+Ó Menino, nos presentes,
+pelo Pai determinados,
+reconheces sinais claros
+do poder do teu Reinado.
+
+Para o Rei é dado o ouro,
+para Deus o incenso puro.
+Mas a mirra prenuncia
+do sepulcro o pó escuro.
+
+Ó Belém, cidade única
+entre todas as nações,
+tu geraste, feito homem,
+o Autor da salvação!
+
+Como provam os profetas,
+Deus, o Pai que nos criou,
+enviou Jesus ao mundo,
+Juiz e Rei o consagrou.
+
+O seu reino abrange tudo:
+Oriente e Ocidente,
+dia e noite, terra e mares,
+fundo abismo e céu fulgente.
+
+Glória a vós, ó Jesus Cristo,
+que às nações vos revelais,
+com o Pai e o Santo Espírito
+pelos séculos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Os reis de Társis e das ilhas hão de vir
+e oferecer ao Rei Senhor os seus presentes.
+
+@salmo salmos/salmo-071-v2
+
+@gloria
+
+@antifona
+Os reis de Társis e das ilhas hão de vir
+e oferecer ao Rei Senhor os seus presentes.
+
+@antifona 2
+Adorai o Senhor no seu templo sagrado.
+Aleluia.
+
+@salmo salmos/salmo-095
+
+@gloria
+
+@antifona
+Adorai o Senhor no seu templo sagrado.
+Aleluia.
+
+@antifona 3
+Vós, anjos de Deus, adorai o Senhor!
+Aleluia.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Vós, anjos de Deus, adorai o Senhor!
+Aleluia.
+
+@texto
+V. Os céus proclamam a justiça do Senhor.
+R. Todos os povos podem ver a sua glória.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {60,1-22}
+
+@tema
+Revelação da glória do Senhor sobre Jerusalém
+
+@texto
+[1] Levanta-te, acende as luzes, porque chegou a tua luz,
+apareceu sobre ti a glória do Senhor. [2] Eis que está a terra envolta em trevas,
+e nuvens escuras cobrem os povos,
+mas sobre ti apareceu o Senhor,
+e sua glória já se manifesta sobre ti.
+[3] Os povos caminham à tua luz
+e os reis ao clarão de tua aurora.
+[4] Levanta os olhos ao redor e vê:
+todos se reuniram e vieram a ti;
+teus filhos vêm chegando de longe
+com tuas filhas, carregadas nos braços.
+[5] Ao vê-los, ficarás radiante,
+com o coração vibrando e batendo forte,
+pois com eles virão as riquezas de além-mar
+e mostrarão o poderio de suas nações;
+[6] será uma inundação de camelos
+e dromedários de Madiã e Efa a te cobrir;
+virão todos os de Sabá,
+trazendo ouro e incenso
+e proclamando a glória do Senhor.
+[7] Em ti se reunirá todo o rebanho de Cedar,
+os carneiros de Nabaiot estarão à tua disposição;
+serão feitos sacrifícios sobre o meu altar propiciatório
+e eu os aceitarei para glória de minha casa.
+[8] Quem são esses que vêm voando como nuvens
+e como pombas para os pombais?
+[9] As nações estão me aguardando,
+tendo à frente os navios de Társis,
+para trazerem de longe os teus filhos,
+juntamente com seu ouro e sua prata,
+em oferta ao Senhor, teu Deus, ao Santo de Israel,
+que te engrandeceu.
+[10] Estrangeiros edificarão os teus muros,
+os seus reis te servirão;
+e, se eu te castiguei com indignação,
+compadeci-me de ti com benevolência.
+[11] Tuas portas estarão sempre abertas,
+não se fecharão nem de dia nem de noite,
+para receberem as mais fortes das nações,
+à chegada dos seus reis.
+[12] Povo e reino que não te servirem, morrerão,
+tais nações sofrerão devastações. [13] A ti virá a riqueza do Líbano
+em ciprestes, olmos e abetos juntamente,
+para adorno do meu santuário;
+eu honrarei o lugar onde pouso os pés.
+[14] A ti virão, cabisbaixos,
+os filhos dos que te humilharem,
+e beijarão a marca dos teus pés
+todos os que te insultaram,
+e te chamarão Cidade do Senhor,
+Sião do Santo de Israel.
+[15] De abandonada e odiada que foste,
+quando ninguém ousava visitar-te,
+eu te transformarei no orgulho dos séculos,
+na alegria das gerações.
+[16] Sugarás o leite das nações,
+o peito dos reis te amamentará
+e saberás que eu sou o Senhor teu salvador,
+o teu libertador, o Forte de Jacó.
+[17] Em lugar de cobre trarei ouro,
+e em lugar de ferro, prata,
+em lugar de madeira, cobre,
+e em lugar de pedra, ferro;
+farei dos teus guardas homens de paz,
+e dos governantes, homens da lei.
+[18] Não se ouvirá falar de prepotência nesta terra,
+nem de saques e destruições em teu território;
+teus muros merecem o nome de Segurança
+e tuas portas, o de Louvor.
+[19] Para ti, o sol não mais será para luzir de dia
+nem a luz da lua para iluminar,
+mas o próprio Senhor será a tua luz eterna
+e o teu Deus, a tua glória.
+[20] O teu sol já não se põe,
+a tua lua não tem minguante;
+porque o próprio Senhor será a tua luz eterna
+e terminarão os teus dias de aflição.
+[21] Teu povo são todos os justos;
+eles herdarão a terra para sempre,
+são rebento de minha plantação,
+obra de minha mão para me glorificar.
+[22] O menor deles se desdobrará em mil,
+e o mais humilde numa nação forte.
+Eu, o Senhor, a seu tempo, tudo farei rapidamente.
+
+@secao Responsório | Is 60,1.3
+
+@responsorio
+R. Põe-te em pé, resplandece,
+Jerusalém, porque a tua luz é chegada,
+* A glória do Senhor raia sobre ti.
+V. As nações caminharão na tua luz,
+e os reis, no clarão do teu sol nascente.
+* A glória do Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre os Salmos, de Santo Hilário de Poitiers, bispo
+{(Séc. IV)} {(Tract. in Ps 66,3-5: CSEL 22,271-273)}
+
+@tema
+Que todos os povos vos louvem, ó Deus
+
+@texto
+_Deus tenha piedade de nós_, _fazendo sua face brilhar_ _sobre nós_ (Sl 66,2). Precisamos da bênção de Deus, para que a sua face nos ilumine e a luz do seu conhecimento irradie em nossos corações tenebrosos, para que o espírito de sua majestade dissipe a obscuridade da nossa inteligência e, enfim, possamos dar-lhe glória, dizendo: _Senhor, levanta_ _sobre nós a luz da tua face_ (Sl 4,7). Esta iluminação da sua face sobre nós é dom de sua misericórdia, que começou com a remissão de nossos pecados. A citação seguinte nos mostra qual o motivo por que rogamos a iluminação da face de Deus sobre nós.
+_Para que se conheça o teu caminho sobre a terra, em todas_ _as nações a tua salvação_ (Sl 66,3). Segundo a verdadeira tradução do texto grego, pede-se a iluminação pela face de Deus para que na terra se torne conhecido o caminho de Deus, que é a doutrina da vida de fé, pela qual se vai a Deus. E a doutrina da vida de fé é Cristo, como ele mostrou nos Evangelhos, dizendo: _Eu sou o caminho, a verdade e a vida_. E de novo: _Ninguém vem ao Pai a não ser por mim_ (Jo 14,6).
+Que Jesus significa salvação, seu próprio nome o diz. Pois o que para nós é salvação, em hebraico se diz _Jesus_. Confirma-o a palavra do anjo a José, falando de Maria: _Ela dará à luz um filho e tu o chamarás com o nome de_ _Jesus, pois ele salvará o seu povo dos seus pecados_ (Mt 1,21). Assim pois, o anjo mostra que ele deve ser chamado Jesus por ser salvação para o povo. Mostram que só poderão compreender a pregação os que forem iluminados e brilharem no esplendor da face do Senhor. São também eles, segundo o Evangelho, _luz do mundo_ (Mt 5,14).
+O Senhor, porém, é a luz verdadeira, pela qual são iluminados os apóstolos e profetas para serem luz. A todo ensinamento profético e apostólico deve seguir-se o louvor dos povos e a alegria da remissão dos pecados. E, não só pela remissão dos pecados, mas também porque sabem que aquele que perdoa é o futuro juiz da justiça, e que por ele todos os povos da terra, abandonando o erro dos ídolos, são conduzidos e instruídos no conhecimento de Deus. Assim, pois, continua o salmo: _Que os povos te celebrem, ó Deus,_ _que os povos todos te celebrem. Que as nações se alegrem_ _e exultem, porque julgas os povos com retidão, e sobre a_ _terra governas as nações_ (Sl 66,4-5).
+Falando do louvor dos povos, o salmista parece designar os crentes atuais e futuros das doze tribos. Falando do louvor de todos os povos, não exclui nação alguma. Falando das nações que se alegram e exultam porque julga os povos com retidão e sobre a terra governa as nações, revela a causa da alegria, fruto da esperança no juízo eterno e do progresso das nações no caminho da vida.
+
+@secao Responsório | Sl 71,10-11
+
+@responsorio
+R. Os reis de Társis e das ilhas vão trazer-lhe ofertas.
+* Os reis da Arábia e de Sabá trarão seus dons ao Senhor Deus.
+V. Todos os reis se prostrarão diante dele,
+as nações todas o servirão.
+* Os reis da Arábia.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje revelastes o vosso Filho às nações, guiando-as pela estrela, concedei aos vossos servos, que já vos conhecem pela fé, contemplar-vos um dia face a face no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

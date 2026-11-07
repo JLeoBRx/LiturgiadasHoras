@@ -1,0 +1,87 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Curai-me, Senhor: eu pequei contra vós!
+
+@salmo salmos/salmo-040
+
+@gloria
+
+@antifona
+Curai-me, Senhor: eu pequei contra vós!
+
+@antifona 2
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@antifona 3
+. Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.

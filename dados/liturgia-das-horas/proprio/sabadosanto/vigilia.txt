@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sabadosanto_vigilia.htm
+@documento Vigília do Sábado Santo
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Do fundo do abismo, no meio da angústia,
+clamei ao Senhor e ele me ouviu.
+
+@salmo canticos/jr-14-17-21
+
+@gloria
+
+@salmo canticos/ez-36-24-28
+
+@gloria
+
+@salmo canticos/iii-lm-5-1-7-15-17-19-21
+
+@gloria
+
+@antifona
+Do fundo do abismo, no meio da angústia,
+clamei ao Senhor e ele me ouviu.
+
+@secao Evangelho
+
+@secao Mt 27,57-66
+
+@texto
+[57] Ao entardecer, veio um homem rico de Arimateia, chamado José, que também se tornara discípulo de Jesus. [58] Ele foi procurar Pilatos e pediu o corpo de Jesus. Então Pilatos mandou que lhe entregassem o corpo. [59] José, tomando o corpo, envolveu-o num lençol limpo, [60] e o colocou em um túmulo novo, que havia mandado escavar na rocha. Em seguida, rolou uma grande pedra para fechar a entrada do túmulo, e retirou-se. [61] Maria Madalena e a outra Maria estavam ali sentadas, diante do sepulcro.
+
+@texto
+[62] No dia seguinte, como era o dia depois da preparação para o sábado, os sumos-sacerdotes e os fariseus foram ter com Pilatos, [63] e disseram: “Senhor, nós nos lembramos de que quando este impostor ainda estava vivo, disse: ‘Depois de três dias eu ressuscitarei!’ [64] Portanto, manda guardar o sepulcro até ao terceiro dia, para não acontecer que os discípulos venham roubar o corpo e digam ao povo: ‘Ele ressuscitou dos mortos!’ pois essa última impostura seria pior do que a primeira.” [65] Pilatos respondeu: “Tendes uma guarda. Ide e guardai o sepulcro como melhor vos parecer.” [66] Então eles foram reforçar a segurança do sepulcro: lacraram a pedra e montaram guarda.
+
+@secao Ou, à escolha:
+
+@secao Mc 15,42-47
+
+@texto
+[42] Era o dia da preparação, isto é, a véspera do sábado, e já caíra a tarde. [43] Então, José de Arimateia, membro respeitável do Conselho, que também esperava o Reino de Deus, cheio de coragem, veio a Pilatos e pediu o corpo de Jesus. [44] Pilatos ficou admirado, quando soube que Jesus estava morto. Chamou o oficial do exército e perguntou se Jesus tinha morrido há muito tempo. [45] Informado pelo oficial, Pilatos entregou o corpo a José. [46] José comprou um lençol de linho, desceu o corpo da cruz e o envolveu no lençol. Depois colocou-o num túmulo, escavado na rocha, e rolou uma pedra à entrada do sepulcro. [47] Maria Madalena, e Maria, mãe de Joset, observavam onde Jesus foi colocado.
+
+@secao Ou, à escolha:
+
+@secao Lc 23,50-56
+
+@texto
+Naquele tempo: [50] Havia um homem bom e justo, chamado José, membro do Conselho, [51] o qual não tinha aprovado a decisão nem a ação dos outros membros. Ele era de Arimateia, uma cidade da Judeia, e esperava a vinda do Reino de Deus. [52] José foi ter com Pilatos e pediu o corpo de Jesus. [53] Desceu o corpo da cruz, enrolou-o num lençol e colocou-o num túmulo escavado na rocha, onde ninguém ainda tinha sido sepultado. [54] Era o dia da preparação da Páscoa, e o sábado já estava começando. [55] As mulheres, que tinham vindo da Galileia com Jesus, foram com José, para ver o túmulo e como o corpo de Jesus ali fora colocado. [56] Depois voltaram para casa e prepararam perfumes e bálsamos. E, no sábado, elas descansaram, conforme ordenava a Lei.

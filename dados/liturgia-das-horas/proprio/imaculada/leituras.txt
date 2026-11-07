@@ -1,0 +1,234 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/imaculada.htm
+@documento Ofício das Leituras - Imaculada Conceição Da Bem-Aventurada Virgem Maria Solenidade
+
+@celebracao
+IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA
+{Solenidade}
+
+@biografia
+Na Inglaterra e na Normandia já se celebrava no século XI uma festa da conceição de Maria; comemorava-se o acontecimento em si, apoiando-se sobretudo em sua condição miraculosa (esterilidade de Ana etc). Além desse aspecto, Santo Anselmo realçou a verdadeira grandeza do mistério que se realiza na concepção de Maria: sua preservação do pecado. Em 1439, o Concílio de Basileia considerou este mistério como uma verdade de fé, e Pio IX proclamou-o dogma em 1854
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantamos teus louvores,
+ó pura Mãe de Deus!
+Os hinos que entoamos
+se elevam até os céus.
+
+Do Adão terrestre filhos,
+nascemos para o mal;
+só tu cremos isenta
+da culpa original.
+
+Teus níveos pés esmagam
+as fauces do dragão,
+ó Virgem concebida
+em pura conceição.
+
+Florão da estirpe humana,
+que amparas todo réu:
+ajuda-nos na terra,
+conduze-nos ao céu.
+
+Esmaga a vil serpente,
+repele o tentador;
+contigo cantaremos
+as glórias do Senhor.
+
+Louvor e honra ao Deus trino,
+que tanto te amou,
+pois já antes do pecado
+da culpa te livrou!
+
+@secao Salmodia
+
+@antifona 1
+Maria, desde a sua conceição,
+foi bendita do Senhor entre as mulheres
+e escolhida por Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Maria, desde a sua conceição,
+foi bendita do Senhor entre as mulheres
+e escolhida por Deus, seu Salvador.
+
+@antifona 2
+Já bem antes da aurora o Senhor veio ajudá-la
+e preparou, em santidade, uma morada para si.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Já bem antes da aurora o Senhor veio ajudá-la
+e preparou, em santidade, uma morada para si.
+
+@antifona 3
+Dizem coisas gloriosas da Cidade do Senhor,
+pois foi Deus que a construiu sobre o monte de Sião.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas da Cidade do Senhor,
+pois foi Deus que a construiu sobre o monte de Sião.
+
+@texto
+V. O Senhor me revestiu de fortaleza
+R. E tornou o meu caminho sem pecado.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {5,12-21}
+
+@tema
+Onde se multiplicou o pecado, aí superabundou a graça
+
+@texto
+Irmãos: [12] O pecado entrou no mundo por um só homem. Através do pecado, entrou a morte. E a morte passou para todos os homens, porque todos pecaram... [13] Na realidade, antes de ser dada a Lei, já havia pecado no mundo. Mas o pecado não pode ser imputado, quando não há lei. [14] No entanto, a morte reinou, desde Adão até Moisés, mesmo sobre os que não pecaram como Adão, – o qual era figura provisória daquele que devia vir. [15] Mas isso não quer dizer que o dom da graça de Deus seja comparável à falta de Adão! A transgressão de um só levou a multidão humana à morte, mas foi de modo bem superior que a graça de Deus, ou seja, o dom gratuito concedido através de um só homem, Jesus Cristo, se derramou em abundância sobre todos. [16] Também, o dom é muito mais eficaz do que o pecado de um só. Pois a partir de um só pecado o julgamento resultou em condenação, mas o dom da graça frutifica em justificação a partir de inúmeras faltas. [17] Por um só homem, pela falta de um só homem, a morte começou a reinar. Muito mais reinarão na vida, pela mediação de um só, de Jesus Cristo, os que recebem o dom gratuito e superabundante da justiça. [18] Como a falta de um só acarretou condenação para todos os homens, assim o ato de justiça de um só trouxe, para todos os homens, a justificação que dá a vida. [19] Com efeito, como pela desobediência de um só homem a humanidade toda foi estabelecida numa situação de pecado, assim também, pela obediência de um só, toda a humanidade passará para uma situação de justiça. [20] Quanto à Lei, ela interveio para que se multiplicasse a transgressão. Porém, onde se multiplicou o pecado, aí superabundou a graça. [21] Enfim, como o pecado tem reinado pela morte, que a graça reine pela justiça, para a vida eterna, por Jesus Cristo, Senhor nosso.
+
+@secao Responsório | Rm 5,12; Lc 1,30; cf. Sl 114(116 A),8; 17(18),19
+
+@responsorio
+R. Por um homem entrou o pecado no mundo;
+nele todos pecaram.
+* Não temais, ó Maria, agraciada por Deus!
+V. O Senhor libertou vossa vida da morte,
+e se fez protetor contra o vosso inimigo. * Não temais.
+
+@secao Segunda leitura
+
+@leitura
+Das Meditações de Santo Anselmo, bispo
+{(Séc. XII)} {(Oratio 52: PL 158, 955-956)}
+
+@tema
+Ó Virgem, pela tua bênção é abençoada a criação inteira!
+
+@texto
+O céu e as estrelas, a terra e os rios, o dia e a noite, e tudo quanto obedece ou serve aos homens, congratulam-se, ó Senhora, porque a beleza perdida foi por ti de certo modo ressuscitada e dotada de uma graça nova e inefável. Todas as coisas pareciam mortas, ao perderem sua dignidade original que é de estar em poder e a serviço dos que louvam a Deus. Para isto é que foram criadas. Estavam oprimidas e desfiguradas pelo mau uso que delas faziam os idólatras, para os quais não haviam sido criadas. Agora, porém, como que ressuscitadas, alegram-se pois são governadas pelo poder e embelezadas pelo uso dos que louvam a Deus. Perante esta nova e inestimável graça, todas as coisas exultam de alegria ao sentirem que Deus, seu Criador, não apenas as governa invisivelmente lá do alto, mas também está visivelmente nelas, santificando-as com o uso que delas faz. Tão grandes bens procedem do bendito fruto do sagrado seio da Virgem Maria. Pela plenitude da tua graça, aqueles que estavam na mansão dos mortos alegram-se, agora libertos; e os que estavam acima do céu rejubilam-se renovados. Com efeito, pelo Filho glorioso de tua gloriosa virgindade todos os justos que morreram antes da sua morte vivificante, exultam pelo fim de seu cativeiro, e os anjos se congratulam pela restauração de sua cidade quase em ruínas. Ó mulher cheia e mais que cheia de graça, o transbordamento de tua plenitude faz renascer toda criatura! Ó Virgem bendita e mais que bendita, pela tua bênção é abençoada toda a natureza, não só as coisas criadas pelo Criador, mas também o Criador pela criatura! Deus deu a Maria o seu próprio Filho, único gerado de seu coração, igual a si, a quem amava como a si mesmo. No seio de Maria, formou seu Filho, não outro qualquer, mas o mesmo, para que, por natureza, fosse realmente um só e o mesmo Filho de Deus e de Maria! Toda a criação é obra de Deus, e Deus nasceu de Maria. Deus criou todas as coisas, e Maria deu à luz Deus! Deus que tudo fez, formou-se a si próprio no seio de Maria. E deste modo refez tudo o que tinha feito. Ele que pode fazer tudo do nada, não quis refazer sem Maria o que fora profanado. Por conseguinte, Deus é o Pai das coisas criadas, e Maria a mãe das coisas recriadas. Deus é o Pai da criação universal, e Maria a mãe da redenção universal. Pois Deus gerou aquele por quem tudo foi feito, e Maria deu à luz aquele por quem tudo foi salvo. Deus gerou aquele sem o qual nada absolutamente existe, e Maria deu à luz aquele sem o qual nada absolutamente é bom. Verdadeiramente o Senhor é contigo, pois quis que toda a natureza reconheça que deve a ti, juntamente com ele, tão grande benefício.
+
+@secao Responsório | Sl 33(34),4; 85(86),13; Lc 1,48
+
+@responsorio
+R. Comigo engrandecei o Senhor Deus:
+* Pois seu amor foi sem limites para mim.
+V. As gerações hão de chamar-me de bendita. * Pois seu amor.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

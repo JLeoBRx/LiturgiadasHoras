@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/estevaodahungria_laudes.htm
+@documento Laudes - Santo Estêvão da Hungria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Jesus, coroa celeste,
+Jesus, verdade sem véu,
+ao servo que hoje cantamos
+destes o prêmio do céu.
+
+Dai que por nós interceda
+em fraternal comunhão,
+e nossas faltas consigam
+misericórdia e perdão.
+
+Bens e honrarias da terra
+sem valor ele julgou;
+vãs alegrias deixando,
+só as do céu abraçou.
+
+Que sois, Jesus, Rei supremo,
+jamais cessou de afirmar;
+com seu fiel testemunho
+soube o demônio esmagar.
+
+Cheio de fé e virtude,
+os seus instintos domou,
+e a recompensa divina,
+servo fiel, conquistou.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+ao celebrarmos o servo
+de quem Jesus é o Senhor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@antifona 2
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@antifona 3
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem pratica a verdade, se põe junto à luz;
+e suas obras de filho de Deus se revelam.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem pratica a verdade, se põe junto à luz;
+e suas obras de filho de Deus se revelam.
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei à vossa Igreja a gloriosa proteção de Santo Estêvão, rei da Hungria, que propagou o vosso Evangelho quando reinava na terra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

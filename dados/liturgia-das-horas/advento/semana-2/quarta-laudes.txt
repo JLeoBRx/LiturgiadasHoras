@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2quarta_laudes.htm
+@documento Laudes - II Quarta-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@antifona 2
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@antifona 3
+Deus é Rei! Exulte a terra de alegria! †
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Deus é Rei! Exulte a terra de alegria!
+
+@secao Leitura breve | Is 7,14b-15
+
+@texto
+Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; ele se alimentará de manteiga e mel até quando aprender a fugir do mal e a procurar o bem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça. R. O Senhor.
+V. Ele voltou seu olhar para ti: realizou toda a sua esperança.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sobre o trono de Davi o Messias reinará eternamente. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sobre o trono de Davi o Messias reinará eternamente. Aleluia.
+
+@secao Preces
+
+@preces
+Supliquemos, irmãos caríssimos, a nosso Senhor Jesus Cristo, que em sua misericórdia vem nos visitar; e alegres repitamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Vós, que viestes do seio do Pai para vos revestirdes da nossa carne mortal,
+– livrai de toda mancha do pecado a nossa natureza enfraquecida. R.
+
+Vós, que, quando vierdes, havereis de manifestar vossa glória nos eleitos,
+– mostrai agora, neste advento, a vossa clemência e bondade para com os pecadores. R.
+
+Senhor Jesus Cristo, a alegria de nossa alma é vos louvar;
+– visitai-nos com a vossa salvação. R.
+
+Vós, que iluminastes os caminhos de nossa vida com a luz da fé,
+– fazei que sempre vos agrademos pelas obras de justiça e fidelidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que nos mandais preparar o caminho do Cristo Senhor, fazei que, confortados pela presença do divino médico, nenhuma fraqueza possa abater-nos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

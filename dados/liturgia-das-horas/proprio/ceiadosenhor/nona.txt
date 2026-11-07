@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ceiadosenhor_nona.htm
+@documento Hora Média - Ceia do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora, morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+Amor que os sustém,
+protejam sua Igreja
+agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@salmo salmos/salmo-118-65-72
+
+@gloria
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@secao Leitura breve | Hb 9,11-12
+
+@texto
+Cristo veio como sumo-sacerdote dos bens futuros. Através de uma tenda maior e mais perfeita, que não é obra de mãos humanas, isto é, que não faz parte desta criação, e não com o sangue de bodes e bezerros, mas com o seu próprio sangue, ele entrou no Santuário uma vez por todas, obtendo uma redenção eterna.
+
+@texto
+V. Veneremos o sinal da santa cruz,
+R. Pela qual a salvação veio até nós.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, amar-vos acima de tudo é ser perfeito; multiplicai em nós a vossa graça e concedei, aos que firmamos nossa esperança na morte do vosso Filho, alcançarmos por sua ressurreição aqueles bens que na fé buscamos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

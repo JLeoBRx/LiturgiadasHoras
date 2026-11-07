@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/2segundaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 25,11-12
+@texto
+Salvai-me, Senhor, e tende compaixão de mim!
+Meu pé está firme no caminho reto,
+nas assembleias bendirei ao Senhor.
+
+@secao Coleta
+@texto
+Ó Deus, que para nossa salvação
+nos ordenais a prática da mortificação,
+concedei que possamos evitar todo pecado
+e cumprir de coração os mandamentos do vosso amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei benigno, Senhor, as nossas preces
+e preservai das seduções do mundo
+os que chamais a celebrar os vossos mistérios.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 6,36
+@texto
+Sede misericordiosos, diz o Senhor,
+como vosso Pai é misericordioso.
+
+@secao Depois da comunhão
+@texto
+Esta comunhão, Senhor,
+nos purifique do pecado
+e nos faça participar
+da alegria celestial.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Confirmai, Senhor, nós vos pedimos,
+os corações dos vossos fiéis
+e fortalecei-os com a vossa graça,
+para que sejam devotos na súplica
+e sinceros no amor mútuo.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,52 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 18º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Uma grande multidão estava com Jesus,
+e não tinha o que comer.
+Ele disse aos seus discípulos:
+Tenho pena deste povo!
+
+@antifona vesperas-i-B
+Trabalhai, não pelo pão que é perecível,
+mas por aquele que perdura eternamente.
+
+@antifona vesperas-i-C
+Precavei-vos da avareza,
+pois não é no muito ter que salvais a vossa vida.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O Senhor, com cinco pães e com dois peixes,
+saciou as quase cinco mil pessoas.
+
+@antifona laudes-B
+Em verdade eu vos digo:
+Não foi Moisés que deu outrora
+aquele pão que vem do céu,
+porém meu Pai é quem vos dá
+o verdadeiro pão do céu.
+
+@antifona laudes-C
+Ajuntai vosso tesouro no céu, diz o Senhor,
+onde a traça e a ferrugem
+não estragam nem corroem.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Todos comeram e ficaram saciados
+e ainda recolheram doze cestos,
+repletos dos pedaços que sobraram.
+
+@antifona vesperas-ii-B
+Eu sou o pão da vida, diz Jesus.
+Quem vem a mim, nunca mais há de ter fome;
+quem crê em mim, nunca mais há de ter sede.
+
+@antifona vesperas-ii-C
+Irmãos, se quereis realmente ser ricos,
+amai as riquezas que são verdadeiras.

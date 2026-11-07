@@ -1,0 +1,285 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santasmulheres_leituras.htm
+@documento Ofício das Leituras - Comum Das Santas Mulheres Invitatório
+
+@celebracao
+COMUM DAS SANTAS MULHERES Invitatório
+
+@biografia
+R. Adoremos o Senhor, admirável nos seus santos. Ou: R. Na festa de santa N., celebremos o Senhor! Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). –1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! –2 Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) –3 Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. –4 Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; –5 o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) –6 Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! =7 Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) =8 Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9 como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) =10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém. R. Adoremos o Senhor, admirável nos seus santos. Ou: R. Na festa de santa N., celebremos o Senhor!
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Para uma santa mulher:
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+Para várias santas mulheres:
+Estas louváveis mulheres,
+por suas obras honradas,
+já com os anjos triunfam
+pelas virtudes ornadas.
+
+A Deus oravam com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiéis à santa oração.
+
+Do mundo a glória pisaram,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiram além.
+
+Em sua casa fizeram
+brilhar as santas ações.
+Seu prêmio agora recebem
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces das santas,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,1-17}
+
+@tema
+A vossa vida está escondida, com Cristo, em Deus
+
+@texto
+Irmãos: [1] Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; [2] aspirai às coisas celestes e não às coisas terrestres. [3] Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. [4] Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória. [5] Portanto, fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e da sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto, selvagem, escravo e livre, mas Cristo é tudo em todos. [12] Vós sois amados por Deus, sois os seus santos eleitos.Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. [16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. [17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@secao Responsório | Gl 3,27-28; Ef 4,24
+
+@responsorio
+R. No Cristo batizados, revestimo-nos de Cristo.
+Já não há judeu nem grego,
+* Todos nós somos um só em Jesus Cristo, Senhor nosso.
+V. Revesti-vos do homem novo que, à imagem do Senhor,
+foi criado na justiça e santidade verdadeira. * Todos nós.
+{Ou:} Da Carta de São Paulo aos Romanos 12,1-21 {_A vida cristã é culto espiritual_} 1Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual.2Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.3Pela graça que me foi dada, recomendo a cada um de vós: Ninguém faça de si uma ideia muito elevada, mas tenha de si uma justa estima ditada pela sabedoria, conforme a medida da fé que Deus repartiu a cada um.4Como, num só corpo, temos muitos membros, cada qual com uma função diferente,5assim nós, embora muitos, somos em Cristo um só corpo e todos membros uns dos outros.6Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé;7se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino;8se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria.9O amor seja sincero. Detestai o mal, apegai-vos ao bem.10Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas.11Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor,12alegres por causa da esperança, fortes nas tribulações, perseverantes na oração.13Socorrei os santos em suas necessidades, persisti na prática da hospitalidade.14Abençoai os que vos perseguem, abençoai e não amaldiçoeis.15Alegrai-vos com os que se alegram, chorai com os que choram.16Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes. Não presumais de vossa sabedoria.17Não pagueis a ninguém o mal com o mal. Antecipai-vos na prática do bem perante todos.18Na medida do possível e enquanto depender de vós, vivei em paz com todo o mundo.19Caríssimos, não vos vingueis de ninguém. Porém, confiai vossas questões à justiça divina. Pois está escrito: “É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor –”.20Mas, se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Procedendo assim, estarás amontoando brasas em cima de sua cabeça.211Não te deixes vencer pelo mal, mas vence o mal com o bem.
+{Responsório Rm 12,2; Ef 4,23-24}
+R. Renovai a vossa mente,
+* A fim de discernirdes a vontade do Senhor,
+aquilo que é bom, agradável e perfeito.
+V. Renovai-vos, transformando
+vossa mente e vosso espírito;
+revesti-vos do homem novo.* A fim.
+{Ou:} {Para um santo que viveu no Matrimônio:} Do Livro dos Provérbios 31,10-31
+{A mulher que teme a Deus} 10Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias. 11Seu marido confia nela plenamente, e não terá falta de recursos. 12Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida. 13Procura lã e linho, e com habilidade trabalham as suas mãos. 14É semelhante ao navio do mercador que importa de longe a provisão. 15Ela se levanta, ainda de noite, para alimentar a família e dar ordens às empregadas. 16Examina um terreno e o compra, e como ganho das suas mãos planta uma vinha. 17Cinge a cintura com firmeza, e redobra a força dos seus braços. 18Sabe que os negócios vão bem, e de noite sua lâmpada não se apaga. 19Estende a mão para a roca e seus dedos seguram o fuso. 20Abre suas mãos ao necessitado e estende suas mãos ao pobre. 21Se neva, não teme pela casa, porque todos os criados vestem roupas forradas. 22Tece roupas para o seu uso, e veste-se de linho e púrpura. 23Seu marido é respeitado, no tribunal, quando se assenta entre os anciãos da cidade. 24Fabrica tecidos para vender, e fornece cinturões ao comerciante. 25Fortaleza e dignidade são seus adornos e sorri diante do futuro. 26Abre a boca com sabedoria, e sua língua ensina com bondade. 27Supervisiona o andamento da sua casa, e não come o pão na ociosidade. 28Seus filhos levantam-se para felicitá-la, seu marido, para fazer-lhe elogios: 29“Muitas mulheres são fortes, tu, porém, a todas ultrapassas!” 30O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa sim, merece louvor. 31Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras! {Responsório Cf. Pr 31,17.18; cf. Sl 45(46),6} R. Eis aqui a mulher que é perfeita, revestida da força de Deus. * Sua luz não se apaga de noite. V. O Senhor a sustenta com a luz de sua face. Quem a pode abalar? Deus está junto a ela. * Sua luz.
+{Ou, outra para uma santa que viveu no Matrimônio:}
+Da Primeira Carta de São Pedro 3,1-6.8-17
+_Santificai em vossos corações o Senhor Jesus Cristo_
+1Esposas, submetei-vos aos vossos maridos. Assim, os que ainda não obedecem à Palavra poderão ser conquistados, mesmo sem discursos, pelo comportamento de suas esposas, 2ao observarem a sua conduta casta e respeitosa. 3O vosso adorno não consista em coisas externas, tais como cabelos trançados, joias de ouro, vestidos luxuosos, 4mas na personalidade que se esconde no vosso coração, marcada pela estabilidade de um espírito suave e sereno, coisa preciosa diante de Deus. 5Era assim que se adornavam, outrora, as santas mulheres que colocavam sua esperança em Deus: eram submissas aos seus maridos. 6Deste modo, Sara obedeceu a Abraão chamando-o seu senhor. Vós vos tornareis filhas de Sara, se praticardes o bem, sem vos deixardes intimidar por ninguém.
+8Finalmente, sede todos unânimes, compassivos, fraternos, misericordiosos e humildes. 9Não pagueis o mal com o mal, nem ofensa com ofensa. Ao contrário, abençoai, porque para isto fostes chamados: para serdes herdeiros da bênção.
+10De fato, quem quer amar a vida
+e ver dias felizes,
+guarde a sua língua do mal
+e seus lábios de falar mentiras.
+11Afaste-se do mal e faça o bem,
+busque a paz e procure segui-la.
+12Pois os olhos do Senhor repousam nos justos
+e seus ouvidos estão atentos à sua prece,
+mas o rosto do Senhor volta-se contra os malfeitores.
+13Ora, quem é que vos fará mal, se vos esforçais para fazer o bem? 14Mas também, se tiverdes que sofrer por causa da justiça, sereis felizes. Não tenhais medo de suas intimidações, nem vos deixeis perturbar. 15Antes, santificai em vossos corações o Senhor Jesus Cristo, e estai sempre prontos a dar razão da vossa esperança a todo aquele que vo-la pedir. 16Fazei-o, porém, com mansidão e respeito e com boa consciência. Então, se em alguma coisa fordes difamados, ficarão com vergonha aqueles que ultrajam o vosso bom procedimento em Cristo. 17Pois será melhor sofrer praticando o bem, se esta for a vontade de Deus, do que praticando o mal.
+{Responsório Fl 2,2.3.4; 1Ts 5,14-15}
+R. Tende amor, considerando cada um
+aos outros superiores a si mesmo.
+* Não cuidando cada um só daquilo que é seu,
+mas também do que é dos outros.
+V. Amparai os que são fracos, sede com todos pacientes,
+buscai constantemente o bem dos outros e de todos.
+* Não cuidando.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre os Atos dos Apóstolos, de São João Crisóstomo, bispo
+
+@tema
+(Homilia 20,4: PG 60,162-164) (Séc. IV) A luz do cristão não pode permanecer escondida
+
+@texto
+Nada mais frio do que um cristão que não se preocupa com a salvação dos outros.
+
+Não podes, aqui, alegar tua pobreza, pois aquela viúva que deu ao templo as duas pequenas moedas te acusaria. Também Pedro dizia: Não tenho ouro nem prata (At 3,6). E Paulo era tão pobre que muitas vezes passou fome e lhe faltava o alimento necessário.
+
+Não podes justificar-te por tua condição humilde, pois esses dois apóstolos também eram humildes, de origem modesta. Não podes pretextar ignorância, pois eles também não eram letrados. Não podes objetar ser doente; também Timóteo poderia fazer o mesmo, pois sofria de frequentes enfermidades.
+
+Cada um de nós tem a possibilidade de ajudar ao próximo, se quiser cumprir os seus deveres.
+
+Não vedes como as árvores que não produzem frutos são vigorosas, bonitas, copadas, esbeltas e altas? No entanto, se tivéssemos um pomar, preferiríamos, em vez delas, romãzeiras e oliveiras carregadas. Aquelas árvores estão no jardim para ornamento, não para alimento; e se rendem alguma coisa, é pouco.
+
+Assim são as pessoas que só se interessam pelo que é seu. Nem sequer podem comparar-se com estas últimas árvores, mas só merecem censura; ao passo que as árvores sem fruto servem para a construção e o reparo das coisas. Semelhantes a elas eram as virgens imprudentes da parábola: castas, belas e disciplinadas; mas não eram úteis a ninguém e foram lançadas ao fogo. Assim acontece também aos que não alimentam o Corpo de Cristo.
+
+Repara que nenhum deles é acusado de pecado como impureza, juramento falso ou qualquer culpa, mas só de não ter ajudado ninguém. Tal era aquele que enterrou o talento recebido: levou vida irrepreensível, mas não foi útil aos outros.
+
+Como, pergunto eu, pode ser cristão um homem desses? Se o fermento, misturado à farinha, não fizer crescer a massa, terá sido fermento verdadeiro? Se o perfume não espalhar sua fragrância, ainda o chamaremos perfume?
+
+Não digas que és incapaz de influenciar os outros. Se fores cristão, é impossível que não o faças! Se não há contradições na natureza, também é certo o que afirmamos: é natural que o cristão exerça influência sobre seus semelhantes.
+
+Não ofendas a Deus. Se disseres que o sol não é capaz de brilhar, injurias; se disseres que um cristão não pode ser útil a ninguém, é a Deus que ofendes e o chamas mentiroso. Pois, é mais fácil o sol deixar de aquecer ou brilhar que um cristão não irradiar a sua luz; ou a luz se transformar em trevas.
+
+Não digas ser impossível o que é possível. Não ofendas a Deus. Se orientarmos bem a nossa vida, tudo o que dissemos acontecerá normalmente. A luz do cristão não pode permanecer escondida. Não pode ocultar-se lâmpada tão luminosa.
+
+@secao Responsório | Ef 5,8-9; Mt 5,14.16
+
+@responsorio
+R. Vós, agora, sois luz no Senhor;
+caminhai como filhos da luz.
+* São frutos da luz toda espécie de bondade,
+justiça e verdade.
+V. Vós sois a luz do mundo: brilhe aos homens vossa luz.
+* São frutos.
+{Ou:}
+Dos Sermões de Santo Agostinho, bispo
+{(Sermão 96,1.4.9: PL 38,584.586.588)}
+{(Séc. V)}
+{_A vocação universal à santidade_}
+Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga (Mt 16,24). Parece dura e pesada a ordem do Senhor: quem quiser segui-lo, tem de renunciar a si mesmo. Mas não é duro nem pesado o que ordena, pois ele próprio nos ajuda a cumprir seu preceito.
+Como é verdade o que lhe dizem no salmo: Seguindo as palavras de vossos lábios, percorri duros caminhos (Sl 16,4), também é verdade o que ele nos disse: O meu jugo é suave e o meu fardo leve (Mt 11,30). A caridade torna leve tudo quanto é duro no preceito.
+Que significa: Tome a sua cruz? Quer dizer: suporte tudo o que custa, e então me siga. Na verdade, quem começar a seguir meus exemplos e preceitos, encontrará muitos que o critiquem, que o impeçam, que tentem dissuadi-lo, mesmo entre os que parecem discípulos de Cristo. Andavam com Cristo os que proibiam os cegos de clamar por ele. Tu, portanto, no meio de ameaças, de carinhos ou proibições, sejam quais forem, se quiseres seguir a Cristo, transforma tudo em cruz: suporta, carrega e não sucumbas!
+Estamos num mundo santo, bom, reconciliado, salvo, ou melhor, em vias de salvação, mas desde já salvo em esperança – pois já fomos salvos, mas na esperança (Rm 8,24) –. Com efeito, neste mundo, que é a Igreja, seguidora fiel de Cristo, disse ele a todos: Se alguém quer me seguir, renuncie a si mesmo (Mt 16,24).
+Esta palavra não deve ser ouvida como dirigida apenas às virgens e não às esposas; nem só para as viúvas e não para as casadas; nem só para os monges e não para os maridos; nem só para os clérigos e não para os leigos. Pois toda a Igreja, todo o corpo, todos os seus membros, diferentes e distribuídos segundo suas próprias tarefas, devem seguir o Cristo.
+Siga-o toda a Igreja que é uma só, siga-o a pomba, siga-o a esposa, redimida e dotada pelo sangue do Esposo. Nela encontra lugar tanto a integridade das virgens como a castidade das viúvas e o pudor dos casais.
+Estes membros, que nela encontram seu lugar, sigam o Cristo, cada um segundo a sua vocação, posição ou medida. Renunciem a si mesmos, isto é, não se vangloriem; tomem a sua cruz, quer dizer, suportem no mundo, por amor de Cristo, tudo o que lançarem contra eles. Amem o único que não ilude, o único que não é enganado nem engana; amem-no, porque é verdade aquilo que promete. Como suas promessas tardam, a fé vacila. Mas sê constante, perseverante, paciente, suporta a demora, e terás tomado a cruz.
+{Responsório}
+R. Este santo realizou grandes prodígios
+na presença do Senhor e dos irmãos
+e de todo o coração louvou a Deus.
+* Que ele peça junto a Deus por nossas culpas.
+V. Tributou a Deus um culto verdadeiro,
+no bem permaneceu, fugiu do mal. * Que ele.
+{Ou, outra para uma santa que viveu no Matrimônio:}Da Alocução do papa Pio XII a um grupo de recém-casados
+{(Discorsi e Radiomessaggi, 11 mart. 1942: 3,385-390)}
+(Séc. XX)
+_A esposa, o sol da família_
+A família tem o brilho de um sol que lhe é próprio: a esposa. Ouvi o que a Sagrada Escritura afirma e sente a respeito dela: A graça da mulher dedicada é a delícia do marido. Mulher santa e pudica é graça primorosa. Como o sol que se levanta nas alturas do Senhor, assim o encanto da boa esposa na casa bem-ordenada (Eclo 26,16.19.21).
+Realmente, a esposa e mãe é o sol da família. É sol por sua generosidade e dedicação, pela disponibilidade constante e pela delicadeza e atenção em relação a tudo quanto possa tornar agradável a vida do marido e dos filhos. Irradia luz e calor do espírito. Costuma-se dizer que a vida de um casal será harmoniosa quando cada cônjuge, desde o começo, procura não a sua felicidade, mas a do outro. Todavia, este nobre sentimento e propósito, embora pertença a ambos, constitui principalmente uma virtude da mulher. Por natureza, ela é dotada de sentimentos maternos e de uma sabedoria e prudência de coração que a faz responder com alegria às contrariedades; quando ofendida, inspira dignidade e respeito, à semelhança do sol que ao raiar alegra a manhã coberta pelo nevoeiro e, quando se põe, tinge as nuvens com seus raios dourados.
+A esposa é o sol da família pela limpidez do seu olhar e o calor da sua palavra. Com seu olhar e sua palavra penetra suavemente nas almas, acalmando-as e conseguindo afastá-las do tumulto das paixões. Traz o marido de volta à alegria do convívio familiar e lhe restitui a boa disposição, depois de um dia de trabalho ininterrupto e muitas vezes esgotante, seja nos escritórios ou no campo, ou ainda nas absorventes atividades do comércio ou da indústria.
+A esposa é o sol da família por sua natural e serena sinceridade, sua digna simplicidade, seu distinto porte cristão; e ainda pela retidão do espírito, sem dissipação, e pela fina compostura com que se apresenta, veste e adorna, mostrando-se ao mesmo tempo reservada e amável. Sentimentos delicados, agradáveis expressões do rosto, silêncio e sorriso sem malícia e um condescendente sinal de cabeça: tudo isso lhe dá a beleza de uma flor rara mas simples que, ao desabrochar, se abre para receber e refletir as cores do sol.
+Ah, se pudésseis compreender como são profundos os sentimentos de amor e de gratidão que desperta e grava no coração do pai e dos filhos semelhante perfil de esposa e de mãe!
+{Responsório Eclo 26,16.19.21}
+R. A graça da mulher, que é dedicada, alegra o seu marido.
+* Graça sobre graça é a mulher, que é sensata e virtuosa.
+V. Como o sol que se levanta no horizonte
+e refulge nas alturas,
+assim são as virtudes da mulher,
+ornamento de sua casa. * Graça.
+
+@secao Oração
+
+@oracao
+Não havendo oração própria, diz-se uma das seguintes:
+Ó Deus, que nos alegrais cada ano com a festa de santa N., fazei-nos, venerando sua memória, seguir o exemplo de sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Concedei-nos, ó Deus, a sabedoria e o amor que inspirastes à vossa filha santa {N.}, para que, seguindo seu exemplo de fidelidade, nos dediquemos ao vosso serviço, e vos agrademos pela fé e pelas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para várias santas mulheres:
+
+@texto
+Ó Deus todo-poderoso, pelas preces das santas {N.} e {N.}, que nos deixaram em suas vidas um exemplo admirável, concedei-nos os auxílios celestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa religiosa:
+
+@texto
+Ó Deus, concedei-nos pelas preces de santa {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa que se dedicou às obras de caridade:
+
+@texto
+Ó Pai, como ensinastes à vossa Igreja que todos os mandamentos se resumem em amar a Deus e ao próximo, concedei-nos, a exemplo de santa {N.}, praticar obras de caridade, para sermos contados entre os benditos do vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa educadora:
+
+@texto
+Ó Deus, que suscitastes santa {N.} na vossa Igreja para mostrar ao próximo o caminho da salvação, concedei-nos seguir também o Cristo, nosso Mestre, e chegar até vós com nossos irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

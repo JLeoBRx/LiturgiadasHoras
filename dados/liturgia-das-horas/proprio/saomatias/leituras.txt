@@ -1,0 +1,243 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saomatias.htm
+@documento Ofício das Leituras - São Matias, Apóstolo Festa
+
+@celebracao
+SÃO MATIAS, APÓSTOLO
+{Festa}
+
+@biografia
+Foi escolhido para completar o grupo dos Doze,em substituição de Judas, para ser, como os outros Apóstolos, testemunha da ressurreição do Senhor,como se lê nos Atos dos Apóstolos (1,15-26).
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+São Matias, és agora
+testemunha do Senhor,
+como apóstolo chamado
+em lugar do traidor.
+
+Do perdão de Deus descrendo,
+Judas veio a se enforcar;
+como o salmo anunciara,
+passe a outro o seu lugar.
+
+Por proposta de São Pedro,
+que preside à reunião,
+lançam sorte, e eis teu nome!
+Quão sublime vocação!
+
+E a tal ponto te consagras
+em levar ao mundo a luz,
+que proclamas com teu sangue
+o Evangelho de Jesus.
+
+Dá que todos nesta vida
+percorramos com amor
+o caminho revelado
+pela graça do Senhor.
+
+Uno e Trino, Deus derrame
+sobre nós a sua luz:
+conquistemos a coroa,
+abraçando a nossa cruz!
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo. Aleluia.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo. Aleluia.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios. Aleluia.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios. Aleluia.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória. Aleluia.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória. Aleluia.
+
+@texto
+V. O Senhor dá a palavra ao seu mensageiro. Aleluia.
+R. O Senhor dá a palavra com grande poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {5,12-32}
+
+@tema
+Os Apóstolos na Igreja nascente
+
+@texto
+Naqueles dias: [12] Muitos sinais e maravilhas eram realizados entre o povo pelas mãos dos apóstolos. Todos os fiéis se reuniam, com muita união, no Pórtico de Salomão. [13] Nenhum dos outros ousava juntar-se a eles, mas o povo estimava-os muito. [14] Crescia sempre mais o número dos que aderiam ao Senhor pela fé; era uma multidão de homens e mulheres. [15] Chegavam a transportar para as praças os doentes em camas e macas, a fim de que, quando Pedro passasse pelo menos a sua sombra tocasse alguns deles. [16] A multidão vinha até das cidades vizinhas de Jerusalém, trazendo doentes e pessoas atormentadas por maus espíritos. E todos eram curados. [17] Levantaram-se o sumo-sacerdote e todos os do seu partido - isto é, o partido dos saduceus - cheios de raiva [18] e mandaram prender os apóstolos e lançá-los na cadeia públi­ca. [19] Porém, durante a noite, o anjo do Senhor abriu as portas da prisão e os fez sair, dizendo: [20] "Ide falar ao povo, no Templo, sobre tudo o que se refere a este modo de viver". [21] Eles obedeceram e, ao amanhecer, entraram no Templo e começaram a ensinar.
+O sumo-sacerdote chegou com os seus partidários e convocou o Sinédrio e o Conselho formado pelas pessoas importantes do povo de Israel. Então mandaram buscar os apóstolos à prisão. [22] Mas, ao chegarem à prisão, os servos não os encontraram e voltaram dizendo: [23] "Encontramos a prisão fechada, com toda segurança, e os guardas estavam a postos na frente da porta. Mas, quando abrimos a porta, não encontramos ninguém lá dentro." [24] Ao ouvirem essa notícia, o chefe da guarda do Templo e os sumos-sacerdotes não sabiam o que pensar e perguntavam-se o que poderia ter acontecido. [25] Chegou alguém que lhes disse: "Os homens que vós colocastes na prisão estão no Templo ensinando o povo!" [26] Então o chefe da guarda do Templo saiu com os guardas e trouxe os apóstolos, mas sem violência, porque eles tinham medo que o povo os atacasse com pedras. [27] Eles levaram os apóstolos e os apresentaram ao Sinédrio. O sumo-sacerdote começou a interrogá-los, [28] dizendo: "Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus. Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina. E ainda nos quereis tornar res­ponsáveis pela morte desse homem!" [29] Então Pedro e os outros apóstolos responderam: "É preciso obedecer a Deus, antes que aos homens. [30] O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. [31] Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. [32] E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem".
+
+@secao Responsório | Cf. At 4,33.31 Cl
+
+@responsorio
+R. Com grande coragem, os Apóstolos
+testemunhavam a ressurreição
+de Nosso Senhor Jesus Cristo.
+* E tinham grande aceitação entre o povo. Aleluia.
+V. Repletos do Espírito Santo, confiantes, sem nada temer
+anunciavam a Palavra de Deus. * E tinham.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre os Atos dos Apóstolos, de São João Crisóstomo, bispo
+{(Séc.IV)} {(Hom. 3,1.2.3: PG 60,33-36.38)}
+
+@tema
+Mostra-nos, Senhor, quem escolheste
+
+@texto
+Naqueles dias, Pedro levantou-se no meio dos irmãos e disse (At 1,15). Pedro, a quem Cristo tinha confiado o rebanho, movido pelo fervor do seu zelo e porque era o primeiro do grupo apostólico, foi o primeiro a tomar a palavra: _Irmãos, é preciso escolher dentre nós_ (cf. At 1,22). Ouve a opinião de todos, a fim de que o escolhido seja bem aceito, evitando a inveja que poderia surgir. Pois, estas coisas, com frequência, são origem de grandes males.
+
+Mas Pedro não tinha autoridade para escolher por si só? É claro que tinha. Mas absteve-se, para não demonstrar favoritismo. Além disso, ainda não tinha recebido o Espírito Santo._Então eles apresentaram dois homens: José, chamado Barsabás, que tinha o apelido de Justo, e Matias_ (At 1,23). Não foi Pedro que os apresentou, mas todos. O que ele fez foi aconselhar esta eleição, mostrando que a iniciativa não era sua, mas fora anteriormente anunciada pela profecia. Sua intervenção nesse caso foi interpretar a profecia e não impor um preceito.
+
+E continua: _É preciso dentre os homens que nos acompanharam_ (cf. At 1,21-22). Repara como se empenha em que tenham sido testemunhas oculares; embora o Espírito Santo devesse ainda vir sobre eles, dá a isso grande importância._Dentre os homens que nos acompanharam durante todo o tempo em que o Senhor Jesus vivia no meio de nós, a começar pelo batismo de João_ (At 1,21-22). Refere-se àqueles que conviveram com Jesus, e não aos que eram apenas discípulos. De fato, eram muitos os que o seguiam desde o princípio. Vê como diz o evangelho: _Era um dos dois que ouviram as_ _palavras de João e seguiram Jesus (_Jo 1,40). Durante todo o tempo em que o Senhor Jesus vivia no meio de nós, a começar pelo batismo de João. Com razão assinala este ponto de partida, já que ninguém conhecia por experiência o que antes se passara, mas foram ensinados pelo Espírito Santo.
+_Até ao dia em que foi elevado ao céu. Agora, é preciso que um deles se junte a nós para ser testemunha da sua ressurreição_ (At 1,22). Não disse: “testemunha de tudo o mais”, porém, testemunha de sua ressurreição. Na verdade, seria mais digno de fé quem pudesse testemunhar: “Aquele que vimos comer e beber e que foi crucificado, foi esse que ressuscitou”. Não interessava ser testemunha do tempo anterior nem do seguinte nem dos milagres, mas simplesmente da ressurreição. Porque todos os outros fatos eram manifestos e públicos; só a ressurreição tinha acontecido secretamente e só eles a conheciam. E rezaram juntos, dizendo: _Senhor, tu conheces o coração de todos. Mostra-nos_ (At 1,24). Tu, nós não. Com acerto o invocam como aquele que conhece os corações, pois a eleição deveria ser feita por ele e não por mais ninguém. Assim falavam com toda a confiança, porque a eleição era absolutamente necessária. Não disseram: “Escolhe”, mas: _Mostra-nos_ _quem escolheste_ (At 1,24). Bem sabiam que tudo está predestinado por Deus. _Então_ _tiraram a sorte entre os dois_ (At 1,26). Ainda não se julgavam dignos de fazer por si mesmos a eleição; por isso, desejaram ser esclarecidos por algum sinal.
+
+@secao Responsório | At 1,24.25b.26
+
+@responsorio
+R. Ó Senhor, que conheceis o coração de cada um,
+* Mostrai quem escolhestes para, neste ministério
+e apostolado, ocupar o lugar que foi de Judas. Aleluia.
+V. Depois, lançaram sortes sobre os dois,
+vindo a sorte recair sobre Matias,
+que aos onze Apóstolos juntou-se, desde então.
+* Mostrai.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que associastes São Matias ao colégio apostólico, concedei por sua intercessão, que, fruindo da alegria de vosso amor, mereçamos ser contados entre os eleitos.Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

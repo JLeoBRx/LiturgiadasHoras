@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolourenco_nona.htm
+@documento Hora Média - São Lourenço
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chorando de tristeza, sairão
+espalhando suas sementes.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Chorando de tristeza, sairão
+espalhando suas sementes.
+
+@secao Leitura breve | Sb 3,1-2a.3b
+
+@texto
+A vida dos justos está nas mãos de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; mas eles estão em paz.
+
+@texto
+V. Cantando de alegria, voltarão,
+R. Carregando os seus feixes.
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso diácono Lourenço, inflamado de amor por vós, brilhou pela fidelidade no vosso serviço e pela glória do martírio; concedei-nos amar o que ele amou e praticar o que ensinou. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

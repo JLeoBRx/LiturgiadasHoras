@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quarta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@salmo salmos/salmo-118-105-112-xiv-nun-v2
+
+@gloria
+
+@antifona
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@antifona 2
+Quanto a mim, eu sou um pobre e infeliz,
+socorrei-me sem demora, ó meu Deus!
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@antifona
+Quanto a mim, eu sou um pobre e infeliz,
+socorrei-me sem demora, ó meu Deus!
+
+@antifona 3
+O Senhor não julgará pela aparência,
+mas com toda a justiça e equidade.
+
+@salmo salmos/salmo-074
+
+@gloria
+
+@antifona
+O Senhor não julgará pela aparência,
+mas com toda a justiça e equidade.
+
+@secao Leitura breve | 1Cor 13,4-7
+
+@texto
+A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor; não se alegra com a iniquidade, mas regozija-se com a verdade. Suporta tudo, crê tudo, espera tudo, desculpa tudo.
+
+@texto
+V. Exulte todo aquele que vos busca.
+R. E possa dizer sempre: Deus é grande!
+
+@secao Oração
+
+@oracao
+Senhor, nosso Pai, Deus santo e fiel, que enviastes o Espírito prometido por vosso Filho, para reunir os seres humanos divididos pelo pecado, fazei-nos promover no mundo os bens da unidade e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

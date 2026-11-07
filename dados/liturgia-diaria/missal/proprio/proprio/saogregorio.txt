@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saogregorio.htm
+
+@secao Antífona da entrada
+@texto
+São Gregório, elevado à Cátedra de Pedro,
+sempre buscava a face do Senhor
+e vivia na felicidade do seu amor.
+
+@secao Coleta
+@texto
+Ó Deus, que cuidais do vosso povo com bondade
+e o governais com amor,
+concedei, pela intercessão do papa São Gregório Magno,
+o espírito de sabedoria
+àqueles a quem confiastes o governo da vossa Igreja,
+a fim de que o progresso espiritual das ovelhas
+torne-se a alegria eterna dos pastores.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos
+que, na festa de São Gregório Magno,
+nos seja proveitoso este sacrifício
+por cuja imolação concedestes
+o perdão dos pecados do mundo inteiro.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 12,42
+@texto
+Servo fiel e prudente,
+a quem o Senhor confiou a sua família
+para dar-lhe na hora certa a sua porção de trigo.
+
+@secao Depois da comunhão
+@texto
+Senhor, instruí pelo Cristo Mestre
+aqueles que alimentais com o Cristo, pão da vida,
+para que, na celebração da memória de São Gregório Magno,
+aprendam a vossa verdade e a realizem pela caridade.
+Por Cristo, nosso Senhor.

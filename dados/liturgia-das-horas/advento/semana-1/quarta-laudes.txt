@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quarta_laudes.htm
+@documento Laudes - I Quarta-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Em vossa luz contemplamos a luz.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vossa luz contemplamos a luz.
+
+@antifona 2
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@salmo canticos/jt-16-1-2-13-15
+
+@gloria
+
+@antifona
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@antifona 3
+Gritai a Deus aclamações de alegria!
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@antifona
+Gritai a Deus aclamações de alegria!
+
+@secao Leitura breve | Is 7,14b-15
+
+@texto
+Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; ele se alimentará de manteiga e de mel até quando aprender a fugir do mal e a procurar o bem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele voltou seu olhar para ti: realizou toda a sua esperança.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Virá alguém depois de mim que é mais forte do que eu:
+não sou digno de servi-lo e desatar suas sandálias.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Virá alguém depois de mim que é mais forte do que eu:
+não sou digno de servi-lo e desatar suas sandálias.
+
+@secao Preces
+
+@preces
+Cristo, Palavra de Deus, quis habitar no meio de nós e revelar-nos a sua glória. Felizes com esta esperança, aclamemos:
+
+R. **Ficai conosco, Emanuel!**
+
+Príncipe justo e reto,
+– fazei justiça aos pobres e aos oprimidos. R.
+
+Rei pacífico, que das espadas fazeis arados e das lanças, foices,
+– ensinai-nos a transformar as invejas em amor e as ofensas em perdão. R.
+
+Vós que não julgais pela aparência,
+– confirmai na fidelidade perfeita aqueles que são vossos. R.
+
+Quando vierdes sobre as nuvens do céu com grande poder e glória
+– fazei-nos comparecer sem temor na vossa presença. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus, preparai os nossos corações com a força da vossa graça, para que, ao chegar o Cristo, vosso Filho, nos encontre dignos do banquete da vida eterna e ele mesmo nos sirva o alimento celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

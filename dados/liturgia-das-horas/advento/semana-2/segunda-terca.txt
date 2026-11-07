@@ -1,0 +1,72 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2segunda_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador!
+
+@secao VI (Vau)
+
+@salmo salmos/salmo-118-41-48
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Cf. Is 10,20-21
+
+@texto
+Acontecerá, naquele dia, que os remanescentes dos filhos de Israel e os fugitivos da casa de Jacó, em verdade, dependerão do Senhor, o Santo de Israel. Um resto voltará, o resto de Jacó, para o Deus poderoso.
+
+@texto
+V. As nações respeitarão o vosso nome.
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Cheguem à vossa presença, ó Deus, as nossas orações suplicantes, e possamos celebrar de coração puro o grande mistério da encarnação do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

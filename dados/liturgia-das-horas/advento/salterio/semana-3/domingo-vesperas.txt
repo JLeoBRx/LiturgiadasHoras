@@ -1,0 +1,54 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3domingo_vesperas.htm
+@documento II Vésperas - III Domingo do Advento
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem o Senhor junto a nós,
+para estar em seu trono de glória
+e assentar-se entre os chefes do povo.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Eis que vem o Senhor junto a nós,
+para estar em seu trono de glória
+e assentar-se entre os chefes do povo.
+
+@antifona 2
+Que os montes irrompam justiça e alegria:
+o Senhor, luz do mundo, com glória virá.
+
+@salmo salmos/salmo-110
+
+@gloria
+
+@antifona
+Que os montes irrompam justiça e alegria:
+o Senhor, luz do mundo, com glória virá.
+
+@antifona 3
+Na justiça e piedade vivamos,
+aguardando a bendita esperança
+e a vinda do Cristo Senhor.
+
+@salmo canticos/ap-19-1-2-5-7-v2
+
+@gloria
+
+@antifona
+Na justiça e piedade vivamos,
+aguardando a bendita esperança
+e a vinda do Cristo Senhor.
