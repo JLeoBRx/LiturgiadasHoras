@@ -1,0 +1,126 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sd45",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sd45_dom_xvi_post_pentecosten.pdf",
+ "titulo_no_pdf": "DOMINICA XVI POST PENTECOSTEN",
+ "paginas_do_pdf": 14,
+ "parte_preliminar": true,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": []
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1,
+      2,
+      3
+     ],
+     "notas": 45
+    },
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 0
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 5
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      4,
+      5,
+      6
+     ],
+     "notas": 16
+    },
+    {
+     "n": 5,
+     "paginas_do_pdf": [
+      6,
+      7
+     ],
+     "notas": 32
+    },
+    {
+     "n": 6,
+     "paginas_do_pdf": [
+      8
+     ],
+     "notas": 5
+    },
+    {
+     "n": 7,
+     "paginas_do_pdf": [
+      8
+     ],
+     "notas": 4
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragrafos": [
+    {
+     "n": 8,
+     "paginas_do_pdf": [
+      8,
+      9,
+      10
+     ],
+     "notas": 20
+    },
+    {
+     "n": 9,
+     "paginas_do_pdf": [
+      10
+     ],
+     "notas": 10
+    },
+    {
+     "n": 10,
+     "paginas_do_pdf": [
+      10,
+      11
+     ],
+     "notas": 6
+    },
+    {
+     "n": 11,
+     "paginas_do_pdf": [
+      11,
+      12
+     ],
+     "notas": 8
+    },
+    {
+     "n": 12,
+     "paginas_do_pdf": [
+      12,
+      13,
+      14
+     ],
+     "notas": 16
+    }
+   ]
+  }
+ ],
+ "notas": 170
+}

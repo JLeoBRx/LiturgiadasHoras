@@ -1,0 +1,169 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sd53",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sd53_dom_xxii_post_pentecosten.pdf",
+ "titulo_no_pdf": "DOMINICA XXII POST PENTECOSTEN",
+ "paginas_do_pdf": 15,
+ "parte_preliminar": true,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": []
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1,
+      2
+     ],
+     "notas": 15
+    },
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      2
+     ],
+     "notas": 0
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      2,
+      3,
+      4
+     ],
+     "notas": 35
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      4,
+      5
+     ],
+     "notas": 6
+    },
+    {
+     "n": 5,
+     "paginas_do_pdf": [
+      5
+     ],
+     "notas": 12
+    },
+    {
+     "n": 6,
+     "paginas_do_pdf": [
+      5,
+      6
+     ],
+     "notas": 10
+    },
+    {
+     "n": 7,
+     "paginas_do_pdf": [
+      6,
+      7
+     ],
+     "notas": 16
+    },
+    {
+     "n": 8,
+     "paginas_do_pdf": [
+      7,
+      8
+     ],
+     "notas": 12
+    },
+    {
+     "n": 9,
+     "paginas_do_pdf": [
+      8
+     ],
+     "notas": 9
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragrafos": [
+    {
+     "n": 10,
+     "paginas_do_pdf": [
+      8,
+      9
+     ],
+     "notas": 8
+    },
+    {
+     "n": 11,
+     "paginas_do_pdf": [
+      9,
+      10
+     ],
+     "notas": 20
+    },
+    {
+     "n": 12,
+     "paginas_do_pdf": [
+      10,
+      11
+     ],
+     "notas": 15
+    },
+    {
+     "n": 13,
+     "paginas_do_pdf": [
+      11,
+      12
+     ],
+     "notas": 13
+    },
+    {
+     "n": 14,
+     "paginas_do_pdf": [
+      12
+     ],
+     "notas": 12
+    },
+    {
+     "n": 15,
+     "paginas_do_pdf": [
+      12,
+      13
+     ],
+     "notas": 6
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paragrafos": [
+    {
+     "n": 16,
+     "paginas_do_pdf": [
+      13,
+      14
+     ],
+     "notas": 16
+    },
+    {
+     "n": 17,
+     "paginas_do_pdf": [
+      14,
+      15
+     ],
+     "notas": 10
+    }
+   ]
+  }
+ ],
+ "notas": 216
+}

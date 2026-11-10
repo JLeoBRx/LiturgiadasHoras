@@ -1,0 +1,56 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sm02",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sm02_in_nativitate_bmv.pdf",
+ "titulo_no_pdf": "IN NATIVITATE BEATAE MARIAE VIRGINIS",
+ "paginas_do_pdf": 3,
+ "parte_preliminar": true,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": []
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 3
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      1,
+      2
+     ],
+     "notas": 13
+    },
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      2
+     ],
+     "notas": 4
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      2,
+      3
+     ],
+     "notas": 3
+    }
+   ]
+  }
+ ],
+ "notas": 23
+}
