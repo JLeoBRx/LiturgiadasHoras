@@ -1,0 +1,359 @@
+Listagem de caminhos de pasta para o volume 8TB
+O número de série do volume é D8EB-CA45
+D:.
+|   1195-1231,_Antonius_Patavinus,_Sermones,_EN.pdf
+|   estrutura.txt
+|   files - httpswwwcentrostudiantonianiitfonti-dei-sermones.zip
+|   politica centro studian.txt
+|   politica da lirio.txt
+|   sermoes-sto.antonio.de.lisboa.pdf
+|   view lirio.zip
+|   
++---files - httpswwwcentrostudiantonianiitfonti-dei-sermones
+|       000_introduzione_fa.pdf
+|       001_addenda.pdf
+|       2026_07_21_22_tommasogallo_poster.jpg
+|       cop_santo_2026_1-2.jpg
+|       sd01_prologo.pdf
+|       sd02_dom_septuagesima.pdf
+|       sd03_dom_sexagesima.pdf
+|       sd04_dom_quinquagesima.pdf
+|       sd05_in_capite_ieiunii.pdf
+|       sd06_dom_i_quadragesima1.pdf
+|       sd07_dom_i_quadragesima2.pdf
+|       sd08_dom_ii_quadragesima1.pdf
+|       sd09_dom_ii_quadragesima2.pdf
+|       sd10_dom_iii_quadragesima.pdf
+|       sd11_dom_iv_quadragesima.pdf
+|       sd12_dom_v_quadragesima.pdf
+|       sd13_dom_in_ramis_palmarum.pdf
+|       sd14_in_cena_domini.pdf
+|       sd15_in_pascha_domini.pdf
+|       sd16_in_resurrectione_domini.pdf
+|       sd17_dom_in_octava_paschae.pdf
+|       sd18_dom_ii_post_pascha.pdf
+|       sd19_dom_iii_post_pascha.pdf
+|       sd20_dom_iv_post_pascha.pdf
+|       sd21_dom_v_post_pascha.pdf
+|       sd22_dom_vi_post_pascha.pdf
+|       sd23_in_litaniis.pdf
+|       sd24_in_ascensione_domini.pdf
+|       sd25_dom_pentecostes.pdf
+|       sd26_in_festo_pentecostes.pdf
+|       sd27_prologus2.pdf
+|       sd28_i-dominica_i_post_pentecosten.pdf
+|       sd29_dom_ii_post_pentecosten.pdf
+|       sd30_dom_iii_post_pentecosten.pdf
+|       sd31_dom_iv_post_pentecosten.pdf
+|       sd32_dom_v_post_pentecosten.pdf
+|       sd33_dom_vii_post_pentecosten.pdf
+|       sd34_dom_vii_post_pentecosten.pdf
+|       sd35_dom_viii_post_pentecosten.pdf
+|       sd36_prologus_dom_ix_post_pentecosten.pdf
+|       sd37_dom_ix_post_pentecosten.pdf
+|       sd38_dom_x_post_pentecosten.pdf
+|       sd39_dom_xi_post_pentecosten.pdf
+|       sd40_dom_xii_post_pentecosten.pdf
+|       sd41_prologus_dom_xiii_post_pentecosten.pdf
+|       sd42_dom_xiii_post_pentecosten.pdf
+|       sd43_dom_xiv_post_pentecosten.pdf
+|       sd44_dom_xv_post_pentecosten.pdf
+|       sd45_dom_xvi_post_pentecosten.pdf
+|       sd46_prologus_dom_xvii_post_pentecosten.pdf
+|       sd47_dom_xvii_post_pentecosten2.pdf
+|       sd48_dom_xviii_post_pentecosten.pdf
+|       sd49_dom_xix_post_pentecosten.pdf
+|       sd50_dom_xx_post_pentecosten2.pdf
+|       sd51_prologus_dom_xxi_post_pentecosten.pdf
+|       sd52_dom_xxi_post_pentecosten.pdf
+|       sd53_dom_xxii_post_pentecosten.pdf
+|       sd54_dom_xxiii_post_pentecosten.pdf
+|       sd55_dom_xxiv_post_pentecosten.pdf
+|       sd56_prologus_dom_i_avent.pdf
+|       sd57_dom_i_avent.pdf
+|       sd58_dom_ii_avent.pdf
+|       sd59_dom_iii_avent.pdf
+|       sd60_dom_iv_avent.pdf
+|       sd61_i_nativitate_domini.pdf
+|       sd62_sstephani_protomartyris.pdf
+|       sd63_ioannes_evangelista.pdf
+|       sd64_ss_innocentium.pdf
+|       sd65_dom_i_post_nativ.pdf
+|       sd66_in_circoncisione_domini.pdf
+|       sd67_dom_ii_post_nativ.pdf
+|       sd68_in_epiph_domini.pdf
+|       sd69_dom_i_epiph.pdf
+|       sd70_dom_ii_epiph.pdf
+|       sd71_dom_iii_epiph.pdf
+|       sd72_epilogus.pdf
+|       sf01_in_conversione_bpauli.pdf
+|       sf02_in_cathedra_spetri.pdf
+|       sf03_in_festivitate_philippi_iacobi.pdf
+|       sf04_in_inventione_sanctae_crucis.pdf
+|       sf05_in_nativitate_sioannis_baptistae.pdf
+|       sf06_de_sanctis_apostolis_pietro_paulo.pdf
+|       sm01_prologus_4fest_bmv.pdf
+|       sm02_in_nativitate_bmv.pdf
+|       sm03_in_annuntiatione_bmv.pdf
+|       sm04_in_purificatione_bmv.pdf
+|       sm05_in_assumptione_bmv.pdf
+|       sm06_in_festo_purificationis_bmv.pdf
+|       sm07_in_annunciatione_bmv.pdf
+|       
+\---view lirio
+    \---view
+        +---catedra-de-sao-pedro
+        |       index.html
+        |       
+        +---ceia-do-senhor-quinta-feira-santa
+        |       index.html
+        |       
+        +---circuncisao-do-senhor
+        |       index.html
+        |       
+        +---domingo-da-oitava-da-pascoa
+        |       index.html
+        |       
+        +---domingo-da-quinquagesima
+        |       index.html
+        |       
+        +---domingo-da-septuagesima
+        |       index.html
+        |       
+        +---domingo-da-sexagesima
+        |       index.html
+        |       
+        +---domingo-de-pentecostes-i
+        |       index.html
+        |       
+        +---domingo-de-ramos
+        |       index.html
+        |       
+        +---domingo-i-da-quaresma-i
+        |       index.html
+        |       
+        +---domingo-i-da-quaresma-ii-da-penitencia
+        |       index.html
+        |       
+        +---domingo-i-depois-da-oitava-da-epifania
+        |       index.html
+        |       
+        +---domingo-i-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-i-depois-do-natal-do-senhor
+        |       index.html
+        |       
+        +---domingo-i-do-advento
+        |       index.html
+        |       
+        +---domingo-ii-da-quaresma-i
+        |       index.html
+        |       
+        +---domingo-ii-da-quaresma-ii
+        |       index.html
+        |       
+        +---domingo-ii-depois-da-oitava-da-epifania
+        |       index.html
+        |       
+        +---domingo-ii-depois-da-pascoa
+        |       index.html
+        |       
+        +---domingo-ii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-ii-depois-do-natal-do-senhor
+        |       index.html
+        |       
+        +---domingo-ii-do-advento
+        |       index.html
+        |       
+        +---domingo-iii-da-quaresma
+        |       index.html
+        |       
+        +---domingo-iii-depois-da-oitava-da-epifania
+        |       index.html
+        |       
+        +---domingo-iii-depois-da-pascoa
+        |       index.html
+        |       
+        +---domingo-iii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-iii-do-advento
+        |       index.html
+        |       
+        +---domingo-iv-da-quaresma
+        |       index.html
+        |       
+        +---domingo-iv-depois-da-pascoa
+        |       index.html
+        |       
+        +---domingo-iv-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-iv-do-advento
+        |       index.html
+        |       
+        +---domingo-ix-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-v-da-quaresma
+        |       index.html
+        |       
+        +---domingo-v-depois-da-pascoa
+        |       index.html
+        |       
+        +---domingo-v-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-vi-depois-da-pascoa
+        |       index.html
+        |       
+        +---domingo-vi-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-vii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-viii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-x-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xi-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xiii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xiv-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xix-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xv-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xvi-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xvii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xviii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xx-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xxi-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xxii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xxiii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---domingo-xxiv-depois-de-pentecostes
+        |       index.html
+        |       
+        +---epifania-do-senhor
+        |       index.html
+        |       
+        +---epilogo
+        |       index.html
+        |       
+        +---festa-de-santo-estevao-protomartir
+        |       index.html
+        |       
+        +---festa-de-sao-joao-evangelista
+        |       index.html
+        |       
+        +---festa-dos-santos-apostolos-filipe-e-tiago
+        |       index.html
+        |       
+        +---festa-dos-santos-apostolos-pedro-e-paulo
+        |       index.html
+        |       
+        +---festa-dos-santos-inocentes
+        |       index.html
+        |       
+        +---inicio-do-jejum
+        |       index.html
+        |       
+        +---invencao-da-santa-cruz
+        |       index.html
+        |       
+        +---na-anunciacao-da-bem-aventurada-virgem-maria-i
+        |       index.html
+        |       
+        +---na-anunciacao-de-santa-maria-ii
+        |       index.html
+        |       
+        +---na-ascensao-do-senhor
+        |       index.html
+        |       
+        +---na-assuncao-da-bem-aventurada-virgem-maria
+        |       index.html
+        |       
+        +---na-conversao-de-sao-paulo
+        |       index.html
+        |       
+        +---na-festa-da-purificacao-da-bem-aventurada-virgem-maria-ii
+        |       index.html
+        |       
+        +---na-festa-de-pentecostes-ii
+        |       index.html
+        |       
+        +---na-natividade-da-bem-aventurada-virgem-maria
+        |       index.html
+        |       
+        +---na-pascoa-do-senhor
+        |       index.html
+        |       
+        +---na-purificacao-da-bem-aventurada-virgem-maria-i
+        |       index.html
+        |       
+        +---na-ressurreicao-do-senhor
+        |       index.html
+        |       
+        +---nas-ladainhas
+        |       index.html
+        |       
+        +---natal-do-senhor
+        |       index.html
+        |       
+        +---natividade-de-sao-joao-batista
+        |       index.html
+        |       
+        +---prologo-aos-quatro-sermoes-para-as-festas-da-bem-aventurada-virgem-maria
+        |       index.html
+        |       
+        +---prologo-domingo-da-septuagesima
+        |       index.html
+        |       
+        +---prologo-domingo-i-depois-de-pentecostes
+        |       index.html
+        |       
+        +---prologo-domingo-i-do-advento
+        |       index.html
+        |       
+        +---prologo-domingo-ix-depois-de-pentecostes
+        |       index.html
+        |       
+        +---prologo-domingo-xiii-depois-de-pentecostes
+        |       index.html
+        |       
+        +---prologo-domingo-xvii-depois-de-pentecostes
+        |       index.html
+        |       
+        \---prologo-domingo-xxi-depois-de-pentecostes
+                index.html
+                
