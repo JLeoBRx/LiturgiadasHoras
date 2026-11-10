@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 77, Trecho 78, Trecho 79, Trecho 80, Trecho 81, Trecho 82, Trecho 83, Trecho 84
-@correcoes G34-01, G34-02, G34-03, G34-04, G34-05, G34-06, G34-07, G34-08, G34-09, G34-10, G34-11, G34-12, G34-13, G34-14, G34-15, G34-16, G34-17, G34-18, G34-19, G34-20, G34-21, G34-22, G34-24, G34-25, G34-26, G34-27, G34-28, G34-29, G34-30, G34-31, G34-32
+@correcoes G34-01, G34-02, G34-03, G34-04, G34-05, G34-06, G34-07, G34-08, G34-09, G34-10, G34-11, G34-12, G34-13, G34-14, G34-15, G34-16, G34-17, G34-18, G34-19, G34-20, G34-21, G34-22, G34-24, G34-25, G34-26, G34-27, G34-28, G34-29, G34-30, G34-31, G34-32, G34-33
 
 @cabecalho continua
 HOMILIA XXXIV.
@@ -10,7 +10,7 @@ HOMILIA XXXIV.
 Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.
 
 @leitura-titulo
-LEITURA do Santo Evangelho segundo Lucas (15, 1-10).
+Leitura do santo Evangelho segundo Lucas 15,1-10.
 
 @leitura
 Naquele tempo, aproximavam-se de Jesus os publicanos e os pecadores, para O ouvirem. E murmuravam os fariseus e os escribas, dizendo: Este recebe os pecadores e come com eles. Então lhes disse esta parábola: Qual de vós, tendo cem ovelhas e perdendo uma delas, não deixa as noventa e nove no deserto e vai atrás da que se perdeu, até encontrá-la? E, quando a encontra, põe-na sobre os ombros, cheio de alegria; e, voltando para casa, reúne os amigos e os vizinhos, dizendo-lhes: Alegrai-vos comigo, porque encontrei a minha ovelha que se havia perdido. Digo-vos que assim haverá maior alegria no céu por um só pecador que faz penitência do que por noventa e nove justos que não necessitam de penitência. Ou qual é a mulher que, tendo dez dracmas, se perder uma dracma, não acende a lâmpada, revira a casa e a procura cuidadosamente até encontrá-la? E, quando a encontra, reúne as amigas e as vizinhas, dizendo: Alegrai-vos comigo, porque encontrei a dracma que havia perdido. Assim, digo-vos, haverá alegria diante dos anjos de Deus por um só pecador que faz penitência.

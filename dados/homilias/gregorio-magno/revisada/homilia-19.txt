@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 35, Trecho 36, Trecho 37
-@correcoes G19-01, G19-02, G19-03, G19-05, G19-06, G19-07
+@correcoes G19-01, G19-02, G19-03, G19-05, G19-06, G19-07, G19-08
 
 @cabecalho
 HOMILIA XIX.
@@ -10,7 +10,7 @@ HOMILIA XIX.
 Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.
 
 @leitura-titulo
-LEITURA DO EVANGELHO SEGUNDO MATEUS 20, 1-16.
+Leitura do Evangelho segundo Mateus 20,1-16.
 
 @leitura
 Naquele tempo, disse Jesus a seus discípulos esta parábola: O reino dos céus é semelhante a um pai de família que saiu de madrugada para contratar trabalhadores para a sua vinha. E, tendo ajustado com os trabalhadores um denário por dia, enviou-os à sua vinha. Saindo depois por volta da terceira hora, viu outros parados na praça, desocupados, e disse-lhes: Ide vós também para a minha vinha, e vos darei o que for justo. E eles foram. Saiu de novo por volta da sexta e da nona hora, e fez o mesmo. Por volta da undécima hora, saiu outra vez e encontrou outros parados, e disse-lhes: Por que estais aqui o dia todo desocupados? Eles lhe responderam: Porque ninguém nos contratou. Disse-lhes ele: Ide vós também para a minha vinha. Ao cair da tarde, o senhor da vinha disse ao seu administrador: Chama os trabalhadores e paga-lhes o salário, começando pelos últimos até os primeiros. Vindo, pois, os que tinham chegado por volta da undécima hora, receberam um denário cada um. Chegando também os primeiros, pensaram que receberiam mais. Mas receberam também eles um denário cada um. E, ao recebê-lo, murmuravam contra o pai de família, dizendo: Estes últimos trabalharam uma hora só, e Tu os igualaste a nós, que suportamos o peso do dia e o calor. Mas ele, respondendo a um deles, disse: Amigo, não te faço injustiça. Não ajustaste comigo um denário? Toma o que é teu e vai-te. Quero dar também a este último o mesmo que dei a ti. Ou não me é lícito fazer o que quero? Ou o teu olho é mau porque Eu sou bom? Assim, os últimos serão primeiros, e os primeiros, últimos. Pois muitos são chamados, mas poucos, eleitos.

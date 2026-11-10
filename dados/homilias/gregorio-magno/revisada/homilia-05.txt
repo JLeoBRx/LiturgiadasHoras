@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 7, Trecho 8
-@correcoes G05-01, G05-02, G05-03, G05-04
+@correcoes G05-01, G05-02, G05-03, G05-04, G05-10
 
 @cabecalho continua
 HOMILIA V.
@@ -10,7 +10,7 @@ HOMILIA V.
 Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 4, 18-22.
+Leitura do santo Evangelho segundo Mateus 4,18-22.
 
 @leitura
 Naquele tempo, caminhando Jesus junto ao mar da Galileia, viu dois irmãos, Simão, chamado Pedro, e André, seu irmão, lançando a rede ao mar, pois eram pescadores; e disse-lhes: Vinde após mim, e eu vos farei pescadores de homens. E eles, imediatamente, deixando as redes, seguiram-no. E, passando adiante, viu outros dois irmãos, Tiago, filho de Zebedeu, e João, seu irmão, no barco com Zebedeu, pai deles, consertando as suas redes; e chamou-os. E eles, imediatamente, deixando as redes e o pai, seguiram-no.

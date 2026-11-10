@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 101, Trecho 102, Trecho 103, Trecho 104
-@correcoes G39-01, G39-02, G39-03, G39-04, G39-05, G39-06, G39-07
+@correcoes G39-01, G39-02, G39-03, G39-04, G39-05, G39-06, G39-07, G39-08
 
 @cabecalho continua
 HOMILIA XXXIX.
@@ -10,7 +10,7 @@ HOMILIA XXXIX.
 Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS XIX, 42-47.
+Leitura do santo Evangelho segundo Lucas 19,41-47.
 
 @leitura
 Naquele tempo, quando Jesus Se aproximou de Jerusalém, ao ver a cidade, chorou sobre ela, dizendo: “Ah! Se também tu conhecesses, ao menos neste teu dia, o que te pode trazer a paz! Mas agora isso está oculto aos teus olhos. Porque virão dias sobre ti em que teus inimigos te cercarão de trincheiras, te sitiarão e te apertarão de todos os lados; lançar-te-ão por terra, a ti e a teus filhos que estão dentro de ti, e não deixarão em ti pedra sobre pedra, porque não reconheceste o tempo de tua visitação.” E, entrando no templo, começou a expulsar os que nele vendiam e compravam, dizendo-lhes: “Está escrito: Minha casa é casa de oração. Vós, porém, fizestes dela um covil de ladrões.” E ensinava todos os dias no templo.

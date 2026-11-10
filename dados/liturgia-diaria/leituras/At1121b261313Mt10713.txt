@@ -83,14 +83,15 @@ ao Senhor, o nosso Rei! {R.}
 {V.} Ide ao mundo e ensinai a todas as noções!
 Eis que eu estou convosco até o fim do mundo!
 
-EVANGELHO (apropriado)
+@secao Evangelho | Mt 10,7-13
 
 @tema
 De graça recebestes, de graça deveis dar!
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {10,7-13}
 
+@texto
 Naquele tempo,
 disse Jesus aos seus discípulos:
 [7] "Em vosso caminho, anunciai:

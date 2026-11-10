@@ -1,7 +1,8 @@
 {
  "_leia": [
   "Gerado por ferramentas/homilias/gerar_documentos.mjs — não editar à mão.",
-  "As correspondências \"candidatas\" e \"prováveis\" NÃO estão no site: foram calculadas para orientar o trabalho e precisam de verificação antes de qualquer publicação."
+  "As correspondências \"candidatas\" e \"prováveis\" NÃO estão no site: foram calculadas para orientar o trabalho e precisam de verificação antes de qualquer publicação.",
+  "A distribuição das homilias de São Gregório no calendário (Etapa 2) está em gregorio-magno/distribuicao.json e DISTRIBUICAO.md."
  ],
  "gregorio_magno": [
   {
@@ -9,54 +10,28 @@
    "livro": "I",
    "titulo": "Homilia I",
    "titulo_de_trabalho": "Haverá sinais",
-   "pericope": "Lc 21,25-32",
+   "pericope": "Lc 21,25-33",
    "pericope_hurst": "Lc 21,25-33",
    "ccsl_paginas": "5-11",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no segundo domingo do Advento do Senhor.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-34-sexta-I",
-     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 21,29-33",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 80,
-     "cobre_a_homilia": 50
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 21,25-33, passagem que inclui todo o Evangelho deste dia (Lc 21,29-33). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-34-sexta-I",
+     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-34-sexta-II",
-     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 21,29-33",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 80,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "ADV-1-domingo-C",
-     "dia": "1º Domingo do Advento, Ano C",
-     "referencia_do_dia": "Lc 21,25-28.34-36",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 57,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-34-quinta-I",
-     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 21,20-28",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 44,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-34-quinta-II",
-     "dia": "Quinta-feira da 34ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 21,20-28",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 44,
-     "cobre_a_homilia": 50
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 21,25-33, passagem que inclui todo o Evangelho deste dia (Lc 21,29-33). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-34-sexta-II",
+     "dia": "Sexta-feira da 34ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -64,31 +39,29 @@
    "livro": "I",
    "titulo": "Homilia II",
    "titulo_de_trabalho": "Um cego estava à beira do caminho",
-   "pericope": "Lc 18,31-44",
+   "pericope": "Lc 18,31-43",
    "pericope_hurst": "Lc 18,31-43",
    "ccsl_paginas": "12-19",
-   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no domingo da Quinquagésima.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-33-segunda-I",
-     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 18,35-43",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 64
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 18,31-43, passagem que inclui todo o Evangelho deste dia (Lc 18,35-43). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-segunda-I",
+     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-33-segunda-II",
-     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 18,35-43",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 64
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 18,31-43, passagem que inclui todo o Evangelho deste dia (Lc 18,35-43). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-segunda-II",
+     "dia": "Segunda-feira da 33ª semana do Tempo Comum, Ano II"
     }
    ],
-   "observacao": "Na tradução recebida falta o cabeçalho e a rubrica desta homilia (o texto começa direto no Evangelho, dentro do bloco da Homilia I)."
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
+   "observacao": "Na tradução recebida faltam o cabeçalho e a rubrica desta homilia; foram traduzidos de Migne na camada revisada (G02-01)."
   },
   {
    "numero": 3,
@@ -98,27 +71,25 @@
    "pericope": "Mt 12,46-50",
    "pericope_hurst": "Mt 12,46-50",
    "ccsl_paginas": "20-25",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de santa Felicidade mártir, no dia do seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-16-terca-I",
-     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 12,46-50",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 12,46-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-16-terca-I",
+     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-16-terca-II",
-     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 12,46-50",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 12,46-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-16-terca-II",
+     "dia": "Terça-feira da 16ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -129,10 +100,20 @@
    "pericope": "Mt 10,5-10",
    "pericope_hurst": "Mt 10,5-8",
    "ccsl_paginas": "26-32",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos.",
-   "estado": "conferida, não publicada",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de santo Estêvão mártir, sobre os apóstolos.",
+   "estado": "publicada",
+   "situacao": "catalogo",
+   "motivo_catalogo": "Nenhum dia do lecionário atual lê Mt 10,5-10 de modo a cobrir a passagem comentada: as leituras mais próximas (São Barnabé; 14ª semana do Tempo Comum) têm só 3 ou 4 versículos em comum com ela.",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
+    {
+     "chave": "santo:saobarnabe",
+     "dia": "São Barnabé, Apóstolo (11/06)",
+     "referencia_do_dia": "Mt 10,7-13",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 57,
+     "cobre_a_homilia": 67
+    },
     {
      "chave": "TC-14-quinta-I",
      "dia": "Quinta-feira da 14ª semana do Tempo Comum, Ano I",
@@ -147,6 +128,14 @@
      "referencia_do_dia": "Mt 10,7-15",
      "versiculos_em_comum": 4,
      "cobre_o_evangelho_do_dia": 44,
+     "cobre_a_homilia": 67
+    },
+    {
+     "chave": "TC-11-domingo-A",
+     "dia": "11º Domingo do Tempo Comum, Ano A",
+     "referencia_do_dia": "Mt 9,36-10,8",
+     "versiculos_em_comum": 4,
+     "cobre_o_evangelho_do_dia": 36,
      "cobre_a_homilia": 67
     },
     {
@@ -166,22 +155,15 @@
      "cobre_a_homilia": 50
     },
     {
-     "chave": "TC-11-domingo-A",
-     "dia": "11º Domingo do Tempo Comum, Ano A",
-     "referencia_do_dia": "Mt 9,36-10,8",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 8,
-     "cobre_a_homilia": 67
-    },
-    {
      "chave": "ADV-1-sabado",
      "dia": "Sábado da 1ª semana do Advento",
      "referencia_do_dia": "Mt 9,35-10,1.6-8",
      "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 6,
+     "cobre_o_evangelho_do_dia": 38,
      "cobre_a_homilia": 50
     }
    ],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -192,13 +174,15 @@
    "pericope": "Mt 4,18-22",
    "pericope_hurst": "Mt 4,18-22",
    "ccsl_paginas": "33-37",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado apóstolo André, no dia de sua festa natalícia.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia).",
-     "celebracao": "santoandre"
+     "celebracao": "santoandre",
+     "dia": "Santo André, Apóstolo (30/11)"
     },
     {
      "tipo": "biblica",
@@ -214,6 +198,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -224,20 +209,20 @@
    "pericope": "Mt 11,2-10",
    "pericope_hurst": "Mt 11,2-10",
    "ccsl_paginas": "38-44",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos santos Marcelino e Pedro, no terceiro domingo do Advento do Senhor.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "ADV-3-domingo-A",
-     "dia": "3º Domingo do Advento, Ano A",
-     "referencia_do_dia": "Mt 11,2-11",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 90,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Mt 11,2-10, parte do Evangelho deste dia (Mt 11,2-11). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "ADV-3-domingo-A",
+     "dia": "3º Domingo do Advento, Ano A"
     }
    ],
-   "observacao": "Próxima a conferir: o Evangelho do 3º domingo do Advento, Ano A (Mt 11,2-11), contém a passagem comentada."
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
+   "observacao": ""
   },
   {
    "numero": 7,
@@ -247,12 +232,13 @@
    "pericope": "Jo 1,19-28",
    "pericope_hurst": "Jo 1,19-27",
    "ccsl_paginas": "45-52",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no quarto domingo do Advento do Senhor.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "biblica",
-     "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). A homilia foi pregada num domingo do Advento.",
+     "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). O título da homilia em Migne a situa no 4º domingo do Advento; a edição crítica indica só o lugar (basílica de São Pedro).",
      "leituras": "ADV-3-domingo-B",
      "dia": "3º Domingo do Advento, Ano B"
     },
@@ -264,6 +250,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -274,13 +261,15 @@
    "pericope": "Lc 2,1-14",
    "pericope_hurst": "Lc 2,1-14",
    "ccsl_paginas": "53-56",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica da bem-aventurada Virgem Maria, no dia do Natal do Senhor.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica da bem-aventurada Virgem Maria, no dia do Natal do Senhor.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia.",
-     "celebracao": "natal"
+     "celebracao": "natal",
+     "dia": "Natal do Senhor"
     },
     {
      "tipo": "biblica",
@@ -290,6 +279,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -300,27 +290,31 @@
    "pericope": "Mt 25,14-30",
    "pericope_hurst": "Mt 25,14-30",
    "ccsl_paginas": "57-64",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Silvestre, no dia de seu nascimento.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Silvestre, no dia do seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-21-sabado-I",
-     "dia": "Sábado da 21ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 25,14-30",
-     "versiculos_em_comum": 17,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-21-sabado-I",
+     "dia": "Sábado da 21ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-21-sabado-II",
-     "dia": "Sábado da 21ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 25,14-30",
-     "versiculos_em_comum": 17,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-21-sabado-II",
+     "dia": "Sábado da 21ª semana do Tempo Comum, Ano II"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,14-30. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-domingo-A",
+     "dia": "33º Domingo do Tempo Comum, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -331,13 +325,15 @@
    "pericope": "Mt 2,1-12",
    "pericope_hurst": "Mt 2,1-12",
    "ccsl_paginas": "65-72",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do santo apóstolo Pedro, no dia da Epifania.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do santo apóstolo Pedro, no dia da Epifania.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia).",
-     "celebracao": "epifania"
+     "celebracao": "epifania",
+     "dia": "Epifania do Senhor"
     },
     {
      "tipo": "biblica",
@@ -347,6 +343,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -357,43 +354,25 @@
    "pericope": "Mt 13,44-52",
    "pericope_hurst": "Mt 13,44-52",
    "ccsl_paginas": "73-79",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de Santa Inês, no dia de seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-17-quinta-I",
-     "dia": "Quinta-feira da 17ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 13,47-53",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 86,
-     "cobre_a_homilia": 67
+     "tipo": "liturgica",
+     "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia); o próprio texto diz: “esta santa, cujo natalício hoje celebramos” (§ 3).",
+     "celebracao": "santaines",
+     "dia": "Santa Inês, Virgem e Mártir (21/01)"
     },
     {
-     "chave": "TC-17-quinta-II",
-     "dia": "Quinta-feira da 17ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 13,47-53",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 86,
-     "cobre_a_homilia": 67
-    },
-    {
-     "chave": "TC-17-quarta-I",
-     "dia": "Quarta-feira da 17ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 13,44-46",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 33
-    },
-    {
-     "chave": "TC-17-quarta-II",
-     "dia": "Quarta-feira da 17ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 13,44-46",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 33
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 13,44-52. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-17-domingo-A",
+     "dia": "17º Domingo do Tempo Comum, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -404,35 +383,37 @@
    "pericope": "Mt 25,1-13",
    "pericope_hurst": "Mt 25,1-13",
    "ccsl_paginas": "80-88",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de santa Inês, no dia do seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-32-domingo-A",
-     "dia": "32º Domingo do Tempo Comum, Ano A",
-     "referencia_do_dia": "Mt 25,1-13",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "liturgica",
+     "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear a santa.",
+     "celebracao": "santaines",
+     "dia": "Santa Inês, Virgem e Mártir (21/01)"
     },
     {
-     "chave": "TC-21-sexta-I",
-     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 25,1-13",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-21-sexta-I",
+     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-21-sexta-II",
-     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 25,1-13",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-21-sexta-II",
+     "dia": "Sexta-feira da 21ª semana do Tempo Comum, Ano II"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 25,1-13. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-32-domingo-A",
+     "dia": "32º Domingo do Tempo Comum, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -443,43 +424,37 @@
    "pericope": "Lc 12,35-40",
    "pericope_hurst": "Lc 12,35-40",
    "ccsl_paginas": "89-95",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Félix, confessor, no dia natalício dele.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Félix, confessor, no dia natalício dele.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "santo:fieisdefuntos",
-     "dia": "Comemoração de Todos os Fiéis Defuntos (02/11)",
-     "referencia_do_dia": "Lc 12,35-40",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 12,35-40, um dos Evangelhos propostos para esta comemoração (o primeiro no lecionário do site): a vigilância de quem espera o Senhor, que a homilia aplica à hora da morte. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:fieisdefuntos",
+     "dia": "Comemoração de Todos os Fiéis Defuntos (02/11)"
     },
     {
-     "chave": "TC-29-terca-I",
-     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 12,35-38",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 67
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 12,35-40, passagem que inclui todo o Evangelho deste dia (Lc 12,35-38). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-29-terca-I",
+     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-29-terca-II",
-     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 12,35-38",
-     "versiculos_em_comum": 4,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 67
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 12,35-40, passagem que inclui todo o Evangelho deste dia (Lc 12,35-38). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-29-terca-II",
+     "dia": "Terça-feira da 29ª semana do Tempo Comum, Ano II"
     },
     {
-     "chave": "TC-19-domingo-C",
-     "dia": "19º Domingo do Tempo Comum, Ano C",
-     "referencia_do_dia": "Lc 12,32-48",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 35,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 12,35-40, parte do Evangelho deste dia (Lc 12,32-48). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-19-domingo-C",
+     "dia": "19º Domingo do Tempo Comum, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -490,27 +465,25 @@
    "pericope": "Jo 10,11-16",
    "pericope_hurst": "Jo 10,11-16",
    "ccsl_paginas": "96-102",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "PAS-4-domingo-B",
-     "dia": "4º Domingo da Páscoa, Ano B",
-     "referencia_do_dia": "Jo 10,11-18",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 10,11-16, parte do Evangelho deste dia (Jo 10,11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-4-domingo-B",
+     "dia": "4º Domingo da Páscoa, Ano B"
     },
     {
-     "chave": "PAS-4-segunda",
-     "dia": "Segunda-feira da 4ª semana da Páscoa",
-     "referencia_do_dia": "Jo 10,11-18",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 10,11-16, parte do Evangelho deste dia (Jo 10,11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-4-segunda",
+     "dia": "Segunda-feira da 4ª semana da Páscoa"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -521,27 +494,25 @@
    "pericope": "Lc 8,4-15",
    "pericope_hurst": "Lc 8,4-15",
    "ccsl_paginas": "103-108",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Paulo, no domingo da Sexagésima.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-24-sabado-I",
-     "dia": "Sábado da 24ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 8,4-15",
-     "versiculos_em_comum": 12,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 8,4-15. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-24-sabado-I",
+     "dia": "Sábado da 24ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-24-sabado-II",
-     "dia": "Sábado da 24ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 8,4-15",
-     "versiculos_em_comum": 12,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 8,4-15. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-24-sabado-II",
+     "dia": "Sábado da 24ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -552,29 +523,33 @@
    "pericope": "Mt 4,1-11",
    "pericope_hurst": "Mt 4,1-11",
    "ccsl_paginas": "109-115",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João, chamada Constantiniana, no primeiro domingo da Quaresma.",
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de São João, chamada Constantiniana, no primeiro domingo da Quaresma.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma.",
      "chaves": [
       "QUA-1-domingo-A"
-     ]
+     ],
+     "dia": "1º Domingo da Quaresma, Ano A"
     },
     {
      "tipo": "liturgica",
      "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11).",
      "chaves": [
       "QUA-1-domingo-B"
-     ]
+     ],
+     "dia": "1º Domingo da Quaresma, Ano B"
     },
     {
      "tipo": "liturgica",
      "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11).",
      "chaves": [
       "QUA-1-domingo-C"
-     ]
+     ],
+     "dia": "1º Domingo da Quaresma, Ano C"
     },
     {
      "tipo": "biblica",
@@ -584,6 +559,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -594,43 +570,43 @@
    "pericope": "Lc 10,1-9",
    "pericope_hurst": "Lc 10,1-7",
    "ccsl_paginas": "116-134",
-   "ocasiao_na_traducao_recebida": "Proferida aos bispos nas fontes do Latrão.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida aos bispos nas fontes do Latrão.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "santo:saotimoteoetito",
-     "dia": "Santos Timóteo e Tito, Bispos (26/01)",
-     "referencia_do_dia": "Lc 10,1-9",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 10,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:saolucas",
+     "dia": "São Lucas, Evangelista (18/10)"
     },
     {
-     "chave": "santo:saolucas",
-     "dia": "São Lucas, Evangelista (18/10)",
-     "referencia_do_dia": "Lc 10,1-9",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 10,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:saotimoteoetito",
+     "dia": "Santos Timóteo e Tito, Bispos (26/01)"
     },
     {
-     "chave": "TC-26-quinta-I",
-     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 10,1-12",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-26-quinta-I",
+     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-26-quinta-II",
-     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 10,1-12",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-26-quinta-II",
+     "dia": "Quinta-feira da 26ª semana do Tempo Comum, Ano II"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 10,1-9, parte do Evangelho deste dia (Lc 10,1-12.17-20). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-14-domingo-C",
+     "dia": "14º Domingo do Tempo Comum, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -638,22 +614,22 @@
    "livro": "I",
    "titulo": "Homilia XVIII",
    "titulo_de_trabalho": "Quem de vós me acusa de pecado?",
-   "pericope": "Jo 8,45-69",
+   "pericope": "Jo 8,46-59",
    "pericope_hurst": "Jo 8,46-59",
    "ccsl_paginas": "135-141",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no Domingo da Paixão.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "QUA-5-quinta",
-     "dia": "Quinta-feira da 5ª semana da Quaresma",
-     "referencia_do_dia": "Jo 8,51-59",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 36
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 8,46-59, passagem que inclui todo o Evangelho deste dia (Jo 8,51-59). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "QUA-5-quinta",
+     "dia": "Quinta-feira da 5ª semana da Quaresma"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -664,35 +640,31 @@
    "pericope": "Mt 20,1-16",
    "pericope_hurst": "Mt 20,1-16",
    "ccsl_paginas": "142-152",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, no Domingo da Septuagésima.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-25-domingo-A",
-     "dia": "25º Domingo do Tempo Comum, Ano A",
-     "referencia_do_dia": "Mt 20,1-16a",
-     "versiculos_em_comum": 16,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-20-quarta-I",
+     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-20-quarta-I",
-     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 20,1-16a",
-     "versiculos_em_comum": 16,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-20-quarta-II",
+     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano II"
     },
     {
-     "chave": "TC-20-quarta-II",
-     "dia": "Quarta-feira da 20ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 20,1-16a",
-     "versiculos_em_comum": 16,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Mt 20,1-16, que corresponde ao Evangelho deste dia (Mt 20,1-16a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-25-domingo-A",
+     "dia": "25º Domingo do Tempo Comum, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -703,19 +675,19 @@
    "pericope": "Lc 3,1-11",
    "pericope_hurst": "Lc 3,1-11",
    "ccsl_paginas": "153-169",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica de São João Batista, no sábado das Quatro Têmporas antes do Natal de Cristo.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica de São João Batista, no sábado das Quatro Têmporas antes do Natal de Cristo.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "ADV-2-domingo-C",
-     "dia": "2º Domingo do Advento, Ano C",
-     "referencia_do_dia": "Lc 3,1-6",
-     "versiculos_em_comum": 6,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 55
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 3,1-11, passagem que inclui todo o Evangelho deste dia (Lc 3,1-6). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "ADV-2-domingo-C",
+     "dia": "2º Domingo do Advento, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada-com-ressalvas",
    "observacao": ""
   },
   {
@@ -726,13 +698,15 @@
    "pericope": "Mc 16,1-7",
    "pericope_hurst": "Mc 16,1-7",
    "ccsl_paginas": "173-179",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica da bem-aventurada Virgem Maria, no santo dia da Páscoa.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia).",
-     "celebracao": "pascoa"
+     "celebracao": "pascoa",
+     "dia": "Domingo da Páscoa na Ressurreição do Senhor"
     },
     {
      "tipo": "biblica",
@@ -742,6 +716,7 @@
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -752,27 +727,25 @@
    "pericope": "Jo 20,1-9",
    "pericope_hurst": "Jo 20,1-9",
    "ccsl_paginas": "180-191",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado João, chamada Constantiniana, no sábado depois da Páscoa.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "pascoa",
-     "dia": "Domingo da Páscoa — Missa do dia",
-     "referencia_do_dia": "Jo 20,1-9",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Jo 20,1-9. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "pascoa",
+     "dia": "Domingo da Páscoa — Missa do dia"
     },
     {
-     "chave": "santo:joaoevangelista",
-     "dia": "São João, Apóstolo e Evangelista (27/12)",
-     "referencia_do_dia": "Jo 20,2-8",
-     "versiculos_em_comum": 7,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 78
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 20,1-9, passagem que inclui todo o Evangelho deste dia (Jo 20,2-8). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:joaoevangelista",
+     "dia": "São João, Apóstolo e Evangelista (27/12)"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -783,27 +756,25 @@
    "pericope": "Lc 24,13-35",
    "pericope_hurst": "Lc 24,13-35",
    "ccsl_paginas": "192-195",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no dia seguinte à Páscoa.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "PAS-3-domingo-A",
-     "dia": "3º Domingo da Páscoa, Ano A",
-     "referencia_do_dia": "Lc 24,13-35",
-     "versiculos_em_comum": 23,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 24,13-35. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-1-quarta",
+     "dia": "Quarta-feira da oitava da Páscoa"
     },
     {
-     "chave": "PAS-1-quarta",
-     "dia": "Quarta-feira da oitava da Páscoa",
-     "referencia_do_dia": "Lc 24,13-35",
-     "versiculos_em_comum": 23,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 24,13-35. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-3-domingo-A",
+     "dia": "3º Domingo da Páscoa, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -814,19 +785,25 @@
    "pericope": "Jo 21,1-14",
    "pericope_hurst": "Jo 21,1-14",
    "ccsl_paginas": "196-203",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "PAS-1-sexta",
-     "dia": "Sexta-feira da oitava da Páscoa",
-     "referencia_do_dia": "Jo 21,1-14",
-     "versiculos_em_comum": 14,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Jo 21,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-1-sexta",
+     "dia": "Sexta-feira da oitava da Páscoa"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 21,1-14, parte do Evangelho deste dia (Jo 21,1-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-3-domingo-C",
+     "dia": "3º Domingo da Páscoa, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -837,27 +814,25 @@
    "pericope": "Jo 20,11-18",
    "pericope_hurst": "Jo 20,11-18",
    "ccsl_paginas": "204-216",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São João, chamada Constantiniana, na quinta-feira da Páscoa.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São João, chamada Constantiniana, na quinta-feira da Páscoa.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "PAS-1-terca",
-     "dia": "Terça-feira da oitava da Páscoa",
-     "referencia_do_dia": "Jo 20,11-18",
-     "versiculos_em_comum": 8,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Jo 20,11-18. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-1-terca",
+     "dia": "Terça-feira da oitava da Páscoa"
     },
     {
-     "chave": "santo:stamariamadalena",
-     "dia": "Santa Maria Madalena (22/07)",
-     "referencia_do_dia": "Jo 20,1-2.11-18",
-     "versiculos_em_comum": 8,
-     "cobre_o_evangelho_do_dia": 80,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 20,11-18, parte do Evangelho deste dia (Jo 20,1-2.11-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:stamariamadalena",
+     "dia": "Santa Maria Madalena (22/07)"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -868,8 +843,9 @@
    "pericope": "Jo 20,19-31",
    "pericope_hurst": "Jo 20,19-29",
    "ccsl_paginas": "217-228",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana, na oitava da Páscoa.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana, na oitava da Páscoa.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "biblica",
@@ -888,9 +864,22 @@
      "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10).",
      "leituras": "divinamisericordia-C",
      "dia": "2º Domingo da Páscoa, Ano C"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho desta festa (Jo 20,24-29): a dúvida e a fé de Tomé, que a homilia comenta longamente. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:saotome",
+     "dia": "São Tomé, Apóstolo (03/07)"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho da Missa do dia de Pentecostes (Jo 20,19-23): Jesus sopra sobre os discípulos e lhes dá o Espírito Santo. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "pentecostes",
+     "dia": "Pentecostes"
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -901,35 +890,37 @@
    "pericope": "Jo 15,12-16",
    "pericope_hurst": "Jo 15,12-16",
    "ccsl_paginas": "229-238",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Pancrácio mártir, no dia de sua festa natalícia.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "PAS-5-sexta",
-     "dia": "Sexta-feira da 5ª semana da Páscoa",
-     "referencia_do_dia": "Jo 15,12-17",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 83,
-     "cobre_a_homilia": 100
+     "tipo": "liturgica",
+     "descricao": "Pregada na basílica de São Pancrácio, no dia do seu natalício (rubrica da homilia); o próprio texto fala dos fiéis que vieram “à solenidade do mártir” (§ 7).",
+     "celebracao": "saopancracio",
+     "dia": "São Pancrácio, Mártir (12/05)"
     },
     {
-     "chave": "PAS-6-domingo-B",
-     "dia": "6º Domingo da Páscoa, Ano B",
-     "referencia_do_dia": "Jo 15,9-17",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 56,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,12-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-5-sexta",
+     "dia": "Sexta-feira da 5ª semana da Páscoa"
     },
     {
-     "chave": "santo:saomatias",
-     "dia": "São Matias, Apóstolo (14/05)",
-     "referencia_do_dia": "Jo 15,9-17",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 56,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,9-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-6-domingo-B",
+     "dia": "6º Domingo da Páscoa, Ano B"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 15,12-16, parte do Evangelho deste dia (Jo 15,9-17). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:saomatias",
+     "dia": "São Matias, Apóstolo (14/05)"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -940,19 +931,19 @@
    "pericope": "Jo 4,46-53",
    "pericope_hurst": "Jo 4,46-53",
    "ccsl_paginas": "239-243",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos santos Nereu e Aquileu, no dia do seu natalício.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica dos santos Nereu e Aquileu, no dia do seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "QUA-4-segunda",
-     "dia": "Segunda-feira da 4ª semana da Quaresma",
-     "referencia_do_dia": "Jo 4,43-54",
-     "versiculos_em_comum": 8,
-     "cobre_o_evangelho_do_dia": 67,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 4,46-53, parte do Evangelho deste dia (Jo 4,43-54). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "QUA-4-segunda",
+     "dia": "Segunda-feira da 4ª semana da Quaresma"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -963,22 +954,37 @@
    "pericope": "Mc 16,14-20",
    "pericope_hurst": "Mc 16,14-20",
    "ccsl_paginas": "244-254",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor.",
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica do bem-aventurado apóstolo Pedro, na Ascensão do Senhor.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia).",
-     "celebracao": "ascensaodosenhor"
+     "celebracao": "ascensaodosenhor",
+     "dia": "Ascensão do Senhor"
     },
     {
      "tipo": "biblica",
      "descricao": "Comenta o Evangelho da Ascensão no Ano B: Mc 16,15-20.",
      "leituras": "ascensaodosenhor-B",
      "dia": "Ascensão do Senhor, Ano B"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Mc 16,14-20, passagem que inclui todo o Evangelho deste dia (Mc 16,15-20). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:saomarcos",
+     "dia": "São Marcos Evangelista (25/04)"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Mc 16,14-20, passagem que inclui todo o Evangelho deste dia (Mc 16,15-18). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "santo:conversaosaopaulo",
+     "dia": "Conversão de São Paulo, Apóstolo (25/01)"
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -989,16 +995,31 @@
    "pericope": "Jo 14,23-31",
    "pericope_hurst": "Jo 14,23-27",
    "ccsl_paginas": "255-268",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes.",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo apóstolo Pedro, no santo dia de Pentecostes.",
    "estado": "publicada",
+   "situacao": "calendario",
    "correspondencias_publicadas": [
     {
      "tipo": "liturgica",
      "descricao": "Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2).",
-     "celebracao": "pentecostes"
+     "celebracao": "pentecostes",
+     "dia": "Domingo de Pentecostes"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 14,23-31, passagem que inclui todo o Evangelho deste dia (Jo 14,23-29). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-6-domingo-C",
+     "dia": "6º Domingo da Páscoa, Ano C"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Jo 14,23-31, passagem que inclui todo o Evangelho deste dia (Jo 14,27-31a). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "PAS-5-terca",
+     "dia": "Terça-feira da 5ª semana da Páscoa"
     }
    ],
    "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1009,8 +1030,10 @@
    "pericope": "Lc 13,6-13",
    "pericope_hurst": "Lc 13,6-13",
    "ccsl_paginas": "269-276",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Lourenço mártir, no sábado das Quatro Têmporas de setembro.",
-   "estado": "conferida, não publicada",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Lourenço mártir, no sábado das Quatro Têmporas de setembro.",
+   "estado": "publicada",
+   "situacao": "catalogo",
+   "motivo_catalogo": "A passagem comentada (Lc 13,6-13) junta a parábola da figueira estéril e a cura da mulher curvada; o lecionário atual lê as duas em dias diferentes, e nenhum deles cobre a maior parte do que a homilia comenta.",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
     {
@@ -1054,6 +1077,7 @@
      "cobre_a_homilia": 50
     }
    ],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1064,8 +1088,10 @@
    "pericope": "Lc 9,23-27",
    "pericope_hurst": "Lc 9,23-27",
    "ccsl_paginas": "277-286",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.",
-   "estado": "conferida, não publicada",
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos santos Processo e Martiniano, no dia natalício deles.",
+   "estado": "publicada",
+   "situacao": "catalogo",
+   "motivo_catalogo": "Os santos do dia em que foi pregada não estão no calendário atual, e a única leitura de Lucas que coincide com a passagem (quinta-feira depois das Cinzas, Lc 9,22-25) fica abaixo do critério de correspondência plena.",
    "correspondencias_publicadas": [],
    "correspondencias_biblicas_candidatas": [
     {
@@ -1077,6 +1103,7 @@
      "cobre_a_homilia": 60
     }
    ],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1087,27 +1114,31 @@
    "pericope": "Lc 7,36-50",
    "pericope_hurst": "Lc 7,36-50",
    "ccsl_paginas": "287-298",
-   "ocasiao_na_traducao_recebida": "(sem cabeçalho nem rubrica na tradução recebida)",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pregada ao povo na basílica de São Clemente, na sexta-feira das Têmporas de setembro.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-24-quinta-I",
-     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 7,36-50",
-     "versiculos_em_comum": 15,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 7,36-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-24-quinta-I",
+     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-24-quinta-II",
-     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 7,36-50",
-     "versiculos_em_comum": 15,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 7,36-50. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-24-quinta-II",
+     "dia": "Quinta-feira da 24ª semana do Tempo Comum, Ano II"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 7,36-50, parte do Evangelho deste dia (Lc 7,36-8,3). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-11-domingo-C",
+     "dia": "11º Domingo do Tempo Comum, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1118,43 +1149,37 @@
    "pericope": "Lc 15,1-10",
    "pericope_hurst": "Lc 15,1-10",
    "ccsl_paginas": "299-319",
-   "ocasiao_na_traducao_recebida": "Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Dirigida ao povo na basílica dos bem-aventurados João e Paulo, no terceiro domingo depois de Pentecostes.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-31-quinta-I",
-     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 15,1-10",
-     "versiculos_em_comum": 10,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 15,1-10. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-quinta-I",
+     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-31-quinta-II",
-     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 15,1-10",
-     "versiculos_em_comum": 10,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 15,1-10. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-quinta-II",
+     "dia": "Quinta-feira da 31ª semana do Tempo Comum, Ano II"
     },
     {
-     "chave": "scj-C",
-     "dia": "Sagrado Coração de Jesus, Ano C",
-     "referencia_do_dia": "Lc 15,3-7",
-     "versiculos_em_comum": 5,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 50
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 15,1-10, parte do Evangelho deste dia (Lc 15,1-32). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-24-domingo-C",
+     "dia": "24º Domingo do Tempo Comum, Ano C"
     },
     {
-     "chave": "TC-24-domingo-C",
-     "dia": "24º Domingo do Tempo Comum, Ano C",
-     "referencia_do_dia": "Lc 15,1-32",
-     "versiculos_em_comum": 10,
-     "cobre_o_evangelho_do_dia": 31,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 15,1-10, passagem que inclui todo o Evangelho deste dia (Lc 15,3-7). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "scj-C",
+     "dia": "Sagrado Coração de Jesus, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1165,35 +1190,31 @@
    "pericope": "Lc 21,9-19",
    "pericope_hurst": "Lc 21,9-19",
    "ccsl_paginas": "320-330",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica de São Menas mártir, no dia do seu natalício.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-33-domingo-C",
-     "dia": "33º Domingo do Tempo Comum, Ano C",
-     "referencia_do_dia": "Lc 21,5-19",
-     "versiculos_em_comum": 11,
-     "cobre_o_evangelho_do_dia": 73,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 21,9-19, parte do Evangelho deste dia (Lc 21,5-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-domingo-C",
+     "dia": "33º Domingo do Tempo Comum, Ano C"
     },
     {
-     "chave": "TC-34-quarta-I",
-     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 21,12-19",
-     "versiculos_em_comum": 8,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 73
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 21,9-19, passagem que inclui todo o Evangelho deste dia (Lc 21,12-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-34-quarta-I",
+     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-34-quarta-II",
-     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 21,12-19",
-     "versiculos_em_comum": 8,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 73
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 21,9-19, passagem que inclui todo o Evangelho deste dia (Lc 21,12-19). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-34-quarta-II",
+     "dia": "Quarta-feira da 34ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1204,27 +1225,25 @@
    "pericope": "Lc 14,16-24",
    "pericope_hurst": "Lc 14,16-24",
    "ccsl_paginas": "331-346",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-31-terca-I",
-     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 14,15-24",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 90,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 14,16-24, parte do Evangelho deste dia (Lc 14,15-24). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-terca-I",
+     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-31-terca-II",
-     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 14,15-24",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 90,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 14,16-24, parte do Evangelho deste dia (Lc 14,15-24). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-terca-II",
+     "dia": "Terça-feira da 31ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1235,35 +1254,37 @@
    "pericope": "Lc 14,25-33",
    "pericope_hurst": "Lc 14,16-33",
    "ccsl_paginas": "347-358",
-   "ocasiao_na_traducao_recebida": "Pronunciada ao povo na basílica do bem-aventurado mártir Sebastião, no dia de sua festa natalícia.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Pronunciada ao povo na basílica do bem-aventurado mártir Sebastião, no dia de sua festa natalícia.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-23-domingo-C",
-     "dia": "23º Domingo do Tempo Comum, Ano C",
-     "referencia_do_dia": "Lc 14,25-33",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "liturgica",
+     "descricao": "Pregada na basílica de São Sebastião, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear o santo.",
+     "celebracao": "saosebastiao",
+     "dia": "São Sebastião, Mártir (20/01)"
     },
     {
-     "chave": "TC-31-quarta-I",
-     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 14,25-33",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-23-domingo-C",
+     "dia": "23º Domingo do Tempo Comum, Ano C"
     },
     {
-     "chave": "TC-31-quarta-II",
-     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 14,25-33",
-     "versiculos_em_comum": 9,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-quarta-I",
+     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano I"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 14,25-33. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-31-quarta-II",
+     "dia": "Quarta-feira da 31ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1271,30 +1292,34 @@
    "livro": "II",
    "titulo": "Homilia XXXVIII",
    "titulo_de_trabalho": "Muitos são chamados, mas poucos escolhidos",
-   "pericope": "Mt 22,1-13",
+   "pericope": "Mt 22,1-14",
    "pericope_hurst": "Mt 22,2-14",
    "ccsl_paginas": "359-378",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado Clemente, mártir.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-20-quinta-I",
-     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Mt 22,1-14",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 93,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-20-quinta-I",
+     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-20-quinta-II",
-     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Mt 22,1-14",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 93,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-20-quinta-II",
+     "dia": "Quinta-feira da 20ª semana do Tempo Comum, Ano II"
+    },
+    {
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Mt 22,1-14. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-28-domingo-A",
+     "dia": "28º Domingo do Tempo Comum, Ano A"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1302,46 +1327,28 @@
    "livro": "II",
    "titulo": "Homilia XXXIX",
    "titulo_de_trabalho": "Se ao menos neste dia conhecesses",
-   "pericope": "Lc 19,42-47",
+   "pericope": "Lc 19,41-47",
    "pericope_hurst": "Lc 19,41-47",
    "ccsl_paginas": "379-392",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do bem-aventurado João, chamada Constantiniana.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-33-quinta-I",
-     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 19,41-44",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 19,41-47, passagem que inclui todo o Evangelho deste dia (Lc 19,41-44). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-quinta-I",
+     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano I"
     },
     {
-     "chave": "TC-33-quinta-II",
-     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 19,41-44",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-33-sexta-I",
-     "dia": "Sexta-feira da 33ª semana do Tempo Comum, Ano I",
-     "referencia_do_dia": "Lc 19,45-48",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
-    },
-    {
-     "chave": "TC-33-sexta-II",
-     "dia": "Sexta-feira da 33ª semana do Tempo Comum, Ano II",
-     "referencia_do_dia": "Lc 19,45-48",
-     "versiculos_em_comum": 3,
-     "cobre_o_evangelho_do_dia": 75,
-     "cobre_a_homilia": 50
+     "tipo": "biblica",
+     "descricao": "Comenta Lc 19,41-47, passagem que inclui todo o Evangelho deste dia (Lc 19,41-44). A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-33-quinta-II",
+     "dia": "Quinta-feira da 33ª semana do Tempo Comum, Ano II"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada",
    "observacao": ""
   },
   {
@@ -1352,27 +1359,25 @@
    "pericope": "Lc 16,19-31",
    "pericope_hurst": "Lc 16,19-31",
    "ccsl_paginas": "393-411",
-   "ocasiao_na_traducao_recebida": "Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.",
-   "estado": "conferida, não publicada",
-   "correspondencias_publicadas": [],
-   "correspondencias_biblicas_candidatas": [
+   "ocasiao_na_traducao": "Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.",
+   "estado": "publicada",
+   "situacao": "calendario",
+   "correspondencias_publicadas": [
     {
-     "chave": "TC-26-domingo-C",
-     "dia": "26º Domingo do Tempo Comum, Ano C",
-     "referencia_do_dia": "Lc 16,19-31",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 16,19-31. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "QUA-2-quinta",
+     "dia": "Quinta-feira da 2ª semana da Quaresma"
     },
     {
-     "chave": "QUA-2-quinta",
-     "dia": "Quinta-feira da 2ª semana da Quaresma",
-     "referencia_do_dia": "Lc 16,19-31",
-     "versiculos_em_comum": 13,
-     "cobre_o_evangelho_do_dia": 100,
-     "cobre_a_homilia": 100
+     "tipo": "biblica",
+     "descricao": "Comenta o Evangelho deste dia: Lc 16,19-31. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho.",
+     "leituras": "TC-26-domingo-C",
+     "dia": "26º Domingo do Tempo Comum, Ano C"
     }
    ],
+   "correspondencias_biblicas_candidatas": [],
+   "estado_final": "finalizada-com-ressalvas",
    "observacao": ""
   }
  ],

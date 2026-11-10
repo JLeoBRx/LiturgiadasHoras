@@ -89,14 +89,15 @@ Palavra do Senhor.
 {V.} Jesus Cristo, sendo rico, se fez pobre e por amor;
 para que sua pobreza nos, assim, enriquecesse.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Lc 16,1-13
 
 @tema
 Vós não podeis servir a Deus e ao dinheiro.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Lucas** {16,1-13}
 
+@texto
 Naquele tempo,
 [1] Jesus dizia aos discípulos:
 "Um homem rico tinha um administrador

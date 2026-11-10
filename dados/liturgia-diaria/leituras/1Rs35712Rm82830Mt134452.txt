@@ -95,14 +95,15 @@ Deus do céu, Senhor da terra:
 os mistérios do teu Reino
 aos pequenos, Pai, revelas!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mt 13,44-52
 
 @tema
 Ele vende todos os seus bens e compra aquele campo.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {13,44-52}
 
+@texto
 Naquele tempo, disse Jesus a seus discípulos:
 [44] "O Reino dos Céus é como um tesouro escondido no campo.
 Um homem o encontra e o mantém escondido.

@@ -105,14 +105,15 @@ Palavra do Senhor.
 {V.} Se amarmos uns aos outros, Deus em nós há de estar;
 e o seu amor em nós se aperfeiçoará.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mc 10,2-16
 
 @tema
 O que Deus uniu, o homem não separe!
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Marcos** {10,2-16}
 
+@texto
 Naquele tempo,
 
 [2] Alguns fariseus se aproximaram de Jesus.

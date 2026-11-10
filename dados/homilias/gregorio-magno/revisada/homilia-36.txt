@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 87, Trecho 88, Trecho 89, Trecho 90, Trecho 91
-@correcoes G36-01, G36-02, G36-03, G36-04, G36-05, G36-06, G36-07, G36-08, G36-09, G36-10, G36-11, G36-12, G36-13, G36-14, G36-15, G36-16, G36-17, G36-18
+@correcoes G36-01, G36-02, G36-03, G36-04, G36-05, G36-06, G36-07, G36-08, G36-09, G36-10, G36-11, G36-12, G36-13, G36-14, G36-15, G36-16, G36-17, G36-18, G36-19
 
 @cabecalho continua
 HOMILIA XXXVI. Proferida ao povo na basílica dos bem-aventurados apóstolos Filipe e Tiago, no segundo domingo depois de Pentecostes.
 
 @leitura-titulo
-Leitura do Santo Evangelho segundo Lucas 14, 16-24.
+Leitura do santo Evangelho segundo Lucas 14,16-24.
 
 @leitura
 Naquele tempo, disse Jesus aos fariseus esta parábola: Certo homem fez uma grande ceia e convidou muitos. E mandou seu servo, à hora da ceia, dizer aos convidados que viessem, porque já está tudo preparado. E todos, ao mesmo tempo, começaram a se desculpar. O primeiro lhe disse: Comprei um campo, e preciso sair para vê-lo; peço-te, dá-me por desculpado. E outro disse: Comprei cinco juntas de bois e vou experimentá-las; peço-te, dá-me por desculpado. E outro disse: Casei-me e, por isso, não posso ir. E, voltando o servo, anunciou estas coisas a seu senhor. Então o pai de família, irado, disse a seu servo: Sai depressa pelas praças e ruas da cidade, e traze para cá os pobres, os aleijados, os cegos e os coxos. E disse o servo: Senhor, foi feito como mandaste, e ainda há lugar. E disse o Senhor ao servo: Sai pelos caminhos e cercas, e obriga-os a entrar, para que minha casa se encha. Pois eu vos digo que nenhum daqueles homens que foram convidados provará da minha ceia.

@@ -296,14 +296,15 @@ Palavra do Senhor.
 {V.} Pois eu sou a luz do mundo, quem nos diz é o Senhor;
 e vai ter a luz da vida quem se faz meu seguidor!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Jo 9,1-41
 
 @tema
 O cego foi, lavou-se e voltou enxergando.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo João** {9,1-41}
 
+@texto
 Naquele tempo,
 [1] ao passar, Jesus viu um homem cego de nascença.
 [2] Os discípulos perguntaram a Jesus:

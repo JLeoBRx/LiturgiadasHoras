@@ -7,9 +7,17 @@
  * versiculos("Lc 2,1-14") -> Set { "Lc 2:1", …, "Lc 2:14" }
  * Letras de meio versículo (12a, 3b) contam como o versículo inteiro.
  * Num trecho que atravessa capítulos ("7,36–8,3"), o fim do primeiro
- * capítulo é aproximado (até o versículo 80), o que basta para comparar.
+ * capítulo é o número real de versículos nos quatro Evangelhos; nos demais
+ * livros é aproximado (até o versículo 80), o que basta para comparar.
  */
 const FIM_CAP = 80;
+const VERSICULOS_POR_CAPITULO = {
+  Mt: [25, 23, 17, 25, 48, 34, 29, 34, 38, 42, 30, 50, 58, 36, 39, 28, 27, 35, 30, 34, 46, 46, 39, 51, 46, 75, 66, 20],
+  Mc: [45, 28, 35, 41, 43, 56, 37, 38, 50, 52, 33, 44, 37, 72, 47, 20],
+  Lc: [80, 52, 38, 44, 39, 49, 50, 56, 62, 42, 54, 59, 35, 35, 32, 31, 37, 43, 48, 47, 38, 71, 56, 53],
+  Jo: [51, 25, 36, 54, 47, 71, 53, 59, 41, 42, 57, 50, 38, 31, 27, 33, 26, 40, 42, 31, 25],
+};
+const fimDoCapitulo = (livro, cap) => VERSICULOS_POR_CAPITULO[livro]?.[cap - 1] ?? FIM_CAP;
 
 export function versiculos(ref) {
   const out = new Set();
@@ -33,7 +41,7 @@ export function versiculos(ref) {
         if (!x) continue;
         const cruz = x.match(/^(\d+)-(\d+),(\d+)$/);           // 36-8,3
         if (cruz) {
-          for (let v = +cruz[1]; v <= FIM_CAP; v++) out.add(`${livro} ${cap}:${v}`);
+          for (let v = +cruz[1]; v <= fimDoCapitulo(livro, cap); v++) out.add(`${livro} ${cap}:${v}`);
           cap = +cruz[2];
           for (let v = 1; v <= +cruz[3]; v++) out.add(`${livro} ${cap}:${v}`);
           continue;
@@ -50,3 +58,25 @@ export function versiculos(ref) {
 
 export const intersecao = (a, b) => new Set([...a].filter((x) => b.has(x)));
 export const contido = (a, b) => [...a].every((x) => b.has(x));
+
+/**
+ * Conjunto de versículos (de um só livro) -> referência no formato do
+ * lecionário: { Lc 21:29 … Lc 21:33 } -> "Lc 21,29-33";
+ * { Lc 7:36 … Lc 8:3 } -> "Lc 7,36-50; 8,1-3". Inverso de versiculos().
+ */
+export function formatar(conjunto) {
+  const vs = [...conjunto].map((v) => v.match(/^(\S+) (\d+):(\d+)$/)).filter(Boolean)
+    .map((m) => ({ livro: m[1], cap: +m[2], v: +m[3] }))
+    .sort((a, b) => a.cap - b.cap || a.v - b.v);
+  if (!vs.length) return '';
+  const livros = new Set(vs.map((x) => x.livro));
+  if (livros.size > 1) throw new Error(`formatar: mais de um livro (${[...livros].join(', ')})`);
+  const caps = [];
+  for (const x of vs) {
+    let c = caps[caps.length - 1];
+    if (!c || c.cap !== x.cap) caps.push(c = { cap: x.cap, trechos: [] });
+    const t = c.trechos[c.trechos.length - 1];
+    if (t && x.v === t[1] + 1) t[1] = x.v; else c.trechos.push([x.v, x.v]);
+  }
+  return `${vs[0].livro} ${caps.map((c) => `${c.cap},${c.trechos.map(([a, b]) => (a === b ? `${a}` : `${a}-${b}`)).join('.')}`).join('; ')}`;
+}

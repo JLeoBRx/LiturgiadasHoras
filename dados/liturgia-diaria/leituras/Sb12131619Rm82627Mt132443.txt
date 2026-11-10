@@ -82,12 +82,15 @@ aos pequenos, Pai, revelas!
 
 {EVANGELHO (mais longo)}
 
+@secao Evangelho | Mt 13,24-43
+
 @tema
 Deixai crescer um e outro até a colheita.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {13,24-43}
 
+@texto
 Naquele tempo:
 [24] Jesus contou outra parábola à multidão:
 "O Reino dos Céus é como um homem

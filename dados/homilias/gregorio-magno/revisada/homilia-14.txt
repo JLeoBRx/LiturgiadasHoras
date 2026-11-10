@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 23, Trecho 24
-@correcoes G14-01
+@correcoes G14-01, G14-02
 
 @cabecalho
 HOMILIA XIV. Proferida ao povo na basílica do bem-aventurado apóstolo Pedro, no segundo domingo depois da Páscoa.
 
 @leitura-titulo
-LEITURA DO SANTO EVANGELHO SEGUNDO JOÃO 10, 11-16.
+Leitura do santo Evangelho segundo João 10,11-16.
 
 @leitura
 Naquele tempo, disse Jesus aos fariseus: Eu sou o bom pastor. O bom pastor dá a sua vida por suas ovelhas. O mercenário, porém, e aquele que não é pastor, a quem as ovelhas não pertencem como próprias, vê o lobo que vem, deixa as ovelhas e foge; e o lobo as arrebata e dispersa. O mercenário foge, porque é mercenário e não se importa com as ovelhas. Eu sou o bom pastor, conheço as minhas ovelhas, e as minhas me conhecem. Assim como o Pai me conhece, também eu conheço o Pai, e dou a minha vida por minhas ovelhas. E tenho ainda outras ovelhas que não são deste redil; também a essas é necessário que eu conduza, e ouvirão a minha voz, e haverá um só rebanho e um só pastor.

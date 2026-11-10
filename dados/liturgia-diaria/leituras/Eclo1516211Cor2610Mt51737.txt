@@ -90,14 +90,15 @@ Palavra do Senhor.
 {V.} Eu te louvo, ó Pai santo, Deus do céu, Senhor da terra:
 os mistérios do teu reino aos pequenos, Pai, revelas.
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mt 5,17-37
 
 @tema
 Assim foi dito aos antigos; eu, porém, vos digo.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {5,17-37}
 
+@texto
 Naquele tempo, disse Jesus a seus discípulos:
 [17] "Não penseis que vim abolir a Lei e os Profetas.
 Não vim para abolir,

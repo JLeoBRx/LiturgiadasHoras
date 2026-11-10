@@ -127,14 +127,15 @@ Palavra do Senhor.
 {V.} Jesus Cristo é o primogênito dos mortos;
 a ele a glória e o domínio para sempre!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Lc 20,27-38
 
 @tema
 Deus não é Deus dos mortos, mas dos vivos.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Lucas** {20,27-38}
 
+@texto
 Naquele tempo,
 
 [27] aproximaram-se de Jesus alguns saduceus,

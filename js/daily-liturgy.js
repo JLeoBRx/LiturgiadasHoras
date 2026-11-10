@@ -78,7 +78,9 @@ const primeiraChave = (tabela, lista) => lista.find((k) => k && tabela[k]);
 
 /**
  * Decide quais arquivos usar. Retorna:
- * { leituras, missal, alternativas: [{rotulo, leituras}], notas }
+ * { leituras, missal, alternativas: [{rotulo, leituras}], notas, substitutas }
+ * substitutas = true quando a celebração tem leituras próprias que faltam no
+ * acervo e o site mostra as do dia de semana.
  */
 export function resolver(dia, opcaoId) {
   const cel = celebracaoEscolhida(dia, opcaoId);
@@ -89,6 +91,7 @@ export function resolver(dia, opcaoId) {
   const tk = chaveTemporal(dia);
   let chaveL = null;
   let chavesM = [];
+  let substitutas = false; // leituras do dia de semana no lugar das próprias, que faltam no acervo
 
   const id = cel && cel.id;
   if (id === 'natal') {
@@ -114,6 +117,7 @@ export function resolver(dia, opcaoId) {
       chaveL = kp;
       if (!chaveL) {
         chaveL = L[tk] ? tk : null;
+        substitutas = !!chaveL;
         notas.push('As leituras próprias desta celebração não foram encontradas no acervo; mostramos as leituras do dia.');
       }
     }
@@ -134,6 +138,7 @@ export function resolver(dia, opcaoId) {
     leituras: chaveL ? L[chaveL] : null,
     missal: km ? M[km] : null,
     alternativas: alternativas.length > 1 ? alternativas : [],
+    substitutas,
     notas,
     celebracao: cel,
   };

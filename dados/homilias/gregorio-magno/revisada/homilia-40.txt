@@ -1,13 +1,13 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 104, Trecho 105, Trecho 106, Trecho 107, Trecho 108, Trecho 109
-@correcoes G40-01, G40-02, G40-03, G40-04, G40-05, G40-06, G40-07, G40-08, G40-09, G40-10, G40-11, G40-12, G40-13, G40-14, G40-15, G40-16, G40-17, G40-18, G40-19, G40-20, G40-21
+@correcoes G40-01, G40-02, G40-03, G40-04, G40-05, G40-06, G40-07, G40-08, G40-09, G40-10, G40-11, G40-12, G40-13, G40-14, G40-15, G40-16, G40-17, G40-18, G40-19, G40-20, G40-21, G40-22
 
 @cabecalho
 HOMILIA XL. Proferida ao povo na basílica do santo mártir Lourenço, no segundo domingo depois de Pentecostes.
 
 @leitura-titulo
-LEITURA do Santo Evangelho segundo Lucas XVI, 19-31.
+Leitura do santo Evangelho segundo Lucas 16,19-31.
 
 @leitura
 Naquele tempo, disse Jesus a seus discípulos: Havia um homem rico, que se vestia de púrpura e linho finíssimo, e todos os dias se banqueteava esplendidamente. Havia também um mendigo, chamado Lázaro, que jazia à sua porta, coberto de úlceras, desejando saciar-se com as migalhas que caíam da mesa do rico, e ninguém lhas dava. Até os cães vinham lamber-lhe as úlceras. Aconteceu, porém, que o mendigo morreu e foi levado pelos anjos ao seio de Abraão. Morreu também o rico e foi sepultado no inferno. Então, erguendo os olhos, estando em tormentos, viu ao longe Abraão, e Lázaro em seu seio. E, clamando, disse: Pai Abraão, tem misericórdia de mim e manda Lázaro molhar a ponta do dedo em água para refrescar a minha língua, porque sou atormentado nesta chama. Abraão, porém, lhe disse: Filho, lembra-te de que recebeste teus bens em tua vida, e Lázaro, do mesmo modo, males. Agora, porém, ele é aqui consolado, e tu és atormentado. E, além de tudo isso, entre nós e vós está firmado um grande abismo, de sorte que os que querem passar daqui para vós não o podem, nem os daí passar para cá. Então ele disse: Rogo-te, pois, pai, que o mandes à casa de meu pai, porque tenho cinco irmãos, para que lhes dê testemunho, a fim de que também eles não venham para este lugar de tormentos. Abraão lhe disse: Eles têm Moisés e os Profetas; ouçam-nos. Mas ele respondeu: Não, pai Abraão; porém, se alguém dentre os mortos for até eles, farão penitência. Abraão, porém, lhe disse: Se não ouvem Moisés e os Profetas, tampouco acreditarão, ainda que alguém ressuscite dentre os mortos.

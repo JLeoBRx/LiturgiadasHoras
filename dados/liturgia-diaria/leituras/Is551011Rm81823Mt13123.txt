@@ -87,14 +87,15 @@ Palavra do Senhor.
 {V.} Semente é de Deus a Palavra, o Cristo é o semeador;
 todo aquele que o encontra, vida eterna encontrou!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mt 13,1-23
 
 @tema
 O semeador saiu para semear.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** {13,1-23}
 
+@texto
 [1] Naquele dia, Jesus saiu de casa
 e foi sentar-se às margens do mar da Galileia.
 [2] Uma grande multidão reuniu-se em volta dele.

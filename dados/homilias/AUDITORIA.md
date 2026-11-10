@@ -2,11 +2,19 @@
 
 > Gerado a partir de `dados/homilias/gregorio-magno/registro-editorial.json` por `ferramentas/homilias/gerar_documentos.mjs`. Não edite à mão.
 
+## Etapas
+
+| Etapa | Estado | Data |
+|---|---|---|
+| Finalização textual das 40 homilias | concluída | 06/11/2026 |
+| Distribuição litúrgica | concluída | 07/11/2026 |
+
 ## Método
 
-- **Texto latino de referência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e as duas redações do próprio Gregório (α e β).
-- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”, obtido no portal OpenSaints (https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne). Fonte textual declarada pela OpenSaints: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental. A edição de Migne não foi enviada.
-- **Procedimento:** cada homilia publicada foi lida em paralelo com o latim, parágrafo por parágrafo. Em todo ponto em que o português diverge do texto crítico, o aparato foi consultado; quando o OCR era duvidoso, a imagem da página.
+- **Texto latino de base:** J.-P. Migne, *Patrologia Latina* 76 (Paris, 1849), na transcrição do Corpus Corporum (Universidade de Zurique) publicada na Wikisource latina, enviada em PDF e separada por homilia em `dados/homilias/gregorio-magno/latim/`. Os números de coluna citados no registro (1434-1661) são os que essa transcrição traz entre colchetes; podem não coincidir com os de outras tiragens da PL 76, que não foram conferidas. É a base declarada da tradução recebida.
+- **Texto latino de conferência:** R. Étaix (ed.), *Gregorius Magnus, Homiliae in Evangelia*, CCSL 141, Turnhout: Brepols, 1999 — o PDF enviado. Edição crítica, com aparato de manuscritos e de fontes; usada para resolver passos duvidosos, identificar erros da transcrição de Migne e registrar variantes.
+- **Tradução conferida:** o arquivo enviado “Texto Traduzido, as 40 homilias.txt”, obtido no portal OpenSaints (https://opensaints.com/pt-BR/padres-da-igreja/fontes/sao-gregorio-magno-papa/sao-gregorio-magno-papa-homiliae-in-evangelia-ed-migne). Fonte textual declarada pela OpenSaints: Edição de Migne, Patrologia Latina 76, consultada pela OpenSaints na Wikisource latina: https://la.wikisource.org/wiki/Homiliae_in_Evangelia_(ed._Migne). Tradutor: não identificado nos materiais atualmente disponíveis. Não atribuir a tradução à OpenSaints nem a uma pessoa específica sem prova documental.
+- **Procedimento:** as 40 homilias foram lidas em paralelo com o latim, parágrafo por parágrafo (Etapa 1: as 9 publicadas primeiro com a CCSL 141 e depois revistas com Migne; as outras 31 com Migne e a CCSL). Em todo ponto em que o português diverge do latim, a CCSL e o seu aparato foram consultados. Verificações automáticas completaram a leitura: números de coluna e de seção, referências desfiguradas, notas editoriais, resíduos de ferramentas, falsos cognatos recorrentes.
 - **Regra decisiva:** quando o português segue uma leitura que o aparato atribui a manuscritos, isso é diferença de tradição textual (provavelmente a da edição de Migne), não erro de tradução: o texto fica como recebido e a diferença é registrada como *variante*.
 - **Só correções de confiança alta foram aplicadas.** Confiança moderada ou baixa = sugestão ou dúvida, nunca aplicada.
 - Escolhas de estilo que não mudam o sentido (artigos, pontuação, tempos verbais harmonizados, ordem das palavras) não foram alteradas nem itemizadas.
@@ -16,11 +24,11 @@
 
 | Tipo | Quantidade |
 |---|---|
-| Correções de tradução aplicadas | 212 |
-| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 97 |
-| Sugestões não aplicadas | 13 |
-| Dúvidas não resolvidas | 4 |
-| Variantes textuais registradas (texto mantido) | 27 |
+| Correções de tradução aplicadas | 259 |
+| Correções de problemas da fonte aplicadas (artefatos, notas editoriais, referências) | 123 |
+| Sugestões não aplicadas | 4 |
+| Dúvidas (1 ainda em aberto) | 2 |
+| Variantes textuais registradas (texto mantido) | 30 |
 | Homilias conferidas | 40 de 40 |
 
 Graus de segurança: **alta** — a correção é sustentada pelo original e pelo contexto; **moderada** — solução plausível, com alguma ambiguidade; **baixa** — não há elementos para uma solução definitiva.
@@ -28,6 +36,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 ## 1. Alterações efetivamente aplicadas
 
 ### 1.1 Correções de tradução
+
+#### G01-06 · Homilia I · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 21, 25-33
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 1
+- **Texto latino:** LECTIO EVANGELII SEC. LUC. XXI, 25-32.
+- **Tradução recebida:** “LEITURA DO EVANGELHO SEGUNDO LUCAS (21, 25-32).”
+- **Tradução aplicada:** “Leitura do Evangelho segundo Lucas 21,25-33.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 21,25-33: a leitura termina em 'Coelum et terra transibunt, verba autem mea non transibunt' (Lc 21,33); é também a extensão dada pela CCSL 141 (Evg. Lc 21, 25-33). O título de Migne, copiado pela tradução, indicava outra extensão.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
 
 #### G01-01 · Homilia I · § 1
 
@@ -91,6 +111,31 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Adjetivo ligado à palavra errada.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G01-07 · Homilia I · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia I
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 9, § 5: 'plerumque senibus ipsa sua salus aegritudo est'
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-01.txt`, bloco 7
+- **Texto latino:** nam etsi languor desit, plerumque sensibus ipsa sua salus aegritudo est (Migne)
+- **Tradução recebida:** “a própria saúde já é enfermidade para os sentidos”
+- **Tradução aplicada:** “a própria saúde já é enfermidade para os velhos”
+- **Justificativa linguística:** Migne traz 'sensibus' (para os sentidos); o texto crítico, 'senibus' (para os velhos). O contexto é a comparação entre o mundo e o homem que envelhece ('loquentis verba anhelitus intercidit… ita mundus in annis prioribus velut in juventute viguit'), e a lição da CCSL dá sentido mais claro: para os velhos, mesmo sem doença, a própria saúde já é enfermidade. A tradução recebida segue Migne. Registra-se a variante, sem alterar o português. Pelo critério C4 (Migne como referência, CCSL quando a justificativa filológica é consistente e o sentido o exige), adota-se 'senibus': o parágrafo compara o mundo ao homem que envelhece.
+- **Motivo:** Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).
+- **Decisão do responsável (06/11/2026):** adotar a leitura da CCSL. Aprovado no item C4.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G02-06 · Homilia II · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 18, 31-43
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-02.txt`, bloco 0
+- **Texto latino:** LECTIO S. EVANGELII SEC. LUC. XVIII, 31-44.
+- **Tradução recebida:** “Leitura do Santo Evangelho segundo Lucas 18, 31-44.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 18,31-43.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 18,31-43: Lc 18 tem 43 versículos; a leitura termina em 'Et omnis plebs, ut vidit, dedit laudem Deo' (Lc 18,43); é também a extensão dada pela CCSL 141 (Evg. Lc 18, 31-43). O título de Migne, copiado pela tradução, indicava outra extensão.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G02-02 · Homilia II · § 2
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia II
@@ -138,6 +183,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** Falso cognato: 'conversatio' é o modo de viver, a conduta; 'conversão' seria 'conversio'.
 - **Justificativa teológica ou contextual:** Gregório fala do exemplo da vida que move os outros a louvar a Deus, como o povo que viu o cego seguir Jesus.
 - **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G03-05 · Homilia III · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia III
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-03.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANGELII SEC. MATTH. XII, 46-50.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Mateus 12, 46-50.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 12,46-50.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G03-01 · Homilia III · § 1
@@ -190,6 +247,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Pronome com referente errado.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G04-02 · Homilia IV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-04.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANGELII SEC. MATTH. X, 5-10.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Mateus 10, 5-10.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 10,5-10.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G04-01 · Homilia IV · § 5, início
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IV
@@ -201,6 +270,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** 'Erga vos vicissim' é 'uns para com os outros', 'reciprocamente'; a tradução omitiu a reciprocidade e deixou a frase sem objeto claro.
 - **Justificativa teológica ou contextual:** Depois de falar do dom gratuito do ministério, Gregório aplica o 'de graça recebestes, de graça dai' às relações entre os fiéis.
 - **Motivo:** Omissão que deixa o sentido obscuro.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G05-10 · Homilia V · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia V
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-05.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. IV, 18-22.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 4, 18-22.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 4,18-22.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G05-01 · Homilia V · § 1, 1º parágrafo da homilia
@@ -253,6 +334,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Alteração da pessoa gramatical de uma sentença do autor.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G06-05 · Homilia VI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-06.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. XI, 2-10.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 11, 2-10.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 11,2-10.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G06-01 · Homilia VI · § 1, fim
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VI
@@ -291,6 +384,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Modo verbal errado e acréscimo.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G07-05 · Homilia VII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-07.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. I, 19-28.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO JOÃO 1, 19-28.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 1,19-28.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G07-01 · Homilia VII · § 3
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VII
@@ -302,6 +407,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** A tradução omitiu 'nostri Redemptoris'. O aparato registra apenas a inversão 'redemptoris nostri' em B e F, sem omissão.
 - **Justificativa teológica ou contextual:** É o mistério do Redentor — presente no meio dos homens e desconhecido — que João anuncia; sem o complemento, 'o mistério' fica indeterminado.
 - **Motivo:** Omissão de uma expressão.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G08-10 · Homilia VIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. II, 1-14.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Lucas 2, 1-14.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 2,1-14.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G08-02 · Homilia VIII · § 1, 1º parágrafo da homilia
@@ -317,6 +434,20 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Construção portuguesa que não transmite a sintaxe e o sentido do latim.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G08-04 · Homilia VIII · § 1, 1ª frase
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 54, § 1
+- **Localização no texto:** § 1, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 4
+- **Texto latino:** Quia, largiente Domino, missarum sollemnia ter hodie celebraturi sumus
+- **Tradução recebida:** “hoje celebraremos três vezes os solenes mistérios da missa”
+- **Tradução aplicada:** “hoje celebraremos três vezes as solenidades das missas”
+- **Justificativa linguística:** 'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.
+- **Justificativa teológica ou contextual:** A expressão não está errada quanto à doutrina, mas introduz um termo que o autor não usa aqui. Gregório refere-se às três missas do Natal.
+- **Motivo:** Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G08-01 · Homilia VIII · § 2, último parágrafo
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
@@ -329,6 +460,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Erro tipográfico da tradução recebida.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G08-05 · Homilia VIII · § 2, 1ª frase
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 55, § 2
+- **Localização no texto:** § 2, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 5
+- **Texto latino:** eiusque uoci angelorum chori concinunt et congaudentes clamant
+- **Tradução recebida:** “os coros dos anjos concordam com a sua voz”
+- **Tradução aplicada:** “os coros dos anjos cantam em uníssono com a sua voz”
+- **Justificativa linguística:** 'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.
+- **Motivo:** Perda da imagem do canto. Duas leituras possíveis; não aplicado. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G09-01 · Homilia IX · rubrica
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
@@ -339,6 +483,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “no dia do seu natalício.”
 - **Justificativa linguística:** Para um santo, 'dies natalis' é o dia do nascimento para o céu (a festa), não o do nascimento. A tradução usa 'natalício' nas rubricas das Homilias III e V, com a mesma fórmula latina.
 - **Motivo:** Termo litúrgico mal traduzido; uniformidade com as outras rubricas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G09-05 · Homilia IX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-09.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. XXV, 14-30.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Mateus 25, 14-30.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 25,14-30.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G09-02 · Homilia IX · § 1, início
@@ -375,6 +531,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “a cujo proveito, contudo, descuida de servir,”
 - **Justificativa linguística:** Falso cognato: 'dissimulare' + infinitivo é deixar de fazer, descuidar-se (como em G02-02).
 - **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G10-09 · Homilia X · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia X
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-10.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. II, 1-12.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 2, 1-12.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 2,1-12.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G10-02 · Homilia X · § 2
@@ -415,6 +583,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Alteração da pessoa gramatical.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G11-03 · Homilia XI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANGELII SEC. MATTH. XIII, 44--52.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Mateus 13, 44–52.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 13,44-52.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G11-01 · Homilia XI · § 2, fim
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
@@ -425,6 +605,31 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Pois aquele a quem ela tiver absorvido perfeitamente, ela o torna como insensível aos desejos terrenos exteriores.”
 - **Justificativa linguística:** Faltava o objeto de 'torna' ('quem… reddit': torna-o); sem ele a frase fica sem construção.
 - **Motivo:** Construção incompleta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G11-02 · Homilia XI · § 4, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 79
+- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 8
+- **Texto latino:** Quidquid in mente pueriliter hilarescit, hoc disciplinae juvenilis censura coerceat
+- **Tradução recebida:** “contenha-o a censura de uma disciplina madura”
+- **Tradução aplicada:** “contenha-o a censura de uma disciplina juvenil”
+- **Justificativa linguística:** 'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.
+- **Motivo:** Imagem alterada sem prejuízo grave do sentido. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G12-07 · Homilia XII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. XXV, 1 - 13.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO MATEUS 25, 1-13.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 25,1-13.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G12-01 · Homilia XII · § 6, início
@@ -452,15 +657,28 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Expressão ambígua.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G12-06 · Homilia XII · § 7
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
+- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
+- **Texto latino:** vir valde idoneus, sed tantum plenus vitiis, quantum rebus
+- **Tradução recebida:** “homem muito capaz,”
+- **Tradução aplicada:** “homem de grandes posses,”
+- **Justificativa linguística:** No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.
+- **Motivo:** Sentido provável diferente do adotado; não há segurança para aplicar. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G13-01 · Homilia XIII · título da leitura
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIII
 - **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 89
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-13.txt`, bloco 2
 - **Texto latino:** LECTIO S. EVANG. SEC. LUC. XII, 35-40.
-- **Tradução recebida:** “Lucas XII, 35-40.”
-- **Tradução aplicada:** “Lucas 12, 35-40.”
-- **Justificativa linguística:** Capítulo em algarismos arábicos, como nos títulos das outras 39 homilias da tradução.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Lucas XII, 35-40.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 12,35-40.”
+- **Justificativa linguística:** Capítulo em algarismos arábicos, como nos títulos das outras 39 homilias da tradução. Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Uniformidade da identificação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -486,6 +704,30 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “não penseis no provimento incerto da vida temporal.”
 - **Justificativa linguística:** 'Incerta' concorda com 'providentia': o provimento da vida temporal é que é incerto, em contraste com a morte certa ('certa mors').
 - **Motivo:** Adjetivo transformado em advérbio; perde-se o contraste certo/incerto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G14-02 · Homilia XIV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-14.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. X, 11-16.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO JOÃO 10, 11-16.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 10,11-16.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G15-05 · Homilia XV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-15.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. VIII, 4-15.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS 8, 4-15.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 8,4-15.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G15-01 · Homilia XV · § 2, início
@@ -537,6 +779,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Sentido invertido.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G16-07 · Homilia XVI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 2
+- **Texto latino:** LECTIO EVANG. SEC. MATTH. IV, 1-11.
+- **Tradução recebida:** “LEITURA DO EVANGELHO SEGUNDO MATEUS 4, 1-11.”
+- **Tradução aplicada:** “Leitura do Evangelho segundo Mateus 4,1-11.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G16-01 · Homilia XVI · § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
@@ -562,6 +816,20 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Omissão de uma expressão.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G16-05 · Homilia XVI · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 114, § 5, aparato à l. 102
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 8
+- **Texto latino:** Dum uero per trecentos et sexaginta dies annus ducitur, nos autem per triginta et sex dies affligimur, quasi anni nostri decimas Deo damus (aparato: '+ quinque' em F, K e L p.c.)
+- **Tradução recebida:** “trezentos e sessenta e cinco dias”
+- **Tradução aplicada:** “trezentos e sessenta dias”
+- **Justificativa linguística:** O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue. Pelo critério C4, adota-se a leitura da CCSL: o argumento de Gregório (os 36 dias de jejum como dízimo do ano) só fecha com 360 dias; '365' é correção posterior de manuscritos, seguida por Migne.
+- **Justificativa teológica ou contextual:** O argumento de Gregório é aritmético: 36 dias de jejum são a DÉCIMA parte (o dízimo) de 360. Com 365 a conta deixa de ser exata.
+- **Motivo:** Leitura da CCSL adotada pelo critério C4 (decisão de 06/11/2026).
+- **Decisão do responsável (06/11/2026):** adotar a leitura da CCSL. Aprovado no item C4.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G16-03 · Homilia XVI · § 6
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
@@ -585,6 +853,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** A tradução omitiu 'afflictis et paenitentibus', que qualifica 'nobis'. O aparato não registra omissão em nenhum manuscrito.
 - **Justificativa teológica ou contextual:** A condição do perdão (a penitência e a aflição de quem jejua) é o tema do parágrafo; a omissão a apagava da frase conclusiva.
 - **Motivo:** Omissão de uma expressão.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G17-12 · Homilia XVII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-17.txt`, bloco 2
+- **Texto latino:** LECTIO EVANG. SEC. LUC. X, 1-9.
+- **Tradução recebida:** “LEITURA DO EVANGELHO SEGUNDO LUCAS 10, 1-9.”
+- **Tradução aplicada:** “Leitura do Evangelho segundo Lucas 10,1-9.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G17-01 · Homilia XVII · § 5, fim
@@ -719,6 +999,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Falso cognato.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G19-08 · Homilia XIX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-19.txt`, bloco 2
+- **Texto latino:** LECTIO EVANG. SEC. MATTH. XX, 1-16.
+- **Tradução recebida:** “LEITURA DO EVANGELHO SEGUNDO MATEUS 20, 1-16.”
+- **Tradução aplicada:** “Leitura do Evangelho segundo Mateus 20,1-16.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G19-01 · Homilia XIX · fim da leitura e início do § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XIX
@@ -775,8 +1067,8 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 2
 - **Texto latino:** LECTIO S. EVANG. SEC. LUC. III, 1-11.
 - **Tradução recebida:** “LIÇÃO DO SANTO EVANGELHO SEGUNDO LUCAS III, 1-11.”
-- **Tradução aplicada:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS 3, 1-11.”
-- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com fórmula e numeração diferentes das demais homilias ('Lição', capítulo em algarismos romanos). Passa a título da leitura, na forma usada em toda a tradução.
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 3,1-11.”
+- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com fórmula e numeração diferentes das demais homilias ('Lição', capítulo em algarismos romanos). Passa a título da leitura, na forma usada em toda a tradução. Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Organização e uniformidade da identificação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -852,6 +1144,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Palavra mal traduzida.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G21-08 · Homilia XXI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-21.txt`, bloco 1
+- **Texto latino:** LECTIO. S. EVANG. SEC. MARC. XVI, 1-7.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Marcos 16, 1-7.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Marcos 16,1-7.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G21-01 · Homilia XXI · § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
@@ -890,6 +1194,31 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Tradução incorreta que altera o sentido da frase.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G21-06 · Homilia XXI · § 7, conclusão
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 179, § 7
+- **Localização no texto:** § 7, conclusão — `dados/homilias/gregorio-magno/recebida/homilia-21.txt`, bloco 9
+- **Texto latino:** Ad horum ergo ciuium illam frequentem sollemnitatem festinemus.
+- **Tradução recebida:** “Corramos, pois, para aquela frequente solenidade desses cidadãos.”
+- **Tradução aplicada:** “Corramos, pois, para aquela solenidade incessante desses cidadãos.”
+- **Justificativa linguística:** 'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.
+- **Motivo:** 'frequens' entendido como 'contínua' (paralelo da Homilia XXVI, § 10: 'non est annua, sed continua'); decisão do responsável (C5).
+- **Decisão do responsável (06/11/2026):** adotar 'incessante'. Aprovado no item C5.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G22-10 · Homilia XXII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-22.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XX, 1--9.
+- **Tradução recebida:** “Leitura do santo Evangelho segundo João 20, 1–9.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 20,1-9.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G22-09 · Homilia XXII · § 9, fim
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXII
@@ -901,6 +1230,67 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** 'Quem amamus' é 'a quem amamos' (o objeto do nosso amor é Cristo), não 'nós, que amamos'.
 - **Justificativa teológica ou contextual:** A frase final diz que o próprio Cristo, amado, ajuda os que não são preguiçosos no amor; a tradução recebida perdia o objeto do amor.
 - **Motivo:** Relativo com função trocada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-01 · Homilia XXIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XXIV, 13-35.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Lucas 24, 13-35.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 24,13-35.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-02 · Homilia XXIII · leitura do Evangelho (Lc 24,28)
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 192 (igual a Migne: 'et ipse finxit se longius ire')
+- **Localização no texto:** leitura do Evangelho (Lc 24,28) — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 2
+- **Texto latino:** Et ipse finxit se longius ire.
+- **Tradução recebida:** “Aproximaram-se da aldeia para onde iam, e Ele fez menção de seguir adiante.”
+- **Tradução aplicada:** “Aproximaram-se da aldeia para onde iam, e Ele fingiu ir mais longe.”
+- **Justificativa linguística:** Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.
+- **Motivo:** Leitura traduzida sem a palavra que o autor comenta.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-03 · Homilia XXIII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1 (igual a Migne)
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
+- **Texto latino:** se ire longius finxit. Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
+- **Tradução recebida:** “em seus corações, fez menção de seguir adiante.”
+- **Tradução aplicada:** “em seus corações, fingiu ir mais longe.”
+- **Justificativa linguística:** Gregório comenta justamente o verbo 'finxit' (fingiu): explica que 'fingere' é também 'componere', dar forma, e que por isso os que modelam o barro se chamam 'figuli', concluindo que 'a Verdade simples nada fez por duplicidade'. Com 'fez menção de seguir adiante', a tradução recebida apagava a palavra comentada, e a explicação sobre 'fingir' que vem logo depois ficava sem apoio. Divergência encontrada ao preparar a tradução própria piloto desta homilia.
+- **Motivo:** Tradução que apaga a palavra comentada na frase seguinte.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G23-04 · Homilia XXIII · § 1
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 193, § 1
+- **Localização no texto:** § 1 — `dados/homilias/gregorio-magno/recebida/homilia-23.txt`, bloco 3
+- **Texto latino:** Fingere namque componere dicimus; unde et compositores luti figulos vocamus.
+- **Tradução recebida:** “daí também chamarmos oleiros aos que moldam o barro.”
+- **Tradução aplicada:** “daí também chamarmos oleiros (em latim, figuli) aos que moldam o barro.”
+- **Justificativa linguística:** O jogo de palavras do latim ('fingere' / 'figulus') não passa para o português ('fingir' / 'oleiro'). Uma breve indicação entre parênteses tornaria o raciocínio compreensível; é acréscimo de tradutor, por isso fica como sugestão.
+- **Motivo:** Jogo de palavras intraduzível; decisão sua. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G24-05 · Homilia XXIV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-24.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XXI, 1-14.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo João 21, 1-14.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 21,1-14.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G24-01 · Homilia XXIV · § 4
@@ -937,6 +1327,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Pois Aquele que benignamente inflama os desejos dos imperfeitos”
 - **Justificativa linguística:** Falso cognato: 'dignanter' é 'condescendendo', 'por bondade' (de 'dignari', dignar-se); 'dignamente' seria 'digne'.
 - **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G25-14 · Homilia XXV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XX, 11-18:
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo João 20, 11-18:”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 20,11-18.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G25-01 · Homilia XXV · § 2
@@ -1023,6 +1425,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Acréscimo sem sustentação no original.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G26-13 · Homilia XXVI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XX, 19-31.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo João 20, 19-31.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 20,19-31.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G26-01 · Homilia XXVI · § 2
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
@@ -1047,6 +1461,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** 'principatus' é a primazia, a autoridade principal; 'participação' não traduz a palavra e enfraquece a afirmação.
 - **Justificativa teológica ou contextual:** Gregório fala da autoridade de perdoar e reter os pecados conferida aos apóstolos 'em lugar de Deus' (uice Dei); 'participação' apaga o caráter de autoridade.
 - **Motivo:** Termo que não transmite o sentido do original.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G27-09 · Homilia XXVII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-27.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XV, 12-16.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo João 15, 12-16.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 15,12-16.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G27-01 · Homilia XXVII · § 1
@@ -1117,9 +1543,9 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 239
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-28.txt`, bloco 1
 - **Texto latino:** LECTIO S. EVANG. SEC. JOAN. IV, 46-53.
-- **Tradução recebida:** “JOÃO (Jo 4,46-53).”
-- **Tradução aplicada:** “JOÃO 4, 46-53.”
-- **Justificativa linguística:** Referência no formato dos títulos das outras homilias.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO JOÃO (Jo 4,46-53).”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 4,46-53.”
+- **Justificativa linguística:** Referência no formato dos títulos das outras homilias. Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Uniformidade da identificação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -1136,6 +1562,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Sujeito e complemento invertidos.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G29-12 · Homilia XXIX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. MARC. XVI, 14-20.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO MARCOS (Mc 16,14-20).”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Marcos 16,14-20.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G29-08 · Homilia XXIX · § 10
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
@@ -1147,6 +1585,30 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Justificativa linguística:** 'Veritas' designa aqui o próprio Cristo ('manifestata per carnem'); a tradução usa maiúscula nesse sentido em outras homilias ('a Verdade afirma', Homilia VII).
 - **Justificativa teológica ou contextual:** Com minúscula, a frase parece falar de uma verdade abstrata, quando o sujeito é Cristo, a Verdade encarnada, que 'deu os saltos' do céu ao ventre, à cruz, ao sepulcro e de volta ao céu.
 - **Motivo:** Perda de sentido teológico por grafia.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-11 · Homilia XXIX · § 10, fim
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 254, § 10
+- **Localização no texto:** § 10, fim — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 9
+- **Texto latino:** Trahe me post te, curremus in odorem unguentorum tuorum.
+- **Tradução recebida:** “correremos ao perfume de teus ungüentos (Ct 1,3)”
+- **Tradução aplicada:** “correremos ao perfume de teus unguentos (Ct 1,3)”
+- **Justificativa linguística:** Grafia anterior ao Acordo Ortográfico (trema), conservada na tradução recebida.
+- **Motivo:** Atualização ortográfica (Acordo Ortográfico de 1990, em vigor no Brasil desde 2009), sem relação com o sentido; aplicada na revisão do português da Etapa 1, como no restante do site.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-14 · Homilia XXX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. JOAN. XIV, 23-31.
+- **Tradução recebida:** “Leitura do santo Evangelho segundo João XIV, 23-31.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo João 14,23-31.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G30-01 · Homilia XXX · § 2
@@ -1184,6 +1646,19 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “porque inflama para a súplica aqueles que Ele enche”
 - **Justificativa linguística:** Mesmo verbo de G30-02 ('quos repleuerit').
 - **Motivo:** Termo que altera o sentido do original.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-06 · Homilia XXX · § 5
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 260, § 5
+- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 8
+- **Texto latino:** quia idem Spiritus coaeternus est Filio, et habet cognationem maximam lingua cum uerbo. Verbum quippe Patris Filius.
+- **Tradução recebida:** “e há máxima afinidade entre a língua e o Verbo”
+- **Tradução aplicada:** “e há máxima afinidade entre a língua e a palavra”
+- **Justificativa linguística:** O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.
+- **Motivo:** Perda de um jogo de palavras do autor. Fica como sugestão. Aplicada por decisão do responsável (C6, 06/11/2026).
+- **Decisão do responsável (06/11/2026):** aplicar. Aprovado no item C6.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G30-07 · Homilia XXX · § 5
@@ -1256,8 +1731,8 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-31.txt`, bloco 1
 - **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIII, 6-13.
 - **Tradução recebida:** “Lição do Santo Evangelho segundo Lucas 13, 6-13.”
-- **Tradução aplicada:** “Leitura do Santo Evangelho segundo Lucas 13, 6-13.”
-- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com a fórmula 'Lição', diferente das demais homilias. Passa a título da leitura, na forma usada em toda a tradução.
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 13,6-13.”
+- **Justificativa linguística:** O título da leitura estava marcado como parágrafo da homilia e com a fórmula 'Lição', diferente das demais homilias. Passa a título da leitura, na forma usada em toda a tradução. Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Organização e uniformidade da identificação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -1319,6 +1794,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “estaria encurvado e humilhado, mas não de todo”
 - **Justificativa linguística:** Mesma razão de G31-04: o comentário retoma as palavras do versículo.
 - **Motivo:** Coerência entre a citação e o comentário.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G32-12 · Homilia XXXII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-32.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. IX, 23-27.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS IX, 23-27.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 9,23-27.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G32-01 · Homilia XXXII · § 2
@@ -1391,6 +1878,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Pregada ao povo na basílica de São Clemente, na sexta-feira das Têmporas de setembro.”
 - **Justificativa linguística:** O bloco é a rubrica (local e ocasião da pregação), mas estava marcado como parágrafo da homilia; passa à etiqueta correta, como nas demais homilias. Nenhuma palavra muda.
 - **Motivo:** Organização do texto.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G33-26 · Homilia XXXIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-33.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. VII, 36-50.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Lucas VII, 36-50.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 7,36-50.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G33-02 · Homilia XXXIII · fim da leitura / início do § 1
@@ -1547,6 +2046,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “Pelo próprio fato de nos horrorizarmos com a nossa impureza, já concordamos”
 - **Justificativa linguística:** 'Perhorrescere' é sentir horror de algo; em português, 'horrorizar' transitivo significa causar horror ('horrorizamos nossa impureza' diria que causamos horror à impureza). Usa-se a forma pronominal 'horrorizar-se com'.
 - **Motivo:** Regência verbal que inverte o sentido.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G34-33 · Homilia XXXIV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-34.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XV, 1-10.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Lucas (15, 1-10).”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 15,1-10.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G34-01 · Homilia XXXIV · leitura do Evangelho (Lc 15,8)
@@ -1801,6 +2312,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Decalque do latim que obscurece o sentido.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G35-11 · Homilia XXXV · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-35.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XXI, 9-19.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS (Lc 21,9-19).”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 21,9-19.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G35-01 · Homilia XXXV · leitura do Evangelho (Lc 21,19)
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXV
@@ -1883,6 +2406,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “se com mente firme temeis as perdas que hão de durar,”
 - **Justificativa linguística:** 'Mansura' concorda com 'damna': são perdas que hão de durar (a perda eterna), não perdas de coisas permanentes. A oposição é entre o dano eterno e o dano das coisas que passam.
 - **Motivo:** Concordância latina mal interpretada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G36-19 · Homilia XXXVI · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-36.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIV, 16-24.
+- **Tradução recebida:** “Leitura do Santo Evangelho segundo Lucas 14, 16-24.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 14,16-24.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G36-01 · Homilia XXXVI · § 4, início
@@ -2029,6 +2564,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Artefato de digitalização.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G37-13 · Homilia XXXVII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-37.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIV, 25-33.
+- **Tradução recebida:** “LEITURA do santo Evangelho segundo Lucas 14, 25-33.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 14,25-33.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G37-01 · Homilia XXXVII · leitura do Evangelho (Lc 14,26)
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVII
@@ -2147,6 +2694,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “celebrou a missa no oratório da casa episcopal”
 - **Justificativa linguística:** 'Episcopium' é a residência do bispo; 'episcopado', em português, é o cargo ou o conjunto dos bispos.
 - **Motivo:** Falso cognato.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G38-25 · Homilia XXXVIII · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXVIII
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Mt 22, 1-14
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-38.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. MATTH. XXII, 1-13.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Mateus 22, 1-13.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Mateus 22,1-14.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 22,1-14: a leitura termina em 'Multi enim sunt vocati, pauci vero electi' (Mt 22,14), versículo que Gregório comenta no § 14; é também a extensão dada pela CCSL 141 (Evg. Mt 22, 1-14). O título de Migne, copiado pela tradução, indicava outra extensão.
+- **Motivo:** Uniformidade da formatação.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G38-01 · Homilia XXXVIII · § 4, citação
@@ -2353,6 +2912,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Uniformidade.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G39-08 · Homilia XXXIX · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne); Evg. Lc 19, 41-47
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-39.txt`, bloco 2
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XIX, 42-47.
+- **Tradução recebida:** “LEITURA DO SANTO EVANGELHO SEGUNDO LUCAS XIX, 42-47.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 19,41-47.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo. Na Etapa 2 (06/11/2026), a extensão foi corrigida para 19,41-47: a leitura começa em 'cum appropinquaret Jesus Jerusalem, videns civitatem, flevit super illam' (Lc 19,41); é também a extensão dada pela CCSL 141 (Evg. Lc 19, 41-47). O título de Migne, copiado pela tradução, indicava outra extensão.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G39-01 · Homilia XXXIX · § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXXIX
@@ -2425,6 +2996,18 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Motivo:** Construção incorreta.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G40-22 · Homilia XL · título da leitura
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), título (igual a Migne)
+- **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-40.txt`, bloco 1
+- **Texto latino:** LECTIO S. EVANG. SEC. LUC. XVI, 19-31.
+- **Tradução recebida:** “LEITURA do Santo Evangelho segundo Lucas XVI, 19-31.”
+- **Tradução aplicada:** “Leitura do santo Evangelho segundo Lucas 16,19-31.”
+- **Justificativa linguística:** Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
+- **Motivo:** Uniformidade da formatação.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G40-05 · Homilia XL · § 3, lacuna da tradução recebida
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XL
@@ -2435,6 +3018,7 @@ Graus de segurança: **alta** — a correção é sustentada pelo original e pel
 - **Tradução aplicada:** “exprimiria com tanto cuidado que o rico atormentado no inferno se vestira de linho finíssimo e de púrpura. Pois ninguém procura vestes de luxo senão por vã glória, isto é, para parecer mais honrado que os demais.”
 - **Justificativa linguística:** Na tradução recebida, a frase interrompe-se no meio de uma palavra ('exprim') e o resto foi substituído por anotações de trabalho deixadas por uma ferramenta automática ('glria? Wait correct typo. Need final clean.'), sem a tradução de duas frases do latim. É a única lacuna desse tipo nas 40 homilias (verificação por busca em todo o texto recebido). As anotações saem do texto de leitura, e as duas frases são traduzidas diretamente do latim, que é o mesmo em Migne e na CCSL. O texto acrescentado não vem da tradução recebida: é tradução própria, identificada como tal neste item. A cópia recebida continua intacta em recebida/.
 - **Motivo:** Lacuna e resíduo de ferramenta automática na tradução recebida.
+- **Decisão do responsável (06/11/2026):** aprovado. Preenchimento aprovado como está; mantém-se a identificação de tradução própria.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G40-06 · Homilia XL · § 3
@@ -2621,6 +3205,30 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Identificação ausente na fonte portuguesa; acrescentada a partir do latim. A rubrica é de Migne: o texto crítico não a traz.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G04-03 · Homilia IV · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-04.txt`, bloco 4
+- **Texto latino:** (Act. II, 41; IV, 4)
+- **Tradução recebida:** “(At 2,41; 4, 4)”
+- **Tradução aplicada:** “(At 2,41; 4,4)”
+- **Justificativa linguística:** Espaço indevido depois da vírgula na segunda referência; forma usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G04-04 · Homilia IV · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia IV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-04.txt`, bloco 4
+- **Texto latino:** (Psal. XLV, 9; LXV, 5)
+- **Tradução recebida:** “(Sl 45,9; 65, 5)”
+- **Tradução aplicada:** “(Sl 45,9; 65,5)”
+- **Justificativa linguística:** Espaço indevido depois da vírgula na segunda referência; forma usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G10-01 · Homilia X · fim da leitura do Evangelho / início do § 1
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia X
@@ -2631,6 +3239,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “regressaram por outro caminho à sua terra. ¶ Como ouvistes na leitura evangélica”
 - **Justificativa linguística:** A tradução recebida traz, colados ao fim do Evangelho, o número '1468' e a numeração '1.', que não pertencem ao texto (artefatos do material de origem), e junta o § 1 da homilia ao parágrafo da leitura bíblica. A correção apenas retira os dois números e separa o parágrafo; nenhuma palavra do texto muda.
 - **Motivo:** Problema da fonte: artefato e junção indevida de parágrafos.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G10-10 · Homilia X · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia X
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-10.txt`, bloco 2
+- **Texto latino:** (I Cor. XIV, 22)
+- **Tradução recebida:** “(I Cor. XIV, 22)”
+- **Tradução aplicada:** “(1Cor 14,22)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G12-04 · Homilia XII · § 3
@@ -2681,6 +3301,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G16-08 · Homilia XVI · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 9
+- **Texto latino:** (Joel. I, 14; II, 15)
+- **Tradução recebida:** “(Jl 1,14; 2, 15)”
+- **Tradução aplicada:** “(Jl 1,14; 2,15)”
+- **Justificativa linguística:** Espaço indevido depois da vírgula na segunda referência; forma usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G17-08 · Homilia XVII · § 9
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVII
@@ -2711,9 +3343,9 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 135
 - **Localização no texto:** título da leitura — `dados/homilias/gregorio-magno/recebida/homilia-18.txt`, bloco 1
 - **Texto latino:** LECTIO. EVANG. SEC. JOAN. VIII, 45-69. (Migne)
-- **Tradução recebida:** “João 8, 45-69.”
-- **Tradução aplicada:** “João 8, 46-59.”
-- **Justificativa linguística:** João 8 tem 59 versículos. A leitura vai de 'Quis ex vobis arguet me de peccato?' (8,46) a 'exivit de templo' (8,59), referência dada também pelo índice da tradução de Hurst. '45-69' é erro da edição de Migne, copiado pela tradução.
+- **Tradução recebida:** “LEITURA do Evangelho segundo João 8, 45-69.”
+- **Tradução aplicada:** “Leitura do Evangelho segundo João 8,46-59.”
+- **Justificativa linguística:** João 8 tem 59 versículos. A leitura vai de 'Quis ex vobis arguet me de peccato?' (8,46) a 'exivit de templo' (8,59), referência dada também pelo índice da tradução de Hurst. '45-69' é erro da edição de Migne, copiado pela tradução. Forma do título uniformizada nas 40 homilias: a tradução recebida alternava maiúsculas e minúsculas, algarismos romanos e arábicos, parênteses e espaços na referência. Adota-se uma só forma ('Leitura do santo Evangelho segundo Lucas 9,23-27.'), com a referência no formato usado em toda a tradução; 'santo' acompanha o latim ('LECTIO S. EVANG.'), e falta onde o latim não o tem (Homilias I, XVI–XIX). No site o título continua a aparecer em maiúsculas, por estilo.
 - **Motivo:** Referência bíblica impossível na edição de base.
 - **Grau de segurança:** alta · **estado:** aplicada
 
@@ -2751,6 +3383,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “trigo (Sl 64,14).”
 - **Justificativa linguística:** Referência desfigurada na fonte portuguesa.
 - **Motivo:** Referência bíblica desfigurada.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G20-15 · Homilia XX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-20.txt`, bloco 4
+- **Texto latino:** (Luc. XIV, 11; XVIII, 14)
+- **Tradução recebida:** “(Lc 14,11; 18, 14)”
+- **Tradução aplicada:** “(Lc 14,11; 18,14)”
+- **Justificativa linguística:** Espaço indevido depois da vírgula na segunda referência; forma usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G20-05 · Homilia XX · § 4
@@ -2921,6 +3565,18 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Referência bíblica desfigurada.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G25-15 · Homilia XXV · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-25.txt`, bloco 3
+- **Texto latino:** (Matth. X, 22; XXIV, 13)
+- **Tradução recebida:** “(Mt 10,22; 24, 13)”
+- **Tradução aplicada:** “(Mt 10,22; 24,13)”
+- **Justificativa linguística:** Espaço indevido depois da vírgula na segunda referência; forma usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G25-02 · Homilia XXV · § 2
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXV
@@ -3053,6 +3709,30 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Erro na referência bíblica acrescentada pela edição.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G26-14 · Homilia XXVI · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 12
+- **Texto latino:** Absorbebit fluvium, et non mirabitur (Ibid.)
+- **Tradução recebida:** “não se admirará (ibid.)”
+- **Tradução aplicada:** “não se admirará (Jó 40,18)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G26-15 · Homilia XXVI · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 12
+- **Texto latino:** Et habet fiduciam quod influat Jordanis in os ejus (Ibid.)
+- **Tradução recebida:** “correrá para a boca (ibid.)”
+- **Tradução aplicada:** “correrá para a boca (Jó 40,18)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G27-03 · Homilia XXVII · § 4
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVII
@@ -3101,6 +3781,42 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G29-13 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 3
+- **Texto latino:** Videntibus illis, elevatus est, et nubes suscepit eum ab oculis eorum (Ibid., 9)
+- **Tradução recebida:** “a seus olhos (ibid., 9)”
+- **Tradução aplicada:** “a seus olhos (At 1,9)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-14 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 4
+- **Texto latino:** (I Cor. XV, 36)
+- **Tradução recebida:** “(I Cor. XV, 36)”
+- **Tradução aplicada:** “(1Cor 15,36)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-15 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 4
+- **Texto latino:** (Matth. X, 5)
+- **Tradução recebida:** “(Mt. X, 5)”
+- **Tradução aplicada:** “(Mt 10,5)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G29-01 · Homilia XXIX · § 3, fim
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
@@ -3113,6 +3829,54 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Acréscimo editorial que não pertence ao texto do autor.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G29-16 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 5
+- **Texto latino:** (Tit. I, 16)
+- **Tradução recebida:** “(Tit. I, 16)”
+- **Tradução aplicada:** “(Tt 1,16)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-17 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 5
+- **Texto latino:** (I Joan. II, 4)
+- **Tradução recebida:** “(I Jo. II, 4)”
+- **Tradução aplicada:** “(1Jo 2,4)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-18 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 6
+- **Texto latino:** (I Cor. XIV, 22)
+- **Tradução recebida:** “(I Cor. XIV, 22)”
+- **Tradução aplicada:** “(1Cor 14,22)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-19 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 6
+- **Texto latino:** (Matth. VII, 22, 23; Psal. VI, 9)
+- **Tradução recebida:** “(Mt. VII, 22, 23; Sl. VI, 9)”
+- **Tradução aplicada:** “(Mt 7,22-23; Sl 6,9)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G29-02 · Homilia XXIX · § 6
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
@@ -3123,6 +3887,30 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “mas de Elias que foi levado ao céu (IV Reg.” (e o bloco é unido ao seguinte)
 - **Justificativa linguística:** Na tradução recebida o parágrafo está partido no meio de uma frase e de uma referência bíblica ('(IV Reg.' / 'II, 11)'). A correção apenas une os dois pedaços; nenhuma palavra muda.
 - **Motivo:** Problema de formatação da fonte.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-20 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 8
+- **Texto latino:** (Gen. V, 24)
+- **Tradução recebida:** “(Gn. V, 24)”
+- **Tradução aplicada:** “(Gn 5,24)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G29-21 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 8
+- **Texto latino:** (IV Reg. II, 11)
+- **Tradução recebida:** “(IV Reg.”
+- **Tradução aplicada:** “(2Rs 2,11),”
+- **Justificativa linguística:** Referência na forma usada em toda a tradução. 'IV Reg.' da Vulgata corresponde ao Segundo Livro dos Reis das Bíblias atuais. A referência estava partida entre dois parágrafos na tradução recebida (ver G29-02, que os une).
+- **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G29-03 · Homilia XXIX · § 6 / § 7
@@ -3185,6 +3973,30 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Motivo:** Referência bíblica desfigurada na fonte.
 - **Grau de segurança:** alta · **estado:** aplicada
 
+#### G29-22 · Homilia XXIX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 9
+- **Texto latino:** (IV Reg. II, 11), ut veniret postmodum…
+- **Tradução recebida:** “II, 11), para”
+- **Tradução aplicada:** “para”
+- **Justificativa linguística:** Resto da referência partida (ver o item anterior, que a escreve por inteiro no parágrafo precedente).
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-15 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 3
+- **Texto latino:** mandata ejus non custodit, mendax est (Ibid., 20)
+- **Tradução recebida:** “é mentiroso (ibid., 20)”
+- **Tradução aplicada:** “é mentiroso (1Jo 4,20)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
 #### G30-05 · Homilia XXX · § 5
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
@@ -3195,6 +4007,90 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução aplicada:** “Nosso Deus é um fogo consumidor (Hb 12,29).”
 - **Justificativa linguística:** Referência bíblica (nota editorial) desfigurada na tradução recebida.
 - **Motivo:** Referência bíblica desfigurada na fonte.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-16 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 8
+- **Texto latino:** Sed malitia parvuli estote (Ibid.)
+- **Tradução recebida:** “pequeninos na malícia (ibid.)”
+- **Tradução aplicada:** “pequeninos na malícia (1Cor 14,20)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-20 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 10
+- **Texto latino:** (I Joan. I, 8)
+- **Tradução recebida:** “(1 Jo 1,8)”
+- **Tradução aplicada:** “(1Jo 1,8)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-17 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 11
+- **Texto latino:** Et spiritu oris ejus omnis virtus eorum (Ibid.)
+- **Tradução recebida:** “todo o poder deles (ibid.)”
+- **Tradução aplicada:** “todo o poder deles (Sl 32,6)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-21 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 11
+- **Texto latino:** (I Cor. XII, 8, seq.)
+- **Tradução recebida:** “(1 Cor 12, 8ss.)”
+- **Tradução aplicada:** “(1Cor 12,8ss)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-18 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 12
+- **Texto latino:** non loqui (Ibid., IV, 9, 10)
+- **Tradução recebida:** “(ibid. 4, 19-20)”
+- **Tradução aplicada:** “(At 4,19-20)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa (At 4,19-20, como já trazia a tradução recebida; Migne imprime 'IV, 9, 10').
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-19 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 12
+- **Texto latino:** pro nomine Jesu contumelias pati (Ibid., V, 41)
+- **Tradução recebida:** “(ibid. 5, 41)”
+- **Tradução aplicada:** “(At 5,41)”
+- **Justificativa linguística:** 'Ibid.' substituído pela referência completa, conforme o critério adotado nas demais homilias.
+- **Motivo:** Uniformidade das referências bíblicas.
+- **Grau de segurança:** alta · **estado:** aplicada
+
+#### G30-22 · Homilia XXX · referência bíblica
+
+- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
+- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), referência (conferida com Migne)
+- **Localização no texto:** referência bíblica — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 12
+- **Texto latino:** (I Reg. XVI, 18)
+- **Tradução recebida:** “(1 Sm 16, 18)”
+- **Tradução aplicada:** “(1Sm 16,18)”
+- **Justificativa linguística:** Referência na forma abreviada usada em toda a tradução.
+- **Motivo:** Uniformidade das referências bíblicas.
 - **Grau de segurança:** alta · **estado:** aplicada
 
 #### G32-04 · Homilia XXXII · § 2, referência
@@ -3775,6 +4671,8 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 
 ## 2. Alterações sugeridas, mas não aplicadas
 
+Cada uma traz a decisão do responsável (relatório final da Etapa 1, 06/11/2026).
+
 #### G07-04 · Homilia VII · § 3
 
 - **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VII
@@ -3785,80 +4683,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “Sobre a Idumeia estenderei a minha sandália (Sl 59,10)”
 - **Justificativa linguística:** Gregório usa o nome latino 'Idumaea' (Idumeia), três vezes no trecho; a tradução moderniza para 'Edom'. As duas designações indicam a mesma região, e não há erro de sentido.
 - **Motivo:** Atualização de um nome antigo. Fica para sua decisão (seriam três ocorrências).
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G08-03 · Homilia VIII · leitura do Evangelho (Lc 2,13)
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 53, l. 19-20 e aparato
-- **Localização no texto:** leitura do Evangelho (Lc 2,13) — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 3
-- **Texto latino:** facta est cum angelo multitudo militiae caelestis (aparato: + 'exercitus' em E)
-- **Tradução recebida:** “juntou-se ao anjo uma multidão da milícia do exército celeste”
-- **Tradução proposta:** “juntou-se ao anjo uma multidão da milícia celeste”
-- **Justificativa linguística:** 'do exército' não está no texto crítico nem na Vulgata; só um manuscrito (E) acrescenta 'exercitus'. Pode ser glosa do tradutor ou leitura da edição de Migne, que não foi conferida.
-- **Motivo:** Possível acréscimo. Não aplicado porque a edição-base da tradução (Migne) não pôde ser consultada.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G08-04 · Homilia VIII · § 1, 1ª frase
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 54, § 1
-- **Localização no texto:** § 1, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 4
-- **Texto latino:** Quia, largiente Domino, missarum sollemnia ter hodie celebraturi sumus
-- **Tradução recebida:** “hoje celebraremos três vezes os solenes mistérios da missa”
-- **Tradução proposta:** “hoje celebraremos três vezes as solenidades das missas”
-- **Justificativa linguística:** 'missarum sollemnia' é literalmente 'as solenidades (celebrações solenes) das missas'; 'mistérios' é acréscimo interpretativo.
-- **Justificativa teológica ou contextual:** A expressão não está errada quanto à doutrina, mas introduz um termo que o autor não usa aqui. Gregório refere-se às três missas do Natal.
-- **Motivo:** Acréscimo de termo; de pouca consequência. Fica como sugestão para sua decisão.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G08-05 · Homilia VIII · § 2, 1ª frase
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia VIII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 55, § 2
-- **Localização no texto:** § 2, 1ª frase — `dados/homilias/gregorio-magno/recebida/homilia-08.txt`, bloco 5
-- **Texto latino:** eiusque uoci angelorum chori concinunt et congaudentes clamant
-- **Tradução recebida:** “os coros dos anjos concordam com a sua voz”
-- **Tradução proposta:** “os coros dos anjos cantam em uníssono com a sua voz”
-- **Justificativa linguística:** 'concinere' significa propriamente 'cantar juntos'; o sentido figurado 'concordar' existe, mas aqui o sujeito são 'coros' que 'clamam' o Glória, o que favorece o sentido musical.
-- **Motivo:** Perda da imagem do canto. Duas leituras possíveis; não aplicado.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G11-02 · Homilia XI · § 4, fim
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 79
-- **Localização no texto:** § 4, fim — `dados/homilias/gregorio-magno/recebida/homilia-11.txt`, bloco 8
-- **Texto latino:** Quidquid in mente pueriliter hilarescit, hoc disciplinae juvenilis censura coerceat
-- **Tradução recebida:** “contenha-o a censura de uma disciplina madura”
-- **Tradução proposta:** “contenha-o a censura de uma disciplina juvenil”
-- **Justificativa linguística:** 'Juvenilis' é 'de jovem', em contraste com 'pueriliter' (de criança): Gregório opõe a infância à juventude vigorosa, não à maturidade. 'Madura' conserva o contraste, mas muda a imagem; por isso fica como sugestão.
-- **Motivo:** Imagem alterada sem prejuízo grave do sentido.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G12-06 · Homilia XII · § 7
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XII
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 87, § 7 (igual a Migne)
-- **Localização no texto:** § 7 — `dados/homilias/gregorio-magno/recebida/homilia-12.txt`, bloco 10
-- **Texto latino:** vir valde idoneus, sed tantum plenus vitiis, quantum rebus
-- **Tradução recebida:** “homem muito capaz,”
-- **Tradução proposta:** “homem muito abastado,”
-- **Justificativa linguística:** No latim tardio 'idoneus' designa com frequência o homem de posses; o contexto ('tão cheio de vícios quanto de riquezas', 'na aquisição de bens') favorece esse sentido, mas o 'sed' (mas) também admite 'respeitável'. Fica como sugestão.
-- **Motivo:** Sentido provável diferente do adotado; não há segurança para aplicar.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G16-05 · Homilia XVI · § 5
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 114, § 5, aparato à l. 102
-- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-16.txt`, bloco 8
-- **Texto latino:** Dum uero per trecentos et sexaginta dies annus ducitur, nos autem per triginta et sex dies affligimur, quasi anni nostri decimas Deo damus (aparato: '+ quinque' em F, K e L p.c.)
-- **Tradução recebida:** “trezentos e sessenta e cinco dias”
-- **Tradução proposta:** “trezentos e sessenta dias”
-- **Justificativa linguística:** O texto crítico diz 360 dias; 365 é leitura de alguns manuscritos (correção posterior para o ano solar), que a tradução segue.
-- **Justificativa teológica ou contextual:** O argumento de Gregório é aritmético: 36 dias de jejum são a DÉCIMA parte (o dízimo) de 360. Com 365 a conta deixa de ser exata.
-- **Motivo:** A decisão é sua: seguir o texto crítico ou a tradição seguida pela tradução.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G19-04 · Homilia XIX · § 3
@@ -3871,18 +4696,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “e quase à própria voz da sentença exalou o espírito de vida”
 - **Justificativa linguística:** A ordem latina favorece 'spiritum… vitae' (o sopro de vida) e 'vox sententiae' como a sentença ouvida da boca de Cristo, mas a construção é condensada e admite as duas leituras.
 - **Motivo:** Construção ambígua; não aplicado.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G26-12 · Homilia XXVI · § 10
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 226, § 10
-- **Localização no texto:** § 10 — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 13
-- **Texto latino:** Certe in die tremendi examinis sui, cum angelis, cum archangelis, cum thronis et dominationibus … apparebit
-- **Tradução recebida:** “Ele aparecerá com os seus, com os anjos”
-- **Tradução proposta:** “Ele aparecerá com os anjos”
-- **Justificativa linguística:** 'com os seus' não está no texto crítico. Não foi possível confirmar no aparato se algum manuscrito o tem.
-- **Motivo:** Possível acréscimo, sem efeito no sentido. Fica como sugestão.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G29-09 · Homilia XXIX · § 9
@@ -3896,19 +4710,8 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Justificativa linguística:** No texto crítico há um contraste deliberado: 'uidebatur' (parecia) para a divindade humilhada e 'est … exaltata' (foi exaltada) para a humanidade. A tradução estende 'parecia/via-se' às duas. Mas dois manuscritos omitem 'est', e então 'uidebatur' pode valer para as duas orações, como na tradução.
 - **Justificativa teológica ou contextual:** O contraste tem peso doutrinal: a divindade não pode ser realmente humilhada (apenas 'parecia'), mas a humanidade de Cristo foi realmente exaltada na Ascensão.
 - **Motivo:** Correção sustentada pelo texto crítico, mas há variante que apoia a tradução. Fica para sua decisão.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6.
 - **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G29-11 · Homilia XXIX · § 10, fim
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXIX
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 254, § 10
-- **Localização no texto:** § 10, fim — `dados/homilias/gregorio-magno/recebida/homilia-29.txt`, bloco 9
-- **Texto latino:** Trahe me post te, curremus in odorem unguentorum tuorum.
-- **Tradução recebida:** “correremos ao perfume de teus ungüentos (Ct 1,3)”
-- **Tradução proposta:** “correremos ao perfume de teus unguentos (Ct 1,3)”
-- **Justificativa linguística:** Grafia anterior ao Acordo Ortográfico (trema), conservada na tradução recebida.
-- **Motivo:** Atualização ortográfica, sem relação com o sentido; não aplicada para não alterar a tradução recebida além do necessário.
-- **Grau de segurança:** alta · **estado:** não aplicada
 
 #### G30-04 · Homilia XXX · § 3, fim
 
@@ -3920,21 +4723,12 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução proposta:** “no sentido de fornecer”
 - **Justificativa linguística:** 'subministrare' é fornecer, prover (por baixo, às ocultas); é esse sentido que justifica o fim da frase ('não … desde baixo, mas desde o oculto'). A dificuldade vem de a tradução verter 'suggerere' por 'recordar' em toda a homilia, o que torna o jogo de palavras de Gregório difícil de reproduzir.
 - **Motivo:** Perda de um jogo de palavras do autor; solução depende de rever a tradução de 'suggerere'. Fica para sua decisão.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. Recomendação aprovada no item C6. Sem revisão geral de 'suggerere' nesta etapa.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
-#### G30-06 · Homilia XXX · § 5
+## 3. Dúvidas
 
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXX
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 260, § 5
-- **Localização no texto:** § 5 — `dados/homilias/gregorio-magno/recebida/homilia-30.txt`, bloco 8
-- **Texto latino:** quia idem Spiritus coaeternus est Filio, et habet cognationem maximam lingua cum uerbo. Verbum quippe Patris Filius.
-- **Tradução recebida:** “e há máxima afinidade entre a língua e o Verbo”
-- **Tradução proposta:** “e há máxima afinidade entre a língua e a palavra”
-- **Justificativa linguística:** O primeiro 'uerbo' é a palavra comum (a língua produz a palavra); só a frase seguinte aplica o termo ao Filho ('Verbum … Patris Filius'). Com maiúscula já no primeiro, perde-se a passagem do sentido comum ao teológico que sustenta o argumento.
-- **Motivo:** Perda de um jogo de palavras do autor. Fica como sugestão.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-## 3. Dúvidas ainda não resolvidas
+Dúvidas de sentido que as fontes não resolvem, com a decisão tomada. Uma decisão marcada como provisória mantém a dúvida em aberto.
 
 #### G05-08 · Homilia V · § 4
 
@@ -3945,6 +4739,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução recebida:** “Que a solenidade mostre, em nosso serviço de devoção, uma mente transformada”
 - **Justificativa linguística:** A frase admite duas construções: (a) sujeito 'obsequium nostrae deuotionis', objeto 'sollemnitas immutatae mentis' — 'Que o obséquio da nossa devoção mostre a solenidade de uma mente transformada'; (b) sujeito 'sollemnitas', objeto 'obsequium' — 'Que a solenidade mostre o obséquio da nossa devoção, (próprio) de uma mente transformada'. A tradução recebida segue, com liberdade, a leitura (b).
 - **Motivo:** Ambiguidade sintática real; não há base para escolher. Tradução recebida mantida; dúvida registrada.
+- **Decisão do responsável (06/11/2026):** manter a tradução recebida. A sintaxe admite as duas leituras; não há segurança para alterar.
 - **Grau de segurança:** moderada · **estado:** não aplicada
 
 #### G20-14 · Homilia XX · § 12, início
@@ -3956,29 +4751,7 @@ Não mudam palavras de Gregório: retiram números, notas e artefatos que vieram
 - **Tradução recebida:** “quão grande era a força da continência e do acolhimento dos necessitados”
 - **Justificativa linguística:** As duas edições têm 'continentia'. O contexto fala só de sustentar e acolher os necessitados, o que favorece o sentido de 'manutenção'; mas não há paralelo seguro em Gregório para essa acepção.
 - **Motivo:** Duas leituras plausíveis; texto mantido.
-- **Grau de segurança:** baixa · **estado:** não aplicada
-
-#### G21-06 · Homilia XXI · § 7, conclusão
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 179, § 7
-- **Localização no texto:** § 7, conclusão — `dados/homilias/gregorio-magno/recebida/homilia-21.txt`, bloco 9
-- **Texto latino:** Ad horum ergo ciuium illam frequentem sollemnitatem festinemus.
-- **Tradução recebida:** “Corramos, pois, para aquela frequente solenidade desses cidadãos.”
-- **Justificativa linguística:** 'frequens' pode significar (a) 'concorrida, cheia de gente' — a assembleia numerosa dos cidadãos do céu — ou (b) 'contínua, sem interrupção'. Em português, 'frequente' sugere repetição, sentido que não é o do latim em nenhuma das duas leituras. Possibilidades: '…para aquela solenidade concorrida desses cidadãos' ou '…para aquela solenidade incessante desses cidadãos'. Um paralelo do próprio Gregório, na mesma série pascal (Homilia XXVI, § 10), favorece a leitura (b): a solenidade eterna 'non est annua, sed continua' (não é anual, mas contínua). Outro paralelo, na Homilia XXX, § 10, favorece a leitura (a): 'ad illam supernae frequentiae laetitiam', que esta mesma tradução verte por 'àquela alegria da assembleia celeste'. Há, portanto, apoio para as duas leituras no próprio Gregório.
-- **Motivo:** Duas leituras possíveis; não há base para escolher. Mantido; dúvida registrada.
-- **Grau de segurança:** moderada · **estado:** não aplicada
-
-#### G26-08 · Homilia XXVI · § 2, início
-
-- **Santo e homilia:** São Gregório Magno, Homiliae in Evangelia, Homilia XXVI
-- **Referência bibliográfica:** CCSL 141 (Étaix, 1999), p. 219, § 2 e aparato à l. 27
-- **Localização no texto:** § 2, início — `dados/homilias/gregorio-magno/recebida/homilia-26.txt`, bloco 4
-- **Texto latino:** Dicit eis: Pax uobis. Sicut misit me Pater, et ego mitto uos. Pater Filium misit … (a CCSL não tem a frase 'id est, sicut misit me Pater Deus Deum…', e o aparato não a registra em nenhum manuscrito)
-- **Tradução recebida:** “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens.”
-- **Justificativa linguística:** A frase não está no texto crítico nem no aparato. Provavelmente vem da edição de Migne (base declarada da tradução), mas essa edição não foi enviada para conferência. Se for interpolação, a frase não é de Gregório.
-- **Justificativa teológica ou contextual:** A frase afirma a divindade do Pai e do Filho e a humanidade dos enviados; é ortodoxa, mas não pode ser apresentada como palavra do autor sem verificação.
-- **Motivo:** Autenticidade a investigar (comparar com PL 76). Mantida no texto como recebida, até sua decisão.
+- **Decisão do responsável (06/11/2026):** manter 'continência' por enquanto (provisória). Dúvida mantida no registro para eventual comparação com outras obras de Gregório (Moralia, Regula pastoralis).
 - **Grau de segurança:** baixa · **estado:** não aplicada
 
 ## 4. Variantes textuais (diferenças de edição; texto mantido)
@@ -3994,6 +4767,7 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G06-04 | VI | Na medida em que conseguimos resistir à língua | Inquantum reniti linguae praevalemus (Migne) |
 | G07-03 | VII | no quarto domingo do Advento do Senhor | Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli. (sem indicação do domingo) |
 | G07-02 | VII | anuncia o consolo do Redentor à Judeia abandonada e desamparada | derelictae ac destitutae Iudaeae solacium (suae: α) redemptionis annuntiat (aparato: 'redemptoris' em F V N M) |
+| G08-03 | VIII | juntou-se ao anjo uma multidão da milícia do exército celeste | Migne (transcrição, camada latim/): 'facta est cum angelo multitudo militiae coelestis exercitus'; CCSL 141, p. 53: 'multitudo militiae caelestis', com 'exercitus' só no manuscrito E (aparato). |
 | G08-09 | VIII | porque não havia lugar para eles na hospedaria | quia non erat ei locus in diuersorio |
 | G08-06 | VIII | que a ambição não nos dilacere por meio dos deleites terrenos, que a ira não nos inflame | non ambitio per terrena oblectamenta dilaniet. (aparato: + 'non ira inflammet' em M p.c.) |
 | G08-07 | VIII | porque por ti Deus se fez homem, Ele que vive e reina pelos séculos dos séculos. Amém. | quia propter te factus est Deus homo. (aparato: doxologias acrescentadas em S e V) |
@@ -4008,7 +4782,9 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 | G21-05 | XXI | Por isso está escrito no Cântico dos Cânticos | Vnde scriptum est: Laeua eius … (aparato: + 'in canticis canticorum' em F e Ba) |
 | G26-09 | XXVI | na oitava da Páscoa | Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana. (sem indicação do dia) |
 | G26-10 | XXVI | fortalecesse para a fé | praebendo palpabile, formaret ad fidem (aparato: 'firmaret' em S) |
+| G26-08 | XXVI | Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens. | Migne (PL 76, col. 1553-1554), § 2: 'Dixit eis: Pax vobis. Sicut misit me Pater, et ego mitto vos. Id est, sicut misit me Pater Deus Deum, et ego mitto vos homo homines. Pater Filium misit…'. A CCSL 141 (p. 219, § 2) não tem a frase 'Id est… homo homines', e o aparato não a registra em nenhum manuscrito. |
 | G26-11 | XXVI | Jesus lhe disse: Porque me viste, Tomé, creste. | Dicit ei Iesus: Quia uidisti me, credidisti. |
+| G26-12 | XXVI | Ele aparecerá com os seus, com os anjos | Migne (PL 76, col. 1558 da tiragem de 1849; conferido na imagem da página do PDF de Migne): 'Certe in die tremendi examinis suis, cum angelis, cum archangelis…'; CCSL 141, p. 226: 'in die tremendi examinis sui, cum angelis…'. |
 | G29-10 | XXIX | Naquele tempo, estando à mesa os onze discípulos, Jesus apareceu-lhes e censurou a sua incredulidade | In illo tempore dixit Iesus discipulis suis: Euntes in uniuersum mundum … (o texto crítico começa em Mc 16,15; o aparato registra em E p.c., F p.c. e X o acréscimo do v. 14: 'recumbentibus undecim discipulis apparuit illis Iesus et exprobrauit incredulitatem illorum…') |
 | G30-13 | XXX | porque em sua própria vontade se opõe a Ele | quia ei in sua uoluptate contradicit (aparato: 'uoluntate' em E B S F V A X) |
 | G30-12 | XXX | Naquela, Deus, permanecendo em si mesmo, assumiu o homem | In illa quippe Deus in se creando suscepit hominem (aparato: 'permanens … semetipsum creauit' em J, L p.c., X, M p.c.) |
@@ -4019,57 +4795,42 @@ Em cada caso abaixo, o português não segue o texto crítico, mas segue uma lei
 
 - **Tradução portuguesa sem tradutor identificado:** o arquivo não traz tradutor, edição nem licença. Foi obtido no portal OpenSaints, que declara na página de introdução aos textos adicionais dos Padres da Igreja: https://opensaints.com/pt-BR/padres-da-igreja/: “Anyone may do anything they wish with any part of this material, whether for private, educational or commercial purposes.” Também declara que os prefácios adicionais produzidos pelo responsável do projeto OpenSaints são disponibilizados em domínio público. Alcance: não se estende automaticamente a materiais de terceiros apenas hospedados ou referenciados pelo site. Verificação: informado pelo responsável deste projeto no relatório editorial de 06/11/2026; as páginas não puderam ser abertas na sessão que registrou esta informação (restrição de rede).
 - **Decisão editorial (06/11/2026):** Manter preservadas as 40 homilias recebidas e publicadas as 9 revisadas, com atribuição transparente da fonte (OpenSaints; Migne/PL 76 via Wikisource). A ausência de identificação do tradutor não é motivo automático para suspender ou ocultar a publicação. Não excluir 'recebida/', não ocultar homilias, não desfazer revisões, não reiniciar a tradução; a CCSL 141 continua como instrumento de conferência; a tradução própria do latim continua prevista.
+- **Decisão editorial (06/11/2026):** Uniformizar os títulos das leituras nas 40 homilias (forma única, referência em algarismos arábicos).
+- **Decisão editorial (06/11/2026):** G29-11 passa de sugestão a correção aplicada (grafia do Acordo Ortográfico, como no restante do site); G26-08 continua dúvida, agora com a conferência de Migne.
+- **Decisão editorial (06/11/2026):** Criada a camada traducao-propria/ com um piloto (Homilia XXIII); a tradução integral das 40 homilias fica para depois, homilia por homilia, com revisão humana.
+- **Decisão editorial (06/11/2026):** G08-03 e G26-12 deixam de ser sugestões e passam a variantes: a conferência com Migne mostrou que a tradução recebida segue a edição de base nesses pontos.
+- **Decisão editorial (06/11/2026):** Etapa 1 aprovada. C1: preenchimento da lacuna da Homilia XL aprovado. C2: frase da Homilia XXVI mantida com nota editorial. C3: PDFs protegidos permanecem por ora; o responsável fará a exclusão. C4: Migne como referência, com a leitura da CCSL adotada quando houver justificativa filológica consistente e o sentido o exigir (aplicado em G01-07 e G16-05; demais variantes avaliadas e mantidas). C5: G05-08 mantida; G20-14 mantida por enquanto, com a dúvida registrada; G21-06 'incessante'. C6: aplicar G08-04, G08-05, G11-02, G12-06, G23-04, G30-06; manter G07-04, G19-04, G29-09, G30-04. C7: tradução própria piloto aprovada como experiência metodológica, separada da recebida.
+- **Decisão editorial (06/11/2026):** Extensão da leitura corrigida no título das Homilias I (Lc 21,25-33), II (Lc 18,31-43), XXXVIII (Mt 22,1-14) e XXXIX (Lc 19,41-47), conforme o próprio texto da leitura e a CCSL 141. A Homilia IV fica com Mt 10,5-10: a leitura de Migne vai até o v. 10 (a CCSL corta no v. 8), e a tradução segue Migne. A perícope da Homilia XVIII (Jo 8,46-59) foi corrigida no catálogo.
+- **Decisão editorial (06/11/2026):** Distribuição das 40 homilias registrada em distribuicao.json e aplicada ao índice do site por ferramentas/homilias/aplicar_distribuicao.mjs: 37 homilias no calendário (11 com correspondência litúrgica; 84 correspondências bíblicas plenas) e 3 só no catálogo geral (IV, XXXI, XXXII), sem data litúrgica. As 9 homilias já publicadas mantêm todas as correspondências anteriores; foram acrescentadas São Tomé e Pentecostes (XXVI), São Marcos e Conversão de São Paulo (XXIX), 6º domingo da Páscoa (Ano C) e terça-feira da 5ª semana da Páscoa (XXX). Duas dúvidas ficam para decisão do responsável (IX: São Silvestre; XXVIII: São Nereu e Santo Aquiles); por ora, nenhuma das duas correspondências é usada.
+- **Decisão editorial (07/11/2026):** Etapa 2 aprovada; as 31 homilias novas permanecem publicadas e IV, XXXI e XXXII ficam só no catálogo geral. D1 (Homilia IX): alternativa (a); São Silvestre não é oferecido em 31/12 (oitava do Natal), a homilia fica só com as correspondências bíblicas e o calendário geral não muda. D2 (Homilia XXVIII): alternativa (a); não é ligada a 12/5, porque o natalício de Nereu e Aquiles só consta de Migne. D3 (São Nicolau): corrigir o mapeamento das leituras sem usar referência estrangeira como oficial; sem indicação própria confirmada, usar as leituras da féria; não ligar a Homilia XVII por semelhança temática; documentar e testar. D4 (Pentecostes): corrigir a referência do Evangelho da Missa da vigília de '7,37-39' para 'Jo 7,37-39', sem alterar o texto.
 - **Marcas do processo de tradução:** linhas “Trecho N” e “PT” entre os parágrafos. Não fazem parte do texto; foram retiradas só na divisão por homilia (a camada recebida as registra em `@trechos`).
 - **Homilia II sem cabeçalho nem rubrica:** o texto começa direto no Evangelho, dentro do bloco da Homilia I.
-- **Artefatos numéricos** (“1468”, “1573”) e numeração de parágrafos colados ao texto, juntando parágrafos (Homilias X e XXIX) — corrigidos nas homilias publicadas (ver 1.2).
-- **Remissões ao Decreto de Graciano** — notas marginais da edição impressa, como “(11, q. 3, c. 88)”, dentro do texto (Homilias XXVI e XXIX) — retiradas nas homilias publicadas.
-- **Referências bíblicas desfiguradas** (“Sl 67 Sl 19”, “Hb 12 Hb 29”) e uma errada (Jo 11,45 por 11,44) — corrigidas nas homilias publicadas.
+- **Artefatos numéricos** (números de coluna de Migne, como “1468”, “1573”) e numeração de parágrafos colada ao texto, juntando parágrafos — corrigidos nas 40 homilias (ver 1.2).
+- **Remissões ao Decreto de Graciano** — notas marginais da edição impressa, como “(11, q. 3, c. 88)”, dentro do texto — retiradas onde a tradução as conservava.
+- **Referências bíblicas desfiguradas** (“Sl 67 Sl 19”, “Hb 12 Hb 29”), “ibid.” e abreviaturas latinas — corrigidas e uniformizadas nas 40 homilias.
+- **Blocos com etiqueta errada** (título ou texto da leitura marcado como parágrafo, leitura colada ao § 1, parágrafos partidos no meio de uma frase) — corrigidos.
 - **Rubricas com dados ausentes do texto crítico:** a indicação do domingo nas Homilias VII, XVI e XXVI vem da edição impressa (ver variantes G07-03, G16-06, G26-09). Por isso a VII e a XXVI entram no calendário só pela correspondência bíblica, e a XVI pela ocasião confirmada no próprio texto (§ 5).
-- **Grafia anterior ao Acordo Ortográfico** em alguns pontos (ex.: “ungüentos”), mantida como recebida.
+- **Lacuna na Homilia XL, § 3:** duas frases faltam na tradução recebida e, no lugar delas, há anotações de trabalho de uma ferramenta automática (“exprim glria? Wait correct typo. Need final clean.”). É a única ocorrência nas 40 homilias. Na camada revisada, as anotações saíram e as frases foram traduzidas do latim, como tradução própria identificada (G40-05).
+- **Erros da edição de Migne nas referências bíblicas**, copiados pela tradução (ex.: Ct 1,1 dada como “I, 7”; Sl 101,8 como “CI, 1”; Mt 19,8 no lugar de Ex 22,1) — corrigidos com o aparato de fontes da CCSL.
+- **Livros dos Reis e de Samuel:** a tradução recebida converteu “I/II Reg.” da Vulgata em “1Rs/2Rs”, que hoje designam outros livros — corrigidos para 1Sm/2Sm.
+- **Erros da transcrição latina de base** (Corpus Corporum), identificados pela CCSL, sem efeito na tradução (ex.: “non” por “nos”, “concidit” por “condidit”) — registrados como problemas da fonte.
+- **Grafia anterior ao Acordo Ortográfico:** “ungüentos” (Homilia XXIX), atualizada na Etapa 1 (G29-11).
 - **Texto latino (CCSL 141):** a digitalização traz aviso de direitos reservados (Brepols). Foi usada só para conferência; nenhum texto latino é publicado no site, apenas citações curtas nesta auditoria.
 - **Santo Antônio:** a tradução portuguesa é de Frei Ary E. Pintarelli, OFM (Vozes, 2019), indicada no próprio PDF, obtido do site academia.edu. A tradução inglesa (Paul Spilsbury, a partir da edição crítica de 1979) foi capturada do site franciscan-archive.org em 2006.
 - **São João Maria Vianney:** os PDFs são documentos do Word convertidos, sem folha de rosto; há erros de reconhecimento de ligaduras (“SancLfication”, “ChréLen”).
 
 ## 6. Textos cuja autenticidade ou atribuição precisa de investigação
 
-- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” não está no texto crítico nem no aparato (registro G26-08). Está publicada como recebida, mas marcada como dúvida de confiança baixa: conferir com a PL 76.
+- **Homilia XXVI, § 2** — a frase “Isto é: assim como o Pai, Deus, enviou a mim, Deus, também eu vos envio, homem, a vós, homens” está em Migne (PL 76, col. 1553-1554), base da tradução, mas não no texto crítico nem no seu aparato (registro G26-08). Por decisão do responsável (C2), continua no texto, com nota editorial na página da homilia.
 - **São João Maria Vianney** — os 4 tomos são a coleção tradicional dos sermões escritos pelo Cura d’Ars. A dependência destes textos de coletâneas de sermões de outros autores, e a extensão dos retoques dos editores, precisam ser investigadas antes de apresentá-los como palavras do santo. Os “sermões inéditos” do tomo 4 exigem identificação da fonte. Esta auditoria não afirma nem nega a autoria: registra que o material enviado não permite verificá-la.
 - **Santo Antônio de Pádua** — a autoria dos *Sermones dominicales et festivi* é sólida (edição crítica de 1979), mas os textos não foram conferidos com o latim porque ele não foi enviado.
 
-## 7. Homilias examinadas e não inseridas
+## 7. Homilias examinadas e não inseridas na Liturgia Diária
 
 | Santo | Texto | Motivo |
 |---|---|---|
-| São Gregório Magno | Homilia I (Lc 21,25-32) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia II (Lc 18,31-44) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia III (Mt 12,46-50) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia IV (Mt 10,5-10) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia VI (Mt 11,2-10) | correspondência identificada (3º domingo do Advento, Ano A), mas ainda não conferida com o latim — próxima da fila |
-| São Gregório Magno | Homilia IX (Mt 25,14-30) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XI (Mt 13,44-52) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XII (Mt 25,1-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIII (Lc 12,35-40) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIV (Jo 10,11-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XV (Lc 8,4-15) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XVII (Lc 10,1-9) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XVIII (Jo 8,45-69) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XIX (Mt 20,1-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XX (Lc 3,1-11) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXII (Jo 20,1-9) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXIII (Lc 24,13-35) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXIV (Jo 21,1-14) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXV (Jo 20,11-18) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXVII (Jo 15,12-16) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXVIII (Jo 4,46-53) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIII (Lc 7,36-50) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIV (Lc 15,1-10) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXV (Lc 21,9-19) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVI (Lc 14,16-24) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVII (Lc 14,25-33) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXVIII (Mt 22,1-13) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XXXIX (Lc 19,42-47) | tradução ainda não conferida com a CCSL 141 |
-| São Gregório Magno | Homilia XL (Lc 16,19-31) | tradução ainda não conferida com a CCSL 141 |
+| São Gregório Magno | Homilia IV (Mt 10,5-10) | publicada só no catálogo geral, sem data litúrgica: Nenhum dia do lecionário atual lê Mt 10,5-10 de modo a cobrir a passagem comentada: as leituras mais próximas (São Barnabé; 14ª semana do Tempo Comum) têm só 3 ou 4 versículos em comum com ela. |
+| São Gregório Magno | Homilia XXXI (Lc 13,6-13) | publicada só no catálogo geral, sem data litúrgica: A passagem comentada (Lc 13,6-13) junta a parábola da figueira estéril e a cura da mulher curvada; o lecionário atual lê as duas em dias diferentes, e nenhum deles cobre a maior parte do que a homilia comenta. |
+| São Gregório Magno | Homilia XXXII (Lc 9,23-27) | publicada só no catálogo geral, sem data litúrgica: Os santos do dia em que foi pregada não estão no calendário atual, e a única leitura de Lucas que coincide com a passagem (quinta-feira depois das Cinzas, Lc 9,22-25) fica abaixo do critério de correspondência plena. |
 | São João Maria Vianney | todos os sermões | sem tradução portuguesa; edição de origem e autoria a investigar |
 | Santo Antônio de Pádua | todos os sermões | direitos da tradução portuguesa (Vozes, 2019); sem texto latino para conferência |

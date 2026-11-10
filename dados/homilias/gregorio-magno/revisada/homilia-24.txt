@@ -1,7 +1,7 @@
 @origem Homilia dos Santos/Homilia de Santos/São Gregório Magno, Papa (540–604)/Texto Traduzido, as 40 homilias.txt
 @camada tradução revisada — gerada por ferramentas/homilias/aplicar_alteracoes.py; não editar à mão
 @trechos Trecho 49, Trecho 50, Trecho 51
-@correcoes G24-01, G24-02, G24-03, G24-04
+@correcoes G24-01, G24-02, G24-03, G24-04, G24-05
 
 @cabecalho
 HOMILIA XXIV.
@@ -10,7 +10,7 @@ HOMILIA XXIV.
 Pronunciada ao povo na basílica do bem-aventurado Lourenço mártir, fora dos muros da Cidade, na quarta-feira da Páscoa.
 
 @leitura-titulo
-LEITURA do santo Evangelho segundo João 21, 1-14.
+Leitura do santo Evangelho segundo João 21,1-14.
 
 @leitura
 Naquele tempo, Jesus manifestou-se novamente a seus discípulos junto ao mar de Tiberíades. E manifestou-se assim. Estavam juntos Simão Pedro, e Tomé, chamado Dídimo, e Natanael, que era de Caná da Galileia, e os filhos de Zebedeu, e outros dois de seus discípulos. Disse-lhes Simão Pedro: Vou pescar. Disseram-lhe: Também nós vamos contigo. E saíram, e entraram no barco, e naquela noite nada apanharam. Ao amanhecer, porém, Jesus estava na praia; os discípulos, contudo, não reconheceram que era Jesus. Disse-lhes então Jesus: Filhos, tendes porventura algo para comer? Responderam-lhe: Não. E Ele lhes disse: Lançai a rede à direita do barco, e encontrareis. Lançaram-na, pois, e já não conseguiam puxá-la por causa da grande quantidade de peixes. Então o discípulo a quem Jesus amava disse a Pedro: É o Senhor. Simão Pedro, portanto, quando ouviu que era o Senhor, cingiu-se com a túnica, pois estava sem ela, e lançou-se ao mar. Os outros discípulos vieram no barco, pois não estavam longe da terra, mas cerca de duzentos côvados, arrastando a rede com os peixes. Quando, pois, desceram em terra, viram brasas preparadas, e um peixe posto sobre elas, e pão. Disse-lhes Jesus: Trazei dos peixes que apanhastes agora. Subiu Simão Pedro, e puxou a rede para a terra, cheia de cento e cinquenta e três grandes peixes. E, embora fossem tantos, a rede não se rompeu. Disse-lhes Jesus: Vinde, almoçai. E nenhum dos que estavam à mesa ousava perguntar-lhe: Tu, quem és? Pois sabiam que era o Senhor. Veio Jesus, e tomou o pão, e lhes deu; e do mesmo modo o peixe. Esta foi já a terceira vez que Jesus se manifestou a seus discípulos, depois de ter ressuscitado dos mortos.

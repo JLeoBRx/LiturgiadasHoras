@@ -110,14 +110,15 @@ nos dê do saber o espírito;
 conheçamos, assim, a esperança
 à qual nos chamou, como herança!
 
-EVANGELHO (mais longo)
+@secao Evangelho | Mt 22,1-14
 
 @tema
 Convidai para a festa todos os que encontrardes.
 
-@texto
+@leitura
 **Proclamação do Evangelho de Jesus Cristo segundo Mateus** 22,1-14
 
+@texto
 Naquele tempo,
 1
 Jesus voltou a falar em parábolas
