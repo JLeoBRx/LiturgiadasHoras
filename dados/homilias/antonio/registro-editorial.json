@@ -2501,6 +2501,74 @@
    "estado": "aplicada",
    "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
    "data": "2026-11-14"
+  },
+  {
+   "id": "SD19-01",
+   "sermao": "sd19",
+   "bloco": 8,
+   "paragrafo": 3,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 3",
+   "antes": "(Tg 4,05)",
+   "depois": "(Tg 4,15)",
+   "latim": "Quae est vita nostra? Vapor est ad modicum parens (nota: Iac 4,15)",
+   "justificativa": "Na numeração da Vulgata, seguida pela edição, o versículo é Tg 4,15 (4,14 nas bíblias atuais); “4,05” é erro de digitação.",
+   "motivo": "Referência bíblica errada.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD19-02",
+   "sermao": "sd19",
+   "bloco": 13,
+   "paragrafo": 7,
+   "tipo": "traducao-propria",
+   "confianca": "alta",
+   "localizacao": "§ 7 (inteiro)",
+   "depois": "7. Segue-se: “E a mulher estava revestida de púrpura” etc. Na púrpura é designado o amor da dignidade; no escarlate, que tem a cor do sangue, a crueldade da mente; no ouro, a sabedoria mundana; nas pedras preciosas e nas pérolas, a opulência das riquezas. Destas coisas se cerca e se adorna a mulher fornicadora, a grande Babilônia, a sinagoga de Satanás, a turba dos carnais. Dela se acrescenta: “Tendo na mão uma taça de ouro” etc. A taça, ou cálice de ouro, na mão da Babilônia é a glória do mundo, de ouro por fora, mas por dentro cheia de toda imundície e abominação. Por isso diz Salomão nos Provérbios: “Enganosa é a graça, e vã é a beleza” (Pr 31,30). Com este cálice se embriagam os reis do mundo, os prelados da Igreja, as religiosas e os religiosos. Por isso diz João: “Com ela fornicaram os reis da terra, e os habitantes da terra embriagaram-se com o vinho da sua prostituição” (Ap 17,2). Desta embriaguez diz Isaías: “O Senhor misturou no meio do Egito um espírito de vertigem e fez o Egito errar em toda a sua obra, como erra o ébrio que vomita” (Is 19,14). Vertigem, propriamente, é quando o vento, levantando-se, faz girar a terra; ou é a dor de cabeça. “No meio do Egito”, isto é, entre os mundanos, “o Senhor misturou”, isto é, permitiu que se misturasse, “um espírito de vertigem”, isto é, o amor da cobiça, por cujo impulso, como por um vento, eles mudam e andam à roda; e assim erram como o ébrio, que nunca acha o caminho largo; e, assim como o ébrio não sente quando é arrastado nem quando é golpeado, também estes não sentem. Por isso dizem nos Provérbios: “Bateram-me, e não tive dor; arrastaram-me, e não senti” (Pr 23,35); porque o pecador miserável não sente dor quando é golpeado pelos demônios, nem percebe quando é arrastado por eles de pecado em pecado.\nSobre isto tens a concordância nas Lamentações de Jeremias: “Alegra-te e exulta, filha de Edom, que habitas na terra de Hus: também a ti chegará o cálice; serás embriagada e despida” (Lm 4,21). Edom interpreta-se “sangue”. A filha de Edom é a voluptuosidade efeminada dos carnais. A ela o Profeta fala com ironia: “Alegra-te e exulta”. Alegra-se na abundância do século, exulta na luxúria da carne. Ela habita na terra de Hus, que se interpreta “conselho”, do qual diz Isaías: “Os sábios conselheiros do faraó deram um conselho insensato” (Is 19,11). Os sábios deste mundo dão um conselho insensato: buscar as coisas temporais, agarrar o que foge, crer na falsa promessa do mundo. Enganada pelo conselho deste mundo, a filha de Edom embriaga-se com o cálice de ouro da glória mundana e depois é despida. Com efeito, os amantes deste século, depois da embriaguez das coisas temporais, serão despojados de todos os bens e, despojados, serão condenados às penas eternas.\nPor isso João acrescenta no Apocalipse: “Um anjo forte”, diz ele, “levantou uma pedra semelhante a uma grande mó e lançou-a ao mar, dizendo: Com este ímpeto será lançada Babilônia, a grande cidade, e não será mais encontrada” (Ap 18,21). O anjo forte é Cristo, porque venceu as potestades do ar. “Levantou uma pedra”, porque eleva os maus, que têm o coração duro, para os punir mais gravemente; “semelhante a uma grande mó”, porque giram pelo mundo, ou porque esmagam os outros; “e lançou-a ao mar”, isto é, na amargura do inferno, para que, quanto a Babilônia se exaltou e viveu em delícias, tanto sinta de tormentos (cf. Ap 18,7).",
+   "latim": "Sequitur: Et mulier erat circumdata purpura etc. In purpura, amor dignitatis; in coccino… crudelitas mentis… (o parágrafo inteiro, cerca de 3.100 caracteres)",
+   "justificativa": "O Lírio não traduziu este parágrafo (a página mostra o latim com o aviso “Trecho ainda sem tradução”). Traduzido aqui da edição crítica, no vocabulário que o próprio Lírio usa nos §§ 6 e 8 (taça, Babilônia, mulher fornicadora).",
+   "origem_do_texto": "tradução própria do latim (parágrafo inteiro)",
+   "motivo": "Lacuna na tradução recebida.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD19-03",
+   "sermao": "sd19",
+   "bloco": 14,
+   "paragrafo": 8,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 8, citação de Gregório",
+   "antes": "cedro do paraíso é abalado pelo temor?",
+   "depois": "cedro do paraíso é abalado pelo temor?”",
+   "latim": "Quid faciet virgula deserti, ubi timore concutitur cedrus paradisi?",
+   "justificativa": "As aspas abertas em “Sempre que considero” não se fechavam; a citação de Gregório termina aqui.",
+   "motivo": "Pontuação.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD19-04",
+   "sermao": "sd19",
+   "bloco": 20,
+   "paragrafo": 12,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 12, início",
+   "antes": "12. [segundo a natureza]. A mulher",
+   "depois": "12. A mulher",
+   "latim": "Mulier in delectatione concipit et in dolore parturit.",
+   "justificativa": "O colchete é um rótulo do tradutor (o autor anuncia o sentido “segundo a natureza” no fim do § 11); não está no latim.",
+   "motivo": "Acréscimo indevido.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
   }
  ],
  "colacao": [
@@ -2681,6 +2749,15 @@
     "§ 10: forma da frase de Jerônimo (SD18-12).",
     "Título do exórdio ausente na página (SD18-01)."
    ]
+  },
+  {
+   "sermao": "sd19",
+   "nivel": "integral",
+   "data": "2026-11-14",
+   "paragrafos_conferidos": 16,
+   "resultado": "Lido parágrafo por parágrafo com o latim (temas e 16 parágrafos). O § 7, que o Lírio deixou sem tradução, foi traduzido do latim (tradução própria, identificada). Três outras alterações: uma referência, uma aspa não fechada e um rótulo acrescentado.",
+   "estado_final": "finalizada",
+   "ressalvas": []
   }
  ],
  "observacoes_gerais": [
@@ -2700,7 +2777,8 @@
     "sd09 § 16 (in primo libro Regum → “Terceiro Livro dos Reis”)",
     "sd10 § 5 (secundo libro Regum → “quarto livro dos Reis”)",
     "sd10 § 20 (in primo libro Samuelis → “Primeiro Livro dos Reis”)",
-    "sd17 § 7 (in primo libro Regum → “terceiro livro dos Reis”)"
+    "sd17 § 7 (in primo libro Regum → “terceiro livro dos Reis”)",
+    "sd19 § 13 (mantém “Provérbios”, Ecl 9,4)"
    ],
    "decisao_pendente": "Uniformizar seguindo as palavras do autor (com a referência correta entre parênteses) ou aceitar a correção do tradutor. Por ora nada foi alterado."
   },
