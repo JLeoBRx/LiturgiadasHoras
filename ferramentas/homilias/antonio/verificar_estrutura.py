@@ -47,13 +47,22 @@ REF_LA = re.compile(r"(?<![A-Za-z])((?:[1-4]\s?)?[A-Z][a-z]{0,6})\s+(\d{1,3}),\s
 REF_PT = re.compile(r"((?:[1-4]\s?)?[A-ZÁÉÍÓÚ][a-zéó]{0,4})\s+(\d{1,3}),\s?(\d{1,3})")
 
 
+LC = re.compile(r"(?<![A-Za-z])((?:[1-4]\s?)?[A-Z][a-z]{0,6})\s+(?:l\.\s?c\.|ibid)")
+
+
 def refs_latim(notas, numeros):
+    """Referências das notas do parágrafo; "Mt l.c." / "Mt ibidem" (passagem já citada) vale para o livro todo."""
     out = []
     for k in numeros:
-        for m in REF_LA.finditer(notas.get(str(k), "")):
+        nota = notas.get(str(k), "")
+        for m in REF_LA.finditer(nota):
             liv = LIVROS.get(m.group(1).replace(" ", ""))
             if liv:
                 out.append((liv, int(m.group(2)), int(m.group(3))))
+        for m in LC.finditer(nota):
+            liv = LIVROS.get(m.group(1).replace(" ", ""))
+            if liv:
+                out.append((liv, None, None))
     return out
 
 
@@ -117,11 +126,11 @@ def main():
             rp = refs_portugues(" ".join(p["blocos"]))
             for ref in rp:
                 r["referencias"]["conferidas"] += 1
-                if ref in rl or any(x[0] == ref[0] and x[1] == ref[1] and abs(x[2] - ref[2]) <= 2 for x in rl):
+                if ref in rl or any(x[0] == ref[0] and (x[1] is None or (x[1] == ref[1] and abs(x[2] - ref[2]) <= 2)) for x in rl):
                     r["referencias"]["coincidem"] += 1
                 else:
-                    r["referencias"]["divergentes"].append([n, "%s %d,%d" % ref, sorted({"%s %d,%d" % x for x in rl if x[0] == ref[0]})])
-            r["referencias"]["so_no_latim"] += len([x for x in rl if not any(y[0] == x[0] and y[1] == x[1] for y in rp)])
+                    r["referencias"]["divergentes"].append([n, "%s %d,%d" % ref, sorted({"%s %d,%d" % x for x in rl if x[0] == ref[0] and x[1]})])
+            r["referencias"]["so_no_latim"] += len([x for x in rl if x[1] and not any(y[0] == x[0] and y[1] == x[1] for y in rp)])
         saida[c] = r
     med = statistics.median(todas)
     doc = {"_leia": ["Gerado por ferramentas/homilias/antonio/verificar_estrutura.py; não editar à mão. Não contém texto latino: só números.",

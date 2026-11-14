@@ -215,7 +215,8 @@ def texto_recebido(x):
                 for b in p["blocos"]:
                     assert "\n" not in b, (slug, b[:60])
                 blocos.append(("@paragrafo %d" % n if n is not None else "@temas", "\n".join(p["blocos"])))
-    return "\n".join(cab) + "\n\n" + "\n\n".join("%s\n%s" % b for b in blocos) + "\n"
+    # bloco sem texto (seção sem título na página) fica só com a marca, para não criar linha em branco
+    return "\n".join(cab) + "\n\n" + "\n\n".join(("%s\n%s" % b) if b[1] else b[0] for b in blocos) + "\n"
 
 
 def main():

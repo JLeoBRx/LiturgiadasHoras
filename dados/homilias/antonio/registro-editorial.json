@@ -1,0 +1,190 @@
+{
+ "_leia": [
+  "Registro de TODAS as intervenções editoriais na tradução portuguesa recebida dos Sermones dominicales et festivi de Santo Antônio de Pádua (Lírio Católico).",
+  "registros: uma entrada por ocorrência. tipo = correcao | sugestao | duvida | variante | problema-fonte | traducao-propria | estrutura. estado = aplicada | nao-aplicada. Só correções de confiança alta, problemas da fonte, estrutura e tradução própria são aplicados à camada revisada.",
+  "Campos: id, sermao (código da edição: sd01–sd72, sm01–sm07, sf01–sf06), bloco (posição do bloco no arquivo da recebida, contada a partir de 0, sem o cabeçalho), paragrafo (número da edição), localizacao, antes (copiado exatamente da recebida), depois, latim (citação curta do texto latino correspondente), justificativa, fonte_consultada, confianca (alta | moderada | baixa), motivo.",
+  "As citações latinas são curtas, só o necessário para justificar cada intervenção: o texto da edição crítica não é reproduzido (ver procedencia.latim).",
+  "colacao: sermões efetivamente lidos parágrafo por parágrafo com o latim; só eles têm camada revisada. verificacao-estrutural.json registra a conferência automática dos 85 itens.",
+  "A camada revisada é gerada por ferramentas/homilias/antonio/aplicar_alteracoes.py; a recebida nunca muda."
+ ],
+ "obra": {
+  "autor": "Santo Antônio de Pádua (Fernando de Bulhões, c. 1195–1231), Doutor da Igreja",
+  "titulo": "Sermones dominicales et festivi",
+  "natureza": "Obra escrita, composta para ser lida e para servir à pregação, e não transcrição de discursos pronunciados diante de uma assembleia. O prólogo geral (sd01, § 5) diz que ela trata quatro matérias — os Evangelhos dominicais, as histórias do Antigo Testamento tal como são lidas na Igreja, os intróitos e as epístolas da Missa —, \"para a honra de Deus, a edificação das almas e a consolação tanto do leitor como do ouvinte\", e que nela foram reunidos os princípios das autoridades \"dos quais se pode convenientemente extrair o tema do sermão\". O epílogo (sd72) pede aos irmãos que se lembrem do autor \"quando lerdes esta obra\" e a entrega à correção dos sábios da Ordem. Cada sermão começa pelos temas que se podem tirar do Evangelho do dia (themata sermonis) e desenvolve-os em partes, com concordâncias e exposição alegórica e moral. (Citações da tradução recebida, conferidas com o latim.)",
+  "divisao": "Sermões dominicais (72 itens, com 7 prólogos e o epílogo), em três partes: I, da Septuagésima a Pentecostes; II, de Pentecostes ao XXIV domingo; III, do Advento ao III domingo depois da oitava da Epifania. Sermões marianos (7 itens, com o prólogo) e sermões festivos (6). Ordem e códigos da edição do Centro Studi Antoniani."
+ },
+ "procedencia": {
+  "traducao_recebida": {
+   "fonte": "Lírio Católico (liriocatolico.com.br), seção \"Sermões de Santo Antônio\": https://www.liriocatolico.com.br/santo_antonio_sermoes/",
+   "copia_recebida": "Cópia das 85 páginas enviada pelo responsável do projeto (HTTrack, 06/11/2026): Homilia dos Santos/Homilia de Santos/santo antonio de padua (1195 - 1231)/view lirio/ e view lirio.zip (mesmo conteúdo; só os fins de linha diferem).",
+   "metodo_declarado": "Segundo as próprias páginas, tradução para o português do Brasil feita pelo Lírio Católico \"a partir do latim com apoio do italiano\" da edição do Centro Studi Antoniani. Segundo a página Sobre do portal, as traduções são preparadas com Inteligência Artificial (Claude.ai e ChatGPT), calibradas com traduções existentes, e passam por uma breve revisão humana.",
+   "politica_de_uso": "\"Não proibimos o uso do nosso conteúdo, entretanto, solicitamos que nos referencie como fonte ao citar ou utilizar os materiais disponibilizados neste site.\" (página Sobre, Direito Autoral; cópia em Homilia dos Santos/…/politica da lirio.txt). Decisão do responsável do projeto: trabalhar com a tradução, revisá-la e creditá-la ao Lírio Católico de modo visível.",
+   "credito": "Tradução: Lírio Católico (liriocatolico.com.br), conferida com o latim e revisada pelo projeto Liturgia. O projeto não é autor da tradução recebida.",
+   "lacunas_na_fonte": "13 parágrafos estão sem tradução nas páginas do Lírio (\"Trecho ainda sem tradução — texto em latim\"); a página exibe o latim no lugar."
+  },
+  "latim": {
+   "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+   "consulta": "Publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), com o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021 (introdução de 26/04/2021). Cópia enviada pelo responsável: Homilia dos Santos/…/files - httpswwwcentrostudiantonianiitfonti-dei-sermones/.",
+   "diretriz": "Diretriz do responsável do projeto (Homilia dos Santos/…/politica centro studian.txt): os textos do Centro Studi Antoniani são protegidos por direitos autorais; a edição é usada só para consulta, comparação e validação, e o seu texto não é reproduzido nem republicado. Por isso a camada latim/ registra apenas a estrutura (seções, parágrafos, páginas), e o registro traz só citações curtas.",
+   "extracao": "O texto latino é extraído dos PDFs por ferramentas/homilias/antonio/extrair_latim_csa.py numa pasta de trabalho local, fora do repositório, só para a conferência."
+  },
+  "auxiliares": [
+   {
+    "obra": "Santo Antônio, Sermões, tradução de Frei Ary E. Pintarelli, OFM, Petrópolis: Vozes, 2019",
+    "copia": "Homilia dos Santos/…/sermoes-sto.antonio.de.lisboa.pdf (compilação \"Santo António de Lisboa — Sermões\", 1534 p., que credita a tradução da Vozes e o texto do Centro Studi Antoniani)",
+    "uso": "Só para conferir interpretações em passagens difíceis; nenhum trecho é copiado."
+   },
+   {
+    "obra": "The Sermons of Saint Antony of Padua, tradução inglesa de Paul Spilsbury, feita sobre a edição crítica de 1979",
+    "copia": "Homilia dos Santos/…/1195-1231,_Antonius_Patavinus,_Sermones,_EN.pdf (captura de franciscan-archive.org, 2006)",
+    "uso": "Só para conferir interpretações em passagens difíceis; nenhum trecho é copiado."
+   }
+  ],
+  "estado_inicial": {
+   "commit": "08fd880",
+   "tag_local": "antonio-etapa1-inicio",
+   "data": "2026-11-10",
+   "observacao": "A tag não pôde ser enviada ao repositório remoto (a sessão só envia o ramo de trabalho); o commit é a referência."
+  }
+ },
+ "criterios": {
+  "correcao": "Erro comprovado de tradução, referência, estrutura ou português. Aplicada na camada revisada quando a confiança é alta.",
+  "sugestao": "Alternativa de redação que pode melhorar a fidelidade, sem corrigir erro inequívoco. Não aplicada.",
+  "duvida": "Passagem cuja interpretação não pode ser estabelecida com segurança. Não aplicada.",
+  "variante": "Diferença entre testemunhos ou edições latinas. Registrada; o texto segue a edição crítica salvo decisão contrária.",
+  "problema-fonte": "Erro ou lacuna já presente no material consultado (página do Lírio ou PDF do Centro Studi Antoniani).",
+  "traducao-propria": "Trecho traduzido diretamente do latim neste projeto (lacunas do Lírio). Identificado no texto revisado e aqui.",
+  "estrutura": "Ordem, numeração ou divisão de parágrafos e seções.",
+  "principio": "Fidelidade ao pensamento de Santo Antônio antes de elegância; não se altera uma passagem só porque outra redação parece melhor."
+ },
+ "etapas": {
+  "etapa_1": {
+   "nome": "Colação textual, revisão e organização",
+   "estado": "em andamento",
+   "autorizada_em": "2026-11-10"
+  }
+ },
+ "historico": [
+  {
+   "data": "2026-11-10",
+   "origem": "Início da Etapa 1",
+   "decisao": "Inventário dos 85 itens; camada recebida (texto exato do Lírio), camada latim/ só com a estrutura, catálogo e verificação estrutural. Estado inicial do repositório: commit 08fd880.",
+   "alteracoes": "Nenhuma alteração de texto."
+  }
+ ],
+ "registros": [
+  {
+   "id": "SD01-01",
+   "sermao": "sd01",
+   "bloco": 4,
+   "paragrafo": 2,
+   "tipo": "sugestao",
+   "confianca": "moderada",
+   "localizacao": "§ 2",
+   "antes": "“Produza a terra erva verdejante”, diz ele, “que germine”",
+   "depois": "“Germine”, diz ele, “a terra erva verdejante”",
+   "latim": "Germinet, inquit, terra herbam virentem (Gn 1,11)",
+   "justificativa": "O latim tem um só verbo (germinet); a tradução o desdobra em “produza” e “que germine”.",
+   "motivo": "Redação que duplica o verbo; não altera o sentido. Fica como sugestão.",
+   "estado": "nao-aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD01-02",
+   "sermao": "sd01",
+   "bloco": 6,
+   "paragrafo": 4,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 4",
+   "antes": "a única que sabe ensinar",
+   "depois": "a única que sabe saber",
+   "latim": "quae sola scit scire, sola scientes facere",
+   "justificativa": "“Scire” é saber, não ensinar (docere). A frase opõe o saber da Escritura (“sabe saber”) ao efeito que produz (“torna sábios”).",
+   "motivo": "Erro de tradução.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD01-03",
+   "sermao": "sd01",
+   "bloco": 6,
+   "paragrafo": 4,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 4, citação de Jó 41,25",
+   "antes": "“Despreza tudo o que é elevado” (Jó 41,25)",
+   "depois": "“Vê tudo o que é elevado” (Jó 41,25)",
+   "latim": "visum superbiae, de quo in Iob: Omne sublime videt",
+   "justificativa": "“Videt” é vê. Antônio cita o versículo para falar do “olhar da soberba” (visum superbiae), que a alma deve afastar de si; “despreza” inverte o sentido.",
+   "motivo": "Erro de tradução na citação bíblica.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD01-04",
+   "sermao": "sd01",
+   "bloco": 6,
+   "paragrafo": 4,
+   "tipo": "sugestao",
+   "confianca": "moderada",
+   "localizacao": "§ 4, citação do Sl 90,6",
+   "antes": "“Do inimigo que perambula nas trevas” (Sl 90,6)",
+   "depois": "“Da coisa que anda nas trevas” (Sl 90,6)",
+   "latim": "A negotio perambulante in tenebris",
+   "justificativa": "“Negotium” é coisa, negócio; “inimigo” é interpretação. O sentido que Antônio tira (o ladrão da santidade fingida) não depende dessa palavra.",
+   "motivo": "Tradução interpretativa da citação; não é erro inequívoco.",
+   "estado": "nao-aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD01-05",
+   "sermao": "sd01",
+   "bloco": 7,
+   "paragrafo": 5,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 5",
+   "antes": "fui deixando",
+   "depois": "fui respigando",
+   "latim": "post terga metentium cum Ruth Moabitide, in agro Booz remanentes spicas … colligens concordavi",
+   "justificativa": "“Colligens” é recolhendo: Antônio, como Rute, respiga as espigas que ficaram atrás dos ceifeiros. “Fui deixando” diz o contrário.",
+   "motivo": "Erro de tradução que inverte a imagem.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  },
+  {
+   "id": "SD01-06",
+   "sermao": "sd01",
+   "bloco": 7,
+   "paragrafo": 5,
+   "tipo": "correcao",
+   "confianca": "alta",
+   "localizacao": "§ 5, referência",
+   "antes": "(cf. Rt 2,3-7)",
+   "depois": "(cf. Rt 2,3.7)",
+   "latim": "nota da edição: Rt 2,3.7",
+   "justificativa": "A edição identifica os versículos 3 e 7 (a respiga atrás dos ceifeiros), não o trecho de 3 a 7.",
+   "motivo": "Referência bíblica imprecisa.",
+   "estado": "aplicada",
+   "fonte_consultada": "Edição crítica (Centro Studi Antoniani, 1979), na publicação em PDF do CSA",
+   "data": "2026-11-14"
+  }
+ ],
+ "colacao": [
+  {
+   "sermao": "sd01",
+   "nivel": "integral",
+   "data": "2026-11-14",
+   "paragrafos_conferidos": 5,
+   "resultado": "Lido parágrafo por parágrafo com o latim (5 parágrafos). Quatro correções aplicadas (três de sentido e uma de referência) e duas sugestões de redação.",
+   "estado_final": "finalizada",
+   "ressalvas": []
+  }
+ ]
+}

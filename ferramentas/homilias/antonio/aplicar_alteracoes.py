@@ -85,7 +85,7 @@ def revisar(codigo, registros):
     cab.append("@alteracoes " + (", ".join(aplicadas) if aplicadas else "(nenhuma)"))
     if proprias:
         cab.append("@traducao-propria " + ", ".join(proprias) + " (trechos traduzidos do latim neste projeto; ver registro)")
-    return erros, "\n".join(cab) + "\n\n" + "\n\n".join("%s\n%s" % (m, t) for m, t in blocos) + "\n"
+    return erros, "\n".join(cab) + "\n\n" + "\n\n".join(("%s\n%s" % (m, t)) if t else m for m, t in blocos) + "\n"
 
 
 def main():
