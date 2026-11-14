@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/josedeanchieta.htm
+
+@secao Antífona da entrada
+@texto
+Como são belos sobre os montes
+os pés do mensageiro que anuncia a paz,
+que anuncia a felicidade e prega a salvação.
+
+@secao Coleta
+@texto
+Derramai, Senhor, sobre nós a vossa graça,
+a fim de que, a exemplo do presbítero São José de Anchieta,
+Apóstolo do Brasil,
+sirvamos fielmente ao Evangelho,
+tornando-nos tudo para todos,
+e nos esforcemos em ganhar para vós
+novos irmãos no amor de Cristo.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos..
+
+@secao Sobre as oferendas
+@texto
+Senhor, atendei benigno as nossas súplicas,
+e livrai-nos de toda a culpa,
+para que, por vossa graça purificadora,
+sejamos perdoados
+pelos mistérios que celebramos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mc 16,15; Mt 28,20
+@texto
+Ide pelo mundo inteiro e anunciai o Evangelho!
+Eis que estarei convosco todos os dias, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+os sacramentos que recebemos
+alimentem em nós a mesma fé
+transmitida pela pregação apostólica
+e que São José de Anchieta guardou com solicitude.
+Por Cristo, nosso Senhor.

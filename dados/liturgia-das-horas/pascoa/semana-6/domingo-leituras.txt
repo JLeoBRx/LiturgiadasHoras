@@ -1,0 +1,235 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/6domingoPascoa.htm
+@documento Ofício das Leituras - 6º Domingo Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aleluia, removida foi a pedra
+da entrada do sepulcro, aleluia.
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Aleluia, removida foi a pedra
+da entrada do sepulcro, aleluia.
+
+@antifona 2
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@antifona 3
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@texto
+V. Refloresceu a minha carne e eu canto: Aleluia.
+R. Eu agradeço ao Senhor de coração. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Início da Primeira Carta de São João {1,1-10}
+
+@tema
+A Palavra da Vida e a luz de Deus
+
+@texto
+[1] O que era desde o princípio, o que nós ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram da Palavra da Vida, [2] – de fato, a Vida manifestou-se e nós a vimos, e somos testemunhas, e a vós anunciamos a Vida eterna, que estava junto do Pai e que se tornou visível para nós – [3] isso que vimos e ouvimos, nós vos anunciamos, para que estejais em comunhão conosco. E a nossa comunhão é com o Pai e com seu Filho, Jesus Cristo. [4] Nós vos escrevemos estas coisas para que a nossa alegria fique completa. [5] A mensagem, que ouvimos de Jesus Cristo e vos anunciamos, é esta: Deus é luz e nele não há trevas. [6] Se dissermos que estamos em comunhão com ele, mas andamos nas trevas, estamos mentindo e não nos guiamos pela verdade. [7] Mas, se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo o pecado. [8] Se dissermos que não temos pecado, estamo-nos enganando a nós mesmos, e a verdade não está dentro de nós. [9] Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda a culpa. [10] Se dissermos que nunca pecamos, fazemos dele um mentiroso e sua palavra não está dentro de nós.
+
+@secao Responsório | 1Jo 1,2; 5,10a.c
+
+@responsorio
+R. A vida revelou-se e nós vimos e anunciamos,
+a vida eterna anunciamos,
+* Que estava com o Pai e a nós se revelou. Aleluia.
+V. Sabemos, também, que o Filho de Deus já veio entre nós:
+É este o Deus verdadeiro, é esta a vida eterna.
+* Que estava.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre a Segunda Carta aos Coríntios, de São Cirilo de Alexandria, bispo
+{(Séc. V)} {(Cap. 5,5-6,2: PG 74,942-943)}
+
+@tema
+Deus, por Cristo, nos reconciliou consigo e nos confiou o ministério da reconciliação
+
+@texto
+Os que possuem o penhor do Espírito e vivem na esperança da ressurreição, como se já possuíssem aquilo que esperam, podem dizer que desde agora não reconhecem a ninguém segundo a carne; pois somos todos espirituais e isentos da corrupção da carne. Com efeito, desde que brilhou para nós a Luz do Unigênito de Deus, fomos transformados no próprio Verbo que dá vida a todas as coisas. E assim como nos sentíamos acorrentados pelos laços da morte, quando reinava o pecado, agora ficamos livres da corrupção, ao chegar a justiça de Cristo. Por conseguinte, doravante ninguém vive mais sob o domínio da carne, isto é, sujeito à fraqueza carnal. A ela com certeza, entre outras coisas, deve ser atribuída a corrupção. Neste sentido afirma o apóstolo Paulo: _Se uma vez conhecemos Cristo segundo a carne, agora já não o conhecemos assim_ (2Cor 5,16). Como se quisesse dizer: _O Verbo se fez carne e habitou entre nós_ (Jo 1,14), sujeitando-se à morte segundo a carne, para a salvação de todos. Foi deste modo que o conhecemos; todavia, desde este momento, já não é mais assim que o reconhecemos. É verdade que ele conserva a sua carne, pois ressuscitou ao terceiro dia, e vive no céu, à direita do Pai; mas a sua existência é superior à vida da carne. _Tendo morrido uma vez,_ Cristo _não morre mais; a morte já não tem poder sobre ele. Pois aquele que morreu, morreu para o pecado uma vez por todas; mas aquele que vive, é para Deus que vive_ (Rm 6,9-10). Então, se ele se apresentou diante de nós como modelo de vida, é absolutamente necessário que também nós, seguindo seus passos, façamos parte daqueles que não vivem mais na carne mas acima da carne. É o que diz o grande Paulo, com toda razão: _Se alguém está em Cristo, é uma nova criatura. O mundo velho_ _desapareceu_. _Tudo agora é novo_ (2Cor 5,17). Fomos justificados pela fé em Cristo e terminou o domínio da maldade. Uma vez que ele ressuscitou por nossa causa, calcando aos pés o poder da morte, nós conhecemos aquele que por sua própria natureza é o verdadeiro Deus. É a ele que prestamos culto em espírito e verdade, por intermédio de seu Filho que distribui sobre o mundo as bênçãos divinas do Pai. Por esse motivo, São Paulo diz com muita sabedoria: _Tudo vem de Deus que, por Cristo, nos reconciliou consigo_ (2Cor 5,18). Realmente, o mistério da encarnação e a renovação a que ela deu origem não se realizaram sem a vontade do Pai. É por Cristo que temos acesso ao Pai, como ele próprio afirma: ninguém pode ir ao Pai senão por ele. Portanto, _tudo vem de Deus que, por Cristo_, _nos reconciliou consigo e nos confiou o ministério da reconciliação._
+
+@secao Responsório | Rm 5,11; Cl 1,19-20a
+
+@responsorio
+R. Gloriamo-nos em Deus por Jesus Cristo, Senhor nosso;
+* Pois por ele recebemos a reconciliação. Aleluia.
+V. Foi do agrado de Deus Pai que a plenitude habitasse
+em seu Cristo plenamente.
+Aprouve-lhe também, por meio de Jesus,
+reconciliar consigo mesmo as coisas todas do universo.
+* Pois por ele.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, dai-nos celebrar com fervor estes dias de júbilo em honra do Cristo ressuscitado, para que nossa vida corresponda sempre aos mistérios que recordamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

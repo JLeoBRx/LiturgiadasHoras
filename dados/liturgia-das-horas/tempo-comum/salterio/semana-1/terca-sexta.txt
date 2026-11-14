@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1terca_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Feliz o homem que na lei
+do Senhor Deus vai progredindo.
+
+@salmo salmos/salmo-118-1-8-i-aleph-v2
+
+@gloria
+
+@antifona
+Feliz o homem que na lei
+do Senhor Deus vai progredindo.
+
+@antifona 2
+Meu coração, por vosso auxílio, rejubile!
+
+@salmo salmos/salmo-012
+
+@gloria
+
+@antifona
+Meu coração, por vosso auxílio, rejubile!
+
+@antifona 3
+À humanidade, quando imersa no pecado,
+o Senhor manifestou sua bondade.
+
+@salmo salmos/salmo-013
+
+@gloria
+
+@antifona
+À humanidade, quando imersa no pecado,
+o Senhor manifestou sua bondade.
+
+@secao Leitura breve | Pr 3,13-15
+
+@texto
+Feliz o homem que encontrou a sabedoria, o homem que alcançou a prudência! Ganhá-la vale mais do que a prata, e o seu lucro mais do que o ouro. É mais valiosa do que as pérolas; nada que desejas a iguala.
+
+@texto
+V. Vós amais os corações que são sinceros.
+R. Na intimidade me ensinais sabedoria.
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes a Pedro vosso plano de salvação para todos os povos, fazei que nossos trabalhos vos agradem e, pela vossa graça, sirvam ao vosso desígnio de amor e redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

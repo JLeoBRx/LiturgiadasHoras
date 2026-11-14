@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5quintapascoa_laudes.htm
+@documento Laudes - Quinta-feira da 5ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+. Elevai-vos ó Deus sobre os céus, aleluia.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Elevai-vos ó Deus sobre os céus, aleluia.
+
+@antifona 2
+. O Senhor redimiu o seu povo, aleluia.
+
+@salmo canticos/jr-31-10-14
+
+@gloria
+
+@antifona
+O Senhor redimiu o seu povo, aleluia.
+
+@antifona 3
+Como é grande o nosso Deus
+desde sempre e para sempre! Aleluia.
+
+@salmo salmos/salmo-047
+
+@gloria
+
+@antifona
+Como é grande o nosso Deus
+desde sempre e para sempre! Aleluia.
+
+@secao Leitura breve | Rm 8,10-11
+
+@texto
+Se Cristo, porém, está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Se guardais o meu preceito, ficareis no meu amor. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Se guardais o meu preceito, ficareis no meu amor. Aleluia.
+
+@secao Preces
+
+@preces
+Unidos num só coração e numa só alma, invoquemos a Cristo ressuscitado, sempre presente em sua Igreja; e digamos:
+
+R. **Ficai conosco, Senhor!**
+
+Senhor Jesus, vencedor do pecado e da morte, permanecei no meio de nós,
+– vós, que viveis e reinais pelos séculos sem fim. R.
+
+Vinde em nosso auxílio com vosso poder invencível,
+– e revelai aos nossos corações a infinita bondade de Deus Pai. R.
+
+Salvai o mundo da violência e da discórdia,
+– porque só vós tendes poder para renovar e reconciliar. R.
+
+Confirmai-nos na fé da vitória final,
+– e fortalecei-nos na esperança da vossa vinda gloriosa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, vossa graça nos santificou quando éramos pecadores e nos deu a felicidade, quando infelizes. Vinde em socorro das vossas criaturas e sustentai-nos com vossos dons, para que não falte a força da perseverança àqueles a quem destes a graça da fé. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

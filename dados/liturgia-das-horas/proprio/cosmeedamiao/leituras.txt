@@ -1,0 +1,133 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/cosmeedamiao.htm
+@documento Ofício das Leituras - Santos Cosme E Damião, Mártires
+
+@celebracao
+SANTOS COSME E DAMIÃO, MÁRTIRES
+
+@biografia
+Segundo uma tradição imemorial, confirmada por referências literárias muito antigas, sabemos que o seu sepulcro se encontra em Cirro na Síria, onde foi erigida em sua honra uma basílica. Daí o seu culto passou a Roma e propagou-se por toda a Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir,nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus,
+orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito.* E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. V)} {(Sermo 329,1-2: PL 38,1454-1455)}
+
+@tema
+A preciosa morte dos mártires cujo preço foi a morte de Cristo
+
+@texto
+Pelos feitos tão gloriosos dos mártires, que fazem a Igreja florescer por toda parte, provamos com nossos próprios olhos como é verdadeiro o que cantamos: _É preciosa aos olhos do Senhor a morte de seus santos_ (Sl 115,15). Portanto, é preciosa não só aos nossos olhos, mas aos olhos daquele por cujo nome se sofreu. Contudo o preço destas mortes é a morte de um só. Quantas mortes comprou um só com a sua morte? Se ele não morresse, o grão de trigo não se multiplicaria. Ouvistes suas palavras, estando próxima a paixão, quer dizer, quando se aproximava nossa redenção: _Se o grão de trigo, caindo em terra, não morrer, ficará sozinho; morrendo, porém, produzirá muito fruto_ (Jo 12,24).
+
+Houve na cruz um grande comércio: abriu-se ali a bolsa para pagar nosso custo; quando seu lado foi aberto pela lança do que feria, dali correu o preço do mundo inteiro. Foram comprados fiéis e mártires; mas a fé dos mártires suportou a prova: o sangue é testemunha. Retribuíram o que tinha sido pago por eles e realizaram as palavras de São João: _Assim como Cristo entregou sua vida por nós, também nós devemos entregar nossas vidas pelos irmãos_ (cf. 1Jo 3,16). E em outro lugar se disse: _Sentaste à grande mesa, observa com cuidado o que te oferecem porque deves preparar o mesmo_ (Pr 23,1-2). A grande mesa é aquela em que as iguarias são o próprio Senhor da mesa. Ninguém alimenta os convivas com sua pessoa, mas assim procede o Cristo Senhor: ele é que convida, ele é o pão e a bebida. Portanto, os mártires reconheceram o que comeram e o que beberam, para retribuírem o mesmo.
+
+Mas como retribuir, a não ser que lhes desse com que retribuir aquele que primeiro pagou? _Que retribuirei ao Senhor por tudo quanto me deu? Tomarei o cálice da salvação_ (Sl 115,12-13). Que cálice é este? O cálice da paixão, amargo e salutar; cálice que, se dele não bebesse antes o médico, o doente temeria tocá-lo.
+
+É ele este cálice. Nós o reconhecemos nos lábios de Cristo que dizia: _Pai, se possível for afaste-se de mim este cálice_ (Mt 26,39). Deste mesmo cálice disseram os mártires: _Tomarei o cálice da salvação e invocarei o nome do Senhor_ (Sl 115,13).
+
+Não temos então medo de fraquejar? Por quê? Porque invocaremos o nome do Senhor. Como venceriam os mártires, se neles não vencesse aquele que disse: _Alegrai-vos porque eu venci o mundo?_ (Jo 16,33). O soberano dos céus governava-lhes a mente e a língua e, através deles, derrotava o diabo na terra e coroava os mártires no céu. Felizes os que assim beberam deste cálice: terminaram as dores, receberam as honras!
+
+@secao Responsório | Cf. Ef 4,4.5
+
+@responsorio
+R. Estes mártires santos derramaram
+o seu sangue heroico por Deus;
+amaram o Cristo na vida, imitaram o Cristo na morte;
+* Mereceram coroas de glória.
+V. Viviam unidos na fé, no amor e no mesmo Espírito.
+* Mereceram.
+
+@secao Oração
+
+@oracao
+Ó Deus, a comemoração dos mártires Cosme e Damião proclame a vossa grandeza, pois na vossa admirável providência lhes destes a glória eterna, e os fizestes nossos protetores. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

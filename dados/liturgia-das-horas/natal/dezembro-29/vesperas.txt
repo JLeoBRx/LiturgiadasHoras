@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/29dezembro_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria,
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho antes da aurora, eu te gerei.
+
+@antifona 2
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+No Senhor se encontra toda graça e copiosa redenção.
+
+@antifona 3
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, Primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@secao Leitura breve | 1Jo 1,1-3
+
+@texto
+O que era desde o princípio, o que nós ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram da Palavra da Vida, – de fato, a Vida manifestou-se e nós a vimos, e somos testemunhas, e a vós anunciamos a Vida eterna, que estava junto do Pai e que se tornou visível para nós – isso que vimos e ouvimos, nós vos anunciamos, para que estejais em comunhão conosco. E a nossa comunhão é com o Pai e com seu Filho, Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor, Rei dos céus, quis nascer duma Virgem
+e, de novo, levar para o Reino celeste
+o homem que estava há muito perdido.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor, Rei dos céus, quis nascer duma Virgem
+e, de novo, levar para o Reino celeste
+o homem que estava há muito perdido.
+
+@secao Preces
+
+@preces
+Invoquemos a infinita misericórdia de Deus Pai, que ungiu no Espírito Santo o seu Filho Unigênito para anunciar aos pobres a alegria da salvação; e digamos:
+
+R. **Deus de misericórdia, tende piedade de nós.**
+
+Deus eterno e cheio de misericórdia, que enviastes vosso Filho ao mundo para que todos os homens se salvem e cheguem ao conhecimento da verdade,
+– fazei que o Natal de Cristo encha de alegria todos os povos da terra. R.
+
+Vós que enviastes Cristo ao mundo para anunciar aos pobres a salvação, libertar os oprimidos e proclamar o tempo da graça,
+– concedei a todos a liberdade e a paz. R.
+
+Vós que encaminhastes os sábios do Oriente para virem adorar o vosso Filho,
+– iluminai a nossa fé e aceitai nossa oração. R.
+
+Vós que atraís todos os seres humanos, chamando-os das trevas à vossa luz admirável, para que ao nome de Jesus todo joelho se dobre,
+– fazei de nós fiéis testemunhas do Evangelho. R.
+
+{(intenções livres)}
+
+Vós que em Jesus Cristo, nascido em Belém, fizestes brilhar a luz que ilumina as nações,
+– mostrai a glória de vossa face aos nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus invisível e todo-poderoso, que dissipastes as trevas do mundo com a vinda da vossa luz, volvei para nós o vosso olhar, a fim de que proclamemos dignamente a maravilhosa natividade de vosso Filho Unigênito. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

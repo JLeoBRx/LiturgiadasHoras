@@ -1,0 +1,55 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 5º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Vós sois o sal da terra; se o sal perde o sabor,
+com que será salgado?, diz Jesus a seus discípulos.
+
+@antifona vesperas-i-B
+À tarde, depois de o sol se pôr,
+trouxeram-lhe todos os enfermos,
+e ele curou muitos que estavam
+oprimidos com as doenças mais diversas.
+
+@antifona vesperas-i-C
+Jesus subiu na barca e ao povo ele ensinava.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Vós sois a luz do mundo;
+brilhe aos homens vossa luz.
+Vendo eles vossas obras, deem glória ao Pai celeste!
+
+@antifona laudes-B
+Jesus levantou-se bem cedo,
+dirigiu-se a um lugar retirado,
+e aí dedicou-se à oração.
+
+@antifona laudes-C
+Ó Mestre, trabalhamos toda a noite
+e nada conseguimos apanhar;
+ao teu mando, lançarei de novo as redes.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Que brilhe a vossa luz como uma lâmpada
+no candeeiro colocada,
+a fim de iluminar a todos quantos
+estão dentro de casa.
+
+@antifona vesperas-ii-B
+Diziam Simão e os seus companheiros:
+Todo o povo te busca!
+Jesus respondeu:
+Vamos a outros lugares, às aldeias vizinhas,
+para ali, também, pregar, pois para isso é que vim!
+
+@antifona vesperas-ii-C
+Afastai-vos de mim, Senhor Jesus,
+porque eu sou um homem pecador!
+Simão, não tenhas medo, nem receio!
+De gente serás um pescador!

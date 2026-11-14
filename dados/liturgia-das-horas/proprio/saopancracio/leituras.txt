@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopancracio.htm
+@documento Ofício das Leituras - São Pancrácio, Mártir
+
+@celebracao
+SÃO PANCRÁCIO, MÁRTIR
+
+@biografia
+Sofreu o martírio em Roma, provavelmente na perseguição de Diocleciano. O seu sepulcro conserva-se na via Aurélia, e sobre ele o papa Símaco edificou uma igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Séc. XII)} {(Sermo 17 in psalmum Qui habitat, 4,6: Opera omnia 4,489-491)}
+
+@tema
+A seu lado eu estarei em suas dores
+
+@texto
+_A seu lado eu estarei em suas dores_ (Sl 90,15), diz Deus. E eu neste meio-tempo que outra coisa desejarei? Para mim só há um bem: _é estar com Deus, e não somente isto, mas também colocar o meu refúgio no Senhor_ (Sl 72,28). Porque, diz ele, _hei de livrá-lo e de glória coroá-lo_ (Sl 90,15).
+A seu lado eu estarei em suas dores. Minhas delícias são estar com os filhos dos homens (cf. Pr 8,31). É o Emanuel, o Deus conosco. _Desceu para estar perto dos que têm o coração atribulado, para estar conosco na tribulação. E estará conosco quando formos arrebatados nas nuvens para o encontro com o Senhor, nos ares. E assim estaremos sempre com o Senhor_ (1Ts 4,17).
+Mas para conseguirmos isso, empenhemo-nos em tê-lo conosco, para que seja nosso companheiro de caminhada aquele que nos conduzirá à pátria; ou melhor, que seja agora nosso caminho aquele que há de ser nossa pátria.
+É melhor para mim, Senhor, ser atribulado, contanto que estejas comigo, do que reinar sem ti, banquetear-me sem ti, ser glorificado sem ti. É melhor para mim, Senhor, abraçar-te na tribulação, ter-te comigo no meio do fogo, do que estar sem ti, ainda que fosse no céu: Para mim, o que há no céu fora de ti? _Se estou contigo, nada mais me atrai na terra_ (Sl 72,25). A fornalha prova o ouro, e a tribulação prova os homens justos (cf. Pr 17,3). Aí, Senhor, estás com eles; aí estás no meio daqueles que se reúnem em teu nome, como outrora estiveste com os três jovens no meio do fogo.
+Por que tememos, por que hesitamos, por que fugimos desta fornalha? O fogo é forte, mas o Senhor está ao nosso lado em nossas dores. _Se Deus é por nós, quem será contra nós?_ (Rm 8,31). E também se é ele quem nos liberta, quem poderá arrancar-nos de suas mãos? Enfim, se é ele quem glorifica, quem poderá privar-nos desta glória? Se é ele quem glorifica, quem poderá humilhar-nos?
+_Vou conceder-lhe vida longa e dias plenos_ (Sl 90,16). É como se dissesse mais claramente: Sei o que ele deseja, sei do que tem sede, sei o de que gosta. Não é o ouro ou a prata que lhe agrada, nem o prazer nem a sabedoria nem qualquer dignidade do mundo. Tudo isto considera como perda, tudo isto despreza e considera como lixo. Despojou-se inteiramente de si mesmo e não suporta preocupar-se com coisas que sabe não poderem satisfazê-lo. Não ignora à imagem de quem foi criado e de que grandeza é capaz, nem aceita agora uma vantagem pequena que venha a privá-lo de tão grande riqueza.
+Por isso, vou conceder-lhe vida longa e dias plenos, ao homem que só a verdadeira luz pode satisfazer, só a luz eterna pode saciar; porque aquela vida longa não tem fim, aquela claridade não tem ocaso, aquela saciedade não cansa.
+
+@secao Responsório
+
+@responsorio
+R. Este santo lutou até à morte
+pela lei de seu Deus e não temeu
+as palavras e ameaças dos malvados,
+* Pois se apoiou sobre a Rocha que é Cristo. Aleluia.
+V. As tentações deste mundo superou
+e ao reino dos céus feliz chegou. * Pois se apoiou.
+
+@secao Oração
+
+@oracao
+Alegre-se, ó Deus, a vossa Igreja, apoiada nos méritos de São Pancrácio e, por suas preces gloriosas, permaneça em vosso serviço e goze tranquilidade constante. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

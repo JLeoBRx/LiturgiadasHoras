@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1terca_laudes.htm
+@documento Laudes - Terça-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Já vem brilhante aurora
+o sol anunciar.
+De cor reveste as coisas,
+faz tudo cintilar.
+
+Ó Cristo, Sol eterno,
+vivente para nós,
+saltamos de alegria,
+cantando para vós.
+
+Do Pai Ciência e Verbo,
+por quem se fez a luz,
+as mentes, para vós,
+levai, Senhor Jesus.
+
+Que nós, da luz os filhos,
+solícitos andemos.
+Do Pai eterno a graça
+nos atos expressemos.
+
+Profira a nossa boca
+palavras de verdade,
+trazendo à alma o gozo
+que vem da lealdade.
+
+A vós, ó Cristo, a glória
+e a vós, ó Pai, também,
+com vosso Santo Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quem tem mãos puras e inocente coração
+subirá até o monte do Senhor.
+
+@antifona 2
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@salmo canticos/tb-13-2-8
+
+@gloria
+
+@antifona
+Vossas obras celebrem a Deus
+e exaltem o Rei sempiterno.
+
+@antifona 3
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo †
+
+@salmo salmos/salmo-032
+
+@gloria
+
+@antifona
+Ó justos, alegrai-vos no Senhor!
+Aos retos fica bem glorificá-lo.
+
+@secao Leitura breve | Rm 13,11b.12-13a
+
+@texto
+Já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz. Procedamos honestamente, como em pleno dia.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó meu Deus, sois o rochedo que me abriga,
+* Meu escudo e proteção: em vós espero! R. Ó meu Deus.
+V. Minha rocha, meu abrigo e Salvador. * Meu escudo.
+Glória ao Pai. R. Ó meu Deus.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor fez surgir um poderoso Salvador,
+como falara pela boca de seus santos e profetas.
+
+@secao O Messias e seu Precursor
+
+@salmo salmos/benedictus
+
+@gloria
+
+@antifona
+O Senhor fez surgir um poderoso Salvador,
+como falara pela boca de seus santos e profetas.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, chamados a participar de uma vocação celeste, bendigamos a Jesus Cristo, pontífice da nossa fé; e aclamemos:
+
+R. **Senhor, nosso Deus e Salvador!**
+
+Rei todo-poderoso, que pelo batismo nos conferistes um sacerdócio régio,
+– fazei da nossa vida um contínuo sacrifício de louvor. R.
+
+Ajudai-nos, Senhor, a guardar os vossos mandamentos,
+– para que, pela força do Espírito Santo, permaneçamos em vós e vós permaneçais em nós. R.
+
+Dai-nos a vossa sabedoria eterna,
+– para que ela sempre nos acompanhe e dirija os nossos trabalhos. R.
+
+Não permitais que neste dia sejamos motivo de tristeza para ninguém,
+– mas causa de alegria para todos os que convivem conosco. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Acolhei, Senhor, as preces desta manhã, e por vossa bondade iluminai as profundezas de nosso coração, para que não se prendam por desejos tenebrosos os que foram renovados pela luz de vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

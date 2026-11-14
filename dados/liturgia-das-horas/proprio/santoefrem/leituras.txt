@@ -1,0 +1,179 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoefrem.htm
+@documento Ofício das Leituras - Santo Efrém, Diácono E Doutor Da Igreja
+
+@celebracao
+SANTO EFRÉM, DIÁCONO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Nísibe, cerca de 306, de família cristã. Exerceu o ofício de diácono, para o qual fora ordenado, em sua cidade natal e em Edessa, onde fundou uma escola teológica. Sua vida de intensa ascese não o impediu de se consagrar ao ministério da pregação e de escrever diversas obras para combater os erros do seu tempo. Morreu em 373.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Efrém, diácono
+{(Séc.IV)} {(Sermo 3, De fine et admonitione, 2.4-5: ed. Lamy, 3,216-222)}
+
+@tema
+A economia divina é imagem do mundo espiritual
+
+@texto
+Fazei resplandecer, Senhor, o dia radioso do vosso conhecimento e dissipai da nossa mente as trevas noturnas, para que, iluminada, ela vos sirva renovada e pura. O nascer do sol indica aos mortais o início dos seus trabalhos; preparai, Senhor, a morada da nossa alma, para que nela permaneça o esplendor daquele dia que não conhece fim. Concedei, Senhor, que contemplemos em nós mesmos a vida da ressurreição e que nada consiga afastar o nosso espírito de vossas alegrias. Imprimi, Senhor, em nossos corações o sinal daquele dia que não se rege pelo movimento do sol, infundindo-nos uma constante orientação para vós.
+
+Diariamente vos abraçamos nos sacramentos e vos recebemos em nosso corpo; tornai-nos dignos de sentir em nós mesmos a ressurreição que esperamos. Com a graça do batismo, conservamos escondido em nosso corpo o tesouro que nos destes, tesouro que aumenta na mesa dos vossos sacramentos; fazei-nos viver sempre na alegria da vossa graça. Possuímos em nós, Senhor, o memorial que recebemos de vossa mesa espiritual; concedei-nos a graça de possuirmos, na renovação futura, a realidade plena que ele nos recorda.
+
+Nós vos pedimos que, através daquela beleza espiritual que a vossa vontade imortal faz resplandecer até nas criaturas mortais, nos leveis a compreender retamente a beleza da nossa própria dignidade.
+
+A vossa crucifixão, ó Salvador dos homens, foi o termo da vossa vida corpórea; concedei-nos que, pela crucifixão do nosso espírito, alcancemos o penhor da vida espiritual. Vossa ressurreição, ó Jesus, faça crescer em nós o homem espiritual; e os sinais dos vossos sacramentos sejam para nós um espelho para conhecê-lo. Vossa economia divina, ó Salvador dos homens, é imagem do mundo espiritual; dai-nos correr nele como homens espirituais.
+
+Não priveis, Senhor, a nossa mente da vossa revelação espiritual, e não afasteis de nossos membros o calor da vossa suavidade. A natureza mortal, que se oculta em nosso corpo, leva-nos à corrupção da morte; infundi em nossos corações o vosso amor espiritual, para que afaste de nós os efeitos da mortalidade. Concedei, Senhor, que caminhemos velozmente para a nossa pátria celeste e, como Moisés no alto monte, possamos contemplá-la desde já através da revelação.
+
+@secao Responsório | Eclo 47,10-11.12cd
+
+@responsorio
+R. Louvou o Senhor Deus de todo o coração
+e amou a Deus que o criou.
+* Ante o altar pôs os cantores
+e fez suaves melodias para seus cantos. Aleluia.
+V. Para louvar desde a manhã o nome santo do Senhor
+e engrandecer-lhe a santidade. * Ante o altar.
+
+@secao Oração
+
+@oracao
+Infundi, ó Deus, em nossos corações o Espírito Santo que inspirava ao diácono Efrém cantar os vossos mistérios e consagrar-se inteiramente ao vosso serviço. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

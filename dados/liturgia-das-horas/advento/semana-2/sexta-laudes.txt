@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sexta_laudes.htm
+@documento Laudes - II Sexta-Feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, não desprezeis um coração arrependido!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Ó Senhor, não desprezeis um coração arrependido.
+
+@antifona 2
+Ó Senhor, mesmo na cólera, lembrai-vos
+de ter misericórdia.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Ó Senhor, mesmo na cólera, lembrai-vos
+de ter misericórdia.
+
+@antifona 3
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus! †
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus!
+
+@secao Leitura breve | Jr 30,21a.22
+
+@texto
+Eis que diz o Senhor: Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Sereis meu povo e eu serei vosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Justiça e paz se abraçarão.
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Dizei: Vós que estais desanimados,
+tende ânimo, coragem! Não temas!
+Eis que vem o Senhor e nosso Deus!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Dizei: Vós que estais desanimados,
+tende ânimo, coragem! Não temas!
+Eis que vem o Senhor e nosso Deus!
+
+@secao Preces
+
+@preces
+Oremos, irmãos diletos, a Cristo nosso Redentor, que veio ao mundo para nossa justificação; e digamos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, cujo nascimento segundo a carne foi anunciado pelos antigos profetas,
+– dai novo vigor às virtudes que fizestes nascer em nosso coração. R.
+
+A nós que anunciamos ao mundo vossa redenção,
+– concedei a salvação e a paz. R.
+
+Vós, que viestes salvar os corações atribulados,
+– curai as enfermidades do vosso povo. R.
+
+Vós, que viestes reconciliar o mundo com o Pai,
+– livrai-nos de toda condenação quando voltardes como juiz no último dia. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus onipotente, dai ao vosso povo esperar vigilante a chegada do vosso Filho, para que, instruídos pelo próprio Salvador, corramos ao seu encontro com nossas lâmpadas acesas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

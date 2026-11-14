@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7quartaPA.htm
+
+@secao Antífona da entrada | Cf. Sl 46,2
+@texto
+Povos todos do universo, batei palmas,
+gritai a Deus aclamações de alegria, aleluia.
+
+@secao Coleta
+@texto
+Deus de misericórdia,
+concedei benigno à vossa Igreja,
+congregada no Espírito Santo,
+servir-vos de todo coração,
+unida em sincero amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, nós vos pedimos,
+o sacrifício que instituístes;
+e, pelos sagrados mistérios que celebramos em vossa honra,
+dignai-vos completar a santificação
+daqueles que salvastes.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 15,26
+@texto
+Quando vier o Defensor que eu vos mandarei,
+o Espírito da Verdade, que procede do Pai,
+ele dará testemunho de mim.
+E vós dareis testemunho, diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor, a participação no divino sacramento
+aumente sempre em nós a vossa graça,
+e, purificando-nos pela sua força,
+nos torne cada vez mais dignos de tão grande dom.
+Por Cristo, nosso Senhor.

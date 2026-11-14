@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/4quintaPascoa.htm
+@documento Ofício das Leituras - 4ª Semana Da Páscoa - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais. Aleluia.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Foi vossa mão e a luz de vossa face,
+que no passado salvaram nossos pais. Aleluia.
+
+@antifona 2
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo coração. Aleluia.
+
+@salmo salmos/salmo-043-ii-v4
+
+@gloria
+
+@antifona
+O Senhor não afasta de vós a sua face,
+se a ele voltardes de todo coração. Aleluia.
+
+@antifona 3
+Levantai-vos, ó Senhor,
+não nos deixeis eternamente!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor,
+não nos deixeis eternamente!
+
+@texto
+V. Deus, o Pai que a Jesus,
+nosso Senhor ressuscitou, aleluia,
+R. Nos fará também a nós
+ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {15,5-16,21}
+
+@tema
+As sete taças da ira divina
+
+@texto
+Eu, João, [15,5] depois disto, vi abrir-se o Templo da Tenda do Testemunho, que está no céu. [6] Saíram do Templo os sete anjos com as sete pragas. Estavam vestidos de linho puro e brilhante, cingidos à altura do peito com cintos de ouro. [7] Um dos quatro Seres vivos entregou aos sete anjos sete taças de ouro, cheias do furor de Deus que vive para sempre. [8] E o Templo encheu-se de fumaça, por causa da glória e do poder de Deus, e ninguém podia entrar no Templo, enquanto não estivessem consumadas as sete pragas dos sete anjos. [16,1] Depois, ouvi uma voz forte que saía do templo, dizendo aos sete anjos: “Ide, despejai sobre a terra as sete taças do furor de Deus”. [2] Saiu o primeiro anjo e despejou a sua taça na terra, e causou úlceras feias e malignas nas pessoas que traziam a marca da besta e adoravam a sua imagem. [3] O segundo anjo despejou a sua taça no mar, e o mar transformou-se em sangue, como o de um morto, e todos os seres vivos do mar morreram. [4] O terceiro anjo despejou a sua taça nos rios e nas fontes das águas, e a água transformou-se em sangue. [5] Então, ouvi o anjo das águas dizer: “Justo és tu, Senhor, aquele que é e que era, o Santo, por teres julgado deste modo. [6] Pois essa gente derramou o sangue de santos e profetas, e tu lhes deste sangue para beber! É o que eles merecem!” [7] Ouvi então a voz que vinha do altar: “Sim, Senhor, Deus Todo-poderoso, teus julgamentos são verdadeiros e justos”. [8] O quarto anjo despejou a sua taça no sol, e ao sol foi concedido queimar os homens com seu fogo. [9] Os homens ficaram gravemente queimados e blasfemaram contra o nome de Deus, que tem o poder sobre essas pragas. Mas não se converteram para dar-lhe glória. [10] O quinto anjo despejou a sua taça sobre o trono da besta, e o reino dela ficou em trevas. Os homens mordiam a língua de dor [11] e blasfemaram contra o Deus do céu, por causa de suas dores e úlceras, mas não se converteram de sua conduta. [12] O sexto anjo despejou a sua taça sobre o grande rio Eufrates. A água do rio secou, de modo que ficou livre o caminho para a invasão dos reis do Oriente. [13] Então vi da boca do Dragão, da boca da besta e da boca do falso profeta, sair três espíritos imundos, semelhantes a sapos. [14] São espíritos demoníacos, que realizam milagres. Eles se dirigem aos reis da terra, para os reunir para a guerra do grande dia do Deus todo-poderoso. [15] “Eis que venho como um ladrão. Feliz o que fica acordado e conserva suas vestes, para não andar nu e para que não se enxergue a sua vergonha”. [16] Então os espíritos reuniram os reis no lugar que, em hebraico, se chama Harmagedon. [17] O sétimo anjo despejou a sua taça no ar e uma voz forte saiu do Templo, de junto do trono, e dizia: “Está feito!” [18] Houve então relâmpagos, vozes, trovões e um forte terremoto. Desde que o homem apareceu na terra nunca tinha acontecido terremoto assim tão violento. [19] A Grande Cidade partiu-se em três e as cidades das nações desmoronaram-se. E Babilônia, a grande, foi lembrada diante de Deus, para que lhe fosse dada a taça com o vinho do furor da sua ira. [20] Todas as ilhas desapareceram e não se encontraram mais montes. [21] Do céu caiu sobre os homens granizo como pedras de trinta quilos, e os homens blasfemaram contra Deus por causa do granizo, pois foi uma praga desastrosa.
+
+@secao Responsório | Mt 24,43a; Ap 16,15a; 1Ts 5,3a
+
+@responsorio
+R. Se o dono da casa soubesse em que hora viria o ladrão,
+ficaria, de certo, acordado.
+* Eis que venho igual ao ladrão,
+adverte o Senhor, e nos diz:
+Feliz quem vigia. Aleluia.
+V. Ao falarem de “paz, segurança”,
+eis que vem, de repente, a ruína. * Eis que venho.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre o Evangelho de São João, de Santo Agostinho, bispo
+{(Séc.V)} {(Tract. 65,1-3:CCL36,490-492)}
+
+@tema
+O novo mandamento
+
+@texto
+O Senhor Jesus afirma que dá um novo mandamento a seus discípulos, isto é, que se amem mutuamente: _Eu vos dou um novo mandamento:_ _amai-vos uns aos outros_ (Jo 13,34). Mas este mandamento já não estava escrito na antiga lei de Deus, onde se lê: _Amarás o teu próximo como a ti mesmo?_ (Lv 19,18). Por que então o Senhor chama novo o que é evidentemente tão antigo? Será um novo mandamento pelo fato de nos revestir do homem novo, depois de nos ter despojado do velho? Na verdade, ele renova o homem que o ouve, ou melhor, que lhe obedece; não se trata, porém, de um amor puramente humano, mas daquele que o Senhor quis distinguir,acrescentando: _Como eu vos amei_ (Jo 13,34). É este amor que nos renova, transformando-nos em homens novos, herdeiros da nova Aliança, cantores do canto novo. Foi este amor, caríssimos irmãos, que renovou outrora os antigos justos, os patriarcas e os profetas e, posteriormente, os santos apóstolos. Ainda hoje é ele que renova as nações e reúne todo o gênero humano espalhado pelo mundo inteiro, formando um só povo novo, o corpo da nova esposa do Filho unigênito de Deus. É dela que se diz no Cântico dos Cânticos: _Quem é esta que sobe vestida de branco?_ (cf. Ct 8,5). Vestida de branco, sim, porque renovada; e renovada de que modo, senão pelo mandamento novo? Por isso os membros desta esposa sentem uma solicitude mútua. Se um membro sofre, todos sofrem com ele; se um membro é honrado, todos os outros se alegram com ele. Pois ouvem e praticam a palavra do Senhor: Eu vos dou um novo mandamento: amai-vos uns aos outros. Não como se amam aqueles que vivem na corrupção da carne; nem como se amam os seres humanos apenas como seres humanos; mas como se amam aqueles que são deuses e filhos do Altíssimo. Deste modo, se tornam irmãos do Filho unigênito de Deus, amando-se uns aos outros com aquele mesmo amor com que ele os amou, e por ele serão conduzidos à plenitude final, onde os seus desejos serão completamente saciados de bens. Então nada faltará à sua felicidade, quando Deus for tudo em todos. Quem nos dá este amor é o mesmo que diz: Amai-vos uns aos outros como eu vos amei. Foi para isto que ele nos amou, para que nos amássemos mutuamente. E com o seu amor, deu-nos a graça, para que, vivendo unidos em recíproco amor, como membros ligados por tão suave vínculo, formemos o Corpo de tão sublime Cabeça.
+
+@secao Responsório | 1Jo 4,21; Mt 22,40
+
+@responsorio
+R. Recebemos de Deus o preceito:
+* Aquele que ama a Deus,
+que ame também seu irmão. Aleluia.
+V. Destes dois mandamentos dependem
+toda a Lei e os Profetas, diz Cristo. * Aquele.
+
+@secao Oração
+
+@oracao
+Ó Deus, que restaurais a natureza humana dando-lhe uma dignidade ainda maior, considerai o mistério do vosso amor, conservando para sempre os dons da vossa graça naqueles que renovastes pelo sacramento de uma nova vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

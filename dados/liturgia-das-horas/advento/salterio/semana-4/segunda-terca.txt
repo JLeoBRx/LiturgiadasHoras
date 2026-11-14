@@ -1,0 +1,34 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4segunda_terca.htm
+@documento Hora Média (Terça) - IV Segunda-feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-118-129-136-xvii-phe
+
+@gloria
+
+@salmo salmos/salmo-081
+
+@gloria
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.

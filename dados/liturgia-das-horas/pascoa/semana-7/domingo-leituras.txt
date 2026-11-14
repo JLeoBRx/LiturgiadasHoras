@@ -1,0 +1,242 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/7domingoPascoa.htm
+@documento Ofício das Leituras - 7º Domingo Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Pai ressuscitou Jesus Cristo, aleluia
+e lhe deu poder e glória, aleluia.
+
+@salmo salmos/salmo-144-i
+
+@gloria
+
+@antifona
+O Pai ressuscitou Jesus Cristo, aleluia
+e lhe deu poder e glória, aleluia.
+
+@antifona 2
+Vós fostes exaltado, ó Senhor,
+bem mais alto do que os céus, aleluia.
+
+@salmo salmos/salmo-144-ii
+
+@gloria
+
+@antifona
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@antifona 3
+Vós fostes exaltado, ó Senhor,
+bem mais alto do que os céus, aleluia.
+
+@salmo salmos/salmo-144-iii
+
+@gloria
+
+@antifona
+Vós fostes exaltado, ó Senhor,
+bem mais alto do que os céus, aleluia.
+
+@texto
+V. Refloresceu a minha carne e eu canto: Aleluia.
+R. Eu agradeço ao Senhor de coração. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {3,18-24}
+
+@tema
+Mandamento da fé e da caridade
+
+@texto
+[18] Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade! [19] Aí está o critério para saber que somos da verdade e para sossegar diante dele o nosso coração, [20] pois, se o nosso coração nos acusa, Deus é maior que o nosso coração e conhece todas as coisas. [21] Caríssimos, se o nosso coração não nos acusa, temos confiança diante de Deus. [22] E qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado.
+[23] Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu. [24] Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele. Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
+
+@secao Responsório | 1Jo 3,24; Eclo 1,9a10ab
+
+@responsorio
+R. Quem guarda os preceitos de Deus,
+em Deus permanece e Deus nele.
+* Sabemos que em nós permanece,
+pelo Espírito que ele nos deu. Aleluia.
+V. Deus criou pelo Espírito Santo
+e espalhou sobre todas as coisas a sabedoria divina.
+* Sabemos.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre o Cântico dos Cânticos, de São Gregório de Nissa, bispo
+{(Séc. IV)} {(Hom. 15: PG 44,1115-1118)}
+
+@tema
+Dei-lhes a glória que tu me deste
+
+@texto
+Se o amor expulsa completamente o temor, de tal modo que o temor se transforma em amor, então compreenderemos que a salvação nos é obtida pela unidade. Pois a salvação consiste em estarmos todos unidos, na íntima adesão ao único e sumo bem, pela perfeição que está representada naquela pomba de que nos fala o Cântico dos Cânticos.
+É o que parece depreender-se das seguintes palavras: Uma só é a minha pomba, uma só é a minha perfeita; _é a única filha de sua mãe, a predileta daquela que lhe deu à luz_ (Ct 6,9).
+No evangelho, a palavra do Senhor no-lo diz ainda mais claramente. Jesus abençoa seus discípulos, dá-lhes todo o poder e concede-lhes os seus bens. Nestes bens incluem-se também as santas expressões que dirige ao Pai. Mas entre todas as palavras que ele diz e as graças que concede, há uma que é a mais importante e como que a fonte e a síntese de tudo o mais. É aquela em que adverte os seus para nunca mais se separarem por divergência alguma no discernimento das atitudes a tomar; mas, pelo contrário, sejam um só coração e uma só alma, procurando acima de tudo a união com aquele único e sumo bem. Deste modo, unidos no Espírito Santo pelo vínculo da paz, como diz o Apóstolo, serão todos um só corpo e um só espírito, animado pela mesma esperança a que foram chamados.
+Entretanto, será melhor referir textualmente as divinas palavras do evangelho: _Que todos sejam um como tu, Pai, estás em mim e eu em ti, e para que eles estejam em nós_ (Jo 17,21).
+O vínculo desta unidade é a glória. Nenhuma pessoa sensata poderá negar que este nome “glória” é atribuído ao Espírito Santo, se recordar as palavras do Senhor: _Eu dei-lhe a glória que tu me deste_ (Jo 17,22). Foi esta glória que o Senhor deu aos discípulos quando lhes disse: _Recebei o Espírito Santo_ (Jo 20,22).
+Ele sempre possuiu esta glória, antes mesmo que o mundo existisse; mas recebeu-a também ao assumir a natureza humana. E uma vez que a natureza humana de Cristo foi glorificada pelo Espírito Santo, a glória do Espírito foi comunicada a todos os que participam dessa natureza, a começar pelos apóstolos.
+Por esta razão diz: _Eu dei-lhes a glória que tu me deste, para que eles sejam um, como nós somos um: eu neles e tu em mim, para que assim eles cheguem à unidade perfeita_ (Jo 17,22-23). Por isso, todo aquele que vai crescendo desde a infância até alcançar o estado de homem perfeito, chega àquela maturidade espiritual que somente a inteligência, iluminada pela fé, pode compreender. Então será capaz de receber a glória do Espírito Santo, através de uma vida pura, livre de toda mancha. Esta é aquela pomba perfeita a que se refere o esposo quando afirma: Uma só e a minha pomba, uma só é a minha perfeita.
+
+@secao Responsório | Cf. Jo 15,15; 14,26; 15,14
+
+@responsorio
+R. Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+pois vos dei a conhecer o que fiz em vosso meio.
+* Recebei o Espírito Santo, o Paráclito em vós;
+é ele a quem o Pai em meu Nome enviará. Aleluia.
+V. Vós sereis os meus amigos se seguirdes meus preceitos. * Recebei.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, ouvi com bondade as nossas súplicas: assim como cremos que o Salvador da humanidade está convosco na glória, possamos sentir a sua presença até o fim dos tempos, como ele mesmo prometeu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

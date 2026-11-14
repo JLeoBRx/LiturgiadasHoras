@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoambrosio_laudes.htm
+@documento Laudes - Santo Ambrósio, bispo e doutor da Igreja
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Juntos cantemos louvores
+ao forte e santo prelado.
+Ele acalmou as procelas
+da terra, em tempo agitado.
+
+Nem cetros, nem a rainha
+podem fazê-lo oscilar;
+fechando as portas do templo,
+impede o César de entrar.
+
+Mestre profundo, ele explica
+do Livro Santo os ensinos
+e com brilhante eloquência
+revela os dogmas divinos.
+
+A fé lhe move o espírito:
+que belos hinos produz!
+Procura os corpos dos mártires,
+irmãos na fé em Jesus.
+
+Expulsa o lobo infernal,
+com teus açoites na mão.
+A luz da tua ciência
+sempre nos dê proteção.
+
+Louvor e glória à Trindade,
+à qual, por tua oração,
+eternamente louvemos
+na sua eterna mansão.
+
+@secao Salmodia
+
+@antifona 1
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Vós sois a luz do mundo.
+Não se pode esconder uma cidade situada
+sobre o cimo da montanha. Aleluia.
+
+@antifona 2
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Brilhe aos homens vossa luz;
+vendo eles vossas obras,
+deem glória ao Pai celeste. Aleluia.
+
+@antifona 3
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A palavra do Senhor é viva e eficaz;
+é cortante e penetrante como espada de dois gumes. Aleluia.
+
+@secao Leitura breve | Sb 7,13-14
+
+@texto
+Aprendi a Sabedoria sem maldade e reparto-a sem inveja; não escondo a sua riqueza. É um tesouro inesgotável para os homens; os que a adquirem atraem a amizade de Deus, porque recomendados pelos dons da instrução.
+
+@secao Responsório breve
+
+@responsorio
+R. Que os povos da terra proclamem
+* A sabedoria dos santos. R. Que os povos.
+V. E a Igreja anuncie, cantando, os louvores que eles merecem. * A sabedoria...
+Glória ao Pai. R. Que os povos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem é sábio brilhará como luz no firmamento;
+quem ensina à multidão os caminhos da justiça,
+fulgirá como as estrelas pelos séculos eternos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem é sábio brilhará como luz no firmamento;
+quem ensina à multidão os caminhos da justiça,
+fulgirá como as estrelas pelos séculos eternos.
+
+@secao Preces
+
+@preces
+Agradeçamos a Cristo, o bom Pastor que deu a vida por suas ovelhas; e lhe peçamos:
+
+R. **Apascentai, Senhor, o vosso rebanho!**
+
+Cristo, quisestes mostrar vosso amor e misericórdia nos santos pastores;
+– por meio deles, sede sempre misericordioso para conosco. R.
+
+Através dos vossos representantes na terra, continuais a ser o Pastor das nossas almas;
+– não vos canseis de nos dirigir por intermédio de nossos pastores. R.
+
+Em vossos santos, que guiam os povos, sois o médico dos corpos e das almas;
+– não cesseis de exercer para conosco o ministério da vida e da santidade. R.
+
+Pela sabedoria e caridade dos santos, instruístes o vosso rebanho;
+– guiados pelos nossos pastores, fazei-nos crescer na santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes o bispo Santo Ambrósio doutor da fé católica e exemplo de intrépido pastor, despertai na vossa Igreja homens segundo o vosso coração, que a governem com força e sabedoria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

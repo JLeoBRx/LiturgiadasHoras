@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoapolinario.htm
+@documento Ofício das Leituras - Santo Apolinário, Bispo E Mártir
+
+@celebracao
+SANTO APOLINÁRIO, BISPO E MÁRTIR
+
+@biografia
+Apolinário, bispo da Igreja de Classe, em Ravena, Emília-Romanha, Itália, propagou entre os pagãos as inesgotáveis riquezas de Cristo. Sofreu o martírio no dia 23 de julho, por volta do final do século II.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Pedro Crisólogo, bispo
+{(Séc. IV)} {(Sermo 128, 1-3: CCL 24A, 789-791)}
+
+@tema
+O mártir reina e vive
+
+@texto
+O bem-aventurado Apolinário fez resplandecer a Igreja com a honra do povo e a glória do martírio. Justificou o seu nome de Apolinário, porque, seguindo o mandamento de Deus, aqui perdeu a sua vida para a ganhar na vida eterna. Bem‑aventurado o que terminou a sua carreira e guardou a fé, de tal modo que se tornou o primeiro [bispo] dos que naquela Igreja nele confiavam.
+Ninguém pense que por lhe ser atribuído o título de confessor, que seja inferior ao mártir, porque, segundo o mandato de Deus, se dispõe ao combate que trava cada dia e de múltiplas formas. Escuta o que diz Paulo: _Todos os dias me exponho à morte_. Morrer uma só vez parece pouco àquele que muitas vezes pode oferecer ao seu rei uma gloriosa vitória sobre os inimigos. O que faz o mártir não é tanto a morte como a fé e o serviço divino; e assim como é sinal de valor sucumbir na batalha por amor ao rei, também é sinal de virtude perfeita lutar constantemente e consumar o combate. Foi mártir, não porque sofreu a morte; foi mártir, porque na morte que sofreu não vacilou na fé; o astuto inimigo lançou todos os dardos que pôde e recorreu a toda a espécie de armas, mas não pôde mover a atitude daquele fortíssimo chefe nem abater a sua constância. É muito importante, irmãos, se for necessário, perder a vida presente pelo Senhor; mas também é glorioso desprezar o mundo e vencer o seu príncipe.
+Cristo corria ao encontro do seu mártir; o mártir corria ao encontro do seu Rei. Dissemos bem: "corria", como dizia o profeta: _Levantai-Vos, vinde ao meu encontro e vede_. Mas para conservar aquele que a defendia, a santa Igreja correu apressadamente ao encontro de Cristo, para que fosse dada ao vencedor a coroa da justiça e assegurada para ela a presença do seu combatente no tempo de guerra.
+O confessor derramava frequentemente o seu sangue e dava testemunho do seu Criador com as suas feridas e com a fé do seu coração. Levantando os olhos para o Céu, desprezava a carne e a terra. Mas a ainda tenra infância da Igreja venceu, resistiu e conseguiu que o desejo do mártir fosse retardado. Falo da infância, que consegue sempre tudo, que combate mais com as lágrimas do que com as forças. Efetivamente, o rosto e o suor dos fortes não podem tanto como as lágrimas das crianças, pois aqueles quebrantam os corpos, mas estas quebrantam os corações; ali, com dificuldade se movem os juízos da mente, mas aqui desce condescendente toda a piedade.
+Que mais se há de dizer? A santa mãe Igreja procurou insistentemente não ser separada do seu bispo. E este vive como o bom pastor no meio do seu rebanho; e nunca se separou em espírito aquele que nos precedeu corporalmente. Disse que nos precedeu na sua aparência externa; contudo, a presença do seu corpo descansa entre nós. O diabo desapareceu, o perseguidor sucumbiu; mas reina e vive aquele que desejou morrer pelo seu Rei.
+
+@secao Responsório | 2Tm 4,7-8; Fl 1,21
+
+@responsorio
+R. Combati o bom combate, terminei a minha carreira, guardei a fé.
+* Agora já me está preparada a coroa da justiça, que o Senhor, justo juiz, me dará naquele dia.
+V. Para mim, viver é Cristo e morrer é lucro. *Agora já.
+
+@secao Oração
+
+@oracao
+Senhor, conduzi os vossos fiéis no caminho da salvação eterna, que o bispo Santo Apolinário mostrou com seu ensinamento e martírio; concedei-nos, por sua intercessão, perseverar de tal modo em vossos mandamentos que mereçamos com ele receber a coroa da glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

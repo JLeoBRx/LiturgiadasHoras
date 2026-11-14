@@ -1,0 +1,102 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_leituras.htm
+@documento Ofício das Leituras - I Sexta-Feira
+
+@titulo I SEXTA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Reinais no mundo inteiro,
+Jesus, ó sol divino;
+deixamos nossos leitos,
+cantando este hino.
+
+Da noite na quietude,
+do sono levantamos:
+mostrando as nossas chagas,
+remédio suplicamos.
+
+Oh! quanto mal fizemos,
+por Lúcifer levados:
+que a glória da manhã
+apague esses pecados!
+
+E assim o vosso povo,
+por vós iluminado,
+jamais venha a tombar
+nos laços do Malvado.
+
+A glória seja ao Pai,
+ao Filho seu também;
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Cristo, em nossos corações
+infundi a caridade.
+Nossos olhos chorem lágrimas
+de ternura e piedade.
+
+Para vós, Jesus piedoso,
+nossa ardente prece erguemos.
+Perdoai-nos, compassivo,
+todo o mal que cometemos.
+
+Pelo vosso santo corpo,
+pela cruz, vosso sinal,
+vosso povo, em toda parte,
+defendei de todo o mal.
+
+A vós, Cristo, Rei clemente,
+e a Deus Pai, eterno Bem,
+com o vosso Santo Espírito
+honra e glória sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-i
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@antifona 2
+Defendei minha causa, Senhor poderoso!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-ii
+
+@gloria
+
+@antifona
+Defendei minha causa, Senhor poderoso!
+
+@antifona 3
+Minha língua anunciará vossa justiça eternamente.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-iii
+
+@gloria
+
+@antifona
+Minha língua anunciará vossa justiça eternamente.
+
+@texto
+V. Meu filho, observa as minhas palavras.
+R. Conserva a doutrina e haverás de viver.

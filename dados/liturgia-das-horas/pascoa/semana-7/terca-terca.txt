@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7tercapascoa_terca.htm
+@documento Hora Média - Terça - Terça-feira da 7ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-97-104-xi-mem
+
+@gloria
+
+@salmo salmos/salmo-073-i
+
+@gloria
+
+@salmo salmos/salmo-073-ii
+
+@gloria
+
+@antifona 1
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | At 4,11-12
+
+@texto
+Jesus é a pedra, que vós, os construtores, desprezastes, e que se tornou a pedra angular. Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos.
+
+@texto
+V. O Senhor ressurgiu realmente. Aleluia.
+R. E apareceu a Simão. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, fazei que o Espírito Santo, vindo habitar em nossos corações, nos torne um templo da sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

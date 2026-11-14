@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saocolumbano.htm
+@documento Ofício das Leituras - São Columbano, Abade
+
+@celebracao
+SÃO COLUMBANO, ABADE
+
+@biografia
+Nasceu na Irlanda na primeira metade do século VI, e estudou ciências sagradas e humanas. Tendo abraçado a vida monástica, partiu para a França, onde fundou muitos mosteiros que governou com austera disciplina. Obrigado a exilar-se, foi para a Itália, onde fundou o mosteiro de Bobbio. Depois de ter exercido tão intensa atividade para promover a vida cristã e religiosa do seu tempo, morreu no ano 615.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {5,17-22; 6,10-14}
+
+@tema
+O bom combate do presbítero e do homem de Deus
+
+@texto
+Caríssimo: [5,17] Os presbíteros que governam bem, sejam considerados dignos de honra redobrada, principalmente os que trabalham na pregação e no ensino. [18] Pois a Escritura diz: "Não coloques mordaça no boi que mói o trigo". E: "O trabalhador é digno do seu salário". [19] Não recebas acusação contra um presbítero, senão com duas ou três testemunhas. [20] Repreende diante de todos aqueles que pecarem, para inspirar temor também aos outros. [21] Eu te suplico, diante de Deus, de Jesus Cristo e dos seus Anjos eleitos, que observes estas normas, sem prevenção, nada fazendo por parcialidade. [22] A ninguém imponhas as mãos levianamente; nem te faças participante dos pecados alheios. Conserva-te puro. [6,10] A raiz de todos os males é a cobiça do dinheiro. Por se terem deixado levar por ela, muitos se extraviaram da fé e se atormentam a si mesmos com muitos sofrimentos. [11] Tu que és um homem de Deus, foge das coisas perversas, procura a justiça, a piedade, a fé, o amor, a firmeza, a mansidão. [12] Combate o bom combate da fé, conquista a vida eterna, para a qual foste chamado e pela qual fizeste tua nobre profissão de fé diante de muitas testemunhas. [13] Diante de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que deu o bom testemunho da verdade perante Pôncio Pilatos, eu te ordeno: [14] guarda o teu mandato íntegro e sem mancha até à manifestação gloriosa de nosso Senhor Jesus Cristo.
+
+@secao Responsório ICor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel. Aleluia.
+V. Muitos se dizem "homens de bem";
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Das Instruções de São Columbano, abade
+{(Séc.VII)} {(Instr. 11,1-2: Opera, Dublin 1957,106-107)}
+
+@tema
+A grande dignidade do homem está na semelhança com Deus, se bem guardada
+
+@texto
+Moisés escreveu na lei: _Deus fez o homem à sua imagem e semelhança_ (cf. Gn 1,27.26). Considerai, peço-vos, a dignidade destas palavras! O Deus onipotente, invisível, incompreensível, inefável, insuperável, ao formar do barro o homem, enobreceu-o com a beleza de sua imagem. Que é o homem comparado a Deus? E a terra comparada ao espírito? Pois _Deus é espírito_ (Jo 4,24). Grande condescendência: Deus concedeu ao homem a imagem de sua eternidade e a semelhança de seu agir. Grande dignidade: a semelhança de Deus, se bem guardada.
+Por conseguinte, se usar corretamente das virtudes infundidas na alma, então será semelhante a Deus. Todas as virtudes que Deus, na primeira criação, semeou em nós, ensinou-nos a fazê-las, por nossa vez, voltar para ele através dos mandamentos. O primeiro destes é: _Amarás de todo o coração a nosso Senhor, porque ele nos amou primeiro_, desde o início, antes que existíssemos. O amor de Deus é a renovação da imagem. Ama a Deus quem guarda seus mandamentos; assim disse: _Se me amais, guardai meus mandamentos_ (Jo 14,15). É seu mandamento, o mútuo amor: _Meu mandamento é que vos ameis uns aos outros, como também eu vos amei_ (Jo 15,12).
+O verdadeiro amor, porém, não está na palavra, mas no gesto e na verdade (1Jo 3,18). Restituamos, portanto, a nosso Deus, a nosso Pai, sua imagem inviolada na santidade, porque ele é santo: _Sede santos, porque eu sou santo_ (Lv 11,44); na caridade, pois ele é caridade, segundo João: _Deus é caridade_ (1Jo 4,18); na piedade e na verdade, porque ele é pio e veraz. Não sejamos pintores de imagem alheia; é pintor de imagem roubada quem é feroz, quem é colérico, quem é soberbo.
+Não aconteça introduzirmos em nós imagens roubadas, pinte em nós Cristo sua imagem, ao dizer: _Eu vos dou a minha paz, deixo-vos a minha paz_ (Jo 14,27). Mas, que nos adianta saber que a paz é boa, se não a conservamos bem? O ótimo costuma ser fragilíssimo e as coisas preciosas exigem maior cautela e guarda mais solícita; muitíssimo frágil é aquilo que se perde com a menor palavra e se desfaz com a menor ofensa ao irmão. Nada mais agradável para o homem do que proferir a todo momento palavras ociosas e falar mal dos ausentes. Por isto quem não pode dizer: _O Senhor deu-me uma língua erudita para poder sustentar com a palavra o abatido_ (Is 50,4), cale-se e se disser algo, que seja de paz.
+
+@secao Responsório | Lc 6,47-48a; Eclo 25,15(Vg.)
+
+@responsorio
+R. Todo aquele que de mim se aproxima,
+escuta minhas palavras e as vive,
+vou dizer-vos a quem ele se assemelha:
+* É igual a um homem que constrói a sua casa,
+cava fundo e põe a base sobre a rocha.
+V. Feliz o homem que a graça recebeu
+de respeitar o seu Senhor e Criador;
+a quem se assemelha quem faz isso? * É igual.
+
+@secao Oração
+
+@oracao
+Ó Deus, que reunistes admiravelmente em São Columbano a solicitude pela pregação do Evangelho e o zelo pela vida monástica, concedei que, por sua intercessão e exemplo, vos procuremos acima de tudo e nos empenhemos no crescimento do vosso povo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

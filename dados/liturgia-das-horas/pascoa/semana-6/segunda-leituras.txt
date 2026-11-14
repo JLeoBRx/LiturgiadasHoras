@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/6segundaPascoa.htm
+@documento Ofício das Leituras - 6ª Semana Da Páscoa - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@salmo salmos/salmo-030-2-17-20-25-i
+
+@gloria
+
+@antifona
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@antifona 2
+Mostrai serena a vossa face ao vosso servo. Aleluia
+
+@salmo salmos/salmo-030-2-17-20-25-ii
+
+@gloria
+
+@antifona
+Mostrai serena a vossa face ao vosso servo. Aleluia.
+
+@antifona 3
+Seja bendito o Senhor Deus
+por seu amor maravilhoso! Aleluia
+
+@salmo salmos/salmo-030-2-17-20-25-iii
+
+@gloria
+
+@antifona
+Seja bendito o Senhor Deus
+por seu amor maravilhoso! Aleluia.
+
+@texto
+V. Meu coração e minha carne rejubilam. Aleluia.
+
+R. E exultam de alegria no Deus vivo. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {2,1-11}
+
+@tema
+O mandamento novo
+
+@texto
+[1] Meus filhinhos, escrevo isto para que não pequeis. No entanto, se alguém pecar, temos junto do Pai um Defensor: Jesus Cristo, o Justo. [2] Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro. [3] Para saber que o conhecemos, vejamos se guardamos os seus mandamentos. [4] Quem diz: “Eu conheço a Deus”, mas não guarda os seus mandamentos, é mentiroso, e a verdade não está nele. [5] Naquele, porém, que guarda a sua palavra, o amor de Deus é plenamente realizado. O critério para saber se estamos com Jesus é este: [6] quem diz que permanece nele, deve também proceder como ele procedeu. [7] Caríssimos, não vos comunico um mandamento novo, mas um mandamento antigo, que recebestes desde o início; este mandamento antigo é a palavra que ouvistes. [8] No entanto, o que vos escrevo é um mandamento novo – que é verdadeiro nele e em vós –, pois que as trevas passam e já brilha a luz verdadeira. [9] Aquele que diz estar na luz, mas odeia o seu irmão, ainda está nas trevas. [10] O que ama o seu irmão permanece na luz e não corre perigo de tropeçar. [11] Mas o que odeia o seu irmão está nas trevas, caminha nas trevas, e não sabe aonde vai, porque as trevas ofuscaram os seus olhos.
+
+@secao Responsório | Cf. Jo 13,34; 1Jo 2,10a.3
+
+@responsorio
+R. Eu vos dou novo preceito:
+Que uns aos outros vos ameis como eu vos tenho amado.
+* Quem ama a seu irmão, permanece na luz. Aleluia.
+V. Meus irmãos, nisto sabemos que a Cristo conhecemos:
+Se guardamos seus preceitos. * Quem ama.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Trindade, de Dídimo de Alexandria
+{(Séc. IV)} {(Liv. 2,12: PG 39,667-674)}
+
+@tema
+O Espírito Santo nos renova pelo batismo
+
+@texto
+O Espírito Santo, que é Deus juntamente com o Pai e o Filho, nos renova pelo batismo; e do nosso estado de imperfeição, reintegra-nos na beleza primitiva. Torna-nos de tal forma repletos de sua graça, que não podemos admitir em nós qualquer coisa que não deva ser desejada. Além disso, liberta-nos do pecado e da morte. E de terrenos que somos, quer dizer, feitos do pó da terra, nos faz espirituais, participantes da glória divina, filhos e herdeiros de Deus Pai.
+Faz-nos ainda conformes à imagem do Filho, seus co-herdeiros e irmãos, destinados a ser um dia glorificados e a reinar com ele. Em vez da terra, dá-nos de novo o céu, abre-nos generosamente as portas do paraíso, honra-nos mais do que os próprios anjos. E com as águas divinas do batismo, apaga as imensas e inextinguíveis chamas do inferno.
+Os homens são concebidos duas vezes: uma corporalmente, a outra, pelo divino Espírito. Acerca de um e de outro nascimento, escreveram muito bem os autores sagrados. Citarei o nome e a doutrina de cada um.
+João diz: _A todos que o receberam, deu-lhes a capacidade de se tornarem filhos de Deus, isto é, aos que acreditam em seu nome, pois estes não nasceram do sangue nem da vontade da carne nem da vontade do homem, mas de Deus mesmo_ (Jo 1,12-13).
+Todos os que acreditaram em Cristo, afirma ele, receberam a capacidade de se tornarem filhos de Deus, quer dizer, do Espírito Santo, e participantes da natureza divina. E para ficar bem claro que o Deus que gera é o Espírito Santo, acrescenta estas palavras de Cristo: _Em verdade, em verdade, te digo, se alguém não nasce da água e do Espírito, não pode entrar no reino de Deus_ (Jo 3,5).
+A fonte batismal dá à luz de maneira visível nosso corpo visível, pelo ministério dos sacerdotes; mas o Espírito de Deus, invisível a todas as inteligências, é que batiza e regenera simultaneamente o corpo e a alma, pelo ministério dos anjos.
+João Batista, historicamente e de acordo com esta expressão: _da água e do Espírito,_ diz a respeito de Cristo: _Ele vos batizará no Espírito Santo e no fogo_ (Mt 3,11; Lc 3,16).
+Como um vaso de barro, o homem precisa primeiro ser purificado pela água; em seguida, fortalecido e aperfeiçoado pelo fogo espiritual (Deus, com efeito, é um fogo devorador). Precisamos, portanto, do Espírito Santo para nossa perfeição e renovação. Pois o fogo espiritual sabe também regar, e a água batismal é também capaz de queimar como o fogo.
+
+@secao Responsório | Cf. Is 44,3-4; Jo 4,14b
+
+@responsorio
+R. Derramarei, diz o Senhor, na terra seca águas correntes
+e torrentes correrão sobre o solo sequioso;
+derramarei o meu Espírito,
+* E crescerão como o salgueiro
+que é plantado à beira d’água. Aleluia.
+V. A água que eu vos der, em vós se tornará
+uma fonte a jorrar até à vida eterna. * E crescerão.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

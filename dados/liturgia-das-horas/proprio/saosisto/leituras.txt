@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saosisto.htm
+@documento Ofício das Leituras - São Sisto Ii, Papa, E Seus Companheiros, Mártires
+
+@celebracao
+SÃO SISTO II, PAPA, E SEUS COMPANHEIROS, MÁRTIRES
+
+@biografia
+Foi ordenado bispo de Roma no ano 257. No ano seguinte, quando celebrava a sagrada liturgia na catacumba de Calisto, foi preso pelos soldados, em virtude do edito do imperador Valeriano, e imediatamente executado, juntamente com quatro dos seus diáconos, no dia 6 de agosto. Recebeu sepultura no mesmo cemitério.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão dacorrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Cipriano, bispo e mártir
+{(Séc. III)} {(Epist. 80: CSEL 3,839-840)}
+
+@tema
+Sabemos que os soldados de Cristo não são destruídos mas coroados
+
+@texto
+O motivo de não vos ter escrito imediatamente, irmão caríssimo, é que todos os clérigos, na iminência do martírio, não podiam absolutamente sair daqui, preparados todos no fervor de seus corações, para a glória divina e celeste. É bom saberdes que chegaram aqueles que eu tinha enviado a Roma, a fim de se informarem ao certo sobre qualquer sentença a nosso respeito e trazer-nos a notícia. Pois circulavam muitos diferentes e incertos boatos.
+Na realidade o que sucede é que Valeriano respondeu ao senado que os bispos, presbíteros e diáconos fossem logo punidos de morte; os senadores, os homens ilustres e os cavaleiros romanos, depostos de sua dignidade, despojados dos bens e se, confiscadas as suas posses, ainda perseverassem em ser cristãos, fossem mortos; as matronas, relegadas ao exílio, confiscados os seus bens; os da casa de César, que já antes houvessem testemunhado ou testemunhassem agora, sofressem confisco dos bens, prisão e exílio para propriedades de César.
+O imperador Valeriano também lhes submeteu um exemplar do edito que enviou aos governantes das províncias contra nós: estamos todos os dias esperando a chegada deste edito, firmes com a solidez da fé para suportar o martírio, aguardando do auxílio e da indulgência do Senhor a coroa da vida eterna. Quanto a Sisto, ele foi morto no cemitério no oitavo dia dos idos de agosto, junto com quatro diáconos. Também os prefeitos na Urbe persistem diariamente nesta perseguição, condenando à morte todos os que lhes são entregues, e lhes confiscam os bens.
+Estas coisas, peço, cheguem por vós ao conhecimento dos outros nossos irmãos, para que em toda parte possa a fraternidade fortalecer-se com esses estímulos e preparar-se para o combate espiritual. Que cada um não pense tanto na morte, mas na imortalidade. Os cheios de fé e entregues com todas as forças ao Senhor, estes mais se alegrem do que temam este testemunho, onde sabem que os soldados de Cristo não são mortos e, sim, coroados.
+Desejo, irmão muito caro, que passes sempre bem no Senhor.
+
+@secao Responsório | 2Cor 4,11; Sl 43(44),23
+
+@responsorio
+R. Por Jesus somos entregues sempre à morte,
+* Para que também a vida do Senhor
+se manifeste em nossa carne perecível.
+V. Por vossa causa nos massacram cada dia
+e nos levam como ovelha ao matadouro.* Para que.
+
+@secao Oração
+
+@oracao
+Pai todo-poderoso, que concedestes a São Sisto e seus companheiros a graça de dar a vida por causa da vossa palavra e do testemunho de Jesus, pela força do Espírito Santo, fazei-nos dóceis para acolher a fé e fortes para proclamá-la. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

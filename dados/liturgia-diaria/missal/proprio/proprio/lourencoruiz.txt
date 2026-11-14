@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/lourencoruiz.htm
+
+@secao Coleta
+@texto
+Senhor nosso Deus,
+concedei-nos a constância dos vossos mártires
+São Lourenço e seus companheiros
+no serviço a vós e ao próximo,
+porque são felizes em vosso reino
+os que sofrem perseguição por causa da justiça.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Pai santo, aceitai as oferendas que vos apresentamos
+na comemoração dos santos mártires
+e a nós, vossos servos e servas,
+concedei a graça de permanecer firmes na confissão do vosso nome.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Vós ficastes comigo em minhas provações.
+Por isso vos confio o reino.
+Vós havereis de comer e beber à minha mesa
+no meu reino, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, manifestastes de modo admirável
+o mistério da cruz em vossos santos mártires,
+concedei-nos benigno que,
+fortalecidos por este sacrifício,
+permaneçamos fielmente unidos a Cristo
+e trabalhemos na Igreja para a salvação de todos.
+Por Cristo, nosso Senhor.

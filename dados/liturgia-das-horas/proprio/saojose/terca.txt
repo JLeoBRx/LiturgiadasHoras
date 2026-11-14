@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojose_terca.htm
+@documento Hora Média - São José, esposo da Bem-Aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Todos os anos, na festa da Páscoa,
+os pais de Jesus iam a Jerusalém.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Todos os anos, na festa da Páscoa,
+os pais de Jesus iam a Jerusalém.
+
+@secao Leitura breve | Pr 2,7-8
+
+@texto
+O Senhor reserva o êxito aos retos. É um escudo para quem caminha com integridade, protege aquele que segue as veredas da justiça e guarda o caminho dos seus fiéis.
+
+@texto
+V. Fez dele o senhor de sua casa.
+R. E, de todos os seus bens, o despenseiro.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, pelas preces de São José, a quem confiastes as primícias da Igreja, concedei que ela possa levar à plenitude os mistérios da salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

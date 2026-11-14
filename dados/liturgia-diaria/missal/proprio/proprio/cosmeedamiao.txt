@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/cosmeedamiao.htm
+
+@secao Coleta
+@texto
+A venerável memória
+dos vossos Santos Cosme e Damião
+glorifique a vossa grandeza, Senhor,
+pois lhes destes a glória eterna
+e a nós a riqueza da vossa inefável providência.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Na celebração da preciosa morte dos vossos justos,
+oferecemos, Senhor, o sacrifício
+no qual todo martírio tem sua origem.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Vós ficastes comigo em minhas provações.
+Por isso vos confio o reino.
+Vós havereis de comer e beber à minha mesa
+no meu reino, diz o Senhor.
+{Ou:}
+Como é grande a recompensa dos santos junto de Deus:
+eles morreram por Cristo, e vivem eternamente.
+
+@secao Depois da comunhão
+@texto
+Senhor,
+na comemoração dos Santos mártires Cosme e Damião,
+conservai em nós a vossa graça,
+e o que recebemos da vossa bondade
+nos traga a salvação e a paz.
+Por Cristo, nosso Senhor.

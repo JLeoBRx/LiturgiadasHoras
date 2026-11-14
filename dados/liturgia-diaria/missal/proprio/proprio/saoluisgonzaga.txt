@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saoluisgonzaga.htm
+
+@secao Antífona da entrada | Cf. Sl 23,4.3
+@texto
+Quem tem mãos limpas e coração puro
+subirá à montanha do Senhor
+e permanecerá em seu santuário.
+
+@secao Coleta
+@texto
+Ó Deus, fonte dos dons celestes,
+reunistes em São Luís Gonzaga
+a prática da penitência
+e uma admirável pureza de vida,
+concedei-nos, por seus méritos e preces,
+que, se não soubemos imitá-lo em sua vida inocente,
+sigamos fielmente seus exemplos na penitência.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Fazei, Senhor,
+que, seguindo o exemplo de São Luís Gonzaga,
+nos sentemos à mesa do banquete celeste
+revestidos da veste nupcial,
+a fim de que, pela participação neste mistério,
+nos tornemos ricos da vossa graça.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Sl 77,24s
+@texto
+O Senhor deu ao seu povo o alimento do céu,
+e o ser humano se nutriu com o pão dos Anjos.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+fazei que, nutridos com o alimento dos anjos,
+nós vos sirvamos por uma vida pura,
+a exemplo daquele que hoje veneramos,
+e permaneçamos sempre em ação de graças.
+Por Cristo, nosso Senhor.

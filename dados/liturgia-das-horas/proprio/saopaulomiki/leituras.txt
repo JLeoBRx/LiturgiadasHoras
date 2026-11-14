@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopaulomiki.htm
+@documento Ofício das Leituras - São Paulo Miki E Companheiros, Mártires Memória
+
+@celebracao
+SÃO PAULO MIKI E COMPANHEIROS, MÁRTIRES
+{Memória}
+
+@biografia
+Paulo nasceu no Japão, entre os anos de 1564 e 1566. Ingressou na Companhia de Jesus e pregou, com muito fruto, o Evangelho entre os seus compatriotas. Tendo se tornado mais violenta a perseguição contra os católicos, foi preso com vinte e cinco companheiros. Depois de muito maltratados, foram levados a Nagasáki, onde os crucificaram a 5 de fevereiro de 1597.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão dacorrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da História do martírio dos santos Paulo Miki e seus companheiros, escrita por um autor do tempo
+{(Séc. XVI)} {(Cap.14,109-110:Acta Sanctorum Febr. 1, 769)}
+
+@tema
+Sereis minhas testemunhas
+
+@texto
+Quando as cruzes foram levantadas, foi coisa admirável ver a constância de todos, à qual eram exortados pelo Padre Passos e pelo Padre Rodrigues. O Padre Comissário permaneceu sempre de pé, sem se mexer e com os olhos fixos no céu. O Irmão Martinho cantava salmos de ação de graças à bondade divina, aos quais acrescentava o versículo: _Em vossas mãos, Senhor_ (Sl 30,6). Também o Irmão Francisco Blanco dava graças a Deus com voz clara. O Irmão Gonçalo recitava em voz alta o Pai-nosso e a Ave-Maria. O nosso Irmão Paulo Miki, vendo-se colocado diante de todos no mais honroso púlpito que nunca tivera, começou por declarar aos presentes que era japonês e pertencia à Companhia de Jesus, que ia morrer por haver anunciado o Evangelho e que dava graças a Deus por lhe conceder tão imenso benefício. E por fim disse estas palavras: “Agora que cheguei a este momento de minha vida, nenhum de vós duvidará que eu queira esconder a verdade. Declaro-vos, portanto, que não há outro caminho para a salvação fora daquele seguido pelos cristãos. E como este caminho me ensina a perdoar os inimigos e os que me ofenderam, de todo o coração perdoo o Imperador e os responsáveis pela minha morte, e lhes peço que recebam o batismo cristão. Em seguida, voltando os olhos para os companheiros, começou a encorajá-los neste momento extremo. No rosto de todos transparecia uma grande alegria, mas era no de Luís que isto se percebia de modo mais nítido. Quando um cristão gritou que em breve estaria no paraíso, ele fez com as mãos e o corpo um gesto tão cheio de contentamento que os olhares dos presentes se fixaram nele. Antônio estava ao lado de Luís, com os olhos voltados para o céu. Depois de invocar os santíssimos nomes de Jesus e de Maria, entoou o salmo _Louvai, louvai, ó servos do_ _Senhor_ (Sl 112,1), que tinha aprendido na escola de catequese em Nagasáki; de fato,durante o catecismo, costumavam ensinar alguns salmos às crianças. Alguns repetiam com o rosto sereno: “Jesus, Maria”; outros exortavam os presentes a levarem uma vida digna de cristãos; e por estas e outras ações semelhantes demonstravam estar prontos para a morte. Finalmente os quatro carrascos começaram a tirar as espadas daquelas bainhas que os japoneses costumam usar. Vendo cena tão horrível, os fiéis gritavam: “Jesus! Maria!” Seguiram-se lamentos tão sentidos de tocar os próprios céus. Ferindo-os com um primeiro e um segundo golpe, em pouco tempo os carrascos mataram a todos.
+
+@secao Responsório | Cf. Gl 6,14; Fl 1,29
+
+@responsorio
+R. Nós devemos gloriar-nos na cruz de Jesus Cristo;
+nele está a salvação, ressurreição e nossa vida;
+* Pelo qual nós fomos salvos, pelo qual fomos libertos.
+V. A vós foi dada a graça, não só de crer em Cristo,
+mas também sofrer por ele. * Pelo qual.
+
+@secao Oração
+
+@oracao
+Ó Deus, força dos santos, que em Nagasáki chamastes à verdadeira vida São Paulo Miki e seus companheiros pelo martírio da cruz, concedei-nos, por sua intercessão, perseverar até a morte na fé que professamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

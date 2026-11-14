@@ -1,0 +1,121 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1quinta_quaresma.htm
+@documento Ofício das Leituras - 1ª Semana Da Quaresma - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@salmo salmos/salmo-017-31-51-iv
+
+@gloria
+
+@antifona
+A palavra do Senhor é proteção
+para aqueles que a ele se confiam.
+
+@antifona 2
+Com a vossa mão direita me amparastes.
+
+@salmo salmos/salmo-017-31-51-v
+
+@gloria
+
+@antifona
+Com a vossa mão direita me amparastes.
+
+@antifona 3
+Viva o Senhor! Bendito seja o meu Rochedo! †
+
+@salmo salmos/salmo-017-31-51-vi
+
+@gloria
+
+@antifona
+Viva o Senhor! Bendito seja o meu Rochedo!
+
+@texto
+V. Quem medita a lei de Deus
+R. Dará frutos a seu tempo.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {12,1-20}
+
+@tema
+A Páscoa e os ázimos
+
+@texto
+[1] O Senhor disse a Moisés e a Aarão no Egito: [2] “Este mês será para vós o começo dos meses; será o primeiro mês do ano. [3] Falai a toda a comunidade dos filhos de Israel, dizendo: ‘No décimo dia deste mês, cada um tome um cordeiro por família, um cordeiro por casa. [4] Se a família não for bastante numerosa para comer um cordeiro, convidará também o vizinho mais próximo, de acordo com o número de pessoas. Deveis calcular o número de comensais, conforme o tamanho do cordeiro. [5] O cordeiro será sem defeito, macho, de um ano. Podereis escolher tanto um cordeiro, como um cabrito: [6] e devereis guardá-lo preso até ao dia catorze deste mês. Então toda a comunidade de Israel reunida o imolará ao cair da tarde. [7] Tomareis um pouco do seu sangue e untareis os marcos e a travessa da porta, nas casas em que o comerdes. [8] Comereis a carne nessa mesma noite, assada ao fogo, com pães ázimos e ervas amargas. [9] Não comereis dele nada cru, ou cozido em água, mas assado ao fogo, inteiro, com cabeça, pernas e vísceras. [10] Não deixareis nada para o dia seguinte: o que sobrar, devereis queimá-lo ao fogo. [11] Assim devereis comê-lo: com os rins cingidos, sandálias nos pés e cajado na mão. E comereis às pressas, pois é a Páscoa do Senhor! [12] Naquela noite passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e infligirei castigos contra todos os deuses do Egito, eu, o Senhor. [13] O sangue servirá de sinal nas casas onde estiverdes. Ao ver o sangue, passarei adiante, e não vos atingirá a praga exterminadora, quando eu ferir a terra do Egito. [14] Este dia será para vós uma festa memorável em honra do Senhor, que haveis de celebrar por todas as gerações, como instituição perpétua. [15] Durante sete dias comereis pães ázimos. Desde o primeiro dia fareis desaparecer o fermento de vossas casas, pois quem comer pão fermentado, do primeiro ao sétimo dia, será eliminado de Israel. [16] O primeiro dia será santo e solene, e o sétimo dia será de festa igualmente venerável. Nesses dias não fareis nenhum trabalho, exceto os que forem de preparação da vossa comida. [17] E observareis a festa dos Ázimos, pois foi nesse mesmo dia que eu fiz sair vossos exércitos do Egito. Guardareis esse dia, por todas as gerações, como instituição perpétua. [18] Comereis pães ázimos desde a tarde do dia catorze do primeiro mês, até a tarde do dia vinte e um desse mesmo mês. [19] Durante sete dias não haja fermento em vossas casas; pois quem comer pão fermentado será eliminado da comunidade de Israel, seja estrangeiro ou natural do país. [20] Não comereis coisa alguma fermentada; em todas as vossas moradas comereis pães ázimos”.
+
+@secao Responsório | Cf. Ap 5,8.9; cf. 1Pd 1,18.19
+
+@responsorio
+R. Os anciãos, recebendo o livro,
+prostraram-se ante o Cordeiro e cantaram um cântico novo:
+* Vós fostes por nós imolado, para Deus nos remiu vosso sangue.
+V. Não foi nem com ouro nem prata que fostes remidos, irmãos; mas sim pelo sangue precioso de Cristo, o Cordeiro sem mancha. * Vós fostes.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de Santo Astério de Amaseia, bispo
+{(Séc.V)} {(Hom. 13:PG40,355-358.362)}
+
+@tema
+Imitemos o exemplo de Cristo como pastor
+
+@texto
+Se quereis parecer-vos com Deus porque fostes criados à sua imagem, imitai o seu exemplo. Se sois cristãos, nome que já é uma proclamação de caridade, imitai o amor de Cristo. Considerai as riquezas de sua bondade. Estando para vir como homem ao meio dos homens, enviou à sua frente João, como pregoeiro e exemplo de penitência; e antes de João, tinha enviado todos os profetas para ensinarem aos homens o arrependimento, a volta ao bom caminho e a conversão a uma vida melhor. Vindo, pouco depois, ele mesmo em pessoa, proclamou com a sua voz: Vinde a mim, todos vós que estais cansados e fatigados e eu vos darei descanso (Mt 11,28). Como acolheu ele os que ouviram a sua voz? Concedeu-lhes sem dificuldade o perdão dos pecados e a imediata libertação de seus sofrimentos. O Verbo os santificou, o Espírito os confirmou; o velho homem foi sepultado nas águas do batismo e o novo, regenerado, resplandeceu pela graça. Que conseguimos ainda? De inimigos de Deus, nos tornamos amigos; de estranhos, filhos; e de pagãos, santos e piedosos. Imitemos o exemplo de Cristo como pastor. Contemplemos os evangelhos e vendo neles, como num espelho, o exemplo de sua solicitude e bondade, aprendamos a praticá-las. Vejo ali, em parábolas e figuras, um pastor de cem ovelhas que, ao verificar que uma delas se afastara do rebanho e andava sem rumo, não permaneceu com as outras que pastavam tranquilamente. Saiu à sua procura, atravessando vales e florestas, transpondo altos e escarpados montes, percorrendo desertos, num esforço incansável até encontrá-la. Tendo-a encontrado, não a castigou nem a obrigou com violência a voltar para o rebanho; pelo contrário, tomando-a nos ombros e tratando-a com doçura, levou-a para o aprisco, alegrando-se mais por esta única ovelha recuperada do que por todas as outras. Consideremos a realidade oculta na obscuridade da parábola. Nem esta ovelha nem este pastor são propriamente uma ovelha e um pastor; são imagem de uma realidade mais profunda. Há nesses exemplos um ensinamento sagrado: nunca devemos considerar os homens como perdidos e sem esperança de salvação,nem deixar de ajudar com todo empenho os que se encontram em perigo nem demorar em prestar-lhes auxílio. Pelo contrário, reconduzamos ao bom caminho os que se afastaram da verdadeira vida e alegremo-nos com a sua volta à comunhão daqueles que vivem reta e piedosamente.
+
+@secao Responsório | Cf. Zc 7,9; Mt 6,14
+
+@responsorio
+R. Respeite cada um o direito e a justiça,
+* E trate seu irmão com amor e compaixão.
+V. Se aos outros perdoardes suas faltas, vosso Pai vos perdoará vossas ofensas. * E trate.
+
+@secao Oração
+
+@oracao
+Dai-nos, ó Deus, pensar sempre o que é reto e realizá-lo com solicitude. E como só podemos existir em vós, fazei-nos viver segundo a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

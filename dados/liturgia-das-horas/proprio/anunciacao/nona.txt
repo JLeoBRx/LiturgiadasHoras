@@ -1,0 +1,106 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anunciacao_nona.htm
+@documento Hora Média - Anunciação do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(T.P.} Aleluia)
+
+@secao Hino
+
+@hino
+{Na Quaresma:}
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+{No Tempo pascal:}
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Será glorificado até os confins da terra:
+será ele a nossa paz.
+
+@salmo salmos/salmo-125-v6
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Será glorificado até os confins da terra:
+será ele a nossa paz.
+
+@secao Leitura breve | 1Tm 2,5-6a
+
+@texto
+Há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus, que se entregou em resgate por todos.
+
+@texto
+V. O Verbo se fez carne.
+R. E habitou entre nós.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

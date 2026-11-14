@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/3tercaPascoa.htm
+@documento Ofício das Leituras - 3ª Semana Da Páscoa - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Eis que Deus se põe de pé,
+e os inimigos se dispersam! Aleluia †
+
+@salmo salmos/salmo-067-i
+
+@gloria
+
+@antifona
+Eis que Deus se põe de pé,
+e os inimigos se dispersam! Aleluia
+
+@antifona 2
+Nosso Deus é um Deus que salva,
+só o Senhor livra da morte. Aleluia.
+
+@salmo salmos/salmo-067-ii-v2
+
+@gloria
+
+@antifona
+Nosso Deus é um Deus que salva,
+só o Senhor livra da morte. Aleluia.
+
+@antifona 3
+Reinos da terra, celebrai
+o nosso Deus, cantai-lhe salmos! Aleluia.
+
+@salmo salmos/salmo-067-iii-v2
+
+@gloria
+
+@antifona
+Reinos da terra, celebrai
+o nosso Deus, cantai-lhe salmos! Aleluia.
+
+@texto
+V. Ressurgindo dentre os mortos,
+Jesus Cristo já não morre. Aleluia.
+R. E a morte não tem mais
+nenhum domínio sobre ele. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {8,1-13}
+
+@tema
+Sete anjos flagelam o mundo
+
+@texto
+[1] Quando o Cordeiro abriu o sétimo selo, fez-se no céu um silêncio de meia hora. [2] Vi então os sete Anjos que estão diante de Deus. Eles receberam sete trombetas. [3] E veio um outro anjo que se colocou perto do altar, com um turíbulo de ouro. Ele recebeu uma grande quantidade de incenso, para oferecê-lo com as orações de todos os santos, no altar de ouro que está diante do trono. [4] E da mão do anjo subia até Deus a fumaça do incenso com as orações dos santos. [5] Então, o anjo pegou no turíbulo e encheu-o com o fogo do altar e atirou o turíbulo sobre a terra. Houve trovões, clamores, relâmpagos e um grande terremoto. [6] Os sete anjos com as sete trombetas prepararam-se para tocar.
+[7] O primeiro anjo tocou a trombeta, e caíram sobre a terra granizo e fogo misturados com sangue. A terça parte da terra foi queimada, a terça parte das árvores foi queimada, e toda a erva verde foi queimada. [8] O segundo anjo tocou a trombeta, e algo como uma grande montanha ardendo em chamas foi lançado no mar. A terça parte do mar transformou-se em sangue. [9] A terça parte das criaturas, que viviam no mar, morreu. A terça parte dos navios se perdeu.
+[10] E o terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha; caiu sobre a terça parte dos rios e sobre as fontes das águas. [11] O nome da estrela é “Amargura”. A terça parte das águas tornou-se amargura e muitas pessoas morreram devido às águas, porque se tinham tornado amargas. [12] E o quarto anjo tocou a trombeta, e foi atingida a terça parte do sol e a terça parte da lua, e a terça parte das estrelas, de modo que escureceu a terça parte delas, e o dia perdeu um terço de sua claridade, e a noite igualmente. [13] Na minha visão, então, eu ouvi uma águia, que voava no ápice do céu, proclamar em alta voz: “Ai! Ai! Ai dos habitantes da terra, por causa dos próximos toques de trombeta, dos três anjos que devem ainda tocar”.
+
+@secao Responsório | Cf. Ap 8,3-4; 5,8b
+
+@responsorio
+R.Aparecendo um outro anjo, ficou de pé junto ao altar,
+segurando em suas mãos um turíbulo de ouro;
+foi-lhe dado muito incenso, para ser oferecido.
+* E subiu à presença de Deus
+a fumaça do incenso. Aleluia.
+V.Cada anjo trazia uma taça de ouro repleta de incenso;
+são as preces dos santos. * E subiu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo 34,1-3.5-6:CCL41,424-426)}
+
+@tema
+Cantemos ao Senhor o canto do amor
+
+@texto
+_Cantai ao Senhor Deus um canto novo, e o seu louvor na assembleia dos fiéis_ (Sl 149,1).
+Somos convidados a cantar um canto novo ao Senhor. O homem novo conhece o canto novo. O canto é uma manifestação de alegria e, se examinarmos bem, é uma expressão de amor. Quem, portanto, aprendeu a amar a vida nova, aprendeu também a cantar o canto novo. É, pois, pelo canto novo que devemos reconhecer o que é a vida nova. Tudo isso pertence ao mesmo Reino: o homem novo, o canto novo, a aliança nova.
+Não há ninguém que não ame. A questão é saber o que se deve amar. Não somos, por conseguinte, convidados a não amar, mas sim a escolher o que havemos de amar. Mas o que podemos escolher, se antes não formos escolhidos? Porque não conseguiremos amar, se antes não formos amados. Escutai o apóstolo João: _Nós amamos porque ele nos amou primeiro_ (cf. 1Jo 4,10). Procura saber como o homem pode amar a Deus; não encontrarás resposta, a não ser esta: Deus o amou primeiro. Deu-se a si mesmo aquele que amamos, deu-nos a capacidade de amar. Como ele nos deu esta capacidade, ouvi o apóstolo Paulo que diz claramente: _O amor de Deus foi derramado em nossos corações_. Por quem? Por nós, talvez? Não. Então por quem? _Pelo Espírito Santo que nos foi dado_ (Rm5,5).
+Tendo, portanto, uma tão grande certeza, amemos a Deus com o amor que vem de Deus. Escutai ainda mais claramente o mesmo São João: _Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele_ (1Jo 4,16). É bem pouco afirmar: _O amor vem de Deus_ (1Jo,4,7). Quem de nós se atreveria a dizer: Deus é amor? Disse-o quem sabia o que possuía.
+Deus se oferece a nós pelo caminho mais curto. Clama para cada um de nós: Amai-me e me possuireis; porque não podeis amar-me se não me possuirdes.
+Ó irmãos, ó filhos, ó novos rebentos da Igreja católica, ó geração santa e celestial, que renascestes em Cristo para uma vida nova! Ouvi-me, ou melhor, ouvi através do meu convite: _Cantai ao Senhor Deus um canto novo_. Já estou cantando, respondes. Tu cantas, cantas bem, estou escutando. Mas oxalá a tua vida não dê testemunho contra tuas palavras.
+Cantai com a voz, cantai com o coração, cantai com os lábios, cantai com a vida: _Cantai ao Senhor Deus um canto novo_. Queres saber o que cantar a respeito daquele a quem amas? Sem dúvida, é acerca daquele a quem amas que desejas cantar. Queres saber então que louvores irás cantar? Já o ouviste: _Cantai ao Senhor Deus um canto novo_. Que louvores? _Seu louvor na assembleia dos fiéis_. O louvor de quem canta é o próprio cantor.
+Quereis cantar louvores a Deus? Sede vós mesmos o canto que ides cantar. Vós sereis o seu maior louvor, se viverdes santamente.
+
+@secao Responsório | Rm 6,4b; 1Jo 3,23b; cf. Jt 16,13
+
+@responsorio
+R.Assim como Jesus ressurgiu
+dos mortos por glória do Pai,
+nós vivamos também vida nova.
+* E amemo-nos mutuamente,
+conforme nos deu por preceito. Aleluia.
+V.Cantemos louvores a Deus,
+novo hino
+entoemos!* E amemo-nos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que abris as portas do reino dos céus aos que renasceram pela água e pelo Espírito Santo, aumentai em vossos filhos e filhas a graça que lhes destes para que, purificados de todo pecado, obtenham os bens que prometestes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

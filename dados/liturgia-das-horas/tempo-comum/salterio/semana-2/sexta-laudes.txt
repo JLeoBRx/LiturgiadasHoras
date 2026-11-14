@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sexta_laudes.htm
+@documento Laudes - Sexta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Deus, que criastes a luz,
+sois luz do céu radiosa.
+O firmamento estendestes
+com vossa mão poderosa.
+
+A aurora esconde as estrelas,
+e o seu clarão vos bendiz.
+A brisa espalha o orvalho,
+a terra acorda feliz.
+
+A noite escura se afasta,
+as trevas fogem da luz.
+A estrela d'alva fulgura,
+sinal de Cristo Jesus.
+
+Ó Deus, sois dia dos dias,
+sois luz da luz, na Unidade,
+num só poder sobre os seres,
+numa só glória, Trindade.
+
+Perante vós, Salvador,
+a nossa fronte inclinamos.
+A vós, ao Pai e ao Espírito
+louvor eterno cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, não desprezeis um coração arrependido!
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Ó Senhor, não desprezeis um coração arrependido.
+
+@antifona 2
+Ó Senhor, mesmo na cólera, lembrai-vos
+de ter misericórdia.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Ó Senhor, mesmo na cólera,
+lembrai-vos de ter misericórdia.
+
+@antifona 3
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus! †
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Glorifica o Senhor, Jerusalém;
+ó Sião, canta louvores ao teu Deus!
+
+@secao Leitura breve | Ef 2,13-16
+
+@texto
+Agora, em Jesus Cristo, vós que outrora estáveis longe, vos tornastes próximos, pelo sangue de Cristo. Ele, de fato, é a nossa paz: do que era dividido, ele fez uma unidade. Em sua carne ele destruiu o muro de separação: a inimizade. Ele aboliu a Lei com seus mandamentos e decretos. Ele quis, assim, a partir do judeu e do pagão, criar em si um só homem novo, estabelecendo a paz. Quis reconciliá-los com Deus, ambos em um só corpo, por meio da cruz; assim ele destruiu em si mesmo a inimizade.
+
+@secao Responsório breve
+
+@responsorio
+R. Lanço um grito ao Senhor, Deus Altíssimo,
+* Este Deus que me dá todo bem. R. Lanço um grito.
+V. Que me envie do céu sua ajuda! * Este Deus.
+Glória ao Pai. R. Lanço um grito.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Pelo amor do coração de nosso Deus,
+o Sol nascente nos veio visitar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Pelo amor do coração de nosso Deus,
+o Sol nascente nos veio visitar.
+
+@secao Preces
+
+@preces
+Adoremos a Jesus Cristo que, derramando seu sangue no sacrifício da cruz, ofereceu-se ao Pai pelo Espírito Santo, a fim de purificar nossa consciência das obras mortas do pecado; e digamos de coração sincero:
+
+R. **Em vossas mãos, Senhor, está a nossa paz!**
+
+Vós, que nos destes, em vossa bondade, o começo deste novo dia,
+– dai-nos também a graça de começarmos a viver uma vida nova. R.
+
+Vós, que tudo criastes com vosso poder, e tudo conservais com a vossa providência,
+– ajudai-nos a descobrir a vossa presença em todas as criaturas. R.
+
+Vós, que, pelo sangue derramado na cruz, selastes conosco uma nova e eterna aliança,
+– fazei que, obedecendo sempre aos vossos mandamentos, permaneçamos fiéis a esta mesma aliança. R.
+
+Vós, que, pregado na cruz, deixastes correr do vosso lado aberto sangue e água,
+– por meio desta fonte de vida, lavai-nos de todo pecado e dai alegria à cidade de Deus. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Recebei, ó Deus todo-poderoso, o louvor desta manhã; e concedei que no céu, unidos a vossos santos, cantemos eternamente com maior entusiasmo a vossa grande glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

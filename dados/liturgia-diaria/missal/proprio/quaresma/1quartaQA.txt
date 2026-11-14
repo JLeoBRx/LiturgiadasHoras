@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1quartaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 24,6.2.22
+@texto
+Lembrai-vos, Senhor, de vossas misericórdias
+e de vosso amor, pois são eternos.
+Nunca dominem sobre nós os inimigos;
+libertai-nos, Deus de Israel, de todas as nossas angústias!
+
+@secao Coleta
+@texto
+Considerai, Senhor, com bondade
+o fervor do vosso povo,
+para que os que mortificam o corpo pela abstinência,
+pelo fruto de suas boas ações
+sejam fortalecidos no espírito.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Apresentamos, Senhor, estes dons
+que nos destes para oferecer-vos.
+Assim como os tornais para nós sacramento,
+sejam também remédio para a vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Sl 5,12
+@texto
+Hão de alegrar-se os que em vós esperam, Senhor,
+exultarão eternamente e neles habitareis.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que não cessais de nos alimentar
+com os vossos sacramentos,
+concedei que a força desta refeição
+nos conduza à vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Senhor, se nenhuma iniquidade dominar o vosso povo,
+as adversidades não lhe farão mal.
+Protegei-o em vossa clemência
+e purificai-o de todos os pecados.
+Por Cristo, nosso Senhor.

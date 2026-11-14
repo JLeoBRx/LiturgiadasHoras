@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_terca_domingo.htm
+@documento Hora Média - São Pedro e São Paulo, Apóstolos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Simão Pedro ainda falava,
+quando veio o Espírito Santo
+sobre todos que o estavam ouvindo;
+e falavam em línguas diversas,
+cantando louvores a Deus.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Simão Pedro ainda falava,
+quando veio o Espírito Santo
+sobre todos que o estavam ouvindo;
+e falavam em línguas diversas,
+cantando louvores a Deus.
+
+@secao Leitura breve | At 15,7b-9
+
+@texto
+Deus me escolheu para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé.
+
+@texto
+V. Em toda a terra se espalha o seu anúncio.
+R. E sua voz, pelos confins do universo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

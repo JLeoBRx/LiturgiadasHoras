@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/21_nona.htm
+@documento Próprio - Nona - 21 de dezembro
+
+@secao Leitura breve | Dn 9,19
+
+@texto
+Senhor, escuta! Senhor, perdoa! Senhor, atende e passa à ação sem tardar, em atenção a ti meu Deus! Pois tua cidade e teu povo são chamados por teu nome.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Ouvi com bondade, ó Deus, as preces do vosso povo, para que, alegrando-nos hoje com a vinda do vosso Filho em nossa carne, alcancemos o prêmio da vida eterna, quando ele vier na sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

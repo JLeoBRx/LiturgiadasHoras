@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sabado_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Estendei a vossa mão para ajudar-me,
+pois escolhi sempre seguir vossos preceitos.
+
+@salmo salmos/salmo-118-169-176-xxii-tau
+
+@gloria
+
+@antifona
+Estendei a vossa mão para ajudar-me,
+pois escolhi sempre seguir vossos preceitos.
+
+@antifona 2
+Vosso trono, ó Deus, é eterno, sem fim.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Vosso trono, ó Deus, é eterno, sem fim.
+
+@antifona 3
+Vi a nova Sião descer do céu
+como esposa enfeitada para o esposo.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Vi a nova Sião descer do céu
+como esposa enfeitada para o esposo.
+
+@secao Leitura breve | Rm 15,5-7
+
+@texto
+O Deus que dá constância e conforto vos dê a graça da harmonia e concórdia, uns com os outros, como ensina Cristo Jesus. Assim, tendo como que um só coração e a uma só voz, glorificareis o Deus e Pai do Senhor nosso, Jesus Cristo. Por isso, acolhei-vos uns aos outros, como também Cristo vos acolheu, para a glória de Deus.
+
+@texto
+V. O Senhor muito ama o seu povo.
+R. E coroa com vitória os seus humildes.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, luz ardente de amor eterno, concedei que, inflamados na vossa caridade, num mesmo amor amemos a vós, acima de tudo, e aos irmãos e irmãs por vossa causa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

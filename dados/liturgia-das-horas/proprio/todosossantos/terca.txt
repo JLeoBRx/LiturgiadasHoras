@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_terca.htm
+@documento Hora Média - Todos os Santos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+O Senhor reconforta Sião e haverá alegria e gozo,
+gratidão e canções de louvor.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+O Senhor reconforta Sião e haverá alegria e gozo,
+gratidão e canções de louvor.
+
+@secao Leitura breve | Is 65,18-19
+
+@texto
+Haverá alegria e exultação sem fim em razão das coisas que eu vou criar; farei de Jerusalém a cidade da exultação e um povo cheio de alegria. Eu também exulto com Jerusalém e alegro-me com o meu povo; ali nunca mais se ouvirá a voz do pranto e o grito de dor.
+
+@texto
+V. Alegrai-vos e exultai, santos todos do Senhor,
+R. Pois a vossa recompensa nos céus é muito grande!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

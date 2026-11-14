@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/corpuschristi.htm
+
+@secao Antífona da entrada | Cf. Sl 80,17
+@texto
+O Senhor os alimentou com a flor do trigo
+e com o mel do rochedo os saciou.
+
+@secao Coleta
+@texto
+Senhor Jesus Cristo,
+neste admirável sacramento
+nos deixastes o memorial da vossa paixão;
+dai-nos venerar de tal modo
+o sagrado mistério do vosso Corpo e Sangue,
+que experimentemos continuamente
+os frutos da vossa redenção.
+Vós, que sois Deus,
+e viveis e reinais com o Pai,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos,
+concedei benigno à vossa Igreja os dons da unidade e da paz,
+misticamente simbolizados por estas oferendas.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 6,56
+@texto
+Quem come a minha carne e bebe o meu sangue,
+permanece em mim e eu nele, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Senhor,
+a participação eterna na vossa divindade
+que, no tempo presente,
+é prefigurada na comunhão do vosso precioso Corpo e Sangue.
+Vós que viveis e reinais pelos séculos dos séculos.

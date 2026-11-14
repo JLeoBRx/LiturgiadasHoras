@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/tercafeirasanta.htm
+@documento Ofício das Leituras - Terça-Feira Santa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá.
+
+@salmo salmos/salmo-036-i
+
+@gloria
+
+@antifona
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá.
+
+@antifona 2
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor.
+
+@salmo salmos/salmo-036-ii-v2
+
+@gloria
+
+@antifona
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor.
+
+@antifona 3
+Confia em Deus e segue sempre seus caminhos!
+
+@salmo salmos/salmo-036-iii
+
+@gloria
+
+@antifona
+Confia em Deus e segue sempre seus caminhos!
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {12,1-13}
+
+@tema
+Com os olhos fixos em Jesus,_
+_empenhemo-nos no combate que nos é proposto
+
+@texto
+Irmãos: [1] Rodeados como estamos por tamanha multidão de testemunhas, deixemos de lado o que nos pesa e o pecado que nos envolve. Empenhemo-nos com perseverança no combate que nos é proposto, [2] com os olhos fixos em Jesus, que em nós começa e completa a obra da fé. Em vista da alegria que lhe foi proposta, suportou a cruz, não se importando com a infâmia, e assentou-se à direita do trono de Deus. [3] Pensai pois naquele que enfrentou uma tal oposição por parte dos pecadores, para que não vos deixeis abater pelo desânimo. [4] Vós ainda não resististes até ao sangue na vossa luta contra o pecado, [5] e já esquecestes as palavras de encorajamento que vos foram dirigidas como a filhos: “Meu filho, não desprezes a educação do Senhor, não te desanimes quando ele te repreende; [6] pois o Senhor corrige a quem ele ama e castiga a quem aceita como filho”. [7] É para a vossa educação que sofreis, e é como filhos que Deus vos trata. Pois qual é o filho a quem o pai não corrige? [8] Pelo contrário, se ficais fora da correção aplicada a todos, então sois bastardos e não filhos. [9] Ademais, tivemos os nossos pais humanos como educadores, e os respeitávamos. Será que não devemos submeter-nos muito mais ao Pai dos espíritos para termos a vida? [10] Nossos pais humanos, por pouco tempo, nos corrigiam como melhor lhes parecia; Deus, porém, nos corrige para o nosso bem, a fim de partilharmos a sua própria santidade. [11] No momento mesmo, nenhuma correção parece alegrar, mas causa dor. Depois, porém, produz um fruto de paz e de justiça para aqueles que nela foram exercitados. [12] Portanto, “firmai as mãos cansadas e os joelhos enfraquecidos; [13] acertai os passos dos vossos pés”, para que não se extravie o que é manco, mas antes seja curado.
+
+@secao Responsório | Cf. Hb 12,2; Fl 2,8a
+
+@responsorio
+R. O Autor da nossa fé, e que a leva à perfeição,
+em lugar da alegria, que lhe fora apresentada, preferiu sofrer na cruz, desprezando a ignomínia;
+* Agora está sentado à direita de Deus Pai.
+V. Jesus Cristo se humilhou e se fez obediente, obediente até à morte. * Agora está.
+
+@secao Segunda leitura
+
+@leitura
+Do Livro sobre o Espírito Santo, de São Basílio Magno, bispo
+{(Séc.IV)} {(Cap.15,35: PG32,127-130)}
+
+@tema
+Há uma só morte que resgata o mundo_
+_e uma só ressurreição dos mortos
+
+@texto
+O desígnio de nosso Deus e Salvador em relação ao homem consiste em levantá-lo de sua queda e fazê-lo voltar, do estado de inimizade ocasionado por sua desobediência, à intimidade divina. A vinda de Cristo na carne, os exemplos de sua vida apresentados pelo Evangelho, a paixão, a cruz, o sepultamento e a ressurreição não tiveram outro fim senão salvar o homem, para que, imitando a Cristo, ele recuperasse a primitiva adoção filial. Portanto, para atingir a perfeição, é necessário imitar a Cristo, não só nos exemplos de mansidão, humildade e paciência que ele nos deu durante a sua vida, mas também imitá-lo em sua morte, como diz São Paulo, o imitador de Cristo: Tornando-me semelhante a ele na sua morte, para ver se alcanço a ressurreição dentre os mortos (Fl 3,10). Mas como poderemos assemelhar-nos a Cristo em sua morte? Sepultando-nos com ele por meio do batismo.Em que consiste este sepultamento e qual é o fruto dessa imitação? Em primeiro lugar, é preciso romper com a vida passada. Mas ninguém pode conseguir isto se não nascer de novo, conforme a palavra do Senhor, porque o renascimento, como a própria palavra indica, é o começo de uma vida nova. Por isso, antes de começar esta vida nova, é preciso pôr fim à antiga. Assim como, no estádio, os que chegam ao fim da primeira parte da corrida, costumam fazer uma pequena pausa e descansar um pouco, antes de iniciar o retorno, do mesmo modo, era necessário que nesta mudança de vida interviesse a morte, pondo fim ao passado para começar um novo caminho. E como imitar a Cristo na sua descida à mansão dos mortos? Imitando no batismo o seu sepultamento. Porque os corpos dos batizados ficam, de certo modo, sepultados nas águas. O batismo simboliza, pois, a deposição das obras da carne, segundo as palavras do Apóstolo: Vós também recebestes uma circuncisão, não feita por mão humana, mas uma circuncisão que é de Cristo, pela qual renunciais ao corpo perecível. Com Cristo fostes sepultados no batismo (Cl 2,11-12). Ora, o batismo, por assim dizer, lava a alma das manchas contraídas por causa das tendências carnais, conforme está escrito: Lavai-me e mais branco do que a neve ficarei (Sl 50,9). Por isso, reconhecemos um só batismo de salvação, já que é uma só a morte que resgata o mundo e uma só a ressurreição dos mortos, das quais o batismo é figura.
+
+@secao Responsório | Rm 6,3.5.4a
+
+@responsorio
+R. Batizados em Cristo Jesus,
+em sua morte nós fomos imersos.
+* Se com ele nós somos um só, por morte que é como a sua, com ele seremos um só, por ressurreição como a sua.
+V. No batismo nós fomos, irmãos, sepultados com ele na morte. * Se com ele.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos celebrar de tal modo os mistérios da paixão do Senhor, que possamos alcançar vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

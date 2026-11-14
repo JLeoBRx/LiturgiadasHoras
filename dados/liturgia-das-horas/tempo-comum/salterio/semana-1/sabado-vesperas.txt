@@ -1,0 +1,188 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sabado_vesperas.htm
+@documento Vésperas
+
+@titulo II DOMINGO
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, fonte de todas as coisas,
+vós enchestes o mundo de dons
+e, depois de criar o universo,
+concluístes que tudo era bom.
+
+Terminando tão grande trabalho,
+decidistes entrar em repouso,
+ensinando aos que cansam na luta,
+que o descanso é também dom precioso.
+
+Concedei aos mortais que suplicam,
+os seus erros lavarem no pranto
+e andarem nos vossos caminhos,
+descobrindo da vida o encanto.
+
+Deste modo, ao chegar para a terra
+a aflição do temível Juiz,
+possam todos, repletos de paz,
+se alegrar pela vida feliz.
+
+Esse dom concedei-nos, Deus Pai,
+pelo Filho Jesus, Sumo Bem,
+no Espírito Santo Paráclito,
+que reinais para sempre. Amém.
+
+{Outro hino à escolha}
+
+Salve o dia que é glória dos dias,
+feliz dia, de Cristo vitória,
+dia pleno de eterna alegria,
+o primeiro.
+
+Luz divina brilhou para os cegos;
+nela o Cristo triunfa do inferno,
+vence a morte, reconciliando
+terra e céus.
+
+A sentença eterna do Rei
+tudo sob o pecado encerrou,
+para que na fraqueza brilhasse
+maior graça.
+
+O poder e a ciência de Deus
+misturaram rigor e clemência,
+quando o mundo já estava caindo
+nos abismos.
+
+Surge livre do Reino da morte
+quem o gênero humano restaura,
+reconduz em seus ombros a ovelha
+ao redil.
+
+Reine a paz entre os anjos e os homens,
+e no mundo a total plenitude.
+Ao Senhor triunfante convém
+toda a glória.
+
+Mãe Igreja, tua voz faça coro
+à harmonia da pátria celeste.
+Cantem hoje Aleluias de glória
+os fiéis.
+
+Triunfando do império da morte,
+triunfal alegria gozemos.
+Paz na terra e nos céus alegria.
+Assim seja.
+
+@secao Salmodia
+
+@antifona 1
+Vossa palavra, Senhor,
+é uma luz para os meus passos. Aleluia.
+
+@secao XIV (Nun)
+
+@salmo salmos/salmo-118-105-112-xiv-nun
+
+@gloria
+
+@antifona
+Vossa palavra, Senhor,
+é uma luz para os meus passos. Aleluia.
+
+@antifona 2
+Junto a vós, felicidade sem limites, aleluia.
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+Junto a vós, felicidade sem limites, aleluia.
+
+@antifona 3
+Ao nome de Jesus, nosso Senhor,
+se dobre reverente todo joelho,
+seja nos céus, seja na terra, aleluia.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Ao nome de Jesus, nosso Senhor,
+se dobre reverente todo joelho,
+seja nos céus, seja na terra, aleluia.
+
+@secao Leitura breve | Cl 1,2b-6a
+
+@texto
+A vós, graça e paz da parte de Deus nosso Pai. Damos graças a Deus, Pai de nosso Senhor Jesus Cristo, sempre rezando por vós, pois ouvimos acerca da vossa fé em Cristo Jesus e do amor que mostrais para com todos os santos, animados pela esperança na posse do céu. Disso já ouvistes falar no Evangelho, cuja palavra de verdade chegou até vós. E como no mundo inteiro, assim também entre vós ela está produzindo frutos e se desenvolve.
+
+@secao Responsório breve
+
+@responsorio
+R. Do nascer do sol até o seu ocaso,
+* Louvado seja o nome do Senhor! R. Do nascer.
+V. Sua glória vai além dos altos céus. * Louvado.
+Glória ao Pai. R. Do nascer.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Demos graças a Deus que auxilia e protege o povo que escolheu como sua herança para que viva feliz. Recordando seu amor, aclamemos dizendo:
+
+R. **Senhor, nós confiamos em vós!**
+
+Deus de bondade, nós vos pedimos pelo nosso Papa {N.} e pelo nosso bispo {N.};
+– protegei-os com o vosso poder e santificai-os com a vossa graça. R.
+
+Confortai os doentes e tornai-os participantes da paixão de Cristo por seus sofrimentos,
+– para que sintam continuamente a sua consolação. R.
+
+Olhai com amor para os que não têm onde morar,
+– e fazei que encontrem uma digna habitação. R.
+
+Dignai-vos multiplicar e conservar os frutos da terra,
+– para que a ninguém falte o pão de cada dia. R.
+
+{Ou:}
+
+(Defendei o nosso povo de todo mal,
+– para que desfrute da vossa paz e prosperidade). R.
+
+{(intenções livres)}
+
+Envolvei com vossa misericórdia os que morreram,
+– e dai-lhes um lugar no céu. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

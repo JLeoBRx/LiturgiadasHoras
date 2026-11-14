@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/bienal/2sabadoAdvento_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 2ª SEMANA DO ADVENTO / SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {29,1-8}
+
+@tema
+O juízo de Deus sobre Jerusalém
+
+@texto
+[1] Ai de Ariel, de Ariel, a cidade em que Davi acampou! Ajuntai ano a ano, completem as festas anuais o seu ciclo, mas eu porei Ariel em aperto; haverá gemidos e luto, e ela será para mim como Ariel. [3] Eu te farei um sítio ao teu redor, estabelecerei postos contra ti e levantarei trincheiras contra ti. [4] Serás abatida: desde o chão passarás a falar; a tua palavra virá abafada pelo pó da terra, a tua voz será como a de espírito que se encontra debaixo da terra; o teu falar será murmúrio que brota do chão. [5] A horda dos teus inimigos será como o pó, a horda dos tiranos, como a palha que voa. De repente, em um instante, [6] serás visitada pelo Senhor dos Exércitos com trovões, com estrondos e com grande rugido, com tufões e tempestades, com chamas de fogo devorador. [7] Será como em sonho, como em visão noturna: a horda de todas as nações a guerrear contra Ariel, de todos os que a combatem, a sitiam e a põem em aperto. [8] E suceder-lhes-á como ao faminto, o qual sonha que está comendo, mas ao acordar está com o estômago vazio, ou como ao sedento, o qual sonha que está bebendo, mas, quando acorda, se sente exaurido e com a garganta seca. É o que sucederá à horda de todas as nações em guerra contra o monte Sião.
+
+@secao Responsório | Is 54,4; 29,7
+
+@responsorio
+R. Jerusalém, não tenhas medo, não serás envergonhada,
+* Quando o Senhor do universo vier te visitar.
+V. Como um sonho se dissipa,
+o Senhor dissipará as nações, que te agrediam. * Quando o Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões do Bem-aventurado Isaac, abade do Mosteiro de Stella
+{(Séc. XII)} {(Sermo 51: PL 194, 1862-1863.1865)}
+
+@tema
+Maria e a Igreja
+
+@texto
+O Filho de Deus é o primogênito dentre muitos irmãos; sendo Filho único por natureza, associou a si muitos pela graça, para serem um só com ele. Com efeito, a quantos o recebem, _deu-lhes capacidade de se tornarem filhos de Deus_ (Jo 1,12). Constituído Filho do homem, a muitos constituiu filhos de Deus. Ele, o Filho único, por seu amor e poder associou muitos a si. E todos esses, embora sejam muitos por sua geração segundo a carne, são um só com ele pela regeneração divina. Um só, portanto, é o Cristo total, cabeça e corpo: Filho único do único Deus nos céus e de uma única mãe na terra. Muitos filhos, e um só Filho. Pois assim como a cabeça e os membros são um só Filho, assim também Maria e a Igreja são uma só Mãe e muitas mães; uma só Virgem e muitas virgens. Ambas são mães e ambas são virgens; ambas concebem virginalmente do mesmo Espírito; ambas, sem pecado, dão à luz uma descendência para Deus Pai. Maria, imune de todo pecado, deu à luz a Cabeça do corpo; a Igreja, para a remissão de todos os pecados, deu à luz o corpo da Cabeça. Ambas são mães do Cristo, mas nenhuma delas pode, sem a outra, dar à luz o Cristo total. Por isso, nas Escrituras divinamente inspiradas, o que se atribui de modo geral à Igreja, virgem e mãe, aplica-se particularmente a Maria. E o que se atribui especialmente a Maria, virgem e mãe, pode-se com razão aplicar de modo geral à Igreja, virgem e mãe; e quando o texto se refere a uma delas, pode ser aplicado indistinta e indiferentemente a uma e à outra. Além disso, cada alma fiel é igualmente, a seu modo, esposa do Verbo de Deus, mãe de Cristo, filha e irmã, virgem e mãe fecunda. É a própria Sabedoria de Deus, o Verbo do Pai, que designa ao mesmo tempo a Igreja em sentido universal, Maria num sentido especial e cada alma fiel em particular. Eis o que diz a Escritura: _E habitarei na herança do Senhor_ (cf. Eclo 24,7.13). A herança do Senhor é, na sua totalidade, a Igreja, muito especialmente é Maria, e de modo particular, a alma de cada fiel. No tabernáculo do seio de Maria, o Cristo habitou durante nove meses; no tabernáculo da fé da Igreja, habitará até o fim do mundo; e no amor da alma fiel, habitará pelos séculos dos séculos.
+
+@secao Responsório | Lv 26,11-12; 2Cor 6,16
+
+@responsorio
+R. Hei de pôr minha morada, minha tenda em vosso meio
+e não mais vou rejeitar-vos;
+* Caminharei em vosso meio
+e serei o vosso Deus, e sereis o povo meu.
+V. Sois o templo do Deus vivo, como diz o Senhor Deus.
+* Caminharei em vosso meio
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, que desponte em nossos corações o esplendor da vossa glória, para que, vencidas as trevas do pecado, a vinda do vosso Unigênito revele que somos filhos da luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

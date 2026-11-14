@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, autor da luz
+da aurora matutina,
+mostrai-nos vossa glória,
+que o dia já declina.
+
+A tarde traz o ocaso,
+o sol já vai morrendo,
+e deixa o mundo às trevas,
+às leis obedecendo.
+
+Aos servos que vos louvam,
+cansados do labor,
+as trevas não envolvam,
+pedimos, ó Senhor.
+
+Assim, durante a noite,
+guardados pela graça,
+na luz da vossa luz,
+a treva se desfaça.
+
+Ouvi-nos, Pai bondoso,
+e vós, Jesus, também.
+A vós e ao Santo Espírito
+louvor eterno. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@antifona 2
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@antifona 3
+Chegou agora a salvação e o reino do Senhor.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o reino do Senhor.
+
+@secao Leitura breve | 1Pd 1,22-23
+
+@texto
+Pela obediência à verdade, purificastes as vossas almas, para praticar um amor fraterno sem fingimento. Amai-vos, pois, uns aos outros, de coração e com ardor. Nascestes de novo, não de uma semente corruptível, mas incorruptível, mediante a palavra de Deus, viva e permanente.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é o meu Pastor:
+* Não me falta coisa alguma. R. O Senhor.
+V. Pelos prados me conduz.
+* Não me falta. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor saciou com os seus bens
+os famintos e sedentos de justiça.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor saciou com os seus bens
+os famintos e sedentos de justiça.
+
+@secao Preces
+
+@preces
+Elevemos os corações cheios de gratidão a nosso Senhor e Salvador, que abençoa o seu povo com toda sorte de bênçãos espirituais; e peçamos com fé:
+
+R. **Abençoai, Senhor, o vosso povo!**
+
+Deus de misericórdia, protegei o Santo Padre, o Papa {N.}, e o nosso Bispo {N.},
+– e fortalecei-os para que guiem fielmente a vossa Igreja. R.
+
+Protegei, Senhor, o nosso país,
+– e afastai para longe dele todos os males. R.
+
+Multiplicai, como rebentos de oliveira ao redor de vossa mesa, os filhos que querem se consagrar ao serviço do vosso reino,
+– a fim de vos seguirem mais de perto na castidade, pobreza e obediência. R.
+
+Conservai o propósito de vossas filhas que vos consagraram sua virgindade,
+– para que sigam a vós, Cordeiro divino, aonde quer que vades. R.
+
+{(intenções livres)}
+
+Que os nossos irmãos e irmãs falecidos descansem na vossa eterna paz,
+– e confirmai a sua união conosco por meio da comunhão de bens espirituais. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Celebrando, Senhor, o louvor da tarde, pedimos à vossa bondade nos conceda meditar sempre a vossa lei e alcançar a luz da vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/angelus.htm
+
+@texto
+**ÂNGELUS**
+{(No tempo pascal reza-se o _Regina Coeli_ no lugar do _Ângelus_)}
+
+@texto
+V. O Anjo do Senhor anunciou a Maria.
+R. E Ela concebeu do Espírito Santo.
+
+Ave Maria...
+
+V. Eis aqui a serva do Senhor.
+R. Faça-se em mim segundo a vossa palavra.
+
+Ave Maria…
+
+V. E o Verbo se fez carne.
+R. E habitou entre nós.
+
+Ave Maria…
+
+V. Rogai por nós, Santa Mãe de Deus!
+R. Para que sejamos dignos das promessas de Cristo.
+
+{Oração}
+Derramai, ó Deus, a Vossa graça em nossos corações, para que, conhecendo pela mensagem do anjo a encarnação do vosso Filho, cheguemos, por Sua Paixão e Cruz, à glória da Ressurreição. Por Cristo, nosso Senhor. Amém.
+
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. {(3x)}
+
+{(Em latim)}
+
+V. Angelus Dómini nuntiávit Mariæ
+R. Et concépit de Spíritu Sancto.
+
+_Ave Maria grátia plena Dóminus tecum, benedícta tu in muliéribus et benedictus fructus ventris tui, Jesus. Sancta Maria, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen._
+
+V. Ecce ancílla Dómini
+R. Fiat mihi secúndum verbum tuum.
+
+_Ave Maria grátia plena Dóminus tecum, benedícta tu in muliéribus et benedictus fructus ventris tui, Jesus. Sancta Maria, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen._
+
+V. Et Verbum caro factum est
+R. Et habitávit in nobis.
+
+_Ave Maria grátia plena Dóminus tecum, benedícta tu in muliéribus et benedictus fructus ventris tui, Jesus. Sancta Maria, Mater Dei, ora pro nobis peccatóribus, nunc et in hora mortis nostræ. Amen._
+
+V. Ora pro nobis, sancta Dei Génitrix
+R. Ut digni efficiámur promissiónibus Christi.
+
+{Oremus}
+Gratiam tuam, quæsumus Dómine, méntibus nostris infúnde: ut qui Angelo nuntiánte, Christi Filii tui incarnatiónem cognóvimus; per passiónem ejus et crucem, ad resurrectiónis glóriam perducámur. Per eúmdem Christum Dóminum nostrum. Amen.
+
+Gloria Patri, et Filio, et Spiritui Sancto.
+Sicut erat in principio, et nunc et semper, et in sæcula sæculorum. Amen {(3x)}

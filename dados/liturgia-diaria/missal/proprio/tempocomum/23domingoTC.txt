@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/23domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 118,137.124
+@texto
+Vós sois justo, na verdade, ó Senhor,
+e os vossos julgamentos são corretos.
+Conforme o vosso amor, Senhor, tratai-me.
+
+@secao Coleta
+@texto
+Ó Deus, olhai com bondade
+os que redimistes e adotastes como filhos e filhas,
+e concedei aos que creem no Cristo
+a verdadeira liberdade e a herança eterna.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, fonte da verdadeira piedade e da paz,
+concedei que vos honremos dignamente nesta celebração
+e, pela fiel participação nos sagrados mistérios,
+sejam reforçados os laços que nos unem.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 41,2-3
+@texto
+Assim como a corça suspira pelas águas correntes,
+suspira igualmente minh’alma por vós, ó meu Deus!
+Minha alma tem sede de Deus
+e deseja o Deus vivo.
+{Ou:}{Jo 8,12}
+Eu sou a luz do mundo, diz o Senhor.
+Quem me segue não andará nas trevas,
+mas terá a luz da vida.
+
+@secao Depois da comunhão
+@texto
+Senhor, que alimentais e fortaleceis vossos fiéis
+com o pão da Palavra e da Eucaristia,
+concedei-nos desfrutar de tal modo
+destes dons do vosso amado Filho,
+que mereçamos para sempre viver em comunhão com ele.
+Que vive e reina pelos séculos dos séculos.

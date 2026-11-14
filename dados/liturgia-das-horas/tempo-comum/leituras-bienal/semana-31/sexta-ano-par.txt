@@ -1,0 +1,61 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/31sextaTC_par.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {16,2b-13.20-26}
+
+@tema
+Os benefícios de Deus para com o seu povo
+
+@texto
+[2b] Para satisfazer-lhe o ardente apetite, proporcionaste-lhe codornizes, alimento extraordinário! [3] Assim, enquanto aqueles, famintos, perdiam o apetite natural pelo desgosto do que lhes fora enviado, estes, depois de passar um pouco de necessidade, entre si repartiam um alimento extraordinário. [4] Pois era preciso que sobre aqueles - os opressores - se abatesse uma penúria inevitável; a estes bastava que se lhes mostrasse como eram torturados seus inimigos. [5] Mesmo quando lhes sobreveio a terrível fúria das feras e pereciam mordidos por serpentes tortuosas, tua cólera não durou até o fim; [6] para que se advertissem, foram assustados um pouco, mas tinham um sinal de salvação para lhes recordar o mandamento da tua Lei, [7] e quem se voltava para ele era salvo, não em virtude do que via, mas graças a ti, o salvador de todos! [8] Assim convenceste nossos inimigos de que és tu quem livra de todo mal; [9] pois eles morreram a picadas de gafanhotos e de moscas, não se achou remédio para a vida deles, porque mereciam semelhante castigo. [10] Quanto aos seus filhos, não os venceram sequer as presas de serpentes venenosas, pois interveio a tua misericórdia e os salvou. [11] Para que se recordassem de teus oráculos, eram aguilhoados, e logo curados, para não caírem num profundo esquecimento e serem excluídos de tua ação benéfica. [12] Não os curou nem erva nem unguento, mas a tua palavra, Senhor, que tudo cura! [13] Porque tu tens poder sobre a vida e a morte, fazes descer às portas do Hades e de lá subir. [20] A teu povo, ao contrário, nutriste com um alimento de anjos, proporcionando-lhe, do céu, sem fadiga, um pão de mil sabores, ao gosto de todos. [21] Este sustento manifestava a teus filhos tua doçura, pois servia ao desejo de quem o tomava e se convertia naquilo que cada qual queria. [22] Neve e gelo resistiam ao fogo sem derreter-se: soube-se assim que o fogo - ardendo no meio do granizo e lampejando nos aguaceiros - destruía os frutos dos inimigos; [23] mas o mesmo, noutra ocasião, esqueceu-se de sua própria força, para que os justos se alimentassem. [24] Pois a criação, submissa a ti, seu Criador, inflama-se para castigar os injustos e abranda-se para beneficiar os que confiam em ti. [25] Eis por que, também então, mudando-se em tudo colocava-se a serviço de tua liberalidade, nutriz universal, segundo o desejo dos necessitados. [26] Assim teus filhos queridos aprenderam, Senhor: não é a produção de frutos que alimenta os homens, mas a tua palavra que sustenta os que creem em ti.
+
+@secao Responsório | Sb 16,20; Jo 6,56
+
+@responsorio
+R. Com o alimento dos anjos alimentastes vosso povo;
+do céu, sem fadiga, vós lhe enviastes um pão já preparado;
+* Contendo em si todas as delícias.
+V. Quem come a minha carne e bebe o meu sangue
+permanece em mim, e eu nele;
+esse é o pão descido do céu.
+* Contendo.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o Salmo 118”, de Santo Ambrósio, bispo
+{(Séc. IV)} {(Disc.7,7-8)}
+
+@tema
+No tempo da nossa humilhação, a esperança nos consola
+
+@texto
+No tempo da nossa humilhação, nos consola a esperança que _não decepciona_ (Rm 5,5); penso que o tempo da humilhação para a nossa alma é o das tentações. Ela é humilhada quando é abandonada nas mãos do tentador e colocada à prova com duros tormentos, para que lute e combata, experimentando a luta com a potência adversária; porém nessas tentações recebe vida da palavra de Deus. Esta é de verdade a substância vital da nossa alma, da qual é nutrida, cresce e pela qual é guiada. Nada mais faz viver a alma dotada de razão do que o colóquio com Deus. A palavra de Deus, quando é recebida, compreendida e acolhida, frutifica na nossa alma e nela aumenta a vida: ao contrário de quando falta o colóquio com Deus na nossa alma, a sua vida diminui. E como este nosso composto de alma e corpo é animado, nutrido e sustentado pelo espírito vital, assim a nossa alma é vivificada pela palavra de Deus e pela graça do Espírito. Por isso, deixando de lado todo o resto, devemos colocar toda a atenção em recolher as palavras de Deus para que se tornem em nós princípio que dirige a nossa consciência, as solicitudes de nossa alma, os pensamentos e as ações, a fim de que todos os nossos atos sejam conformes às palavras da Escritura e nada seja discordante dos preceitos divinos; assim, também nós, possamos afirmar: _A tua palavra me_ _faz viver_ (Sl 118,50).
+_Os soberbos me insultam asperamente, mas não me_ _desvio da tua lei_ (Sl 118,51). O maior pecado do homem, no qual está a origem da nossa culpa, é a soberba: ela é a primeira flecha com a qual o diabo nos feriu e abateu. Em verdade, se o homem, enganado pelas palavras persuasivas da serpente, não tivesse querido ser como Deus e conhecer o verdadeiro e o falso, que não podia discernir profundamente por causa da fragilidade humana, e se por isso não tivesse agido como o fez, precipitando-se da felicidade do paraíso para uma temerária presunção; se, insatisfeito dos seus limites, não tivesse infringido uma proibição, jamais teria recaído sobre nós a herança de uma culpa mortal.
+
+@secao Responsório | Eclo 3,18-20; Pr 29,23
+
+@responsorio
+R. Quanto maior fores, tanto mais humilha-te;
+assim encontrarás graça diante do Senhor.
+* Porque grande é o poder do Senhor
+e pelos humildes ele é glorificado.
+V. O orgulho do homem provoca-lhe humilhação,
+o humilde de coração obtém honras.
+* Porque grande.
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas a graça de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

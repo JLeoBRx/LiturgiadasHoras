@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/joaocalabria_vesperas.htm
+@documento Vésperas - São João Calábria, presbítero
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+João Calábria de Jesus,
+convidando ao amor,
+de unidade foste luz
+para o povo do Senhor
+
+Tu, seu Reino nos revela,
+por amor de sua Igreja,
+feito dela sentinela,
+santa pede que ela seja.
+
+Como tu, que Deus é Pai
+dar possamos testemunho:
+tua bandeira tu nos dai
+desfraldar com novo cunho.
+
+De um só Pai nós existimos,
+cada qual é nosso irmão,
+por isso aqui nós vimos
+prá pedir-te mais união.
+
+O abandono mais filial
+tu viveste à sua vontade:
+providência sem igual
+e penhor de eternidade.
+
+Louvo, Pai, a tua ternura,
+e do Filho a pura luz,
+e o Espírito que cura
+quem carrega a própria cruz
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. É justo o nosso Deus,
+* Ele ama a justiça. R. É justo.
+V. Quem tem reto coração há de ver a sua face. * Ele ama.
+Glória ao Pai. R. É justo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vós que tudo abandonastes e me seguistes,
+recebereis cem vezes mais e a vida eterna.
+
+@secao Preces
+
+@preces
+Peçamos a Deus Pai, fonte de toda a santidade, que pela intercessão e exemplo dos santos nos conduza a uma vida mais perfeita; e digamos:
+
+R. **Fazei-nos santos, porque vós sois santo!**
+
+Pai santo, que nos destes a graça de nos chamarmos e sermos realmente vossos filhos,
+– fazei que a santa Igreja proclame as vossas maravilhas por toda a terra. R.
+
+Pai santo, inspirai os vossos servos a viver dignamente, segundo a vossa vontade,
+– e ajudai-nos a dar abundantes frutos de boas obras. R.
+
+Pai santo, que nos reconciliastes convosco por meio de Cristo,
+– conservai-nos na unidade por amor de vosso nome. R.
+
+Pai santo, que nos convidastes para tomar parte no banquete celeste,
+– pela comunhão do pão descido do céu, dai-nos alcançar a perfeição da caridade. R.
+
+{(intenções livres)}
+
+Pai santo, perdoai as faltas de todos os pecadores,
+– e acolhei na luz da vossa face todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, Pai todo-poderoso, que para reavivar no mundo a confiança em vossa paternidade e o abandono filial à vossa Providência, suscitastes na Igreja o sacerdote João Calábria, concedei-nos, por sua intercessão, que, animados pelo mesmo espírito, possamos reconhecer e servir o vosso próprio Filho em nossos irmãos e irmãs pobres e sofredores. Por nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo. Amém.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

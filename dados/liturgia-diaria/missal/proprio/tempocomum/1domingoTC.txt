@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/1domingoTC.htm
+
+@secao Antífona da entrada
+@texto
+Vi um homem sentado num trono excelso;
+a multidão dos Anjos o adora,
+cantando a uma só voz:
+Eis aquele cujo nome e império permanecem eternamente.
+
+@secao Coleta
+@texto
+Senhor, atendei com bondade paterna
+as preces do vosso povo suplicante,
+dai-lhe luz para ver o que deve ser feito
+e coragem para realizar o que viu.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Possa agradar-vos, Senhor,
+a oferenda do vosso povo;
+ela nos obtenha a santificação
+e o que confiantes vos pedimos.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 35,10
+@texto
+Junto de vós, Senhor, está a fonte da vida,
+e em vossa luz veremos a luz.
+{Ou:}{Jo 10,10}
+Eu vim para que tenham a vida
+e a tenham em abundância, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Deus todo-poderoso,
+que refazeis nossas forças pelos vossos sacramentos,
+nós vos pedimos a graça de vos servir
+por uma vida que vos seja agradável.
+Por Cristo, nosso Senhor.

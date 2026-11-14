@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/30sabadoTC_impar.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {29,1-14}
+
+@tema
+Carta de Jeremias aos israelitas deportados para a Babilônia
+
+@texto
+[1] Eis os termos da carta que o profeta Jeremias enviou de Jerusalém, ao resto dos anciãos no exílio, aos sacerdotes, aos profetas e a todo o povo que Nabucodonosor deportara de Jerusalém para a Babilônia. [2] Foi depois que o rei Jeconias saiu de Jerusalém com a rainha-mãe, os eunucos, os príncipes de Judá e de Jerusalém, os ferreiros e os serralheiros. [3] Ela foi levada por intermédio de Elasa, filho de Safã, e de Gamarias, filho de Helcias, que Sedecias, rei de Judá, enviara à Babilônia junto a Nabucodonosor, rei da Babilônia: [4] “Assim disse o Senhor dos Exércitos, Deus de Israel, a todos os exilados, deportados de Jerusalém para a Babilônia: [5] Construí casas e instalai-vos; plantai pomares e comei os seus frutos. [6] Casai-vos e gerai filhos e filhas, tomai esposas para os vossos filhos e dai as vossas filhas em casamento, que eles gerem filhos e filhas; multiplicai-vos aí e não diminuais! [7] Procurai a paz da cidade, para onde eu vos deportei; rogai por ela ao Senhor, porque a sua paz será a vossa paz. [8] Porque assim disse o Senhor dos Exércitos, Deus de Israel: Não vos deixeis enganar por vossos profetas que estão no meio de vós, nem por vossos adivinhos, e não escuteis os sonhos que sonhais. [9] Pois eles vos profetizam mentiras em meu Nome. Eu não os enviei, oráculo do Senhor. [10] Porque assim disse o Senhor: Quando se completarem, para a Babilônia, setenta anos, eu vos visitarei e realizarei a minha promessa de vos fazer retornar a este lugar. [11] Sim, eu conheço os desígnios que formei a vosso respeito - oráculo do Senhor -, desígnios de paz e não de desgraça, para vos dar um futuro e uma esperança. [12] Vós me invocareis, vireis e rezareis a mim, e eu vos escutarei. [13] Vós me procurareis e me encontrareis, porque me procurareis de todo coração; [14] eu me deixarei encontrar por vós (– oráculo do Senhor. Eu trarei vossos cativos, reunir-vos-ei de todas as nações e de todos os lugares para onde vos dispersei, oráculo do Senhor. Eu vos farei retornar ao lugar de onde vos deportei).
+
+@secao Responsório | Sl 104(105),1.4; Eclo 2,10
+
+@responsorio
+R. Celebrai o Senhor, invocai o seu nome.
+* Recorrei ao Senhor e ao seu poder,
+procurai continuamente sua face.
+V. Considerai, meus filhos:
+sabei que nenhum daqueles
+que confiavam no Senhor foi confundido. * Recorrei.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Discursos sobre Pentecostes”, de São Bernardo, abade
+{(Séc. XII)} {(2,1-2)}
+
+@tema
+Eu conheço os desígnios de paz
+
+@texto
+Depois do esplendor da ressurreição, da glória da ascensão e da sublimidade da morada celeste, só faltava que se realizasse a alegria tão esperada pelos justos e que os bem-aventurados fossem cumulados de dons. Isaías, adiantando-se expressivamente e com muita riqueza de detalhes, havia predito tudo isso: _Naquele dia o rebento do Senhor se_ _cobrirá de beleza e glória, o fruto da terra será motivo de_ _orgulho e esplendor para os sobreviventes de Israel_ (Is 4,2). Esse rebento do Senhor é Jesus Cristo, o único concebido sem pecado, apesar de ter assumido uma carne semelhante à do pecado. Embora filho de Adão segundo a carne, não o foi segundo a culpa; porque não foi por natureza filho da ira, como todos os homens concebidos na culpa.
+Ora, esse rebento da raiz de Jessé, germinado no seio fecundo de Maria, desabrochou em toda a sua magnificência ao ressuscitar da morte, quando, tu, Senhor meu Deus, triunfaste admiravelmente revestindo-te de glória e fulgor, envolto por uma luz esplendorosa como em um manto. Então, Senhor Jesus, desfrutem os remidos de Israel, os teus apóstolos, por ti escolhidos antes da criação do mundo: teu Espírito bom venha lavar todas as imundícies e infundir as virtudes da justiça e do amor.
+Coragem, então, irmãos, meditemos sobre tudo aquilo que foi operado em nós pela Santíssima Trindade, do princípio até o fim do mundo, e veremos a grande solicitude que a divina majestade, sobre a qual se apoiam a ordem e o governo dos séculos, usou para que não nos perdêssemos eternamente.
+Com seu poder ela criara tudo, com sua sabedoria tudo governava: os sinais da ordem da criação eram claramente visíveis na conservação de todo o universo. A bondade extraordinariamente grande que estava em Deus permanecia, porém, oculta no coração do Pai, para transbordar mais copiosa no tempo oportuno, sobre os filhos de Adão. Com efeito, dizia o Senhor: _Eu conheço desígnios de paz_ (Jr 29,11), pois anelava enviar-nos Aquele que é a nossa paz e que de ambos os povos fez um só (cf. Ef 2,14), para proporcionar-nos a paz: paz àqueles que estavam longe dele, paz àqueles que lhe eram próximos. Sua bondade, portanto, convidou o Verbo divino a descer até nós do mais alto dos céus; a misericórdia o atraiu; obrigou-o a fidelidade em virtude da promessa feita a nossos pais.
+A pureza de um seio virginal o acolheu mantendo intacta a integridade da Virgem. Seu poder o trouxe à luz. A obediência sempre o guiou. A paciência o fortaleceu. A caridade, enfim, manifestou-o por meio de palavras e milagres.
+
+@secao Responsório | Ef 2,14.15; Gl 2,23 vulg.
+
+@responsorio
+R. Ele é a nossa paz: de ambos os povos fez um só,
+tendo derrubado o muro de separação
+e suprimido em sua carne a inimizade
+– a Lei dos mandamentos expressa em preceitos,
+* A fim de criar em si mesmo um só Homem Novo,
+estabelecendo a paz.
+V. Filhos de Sião,
+alegrai-vos e regozijai-vos no Senhor vosso Deus,
+porque vos deu o mestre da justiça. * A fim de criar.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e dai-nos amar o que ordenais para conseguirmos o que prometeis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

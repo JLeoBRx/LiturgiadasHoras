@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/apresentacaoNS.htm
+
+@secao Antífona da entrada
+@texto
+Salve, santa Mãe, vós destes à luz o Rei
+que governa o céu e a terra pelos séculos eternos.
+
+@secao Coleta
+@texto
+Ao celebrarmos a gloriosa memória
+da Santíssima Virgem Maria,
+nós vos pedimos, Senhor,
+que, por sua intercessão,
+também nós mereçamos receber a plenitude da vossa graça.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, as orações do vosso povo
+com a oblação deste sacrifício,
+para que, por intercessão
+da Bem-aventurada Virgem Maria,
+Mãe do vosso Filho,
+todos sejam atendidos em suas preces
+e confirmados em suas súplicas.
+Por Cristo, nosso Senhor.
+
+{Antífona da Comunhão}{Cf. Lc 11,27}
+Feliz o ventre da Virgem Maria
+que trouxe o Filho do Pai eterno.
+
+@secao Depois da comunhão
+@texto
+Senhor, ao receber os sacramentos celestes,
+pedimos vossa clemência para que,
+alegrando-nos com a comemoração
+da Bem-aventurada Virgem Maria,
+imitemos as suas virtudes
+e colaboremos generosamente no mistério da nossa redenção.
+Por Cristo, nosso Senhor.

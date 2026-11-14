@@ -1,0 +1,96 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_leituras.htm
+@documento Ofício das Leituras - IV Terça-Feira
+
+@titulo IV TERÇA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Despertados no meio da noite,
+meditando, em vigília e louvor,
+entoemos com todas as forças
+nosso canto vibrante ao Senhor,
+
+para que celebrando em conjunto
+deste Rei glorioso os louvores,
+mereçamos viver, com seus santos,
+vida plena nos seus esplendores.
+
+Esse dom nos conceda a Trindade,
+Pai e Filho e Amor, Sumo Bem,
+cuja glória ressoa na terra
+e no céu pelos séculos. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Deus bondoso, inclinai o vosso ouvido,
+por piedade, acolhei a nossa prece.
+Escutai a oração dos vossos servos,
+como Pai que dos seus filhos não se esquece.
+
+Para nós volvei, sereno, a vossa face,
+pois a vós nos confiamos sem reserva;
+conservai as nossas lâmpadas acesas,
+afastai do coração todas as trevas.
+
+Compassivo, absolvei os nossos crimes,
+libertai-nos, e as algemas nos quebrai;
+os que jazem abatidos sobre a terra
+com a vossa mão direita levantai.
+
+Glória a Deus, fonte e raiz de todo ser,
+glória a vós, do Pai nascido, Sumo Bem,
+sempre unidos pelo Amor do mesmo Espírito,
+Deus que reina pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@salmo salmos/salmo-101-i
+
+@gloria
+
+@antifona
+Ó Senhor, chegue até vós o meu clamor,
+não me oculteis a vossa face em minha dor!
+
+@antifona 2
+Ouvi, Senhor, a oração dos oprimidos!
+
+@salmo salmos/salmo-101-ii
+
+@gloria
+
+@antifona
+Ouvi, Senhor, a oração dos oprimidos!
+
+@antifona 3
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados.
+
+@salmo salmos/salmo-101-iii
+
+@gloria
+
+@antifona
+A terra, no princípio, vós criastes,
+e os céus, por vossas mãos, foram criados.
+
+@texto
+V. Escuta, ó meu povo, a minha lei.
+R. Ouve atento as palavras que eu te digo!

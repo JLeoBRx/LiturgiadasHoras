@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/3quintaPascoa.htm
+@documento Ofício das Leituras - 3ª Semana Da Páscoa - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@salmo salmos/salmo-088-39-53-iv
+
+@gloria
+
+@antifona
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@antifona 2
+Sou o rebento da estirpe de Davi,
+sou a estrela fulgurante da manhã. Aleluia.
+
+@salmo salmos/salmo-088-39-53-v
+
+@gloria
+
+@antifona
+Sou o rebento da estirpe de Davi,
+sou a estrela fulgurante da manhã. Aleluia
+
+@antifona 3
+Os nossos dias vão murchando como a erva;
+vós, Senhor, sois desde sempre e para sempre. Aleluia
+
+@salmo salmos/salmo-089-v2
+
+@gloria
+
+@antifona
+Os nossos dias vão murchando como a erva;
+vós, Senhor, sois desde sempre e para sempre. Aleluia
+
+@texto
+V. Deus, o Pai que a Jesus,
+nosso Senhor, ressuscitou, aleluia,
+R. Nos fará também a nós
+ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {9,13-21}
+
+@tema
+O flagelo da guerra
+
+@texto
+Eu, João, continuei a ver. [13] O sexto anjo tocou a trombeta, e eu ouvi uma voz, vinda de um dos quatro cantos do altar de ouro que está diante de Deus. [14] A voz dizia ao sexto anjo, aquele que segurava a trombeta: “Solta os quatro anjos que se encontram algemados no grande rio, o Eufrates”. [15] E foram soltos os quatro anjos, que estavam com a hora, o dia, o mês e o ano marcados para matar a terça parte dos homens. [16] O número das tropas de cavalaria era de vinte mil vezes dez mil. Eu ouvi bem o seu número. [17] E na minha visão, eu vi os cavalos e os cavaleiros do seguinte modo: Tinham couraças de fogo, jacinto e enxofre. As cabeças dos cavalos pareciam cabeças de leões, e de suas bocas saía fogo, fumaça e enxofre. [18] A terça parte da humanidade morreu por causa destas três pragas: o fogo, a fumaça e o enxofre que saíam das bocas dos cavalos. [19] Pois o poder desses cavalos estava na boca e na cauda. Suas caudas pareciam serpentes e com estas causavam mal. [20] As demais pessoas, as que não morreram devido a estas pragas, contudo não se converteram das obras de suas mãos. Não deixaram de adorar os demônios, os ídolos de ouro e de prata, de bronze, de pedra e de madeira, que não podem ver nem ouvir nem caminhar. [21] Também não se converteram de seus homicídios, nem de suas magias, fornicação e roubos.
+
+@secao Responsório | At 17,30b.31a; cf. Jl 1,13.14
+
+@responsorio
+{R. Que a humanidade inteira, em todo lugar,}
+se converta a Deus,
+* Porque ele fixou o dia no qual
+ele há de julgar com justiça o mundo. Aleluia.
+V. Ministros de Deus, reuni os habitantes
+de toda a terra e clamai ao Senhor! * Porque ele.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc.II)} {(Lib. 5,2,2-3:SCh153,30-38)}
+
+@tema
+A Eucaristia, penhor da ressurreição
+
+@texto
+Se não há salvação para a carne, também o Senhor não nos redimiu com o seu sangue. Sendo assim, nem o cálice da eucaristia é a comunhão do seu sangue nem o pão que partimos é a comunhão do seu corpo. O sangue, efetivamente, procede das veias, da carne, e do que pertence à substância humana. Essa substância, o Verbo de Deus assumiu-a em toda a sua realidade e por ela nos resgatou com o seu sangue, como afirma o Apóstolo: _Pelo seu sangue, nós fomos libertados. Nele, as nossas faltas são perdoadas_ (Ef 1,7). Nós somos seus membros e nos alimentamos das coisas criadas que ele próprio nos dá, fazendo nascer o sol e cair a chuva segundo sua vontade. Por isso, o Senhor declara que o cálice, fruto da criação, é o seu sangue, que fortalece o nosso sangue; e o pão, fruto também da criação, é o seu corpo, que fortalece o nosso corpo. Portanto, quando o cálice de vinho misturado com água e o pão natural recebem a palavra de Deus, transformam-se na eucaristia do sangue e do corpo de Cristo. São eles que alimentam e revigoram a substância de nossa carne. Como é possível negar que a carne é capaz de receber o dom de Deus, que é a vida eterna, essa carne que se alimenta com o sangue e o corpo de Cristo e se torna membro do seu corpo? O santo Apóstolo diz na Carta aos Efésios: _Nós somos membros do seu corpo_ (Ef 5,30), _da sua carne e de seus ossos_ (cf. Gn 2,23); não é de um homem espiritual e invisível que ele fala – _o espírito não tem carne nem ossos_ (cf. Lc 24,39) – mas sim do organismo verdadeiramente humano, que consta de carne, nervos e ossos, que se nutre com o cálice do seu sangue e se robustece com o pão que é seu corpo. O ramo da videira plantado na terra, frutifica no devido tempo, e o grão de trigo, caído na terra e dissolvido, multiplica-se pelo Espírito de Deus que sustenta todas as coisas. Em seguida, pela arte da fabricação, são transformados para uso do homem. Recebendo a palavra de Deus, tornam-se a eucaristia, isto é, o corpo e o sangue de Cristo. Assim também os nossos corpos, alimentados pela eucaristia, depositados na terra e nela desintegrados, ressuscitarão a seu tempo, quando o Verbo de Deus lhes conceder a ressurreição para a glória do Pai. É ele que reveste com sua imortalidade o corpo mortal e dá gratuitamente a incorruptibilidade à carne corruptível. Porque é na fraqueza que se manifesta o poder de Deus.
+
+@secao Responsório | Jo 6,48-51ab
+
+@responsorio
+R.Eu sou o pão da vida;
+vossos pais, no deserto, comeram o maná
+e no entanto morreram.
+* É este o Pão vivo, descido dos céus,
+para que todo aquele que dele comer
+não morra, aleluia.
+V.Eu sou o Pão vivo, descido dos céus;
+quem comer deste pão, viverá para sempre. * É este.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e onipotente, que nestes dias vos mostrais tão generoso, dai-nos sentir mais de perto o vosso amor paterno para que, libertados das trevas do erro, sigamos com firmeza a luz da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

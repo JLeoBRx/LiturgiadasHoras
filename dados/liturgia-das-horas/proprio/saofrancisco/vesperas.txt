@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saofrancisco_vesperas.htm
+@documento Vésperas - São Francisco de Assis
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+No céu Francisco fulgura,
+cheio de glória e de luz,
+trazendo em seu corpo as chagas,
+sinais de Cristo e da Cruz.
+
+Seguindo o Cristo na terra,
+pobre de Cristo se faz,
+na cruz com Cristo pregado,
+torna-se arauto da paz.
+
+Pelo martírio ansiando,
+tomou a cruz do Senhor:
+do que beijou no leproso
+contempla agora o esplendor.
+
+Despindo as vestes na praça,
+seu pai na terra esqueceu;
+reza melhor o Pai-nosso,
+junta tesouros no céu.
+
+Tendo de Cristo a pureza,
+mais do que o sol reluzia,
+e, como o sol à irmã lua,
+Clara em seu rastro atraía.
+
+Ao Pai e ao Espírito glória
+e ao que nasceu em Belém.
+Deus trino a todos conceda
+os dons da cruz: Paz e Bem.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. É justo o nosso Deus,
+* Ele ama a justiça. R. É justo.
+V. Quem tem reto coração há de ver a sua face. * Ele ama.
+Glória ao Pai. R. É justo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Bem longe de mim gloriar-me
+senão na Cruz do Senhor Jesus Cristo,
+pois trago em meu corpo suas chagas.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Bem longe de mim gloriar-me
+senão na Cruz do Senhor Jesus Cristo,
+pois trago em meu corpo suas chagas.
+
+@secao Preces
+
+@preces
+Peçamos a Deus Pai, fonte de toda a santidade, que pela intercessão e exemplo dos santos nos conduza a uma vida mais perfeita; e digamos:
+
+R. **Fazei-nos santos, porque vós sois santo!**
+
+Pai santo, que nos destes a graça de nos chamarmos e sermos realmente vossos filhos,
+– fazei que a santa Igreja proclame as vossas maravilhas por toda a terra. R.
+
+Pai santo, inspirai os vossos servos a viver dignamente, segundo a vossa vontade,
+– e ajudai-nos a dar abundantes frutos de boas obras. R.
+
+Pai santo, que nos reconciliastes convosco por meio de Cristo,
+– conservai-nos na unidade por amor de vosso nome. R.
+
+Pai santo, que nos convidastes para tomar parte no banquete celeste,
+– pela comunhão do pão descido do céu, dai-nos alcançar a perfeição da caridade. R.
+
+{(intenções livres)}
+
+Pai santo, perdoai as faltas de todos os pecadores,
+– e acolhei na luz da vossa face todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes São Francisco de Assis assemelhar-se ao Cristo por uma vida de humildade e pobreza, concedei que, trilhando o mesmo caminho, sigamos fielmente o vosso Filho, unindo-nos convosco na perfeita alegria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

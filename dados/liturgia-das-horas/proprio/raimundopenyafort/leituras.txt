@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/raimundopenyafort.htm
+@documento Ofício das Leituras - São Raimundo De Peniaforte, Presbítero Nasceu Perto De Barcelona, Cerca De 1175. Tornou-Se Cônego Da Igreja De Barcelona, Sendo Depois Recebido Entre Os Frades Pregadores. Por Determinação Do Papa Gregório Ix Publicou A Coleção Das Decretais. Eleito Mestre-Geral De Sua Ordem, Governou-A Com Sabedoria E Prudência. Dentre Os Seus Escritos Sobressai A “Suma Casuística”, Para A Correta E Proveitosa Administração Do Sacramento Da Penitência. Morreu Em 1275.
+
+@celebracao
+SÃO RAIMUNDO DE PENIAFORTE, PRESBÍTERO
+
+@biografia
+Nasceu perto de Barcelona, cerca de 1175. Tornou-se cônego da Igreja de Barcelona, sendo depois recebido entre os Frades Pregadores. Por determinação do Papa Gregório IX publicou a coleção das Decretais. Eleito Mestre-geral de sua Ordem, governou-a com sabedoria e prudência. Dentre os seus escritos sobressai a “Suma Casuística”, para a correta e proveitosa administração do sacramento da Penitência. Morreu em 1275.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dossofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores dorebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso;não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+De uma Carta de São Raimundo, presbítero
+{(Séc. XIII)} {(Monumenta Ord. Praed. Hist. 6,2, Romae 1901, p. 84-85)}
+
+@tema
+Que o Deus do amor e da paz pacifique os vossos corações
+
+@texto
+_Se todos os que quiserem levar uma vida fervorosa em Cristo Jesus serão perseguidos_ (2Tm 3,12), como afirma com toda sinceridade aquele Apóstolo que é chamado “pregador da verdade”, a meu ver, ninguém está excluído desta norma geral, senão quem negligencia ou não sabe _viver neste mundo com equilíbrio, justiça e piedade_ (Tt 2,12).
+Longe de vós serdes contados entre aqueles cujas casas estão em paz, tranquilas e seguras, sem que a mão do Senhor pese sobre eles; e que, depois de passarem agradavelmente os seus dias, são, de repente, precipitados no inferno.
+Vossa pureza e piedade merecem e exigem – já que sois aceitos e queridos por Deus – que esta pureza seja aprimorada por meio de repetidas provações até atingir a mais total sinceridade. Por conseguinte, se às vezes uma espada se duplica ou triplica sobre vós, deveis recebê-la com toda a alegria, como sinal de amor.
+A espada de dois gumes são os combates por fora e os temores por dentro. Ela se duplica ou triplica interiormente quando o espírito do mal inquieta o íntimo do coração com enganos e seduções. Mas vós conheceis muito bem este gênero de combates; de outra forma não teria sido possível conseguir esta perfeita paz e tranquilidade interior.
+A espada se duplica ou triplica por fora quando, sem motivo, surge uma perseguição eclesiástica de assuntos espirituais; aqui as feridas são mais dolorosas porque vêm de amigos.
+Esta é a desejável e bem-aventurada cruz de Cristo que o corajoso Santo André abraçou com alegria; segundo as palavras do Apóstolo chamado “instrumento escolhido”, é somente nela que devemos nos gloriar.
+Olhai, portanto, para Jesus, _autor e consumador da fé_ (Hb 12,2); embora sendo inocente, padeceu por parte dos seus e _foi contado entre os malfeitores_ (Is 53,12). Bebendo o cálice do Senhor Jesus, dai graças a Deus, doador de todos os bens.
+Que este mesmo Deus do amor e da paz pacifique os vossos corações e apresse o vosso caminhar. Esconda-vos por enquanto, no segredo da sua face, das perturbações dos homens, até vos introduzir e estabelecer naquela plenitude onde vivereis eternamente na beleza da paz, em morada segura e no repouso da abundância.
+
+@secao Responsório
+
+@responsorio
+R. Com o brilhante esplendor de sua doutrina
+iluminou os que jaziam entre as trevas.
+* Libertou, pelo calor da caridade,
+os escravos da miséria e das correntes.
+V. Reconduziu para os caminhos do Senhor
+os perdidos nos caminhos da maldade. * Libertou.
+
+@secao Oração
+
+@oracao
+Ó Deus, que inspirastes a São Raimundo de Penyafort grande amor pelos pecadores e prisioneiros, libertai-nos, por suas preces, da servidão do pecado, para que, de todo o coração, façamos o que vos agrada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

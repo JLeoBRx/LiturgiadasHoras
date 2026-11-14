@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3quinta_laudes.htm
+@documento Laudes - III Quinta-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Senhor, meu Deus, a vós elevo a minha alma,
+vinde e salvai-me, pois em vós me refugio!
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Senhor, meu Deus, a vós elevo a minha alma,
+vinde e salvai-me, pois em vós me refugio!
+
+@antifona 2
+Recompensai, Senhor, aqueles que esperam vossa vinda,
+para que todos reconheçam a verdade dos profetas.
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/is-40-10-17
+
+@gloria
+
+@antifona
+Recompensai, Senhor, aqueles que esperam vossa vinda,
+para que todos reconheçam a verdade dos profetas.
+
+@antifona 3
+Voltai-vos, Senhor, para nós por um pouco.
+Não tardeis mais em vir até nós, vossos servos!
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Voltai-vos, Senhor, para nós por um pouco.
+Não tardeis mais em vir até nós, vossos servos!

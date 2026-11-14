@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@salmo salmos/salmo-118-137-144-xviii-sade
+
+@gloria
+
+@antifona
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@antifona 2
+Chegue a minha oração até vós, ó Senhor!
+
+@salmo salmos/salmo-087-i
+
+@gloria
+
+@antifona
+Chegue a minha oração até vós, ó Senhor!
+
+@antifona 3
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@salmo salmos/salmo-087-ii
+
+@gloria
+
+@antifona
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@secao Leitura breve | 1Jo 3,17-18
+
+@texto
+Se alguém possui riquezas neste mundo e vê o seu irmão passar necessidade, mas diante dele fecha o seu coração, como pode o amor de Deus permanecer nele? Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade!
+
+@texto
+V. Feliz o homem caridoso e prestativo.
+R. Sua lembrança permanece eternamente.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nesta hora enviastes aos Apóstolos vosso santo Paráclito, comunicai-nos também este Espírito de amor, para darmos de vós um testemunho fiel diante de todos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

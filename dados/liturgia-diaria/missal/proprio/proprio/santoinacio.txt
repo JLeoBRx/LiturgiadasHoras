@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santoinacio.htm
+
+@secao Antífona da entrada | Fl 2,10-11
+@texto
+Ao nome de Jesus, todo joelho se dobre no céu,
+na terra e abaixo da terra, e toda língua proclame:
+Jesus Cristo é o Senhor, para a glória de Deus Pai.
+
+@secao Coleta
+@texto
+Ó Deus,
+que suscitastes em vossa Igreja Santo Inácio de Loyola
+para propagar a maior glória do vosso nome,
+concedei-nos que, auxiliados por sua intercessão
+e imitando seus exemplos,
+mereçamos, por nosso combate na terra,
+ser coroados com ele no céu.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor nosso Deus, sejam do vosso agrado
+as oferendas que trazemos
+na comemoração de santo Inácio de Loyola,
+e concedei que os sagrados mistérios,
+instituídos como fonte de toda santidade,
+nos santifiquem verdadeiramente.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 12,49
+@texto
+Disse o Senhor: vim trazer fogo à terra;
+como gostaria que já estivesse aceso!
+
+@secao Depois da comunhão
+@texto
+Senhor, este sacrifício de louvor,
+que vos oferecemos em ação de graças,
+na comemoração de Santo Inácio de Loyola,
+nos conduza à bem-aventurança eterna,
+para louvarmos sem fim a vossa imensa glória.
+Por Cristo, nosso Senhor.

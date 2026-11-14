@@ -1,0 +1,50 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 23º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Se o teu irmão pecar, corrige-o a sós.
+Se ele te ouvir, ganhaste o teu irmão.
+
+@antifona vesperas-i-B
+Saindo Jesus das terras de Tiro,
+trouxeram a ele um surdo e mudo
+e pediram a ele impusesse suas mãos.
+
+@antifona vesperas-i-C
+Se alguém vem a mim, mas não tem amor
+mais a mim que a si mesmo,
+não pode ser meu discípulo.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Se dois de vós, por sobre a terra,
+se unirem para pedir qualquer coisa que queirais,
+será dado por meu Pai
+que está nos céus, diz o Senhor.
+
+@antifona laudes-B
+Olhando para o céu, Jesus deu um suspiro
+e disse ao surdo-mudo:
+“Efatá”, ou seja: “Abre-te!”
+
+@antifona laudes-C
+Quem não carrega a sua cruz
+e não vem atrás de mim,
+não pode ser o meu discípulo.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Onde estiverem dois ou três reunidos em meu nome,
+eu estou no meio deles, diz Jesus, nosso Senhor.
+
+@antifona vesperas-ii-B
+Ele fez tudo bem:
+Fez os surdos ouvirem e os mudos falarem.
+
+@antifona vesperas-ii-C
+Quem não renunciar a tudo aquilo que possui,
+não poderá ser meu discípulo.

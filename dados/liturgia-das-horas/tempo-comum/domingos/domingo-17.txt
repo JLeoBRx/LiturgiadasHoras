@@ -1,0 +1,57 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 17º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+O Reino dos Céus é semelhante
+ao comprador de raras pérolas preciosas:
+quando encontra a mais bela entre todas,
+vende tudo o que possui, para comprá-la.
+
+@antifona vesperas-i-B
+Jesus, vendo que acorria ao seu encontro
+uma grande multidão, disse a Filipe:
+Onde compraremos pão suficiente,
+para darmos de comer a esse povo?
+Dizia isso apenas para pô-lo à prova;
+pois bem sabia o que ele iria fazer.
+
+@antifona vesperas-i-C
+Estando Jesus a rezar,
+um discípulo pediu-lhe, dizendo:
+Ensinai-nos, Senhor, a rezar!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+O Reino dos Céus é como uma rede lançada ao mar.
+Quando ela está cheia, separam os peixes:
+Os bons eles guardam, os ruins jogam fora.
+
+@antifona laudes-B
+O Senhor, com cinco pães e com dois peixes,
+saciou as quase cinco mil pessoas.
+
+@antifona laudes-C
+Pedi e recebereis, procurai e achareis,
+batei e será aberta a porta, aleluia.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Quem se torna discípulo do Reino dos Céus,
+é qual pai de família que tira da arca
+coisas novas e velhas.
+
+@antifona vesperas-ii-B
+Ao verem os sinais que Jesus havia feito,
+diziam entre si:
+Este homem é o Profeta que ao mundo deve vir!
+
+@antifona vesperas-ii-C
+Se vós que sendo maus sabeis dar de presente
+o que é bom a vossos filhos,
+com muito mais razão vosso Pai que está nos céus
+há de dar o Espírito Santo
+para aqueles que lhe pedem.

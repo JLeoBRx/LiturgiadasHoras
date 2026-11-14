@@ -1,0 +1,81 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+A plenitude da lei é o amor.
+
+@salmo salmos/salmo-118-97-104-xiii-mem
+
+@gloria
+
+@antifona
+A plenitude da lei é o amor.
+
+@antifona 2
+Recordai-vos deste povo que outrora adquiristes!
+
+@salmo salmos/salmo-073-i
+
+@gloria
+
+@antifona
+Recordai-vos deste povo que outrora adquiristes!
+
+@antifona 3
+Levantai-vos, Senhor Deus,
+e defendei a vossa causa!
+
+@salmo salmos/salmo-073-ii
+
+@gloria
+
+@antifona
+Levantai-vos, Senhor Deus, e defendei a vossa causa!
+
+@secao Leitura breve | Dt 15,7-8
+
+@texto
+Se um dos teus irmãos, que mora em alguma de tuas cidades, na terra que o Senhor teu Deus te vai dar, cair na pobreza, não lhe endureças o teu coração nem lhe feches a mão. Ao contrário, abre a mão para o teu irmão pobre e empresta-lhe o bastante para a necessidade que o oprime.
+
+@texto
+V. Escutastes os desejos dos pequenos.
+R. Seu coração fortalecestes e os ouvistes.
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes a Pedro vosso plano de salvação para todos os povos, fazei que nossos trabalhos vos agradem e, pela vossa graça, sirvam ao vosso desígnio de amor e redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

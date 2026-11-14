@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quinta_laudes.htm
+@documento Laudes - Quinta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Já surge a luz dourada,
+a treva dissipando,
+que as almas do abismo
+aos poucos vai levando.
+
+Dissipa-se a cegueira
+que a todos envolvia;
+alegres caminhemos
+na luz de um novo dia.
+
+Que a luz nos traga paz,
+pureza ao coração:
+longe a palavra falsa,
+o pensamento vão.
+
+Decorra calmo o dia:
+a mão, a língua, o olhar.
+Não deixe nosso corpo
+na culpa se manchar.
+
+Do alto, nossos atos
+Deus vê, constantemente;
+solícito nos segue
+da aurora ao sol poente.
+
+A glória seja ao Pai,
+ao Filho seu também;
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Dizem coisas gloriosas da Cidade do Senhor.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas da Cidade do Senhor.
+
+@antifona 2
+O Senhor, o nosso Deus, vem com poder,
+e o preço da vitória vem com ele.
+
+@salmo canticos/i-is-40-10-17
+
+@texto
+{(R.} Bendito seja Aquele que há de vir!)
+
+@salmo canticos/is-40-10-17
+
+@gloria
+
+@antifona
+O Senhor, o nosso Deus, vem com poder,
+e o preço da vitória vem com ele.
+
+@antifona 3
+Aclamai o Senhor nosso Deus,
+e adorai-o com todo o respeito!
+
+@salmo salmos/salmo-098
+
+@gloria
+
+@antifona
+Aclamai o Senhor nosso Deus,
+e adorai-o com todo o respeito!
+
+@secao Leitura breve | 1Pd 4,10-11
+
+@texto
+Como bons administradores da multiforme graça de Deus, cada um coloque à disposição dos outros o dom que recebeu. Se alguém tem o dom de falar, proceda como com palavras de Deus. Se alguém tem o dom do serviço, exerça-o como capacidade proporcionada por Deus, a fim de que, em todas as coisas, Deus seja glorificado, em virtude de Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Clamo de todo o coração:
+* Atendei-me, ó Senhor! R. Clamo.
+V. Quero cumprir vossa vontade. * Atendei-me.
+Glória ao Pai. R. Clamo de todo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sirvamos ao Senhor na justiça e santidade,
+e de nossos inimigos haverá de nos salvar.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sirvamos ao Senhor na justiça e santidade,
+e de nossos inimigos haverá de nos salvar.
+
+@secao Preces
+
+@preces
+Demos graças a Deus Pai, que no seu amor conduz e alimenta o seu povo; e digamos com alegria:
+
+R. **Glória a vós, Senhor, para sempre!**
+
+Pai clementíssimo, nós vos louvamos por vosso amor para conosco,
+– porque nos criastes de modo admirável, e de modo ainda mais admirável nos renovastes. R.
+
+No começo deste dia, infundi em nossos corações o desejo de vos servir,
+– para que sempre vos glorifiquemos em todos os nossos pensamentos e ações. R.
+
+Purificai os nossos corações de todo mau desejo,
+– e fazei que estejamos sempre atentos à vossa vontade. R.
+
+Dai-nos um coração aberto às dificuldades de nossos irmãos e irmãs,
+– para que jamais lhes falte o nosso amor fraterno. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, sobre os povos que vivem na sombra da morte fazei brilhar o Sol da justiça, que nos visitou nascendo das alturas, Jesus Cristo nosso Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

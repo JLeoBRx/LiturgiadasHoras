@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quarta_sexta.htm
+@documento Hora Média (Sexta) - I Quarta-Feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+E paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo amor.
+
+@secao Salmodia
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@salmo salmos/salmo-118-9-16-ii-beth-v2
+
+@salmo salmos/salmo-016-i
+
+@gloria
+
+@salmo salmos/salmo-016-ii
+
+@gloria
+
+@antifona
+Disse o anjo à Virgem:
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo;
+és bendita entre todas as mulheres da terra.
+
+@secao Leitura breve | Is 12,2
+
+@texto
+É Deus que me salva; posso viver confiante e sem medo, porque o Senhor é a razão da minha força e do meu canto, ele se fez meu Salvador.
+
+@texto
+V. Lembrai-vos, ó Senhor, de mim, lembrai-vos,
+pelo amor que demonstrais ao vosso povo!
+R. Visitai-me com a vossa salvação!
+
+@secao Oração
+
+@oracao
+Senhor Deus, preparai os nossos corações com a força da vossa graça, para que, ao chegar o Cristo, vosso Filho, nos encontre dignos do banquete da vida eterna e ele mesmo nos sirva o alimento celeste. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSDores_laudes.htm
+@documento Laudes - Bem-aventurada Virgem Maria das Dores
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Faze, ó Mãe, fonte de amor,
+que eu sinta em mim tua dor,
+para contigo chorar.
+
+Faze arder meu coração,
+partilhar tua paixão
+e teu Jesus consolar.
+
+Ó santa Mãe, por favor,
+faze que as chagas do amor
+em mim se venham gravar.
+
+O que Jesus padeceu
+venha a sofrer também eu,
+causa de tanto penar.
+
+Ó dá-me, enquanto viver,
+com Jesus Cristo sofrer,
+contigo sempre chorar!
+
+Quero ficar junto à cruz,
+velar contigo a Jesus,
+e o teu pranto enxugar.
+
+Quando eu da terra partir,
+para o céu possa subir,
+e então contigo reinar.
+
+@secao Salmodia
+
+@antifona 1
+Minha alma se agarra em vós, ó Senhor!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Minha alma se agarra em vós, ó Senhor!
+
+@antifona 2
+Alegrai-vos na medida em que sois participantes
+da Paixão de Jesus Cristo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Alegrai-vos na medida em que sois participantes
+da Paixão de Jesus Cristo.
+
+@antifona 3
+Aprouve ao Pai reconciliar consigo mesmo
+todas as coisas pelo sangue de Jesus.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Aprouve ao Pai reconciliar consigo mesmo
+todas as coisas pelo sangue de Jesus.
+
+@secao Leitura breve | Cl 1,24-25
+
+@texto
+Alegro-me, agora, de tudo o que já sofri por vós e procuro completar na minha própria carne o que falta das tribulações de Cristo, em solidariedade com o seu corpo, isto é, a Igreja. A ela eu sirvo, exercendo o cargo que Deus me confiou de vos transmitir a palavra de Deus em sua plenitude.
+
+@secao Responsório breve
+
+@responsorio
+R. Por vós, Virgem Maria,
+* Consigamos a salvação. R. Por vós.
+V. Pelas chagas de Jesus. * Consigamos.
+Glória ao Pai. R. Por vós.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Mãe das Dores, alegrai-vos, que depois de tantas lutas
+estais na glória junto ao Filho e sois Rainha do universo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Mãe das Dores, alegrai-vos, que depois de tantas lutas
+estais na glória junto ao Filho e sois Rainha do universo.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Salvador do mundo, que tivestes vossa Mãe junto à cruz,
+– concedei-nos, por sua intercessão, a graça de participar generosamente nos vossos sofrimentos. R.
+
+Jesus de bondade, que, pregado na cruz, destes Maria por Mãe a João,
+– fazei que vivamos também como seus filhos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quando o vosso Filho foi exaltado, quisestes que sua Mãe estivesse de pé junto à cruz, sofrendo com ele. Dai à vossa Igreja, unida a Maria na paixão de Cristo, participar da ressurreição do Senhor. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

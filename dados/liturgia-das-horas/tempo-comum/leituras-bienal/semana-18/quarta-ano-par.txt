@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/18quartaTC_par.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Joel {3,1-4,8}
+
+@tema
+Juízo Final
+
+@texto
+[3,1] ”Depois disto, derramarei o meu espírito sobre toda carne. Vossos filhos e vossas filhas profetizarão, vossos anciãos terão sonhos, vossos jovens terão visões. [2] Até sobre os escravos e sobre as escravas, naqueles dias, derramarei o meu espírito. [3] Porei sinais nos céus e na terra, sangue, fogo e colunas de fumaça”. [4] O sol se transformará em trevas, a lua em sangue, antes que chegue o dia do Senhor, grande e terrível! [5] Então, todo aquele que invocar o nome do Senhor, será salvo. Porque no monte Sião e em Jerusalém haverá ilesos - como o Senhor falou - entre os sobreviventes que o Senhor chama. [4,1] “Pois, eis que, naqueles dias e naquele tempo, quando eu mudar o destino de Judá e de Jerusalém, [2] reunirei todas as nações, e as farei descer ao vale de Josafá, ali entrarei em processo contra elas, por causa de Israel, meu povo e minha herança, porque o dispersaram entre as nações e repartiram a minha terra. [3] Lançaram sorte sobre o meu povo, trocaram jovens por prostitutas, venderam donzelas por vinho e beberam”. [4] “Mas vós, Tiro, Sidônia e todos os distritos da Filisteia, que sois para mim? Quereis vingar-vos de mim? Mas, se tirardes vingança contra mim, logo farei recair a vingança sobre vossas cabeças” [5] Vós que tomastes minha prata e meu ouro, vós que carregastes para os vossos templos os melhores tesouros, [6] vós que vendestes aos filhos de Javã os filhos de Judá e de Jerusalém, para afastá-los de seu território! [7] Eis que eu os arranco do lugar onde vós os vendestes, e farei recair vossos atos sobre vossas cabeças! [8] Venderei vossos filhos e vossas filhas pelas mãos dos filhos de Judá, e eles os venderão aos sabeus, a uma nação longínqua, porque o Senhor falou!”
+
+@secao Responsório | Jl 3,2-3.5
+
+@responsorio
+R. Até sobre os escravos e sobre as escravas,
+naqueles dias, derramarei o meu espírito;
+farei prodígios no céu e sobre a terra.
+* Aquele que invocar o nome do Senhor, será salvo.
+V. Sobre o monte Sião
+e em Jerusalém virá a salvação.
+* Aquele que.
+
+@secao Segunda leitura
+
+@leitura
+Do “Discurso sobre o Batismo”, de São Gregório de Nissa, bispo
+
+@tema
+Vinde, benditos de meu Pai, recebei por herança o Reino preparado para vós desde a fundação do mundo.
+
+@texto
+Aquele que recebeu o banho da regeneração é como um recruta recém-alistado no exército que ainda não realizou atos valorosos ou heroicos, dignos de um verdadeiro soldado. Assim como alguém não se considera um homem forte simplesmente por ter-se revestido de um cinto e de um manto, nem se apresenta confidencialmente ao rei ou a ele se dirige com familiaridade, nem lhe pede favores que costumam ser concedidos àqueles que se esforçaram e demonstraram valor, tu também, após ter recebido a graça, não crês que podes viver com os justos e receber sua herança, se, antes, não enfrentares muitos perigos pela fé, se não declarares guerra à carne e se não resistires ao demônio e a todas as seduções dos espíritos maus.
+Se não, consideremos as próprias palavras do Senhor, que serão proferidas no juízo comum e que ensinam exatamente aquilo que propõem: _Vinde, benditos de meu Pai,_ _recebei por herança o Reino preparado para vós desde a_ _fundação do mundo_ (Mt 25,34).
+Por qual motivo? Não porque fostes revestidos de incorruptibilidade nem porque lavastes vossos pecados, mas porque agistes retamente na caridade. E logo segue o elenco daqueles que foram alimentados, saciados, revestidos. Com razão, o juiz que não pode ser enganado julga desse modo.
+A graça, com efeito, é um dom de Deus. Ora, em razão do comportamento da própria vida, recebe-se a justa honra; mas, perante a graça recebida, ninguém pede recompensa, pelo contrário, acha-se devedor. Portanto, iluminados pelo batismo, devemos gratidão a quem nos beneficiou. E a nossa gratidão para com Deus se demonstra por meio da bondade para com nossos irmãos e por meio do cuidado que devemos ter a respeito da nossa salvação e virtude.
+Abandonai, pois, a vossa opinião insensata, vós que apelais para o batismo nos últimos instantes de vida. Sabei que a fé requer como irmã a esperança, que nasce de uma vida vivida na caridade. Por seu intermédio, tornamo-nos dignos por vontade e obra de Deus: a ele a adoração agora e sempre, pelos séculos dos séculos. Amém.
+
+@secao Responsório | Mt 16,27; 2Ts 1,10
+
+@responsorio
+R. O Filho do Homem há de vir na glória do seu Pai,
+com os seus anjos,
+* E retribuirá a cada um
+de acordo com o seu comportamento.
+V. Ele virá para ser glorificado na pessoa dos seus santos
+e para ser admirado na pessoa de todos os que creram;
+* E retribuirá.
+
+@secao Oração
+
+@oracao
+Manifestai, ó Deus, vossa inesgotável bondade para com os filhos e filhas que vos imploram e se gloriam de vos ter como criador e guia, restaurando para eles a vossa criação, e conservando-a renovada. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

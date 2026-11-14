@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saovicentedepaulo.htm
+@documento Ofício das Leituras - São Vicente De Paulo, Presbítero Memória
+
+@celebracao
+SÃO VICENTE DE PAULO, PRESBÍTERO
+{Memória}
+
+@biografia
+Nasceu na Aquitânia em 1581. Completados os estudos e ordenado sacerdote, exerceu o ministério paroquial em Paris. Fundou a Congregação da Missão (Lazaristas), destinada à formação do clero e ao serviço dos pobres. Com a ajuda de Santa Luísa de Marillac instituiu também a Congregação das Filhas da Caridade. Morreu em Paris no ano 1660.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+
+comemorando a festa deste Santo,
+
+a multidão fiel e jubilosa,
+
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+
+associado ao vosso dom perfeito,
+
+bom despenseiro, foi por vós chamado
+
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+
+ao pobre alívio e para os cegos luz,
+
+pai carinhoso, tudo para todos,
+
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+
+com vossa glória os coroando assim,
+
+dai-nos seguir os passos deste mestre
+
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo a Timóteo {5,17-22; 6,10-14}
+
+@tema
+O bom combate do presbítero e do homem de Deus
+
+@texto
+Caríssimo: [5,17] Os presbíteros que governam bem, sejam considerados dignos de honra redobrada, principalmente os que trabalham na pregação e no ensino. [18] Pois a Escritura diz: "Não coloques mordaça no boi que mói o trigo". E: "O trabalhador é digno do seu salário". [19] Não recebas acusação contra um presbítero, senão com duas ou três testemunhas. [20] Repreende diante de todos aqueles que pecarem, para inspirar temor também aos outros. [21] Eu te suplico, diante de Deus, de Jesus Cristo e dos seus Anjos eleitos, que observes estas normas, sem prevenção, nada fazendo por parcialidade. [22] A ninguém imponhas as mãos levianamente; nem te faças participante dos pecados alheios. Conserva-te puro. [6,10] A raiz de todos os males é a cobiça do dinheiro. Por se terem deixado levar por ela, muitos se extraviaram da fé e se atormentam a si mesmos com muitos sofrimentos. [11] Tu que és um homem de Deus, foge das coisas perversas, procura a justiça, a piedade, a fé, o amor, a firmeza, a mansidão. [12] Combate o bom combate da fé, conquista a vida eterna, para a qual foste chamado e pela qual fizeste tua nobre profissão de fé diante de muitas testemunhas. [13] Diante de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que deu o bom testemunho da verdade perante Pôncio Pilatos, eu te ordeno: [14] guarda o teu mandato íntegro e sem mancha até à manifestação gloriosa de nosso Senhor Jesus Cristo.
+
+@secao Responsório ICor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel. Aleluia.
+V. Muitos se dizem "homens de bem"; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos de São Vicente de Paulo, presbítero
+{(Séc. XVII)} {(Cf. Correspondance, Entretiens, Documents, ed. P. Coste, Paris 1920-1925, passim)}
+
+@tema
+Deve-se preferir o serviço dos pobres acima de tudo
+
+@texto
+Não temos de avaliar os pobres por suas roupas e aspecto, nem pelos dotes de espírito que pareçam ter. Com frequência são ignorantes e curtos de inteligência. Mas muito pelo contrário, se considerardes os pobres à luz da fé, então percebereis que estão no lugar do Filho de Deus que escolheu ser pobre. De fato, em seu sofrimento, embora quase perdesse a aparência humana - loucura para os gentios, escândalo para os judeus - apresentou-se, no entanto, como o evangelizador dos pobres: _Enviou-me para evangelizar os pobres_ (Lc 4,18). Devemos ter os mesmos sentimentos de Cristo e imitar aquilo que ele fez: ter cuidado pelos indigentes, consolá-los, auxiliá-los, dar-lhes valor. Com efeito, Cristo quis nascer pobre, escolheu pobres para seus discípulos, fez-se servo dos pobres e de tal forma quis participar da condição deles, que declarou ser feito ou dito a ele mesmo tudo quanto de bom ou de mau se fizesse ou dissesse aos pobres. Deus ama os pobres, também ama aqueles que os amam. Quando alguém tem um amigo, inclui na mesma estima aqueles que demonstram amizade ou prestam obséquio ao amigo. Por isto esperamos que, graças aos pobres, sejamos amados por Deus. Visitando-os, pois, esforcemo-nos por entender os pobres e os indigentes e, compadecendo-nos deles, cheguemos ao ponto de poder dizer com o Apóstolo: _Fiz-me tudo para todos_ (1Cor 9,22). Por este motivo, se é nossa intenção termos o coração sensível às necessidades e misérias do próximo, supliquemos a Deus que derrame em nós o sentimento de misericórdia e de compaixão, cumulando com ele nossos corações e guardando-os repletos. Deve-se preferir o serviço dos pobres a tudo o mais e prestá-lo sem demora. Se na hora da oração for necessário dar remédios ou auxílio a algum pobre, ide tranquilos, oferecendo a Deus esta ação como se estivésseis em oração. Não vos perturbeis com angústia ou medo de estar pecando por causa de abandono da oração em favor do serviço dos pobres. Deus não é desprezado, se por causa de Deus dele nos afastarmos, quer dizer, interrompermos a obra de Deus, para realizá-la de outro modo. Portanto, ao abandonardes a oração, a fim de socorrer a algum pobre, isto mesmo vos lembrará que o serviço é prestado a Deus. Pois a caridade é maior do que quaisquer regras, que, além do mais, devem todas tender a ela. E como a caridade é uma grande dama, faz-se necessário cumprir o que ordena. Por conseguinte, prestemos com renovado ardor nosso serviço aos pobres; de modo particular aos abandonados, indo mesmo à sua procura, pois nos foram dados como senhores e protetores.
+
+@secao Responsório | 1Cor 9,19a.22; Jó 29,15-16a
+
+@responsorio
+R. Embora eu fosse livre,
+de todos fiz-me servo, fiz-me fraco com os fracos,
+* Fiz-me tudo para todos, para todos serem salvos.
+V. Fiz-me olhos para os cegos, para os coxos, fiz-me pés,
+para os pobres, fiz-me pai. * Fiz-me tudo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que, para socorro dos pobres e formação do clero, enriquecestes o presbítero São Vicente de Paulo com as virtudes apostólicas, fazei-nos, animados pelo mesmo espírito, amar o que ele amou e praticar o que ensinou. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

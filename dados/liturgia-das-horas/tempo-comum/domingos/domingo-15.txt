@@ -1,0 +1,52 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 15º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Jesus ensinava ao povo em parábolas:
+Saiu o semeador a semear sua semente.
+
+@antifona vesperas-i-B
+Jesus chamou os Doze, e deu-lhes poder
+sobre os espíritos imundos.
+
+@antifona vesperas-i-C
+Amarás o Senhor, o teu Deus,
+de todo o teu coração,
+e o teu próximo como a ti mesmo.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Jesus disse aos discípulos: Foi a vós concedido
+conhecer os mistérios do Reino dos céus;
+aos outros, porém, não é concedido,
+senão em parábolas.
+
+@antifona laudes-B
+Saindo os discípulos,
+pregavam ao povo que se convertesse.
+
+@antifona laudes-C
+O Bom Samaritano, passando de viagem,
+aproximou-se do ferido,
+e, ao vê-lo, teve pena e curou suas feridas.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+A semente é a palavra de Deus;
+quem semeia, porém, é o Cristo;
+todo aquele que ouvir o Senhor,
+viverá para sempre, aleluia.
+
+@antifona vesperas-ii-B
+Os discípulos, partindo, expulsavam os demônios
+e curavam os doentes, ungindo-os com óleo.
+
+@antifona vesperas-ii-C
+Qual destes foi o próximo daquele que caiu
+nas mãos dos assaltantes? E ele respondeu:
+Foi aquele que o tratou com amor e compaixão.
+Então Jesus lhe disse: Vai tu e faze o mesmo.

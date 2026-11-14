@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d’aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@salmo salmos/salmo-114
+
+@gloria
+
+@antifona
+Libertai minha vida da morte,
+e meus pés do tropeço, Senhor!
+
+@antifona 2
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+Do Senhor é que me vem o meu socorro,
+do Senhor que fez o céu e fez a terra.
+
+@antifona 3
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Vossos caminhos são verdade, são justiça,
+ó Rei dos povos todos do universo!
+
+@secao Leitura breve | Rm 8,3b-4
+
+@texto
+Tendo Deus enviado seu próprio Filho numa condição semelhante àquela da humanidade pecadora, e por causa justamente do pecado, condenou o pecado em nossa condição humana, para que toda a justiça exigida pela Lei seja cumprida em nós que não procedemos segundo a carne, mas segundo o Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Os Magos, avisados em sonho pelo anjo,
+voltaram ao seu país por um caminho diferente.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Os Magos, avisados em sonho pelo anjo,
+voltaram ao seu país por um caminho diferente.
+
+@secao Preces
+
+@preces
+Rezemos a Deus Pai, que enviou seu Filho ao mundo para ser a luz das nações; e digamos:
+
+R. **Pai nosso, ouvi-nos!**
+
+Dilatai a santa Igreja por toda a terra,
+– para que se revele à humanidade a glória do vosso Filho. R.
+
+Pai eterno, que conduzistes os sábios do Oriente à presença de vosso Filho na gruta de Belém,
+– revelai-o a todos aqueles que procuram a verdade de coração sincero. R.
+
+Atraí todos os povos para a vossa luz admirável,
+– a fim de que ao nome de Jesus se dobre todo joelho. R.
+
+Enviai operários para a vossa messe,
+– a fim de que os pobres sejam evangelizados e se anuncie a toda a humanidade o tempo da salvação. R.
+
+{(intenções livres)}
+
+Concedei a todos os defuntos a plenitude da redenção,
+– para que eles se alegrem na vitória de Cristo sobre a morte. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, todo-poderoso, que o natal do Salvador do mundo, manifestado pela luz da estrela, sempre refulja e cresça em nossas vidas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

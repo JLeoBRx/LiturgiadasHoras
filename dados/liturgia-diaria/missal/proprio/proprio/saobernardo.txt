@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saobernardo.htm
+
+@texto
+{Antífona da e}
+O Senhor enriqueceu São Bernardo com o espírito de sabedoria
+e ele abriu para o povo de Deus os mananciais de sua doutrina.
+
+@secao Coleta
+@texto
+Ó Deus, fizestes do abade São Bernardo,
+inflamado de zelo por vossa casa,
+uma luz que brilha e arde na Igreja;
+concedei-nos, por sua intercessão,
+que, fervorosos no mesmo espírito,
+caminhemos sempre como filhos e filhas da luz.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+nós vos oferecemos o sacramento da unidade e da paz,
+celebrando a memória do abade São Bernardo,
+ilustre em palavras e obras,
+que se empenhou incansavelmente
+pela concórdia da vossa Igreja.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 15,9
+@texto
+Como meu Pai me amou,
+assim também eu vos amei.
+Permanecei no meu amor, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, o alimento que recebemos
+na comemoração de São Bernardo
+produza em nós os seus frutos
+para que, fortalecidos por seus exemplos
+e instruídos por seus ensinamentos,
+sejamos arrebatados pelo amor
+do vosso Verbo encarnado.
+Que vive e reina pelos séculos dos séculos.

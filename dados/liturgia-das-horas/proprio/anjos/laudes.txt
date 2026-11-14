@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anjos_laudes.htm
+@documento Laudes - Santos Anjos da Guarda
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Deus, criando o mundo,
+poder manifestais;
+porém, ao governá-lo,
+o vosso amor mostrais.
+
+Aos que hoje vos suplicam
+estai sempre presente:
+que a luz da nova aurora
+renove a nossa mente.
+
+O mesmo anjo que um dia
+por guarda nos foi dado
+consiga a vida toda
+livrar-nos do pecado.
+
+Em nós ele extermine
+as forças do inimigo;
+que a fraude em nosso peito
+jamais encontre abrigo.
+
+Mandai para bem longe
+a peste, a fome, a guerra:
+haja entre nós justiça,
+a paz brote da terra.
+
+Salvai por vosso Filho
+a nós, no amor ungidos,
+sejamos pelos anjos
+Deus trino, protegidos!
+
+@secao Salmodia
+
+@antifona 1
+O Senhor enviará o seu anjo junto a ti,
+para guiar o teu caminho.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor enviará o seu anjo junto a ti,
+para guiar o teu caminho.
+
+@antifona 2
+Bendito seja Deus, que seu anjo enviou
+e libertou seus servidores, que nele confiaram.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Bendito seja Deus, que seu anjo enviou
+e libertou seus servidores, que nele confiaram.
+
+@antifona 3
+Louvai-o, anjos seus, todos louvai-o,
+louvai-o, legiões celestiais!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Louvai-o, anjos seus, todos louvai-o,
+louvai-o, legiões celestiais!
+
+@secao Leitura breve | Ex 23,20-21a
+
+@texto
+Vou enviar um anjo que vá à tua frente, que te guarde pelo caminho e te conduza ao lugar que te preparei. Respeita-o e ouve a sua voz.
+
+@secao Responsório breve
+
+@responsorio
+R. Perante vossos anjos
+* Vou louvar-vos, ó Senhor! R. Perante.
+V. E cantar o vosso nome. * Vou louvar-vos.
+Glória ao Pai. R. Perante.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Todos eles são espíritos servidores,
+enviados ao serviço e proteção
+daqueles que herdarão a salvação.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Todos eles são espíritos servidores,
+enviados ao serviço e proteção
+daqueles que herdarão a salvação.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, louvemos o Senhor em cuja presença estão multidões de anjos que o servem dia e noite, cantando a uma só voz; aclamemos com alegria, dizendo:
+
+R. **Bendizei ao Senhor, todos os seus anjos!**
+
+Deus santo, que mandastes vossos anjos para nos protegerem em todos os caminhos,
+– conduzi-nos hoje pelos vossos caminhos sem mancha de pecado. R.
+
+Pai de bondade, cuja face os anjos contemplam dia e noite no céu,
+– fazei que procuremos sem cessar a vossa face. R.
+
+Deus eterno, cujos filhos serão como anjos no céu,
+– dai-nos a pureza de coração e de corpo. R.
+
+Deus todo-poderoso, enviai o grande príncipe Miguel para ajudar o vosso povo,
+– a fim de defendê-lo na luta contra Satanás e seus anjos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misteriosa providência mandais os vossos Anjos para guardar-nos, concedei que nos defendam de todos os perigos e gozemos eternamente do seu convívio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

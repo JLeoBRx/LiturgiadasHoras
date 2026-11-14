@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomarcos_laudes.htm
+@documento Laudes - São Marcos Evangelista
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Cantamos hoje alegremente,
+ó São João Marcos, teu louvor,
+pois tu trouxeste a toda gente
+a Boa-nova do Senhor.
+
+Por mestre a Pedro tu tiveste,
+suas palavras recolhias,
+e, se a Jesus não conheceste,
+era a Jesus que nele ouvias.
+
+Breve o Evangelho que escreveste,
+tão dilatado em seu amor:
+em poucas páginas puseste
+as maravilhas do Senhor.
+
+Deixa-te Paulo, e a Paulo segues,
+vais imitando a sua lida;
+perfeita é a cópia que consegues,
+dando por Cristo a própria vida.
+
+Filho de Deus O proclamemos,
+por ti e Pedro alimentados,
+e face a face O contemplemos,
+ao céu um dia transportados.
+
+@secao Salmodia
+
+@antifona 1
+O santo Evangelista investigou
+o saber dos grandes homens do passado,
+e confirmou o que os profetas predisseram. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O santo Evangelista investigou
+o saber dos grandes homens do passado,
+e confirmou o que os profetas predisseram. Aleluia.
+
+@antifona 2
+Deus chamou-nos à fé na Verdade
+pelo anúncio do santo Evangelho,
+para obtermos a glória de Cristo. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Deus chamou-nos à fé na Verdade
+pelo anúncio do santo Evangelho,
+para obtermos a glória de Cristo. Aleluia.
+
+@antifona 3
+Muitos louvaram seu saber, que jamais perecerá. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Muitos louvaram seu saber, que jamais perecerá. Aleluia.
+
+@secao Leitura breve | 1Cor 15,1-2a.3-4
+
+@texto
+Irmãos, quero lembrar-vos o evangelho que vos preguei e que recebestes, e no qual estais firmes. Por ele sois salvos. Com efeito, eu vos transmiti em primeiro lugar aquilo que eu mesmo tinha recebido, a saber: que Cristo morreu por nossos pecados, segundo as Escrituras; que foi sepultado; que, ao terceiro dia, ressuscitou, segundo as Escrituras.
+
+@secao Responsório breve
+
+@responsorio
+R. Eles contaram as grandezas do Senhor e seu poder.
+* Aleluia, aleluia. R. Eles contaram.
+V. E as suas maravilhas que por nós realizou. * Aleluia, aleluia.
+Glória ao Pai. R. Eles contaram.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Pela graça de Jesus nosso Senhor,
+aos povos e nações são enviados
+evangelistas e doutores do Evangelho,
+para ajudarem a crescer a nossa fé. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Pela graça de Jesus nosso Senhor,
+aos povos e nações são enviados
+evangelistas e doutores do Evangelho,
+para ajudarem a crescer a nossa fé. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos nosso Salvador que, destruindo a morte, iluminou a vida por meio do Evangelho; e, humildes, peçamos:
+
+R. **Confirmai a vossa Igreja na fé e na caridade!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes doutores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que concedestes a São Marcos, vosso evangelista, a glória de proclamar a Boa-nova, dai-nos assimilar de tal modo seus ensinamentos, que sigamos fielmente os caminhos do Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

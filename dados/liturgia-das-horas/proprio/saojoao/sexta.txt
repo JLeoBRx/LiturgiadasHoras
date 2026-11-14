@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_sexta.htm
+@documento Hora Média - Natividade de São João Batista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quando ouvi ressoar tua voz ao saudar-me,
+o menino saltou de alegria em meu seio. Aleluia.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Quando ouvi ressoar tua voz ao saudar-me,
+o menino saltou de alegria em meu seio. Aleluia.
+
+@secao Leitura breve | Cf. Is 49,5a.6b
+
+@texto
+Diz-me o Senhor, ele que me preparou desde o nascimento para ser seu Servo: eu te farei luz das nações, para que minha salvação chegue até aos confins da terra.
+
+@texto
+V. O Senhor me chamou desde o meu nascimento.
+R. Desde o seio materno se lembrou do meu nome.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Batista, a fim de preparar para o Senhor um povo perfeito, concedei à vossa Igreja as alegrias espirituais e dirigi nossos passos no caminho da salvação e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,228 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/batismo_par.htm
+@documento Ofício das Leituras - Batismo Do Senhor Festa ________________________
+
+@celebracao
+BATISMO DO SENHOR {Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+João cumpre a sua missão
+ao batizar o Senhor,
+que no Jordão mergulhando
+na água as águas lavou.
+
+Não quer lavar-se a si mesmo
+o Filho da Virgem pura,
+mas quer nas águas lavar
+a culpa da criatura.
+
+É este o meu Filho amado,
+do Pai a voz proclamou.
+E sob a forma de pomba
+nele o Espírito pousou.
+
+A salvação da Igreja
+neste mistério reluz.
+Em três pessoas um Deus
+no tempo e na eterna luz.
+
+Ó Cristo, vida e verdade,
+a vós a glória, o louvor;
+o Pai e o Espírito, revelam
+vosso divino esplendor.
+
+@secao Salmodia
+
+@antifona 1
+Eis a voz do Senhor sobre as águas
+sua voz reboou majestosa.
+
+@salmo salmos/salmo-028-v2
+
+@gloria
+
+@antifona
+Eis a
+
+@antifona 2
+Toda a terra, na alegria, vos adore,
+pois viestes, nova Luz da história humana.
+
+@salmo salmos/salmo-065-i
+
+@gloria
+
+@antifona
+Toda a terra, na alegria,
+
+@antifona 3
+Bendito seja Deus que salvou a nossa vida,
+e com água refrescante refez as nossas forças!
+
+@salmo salmos/salmo-065-ii-v2
+
+@gloria
+
+@antifona
+Bendito seja Deus que sal
+
+@texto
+V. Eis o meu Filho muito amado:
+R. Escutai o que ele diz.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {42,1-9; 49,1-9}
+
+@tema
+O humilde servo do Senhor, luz das nações 42,
+
+@texto
+[1] Eis o meu servo que eu sustento, o meu eleito, em quem tenho prazer. Pus sobre ele o meu espírito, ele trará o direito às nações. [2] Ele não clamará, não levantará a voz, não fará ouvir a voz nas ruas; [3] não quebrará a cana rachada, não apagará a mecha bruxuleante, com fidelidade trará o direito. [4] Não vacilará nem desacorçoará até que estabeleça o direito na terra; e as ilhas aguardem seu ensinamento. [5] Assim diz Deus, que criou os céus e os estendeu, que firmou a terra e o que ela produz que deu o alento aos que a povoam e o sopro da vida aos que se movem sobre ela. [6] “Eu, o Senhor, te chamei para o serviço da justiça, tomei-te pela mão e te modelei, eu te constituí como aliança do povo, como luz das nações, [7] a fim de abrires os olhos dos cegos, a fim de soltares do cárcere os presos, e da prisão os que habitam nas trevas.” [8] Eu sou o Senhor; este é o meu nome! Não cederei a outrem a minha glória, nem a minha honra aos ídolos. [9] As primeiras coisas já se realizaram, agora vos anuncio outras, novas; antes que elas surjam, eu vo-las anuncio. [49,1] Ilhas, ouvi-me! Povos distantes, prestai atenção! Desde o seio materno o Senhor me chamou, desde o ventre de minha mãe pronunciou o meu nome. [2] De minha boca fez uma espada cortante, abrigou-me à sombra da sua mão; fez de mim seta afiada, escondeu-me na sua aljava. [3] Disse-me: “Tu és meu servo, Israel, em quem me glorificarei.” [4] Mas eu disse: “Foi em vão que me fatiguei, debalde, inutilmente, gastei as minhas forças.” E no entanto meu direito está com o Senhor, meu salário está com o meu Deus. [5] Mas agora disse o Senhor, aquele que me modelou desde o ventre materno para ser seu servo, para reconduzir Jacó a ele, para que a ele se reúna Israel; assim serei glorificado aos olhos do Senhor, meu Deus será a minha força! [6] Sim, ele disse: “Pouca coisa é que sejas o meu servo para restaurar as tribos de Jacó e reconduzir os sobreviventes de Israel. Também te estabeleci como luz das nações, a fim de que a minha salvação chegue até as extremidades da terra.” [7] Assim diz o Senhor, o redentor, o Santo de Israel àquele cuja alma é desprezada, vilipendiada pela nação, ao servo dos tiranos: reis o verão e se erguerão, príncipes o verão e se prostrarão, por causa do Senhor, que é fiel, do Santo de Israel, que te escolheu. [8] Assim diz o Senhor: No tempo do meu favor te respondi, no dia da salvação te socorri. Modelei-te e te pus por aliança do povo a fim de restaurar a terra a fim de redistribuir as propriedades devastadas, [9] a fim de dizer aos cativos: “Saí”, aos que estão nas trevas: “Aparecei”. Eles apascentarão junto aos caminhos, sobre todos os montes escalvados encontrarão pastagem.
+
+@secao Responsório | Cf. Mt 3,16.17; Lc 3,22
+
+@responsorio
+R. Neste dia, o Senhor é batizado no Jordão;
+os céus se abrem sobre ele,
+desce o Espírito Divino e ressoa a voz do Pai:
+* Eis meu Filho muito amado,
+nele está meu bem-querer.
+V. O Espírito Santo desceu sobre Ele,
+de modo visível, na forma de pomba
+e ouviu-se do céu uma voz que dizia: * Eis meu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de Santo Ambrósio, bispo
+{(Séc. IV)} {(Sl 35,4-5: CSEL 64,52-53)}
+
+@tema
+Do seio da Virgem saiu o que é Servo e Senhor
+
+@texto
+Da pobreza e do sofrimento do Senhor creio ter apresentado idôneos testemunhos de dois santos, dos quais um viu e falou, outro foi escolhido para falar. Apreciemos esses testemunhos fiéis sobre a condição servil do Senhor, ou melhor, aquilo que ele próprio falou de si mesmo por meio de ambos. Ouçamos, pois, o que diz: _Assim disse o Senhor,_ _aquele que me modelou desde o ventre materno para ser_ _seu servo, para reconduzir Jacó a ele, para que a ele se_ _reúna Israel_ (Is 49,5). Percebemos, portanto, que foi para reunir o povo que assumiu a forma de servo.
+_Desde o ventre de minha mãe_, diz ele, _o Senhor_ _pronunciou o meu nome_ (Is 49,1). Escutemos o seu nome, aquele com que o Pai o chamou: _Eis que a virgem conceberá_ _e dará à luz um filho e o chamarão com o nome de Emanuel,_ _o que traduzido significa_: “_Deus está conosco_” (Mt 1,23). Que outro nome é o de Cristo, senão “Filho de Deus”? Observa ainda o que Gabriel havia dito a José sobre Maria: _Ela dará à luz um filho e tu o chamarás com o nome de_ _Jesus_ (Mt 1,21). Ouve a voz de Deus: _E tu, Belém de Judá,_ _de modo algum és o menor entre os clãs de Judá, pois de_ _ti sairá um chefe que apascentará o meu povo_ (Mt 2,6; cf. Mq 5,1).
+Presta atenção ao mistério: do ventre da Virgem saiu o que é servo e Senhor; servo para obrar, Senhor para imperar, a fim de implantar o reino de Deus nos corações dos homens. Ambos são um só: não nasce um do Pai e outro da Virgem, mas o mesmo que antes dos séculos foi gerado pelo Pai recebeu depois a carne da Virgem. Por isso ele é chamado servo e Senhor. Servo por nossa causa, mas, na unidade da substância divina, Deus de Deus, príncipe de príncipe, igual de igual; pois não geraria um degenerado quem disse nele se comprazer.
+_Grande coisa é para ti ser chamado meu servo -_ diz _-, para restaurares as tribos de Jacó_ (cf. Is 49,6). Em todas as circunstâncias ele conserva a dignidade de seus títulos: grande Deus e grande servo, não perdendo, ao encarnar-se, a grandeza de seu nome, que não tem fim. O mesmo que, como Filho, é igual a Deus, assumiu na carne a forma de servo e experimentou a morte, apesar de sua grandeza infinita, _porque_ _a finalidade da Lei é Cristo_ _para a justificação de todo o que crê_ (Rm 10,4), para que todos creiamos nele e o adoremos com íntimo afeto. Boa servidão é esta, que a todos faz livres. Boa servidão a que conquistou um nome acima de todo nome. Boa humildade a que faz com que _ao seu nome redobre todo joelho dos_ _seres celestes, dos terrestres e dos que vivem sob a terra,_ _e, para glória de Deus, o Pai, toda língua confesse: Jesus_ _é o Senhor_ (Fl 2,10-11).
+
+@secao Responsório
+
+@responsorio
+R. Hoje apareceu para nós a Luz da luz,
+que João batizou no rio Jordão.
+* Nós cremos que ele nasceu da Virgem Maria.
+V. Abriram-se os céus, e a voz do Pai se fez ouvir.
+* Nós cremos.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que, sendo o Cristo batizado no Jordão, e pairando sobre ele o Espírito Santo, o declarastes solenemente vosso Filho, concedei aos vossos filhos adotivos, renascidos da água e do Espírito Santo, perseverar constantemente em vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

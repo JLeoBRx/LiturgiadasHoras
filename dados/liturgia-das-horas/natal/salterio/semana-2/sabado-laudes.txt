@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2sabado_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@antifona 2
+Vinde todos e dai glória ao nosso Deus!
+
+@salmo canticos/dt-32-1-12
+
+@gloria
+
+@antifona
+Vinde todos e dai glória ao nosso Deus!
+
+@antifona 3
+Ó Senhor, nosso Deus, como é grande
+vosso nome por todo o universo! †
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Ó Senhor nosso Deus, como é grande
+vosso nome por todo o universo!

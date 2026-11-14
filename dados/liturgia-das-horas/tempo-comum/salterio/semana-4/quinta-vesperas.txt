@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, autor da luz,
+da aurora matutina,
+mostrai-nos vossa glória,
+que o dia já declina.
+
+A tarde traz o ocaso,
+o sol já vai morrendo,
+e deixa o mundo às trevas,
+às leis obedecendo.
+
+Aos servos que vos louvam,
+cansados do labor,
+as trevas não envolvam,
+pedimos, ó Senhor.
+
+Assim, durante a noite,
+guardados pela graça,
+na luz da vossa luz,
+a treva se desfaça.
+
+Ouvi-nos, Pai bondoso,
+e vós, Jesus, também.
+A vós e ao Santo Espírito
+louvor eterno. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ele é meu amor, meu refúgio,
+meu escudo: é nele que espero.
+
+@rubrica
+I
+
+@salmo salmos/salmo-143
+
+@gloria
+
+@antifona
+Ele é meu amor, meu refúgio,
+meu escudo: é nele que espero.
+
+@antifona 2
+Feliz o povo que tem o Senhor por seu Deus!
+
+@rubrica
+II
+
+@salmo salmos/salmo-143-v2
+
+@gloria
+
+@antifona
+Feliz o povo que tem o Senhor por seu Deus!
+
+@antifona 3
+Chegou agora a salvação e o poder
+e a realeza do Senhor e nosso Deus.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o poder
+e a realeza do Senhor e nosso Deus.
+
+@secao Leitura breve | Cf. Cl 1,23
+
+@texto
+Permanecei inabaláveis e firmes na fé, sem vos afastardes da esperança que vos dá o evangelho, que ouvistes, que foi anunciado a toda criatura debaixo do céu.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é o meu Pastor:
+* Não me falta coisa alguma. R. O Senhor.
+V. Pelos prados me conduz.
+* Não me falta. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor saciou com os seus bens
+os famintos e sedentos de justiça.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor saciou com os seus bens
+os famintos e sedentos de justiça.
+
+@secao Preces
+
+@preces
+Oremos a Cristo, luz dos povos e alegria de todo ser vivente; e digamos com fé:
+
+R. **Senhor, dai-nos luz, paz e salvação!**
+
+Luz sem ocaso e Palavra eterna do Pai, que viestes para salvar a humanidade inteira,
+– iluminai os catecúmenos da Igreja com a luz da vossa verdade. R.
+
+Desviai, Senhor, o vosso olhar dos nossos pecados,
+– porque em vós se encontra o perdão. R.
+
+Vós quereis que os seres humanos, com a sua inteligência, investiguem os segredos da natureza,
+– fazei que as ciências e as artes contribuam para a vossa glória e o bem-estar de todas as pessoas. R.
+
+Protegei aqueles que se dedicam no mundo ao serviço de seus irmãos e irmãs,
+– para que possam realizar o seu ideal com liberdade e sem atropelos. R.
+
+{(intenções livres)}
+
+Senhor, que tendes as chaves da morte e da vida,
+– fazei entrar na vossa luz os nossos irmãos e irmãs que adormeceram na esperança da ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Atendei, Senhor, benignamente às nossas preces vespertinas, e concedei que, seguindo com perseverança os passos de vosso Filho, recolhamos os frutos da justiça e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

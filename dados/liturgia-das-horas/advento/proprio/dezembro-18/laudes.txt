@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/18_laudes.htm
+@documento Próprio - Laudes - 18 de dezembro
+
+@secao Leitura breve | Rm 13,11-12
+
+@texto
+Já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz.
+
+@secao Responsório breve
+
+@responsorio
+R. Mesmo as trevas para vós não são escuras,
+* Vós sois a luz do mundo, aleluia! R. Mesmo as trevas.
+V. Senhor, sondai-me, conhecei meu coração! * Vós sois.
+Glória ao Pai. R. Mesmo as trevas.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Vigiai e estai preparados:
+o Senhor nosso Deus está perto.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Vigiai e estai preparados:
+o Senhor nosso Deus está perto.
+
+@secao Preces
+
+@preces
+Rezemos, irmãos e irmãs caríssimos, a nosso Senhor Jesus Cristo, Juiz dos vivos e dos mortos; e digamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que viestes salvar os pecadores,
+– defendei-nos contra toda tentação. R.
+
+Senhor Jesus Cristo, que vireis cheio de glória para julgar o mundo,
+– manifestai em nós o poder da vossa salvação. R.
+
+Ajudai-nos a cumprir, na força do Espírito, os mandamentos da vossa lei,
+– para que possamos acolher com amor o dia de vossa vinda. R.
+
+Senhor Jesus Cristo, que sois eternamente glorificado pelos anjos e santos, ensinai-nos por vossa misericórdia a viver neste mundo com equilíbrio, justiça e piedade,
+– aguardando a feliz esperança da vossa vinda gloriosa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei aos que gememos na antiga escravidão, sob o jugo do pecado, a graça de ser libertados pelo novo natal do vosso Filho, que tão ansiosamente esperamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

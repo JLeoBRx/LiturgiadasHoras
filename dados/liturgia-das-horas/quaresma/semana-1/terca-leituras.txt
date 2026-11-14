@@ -1,0 +1,120 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1terca_quaresma.htm
+@documento Ofício das Leituras - 1ª Semana Da Quaresma - Terça-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor fará justiça para os pobres.
+
+@salmo salmos/salmo-009b-i
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres.
+
+@antifona 2
+Vós, Senhor, vedes a dor e o sofrimento.
+
+@salmo salmos/salmo-009b-ii
+
+@gloria
+
+@antifona
+Vós, Senhor, vedes a dor e o sofrimento.
+
+@antifona 3
+As palavras do Senhor são verdadeirascomo a prata depurada pelo fogo.
+
+@salmo salmos/salmo-011
+
+@gloria
+
+@antifona
+As palavras do Senhor são verdadeirascomo a prata depurada pelo fogo.
+
+@texto
+V. Eis o tempo de conversão!
+R. Eis o dia da salvação!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {6,29–7,25}
+
+@tema
+A primeira praga do Egito
+
+@texto
+[6,29] O Senhor disse a Moisés: “Eu sou o Senhor. Dize ao Faraó, rei do Egito, tudo o que eu te disse”. [30] E Moisés respondeu ao Senhor: “Mas eu tenho dificuldade de falar. Como me ouvirá o Faraó?” [7,1] O Senhor disse a Moisés:“Olha, eu faço de ti um Deus para o Faraó, e Aarão, teu irmão, será teu profeta. [2] Dirás tudo o que eu te mandar, e ele falará ao Faraó para que deixe sair de sua terra os filhos de Israel. [3] Eu vou endurecer o coração do Faraó, e multiplicar meus sinais e meus prodígios na terra do Egito. [4] Ele não vos ouvirá. Mas eu estenderei minha mão sobre o Egito e farei sair do Egito meu exército e meu povo, os filhos de Israel, por meio dos maiores castigos. [5] E os egípcios saberão que eu sou o Senhor, quando eu estender minha mão sobre o Egito e fizer sair do meio deles os filhos de Israel”. [6] Moisés e Aarão fizeram exatamente como o Senhor lhes havia ordenado. [7] Moisés tinha oitenta anos, e Aarão oitenta e três, quando falaram ao Faraó. [8] O Senhor disse a Moisés e Aarão: [9] “Quando o Faraó vos disser: ‘Fazei algum prodígio’, dirás a Aarão: ‘Toma a tua vara e lança-a por terra diante do Faraó e ela se transformará em serpente. [10] Moisés e Aarão apresentaram-se ao Faraó e fizeram como o Senhor havia ordenado. Aarão lançou por terra a vara diante do Faraó e de seus servos, e ela transformou-se em serpente. [11] Mas o Faraó chamou sábios e feiticeiros, e também eles, os magos do Egito, fizeram o mesmo com seus encantamentos. [12] Lançaram por terra cada um deles as suas varas, que se transformaram em serpentes. Mas a vara de Aarão engoliu as suas varas. [13] Todavia, o coração do Faraó ficou inflexível, e ele não os ouviu, conforme o Senhor tinha predito. [14] O Senhor disse, então, a Moisés: “O coração do Faraó se endureceu, pois ele não quer deixar o povo partir. [15] Vai ter com ele amanhã cedo. Quando ele sair para a água, estarás à sua espera à beira do rio, levando contigo a vara que se transformou em serpente. [16] E lhe dirás: “O Senhor, o Deus dos hebreus, enviou-me a ti, dizendo: ‘Deixa o meu povo partir, para me oferecer sacrifícios no deserto’, e tu até agora não me quiseste ouvir. [17] Portanto, assim diz o Senhor: ‘Nisto saberás que eu sou o Senhor: com a vara que tenho na mão, vou bater nas águas do Nilo, e elas se mudarão em sangue. [18] Os peixes que há no rio morrerão, e as águas ficarão tão poluídas que os egípcios não poderão beber da água do Nilo’”.
+[19] O Senhor disse a Moisés: “Dize a Aarão: ‘Toma a tua vara e estende a mão sobre as águas do Egito, dos seus rios, canais e pântanos, e de todos os seus reservatórios de água, para que elas se transformem em sangue. E haverá sangue em todo o país do Egito, até mesmo nas vasilhas de madeira e nos recipientes de pedra’”. [20] Moisés e Aarão fizeram como o Senhor lhes havia ordenado. E, diante do Faraó e dos seus servos, erguendo a vara, Aarão feriu a água do rio, que se transformou em sangue. [21] E morreram os peixes que havia no rio, e o rio ficou poluído, de modo que os egípcios não puderam beber da sua água, e houve sangue em toda a terra do Egito. [22] Mas os magos do Egito fizeram o mesmo com seus encantamentos; o coração do Faraó se endureceu e ele não atendeu a Moisés e Aarão, conforme o Senhor tinha dito. [23] E o Faraó retirou-se para o seu palácio, sem dar atenção àquilo. [24] Os egípcios cavaram nas proximidades do rio à procura de água potável, pois não podiam beber da água do rio. [25] E passaram-se sete dias depois que o Senhor feriu o rio Nilo.
+
+@secao Responsório | Cf. Ap 16,4-5.6.7
+
+@responsorio
+R. O anjo derramou sua taça sobre os rios,
+e os rios viraram sangue. E ouvi o anjo, dizendo: Justo e santo sois, Senhor, que julgastes com justiça,
+* Porque estes derramaram sangue de santos e profetas.
+V. E ouvi um outro anjo que dizia do altar: Sim, ó Deus onipotente, verdadeiros e corretos são os vossos julgamentos. * Porque estes.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Oração do Senhor, de São Cipriano, bispo e mártir
+{(Séc.III)} {(Cap.1-3: CSEL 3,267-268)}
+
+@tema
+Quem nos deu a vida também nos ensinou a orar
+
+@texto
+Os preceitos evangélicos, irmãos caríssimos, não são outra coisa que ensinamentos divinos, fundamentos para edificar a esperança, bases para consolidar a fé, alimento para revigorar o coração, guias para mostrar o caminho, garantias para obter a salvação. Enquanto instruem na terra os espíritos dóceis dos que creem, eles os conduzem para o Reino dos céus. Outrora quis Deus falar e fazer-nos ouvir de muitas maneiras pelos profetas, seus servos. Mas muito mais sublime é o que nos diz o Filho, a Palavra de Deus, que já estava presente nos profetas e agora dá testemunho pela sua própria voz. Ele não manda mais preparar o caminho para aquele que há de vir, mas vem, ele próprio, mostrar-nos e abrir-nos o caminho para que nós, outrora cegos e imprevidentes,errantes nas trevas da morte, iluminados agora pela luz da graça, sigamos o caminho da vida, sob a proteção e guia do Senhor. Entre as exortações salutares e os preceitos divinos com que orienta seu povo para a salvação, o Senhor ensinou o modo de orar e nos instruiu e aconselhou sobre o que havemos de pedir. Quem nos deu a vida, também nos ensinou a orar com a mesma bondade com que se dignou conceder-nos tantos outros benefícios, a fim de que, dirigindo-nos ao Pai com a súplica e oração que o Filho nos ensinou, sejamos mais facilmente ouvidos. Jesus havia predito que chegaria a hora em que os verdadeiros adoradores adorariam o Pai em espírito e em verdade. E cumpriu o que prometera. De fato, tendo nós recebido por sua graça santificadora o Espírito e a verdade, podemos adorar a Deus verdadeira e espiritualmente segundo os seus ensinamentos. Pode haver, com efeito, oração mais espiritual do que aquela que nos foi ensinada por Cristo, que também nos enviou o Espírito Santo? Pode haver prece mais verdadeira aos olhos do Pai do que aquela que saiu dos lábios do próprio Filho que é a Verdade? Assim, orar de maneira diferente da que o Senhor nos ensinou não é só ignorância, mas também culpa, pois ele mesmo disse: Anulais o mandamento de Deus a fim de guardar as vossas tradições (cf. Mc 7,9). Oremos, portanto, irmãos caríssimos, como Deus, nosso Mestre, nos ensinou. A oração agradável e querida por Deus é a que rezamos com as suas próprias palavras, fazendo subir aos seus ouvidos a oração de Cristo. Reconheça o Pai as palavras de seu Filho, quando oramos. Aquele que habita interiormente em nosso coração, esteja também em nossa voz; e já que o temos junto ao Pai como advogado por causa de nossos pecados, digamos as palavras deste nosso advogado quando, como pecadores, suplicarmos por nossas faltas. Se ele disse que tudo o que pedirmos ao Pai em seu nome nos será dado (cf. Jo 14,13), quanto mais eficaz não será a nossa súplica para obtermos o que pedimos em nome de Cristo, se pedirmos com sua própria oração!
+
+@secao Responsório
+
+@responsorio
+R. Até agora não pedistes coisa alguma em meu nome.
+* Pedi e recebereis e tereis plena alegria.
+V. O que pedirdes ao meu Pai, em meu nome, eu vos darei, para que seja, assim, o Pai glorificado no seu Filho. * Pedi.
+
+@secao Oração
+
+@oracao
+Olhai, ó Deus, vossa família, e fazei crescer no vosso amor aqueles que agora se mortificam pela penitência corporal. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/3tercaquaresma_vesperas.htm
+@documento Vésperas - Terça-feira da 3ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Deus nos cerca de carinho e proteção.
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Deus nos cerca de carinho e proteção.
+
+@antifona 2
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@salmo salmos/salmo-130
+
+@gloria
+
+@antifona
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v4
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@secao Leitura breve | Tg 2,14.17.18b
+
+@texto
+Meus irmãos, que adianta alguém dizer que tem fé, quando não a põe em prática? A fé seria então capaz de salvá-lo? A fé, se não se traduz em obras, por si só está morta. Tu, mostra-me a tua fé sem as obras, que eu te mostrarei a minha fé pelas obras!
+
+@secao Responsório breve
+
+@responsorio
+R. Iluminai-me, Senhor, conforme a vossa palavra,
+* Para que eu sempre faça a vossa vontade!
+R. Iluminai-me.
+V. Inclinai meu coração aos vossos preceitos. * Para que eu.
+Glória ao Pai. R. Iluminai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Se vós não perdoardes de todo coração,
+o meu Pai, que está nos céus, também não vos perdoará.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Se vós não perdoardes de todo coração,
+o meu Pai, que está nos céus, também não vos perdoará.
+
+@secao Preces
+
+@preces
+Imploremos ao Cristo Senhor, que nos mandou vigiar e orar para não cairmos em tentação; e digamos confiantemente:
+
+R. **Ouvi-nos, Senhor, e tende piedade!**
+
+Cristo Jesus, que prometestes estar presente no meio daqueles que se reúnem para orar em vosso nome,
+– ensinai-nos a orar sempre convosco ao Pai no Espírito Santo. R.
+
+Celeste Esposo, purificai de todo pecado vossa amada Igreja,
+– e fazei que ela viva sempre na esperança e na alegria do Espírito Santo. R.
+
+Amigo do ser humano, tornai-nos solícitos pelo bem do próximo, como nos mandastes,
+– a fim de que, por meio de nós, brilhe para todos a luz da vossa salvação. R.
+
+Pai pacífico, dai ao mundo a vossa paz,
+– para que em toda parte se faça mais sensível vossa presença salvadora. R.
+
+{(intenções livres)}
+
+Abri as portas da bem-aventurança eterna a todos os que morreram,
+– e admiti-os na glória da eternidade. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que a vossa graça não nos abandone, mas nos faça dedicados ao vosso serviço e aumente sempre em nós os vossos dons. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

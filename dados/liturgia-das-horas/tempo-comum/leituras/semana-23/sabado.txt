@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/23sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {5,1-22}
+
+@tema
+Prece pela libertação do povo
+
+@texto
+[1] Lembra-te, Senhor, do que nos aconteceu, vê e considera a nossa humilhação. [2] Nossa herança passou a estrangeiros, nossa habitação, a desconhecidos. [3] Estamos órfãos de pai, nossas mães estão viúvas. [4] Pagamos para beber nossa água, compramos a dinheiro nossa lenha. [5] Suportamos canga no nosso pescoço, cansados, não nos dão repouso. [6] Demos as mãos a egípcios e assírios, para abastecer-nos de pão. [7] Nossos pais pecaram e já não existem, mas nós sofremos o peso de suas culpas. [8] Escravos são os que dominam sobre nós; ninguém nos liberta de suas mãos. [9] Conseguimos pão com risco de vida, enfrentando a espada na orla do deserto. [10] Nossa pele enrugou-se como ao forno pelo ardor da fome. [11] Em Sião foram desonradas as mulheres e as jovens na cidade de Judá. [12] Fizeram enforcar nossos chefes; não respeitaram a idade de nossos anciãos. [13] Os jovens tinham de girar a mó do moinho e os meninos, de carregar lenha. [14] Os anciãos não mais comparecem às portas, os jovens não frequentam o coro de música. [15] Acabou a alegria do nosso coração, o nosso canto degenerou em tristeza. [16] Caiu a coroa da nossa cabeça; ai de nós, que pecamos. [17] Por isso tudo, está triste o nosso coração, por isso, meus olhos perderam o brilho: [18] pois que o monte Sião está devastado, por lá andam à solta as raposas. [19] Mas tu, Senhor, permaneces para a eternidade e o teu trono subsiste de geração em geração. [20] Por que esquecer-te de nós, sempre, e abandonar-nos por tanto tempo? [21] Atrai-nos para ti, Senhor, e para ti nós nos voltaremos; faze-nos reviver os dias de outrora. [22] A não ser que nos rejeitaste totalmente, não estás irritado demais conosco?
+
+@secao Responsório | Lm 5,19a.20a.21a; Mt 8,25b
+
+@responsorio
+R. Vós, Senhor, permaneceis eternamente;
+por que nos esqueceis perpetuamente?
+* Ó Senhor, reconduzi-nos para vós,
+e para vós nós voltaremos convertidos.
+V. Salvai-nos, ó Senhor, que perecemos! * Ó Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Atanásio, bispo
+{(Séc. IV)} {(Oratio de incarnatione Verbi, 10: PG 25,111-114)}
+
+@tema
+Renova os nossos dias como no princípio
+
+@texto
+Deus Verbo do excelso Pai não abandonou a natureza dos homens que descambava para a corrupção. Mas pela oblação do próprio corpo destruiu a morte em que haviam incorrido, corrigiu pela doutrina sua indignidade e tudo de humano restaurou.
+
+@texto
+Poderá confirmar tudo isto pela autoridade dos teólogos, discípulos de Cristo, quem quer que leia o que dizem: _A caridade de Cristo nos urge, sabendo que se um morreu por todos, logo todos estão mortos; e por todos morreu ele para que não mais vivamos para nós mesmos, mas para aquele que por nós morreu e ressuscitou dos mortos, nosso Senhor Jesus Cristo_ (cf. 2Cor 5,14-15). E de novo: _Aquele que foi colocado por pouco tempo abaixo dos anjos, Jesus, nós o vemos coroado de glória e de honra, por causa dos sofrimentos da morte, para que, pela graça de Deus, provasse a morte em favor de todos_ (Hb 2,9). Mais adiante, dá a razão por que ao Deus Verbo e só a ele convinha fazer-se homem: _Convinha que o autor da salvação, para quem tudo e por quem tudo foi feito, e que levaria muitos filhos à glória, chegasse à consumação pela paixão_ (Hb 2,10). Por estas palavras significa não competir a outro que não ao Deus Verbo, por quem foram criados no início, arrancar os homens da corrupção.
+
+@texto
+Foi este o motivo por que o Verbo aceitou um corpo, a fim de se tornar vítima em favor dos corpos semelhantes; também isto se afirma pelos seguintes dizeres: _Os filhos têm em comum a carne e o sangue; ele de igual modo deles participou, para destruir por sua morte aquele que detinha o império da morte, isto é, o diabo, e libertar os que pelo temor da morte eram sujeitos à escravidão durante toda a vida_ (Hb 2,14-15). Na verdade, imolando o próprio corpo, pôs fim à lei decretada contra nós e para nós renovou o princípio da vida, dando a esperança de ressurgirmos.
+
+@texto
+A morte recebera dos homens o poder contra os homens; pelo Verbo de Deus enviado aos homens, veio a destruição da morte e a ressurreição da vida, como disse o varão repleto de Cristo: _Porque por um homem entrou a morte e por um homem, a ressurreição dos mortos. Pois como em Adão todos morrem, assim em Cristo todos serão vivificados_ (1Cor 15,21-22) e o que se segue. Já não mais morremos para nosso castigo, mas como os que serão despertados dos mortos aguardamos a ressurreição comum a todos. Em seu tempo, Deus, o autor e doador destas coisas, o manifestará.
+
+@secao Responsório | Rm 3,23-25a; 1Cor 15,22
+
+@responsorio
+R. Pois, todos os homens pecaram
+e carecem da glória de Deus,
+sendo justificados, de graça,
+mediante a libertação, realizada por meio de Cristo.
+* Deus destinou que Cristo fosse, por seu sangue,
+a vítima da propiciação,
+pela fé que colocamos nele mesmo.
+V. Assim como em Adão todos morrem,
+terão todos a vida em Cristo. * Deus.
+
+@secao Oração
+
+@oracao
+Ó Deus, pai de bondade, que nos redimistes e adotastes como filhos e filhas, concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

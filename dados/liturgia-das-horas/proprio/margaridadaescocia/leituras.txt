@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/margaridadaescocia.htm
+@documento Ofício das Leituras - Santa Margarida Da Escócia
+
+@celebracao
+SANTA MARGARIDA DA ESCÓCIA
+
+@biografia
+Nasceu na Hungria cerca do ano 1046, quando seu pai aí vivia exilado. Foi dada em matrimônio a Malcom III, rei da Escócia e teve oito filhos. Foi exemplo admirável de mãe e de rainha. Morreu em Edimburgo no ano 1093.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios
+
+@tema
+A excelência da caridade
+
+@texto
+Irmãos: [12,31] Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior.[13,1] Se eu falasse todas as línguas, as dos homens e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. [2] Se eu tivesse o dom da profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. [3] Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada me serviria. [4] A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; [5] não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor, [6] não se alegra com a iniquidade, mas regozija-se com a verdade. [7] Suporta tudo, crê tudo, espera tudo, desculpa tudo. [8] A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. [9] Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. [10] Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. [11] Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era próprio de criança. [12] Agora nós vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. [13] Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Conhecemos e cremos no amor
+que Deus manifesta por nós.
+* Pois quem permanece no amor,
+em Deus permanece e Deus nele.
+V. Amemo-nos, pois, uns aos outros,
+Porque o amor vem de Deus. * pois quem.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição Pastoral Gaudium et spes sobre a Igreja no mundo de hoje, do Concílio Vaticano II
+{(Séc.XX)} {(N. 48)}
+
+@tema
+Santidade do matrimônio e da família
+
+@texto
+O homem e a mulher, que pelo pacto conjugal _já não são dois, mas uma só carne_ (Mt 19,6), prestam-se mutuamente serviço e auxílio, experimentam e realizam cada dia mais plenamente o senso de sua unidade pela união íntima das pessoas e das atividades. Essa união íntima, doação recíproca de duas pessoas, bem como o bem dos filhos exigem a perfeita fidelidade dos cônjuges e sua indissolúvel unidade.
+O autêntico amor conjugal é assumido no amor divino. É guiado e enriquecido pelo poder redentor de Cristo e pela ação salvífica da Igreja, para que os esposos sejam conduzidos eficazmente a Deus e ajudados e confortados na sublime missão de pai e mãe. Por isso os esposos cristãos são robustecidos – e como que consagrados – por um sacramento especial para os deveres e dignidades de seu encargo. Exercendo o dever conjugal e familiar em virtude desse sacramento, imbuídos do Espírito de Cristo, que lhes impregna toda a vida com a fé, a esperança e a caridade, aproximam-se cada vez mais da própria perfeição e mútua santificação e, assim unidos, contribuem para a glorificação de Deus.
+Em consequência, tendo à frente os próprios pais com o exemplo e a oração familiar, os filhos e todos os que convivem no círculo da família encontrarão mais facilmente o caminho de humanidade, salvação e santidade. Mas os cônjuges, providos com a dignidade e o dever da paternidade e maternidade, cumprirão diligentemente o ofício da educação, sobretudo religiosa, que, em primeiro lugar, compete a eles.
+Como membros vivos da família, a seu modo colaboram os filhos para a santificação dos pais. Retribuirão, com efeito, os benefícios dos pais de alma agradecida, com piedade e confiança e os assistirão nas adversidades e na solidão da velhice como convém a filhos. Seja honrada por todos a viuvez, assumida com fortaleza de ânimo em continuidade com a vocação conjugal. Assim a família comunicará generosamente suas riquezas espirituais também às outras famílias. E a família cristã patenteará a todos a presença viva do Salvador no mundo e a autêntica natureza da Igreja pelo amor dos cônjuges, pela fecundidade generosa, pela unidade e fidelidade, e pela amável cooperação de todos os membros, porque se origina do matrimônio, imagem e participação no pacto de amor entre Cristo e a Igreja.
+
+@secao Responsório | Pr 31,30b.25a.31
+
+@responsorio
+R. A mulher que a Deus teme, esta sim, é louvável.
+* Fortaleza e graça são os seus ornamentos.
+V. Dai a ela o fruto do trabalho que fez,
+suas obras a louvem, publicando seus méritos.* Fortaleza.
+
+@secao Oração
+
+@oracao
+Ó Deus, que tornastes Santa Margarida da Escócia admirável por sua imensa caridade para com os pobres, dai-nos ser, por sua intercessão e exemplo, um reflexo da vossa bondade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

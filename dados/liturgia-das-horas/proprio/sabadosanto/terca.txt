@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sabadosanto_terca.htm
+@documento Hora Média - Sábado Santo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Salvai, ó Redentor, a criatura,
+na qual do entendimento fulge a luz;
+não seja por Satã dilacerada,
+comprou-a vosso sangue em vossa cruz.
+
+Piedade dos que o mal tornou cativos,
+dai, pois, vosso perdão aos pobres réus;
+aos que com o próprio sangue redimistes
+fazei reinar convosco, ó Rei dos céus.
+
+@secao Salmodia
+
+@antifona
+Sei que a bondade do Senhor eu hei de ver
+na terra dos viventes.
+
+@rubrica
+Numa das Horas Médias, tomam-se os salmos seguintes; nas outras duas, tomam-se da Salmodia Complementar.
+
+@salmo salmos/salmo-026-v2
+
+@gloria
+
+@salmo salmos/salmo-029
+
+@gloria
+
+@salmo salmos/salmo-075
+
+@gloria
+
+@antifona
+Sei que a bondade do Senhor eu hei de ver
+na terra dos viventes.
+
+@secao Leitura breve | 1Jo 1,8-9
+
+@texto
+Se dissermos que não temos pecado, estamos nos enganando a nós mesmos, e a verdade não está dentro de nós. Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda a culpa.
+
+@texto
+V. Não haveis de me deixar entregue à morte.
+R. Nem vosso amigo conhecer a corrupção.
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, vosso Filho unigênito desceu à mansão dos mortos e dela surgiu vitorioso: concedei aos vossos fiéis, sepultados com ele no batismo, que, pela força de sua ressurreição, participem da vida eterna, com ele. Que vive e reina para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

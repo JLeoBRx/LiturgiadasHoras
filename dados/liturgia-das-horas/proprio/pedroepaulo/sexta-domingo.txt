@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroepaulo_sexta_domingo.htm
+@documento Hora Média - São Pedro e São Paulo, Apóstolos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Subiu Pedro ao terraço para orar,
+quando era por volta da hora sexta.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Subiu Pedro ao terraço para orar,
+quando era por volta da hora sexta.
+
+@secao Leitura breve | Gl 1,15-16a.17b-18a
+
+@texto
+Quando aquele que me separou desde o ventre materno e me chamou por sua graça se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, parti para a Arábia e, depois, voltei ainda a Damasco. Três anos mais tarde, fui a Jerusalém para conhecer Cefas.
+
+@texto
+V. Guardavam os preceitos
+R. E as ordens do Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

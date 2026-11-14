@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santaagueda.htm
+
+@secao Antífona da entrada
+@texto
+A virgem forte, oferta de pureza, oblação de castidade,
+agora segue o Cordeiro por nós crucificado.
+{Ou:}
+Feliz a virgem que, renunciando a si mesma
+e tomando sua cruz, imitou o Senhor,
+o esposo das virgens e príncipe dos mártires
+
+@secao Coleta
+@texto
+Concedei-nos, Senhor, o vosso perdão,
+por intercessão de Santa Águeda,
+que sempre vos agradou
+pelo mérito da castidade
+e pela força no martírio.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, os dons que vos apresentamos
+na celebração de Santa Águeda
+sejam do vosso agrado,
+como vos foi precioso o combate do vosso martírio.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Ap 7,17
+@texto
+O Cordeiro, que está no meio do trono,
+os conduzirá às fontes da água da vida
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que coroastes Santa Águeda entre os santos
+pela dupla vitória da virgindade e do martírio,
+concedei-nos, pela força deste sacramento,
+superar com firmeza todo mal e alcançar a glória celeste.
+Por Cristo, nosso Senhor.

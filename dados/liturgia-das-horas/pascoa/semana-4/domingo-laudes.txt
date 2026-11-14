@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4domingopascoa_laudes.htm
+@documento Laudes - Domingo da 4ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@rubrica
+Essa introdução se omite quando o Invitatório precede imediatamente às Laudes.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Não morrerei, mas ao contrário, viverei
+para cantar as grandes obras do Senhor! Aleluia.
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Não morrerei, mas ao contrário, viverei
+para cantar as grandes obras do Senhor! Aleluia.
+
+@antifona 2
+Seja bendito o vosso nome,
+nome santo e glorioso! Aleluia.
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Seja bendito o vosso nome,
+nome santo e glorioso! Aleluia.
+
+@antifona 3
+Vinde todos, e dai glória ao nosso Deus:
+Ele é a Rocha, suas obras são perfeitas,
+seus caminhos, todos eles, são justiça. Aleluia.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Vinde todos, e dai glória ao nosso Deus:
+Ele é a Rocha, suas obras são perfeitas,
+seus caminhos, todos eles, são justiça. Aleluia.
+
+@secao Leitura breve | At 10,40-43
+
+@texto
+Deus ressuscitou Jesus no terceiro dia, concedendo-lhe manifestar-se não a todo o povo, mas às testemunhas que Deus havia escolhido: a nós, que comemos e bebemos com Jesus, depois que ressuscitou dos mortos. E Jesus nos mandou pregar ao povo e testemunhar que Deus o constituiu Juiz dos vivos e dos mortos. Todos os profetas dão testemunho dele: Todo aquele que crê em Jesus recebe, em seu nome, o perdão dos pecados.
+
+@secao Responsório breve
+
+@responsorio
+R. Tende piedade de nós, Cristo, Filho do Deus vivo!
+* Aleluia, aleluia. R. Tende piedade.
+V. Vós, que dos mortos ressurgistes. * Aleluia.
+Glória ao Pai. R. Tende piedade.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Invoquemos a Deus Pai todo-poderoso, que ressuscitou nosso Rei e Salvador Jesus Cristo; e digamos com alegria:
+
+R. **Iluminai-nos, Senhor, com a luz de Cristo!**
+
+Pai santo, que fizestes vosso amado Filho Jesus passar das trevas da morte para a luz da glória,
+– dai-nos chegar, um dia, à luz admirável do vosso reino eterno. R.
+
+Vós, que nos salvastes pela fé,
+– fazei-nos viver hoje fielmente segundo as promessas do nosso batismo. R.
+
+Vós, que nos mandais buscar sempre as coisas do alto, onde Cristo está sentado à vossa direita,
+– livrai-nos da sedução do pecado. R.
+
+Fazei que a nossa vida, escondida em vós com Cristo, brilhe no mundo,
+– para anunciar a todos os novos céus e a nova terra. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, conduzi-nos à comunhão das alegrias celestes, para que o rebanho possa atingir, apesar de sua fraqueza, a fortaleza do Pastor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

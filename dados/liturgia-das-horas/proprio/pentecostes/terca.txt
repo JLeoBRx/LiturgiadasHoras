@@ -1,0 +1,82 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_terca.htm
+@documento Hora Média - Domingo de Pentecostes
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cristo aos astros já subira,
+regressando ao seu lugar,
+e o Espírito do Pai
+prometera nos mandar.
+
+Na feliz terceira hora,
+vibra o mundo de repente,
+revelando aos Apóstolos
+que Deus vem, no fogo ardente.
+
+Do clarão da luz do Pai
+é o santo resplendor,
+que enche as almas dos fiéis
+com o Verbo do Senhor.
+
+Vinde a nós, ó Santo Espírito,
+nossas almas adornai
+para vós e, como altares,
+como templos, consagrai.
+
+O Pai santo e o seu Filho
+concedei-nos conhecer.
+E que deles procedeis
+para sempre dai-nos crer.
+
+@secao Salmodia
+
+@antifona
+O Espírito que vem de Deus Pai
+penetra o mais íntimo dos santos Apóstolos
+de modo invisível. Aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+O Espírito que vem de Deus Pai
+penetra o mais íntimo dos santos Apóstolos
+de modo invisível. Aleluia.
+
+@secao Leitura breve | 1Cor 12,13
+
+@texto
+Todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+
+@texto
+V. O Espírito Paráclito, aleluia,
+R. Tudo haverá de ensinar-vos. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que brilhe sobre nós o esplendor da vossa claridade, e o fulgor da vossa luz confirme, com o dom do Espírito Santo, aqueles que renasceram pela vossa graça. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

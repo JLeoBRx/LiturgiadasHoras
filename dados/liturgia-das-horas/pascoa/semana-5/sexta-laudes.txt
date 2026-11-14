@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5sextapascoa_laudes.htm
+@documento Laudes - Sexta-feira da 5ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Lembrai-vos de mim, Senhor, meu Deus,
+quando tiverdes chegado em vosso reino! Aleluia.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Lembrai-vos de mim, Senhor, meu Deus,
+quando tiverdes chegado em vosso reino! Aleluia.
+
+@antifona 2
+Senhor Deus de Israel, ó Salvador,
+Deus escondido, realmente sois, Senhor. Aleluia. †
+
+@salmo canticos/is-45-15-25
+
+@gloria
+
+@antifona
+Senhor Deus de Israel, ó Salvador,
+Deus escondido, realmente sois, Senhor. Aleluia.
+
+@antifona 3
+. Servi ao Senhor com alegria. Aleluia.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o
+
+@salmo salmos/salmo-099
+
+@gloria
+
+@antifona
+Servi ao Senhor com alegria. Aleluia.
+
+@secao Leitura breve | At 5,30-32
+
+@texto
+O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia:
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O meu mandamento é este:
+Amai-vos como eu vos amei. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O meu mandamento é este:
+Amai-vos como eu vos amei. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, que pela ressurreição de Jesus Cristo nos deu uma vida nova; e supliquemos humildemente:
+
+R. **Iluminai-nos, Senhor, com a luz de Cristo!**
+
+Deus de bondade e fidelidade, que criastes o universo e manifestastes a todas as gerações o vosso desígnio da salvação,
+– escutai-nos, ó Pai clementíssimo. R.
+
+Purificai os nossos corações com a luz da vossa verdade,
+– para que todas as nossas obras sejam justas e agradáveis aos vossos olhos. R.
+
+Fazei brilhar sobre nós a luz da vossa face e dirigi os nossos passos no caminho da santidade,
+– para que, libertos do pecado, nos saciemos com a riqueza de vossos dons. R.
+
+Vós, que por Cristo nos reconciliastes convosco,
+– fazei reinar vossa paz em toda a terra. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Amparai, ó Deus, nossos corações para vivermos dignamente os mistérios pascais, a fim de que esta celebração realizada com alegria nos proteja por sua força inesgotável e nos comunique a salvação. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

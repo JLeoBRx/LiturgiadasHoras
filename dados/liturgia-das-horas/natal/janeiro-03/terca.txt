@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/3janeiro_terca.htm
+@documento 3janeiro_terca.htm
+
+@secao Leitura breve | Is 2,3b-4
+
+@texto
+De Sião provém a lei e de Jerusalém, a palavra do Senhor. Ele há de julgar as nações e arguir numerosos povos; estes transformarão suas espadas em arados e suas lanças em foices: não pegarão em armas uns contra os outros e não mais travarão combate.
+
+@texto
+V. O Senhor recordou o seu amor sempre fiel.
+R. Pela casa de Israel. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que a humanidade do vosso Filho, nascendo da Virgem Maria, não fosse submetida à humilhação do homem decaído. Concedei que, participando desta nova criação, sejamos libertados da antiga culpa. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

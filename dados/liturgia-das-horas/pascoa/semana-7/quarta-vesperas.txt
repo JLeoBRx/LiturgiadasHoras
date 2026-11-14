@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7quartapascoa_vesperas.htm
+@documento Vésperas - Quarta-feira da 7ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Vossa tristeza vai mudar-se em alegria, aleluia.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Vossa tristeza vai mudar-se em alegria, aleluia.
+
+@antifona 2
+Quer vivamos, quer morramos,
+ao Senhor pertencemos. Aleluia.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Quer vivamos, quer morramos,
+ao Senhor pertencemos. Aleluia.
+
+@antifona 3
+Todas as coisas vêm de Cristo, são por ele e nele existem;
+a ele glória pelos séculos! Aleluia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona 3
+Todas as coisas vêm de Cristo, são por ele e nele existem;
+a ele glória pelos séculos! Aleluia.
+
+@secao Leitura breve | 1Cor 2,9-10
+
+@texto
+O que Deus preparou para os que o amam é algo que os olhos jamais viram, nem os ouvidos ouviram, nem coração algum jamais pressentiu. A nós Deus revelou esse mistério através do Espírito. Pois o Espírito esquadrinha tudo, mesmo as profundezas de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito Santo, o Paráclito,
+* Aleluia, aleluia. R. O Espírito.
+V. Ele vos ensinará todas as coisas.
+* Aleluia. Glória ao Pai. R. O Espírito.
+
+@secao Cântico Evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor vai batizar-vos
+no Divino Espírito Santo e no fogo, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor vai batizar-vos
+no Divino Espírito Santo e no fogo, aleluia.
+
+@secao Preces
+
+@preces
+Com os apóstolos e todos aqueles que possuem as primícias do Espírito Santo, louvemos a Deus; e o invoquemos, dizendo:
+
+R. **Senhor, ouvi-nos!**
+
+Deus todo-poderoso, que glorificastes a Cristo no céu,
+– fazei que todos reconheçam a sua presença na Igreja. R.
+
+Pai santo, que dissestes de Cristo: Este é o meu Filho amado, escutai-o!,
+– fazei que todos ouçam a sua voz e sejam salvos. R.
+
+Enviai o Espírito Santo aos corações de vossos fiéis,
+– para que sejam purificados e fortalecidos. R.
+
+Mandai o vosso Espírito, para que dirija os acontecimentos do mundo,
+– e renove a face da terra. R.
+
+{(intenções livres)}
+
+Nós vos confiamos todos aqueles que já partiram deste mundo,
+– e vos pedimos que façais crescer em nós a esperança da ressurreição futura. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus misericordioso, concedei que a vossa Igreja, reunida no Espírito Santo, se consagre ao vosso serviço num só coração e numa só alma. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

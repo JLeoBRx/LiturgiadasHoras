@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_doutores_nona.htm
+@documento COMUM DOS DOUTORES DA IGREJA - Hora Média
+
+@titulo COMUM DOS DOUTORES DA IGREJA
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva. Aleluia.
+
+@salmo salmos/salmo-125-v3
+
+@antifona
+Nós somos ajudantes do Senhor na sua Igreja;
+vós sois a construção e a plantação que Deus cultiva. Aleluia.
+
+@secao Leitura breve | 1Tm 3,13
+
+@texto
+Os que exercem bem o ministério, recebem uma posição de estima e muita liberdade para falar da fé em Cristo Jesus.
+
+@texto
+V. Se o Senhor não construir a nossa casa, aleluia,
+R. Em vão trabalharão seus construtores. Aleluia.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se a seguinte:}
+
+@texto
+Ó Deus, que marcastes pela vossa doutrina a vida de são (sto.{) N.}, concedei-nos, por sua intercessão, que sejamos fiéis à mesma doutrina, e a proclamemos em nossas ações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

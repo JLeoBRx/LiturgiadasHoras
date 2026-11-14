@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5sabadoquaresma_terca.htm
+@documento Hora Média - Terça - Sábado da 5ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@salmo salmos/salmo-118-33-40-v-he-v2
+
+@gloria
+
+@salmo salmos/salmo-033-i
+
+@gloria
+
+@salmo salmos/salmo-033-ii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@secao Leitura breve | 1Jo 1,8-9
+
+@texto
+Se dissermos que não temos pecado, estamo-nos enganando a nós mesmos, e a verdade não está dentro de nós. Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda a culpa.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Ó Deus, vós sempre cuidais da salvação dos seres humanos e nesta Quaresma nos alegrais com graças mais copiosas. Considerai com bondade aqueles que escolhestes, para que a vossa proteção paterna acompanhe os que se preparam para o batismo e guarde os que já foram batizados. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

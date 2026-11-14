@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santaclara_nona.htm
+@documento Hora Média - Santa Clara, virgem
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Como é bela em seu fulgor uma casta geração!
+
+@secao Leitura breve | Ap 19,6b.7
+
+@texto
+O Senhor, nosso Deus, o Todo-poderoso passou a reinar. Fiquemos alegres e contentes, e demos glória a Deus, porque chegou o tempo das núpcias do Cordeiro. Sua esposa já se preparou.
+
+@texto
+V. Encontrei o grande amor da minha vida.
+R. Vou guardá-lo para sempre junto a mim!
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misericórdia atraístes Santa Clara ao amor da pobreza, concedei, por sua intercessão, que, seguindo o Cristo com um coração de pobre, vos contemplemos um dia em vosso Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

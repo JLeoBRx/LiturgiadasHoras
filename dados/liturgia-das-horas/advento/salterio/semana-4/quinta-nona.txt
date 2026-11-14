@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4quinta_nona.htm
+@documento Hora Média (Nona) - IV Quinta-feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!
+
+@salmo salmos/salmo-118-153-160-xx-res
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se:
+Serei mãe do grande Rei, conservando a virgindade!

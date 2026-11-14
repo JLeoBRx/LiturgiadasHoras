@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sexta_aposepifania_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+O mistério escondido desde os séculos
+agora entre nós se manifesta.
+
+@salmo salmos/salmo-118-73-80
+
+@gloria
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+O mistério escondido desde os séculos
+agora entre nós se manifesta.
+
+@secao Leitura breve | Jr 31,7-8a
+
+@texto
+Exultai de alegria por Jacó, aclamai a primeira das nações; tocai, cantai e dizei: "Salva, Senhor, teu povo, o resto de Israel". Eis que eu os trarei do país do Norte e os reunirei desde as extremidades da terra.
+
+@texto
+V. Deus foi visto na terra.
+R. E viveu entre os homens.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que o natal do Salvador do mundo, manifestado pela luz da estrela, sempre refulja e cresça em nossas vidas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoestevao_laudes.htm
+@documento Laudes - Santo Estêvão, Protomártir
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Cristo é a vida, que, vindo ao mundo,
+remove a morte, serena a dor
+e volta à destra do Pai de novo,
+reinando em trono de resplendor.
+
+Segue-o Estêvão, como diácono,
+com belo título agraciado
+da escolha feita, tirando a sorte
+que o Santo Espírito tinha inspirado.
+
+É lapidado e enfrenta a morte,
+mas do inimigo tem compaixão:
+entre as pedradas bendiz e, orando,
+para os algozes pede perdão.
+
+Da sociedade dos justos membro,
+da clara pátria dos céus herdeiro,
+primeiro mártir, escuta as preces,
+alcança graças ao povo inteiro.
+
+Teus companheiros na fé dos mártires
+cantam louvores ao Deus Trindade
+que em tua fronte, depois da luta,
+pôs a coroa da santidade.
+
+@secao Salmodia
+
+@antifona 1
+O meu corpo é por vós lapidado
+e minh’alma se abraça convosco.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O meu corpo é por vós lapidado
+e minh’alma se abraça convosco.
+
+@antifona 2
+Estêvão viu os céus se abrirem e entrou;
+feliz é este homem para o qual os céus se abriram!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Estêvão viu os céus se abrirem e entrou;
+feliz é este homem para o qual os céus se abriram!
+
+@antifona 3
+Eis que vejo os céus abertos
+e Jesus sentado à destra de Deus Pai onipotente.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Eis que vejo os céus abertos
+e Jesus sentado à destra de Deus Pai onipotente.
+
+@secao Leitura breve | At 6,2b-5a
+
+@texto
+Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. Desse modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra. A proposta agradou a toda a multidão.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é a minha força.
+* Ele é o meu canto. R. O Senhor.
+V. E tornou-se para mim o Salvador. * Ele é.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+As portas do céu se abriram para Santo Estêvão entrar;
+foi ele o primeiro dos mártires a ser coroado no céu.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+As portas do céu se abriram para Santo Estêvão entrar;
+foi ele o primeiro dos mártires a ser coroado no céu.
+
+@secao Preces
+
+@preces
+Irmãos, celebremos nosso Salvador, a Testemunha fiel, nos mártires que deram a vida pela palavra de Deus; e digamos:
+
+R. **Vós nos remistes, Senhor, com vosso sangue!**
+
+Por intercessão de vossos mártires que abraçaram livremente a morte para testemunharem a sua fé,
+– dai-nos, Senhor, a verdadeira liberdade de espírito. R.
+
+Por intercessão de vossos mártires, que proclamaram a fé derramando o próprio sangue,
+– dai-nos, Senhor, pureza e constância na fé. R.
+
+Por intercessão de vossos mártires que, carregando a cruz, seguiram vossos passos,
+– dai-nos, Senhor, suportar com coragem as dificuldades da vida. R.
+
+Por intercessão de vossos mártires, que lavaram suas vestes no sangue do Cordeiro,
+– dai-nos, Senhor, vencer todas as seduções da carne e do mundo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ensinai-nos, ó Deus, a imitar o que celebramos, amando os nossos próprios inimigos, pois festejamos Santo Estêvão, vosso primeiro mártir, que soube rezar por seus perseguidores. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

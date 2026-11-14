@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santadulce_vesperas_oc.htm
+@documento Vésperas - Santa Dulce Lopes Pontes, virgem
+
+@texto
+_Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração da memória de Santa Dulce na Liturgia das Horas. Assim, os textos aqui adotados são os do Comum das Santas Mulheres que se dedicaram às obras de caridade, exceto a oração final, que já consta na 3a edição do Missal._
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Louvor à mulher forte,
+firme de coração.
+Em glória e santidade
+refulge o seu clarão.
+
+Calcando aos pés o mundo
+das coisas transitórias,
+por santo amor ferida,
+caminha para a glória.
+
+Domina por jejuns
+da carne a rebeldia.
+O pão da prece nutre
+sua alma de alegria.
+
+Só vós fazeis prodígios,
+ó Cristo, Rei dos fortes.
+A prece desta santa
+na luta nos conforte.
+
+Jesus, a vós a glória!
+A nós guiai também,
+com vossa humilde serva,
+à vida eterna. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vossa serva, ó Senhor,
+exultou de alegria pela vossa salvação.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Vossa serva, ó Senhor,
+exultou de alegria pela vossa salvação.
+
+@antifona 2
+Como alicerce sobre a rocha inabalável,
+foi a palavra do Senhor em sua vida.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Como alicerce sobre a rocha inabalável,
+foi a palavra do Senhor em sua vida.
+
+@antifona 3
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@secao Leitura breve | Rm 8,28-30
+
+@texto
+Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu,
+* Entre todas preferida. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Entre todas.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O que fizestes ao menor dos meus irmãos
+foi a mim mesmo que o fizestes, diz Jesus.
+Vinde, benditos do meu Pai, e recebei o Reino eterno
+preparado para vós desde o início do universo!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O que fizestes ao menor dos meus irmãos
+foi a mim mesmo que o fizestes, diz Jesus.
+Vinde, benditos do meu Pai, e recebei o Reino eterno
+preparado para vós desde o início do universo!
+
+@secao Preces
+
+@preces
+Por intercessão das santas mulheres, peçamos ao Senhor em favor da Igreja; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Por intercessão das santas mártires, que venceram a morte do corpo com o vigor do espírito,
+– concedei à vossa Igreja a fortaleza nas provações. R.
+
+Por intercessão das santas casadas, que progrediram em graça na vida matrimonial,
+– concedei à vossa Igreja a fecundidade apostólica. R.
+
+Por intercessão das santas viúvas, que superaram e santificaram sua solidão mediante a oração e a hospitalidade,
+– concedei à vossa Igreja que manifeste perante o mundo o mistério da vossa caridade. R.
+
+Por intercessão das santas mães, que geraram filhos para o Reino de Deus e para a sociedade humana,
+– concedei à vossa Igreja que transmita a vida divina e a salvação a toda a humanidade. R.
+
+{(intenções livres)}
+
+Por intercessão de todas as santas mulheres, que já mereceram contemplar a luz da vossa face,
+– concedei aos irmãos e irmãs falecidos de vossa Igreja a eterna alegria da mesma visão. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de misericórdia, que concedestes a Santa Dulce o dom de socorrer os necessitados nas suas enfermidades, dai-nos, por seu exemplo, o espírito de pobreza e a graça de vos servir com solicitude nos irmãos sofredores. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

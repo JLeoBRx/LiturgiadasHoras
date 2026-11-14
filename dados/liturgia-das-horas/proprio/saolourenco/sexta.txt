@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolourenco_sexta.htm
+@documento Hora Média - São Lourenço
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Vós lhe destes, ó Senhor, um nome santo e glorioso,
+e a coroa da justiça.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Vós lhe destes, ó Senhor, um nome santo e glorioso,
+e a coroa da justiça.
+
+@secao Leitura breve | Tg 1,12
+
+@texto
+Feliz o homem que suporta a provação. Porque, uma vez provado, receberá a coroa da vida, que o Senhor prometeu àqueles que o amam.
+
+@texto
+V. O Senhor está comigo, nada temo.
+R. Que poderia contra mim um ser mortal?
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso diácono Lourenço, inflamado de amor por vós, brilhou pela fidelidade no vosso serviço e pela glória do martírio; concedei-nos amar o que ele amou e praticar o que ensinou. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

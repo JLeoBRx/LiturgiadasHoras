@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/03sabadoTC_impar.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 3a SEMANA DO TEMPO COMUM / SÁBADO / III Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {11,13-24}
+
+@tema
+Se a raiz é santa, também os ramos o serão
+
+@texto
+[13] A vós, gentios, eu digo: enquanto apóstolo dos gentios, eu honro o meu ministério, [14] na esperança de provocar o ciúme dos da minha raça e de salvar alguns deles. [15] Pois se a sua rejeição resultou na reconciliação do mundo, o que será seu acolhimento senão a vida que vem dos mortos? [16] E se as primícias são santas, a massa também o será; e se a raiz é santa, os ramos também o serão. [17] E se alguns dos ramos foram cortados fora, e tu, oliveira silvestre, foste enxertada entre eles, para te beneficiares com eles da seiva da oliveira, [18] não te vanglories contra os ramos; e se te vanglorias, saibas que não és tu que sustenta a raiz, mas a raiz sustenta a ti. [19] Porém, dirás: Foram cortados os ramos para que eu fosse enxertada. [20] Muito bem! Eles foram cortados pela incredulidade e tu estás firme pela fé; não te ensoberbeças, mas teme, [21] porque se Deus não poupou os ramos naturais, nem a ti poupará. [22] Vê então a bondade e a severidade de Deus: a severidade para com os que caíram, e a bondade de Deus para contigo, se perseverares na bondade; do contrário, também tu serás cortado. [23] E eles, se não permanecerem na incredulidade, serão enxertados, pois Deus é capaz de os enxertar novamente. [24] Com efeito, se tu foste cortado da oliveira silvestre por natureza e contra a natureza, foste enxertado na oliveira mansa, com maior razão os ramos naturais serão enxertados na oliveira a que pertencem.
+
+@secao Responsório | Rm 11,23; 2Cor 3,16
+
+@responsorio
+R. Se aqueles que caíram
+não permanecerem na incredulidade, serão enxertados;
+* Pois Deus é capaz de os enxertar novamente.
+V. Somente pela conversão ao Senhor que o véu cai.
+* Pois Deus.
+
+@secao Segunda leitura
+
+@leitura
+Do Decreto “Ad gentes”, sobre a atividade missionária da Igreja, do Concílio Vaticano II
+{(Séc. XX)} {(N. 4-5)}
+
+@tema
+Ide e fazei discípulos meus todos os povos
+
+@texto
+O Senhor Jesus, antes de entregar livremente a sua vida pelo mundo, dispôs de tal forma o ministério apostólico e prometeu o Espírito Santo, que ambos ficaram associados na obra da salvação, a se realizar sempre e em toda parte.
+É o Espírito Santo que, no decurso dos tempos, unifica a Igreja inteira, na comunhão e no ministério, dotando-a com diversos dons hierárquicos e carismáticos, vivificando as instituições eclesiásticas, como alma delas, e infundindo nos corações dos fiéis o mesmo espírito da missão que movia o próprio Cristo. Por vezes, chega a antecipar visivelmente a ação apostólica; e a acompanha e dirige incessantemente e de vários modos.
+O Senhor Jesus, desde o início, _chamou a si os que_ _ele quis e designou Doze, para que ficassem com ele e_ _para enviá-los a pregar_ (Mc 3,13-14). Desta maneira, os apóstolos foram as sementes do novo Israel e ao mesmo tempo a origem da hierarquia sagrada.
+Depois de ter, por sua morte e ressurreição, realizado de uma vez por todas em si mesmo os mistérios da nossa salvação e da renovação de todas as coisas, o Senhor recebeu todo o poder no céu e na terra; e, antes de subir ao céu, fundou a sua Igreja como sacramento da salvação, e enviou os apóstolos pelo mundo inteiro tal como ele havia sido enviado pelo Pai, ordenando-lhes: _Ide e fazei discípulos_ _meus todos os povos, batizando-os em nome do Pai e do_ _Filho e do Espírito Santo, e ensinando-os a observar tudo_ _o que vos ordenei!_ (Mt 28,19-20).
+A partir de então, compete à Igreja o dever de propagar a fé e a salvação trazidas por Cristo, seja em virtude do mandamento expresso, transmitido pelos apóstolos ao colégio dos bispos, assistidos pelos presbíteros, em união com o sucessor de Pedro e supremo Pastor da Igreja; seja em virtude da vida que Cristo infunde em seus membros.
+Portanto, a missão da Igreja se realiza quando, obediente ao preceito de Cristo e movida pela graça e pela caridade do Espírito Santo, ela se torna plenamente presente a todos os homens e povos; sua finalidade é de conduzi-los, pelo exemplo da vida e pela pregação, pelos sacramentos e outros meios da graça, à fé, à liberdade e à paz de Cristo. Deste modo, abre-se diante deles o caminho firme e seguro para participarem totalmente no mistério de Cristo.
+
+@secao Responsório | Mc 16,15-16; Jo 3,5
+
+@responsorio
+R. Ide por todo o mundo,
+a todos pregai o Evangelho;
+* Quem crer e aceitar o batismo de Cristo,
+este há de ser salvo.
+V. Quem não renascer da água e do Espírito,
+não pode entrar no Reino de Deus.
+* Quem crer.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dirigi a nossa vida segundo o vosso amor, para que possamos, em nome do vosso Filho, frutificar em boas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

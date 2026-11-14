@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/semanasanta/segunda_semanasanta.htm
+
+@secao Antífona da entrada | Cf. Sl 34,1-2; Sl 139,8
+@texto
+Julgai, Senhor, meus acusadores,
+combatei aqueles que me combatem.
+Tomai armadura e escudo
+e levantai-vos em meu socorro,
+Senhor, minha força e salvação.
+
+@secao Coleta
+@texto
+Deus todo-poderoso, concedei a nós,
+que desfalecemos em nossa fraqueza,
+recobrar novo alento
+pelos méritos da paixão do vosso Filho Unigênito.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Olhai, Senhor, com bondade,
+os sagrados mistérios que celebramos;
+o que em vossa misericórdia previdente
+instituístes para desfazer a nossa condenação
+produza em nós frutos de vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Sl 101,3
+@texto
+De mim não oculteis a vossa face
+no dia em que estou angustiado!
+Inclinai o vosso ouvido para mim,
+ao invocar-vos atendei-me sem demora!
+
+@secao Depois da comunhão
+@texto
+Visitai, Senhor, o vosso povo,
+e assisti com amor de Pai
+os que celebram os vossos mistérios,
+para que conservemos, pela vossa proteção,
+os remédios da salvação eterna
+que recebemos de vossa misericórdia.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Defendei, Senhor,
+os que se humilham
+e protegei os que confiam em vossa misericórdia,
+a fim de que, preparando-se para a festa da Páscoa,
+não façam apenas penitência corporal,
+mas busquem, o que é melhor, a pureza de coração.
+Por Cristo, nosso Senhor.

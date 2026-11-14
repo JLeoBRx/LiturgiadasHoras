@@ -1,0 +1,90 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_variosmartires_terca.htm
+@documento COMUM DOS MÁRTIRES PARA VÁRIOS MÁRTIRES - Hora Média
+
+@titulo COMUM DOS MÁRTIRES PARA VÁRIOS MÁRTIRES
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Na dureza do combate, o Senhor lhe deu vitória,
+pois mais forte do que tudo é a força do amor.
+
+@salmo salmos/salmo-119-v2
+
+@gloria
+
+@antifona
+Na dureza do combate, o Senhor lhe deu vitória,
+pois mais forte do que tudo é a força do amor.
+
+@secao Leitura breve | 1Pd 5,10-11
+
+@texto
+Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@texto
+V. Os santos que esperaram no Senhor,
+R. Encontraram sua força no seu Deus.
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Deus todo-poderoso, que destes aos santos {N.} e {N.} a graça de sofrer pelo Cristo, ajudai também a nossa fraqueza, para que possamos viver firmes em nossa fé, como eles não hesitaram em morrer por vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, ao comemorarmos todos os anos a paixão dos mártires {N.} e {N.}, dai-nos a alegria de ver atendidas as nossas preces, para imitarmos sua firmeza na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para virgens mártires:
+
+@texto
+Ó Deus, que hoje nos alegrais com a comemoração de vossas santas {N.} e {N.}, concedei que sejamos ajudados pelos seus méritos e iluminados pelos seus exemplos de castidade e fortaleza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para santas mulheres:
+
+@texto
+Ó Deus, cuja força se manifesta na fraqueza, fazei que, ao celebrarmos a glória das santas {N.} e {N.}, que de vós receberam a força para vencer, obtenhamos, por sua intercessão, a graça da vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

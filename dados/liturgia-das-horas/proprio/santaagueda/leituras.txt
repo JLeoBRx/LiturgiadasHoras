@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santaagueda.htm
+@documento Ofício das Leituras - Santa Águeda, Virgem E Mártir Memória
+
+@celebracao
+SANTA ÁGUEDA, VIRGEM E MÁRTIR
+{Memória}
+
+@biografia
+Foi martirizada em Catânia, na Sicília, provavelmente na perseguição de Décio. O seu culto propagou-se desde a antiguidade por toda a Igreja e seu nome foi incluído no Cânon romano.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Dese modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.[8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Numerososparalíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão na festa de Santa Águeda, de São Metódio da Sicília, bispo
+{(Séc. IX)} {(Analecta Bollandiana,68,76-78)}
+
+@tema
+Dom que nos foi concedido por Deus, verdadeira fonte da bondade
+
+@texto
+A comemoração do aniversário de Santa Águeda nos reúne a todos neste lugar, como se fôssemos um só. Bem conheceis, meus ouvintes, o combate glorioso desta mártir, uma das mais antigas e ao mesmo tempo tão recente que parece estar agora mesmo lutando e vencendo, através dos divinos milagres com os quais diariamente é coroada e ornada. A virgem Águeda nasceu do Verbo de Deus imortal e seu único Filho, que também padeceu a morte por nós. Com efeito, João, o teólogo, assim se exprime: _A todos_ _aqueles que o receberam, deu-lhes a capacidade de se tornarem filhos de Deus (_Jo 1,12). É uma virgem esta mulher que nos convidou para o sagrado banquete; é a mulher desposada com um único esposo, Cristo, para usar as mesmas expressões do apóstolo Paulo, ao falar da união conjugal. É uma virgem que pintava e enfeitava os olhos e os lábios com a luz da consciência e a cor do sangue do verdadeiro e divino Cordeiro; e que, pela meditação contínua, trazia sempre em seu íntimo a morte daquele que tanto amava. Deste modo, a mística veste de seu testemunho fala por si mesma a todas as gerações futuras, porque traz em si a marca indelével do sangue de Cristo e o tesouro inesgotável da sua eloquência virginal. Ela é uma imagem autêntica da bondade, porque, sendo de Deus, vem da parte de seu Esposo nos tornar participantes daqueles bens, dos quais seu nome traz o valor e o significado: Águeda (que quer dizer “boa”) é um dom que nos foi concedido por Deus, verdadeira fonte de bondade. Qual a causa suprema de toda a bondade, senão aquela que é o Sumo Bem? Por isso, quem encontrará algo mais que mereça, como Águeda, os nossos elogios e louvores? Águeda, cuja bondade corresponde tão bem ao nome e à realidade! Águeda, que pelos feitos notáveis traz consigo um nome glorioso, e no próprio nome demonstra as ilustres ações que realizou! Águeda, que nos atrai com o nome, para que todos venham ao seu encontro, e com o exemplo nos ensina a corrermos sem demora para o verdadeiro bem, que é Deus somente!
+
+@secao Responsório
+
+@responsorio
+R. Eu, porém, no Senhor apoiada,
+fico firme no meu testemunho.
+* O Senhor me salvou, me deu força.
+V. O Senhor, o Cordeiro sem mancha,
+todo cheio de amor escolheu
+para si esta serva sem mancha.
+* O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que Santa Águeda, virgem e mártir, agradável ao vosso coração pelo mérito da castidade e pela força do martírio, implore vosso perdão em nosso favor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saolucas_vesperas.htm
+@documento Vésperas - São Lucas, Evangelista
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cantamos, hoje, Lucas, teu martírio,
+teu sangue derramado por Jesus,
+os dois livros que trazes nos teus braços
+e o teu halo de luz.
+
+Levado pelo Espírito, escreveste
+tudo o que disse e fez o Bom Pastor,
+pois aos sermões de Cristo acrescentaste
+os seus gestos de amor.
+
+De Pedro e Paulo registraste os atos,
+e do povo fiel a comunhão,
+quando unidos em preces pelas casas,
+iam partindo o pão.
+
+De Paulo foste o amigo e companheiro,
+ouviste de seu peito as pulsações;
+faze vibrar no mesmo amor de Cristo
+os nossos corações.
+
+Médico santo, cura os nossos males,
+leva ao aprisco o pobre pecador;
+dá que no céu sejamos acolhidos
+pelo próprio Senhor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor constituiu-me ministro do Evangelho,
+pelo dom da sua graça.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+O Senhor constituiu-me ministro do Evangelho,
+pelo dom da sua graça.
+
+@antifona 2
+Tudo faço por causa do Evangelho,
+para dele receber a minha parte.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Tudo faço por causa do Evangelho,
+para dele receber a minha parte.
+
+@antifona 3
+A mim foi concedida esta graça:
+aos pagãos anunciar a Boa-nova
+das riquezas insondáveis de Jesus.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+A mim foi concedida esta graça:
+aos pagãos anunciar a Boa-nova
+das riquezas insondáveis de Jesus.
+
+@secao Leitura breve | Cl 1,3-6a
+
+@texto
+Damos graças a Deus, Pai de nosso Senhor Jesus Cristo, sempre rezando por vós, pois ouvimos acerca da vossa fé em Cristo Jesus e do amor que mostrais para com todos os santos, animados pela esperança na posse do céu. Disso já ouvistes falar no Evangelho, cuja palavra de verdade chegou até vós. E como no mundo inteiro, assim também entre vós ela está produzindo frutos e se desenvolve.
+
+@secao Responsório breve
+
+@responsorio
+R. Anunciai, entre as nações,
+* A glória do Senhor. R. Anunciai.
+V. E entre os povos do universo, as suas maravilhas. * A glória.
+Glória ao Pai. R. Anunciai.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Este santo Evangelista,
+que de Cristo a mansidão descreveu-nos no Evangelho,
+com justiça hoje recebe os louvores da Igreja.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Este santo Evangelista,
+que de Cristo a mansidão descreveu-nos no Evangelho,
+com justiça hoje recebe os louvores da Igreja.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, fonte de toda luz, que nos chamou à verdadeira fé por meio do Evangelho de seu Filho; e peçamos em favor do seu povo santo, dizendo:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Deus Pai, que ressuscitastes dos mortos vosso Filho, o grande Pastor das ovelhas,
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra de reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que escolhestes São Lucas para revelar em suas palavras e escritos o mistério do vosso amor para com os pobres, concedei aos que já se gloriam do vosso nome perseverar num só coração e numa só alma, e a todos os povos do mundo ver a vossa salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

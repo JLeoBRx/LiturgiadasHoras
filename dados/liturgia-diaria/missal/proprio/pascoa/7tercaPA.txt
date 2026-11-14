@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7tercaPA.htm
+
+@secao Antífona da entrada | Ap 1,17-18
+@texto
+Eu sou o Primeiro e o Último, aquele que vive.
+Estive morto, mas agora estou vivo para sempre, aleluia!
+
+@secao Coleta
+@texto
+Deus de poder e misericórdia,
+nós vos pedimos que o Espírito Santo,
+vindo habitar em nossos corações,
+nos transforme em templo de sua glória.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor,
+as preces dos fiéis com a oblação do sacrifício, para que possamos,
+por este serviço da nossa piedosa devoção, alcançar a glória do céu.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 14,26
+@texto
+O Espírito Santo, que o Pai enviará em meu nome,
+ele vos ensinará tudo
+e vos recordará tudo o que vos tenho dito,
+diz o Senhor, aleluia.
+
+@secao Depois da comunhão
+@texto
+Alimentados, Senhor, com os dons deste sagrado mistério,
+nós vos pedimos humildemente
+que nos faça crescer na caridade
+a Eucaristia que vosso Filho nos mandou celebrar em sua memória.
+Por Cristo, nosso Senhor.

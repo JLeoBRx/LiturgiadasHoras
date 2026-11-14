@@ -1,0 +1,424 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/oracaoeucaristica/oracaoeucaristicaI.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@texto
+**ORAÇÃO EUCARÍSTICA I**
+{OU} **CÂNON ROMANO**
+
+@texto
+{O sacerdote, de braços abertos, diz:}
+{CP} Pai de misericórdia,
+a quem sobem nossos louvores,
+suplicantes, vos rogamos e pedimos
+por Jesus Cristo, vosso Filho e Senhor nosso,
+{une as mãos e traça o sinal da cruz, ao mesmo tempo sobre o pão e o cálice, dizendo:}
+que aceiteis e abençoeis **{✠}** estes dons, estas oferendas,
+este sacrifício puro e santo,
+
+{de braços abertos, prossegue:} que oferecemos,
+antes de tudo, pela vossa Igreja santa e católica:
+concedei-lhe paz e proteção,
+unindo-a num só corpo
+e governando-a por toda a terra,
+em comunhão com vosso servo o Papa {N.},
+o nosso Bispo {N.*},
+e todos os que guardam a fé católica
+que receberam dos Apóstolos.
+
+{(*) Aqui pode-se fazer menção dos Bispos Coadjutores ou Auxiliares, conforme vem indicado na Instrução Geral sobre o Missal Romano, n. 149.} {A assembleia aclama:}
+Abençoai nossa oferenda, ó Senhor!
+
+{Memento dos vivos}
+{1C} Lembrai-vos, ó Pai,
+dos vossos filhos e filhas {N. N.}
+{une as mãos e reza em silêncio por aqueles que quer recordar.}
+{De braços abertos, prossegue:}
+e de todos os que circundam este altar, dos quais conheceis a fé
+e a dedicação ao vosso serviço.
+{★} Por eles nós vos oferecemos
+e também eles vos oferecem
+este sacrifício de louvor
+por si e por todos os seus,
+e elevam a vós as suas preces,
+Deus eterno, vivo e verdadeiro,
+para alcançar o perdão de suas faltas, a segurança em suas vidas
+e a salvação que esperam.
+
+{A assembleia aclama:}
+Lembrai-vos, ó Pai, dos vossos filhos!
+
+{_________________________________________}
+
+@rubrica
+Na Missa com Batismo
+
+@texto
+{1C} Lembrai-vos, ó Pai,
+dos vossos filhos e filhas {N. N.}
+{aqui se mencionam os nomes dos padrinhos e das madrinhas} que conduziram os vossos eleitos
+à santa graça do Batismo,
+e de todos que circundam este altar, dos quais conheceis a fé
+e a dedicação ao vosso serviço.{★}{_________________________________________}
+
+{"Infra actionem"} {2C} Em comunhão com toda a Igreja,
+celebramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria,
+{★} a de seu esposo São José,
+e também a dos Santos Apóstolos e Mártires:
+Pedro e Paulo, André,
+(Tiago e João,
+Tomé, Tiago e Filipe,
+Bartolomeu e Mateus,
+Simão e Tadeu,
+Lino, Cleto, Clemente,
+Sisto, Cornélio e Cipriano,
+Lourenço e Crisógono,
+João e Paulo,
+Cosme e Damião)
+e a de todos os vossos Santos.
+Por seus méritos e preces
+concedei-nos sem cessar a vossa proteção.
+
+(Por Cristo, nosso Senhor. Amém.)
+
+{A assembleia aclama:}
+Em comunhão com vossos Santos vos louvamos!
+
+{____________________________________}
+
+@texto
+**COMUNICANTES PRÓPRIOS**{Ⓑ}Para os Domingos
+
+@texto
+Em comunhão com toda a Igreja,
+celebramos o glorioso dia
+em que o Senhor Jesus venceu a morte
+e nos tornou participantes de sua vida imortal.
+Veneramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria, {**★**}
+
+@texto
+{No Natal do Senhor e durante a Oitava}
+Em comunhão com toda a Igreja,
+celebramos (a noite santíssima) o dia santíssimo
+em que Maria, intacta em sua virgindade,
+deu à luz o Salvador do mundo.
+Veneramos em primeiro lugar
+a memória da mesma Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria, **{★}**
+
+@rubrica
+Na Epifania do Senhor
+
+@texto
+Em comunhão com toda a Igreja,
+celebramos o dia santíssimo
+em que vosso Filho unigênito,
+eterno convosco na glória,
+se manifestou visivelmente em nossa carne.
+Veneramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria, **{★}**
+
+@rubrica
+Da Vigília Pascal até o 2º Domingo da Páscoa
+
+@texto
+Em comunhão com toda a Igreja,
+celebramos (a noite santíssima) o dia santíssimo
+da Ressurreição de nosso Senhor Jesus Cristo segundo a carne.
+Veneramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria, **{★}**
+
+@rubrica
+Na Ascensão do Senhor
+
+@texto
+Em comunhão com toda a Igreja,
+celebramos o dia santíssimo
+em que nosso Senhor, vosso Filho unigênito,
+elevou à vossa direita na glória
+a nossa frágil natureza humana.
+Veneramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria,**{★}**
+
+@rubrica
+Em Pentecostes
+
+@texto
+Em comunhão com toda a Igreja,
+celebramos o dia santíssimo de Pentecostes
+em que o Espírito Santo, em línguas de fogo,
+se manifestou aos Apóstolos.
+Veneramos em primeiro lugar
+a memória da Mãe de nosso Deus e Senhor Jesus Cristo,
+a gloriosa sempre Virgem Maria, **{★}**
+{____________________________________}
+{O sacerdote, com os braços abertos, continua:}
+{CP} Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+dai-nos sempre a vossa paz,
+livrai-nos da condenação eterna
+e acolhei-nos entre os vossos eleitos.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+{____________________________________}
+
+@rubrica
+Da Vigília Pascal até o 2º Domingo da Páscoa
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+nós a oferecemos também por aqueles
+que vos dignastes regenerar pela água e pelo Espírito Santo,
+concedendo-lhes a remissão de todos os pecados.
+Dai aos nossos dias a vossa paz,
+livrai-nos da condenação eterna
+e acolhei-nos entre os vossos eleitos.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+Na Missa com Batismo
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+nós a oferecemos também por aqueles
+que vos dignastes regenerar pela água e pelo Espírito Santo,
+concedendo-lhes a remissão de todos os pecados,
+para que vivam em nosso Senhor Jesus Cristo
+e tenham seus nomes inscritos no livro da vida.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+Na Missa com Crisma
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+nós a oferecemos também por aqueles
+que, regenerados pelo Batismo,
+confirmastes com o dom do Espírito Santo.
+Nós vos pedimos, Senhor,
+acolhei benigno a nossa oferta
+e dignai-vos guardar neles a vossa graça.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+ⒷNa Missa com Primeira Comunhão Eucarística
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+nós a oferecemos por vossos filhos e filhas
+que hoje reunis pela primeira vez à vossa mesa,
+na participação do Pão da vida e do Cálice da salvação;
+concedei-lhes crescer sempre em vossa amizade
+e na comunhão com vossa Igreja.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+ⒷNa Missa com Unção dos Enfermos
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação dos vossos servos
+e de toda a vossa família;
+nós a oferecemos também
+pelos nossos irmãos enfermos
+que, mediante a santa unção,
+unem os seus sofrimentos à Páscoa de Cristo;
+dai-lhes consolação, saúde e paz.
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+Na Missa com Matrimônio
+
+@texto
+Aceitai, ó Pai, com bondade,
+a oblação de vossos servos,
+como também dos novos esposos {N.} e {N.},
+e de toda a vossa família que por eles intercede.
+E, como lhes destes chegar ao dia do casamento,
+concedei-lhes também vida longa e feliz
+(e a alegria dos filhos que desejam).
+
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+@rubrica
+____________________________________
+
+@texto
+{Estendendo as mãos sobre as oferendas, diz:}
+{CC} Dignai-vos, ó Pai,
+aceitar, abençoar e santificar estas oferendas;
+recebei-as como sacrifício espiritual perfeito,
+a fim de que se tornem para nós
+o Corpo e o Sangue de vosso amado Filho,
+nosso Senhor Jesus Cristo.
+{Une as mãos.}
+{A assembleia aclama:}
+Enviai o vosso Espírito Santo!
+
+{O relato da instituição da Eucaristia seja proferido de modo claro e audível, como}
+{requer a sua natureza.}
+Na véspera de sua paixão,
+{toma o pão e,}
+{mantendo-o um pouco elevado acima do altar, prossegue:}
+ele tomou o pão em suas santas e veneráveis mãos,
+{eleva os olhos,}
+elevou os olhos ao céu, a vós, ó Pai todo-poderoso,
+pronunciou a bênção de ação de graças,
+partiu o pão e o deu a seus discípulos,
+dizendo:
+{inclina-se levemente}
+TOMAI, TODOS, E COMEI:
+ISTO É O MEU CORPO,
+QUE SERÁ ENTREGUE POR VÓS.{Mostra ao povo a hóstia consagrada, coloca-a na patena e genuflete em adoração.}{Então prossegue:} Do mesmo modo,
+no fim da ceia,
+{toma o cálice nas mãos}
+{e, mantendo-o um pouco elevado acima do altar, prossege:} ele tomou este precioso cálice em suas santas e veneráveis mãos,
+pronunciou novamente a bênção de ação de graças
+e o deu a seus discípulos,
+dizendo:
+{inclina-se levemente} TOMAI, TODOS, E BEBEI:
+ESTE É O CÁLICE DO MEU SANGUE,
+O SANGUE DA NOVA E ETERNA ALIANÇA,
+QUE SERÁ DERRAMADO POR VÓS E POR TODOS
+PARA REMISSÃO DOS PECADOS.
+FAZEI ISTO EM MEMÓRIA DE MIM.
+{Mostra o cálice ao povo, coloca-o sobre o corporal e genuflete em adoração.}
+
+{Em seguida, diz:}
+Mistério da fé!
+
+{A assembleia aclama:}
+Anunciamos, Senhor, a vossa morte
+e proclamamos a vossa ressurreição.
+Vinde, Senhor Jesus!
+{Ou:}
+Mistério da fé e do amor!
+{A assembleia aclama:}
+Todas as vezes que comemos deste pão
+e bebemos deste cálice,
+anunciamos, Senhor, a vossa morte,
+enquanto esperamos a vossa vinda!
+
+{Ou:}
+Mistério da fé para a salvação do mundo!
+{A assembleia aclama:}
+Salvador do mundo, salvai-nos,
+vós que nos libertastes
+pela cruz e ressurreição.
+
+{O sacerdote, de braços abertos, diz:}
+{CC} Celebrando, pois, a memória
+da bem-aventurada paixão do vosso Filho,
+da sua ressurreição dentre os mortos
+e gloriosa ascensão aos céus,
+nós, vossos servos,
+e também vosso povo santo,
+vos oferecemos, ó Pai,
+dentre os bens que nos destes,
+o sacrifício puro, santo e imaculado,
+Pão santo da vida eterna
+e Cálice da perpétua salvação.
+
+Recebei, ó Pai,
+com olhar benigno, esta oferta,
+como recebestes os dons do justo Abel,
+o sacrifício de nosso patriarca Abraão
+e a oblação pura e santa
+do sumo sacerdote Melquisedeque.
+
+{A assembleia aclama:}
+Aceitai, ó Senhor, a nossa oferta!
+{Une as mãos e, inclinando-se, diz:}
+Suplicantes, vos pedimos, ó Deus onipotente,
+que esta nossa oferenda seja levada à vossa presença,
+no altar do céu, pelas mãos do vosso santo Anjo,
+para que todos nós, participando deste altar
+pela comunhão do santíssimo Corpo e Sangue do vosso Filho, {ergue-se e faz sobre si o sinal da cruz, dizendo:}
+sejamos repletos de todas as graças e bênçãos do céu.
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+{A assembleia aclama:}
+O Espírito nos una num só corpo!
+
+{Memento dos mortos.}
+{De braços abertos, diz:}
+{3C} Lembrai-vos, ó Pai,
+dos vossos filhos e filhas {N. N.}
+que nos precederam com o sinal da fé
+e dormem o sono da paz.
+{Une as mãos e, em silêncio, reza brevemente pelos defuntos que deseja recordar.}
+{De braços abertos, prossegue:}
+A eles,
+e a todos os que descansam no Cristo,
+concedei o repouso, a luz e a paz.
+{Une as mãos.}
+(Por Cristo, nosso Senhor. Amém).
+
+{A assembleia aclama:}
+Concedei-lhes, ó Senhor, a luz eterna!
+
+{Bate no peito, dizendo:}
+{4C} E a todos nós pecadores,
+{e, de braços abertos, prossegue:}
+que esperamos na vossa infinita misericórdia,
+concedei, não por nossos méritos,
+mas por vossa bondade,
+o convívio dos Apóstolos e Mártires:
+João Batista e Estêvão,
+Matias e Barnabé,
+(Inácio, Alexandre,
+Marcelino e Pedro,
+Felicidade e Perpétua,
+Águeda e Luzia,
+Inês, Cecília, Anastácia)
+e de todos os vossos Santos.
+{Une as mãos.}
+Por Cristo, nosso Senhor.
+
+{E prossegue:}
+Por ele
+não cessais de criar, santificar, vivificar,
+abençoar estes bens
+e distribuí-los entre nós.
+
+{Ergue a patena com a hóstia e o cálice, dizendo:}
+{CP ou CC} Por Cristo,
+com Cristo,
+e em Cristo,
+a vós, Deus Pai todo-poderoso,
+na unidade do Espírito Santo,
+toda honra e toda glória,
+por todos os séculos dos séculos.
+
+{A assembleia aclama:}
+Amém.
+
+{Segue-se o rito da comunhão.}

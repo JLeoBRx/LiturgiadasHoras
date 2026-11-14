@@ -1,0 +1,251 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/1quartaPascoa.htm
+@documento Ofício das Leituras - Quarta-Feira Na Oitava Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus e meu Senhor, como sois grande! Aleluia.
+
+@salmo salmos/salmo-103-i
+
+@gloria
+
+@antifona
+Ó meu Deus e meu Senhor, como sois grande! Aleluia.
+
+@antifona 2
+Com vossos frutos saciais a terra inteira. Aleluia.
+
+@salmo salmos/salmo-103-ii
+
+@gloria
+
+@antifona
+Com vossos frutos saciais a terra inteira. Aleluia.
+
+@antifona 3
+Que a glória do Senhor perdure sempre. Aleluia.
+
+@salmo salmos/salmo-103-iii
+
+@gloria
+
+@antifona
+Que a glória do Senhor perdure sempre. Aleluia.
+
+@texto
+V. Deus, o Pai, que a Jesus
+nosso Senhor ressuscitou. Aleluia,
+R. Nos fará também a nós
+ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {2,11-25}
+
+@tema
+Os cristãos são estrangeiros no mundo
+
+@texto
+[11] Amados, eu vos exorto como a estrangeiros e migrantes: afastai-vos das humanas paixões, que fazem guerra contra vós mesmos. [12] Tende bom procedimento no meio dos gentios. Deste modo, mesmo caluniando-vos, como se fôsseis malfeitores, eles poderão observar a vossa boa atuação e glorificar a Deus, no dia de sua visitação.
+
+[13] Sede submissos a toda autoridade humana, por amor ao Senhor, quer ao imperador, como soberano, [14] quer aos governadores, que por ordem de Deus castigam os malfeitores e premiam os que fazem o bem. [15] Pois a vontade de Deus é precisamente esta: que, fazendo o bem, caleis a ignorância dos insensatos. [16] Conduzi-vos como pessoas livres, mas sem usar a liberdade como pretexto para o mal. Pelo contrário, sede servidores de Deus. [17] Honrai a todos, e amai os irmãos. Tende temor de Deus, e honrai o rei.
+
+[18] Vós, servos da família, submetei-vos aos patrões com todo o respeito, e não só aos que são bons e afáveis, como também aos que são difíceis. [19] De fato, se suportais sofrimento injusto com o pensamento em Deus, isso lhe agrada. [20] Pois que glória há em sofrer, se sois castigados por vossos pecados? Mas, se suportais com paciência aquilo que sofreis por ter feito o bem, isto vos torna agradáveis diante de Deus. [21] De fato, para isto fostes chamados.
+
+Também Cristo sofreu por vós deixando-vos um exemplo, a fim de que sigais os seus passos. [22] Ele não cometeu pecado algum, mentira nenhuma foi encontrada em sua boca. [23] Quando injuriado, não retribuía as injúrias; atormentado, não ameaçava; antes, colocava a sua causa nas mãos daquele que julga com justiça. [24] Sobre a cruz, carregou nossos pecados em seu próprio corpo, a fim de que, mortos para os pecados, vivamos para a justiça. Por suas feridas fostes curados. [25] Andáveis como ovelhas desgarradas, mas agora voltastes ao pastor e guarda de vossas vidas.
+
+@secao Responsório | 1Pd 2,21.24
+
+@responsorio
+V. O Cristo por vós padeceu,
+deixou-vos o exemplo a seguir:
+* Sigamos, portanto, seus passos! Aleluia.
+V. Carregou sobre si nossas culpas
+em seu corpo, no lenho da cruz,
+para que mortos aos nossos pecados,
+na justiça de Deus nós vivamos. * Sigamos.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia pascal de um Autor antigo
+{(Sermo 35, 6-9:PL17 [ed. 1879],696-697)}
+
+@tema
+Cristo, autor da ressurreição e da vida
+
+@texto
+Lembrando a felicidade da salvação recuperada, Paulo exclama: _assim como por Adão entrou a morte neste mundo, da mesma forma por Cristo foi restituída a salvação ao mundo._ (cf. Rm 5,12). E ainda: _O primeiro homem, tirado da terra, é terrestre; o segundo homem, que vem do céu, é celeste_ (1Cor 15,47).
+
+E prossegue, dizendo: _Como já refletimos a imagem do homem terreno, isto é, envelhecido pelo pecado, assim também refletimos a imagem do celeste_ (1Cor 15,49), ou seja, conservaremos a salvação do homem recuperado, redimido, renovado e purificado em Cristo. Segundo o mesmo Apóstolo, Cristo é o princípio, quer dizer, é o autor da ressurreição e da vida; em seguida, vêm os que são de Cristo, isto é, os que vivendo na imitação da sua santidade, podem considerar-se sempre seguros na esperança da sua ressurreição e receber com ele a glória da promessa celeste. É o próprio Senhor quem afirma no Evangelho: _Quem me segue não perecerá, mas passará da morte para a vida_ (cf. Jo 5,24).
+
+Deste modo, a paixão do Salvador é a salvação da vida humana. Precisamente para isso ele quis morrer por nós, a fim de que, acreditando nele, vivamos para sempre. Ele quis, por algum tempo, tornar-se o que somos, para que, alcançando a sua promessa de eternidade, vivamos com ele para sempre. É esta a imensa graça dos mistérios celestes, é este o dom da Páscoa, é esta a grande festa anual tão esperada, é este o princípio da nova criação.
+
+Nesta solenidade, os novos filhos que são gerados nas águas vivificantes da santa Igreja, com a simplicidade de crianças recém-nascidas, fazem ouvir o balbuciar da sua consciência inocente. Nesta solenidade, os pais e mães cristãos obtêm, por meio da fé, uma nova e inumerável descendência.
+
+Nesta solenidade, à sombra da árvore da fé, brilha o esplendor dos círios com o fulgor que irradia da pura fonte batismal. Nesta solenidade, desce do céu o dom da graça que santifica os recém-nascidos e o sacramento espiritual do admirável mistério que os alimenta.
+
+Nesta solenidade, a assembleia dos fiéis, alimentada no regaço materno da santa Igreja, formando um só povo e uma só família, adorando a Unidade da natureza divina e o nome da Trindade, canta com o Profeta o salmo da grande festa anual: _Este é o dia que o Senhor fez para nós, alegremo-nos e nele exultemos_ (Sl 117,24).
+
+Mas, pergunto, que dia é este? Precisamente, aquele que nos trouxe o princípio da vida, a origem e o autor da luz, o próprio Senhor Jesus Cristo que de si mesmo afirma: _Eu sou a luz. Se alguém caminha de dia, não tropeça_ (Jo 8,12; 11,9), quer dizer, aquele que em todas as coisas segue a Cristo, chegará, seguindo os seus passos, ao trono da eterna luz. Assim pedia ele ao Pai em nosso favor, quando ainda vivia em seu corpo mortal, ao dizer: _Pai, quero que onde eu estou, aí estejam também os que acreditaram em mim; para que assim como tu estás em mim e eu em ti, assim também eles estejam em nós_ (cf. Jo 17,20s).
+
+@secao Responsório | 1Cor 15,47.49.48
+
+@responsorio
+R. O homem primeiro é terrestre porque é tirado da terra;
+o segundo, porém, é celeste porque é do céu sua origem.
+* Assim como em nós carregamos
+a imagem do homem terrestre,
+carreguemos em nós, igualmente,
+a imagem do homem celeste. Aleluia.
+V. Os terrestres são como o terrestre;
+os celestes são como o celeste. * Assim como.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos alegrais todos os anos com a solenidade da ressurreição do Senhor, concedei-nos, pelas festas que celebramos nesta vida, chegar às eternas alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

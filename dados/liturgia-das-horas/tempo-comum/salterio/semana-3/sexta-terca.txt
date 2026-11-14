@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sexta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Nós o vimos desprezado e sem beleza,
+homem das dores, habituado ao sofrimento.
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@antifona
+Nós o vimos desprezado e sem beleza,
+homem das dores, habituado ao sofrimento.
+
+@antifona 2
+Eles repartem entre si as minhas vestes,
+e sorteiam entre si a minha túnica.
+
+@salmo salmos/salmo-021-ii
+
+@gloria
+
+@antifona
+Eles repartem entre si as minhas vestes,
+e sorteiam entre si a minha túnica.
+
+@antifona 3
+Que se prostrem e adorem o Senhor,
+todos os povos e as famílias das nações!
+
+@salmo salmos/salmo-021-iii
+
+@gloria
+
+@antifona
+Que se prostrem e adorem o Senhor,
+todos os povos e as famílias das nações!
+
+@secao Leitura breve | Rm 1,16b-17
+
+@texto
+O Evangelho é uma força salvadora de Deus para todo aquele que crê. Nele, com efeito, a justiça de Deus se revela da fé para a fé, como está escrito: O justo viverá pela fé.
+
+@texto
+V. O nosso coração se alegra em Deus.
+R. Seu santo nome é nossa única esperança.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que nesta hora fostes levado ao suplício da cruz para salvar o mundo, perdoai-nos as faltas passadas e preservai-nos de culpas futuras. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

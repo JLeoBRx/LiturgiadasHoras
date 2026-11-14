@@ -1,0 +1,109 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/1segundaAdvento.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo 1ª SEMANA DO ADVENTO / SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {1,21-27; 2,1-5}
+
+@tema
+Julgamento e salvação para Sião, centro de todos os povos
+
+@texto
+[1,21] Como se tornou uma meretriz
+esta cidade, outrora fiel e justa?
+Nela habitava a justiça,
+agora moram os assassinos.
+[22] Tua prata transformou-se em escória,
+teu vinho tornou-se aguado;
+[23] teus príncipes são desonestos,
+cúmplices de ladrões;
+gostam de subornos e vão atrás de gratificações;
+não fazem justiça ao órfão,
+não chega até eles a causa da viúva.
+[24] Por isso, diz o Senhor Deus dos exércitos,
+o Forte de Israel:
+“Ah! tomarei satisfação dos meus adversários,
+eu me vingarei dos meus inimigos.
+[25] Eu voltarei minha mão contra ti,
+purificarei ao máximo a tua escória
+e te limparei de toda a ganga.
+[26] Farei que teus juízes voltem a ser como eram
+e teus conselheiros como os de outrora;
+depois disso serás chamada
+Cidade da Justiça, Cidade fiel.
+[27] Sião será resgatada com justiça
+e os que nela habitam,
+pela prática da retidão.
+[2,1] Visão de Isaías, filho de Amós,
+sobre Judá e Jerusalém.
+[2] Acontecerá, nos últimos tempos,
+que o monte da casa do Senhor
+estará firmemente estabelecido
+no ponto mais alto das montanhas
+e dominará as colinas.
+A ele acorrerão todas as nações,
+[3] para lá irão numerosos povos e dirão:
+“Vamos subir ao monte do Senhor,
+à casa do Deus de Jacó,
+para que ele nos mostre seus caminhos
+e nos ensine a cumprir seus preceitos”;
+porque de Sião provém a lei
+e de Jerusalém, a palavra do Senhor.
+[4] Ele há de julgar as nações
+e arguir numerosos povos;
+estes transformarão suas espadas em arados
+e suas lanças em foices;
+não pegarão em armas uns contra os outros
+e não mais travarão combate.
+[5] Vinde, todos da casa de Jacó,
+e deixemo-nos guiar pela luz do Senhor.
+
+@secao Responsório | Mq 4,2; Jo 4,25
+
+@responsorio
+R. Vinde, e subamos ao monte do Senhor
+e a casa do Deus de Jacó:
+* Para que ele nos ensine suas vias,
+e sigamos os caminhos do Senhor.
+V. O Messias há de vir, chamado Cristo;
+quando vier, anunciará todas as coisas.
+* Para que ele.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas Pastorais de São Carlos Borromeu, bispo
+{(Séc. XVI)} {(Acta Eclesiae Mediolanensis, t. 2, Lugduni, 1683, 916-917)}
+
+@tema
+O tempo do Advento
+
+@texto
+Caros filhos, eis chegado o tempo tão importante e solene que, conforme diz o Espírito Santo, é _o momento favorável, o dia da salvação_ (cf. 2Cor 6,2), da paz e da reconciliação. É o tempo que outrora os patriarcas e profetas tão ardentemente desejaram com seus anseios e suspiros; o tempo que o justo Simeão finalmente pôde ver cheio de alegria, tempo celebrado sempre com solenidade pela Igreja, e que também deve ser constantemente vivido com fervor, louvando e agradecendo ao Pai eterno pela misericórdia que nos revelou nesse mistério. Em seu imenso amor por nós, pecadores, o Pai enviou seu Filho único a fim de libertar-nos da tirania e do poder do demônio, convidar-nos para o céu, revelar-nos os mistérios do seu reino celeste, mostrar-nos a luz da verdade, ensinar-nos a honestidade dos costumes, comunicar-nos os germes das virtudes, enriquecer-nos com os tesouros da sua graça e, enfim, adotar-nos como seus filhos e herdeiros da vida eterna.
+Celebrando cada ano este mistério, a Igreja nos exorta a renovar continuamente a lembrança de tão grande amor de Deus para conosco. Ensina-nos também que a vinda de Cristo não foi proveitosa apenas para os seus contemporâneos, mas que a sua eficácia é comunicada a todos nós se, mediante a fé e os sacramentos, quisermos receber a graça que ele nos prometeu, e orientar nossa vida de acordo com os seus ensinamentos.
+A Igreja deseja ainda ardentemente fazer-nos compreender que o Cristo, assim como veio uma só vez a este mundo, revestido da nossa carne, também está disposto a vir de novo, a qualquer momento, para habitar espiritualmente em nossos corações com a profusão de suas graças, se não opusermos resistência.
+Por isso, a Igreja, como mãe amantíssima e cheia de zelo pela nossa salvação, nos ensina durante este tempo, com diversas celebrações, com hinos, cânticos e outras palavras do Espírito Santo, como receber convenientemente e de coração agradecido este imenso benefício e a enriquecer-nos com seus frutos, de modo que nos preparemos para a chegada de Cristo nosso Senhor com tanta solicitude como se ele estivesse para vir novamente ao mundo. É com esta diligência e esperança que os patriarcas do Antigo Testamento nos ensinaram, tanto em palavras como em exemplos, a preparar a sua vinda.
+
+@secao Responsório | Cf. Jl 2,15; Is 62,11; Jr 4,5
+
+@responsorio
+R. Tocai a trombeta em Sião, convocai as nações e os povos,
+reuni o meu povo e dizei:
+* Eis que vem nosso Deus Salvador!
+V. Fazei conhecer este anúncio, que todos o possam ouvir,
+falai e gritai com voz forte:
+* Eis que vem.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos esperar solícitos a vinda do Cristo, vosso Filho. Que ele, ao chegar, nos encontre vigilantes na oração e proclamando o seu louvor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

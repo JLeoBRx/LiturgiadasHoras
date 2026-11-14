@@ -1,0 +1,132 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/lourencoruiz.htm
+@documento Ofício das Leituras - São Lourenço Ruiz E Companheiros, Mártires
+
+@celebracao
+SÃO LOURENÇO RUIZ E COMPANHEIROS, MÁRTIRES
+
+@biografia
+No século XVII, entre os anos de 1633 e 1637, dezesseis mártires, Lourenço Ruiz e seus Companheiros, derramaram seu sangue por amor de Cristo, em Nagasaki, no Japão. Todos pertenciam à Ordem de São Domingos ou a ela estavam ligados. Dentre esses mártires, nove eram presbíteros, dois religiosos, duas virgens e três leigos, sendo um deles Lourenço Ruiz, pai de família, natural das Ilhas Filipinas. Em época e condições diversas, pregaram a fé cristã nas Ilhas Filipinas, em Formosa e no Japão. Manifestaram de modo admirável a universalidade do cristianismo e, como infatigáveis missionários, espalharam copiosamente, pelo exemplo da vida e pela morte, a semente da futura cristandade.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão dacorrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia do Papa João Paulo II na Missa solene de Beatificação dos Servos de Deus Lourenço Ruiz, e seus Companheiros, celebrada em Manila
+{(Séc. XX)} {(AAS 73,1981,340-342)}
+
+@tema
+Manifestaram o maior ato de adoração e amor para com Deus no sacrifício do próprio sangue
+
+@texto
+Segundo a promessa do Evangelho, Cristo reconhece verdadeiramente, em presença do seu Pai no céu, aqueles mártires fiéis que deram testemunho dele perante os homens.
+O hino de glória a Deus, que foi agora cantado por tantas vozes, é um eco daquele “Te Deum” cantado na igreja de São Domingos, na tarde de 27 de dezembro de 1637, quando chegou a notícia do martírio de um grupo de seis cristãos em Nagasaki. Entre eles estava o superior da missão, Frei Antônio González, dominicano espanhol originário de León, e Lourenço Ruiz, pai de família, nascido em Manila, no subúrbio de Binondo. Estas testemunhas cantaram, por sua vez, salmos ao Senhor de misericórdia e poder, não só quando estavam na prisão, mas também quando caminhavam para o martírio que durou três dias.
+A fé vence o mundo. A pregação desta fé ilumina, como o sol, todos aqueles que desejam chegar ao conhecimento da verdade. E, realmente, embora haja diferentes línguas no mundo, a tradição cristã é uma só.
+O Senhor Jesus, com o próprio sangue, remiu verdadeiramente os seus servos, reunidos de todas as raças, línguas e nações, a fim de fazer deles um sacerdócio real para o nosso Deus.
+Os dezesseis bem-aventurados mártires, exercendo o seu sacerdócio – o do Batismo ou o da Sagrada Ordem – manifestaram o maior ato de adoração e amor para com Deus no sacrifício do próprio sangue unido ao sacrifício de Cristo, no altar da Cruz.
+Assim, imitaram Cristo, sacerdote e vítima, do modo mais perfeito possível para as criaturas humanas. Ao mesmo tempo, foi o maior ato de amor que se possa fazer pelos irmãos, por amor dos quais somos chamados a sacrificar-nos, seguindo o exemplo do Filho de Deus que deu a sua vida por nós.
+Foi isto o que fez Lourenço Ruiz. Guiado pelo Espírito Santo a caminho de um termo inesperado, depois de uma vida cheia de perigos, disse aos juízes que era cristão e que morreria por Deus: “Se tivesse muitos milhares de vidas ofereceria todas por ele. Nunca o renegarei. Podeis matar-me, se é isto que desejais. Morrer por Deus é a minha vontade”.
+Nestas palavras contemplamos uma síntese da sua personalidade, uma descrição da sua fé e a razão de sua morte. Foi neste momento que este jovem pai de família testemunhou e pôs em prática a catequese cristã que recebera na escola dos Frades dominicanos de Binondo: catequese que não podia deixar de ser cristocêntrica quer pelo mistério que encerra, quer por nos ensinar Cristo pelos lábios de seu mensageiro.
+O exemplo de Lourenço Ruiz, filho de pai chinês e mãe filipina, recorda-nos que a vida de cada um, a vida inteira, deve estar à disposição de Cristo.
+Ser cristão significa doar-se cada dia, em resposta ao dom de Cristo que vem ao mundo para que todos tenham a vida e a tenham plenamente.
+
+@secao Responsório | Cf. Ef 4,4.5
+
+@responsorio
+R. Estes mártires santos derramaram
+o seu sangue heroico por Deus;
+amaram o Cristo na vida, imitaram o Cristo na morte;
+* Mereceram coroas de glória.
+V. Viviam unidos na fé, no amor e no mesmo Espírito.* Mereceram.
+
+@secao Oração
+
+@oracao
+Concedei-nos, Senhor Deus, a paciência dos vossos mártires Lourenço e companheiros em vosso serviço e na ajuda ao próximo, porque são felizes em vosso reino os que sofrem perseguição por amor à justiça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/10sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 10a SEMANA DO TEMPO COMUM / SÁBADO / II Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {4,10-23}
+
+@tema
+Generosidade dos filipenses para com Paulo
+
+@texto
+Irmãos, [10] grande foi a minha alegria no Senhor, porque, finalmente, vi florescer o vosso interesse por mim; verdade é que sempre estáveis alertas, mas não tínheis oportunidade. [11] Falo assim não por causa das privações, pois aprendi a adaptar-me às necessidades; [12] sei viver modestamente, e sei também como haver-me na abundância; estou acostumado com toda e qualquer situação: viver saciado e passar fome; ter abundância e sofrer necessidade. [13] Tudo posso naquele que me fortalece. [14] Entretanto, fizestes bem em participar da minha aflição. [15] Vós mesmos bem sabeis, filipenses, que no início da pregação do Evangelho, quando parti da Macedônia, nenhuma Igreja teve contato comigo em relação de dar e receber, senão vós somente; [16] já em Tessalônica mais uma vez vós me enviastes com que suprir às minhas necessidades. [17] Não que eu busque presentes; o que busco é o fruto que se credite em vossa conta. [18] Agora tenho tudo em abundância; tenho de sobra, depois de ter recebido de Epafrodito o que veio de vós, perfume de suave odor, sacrifício aceito e agradável a Deus. [19] O meu Deus proverá magnificamente todas as vossas necessidades, segundo a sua riqueza, em Cristo Jesus. [20] E ao nosso Deus e Pai seja a glória pelos séculos dos séculos! Amém. [21] Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam. [22] Todos os santos vos saúdam, especialmente os da casa do Imperador. [23] A graça do Senhor Jesus Cristo esteja com o vosso espírito!
+
+@secao Responsório | Cf. Fl 4,12-13; 2Cor 12,10
+
+@responsorio
+R. Sei viver na penúria, e sei também viver na abundância.
+Estou acostumado a todas as vicissitudes:
+a ter fartura e a passar fome,
+a ter abundância e a padecer necessidade.
+* Tudo posso naquele que me conforta.
+V. Eis por que sinto alegria nas fraquezas, nas afrontas,
+no profundo desgosto sofrido por amor de Cristo.
+* Tudo posso.
+
+@secao Segunda leitura
+
+@leitura
+Da “Carta aos Magnésios”, de Santo Inácio de Antioquia, bispo e mártir
+{(Séc. I)} {(Nn. 6,1-9,2: Funk 1,195-199)}
+
+@tema
+Uma só oração, uma esperança na caridade, na santa alegria
+
+@texto
+Contemplando na fé e amando, nas pessoas acima mencionadas, toda a comunidade, eu vos exorto a empregardes todo o empenho em fazer tudo na concórdia de Deus, sob a presidência do bispo, em lugar de Deus, e dos presbíteros em lugar do senado apostólico, bem como dos diáconos, meus caríssimos. A eles, com efeito, foi confiado o ministério de Jesus Cristo, que antes dos séculos era com o Pai e apareceu no fim dos tempos. Todos, então, recebida a mesma vida divina, respeitai-vos mutuamente e ninguém considere o próximo segundo a carne, mas amai-vos sem pre uns aos outros em Jesus Cristo. Nada haja em vós que vos possa separar. Uni-vos ao bispo e aos que presidem, como uma figura e demonstração da imortalidade.
+Da mesma forma que sem o Pai unido a ele o Senhor nada fez por si nem pelos apóstolos, assim também vós, sem o bispo e os presbíteros, nada executeis. Também não tenteis fazer passar por coisa boa o que se fizer em separado. Reunindo-vos, porém, seja uma só oração, uma só súplica, um só modo de pensar, uma só esperança na caridade, na santa alegria, pois um só é Jesus Cristo, mais excelente do que tudo. Acorrei todos como a um só templo de Deus, como a um só altar, a um só Jesus Cristo, que proveio de um só Pai, com ele só esteve e a ele voltou.
+Não vos deixeis seduzir por doutrinas estranhas e velhas e inúteis fábulas. Se ainda vivemos de acordo com a lei judaica, confessamos não ter ainda recebido a graça. Pois os santos profetas já viveram em conformidade com Jesus Cristo. Por esse motivo, inspirados por sua graça, sofreram perseguição, a fim de incutir certeza nos incrédulos de que há um só Deus, que se manifestou por Jesus Cristo, seu Filho, seu Verbo brotado do silêncio, que em tudo agradou àquele que o enviara.
+Há quem negue a ressurreição de Cristo. Como isso é possível, se por ela recebemos o mistério da fé e por sua causa nos constituímos discípulos de Cristo, nosso único doutor? Se, pois, os que viveram sob a antiga economia chegaram à nova esperança, e assim não mais respeitam o sábado, porém o domingo, no qual nossa vida ressurgiu por Cristo e sua morte, como poderemos viver sem ele, a quem os profetas esperaram como mestre e de quem já eram discípulos pelo espírito? Por esta razão, ao vir aquele a quem esperavam com justiça, foram ressuscitados dos mortos.
+
+@secao Responsório | Cf. 1Pd 3,8.9b; Rm 12,10-11c
+
+@responsorio
+R. Sede todos unânimes, compassivos, fraternos,
+todos compadecidos, modestos e humildes.
+* Porque para isso é que fostes chamados,
+a fim de alcançardes a herança da bênção.
+V. Uns aos outros amai-vos com amor fraternal;
+adiantaivos aos outros em gestos de estima,
+fervorosos de espírito, servindo ao Senhor. * Porque.
+
+@secao Oração
+
+@oracao
+Ó Deus, fonte de todo o bem, atendei ao nosso apelo e fazei-nos, por vossa inspiração, pensar o que é certo e realizá-lo com vossa ajuda. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

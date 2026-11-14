@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/1quintaquaresma_sexta.htm
+@documento Hora Média - Sexta - Quinta-feira da 1ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Por minha vida, diz o Senhor,
+não quero a morte do pecador,
+mas que ele volte e tenha vida.
+
+@secao Leitura breve | Dt 30,2-3a
+
+@texto
+Tu te converterás ao Senhor teu Deus com teus filhos, e obedecerás aos seus mandamentos com todo o teu coração e com toda a tua alma, conforme tudo o que hoje te ordeno. O Senhor teu Deus te fará voltar do cativeiro e se compadecerá de ti.
+
+@texto
+V. Desviai o vosso olhar dos meus pecados.
+R. E apagai todas as minhas transgressões!
+
+@secao Oração
+
+@oracao
+Dai-nos, ó Deus, pensar sempre o que é reto e realizá-lo com solicitude. E como só podemos existir em vós, fazei-nos viver segundo a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

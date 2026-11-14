@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/conversaosaopaulo_laudes.htm
+@documento Laudes - Conversão de São Paulo, Apóstolo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Paulo, mestre dos povos,
+ensina a nós teu amor:
+correr em busca do prêmio,
+chegar ao Cristo Senhor.
+
+A vós, Trindade a honra,
+poder e glória também;
+que sois eterna unidade
+nos séculos, sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sei em quem eu coloquei a minha fé
+e estou certo que ele tem poder divino
+para guardar até o fim o meu depósito,
+que o Senhor, justo Juiz, me confiou.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Sei em quem eu coloquei a minha fé
+e estou certo que ele tem poder divino
+para guardar até o fim o meu depósito,
+que o Senhor, justo Juiz, me confiou.
+
+@antifona 2
+A minha graça é em ti suficiente:
+pois na fraqueza é que se mostra o meu poder.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+A minha graça é em ti suficiente:
+pois na fraqueza é que se mostra o meu poder.
+
+@antifona 3
+A sua graça para mim não foi inútil;
+está comigo e para sempre ficará.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A sua graça para mim não foi inútil;
+está comigo e para sempre ficará.
+
+@secao Leitura breve | At 26,16b-18
+
+@texto
+Levanta-te e te põe em pé, pois eu te apareci para fazer de ti ministro e testemunha do que viste e do que ainda te mostrarei. Eu te escolhi do meio do povo e dos pagãos, para os quais agora te envio, a fim de lhes abrires os olhos e para que eles se convertam das trevas para a luz, do poder de Satanás para Deus, e recebam a remissão dos pecados e a herança entre os santificados pela fé em mim.
+
+@secao Responsório breve
+
+@responsorio
+R. Instrumento escolhido,
+* Apóstolo Paulo! R. Instrumento.
+V. Pregador da verdade no mundo inteiro. * Apóstolo.
+Glória ao Pai. R. Instrumento.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+A conversão de Paulo apóstolo celebremos com fervor;
+até então perseguidor, Cristo o fez seu instrumento.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+A conversão de Paulo apóstolo celebremos com fervor;
+até então perseguidor, Cristo o fez seu instrumento.
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que instruístes o mundo inteiro pela pregação do apóstolo São Paulo, dai-nos, ao celebrar hoje sua conversão, caminhar para vós seguindo seus exemplos, e ser no mundo testemunhas do Evangelho. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

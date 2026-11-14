@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ssnomedejesus_vesperas.htm
+@documento Vésperas - Santíssimo Nome de Jesus
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Jesus, ó fonte de vida,
+todo mortal te procura:
+Rei tão suave e tão forte,
+das nossas almas doçura.
+
+Pecado e morte venceste,
+cheio de força e de glória;
+por isso os céus te celebram,
+cantando a tua vitória.
+
+No céu os anjos te louvam,
+louvam-te as gentes na terra:
+tu és do justo alegria
+e salvação do que erra.
+
+Dá-nos a paz verdadeira,
+que em vão o mundo procura;
+do teu amor, quem sondará
+o comprimento e a largura?
+
+Eis que em louvor do teu nome
+os nossos hinos erguemos
+até que um dia contentes
+o teu fulgor contemplemos.
+
+Jesus, ó flor de uma Virgem,
+fonte de paz e alegria,
+ao Reino que hoje cantamos
+possamos chegar um dia.
+
+@secao Salmodia
+
+@antifona 1
+Vós ficastes a meu lado quando veio a provação.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Vós ficastes a meu lado quando veio a provação.
+
+@antifona 2
+Eu estou em vosso meio como aquele que vos serve.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Eu estou em vosso meio como aquele que vos serve.
+
+@antifona 3
+Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+pois vos dei a conhecer
+o que o Pai me revelou.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Não vos chamo mais meus servos,
+mas vos chamo meus amigos,
+pois vos dei a conhecer
+o que o Pai me revelou.
+
+@secao Leitura breve | 2Ts 1,11-12
+
+@texto
+Não cessamos de rezar por vós, para que o nosso Deus vos faça dignos da sua vocação. Que ele, por seu poder, realize todo o bem que desejais e torne ativa a vossa fé. Assim o nome de nosso Senhor Jesus Cristo será glorificado em vós, e vós nele, em virtude da graça do nosso Deus e do Senhor Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Comigo engrandecei ao Senhor Deus,
+* Exaltemos todos juntos o seu Nome. R. Comigo.
+V. O seu nome santo, terrível e grande. * Exaltemos.
+Glória ao Pai. R. Comigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Poderoso fez em mim maravilhas e santo é o seu Nome.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Poderoso fez em mim maravilhas e santo é o seu Nome.
+
+@secao Preces
+
+@preces
+Com a vinda de Cristo ao mundo, o povo santo de Deus floresceu e produziu o seu fruto mais excelente. Por isso, cheios de alegria e gratidão, digamos a nosso Salvador:
+
+R. **Exulte o mundo de alegria com o vosso Natal!**
+
+Cristo, nossa vida, que viestes ao mundo para ser a Cabeça da Igreja,
+– multiplicai na terra os membros do vosso Corpo místico e santificai-os na caridade. R.
+
+Vós, que sois adorado como verdadeiro Deus e verdadeiro homem,
+– fazei-nos participantes da vossa divindade. R.
+
+Vós, que pela encarnação vos tornastes o Mediador entre Deus e os homens,
+– fazei que os ministros da Igreja se associem cada vez mais eficazmente à vossa missão reconciliadora pela santidade da sua vida. R.
+
+Vós, que pelo vosso nascimento estabelecestes um mundo novo,
+– conduzi todos os povos pelos caminhos da salvação. R.
+
+{(intenções livres)}
+
+Vós, que ao nascerdes destruístes os laços da morte,
+– livrai nossos irmãos e irmãs falecidos de todo vínculo do pecado. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes origem à salvação do gênero humano na encarnação do vosso Verbo, concedei a vossos povos a misericórdia que imploram, para que todos saibam que não há outro nome a ser invocado além do nome do vosso Filho Unigênito. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

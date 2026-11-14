@@ -1,0 +1,233 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santosinocentes.htm
+@documento Ofício das Leituras - Os Santos Inocentes, Mártires Festa
+
+@celebracao
+OS SANTOS INOCENTES, MÁRTIRES
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Dos Santos Inocentes
+cantemos o louvor.
+A terra os perde e chora,
+recebe-os o Senhor.
+
+Um ímpio rei matou-os,
+porém seu Criador
+colheu-os como as flores,
+no Reino os abrigou.
+
+Em morte assim gloriosa
+o Cristo resplendeu.
+Menores de dois anos
+com anjos vão ao céu.
+
+Belém, feliz cidade,
+foi berço ao Redentor,
+e as vítimas primeiras
+a ele consagrou.
+
+No sangue do Cordeiro
+as túnicas lavaram.
+Vestindo brancas vestes,
+seu trono rodearam.
+
+Jesus, que de uma Virgem
+nascestes em Belém,
+a vós, ao Pai e ao Espírito
+a glória eterna. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Os meninos Inocentes, cordeirinhos do Senhor,
+deram pulos de alegria, pois Jesus os libertou.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Os meninos Inocentes, cordeirinhos do Senhor,
+deram pulos de alegria, pois Jesus os libertou.
+
+@antifona 2
+Os meninos Inocentes estão junto do Senhor;
+resgatados entre os homens, qual primeiro sacrifício,
+eles são oferecidos ao Cordeiro e a Deus Pai.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os meninos Inocentes estão junto do Senhor;
+resgatados entre os homens, qual primeiro sacrifício,
+eles são oferecidos ao Cordeiro e a Deus Pai.
+
+@antifona 3
+O seu rosto se ilumina de infinita alegria:
+os gemidos e a tristeza para sempre se acabaram!
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+O seu rosto se ilumina de infinita alegria:
+os gemidos e a tristeza para sempre se acabaram!
+
+@texto
+V. Os Santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+R. Na terra inteira ressoavam suas vozes.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {1,8-16.22}
+
+@tema
+Matança dos meninos hebreus no Egito
+
+@texto
+Naqueles dias, [8] surgiu um novo rei no Egito, que não tinha conhecido José, [9] e disse ao seu povo: “Olhai como o povo dos filhos de Israel é mais numeroso e mais forte do que nós. [10] Vamos agir com prudência em relação a ele, para impedir que continue crescendo e, em caso de guerra, se una aos nossos inimigos, combata contra nós e acabe por sair do país”. [11] Estabeleceram inspetores de obras, para que o oprimissem com trabalhos penosos; e foi assim que ele construiu para o Faraó as cidades-entrepostos de Pitom e Ramsés. [12] Mas, quanto mais o oprimiam, tanto mais se multiplicava e crescia. [13] Obcecados pelo medo dos filhos de Israel, os egípcios impuseram-lhes uma dura escravidão. [14] E tornaram-lhes a vida amarga pelo pesado trabalho da preparação do barro e dos tijolos, com toda a espécie de trabalhos dos campos e outros serviços que os levavam a fazer à força. [15] O rei do Egito disse às parteiras dos hebreus, uma das quais se chamava Sefra e a outra Fua: [16] “Quando assistirdes as mulheres hebreias, e chegar o tempo do parto, se for menino, matai-o, se for menina, deixai-a viver”. [22] Então, o Faraó deu esta ordem a todo o seu povo: “Lançai ao rio Nilo todos os meninos hebreus recém-nascidos, mas poupai a vida das meninas”.
+
+@secao Responsório | Is 65,19; Ap 21,4.5
+
+@responsorio
+R. Eu me alegro com meu povo:
+* Não mais serão ouvidos os soluços e os gemidos
+nem os gritos de aflição.
+V. Nunca mais haverá morte, nem clamor, nem luto ou dor;
+eu renovo as coisas todas. * Não mais.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Quodvultdeus, bispo
+{(Séc. V)} {(Sermo 2 de Symbolo: PL 40,655)}
+
+@tema
+Ainda não falam e já proclamam Cristo
+
+@texto
+Nasceu um pequenino que é o grande Rei. Os magos chegam de longe e vêm adorar, ainda deitado no presépio, aquele que reina no céu e na terra. Ao anunciarem os magos o nascimento de um Rei, Herodes se perturba e, para não perder o seu reino, quer matar o recém-nascido. No entanto, se tivesse acreditado nele, poderia reinar com segurança nesta terra e para sempre na outra vida. Por que temes, Herodes, ao ouvir que nasceu um Rei? Ele não veio para te destronar, mas para vencer o demônio. Como não compreendes isso, tu te perturbas e te enfureces; e, para que não escape o único menino que procuras, tens a crueldade de matar tantos outros. Nem as lágrimas das mães nem o lamento dos pais pela morte de seus filhos, nem os gritos e gemidos das crianças te comovem. Matas o corpo das crianças porque o medo matou o teu coração; e julgas que, se conseguires teu propósito, poderás viver muito tempo, quando precisamente é a própria Vida que queres matar. Aquele que é a fonte da graça, pequenino e grande ao mesmo tempo, reclinado num presépio, apavora o teu trono. Por meio de ti, e sem que saibas, realiza os seus desígnios e liberta as almas do cativeiro do demônio. Recebe como filhos adotivos os filhos dos que eram seus inimigos. Essas crianças morrem pelo Cristo, sem saberem, enquanto seus pais choram os mártires que morrem. Cristo faz suas legítimas testemunhas aqueles que ainda não falam. Eis como reina aquele que veio para reinar. Eis como já começa a conceder a liberdade aquele que veio para libertar, e a dar a salvação aquele que veio para salvar. Tu, porém, Herodes, ignorando tudo isto, te perturbas e te enfureces; e enquanto te enfureces contra o Menino, já lhe prestas homenagem, sem o saberes. Ó imenso dom da graça! Que méritos tinham aquelas crianças para obterem tal vitória? Ainda não falam e já proclamam o Cristo. Não podem ainda mover os membros para a luta e já ostentam a palma da vitória.
+
+@secao Responsório | Cf. Ap 5,14; 4,10; 7,11
+
+@responsorio
+R. Adoraram o que vive pelos séculos dos séculos,
+* Colocando suas coroas ante o trono de Deus.
+V. E prostraram-se com a face por terra ante o trono:
+bendizendo o que vive pelos séculos dos séculos. * Colocando.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, hoje os santos Inocentes proclamam vossa glória, não por palavras, mas pela própria morte; dai-nos também testemunhar com a nossa vida o que os nossos lábios professam. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

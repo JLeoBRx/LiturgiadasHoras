@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/30dezembro_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona 1
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Os meus olhos viram a vossa salvação,
+que preparastes ante a face das nações.
+
+@secao Leitura breve | Cf. Tb 14,6-7
+
+@texto
+Os povos da terra inteira, todos se converterão e temerão verdadeiramente a Deus. Todos abandonarão seus ídolos. E bendirão na justiça o Deus eterno. Todos os israelitas salvos naqueles dias, por se lembrarem de Deus na verdade, serão reunidos e virão para Jerusalém. Então se alegrarão os que amam a Deus em verdade.
+
+@texto
+V. A verdade e o amor se encontraram. Aleluia.
+R. A justiça e a paz se abraçaram. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que o novo nascimento de vosso Filho como homem nos liberte da antiga escravidão do pecado. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

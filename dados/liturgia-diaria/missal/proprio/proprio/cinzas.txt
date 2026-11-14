@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/cinzas.htm
+
+@secao Antífona da entrada | Cf. Sb 11,23.24.26
+@texto
+Ó Deus, vós tendes compaixão de todos
+e não rejeitais nada que criastes;
+fechais os olhos aos seus pecados por causa da penitência
+e os perdoais, porque sois o Senhor nosso Deus.
+
+@secao Coleta
+@texto
+Senhor, concedei-nos iniciar com o santo jejum
+este tempo de conversão
+para que, auxiliados pela penitência,
+sejamos fortalecidos no combate
+contra o espírito do mal.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ao oferecer-vos solenemente este sacrifício
+no início da Quaresma,
+nós vos suplicamos, Senhor,
+a graça de dominar nossos maus desejos
+pelas obras de penitência e caridade,
+para que, purificados de nossos pecados,
+possamos celebrar com fervor a paixão do vosso Filho.
+Que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Cf. Sl 1,2-3
+@texto
+Quem medita dia e noite na lei do Senhor
+dará seu fruto no devido tempo.
+
+@secao Depois da comunhão
+@texto
+Senhor, fazei que sejamos ajudados
+pelo sacramento que acabamos de receber,
+para que o nosso jejum vos seja agradável
+e nos sirva de remédio.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+Ó Deus, derramai benigno o espírito de arrependimento
+sobre os vossos fiéis inclinados diante de vós,
+para que mereçam alcançar por vossa misericórdia
+os prêmios prometidos aos penitentes.
+Por Cristo, nosso Senhor.

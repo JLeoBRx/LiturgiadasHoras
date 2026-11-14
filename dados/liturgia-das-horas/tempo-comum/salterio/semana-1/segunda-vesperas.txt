@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1segunda_vesperas.htm
+@documento Vésperas - Segunda-Feira
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, organizando
+o líquido elemento,
+as águas dividistes
+firmando o firmamento.
+
+As nuvens fazem sombra,
+os rios dão frescor;
+assim tempera a água,
+dos astros o calor.
+
+Em nós vertei a graça,
+a água benfazeja;
+do fogo das paixões,
+constante, nos proteja.
+
+Que a fé encontre a luz
+e espalhe o seu clarão;
+que nada impeça a alma
+no impulso da ascensão!
+
+Ao Pai e ao Filho, glória;
+ao Espírito também:
+louvor, honra e vitória
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Os olhos do Senhor se voltam para o pobre.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os olhos do Senhor se voltam para o pobre.
+
+@antifona 2
+Felizes os de puro coração,
+porque eles haverão de ver a Deus.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Felizes os de puro coração,
+porque eles haverão de ver a Deus.
+
+@antifona 3
+No seu Filho o Pai nos escolheu,
+para sermos seus filhos adotivos.
+
+@salmo canticos/ef-1-3-10-v3
+
+@gloria
+
+@antifona
+No seu Filho o Pai nos escolheu,
+para sermos seus filhos adotivos.
+
+@secao Leitura breve | Cl 1,9b-11
+
+@texto
+Que chegueis a conhecer plenamente a vontade de Deus, com toda a sabedoria e com o discernimento da luz do Espírito. Pois deveis levar uma vida digna do Senhor, para lhe serdes agradáveis em tudo. Deveis produzir frutos em toda a boa obra e crescer no conhecimento de Deus, animados de muita força, pelo poder de sua glória, de muita paciência e constância, com alegria.
+
+@secao Responsório breve
+
+@responsorio
+R. Curai-me, Senhor,
+* Pois pequei contra vós. R. Curai-me.
+V. Eu vos digo: Meu Deus, tende pena de mim!
+* Pois pequei. Glória ao Pai. R. Curai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A minh'alma engrandece o Senhor,
+porque olhou para a minha humildade.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A minh'alma engrandece o Senhor,
+porque olhou para a minha humildade.
+
+@secao Preces
+
+@preces
+Demos graças a Deus Pai que, lembrando a sua aliança, não cessa de nos fazer o bem. Cheios de confiança, elevemos a ele nossa oração, dizendo:
+
+R. **Dai-nos, Senhor, vossos bens com fartura!**
+
+Salvai, Senhor, o vosso povo,
+– abençoai a vossa herança. R.
+
+Congregai na unidade os que têm o nome de cristãos,
+– para que o mundo acredite em Cristo, o Salvador que nos enviastes. R.
+
+Concedei a vossa graça a todos os nossos amigos e conhecidos,
+– para que em toda parte deem o testemunho de Cristo. R.
+
+Manifestai o vosso amor aos agonizantes,
+– e dai-lhes a vossa salvação. R.
+
+{(intenções livres)}
+
+Sede misericordioso para com os nossos irmãos e irmãs falecidos,
+– e abri-lhes as portas do paraíso. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Este nosso serviço de louvor proclame, Senhor, vossa grandeza; e como, para nos salvar, olhastes com amor a humildade da Virgem Maria, assim elevai-nos à plenitude da redenção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

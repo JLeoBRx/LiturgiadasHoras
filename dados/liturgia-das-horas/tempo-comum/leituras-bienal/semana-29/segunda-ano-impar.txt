@@ -1,0 +1,62 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/29segundaTC_impar.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Naum {1,1-8; 3,1-7.12-15a}
+
+@tema
+O juízo de Deus sobre Nínive
+
+@texto
+[1,1] Oráculo sobre Nínive. Livro da visão de Naum de Elcós. [2] O Senhor é um Deus ciumento e vingador! O Senhor é vingador e cheio de furor! O Senhor se vinga de seus adversários ele guarda rancor de seus inimigos. [3] O Senhor é lento para ira, mas grande em poder. Mas a nada deixa o Senhor impune. Na tormenta e na tempestade é o seu caminho, a nuvem é a poeira de seus pés. [4] Ameaça o mar e o seca, e a todos os rios ele faz secar. Murcham Basã e o Carmelo, e murcha a verdura do Líbano! [5] As montanhas tremem por causa dele, as colinas estremecem e a terra é devastada diante dele, o universo e todos os seus habitantes. [6] Diante de sua cólera quem subsistirá? Quem se levantará diante do ardor de sua ira? Seu furor derrama-se como o fogo, e os rochedos se fendem diante dele. [7] O Senhor é bom; ele é abrigo no dia da tribulação. Ele conhece aqueles que nele se refugiam, [8] mesmo quando sobrevém uma inundação. Reduzirá a nada os que se levantam contra ele, perseguirá os inimigos até nas trevas. {3.1}Ai da cidade sanguinária, toda cheia de mentira, repleta de despojos, onde não cessa a rapina! [2] Estalido de chicotes, estrépito de rodas, cavalos a galope, carros que pulam, [3] ginetes que empinam, reluzir de espadas, cintilar de lanças, multidão de feridos, mortos em massa, cadáveres sem fim, tropeça-se em seus cadáveres! [4] Por causa das inúmeras prostituições da prostituta formosa, hábil feiticeira, que subjugava as nações por sua devassidão, e os povos por suas feitiçarias. [5] Eis-me contra ti - oráculo do Senhor dos Exércitos. Levantarei tua roupa até a face, mostrarei às nações a tua nudez e aos reinos a tua ignomínia. [6] Jogarei sobre ti imundície, desonrar-te-ei e farei de ti um espetáculo. [7] Então, todo aquele que te vir fugirá de ti e dirá: Nínive está devastada! Quem terá compaixão dela? Onde posso procurar consoladores para ti? [12] Todas as tuas fortalezas são figueiras com figos temporãos, se os sacodem, caem na boca de quem os come. [13] Eis o teu povo: são mulheres que estão em teu seio; as portas da tua terra estão escancaradas aos teus inimigos; o fogo consome os teus ferrolhos. [14] Tira água para o tempo do cerco, restaura as tuas fortalezas, entra no barro e pisa na argila, toma a forma para tijolos. [15] Ali o fogo te devorará, a espada te exterminará.
+
+@secao Responsório | Cf. Na 1,6.7.8; Rm 5,9
+
+@responsorio
+R. Diante da cólera do Senhor quem subsistirá,
+e quem se levantará diante do ardor de sua ira?
+* Bom é o Senhor, ele é abrigo no dia da tribulação.
+V. Justificados no sangue de Cristo,
+seremos salvos da ira. * Bom é o Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Do “Tratado sobre o Fim dos Tempos”, de Santo Hipólito, presbítero
+{(264, 55)}
+
+@tema
+Os santos profetas se tornaram como os nossos olhos
+
+@texto
+Os profetas se tornaram como os nossos olhos, porque previram na fé o mistério do Verbo. Se a seus descendentes anunciaram coisas vindouras, a nós, porém, não anunciaram apenas aquilo que já passou, como profetas de uma só geração. Em benefício de toda a humanidade, anunciaram-nos, pois, coisas que ainda estão por vir. Aquele que o era realmente, de fato, devia ser chamado de profeta.
+Todos esses homens, fortificados pelo espírito da profecia e dignamente honrados pela própria palavra de Deus, unidos como as cordas de uma lira tocada pelo plectro, anunciavam-nos a vontade de Deus.
+E não foi em nome próprio que os profetas profetizaram, pois nos teriam enganado. Tampouco vaticinavam arbitrariamente. Pelo contrário, por meio da palavra, compreendiam retamente a vontade de Deus; por meio de visões, eram instruídos a se tornarem melhores; e, ao serem chamados, sabiamente conseguiam expressar a revelação, a eles dirigida com exclusividade por parte de Deus. Não existe outra razão pela qual eles poderiam ter profetizado como profetas. As coisas futuras que prediziam por meio do Espírito, anunciavam-nas. E não previam apenas coisas do passado que todos poderiam ter visto, mas anunciavam verdadeiramente acontecimentos futuros. Por isso, são tidos em conta de profetas.
+Desde o começo, pois, são chamados de profetas aqueles homens que preveem. Instruídos por eles, que falaram corretamente, nós também instruímos. E não é por nós mesmos que revelamos algo novo, mas recebemos, nesse entremeio, aquelas palavras que foram proferidas e transcritas desde o começo, ilustrando-as àqueles que acreditaram retamente, em proveito nosso e deles. Àqueles que prestam atenção manifestamos retamente as coisas futuras; àqueles que escutam mostramos o poder da palavra profética.
+
+@secao Responsório | 1Pd 1,10.12; Mt 13,17
+
+@responsorio
+R. Investigaram e pesquisaram os profetas
+que profetizavam a respeito da graça que vos era destinada;
+* E a eles foi revelado que não para si mesmos,
+mas para vós, exerciam esse ministério,
+que agora vos foi anunciado.
+V. Muitos profetas e justos desejaram ver
+o que vedes e não o viram,
+e ouvir o que ouvis e não o ouviram. * E a eles.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos a graça de estar sempre ao vosso dispor, e vos servir de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

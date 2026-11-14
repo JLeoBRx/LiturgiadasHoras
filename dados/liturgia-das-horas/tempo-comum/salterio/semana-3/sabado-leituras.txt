@@ -1,0 +1,110 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sabado_leituras.htm
+@documento Ofício das Leituras - III Sábado
+
+@titulo III SÁBADO / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Um Deus em três pessoas,
+o mundo governais:
+dos homens que criastes
+as faltas perdoais.
+
+Ouvi, pois, nosso canto
+e o pranto que vertemos:
+de coração sem mancha,
+melhor vos contemplemos.
+
+Por vosso amor tenhamos
+a alma iluminada,
+e alegres aguardemos,
+Senhor, vossa chegada.
+
+Rompendo agora a noite,
+do sono despertados,
+com os bens da pátria eterna
+sejamos cumulados!
+
+A glória seja ao Pai,
+ao Filho seu também;
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Autor da glória eterna,
+que ao povo santo dais
+a graça septiforme
+do Espírito, escutai:
+
+Tirai ao corpo e à mente
+do mal as opressões;
+cortai os maus instintos,
+curai os corações.
+
+Tornai as mentes calmas,
+as obras completai,
+ouvi do orante as preces,
+a vida eterna dai.
+
+Do tempo, em sete dias,
+o curso conduzis.
+No dia oitavo e último
+vireis como juiz.
+
+E nele, ó Redentor,
+da ira nos poupai,
+tirai-nos da esquerda,
+à destra nos guardai.
+
+Ouvi a prece humilde
+do povo reverente,
+e a vós daremos glória,
+Deus Trino, eternamente.
+
+@secao Salmodia
+
+@antifona 1
+Agradeçamos ao Senhor o seu amor
+e as suas maravilhas entre os homens.
+
+@salmo salmos/salmo-106-i-v3
+
+@antifona
+Agradeçamos ao Senhor o seu amor
+e as suas maravilhas entre os homens.
+
+@antifona 2
+Nós vimos seus prodígios e suas maravilhas.
+
+@salmo salmos/salmo-106-ii-v3
+
+@antifona
+Nós vimos seus prodígios e suas maravilhas.
+
+@antifona 3
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor!
+
+@salmo salmos/salmo-106-iii-v2
+
+@antifona
+Que os justos, vendo as obras do Senhor,
+compreendam como é grande o seu amor!
+
+@texto
+V. Chega às nuvens a vossa verdade, Senhor,
+R. E aos abismos dos mares, os vossos juízos.

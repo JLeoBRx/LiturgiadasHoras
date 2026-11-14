@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santoestevao_vesperas.htm
+@documento Vésperas - Santo Estêvão, Protomártir
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria,
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@antifona 2
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@antifona 3
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@secao Leitura breve | 1Jo 1,5b.7
+
+@texto
+Deus é luz e nele não há trevas. Se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo o pecado.
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Enquanto o silêncio envolvia a terra
+e a noite estava em meio ao seu curso,
+a vossa divina Palavra, Senhor,
+veio a nós do seu trono real. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Enquanto o silêncio envolvia a terra
+e a noite estava em meio ao seu curso,
+a vossa divina Palavra, Senhor,
+veio a nós do seu trono real. Aleluia.
+
+@secao Preces
+
+@preces
+Roguemos ao Verbo de Deus que, vindo habitar entre nós, abriu o caminho da eterna salvação; e com sincera humildade digamos:
+
+R. **Livrai-nos, Senhor, de todo mal!**
+
+Pelo mistério de vossa encarnação, por vosso nascimento e infância,
+– por vossa vida inteira dedicada ao Pai, R.
+
+Por vosso trabalho, vossas pregações e caminhadas,
+– por vosso convívio com os pecadores, R.
+
+Por vossa agonia e paixão, pela vossa cruz e solidão,
+– por vossas angústias, morte e sepultura, R.
+
+{(intenções livres)}
+
+Por vossa ressurreição e ascensão, pelo dom do Espírito Santo, por vossa alegria e glória eterna,
+– libertai, Senhor, nossos irmãos já falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que o novo nascimento de vosso Filho como homem nos liberte da antiga escravidão do pecado. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

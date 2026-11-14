@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/23sextaTC.htm
+@documento Ofício das Leituras - Sexta-Feira
+
+@titulo SEXTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro das Lamentações {3,1-33}
+
+@tema
+Lamentação e esperança
+
+@texto
+[1] Sou um homem que vejo a minha miséria, como punição da ira de Deus. [2] Ele me levou a caminhar nas trevas, e não na luz. [3] Somente contra mim não cessa de levantar a mão o dia inteiro. [4] Destruiu minha pele e minha carne, quebrou os meus ossos. [5] Ocupou minha vizinhança e rodeou-me de fel e de aflição. [6] Fez-me habitar na escuridão, como fez aos que estão mortos para sempre. [7] Cercou-me de muros para eu não escapar, reforçou minhas algemas. [8] Mesmo que eu clame e rogue, ele rejeita minha oração. [9] Fechou meu caminho com pedras, obstruiu minha passagem. [10] Tornou-se para mim um urso de tocaia, um leão escondido. [11] Obstruiu, sim, meu caminho e me abateu, deixou-me arrasado. [12] Retesou o arco e me pôs como alvo de suas flechas. [13] Cravou-me nos rins as flechas de sua aljava. [14] Tornei-me o gracejo de todo o povo, sua cantiga de todo dia. [15] Encheu-me de amargura, embriagou-me com absinto. [16] Quebrou-me os dentes com cascalho, cobriu-me de cinza. [17] Minha vida distanciou-se da paz, estou esquecido de seus bens. [18] Disse para mim mesmo: "Acabou-se o meu vigor, minha esperança ausentou-se do Senhor". [19] Lembra-te de minha miséria e de meus extravios, amargos como fel e absinto. [20] Remorde-me a memória, vai-se consumindo a minh'alma. [21] Revolverei essas coisas no espírito, por isso continuo esperando. [22] É pela bondade do Senhor que não fomos destruídos, não se esgotou a sua misericórdia; [23] cada manhã ela se renova; grande é tua fidelidade, Senhor. [24] Diz minh'alma: "O Senhor é minha herança, por isso, espero por ele". [25] O Senhor é bondoso para quem nele confia, para a alma que o procura. [26] É bom aguardar em silêncio a salvação que vem de Deus. [27] É bom para o homem sofrer o jugo na sua mocidade. [28] Quando isto lhe é imposto, queda-se em solidão e em silêncio. [29] Deita-se com o rosto no chão, implorando a esperança. [30] Oferece o rosto a quem o espanca, sacia-se de opróbrios. [31] É certo que o Senhor a ninguém repele para sempre. [32] Se ele aflige, também se compadece com infinitos gestos de misericórdia. [33] Humilhar e afligir os homens não procede do seu coração.
+
+@secao Responsório | Lm 3,52.54b.56a.57b.58; At 21,13b
+
+@responsorio
+R. Os que são meus inimigos me prenderam sem motivo;
+e eu disse a mim mesmo: Estou perdido, ó Senhor!
+Mas ouvistes minha voz
+* E dissestes: Não receies!
+Defendestes minha causa, Redentor da minha vida.
+V. Estou pronto não apenas para ser encarcerado,
+mas também para morrer pelo nome de Jesus.
+* E dissestes.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões do Bem-aventurado Isaac, Abade do Mosteiro de Stella
+{(Séc. XII)} {(Sermo 11: PL 194,1728-1729)}
+
+@tema
+Cristo não quer perdoar nada sem a Igreja
+
+@texto
+Duas são as coisas que só a Deus convêm: a honra do louvor e o poder de perdoar. O louvor somos nós que lhe damos; o perdão, dele nós esperamos. Pertence somente a Deus perdoar os pecados; por isso deve ser louvado. Mas, tendo desposado o onipotente a fraqueza, o excelso, a humildade, da escrava fez uma rainha; aquela que estava atrás, a seus pés, colocou-a a seu lado. Pois de seu lado saiu, de onde a tomou para si como penhor. Tudo quanto é do Pai é do Filho, e o que é do Filho é do Pai, por serem um só por natureza. De modo semelhante, tudo quanto era seu deu o esposo à esposa, e tudo da esposa o esposo tomou para si; e dela, unida a si, e do Pai fez também um só. _Quero_, disse o Filho ao Pai, intercedendo pela esposa, _que, assim como eu e tu somos um, também estes sejam um conosco_ (cf. Jo 17,21).
+
+@texto
+Por conseguinte, o esposo com o Pai são um só, com a esposa é um. Rejeitou quanto de contrário encontrou na esposa, pregando-o na cruz, e aí carregou seus pecados no madeiro e pelo madeiro o destruiu. O que era conforme à natureza e próprio dela, assumiu, e dele se revestiu. O que lhe era próprio e divino, isto lhe concedeu. Expeliu o diabólico, assumiu o humano, concedeu o divino, para que tudo o que era da esposa fosse do esposo. É a razão por que aquele, que não cometeu pecado nem se encontrou engano em sua boca, pode dizer: _Tem piedade de mim, Senhor, porque estou enfermo_ (Sl 6,3). E quem tem a enfermidade da esposa, tenha também o pranto, e seja tudo do esposo e da esposa. Donde, a honra do louvor e o poder do perdão; por isto devia dizer: _Vai, mostra-te ao sacerdote_ (Mt 8,4).
+
+@texto
+Portanto, sem Cristo nada pode a Igreja perdoar; nada quer Cristo perdoar sem a Igreja. A Igreja não pode perdoar a não ser ao penitente, isto é, àquele a quem Cristo tocou. Cristo não quer ter por perdoado aquele que despreza a Igreja. _O que Deus uniu, o homem não separe. Digo eu, é grande este sacramento no Cristo e na Igreja_ (Mt 19,6; Ef 5,32).
+
+@texto
+Não queiras, pois tirar do corpo a cabeça, de forma que em parte alguma haja o Cristo total: nem em parte alguma, o Cristo total sem a Igreja nem a Igreja toda sem Cristo em parte alguma. Pois Cristo completo e íntegro, entende-se cabeça e corpo, por isto diz: _Ninguém subiu ao céu a não ser o Filho do homem que está no céu_ (Jo 3,13). É este o único homem que perdoa os pecados.
+
+@secao Responsório | Jo 17,20b.21a.22.18
+
+@responsorio
+R. Eu te peço por aqueles, que por eles hão de crer,
+para que todos sejam um,
+como tu estás em mim e eu estou em ti.
+* Para que eles sejam um como nós o somos, Pai.
+V. Como ao mundo me enviaste, também eu os enviei.
+* Para que eles.
+
+@secao Oração
+
+@oracao
+Ó Deus, pai de bondade, que nos redimistes e adotastes como filhos e filhas, concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@salmo salmos/salmo-118-161-168-xxi-sin
+
+@gloria
+
+@antifona
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@antifona 2
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@antifona
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@antifona 3
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@secao Leitura breve | Rm 12,17a.19b-20a.21
+
+@texto
+Não pagueis a ninguém o mal com o mal;pois está escrito: É a mim que pertence fazer justiça; darei a cada um o que merecer – diz o Senhor. Mas,se teu inimigo estiver com fome, dá-lhe de comer; se estiver com sede, dá-lhe de beber. Não te deixes vencer pelo mal, mas vence o mal com o bem.
+
+@texto
+V. O amor do Senhor Deus é de sempre e para sempre.
+R. Sua justiça é para aqueles que observam sua Aliança.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que nesta hora fostes levado ao suplício da cruz para salvar o mundo, perdoai-nos as faltas passadas e preservai-nos de culpas futuras. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

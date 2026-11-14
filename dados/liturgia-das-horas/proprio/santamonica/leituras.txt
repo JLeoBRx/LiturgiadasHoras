@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santamonica.htm
+@documento Ofício das Leituras - Santa Mônica Memória
+
+@celebracao
+SANTA MÔNICA
+{Memória}
+
+@biografia
+Nasceu em Tagaste (África) no ano 331, de uma família cristã. Ainda muito jovem foi dada em matrimônio a um homem chamado Patrício. Teve vários filhos, entre os quais Agostinho, por cuja conversão derramou muitas lágrimas e orou insistentemente a Deus. Exemplo de mãe verdadeiramente santa, alimentou a sua fé com uma vida de intensa oração e enriqueceu-a com suas virtudes. Morreu em Óstia no ano 387.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro dos Provérbios {31,10-31}
+
+@tema
+A mulher que teme a Deus
+
+@texto
+[10] Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias. [11] Seu marido confia nela plenamente, e não terá falta de recursos. [12] Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida. [13] Procura lã e linho, e com habilidade trabalham as suas mãos. [14] É semelhante ao navio do mercador que importa de longe a provisão. [15] Ela se levanta, ainda de noite, para alimentar a família e dar ordens às empregadas. [16] Examina um terreno e o compra, e como ganho das suas mãos planta uma vinha. [17] Cinge a cintura com firmeza, e redobra a força dos seus braços. [18] Sabe que os negócios vão bem, e de noite sua lâmpada não se apaga. [19] Estende a mão para a roca e seus dedos seguram o fuso. [20] Abre suas mãos ao necessitado e estende suas mãos ao pobre. [21] Se neva, não teme pela casa, porque todos os criados vestem roupas forradas. [22] Tece roupas para o seu uso, e veste-se de linho e púrpura. [23] Seu marido é respeitado, no tribunal, quando se assenta entre os anciãos da cidade. [24] Fabrica tecidos para vender, e fornece cinturões ao comerciante. [25] Fortaleza e dignidade são seus adornos e sorri diante do futuro. [26] Abre a boca com sabedoria, e sua língua ensina com bondade. [27] Supervisiona o andamento da sua casa, e não come o pão na ociosidade. [28] Seus filhos levantam-se para felicitá-la, seu marido, para fazer-lhe elogios: [29] “Muitas mulheres são fortes, tu, porém, a todas ultrapassas!” [30] O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa sim, merece louvor. [31] Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras!
+
+@secao Responsório | Cf. Pr 31,17.18; cf. Sl 45(46),6
+
+@responsorio
+R. Eis aqui a mulher que é perfeita, revestida da força de Deus.
+* Sua luz não se apaga de noite.
+V. O Senhor a sustenta com a luz de sua face. Quem a pode abalar? Deus está junto a ela. * Sua luz.
+
+@secao Segunda leitura
+
+@leitura
+Dos Livros das Confissões, de Santo Agostinho, bispo
+{(Séc.V)} {(Lib. 9,10-11: CSEL 33,215-219)}
+
+@tema
+Procuremos alcançar a sabedoria eterna
+
+@texto
+Estando bem perto o dia em que ela deixaria esta vida – dia que conhecias e que ignorávamos – aconteceu por oculta disposição tua, como penso, que eu e ela estivéssemos sentados sozinhos perto da janela que dava para o jardim da casa onde nos tínhamos hospedado, lá junto de Óstia Tiberina. Ali, longe do povo, antes de embarcarmos, nos refazíamos da longa viagem. Falávamos a sós, com muita doçura e, _esquecendo-nos do passado, com os olhos no futuro_, indagávamos entre nós sobre a verdade presente, quem és tu, como seria a futura vida eterna dos santos, que _olhos não viram, nem ouvidos ouviram nem subiu ao coração do homem_ (cf. 1Cor 2,9). Mas ansiávamos com os lábios do coração pelas águas celestes de tua fonte, fonte da vida que está junto de ti. Eu dizia estas coisas, não deste modo nem com estas palavras. No entanto, Senhor, tu sabes que naquele dia, enquanto falávamos, este mundo foi perdendo o valor, junto com todos os seus deleites. Então disse ela: “Filho, quanto a mim, nada mais me agrada nesta vida. Que faço ainda e por que ainda aqui estou, não sei. Toda a esperança terrena já desapareceu. Uma só coisa fazia-me desejar permanecer por algum tempo nesta vida: ver-te cristão católico, antes de morrer. Deus me atendeu com a maior generosidade, porque te vejo até como seu servo, desprezando a felicidade terrena. Que faço aqui?” O que lhe respondi, não me lembro bem. Cinco dias depois, talvez, ou não muito mais, caiu com febre. Doente, um dia desmaiou, sem conhecer os presentes. Corremos para junto dela, mas recobrando logo os sentidos, viu-me a mim e a meu irmão e disse-nos, como que procurando algo semelhante: “Onde estava eu?” Em seguida, olhando-nos, opressos pela tristeza, disse: “Sepultai vossa mãe”. Eu me calava e retinha as lágrimas. Mas meu irmão falou qualquer coisa assim que seria melhor não morrer em terra estranha, mas na pátria. Ouvindo isto, ansiosa, censurando-o com o olhar por pensar assim, voltou-se para mim: “Vê o que diz”. Depois falou a ambos: “Ponde este corpo em qualquer lugar. Não vos preocupeis com ele. Só vos peço que vos lembreis de mim no altar de Deus, onde quer que estiverdes”. Terminando como pôde de falar, calou-se e continuou a sofrer com o agravamento da doença. Finalmente, no nono dia da sua doença, aos cinquenta e seis anos de idade e no trigésimo terceiro da minha vida, aquela alma piedosa e santa libertou-se do corpo.
+
+@secao Responsório | 1Cor 7,29a.30b.31; 2,12a
+
+@responsorio
+R. Meus irmãos, o tempo é breve.
+Os que se alegram sejam, pois, como se não se alegrassem; os que usam deste mundo, como se dele não usassem,
+* Porque passa a aparência perecível deste mundo.
+V. Nós, porém, não recebemos o espírito do mundo. * Porque passa.
+
+@secao Oração
+
+@oracao
+Ó Deus, consolação dos que choram, que acolhestes misericordioso as lágrimas de santa Mônica pela conversão de seu filho Agostinho, dai-nos, pela intercessão de ambos, chorar os nossos pecados e alcançar o vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

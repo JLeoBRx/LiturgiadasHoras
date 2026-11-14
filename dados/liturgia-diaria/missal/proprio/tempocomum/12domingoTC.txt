@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/12domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 27,8-9
+@texto
+O Senhor é a força do seu povo,
+é a fortaleza de salvação do seu Ungido.
+Salvai vosso povo, Senhor, abençoai vossa herança
+e governai-a pelos séculos.
+
+@secao Coleta
+@texto
+Concedei-nos, Senhor, a graça
+de sempre temer e amar vosso santo nome,
+pois nunca cessais de conduzir
+os que firmais solidamente no vosso amor.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, nós vos pedimos,
+este sacrifício de louvor e de reconciliação
+e fazei que, por ele purificados,
+vos ofereçamos o afeto de um coração que vos agrade.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 144,15
+@texto
+Os olhos de todos esperam em vós, Senhor,
+e vós lhes dais alimento no tempo oportuno.
+{Ou:}{Jo 10,11.15}
+Eu sou o bom Pastor.
+Eu dou minha vida pelas ovelhas,
+diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Renovados pelo alimento
+do precioso Corpo e Sangue do vosso Filho,
+imploramos vossa misericórdia, Senhor:
+dai-nos receber um dia, resgatados para sempre,
+a salvação que celebramos fielmente.
+Por Cristo, nosso Senhor.

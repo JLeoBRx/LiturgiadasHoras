@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4segunda_laudes.htm
+@documento Laudes - Segunda-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Doador da luz esplêndida,
+pelo vosso resplendor,
+ao passar da noite o tempo,
+surge o dia em seu fulgor.
+
+Verdadeira Estrela d'alva,
+não aquela que anuncia
+de outro astro a luz chegando
+e a seu brilho se anuvia,
+
+mas aquela luminosa,
+mais que o sol em seu clarão,
+mais que a luz e mais que o dia,
+aclarando o coração.
+
+Casta, a mente vença tudo,
+que os sentidos pedem tanto,
+vosso Espírito guarde puro
+nosso corpo, templo santo.
+
+A vós, Cristo, Rei clemente,
+e a Deus Pai, Eterno Bem,
+com o Espírito Paráclito,
+honra e glória eterna. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Saciai-nos de manhã com vosso amor!
+
+@salmo salmos/salmo-089-v2
+
+@gloria
+
+@antifona
+Saciai-nos de manhã com vosso amor!
+
+@antifona 2
+Louvores ao Senhor dos confins de toda a terra!
+
+@salmo canticos/is-42-10-16-v2
+
+@gloria
+
+@antifona
+Louvores ao Senhor dos confins de toda a terra!
+
+@antifona 3
+Louvai o Senhor, bendizei-o,
+vós que estais junto aos átrios de Deus!
+
+@salmo salmos/salmo-134-1-12
+
+@gloria
+
+@antifona
+Louvai o Senhor, bendizei-o,
+vós que estais junto aos átrios de Deus!
+
+@secao Leitura breve | Jt 8,25-26a.27
+
+@texto
+Demos graças ao Senhor nosso Deus, que nos submete a provações, como fez com nossos pais. Lembrai-vos de tudo o que Deus fez a Abraão, de como provou Isaac, de tudo o que aconteceu a Jacó. Assim como os provou pelo fogo, para lhes experimentar o coração, assim também ele não se está vingando de nós. É antes para advertência que o Senhor açoita os que dele se aproximam.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó justos, alegrai-vos no Senhor!
+* Aos retos fica bem glorificá-lo. R. Ó justos.
+V. Cantai para o Senhor um canto novo.
+* Aos retos. Glória ao Pai. R. Ó justos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendito seja o Senhor Deus, que visitou e libertou
+a nós que somos o seu povo!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendito seja o Senhor Deus, que visitou e libertou
+a nós que somos o seu povo!
+
+@secao Preces
+
+@preces
+Oremos a Cristo, que ouve e salva os que nele esperam; e o aclamemos:
+
+R. **Nós vos louvamos, Senhor, e em vós esperamos!**
+
+Nós vos damos graças, Senhor, que sois rico em misericórdia,
+– pela imensa caridade com que nos amastes. R.
+
+Vós, que estais sempre agindo no mundo em união com o Pai,
+– renovai todas as coisas pelo poder do Espírito Santo. R.
+
+Abri os nossos olhos e os de nossos irmãos e irmãs,
+– para que contemplemos hoje as vossas maravilhas. R.
+
+Vós, que neste dia nos chamais para o vosso serviço,
+– tornai-nos fiéis servidores da vossa graça em favor de nossos irmãos e irmãs. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que confiastes ao ser humano a missão de guardar e cultivar a terra, e colocastes o sol a seu serviço, dai-nos a graça de neste dia trabalhar com ardor pelo bem dos nossos irmãos e irmãs para o louvor de vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

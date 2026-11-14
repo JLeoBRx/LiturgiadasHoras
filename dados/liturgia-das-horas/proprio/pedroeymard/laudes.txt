@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pedroeymard_laudes.htm
+@documento Laudes - São Pedro Julião Eymard, presbítero
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Jesus Cristo, ternura de Deus,
+por quem somos votados ao Pai,
+pelos ternos acenos do Espírito,
+nossas almas na graça guiais.
+
+Aos nascidos do Deus verdadeiro,
+pela água na fonte lavados,
+quereis ver darem frutos de graça,
+pelo amor com que foram amados.
+
+Vós chamais, e os chamados acorrem,
+deixam tudo, ao fulgor desta luz,
+e vos seguem, em busca do Pai,
+pelos régios caminhos da cruz.
+
+Este santo, com todas as forças,
+quis a vós se unir pelo amor.
+Da virtude as mais altas montanhas
+procurou escalar com ardor.
+
+A Deus Pai, e a Jesus, Cristo Rei,
+e ao Espírito, perene louvor.
+Cem por um dais, ó Deus, para o pobre
+que deu pouco, porém, com amor.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor lhe deu a glória
+e, em seu Reino, um grande nome.
+
+@antifona 2
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, servos do Senhor, bendizei-o para sempre!
+
+@antifona 3
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+e cantando se levantem de seus leitos.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes a São Pedro Julião Eymard um amor admirável pelos sagrados mistérios do Corpo e do Sangue de vosso Filho, concedei, na vossa bondade, que mereçamos saborear o mesmo alimento que ele encontrou nesse divino banquete. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

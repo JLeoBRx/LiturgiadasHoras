@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santacecilia.htm
+
+@secao Antífona da entrada
+@texto
+A virgem forte, oferta de pureza, oblação de castidade,
+agora segue o Cordeiro por nós crucificado.
+
+@secao Coleta
+@texto
+Ó Deus, que nos alegrais cada ano
+com a comemoração de Santa Cecília,
+fazei que os testemunhos sobre esta vossa serva,
+piedosamente transmitidos,
+sejam para nós exemplos a serem imitados
+e proclamem as maravilhas de Cristo, vosso Filho,
+realizadas nos fiéis.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, os dons que vos apresentamos
+na celebração de Santa Cecília
+sejam do vosso agrado,
+como vos foi precioso o combate do vosso martírio.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Ap 7,17
+@texto
+O Cordeiro, que está no meio do trono,
+os conduzirá às fontes da água da vida
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que coroastes Santa Cecília entre os santos
+pela dupla vitória da virgindade e do martírio,
+concedei-nos, pela força deste sacramento,
+superar com firmeza todo mal e alcançar a glória celeste.
+Por Cristo, nosso Senhor.

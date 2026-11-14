@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/faustinakowalska.htm
+
+@secao Antífona da entrada
+@texto
+Esta é uma das virgens sábias e prudentes,
+que foi ao encontro de Cristo com sua lâmpada acesa.
+
+@secao Coleta
+@texto
+Ó Deus, que concedestes a Santa Faustina
+a missão de difundir as imensas riquezas
+da vossa infinita misericórdia,
+dai-nos, por sua intercessão e exemplo,
+confiar plenamente na vossa bondade
+e realizar, de coração generoso, as obras de caridade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, proclamando-vos admirável
+na santa virgem Faustina,
+humildemente vos pedimos:
+como vos foram agradáveis os méritos da sua vida,
+assim vos agrade o serviço do nosso culto.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 25,6
+@texto
+Eis, o Noivo está chegando:
+ide ao encontro do Cristo Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+saciados pela participação nos divinos mistérios,
+fazei que, a exemplo de santa Faustina,
+nos esforcemos por servir unicamente a vós,
+trazendo em nosso corpo
+os sinais dos sofrimentos de Jesus.
+Que vive e reina pelos séculos dos séculos.

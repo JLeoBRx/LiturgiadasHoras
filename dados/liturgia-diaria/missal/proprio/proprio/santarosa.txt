@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santarosa.htm
+
+@secao Antífona da entrada
+@texto
+Alegremo-nos todos no Senhor,
+celebrando este dia festivo
+em honra da virgem Santa Rosa de Lima;
+os Anjos se alegram conosco
+e dão glória ao Filho de Deus.
+
+@secao Coleta
+@texto
+Ó Deus, inspirastes Santa Rosa de Lima,
+inflamada por vosso amor,
+a deixar as coisas do mundo
+e dedicar-se inteiramente a vós,
+em austera penitência;
+concedei-nos, por sua intercessão,
+seguir na terra os vossos caminhos
+e saborear no céu as alegrias eternas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, a nossa humilde homenagem
+que vos apresentamos na festa da virgem Santa Rosa de Lima
+e concedei-nos, por esta oblação puríssima,
+manter viva, em vossa presença,
+a chama do amor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Fl 3,8-9
+@texto
+Considero tudo como perda diante da vantagem suprema
+que consiste em conhecer a Cristo Jesus, meu Senhor.
+Por causa dele eu perdi tudo.
+Considero tudo como lixo,
+para ganhar Cristo e ser encontrado unido a ele.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+a participação no Corpo e no Sangue do vosso Filho
+nos afaste da sedução das coisas passageiras
+para que, a exemplo de Santa Rosa de Lima,
+cresçamos no amor para convosco
+e gozemos no céu a visão da vossa face.
+Por Cristo, nosso Senhor.

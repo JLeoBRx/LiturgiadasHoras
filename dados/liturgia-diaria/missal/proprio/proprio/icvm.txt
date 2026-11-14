@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/icvm.htm
+
+@secao Antífona da entrada | Cf. Sl 12,6
+@texto
+Meu coração, por vosso auxílio, rejubile,
+e que eu vos cante pelo bem que me fizestes!
+
+@secao Coleta
+@texto
+Ó Deus, que preparastes morada digna do Espírito Santo
+no Coração da Virgem Maria,
+concedei benigno que, por sua intercessão,
+nos tornemos templo da vossa glória.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, as orações e oferendas dos vossos fiéis
+que vos apresentamos na comemoração
+da Bem-aventurada Virgem Maria, Mãe de Deus;
+que elas vos sejam agradáveis
+e nos tragam o auxílio da vossa misericórdia.
+Por Cristo, nosso Senhor.
+
+{Antífona da} {comunhão}{. Lc 2,19}
+Maria guardava todos estes fatos
+e meditava sobre eles em seu coração.
+
+@secao Depois da comunhão
+@texto
+Senhor, vós nos fizestes participantes
+dos frutos da redenção eterna;
+concedei, a nós que celebramos
+a memória da Mãe do vosso Filho,
+que nos gloriemos na plenitude da vossa graça
+e sintamos crescer sempre mais a salvação.
+Por Cristo, nosso Senhor.

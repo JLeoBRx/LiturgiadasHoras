@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saopiox.htm
+@documento Ofício das Leituras - São Pio X, Papa Memória
+
+@celebracao
+SÃO PIO X, PAPA
+{Memória}
+
+@biografia
+Nasceu na aldeia de Riese, na região de Veneza (Itália), em 1835. Depois de ter desempenhado santamente o ministério sacerdotal, foi sucessivamente bispo de Mântua, patriarca de Veneza, e papa, eleito no ano 1903. Adotou como lema do seu pontificado “Restaurar todas as coisas em Cristo”, ideal que de fato orientou a sua ação pontifícia, na simplicidade de espírito, pobreza e fortaleza, dando assim um novo incremento à vida cristã na Igreja. Teve também de combater energicamente contra os erros que nela se infiltravam. Morreu no dia 20 de Agosto de 1914.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição Apostólica Divino afflatu, de São Pio X, papa
+{(Séc.XX)} {(AAS3 [1911],633-635)}
+
+@tema
+A voz da Igreja que canta suavemente
+
+@texto
+Compostos por divina inspiração, os salmos colecionados na Sagrada Escritura foram desde os inícios da Igreja empregados, como se sabe, não apenas para alimentar maravilhosamente a piedade dos fiéis que ofereciam _sempre a Deus o sacrifício de louvor, isto é, o fruto dos lábios que louvam seu nome_ (cf. Hb 13,15; Os 14,3); mas também, como já era costume na antiga Lei, para ocupar lugar eminente na sagrada liturgia e no ofício divino. Daí nasceu, na expressão de Basílio, “a voz da Igreja” é a salmodia. Salmodia que é “filha de sua hinodia, que sempre a Igreja canta diante do trono de Deus e do Cordeiro”, como expõe nosso predecessor Urbano VIII. Assim a Igreja ensina aos homens particularmente devotados ao culto divino, conforme as palavras de Atanásio, “de que modo se deve louvar o Senhor e com que palavras dignamente” confessá-lo. A este respeito disse muito bem Agostinho: “Para ser bem louvado pelo homem, Deus mesmo se louvou; e, aceitando louvar-se, deu ao homem encontrar o modo de louvá-lo”. Além disto, nos salmos há uma maravilhosa força para despertar nos corações o desejo de todas as virtudes. Pois, “_embora toda a nossa Escritura, tanto a antiga quanto a nova, seja inspirada por Deus e útil para a instrução, como está escrito_ (cf. 2Tm 3,16), o livro dos salmos porém, semelhante a um paraíso, que contém em si os frutos dos demais livros, produz o canto, e, ainda mais, oferece seus próprios frutos unidos aos dos outros durante a salmodia”. Essas palavras são novamente de Atanásio, que acrescenta: “A mim me parece que os salmos são como um espelho para quem salmodia, onde este se contempla a si e os movimentos de seu espírito, e, assim impressionado, os recita”. Também diz Agostinho nas Confissões: “Como chorei por causa de teus hinos e cânticos, vivamente comovido pelas suaves palavras do canto de tua Igreja! As palavras fluíam em meus ouvidos e instilava-se a verdade em meu coração, fazendo arder a piedade; corriam-me as lágrimas e sentia-me bem com elas”. Na verdade, a quem não comovem aquelas frequentes passagens dos salmos onde se canta profundamente a imensa majestade de Deus, a onipotência, a indizível justiça, a bondade ou a clemência e todos os outros infinitos louvores? A quem não inspiram iguais sentimentos as ações de graças pelos benefícios recebidos de Deus, ou as humildes e confiantes preces pelo que se deseja, ou os clamores do arrependimento dos pecados? A quem não inflama a cuidadosamente velada imagem do Cristo Redentor “cuja voz ouvia Agostinho em todos os salmos a salmodiar, a gemer, a alegrar-se na esperança ou a suspirar pela realização?”
+
+@secao Responsório | 1Ts 2,4.3
+
+@responsorio
+R. Como Deus nos julgou dignos
+de confiar-nos o Evangelho,
+nós falamos deste modo.
+* Não buscamos agradar aos homens, mas a Deus.
+V. A nossa exortação nada tem de falsidade,
+de impureza ou de mentira. * Não buscamos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que para defender a fé católica e restaurar todas as coisas em Cristo, cumulastes o papa São Pio X de sabedoria divina e coragem apostólica, fazei-nos alcançar o prêmio eterno, dóceis às suas instruções e seus exemplos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

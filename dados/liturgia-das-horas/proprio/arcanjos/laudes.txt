@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/arcanjos_laudes.htm
+@documento Laudes - Santos Miguel, Gabriel e Rafael, Arcanjos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, Luz de Deus Pai,
+vida e vigor que buscamos
+dos vossos anjos, adiante,
+de coração vos louvamos.
+Doce cantar alternando,
+nosso louvor elevamos.
+
+À celestial legião
+também cantamos louvor,
+e destacamos seu Chefe
+com sua força e vigor:
+Miguel, invicto pisando
+o vil dragão tentador.
+
+Ó Cristo, Rei compassivo,
+de nós lançai todo mal.
+Em corpo e alma guardados
+por Guardião sem igual,
+em vosso amor concedei-nos
+o Reino celestial.
+
+Glória cantamos ao Pai,
+ao Filho glória também.
+Ao que procede dos dois
+a mesma glória convém,
+pois são os três um só Deus
+por todo o sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Louvemos o Senhor, a quem os anjos louvam,
+os querubins e os serafins
+cantam: Santo, Santo, Santo.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Louvemos o Senhor, a quem os anjos louvam,
+os querubins e os serafins
+cantam: Santo, Santo, Santo.
+
+@antifona 2
+Vós, anjos do Senhor, bendizei-o para sempre.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, anjos do Senhor, bendizei-o para sempre.
+
+@antifona 3
+Deus santo, Senhor, os anjos vos louvam
+nas alturas, dizendo a uma só voz:
+A vós, Deus, o louvor.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Deus santo, Senhor, os anjos vos louvam
+nas alturas, dizendo a uma só voz:
+A vós, Deus, o louvor.
+
+@secao Leitura breve | Gn 28,12-13a
+
+@texto
+Jacó viu em sonho uma escada apoiada no chão, com a outra ponta tocando o céu e os anjos de Deus subindo e descendo por ela. No alto da escada estava o Senhor que lhe dizia: Eu sou o Senhor, Deus de Abraão, teu pai, e Deus de Isaac.
+
+@secao Responsório breve
+
+@responsorio
+R. Aparecendo um outro anjo,
+* Ficou de pé junto ao altar. R. Aparecendo.
+V. Segurando em suas mãos um turíbulo de ouro.
+* Ficou de pé. Glória ao Pai. R. Aparecendo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Em verdade eu vos digo:
+Vereis o céu aberto e os anjos do Senhor
+subirem e descerem servindo ao Filho do Homem.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Em verdade eu vos digo:
+Vereis o céu aberto e os anjos do Senhor
+subirem e descerem servindo ao Filho do Homem.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, louvemos o Senhor em cuja presença estão multidões de anjos que o servem dia e noite, cantando a uma só voz; aclamemos com alegria, dizendo:
+
+R. **Bendizei ao Senhor, todos os seus anjos!**
+
+Deus santo, que mandastes vossos anjos para nos protegerem em todos os caminhos,
+– conduzi-nos hoje pelos vossos caminhos sem mancha de pecado. R.
+
+Pai de bondade, cuja face os anjos contemplam dia e noite no céu,
+– fazei que procuremos sem cessar a vossa face. R.
+
+Deus eterno, cujos filhos serão como anjos no céu,
+– dai-nos a pureza de coração e de corpo. R.
+
+Deus todo-poderoso, enviai o grande príncipe Miguel para ajudar o vosso povo,
+– a fim de defendê-lo na luta contra Satanás e seus anjos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que organizais de modo admirável o serviço dos Anjos e dos homens, fazei que sejamos protegidos na terra por aqueles que vos servem no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

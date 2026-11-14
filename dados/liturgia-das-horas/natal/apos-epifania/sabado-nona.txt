@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/sabado_aposepifania_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos Apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@salmo salmos/salmo-118-81-88
+
+@gloria
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Leitura breve | Mq 2,12
+
+@texto
+Farei de ti, Jacó, uma grande comunidade; reunirei num só lugar os remanescentes de Israel, cuidarei dele, como do rebanho no curral, ou como de ovelhas no meio da pastagem.
+
+@texto
+V. Nações, glorificai o nosso Deus.
+R. Anunciai em alta voz o seu louvor.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, pelo vosso Filho nos fizestes nova criatura para vós. Dai-nos, pela graça, participar da divindade daquele que uniu a vós a nossa humanidade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus

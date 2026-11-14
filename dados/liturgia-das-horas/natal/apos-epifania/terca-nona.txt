@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/terca_aposepifania_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus que é uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos Apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@salmo salmos/salmo-118-49-56
+
+@gloria
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações,
+para levares a minha salvação
+até os confins de toda a terra.
+
+@secao Leitura breve | Is 65,1
+
+@texto
+Fui perguntado por quem não se interessava por mim, fui achado por quem não me procurava. E eu disse: "Eis-me aqui, eis-me aqui a pessoas que não invocavam o meu nome.
+
+@texto
+V. Nações, glorificai o nosso Deus.
+R. Anunciai em alta voz o seu louvor.
+
+@secao Oração
+
+@oracao
+Ó Deus, cujo Filho Unigênito se manifestou na realidade da nossa carne, concedei que, reconhecendo sua humanidade semelhante à nossa, sejamos interiormente transformados por ele. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

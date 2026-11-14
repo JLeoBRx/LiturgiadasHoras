@@ -1,0 +1,155 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/perpetuaefelicidade.htm
+@documento Ofício das Leituras - Santas Perpétua E Felicidade, Mártires Memória
+
+@celebracao
+SANTAS PERPÉTUA E FELICIDADE, MÁRTIRES
+{Memória}
+
+@biografia
+Sofreram o martírio em Cartago, no ano 203, durante a perseguição de Setímio Severo. Conserva-se ainda uma bela narração da sua morte, escrita em parte pelos próprios confessores da fé cartagineses e em parte por um escritor contemporâneo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios
+
+@tema
+4,7―5,8 Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno.[5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Da narração do martírio dos santos Mártires de Cartago
+{(Sec. III)} {(Cap. 18.20-21: edit. van Beek, Noviomagi, 1936, pp. 42.46-52)}
+
+@tema
+Chamados e escolhidos para a glória do Senhor
+
+@texto
+Despontou o dia da vitória dos mártires. Saíram do cárcere e entraram no anfiteatro, como se fossem para o céu, de rosto radiante e sereno; e se algum tinha a fisionomia alterada, era de alegria e não de medo.
+
+Perpétua foi a primeira a ser lançada aos ares por uma vaca brava e caiu de costas. Levantou-se imediatamente e, vendo Felicidade caída por terra, aproximou-se, deu-lhe a mão e ergueu-a. Ficaram ambas de pé. Saciada a crueldade do povo, foram reconduzidas à porta chamada Sanavivária. Ali, Perpétua foi recebida por um catecúmeno chamado Rústico, que permanecia sempre a seu lado. E como que despertando do sono (até esse momento estivera em êxtase do espírito), começou a olhar ao redor e, para espanto de todos, perguntou: “Quando é que seremos expostas àquela vaca?” Ao lhe responderem que já tinha acontecido, não quis acreditar, e só se convenceu quando viu no corpo e nas suas vestes a marca dos ferimentos recebidos. Depois, chamando para junto de si seu irmão e aquele catecúmeno, disse-lhes: “Permanecei firmes na fé, e amai-vos uns aos outros; não vos escandalizeis com os nossos sofrimentos”.
+
+Por sua vez, Sáturo, em outra porta do anfiteatro, animava o soldado Pudente com estas palavras: “Até este momento, tal como te havia afirmado e predito, não fui ainda ferido por nenhuma fera. Mas agora, crê de todo o coração: vou avançar de novo para ali, e com uma só dentada de leopardo morrerei”. E imediatamente, já no fim do espetáculo, foi lançado a um leopardo; este, com uma só dentada, lhe derramou tanto sangue, que o povo, sem saber o que dizia, dando testemunho do seu segundo batismo, aclamava: “Foste lavado, estás salvo! Foste lavado, estás salvo!” Realmente estava salvo quem deste modo foi lavado.
+
+Então Sáturo disse ao soldado Pudente: “Adeus! Lembra-te da fé e de mim; que estas coisas não te perturbem, mas te confirmem”. Pediu-lhe depois o anel que trazia no dedo e, mergulhando-o na ferida, devolveu-o como uma herança, deixando-lhe como penhor e lembrança do sangue. Em seguida, já esgotado, foi deitado com os outros no lugar de costume para o golpe de misericórdia.
+
+O povo, no entanto, exigia em alta voz que fossem levados para o meio do anfiteatro aqueles que iam receber o golpe final; pois queriam ver com os próprios olhos, cúmplices do homicídio, a espada penetrar nos corpos das vítimas. Os mártires levantaram-se espontaneamente e foram para onde o povo queria; depois deram uns aos outros o ósculo santo, para coroarem o martírio com este rito de paz.
+
+Todos receberam o golpe da espada, imóveis e em silêncio; especialmente Sáturo, que fora o primeiro a subir e o primeiro a entregar a alma. Até o último instante ia confortando Perpétua. E esta, que desejava ainda experimentar maior dor, exultou ao sentir o golpe em seus ossos, puxando ela própria para sua garganta a mão indecisa do gladiador inexperiente.
+
+Talvez esta mulher de tanto valor, temida pelo espírito do mal, não tivesse podido ser morta de outra maneira senão querendo ela própria.
+Oh mártires cheios de força e ventura! Verdadeiramente fostes chamados e escolhidos para a glória de nosso Senhor Jesus Cristo!
+
+@secao Responsório | Rm 8,34b-35.37
+
+@responsorio
+R. Cristo Jesus está sentado à direita de Deus Pai
+e por nós intercede.
+* Quem, portanto, poderá nos separar do amor de Cristo?
+Será tribulação, perseguição, ou então, angústia,
+ou fome, ou nudez, ou perigo, ou espada?
+V. Mas em todas essas coisas somos mais que vencedores
+por Jesus que nos amou. * Quem, portanto.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo vosso amor, as mártires Perpétua e Felicidade resistiram aos perseguidores e superaram as torturas do martírio; concedei-nos, por sua intercessão, crescer constantemente em vossa caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

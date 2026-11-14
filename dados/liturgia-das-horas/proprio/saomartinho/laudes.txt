@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saomartinho_laudes.htm
+@documento Laudes - São Martinho de Tours, bispo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Teus monges todos choravam:
+ias, Martinho, morrer:
+"Se ao povo sou necessário,
+já não recuso viver"
+
+Aos nossos bispos concede
+toda a união, toda a paz;
+aumenta a glória da Igreja,
+calcando aos pés Satanás.
+
+Ressuscitaste três mortos,
+do caos venceste o terror;
+partindo ao meio o teu manto,
+vestiste o próprio Senhor.
+
+Enfrentarias a luta,
+armado apenas da cruz,
+mas de ti foge o demônio:
+todo o teu ser era luz.
+
+Tu proclamaste o Deus trino,
+e a Jesus, Filho de Deus.
+A mesma fé professando,
+cantar possamos nos céus.
+
+@secao Salmodia
+
+@antifona 1
+Sacerdote de Deus, São Martinho,
+para vós se abriram os céus e o Reino celeste do Pai.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Sacerdote de Deus, São Martinho,
+para vós se abriram os céus e o Reino celeste do Pai.
+
+@antifona 2
+Com os olhos e as mãos voltados para os céus,
+seu espírito incansável não cessava de rezar.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Com os olhos e as mãos voltados para os céus,
+seu espírito incansável não cessava de rezar.
+
+@antifona 3
+Martinho é recebido alegremente
+no seio de Abraão, o nosso pai;
+Martinho, que era pobre e humilde,
+carregado de riqueza entra nos céus.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Martinho é recebido alegremente
+no seio de Abraão, o nosso pai;
+Martinho, que era pobre e humilde,
+carregado de riqueza entra nos céus.
+
+@secao Leitura breve | Hb 13,7-8
+
+@texto
+Lembrai-vos de vossos dirigentes, que vos pregaram a palavra de Deus, e, considerando o fim de sua vida, imitai-lhes a fé. Jesus Cristo é o mesmo, ontem e hoje e por toda a eternidade.
+
+@secao Responsório breve
+
+@responsorio
+R. Colocastes sentinelas
+* Vigiando vosso povo. R. Colocastes.
+V. Anunciam, dia e noite, vosso nome, ó Senhor. * Vigiando.
+Glória ao Pai. R. Colocastes.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ó feliz e santo homem, vossa alma está no céu.
+Os anjos se alegram, rejubilam os arcanjos;
+os santos vos aclamam e as virgens vos convidam:
+Ficai conosco para sempre!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ó feliz e santo homem, vossa alma está no céu.
+Os anjos se alegram, rejubilam os arcanjos;
+os santos vos aclamam e as virgens vos convidam:
+Ficai conosco para sempre!
+
+@secao Preces
+
+@preces
+Agradeçamos a Cristo, o bom Pastor que deu a vida por suas ovelhas; e lhe peçamos:
+
+R. **Apascentai, Senhor, o vosso rebanho!**
+
+Cristo, quisestes mostrar vosso amor e misericórdia nos santos pastores;
+– por meio deles, sede sempre misericordioso para conosco. R.
+
+Através dos vossos representantes na terra, continuais a ser o Pastor das nossas almas;
+– não vos canseis de nos dirigir por intermédio de nossos pastores. R.
+
+Em vossos santos, que guiam os povos, sois o médico dos corpos e das almas;
+– não cesseis de exercer para conosco o ministério da vida e da santidade. R.
+
+Pela sabedoria e caridade dos santos, instruístes o vosso rebanho;
+– guiados pelos nossos pastores, fazei-nos crescer na santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fostes glorificado pela vida e a morte do bispo São Martinho, renovai em nossos corações as maravilhas da vossa graça, de modo que nem a morte nem a vida nos possam separar do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

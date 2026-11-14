@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5domingoquaresma_vesperas.htm
+@documento Vésperas - Domingo da 5ª Semana da Quaresma
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Ó Pai, nesta Quaresma,
+ouvi nossos pedidos:
+na mais contrita prece
+nos vedes reunidos.
+
+Sondais as nossas almas,
+na fé tão inconstantes:
+se para vós se voltam,
+mudai-as quanto antes.
+
+Pecamos, na verdade,
+tão longe da virtude:
+Senhor, por vosso nome,
+a todos dai saúde.
+
+Fazei que nosso corpo,
+enfim disciplinado,
+o dia todo fuja
+da culpa e do pecado.
+
+Que o tempo da Quaresma
+nos leve à santidade,
+e assim louvar possamos
+a glória da Trindade.
+
+@secao Salmodia
+
+@antifona 1
+Como a serpente no deserto,
+o Filho do Homem há de ser levantado numa cruz.
+
+@salmo salmos/salmo-109-1-5-7-v2
+
+@antifona
+Como a serpente no deserto,
+o Filho do Homem há de ser levantado numa cruz.
+
+@antifona 2
+Senhor Deus do universo,
+protegeis e libertais, acompanhais e enfim salvais.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Senhor Deus do universo,
+protegeis e libertais, acompanhais e enfim salvais.
+
+@antifona 3
+Foi ferido por nossos pecados,
+esmagado por nossas maldades;
+por suas chagas nós fomos curados.
+
+@salmo canticos/1pd-2-21-24-v2
+
+@texto
+{(R.} Por suas chagas nós fomos curados.)
+
+@salmo canticos/1pd-2-21-24-v3
+
+@gloria
+
+@antifona
+Foi ferido por nossos pecados,
+esmagado por nossas maldades;
+por suas chagas nós fomos curados.
+
+@secao Leitura breve | At 13,26-30a
+
+@texto
+Irmãos, a nós foi enviada esta mensagem de salvação. Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se leem todos os sábados. Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. Mas Deus o ressuscitou dos mortos.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos bendizemos e adoramos,
+* Ó Jesus, nosso Senhor. R. Nós vos.
+V. Por vossa cruz vós redimistes este mundo. * Ó Jesus.
+Glória ao Pai. R. Nós vos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Demos glória a Deus Pai, que fez de nós o seu povo eleito, renascido de uma semente incorruptível e eterna, por meio de seu Filho, a Palavra que se fez carne; e lhe supliquemos humildemente:
+
+R. **Senhor, sede propício ao vosso povo!**
+
+Deus de misericórdia, escutai as súplicas que vos dirigimos em favor do vosso povo,
+– e fazei que ele deseje, sempre, mais a vossa palavra do que o alimento corporal. R.
+
+Ensinai-nos a amar sinceramente e sem discriminação a gente de nossa terra e os povos de todas as raças,
+– e a trabalhar pela felicidade e concórdia de toda a humanidade. R.
+
+Acolhei com bondade os que se preparam para o renascimento espiritual do batismo,
+– para que, como pedras vivas, eles construam a vossa casa espiritual que é a Igreja. R.
+
+Vós, que pela pregação do profeta Jonas exortastes os ninivitas à penitência,
+– convertei por vossa palavra os corações dos pecadores. R.
+
+{(intenções livres)}
+
+Ajudai os agonizantes a esperarem confiantemente o seu encontro com Cristo,
+– para que se alegrem eternamente na visão da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos por vossa graça caminhar com alegria na mesma caridade que levou o vosso Filho a entregar-se à morte no seu amor pelo mundo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

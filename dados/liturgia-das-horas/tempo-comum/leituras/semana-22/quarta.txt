@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/22quartaTC.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Jeremias {26,1-15}
+
+@tema
+Jeremias em perigo de vida_
+_por ter vaticinado a ruína do templo
+
+@texto
+[1] No início do reinado de Joaquim, filho de Josias, rei de Judá, foi comunicada da parte do Senhor esta palavra, que dizia: [2] "Assim fala o Senhor: Põe-te de pé no átrio da casa do Senhor e fala a todos os que vêm das cidades de Judá, para adorar o Senhor no templo, todas as palavras que eu te mandei dizer. Não retires uma só palavra, [3] talvez eles as ouçam e voltem do mau caminho, e eu me arrependa da decisão de castigá-los por suas más obras. [4] A eles então dirás: Isto diz o Senhor: Se não vos dispuserdes a viver segundo a lei que vos dei, [5] a escutar as palavras dos meus servos, os profetas, que eu vos tenho enviado com solicitude e para vossa orientação, e que vós não tendes escutado, [6] farei desta casa uma segunda Silo e farei desta uma cidade amaldiçoada por todos os povos da terra".
+
+@texto
+[7] Os sacerdotes e profetas e todo o povo presente ouviram Jeremias dizer estas palavras na casa do Senhor. [8] Quando Jeremias acabou de dizer tudo o que o Senhor lhe ordenara falasse a todo o povo, prenderam-no os sacerdotes, os profetas e o povo, dizendo: "Este homem tem que morrer! [9] Por que dizes, em nome do Senhor, a profecia: "Esta casa será como Silo, e esta cidade será devastada e vazia de habitantes?"
+
+@texto
+Todo o povo juntou-se contra Jeremias na casa do Senhor. [10] Os maiorais de Judá tomaram conhecimento desses fatos, e da casa do rei vieram à casa do Senhor e postaram-se à entrada da Porta Nova do Templo. [11] Os sacerdotes e profetas dirigiram-se aos chefes e a todo o povo, dizendo: "Este homem foi julgado réu de morte, porque profetizou contra esta cidade, como ouvistes com vossos ouvidos". [12] Disse Jeremias aos dignitários e a todo o povo: "O Senhor incumbiu-me de profetizar para esta casa e para esta cidade através de todas as palavras que ouvistes. [13] Agora, portanto, tratai de emendar a vossa vida e as obras, ouvi a voz do Senhor, vosso Deus, que ele voltará atrás da decisão que tomou contra vós. [14] Eu estou aqui, em vossas mãos, fazei de mim o que vos parecer conveniente e justo, [15] mas ficai sabendo que, se me derdes a morte, tereis derramado sangue inocente contra vós mesmos e contra esta cidade e seus habitantes, pois em verdade o Senhor enviou-me a vós para falar tudo isso a vossos ouvidos.
+
+@secao Responsório | Jr 26,15a; Mt 27,24b
+
+@responsorio
+R. Ficai cientes de que, se me matardes,
+* Derramareis sangue inocente sobre vós,
+e sobre os habitantes da cidade.
+V. Pilatos lavou as suas mãos e disse perante a multidão:
+Sou inocente do sangue deste justo. * Derramareis.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de João, de Orígenes, presbítero
+{(Séc. III)} {(Tomus 10,20: PG 14,370-371)}
+
+@tema
+Cristo falava do templo do seu corpo
+
+@texto
+_Destruí este templo e em três dias o reedificarei_ (Jo 2,19). Os apegados ao corpo e às coisas sensíveis, creio, parecem indicar os judeus, que irritados por terem sido expulsos por Jesus, acusando-os de transformarem a casa do Pai em mercado de seus produtos, pedem um sinal. Por esse sinal devia Jesus justificar o seu procedimento e provar que era o Filho de Deus, o que eles na sua incredulidade não queriam admitir. Mas o Salvador ajuntou uma palavra sobre seu corpo, como se falasse daquele templo; aos que interrogavam: _Que sinal mostras para assim fazeres?_, responde: _Destruí este templo e em três dias o reedificarei_.
+
+@texto
+Todavia ambos, tanto o templo como o corpo de Jesus, compreendidos como unidade, parecem-me ser figura da Igreja. Por ter sido edificada com pedras vivas; feita _casa espiritual para o sacerdócio santo_ (1Pd 2,5). Edificada _sobre o fundamento dos apóstolos e dos profetas,_ sendo _sua máxima pedra angular o Cristo Jesus_ (Ef 2,20), existindo em verdade, como templo. Se, porém, por causa da palavra: _Vós sois o corpo de Cristo e membros uns dos outros_ (1Cor 12,27), se entender serem destruídas e deslocadas as junturas e disposições das pedras do templo, como se lê no Salmo 21 sobre os ossos de Cristo, pelas ciladas das perseguições e tribulações e por aqueles que combatem a unidade do templo por contradições, levantar-se-á o templo e ressuscitará o corpo ao terceiro dia. Após o dia da maldade que pesa sobre ele, e após o dia da consumação que se seguir.
+
+@texto
+Seguirá de perto o terceiro dia do novo céu e da terra nova, quando esses ossos, quero dizer, toda a casa de Israel, serão reerguidos, no grande domingo, em que a morte é vencida. Assim a ressurreição de Cristo depois da paixão contém o mistério da ressurreição do corpo total de Cristo. Como aquele corpo de Jesus, sensível, foi pregado na cruz, sepultado e depois ressuscitado, assim todo o corpo dos santos de Cristo com ele foi pregado na cruz e agora já não vive mais. Cada um deles, à semelhança de Paulo, não se gloria em coisa alguma a não ser na cruz de nosso Senhor Jesus Cristo por quem está crucificado para o mundo e o mundo para ele.
+
+@texto
+Por isto não apenas foi cada um de nós, junto com Cristo, pregado à cruz e crucificado para o mundo, mas também, junto com Cristo, sepultado: _Fomos consepultados com Cristo_, diz Paulo (Rm 6,4) e acrescenta como quem já recebeu as arras da ressurreição: _E com ele ressuscitamos_ (cf. Rm 6,4).
+
+@secao Responsório | Cf. 1Cor 6,19-20; Lv 11,43a.44b
+
+@responsorio
+R. Vosso corpo é o templo do Espírito Santo,
+que habita em vós e de Deus recebestes;
+e por isso não mais pertenceis a vós mesmos,
+pois fostes comprados por preço bem alto.
+* Glorificai e trazei em vosso corpo o Senhor.
+V. Não queirais contaminar-vos:
+Sede santos, pois sou santo.
+* Glorificai.
+
+@secao Oração
+
+@oracao
+Deus do universo, fonte de todo bem, derramai em nossos corações o vosso amor e estreitai os laços que nos unem convosco para alimentar em nós o que é bom e guardar com solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/3sexta_quaresma.htm
+@documento Ofício das Leituras - 3ª Semana Da Quaresma - Sexta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@salmo salmos/salmo-068-2-22-30-37-i
+
+@gloria
+
+@antifona
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@antifona 2
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@salmo salmos/salmo-068-2-22-30-37-ii
+
+@gloria
+
+@antifona
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@antifona 3
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@salmo salmos/salmo-068-2-22-30-37-iii
+
+@gloria
+
+@antifona
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@texto
+V. Voltai ao Senhor vosso Deus.
+R. Ele é bom, compassivo e clemente.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {35,30–36,1; 37,1-9}
+
+@tema
+Construção do Santuário e da Arca
+
+@texto
+Naqueles dias, [35,30] Moisés disse aos filhos de Israel: “Vede, o Senhor nomeou especialmente a Beseleel, filho de Uri, filho de Hur, da tribo de Judá; [31] e o encheu do espírito de Deus, de sabedoria, habilidade e conhecimento para qualquer trabalho, [32] como inventar e executar trabalhos de ouro, prata e bronze, [33] talhar pedras e engastá-las, entalhar madeira, e executar qualquer tipo de obra de arte. [34] Também lhe dispôs o coração, a ele e a Ooliab, filho de Aquisamec, da tribo de Dã, para ensinar os outros. [35] Dotou-os de habilidade para executar qualquer tipo de obra de escultor, de artista e de bordador em púrpura violácea, vermelha e carmesim, em linho fino, bem como de tecelão, para executar e para projetar obras novas”. [36,1] Então, Beseleel e Ooliab, e todos os homens hábeis, a quem o Senhor deu habilidade e inteligência para saberem fazer com arte o que era necessário para o uso do santuário, fizeram o que o Senhor tinha mandado. [37,1] Beseleel fez a arca de madeira de acácia, de dois côvados e meio de comprimento, de um côvado e meio de largura e de um côvado e meio de altura. Revestiu-a de ouro puríssimo por dentro e por fora, [2] e pôs-lhe em volta uma moldura de ouro. [3] Depois, fundiu quatro argolas de ouro para os seus quatro pés, duas argolas de um lado e duas do outro. [4] Fez varais de madeira de acácia, e revestiu-os de ouro. [5] E enfiou os varais nas argolas do lado da arca para poder transportá-la. [6] Fez o propiciatório de ouro puro, com dois côvados e meio de comprimento e um côvado e meio de largura. [7] Fez também dois querubins de ouro batido para as duas extremidades do propiciatório: [8] um querubim numa extremidade e outro na extremidade oposta; estes dois querubins figuravam nas duas extremidades do propiciatório. [9] Os querubins tinham as asas estendidas para cima e cobriam com elas o propiciatório; estavam com as faces voltadas uma para a outra, olhando para o propiciatório.
+
+@secao Responsório | Sl 83(84),2.3; 45(46),5b.6a
+
+@responsorio
+R. Quão amável, ó Senhor, é vossa casa,
+quanto a amo, Senhor, Deus do universo! Minha alma desfalece de saudades e anseia pelos átrios do Senhor.
+* Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo.
+R. A cidade de Deus é a morada do Altíssimo; Quem a pode abalar? Deus está em seu meio. * Meu coração.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre o livro de Jó, de São Gregório Magno, papa
+{(Séc.VI)} {(Lib. 13,21-23: PL75,1028-1029)}
+
+@tema
+O mistério da nossa vida nova
+
+@texto
+O bem-aventurado Jó, como figura da santa Igreja, ora fala em nome do corpo, ora em nome da cabeça. Mas, às vezes, ocorre que, quando fala dos membros, toma subitamente as palavras da cabeça. Eis por que diz: _Sofri tudo isso, embora não haja violência em minhas mãos e minha oração seja pura_(Jó 16,17). Sem haver violência alguma em suas mãos, teve também que sofrer aquele que não cometeu pecado e em cuja boca não se encontrou falsidade; no entanto, pela nossa salvação, suportou o tormento da cruz. Foi ele o único que elevou a Deus uma oração pura, pois mesmo em meio aos sofrimentos da paixão orou por seus perseguidores, dizendo: _Pai, perdoa-lhes! Eles não sabem o que fazem!_ (Lc 23,34). Quem poderá dizer ou pensar uma oração mais pura do que esta em que se pede misericórdia por aqueles mesmos que infligem a dor? Por isso, o sangue de nosso Redentor, derramado pela crueldade dos perseguidores,se transformou depois em bebida de salvação para os que nele acreditariam e o proclamariam Filho de Deus. Acerca deste sangue, continua com razão o texto sagrado: _Ó terra, não cubras o meu sangue, nem sufoques o meu clamor_ (Jó 16,18). E ao homem pecador foi dito: _És pó e ao pó hás de voltar_ (Gn 3,19). A terra, de fato, não ocultou o sangue de nosso Redentor, pois qualquer pecador, ao beber o preço de sua redenção, o proclama e louva e, como pode, o manifesta aos outros. A terra não cobriu também o seu sangue porque a santa Igreja já anunciou em todas as partes do mundo o mistério de sua redenção. Notemos no que se diz a seguir: Nem sufoques meu clamor. O próprio sangue da redenção, por nós bebido, é o clamor de nosso Redentor. Por isso diz também Paulo: _Vós vos aproximastes da aspersão do sangue mais eloquente que o de Abel_ (Hb 12,24). E do sangue de Abel fora dito: _A voz do sangue de teu irmão está clamando da terra por mim_ (Gn 4,10). O sangue de Jesus é mais eloquente que o de Abel, porque o sangue de Abel pedia a morte do irmão fratricida, ao passo que o sangue do Senhor obteve a vida para seus perseguidores. Assim, para que não nos seja inútil o sacramento da paixão do Senhor, devemos imitar aquilo que recebemos e anunciar aos outros o que veneramos. O clamor de Cristo fica sufocado em nós, se a língua não proclama aquilo em que o coração acredita. Para que esse clamor não seja sufocado em nós, é preciso que, na medida de suas possibilidades, cada um manifeste aos outros o mistério de sua vida nova.
+
+@secao Responsório | Cf. Gn 4,10.11; Hb 12,24
+
+@responsorio
+R. Eis, Senhor, a voz do sangue de Jesus, o vosso Filho,
+de Jesus, o nosso irmão, que, da terra, clama a vós!
+* Bendita seja a terra, cuja boca se abriu, bebendo o sangue redentor!
+V. O sangue derramado por Jesus, o Mediador, fala melhor, fala mais alto, do que o sangue de Abel. * Bendita.
+
+@secao Oração
+
+@oracao
+Infundi, ó Deus, vossa graça em nossos corações, para que, fugindo aos excessos humanos, possamos, com vosso auxílio, abraçar os vossos preceitos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

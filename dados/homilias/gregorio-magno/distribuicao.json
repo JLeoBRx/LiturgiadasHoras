@@ -1,0 +1,701 @@
+{
+  "_leia": [
+    "Distribuição das 40 Homiliae in Evangelia no calendário litúrgico (Etapa 2). Arquivo editado à mão: é aqui que se decide em que dias cada homilia aparece e por quê.",
+    "ferramentas/homilias/aplicar_distribuicao.mjs lê este arquivo, confere cada correspondência bíblica com os arquivos de leituras da Liturgia Diária e gera as entradas de dados/homilias/indice.json e o relatório dados/homilias/DISTRIBUICAO.md. Não edite essas entradas do índice à mão: edite este arquivo e rode o script.",
+    "liturgicas: a homilia foi pregada para esta celebração, e a mesma celebração existe no calendário atual do site. 'celebracao' = id da celebração (dados/calendario/santoral.json); 'chaves' = chaves de leituras de um dia do tempo. Cada uma traz o fundamento (rubrica da edição crítica, texto da homilia) e a descrição mostrada no site.",
+    "biblicas: a homilia comenta o Evangelho proclamado no dia ('leituras' = chave de dados/liturgia-diaria/indice.json). Referência do dia, versículos em comum e força são calculados pelo script; 'descricao' só quando o texto gerado não basta. Toda correspondência bíblica é mostrada como tal: nunca como se a homilia tivesse sido pregada para aquele dia.",
+    "nao_usadas: correspondências examinadas e recusadas, com a classe e o motivo. Nada aqui aparece no site.",
+    "duvidas: pontos que dependem de decisão do responsável; enquanto não houver decisão, vale a opção mais restritiva (a correspondência não é usada).",
+    "situacao: 'calendario' (aparece em pelo menos um dia) ou 'catalogo' (só no catálogo geral do site, sem data litúrgica); 'motivo_catalogo' explica por quê. 'estado' (opcional): 'suspensa' esconde a homilia do site sem apagar nada; sem o campo, a homilia é publicada."
+  ],
+  "etapa": "Etapa 2 — distribuição no calendário",
+  "data": "2026-11-06",
+  "criterios": {
+    "liturgica": "A ocasião vem da rubrica da edição crítica (CCSL 141) ou do próprio texto da homilia, e a mesma celebração (mesmo santo, mesmo dia; ou a mesma solenidade) é celebrada hoje no calendário do site. A indicação de domingos e dias do tempo que só aparece nos títulos de Migne (\"Dominica secunda Adventus\", \"Sabbato post Pascha\"…) não basta: a edição crítica não a traz, e os domingos e o lecionário do século VI não coincidem com os atuais. Celebrações antigas não são convertidas em celebrações atuais.",
+    "biblica_plena": {
+      "regra": "A homilia comenta a leitura do Evangelho proclamada no dia, e a coincidência é forte: (a) pelo menos 90% da passagem comentada é lida no dia; ou (b) pelo menos 90% do Evangelho do dia está na passagem comentada, e esse Evangelho tem pelo menos 5 versículos ou cobre pelo menos metade da passagem comentada.",
+      "limiares": { "cobre_a_homilia": 0.9, "cobre_o_dia": 0.9, "minimo_de_versiculos_do_dia": 5, "minimo_da_homilia_se_curto": 0.5 },
+      "contagem": "Versículos contados por ferramentas/homilias/referencias.mjs; meio versículo (16a) conta como versículo inteiro. Só o Evangelho conta (seção \"Evangelho\" do arquivo de leituras)."
+    },
+    "parcial": "Coincidência de pelo menos 2 versículos que não atinge a regra da correspondência plena. Documentada; não publicada.",
+    "paralela": "O mesmo episódio narrado por outro evangelista. A homilia não comenta a leitura proclamada; não publicada.",
+    "tematica": "Ligação só de assunto, de lugar ou de devoção. Nunca publicada.",
+    "catalogo": "Sem correspondência litúrgica nem bíblica plena, a homilia fica no catálogo geral do site (#/homilias), sem data litúrgica."
+  },
+  "lecionario": [
+    { "estado": "corrigido nesta etapa", "descricao": "Em 23 arquivos de leituras (27 Evangelhos), a importação deixou o Evangelho dentro da seção \"Aclamação ao Evangelho\", sem seção própria; no site ele aparecia com o título e a referência da aclamação, e a comparação com as homilias não o via (17º domingo do Tempo Comum A, 28º A, 33º A, 11º C, 14º C, 3º da Páscoa C, entre outros). Corrigido por ferramentas/corrigir_secao_evangelho.py sem mudar nenhuma palavra das leituras; um teste confere que todo arquivo de leituras tem o Evangelho em seção própria." },
+    { "estado": "corrigido em 07/11/2026", "descricao": "As leituras próprias de São Nicolau (santo:saonicolau, 6/12) apontavam para o arquivo do 14º domingo do Tempo Comum, Ano C (Is 66,10-14; Gl 6,14-18; Lc 10,1-12.17-20). A origem era a tabela estrangeira usada para gerar o índice (Liturgical Calendar API, lecionário em inglês: Is 6,1-8; Lc 10,1-9); sem esse par no acervo, o gerador ficou só com o Evangelho e achou o arquivo do domingo. O acervo traz apenas as orações do Missal para São Nicolau, e não foi possível consultar o Lecionário Santoral brasileiro nesta sessão (os sites com o Diretório da Liturgia da CNBB não estão acessíveis na rede do ambiente). Sem indicação própria confirmada, a chave foi retirada: com a memória escolhida, o site usa as leituras da féria do Advento. O gerador (ferramentas/gerar_indice_liturgia_diaria.py) passou a excluir São Nicolau e a recusar qualquer leitura de santo, vinda da tabela estrangeira, que caia num arquivo de domingo ou dia do tempo; um teste impede a volta do mapeamento. A Homilia XVII continua sem ligação com São Nicolau." },
+    { "estado": "corrigido em 07/11/2026", "descricao": "No arquivo de Pentecostes, as duas seções do Evangelho da Missa da vigília traziam a referência sem o livro (\"7,37-39\"); passaram a \"Jo 7,37-39\", como confirma a própria linha da proclamação (\"segundo João {7,37-39}\"). A mesma correção foi feita nos arquivos de Pentecostes dos Anos B e C, que estão no acervo mas não são usados pelo índice. Só mudou o cabeçalho das seções; o texto das leituras não mudou. Um teste confere." },
+    { "estado": "não corrigido (para decisão)", "descricao": "No mesmo arquivo de Pentecostes, outras referências de cabeçalho estão incompletas ou erradas: \"Primeira leitura | 11,1-9\" (vigília, Gn 11,1-9; duas vezes), \"Primeira leitura | At 11\" (Missa do dia, At 2,1-11, como diz o nome do próprio arquivo) e \"3Sc\" no salmo (provavelmente 35c, Sl 103(104)). Também a quinta-feira da 9ª semana do Tempo Comum, Ano I, traz \"Evangelho | 12,28b-34\" sem \"Mc\". Não fazem parte das correções autorizadas e não afetam as homilias." },
+    { "estado": "observação (para decisão futura)", "descricao": "Nossa Senhora de Guadalupe (12/12) foi ligada pelo gerador, com base só no Evangelho (Lc 1,39), ao arquivo de 21 de dezembro (Ct 2,8-14; Lc 1,39-45). Convém conferir no Lecionário Santoral brasileiro se essas são as leituras da festa. Não afeta as homilias e não foi alterado." },
+    { "estado": "tratado nesta etapa", "descricao": "As festas de Nossa Senhora do Carmo (16/7) e de Santa Rosa de Lima (23/8) não têm leituras próprias no acervo; o site mostra as do dia de semana, com aviso. Como essas não são as leituras da festa, as correspondências bíblicas não valem nesses dias (o motor da Liturgia Diária passou a marcar essa substituição, sem mudar o que mostra). Sem isso, as Homilias XIX e XXXVIII apareceriam em 23/8 em alguns anos (2028, 2029, 2034, 2035)." },
+    { "estado": "observação", "descricao": "O arquivo de 24 de dezembro traz também as leituras das Missas da vigília e da noite de Natal (Mt 1,1-25; Lc 2,1-14). Por isso uma homilia ligada à Missa da noite apareceria em 24/12; a Homilia VIII não foi ligada a esse dia." }
+  ],
+  "homilias": [
+    {
+      "numero": 1,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, Dominica secunda Adventus Domini.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-34-sexta-I" },
+        { "leituras": "TC-34-sexta-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "ADV-1-domingo-C", "classe": "parcial", "motivo": "O 1º domingo do Advento, Ano C, lê Lc 21,25-28.34-36: a homilia comenta Lc 21,25-28, mas não os versículos 34-36; e não lê os versículos 29-33 que ela comenta (4 de 9 versículos da homilia)." },
+        { "alvo": "2º domingo do Advento (título em Migne)", "classe": "ocasiao-antiga", "motivo": "O domingo só aparece no título de Migne; a edição crítica indica apenas a basílica de São Pedro. O 2º domingo do Advento atual lê outro Evangelho (João Batista, nos três anos)." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A sexta-feira da 34ª semana do Tempo Comum lê Lc 21,29-33 (a figueira e \"o céu e a terra passarão\"), que está inteiro na passagem comentada (Lc 21,25-33). Mesmo Evangelho nos anos I e II."
+    },
+    {
+      "numero": 2,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, Dominica in Quinquagesima.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-33-segunda-I" },
+        { "leituras": "TC-33-segunda-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Domingo da Quinquagésima (título em Migne)", "classe": "ocasiao-antiga", "motivo": "O domingo só aparece no título de Migne, e o tempo da Septuagésima não existe no calendário atual." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A segunda-feira da 33ª semana do Tempo Comum lê Lc 18,35-43 (o cego de Jericó), que está inteiro na passagem comentada (Lc 18,31-43); a homilia comenta o anúncio da Paixão e a cura do cego."
+    },
+    {
+      "numero": 3,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Felicitatis die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sanctae Felicitatis martyris, in die natalis ejus.",
+      "ocasiao_no_texto": "“está presente a bem-aventurada Felicidade, cujo natalício hoje celebramos” (§ 3); o texto fala dos seus sete filhos.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-16-terca-I" },
+        { "leituras": "TC-16-terca-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Santa Felicidade, mártir romana (natalício antigo)", "classe": "fora-do-calendario", "motivo": "A homilia foi pregada no natalício de Santa Felicidade, mãe de sete filhos mártires (rubrica e § 3). Essa santa não está no calendário atual do site." },
+        { "alvo": "perpetuaefelicidade (Santas Perpétua e Felicidade, 7/3)", "classe": "tematica", "motivo": "É outra santa, Felicidade de Cartago, companheira de Perpétua. Associar a homilia a esta memória seria trocar a santa." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A terça-feira da 16ª semana do Tempo Comum lê Mt 12,46-50, exatamente a passagem comentada (a mãe e os irmãos de Jesus)."
+    },
+    {
+      "numero": 4,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Stephani.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Stephani martyris, de apostolis.",
+      "liturgicas": [],
+      "biblicas": [],
+      "nao_usadas": [
+        { "alvo": "santo:saobarnabe (São Barnabé, 11/6)", "classe": "parcial", "motivo": "A memória lê Mt 10,7-13; a homilia comenta Mt 10,5-10. Em comum, Mt 10,7-10: 4 dos 7 versículos do dia." },
+        { "alvo": "TC-14-quinta-I / TC-14-quinta-II", "classe": "parcial", "motivo": "Lê Mt 10,7-15; em comum, Mt 10,7-10 (4 de 9 versículos do dia)." },
+        { "alvo": "TC-14-quarta-I / TC-14-quarta-II", "classe": "parcial", "motivo": "Lê Mt 10,1-7; em comum, Mt 10,5-7 (3 de 7 versículos do dia)." },
+        { "alvo": "TC-11-domingo-A", "classe": "parcial", "motivo": "Lê Mt 9,36–10,8; em comum, Mt 10,5-8 (4 de 11 versículos do dia)." },
+        { "alvo": "ADV-1-sabado", "classe": "parcial", "motivo": "Lê Mt 9,35–10,1.6-8; em comum, Mt 10,6-8." },
+        { "alvo": "santoestevao (Santo Estêvão, 26/12)", "classe": "tematica", "motivo": "Só o lugar: a homilia foi pregada na basílica de Santo Estêvão, não na sua festa." }
+      ],
+      "situacao": "catalogo",
+      "motivo_catalogo": "Nenhum dia do lecionário atual lê Mt 10,5-10 de modo a cobrir a passagem comentada: as leituras mais próximas (São Barnabé; 14ª semana do Tempo Comum) têm só 3 ou 4 versículos em comum com ela.",
+      "justificativa": "Sem correspondência litúrgica e só com correspondências bíblicas parciais."
+    },
+    {
+      "numero": 5,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Andreae apostoli, die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica beati Andreae apostoli, in die natalis ejus.",
+      "liturgicas": [
+        { "celebracao": "santoandre", "fundamento": "rubrica da edição crítica", "descricao": "Pregada na festa de Santo André, na basílica do apóstolo, no dia do seu natalício (rubrica da homilia)." }
+      ],
+      "biblicas": [
+        { "leituras": "santo:santoandre", "descricao": "Comenta o Evangelho desta festa: Mt 4,18-22." },
+        { "leituras": "TC-3-domingo-A", "descricao": "Comenta Mt 4,18-22 (o chamado de Pedro, André, Tiago e João), parte do Evangelho deste domingo (Mt 4,12-23)." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas sem alteração."
+    },
+    {
+      "numero": 6,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Marcellini et Petri.",
+      "rubrica_migne": "Habita ad populum in basilica sanctorum Marcellini et Petri, Dominica tertia Adventus Domini.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "ADV-3-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "3º domingo do Advento nos Anos B e C", "classe": "ocasiao-antiga", "motivo": "Migne situa a homilia no 3º domingo do Advento, mas só o Ano A lê hoje Mt 11,2-11. Nos Anos B e C o Evangelho é outro (Jo 1; Lc 3). O domingo não consta da edição crítica." },
+        { "alvo": "marcelinoepedro (Santos Marcelino e Pedro, 2/6)", "classe": "tematica", "motivo": "Só o lugar: a basílica dos dois mártires." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O 3º domingo do Advento, Ano A, lê Mt 11,2-11, que contém toda a passagem comentada (Mt 11,2-10). Coincide com o domingo indicado por Migne, mas a classificação é bíblica: é a leitura, e não a rubrica crítica, que sustenta a ligação."
+    },
+    {
+      "numero": 7,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, Dominica quarta in Adventu Domini.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "ADV-3-domingo-B", "descricao": "Comenta Jo 1,19-28 (o testemunho de João Batista), a maior parte do Evangelho deste domingo (Jo 1,6-8.19-28). O título da homilia em Migne a situa no 4º domingo do Advento; a edição crítica indica só o lugar (basílica de São Pedro)." },
+        { "leituras": "NAT-jan02", "descricao": "Comenta o Evangelho de hoje: Jo 1,19-28." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas. A descrição do 3º domingo do Advento (Ano B) dizia que a homilia \"foi pregada num domingo do Advento\", o que só consta em Migne: foi precisada (ver historico do registro editorial)."
+    },
+    {
+      "numero": 8,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die natalis Domini.",
+      "rubrica_migne": "Habita ad populum in basilica beatae Mariae Virginis, in die Natalis Domini.",
+      "liturgicas": [
+        { "celebracao": "natal", "fundamento": "rubrica da edição crítica e texto", "descricao": "Pregada no dia do Natal do Senhor, na basílica de Santa Maria (rubrica da homilia); o próprio texto lembra as três missas do dia." }
+      ],
+      "biblicas": [
+        { "leituras": "natal-noite", "descricao": "Comenta o Evangelho da Missa da noite: Lc 2,1-14." }
+      ],
+      "nao_usadas": [
+        { "alvo": "ADV-dez24 (24 de dezembro)", "classe": "outra-celebracao", "motivo": "O arquivo de leituras de 24/12 também traz as leituras da Missa da noite de Natal (Lc 2,1-14), que pertence à solenidade de 25/12, onde a homilia já aparece. Mostrá-la em 24/12 a ligaria à missa da manhã (Lc 1,67-79)." }
+      ],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas."
+    },
+    {
+      "numero": 9,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Siluestri die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Silvestri, in die natalis ejus.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-21-sabado-I" },
+        { "leituras": "TC-21-sabado-II" },
+        { "leituras": "TC-33-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "saosilvestre (São Silvestre I, 31/12)", "classe": "fora-do-calendario", "motivo": "A homilia foi pregada no natalício de São Silvestre (rubrica da edição crítica; o texto não volta a nomeá-lo). O santoral do site tem a memória facultativa em 31/12, mas ela cai na oitava do Natal e o calendário do site não a oferece como opção. Por decisão do responsável (07/11/2026), o calendário não é alterado e a homilia não é ligada a 31/12." }
+      ],
+      "duvidas": [
+        { "questao": "São Silvestre (31/12) cai sempre na oitava do Natal, e o calendário do site não oferece a memória. Deseja que o calendário passe a oferecer a comemoração de São Silvestre em 31/12, para que esta homilia apareça nesse dia como correspondência litúrgica?", "opcao_adotada": "Não alterar o calendário; a homilia aparece só pelas correspondências bíblicas.", "decisao": { "data": "2026-11-07", "por": "responsável do projeto", "escolha": "(a)", "texto": "Não oferecer São Silvestre como celebração em 31/12, que está na oitava do Natal; manter a Homilia IX só nas correspondências bíblicas aprovadas; não alterar o calendário geral para acomodar a homilia." } }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O sábado da 21ª semana do Tempo Comum e o 33º domingo do Tempo Comum, Ano A, leem Mt 25,14-30 (a parábola dos talentos), exatamente a passagem comentada."
+    },
+    {
+      "numero": 10,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli die sancto theophaniae.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, in die Epiphaniae.",
+      "liturgicas": [
+        { "celebracao": "epifania", "fundamento": "rubrica da edição crítica", "descricao": "Pregada no santo dia da Teofania (Epifania), na basílica de São Pedro (rubrica da homilia)." }
+      ],
+      "biblicas": [
+        { "leituras": "epifania", "descricao": "Comenta o Evangelho desta solenidade: Mt 2,1-12." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas."
+    },
+    {
+      "numero": 11,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Agnae die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sanctae Agnetis, in die natalis ejus.",
+      "ocasiao_no_texto": "“esta santa, cujo natalício hoje celebramos” (§ 3); “a solenidade de hoje” (§ 4).",
+      "liturgicas": [
+        { "celebracao": "santaines", "fundamento": "rubrica da edição crítica e texto", "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia); o próprio texto diz: “esta santa, cujo natalício hoje celebramos” (§ 3)." }
+      ],
+      "biblicas": [
+        { "leituras": "TC-17-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "TC-17-quinta-I / TC-17-quinta-II", "classe": "parcial", "motivo": "Lê Mt 13,47-53; em comum, Mt 13,47-52 (6 de 7 versículos do dia, 86%): abaixo do limiar de 90%." },
+        { "alvo": "TC-17-quarta-I / TC-17-quarta-II", "classe": "parcial", "motivo": "Lê Mt 13,44-46 (3 versículos), um terço da passagem comentada." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "Santa Inês (21/1) é memória obrigatória no calendário atual, no mesmo dia do natalício antigo: é a mesma celebração. Nesse dia o site mostra as leituras do dia de semana; a correspondência é pela celebração. Além disso, o 17º domingo do Tempo Comum, Ano A, lê Mt 13,44-52, exatamente a passagem comentada."
+    },
+    {
+      "numero": 12,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctae Agnae die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sanctae Agnetis, in die natalis ejus.",
+      "liturgicas": [
+        { "celebracao": "santaines", "fundamento": "rubrica da edição crítica", "descricao": "Pregada na basílica de Santa Inês, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear a santa." }
+      ],
+      "biblicas": [
+        { "leituras": "TC-21-sexta-I" },
+        { "leituras": "TC-21-sexta-II" },
+        { "leituras": "TC-32-domingo-A" }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "justificativa": "Como a XI, foi pregada no natalício de Santa Inês (21/1); a ocasião está só na rubrica, que é a da edição crítica. A sexta-feira da 21ª semana do Tempo Comum e o 32º domingo do Tempo Comum, Ano A, leem Mt 25,1-13 (as dez virgens), exatamente a passagem comentada."
+    },
+    {
+      "numero": 13,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Felicis confessoris die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica beati Felicis confessoris, in die natalis ejus.",
+      "ocasiao_no_texto": "“os que no ano passado celebraram conosco a festa natalícia do bem-aventurado Félix” (§ 6).",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "santo:fieisdefuntos", "descricao": "Comenta Lc 12,35-40, um dos Evangelhos propostos para esta comemoração (o primeiro no lecionário do site): a vigilância de quem espera o Senhor, que a homilia aplica à hora da morte. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho." },
+        { "leituras": "TC-29-terca-I" },
+        { "leituras": "TC-29-terca-II" },
+        { "leituras": "TC-19-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "São Félix, confessor (natalício antigo)", "classe": "fora-do-calendario", "motivo": "A homilia foi pregada no natalício de São Félix (rubrica e § 6), santo que não está no calendário atual do site." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "Os Fiéis Defuntos (2/11) têm Lc 12,35-40 entre os Evangelhos propostos; a terça-feira da 29ª semana do Tempo Comum lê Lc 12,35-38 (inteiro na passagem comentada); o 19º domingo do Tempo Comum, Ano C, lê Lc 12,32-48, que contém toda a passagem comentada."
+    },
+    {
+      "numero": 14,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica beati Petri apostoli, Dominica secunda post Pascha.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "PAS-4-domingo-B" },
+        { "leituras": "PAS-4-segunda" }
+      ],
+      "nao_usadas": [
+        { "alvo": "4º domingo da Páscoa (domingo do Bom Pastor) nos Anos A e C", "classe": "ocasiao-antiga", "motivo": "Migne situa a homilia no 2º domingo depois da Páscoa, o antigo domingo do Bom Pastor. Hoje o domingo do Bom Pastor é o 4º da Páscoa, mas só o Ano B lê Jo 10,11-18; os Anos A e C leem Jo 10,1-10 e Jo 10,27-30. Estender a homilia aos Anos A e C seria converter a celebração antiga na atual." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O 4º domingo da Páscoa, Ano B, e a segunda-feira da 4ª semana da Páscoa leem Jo 10,11-18, que contém toda a passagem comentada (Jo 10,11-16)."
+    },
+    {
+      "numero": 15,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Pauli apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Pauli apostoli, Dominica in Sexagesima.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-24-sabado-I" },
+        { "leituras": "TC-24-sabado-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "TC-15-domingo-A (Mt 13,1-23) e TC-3-quarta (Mc 4,1-20)", "classe": "paralela", "motivo": "A parábola do semeador segundo Mateus e Marcos. A homilia comenta o relato de Lucas." },
+        { "alvo": "Domingo da Sexagésima (título em Migne)", "classe": "ocasiao-antiga", "motivo": "O domingo só aparece no título de Migne e não existe no calendário atual." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O sábado da 24ª semana do Tempo Comum lê Lc 8,4-15 (o semeador), exatamente a passagem comentada."
+    },
+    {
+      "numero": 16,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Joannis, quae dicitur Constantiniana, Dominica prima in Quadragesima.",
+      "ocasiao_no_texto": "“nós que começamos o tempo da Quaresma”; seis semanas até a Páscoa (§ 5).",
+      "liturgicas": [
+        { "chaves": ["QUA-1-domingo-A"], "fundamento": "texto", "descricao": "Pregada no início da Quaresma: o próprio texto diz “nós que começamos o tempo da Quaresma” e conta “seis semanas” daquele dia até a Páscoa (§ 5), isto é, o 1º domingo da Quaresma." },
+        { "chaves": ["QUA-1-domingo-B"], "fundamento": "texto", "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano B o Evangelho (Mc 1,12-15) narra a mesma tentação de Jesus segundo Marcos; a homilia comenta o relato de Mateus (Mt 4,1-11)." },
+        { "chaves": ["QUA-1-domingo-C"], "fundamento": "texto", "descricao": "Pregada no início da Quaresma, no 1º domingo (o texto diz “nós que começamos o tempo da Quaresma”, § 5). Neste Ano C o Evangelho (Lc 4,1-13) narra a mesma tentação de Jesus segundo Lucas; a homilia comenta o relato de Mateus (Mt 4,1-11)." }
+      ],
+      "biblicas": [
+        { "leituras": "QUA-1-domingo-A", "descricao": "Comenta o Evangelho deste domingo: Mt 4,1-11." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas."
+    },
+    {
+      "numero": 17,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad episcopos in fontes lateranenses.",
+      "rubrica_migne": "Habita ad episcopos in fontes Lateranensium.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "santo:saolucas" },
+        { "leituras": "santo:saotimoteoetito" },
+        { "leituras": "TC-26-quinta-I" },
+        { "leituras": "TC-26-quinta-II" },
+        { "leituras": "TC-14-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "santo:saonicolau (São Nicolau, 6/12)", "classe": "dados", "motivo": "O índice da Liturgia Diária ligava as \"leituras próprias\" de São Nicolau ao arquivo do 14º domingo do Tempo Comum, Ano C (Is 66; Gl 6; Lc 10,1-12.17-20), por um casamento feito com uma tabela estrangeira. Corrigido em 07/11/2026: sem leitura própria confirmada, a memória usa as leituras da féria do Advento. A homilia não é ligada a São Nicolau, nem por semelhança de tema." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "São Lucas (18/10) e Santos Timóteo e Tito (26/1, como leituras próprias da memória) leem Lc 10,1-9, exatamente a passagem comentada (o envio dos setenta e dois). A quinta-feira da 26ª semana do Tempo Comum (Lc 10,1-12) e o 14º domingo do Tempo Comum, Ano C (Lc 10,1-12.17-20), contêm toda a passagem. A homilia foi dirigida a bispos, e o tema (a missão dos pastores) convém às três celebrações; a ligação publicada, porém, é a leitura."
+    },
+    {
+      "numero": 18,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, Dominica in Passione.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "QUA-5-quinta" }
+      ],
+      "nao_usadas": [
+        { "alvo": "5º domingo da Quaresma (antigo Domingo da Paixão)", "classe": "ocasiao-antiga", "motivo": "O Domingo da Paixão de Migne corresponde ao atual 5º domingo da Quaresma, que lê Jo 11 (A), Jo 12,20-33 (B) e Jo 8,1-11 (C), e não Jo 8,46-59." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 5ª semana da Quaresma lê Jo 8,51-59, que está inteiro na passagem comentada (Jo 8,46-59). A catalogação da perícope foi corrigida nesta etapa (a planilha dava outra extensão; ver catalogo.json)."
+    },
+    {
+      "numero": 19,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica.",
+      "rubrica_migne": "Habita ad populum in basilica beati Laurentii martyris, Dominica in Septuagesima.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-20-quarta-I" },
+        { "leituras": "TC-20-quarta-II" },
+        { "leituras": "TC-25-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "saolourenco (São Lourenço, 10/8)", "classe": "tematica", "motivo": "Só o lugar, e só em Migne: a edição crítica não diz em que basílica a homilia foi pregada." },
+        { "alvo": "Domingo da Septuagésima (título em Migne)", "classe": "ocasiao-antiga", "motivo": "O domingo só aparece em Migne e não existe no calendário atual." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quarta-feira da 20ª semana do Tempo Comum e o 25º domingo do Tempo Comum, Ano A, leem Mt 20,1-16a (os trabalhadores da vinha). É a passagem comentada, salvo a segunda metade do v. 16 (\"muitos são chamados…\"), que a homilia também comenta e o lecionário atual omite."
+    },
+    {
+      "numero": 20,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Joannis Baptistae, Sabbato Quatuor temporum ante Natalem Christi.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "ADV-2-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "ADV-3-domingo-C", "classe": "parcial", "motivo": "Lê Lc 3,10-18; só Lc 3,10-11 é comum (2 versículos)." },
+        { "alvo": "Sábado das Têmporas do Advento (título em Migne)", "classe": "ocasiao-antiga", "motivo": "As Têmporas não estão no calendário atual do site, e a ocasião só consta em Migne." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O 2º domingo do Advento, Ano C, lê Lc 3,1-6, que está inteiro na passagem comentada (Lc 3,1-11) e cobre mais da metade dela."
+    },
+    {
+      "numero": 21,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beatae Mariae die sancto Paschae.",
+      "rubrica_migne": "Habita ad populum in basilica beatae Mariae virginis, die sancto Paschae.",
+      "liturgicas": [
+        { "celebracao": "pascoa", "fundamento": "rubrica da edição crítica", "descricao": "Pregada no santo dia da Páscoa, na basílica de Santa Maria (rubrica da homilia)." }
+      ],
+      "biblicas": [
+        { "leituras": "vigilia-pascal-B", "descricao": "Comenta Mc 16,1-7, o Evangelho da Vigília Pascal no Ano B." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2; correspondências mantidas."
+    },
+    {
+      "numero": 22,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "rubrica_migne": "Habita ad populum in basilica beati Joannis, quae appellatur Constantiniana, Sabbato post Pascha.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "pascoa" },
+        { "leituras": "santo:joaoevangelista" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Sábado da oitava da Páscoa (título em Migne)", "classe": "ocasiao-antiga", "motivo": "Migne situa a homilia no sábado depois da Páscoa; hoje esse dia lê Mc 16,9-15. A ocasião não consta da edição crítica." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O Domingo da Páscoa (Missa do dia) lê Jo 20,1-9, exatamente a passagem comentada; São João Evangelista (27/12) lê Jo 20,2-8, inteiro nela. No Domingo da Páscoa aparece também a Homilia XXI, essa sim pregada no dia da Páscoa."
+    },
+    {
+      "numero": 23,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli.",
+      "rubrica_migne": "Habita ad populum in basilica beati Petri apostoli, in crastino Paschae.",
+      "ocasiao_no_texto": "“Como vós vos afadigais na solenidade cotidiana” (§ 1): dias seguidos de festa, o que é coerente com a oitava da Páscoa, mas não indica o dia.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "PAS-1-quarta" },
+        { "leituras": "PAS-3-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Segunda-feira da oitava da Páscoa (título em Migne)", "classe": "ocasiao-antiga", "motivo": "Migne situa a homilia no dia seguinte à Páscoa; hoje esse dia lê Mt 28,8-15. A ocasião não consta da edição crítica." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quarta-feira da oitava da Páscoa e o 3º domingo da Páscoa, Ano A, leem Lc 24,13-35 (os discípulos de Emaús), exatamente a passagem comentada."
+    },
+    {
+      "numero": 24,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "rubrica_migne": "Habita ad populum in basilica beati Laurentii martyris, foris muros Urbis, Feria quarta Paschae.",
+      "ocasiao_no_texto": "“tanto a leitura de ontem do santo Evangelho como a de hoje” (§ 5): dias seguidos com Evangelhos da ressurreição, o que é coerente com a oitava da Páscoa, mas não indica o dia.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "PAS-1-sexta" },
+        { "leituras": "PAS-3-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "saolourenco (São Lourenço, 10/8)", "classe": "tematica", "motivo": "Só o lugar: a basílica de São Lourenço." },
+        { "alvo": "Quarta-feira da oitava da Páscoa (título em Migne)", "classe": "ocasiao-antiga", "motivo": "Hoje esse dia lê Lc 24,13-35. A ocasião não consta da edição crítica." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A sexta-feira da oitava da Páscoa lê Jo 21,1-14, exatamente a passagem comentada; o 3º domingo da Páscoa, Ano C, lê Jo 21,1-19, que a contém."
+    },
+    {
+      "numero": 25,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Joannis, quae appellatur Constantiniana, Feria quinta Paschae.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "PAS-1-terca" },
+        { "leituras": "santo:stamariamadalena" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Quinta-feira da oitava da Páscoa (título em Migne)", "classe": "ocasiao-antiga", "motivo": "Hoje esse dia lê Lc 24,35-48. A ocasião não consta da edição crítica." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A terça-feira da oitava da Páscoa lê Jo 20,11-18, exatamente a passagem comentada; a festa de Santa Maria Madalena (22/7) lê Jo 20,1-2.11-18, que a contém. A homilia é inteira sobre Maria Madalena junto ao sepulcro."
+    },
+    {
+      "numero": 26,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Iohannis quae appellatur constantiniana.",
+      "rubrica_migne": "Habita ad populum in basilica beati Joannis, quae dicitur Constantiniana, in octavis Paschae.",
+      "ocasiao_no_texto": "“Eis que celebramos as solenidades pascais” (§ 10).",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "divinamisericordia-A", "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)." },
+        { "leituras": "divinamisericordia-B", "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)." },
+        { "leituras": "divinamisericordia-C", "descricao": "Comenta o Evangelho deste domingo (Jo 20,19-31), o mesmo nos três anos. Foi pregada no tempo pascal: “Eis que celebramos as solenidades pascais” (§ 10)." },
+        { "leituras": "santo:saotome", "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho desta festa (Jo 20,24-29): a dúvida e a fé de Tomé, que a homilia comenta longamente. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho." },
+        { "leituras": "pentecostes", "descricao": "Comenta Jo 20,19-31, que inclui todo o Evangelho da Missa do dia de Pentecostes (Jo 20,19-23): Jesus sopra sobre os discípulos e lhes dá o Espírito Santo. A homilia não foi pregada para este dia: a ligação é a leitura do Evangelho." }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2 no 2º domingo da Páscoa. Acrescentados São Tomé (3/7, Jo 20,24-29) e Pentecostes (Jo 20,19-23): cada um destes Evangelhos está inteiro na passagem comentada e tem 5 ou 6 versículos. Em Pentecostes aparece também a Homilia XXX, pregada nesse dia."
+    },
+    {
+      "numero": 27,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Pancratii die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Pancratii martyris, die natalis ejus.",
+      "ocasiao_no_texto": "“quantos viestes à solenidade do mártir” (§ 7).",
+      "liturgicas": [
+        { "celebracao": "saopancracio", "fundamento": "rubrica da edição crítica e texto", "descricao": "Pregada na basílica de São Pancrácio, no dia do seu natalício (rubrica da homilia); o próprio texto fala dos fiéis que vieram “à solenidade do mártir” (§ 7)." }
+      ],
+      "biblicas": [
+        { "leituras": "PAS-5-sexta" },
+        { "leituras": "PAS-6-domingo-B" },
+        { "leituras": "santo:saomatias" }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "justificativa": "São Pancrácio (12/5) é memória facultativa no calendário atual, no mesmo dia do natalício antigo; a homilia aparece quando se escolhe essa memória. A sexta-feira da 5ª semana da Páscoa (Jo 15,12-17), o 6º domingo da Páscoa, Ano B, e São Matias (14/5) (Jo 15,9-17) contêm toda a passagem comentada (Jo 15,12-16)."
+    },
+    {
+      "numero": 28,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in cimiterio sanctorum Nerei et Achillei.",
+      "rubrica_migne": "Habita ad populum in basilica sanctorum Nerei et Achillei, die natalis eorum.",
+      "ocasiao_no_texto": "“Estes santos, junto de cujo túmulo estamos” (§ 3): confirma o lugar, não o dia.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "QUA-4-segunda" }
+      ],
+      "nao_usadas": [
+        { "alvo": "nereueaquiles (São Nereu e Santo Aquiles, 12/5)", "classe": "tematica", "motivo": "A edição crítica e o texto (§ 3) dão o lugar, o cemitério dos dois mártires, mas não o dia; o natalício só consta do título de Migne. Não ligada por decisão do responsável (07/11/2026)." }
+      ],
+      "duvidas": [
+        { "questao": "Ligar a Homilia XXVIII à memória facultativa de São Nereu e Santo Aquiles (12/5)? A favor: título de Migne (\"die natalis eorum\"), base da tradução, e o texto pregado junto ao túmulo dos mártires. Contra: a edição crítica não traz o dia, e o critério desta etapa exige a ocasião na rubrica crítica ou no texto.", "opcao_adotada": "Não ligar (opção mais restritiva) até decisão do responsável.", "decisao": { "data": "2026-11-07", "por": "responsável do projeto", "escolha": "(a)", "texto": "Não associar a homilia ao dia 12 de maio: Migne indica o natalício dos mártires, mas a edição crítica não confirma a data, e o critério é não transformar uma indicação isolada de Migne em correspondência litúrgica. A Homilia XXVIII fica com a correspondência bíblica aprovada." } }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A segunda-feira da 4ª semana da Quaresma lê Jo 4,43-54, que contém toda a passagem comentada (Jo 4,46-53, o funcionário real)."
+    },
+    {
+      "numero": 29,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri die ascensionis Domini.",
+      "rubrica_migne": "Habita ad populum in basilica beati Petri apostoli, in Ascensione Domini.",
+      "liturgicas": [
+        { "celebracao": "ascensaodosenhor", "fundamento": "rubrica da edição crítica", "descricao": "Pregada no dia da Ascensão do Senhor, na basílica de São Pedro (rubrica da homilia)." }
+      ],
+      "biblicas": [
+        { "leituras": "ascensaodosenhor-B", "descricao": "Comenta o Evangelho da Ascensão no Ano B: Mc 16,15-20." },
+        { "leituras": "santo:saomarcos" },
+        { "leituras": "santo:conversaosaopaulo" }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2 na Ascensão. Acrescentados São Marcos (25/4, Mc 16,15-20) e a Conversão de São Paulo (25/1, Mc 16,15-18): os dois Evangelhos estão inteiros na passagem comentada, que o texto crítico começa em Mc 16,15."
+    },
+    {
+      "numero": 30,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Petri apostoli die sancto Pentecosten.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Petri apostoli, die sancto Pentecostes.",
+      "liturgicas": [
+        { "celebracao": "pentecostes", "fundamento": "rubrica da edição crítica", "descricao": "Pregada no santo dia de Pentecostes, na basílica de São Pedro (rubrica da homilia). Comenta Jo 14,23-31 e, na segunda parte, a leitura dos Atos dos Apóstolos lida no mesmo dia (At 2)." }
+      ],
+      "biblicas": [
+        { "leituras": "PAS-6-domingo-C" },
+        { "leituras": "PAS-5-terca" }
+      ],
+      "nao_usadas": [
+        { "alvo": "PAS-5-segunda", "classe": "parcial", "motivo": "Lê Jo 14,21-26; em comum, Jo 14,23-26 (4 de 6 versículos do dia)." }
+      ],
+      "situacao": "calendario",
+      "publicada_desde": "etapa-anterior",
+      "justificativa": "Publicada antes da Etapa 2 em Pentecostes. Acrescentados o 6º domingo da Páscoa, Ano C (Jo 14,23-29), e a terça-feira da 5ª semana da Páscoa (Jo 14,27-31a): os dois Evangelhos estão inteiros na passagem comentada."
+    },
+    {
+      "numero": 31,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Laurentii martyris, Sabbato Quatuor temporum Septembris.",
+      "liturgicas": [],
+      "biblicas": [],
+      "nao_usadas": [
+        { "alvo": "TC-30-segunda-I / TC-30-segunda-II", "classe": "parcial", "motivo": "Lê Lc 13,10-17 (a mulher curvada); em comum, Lc 13,10-13, metade do Evangelho do dia." },
+        { "alvo": "QUA-3-domingo-C", "classe": "parcial", "motivo": "Lê Lc 13,1-9 (a figueira estéril); em comum, Lc 13,6-9, menos da metade do Evangelho do dia." },
+        { "alvo": "TC-29-sabado-I / TC-29-sabado-II", "classe": "parcial", "motivo": "Lê Lc 13,1-9; em comum, Lc 13,6-9." },
+        { "alvo": "saolourenco (São Lourenço, 10/8)", "classe": "tematica", "motivo": "Só o lugar: a basílica de São Lourenço." },
+        { "alvo": "Sábado das Têmporas de setembro (título em Migne)", "classe": "ocasiao-antiga", "motivo": "As Têmporas não estão no calendário atual do site, e a ocasião só consta em Migne." }
+      ],
+      "situacao": "catalogo",
+      "motivo_catalogo": "A passagem comentada (Lc 13,6-13) junta a parábola da figueira estéril e a cura da mulher curvada; o lecionário atual lê as duas em dias diferentes, e nenhum deles cobre a maior parte do que a homilia comenta.",
+      "justificativa": "Sem correspondência litúrgica e só com correspondências bíblicas parciais."
+    },
+    {
+      "numero": 32,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Processi et Martiniani die natalis eorum.",
+      "rubrica_migne": "Habita ad populum in basilica sanctorum Processi et Martiniani, die natalis eorum.",
+      "liturgicas": [],
+      "biblicas": [],
+      "nao_usadas": [
+        { "alvo": "QUA-0-quinta (quinta-feira depois das Cinzas)", "classe": "parcial", "motivo": "Lê Lc 9,22-25; em comum, Lc 9,23-25 (3 de 4 versículos do dia, 75%): abaixo do limiar de 90%." },
+        { "alvo": "Mt 16,24-28 (TC-18-sexta; TC-22-domingo-A) e Mc 8,34–9,1 (TC-6-sexta; TC-24-domingo-B)", "classe": "paralela", "motivo": "O mesmo ensinamento (\"renuncie a si mesmo, tome a sua cruz\") segundo Mateus e Marcos. A homilia comenta o relato de Lucas." },
+        { "alvo": "Santos Processo e Martiniano (natalício antigo)", "classe": "fora-do-calendario", "motivo": "A homilia foi pregada no natalício destes mártires (rubrica da edição crítica), que não estão no calendário atual do site." }
+      ],
+      "situacao": "catalogo",
+      "motivo_catalogo": "Os santos do dia em que foi pregada não estão no calendário atual, e a única leitura de Lucas que coincide com a passagem (quinta-feira depois das Cinzas, Lc 9,22-25) fica abaixo do critério de correspondência plena.",
+      "justificativa": "Sem correspondência litúrgica e só com correspondência bíblica parcial."
+    },
+    {
+      "numero": 33,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Clementis.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Clementis, feria sexta Quatuor temporum Septembris.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-24-quinta-I" },
+        { "leituras": "TC-24-quinta-II" },
+        { "leituras": "TC-11-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "stamariamadalena (Santa Maria Madalena, 22/7)", "classe": "tematica", "motivo": "A homilia identifica a pecadora de Lc 7 com Maria Madalena, mas o Evangelho da festa é Jo 20, que esta homilia não comenta. (A Homilia XXV comenta esse Evangelho e aparece na festa.)" },
+        { "alvo": "saoclemente (São Clemente I, 23/11)", "classe": "tematica", "motivo": "Só o lugar: a basílica de São Clemente." },
+        { "alvo": "Sexta-feira das Têmporas de setembro (título em Migne)", "classe": "ocasiao-antiga", "motivo": "As Têmporas não estão no calendário atual do site, e a ocasião só consta em Migne." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 24ª semana do Tempo Comum lê Lc 7,36-50 (a pecadora perdoada), exatamente a passagem comentada; o 11º domingo do Tempo Comum, Ano C, lê Lc 7,36–8,3, que a contém."
+    },
+    {
+      "numero": 34,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sanctorum Iohannis et Pauli.",
+      "rubrica_migne": "Habita ad populum in basilica beatorum Joannis et Pauli, Dominica tertia post Pentecosten.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-31-quinta-I" },
+        { "leituras": "TC-31-quinta-II" },
+        { "leituras": "TC-24-domingo-C" },
+        { "leituras": "scj-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "Santos João e Paulo; 3º domingo depois de Pentecostes (título em Migne)", "classe": "ocasiao-antiga", "motivo": "Os mártires da basílica não estão no calendário atual; o domingo só consta em Migne, na numeração antiga dos domingos depois de Pentecostes." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 31ª semana do Tempo Comum lê Lc 15,1-10 (a ovelha e a dracma perdidas), exatamente a passagem comentada; o 24º domingo do Tempo Comum, Ano C (Lc 15,1-32), a contém; o Sagrado Coração de Jesus, Ano C, lê Lc 15,3-7 (a ovelha perdida), inteiro nela."
+    },
+    {
+      "numero": 35,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Mennae die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Mennae martyris, die natalis ejus.",
+      "ocasiao_no_texto": "“porque no dia de hoje celebramos a festa natalícia do mártir” (§ 7).",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-33-domingo-C" },
+        { "leituras": "TC-34-quarta-I" },
+        { "leituras": "TC-34-quarta-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "São Menas, mártir (natalício antigo, 11/11)", "classe": "fora-do-calendario", "motivo": "A homilia foi pregada no natalício de São Menas (rubrica e § 7), santo que não está no calendário atual do site (em 11/11 celebra-se São Martinho de Tours)." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "O 33º domingo do Tempo Comum, Ano C, lê Lc 21,5-19, que contém toda a passagem comentada (Lc 21,9-19); a quarta-feira da 34ª semana do Tempo Comum lê Lc 21,12-19, inteiro nela."
+    },
+    {
+      "numero": 36,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beatorum apostolorum Philippi et Iacobi.",
+      "rubrica_migne": "Habita ad populum in basilica beatorum apostolorum Philippi et Jacobi, Dominica secunda post Pentecosten.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-31-terca-I" },
+        { "leituras": "TC-31-terca-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "TC-28-domingo-A (Mt 22,1-14)", "classe": "paralela", "motivo": "A parábola do banquete de casamento segundo Mateus, que a Homilia XXXVIII comenta. Esta homilia comenta a grande ceia de Lucas." },
+        { "alvo": "saofilipeetiago (São Filipe e São Tiago, 3/5)", "classe": "tematica", "motivo": "Só o lugar: a basílica dos Apóstolos." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A terça-feira da 31ª semana do Tempo Comum lê Lc 14,15-24, que contém toda a passagem comentada (Lc 14,16-24, a grande ceia)."
+    },
+    {
+      "numero": 37,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Sebastiani, die natalis eius.",
+      "rubrica_migne": "Habita ad populum in basilica beati Sebastiani martyris, die natalis ejus.",
+      "liturgicas": [
+        { "celebracao": "saosebastiao", "fundamento": "rubrica da edição crítica", "descricao": "Pregada na basílica de São Sebastião, no dia do seu natalício (rubrica da homilia). O texto da homilia não volta a nomear o santo." }
+      ],
+      "biblicas": [
+        { "leituras": "TC-23-domingo-C" },
+        { "leituras": "TC-31-quarta-I" },
+        { "leituras": "TC-31-quarta-II" }
+      ],
+      "nao_usadas": [],
+      "situacao": "calendario",
+      "justificativa": "São Sebastião (20/1) é memória facultativa no calendário atual, no mesmo dia do natalício antigo; a homilia aparece quando se escolhe essa memória. O 23º domingo do Tempo Comum, Ano C, e a quarta-feira da 31ª semana leem Lc 14,25-33 (renunciar a tudo para seguir Jesus), exatamente a passagem comentada."
+    },
+    {
+      "numero": 38,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Clementis.",
+      "rubrica_migne": "Habita ad populum in basilica beati Clementis martyris.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-20-quinta-I" },
+        { "leituras": "TC-20-quinta-II" },
+        { "leituras": "TC-28-domingo-A" }
+      ],
+      "nao_usadas": [
+        { "alvo": "saoclemente (São Clemente I, 23/11)", "classe": "tematica", "motivo": "Só o lugar: a basílica de São Clemente. O texto (§ 15) conta que um fato narrado aconteceu \"antes do dia do Natal do Senhor\", o que não basta para datar a pregação." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 20ª semana do Tempo Comum e o 28º domingo do Tempo Comum, Ano A, leem Mt 22,1-14 (o banquete de casamento), exatamente a passagem comentada. A catalogação da perícope foi corrigida nesta etapa."
+    },
+    {
+      "numero": 39,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica sancti Iohannis quae appellatur constantiniana.",
+      "rubrica_migne": "Habita ad populum in basilica beati Joannis, quae dicitur Constantiniana.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "TC-33-quinta-I" },
+        { "leituras": "TC-33-quinta-II" }
+      ],
+      "nao_usadas": [
+        { "alvo": "TC-33-sexta-I / TC-33-sexta-II", "classe": "parcial", "motivo": "Lê Lc 19,45-48 (a purificação do Templo); em comum, Lc 19,45-47 (3 de 4 versículos do dia, 75%): abaixo do limiar de 90%." },
+        { "alvo": "Dedicação da Basílica do Latrão (9/11, Jo 2,13-22)", "classe": "paralela", "motivo": "A homilia foi pregada na basílica do Latrão e comenta a purificação do Templo segundo Lucas; a festa lê o relato de João." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 33ª semana do Tempo Comum lê Lc 19,41-44 (Jesus chora sobre Jerusalém), que está inteiro na passagem comentada (Lc 19,41-47) e cobre mais da metade dela. A catalogação da perícope foi corrigida nesta etapa."
+    },
+    {
+      "numero": 40,
+      "candidata_forte_etapa_1": true,
+      "rubrica_ccsl": "Homilia lectionis eiusdem habita ad populum in basilica beati Laurentii martyris.",
+      "rubrica_migne": "Habita ad populum in basilica sancti Laurentii martyris Dominica secunda post Pentecosten.",
+      "liturgicas": [],
+      "biblicas": [
+        { "leituras": "QUA-2-quinta" },
+        { "leituras": "TC-26-domingo-C" }
+      ],
+      "nao_usadas": [
+        { "alvo": "saolourenco (São Lourenço, 10/8)", "classe": "tematica", "motivo": "Só o lugar: a basílica de São Lourenço." },
+        { "alvo": "2º domingo depois de Pentecostes (título em Migne)", "classe": "ocasiao-antiga", "motivo": "O domingo só consta em Migne, na numeração antiga dos domingos depois de Pentecostes." }
+      ],
+      "situacao": "calendario",
+      "justificativa": "A quinta-feira da 2ª semana da Quaresma e o 26º domingo do Tempo Comum, Ano C, leem Lc 16,19-31 (o rico e Lázaro), exatamente a passagem comentada."
+    }
+  ]
+}

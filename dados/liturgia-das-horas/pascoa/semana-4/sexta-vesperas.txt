@@ -1,0 +1,160 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4sextapascoa_vesperas.htm
+@documento Vésperas - Sexta-feira da 4ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Tanto Deus amou o mundo que lhe deu seu Filho único. Aleluia.
+
+@salmo salmos/salmo-144-i-v2
+
+@gloria
+
+@antifona
+Tanto Deus amou o mundo que lhe deu seu Filho único. Aleluia.
+
+@antifona 2
+Ao Senhor, Rei eterno, imortal e invisível
+honra, glória e poder. Aleluia.
+
+@salmo salmos/salmo-144-ii-v2
+
+@gloria
+
+@antifona
+Ao Senhor, Rei eterno, imortal e invisível
+honra, glória e poder. Aleluia.
+
+@antifona 3
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+O Senhor é minha força, é a razão do meu cantar,
+pois foi ele neste dia para mim libertação. Aleluia.
+
+@secao Leitura breve | Hb 5,8-10
+
+@texto
+Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem. De fato, ele foi por Deus proclamado sumo sacerdote na ordem de Melquisedec.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Bom Pastor deu sua vida
+para salvar suas ovelhas. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Bom Pastor deu sua vida
+para salvar suas ovelhas. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, fonte de vida e origem de todas as virtudes; e rezemos com amor e confiança:
+
+R. **Firmai no mundo o vosso Reino, Senhor!**
+
+Jesus Salvador, que experimentastes a morte em vossa carne, mas voltastes à vida pelo Espírito,
+– fazei-nos morrer para o pecado e viver a vida nova do vosso Espírito Santo. R.
+
+Vós, que enviastes os discípulos ao mundo inteiro para pregar o evangelho a toda criatura,
+– sustentai com a força do vosso Espírito, os mensageiros de vossa palavra. R.
+
+Vós, que recebestes todo o poder no céu e na terra para dar testemunho da verdade,
+– dirigi no espírito de verdade o coração daqueles que nos governam. R.
+
+Vós, que fazeis novas todas as coisas e nos mandais esperar, vigilantes, a vinda do vosso reino,
+– concedei que, quanto mais fervorosamente esperarmos os novos céus e a nova terra, tanto mais generosamente trabalhemos pela edificação do mundo presente. R.
+
+{(intenções livres)}
+
+Vós, que descestes à mansão dos mortos para lhes anunciar a alegria da salvação,
+– sede a alegria e a esperança de todos os que partiram desta vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, a quem devemos a liberdade e a salvação, fazei que possamos viver por vossa graça e encontrar em vós a felicidade eterna, pois nos remistes com o sangue do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/leituras/bienal/quinta_aposepifania_par.htm
+@documento Ofício das Leituras - Quinta-Feira
+
+@titulo QUINTA-FEIRA / Depois da Epifania / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {59,15-21}
+
+@tema
+O Senhor vem
+
+@texto
+[15] Com isto a verdade desapareceu e aquele que renuncia ao mal ficou despojado. O Senhor viu e lhe pareceu mau que não houvesse direito. [16] Viu que não havia ninguém, espantou-se de que ninguém interviesse. Então seu próprio braço veio em seu socorro, sua justiça o sustentou. [17] Vestiu-se da justiça como de uma couraça, pôs na cabeça o capacete da salvação, cobriu-se de vestes de vingança _-_ como de uma túnica _-_, vestiu-se de zelo como de uma capa. [18] Conforme as obras de cada um, tal a recompensa; para os adversários a ira, para os inimigos o castigo merecido; às ilhas recompensará de acordo com suas obras. [19] Assim, desde o ocidente se temerá o nome do Senhor e desde o oriente, a sua glória, pois ele virá como torrente impetuosa, conduzido pelo espírito do Senhor. [20] Virá um redentor a Sião, aos que se converterem da sua rebelião em Jacó. Oráculo do Senhor. [21] Quanto a mim, esta é a minha aliança com eles, diz o Senhor, o meu espírito está sobre ti e as minhas palavras que pus na tua boca não se afastarão dela, nem da boca dos teus filhos, nem da boca dos filhos dos teus filhos, diz o Senhor, desde agora e para sempre.
+
+@secao Responsório | Ez 37,27;At 10,34-35
+
+@responsorio
+R. Eu serei o seu Deus e eles serão o meu povo.
+* Assim saberão as nações que eu sou o Senhor,
+aquele que santifica Israel,
+quando o meu santuário estiver no meio deles para sempre.
+V. Deus não faz acepção de pessoas, mas,
+em qualquer nação, quem o teme e pratica a justiça,
+lhe é agradável.
+* Assim saberão as nações.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Odilão de Cluny, abade
+{(Sermo 9, In die Pentecostes: PL 142,1015-1016)}
+
+@tema
+Aquele que por nós se tornou mortal seja conhecido Senhor e Rei dos séculos
+
+@texto
+O Cristo nasceu de uma Virgem imaculada para que o maculado nascimento humano fosse reconduzido à sua origem espiritual. Quis receber a circuncisão segundo a lei, para mostrar ser ele o autor da lei, e para que nós, circuncidados como ele nas alegrias do espírito, isto é, instruídos nas coisas celestiais, fôssemos considerados idôneos para a construção do edifício celeste.
+Adorado pelos Magos, recebeu três significativos presentes, para que aquele que por nós se tornou mortal fosse reconhecido Senhor e Rei dos séculos. Quis também ser apresentado no templo e que fossem por ele oferecidas uma rola e uma pomba, dando-nos o exemplo, para que, ao nos aproximarmos do altar, imolemos vítimas de castidade, inocência e demais virtudes.
+Aos doze anos se deteve no templo sem que a Virgem Mãe o soubesse. Logo procurado com ardente zelo, _foi_ _encontrado sentado em meio aos doutores_ (Lc 2,46), não ensinando, mas aprendendo e ouvindo. Interrogado por sua Mãe como ficara ali sem que ela o soubesse, respondeu estar na casa de seu Pai. Estes episódios de sua infância estão firmemente apoiados na fé católica. Quando procurado pela Mãe, Jesus é reconhecido como homem. Quando porém atesta ser-lhe conveniente estar na casa do Pai, todos os fiéis reconhecem ser ele o único e verdadeiro Filho de Deus. Sentado em meio aos doutores, a ouvi-los e interrogá-los, dá a entender que ninguém deve arrogar-se o ministério da pregação antes da idade adulta.
+Convém ainda saber que o magistério da Igreja não aprova nada sobre a infância do Salvador além do que está referido no texto sagrado. Todavia, segundo creem os fiéis, Cristo padeceu as fraquezas da natureza mortal que assumira sem nenhum contágio de pecado: o Deus oculto no homem permaneceu sempre impassível. E embora o Filho de Deus não tivesse nenhuma necessidade de se lavar ou purificar, num certo dia do trigésimo ano de sua vida recebeu o singular e salutar sacramento do batismo. Ao recebê-lo, santificou o batismo para todos os fiéis, como se entregasse um dom celeste, para que por ele fossem santificados.
+Mas se concedeu aos ministros da Igreja a possibilidade de batizar, reservou como prerrogativa sua o poder de batizar. Assim o disse a voz divina a São João, homem de grande mérito, quando Cristo não hesitou em ir até ele para ser batizado: _Aquele sobre quem vires o Espírito descer e_ _permanecer é o que batiza_ (Jo 1,33). O amigo do Esposo, o fiel e humilde Precursor, sobre o qual testemunhou a Verdade: _entre os nascidos de mulher, não surgiu nenhum_ _maior_ (Mt 11,11), ao batizar e pregar o batismo, como descreve o santo Evangelho, dizia: _Eu vos batizo com água,_ _mas aquele que vem depois de mim vos batizará com o_ _Espírito Santo e com fogo_ (Mt 3,11).
+
+@secao Responsório | Sl 129,7-8;Tt 2,13-14
+
+@responsorio
+R. Com o Senhor está o amor,
+e redenção em abundância:
+* Ele vai resgatar Israel de suas iniquidades todas.
+V. Nosso Salvador, Cristo Jesus,
+entregou-se a si mesmo por nós,
+para remir-nos de toda iniquidade.
+* Ele vai resgatar.
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, a aurora do vosso dia eterno despontou sobre todas as nações. Concedei ao vosso povo conhecer a fulgurante glória do seu Redentor e por ele chegar à luz que não se extingue. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

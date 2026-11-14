@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saotiago_laudes.htm
+@documento Laudes - São Tiago Maior, Apóstolo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó São Tiago, vos trazemos
+um canto alegre de louvor.
+Da simples arte de pescar,
+Jesus aos cimos vos levou.
+
+Ao seu chamado obedecendo,
+com vosso irmão tudo deixastes
+e do seu Nome e do seu Verbo,
+ardente arauto vos tornastes.
+
+Ó testemunha fulgurante
+da mão direita do Senhor,
+vedes no monte a glória eterna,
+no horto vedes a sua dor.
+
+E quando a taça do martírio
+chamou por vós, pronto atendestes,
+como primeiro entre os apóstolos
+pelo Senhor dela bebestes.
+
+Fiel discípulo de Cristo,
+da luz do céu semeador,
+iluminai os corações
+pela esperança, fé e amor.
+
+Dai-nos seguir com prontidão
+a Jesus Cristo e seus preceitos,
+para podermos, junto a vós,
+cantar-lhe o hino dos eleitos.
+
+@secao Salmodia
+
+@antifona 1
+Caminhando Jesus, viu Tiago e João,
+os irmãos Zebedeus, e também os chamou.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Caminhando Jesus, viu Tiago e João,
+os irmãos Zebedeus, e também os chamou.
+
+@antifona 2
+E logo deixando o pai e as redes, seguiram Jesus.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+E logo deixando o pai e as redes, seguiram Jesus.
+
+@antifona 3
+Bebereis do meu cálice que eu devo beber,
+recebereis o batismo que vou receber.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Bebereis do meu cálice que eu devo beber,
+recebereis o batismo que vou receber.
+
+@secao Leitura breve | Ef 2,19-22
+
+@texto
+Já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. Fareis deles os chefes
+* Por toda a terra. R. Fareis.
+V. Lembrarão vosso nome, Senhor, para sempre. * Por toda.
+Glória ao Pai. R. Fareis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus tomou a Pedro e os irmãos João e Tiago
+e os levou a um alto monte,
+e ali, diante deles, ficou transfigurado.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus tomou a Pedro e os irmãos João e Tiago
+e os levou a um alto monte,
+e ali, diante deles, ficou transfigurado.
+
+@secao Preces
+
+@preces
+Irmãos caríssimos, tendo recebido dos apóstolos a herança celeste, agradeçamos a Deus, nosso Pai, todos os seus dons; e aclamemos:
+
+R. **O coro dos apóstolos vos louva, Senhor!**
+
+Louvor a vós, Senhor, pela mesa do vosso Corpo e Sangue que recebemos por intermédio dos apóstolos;
+– por ela somos alimentados e vivemos. R.
+
+Louvor a vós, Senhor, pela mesa de vossa Palavra, preparada para nós pelos apóstolos;
+– por ela recebemos luz e alegria. R.
+
+Louvor a vós, Senhor, por vossa santa Igreja, edificada sobre o fundamento dos apóstolos;
+– com ela formamos um só Corpo. R.
+
+Louvor a vós, Senhor, pelos sacramentos do Batismo e da Penitência que confiastes aos apóstolos;
+– por eles somos lavados de todo pecado. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que pelo sangue de São Tiago consagrastes as primícias dos trabalhos dos Apóstolos, concedei que a vossa Igreja seja confirmada pelo seu testemunho e sustentada pela sua proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

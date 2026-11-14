@@ -1,0 +1,169 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_vesperas.htm
+@documento Vésperas - COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(Aleluia.)}
+
+@secao Hino
+
+@hino
+Jerusalém gloriosa,
+visão bendita de paz,
+de pedras vivas erguida,
+por entre os astros brilhais
+qual noiva, de anjos cingida,
+que seu caminho perfaz.
+
+Já vem do céu preparada
+para o festim nupcial,
+e ao Senhor será dada
+no esplendor virginal.
+As suas praças e muros
+são do mais puro metal.
+
+Pérolas brilham nas portas
+desta cidade sem par,
+e pela força dos méritos
+vem no seu seio habitar
+quem pelo nome de Cristo
+soube sofrer e lutar.
+
+Ásperas pedras, talhadas
+por um perito no ofício,
+com marteladas polidas,
+constroem todo o edifício,
+umas às outras unidas,
+sem qualquer fenda ou orifício.
+
+Ao Pai louvor seja dado,
+ao Filho glória também,
+com o Espírito sagrado
+que dum e doutro provém.
+Honra e poder são devidos
+aos Três nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor tornou santa a sua morada:
+Quem a pode abalar? Ele habita em seu meio.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor tornou santa a sua morada:
+Quem a pode abalar? Ele habita em seu meio.
+
+@antifona 2
+Alegres iremos à casa de Deus!
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Alegres iremos à casa de Deus!
+
+@antifona 3
+Santos todos de Deus, entoai seu louvor!
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer os Aleluias no começo, entre as estrofes e no fim.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@antifona
+Santos todos de Deus, entoai seu louvor!
+
+@secao Leitura breve | Ap 21,2-3.22.27
+
+@texto
+Vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido. Então ouvi uma voz forte que saía do trono e dizia: “Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles”. Não vi templo na cidade, pois o seu Templo é o próprio Senhor, o Deus todo-poderoso, e o Cordeiro. Nunca mais entrará nela o que é impuro, nem alguém que pratica a abominação e a mentira. Entrarão nela somente os que estão inscritos no livro da vida do Cordeiro.
+
+@secao Responsório breve
+
+@responsorio
+R. Felizes, ó Senhor,
+* Os que habitam vossa casa! R. Felizes.
+V. Para sempre haverão de vos louvar. * Os que habitam.
+Glória ao Pai. R. Felizes.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor santificou sua morada;
+pois aqui o seu nome é invocado,
+e Deus se faz presente em nosso meio.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada;
+pois aqui o seu nome é invocado,
+e Deus se faz presente em nosso meio.
+
+@secao Preces
+
+@preces
+Oremos a nosso Salvador, que entregou a vida para reunir num só povo os filhos de Deus dispersos; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Senhor Jesus, que edificastes a vossa casa sobre a rocha firme,
+– consolidai e robustecei a fé e a esperança de vossa Igreja. R.
+
+Senhor Jesus, de cujo lado aberto jorraram sangue e água,
+– renovai a vossa Igreja pelos sacramentos da nova e eterna aliança. R.
+
+Senhor Jesus, que estais no meio daqueles que se reúnem em vosso nome,
+– escutai a oração de toda a vossa Igreja. R.
+
+Senhor Jesus, que vindes com o Pai morar naqueles que vos amam,
+– tornai a vossa Igreja perfeita na caridade. R.
+
+{(intenções livres)}
+
+Senhor Jesus, que nunca rejeitais quem se aproxima de vós,
+– fazei entrar na casa do Pai todos os que já morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

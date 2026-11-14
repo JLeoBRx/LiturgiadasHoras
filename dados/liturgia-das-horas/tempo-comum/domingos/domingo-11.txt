@@ -1,0 +1,53 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 11º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Vendo aquelas multidões abatidas e cansadas,
+como ovelhas sem pastor, Jesus teve compaixão.
+
+@antifona vesperas-i-B
+O Reino de Deus é como um homem
+que na terra lançou sua semente.
+Quer durma, quer vele, noite e dia,
+a semente germina e vai crescendo.
+
+@antifona vesperas-i-C
+A mulher pecadora banhou com as lágrimas
+os pés do Senhor e os ungiu com perfume.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Enviando os doze Apóstolos,
+o Senhor recomendou-lhes:
+Ide às ovelhas extraviadas da casa de Israel.
+
+@antifona laudes-B
+O Reino dos céus, diz Jesus,
+se assemelha a um grão de mostarda;
+este grão é a menor das sementes;
+quando cresce se torna hortaliça,
+a maior entre todas as outras.
+
+@antifona laudes-C
+Seus muitos pecados estão perdoados,
+porque muito amou.
+A quem pouco se perdoa, demonstra pouco amor.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+O Evangelho do Reino anunciai.
+Dai de graça o que de graça recebestes.
+
+@antifona vesperas-ii-B
+Jesus anunciava a palavra
+por meio de muitas parábolas.
+Porém, estando a sós com os discípulos,
+explicava-lhes todas as coisas.
+
+@antifona vesperas-ii-C
+Jesus disse à mulher pecadora:
+Vai em paz, tua fé te salvou!

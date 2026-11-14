@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1terca_vesperas.htm
+@documento Vésperas - I Terça-Feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, exaltai o vosso Ungido!
+
+@salmo salmos/salmo-019
+
+@gloria
+
+@antifona
+Ó Senhor, exaltai o vosso Ungido!
+
+@antifona 2
+Cantaremos celebrando a vossa força.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Cantaremos celebrando a vossa força.
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@secao Leitura breve | 1Cor 1,7b-9
+
+@texto
+Aguardamos a revelação do Senhor nosso, Jesus Cristo. É ele também que vos dará perseverança em vosso procedimento irrepreensível até ao fim, até ao dia de nosso Senhor, Jesus Cristo. Deus é fiel; por ele fostes chamados à comunhão com seu Filho.
+
+@secao Responsório breve
+
+@responsorio
+R. Nossa alma espera no Senhor,
+* Nele se alegra o nosso coração. R. Nossa alma.
+V. Está perto a salvação dos que o respeitam.
+* Nele se alegra. Glória ao Pai. R. Nossa alma.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Buscai hoje o Senhor, que se deixa encontrar;
+invocai-o agora que está perto. Aleluia.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+Buscai hoje o Senhor, que se deixa encontrar;
+invocai-o agora que está perto. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo, Palavra eterna, que inaugurou na terra, através de sua humanidade, um caminho novo e vivo para subir ao santuário celeste; e supliquemos humildemente:
+
+R. **Vinde, Senhor, salvar-nos!**
+
+Deus, em quem vivemos, nos movemos e somos,
+– vinde e revelai-nos que somos vosso povo. R.
+
+Vós, que não estais longe de nenhum de nós,
+– mostrai-vos sem demora a todos os que vos procuram. R.
+
+Pai dos pobres e consolador dos aflitos,
+– dai liberdade aos cativos e alegria aos tristes. R.
+
+{(intenções livres)}
+
+Vós, que destruís a morte e amais a vida,
+– livrai-nos da morte eterna, a nós e a todos os que em vós adormeceram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Sede propício, ó Deus, às nossas súplicas, e auxiliai-nos em nossa tribulação. Consolados pela vinda do vosso Filho sejamos purificados da antiga culpa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

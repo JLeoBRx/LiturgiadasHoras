@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3quinta_nona.htm
+@documento Próprio - Nona - III Quinta-feira do Advento
+
+@secao Leitura breve | Ml 3,20-21b
+
+@texto
+Para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo salvação em suas asas; saireis saltando como be-zerros bem nutridos, diz o Senhor dos exércitos.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, somos servos indignos e reconhecemos com tristeza as nossas faltas. Dai-nos a alegria do advento do vosso Filho que vem para nos salvar. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/policarpo.htm
+@documento Ofício das Leituras - São Policarpo, Bispo E Mártir Memória
+
+@celebracao
+SÃO POLICARPO, BISPO E MÁRTIR
+{Memória}
+
+@biografia
+Policarpo, discípulo dos Apóstolos e bispo de Esmirna, deu hospedagem a Inácio de Antioquia; esteve em Roma para tratar com o papa Aniceto da questão relativa à data da Páscoa. Sofreu o martírio cerca do ano 155, queimado vivo no estádio da cidade.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+
+no teu dia de esplendor,
+
+em que cinges a coroa,
+
+o troféu de vencedor.
+
+Este dia sobre as trevas
+
+deste mundo te elevou,
+
+e, juiz e algoz vencendo,
+
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+
+testemunha inquebrantável,
+
+com as vestes que lavaste
+
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+
+poderoso intercessor;
+
+ouça ele as nossas preces
+
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+
+de Jesus traze o perdão,
+
+e os que gemem sob o fardo
+
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+
+e ao Espírito, a vitória.
+
+Deus te orna com coroa
+
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho, que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor, que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador, é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta da Igreja de Esmirna sobre o martírio de São Policarpo
+{(Séc. II)} {(Cap. 13,2 – 15,3: Funk 1,297-299)}
+
+@tema
+Como um sacrifício perfeito e agradável
+
+@texto
+Quando a fogueira ficou pronta, Policarpo desfez-se de todas as vestes e desatou o cinto; tentou desamarrar as sandálias, o que há muito não fazia, pois os fiéis sempre se apressavam em ajudá-lo, desejando tocar-lhe o corpo, no qual muito antes do martírio já brilhava o esplendor da santidade de sua vida. Rapidamente cercaram-no com o material trazido para a fogueira. Quando os algozes quiseram pregá-lo ao poste, ele disse: “Deixai-me livre. Quem me dá forças para suportar o fogo, também me concederá que fique imóvel no meio das chamas sem necessitar deste vosso cuidado”. Assim não o pregaram mas limitaram-se a amarrá-lo. Amarrado com as mãos para trás, Policarpo era como um cordeiro escolhido, tirado de um grande rebanho para o sacrifício, uma vítima agradável preparada para Deus. Levantando os olhos ao céu, ele disse: “Senhor Deus todo-poderoso, Pai do vosso amado e bendito Filho Jesus Cristo, por quem vos conhecemos, Deus dos anjos e dos poderes celestiais, de toda a criação e de todos os justos que vivem diante de vós, eu vos bendigo porque neste dia e nesta hora, incluído no número dos mártires, me julgastes digno de tomar parte no cálice de vosso Cristo e ressuscitar em corpo e alma para a vida eterna, na incorruptibilidade, por meio do Espírito Santo. Recebei-me hoje, entre eles, na vossa presença, como um sacrifício perfeito e agradável; e o que me havíeis preparado e revelado, realizai-o agora, Deus de verdade e retidão. Por isso e por todas as coisas, eu vos louvo, bendigo e glorifico por meio do eterno e celeste Pontífice Jesus Cristo, vosso amado Filho. Por ele e com ele seja dada toda glória a vós, na unidade do Espírito Santo, agora e pelos séculos futuros. Amém”. Depois de ter dito “Amém” e de ter terminado a oração, os algozes atearam o fogo e levantou-se uma grande labareda. Então nós, a quem foi dado contemplar, vimos um milagre – pois para anunciá-lo aos outros é que fomos poupados: – o fogo tomou a forma de uma abóbada, como a vela de um barco batida pelo vento, e envolveu o corpo do mártir por todos os lados; ele estava no meio, não como carne queimada, mas como um pão que é cozido ou o ouro e a prata incandescente na fornalha. E sentimos um odor de tanta suavidade que parecia se estar queimando incenso ou outro perfume precioso.
+
+@secao Responsório | Ap 2,8-9a.10a
+
+@responsorio
+R. Escreve ao anjo da Igreja de Esmirna:
+Assim diz o Primeiro e o Último,
+o que estava morto e agora vive.
+Conheço as provações que suportastes,
+conheço tua pobreza, mas és rico.
+* Permanece fiel até à morte e a coroa da vida eu te darei.
+V. Não temas ante o que irás sofrer;
+o demônio irá lançar alguns de vós
+no cárcere a fim de vos provar.* Permanece.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador de todas as coisas, que colocastes o bispo São Policarpo nas fileiras dos vossos mártires, concedei-nos, por sua intercessão, participar com ele do cálice de Cristo, e ressuscitar para a vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santosinocentes_vesperas.htm
+@documento Vésperas - Os Santos Inocentes, Mártires
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria,
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Tu és príncipe desde o dia em que nasceste;
+na glória e esplendor da santidade,
+como o orvalho, antes da aurora, eu te gerei.
+
+@antifona 2
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+No Senhor se encontra toda graça
+e copiosa redenção.
+
+@antifona 3
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+No princípio, antes dos tempos, o Verbo era Deus.
+E o Verbo hoje nasceu como nosso Salvador.
+
+@secao Leitura breve | Ef 2,3b-5
+
+@texto
+Éramos por natureza, como os demais, filhos da ira. Mas Deus é rico em misericórdia. Por causa do grande amor com que nos amou, quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos!
+
+@secao Responsório breve
+
+@responsorio
+R. A Palavra se fez carne.
+* Aleluia, aleluia. R. A Palavra.
+V. E habitou entre nós. * Aleluia, aleluia.
+Glória ao Pai. R. A Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A Virgem santa e sem mancha, Maria,
+gerou-nos o Filho de Deus;
+revestiu-o de membros tão frágeis,
+com seu leite materno nutriu-o:
+adoremos Jesus Salvador
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A Virgem santa e sem mancha, Maria,
+gerou-nos o Filho de Deus;
+revestiu-o de membros tão frágeis,
+com seu leite materno nutriu-o:
+adoremos Jesus Salvador
+
+@secao Preces
+
+@preces
+Deus enviou seu Filho, nascido de uma mulher, nascido sob a lei, para remir aqueles que estavam sob a lei. Firmes nesta esperança, rezemos:
+
+R. **A graça de Cristo esteja sempre conosco!**
+
+Deus de amor e de paz, renovai em todos os cristãos a fé na encarnação de vosso Filho,
+– para que vivam sempre em ação de graças. R.
+
+Aumentai a esperança dos enfermos, dos pobres e dos velhos;
+– dai conforto aos oprimidos, confiança aos desesperados, consolo aos que choram. R.
+
+Não vos esqueçais dos encarcerados,
+– e dos que vivem longe de sua pátria. R.
+
+{(intenções livres)}
+
+Vós, que no nascimento de vosso Filho nos fizestes ouvir os anjos cantando a vossa glória,
+– fazei que os nossos irmãos falecidos vos louvem eternamente na companhia dos anjos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que admiravelmente criastes o ser humano e mais admiravelmente restabelecestes a sua dignidade, dai-nos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

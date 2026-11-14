@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojeronimo_vesperas.htm
+@documento Vésperas - São Jerônimo, presbítero e doutor da Igreja
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Tradutor e exegeta da Bíblia,
+foste um sol que a Escritura ilumina;
+nossas vozes, Jerônimo, escuta:
+nós louvamos-te a vida e a doutrina.
+
+Relegando os autores profanos,
+o mistério divino abraçaste,
+qual leão, derrubando os hereges,
+as mensagens da fé preservaste.
+
+Estudaste a palavra divina
+nos lugares da própria Escritura,
+e, bebendo nas fontes o Cristo,
+deste a todos do mel a doçura.
+
+Aspirando ao silêncio e à pobreza,
+no presépio encontraste um abrigo;
+deste o véu a viúvas e virgens,
+Paula e Eustáquia levaste contigo.
+
+Pelo grande doutor instruídos,
+proclamamos, fiéis, o Deus trino;
+e ressoem por todos os tempos
+as mensagens do livro divino.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família. Aleluia.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor. Aleluia.
+
+@secao Leitura breve | Tg 3,17-18
+
+@texto
+A sabedoria que vem do alto é, antes de tudo, pura, depois pacífica, modesta, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade e sem fingimento. O fruto da justiça é semeado na paz, para aqueles que promovem a paz.
+
+@secao Responsório breve
+
+@responsorio
+R. No meio da assembleia
+* Falou palavras sábias. R. No meio.
+V. Deus o encheu com seu Espírito de saber e inteligência. * Falou.
+Glória ao Pai. R. No meio.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó mestre da Verdade! Ó luz da santa Igreja!
+São Jerônimo, cumpridor da lei divina,
+rogai por nós a Cristo.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó mestre da Verdade! Ó luz da santa Igreja!
+São Jerônimo, cumpridor da lei divina,
+rogai por nós a Cristo.
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes ao presbítero São Jerônimo profundo amor pela Sagrada Escritura, concedei ao vosso povo alimentar-se cada vez mais da vossa palavra e nela encontrar a fonte da vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

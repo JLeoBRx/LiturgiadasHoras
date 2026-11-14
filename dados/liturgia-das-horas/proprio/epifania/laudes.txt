@@ -1,0 +1,175 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/epifania_laudes.htm
+@documento Laudes - Epifania do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Elevai o olhar aos céus
+vós que a Cristo procurais.
+E da sua eterna glória
+podereis ver os sinais.
+
+Essa estrela vence o sol
+em fulgor e em beleza,
+e nos diz ter vindo à terra
+Deus, em nossa natureza.
+
+Da região do mundo persa,
+onde o sol tem seu portal,
+sábios Magos reconhecem
+do Rei novo o sinal.
+
+Quem será tão grande Rei,
+a quem astros obedecem,
+a quem servem luz e céus
+e suas forças estremecem?
+
+Percebemos algo novo,
+imortal, superior,
+que domina céus e caos
+e lhes é anterior.
+
+Rei do povo de Israel,
+este é o Rei das gentes,
+prometido a Abraão
+e à sua raça eternamente.
+
+Ó Jesus, louvor a vós
+que às nações vos revelais.
+Glória ao Pai e ao Espírito
+pelos tempos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Os Magos, abrindo seus tesouros,
+oferecem ao Senhor os seus presentes:
+ouro, incenso e mirra, aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Os Magos, abrindo seus tesouros,
+oferecem ao Senhor os seus presentes:
+ouro, incenso e mirra, aleluia.
+
+@antifona 2
+Mares e rios, bendizei ao Senhor,
+águas das fontes, cantai ao Senhor. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Mares e rios, bendizei ao Senhor,
+águas das fontes, cantai ao Senhor. Aleluia.
+
+@antifona 3
+Despontou a tua luz, Jerusalém,
+e a glória do Senhor te iluminou.
+E os povos andarão na tua luz. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Despontou a tua luz, Jerusalém,
+e a glória do Senhor te iluminou.
+E os povos andarão na tua luz. Aleluia.
+
+@secao Leitura breve | Is 52,7-10
+
+@texto
+Como são belos, andando sobre os montes, os pés de quem anuncia a paz, de quem anuncia o bem e prega a salvação, e diz a Sião: "Reina teu Deus! Ouve-se a voz de teus vigias, eles levantam a voz, estão exultantes de alegria, sabem que verão com os próprios olhos o Senhor voltar a Sião. Alegrai-vos e exultai ao mesmo tempo, ó ruínas de Jerusalém, o Senhor consolou seu povo e resgatou Jerusalém. O Senhor desnudou seu santo braço aos olhos de todas as nações; todos os confins da terra hão de ver a salvação que vem do nosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Os reis de toda a terra.
+* Hão de adorá-lo. R. Os reis.
+V. E todas as nações hão de servi-lo. * Hão de adorá-lo.
+Glória ao Pai. R. Os reis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Hoje a Igreja se uniu a seu celeste Esposo,
+porque Cristo lavou no Jordão o pecado;
+para as núpcias reais correm Magos com presentes;
+e os convivas se alegram com a água feita vinho. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Hoje a Igreja se uniu a seu celeste Esposo,
+porque Cristo lavou no Jordão o pecado;
+para as núpcias reais correm Magos com presentes;
+e os convivas se alegram com a água feita vinho. Aleluia.
+
+@secao Preces
+
+@preces
+Com grande alegria, celebremos nosso Salvador, adorado hoje pelos Magos; e o aclamemos:
+
+R. **Cristo, luz da luz, iluminai este dia!**
+
+Cristo, manifestado na carne,
+– santificai-nos pela palavra de Deus e pela oração. R.
+
+Cristo, justificado pelo Espírito,
+– libertai nossa vida do espírito do erro. R.
+
+Cristo, contemplado pelos anjos,
+– fazei-nos experimentar na terra as alegrias do céu. R.
+
+Cristo, proclamado às nações,
+– abri o coração dos homens pelo poder do Espírito Santo. R.
+
+Cristo, acreditado no mundo,
+– renovai a fé de todos os que creem. R.
+
+Cristo, exaltado na glória,
+– acendei em nós o desejo de vosso Reino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje revelastes o vosso Filho às nações, guiando-as pela estrela, concedei aos vossos servos, que já vos conhecem pela fé, contemplar-vos um dia face a face no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2sexta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@salmo salmos/salmo-118-73-80-x-iod
+
+@gloria
+
+@antifona
+Vosso amor seja um consolo para mim,
+conforme a vosso servo prometestes.
+
+@antifona 2
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@salmo salmos/salmo-058-2-5-10-11-17-18
+
+@gloria
+
+@antifona
+Protegei-me, ó meu Deus,
+contra os meus perseguidores!
+
+@antifona 3
+Feliz o homem que por Deus é corrigido;
+se ele fere, também cuida da ferida.
+
+@salmo salmos/salmo-059
+
+@gloria
+
+@antifona
+Feliz o homem que por Deus é corrigido;
+se ele fere, também cuida da ferida.
+
+@secao Leitura breve | Dt 1,31b
+
+@texto
+O Senhor vosso Deus vos levou por todo o caminho, por onde andastes, como um homem costuma levar o seu filho, até chegardes a este lugar.
+
+@texto
+V. Sustentai-me e viverei, como dissestes.
+R. Não podeis decepcionar minha esperança.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que nesta hora fostes levado ao suplício da cruz para salvar o mundo, perdoai-nos as faltas passadas e preservai-nos de culpas futuras. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

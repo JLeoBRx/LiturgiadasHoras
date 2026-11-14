@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/corpuschristi_vesperas.htm
+@documento Vésperas - Santíssimo Sacramento do Corpo e Sangue de Cristo
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vamos todos louvar juntos
+o mistério do amor,
+pois o preço deste mundo
+foi o sangue redentor,
+recebido de Maria,
+que nos deu o Salvador.
+
+Veio ao mundo por Maria,
+foi por nós que ele nasceu.
+Ensinou sua doutrina,
+com os homens conviveu.
+No final de sua vida,
+um presente ele nos deu.
+
+Observando a Lei mosaica,
+se reuniu com os irmãos.
+Era noite. Despedida.
+Numa ceia:refeição.
+Deu-se aos doze em alimento,
+pelas suas próprias mãos.
+
+A Palavra do Deus vivo
+transformou o vinho e o pão
+no seu sangue e no seu corpo
+para a nossa salvação.
+O milagre nós não vemos,
+basta a fé no coração.
+
+Tão sublime sacramento
+adoremos neste altar,
+pois o Antigo Testamento
+deu ao Novo seu lugar.
+Venha a fé por suplemento
+os sentidos completar.
+
+Ao Eterno Pai cantemos
+e a Jesus, o Salvador.
+Ao Espírito exaltemos,
+na Trindade, eterno amor.
+Ao Deus Uno e Trino demos
+a alegria do louvor.
+
+@secao Salmodia
+
+@antifona 1
+Jesus Cristo, sacerdote eternamente
+segundo a ordem do rei Melquisedec,
+ofereceu o pão e o vinho, aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Jesus Cristo, sacerdote eternamente
+segundo a ordem do rei Melquisedec,
+ofereceu o pão e o vinho, aleluia.
+
+@antifona 2
+Elevo o cálice da minha salvação
+e vos oferto um sacrifício de louvor.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Elevo o cálice da minha salvação
+e vos oferto um sacrifício de louvor.
+
+@antifona 3
+Ó Senhor, sois o Caminho, a Verdade e a Vida.
+No Cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer o Aleluia no começo e no fim das estrofes.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Ó Senhor, sois o Caminho, a Verdade e a Vida.
+No Cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer o Aleluia no começo e no fim das estrofes.
+
+@secao Leitura breve | 1Cor 11,23-25
+
+@texto
+O que eu recebi do Senhor foi isso que eu vos transmiti: Na noite em que foi entregue, o Senhor Jesus tomou o pão e, depois de dar graças, partiu-o e disse: Isto é o meu corpo que é dado por vós. Fazei-o em memória de mim. Do mesmo modo, depois da ceia, tomou também o cálice e disse: Este cálice é a nova aliança, em meu sangue. Todas as vezes que dele beberdes, fazei isto em minha memória.
+
+@secao Responsório breve
+
+@responsorio
+R. Deus lhes deu para comer o pão do céu,
+* Aleluia, aleluia. R. Deus lhes deu.
+V. O homem se nutriu do pão dos anjos. * Aleluia.
+Glória ao Pai. R. Deus lhes deu.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó banquete tão sagrado, em que Cristo é alimento,
+a memória é celebrada de seu santo sofrimento;
+nossa mente se enriquece com a graça em seu fulgor;
+da futura glória eterna nos é dado o penhor. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó banquete tão sagrado, em que Cristo é alimento,
+a memória é celebrada de seu santo sofrimento;
+nossa mente se enriquece com a graça em seu fulgor;
+da futura glória eterna nos é dado o penhor. Aleluia.
+
+@secao Preces
+
+@preces
+Cristo nos convida a todos para a Ceia em que entrega seu corpo e sangue pela vida do mundo. Peçamos-lhe com amor e confiança:
+
+R. **Cristo, pão do céu, dai-nos a vida eterna!**
+
+Cristo, Filho do Deus vivo, que nos mandastes celebrar a ceia eucarística em memória de vós,
+– fortalecei a Igreja com a fiel celebração de vossos mistérios. R.
+
+Cristo, sacerdote único do Deus Altíssimo, que confiastes aos sacerdotes a oferenda da Eucaristia,
+– fazei que eles realizem em suas vidas o que celebram no sacramento. R.
+
+Cristo, maná descido do céu, que reunis num só corpo todos os que participam do mesmo pão,
+– conservai na paz e na concórdia aqueles que creem em vós. R.
+
+Cristo, médico celeste, que no pão da vida nos ofereceis o remédio da imortalidade e o penhor da ressurreição,
+– dai saúde aos doentes e perdão aos pecadores. R.
+
+{(intenções livres)}
+
+Cristo, rei da eterna glória, que nos mandastes celebrar a eucaristia para anunciar a vossa morte até à vossa vinda no fim dos tempos,
+– tornai participantes da vossa ressurreição, todos os que morreram no vosso amor. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, neste admirável sacramento, nos deixastes o memorial da vossa paixão. Dai-nos venerar com tão grande amor o mistério do vosso Corpo e do vosso Sangue, que possamos colher continuamente os frutos da vossa redenção. Vós, que viveis e reinais com o Pai, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

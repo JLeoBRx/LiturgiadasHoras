@@ -1,0 +1,29 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojoaodiego.htm
+
+@secao Coleta
+@texto
+Ó Deus, por São João Diego,
+mostrastes o amor da Santíssima Virgem Maria
+para o vosso povo;
+concedei-nos, por sua intercessão,
+que, seguindo os conselhos da nossa Mãe de Guadalupe,
+possamos cumprir sempre a vossa vontade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor,
+por esta oblação oferecida na comemoração de São João Diego,
+concedei aos vossos fiéis
+os dons da unidade e da paz.
+Por Cristo, nosso Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, o sacramento que recebemos
+na comemoração de São João Diego
+santifique a nossa mente e o nosso coração,
+para que mereçamos participar da natureza divina.
+Por Cristo, nosso Senhor.

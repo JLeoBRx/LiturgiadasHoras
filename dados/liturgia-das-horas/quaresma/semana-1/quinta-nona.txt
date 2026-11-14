@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/1quintaquaresma_nona.htm
+@documento Hora Média - Nona - Quinta-feira da 1ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+O número sagrado,
+três vezes três das horas,
+abrindo um novo espaço,
+nos chama à prece, agora.
+Ao nome de Jesus,
+perdão seu povo implora.
+
+O Cristo ouviu a prece
+sincera do ladrão.
+A graça foi-lhe dada,
+por sua confissão.
+Jesus ouvindo a súplica,
+também nos dê perdão.
+
+Agora morre a morte,
+vencida pela cruz;
+após as trevas densas,
+serena, volta a luz;
+o horror do mal se quebra,
+nas mentes Deus reluz.
+
+A Cristo nós rogamos
+e ao Pai, eterno Bem,
+com seu Divino Espírito,
+amor que os sustém,
+proteja sua Igreja
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Sejamos firmes na provação:
+Sua justiça é nossa força.
+
+@secao Leitura breve | Hb 10,35-36
+
+@texto
+Não abandoneis a vossa coragem, que merece grande recompensa. De fato, precisais de perseverança para cumprir a vontade de Deus e alcançar o que ele prometeu.
+
+@texto
+V. Meu sacrifício é minha alma penitente.
+R. Não desprezeis um coração arrependido.
+
+@secao Oração
+
+@oracao
+Dai-nos, ó Deus, pensar sempre o que é reto e realizá-lo com solicitude. E como só podemos existir em vós, fazei-nos viver segundo a vossa vontade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

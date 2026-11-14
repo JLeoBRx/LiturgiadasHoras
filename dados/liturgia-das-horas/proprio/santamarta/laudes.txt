@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santamarta_laudes.htm
+@documento Laudes - Santos Marta, Maria e Lázaro
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos em português do Brasil para a celebração do dia 29/07 na Liturgia das Horas, modificada pelo Papa Francisco, que acrescentou as memórias dos santos Maria e Lázaro à memória de Santa Marta hoje celebrada. Assim, os textos aqui adotados ainda são aqueles da memória de Santa Marta, exceto a oração final que já consta no Missal aprovado.
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Santa Marta de Betânia,
+hospedeira do Senhor,
+hoje o Povo da Aliança
+canta um hino em teu louvor.
+
+Tua casa foi o abrigo
+onde o Mestre repousou.
+No calor de um lar amigo,
+ele as forças renovou.
+
+Pão e vinho lhe serviste,
+quando tua irmã, Maria,
+vida eterna em alimento
+dos seus lábios recebia.
+
+Reclamaste a sua ausência
+junto a Lázaro doente,
+proclamando assim a fé
+no seu verbo onipotente.
+
+Dele escutas a promessa:
+Teu irmão ressurgirá.
+E proclamas: Tu és o Cristo,
+Deus conosco em ti está.
+
+No milagre testemunhas
+seu poder e seu amor:
+teu irmão retorna à vida,
+à palavra do Senhor.
+
+Que possamos caminhar
+com Jesus, na fé ardente,
+e contigo contemplar
+sua face eternamente.
+
+@secao Salmodia
+
+@antifona 1
+Minh'alma se agarra em vós,
+com poder vossa mão me sustenta.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Minh'alma se agarra em vós,
+com poder vossa mão me sustenta.
+
+@antifona 2
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@antifona 3
+Exulto de alegria pelo vosso grande amor!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exulto de alegria pelo vosso grande amor!
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a sustenta
+* Com a luz de sua face. R. O Senhor.
+V. Quem a pode abalar? Deus está junto a ela. * Com a luz.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Disse Marta a Jesus: Eu creio que és o Cristo,
+o Filho do Deus vivo, que vieste a este mundo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Disse Marta a Jesus: Eu creio que és o Cristo,
+o Filho do Deus vivo, que vieste a este mundo.
+
+@secao Preces
+
+@preces
+Juntamente com todas as santas mulheres, louvemos, irmãos e irmãs, nosso Salvador; e peçamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus, que perdoastes à mulher pecadora todos os seus pecados porque ela muito amou,
+– perdoai-nos também os nossos muitos pecados. R.
+
+Senhor Jesus, a quem as santas mulheres serviam em vossas jornadas,
+– concedei-nos seguir fielmente os vossos passos. R.
+
+Senhor Jesus, Mestre a quem Maria escutava, enquanto Marta vos servia;
+– concedei-nos também vos servirmos na fé e na caridade. R.
+
+Senhor Jesus, que chamastes irmão, irmã e mãe a todos aqueles que cumprem a vontade do Pai,
+– fazei que sempre vos agrademos em palavras e ações. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, vosso Filho chamou Lázaro do sepulcro à vida e quis hospedar-se na casa de Marta; concedei-nos que, servindo fielmente a Cristo em nossos irmãos, mereçamos com Maria ser nutridos pela meditação da Palavra. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

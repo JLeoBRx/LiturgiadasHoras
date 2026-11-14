@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2terca_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nesta terra de exílio guardarei vossos preceitos.
+
+@salmo salmos/salmo-118-49-56-vii-zain
+
+@gloria
+
+@antifona
+Nesta terra de exílio guardarei vossos preceitos.
+
+@antifona 2
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@antifona
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@antifona 3
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@secao Leitura breve | 1Cor 12,4-6
+
+@texto
+Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.
+
+@texto
+V. Está perto a salvação dos que o temem.
+R. E a glória habitará em nossa terra.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nesta hora enviastes aos Apóstolos vosso santo Paráclito, comunicai-nos também este Espírito de amor, para darmos de vós um testemunho fiel diante de todos. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

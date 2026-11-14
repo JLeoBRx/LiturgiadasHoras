@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2terca_laudes.htm
+@documento Laudes - II Terça-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Enviai, Senhor, vossa luz, vossa verdade!
+
+@salmo salmos/salmo-042
+
+@gloria
+
+@antifona
+Enviai, Senhor, vossa luz, vossa verdade!
+
+@antifona 2
+Salvai-nos, ó Senhor, todos os dias!
+
+@salmo canticos/is-38-10-14-17-20
+
+@gloria
+
+@antifona
+Salvai-nos, ó Senhor, todos os dias!
+
+@antifona 3
+Ó Senhor, convém cantar vosso louvor
+com um hino em Sião! †
+
+@salmo salmos/salmo-064
+
+@gloria
+
+@antifona
+Ó Senhor, convém cantar vosso louvor
+com um hino em Sião!
+
+@secao Leitura breve | Gn 49,10
+
+@texto
+O cetro não será tirado de Judá, nem o bastão de comando dentre os seus pés, até que venha Aquele a quem pertencem, e a quem obedecerão os povos.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar. R. Que o universo.
+V. Justiça e paz se abraçarão:
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Exulta de alegria, ó filha de Sião,
+porque eu, o Senhor, vou morar em teu meio.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Exulta de alegria, ó filha de Sião,
+porque eu, o Senhor, vou morar em teu meio.
+
+@secao Preces
+
+@preces
+Oremos, irmãos caríssimos, ao Cristo Senhor, luz que ilumina todo homem; e aclamemos com alegria:
+
+R. **Vinde, Senhor Jesus!**
+
+Dissipai, Senhor, as nossas trevas com a luz da vossa presença,
+– e tornai-nos dignos de receber os vossos dons. R.
+
+Salvai-nos, Senhor nosso Deus,
+– e bendiremos todo o dia o vosso santo nome. R.
+
+Inflamai nossos corações para que tenham ardente sede de vós,
+– e com todo o desejo busquem a união convosco. R.
+
+Vós, que assumistes todas as nossas enfermidades, exceto o pecado,
+– socorrei hoje os enfermos e agonizantes. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que manifestastes o vosso Salvador até os confins da terra, dai-nos esperar com alegria a glória do seu natal. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

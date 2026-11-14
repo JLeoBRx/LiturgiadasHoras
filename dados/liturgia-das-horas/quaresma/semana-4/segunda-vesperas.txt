@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4segundaquaresma_vesperas.htm
+@documento Vésperas - Segunda-feira da 4ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@salmo salmos/salmo-135-i
+
+@gloria
+
+@antifona
+Demos graças ao Senhor, porque eterno é seu amor!
+
+@antifona 2
+Como são grandes e admiráveis vossas obras,
+ó Senhor e nosso Deus onipotente!
+
+@salmo salmos/salmo-135-ii
+
+@gloria
+
+@antifona
+Como são grandes e admiráveis vossas obras,
+ó Senhor e nosso Deus onipotente!
+
+@antifona 3
+Na plenitude dos tempos,
+quis o Pai reunir todas as coisas no Cristo.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Na plenitude dos tempos,
+quis o Pai reunir todas as coisas no Cristo.
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Clamo de todo coração:
+* Respondei-me, ó Senhor! R. Clamo.
+V. Hei de fazer vossa vontade. * Respondei-me.
+Glória ao Pai. R. Clamo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O pai reconheceu que fora aquela hora
+em que Jesus havia dito:
+Vai em paz, teu filho vive!
+Ele, então, acreditou com toda a sua casa.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O pai reconheceu que fora aquela hora
+em que Jesus havia dito:
+Vai em paz, teu filho vive!
+Ele, então, acreditou com toda a sua casa.
+
+@secao Preces
+
+@preces
+Demos glória a Deus nosso Pai, que pela palavra de seu Filho Jesus Cristo, prometeu ouvir a oração daqueles que se reúnem para orar em seu nome. Confiantes na sua promessa, digamos:
+
+R. **Escutai, Senhor, a oração do vosso povo!**
+
+Senhor, que levastes à perfeição por meio de Cristo a lei dada a Moisés no monte Sinai,
+– fazei que a reconheçamos gravada em nossos corações e pratiquemos fielmente a aliança que fizestes conosco. R.
+
+Concedei aos superiores a solicitude fraterna para com aqueles que lhes foram confiados,
+– e despertai nos súditos o espírito de colaboração e obediência. R.
+
+Fortalecei com a vossa assistência o espírito e o coração dos missionários
+– e multiplicai, em toda a Igreja, os seus companheiros de evangelização. R.
+
+Fazei que as crianças cresçam em idade e em graça,
+– e os jovens progridam no amor de Cristo e na santidade de vida. R.
+
+{(intenções livres)}
+
+Lembrai-vos dos nossos irmãos e irmãs que adormeceram na fé em Cristo,
+– e acolhei-os na alegria da vida eterna. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que renovais o mundo com admiráveis sacramentos, fazei a vossa Igreja caminhar segundo a vossa vontade sem que jamais lhe faltem neste mundo os auxílios de que necessita. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5segundaquaresma_laudes.htm
+@documento Laudes - Segunda-feira da 5ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@salmo salmos/salmo-005-2-10-12-13
+
+@gloria
+
+@antifona
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@antifona 2
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@antifona
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@antifona 3
+Adorai o Senhor no seu templo sagrado.
+
+@salmo salmos/salmo-028
+
+@gloria
+
+@antifona
+Adorai o Senhor no seu templo sagrado.
+
+@secao Leitura breve | Jr 11,19-20
+
+@texto
+Eu era como manso cordeiro levado ao sacrifício, e não sabia que tramavam contra mim: "Vamos cortar a árvore em toda sua força, eliminá-lo do mundo dos vivos, para seu nome não ser mais lembrado. E tu, Senhor dos exércitos, que julgas com justiça e perscrutas os afetos do coração, concede que eu veja a vingança que tomarás contra eles, pois eu te confiei a minha causa.
+
+@secao Responsório breve
+
+@responsorio
+R. Lembra-te de Cristo, ressuscitado dentre os mortos!
+* Ele é nossa salvação e nossa glória para sempre.
+R. Lembra-te.
+V. Se com ele nós morremos, também, com ele viveremos.
+* Ele é. Glória ao Pai. R. Lembra-te.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem me segue não caminha em meio às trevas,
+mas terá a luz da vida, diz Jesus.
+
+@secao Preces
+
+@preces
+Bendigamos a Jesus, nosso Salvador, que pela sua morte nos abriu o caminho da salvação; e oremos:
+
+R. **Guiai-nos, Senhor, em vossos caminhos!**
+
+Deus de misericórdia, que pelo batismo nos destes uma vida nova,
+– fazei que dia a dia nos configuremos cada vez mais à vossa imagem. R.
+
+Ensinai-nos a ser hoje alegria para os que sofrem,
+– e a vos servir em cada irmão ou irmã que precise de nossa ajuda. R.
+
+Ajudai-nos a praticar o que é bom, correto e verdadeiro a vossos olhos,
+– e a sempre vos procurar com sinceridade de coração. R.
+
+Perdoai-nos, Senhor, as faltas que cometemos contra a unidade de vossa família,
+– e fazei que nos tornemos um só coração e uma só alma. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela vossa graça inefável nos enriqueceis de todos os bens, concedei-nos passar da antiga à nova vida, preparando-nos assim, para o reino da glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/quarta_aposepifania_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona
+O mistério escondido desde os séculos
+agora entre nós se manifesta.
+
+@salmo salmos/salmo-118-57-64
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+O mistério escondido desde os séculos
+agora entre nós se manifesta.
+
+@secao Leitura breve | 1Tm 1,15
+
+@texto
+Segura e digna de ser acolhida por todos é esta palavra: Cristo veio ao mundo para salvar os pecadores.
+
+@texto
+V. Deus foi visto na terra.
+R. E viveu entre os homens.
+
+@secao Oração
+
+@oracao
+Ó Deus, luz de todas as nações, concedei aos povos da terra viver em perene paz, e fazei resplandecer em nossos corações aquela luz admirável que vimos despontar no povo da antiga aliança. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

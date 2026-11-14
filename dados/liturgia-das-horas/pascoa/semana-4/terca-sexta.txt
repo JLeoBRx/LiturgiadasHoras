@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4tercapascoa_sexta.htm
+@documento Hora Média - Sexta - Terça-feira da 4ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-137-144-xviii-sade
+
+@gloria
+
+@salmo salmos/salmo-087-i
+
+@gloria
+
+@salmo salmos/salmo-087-ii
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | Cf. 1Pd 3,21-22a
+
+@texto
+O batismo é hoje a vossa salvação pois ele não serve para limpar o corpo da imundície, mas é um pedido a Deus para obter uma boa consciência, em virtude da ressurreição de Jesus Cristo que está à direita de Deus.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, celebrando o mistério da ressurreição do Senhor, possamos acolher com alegria a nossa redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

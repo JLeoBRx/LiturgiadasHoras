@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/3quartaquaresma_terca.htm
+@documento Hora Média - Terça - Quarta-feira da 3ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@salmo salmos/salmo-118-105-112-xiv-nun-v2
+
+@gloria
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@salmo salmos/salmo-074
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão, de salvação.
+
+@secao Leitura breve | Ez 18,30b-32
+
+@texto
+Arrependei-vos, convertei-vos de todas as vossas transgressões, a fim de não terdes ocasião de cair em pecado. Afastai-vos de todos os pecados que praticais. Criai para vós um coração novo e um espírito novo. Por que haveis de morrer, ó casa de Israel? Pois eu não sinto prazer na morte de ninguém – oráculo do Senhor Deus. Convertei-vos e vivereis!
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido!
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, concedei que, formados pela observância da Quaresma e nutridos por vossa palavra, saibamos mortificar-nos para vos servir com fervor, sempre unânimes na oração. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

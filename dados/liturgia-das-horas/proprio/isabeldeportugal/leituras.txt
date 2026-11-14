@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/isabeldeportugal.htm
+@documento Ofício das Leituras - Santa Isabel De Portugal
+
+@celebracao
+SANTA ISABEL DE PORTUGAL
+
+@biografia
+Filha dos reis de Aragão, nasceu em 1271. Ainda muito jovem, foi dada em casamento ao rei de Portugal com quem teve dois filhos. Dedicou-se de modo particular à oração e às obras de misericórdia, e suportou muitas tristezas e dificuldades com grande fortaleza de ânimo. Depois da morte do marido, distribuiu os bens entre os pobres e tomou o hábito da Ordem Terceira de São Francisco. Morreu em 1336, quando intermediava um acordo de paz entre seu filho e seu genro.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Esta louvável mulher,
+por suas obras honrada,
+já com os anjos triunfa
+pelas virtudes ornada.
+
+A Deus orava com lágrimas
+e com fiel coração,
+entre jejuns e vigílias,
+fiel à santa oração.
+
+Do mundo a glória pisou,
+firmando a mente no bem.
+E, na perfeita justiça,
+dos céus subiu mais além.
+
+Em sua casa ela fez
+brilhar as santas ações.
+Seu prêmio agora recebe
+de Deus nas altas mansões.
+
+Honra, poder, majestade
+ao Uno e Trino Senhor.
+Ouvindo as preces da santa,
+nos una aos santos no Amor.
+
+@secao Salmodia
+
+@antifona 1
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Palavras sábias proferiram os seus lábios,
+e sua língua obedeceu à lei do amor.
+
+@antifona 2
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+As santas mulheres em Deus confiaram
+e a ele cantaramem seu coração.
+
+@antifona 3
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Na celeste mansão, do Senhor se aproximam
+entre cantos de festa e com grande alegria.
+
+@texto
+V. Que vos agrade o cantar dos meus lábios.
+R. Que ele chegue até vós, meu Rochedo e meu Redentor!
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios
+
+@tema
+A excelência da caridade
+
+@texto
+Irmãos: [12,31] Aspirai aos dons mais elevados. Eu vou ainda mostrar-vos um caminho incomparavelmente superior.[13,1] Se eu falasse todas as línguas, as dos homens e as dos anjos, mas não tivesse caridade, eu seria como um bronze que soa ou um címbalo que retine. [2] Se eu tivesse o dom da profecia, se conhecesse todos os mistérios e toda a ciência, se tivesse toda a fé, a ponto de transportar montanhas, mas se não tivesse caridade, eu não seria nada. [3] Se eu gastasse todos os meus bens para sustento dos pobres, se entregasse o meu corpo às chamas, mas não tivesse caridade, isso de nada me serviria. [4] A caridade é paciente, é benigna; não é invejosa, não é vaidosa, não se ensoberbece; [5] não faz nada de inconveniente, não é interesseira, não se encoleriza, não guarda rancor, [6] não se alegra com a iniquidade, mas regozija-se com a verdade. [7] Suporta tudo, crê tudo, espera tudo, desculpa tudo. [8] A caridade não acabará nunca. As profecias desaparecerão, as línguas cessarão, a ciência desaparecerá. [9] Com efeito, o nosso conhecimento é limitado e a nossa profecia é imperfeita. [10] Mas, quando vier o que é perfeito, desaparecerá o que é imperfeito. [11] Quando eu era criança, falava como criança, pensava como criança, raciocinava como criança. Quando me tornei adulto, rejeitei o que era próprio de criança. [12] Agora nós vemos num espelho, confusamente, mas, então, veremos face a face. Agora, conheço apenas de modo imperfeito, mas, então, conhecerei como sou conhecido. [13] Atualmente permanecem estas três coisas: fé, esperança, caridade. Mas a maior delas é a caridade.
+
+@secao Responsório | 1Jo 4,16.7
+
+@responsorio
+R. Conhecemos e cremos no amor
+que Deus manifesta por nós.
+* Pois quem permanece no amor,
+em Deus permanece e Deus nele.
+V. Amemo-nos, pois, uns aos outros,
+Porque o amor vem de Deus. * pois quem.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão atribuído a São Pedro Crisólogo, bispo
+{(Séc. IV)} {(De pace: PL 52,347-348)}
+
+@tema
+Bem-aventurados os que promovem a paz
+
+@texto
+Diz o evangelista: _Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus_ (Mt 5,9). De fato, as virtudes cristãs florescem naquele que vive a concórdia da paz cristã; e só merecem o nome de filhos de Deus aqueles que promovem a paz.
+
+É a paz, caríssimos, que liberta o homem da sua condição de escravo e lhe dá um nome nobre; que muda a sua condição perante Deus, transformando-o de servo em filho, de escravo em homem livre. A paz entre os irmãos é a realização da vontade de Deus, a alegria de Cristo, a perfeição da santidade, a norma da justiça, a mestra da doutrina, a guarda dos bons costumes e a louvável disciplina em todas as coisas. A paz é a recomendação das nossas orações, o caminho mais fácil e eficaz para as nossas súplicas, a realização perfeita de todos os nossos desejos. A paz é a mãe do amor, o vínculo da concórdia e o claro indício da pureza de coração, capaz de pedir a Deus tudo o que quer; pede tudo quanto quer e recebe tudo o que pede. A paz deve ser garantida pelos mandamentos do rei. É o que diz Cristo nosso Senhor: _Deixo-vos a paz, a minha paz vos dou_ (Jo 14,27). O que quer dizer: Deixei-vos em paz, em paz quero vos encontrar. Ao partir deste mundo, ele quis dar aquilo que deseja encontrar em todos quando voltar.
+
+É um mandamento do céu conservar esta paz que Cristo nos deu. Uma só palavra resume o que ele desejou na despedida: que ao voltar, encontre o que deixou. Plantar e enraizar a paz é obra de Deus; arrancá-la totalmente é coisa do inimigo. Pois, assim como o amor fraterno vem de Deus, assim o ódio vem do demônio. Então devemos condenar o ódio, porque está escrito: _Todo aquele que odeia seu irmão é um homicida_ (1Jo 4,7); consequentemente, quem não tem caridade também não possui a Deus.
+
+Irmãos, pratiquemos os mandamentos; são eles que nos dão a vida. Que a nossa fraternidade se mantenha unida pelos laços de uma paz profunda: que ela se fortaleça mediante o vínculo salutar do amor recíproco que cobre uma multidão de pecados. Que este amor fraterno seja a nossa maior aspiração, pois ele pode nos dar todo bem e toda recompensa. A paz deve ser conservada mais do que todas as virtudes, porque onde existe paz, Deus aí está.
+
+Amai a paz e em tudo encontrareis tranquilidade. Desta maneira, a paz será para nós um prêmio, para vós uma alegria. E a Igreja de Deus, fundada na unidade da paz, se manterá fiel aos ensinamentos de Cristo.
+
+@secao Responsório | Is 58,7-8
+
+@responsorio
+R. Reparte o teu pão com o faminto,
+recebe em tua casa os sem teto;
+* E tua luz vai levantar-se como a aurora;
+caminhará tua justiça à tua frente.
+V. Quando vês o teu irmão necessitado,
+não o desprezes, mas estende-lhe a mão.* E tua luz.
+
+@secao Oração
+
+@oracao
+Ó Deus, autor da paz e da caridade, que destes a Santa Isabel de Portugal a graça de reconciliar os desunidos, concedei-nos, por sua intercessão, trabalhar pela paz, para que possamos ser chamados filhos de Deus. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

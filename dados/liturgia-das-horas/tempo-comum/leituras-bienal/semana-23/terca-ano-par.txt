@@ -1,0 +1,64 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/23tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Pedro {2,1-9}
+
+@tema
+Os falsos doutores
+
+@texto
+[1] Houve, contudo, também falsos profetas no seio do povo, como haverá entre vós falsos mestres, os quais trarão heresias perniciosas, negando o Senhor que os resgatou e trazendo sobre si repentina destruição. [2] Muitos seguirão suas doutrinas dissolutas e, por causa deles, o caminho da verdade cairá em descrédito. [3] Por avareza, procurarão, com discursos fingidos, fazer de vós objeto de negócios; mas seu julgamento há muito está em ação e a sua destruição não tarda.
+[4] Com efeito, se Deus não poupou os anjos que pecaram, mas lançou-os nos abismos tenebrosos do Tártaro, onde estão guardados à espera do Julgamento, [5] nem poupou o mundo antigo, mas, ao trazer o dilúvio sobre o mundo dos ímpios, preservou apenas oito pessoas, entre as quais Noé, o arauto da justiça, [6] e se, como exemplo do que havia de sobrevir aos ímpios, condenou à destruição as cidades de Sodoma e de Gomorra, reduzindo-as a cinzas, [7] enquanto livrou o justo Ló, deprimido com o comportamento dissoluto daqueles perversos - [8] porque esse justo, que morava entre eles, afligia diariamente a sua alma justa com as obras iníquas que via e ouvia -, [9] é certamente porque o Senhor sabe libertar os piedosos da provação e reservar os injustos sob castigo à espera do dia do Julgamento.
+
+@secao Responsório | Mt 7,15; 24,11.24
+
+@responsorio
+R. Guardai-vos dos falsos profetas,
+que chegam em peles de ovelhas,
+* Mas por dentro são lobos ferozes.
+V. Surgirão muitos falsos profetas,
+operando milagres grandiosos, a muitos, assim, seduzindo.
+* Mas por dentro.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Discursos sobre o Cântico dos Cânticos”, de São Bernardo, abade
+{(Séc. XII)} {(37,5-7)}
+
+@tema
+O Princípio da sabedoria é o temor do Senhor
+
+@texto
+Se a ignorância de Deus nos torna cegos, como poderemos esperar naquele que não conhecemos? Se a ignorância de nós mesmos nos aprisiona, como poderemos ser humildes? De fato, pensaremos ter algum valor, enquanto nada somos. Nem os soberbos nem os que perderam a esperança terão parte na sorte dos santos.
+Considerai, portanto, com quanto cuidado e zelo devemos libertar-nos da ignorância de Deus e de nós mesmos, pois a primeira é origem; e a segunda, realização de todo pecado. Da mesma maneira, o conhecimento de Deus e de si mesmo é o início e a perfeição da sabedoria, a saber, o temor de Deus e a caridade.
+Com efeito, como o _princípio da sabedoria é o temor do_ _Senhor_ (Sl 110,10); assim, _o princípio de todo pecado é a_ _soberba_ (Eclo 10,12.13). Se o amor de Deus é a perfeição da sabedoria, a falta de esperança é a consumação de toda maldade. Assim também, se do conhecimento de si mesmo provém o temor de Deus e do conhecimento de Deus, o amor a ele, da ignorância de si mesmo surge a soberba e da ignorância de Deus, a falta de esperança.
+A ignorância de si mesmo gera em nós a soberba, porque, enganados por uma mentalidade cega e ilusória, julgamo-nos melhores do que de fato somos. Nisto consiste justamente a soberba, aqui está a raiz de todos os pecados: em valorizar-se sobremaneira perante Deus.
+Por isso, enquanto nos humilhamos e nos reputamos inferiores àquilo que de fato somos, perante a Verdade, não corremos nenhum perigo. Mas, logo que nos enaltecemos um pouco acima de nós mesmos ou de alguém que é igual ou superior a nós, prejudicamo-nos imensamente. É como quando, por exemplo, para passar por uma porta cuja arquitrave é demasiadamente baixa, tu podes abaixar-te quanto quiseres sem nenhum prejuízo; mas, se te levantares um dedo sequer acima da altura da porta, nela esbarrarás ferindo a tua cabeça. Da mesma maneira, não devemos temer as humilhações, por grandes que sejam. Pelo contrário, devemos preocupar-nos até com o mínimo indício de presunção.
+Portanto, não devemos comparar-nos com ninguém, nem com os superiores nem com os inferiores a nós. Quem sabe, aquele que tu estimas como o ser mais desprezível de todos, graças a uma mudança operada pelo poder do Altíssimo, se torne melhor do que todos, se é que já não o seja em Deus! Por isso, o Senhor quer que escolhamos não um lugar medíocre, nem o penúltimo nem um dos últimos, mas diz: _Ocupa_ _o último lugar_ (Lc 14,10), de maneira que tu efetivamente sejas o último entre todos, para não te colocares em primeiro lugar nem ousares comparar-te a ninguém.
+
+@secao Responsório | Cf. Sl 110(111),10; Sb 6,18; Eclo 19,18
+
+@responsorio
+R. O princípio da sabedoria é temer o Senhor,
+todos os que o praticam têm bom-senso.
+* Seu louvor permanece para sempre.
+V. O amor é a observância de suas leis,
+porque toda a sabedoria está no temor do Senhor.
+* Seu louvor.
+
+@secao Oração
+
+@oracao
+Ó Deus, pai de bondade, que nos redimistes e adotastes como filhos e filhas, concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_alt_completas.htm
+@documento Salmodia facultativa das Completas
+
+@titulo Salmodia facultativa das Completas
+
+@rubrica
+para os dias da semana, de segunda a sexta-feira
+
+@antifona
+Ó Senhor, tende piedade, e escutai minha oração!
+
+@salmo salmos/salmo-004
+
+@gloria
+
+@antifona
+Ó Senhor, tende piedade, e escutai minha oração!
+
+@antifona
+Bendizei o Senhor Deus durante a noite!
+
+@salmo salmos/salmo-133
+
+@gloria
+
+@antifona
+Bendizei o Senhor Deus durante a noite!
+
+@rubrica
+Ou
+
+@antifona
+Não temerás terror algum durante a noite:
+o Senhor te cobrirá com suas asas.
+
+@salmo salmos/salmo-090
+
+@gloria
+
+@antifona
+Não temerás terror algum durante a noite:
+o Senhor te cobrirá com suas asas.

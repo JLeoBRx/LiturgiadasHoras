@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/beneditadacruz.htm
+@documento Ofício das Leituras - Santa Teresa Benedita Da Cruz, Virgem E Mártir
+
+@celebracao
+SANTA TERESA BENEDITA DA CRUZ, VIRGEM E MÁRTIR
+
+@biografia
+Edith Stein nasceu em Breslávia, no dia 12 de outubro de 1891, de uma família judia. Apaixonada pesquisadora da verdade, através de aprofundados estudos de filosofia, encontrou-a mediante a leitura da autobiografia de santa Teresa de Jesus. Em 1922, recebeu o batismo na Igreja católica e, em 1933, entrou para o Carmelo de Colônia. Morreu mártir pela fé cristã em 9 de agosto de 1942, nos fornos crematórios de Auschwitz, durante a perseguição nazista, oferecendo seu holocausto pelo povo de Israel. Mulher de inteligência e cultura singulares, deixou muitos escritos de alta doutrina e de profunda espiritualidade. Foi beatificada pelo papa São João Paulo II em Colônia, no dia 1º de maio de 1987 e canonizada em Roma aos 11 de outubro de 1998.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {6,1-6; 8,1.4-8}
+
+@tema
+Os sete ministros escolhidos pelos Apóstolos
+
+@texto
+[6,1] Naqueles dias, o número dos discípulos tinha aumentado, e os fiéis de origem grega começaram a queixar-se dos fiéis de origem hebraica. Os de origem grega diziam que suas viúvas eram deixadas de lado no atendimento diário. [2] Então os Doze Apóstolos reuniram a multidão dos discípulos e disseram: “Não está certo que nós deixemos a pregação da Palavra de Deus para servir às mesas. [3] Irmãos, é melhor que escolhais entre vós sete homens de boa fama, repletos do Espírito e de sabedoria, e nós os encarregaremos dessa tarefa. [4] Deste modo nós poderemos dedicar-nos inteiramente à oração e ao serviço da Palavra”. [5] A proposta agradou a toda a multidão. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; e também Filipe, Prócoro, Nicanor, Timon, Pármenas e Nicolau de Antioquia, um pagão que seguia a religião dos judeus. [6] Eles foram apresentados aos apóstolos, que oraram e impuseram as mãos sobre eles.[8,1] Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria. [4] Entretanto, aqueles que se tinham dispersado iam por toda parte, pregando a Palavra. [5] Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. [6] As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. [7] De muitos possessos saíam os espíritos maus, dando grandes gritos. Inúmeros paralíticos e aleijados também foram curados. [8] Era grande a alegria naquela cidade.
+
+@secao Responsório | Mt 10,32; Jo 12,26a
+
+@responsorio
+R. Quem de mim der testemunho ante os homens,
+* Darei dele testemunho ante meu Pai.
+V. Se alguém quer me servir, que venha atrás de mim;
+e onde eu estiver, ali estará meu servo. * Darei.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos Espirituais de santa Teresa Benedita da Cruz, virgem e mártir
+{(Séc. XX)} {(Edith Stein: “Vita, Dottrina, Tesi inediti” Roma, PP. 127-130)}
+
+@tema
+Saudamo-te, Cruz santa, nossa única esperança
+
+@texto
+“Saudamo-te, Cruz santa, nossa única esperança!”, assim a Igreja nos faz dizer no tempo da paixão, dedicado à contemplação dos amargos sofrimentos de Nosso Senhor Jesus Cristo.
+O mundo está em chamas: a luta entre Cristo e o anticristo encarniçou-se abertamente, por isso, se te decides por Cristo, pode te ser pedido também o sacrifício da vida.
+Contempla o Senhor que pende do lenho diante de ti porque foi obediente até a morte de cruz. Ele veio ao mundo não para fazer a sua vontade, mas a do Pai. Se queres ser a esposa do Crucificado deves renunciar totalmente à tua vontade e não outra aspiração senão a de cumprir a vontade de Deus.
+À tua frente o Redentor pende da Cruz despojado e nu, porque escolheu a pobreza. Quem quer segui-lo deve renunciar a toda posse terrena.
+Estás diante do Senhor que pende da Cruz com o coração despedaçado; ele derramou o sangue de seu Coração para conquistar o teu coração. Para poder segui-lo em santa castidade, o teu coração deve ser livre de toda aspiração terrena; Jesus Crucificado deve ser o objeto de todo o teu anseio, de todo o teu desejo, de todo o teu pensamento.
+O mundo está em chamas: o incêndio poderia pegar também em nossa casa, mas, acima de todas as chamas, ergue-se a Cruz que não pode ser queimada. A Cruz é o caminho que conduz da terra ao céu. Quem a abraça com fé, amor, esperança é levado para o alto, até o seio da Trindade.
+O mundo está em chamas: desejas extingui-las? Contempla a Cruz – do Coração aberto jorra o sangue do Redentor, sangue capaz de extinguir também as chamas do inferno. Através da fiel observância dos votos, torna o teu coração livre e aberto; então, poderão ser despejadas nele as ondas do amor divino; sim, a ponto de fazê-lo transbordar e torná-lo fecundo até os confins da terra.
+Através do poder da Cruz, podes estar presente em todos os lugares da dor, em toda parte para onde te levar a tua compassiva caridade, aquela caridade que haures do Coração divino e que te torna capaz de espargir, por toda parte, o seu preciosíssimo sangue para aliviar, salvar, redimir.
+Os olhos do Crucificado fixam-te a interrogar-te, a interpelar-te. Queres estreitar novamente, com toda seriedade, a aliança com ele? Qual será a tua resposta? “Senhor, aonde irei? Só tu tens palavras de vida”. _Ave Crux, spes única!_
+
+@secao Responsório
+
+@responsorio
+R. Nós anunciamos Cristo crucificado,
+que para os judeus é escândalo, para os gentios é loucura;
+* Para aqueles que são chamados, tanto judeus como gregos,
+é Cristo, poder de Deus e sabedoria de Deus.
+V. O desejo do meu coração e a minha oração
+sobem a Deus pela salvação deles. * Para.
+
+@secao Oração
+
+@oracao
+Senhor Deus de nossos pais, fazei abundar em nós a sabedoria da cruz, com a qual, admiravelmente, enriquecestes santa Teresa Benedita, na hora do martírio. Concedei-nos, por sua intercessão, que constantemente vos procuremos, Suma Verdade, e guardemos fielmente, até à morte, a eterna aliança de amor, selada no sangue de vosso Filho, para a salvação de todos os homens. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

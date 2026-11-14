@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/fieisdefuntos_terca.htm
+@documento Hora Média - Comemoração de Todos os Fiéis Defuntos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que por Lázaro chorastes
+junto às irmãs, e compassivo,
+Onipotente, o devolvestes
+aos seus cuidados, redivivo.
+
+Cristo Senhor, à vossa herança,
+por vosso sangue redimida,
+concedei ver a dor da morte
+mudar-se em gozo e nova vida.
+
+Chamai os servos que partiram
+para onde a morte foi vencida.
+Um hino eterno eles vos cantem,
+Cristo Jesus, Senhor da vida.
+
+@secao Salmodia
+
+@antifona
+Voltai-vos, Senhor, para mim,
+e vinde salvar minha vida!
+
+@salmo salmos/salmo-069
+
+@gloria
+
+@salmo salmos/salmo-084
+
+@gloria
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+Voltai-vos, Senhor, para mim,
+e vinde salvar minha vida!
+
+@secao Leitura breve | Jó 19,25-26
+
+@texto
+Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; e depois que tiverem destruído esta minha pele, na minha carne verei a Deus.
+
+@texto
+V. Por que te entristeces, minh'alma, a chorar?
+R. Espera em Deus: ainda hei de louvá-lo!
+
+@secao Oração
+
+@oracao
+Ó Deus, escutai com bondade as nossas preces e aumentai a nossa fé no Cristo ressuscitado, para que seja mais viva a nossa esperança na ressurreição dos vossos filhos e filhas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

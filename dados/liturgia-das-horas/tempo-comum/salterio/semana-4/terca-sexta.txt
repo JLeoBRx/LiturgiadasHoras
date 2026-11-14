@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4terca_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@salmo salmos/salmo-118-137-144-xviii-sade
+
+@gloria
+
+@antifona
+Se compreenderdes o que vos digo,
+sereis felizes se o praticardes.
+
+@antifona 2
+Chegue a minha oração até vós, ó Senhor!
+
+@salmo salmos/salmo-087-i
+
+@gloria
+
+@antifona
+Chegue a minha oração até vós, ó Senhor!
+
+@antifona 3
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@salmo salmos/salmo-087-ii
+
+@gloria
+
+@antifona
+Clamo a vós, ó Senhor, sem cessar todo o dia,
+oh! não escondais vossa face de mim!
+
+@secao Leitura breve | Dt 30,11.14
+
+@texto
+Este mandamento que hoje te dou não é difícil demais, nem está fora do teu alcance. Ao contrário, esta palavra está bem ao teu alcance, está em tua boca e em teu coração, para que a possas cumprir.
+
+@texto
+V. Vossa palavra é uma luz para os meus passos.
+R. É uma lâmpada luzente em meu caminho.
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes a Pedro vosso plano de salvação para todos os povos, fazei que nossos trabalhos vos agradem e, pela vossa graça, sirvam ao vosso desígnio de amor e redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoantoniomzacaria.htm
+@documento Ofício das Leituras - Santo Antônio Maria Zacaria, Presbítero
+
+@celebracao
+SANTO ANTÔNIO MARIA ZACARIA, PRESBÍTERO
+
+@biografia
+Nasceu em Cremona, na Lombardia, em 1502; estudou medicina em Pádua e, recebido o sacerdócio, fundou a Congregação dos Clérigos de São Paulo, ou Barnabitas, que muito trabalhou pela reforma dos costumes dos fiéis. Morreu em 1539.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@secao Primeira leitura
+
+@leitura
+
+@tema
+V.
+
+@texto
+Ouvirás uma palavra de meus lábios. Aleluia. R. E haverás de transmitir-lhes em meu nome. Aleluia. Da Primeira Carta de São Pedro {5,1-11} _{Deveres dos pastores e dos fiéis}_ [1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel.
+V. Muitos se dizem “homens de bem”; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+De um Sermão de Santo Antônio Maria Zacaria, presbítero, a seus confrades
+{(Séc. XVI)} {(J. A. Gabutio, História Congregationis Clericorum Regularum S. Pauli, 1,8)}
+
+@tema
+Discípulo do apóstolo Paulo
+
+@texto
+_Nós somos os tolos por causa de Cristo_ (1Cor 4,10), dizia de si, dos demais apóstolos e de todos os que professam a doutrina cristã e apostólica, o nosso santo guia e santíssimo patrono. Mas isto não é para admirar ou temer, irmãos caríssimos, pois _o discípulo não está acima do mestre, nem o servo acima do seu senhor_ (Mt 10,24). Quanto aos que se opõem a nós, devemos ter compaixão e amá-los, ao invés de detestá-los e odiá-los; pois fazem mal a si mesmos e atraem o bem sobre nós; contribuem para alcançarmos a coroa da glória eterna, ao passo que, sobre si, provocam a ira de Deus. E mais ainda: devemos rezar por eles, e não nos deixarmos vencer pelo mal, mas vencer o mal pelo bem, amontoando atos de piedade como _brasas_ acesas de caridade _em cima de suas cabeças_ (cf. Rm 12,20-21), como ensina nosso apóstolo. Desta maneira, vendo a nossa paciência e mansidão, convertam-se a melhores sentimentos e se inflamem no amor de Deus.
+Apesar da nossa indignidade, Deus nos escolheu do mundo por sua misericórdia a fim de que, entregues ao seu serviço, vamos progredindo cada vez mais na virtude; e pela nossa paciência, possamos produzir abundantes frutos de caridade. Assim, alegremo-nos não apenas na esperança da glória dos filhos de Deus, mas também nas tribulações.
+_Considerai a vossa vocação_ (cf. 1Cor 1,26), caríssimos irmãos. Se quisermos examiná-la com atenção, veremos facilmente o que ela exige de nós: já que começamos a seguir, embora de longe, os passos dos apóstolos e dos outros soldados de Cristo, não recusemos também participar dos seus sofrimentos. _Empenhemo-nos com perseverança no combate que nos é proposto, com os olhos em Jesus, que em nós começa e completa a obra da fé_ (Hb 12,1-2).
+Nós que escolhemos um tão grande apóstolo como guia e pai, e fazemos profissão de imitá-lo, esforcemo-nos para que a nossa vida seja expressão da sua doutrina e do seu exemplo. Pois não seria conveniente que, sob as ordens de tão insigne chefe, fôssemos soldados covardes e desertores, ou que sejam indignos os filhos de um tão ilustre pai.
+
+@secao Responsório | Cf. At 20,21.24; Rm 1,16a
+
+@responsorio
+R. Ao dar meu testemunho de fé em Jesus Cristo,
+Senhor nosso, nada temo,
+* Nem dou tanto valor à minha própria vida,
+contanto que eu leve a bom termo minha carreira
+e o ministério da palavra que, de Cristo, recebi:
+dar testemunho do Evangelho da graça do Senhor.
+V. Não me envergonho do Evangelho;
+pois é o poder de Deus para salvar todo o que crê,
+primeiro, o judeu e depois, também o grego.* Nem dou.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, aquele incomparável conhecimento de Jesus Cristo que destes ao apóstolo São Paulo, e que inspirou Santo Antônio Maria Zacaria, ao anunciar constantemente em vossa Igreja a palavra da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

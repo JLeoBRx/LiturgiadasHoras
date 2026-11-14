@@ -1,0 +1,120 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojoaocrisostomo.htm
+@documento Ofício das Leituras - São João Crisóstomo, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SÃO JOÃO CRISÓSTOMO, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Antioquia, cerca do ano 349. Depois de ter recebido uma excelente educação, dedicou-se à vida ascética; e, tendo sido ordenado sacerdote, consagrou-se com grande fruto ao ministério da pregação. Eleito bispo de Constantinopla no ano 397, revelou grande zelo e competência nesse cargo pastoral, atendendo em particular à reforma dos costumes, tanto do clero como dos fiéis. A oposição da corte imperial e de outros inimigos pessoais levou-o por duas vezes ao exílio. Perseguido por tantas tribulações, morreu em Comana (Ponto, Ásia Menor) no dia 14 de setembro do ano 407. A sua notável diligência e competência na arte de falar e escrever, para expor a doutrina católica e formar os fiéis na vida cristã, mereceu-lhe o apelativo de Crisóstomo, “boca de ouro”.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No **mei**o da assem**bléi**a fa**lou** palavras **sá**bias.
+* Deus o en**cheu** com seu Es**pí**rito de sa**ber** e inteli**gên**cia.
+V. Guardou te**sou**ros para **e**le de ale**gri**a e de **jú**bilo.
+* Deus o en**cheu**.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São João Crisóstomo, bispo
+{(Séc. IV)} {(Ante exsilium, nn. 1-3: PG 52,427*-430)}
+
+@tema
+Para mim, viver é Cristo e morrer é lucro
+
+@texto
+Sobrevêm muitas ondas e fortes tempestades, mas não tememos afogar, pois estamos firmados sobre a pedra. Enfureça-se o mar, não tem forças para destruir a pedra. Ergam-se as vagas, não podem submergir o navio de Cristo. Pergunto eu: que temeremos? A morte? _Para mim, viver é Cristo, e morrer é lucro_ (Fl 1,21). O exílio talvez, dizes-me? _Do Senhor é a terra e tudo quanto contém_ (Sl 23,1). A confiscação dos bens? _Nada trouxemos para o mundo e, é certo, nada daqui poderemos levar_ (1Tm 6,7); os pavores deste mundo são desprezíveis, e seus bens, merecedores de riso. Não tenho medo da pobreza, não ambiciono riquezas; não temo a morte, nem prefiro viver a não ser para vosso proveito. Por isto recordo os acontecimentos atuais e rogo à vossa caridade que tenhais confiança.
+Não escutas o Senhor dizer: _Onde dois ou três estiverem reunidos em meu nome, estarei ali no meio deles?_ (Mt 18,20). E onde há tanta gente ligada pelos laços da caridade, não estará ele presente? Tenho seu penhor. Será que confio em minhas próprias forças? Seguro seu testamento. Este é o meu bordão, a minha segurança, o meu porto tranquilo. Abale-se embora o universo, tenho sua resposta, leio os seus escritos: aí está a muralha para mim, a fortaleza. Que escritos? _Eu estou convosco todos os dias até a consumação do mundo_ (Mt 28,20).
+Cristo está comigo, a quem temerei? Mesmo que as ondas, os mares, o furor dos príncipes se agitem contra mim, tudo isto não me impressiona mais do que uma aranha. E se vossa caridade não me retivesse, não recusaria partir ainda hoje mesmo para outro lugar. Repito sempre: _Senhor, faça-se a tua vontade_ (Mt 26,42); não o que quer este ou aquele, mas o que tu queres. Esta é a minha torre, minha pedra imóvel; este, o meu báculo firme. Se Deus quer isto, faça-se. Se quiser que permaneça aqui, agradecerei. Onde quer que me queira, darei graças.
+E onde estou eu, aí estais vós; onde estais, aí eu também: somos um só corpo e não se separa o corpo da cabeça nem a cabeça do corpo. Estamos em lugares distantes, mas unidos na caridade, que nem a morte poderá separar. Porque, embora morra meu corpo, viverá a alma que se lembrará do povo.
+Vós sois meus cidadãos, vós, meus pais, vós, meus irmãos, vós, filhos, vós, membros, vós, corpo. Para mim sois a luz, ou melhor, mais deliciosos que esta luz. O que poderá enviar-me um raio igual à vossa caridade? O raio de sol para mim é vida, porém vossa caridade tece-me a coroa para o futuro.
+
+@secao Responsório | 2Tm 2,9-10a; Sl 26(27),1a
+
+@responsorio
+R. Pelo Evangelho estou sofrendo até algemas como se eu fosse malfeitor; contudo, a palavra do Senhor não se deixa algemar;
+* Este é o motivo por que eu suporto tudo, por causa dos eleitos.
+V. O Senhor é minha luz e salvação; de quem eu terei medo? * Este é.
+
+@secao Oração
+
+@oracao
+Ó Deus, força dos que em vós esperam, que fizestes brilhar na vossa Igreja o bispo São João Crisóstomo por admirável eloquência e grande coragem nas provações, dai-nos seguir os seus ensinamentos, e robustecer-nos com sua invencível fortaleza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

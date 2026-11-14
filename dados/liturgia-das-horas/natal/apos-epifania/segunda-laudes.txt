@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/segunda_aposepifania_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Elevai o olhar aos céus
+vós que a Cristo procurais.
+E da sua eterna glória
+podereis ver os sinais.
+
+Essa estrela vence o sol
+em fulgor e em beleza,
+e nos diz ter vindo à terra
+Deus, em nossa natureza.
+
+Da região do mundo persa,
+onde o sol tem seu portal,
+sábios Magos reconhecem
+do Rei novo o sinal.
+
+Quem será tão grande Rei,
+a quem astros obedecem,
+a quem servem luz e céus
+e suas forças estremecem?
+
+Percebemos algo novo,
+imortal, superior,
+que domina céus e caos
+e lhes é anterior.
+
+Rei do povo de Israel,
+este é o Rei das gentes,
+prometido a Abraão
+e à sua raça eternamente.
+
+Ó Jesus, louvor a vós
+que às nações vos revelais.
+Glória ao Pai e ao Espírito
+pelos tempos eternais.
+
+@secao Salmodia
+
+@antifona 1
+Quando terei a alegria de ver vossa face, Senhor?
+
+@salmo salmos/salmo-041
+
+@gloria
+
+@antifona
+Quando terei a alegria de ver vossa face, Senhor?
+
+@antifona 2
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@salmo canticos/eclo-36-1-7-13-16
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, vossa luz, vosso perdão!
+
+@antifona 3
+Sede bendito, Senhor, no mais alto dos céus.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Sede bendito, Senhor, no mais alto dos céus.
+
+@secao Leitura breve | Is 9,5
+
+@texto
+Nasceu para nós um menino, foi-nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.
+
+@secao Responsório breve
+
+@responsorio
+R. Os reis de toda a terra.
+* Hão de adorá-lo. R. Os reis.
+V. E todas as nações hão de servi-lo.
+* Hão de adorá-lo. Glória ao Pai. R. Os reis.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Os Magos do Oriente vieram a Belém
+adorar Nosso Senhor;
+e abrindo seus tesouros,
+oferecem seus presentes preciosos a Jesus;
+o ouro ao grande Rei, o incenso ao sumo Deus
+e a mirra ao ser humano para a sua sepultura.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Os Magos do Oriente vieram a Belém
+adorar Nosso Senhor;
+e abrindo seus tesouros,
+oferecem seus presentes preciosos a Jesus;
+o ouro ao grande Rei, o incenso ao sumo Deus
+e a mirra ao ser humano para a sua sepultura.
+
+@secao Preces
+
+@preces
+Aclamemos com alegria a Cristo nosso Senhor por quem Deus fez conhecer a sua salvação até os confins da terra; e o louvemos dizendo:
+
+R. **Glória a vós, Cristo Senhor!**
+
+Redentor de todos, por vossa vinda derrubastes o muro de separação entre judeus e pagãos,
+– fazei desaparecer do mundo as discriminações que ofendem a dignidade humana. R.
+
+Filho Unigênito de Deus, que por vossa encarnação e nascimento quisestes habitar entre nós,
+– ensinai-nos a reconhecer vossa multiforme presença na Igreja e no mundo. R.
+
+Imagem do Deus invisível, que viestes nos revelar o pleno conhecimento do Pai,
+– ajudai-nos a caminhar de acordo com a vossa palavra, cheios de fé e santidade de vida. R.
+
+Emanuel, que maravilhosamente renovastes toda a criação,
+– concedei que em nós tudo também se renove: coração, palavras e atos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o esplendor da vossa glória ilumine os nossos corações, para que, passando pelas trevas deste mundo, cheguemos à pátria da luz que não se extingue. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,166 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_laudes.htm
+@documento Laudes - Domingo de Pentecostes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Na órbita do ano,
+de fogo a flor viceja,
+o Espírito Paráclito
+descendo sobre a Igreja.
+
+Da língua a forma assumem
+as chamas eloquentes:
+Na fala sejam prontos,
+na caridade, ardentes.
+
+Já todos falam línguas
+de todas as nações,
+que embriaguez presumem
+as santas efusões.
+
+Tais coisas sucederam
+após a Páscoa santa:
+Não mais a do temor,
+a lei do amor se implanta.
+
+E agora, Deus piedoso,
+vos pedimos inclinados,
+os dons do vosso Espírito
+na terra derramados.
+
+Enchei os corações
+da graça que redime.
+Senhor, dai-nos a paz,
+perdoai o nosso crime.
+
+Louvor ao Pai e ao Filho,
+e ao Espírito também:
+Que o Filho envie o dom
+do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Como é bom e suave, Senhor,
+vosso Espírito em nós, aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Como é bom e suave, Senhor,
+vosso Espírito em nós, aleluia.
+
+@antifona 2
+Vós, fontes e tudo o que n'água se move,
+louvai o Senhor, cantai hinos a Deus. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Vós, fontes e tudo o que n'água se move,
+louvai o Senhor, cantai hinos a Deus. Aleluia.
+
+@antifona 3
+Em várias línguas proclamavam os Apóstolos
+as maravilhas que o Senhor realizou. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Em várias línguas proclamavam os Apóstolos
+as maravilhas que o Senhor realizou. Aleluia.
+
+@secao Leitura breve | At 5,30-32
+
+@texto
+O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem.
+
+@secao Responsório breve
+
+@responsorio
+R. Ficaram cheios todos eles do Espírito de Deus.
+* Aleluia, aleluia. R. Ficaram.
+V. Começaram a falar em línguas diferentes. * Aleluia.
+Glória ao Pai. R. Ficaram.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Recebei o Espírito Santo:
+a quem perdoais os pecados,
+os pecados estão perdoados. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Recebei o Espírito Santo:
+a quem perdoais os pecados,
+os pecados estão perdoados. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a nosso Senhor Jesus Cristo, que pelo Espírito Santo nos reuniu na sua Igreja; e digamos com fé:
+
+R. **Enviai, Senhor, o vosso Espírito, e renovai a face da terra!**
+
+Senhor Jesus, que suspenso no madeiro da cruz deixastes correr de vosso lado aberto uma fonte de água viva,
+– enviai-nos o Espírito que dá a vida. R.
+
+Vós, que do céu fizestes descer sobre os discípulos o Dom do Pai,
+– enviai o vosso Espírito para renovar o mundo. R.
+
+Vós, que destes aos apóstolos o poder de perdoar pecados,
+– enviai o vosso Espírito para ressuscitar e salvar toda a humanidade. R.
+
+Vós, que prometestes o Espírito Santo para nos ensinar todas as coisas e recordar tudo o que nos dissestes,
+– enviai-nos o mesmo Espírito para que ilumine a nossa fé. R.
+
+Vós, que prometestes o Espírito da verdade para nos dar testemunho de vós,
+– enviai-nos o mesmo Espírito, para que faça de nós testemunhas fiéis da vossa verdade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, quisestes que o mistério pascal se completasse durante cinquenta dias, até à vinda do Espírito Santo. Fazei que todas as nações dispersas pela terra, na diversidade de suas línguas, se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

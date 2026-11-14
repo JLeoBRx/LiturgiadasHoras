@@ -1,0 +1,85 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/20sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {37,21-35}
+
+@tema
+Oráculo de Isaías contra o rei da Assíria
+
+@texto
+[21] Isaías, filho de Amós, mandou dizer a Ezequias: "Isto diz o Senhor, Deus de Israel: Quanto à súplica que me fizeste sobre assuntos relacionados com Senaquerib, rei dos assírios, [22] esta é a resposta que sobre ele deu o Senhor: Desprezou-te, zombou de ti a filha de Sião; a cidade de Jerusalém sacudiu a cabeça por trás de ti. [23] E tu, ó rei, a quem censuraste e ultrajaste? E contra quem levantaste a voz e em quem puseste os olhos do alto de tua soberba? Não foi contra o Santo de Israel?
+
+@texto
+[24] Por meio dos teus servos desafiaste o Senhor e disseste: "Com a multidão dos meus carros passei por cima dos montes e das alturas do Líbano; cortei a copa dos seus cedros e de seus mais belos abetos, penetrei em suas partes altas e no coração da mata. [25] Cavei em terra estrangeira para beber água e com a marca do meu pé fiz secar todos os rios do Egito". [26] Acaso, ó rei, não ouviste dizer? Eu há tempos fiz tudo isso, decidi outrora o que agora executo: o extermínio das cidades fortificadas, até se reduzirem a montões de pedras. [27] Os seus habitantes, reduzidos a grupos, tremiam de medo e confusão; ficaram como capim do mato, como a grama nova ou a nascida nos tetos, que seca ao soprar o vento sul.
+
+@texto
+[28] Eu sei quando estás em casa, quando sais e quando entras, conheço tuas atitudes contra mim. [29] Quando te irritares contra mim e a voz da tua soberba chegar aos meus ouvidos, porei uma argola em teu nariz e um freio nos teus lábios, e te farei voltar pelo caminho por onde vieste.
+
+@texto
+[30] Quanto a ti, Israel, segue esta indicação: Este ano, será alimento o que for colhido, no ano seguinte, só o que for nascido espontaneamente, e no terceiro ano, deveis semear e colher, plantar vinhas e consumir os frutos. [31] O que for salvo da casa de Judá, o que restar, criará raiz no solo e dará frutos nos ramos. [32] De Jerusalém sairá o último resto e do monte Sião, o grupo dos salvos. O desvelo do Senhor dos exércitos o realizará.
+
+@texto
+[33] Eis agora o que diz o Senhor do rei dos assírios: Ele não invadirá esta cidade, não desfechará um tiro de flecha, não encostará nela o escudo, não porá contra ela sua máquina de guerra. [34] Ele voltará pelo caminho por onde veio, e não entrará nesta cidade, diz o Senhor. [35] Hei de protegê-la e salvá-la, prometo por mim e pelo meu servo Davi".
+
+@secao Responsório | Is 52,9b-10
+
+@responsorio
+R. O Senhor compadeceu-se de seu povo
+e redimiu Jerusalém.
+* Os confins de toda a terra hão de ver
+a salvação de nosso Deus.
+V. O Senhor manifestou seu santo braço,
+ante os olhos das nações. * Os confins.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os salmos, de Santo Ambrósio, bispo
+{(Séc. IV)} {(Ps 48,14-15: CSEL 64,368-370)}
+
+@tema
+Cristo por seu sangue reconciliou o mundo com Deus
+
+@texto
+Se Cristo reconciliou o mundo com Deus, então não necessitava ele de reconciliação. Por qual pecado seu expiaria, se não conheceu pecado algum? E ainda, ao pedirem os judeus a didracma que, pela lei, se dava pelo pecado, disse a Pedro: _Simão, de quem os reis da terra recebem tributos ou impostos, de seus filhos ou dos estranhos? Respondeu Pedro: Dos estranhos, e o Senhor: Logo, os filhos estão livres. Mas para não lhes causarem embaraço, lança o anzol e tira o primeiro peixe que apanhar, abre-lhe a boca e encontrarás um estáter; toma-o e paga-o por mim e por ti_ (Mt 17,25-27).
+
+@texto
+Demonstrou, assim, não ser obrigado à expiação de pecados; não era servo do pecado, mas livre de todo erro o Filho de Deus. O filho liberta, o servo é réu. Logo, livre de tudo, não tem ele de dar o preço de redenção de sua alma; o preço de seu sangue pode derramar-se pelo universo para redimir o pecado de todos. Com justiça liberta a outros, quem nada deve por si.
+
+@texto
+Digo mais. Não apenas Cristo não tem preço a pagar por sua redenção ou expiação pelo pecado, mas, a respeito de qualquer homem, pode-se entender não deva cada um pagar o próprio resgate. Porque a expiação de todos é Cristo, é a redenção do universo.
+
+@texto
+De que homem será o sangue capaz de alcançar sua redenção, se pela redenção de todos Cristo já derramou seu sangue? Haverá sangue comparável ao sangue de Cristo? ou que homem tão poderoso que possa dar algo pela própria expiação, de maior valor do que a expiação que Cristo ofereceu em si mesmo, ele, o único a reconciliar por seu sangue o mundo com Deus? Que maior hóstia, que sacrifício mais excelente, que melhor advogado do que aquele que pelo pecado de todos se fez súplica e entregou a vida como redenção por nós?
+
+@texto
+Não se cogita da expiação ou redenção de cada um, porque o preço de todos é o sangue de Cristo, com o qual o Senhor Jesus nos redimiu e só ele nos reconciliou com o Pai, e trabalhou até o fim, pois assumiu nossas tarefas ao dizer: _Vinde a mim, todos vós que lutais, e eu vos aliviarei_ (Mt 11,28).
+
+@secao Responsório | Cf. Cl 1,21-22; Rm 3,25a
+
+@responsorio
+R. Vós éreis estrangeiros e inimigos
+pelos vossos pensamentos e más obras;
+mas, agora, Deus vos reconciliou,
+pela morte corporal de Jesus Cristo.
+* E podeis apresentar-vos diante dele,
+como santos e sem manchas e sem culpas.
+V. Deus destinou que Cristo fosse, por seu sangue,
+a vítima de propiciação
+pela fé que colocamos nele mesmo. * E podeis.
+
+@secao Oração
+
+@oracao
+Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

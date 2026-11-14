@@ -1,0 +1,21 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/fieisdefuntos_old.htm
+
+@secao Antífona da entrada | 1Ts 4,14; 1Cor 15,22
+@texto
+Como Jesus morreu e ressuscitou, Deus ressuscitará os que nele morreram. E, como todos morrem em Adão, todos em Cristo terão a vida.
+
+@secao Coleta
+@texto
+Ó Deus, escutai com bondade as nossas preces e aumentai a nossa fé em Cristo ressuscitado, para que sejam mais via a nossa esperança na ressurreição dos vossos filhos e filhas. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, ó Deus, as nossas oferendas por nossos irmãos e irmãs que partiram, para que sejam introduzidos na glória com Cristo, que une os mortos e os vivos no seu mistério de amor. Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 11,25s
+@texto
+Eu sou a ressurreição e a vida, diz o Senhor. Aquele que crê em mim, ainda que tenha morrido, viverá; e todo aquele que vive e crê em mim não morrerá para sempre.
+
+@secao Depois da comunhão
+@texto
+Fazei, ó Pai, que os vossos filhos e filhas, pelos quais celebramos este sacramento pascal, cheguem à luz e à paz da vossa casa. Por Cristo, nosso Senhor.

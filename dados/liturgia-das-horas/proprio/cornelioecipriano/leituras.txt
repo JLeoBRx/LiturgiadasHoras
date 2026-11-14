@@ -1,0 +1,131 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/cornelioecipriano.htm
+@documento Ofício das Leituras - São Cornélio, Papa, E São Cipriano, Bispo, Mártires Memória
+
+@celebracao
+SÃO CORNÉLIO, PAPA, E SÃO CIPRIANO, BISPO, MÁRTIRES
+{Memória}
+
+@biografia
+Cornélio foi ordenado bispo da Igreja de Roma no ano 251. Teve de combater o cisma dos Novacianos e, com a ajuda de São Cipriano, conseguiu consolidar a sua autoridade. Foi desterrado pelo imperador Galo e morreu no exílio, perto de Civitavecchia, no ano 253. O seu corpo foi trasladado para Roma e sepultado no cemitério de Calisto. Cipriano nasceu em Cartago cerca do ano 210, de uma família pagã. Tendo-se convertido à fé e, ordenado sacerdote, foi eleito bispo daquela cidade no ano 249. Em tempos muito difíceis, governou sabiamente, com suas obras e escritos, a Igreja que lhe foi confiada. Na perseguição de Valeriano, sofreu primeiramente o exílio, e depois o martírio no dia 14 de setembro do ano 258.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente,
+e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra:
+recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; com pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Pode-se optar por uma das leituras seguintes: Das Cartas de São Cipriano, bispo e mártir
+{(Séc.III)} {(Epist. 60,1-2.5:CSEL3,691-692.694-695)}
+
+@tema
+Fé generosa e firme
+
+@texto
+Cipriano a Cornélio, seu irmão. Tive notícias, irmão caríssimo, dos gloriosos testemunhos de vossa fé e fortaleza. Recebemos com tanta exultação a honra de vossa confissão que também nos julgamos participantes e companheiros de vossos merecidos louvores. Pois se em nós e na Igreja só há um modo de pensar e indivisa concórdia, qual o sacerdote que não se rejubilaria como próprios com os louvores dados a seu irmão no sacerdócio? Ou que fraternidade não se alegraria com o júbilo de todos os irmãos? Impossível expressar como foi grande esta exultação e alegria, quando fui informado de vossas vitórias e atos de coragem. Nisto foste o primeiro, durante o interrogatório dos irmãos. O testemunho do chefe ainda foi acrescido pela confissão dos irmãos. Enquanto vais à frente na glória, fazes muitos companheiros nesta glória e estimulas o povo a dar testemunho por estares preparado, primeiro que todos, a confessar em nome de todos. Não sabemos o que primeiro elogiar em vós: se vossa fé decidida e estável, se o indefectível amor fraterno. Aí se provou de público a virtude do bispo indo à frente, e se revelou a união da fraternidade que o seguia. Já que em vós só há um coração e uma só voz, foi toda a Igreja Romana que testemunhou. Tornou-se evidente, irmão caríssimo, a fé que o Apóstolo já tinha louvado em vós. Já então ele previa a virtude louvável e a firmeza da coragem, atestando com isso vossos méritos futuros. O elogio aos pais era estímulo aos filhos. Por serdes assim unânimes, assim fortes, destes exemplo de unanimidade e de fortaleza aos outros irmãos. Sinais da providência do Senhor nos avisam, e palavras salutares da divina misericórdia nos advertem de que já se aproxima o dia de nossa grande luta. Por isto, como podemos irmão caríssimo, pela mútua caridade que nos une, nós vos exortamos a não esmorecer. Nos jejuns, nas vigílias e orações com todo o povo. São estas armas celestes que fazem ficar de pé e perseverar com denodo; são estas as defesas espirituais, as lanças, que protegem. Lembremo-nos um do outro, concordes e unânimes, mutuamente oremos sempre por nós, suavizando as tribulações e angústias pela caridade recíproca. {Ou}
+Das Atas Proconsulares sobre o martírio de São Cipriano, bispo {(Séc. III)} {_Em causa tão justa, não há que discutir_} No dia décimo oitavo das calendas de outubro pela manhã, grande multidão se reuniu no campo de Sexto, conforme a determinação do procônsul Galério Máximo. Este, presidindo no átrio Saucíolo, no mesmo dia ordenou que lhe trouxessem Cipriano. Chegado este, o procônsul interrogou-o: “És tu Táscio Cipriano?” O bispo Cipriano respondeu: “Sou”. O procônsul Galério Máximo: “Tu te apresentaste aos homens como papa do sacrílego intento?” Respondeu o bispo Cipriano: “Sim”. O procônsul Galério Máximo disse: “Os augustíssimos imperadores te ordenaram que te sujeites às cerimônias”. Cipriano respondeu: “Não faço”. Galério Máximo disse: “Pensa bem!” O bispo Cipriano respondeu: “Cumpre o que te foi mandado; em causa tão justa, não há que discutir”. Galério Máximo deliberou com o seu conselho e, com muita dificuldade, pronunciou a sentença, com estas palavras: “Viveste por muito tempo nesta sacrílega ideia e agregaste muitos homens nesta ímpia conspiração. Tu te fizeste inimigo dos deuses romanos e das sacras religiões, e nem os piedosos e sagrados augustos príncipes Valeriano e Galieno, nem Valeriano, o nobilíssimo César, puderam te reconduzir à prática de seus ritos religiosos. Por esta razão, por seres acusado de autor e guia de crimes execráveis, tu te tornarás uma advertência para aqueles que agregaste a ti em teu crime: com teu sangue ficará salva a disciplina”. Dito isto, leu a sentença: “Apraz que Táscio Cipriano seja degolado à espada”. O bispo Cipriano respondeu: “Graças a Deus”! Após a sentença, o grupo dos irmãos dizia: “Sejamos também nós degolados com ele”. Por isto houve tumulto entre os irmãos e grande multidão o acompanhou. E assim Cipriano foi conduzido ao campo de Sexto. Ali tirou o manto e o capuz, dobrou os joelhos e prostrou-se em oração ao Senhor. Retirou depois a dalmática, entregando-a aos diáconos e ficou de alva de linho e aguardou o carrasco, a quem, quando chegou, mandou que os seus lhe dessem vinte e cinco moedas de ouro. Os irmãos estenderam diante de Cipriano pano de linho e toalha. O bem-aventurado quis vedar os olhos com as próprias mãos. Não conseguindo amarrar as pontas, o presbítero Juliano e o subdiácono Juliano o fizeram. Deste modo morreu o bem-aventurado Cipriano. Seu corpo, por causa da curiosidade dos pagãos, foi colocado ali perto, de onde, à noite, foi retirado e, com círios e tochas, hinos e em grande triunfo, levado ao cemitério de Macróbio Candidiano, administrador, existente na via Mapaliense, junto das piscinas. Poucos dias depois, morreu o procônsul Galério Máximo. O mártir santíssimo Cipriano foi morto, no dia décimo oitavo das calendas de outubro, sob Valeriano e Galieno imperadores, reinando, porém, nosso Senhor Jesus Cristo, a quem a honra e a glória pelos séculos dos séculos. Amém.
+
+@secao Responsório
+
+@responsorio
+R. Ao lutarmos pela fé, Deus nos vê, os anjos olham e o Cristo nos contempla.
+* Quanta honra e alegria combater, vendo-nos Deus, e a coroa receber do Juiz, que é Jesus Cristo.
+V. Concentremos nossas forças, para a luta preparemo-nos com a mente pura e forte, doação, fé e coragem. * Quanta honra.
+
+@secao Oração
+
+@oracao
+Ó Deus, que em São Cornélio e São Cipriano destes ao vosso povo pastores dedicados e mártires invencíveis, fortificai, por suas preces, nossa fé e coragem, para que possamos trabalhar incansavelmente pela unidade da Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

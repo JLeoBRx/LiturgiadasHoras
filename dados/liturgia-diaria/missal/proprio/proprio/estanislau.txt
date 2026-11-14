@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/estanislau.htm
+
+@secao Antífona da entrada | Cf. 4Esd 2,35 (Vulg.)
+@texto
+A luz eterna brilhará para os vossos santos, Senhor,
+e eles viverão pelos séculos sem fim, aleluia.
+Ou:
+Este é o homem que Deus não abandonou
+no dia do combate;
+logo será coroado, porque venceu,
+seguindo fielmente os mandamentos do Senhor, aleluia.
+
+@secao Coleta
+@texto
+Ó Deus, em cuja honra
+o bispo Santo Estanislau
+tombou sob a espada dos perseguidores,
+concedei-nos perseverar firmes na fé até a morte.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, o sacrifício de reconciliação e louvor
+que vos oferecemos na comemoração do santo mártir Santo Estanislau,
+para que nos obtenha o perdão
+e nos faça viver em contínua ação de graças.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 12,24
+@texto
+Se o grão de trigo que cai na terra não morre,
+ele continua só um grão de trigo;
+mas se morre, então produz muito fruto, aleluia.
+Ou:{Cf. Sl 115,15}
+É sentida por demais pelo Senhor
+a morte dos seus santos, seus amigos, aleluia.
+
+@secao Depois da comunhão
+@texto
+Recebemos, ó Deus, os dons celestes,
+alegrando-nos pela festa de hoje.
+Assim como anunciamos nesta Eucaristia
+a morte do vosso Filho,
+possamos participar, com os santos mártires,
+de sua ressurreição e de sua glória.
+Por Cristo, nosso Senhor.

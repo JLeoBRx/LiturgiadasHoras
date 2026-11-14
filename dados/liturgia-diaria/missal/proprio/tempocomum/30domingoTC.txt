@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/30domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 104,3-4
+@texto
+Exulte o coração que busca a Deus!
+Procurai o Senhor Deus e seu poder,
+buscai constantemente a sua face.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+aumentai em nós a fé, a esperança e a caridade
+e, para merecermos alcançar o que prometeis,
+fazei-nos amar o que ordenais.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Olhai benigno, nós vos pedimos, Senhor,
+os dons que vos apresentamos,
+e nossa celebração seja, antes de tudo,
+para a vossa glória.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 19,6
+@texto
+Nós nos alegraremos na vossa salvação
+e no nome do nosso Deus exultaremos.
+
+@secao Depois da comunhão
+@texto
+Os vossos sacramentos, Senhor,
+realizem o que significam,
+a fim de que um dia possamos entrar
+em plena posse do mistério
+que agora em ritos celebramos.
+Por Cristo, nosso Senhor.

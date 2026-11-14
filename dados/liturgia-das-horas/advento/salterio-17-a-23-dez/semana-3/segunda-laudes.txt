@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3segunda_laudes.htm
+@documento Laudes - III Segunda-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@salmo salmos/salmo-083
+
+@gloria
+
+@antifona
+Eis que vem o Senhor, Rei dos reis do universo.
+Feliz quem está pronto para ir-lhe ao encontro!
+
+@antifona 2
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra.
+
+@salmo canticos/is-2-2-5
+
+@gloria
+
+@antifona
+Cantai ao Senhor Deus um canto novo,
+louvor a Ele dos confins de toda a terra.
+
+@antifona 3
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?
+
+@salmo salmos/salmo-095
+
+@gloria
+
+@antifona
+Quando o Filho do homem vier,
+encontrará ainda fé sobre a terra?

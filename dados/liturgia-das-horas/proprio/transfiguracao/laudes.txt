@@ -1,0 +1,168 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/transfiguracao_laudes.htm
+@documento Laudes - Transfiguração do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Jesus, suave lembrança,
+nome mais doce que o mel,
+dais a perfeita alegria
+ao coração do fiel.
+
+Nada mais terno se canta,
+nem pode ouvir-se nos céus,
+nada mais doce se pensa
+do que Jesus, Homem-Deus.
+
+Jesus, doçura das mentes,
+do coração claridade,
+vós superais todo anseio,
+fonte de eterna verdade.
+
+Ao visitardes os seres,
+neles reluz a verdade,
+do mundo o brilho se apaga
+e o amor ardente os invade.
+
+Dai-nos perdão generoso,
+conforme inspira o amor.
+Dai-nos em vossa presença
+ver vossa glória, Senhor.
+
+Louvor ao Filho dileto,
+do Pai eterno esplendor,
+que pelo laço do Espírito
+vive na glória do Amor.
+
+@secao Salmodia
+
+@antifona 1
+Neste dia, Jesus Cristo sobre o monte
+brilhou em sua face como o sol,
+e suas vestes eram brancas como a neve.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Neste dia, Jesus Cristo sobre o monte
+brilhou em sua face como o sol,
+e suas vestes eram brancas como a neve.
+
+@antifona 2
+Hoje o Senhor transfigurou-se,
+hoje ouviu-se a voz do Pai,
+que dele dava testemunho.
+Elias e Moisés, entre luzes fulgurantes,
+conversavam com Jesus sobre o fim que o esperava.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Hoje o Senhor transfigurou-se,
+hoje ouviu-se a voz do Pai,
+que dele dava testemunho.
+Elias e Moisés, entre luzes fulgurantes,
+conversavam com Jesus sobre o fim que o esperava.
+
+@antifona 3
+A lei foi-nos dada por Moisés,
+por Elias foi-nos dada a profecia;
+hoje ambos foram vistos gloriosos
+sobre o monte conversando com Jesus.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A lei foi-nos dada por Moisés,
+por Elias foi-nos dada a profecia;
+hoje ambos foram vistos gloriosos
+sobre o monte conversando com Jesus.
+
+@secao Leitura breve | Ap 21,10.23
+
+@texto
+O anjo levou-me em espírito a uma montanha grande e alta. Mostrou-me a cidade santa, Jerusalém, descendo do céu, de junto de Deus. A cidade não precisa de sol, nem de lua que a iluminem, pois a glória de Deus é a sua luz e a sua lâmpada é o Cordeiro.
+
+@secao Responsório breve
+
+@responsorio
+R. Coroastes Jesus de glória e esplendor.
+* Aleluia, aleluia. R. Coroastes.
+V. A seus pés colocastes, Senhor, vossas obras. * Aleluia.
+Glória ao Pai. R. Coroastes.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Uma voz do céu ressoa: Eis meu Filho muito amado,
+nele está meu bem-querer, escutai-o, homens todos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Uma voz do céu ressoa: Eis meu Filho muito amado,
+nele está meu bem-querer, escutai-o, homens todos.
+
+@secao Preces
+
+@preces
+Oremos ao nosso Salvador, que maravilhosamente se transfigurou no monte diante de seus discípulos; e peçamos cheios de confiança:
+
+R. **Na vossa luz, Senhor, vejamos a luz!**
+
+Pai clementíssimo, que transfigurastes vosso amado Filho no monte e vos manifestastes no meio da nuvem luminosa,
+– fazei-nos ouvir fielmente a palavra de Cristo. R.
+
+Senhor Deus, que saciais os vossos eleitos com a abundância da vossa casa e lhes dais a beber da torrente do vosso amor,
+– concedei-nos encontrar no corpo de Cristo a fonte de nossa vida. R.
+
+Senhor Deus, que fizestes resplandecer a luz no meio das trevas e iluminastes os corações para contemplar a vossa claridade no rosto de Jesus Cristo,
+– tornai conhecida à humanidade inteira a vida imortal, por meio da pregação do Evangelho. R.
+
+Pai de bondade, que no vosso infinito amor nos destes a graça de nos chamarmos e sermos realmente filhos de Deus,
+– concedei que sejamos semelhantes a Cristo quando ele vier na sua glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que na gloriosa Transfiguração de vosso Filho confirmastes os mistérios da fé pelo testemunho de Moisés e Elias, e manifestastes de modo admirável a nossa glória de filhos adotivos, concedei aos vossos servos e servas ouvir a voz do vosso Filho amado, e compartilhar da sua herança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

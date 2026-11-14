@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santissimatrindade_laudes.htm
+@documento Laudes - Santíssima Trindade
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Trindade, num sólio supremo
+que brilhais, num intenso fulgor.
+Glória a vós, que o profundo dos seres
+possuís e habitais pelo amor.
+
+Ó Deus Pai, Criador do Universo,
+sois a força que a todos dá vida;
+aos que dela fizestes consortes,
+dai a fé, que sustenta na lida.
+
+Esplendor e espelho da luz
+sois, ó Filho, que irmãos nos chamais;
+dai-nos ser ramos verdes e vivos
+da fecunda videira do Pai.
+
+Piedade e amor, fogo ardente,
+branda luz, poderoso clarão,
+renovai nossa mente, ó Espírito,
+e aquecei o fiel coração.
+
+Ó Trindade feliz, doce hóspede,
+atendei nossa humilde oração:
+atraí-nos a vós, saciai-nos
+com a glória da vossa visão.
+
+@secao Salmodia
+
+@antifona 1
+A vós honra e domínio, a vós glória e poder,
+a vós júbilo e louvor pelos séculos sem fim:
+Ó Santíssima Trindade!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A vós honra e domínio, a vós glória e poder,
+a vós júbilo e louvor pelos séculos sem fim:
+Ó Santíssima Trindade!
+
+@antifona 2
+Com justiça vos louva, adora e bendiz
+todo ser que criastes, Trindade Feliz!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Com justiça vos louva, adora e bendiz
+todo ser que criastes, Trindade Feliz!
+
+@antifona 3
+Dele vem todo ser, tudo existe por ele,
+todo ser está nele: Glória eterna ao Senhor!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Dele vem todo ser, tudo existe por ele,
+todo ser está nele: Glória eterna ao Senhor!
+
+@secao Leitura breve | 1Cor 12,4-6
+
+@texto
+Há diversidade de dons, mas um mesmo é o Espírito. Há diversidade de ministérios, mas um mesmo é o Senhor. Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós glória e louvor,
+* Ó Trindade feliz! R. A vós.
+V. Seja a vós gratidão, por todos os séculos. * Ó Trindade.
+Glória ao Pai. R. A vós glória.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sede bendita, ó Trindade indivisível,
+agora e sempre e eternamente pelos séculos,
+vós que criais e governais todas as coisas.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sede bendita, ó Trindade indivisível,
+agora e sempre e eternamente pelos séculos,
+vós que criais e governais todas as coisas.
+
+@secao Preces
+
+@preces
+Adoremos e glorifiquemos jubilosamente o Pai, o Filho e o Espírito Santo; e digamos:
+
+R. **Glória ao Pai e ao Filho e ao Espírito Santo!**
+
+Pai santo, concedei-nos o vosso Espírito Santo, porque não sabemos rezar como convém,
+– para que ele venha em auxílio da nossa fraqueza e reze em nós como vos agrada. R.
+
+Filho de Deus, que pedistes ao Pai para enviar o Espírito Consolador à vossa Igreja,
+– fazei que este Espírito de verdade permaneça conosco para sempre. R.
+
+Vinde, Espírito Santo, e concedei-nos vossos frutos: caridade, alegria, paz, paciência, benignidade, bondade,
+– e também lealdade, mansidão, fé, modéstia, equilíbrio e castidade. R.
+
+Pai todo-poderoso, que enviastes aos nossos corações o Espírito de vosso Filho que clama: Abá, meu Pai!,
+– fazei que, guiados pelo mesmo Espírito, sejamos vossos herdeiros juntamente com Cristo, nosso irmão. R.
+
+Cristo, que enviastes o Espírito Consolador que procede do Pai para dar testemunho de vós,
+– tornai-nos vossas testemunhas diante dos homens. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso inefável mistério. Fazei que, professando a verdadeira fé, reconheçamos a glória da Trindade e adoremos a Unidade onipotente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaocancio.htm
+@documento Ofício das Leituras - São João Câncio, Presbítero Nasceu Na Cidade De Kety, Diocese De Cracóvia, Em 1390; Ordenado Sacerdote, Exerceu Por Muitos Anos O Magistério Na Universidade De Cracóvia; Depois Foi Pároco De Ilkus. A Uma Doutrina Segura, Muito Bem Transmitida, Uniu As Virtudes, Sobretudo A Piedade E A Caridade Para Com O Próximo, Tornando-Se Modelo Para Os Colegas E Discípulos. Morreu Em 1473.
+
+@texto
+SÃO JOÃO CÂNCIO, PRESBÍTERO Nasceu na cidade de Kety, diocese de Cracóvia, em 1390; ordenado sacerdote, exerceu por muitos anos o magistério na Universidade de Cracóvia; depois foi pároco de Ilkus. A uma doutrina segura, muito bem transmitida, uniu as virtudes, sobretudo a piedade e a caridade para com o próximo, tornando-se modelo para os colegas e discípulos. Morreu em 1473.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dossofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores dorebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso;não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Dos Documentos do Papa Clemente XIII
+{(Séc. XVIII)} {(2 febr. 1767: Bullarii romani continuatio, IV, pars II, Pratis 1843, p. 1314-1316)}
+
+@tema
+Só tinha Deus no seu coração, só tinha Deus na sua boca
+
+@texto
+Entre os homens ilustres e notáveis pela doutrina e santidade, que viveram e ensinaram a fé autêntica defendendo-a contra os ataques dos adversários, São João Câncio foi certamente digno de ser contado entre eles. Ninguém que saiba ter ele transmitido na Universidade de Cracóvia a ciência haurida de fonte puríssima pode duvidar disso. Ainda mais que, naquele tempo, em outras regiões não muito distantes, grassavam heresias e cismas. Esforçava-se, em sua pregação, por explicar ao povo um modo de viver mais santo; e confirmava este ensinamento pela humildade, castidade, misericórdia, penitência corporal e outras virtudes próprias dos sacerdotes íntegros e dedicados operários.
+Por conseguinte, não só deu fama e prestígio ao corpo docente daquela Universidade, mas deixou um maravilhoso exemplo para todos os outros que se entregam à mesma profissão: que se dediquem com denodo a exercer o cargo de perfeito mestre e, com todas as veras, se esforcem por ensinar a ciência dos santos junto com as outras disciplinas, para louvor e glória do único Deus.
+À reverência com que tratava tudo quanto era divino, unia-se a humildade; considerando-se inferior, jamais se antepôs a ninguém; embora primasse com facilidade na ciência, desejava, contudo, ser preterido e desprezado por todos; longe dele não suportar com serenidade até mesmo os seus caluniadores e os que o menosprezavam.
+Sua humildade era acompanhada por uma rara simplicidade, própria de uma criança. Em seus atos e palavras, não havia nem ambiguidade nem fingimento; o que guardava no coração, aparecia nas palavras. Se suspeitava que ofendia alguém quando dizia a verdade, antes de aproximar-se do altar, pedia perdão não tanto pelos seus erros como pelos alheios. Diariamente, uma vez cumprido o seu dever de ensinar, dirigia-se diretamente à igreja, onde durante muito tempo se entregava à oração e à contemplação diante do Cristo na Eucaristia. Em todas as circunstâncias, só tinha a Deus no coração, só tinha a Deus na sua boca.
+
+@secao Responsório
+
+@responsorio
+R. Reparte o teu pão com o faminto,
+recebe em tua casa os sem teto;
+* E tua luz vai levantar-se como a aurora,
+caminhará tua justiça à tua frente.
+V. Quando vês o teu irmão necessitado,
+não o desprezes, mas estende-lhe a mão. * E tua.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, concedei-nos progredir no conhecimento do vosso mistério a exemplo de São João Câncio, a fim de que, praticando a caridade para com todos, possamos conseguir o vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

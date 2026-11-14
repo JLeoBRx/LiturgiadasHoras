@@ -1,0 +1,250 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/tomasdevilanova.htm
+@documento Ofício das Leituras - São Tomás De Vilanova, Bispo Festa
+
+@celebracao
+SÃO TOMÁS DE VILANOVA, BISPO
+{Festa}
+
+@biografia
+Tomás (Fuenllana, Ciudad Real, Espanha, 1486 - Valência, 8 de setembro de 1555) emitiu sua profissão na Ordem aos 25 de novembro de 1517. Exerceu por duas vezes o encargo de Prior provincial. Aos 1O de outubro de 1544, foi eleito Arcebispo de Valência, cidade onde viria a falecer no dia 8 de setembro de 1555. Suas relíquias expõem-se à veneração dos fiéis na igreja catedral de Valência. A personalidade forte de Santo Tomás e sua diligente atividade pastoral podem assim resumir-se: foi ele um dos maiores exemplos de promoção da reforma da Igreja na Espanha durante o período pré-tridentino e distinguiu-se de tal maneira por sua ardente caridade em relação aos pobres e às classes sociais menos favorecidas, que foi chamado "esmoler de Deus". Impulsionou sobremaneira os estudos, principalmente na Ordem, a ponto de ser considerado o padroeiro dos estudos que nela se realizam. Sustentou igualmente a atividade missionária da Ordem na evangelização do continente americano, enviando os primeiros frades para o Novo Mundo. Foi canonizado pelo Papa Alexandre VII, no dia de Todos os Santos, 1º de novembro de 1658, quando a Congregação de Agostinianos Recoletos já lhe dedicava uma de suas províncias.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantemos ao Pastor, ó povo, acode,
+para cantar-lhe a glória a uma só voz,
+unidos no amor que nunca a sós
+nos deixa os corações e o mal sacode.
+
+Vinde todos! Vinde pobres e enfermos,
+dedica-vos Tomás ingente amor,
+o desvelo de um peito abrasador,
+que brilha como o sol nos montes ermos.
+
+Da mais viva compaixão tua alma é plena,
+em tua fome de dar não vês atalhos,
+não podes ver misérias nem trabalhos,
+sem experimentar profunda pena.
+
+O teu rebanho hinos de amor entoa
+e avanças tu cingido de lauréis,
+ainda que o socorro a teus fiéis
+seja deveras tua maior coroa.
+
+Louvores mil dirija o nosso canto
+a Deus Pai e Senhor onipotente,
+toda honra ao Filho eternamente,
+e glória seja ao Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Dos Atos dos Apóstolos {20,17-20.25-35}
+
+@tema
+Há mais alegria em dar do que em receber
+
+@texto
+Naqueles dias, [17] de Mileto, Paulo mandou um recado a Éfeso, convocando os anciãos da Igreja. [18] Quando os anciãos chegaram, Paulo disse-lhes: "Vós bem sabeis de que modo me comportei em relação a vós, durante todo o tempo, desde o primeiro dia em que cheguei à Ásia. [19] Servi ao Senhor com toda a humildade, com lágrimas e no meio das provações que sofri por causa das ciladas dos judeus. [20] Nunca deixei de anunciar aquilo que pudesse ser de proveito para vós, nem de vos ensinar publicamente e também de casa em casa. [25] Agora, porém, tenho a certeza de que vós não vereis mais o meu rosto, todos vós entre os quais passei anunciando o Reino. [26] Portanto, hoje dou testemunho diante de todos vós: eu não sou responsável se algum de vós se perder, [27] pois não deixei de vos anunciar todo o projeto de Deus a vosso respeito. [28] Cuidai de vós mesmos e de todo o rebanho, sobre o qual o Espírito Santo vos colocou como guardas, para pastorear a Igreja de Deus, que ele adquiriu com o sangue do seu próprio Filho. [29] Eu sei, depois que eu for embora, aparecerão entre vós lobos ferozes, que não pouparão o rebanho. [30] Além disso, do vosso próprio meio aparecerão homens com doutrinas perversas que arrastarão discípulos atrás de si. [31] Por isso, estai sempre atentos: lembrai-vos que durante três anos, dia e noite, com lágrimas, não parei de exortar a cada um em particular. [32] Agora entrego-vos a Deus e à mensagem de sua graça, que tem poder para edificar e dar a herança a todos os que foram santificados. [33] Não cobicei prata, ouro ou vestes de ninguém. [34] Vós bem sabeis que estas minhas mãos providenciaram o que era necessário para mim e para os que estavam comigo. [35] Em tudo vos mostrei que, trabalhando deste modo, se deve ajudar os fracos, recordando as palavras do Senhor Jesus, que disse: 'Há mais alegria em dar do que em receber"'.
+
+@secao Responsório | 1Tm 4,16; 2Tm 1,14
+
+@responsorio
+R. Cuida de ti mesmo e daquilo que ensinas.
+Mostra-te perseverante;
+* assim te salvarás a ti mesmo e também àqueles que te escutam.
+V. Guarda o precioso depósito,
+com a ajuda do Espírito Santo que habita em nós:
+*assim te salvarás.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Tomás de Vilanova, bispo
+{(Homil. Dom. VI post Pent., 5-6: Opera Omnia III, Manila 1882,119-120)}
+
+@tema
+Nosso mundo é como um imenso abrigo de pobres
+
+@texto
+Muitas coisas nos devem induzir à prática da misericórdia: em primeiro lugar, a nossa própria miséria: "Não ignorando o mal, aprendo a socorrer os miseráveis"; em segundo lugar, sua grande utilidade, uma vez que nós também precisamos de misericórdia: "Bem-aventurados os misericordiosos, porque alcançarão misericórdia". Ao que o sábio acrescenta: "Quem se compadece do pobre empresta ao Senhor, que lhe restituirá o equivalente", e assim, por uma módica misericórdia, obter-se-á muita. Observa tal utilidade também no salmo: "Feliz de quem pensa no pobre e no fraco: o Senhor o liberta no dia do mal! O Senhor vai guardá-lo e salvar sua vida, o Senhor vai tomá-lo feliz sobre a terra, e não vai entregá-lo à mercê do inimigo. Deus irá ampará-lo": eis aí as muitas e grandes utilidades da prática da misericórdia.
+Por outro lado: "O juízo vai ser sem misericórdia para quem não praticou a misericórdia": ora, se necessitamos da misericórdia, ofereçamo-la aos irmãos.
+Em terceiro lugar, move-nos ainda a grande multidão dos carentes: este mundo está repleto de pobres e necessitados, como se fosse um grande abrigo de pobres. Não penseis, irmãos, que pobres são apenas aqueles a quem assim chamais, aos quais falta pão ou vestuário: acaso mais pobre não é aquele a quem falta a fé, a sabedoria, o juízo, a luz, a razão, o sentido? A calamidade do corpo é menor do que a do coração, porquanto a "vida vale mais que o corpo". Ai de mim! Terei piedade dos feridos no corpo e serei
+indiferente às feridas da alma? Se abrires os olhos, qualquer que seja o lugar a que os dirijas, acharás muitos pobres, aos quais poderás fazer o bem. Presta atenção nas entranhas de misericórdia do Apóstolo: "Quem é fraco, que eu também não seja fraco com ele? Quem é escandalizado, que eu não fique ardendo de indignação?": tal misericórdia é maior que a corporal.
+Em quarto lugar, deve mover-nos a obrigação que temos, sob pena de eterna condenação, de prestar auxílio em caso de extrema necessidade. Clama contra nós a indigência dos pobres e o clamor deles sobe à presença de Deus. Enquanto um vive na opulência, outro perece de fome: por acaso Deus não terá em conta essas coisas? Santo Ambrósio diz: "Viste um pobre morrer de fome? Se não o alimentaste, mataste-o". A voz do seu sangue clama contra ti no juízo: "pois a pedra da parede vai gritar", disse o profeta. E o salmo: "Ele reparte com os pobres os seus bens, permanece para sempre o bem que fez". Não diz: permanece a sua misericórdia, mas "o bem que fez", pois dar desse modo é um bem, uma obra de justiça.
+Dá teu dinheiro perecível para receberes uma justiça imperecível: do pobre, a quem dás alguma coisa, recebes mais do que dás; dás uma esmola e recebes o céu; dás uma veste e recebes a imortalidade: tu praticas maior misericórdia para contigo mesmo.
+Ó quão grande é o perigo dos ricos! Prestai atenção no exemplo do rico epulão: foi condenado por não ter misericórdia; não por ter roubado, mas porque não deu do que tinha. E não espereis apenas casos de extrema necessidade, quando o pobre já está de vela na mão, pois então ele já não precisa da vossa comida, mas de uma sepultura. É preciso que haja abrigos para pobres nas cidades, do contrário, vossas casas teriam de converter-se em
+abrigos. No inverno, se um irmão nu e doente não encontrar abrigo, corre perigo: quem tem casa está obrigado a hospedá-lo, posto que está em perigo. Se não o fazeis, pelo menos ajudai os hospitais, trabalhai para que existam e sustentai-os, de modo a não serdes obrigados a hospedar vós mesmos os pobres.
+Deus dispôs que, para a utilidade dos ricos, houvesse pobres, para que aqueles pudessem salvar-se por meio destes. Aos ricos não se lhes abria janela alguma de salvação, pois ricos não jejuam, não se afadigam, não sofrem perseguições, não suportam asperezas, não rezam, envolvidos que estão em seus negócios. O Senhor deliberou: o que vos sobra? O que vos falta? "Dai em esmola o que está dentro, e tudo ficará puro para vós". E o sábio: "O rico e o pobre se encontram: a ambos, o Senhor é quem os fez". Criou o rico por causa do pobre e o pobre por causa do rico; ao rico deu riquezas para alimentar o pobre, por isso amiúde as multiplica e faz crescer; e ao pobre deu a carência, feridas e trabalhos, para mover assim o coração do rico à misericórdia, de modo que ele possa salvar-se. Amai, portanto, ó ricos, os pobres, vossos irmãos, vossos redentores e auxiliadores: deles, com efeito, "é o Reino dos Céus". Dai bens temporais para receberdes os eternos, conforme está escrito: "para que, quando acabar, eles vos recebam nas moradas eternas". Quando vierdes a desfalecer em vossa necessidade, quando nem recursos, nem dinheiro, nem família, nem cavalos, nem vestes vos puderem socorrer, socorrer-vos-ão então os pobres. O rico pediu ajuda ao pobre Lázaro, mas não mereceu a gota d'água quem não dera a migalha de pão.
+"Tenho compaixão dessa multidão, porque já faz três dias que estão comigo e não têm nada para comer". Grande é a tolerância dos pobres, grande a sua indigência; mas "o pobre não será sempre esquecido", encontrará
+benevolência no último dia por ter recebido males em sua vida: os pobres têm aqui o seu purgatório. "Já faz três dias que estão comigo". "Deixa-nos, pois, caminhar três dias deserto adentro, a fim de oferecer sacrificios ao Senhor nosso Deus", e saciar-nos. O primeiro será um dia de dor; o segundo, de continência; e o terceiro, de alegria no Espírito Santo.
+
+@secao Responsório Cf. Confissões XI, 2, 3
+
+@responsorio
+R. Escutai-me e tende compaixão de mim,
+Senhor meu Deus:
+* ó luz dos cegos e força dos fracos.
+V. Prestai atenção à minha alma,
+enquanto vos clama do abismo profundo,*ó luz dos cegos. {Ou} Dos Sermões de Santo Tomás de Vilanova, bispo {(Sermo primus diei martis post dominicam secundam Quadragesimre, nn. 7-8.10.12-13, in «Opera Omnia», vol. I, Manila 1881, pp. 478-482)} _{Se magistrados e juízes forem honestos, também os demais serão retos}_
+Quem prega bem e age mal, ensina condenando-se a si mesmo. É, na verdade, como o papagaio, em quem prestam atenção alegremente os transeuntes e que muitas coisas fala, levando muitos à admiração, mas, ele próprio, fica sempre encerrado em sua gaiola...
+Não subas, peço-te, ao púlpito, sem antes estudares com madura consideração. Deves adornar-te também com pérolas e pedras preciosas, isto é, com as virtudes: castidade, humildade, zelo pelas almas, de modo que em tudo te mostres como exemplo de boas obras. Entrega-te, principalmente, por pelo menos duas horas, à contemplação
+dos mistérios divinos em silêncio, orando a Deus... É certamente terrível que nós, que devemos ser luz para o povo, com a finalidade de mostrar-lhe o caminho da salvação, venhamos a oferecer-lhe, ao contrário, ocasião de pecado. Se fôssemos frades e clérigos tais, quais devemos ser, ó como nos respeitariam e temeriam os pecadores!...
+Com efeito, que maior perdição pode haver para as ovelhas que o fato de o pastor não cuidar delas? E que maior prejuízo para o servo que ver o seu senhor entregue aos pecados? Que dano para a filha quando sua mãe, em vez de a corrigir, escandaliza-a? Isto é certo: os pecados dos superiores perdem os súditos...
+Se magistrados e juízes forem honestos, também os demais serão retos. Certo funcionário real, cujo filho estava doente em Cafamaum, rogava a Cristo que curasse seu filho. Acedeu elementíssimo o Senhor e o evangelista diz que acreditou o funcionário e toda a sua casa. Não tiveram fé primeiro os servos nem os familiares; mas, depois que acreditou o superior, teve fé sua casa toda.
+Ó tu, que és senhora em tua casa, queres que tuas servas sejam fiéis a ti e a Deus e que sejam honestas? Sê tu primeiro. Queres tu, pai de família, que teu filho e que teu servo agradem e sirvam a Deus? Faze tu o mesmo antes. Crede-me, se não andardes à frente com diligência e exemplo, os servos e as criadas permanecerão na indolência. O pobre Lázaro jazia à porta do rico, desejando saciar-se com as migalhas que caíam da mesa, e ninguém lhas dava, nem os servos, nem as criadas, nem pessoa alguma daquele numeroso grupo que formaria a criadagem do rico. Ninguém mesmo, porque, sendo o senhor avaro e cruel, ninguém havia, em toda a sua família, que se apiedasse daquele pobre chagado. E quererás tu, e desejarás tu, sendo avaro, que teus filhos e teus servos sejam liberais e misericordiosos? Sê tu primeiro, dá o exemplo, e toda a tua família te seguirá. Três varões apareceram a Abraão, sentado à porta de sua tenda, aos quais ele disse: Descansai à sombra de uma árvore, e dar-vos-ei um pouco de pão. Correndo, em seguida, ao rebanho, tomou o melhor e mais tenro vitelo, deu-o ao servo, e apressou-se este em prepará-lo. Eis que o servo apressou-se numa tarefa de misericórdia e de hospitalidade: mas, em primeiro lugar, apressou-se o senhor.
+O exemplo do senhor comoveu o servo e, tendo corrido aquele, correu este também. Abraão significa: Pai de muitos povos, e, nisso, ensinou aos pais de todos os povos. Portanto, se vós, ó governantes da coisa pública, quereis que o povo sob os vossos cuidados progrida na virtude, caminhai vós à sua frente, correi pressurosos, e os outros vos seguirão. Mas se apenas louvais a virtude e não a seguis, sereis do número daqueles de quem o evangelho afirma: Dizem, e não fazem, e, com vosso exemplo, arruinareis a coisa pública. Trabalhai por Deus, rogo-vos, e ele mesmo será a vossa recompensa, dar-vos-á aqui a graça e, depois, a glória. Amém.
+{Responsório Mt 7,21a; Tg 1,22; Lc 12,1b} R. Nem todo aquele que me diz: "Senhor, Senhor",
+entrará no Reino dos Céus.
+* Sede praticantes da Palavra, e não meros ouvintes.
+V. Cuidado com o fermento dos fariseus, que é a hipocrisia.
+*Sede praticantes da Palavra.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, suscltai na vossa Igreja pastores imbuídos de fé e amor, a exemplo do bispo Santo Tomás de Vilanova, e concedei que, por sua intercessão, mereçamos dedicar-nos assiduamente ao cultivo da ciência da verdade e à prática do serviço da caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

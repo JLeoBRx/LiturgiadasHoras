@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/10domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 26,1-2
+@texto
+O Senhor é minha luz e salvação,
+de quem eu terei medo?
+O Senhor é a proteção da minha vida;
+perante quem eu tremerei?
+São eles, inimigos e opressores,
+que tropeçam e sucumbem.
+
+@secao Coleta
+@texto
+Ó Deus, fonte de todo o bem,
+atendei ao nosso apelo
+e fazei-nos, por vossa inspiração,
+pensar o que é certo
+e realizá-lo com vossa ajuda.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Olhai, Senhor, com bondade
+nossa disposição em vos servir,
+para que nossa oferenda vos seja agradável
+e nos faça crescer no amor.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Sl 17,3
+@texto
+Ó meu Deus, sois o rochedo que me abriga,
+minha força e poderosa salvação,
+sois meu escudo e proteção, em vós espero!
+{Ou:}{1Jo 4,16}
+Deus é amor:
+quem permanece no amor, permanece com Deus,
+e Deus permanece com ele.
+
+@secao Depois da comunhão
+@texto
+Senhor de bondade,
+a vossa força salvadora
+nos liberte das más inclinações
+e nos conduza pelo caminho do bem.
+Por Cristo, nosso Senhor.

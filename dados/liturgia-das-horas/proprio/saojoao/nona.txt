@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_nona.htm
+@documento Hora Média - Natividade de São João Batista
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Este menino será grande aos olhos do Senhor,
+pois a mão do Senhor com ele estará.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Este menino será grande aos olhos do Senhor,
+pois a mão do Senhor com ele estará.
+
+@secao Leitura breve | Is 49,47b
+
+@texto
+Os reis te verão e se levantarão, os potentados igualmente, e te adorarão por causa do Senhor, que é fiel, por causa do Santo de Israel, que te escolheu.
+
+@texto
+V. Depositei minha palavra em tua boca.
+R. Sobre reinos e nações te coloquei.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Batista, a fim de preparar para o Senhor um povo perfeito, concedei à vossa Igreja as alegrias espirituais e dirigi nossos passos no caminho da salvação e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

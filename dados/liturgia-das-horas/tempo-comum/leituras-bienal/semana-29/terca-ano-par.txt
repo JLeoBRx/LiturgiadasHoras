@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/29tercaTC_par.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {29,1-13}
+
+@tema
+Empréstimo, esmola e riqueza
+
+@texto
+[1] Pratica a misericórdia o que empresta ao próximo, o que vem em sua ajuda cumpre os mandamentos. [2] Empresta ao próximo por ocasião de sua necessidade; por sua vez, restitui ao próximo no tempo combinado. [3] Cumpre tua palavra e sê-lhe fiel e em toda ocasião acharás o que te é necessário. [4] Muitos consideram um empréstimo como fortuna inesperada e põem em dificuldade aqueles que os socorreram. [5] Antes de receber, beijam-lhe a mão, abaixam a voz por causa da riqueza do próximo. [6] No dia do vencimento, adianta a data, à guisa de restituição, explicam que estão aborrecidos desculpam-se com as circunstâncias. Se o devedor pode pagar, com dificuldade o credor receberá a metade, e o pode contar como achado. Em caso contrário, será espoliado de seus bens e adquiriu, sem tê-lo merecido, um inimigo; pagar-lhe-á com imprecações e injúrias e, em vez de honra, dar-lhe-á desprezo. [7] Muitos, sem malícia, se recusam a emprestar, temem ser defraudados sem nenhum proveito. [8] Tu, porém, sê indulgente para com os humildes, não os faças esperar tuas esmolas. [9] Por causa do mandamento, socorre o pobre; em sua necessidade, não o despeças sem nada. Sacrifica teu dinheiro por um irmão e um amigo, não se enferruje ele, à toa, debaixo de uma pedra. [11] Acumula um tesouro segundo os preceitos do Altíssimo, ser-te-á mais útil do que o ouro. [12] Fecha a tua esmola nos teus celeiros, ela te livrará de todo mal. [13] Mais do que forte escudo e lança poderosa, por ti ela combaterá o inimigo.
+
+@secao Responsório | Cf. Eclo 29,9.11-12
+
+@responsorio
+R. Por causa do mandamento, socorre o pobre;
+em sua necessidade, não o despeças sem nada.
+* Esconde a tua esmola em teus celeiros, ela te livrará de todo mal.
+V. Acumula um tesouro segundo os preceitos do Altíssimo,
+ser-te-á mais útil do que o ouro.
+* Esconde a tua esmola.
+
+@secao Segunda leitura
+
+@leitura
+Do “Discurso na solenidade de todos os Santos”, do Bem- aventurado Guerrico, abade
+{(Séc. XIII)} {(Nn. 5,6,7)}
+
+@tema
+Ó magnífica herança dos pobres
+
+@texto
+Alegremo-nos, irmãos, de sermos pobres por Cristo, procuremos ser humildes com Cristo. Não existe nada de mais odioso que um pobre soberbo, nada de mais miserável: porque a pobreza o aflige agora; a soberba, porém, o manterá escravo para sempre. Ao contrário, o pobre humilde, mesmo que seja queimado e purificado na fornalha da pobreza, exulta pelo refrigério que lhe traz a riqueza da consciência, se consola com a promessa de uma santa esperança, sabendo que é seu o reino de Deus: ele sente que já o traz em si mesmo como um gérmen ou na raiz, ou seja, como primícia do Espírito e penhor da herança eterna. Vós já tendes visto e experimentado, se não me engano, que bom negócio fizestes adquirindo os bens supremos em troca de coisas desprezíveis e dignas somente de serem lançadas no lixo. _O Reino de Deus, de fato, não é questão_ _de comida e bebida, mas é justiça, paz e alegria no Espírito_ _Santo_ (Rm 14,17). Se, portanto, sentimos assim em nosso íntimo, porque não proclamamos com confiança que o reino de Deus está dentro de nós? O que está dentro de nós é verdadeiramente nosso, porque ninguém pode arrancar isso de nós, contra a nossa vontade.
+Ó magnífica herança dos pobres, ó posse bem aventurada dos indigentes! Não somente nos fornece o quanto nos basta, mas nos cumula com abundância de toda a glória, transborda de toda a alegria, como aquela “medida transbordante” que nos será derramada em nosso regaço (Lc 6,38). Por isso, junto de ti _está a riqueza e a honra, equidade e bem-estar_ _seguro_ (Pr 8,18).
+Vós, portanto, que sois amigos da pobreza e considerais cara a humildade de espírito, recebestes da Verdade Imutável a garantia da posse do Reino. Ela afirma, de fato, que isso é vosso e que o guarda fielmente depois de tê-lo confirmado em vós, ainda que, porém, por sua vez, vós guardais firmemente até o fim em vosso peito uma tal esperança com a ajuda de nosso Senhor Jesus Cristo, a quem pertence a honra e a glória pela eternidade.
+
+@secao Responsório | Cf. 1Sm 2,7.8; Lc 1,48
+
+@responsorio
+R. O Senhor se torna pobre e enriquece, abaixa e exalta.
+Retira do pó o miserável e eleva o pobre da imundície,
+* Para que se assente junto com os chefes do povo
+e ocupe um lugar de glória.
+V. Olhou para a humildade da sua serva.
+* Para que.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, dai-nos a graça de estar sempre ao vosso dispor, e vos servir de todo o coração. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

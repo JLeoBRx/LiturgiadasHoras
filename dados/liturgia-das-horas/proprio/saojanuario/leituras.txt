@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojanuario.htm
+@documento Ofício das Leituras - São Januário
+
+@celebracao
+SÃO JANUÁRIO, BISPO E MÁRTIR
+
+@biografia
+Foi bispo de Benevento. Durante a perseguição de Diocleciano, sofreu o martírio juntamente com outros companheiros, em Nápoles, onde é especialmente venerado.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós.
+
+@texto
+[13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno.
+
+@texto
+[5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor.
+
+@texto
+[6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. V)} {(Sermo 340,1: PL 38,1483-1484)}
+
+@tema
+Para vós sou bispo, convosco, sou cristão
+
+@texto
+Desde que este encargo, do qual tenho de dar tão apertadas contas, me foi posto sobre os ombros, sempre me perturba a preocupação com esta dignidade. Que se há de temer neste cargo, a não ser que mais nos agrade aquilo que é arriscado para nossa honra do que aquilo que é frutuoso para vossa salvação? Aterroriza-me o que sou para vós; consola-me o que sou convosco. Pois para vós sou bispo; convosco, sou cristão. Aquele é nome do ofício recebido; este, da graça; aquele, do perigo; este, da salvação.
+
+@texto
+Enfim, somos sacudidos, como por mar encapelado, na tempestade das decisões a tomar; mas, recordando-nos daquele por cujo sangue fomos remidos, entramos no porto da tranquila segurança deste pensamento; e trabalhando sozinhos neste ofício, descansamos no comum benefício. Se, portanto, mais me alegra ter sido remido convosco do que ser vosso prelado, então, como o Senhor ordenou, serei ainda mais vosso servo, para não me mostrar ingrato diante do preço pelo qual mereci ser vosso companheiro de serviço. Tenho de amar o Redentor e sei o que disse a Pedro: _Pedro, tu me amas? Apascenta minhas ovelhas_ (Jo 21,17). E isto uma vez, duas vezes, três vezes. Questionava-se o amor e impunha-se o trabalho, porque onde é maior o amor, menor o trabalho.
+_Que retribuirei ao Senhor por tudo quanto me concedeu?_ (Sl 115,12). Se eu disser que retribuo por apascentar suas ovelhas, também isto faço, _não eu, mas a graça de Deus comigo_ (1Cor 15,10). Onde então serei retribuidor, se em toda parte me antecipam? No entanto, porque amamos gratuitamente, porque pastoreamos as ovelhas, queremos a paga. Como se fará isto? Como podem combinar-se? Amo gratuitamente para apascentar, e: Peço a recompensa porque apascento? De modo nenhum! De modo nenhum pediria o pagamento daquele que é amado gratuitamente, a não ser porque o pagamento é aquele mesmo que é amado. Se retribuímos a quem nos remiu, apascentando suas ovelhas, que retribuição lhe daremos por nos ter tornado pastores? Pois maus pastores, livre-nos Deus, infelizmente o somos; bons, valha-nos Deus, só o podemos com a sua graça. Por isto também a vós, meus irmãos, _prevenimos e rogamos a que não recebais em vão a graça de Deus_ (2Cor 6,1). Tornai frutuoso nosso ministério. _Sois plantação de Deus_ (1Cor 3,9). Recebei de fora quem planta e quem rega; por dentro, aquele que dá o incremento. Ajudai-nos não só rezando, mas obedecendo; para que nos maravilhe não tanto estar à vossa frente quanto o vos ser útil.
+
+@secao Responsório | Sb 10,10a
+
+@responsorio
+R. Eis o mártir verdadeiro, que seu sangue derramou
+por amor de Jesus Cristo.
+* Não temeu as ameaças dos juízes deste mundo
+nem buscou as dignidades e as glórias perecíveis,
+mas chegou ao reino eterno.
+V. O Senhor guiou o justo por caminhos seguros
+e mostrou-lhe o seu reino. * Não temeu.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos concedeis celebrar a memória do vosso mártir São Januário, dai que nos alegremos com ele na eterna bem-aventurança. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

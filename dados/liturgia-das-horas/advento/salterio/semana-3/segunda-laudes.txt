@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3segunda_laudes.htm
+@documento Laudes - III Segunda-feira do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Felizes os que habitam vossa casa, ó Senhor!
+
+@salmo salmos/salmo-083
+
+@gloria
+
+@antifona
+Felizes os que habitam vossa casa, ó Senhor!
+
+@antifona 2
+Vinde, subamos a montanha do Senhor!
+
+@salmo canticos/is-2-2-5
+
+@gloria
+
+@antifona
+Vinde, subamos a montanha do Senhor!
+
+@antifona 3
+Cantai ao Senhor Deus, bendizei seu santo nome!
+
+@salmo salmos/salmo-095
+
+@gloria
+
+@antifona
+Cantai ao Senhor Deus, bendizei seu santo nome!

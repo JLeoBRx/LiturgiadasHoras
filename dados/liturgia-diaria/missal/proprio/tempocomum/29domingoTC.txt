@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/29domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 16,6.8
+@texto
+Eu vos chamo, ó meu Deus, porque me ouvis,
+inclinai o vosso ouvido e escutai-me!
+Protegei-me qual dos olhos a pupila
+e abrigai-me à sombra de vossas asas.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+tornai-nos dispostos a obedecer sempre à vossa vontade
+e a vos servir de coração sincero.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei-nos, Senhor, nós vos pedimos,
+que possamos, com liberdade de coração,
+servir ao vosso altar
+para que vossa graça nos purifique
+e nos renovem estes mistérios
+que celebramos em vossa honra.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 32,18-19
+@texto
+O Senhor pousa o olhar sobre os que o temem
+e que confiam esperando em seu amor,
+para da morte libertar as suas vidas
+e alimentá-los quando é tempo de penúria.
+{Ou:}{Mc 10,45}
+O Filho do homem veio para dar a sua vida
+como resgate para muitos.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Senhor,
+colher os frutos da participação da Eucaristia,
+para que, auxiliados pelos bens temporais,
+possamos conhecer as riquezas do vosso Reino.
+Por Cristo, nosso Senhor.

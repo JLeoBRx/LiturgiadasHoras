@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaoi.htm
+@documento Ofício das Leituras - São João I, Papa E Mártir
+
+@celebracao
+SÃO JOÃO I, PAPA E MÁRTIR
+
+@biografia
+Nasceu na Toscana e foi eleito bispo da Igreja de Roma, em 523. O rei Teodorico enviou-o a Constantinopla como seu delegado junto ao imperador Justino; ao regressar, Teodorico, descontente com o resultado de sua missão diplomática, mandou prendê-lo e encarcerar em Ravena, onde morreu, em 526.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São João de Ávila, presbítero
+{(Séc. XVI)} {(Carta aos amigos, 58: Opera omnia, edit. B.A.C. 1,533-534)}
+
+@tema
+Que a vida de Jesus seja manifestada em nossos corpos
+
+@texto
+_Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação. Ele nos consola em todas as nossas aflições, para que, com a consolação que nós mesmos recebemos de Deus, possamos consolar os que se acham em toda e qualquer aflição. Pois, à medida que os sofrimentos de Cristo crescem para nós, cresce também a nossa consolação por Cristo_ (2Cor 1,3-5).
+Estas palavras são do apóstolo Paulo. Por três vezes foi batido com varas, cinco vezes açoitado, uma vez apedrejado até ser deixado como morto; foi perseguido por todo tipo de gente e atormentado por toda espécie de flagelos e sofrimentos, não uma ou duas vezes, mas, como ele mesmo diz em outro lugar: _Somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos_ (2Cor 4,1).
+Em todas essas tribulações não murmura nem se queixa de Deus, como costumam fazer os fracos; não se entristece, como aqueles que amam a glória e o prazer; não roga a Deus que o livre dos sofrimentos, como os que não o conhecem e, por isso, recusam deles compartilhar; não os julga pouca coisa, como quem não lhes dá valor; mas, pondo de lado toda ignorância e fraqueza, bendiz a Deus no meio destas aflições e agradece a quem lhas dá. Reconhece nelas não pequena mercê e considera-se feliz por poder sofrer algo, em honra daquele que tantas ignomínias suportou para libertar-nos dos vexames a que estávamos sujeitos pelo pecado. Por seu Espírito e pela adoção de filhos de Deus, ele nos cobriu de beleza e de honra, dando-nos também o penhor e a garantia de gozarmos com ele e por ele no céu.
+Oh! irmãos meus, muito queridos! Abra Deus os vossos olhos para que vejais quanta recompensa existe para nós naquilo que o mundo despreza; quanta honra recebemos ao sermos desonrados por buscarmos a glória de Deus; quanta glória nos está reservada por causa da humilhação presente; como são carinhosos e amigos os braços que Deus nos abre para receber os que foram feridos nos combates por sua causa; sem dúvida, a doçura desses braços é incomparavelmente maior do que todo o mel que os esforços deste mundo podem dar. E se algum entendimento há em nós, havemos de desejar ardentemente esses braços; pois quem não deseja aquele que é a plenitude do amor, senão quem não sabe verdadeiramente o que é desejar?
+Pois bem, se vos agradam aquelas festas e se as desejais ver e gozar, tende por certo que não há caminho mais seguro do que o sofrimento. É este o caminho por onde passaram Cristo e todos os seus. Ele o chama caminho estreito, mas é o que conduz diretamente à vida. Ensina-nos também que, se queremos chegar aonde ele está, devemos seguir o mesmo caminho que percorreu. Não convém que, tendo o Filho de Deus passado pelo caminho da ignomínia, sigam os filhos dos homens pelo caminho das honras; porque _o discípulo não está acima do mestre, nem o servo acima do seu senhor_ (Mt 10,24).
+Queira Deus que neste mundo a nossa alma não encontre outro descanso nem escolha outra vida que não sejam os sofrimentos da cruz do Senhor.
+
+@secao Responsório | 2Cor 11,16
+
+@responsorio
+R. De fato, nós, embora estando vivos,
+por Jesus somos entregues sempre à morte,
+* Para que, também, a vida do Senhor
+se manifeste em nossa carne. Aleluia.
+V. Embora o nosso homem exterior vá perecendo,
+o homem interior se renova dia a dia. * Para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, recompensa dos justos, que consagrastes este dia com o martírio do papa João I, ouvi as preces do vosso povo e concedei que, celebrando seus méritos, imitemos sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

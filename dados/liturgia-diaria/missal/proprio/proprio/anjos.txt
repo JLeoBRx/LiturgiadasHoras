@@ -1,0 +1,37 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/anjos.htm
+
+@secao Antífona da entrada | Cf. Dn 3,58
+@texto
+Anjos do Senhor, bendizei ao Senhor;
+louvai-o e exaltai-o pelos séculos sem fim!
+
+@secao Coleta
+@texto
+Ó Deus, que na vossa inefável providência
+vos dignais enviar os vossos Santos Anjos para nos guardar,
+concedei que sejamos sempre defendidos
+pela sua proteção e gozemos eternamente de sua companhia.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, acolhei as oferendas
+que apresentamos em honra dos vossos Santos Anjos;
+concedei benigno que, por sua constante proteção,
+sejamos livres dos perigos desta vida
+e felizes alcancemos as alegrias eternas.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 137,1
+@texto
+Perante os vossos Anjos vou cantar-vos, ó meu Deus!
+
+@secao Depois da comunhão
+@texto
+Senhor, que nos alimentais com tão grande sacramento
+em nossa peregrinação para a vida eterna,
+guiai-nos, por meio dos vossos anjos,
+no caminho da salvação e da paz.
+Por Cristo, nosso Senhor.

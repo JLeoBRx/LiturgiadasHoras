@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4tercaQA.htm
+
+@secao Antífona da entrada | Cf. Is 55,1
+@texto
+Todos os que estais com sede vinde buscar água, diz o Senhor;
+quem não tem dinheiro venha também
+e beba com alegria.
+
+@secao Coleta
+@texto
+Senhor, a fiel observância dos exercícios quaresmais
+prepare o coração dos vossos fiéis
+para acolher com amor o mistério pascal
+e anunciar ao mundo a salvação.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Nós vos oferecemos, Senhor, os dons que nos destes,
+a fim de que manifestem vossa solicitude
+para conosco nesta vida
+e sejam remédio de imortalidade.
+
+@secao Antífona da comunhão | Cf. Sl 22,1-2
+@texto
+O Senhor é o pastor que me conduz;
+não me falta coisa alguma.
+Pelos prados e campinas verdejantes
+ele me leva a descansar.
+Para as águas repousantes me encaminha.
+
+@secao Depois da comunhão
+@texto
+Senhor de bondade, purificai-nos e renovai-nos
+com os divinos sacramentos,
+para que por eles sejamos auxiliados,
+hoje e por toda a nossa vida.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Deus de misericórdia, concedei que o vosso povo
+vos seja sempre dedicado
+e obtenha, continuamente, da vossa bondade
+o que lhe é necessário.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/4janeiro_sexta.htm
+@documento 4janeiro_sexta.htm
+
+@secao Leitura breve | Jr 31,11-12a
+
+@texto
+O Senhor resgatou Jacó e libertou-o das mãos dos poderosos. Virão cantar louvores no monte Sião e participar dos bens do Senhor.
+
+@texto
+V. Os confins do universo contemplaram, aleluia.
+R. A salvação do nosso Deus, aleluia.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

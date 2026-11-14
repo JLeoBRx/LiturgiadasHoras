@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Deus, escultor do homem,
+que a tudo, só, criastes,
+e que do pó da terra
+os animais formastes.
+
+Sob o comando do homem
+a todos colocastes,
+para que a vós servissem
+servindo a quem criastes.
+
+Afastai, pois, os homens,
+de uma fatal cilada;
+que o Criador não perca
+a criatura amada.
+
+Dai-nos no céu o prêmio,
+dando na terra a graça,
+e assim chegar possamos
+à paz que nunca passa.
+
+A vós, Deus uno e trino,
+em nosso amor cantamos;
+nas criaturas todas
+somente a vós buscamos.
+
+@secao Salmodia
+
+@antifona 1
+Curai-me, Senhor: eu pequei contra vós!
+
+@salmo salmos/salmo-040
+
+@gloria
+
+@antifona
+Curai-me, Senhor: eu pequei contra vós!
+
+@antifona 2
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Conosco está o Senhor do universo!
+O nosso refúgio é o Deus de Jacó!
+
+@antifona 3
+Os povos virão adorar-vos, Senhor.
+
+@salmo canticos/ap-15-3-4
+
+@gloria
+
+@antifona
+Os povos virão adorar-vos, Senhor.
+
+@secao Leitura breve | Rm 15,1-3
+
+@texto
+Nós que temos convicções firmes devemos suportar as fraquezas dos menos fortes e não buscar a nossa própria satisfação. Cada um de nós procure agradar ao próximo para o bem, visando a edificação. Com efeito, Cristo também não procurou a sua própria satisfação, mas, como está escrito: Os ultrajes dos que te ultrajavam caíram sobre mim.
+
+@secao Responsório breve
+
+@responsorio
+R. Jesus Cristo nos amou.
+* E em seu sangue nos lavou. R. Jesus Cristo.
+V. Fez-nos reis e sacerdotes para Deus, o nosso Pai.
+* E em seu sangue. Glória ao Pai. R. Jesus Cristo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor nos acolheu a nós, seus servidores,
+fiel ao seu amor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor nos acolheu a nós, seus servidores,
+fiel ao seu amor.
+
+@secao Preces
+
+@preces
+Bendigamos a Deus, que ouve benignamente os desejos dos humildes e sacia de bens os famintos; e peçamos com fé:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Senhor, Pai de bondade, nós vos pedimos por todos os membros sofredores de vossa Igreja,
+– pelos quais vosso Filho Jesus Cristo ofereceu no madeiro da cruz o sacrifício vespertino. R.
+
+Libertai os prisioneiros, dai a vista aos cegos,
+– e protegei os órfãos e as viúvas. R.
+
+Dai aos fiéis a vossa força,
+– para que possam resistir às tentações do demônio. R.
+
+Vinde, Senhor, em nosso auxílio, quando chegar a hora de nossa morte,
+– para perseverarmos na vossa graça e partirmos deste mundo em paz. R.
+
+{(intenções livres)}
+
+Conduzi à luz em que habitais nossos irmãos e irmãs que morreram,
+– para que vos possam contemplar eternamente. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, Senhor, a sabedoria da cruz, para que, instruídos pela paixão de vosso Filho, sejamos capazes de sempre levar seu jugo suave. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

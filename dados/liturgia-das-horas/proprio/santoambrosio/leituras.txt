@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoambrosio.htm
+@documento Ofício das Leituras - Santo Ambrósio, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SANTO AMBRÓSIO, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Treves, pelo ano 340, de uma família romana, fez os seus estudos em Roma e iniciou em Sírmio a carreira da magistratura. Em 374, vivendo em Milão, foi inesperadamente eleito bispo da cidade e recebeu a ordenação no dia 7 de dezembro. Fiel cumpridor do seu dever, distinguiu-se sobretudo na caridade para com todos, como verdadeiro pastor e doutor dos fiéis. Protegeu corajosamente os direitos da Igreja; com seus escritos e atos defendeu a verdadeira doutrina da fé contra os Arianos. Morreu no Sábado Santo, dia 4 de abril de 397.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de Santo Ambrósio, bispo
+{(Séc. IV)} {(Epist. 2,1-2.4-5.7: PL 16 edit. 1845, 847-881)}
+
+@tema
+O encanto de tuas palavras inspire confiança ao povo
+
+@texto
+Recebeste o múnus sacerdotal e, sentado à popa da Igreja, governas a barca em meio às ondas. Segura bem o leme da fé, para que as fortes procelas do mundo não te perturbem. O mar é, na verdade, grande e vasto, mas não temas: _ele a tornou firme sobre os mares e sobre as águas a mantém inabaláve__l_ (Sl 23,2).
+Por isso, não é sem razão que, entre tantas agitações do mundo, a Igreja do Senhor, edificada sobre a pedra apostólica, permanece firme e, contra o ímpeto das águas, se apoia sobre inabalável fundamento. É batida pelas ondas, mas não abalada; e embora muitas vezes os elementos deste mundo a sacudam com grande fragor, ela oferece aos navegantes cansados o mais seguro porto de salvação. Ela flutua no mar, mas também corre pelos rios, sobretudo aqueles rios dos quais se diz: _Levantaram os rios a sua voz_ (Sl 92,3). São os rios que brotam do coração daqueles que beberam da água de Cristo e receberam o Espírito de Deus. Quando transbordam de graça espiritual, estes rios levantam a sua voz.
+
+Há também um rio que corre para os seus santos como uma torrente. Existe ainda o ímpeto do rio que alegra a alma tranquila e pacífica. Quem receber da plenitude deste rio, como João Evangelista, Pedro e Paulo, levanta a sua voz. E do mesmo modo que os apóstolos difundiram até os confins da terra, como num canto harmonioso, a voz da pregação evangélica, assim o que receber da plenitude desse rio começa a anunciar o Evangelho do Senhor Jesus.
+
+Recebe, portanto, da plenitude de Cristo para que tua voz também se manifeste. Apanha a água de Cristo, essa água que louva o Senhor. Apanha de muitos lugares a água que as nuvens dos profetas deixam cair.
+
+Quem apanha a água dos montes ou a retira e bebe das fontes, também começa a orvalhar como as nuvens. Enche, pois, o íntimo do teu espírito com esta água, para que a terra da tua alma seja regada e tenhas a fonte em tua própria casa.Quem muito lê e compreende, fica repleto; e quem está repleto pode regar os demais; por isso, diz a Escritura: _Se as nuvens estiverem carregadas, farão cair a chuva sobre a terra_ (Ecl 11,3).
+
+As tuas pregações sejam fluentes, puras e claras, de modo que o teu ensinamento moral penetre suavemente nos que te escutam, e o encanto de tuas palavras inspire a confiança ao povo; deste modo ele te seguirá, de boa vontade, para onde o conduzires.
+
+Os teus discursos sejam repletos de inteligência. Por isso, diz Salomão: _Os lábios do sábio são as armas da sabedoria_ (cf. Pr 15,7); e noutra passagem: O pensamento dirija os teus lábios, isto é, os teus sermões brilhem pela sua clareza, e teus discursos e explicações dispensem as opiniões alheias. Que tua palavra seja capaz de se defender por si mesma. Enfim, não saia de tua boca nenhuma palavra inútil e sem sentido.
+
+@secao Responsório | 2Tm 4,2; cf. Eclo 48,4.8
+
+@responsorio
+R. Proclama em todo tempo a palavra do Senhor;
+persuade, repreende e exorta com coragem,
+* Com saber e paciência.
+V. Quem pode gloriar-se de ser igual a ti,
+que ungiste reis e príncipes e os chamaste à penitência? * Com saber.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes o bispo Santo Ambrósio doutor da fé católica e exemplo de intrépido pastor, despertai na vossa Igreja homens segundo o vosso coração, que a governem com força e sabedoria. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

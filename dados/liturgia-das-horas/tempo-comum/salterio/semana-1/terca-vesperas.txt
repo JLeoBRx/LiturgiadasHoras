@@ -1,0 +1,134 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1terca_vesperas.htm
+@documento Vésperas - Terça-Feira
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó grande Autor da terra,
+que, as águas repelindo,
+do mundo o solo erguestes,
+a terra produzindo,
+
+de plantas revestida,
+ornada pelas flores,
+e dando muitos frutos,
+diversos em sabores.
+
+Lavai as manchas da alma
+na fonte, pela graça.
+O pranto em nossos olhos
+as más ações desfaça.
+
+Seguindo as vossas leis,
+lutemos contra o mal,
+felizes pelo dom
+da vida perenal.
+
+Ouvi-nos, Pai bondoso,
+e vós, dileto Filho,
+unidos pelo Espírito
+na luz de eterno brilho.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, exaltai o vosso Ungido!
+
+@salmo salmos/salmo-019
+
+@gloria
+
+@antifona
+Ó Senhor, exaltai o vosso Ungido!
+
+@antifona 2
+Cantaremos celebrando a vossa força.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Cantaremos celebrando a vossa força.
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@secao Leitura breve | 1Jo 3,1a.2
+
+@texto
+Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é.
+
+@secao Responsório breve
+
+@responsorio
+R. Vossa palavra, ó Senhor,
+* Permanece eternamente. R. Vossa palavra.
+V. Vossa verdade é para sempre. * Permanece.
+Glória ao Pai. R. Vossa palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Exulte meu espírito em Deus meu Salvador!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Exulte meu espírito em Deus meu Salvador!
+
+@secao Preces
+
+@preces
+Louvemos o Senhor Jesus Cristo que vive no meio de nós, povo que ele conquistou; e supliquemos:
+
+R. **Ouvi, Senhor, a nossa oração!**
+
+Senhor, rei e dominador de todos os povos, vinde em ajuda de todas as nações e de seus governantes,
+– para que busquem, na concórdia, o bem comum, de acordo com a vossa vontade. R.
+
+Vós, que, subindo aos céus, levastes convosco os cativos,
+– restituí a liberdade de filhos de Deus aos nossos irmãos e irmãs prisioneiros no corpo ou no espírito. R.
+
+Concedei aos nossos jovens a realização de suas esperanças,
+– para que saibam responder ao vosso chamado com grandeza de alma. R.
+
+Fazei que as crianças imitem vosso exemplo,
+– e cresçam sempre em sabedoria e em graça. R.
+
+{(intenções livres)}
+
+Acolhei os que morreram na glória do vosso Reino,
+– onde também nós esperamos reinar convosco para sempre. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos damos graças, Senhor Deus todo-poderoso, que nos fizestes chegar a esta hora; aceitai bondoso, qual sacrifício vespertino, nossas mãos erguidas em oração, que confiantes vos apresentamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

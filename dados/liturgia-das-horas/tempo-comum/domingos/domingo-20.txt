@@ -1,0 +1,49 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 20º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+A mulher cananeia clamava:
+Minha filha está atormentada
+por horrível espírito maligno.
+Tem piedade, ó Filho de Davi!
+
+@antifona vesperas-i-B
+Eu sou o pão vivo descido dos céus;
+quem comer deste pão, viverá para sempre.
+
+@antifona vesperas-i-C
+Vim trazer fogo à terra;
+e o que quero, senão que ele seja ateado?
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+A mulher cananeia chegou a Jesus
+e adorou-o, dizendo: Senhor, ajudai-me!
+
+@antifona laudes-B
+Minha carne realmente é comida,
+o meu sangue é bebida verdadeira.
+Quem come a minha carne e bebe o meu sangue,
+terá a vida eterna.
+
+@antifona laudes-C
+Devo ser batizado num batismo;
+e como anseio que seja realizado.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+É grande tua fé, ó mulher!
+Seja feito assim como pedes!
+
+@antifona vesperas-ii-B
+Assim como o Pai que vive e me enviou
+e eu vivo pelo Pai, quem de mim se alimentar,
+viverá também por mim.
+
+@antifona vesperas-ii-C
+Pensais que eu vim trazer a paz à terra?
+Eu vos digo que não! Vim trazer a divisão.

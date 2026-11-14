@@ -1,0 +1,164 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_laudes.htm
+@documento Laudes - Exaltação da Santa Cruz
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Por toda a terra fulgura
+a silhueta da Cruz,
+de onde pendeu inocente
+o próprio Cristo Jesus.
+
+Mais altaneira que os cedros,
+ergue-se a Cruz triunfal:
+não traz um fruto de morte,
+dá vida a todo mortal.
+
+Que o Rei da vida nos guarde
+sob o estandarte da cruz,
+broquel que a todos protege,
+farol que a todos conduz.
+
+De coração celebremos
+a Cruz de nosso Senhor:
+Moisés de braços abertos,
+orando em nosso favor.
+
+A Cruz de Cristo abraçando,
+reinar possamos nos céus,
+com o Pai, o Espírito e o Filho,
+Trindade Santa, um só Deus.
+
+@secao Salmodia
+
+@antifona 1
+Sujeitou-se à santa Cruz
+quem venceu a própria morte,
+e, vestido de poder, ressurgiu após três dias.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Sujeitou-se à santa Cruz
+quem venceu a própria morte,
+e, vestido de poder, ressurgiu após três dias.
+
+@antifona 2
+Como brilha a Cruz bendita do Senhor!
+De seus braços o corpo está pendente;
+ele lava com seu sangue nossas chagas.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Como brilha a Cruz bendita do Senhor!
+De seus braços o corpo está pendente;
+ele lava com seu sangue nossas chagas.
+
+@antifona 3
+Fulgurante resplandece a santa Cruz:
+por ela o mundo recupera a salvação,
+reina a cruz, triunfa a cruz, vence ao pecado. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Fulgurante resplandece a santa Cruz:
+por ela o mundo recupera a salvação,
+reina a cruz, triunfa a cruz, vence ao pecado. Aleluia.
+
+@secao Leitura breve | Hb 2,9b-10
+
+@texto
+Nós vemos a Jesus coroado de glória e honra, por ter sofrido a morte. Sim, pela graça de Deus em favor de todos, ele provou a morte. Convinha de fato que aquele, por quem e para quem todas as coisas existem, e que desejou conduzir muitos filhos à glória, levasse o iniciador da salvação deles à consumação, por meio de sofrimentos.
+
+@secao Responsório breve
+
+@responsorio
+R. Nós vos bendizemos e adoramos,
+* Ó Jesus, nosso Senhor. R. Nós vos.
+V. Por vossa cruz vós redimistes este mundo. * Ó Jesus.
+Glória ao Pai. R. Nós vos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Adoramos, Senhor, vosso Madeiro;
+vossa ressurreição nós celebramos.
+A alegria chegou ao mundo inteiro
+pela Cruz que nós hoje veneramos.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Adoramos, Senhor, vosso Madeiro;
+vossa ressurreição nós celebramos.
+A alegria chegou ao mundo inteiro
+pela Cruz que nós hoje veneramos.
+
+@secao Preces
+
+@preces
+Oremos ao nosso Redentor que nos remiu pela sua Cruz; e digamos com toda confiança:
+
+R. **Salvai-nos, Senhor, pela vossa Santa Cruz!**
+
+Filho de Deus, que pela imagem da serpente de bronze curastes o povo de Israel,
+– protegei-nos neste dia contra o veneno do pecado. R.
+
+Filho do homem, que fostes erguido na cruz como a serpente foi levantada por Moisés no deserto,
+– elevai-nos até à felicidade do vosso Reino. R.
+
+Filho unigênito do Pai, que fostes entregue à morte para que todo aquele que acredita em vós não pereça,
+– dai a vida eterna aos que procuram a vossa face. R.
+
+Filho bem-amado do Pai, que fostes enviado ao mundo não para condená-lo mas para salvá-lo,
+– concedei o dom da fé aos nossos familiares e amigos para que sejam salvos. R.
+
+Filho do Pai eterno, que viestes trazer o fogo à terra e quisestes vê-lo aceso,
+– fazei que, praticando a verdade, nos aproximemos da luz. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por Nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

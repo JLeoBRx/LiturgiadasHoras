@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/7segundaPascoa.htm
+@documento Ofício das Leituras - 7ª Semana Da Páscoa - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Senhor, Rei eterno e sublime,
+dos fiéis imortal Redentor!
+Morre a morte, por vós destruída,
+e triunfa, por graça, o amor.
+
+Sobre o trono celeste elevado,
+à direita do Pai vos sentais,
+e um poder é a vós concedido,
+que é do céu, não pertence aos mortais,
+
+para que todo ser que criastes
+nos abismos, na terra, ou nos céus
+ante vós, de joelhos, se incline,
+com respeito, adorando seu Deus.
+
+Tremem anjos, perante a mudança
+que o destino dos homens sofreu:
+peca a carne e a carne redime,
+reina a carne no Verbo de Deus.
+
+Sois, Senhor, nosso gozo e delícia,
+que a alegria do mundo ofuscais.
+Sois também nosso prêmio perene,
+vós que a todo o universo guiais.
+
+Suplicantes, portanto, rogamos:
+Nossas culpas, Senhor, perdoai.
+Pela força da graça divina,
+nossas mentes a vós elevai.
+
+Quando em glória voltardes na nuvem,
+a julgar as nações reunidas,
+afastai os devidos castigos,
+dai de novo as coroas perdidas.
+
+Honra a vós, ó Jesus glorioso,
+que às alturas dos céus ascendeis.
+Com o Pai e o Espírito Santo
+pelos séculos sem fim reinareis.
+
+@secao Salmodia
+
+@antifona 1
+Vem a nós o nosso Deus e nos fala abertamente. Aleluia.
+
+@salmo salmos/salmo-049-i
+
+@gloria
+
+@antifona
+Vem a nós o nosso Deus e nos fala abertamente. Aleluia.
+
+@antifona 2
+Oferece ao Senhor um sacrifício de louvor! Aleluia.
+
+@salmo salmos/salmo-049-ii
+
+@gloria
+
+@antifona
+Oferece ao Senhor um sacrifício de louvor! Aleluia.
+
+@antifona 3
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor! Aleluia.
+
+@salmo salmos/salmo-049-iii
+
+@gloria
+
+@antifona
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor! Aleluia.
+
+@texto
+V. Meu coração e minha carne rejubilam. Aleluia.
+R. E exultam de alegria no Deus vivo. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {4, 1-10}
+
+@tema
+Deus nos amou primeiro
+
+@texto
+[1] Caríssimos, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus, pois muitos falsos profetas vieram ao mundo. [2] Este é o critério para saber se uma inspiração vem de Deus: todo o espírito que leva a professar que Jesus Cristo veio na carne é de Deus; [3] e todo o espírito que não professa a fé em Jesus não é de Deus; é o espírito do Anticristo. Ouvistes dizer que o Anticristo virá; pois bem, ele já está no mundo. [4] Filhinhos, vós sois de Deus e vós vencestes o Anticristo. Pois convosco está quem é maior do que aquele que está no mundo. [5] Os vossos adver­sários são do mundo; por isso, agem conforme o mundo, e o mundo lhes presta ouvidos. [6] Nós somos de Deus. Quem conhece a Deus, escuta-nos; quem não é de Deus não nos escuta. Nisto reconhecemos o espírito da verdade e o espírito do erro. [7] Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus. [8] Quem não ama, não chegou a conhecer Deus, pois Deus é amor. [9] Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. [10] Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados.
+
+@secao Responsório | 1Jo 4,9; Jo 3,16
+
+@responsorio
+R. Nisto mostrou-se o amor de Deus para conosco:
+enviando-nos seu Filho Unigênito,
+* Para que quem nele crer, não pereça para sempre,
+mas possua a vida eterna. Aleluia.
+V. Tanto Deus amou o mundo, que lhe deu seu Filho único.
+* Para que.
+
+@secao Segunda leitura
+
+@leitura
+Das Catequeses de São Cirilo de Jerusalém, bispo
+{(Séc. IV)} {(Cat. 16, De Spiritu Sancto 1,11-12.16: PG 33,931-935.939-942)}
+
+@tema
+A água viva do Espírito Santo
+
+@texto
+_A água que eu lhe der se tornará nele fonte de água viva, que jorra para a vida eterna_ (Jo 4,14). Água diferente, esta que vive e jorra; mas jorra apenas sobre os que são dignos dela. Por que motivo o Senhor dá o nome de "água" à graça do Espírito Santo? Certamente porque tudo tem necessidade de água; ela sustenta as ervas e os animais. A água das chuvas cai dos céus; e embora caia sempre do mesmo modo e na mesma forma, produz efeitos muito variados. De fato, o efeito que produz na palmeira não é o mesmo que produz na videira; e assim em todas as coisas, apesar de sua natureza ser sempre a mesma e não poder ser diferente de si própria. Na verdade, a chuva não se modifica a si mesma em qualquer das suas manifestações. Contudo, ao cair sobre a terra, acomoda-se às estruturas dos seres que a recebem, dando a cada um deles o que necessita. Com o Espírito Santo acontece o mesmo. Sendo único, com uma única maneira de ser e indivisível, distribui a graça a cada um conforme lhe apraz. E assim como a árvore ressequida, ao receber água, produz novos rebentos, assim também a alma pecadora, ao receber do Espírito Santo o dom do arrependimento, produz frutos de justiça. O Espírito tem um só e o mesmo modo de ser; mas, por vontade de Deus e pelos méritos de Cristo, produz efeitos diversos. Serve-se da língua de uns para comunicar o dom da sabedoria; ilumina a inteligência de outros com o dom da profecia. A este dá o poder de expulsar os demônios; àquele concede o dom de interpretar as Sagradas Escrituras. A uns fortalece na temperança, a outros ensina a misericórdia; a estes inspira a prática do jejum e como suportar as austeridades da vida ascética; e àqueles o domínio das tendências carnais; a outros ainda prepara para o martírio. Enfim, manifesta-se de modo diferente em cada um, mas permanece sempre igual a si mesmo, como está escrito: _A cada um é dada a manifestação do Espírito em vista do bem comum_ (ICor 12,5). Branda e suave é a sua aproximação; benigna e agradá­vel é a sua presença; levíssimo é o seu jugo! A sua chegada é precedida por esplêndidos raios de luz e ciência. Ele vem com o amor entranhado de um irmão mais velho: vem para salvar, curar, ensinar, aconselhar, fortalecer, consolar, ilu­minar a alma de quem o recebe, e, depois, por meio desse, a alma dos outros. Quem se encontra nas trevas, ao nascer do sol recebe nos olhos a sua luz, começando a enxergar claramente coisas que até então não via. Assim também, aquele que se tornou digno do Espírito Santo, recebe na alma a sua luz e, elevado acima da inteligência humana, começa a ver o que antes ignorava.
+
+@secao Responsório | 1Cor 12,6-7.27
+
+@responsorio
+R. Os ministérios são diversos, o Senhor, porém, é o mesmo
+que realiza tudo em todos.
+* É dada a cada um a manifestação
+do Espírito para o bem de todos, aleluia.
+V. Sois o corpo de Cristo e, um dos outros, sois membros.
+* É dada.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que venha a nós a força do Espírito Santo, para que realizemos fielmente a vossa vontade e a manifestemos por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

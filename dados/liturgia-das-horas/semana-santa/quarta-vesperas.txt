@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/quartafeirasanta_vesperas.htm
+@documento Vésperas - Quarta-feira da Semana Santa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Do Rei avança o estandarte,
+fulge o mistério da Cruz,
+onde por nós foi suspenso
+o autor da vida, Jesus.
+
+Do lado morto de Cristo,
+ao golpe que lhe vibraram,
+para lavar meu pecado
+o sangue e água jorraram.
+
+Árvore esplêndida e bela,
+de rubra púrpura ornada,
+de os santos membros tocar
+digna só tu foste achada.
+
+Ó Cruz feliz, dos teus braços
+do mundo o preço pendeu;
+balança foste do corpo
+que ao duro inferno venceu.
+
+Salve, ó altar, salve vítima,
+eis que a vitória reluz:
+a vida em ti fere a morte,
+morte que à vida conduz.
+
+Salve, ó cruz, doce esperança,
+concede aos réus remissão;
+dá-nos o fruto da graça,
+que floresceu na Paixão.
+
+Louvor a vós, ó Trindade,
+fonte de todo perdão,
+aos que na Cruz foram salvos,
+dai a celeste mansão.
+
+@secao Salmodia
+
+@antifona 1
+Os ímpios disseram: Oprimamos o homem justo,
+ele é contra as nossas obras.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Os ímpios disseram: Oprimamos o homem justo,
+ele é contra as nossas obras.
+
+@antifona 2
+Carregou os pecados de muitos
+e pediu em favor dos injustos.
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Carregou os pecados de muitos
+e pediu em favor dos injustos.
+
+@antifona 3
+É no Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+É no Cristo que nós temos redenção,
+dos pecados remissão pelo seu sangue.
+
+@secao Leitura breve | Ef 4,32–5,2
+
+@texto
+Sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. Sede imitadores de Deus, como filhos que ele ama. Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor.
+
+@secao Responsório breve
+
+@responsorio
+R. Não há maior prova de amor, que dar a vida pelo amigo.
+* Ninguém tira a minha vida, eu a entrego livremente.
+R. Não há maior.
+V. A mesma coisa que vos fiz, vós deveis fazer também.
+* Ninguém tira. Glória ao Pai. R. Não há maior.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Diz o Mestre e Senhor: o meu tempo é chegado;
+eu farei minha Páscoa com os meus em tua casa.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Diz o Mestre e Senhor: o meu tempo é chegado;
+eu farei minha Páscoa com os meus em tua casa.
+
+@secao Preces
+
+@preces
+Adoremos o Salvador do gênero humano, que morrendo destruiu a morte e ressuscitando renovou a vida; e peçamos com humildade:
+
+R. **Santificai, Senhor, o povo que remistes com vosso sangue!**
+
+Jesus, nosso Redentor, concedei que, pela penitência, nos associemos cada vez mais plenamente à vossa Paixão,
+– a fim de alcançarmos a glória da ressurreição. R.
+
+Acolhei-nos sob a proteção de Maria, vossa Mãe, consoladora dos aflitos,
+– para podermos confortar os tristes com o mesmo auxílio que de vós recebemos. R.
+
+Concedei aos vossos fiéis a graça de tomar parte na vossa Paixão por meio dos sofrimentos da vida,
+– a fim de que também neles se manifeste a vossa salvação. R.
+
+Senhor Jesus, que vos humilhastes na obediência até à morte e morte de cruz,
+– ensinai-nos a ser obedientes e a sofrer com paciência. R.
+
+{(intenções livres)}
+
+Tornai os corpos de nossos irmãos e irmãs falecidos semelhantes à imagem do vosso corpo glorioso,
+– e fazei-nos dignos de participar um dia, com eles, da vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes vosso Filho padecer o suplício da cruz para arrancar-nos à escravidão do pecado, concedei aos vossos servos e servas, a graça da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

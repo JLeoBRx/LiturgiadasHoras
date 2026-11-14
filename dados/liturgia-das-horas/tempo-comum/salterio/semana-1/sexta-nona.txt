@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@antifona
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@antifona 2
+Confiando no Senhor, não vacilei.
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@antifona
+Confiando no Senhor, não vacilei.
+
+@antifona 3
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@secao Leitura breve | Cl 3,12-13
+
+@texto
+Vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também.
+
+@texto
+V. Misericórdia e piedade é o Senhor.
+R. Ele é amor, paciência e compaixão.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que fizestes o ladrão arrependido passar da cruz ao vosso Reino, aceitai a humilde confissão de nossas culpas e fazei que, no instante da morte, entremos com alegria no paraíso. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,298 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_ummartir_leituras.htm
+@documento Ofício das Leituras - Comum Dos Mártires Para Um(A) Mártir
+
+@celebracao
+COMUM DOS MÁRTIRES PARA UM(A) MÁRTIR
+
+@biografia
+Invitatório R. Ao Senhor, Rei dos mártires, vinde, adoremos! Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). –1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! –2 Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) –3 Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. –4 Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; –5 o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) –6 Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! =7 Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) =8 Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9 como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) =10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém. R. Ao Senhor, Rei dos mártires, vinde, adoremos!
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo(a) mártir, sê propício(a)
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor(a).
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo(a) a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso(a) intercessor(a);
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+Para uma virgem mártir:
+
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Vós sereis odiados por meu nome;
+quem for fiel até o fim há de ser salvo.
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta vida aqui na terra
+não se comparam com a glória que teremos.
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol,
+e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios {4,7-5,8}
+
+@tema
+Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem
+e, calúnias proferindo, disserem todo mal
+contra vós por minha causa.
+* Alegrai-vos e exultai,
+pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos
+por causa da justiça do Senhor,
+porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. IV)} {(Sermo 329, In natali martyrum: PL 38,1454-1456)}
+
+@tema
+A preciosa morte dos mártires comprada com o preço da morte de Cristo
+
+@texto
+Pelos feitos tão gloriosos dos mártires, que fazem a Igreja florescer por toda a parte, constatamos com nossos próprios olhos quanto é verdadeiro o que cantamos: _É preciosa aos olhos do Senhor a morte de seus santos_ (Sl 115,15); preciosa a nossos olhos, como aos olhos daquele por cujo nome se sofreu. Mas o preço destas mortes foi a morte de um só. Quantas mortes não terá comprado a morte de um só? Se não morresse, seria como o grão de trigo que não frutifica. Ouvistes suas palavras quando se aproximava da paixão, isto é, quando se aproximava da nossa redenção: _Se o grão de trigo, caindo em terra, não morrer, ficará sozinho; se, porém, morrer, produzirá muito fruto_ (Jo 12,24).
+
+Ele fez realmente na cruz um grande negócio. Aí foi aberta a bolsa do nosso preço: quando seu lado foi aberto pela lança do perseguidor, derramou-se o preço do mundo inteiro.
+
+Foram comprados fiéis e mártires; mas a fé dos mártires suportou uma prova: testemunho disso é o sangue derramado. Retribuíram o que lhes fora pago e realizaram as palavras de S. João: _Assim como Cristo deu a sua vida por nós, também nós devemos dar a vida pelos irmãos_ (1Jo 3,16).
+E noutro lugar, se diz: _Se te sentas a uma grande mesa, observa com atenção o que te servem, porque também tu deves preparar coisa igual_ (cf. Pr 23,1-4 – Vulg.). A grande mesa é aquela em que as iguarias são o próprio Senhor da mesa! Ninguém alimenta os convivas com a própria pessoa; isto faz o Cristo Senhor. Ele é quem convida, ele é o alimento e a bebida. Os mártires, pois, reconheceram o que comeram e beberam, para retribuírem coisa igual.
+
+Mas como retribuiriam, se aquele que foi o primeiro a pagar não lhes desse com que retribuir? Que nos sugere, então, o salmo que cantamos? É preciosa aos olhos do Senhor a morte de seus santos.
+
+Nele, o homem refletiu quanto recebeu de Deus; ponderou os numerosos benefícios da graça do Onipotente que o criou; que o procurou quando estava perdido; que o perdoou quando o encontrou; que o ajudou quando lutava com poucas forças; que não se afastou dele quando estava em perigo; que o coroou quando venceu; e que se lhe deu, ele mesmo, como prêmio. Considerou tudo isto e exclamou: _Que poderei retribuir ao Senhor por tudo aquilo que fez em meu favor? Elevarei o cálice da minha salvação_ (Sl 115,12-13).
+
+Que cálice é este? O cálice da paixão, amargo mas salutar; cálice que, se o médico não o bebesse antes, o doente recearia tocar. Ele próprio é este cálice; reconhecemo-lo nos lábios de Cristo ao dizer: _Pai, se for possível, afaste-se de mim este cálice_ (Mt 26,39).
+
+Deste mesmo cálice disseram os mártires: Elevarei o cálice da salvação e invocarei o nome do Senhor. Não tens medo que para isso te faltem as forças? Não, respondes. Por quê? Porque invocarei o nome do Senhor. Como poderiam os mártires vencer, se não vencesse neles aquele que disse: _Alegrai-vos, porque eu venci o mundo?_ (Jo 16,33). O soberano dos céus dirigia-lhes o espírito e a palavra; através deles, derrotava o demônio na terra e coroava os mártires no céu. Ó ditosos os que assim beberam deste cálice! Terminaram as dores e receberam as honras.
+Portanto, prestai atenção, caríssimos: o que não podeis ver com os olhos, meditai-o com a mente e o coração, e vede como é preciosa aos olhos do Senhor a morte de seus santos.
+
+@secao Responsório | 2Tm 4,7-8; Fl 3,8-10
+
+@responsorio
+R. Combati o bom combate, terminei minha carreira,
+conservei a minha fé;
+* Só me resta receber a coroa da justiça.
+V. Quis perder todas as coisas, para o Cristo conquistar
+e partilhar seus sofrimentos, sendo igual na morte a ele.* Só me resta.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Deus onipotente e misericordioso, destes a são (sto.{) N.} superar as torturas do martírio. Concedei que, celebrando o dia do seu triunfo, passemos invictos por entre as ciladas do inimigo, graças à vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Deus eterno e todo-poderoso, que destes a são(sto.{) N.}. a graça de lutar pela justiça até a morte, concedei-nos, por sua intercessão, suportar por vosso amor as adversidades, e correr ao encontro de vós que sois a nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma virgem mártir:
+
+@texto
+Ó Deus, que hoje nos alegrais com a comemoração de santa{N.}, concedei que sejamos ajudados pelos seus méritos e iluminados pelos seus exemplos de castidade e fortaleza. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para uma santa mulher:
+
+@texto
+Ó Deus, cuja força se manifesta na fraqueza, fazei que, ao celebrarmos a glória de santa {N.}, que de vós recebeu a força para vencer, obtenhamos, por sua intercessão, a graça da vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

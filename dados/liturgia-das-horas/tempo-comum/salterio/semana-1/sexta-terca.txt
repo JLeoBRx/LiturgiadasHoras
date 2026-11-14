@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@antifona
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@antifona 2
+Confiando no Senhor, não vacilei.
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@antifona
+Confiando no Senhor, não vacilei.
+
+@antifona 3
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@secao Leitura breve | Fl 2,2b-4
+
+@texto
+Aspirai à mesma coisa, unidos no mesmo amor; vivei em harmonia, procurando a unidade. Nada façais por competição ou vanglória, mas, com humildade, cada um julgue que o outro é mais importante, e não cuide somente do que é seu, mas também do que é do outro.
+
+@texto
+V. Verdade e amor são os caminhos do Senhor,
+R. Para quem guarda sua Aliança e seus preceitos.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que nesta hora fostes levado ao suplício da cruz para salvar o mundo, perdoai-nos as faltas passadas e preservai-nos de culpas futuras. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

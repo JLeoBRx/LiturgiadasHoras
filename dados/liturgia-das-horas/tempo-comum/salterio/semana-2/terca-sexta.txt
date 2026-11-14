@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2terca_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nesta terra de exílio guardarei vossos preceitos.
+
+@salmo salmos/salmo-118-49-56-vi-zain
+
+@gloria
+
+@antifona
+Nesta terra de exílio guardarei vossos preceitos.
+
+@antifona 2
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@antifona
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@antifona 3
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@secao Leitura breve | 1Cor 12,12-13
+
+@texto
+Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito.
+
+@texto
+V. Guardai-me, Pai santo, em vosso nome,
+R. Para sermos perfeitos na unidade!
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes a Pedro vosso plano de salvação para todos os povos, fazei que nossos trabalhos vos agradem e, pela vossa graça, sirvam ao vosso desígnio de amor e redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

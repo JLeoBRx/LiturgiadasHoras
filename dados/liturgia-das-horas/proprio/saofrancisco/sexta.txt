@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saofrancisco_sexta.htm
+@documento Hora Média - São Francisco de Assis
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Quem vos recebe, a mim recebe;
+quem me recebe, ao Pai recebe. Aleluia.
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Quem vos recebe, a mim recebe;
+quem me recebe, ao Pai recebe. Aleluia.
+
+@secao Leitura breve | 1Cor 9,26-27b
+
+@texto
+Eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa-nova aos outros, eu mesmo seja reprovado.
+
+@texto
+V. É feliz, ó Senhor, quem formais,
+R. E educais nos caminhos da Lei.
+
+@secao Oração
+
+@oracao
+Ó Deus, que não cessais de elevar à glória da santidade os vossos servos fiéis e prudentes, concedei que nos inflame o fogo do Espírito Santo que ardia no coração de São Francisco de Assis. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

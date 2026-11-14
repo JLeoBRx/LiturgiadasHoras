@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5quartaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 17,48-49
+@texto
+Vós me libertais, Senhor, da ira dos meus inimigos;
+vós me fazeis triunfar sobre os meus agressores
+e do homem violento me salvais.
+
+@secao Coleta
+@texto
+Ó Deus de misericórdia,
+iluminai nossos corações purificados pela penitência,
+e ouvi com paternal bondade
+aqueles a quem dais o afeto filial.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor,
+as oferendas que nos destes,
+a fim de que oferecidas em vossa honra
+possam tornar-se remédio para nós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Cl 1,13-14
+@texto
+Deus nos transferiu para o reino do seu Filho amado,
+no qual temos a redenção, o perdão dos pecados.
+
+@secao Depois da comunhão
+@texto
+Senhor, o sacramento recebido
+nos seja remédio de salvação,
+purifique os vícios dos nossos corações
+e nos mantenha sob a vossa proteção.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Ó Deus todo-poderoso,
+atendei às súplicas do vosso povo
+e concedei benigno os frutos da vossa eterna misericórdia
+aos que esperam confiantes em vossa bondade.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_terca.htm
+@documento Hora Média - Ascensão do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Surge a hora terceira, em que Cristo
+foi, por nós, elevado na cruz;
+fuja a mente de toda soberba,
+vá na prece buscar sua luz.
+
+Quem o Cristo acolheu no seu íntimo,
+deve ter sempre pura intenção,
+implorando ao Espírito Santo
+que ele habite no seu coração.
+
+Esta hora pôs fim à velhice,
+destruindo do crime as raízes;
+e, a seguir, pela graça de Cristo,
+começaram os tempos felizes.
+
+Glória a vós, que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+e a chama de Amor, Santo Espírito,
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona
+Vossa glória, Senhor, é mais alta que os céus. Aleluia.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+Vossa glória, Senhor, é mais alta que os céus. Aleluia.
+
+@secao Leitura breve | Cf. Ap 1,17c-18
+
+@texto
+Vi o Filho do homem, que me disse: Eu sou o Primeiro e o Último, aquele que vive. Estive morto, mas agora estou vivo para sempre. Eu tenho a chave da morte e da região dos mortos.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/santateresinha.htm
+
+@secao Antífona da entrada | Cf. Dt 32,10-12
+@texto
+O Senhor cercou-a de cuidados e a instruiu;
+guardou-a como a pupila dos seus olhos.
+Como águia estendeu as suas asas,
+tomou-a e levou-a nos seus ombros.
+Somente o Senhor foi o seu guia.
+
+@secao Coleta
+@texto
+Ó Deus, que preparais o vosso reino
+para os pequenos e humildes,
+fazei-nos seguir confiantes
+o caminho de Santa Teresinha do Menino Jesus,
+para que, por sua intercessão,
+nos seja revelada a vossa glória eterna.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, proclamando-vos admirável,
+em Santa Teresinha do Menino Jesus,
+humildemente nós vos pedimos:
+como vos foram agradáveis os méritos da sua vida,
+assim também vos agrade o serviço do nosso culto.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 18,3
+@texto
+Se não vos converterdes,
+e não vos tornardes como crianças,
+não entrareis no reino dos céus, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, o sacramento que recebemos
+acenda em nós a força daquele amor
+que levou Santa Teresinha do Menino Jesus
+a se consagrar inteiramente a vós
+e a implorar vossa misericórdia para todos.
+Por Cristo, nosso Senhor.

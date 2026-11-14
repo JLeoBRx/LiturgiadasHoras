@@ -1,0 +1,254 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/divinamisericordia.htm
+@documento Ofício das Leituras - Segundo Domingo Da Páscoa Ou Da Divina Misericórdia
+
+@celebracao
+SEGUNDO DOMINGO DA PÁSCOA ou da Divina Misericórdia
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+“Eu sou o que Sou”, o Senhor!
+Com os maus não está meu querer,
+é a lei de meu Deus meu prazer. Aleluia.
+
+@salmo salmos/salmo-001
+
+@gloria
+
+@antifona
+“Eu sou o que Sou”, o Senhor!
+Com os maus não está meu querer,
+é a lei de meu Deus meu prazer. Aleluia.
+
+@antifona 2
+Eu pedi ao meu Pai, e ele me deu
+por minha herança os povos todos e as nações.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Eu pedi ao meu Pai, e ele me deu
+por minha herança os povos todos e as nações.
+
+@antifona 3
+Eu me deito e adormeço bem tranquilo;
+acordo em paz, pois o Senhor é meu sustento. Aleluia.
+
+@salmo salmos/salmo-003
+
+@gloria
+
+@antifona
+Eu me deito e adormeço bem tranquilo;
+acordo em paz, pois o Senhor é meu sustento. Aleluia.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Colossenses {3,1-17}
+
+@tema
+Vida nova
+
+@texto
+Irmãos: [1] Se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; [2] aspirai às coisas celestes e não às coisas terrestres. [3] Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. [4] Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória.
+
+[5] Portanto, fazei morrer o que em vós pertence à terra: imoralidade, impureza, paixão, maus desejos e a cobiça, que é idolatria. [6] Tais coisas provocam a ira de Deus contra os que lhe resistem. [7] Antigamente vós estáveis enredados por estas coisas e vos deixastes dominar por elas. [8] Agora, porém, abandonai tudo isso: ira, irritação, maldade, blasfêmia, palavras indecentes, que saem dos vossos lábios. [9] Não mintais uns aos outros. Já vos despojastes do homem velho e da sua maneira de agir [10] e vos revestistes do homem novo, que se renova segundo a imagem do seu Criador, em ordem ao conhecimento. [11] Aí não se faz distinção entre grego e judeu, circunciso e incircunciso, inculto, selvagem, escravo e livre, mas Cristo é tudo em todos.
+
+[12] Vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, [13] suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. [14] Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. [15] Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos.
+
+[16] Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. [17] Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai.
+
+@secao Responsório | Cl 3,1.2.3
+
+@responsorio
+R. Se com Cristo ressurgistes, procurai o que é do alto;
+onde Cristo está sentado à direita de Deus Pai;
+* Pensai nas coisas lá do alto,
+não nas que são desta terra. Aleluia.
+V. Pois morrestes, meus irmãos,
+e vossa vida está escondida em Deus, com Jesus Cristo.
+* Pensai.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo 8, in octava Paschae 1. 4: PL46, 838. 841)}
+
+@tema
+Nova criatura em Cristo
+
+@texto
+Minha palavra se dirige a vós, filhos recém-nascidos, pequeninos em Cristo, nova prole da Igreja, graça do Pai, fecundidade da Mãe, germe santo, multidão renovada, flor de nossa honra e fruto do nosso trabalho, minha alegria e coroa, todos vós que permaneceis firmes no Senhor. É com palavras do Apóstolo que vos falo: Revesti-vos do Senhor Jesus Cristo e não deis atenção à carne para satisfazer as suas paixões (Rm 13,14), a fim de que, também na vida, vos revistais daquele que revestistes no sacramento. Todos vós que fostes batizados em Cristo vos revestistes de Cristo. O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo (Gl 3,27-28).
+
+Nisto reside a força do sacramento: é o sacramento da vida nova que começa no tempo presente pela remissão de todos os pecados passados, e atingirá sua plenitude na ressurreição dos mortos. Pelo batismo na sua morte, fostes sepultados com Cristo, para que, como Cristo ressuscitou dos mortos, assim também leveis uma vida nova (cf. Rm 6,4). Agora caminhais pela fé, vivendo neste corpo mortal como peregrinos longe do Senhor.
+Mas o vosso caminho seguro é aquele mesmo para quem vos dirigis, Jesus Cristo, que se fez homem por amor de nós. Para os seus fiéis ele preparou um grande tesouro de felicidade, que há de revelar e dar abundantemente a todos os que nele esperam, quando recebermos na realidade aquilo que recebemos agora só na esperança.
+
+Hoje é o oitavo dia do vosso nascimento. Hoje completa-se em vós o sinal da fé que, entre os antigos patriarcas, consistia na circuncisão do corpo no oitavo dia depois do nascimento segundo a carne. Por isso, o próprio Senhor, despojando-se por sua ressurreição da mortalidade da carne e revestindo-se de um corpo não diferente mas imortal, ao ressuscitar consagrou o “dia do Senhor”, que é o terceiro dia depois de sua paixão, mas na contagem semanal dos dias, é o oitavo a partir do sábado, e coincide com o primeiro dia da semana.
+
+Por conseguinte, também vós participais do mesmo mistério, não ainda na realidade perfeita mas na certeza da esperança,porque recebestes a garantia do Espírito. Com efeito, se ressuscitastes com Cristo, esforçai-vos por alcançar as coisas do alto, onde está Cristo, sentado à direita de Deus; aspirai às coisas celestes e não às coisas terrestres. Pois vós morrestes, e a vossa vida está escondida, com Cristo, em Deus. Quando Cristo, vossa vida, aparecer em seu triunfo, então vós aparecereis também com ele, revestidos de glória (Gl 3,1-4).
+
+@secao Responsório | Cl 3,3-4; Rm 6,11
+
+@responsorio
+R. Vós morrestes, meus irmãos, e vossa vida está escondida
+em Deus com Jesus Cristo.
+* Quando Cristo, vossa vida, aparecer em sua glória,
+vós sereis manifestados com ele igualmente. Aleluia.
+V. Considerai-vos, como mortos ao pecado,
+mas vivendo para Deus em Jesus Cristo.
+* Quando Cristo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus de eterna misericórdia, que reacendeis a fé do vosso povo na renovação da festa pascal, aumentai a graça que nos destes. E fazei que compreendamos melhor o Batismo que nos lavou, o Espírito que nos deu vida nova, e o Sangue que nos remiu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

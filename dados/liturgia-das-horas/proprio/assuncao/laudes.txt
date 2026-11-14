@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/assuncao_laudes.htm
+@documento Laudes - Assunção da Bem-aventurada Virgem Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+De sol, ó Virgem, vestida,
+de branca lua calçada;
+de doze estrelas-coroas
+Coroada.
+
+A terra toda te canta,
+da morte Dominadora.
+No céu a ti temos, todos,
+Protetora.
+
+Fiel, conserva os fiéis,
+procura a ovelha perdida.
+Brilha na treva da morte,
+Luz e Vida.
+
+Ao pecador auxilia,
+ao triste, ao fraco e ao pobre.
+Com o teu manto materno
+Todos cobre!
+
+Louvor à excelsa Trindade.
+Que dê a coroa a quem
+ele fez Mãe e Rainha
+nossa. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Agora gozais na glória com Deus.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Bendita sejais, ó Virgem Maria,
+por vós veio ao mundo o Deus Salvador!
+Agora gozais na glória com Deus.
+
+@antifona 2
+A Virgem Maria foi hoje elevada acima dos anjos:
+Alegremo-nos todos, louvando o Senhor!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+A Virgem Maria foi hoje elevada acima dos anjos:
+Alegremo-nos todos, louvando o Senhor!
+
+@antifona 3
+O Senhor engrandeceu
+de tal maneira o vosso nome,
+que o louvor que mereceis
+nunca cesse em nossos lábios.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O Senhor engrandeceu
+de tal maneira o vosso nome,
+que o louvor que mereceis
+nunca cesse em nossos lábios.
+
+@secao Leitura breve | Cf. Is 61,10
+
+@texto
+Exulto de alegria no Senhor e minh’alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me qual noiva com suas joias.
+
+@secao Responsório breve
+
+@responsorio
+R. Hoje a Virgem Maria
+* Subiu para os céus. R. Hoje a Virgem.
+V. E triunfa com Cristo sem fim, pelos séculos. * Subiu.
+Glória ao Pai. R. Hoje a Virgem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Resplendente de beleza, fulgurante como a aurora,
+ó Filha de Sião, vós subistes para os céus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Resplendente de beleza, fulgurante como a aurora,
+ó Filha de Sião, vós subistes para os céus.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Palavra eterna do Pai, que escolhestes Maria como arca incorruptível para vossa morada,
+– livrai-nos da corrupção do pecado. R.
+
+Redentor nosso, que fizestes da Imaculada Virgem Maria o tabernáculo puríssimo da vossa presença e o sacrário do Espírito Santo,
+– fazei de nós templos vivos do vosso Espírito. R.
+
+Rei dos reis, que quisestes ter vossa Mãe convosco no céu em corpo e alma,
+– fazei que aspiremos sempre aos bens do alto. R.
+
+Senhor do céu e da terra, que colocastes Maria como rainha à vossa direita,
+– dai-nos a alegria de participar um dia com ela da mesma glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que elevastes à glória do céu em corpo e alma a imaculada Virgem Maria, Mãe do vosso Filho, dai-nos viver atentos às coisas do alto a fim de participarmos da sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

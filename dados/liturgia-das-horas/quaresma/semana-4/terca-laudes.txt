@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/4tercaquaresma_laudes.htm
+@documento Laudes - Terça-feira da 4ª Semana da Quaresma
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó Cristo, sol de justiça,
+brilhai nas trevas da mente.
+Com força e luz, reparai
+a criação novamente.
+
+Dai-nos, no tempo aceitável,
+um coração penitente,
+que se converta e acolha
+o vosso amor paciente.
+
+A penitência transforme
+tudo o que em nós há de mal.
+É bem maior que o pecado
+o vosso dom sem igual.
+
+Um dia vem, vosso dia,
+e tudo então refloresce.
+Nós, renascidos na graça,
+exultaremos em prece.
+
+A vós, Trindade clemente,
+com toda a terra adoramos,
+e no perdão renovados
+um canto novo cantamos.
+
+@secao Salmodia
+
+@antifona 1
+Cantarei os meus hinos a vós, ó Senhor;
+desejo trilhar o caminho do bem.
+
+@salmo salmos/salmo-100
+
+@gloria
+
+@antifona
+Cantarei os meus hinos a vós, ó Senhor;
+desejo trilhar o caminho do bem.
+
+@antifona 2
+Senhor Deus, não nos tireis vosso favor!
+
+@salmo canticos/dn-3-26-27-29-34-41
+
+@gloria
+
+@antifona
+Senhor Deus, não nos tireis vosso favor!
+
+@antifona 3
+Um canto novo, meu Deus, vou cantar-vos.
+
+@salmo salmos/salmo-143-1-10-v2
+
+@gloria
+
+@antifona
+Um canto novo, meu Deus, vou cantar-vos.
+
+@secao Leitura breve | Jl 2,12-13
+
+@texto
+Voltai para mim com todo o vosso coração, com jejuns, lágrimas e gemidos; rasgai o coração, e não as vestes; e voltai para o Senhor, vosso Deus; ele é benigno e compassivo, paciente e cheio de misericórdia, inclinado a perdoar o castigo.
+
+@secao Responsório breve
+
+@responsorio
+R. Curai-me, ó Deus Santo,
+* Pois pequei contra vós! R. Curai-me.
+V. Tende piedade de mim, renovai-me! * Pois pequei.
+Glória ao Pai. R. Curai-me.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus que me curou é quem mandou:
+Toma teu leito, caminha e vai em paz!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus que me curou é quem mandou:
+Toma teu leito, caminha e vai em paz!
+
+@secao Preces
+
+@preces
+Rendamos graças a Deus Pai, que nos deu o seu Filho Unigênito, a Palavra que se fez carne, para ser nosso alimento e nossa vida; e supliquemos:
+
+R. **Que a palavra de Cristo habite em nossos corações!**
+
+Concedei-nos escutar com mais frequência a vossa palavra, nesta quaresma,
+– para louvarmos a Cristo, nossa Páscoa, com maior piedade e devoção, na grande solenidade que se aproxima. R.
+
+Que o vosso Espírito Santo nos ensine,
+– e nos faça testemunhas da vossa verdade e bondade para animar os que vacilam e os que erram. R.
+
+Fazei-nos viver mais profundamente o mistério de Cristo,
+– e manifestá-lo mais claramente em nossa vida. R.
+
+Purificai e renovai a vossa Igreja neste tempo de graça,
+– para que ela proclame cada vez melhor a vossa vontade e a vossa salvação. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que a fiel observância dos exercícios quaresmais prepare o coração dos vossos filhos e filhas para acolher com amor o mistério pascal e anunciar ao mundo a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

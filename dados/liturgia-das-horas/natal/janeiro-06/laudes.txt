@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/6janeiro_laudes.htm
+@documento 6janeiro_laudes.htm
+
+@secao Leitura breve | Is 61,1-2a
+
+@texto
+O espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu; enviou-me para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; para proclamar o tempo da graça do Senhor.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+É este o que veio pela água e pelo sangue,
+Jesus Cristo, Senhor nosso.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+É este o que veio pela água e pelo sangue,
+Jesus Cristo, Senhor nosso.
+
+@secao Preces
+
+@preces
+Celebremos dignamente o Verbo de Deus, que existe antes dos séculos e quis, por nosso amor, nascer no tempo; e aclamemos jubilosos:
+
+R. **Alegre-se a terra porque viestes!**
+
+Cristo, Verbo eterno, que, descendo à terra, a enchestes de exultação,
+– alegrai o nosso coração com a graça da vossa visita. R.
+
+Salvador do mundo, que pelo vosso natal nos revelastes a fidelidade de Deus à sua aliança,
+– fazei-nos cumprir com fidelidade as promessas do nosso batismo. R.
+
+Rei do céu e da terra, que enviastes os anjos para anunciar a paz aos homens.
+– conservai na vossa paz os nossos dias. R.
+
+Senhor, que viestes para ser a videira que nos dá os frutos da vida,
+– fazei-nos permanecer unidos a vós, e dar frutos de santidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, sede a luz dos vossos fiéis e abrasai seus corações com o esplendor da vossa glória, para reconhecerem sempre o Salvador e a ele aderirem totalmente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

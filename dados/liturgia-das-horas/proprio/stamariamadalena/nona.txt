@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/stamariamadalena_nona.htm
+@documento Hora Média - Santa Maria Madalena
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Eu sou toda do Senhor, e o Senhor é todo meu.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+Eu sou toda do Senhor, e o Senhor é todo meu.
+
+@secao Leitura breve | Fl 4,8.9b
+
+@texto
+Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. Assim o Deus da paz estará convosco.
+
+@texto
+V. Eu quero cantar os meus hinos a Deus.
+R. Desejo trilhar o caminho do bem.
+
+@secao Oração
+
+@oracao
+Ó Deus, o vosso Filho confiou a Maria Madalena o primeiro anúncio da alegria pascal; dai-nos, por suas preces e a seu exemplo, anunciar também que o Cristo vive e contemplá-lo na glória de seu Reino. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

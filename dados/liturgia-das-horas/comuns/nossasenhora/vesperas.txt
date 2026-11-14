@@ -1,0 +1,211 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_nossasenhora_vesperas.htm
+@documento Vésperas - COMUM DE NOSSA SENHORA
+
+@titulo COMUM DE NOSSA SENHORA
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(Aleluia.)}
+
+@secao Hino
+
+@hino
+Ave, do mar Estrela,
+bendita Mãe de Deus,
+fecunda e sempre Virgem,
+portal feliz dos céus.
+
+Ouvindo aquele Ave
+do anjo Gabriel,
+mudando de Eva o nome,
+trazei-nos paz do céu.
+
+Ao cego iluminai,
+ao réu livrai também;
+de todo mal guardai-nos
+e dai-nos todo o bem.
+
+Mostrai ser nossa Mãe,
+levando a nossa voz
+a Quem, por nós nascido,
+dignou-se vir de vós.
+
+Suave mais que todas,
+ó Virgem sem igual,
+fazei-nos mansos, puros,
+guardai-nos contra o mal.
+
+Oh! dai-nos vida pura,
+guiai-nos para a luz,
+e um dia, ao vosso lado,
+possamos ver Jesus.
+
+Louvor a Deus, o Pai,
+e ao Filho, Sumo Bem,
+com seu Divino Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo!
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Maria, alegra-te, ó cheia de graça,
+o Senhor é contigo!
+
+@antifona 2
+Eis a serva do Senhor:
+realize-se em mim a Palavra do Senhor.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Eis a serva do Senhor:
+realize-se em mim a Palavra do Senhor.
+
+@antifona 3
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre!
+
+@salmo canticos/ef-1-3-10-v5
+
+@gloria
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre!
+
+@secao Leitura breve | Gl 4,4-5
+
+@texto
+Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo! R. Maria.
+V. És bendita entre todas as mulheres da terra e bendito é o fruto que nasceu do teu ventre! * O Senhor.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+És feliz porque creste, Maria, pois em ti a Palavra de Deus vai cumprir-se conforme ele disse.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+És feliz porque creste, Maria, pois em ti a Palavra de Deus vai cumprir-se conforme ele disse.
+
+@secao Preces
+
+@preces
+Proclamemos a grandeza de Deus Pai todo-poderoso: Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Deus, autor de tantas maravilhas, que fizestes a Imaculada Virgem Maria participar em corpo e alma da glória celeste de Cristo,
+– conduzi para a mesma glória os corações de vossos filhos e filhas. R.
+
+Vós, que nos destes Maria por Mãe, concedei, por sua intercessão, saúde aos doentes, consolo aos tristes, perdão aos pecadores,
+– e a todos a salvação e a paz. R.
+
+Vós, que fizestes de Maria a cheia de graça,
+– concedei a todos a abundância da vossa graça. R.
+
+Fazei, Senhor, que a vossa Igreja seja, na caridade, um só coração e uma só alma,
+– e que todos os fiéis perseverem unânimes na oração com Maria, Mãe de Jesus. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+@rubrica
+Ou:
+
+@texto
+Proclamemos a grandeza de Deus Pai todo-poderoso! Ele quis que Maria, Mãe de seu Filho, fosse celebrada por todas as gerações. Peçamos humildemente:
+
+R. **Cheia de graça, intercedei por nós!**
+
+Vós, que fizestes de Maria a Mãe da misericórdia,
+– concedei a todos os que estão em perigo sentirem o seu amor materno. R.
+
+Vós, que confiastes a Maria a missão de mãe de família no lar de Jesus e José,
+– fazei que, por sua intercessão, todas as mães vivam em família o amor e a santidade. R.
+
+Vós, que destes a Maria força para ficar de pé junto à cruz, e a enchestes de alegria com a ressurreição de vosso Filho,
+– socorrei os atribulados e confortai-os na esperança. R.
+
+Vós, que fizestes de Maria a serva fiel e atenta à vossa palavra,
+– fazei de nós, por sua intercessão, servos e discípulos de vosso Filho. R.
+
+{(intenções livres)}
+
+Vós, que coroastes Maria como rainha do céu,
+– fazei que nossos irmãos e irmãs falecidos se alegrem eternamente em vosso reino, na companhia dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@texto
+Senhor nosso Deus, concedei-nos sempre saúde de alma e corpo, e fazei que, pela intercessão da Virgem Maria, libertos das tristezas presentes, gozemos as alegrias eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Perdoai, ó Deus, os pecados dos vossos filhos e filhas, e salvai-nos pela intercessão da Virgem Maria, uma vez que não podemos agradar-vos apenas com os nossos méritos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus de misericórdia, socorrei a nossa fraqueza e concedei-nos ressurgir dos nossos pecados pela intercessão da Mãe de Jesus Cristo, cuja memória hoje celebramos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Valha-nos, ó Deus, a intercessão da sempre Virgem Maria, para que, livres de todos os perigos, vivamos em vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Fazei, ó Deus, que, ao celebrarmos a memória da Virgem Maria, possamos também, por sua intercessão, participar da plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus todo-poderoso, pela intercessão de Maria, nossa Mãe, socorrei os fiéis que se alegram com a sua proteção, livrando-os de todo mal neste mundo e dando-lhes a alegria do céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

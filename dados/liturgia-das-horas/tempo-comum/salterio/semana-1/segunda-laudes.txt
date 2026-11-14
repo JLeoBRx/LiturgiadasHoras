@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1segunda_laudes.htm
+@documento Laudes - Segunda-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Clarão da glória do Pai,
+ó Luz, que a Luz origina,
+sois Luz da Luz, fonte viva,
+sois Luz que ao dia ilumina.
+
+Brilhai, ó Sol verdadeiro,
+com vosso imenso esplendor,
+e dentro em nós derramai
+do Santo Espírito o fulgor.
+
+Também ao Pai suplicamos,
+ao Pai a glória imortal,
+ao Pai da graça potente,
+que a nós preserve do mal.
+
+Na luta fortes nos guarde
+vencendo o anjo inimigo.
+Nas quedas, dê-nos a graça,
+de nós afaste o perigo.
+
+As nossas mentes governe
+num corpo casto e sadio.
+A nossa fé seja ardente,
+e não conheça desvio.
+
+O nosso pão seja o Cristo,
+e a fé nos seja a bebida.
+O Santo Espírito bebamos
+nas fontes puras da vida.
+
+Alegre passe este dia,
+tão puro quanto o arrebol.
+A fé, qual luz cintilante,
+refulja em nós como o sol.
+
+A aurora em si traz o dia.
+Vós, como aurora, brilhai:
+ó Pai, vós todo no Filho,
+e vós, ó Verbo, no Pai.
+
+@secao Salmodia
+
+@antifona 1
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@salmo salmos/salmo-005-2-10-12-13
+
+@gloria
+
+@antifona
+Eu dirijo a minha prece a vós, Senhor,
+e de manhã já me escutais.
+
+@antifona 2
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@antifona
+Nós queremos vos louvar, ó nosso Deus,
+e celebrar o vosso nome glorioso.
+
+@antifona 3
+Adorai o Senhor no seu templo sagrado.
+
+@salmo salmos/salmo-028
+
+@gloria
+
+@antifona
+Adorai o Senhor no seu templo sagrado.
+
+@secao Leitura breve | 2Ts 3,10b-13
+
+@texto
+Quem não quer trabalhar, também não deve comer. Ora, ouvimos dizer que entre vós há alguns que vivem à toa, muito ocupados em não fazer nada. Em nome do Senhor Jesus Cristo, ordenamos e exortamos a estas pessoas que, trabalhando, comam na tranquilidade o seu próprio pão. E vós mesmos, irmãos, não vos canseis de fazer o bem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor seja bendito,
+* Bendito seja eternamente! R. O Senhor.
+V. Só o Senhor faz maravilhas. * Bendito seja.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendito seja o Senhor, nosso Deus!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendito seja o Senhor, nosso Deus!
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, em quem habita toda a plenitude da graça e do Espírito Santo; e imploremos com amor e confiança:
+
+R. **Dai-nos, Senhor, o vosso Espírito!**
+
+Concedei-nos que este dia seja agradável, pacífico e sem mancha,
+– para que, ao chegar a noite, vos possamos louvar com alegria e pureza de coração. R.
+
+Brilhe hoje sobre nós a vossa luz,
+– e dirigi o trabalho de nossas mãos. R.
+
+Mostrai-nos vosso rosto de bondade, para vivermos este dia em paz,
+– e que a vossa mão poderosa nos proteja. R.
+
+Olhai com benignidade aqueles que se confiaram às nossas orações,
+– e enriquecei-os com todos os bens da alma e do corpo. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Inspirai, Senhor, as nossas ações e ajudai-nos a realizá-las, para que em vós comece e termine tudo aquilo que fizermos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

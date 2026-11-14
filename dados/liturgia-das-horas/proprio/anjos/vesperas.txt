@@ -1,0 +1,137 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anjos_vesperas.htm
+@documento Vésperas - Santos Anjos da Guarda
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Aos anjos cantemos, que guardem a todos,
+que aos homens, tão frágeis, Deus Pai quis juntar;
+e assim assistidos, na terra lutando,
+no rude combate não venham tombar.
+
+Pois eis que um dos anjos, roído de orgulho,
+os planos divinos não quis aceitar:
+e aos homens, chamados à pátria celeste,
+na mesma revolta deseja arrastar.
+
+Ó Anjo da Guarda, vem logo assistir-nos,
+cumprir, vigilante, tão grande missão:
+afasta da terra pecados, doenças,
+conserva nos lares a paz e a união!
+
+Louvor seja dado ao Deus uno e trino,
+à suma Trindade, por mando de quem
+os anjos governam, dirigem o mundo,
+e à pátria onde vivem nos levam também.
+
+@secao Salmodia
+
+@antifona 1
+O anjo do Senhor vem acampar
+ao redor dos que o temem, e os salva.
+
+@salmo salmos/salmo-033-i
+
+@gloria
+
+@antifona
+O anjo do Senhor vem acampar
+ao redor dos que o temem, e os salva.
+
+@antifona 2
+Que viva o Senhor, pois seu anjo me guardou!
+
+@salmo salmos/salmo-033-ii
+
+@gloria
+
+@antifona
+Que viva o Senhor, pois seu anjo me guardou!
+
+@antifona 3
+Bendizei o Deus do céu e dai-lhe glória
+na presença de todo ser vivente,
+porque mostrou o seu amor para convosco.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+Bendizei o Deus do céu e dai-lhe glória
+na presença de todo ser vivente,
+porque mostrou o seu amor para convosco.
+
+@secao Leitura breve | Ap 8,3-4
+
+@texto
+Veio um anjo que se colocou perto do altar, com um turíbulo de ouro. Ele recebeu uma grande quantidade de incenso, para oferecê-lo com as orações de todos os santos, no altar de ouro que está diante do trono. E da mão do anjo subia até Deus a fumaça do incenso com as orações dos santos.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor deu uma ordem a seus anjos
+* Para em todos os caminhos te guardarem. R. O Senhor.
+V. Eles hão de te levar em suas mãos. * Para em todos.
+Glória ao Pai. R. O Senhor
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Os anjos das crianças sempre veem
+a face do meu Pai que está nos céus.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Os anjos das crianças sempre veem
+a face do meu Pai que está nos céus.
+
+@secao Preces
+
+@preces
+Peçamos ao Senhor que, juntamente com os anjos, que fazem a sua vontade, nos disponha cada vez melhor a ouvir a sua palavra; e lhe demos graças, dizendo:
+
+R. **Com os anjos cantamos o hino da vossa glória!**
+
+Senhor, que fizestes dos anjos mensageiros das vossas maravilhas,
+– fazei de nós, com a sua ajuda, testemunhas da vossa grandeza diante de todos. R.
+
+Senhor altíssimo, a quem os anjos proclamam santo sem cessar,
+– fazei que na Igreja ressoe continuamente o vosso louvor. R.
+
+Senhor, que mandastes os anjos para guardarem os vossos servos em todos os seus caminhos,
+– dai a todos os que viajam um feliz regresso aos seus lares. R.
+
+Vós, que enviastes os anjos a anunciar a paz aos seres humanos,
+– fazei que eles inspirem sentimentos de paz a todos os governantes e seus povos. R.
+
+{(intenções livres)}
+
+Quando enviardes os anjos no último dia para convocar os eleitos, de todos os pontos da terra,
+– fazei que todos os vossos filhos e filhas sejam contados entre os eleitos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa misteriosa providência mandais os vossos Anjos para guardar-nos, concedei que nos defendam de todos os perigos e gozemos eternamente do seu convívio. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

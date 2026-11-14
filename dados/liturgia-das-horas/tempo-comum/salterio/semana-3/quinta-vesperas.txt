@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Deus de supremo poder,
+da água os seres gerastes.
+Com uns enchestes os mares,
+de outros o ar povoastes.
+
+Uns mergulhastes nas águas,
+outros soltastes no ar,
+com o impulso que os leva
+a toda a terra ocupar.
+
+Dai graça a todos os servos,
+no vosso sangue lavados,
+para vencermos o tédio,
+a morte e todo pecado.
+
+Não nos deprimam as culpas,
+nem nos inflame a vaidade;
+não caia a mente abatida,
+nem caia a mente elevada.
+
+Ouvi-nos, Pai piedoso,
+e vós, Imagem do Pai,
+que com o Espírito Santo
+eternamente reinais.
+
+@secao Salmodia
+
+@antifona 1
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@celebracao
+{I}
+
+@salmo salmos/salmo-131
+
+@gloria
+
+@antifona
+Exultem de alegria os vossos santos
+ao entrarem, ó Senhor, em vossa casa.
+
+@antifona 2
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@celebracao
+{II}
+
+@salmo salmos/salmo-131-v2
+
+@gloria
+
+@antifona
+O Senhor escolheu Jerusalém
+para ser sua morada entre os povos.
+
+@antifona 3
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+O Senhor lhe deu o reino, a glória e o poder;
+as nações hão de servi-lo.
+
+@secao Leitura breve | 1Pd 3,8-9
+
+@texto
+Sede todos unânimes, compassivos, fraternos, misericordiosos e humildes. Não pagueis o mal com o mal, nem ofensa com ofensa. Ao contrário, abençoai, porque para isto fostes chamados: para serdes herdeiros da bênção.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor nos saciou
+* Com a fina flor do trigo. R. O Senhor.
+V. Com o mel que sai da rocha nos fartou, nos satisfez.
+* Com a fina. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor derrubou os poderosos de seus tronos
+e elevou os humildes.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Senhor derrubou os poderosos de seus tronos
+e elevou os humildes.
+
+@secao Preces
+
+@preces
+Oremos a Cristo, pastor, protetor e consolador de seu povo; e digamos com toda a confiança:
+
+R. **Senhor, nosso refúgio, escutai-nos!**
+
+Bendito sejais, Senhor, que nos chamastes para fazer parte da vossa santa Igreja;
+– conservai-nos sempre nela. R.
+
+Vós, que confiastes ao nosso Papa {N.} a solicitude por todas as Igrejas,
+– concedei-lhe uma fé inquebrantável, uma esperança viva e uma caridade generosa. R.
+
+Dai aos pecadores a graça da conversão e aos que caíram o dom da fortaleza,
+– e a todos concedei penitência e salvação. R.
+
+Vós, que quisestes habitar num país estrangeiro,
+– lembrai-vos daqueles que se encontram longe da família e da pátria. R.
+
+{(intenções livres)}
+
+A todos os mortos que depositaram sua esperança em vós,
+– concedei-lhes a paz eterna. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Recebei, Senhor, a nossa ação de graças, neste dia que termina, e em vossa misericórdia perdoai-nos as faltas que por fragilidade cometemos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

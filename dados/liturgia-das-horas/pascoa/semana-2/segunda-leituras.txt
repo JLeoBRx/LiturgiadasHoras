@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/2segundaPascoa.htm
+@documento Ofício das Leituras - 2ª Semana Da Páscoa - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@salmo salmos/salmo-030-2-17-20-25-i
+
+@gloria
+
+@antifona
+Inclinai o vosso ouvido para mim,
+apressai-vos, ó Senhor, em socorrer-me!
+
+@antifona 2
+Mostrai serena a vossa face ao vosso servo. Aleluia.
+
+@salmo salmos/salmo-030-2-17-20-25-ii
+
+@gloria
+
+@antifona
+Mostrai serena a vossa face ao vosso servo. Aleluia.
+
+@antifona 3
+Seja bendito o Senhor Deus
+por seu amor maravilhoso! Aleluia.
+
+@salmo salmos/salmo-030-2-17-20-25-iii
+
+@gloria
+
+@antifona
+Seja bendito o Senhor Deus
+por seu amor maravilhoso! Aleluia.
+
+@texto
+V. Meu coração e minha carne rejubilam. Aleluia.
+R. E exultam de alegria no Deus vivo. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Início do Livro do Apocalipse de São João {1,1-20}
+
+@tema
+Visão do Filho do homem
+
+@texto
+[1] Revelação que Deus confiou a Jesus Cristo, para que mostre aos seus servos as coisas que devem acontecer em breve. Jesus as deu a conhecer, através do seu anjo, ao seu servo João. [2] Este dá testemunho que tudo quanto viu é palavra de Deus e testemunho de Jesus Cristo. [3] Feliz aquele que lê e aqueles que escutam as palavras desta profecia e também praticam o que nela está escrito. Pois o momento está chegando. [4] João às sete Igrejas que estão na região da Ásia: A vós, graça e paz, da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus; [5] e da parte de Jesus Cristo, a testemunha fiel, o primeiro a ressuscitar dentre os mortos, o soberano dos reis da terra. Jesus, que nos ama, que por seu sangue nos libertou dos nossos pecados [6] e que fez de nós um reino, sacerdotes para seu Deus e Pai, a ele a glória e o poder, em eternidade. Amém. [7] Olhai! Ele vem com as nuvens, e todos os olhos o verão – também aqueles que o traspassaram. Todas as tribos da terra baterão no peito por causa dele. Sim. Amém! [8] “Eu sou o Alfa e o Ômega”, diz o Senhor Deus, “aquele que é, que era e que vem, o Todo-poderoso”. [9] Eu, João, vosso irmão e companheiro na tribulação, e também no reino e na perseverança em Jesus, fui levado à ilha de Patmos, por causa da Palavra de Deus e do testemunho que eu dava de Jesus. [10] No dia do Senhor, fui arrebatado pelo Espírito e ouvi atrás de mim uma voz forte, como de trombeta, [11] a qual dizia: “O que vais ver, escreve-o num livro e envia-o às sete Igrejas, a Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia.” [12] Então voltei-me para ver quem estava falando; e ao voltar-me, vi sete candelabros de ouro. [13] No meio dos candelabros havia alguém semelhante a um “filho de homem”, vestido com uma túnica comprida e com uma faixa de ouro em volta do peito. [14] Sua cabeça e seus cabelos eram brancos como lã pura, cor de neve, e seus olhos eram como chamas de fogo. [15] Seus pés pareciam de bronze, purificado no crisol, e sua voz era como o fragor de uma cachoeira. [16] Na mão direita, segurava sete estrelas, de sua boca saía uma espada afiada, de dois gumes, e seu rosto era como o sol no seu brilho mais forte. [17] Ao vê-lo, caí como morto a seus pés, mas ele colocou sobre mim sua mão direita e disse: “Não tenhas medo. Eu sou o Primeiro e o Último, [18] aquele que vive. Estive morto, mas agora estou vivo para sempre. Eu tenho a chave da morte e da região dos mortos. [19] Escreve pois o que viste, aquilo que está acontecendo e o que vai acontecer depois. [20] E este é o significado secreto das sete estrelas que viste na minha mão direita, e dos sete candelabros de ouro: as sete estrelas são os mensageiros das sete Igrejas, e os sete candelabros são as sete Igrejas.
+
+@secao Responsório | Ap 1,5.6b; Cl 1,18b
+
+@responsorio
+R. Jesus Cristo nos amou e do pecado nos lavou,
+em seu sangue, aleluia.
+* A ele seja glória e domínio pelos séculos. Aleluia.
+V. Ele é o Princípio, o Primogênito entre os mortos,
+a fim de ter em tudo a primazia. * A ele.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia pascal de um Autor antigo
+{(PG59,723-724)}
+
+@tema
+A Páscoa espiritual
+
+@texto
+A Páscoa que celebramos é a causa da salvação de todo o gênero humano, a começar pelo primeiro ser humano, que é salvo e vivificado em cada um de nós. Mas a salvação foi preparada por diversas instituições, imperfeitas e provisórias, que eram símbolos e imagens das coisas perfeitas e eternas, para anunciarem em esboço a realidade que surge atualmente à plena luz da verdade. Contudo, uma vez que essa verdadeira realidade se tornou presente, a figura deixa de ter sentido. Quando chega o rei, ninguém irá homenagear sua estátua, deixando de lado a pessoa do próprio rei. Assim se vê claramente em que medida a figura é inferior à realidade verdadeira, pois a figura representa a vida breve dos primogênitos dos judeus, ao passo que a realidade celebra a vida eterna de todos os seres humanos. Não é grande coisa alguém livrar-se da morte por algum tempo, se pouco depois terá de morrer. O que é admirável é evitar a morte de uma vez para sempre, como aconteceu conosco por meio de Cristo, que foi imolado como nosso cordeiro pascal. O próprio nome da festa, se compreendermos o seu verdadeiro significado, nos sugere a sua peculiar excelência. Páscoa, com efeito, significa “passagem”, pois o anjo exterminador, que feria de morte os primogênitos dos egípcios, passava adiante, sem entrar nas casas dos hebreus. Todavia, em relação a nós, a passagem do exterminador é um fato, porque passou realmente sem nos tocar, a nós que por Cristo ressuscitamos para a vida eterna. E o que significa, em seu sentido místico, o fato de se determinar como início do ano, o tempo em que se celebrava a Páscoa e a salvação dos primogênitos? Significa que também para nós o sacrifício da verdadeira Páscoa constitui o início da vida eterna. Na verdade, o ano é símbolo da eternidade. Sendo a sua órbita circular, o ano gira continuamente sobre ela sem nunca parar. Mas Cristo, pai do mundo novo, oferecendo-se por nós em sacrifício, como que anulou a nossa existência anterior, proporcionando-nos, pelo batismo do novo nascimento, o começo de uma outra vida, à semelhança da sua morte e ressurreição. Por conseguinte, quem tiver consciência de que a Páscoa foi imolada em seu benefício, deve aceitar como início de sua vida o momento em que Cristo se imolou por ele. Ora, tal imolação atualiza-se em cada um, quando reconhece essa graça e compreende que vida lhe foi dada por esse sacrifício. Quem chegou a este conhecimento, esforce-se por aceitar o começo da vida nova, sem pretender voltar à vida antiga que foi ultrapassada. De fato_, se já morremos para o pecado,_ pergunta o Apóstolo, _como vamos continuar vivendo nele?_ (Rm 6,2).
+
+@secao Responsório | 1Cor 5,7-8a; Rm 4,25
+
+@responsorio
+R. Lançai fora o velho fermento
+para que vos torneis massa nova,
+pois o nosso Cordeiro pascal,
+Jesus Cristo foi sacrificado.
+* Celebremos, portanto, esta festa. Aleluia.
+V. Foi morto por nossos pecados,
+ressurgiu para justificar-nos. * Celebremos.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

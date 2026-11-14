@@ -1,0 +1,27 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/vigilia_canticos.htm
+@documento Cânticos da Vigília
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Vinde, todos, adoremos quem da morte ressurgiu;
+foi pela cruz que entrou no mundo a alegria, Aleluia!
+
+@salmo canticos/i-is-63-1-5
+
+@gloria
+
+@salmo canticos/ii-os-6-1-6
+
+@gloria
+
+@salmo canticos/iii-sf-3-8-13
+
+@gloria
+
+@antifona
+Vinde, todos, adoremos quem da morte ressurgiu;
+foi pela cruz que entrou no mundo a alegria, Aleluia!

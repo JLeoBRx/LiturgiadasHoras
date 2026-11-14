@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/quartafeirasanta_terca.htm
+@documento Hora Média - Terça - Quarta-feira da Semana Santa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@salmo salmos/salmo-118-57-64-vi-heth
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@secao Leitura breve | 1Tm2,4-6
+
+@texto
+Deus, nosso Salvador, quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade. Pois há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus, que se entregou em resgate por todos. Este é o testemunho dado no tempo estabelecido por Deus.
+
+@texto
+V. Ofereceu-se livremente em sacrifício.
+R. Como um cordeiro, não abriu a sua boca.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes vosso Filho padecer o suplício da cruz para arrancar-nos à escravidão do pecado, concedei aos vossos servos e servas, a graça da ressurreição. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

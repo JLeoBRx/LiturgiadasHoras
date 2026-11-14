@@ -1,0 +1,122 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1segunda_quaresma.htm
+@documento Ofício das Leituras - 1ª Semana Da Quaresma - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Por vossa bondade, salvai-me, Senhor!
+
+@salmo salmos/salmo-006
+
+@gloria
+
+@antifona
+Por vossa bondade, salvai-me, Senhor!
+
+@antifona 2
+O Senhor é o refúgio do oprimido,seu abrigo nos momentos de aflição.
+
+@salmo salmos/salmo-009a-i
+
+@gloria
+
+@antifona
+O Senhor é o refúgio do oprimido,seu abrigo nos momentos de aflição.
+
+@antifona 3
+Anunciarei vossos louvoresjunto às portas de Sião.
+
+@salmo salmos/salmo-009a-ii
+
+@gloria
+
+@antifona
+Anunciarei vossos louvoresjunto às portas de Sião.
+
+@texto
+V. Convertei-vos e crede no Evangelho.
+R. Pois o reino de Deus está chegando.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {6,2-13}
+
+@tema
+Novo relato da vocação de Moisés
+
+@texto
+Naqueles dias, [2] o Senhor falou a Moisés, dizendo: “Eu sou o Senhor. [3] Apareci a Abraão, a Isaac e a Jacó, como Deus Poderoso; mas não lhes dei a conhecer o meu nome ‘o Senhor’. [4] Estabeleci aliança com eles para lhes dar a terra de Canaã, a terra onde levaram uma vida errante e na qual habitaram como estrangeiros. [5] Eu ouvi o gemido dos filhos de Israel, porque os egípcios os oprimiram, e lembrei-me da minha aliança. [6] Portanto, dize aos filhos de Israel: “Eu sou o Senhor, que vos libertarei do jugo dos egípcios, vos livrarei da escravidão, e vos resgatarei com braço estendido e grandes castigos. [7] Eu vos adotarei como meu povo e serei o vosso Deus, e sabereis que eu sou o Senhor vosso Deus, que vos liberta do jugo dos egípcios. [8] Eu vos introduzirei na terra que jurei, com mão levantada, dar a Abraão, a Isaac e a Jacó, e vo-la darei em possessão, eu, o Senhor”. [9] Moisés transmitiu tudo isto aos filhos de Israel, que não lhe deram ouvidos, por causa da angústia do seu espírito e do seu trabalho duríssimo. [10] O Senhor falou, então, a Moisés, dizendo: [11] “Vai dizer ao Faraó, rei do Egito, que deixe sair de sua terra os filhos de Israel”. [12] Moisés protestou diante do Senhor: “Se os filhos de Israel não me ouvem, como me ouvirá o Faraó, sobretudo a mim, que tenho dificuldade de falar?” [13] E o Senhor falou a Moisés e a Aarão, e deu-lhes uma ordem relativa aos filhos de Israel e ao Faraó, rei do Egito, para que fizessem sair os filhos de Israel da terra do Egito.
+
+@secao Responsório | 1Pd 2,9a.10a; Ex 6,7a.6
+
+@responsorio
+R. Sois a raça escolhida, sacerdócio régio,
+nação santa e povo conquistado por Deus; vós, outrora não-povo, sois agora, deveras, o povo de Deus.
+* Eu hei de tomar-vos para serdes meu povo e serei vosso Deus.
+V. Sou eu o Senhor: Com braço estendido vou tirar-vos do jugo opressor dos egípcios. * Eu hei.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Gregório de Nazianzo, bispo
+{(Séc. IV)} {(Oratio 14, De pauperum amore, 23-24:PG35 889-890)}
+
+@tema
+Manifestemos uns para com os outros a bondade do Senhor
+
+@texto
+Considera de onde te vem a existência, a respiração, a inteligência, a sabedoria, e, acima de tudo, o conhecimento de Deus, a esperança do reino dos céus e a contemplação da glória que, no tempo presente, é ainda imperfeita como num espelho e em enigma, mas que um dia haverá de ser mais plena e mais pura. Considera de onde te vem a graça de seres filho de Deus, herdeiro com Cristo e, falando com mais ousadia, de teres também sido elevado à condição divina. De onde e de quem vem tudo isso? Ou ainda, – se quisermos falar de coisas menos importantes e que podemos ver com os nossos olhos – quem te concedeu a felicidade de contemplar a beleza do céu, o curso do sol, a órbita da lua, a multidão dos astros e aquela harmonia e ordem que se manifestam em tudo isso como uma lira afinada? Quem te deu as chuvas, as lavouras, os alimentos, as artes, a morada, as leis, a sociedade, a vida tranquila e civilizada, a amizade e a alegria da vida familiar? De onde te vem poderes dispor dos animais, os domésticos para teu serviço e os outros para teu alimento? Quem te constituiu senhor e rei de todas as coisas que há na face da terra? E, porque não é possível enumerar uma a uma todas as coisas, pergunto finalmente: quem deu ao homem tudo aquilo que o torna superior a todos os outros seres vivos? Porventura não foi Deus?
+
+Pois bem, agora, o que ele te pede em compensação por tudo, e acima de tudo, não é o teu amor para com ele e para com o próximo? Sendo tantos e tão grandes os dons que recebemos ou esperamos dele, não nos envergonharemos de não lhe oferecer nem mesmo esta única retribuição que pede, isto é, o amor? E se ele, embora sendo Deus e Senhor, não se envergonha de ser chamado nosso Pai, poderíamos nós fechar o coração aos nossos irmãos? De modo algum, meus irmãos e amigos, de modo algum sejamos maus administradores dos bens que nos foram concedidos pela graça divina, a fim de não ouvirmos a repreensão de Pedro: “Envergonhai-vos, vós que vos apoderais do que não é vosso; imitai a justiça de Deus e assim ninguém será pobre”. Não nos preocupemos em acumular e conservar riquezas, enquanto outros padecem necessidade, para não merecermos aquelas duras e ameaçadoras palavras do profeta Amós: Tomai cuidado, vós que andais dizendo: “Quando passará o mês para vendermos; e o sábado, para abrirmos nossos celeiros?” (cf. Am 8,5). Imitemos aquela excelsa e primeira lei de Deus, que faz chover sobre os justos e os pecadores e faz o sol igualmente levantar-se para todos; que oferece aos animais que vivem na terra a extensão dos campos, as fontes, os rios e as florestas; que dá às aves a amplidão dos céus, e aos animais aquáticos, a vastidão das águas; que proporciona a todos, liberalmente, os meios necessários para a sua subsistência, sem restrições, sem condições, sem fronteiras; que põe tudo em comum, à disposição de todos eles, com abundância e generosidade, de modo que nada falte a ninguém. Assim procede Deus para com as suas criaturas, a fim de conceder a cada um os bens de que necessita segundo a sua natureza e dignidade, e manifestar a todos a riqueza da sua bondade.
+
+@secao Responsório | Cf. Lc 6,35; Mt 5,45; Lc 6,36
+
+@responsorio
+R. Amai os vossos inimigos, fazei o bem
+e emprestai sem esperar a recompensa, a fim de serdes filhos do vosso Pai celeste.
+* Ele faz seu sol nascer sobre os maus e sobre os bons e igualmente faz chover sobre os justos e os injustos.
+V. Sede misericordiosos, como o vosso Pai celeste. * Ele faz.
+
+@secao Oração
+
+@oracao
+Convertei-nos, ó Deus, nosso salvador, e, para que a celebração da Quaresma nos seja útil, iluminai-nos com a doutrina celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,88 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1quarta_laudes.htm
+@documento Laudes
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do sol nascente ao poente
+cantai, fiéis, neste dia,
+ao Cristo Rei que, por nós,
+nasceu da Virgem Maria.
+
+Autor feliz deste mundo,
+tomou um corpo mortal.
+A nossa carne assumindo,
+livrou a carne do mal.
+
+No seio puro da Virgem
+entrou a graça dos céus.
+Em si carrega um segredo
+sabido apenas por Deus.
+
+O casto seio da Virgem
+se faz o templo de Deus.
+Gerou sem homem um Filho,
+o Autor da terra e dos céus.
+
+Nasceu da Virgem o Filho
+que Gabriel anunciou,
+em quem no seio materno
+João, o Batista, exultou.
+
+Não recusou o presépio,
+foi sobre o feno deitado;
+quem mesmo as aves sustenta
+com leite foi sustentado.
+
+Do céu os coros se alegram,
+os anjos louvam a Deus.
+Pastor se mostra aos pastores
+quem fez a terra e os céus.
+
+Louvor a vós, ó Jesus,
+que duma Virgem nascestes.
+Louvor ao Pai e ao Espírito
+no azul dos paços celestes.
+
+@secao Salmodia
+
+@antifona 1
+. Em vossa luz contemplamos a luz.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vossa luz contemplamos a luz.
+
+@antifona 2
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@salmo canticos/jt-16-1-2-13-15
+
+@gloria
+
+@antifona
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@antifona 3
+Gritai a Deus aclamações de alegria!
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@antifona
+Gritai a Deus aclamações de alegria!

@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1domingo_Ivesperas.htm
+@documento I Vésperas - I Domingo do Advento
+
+@titulo I DOMINGO DO ADVENTO / I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Anunciai entre os povos:
+Eis que vem nosso Deus, Salvador.
+
+@salmo salmos/salmo-140-1-9
+
+@gloria
+
+@antifona
+Anunciai entre os povos:
+Eis que vem nosso Deus, Salvador.
+
+@antifona 2
+Eis que vem o Senhor com seus santos.
+e haverá grande luz nesse dia. Aleluia.
+
+@salmo salmos/salmo-141
+
+@gloria
+
+@antifona
+Eis que vem o Senhor com seus santos.
+e haverá grande luz nesse dia. Aleluia.
+
+@antifona 3
+O Senhor há de vir com poder.
+todo homem verá sua glória.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+O Senhor há de vir com poder.
+todo homem verá sua glória.
+
+@secao Leitura breve | 1Ts 5,23-24
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois - espírito, alma, corpo - seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! Aquele que vos chamou é fiel; ele mesmo realizará isso.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar R. Que o universo.
+V. Eu vi um novo céu, eu vi uma nova terra;
+nunca mais haverá choro nem clamor nem aflição.
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo Jesus, felicidade e alegria de todos os que o esperam; e digamos:
+
+R. **Vinde, Senhor, e não tardeis!**
+
+Esperado das nações, cheios de alegria, aguardamos vossa vinda:
+– vinde, Senhor Jesus. R.
+
+Vós, que existis eternamente, antes da criação do mundo,
+– vinde salvar os que vivem neste mundo R.
+
+Vós, que criastes o universo e tudo o que nele existe,
+– vinde renovar a obra de vossas mãos. R.
+
+Vós, que não recusastes assumir a natureza mortal,
+– vinde libertar-nos do poder da morte. R.
+
+Vós, viestes à terra para nos dar uma vida nova,,
+– vinde e dai-nos a vida eterna. R.
+
+{(intenções livres)}
+
+Vós, que quisestes reunir no vosso reino toda a humanidade,
+– vinde congregar na unidade todos os que esperam a visão da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei a vossos fiéis o ardente desejo de possuir o reino celeste, para que acorrendo com as nossas boas obras ao encontro do Cristo que vem, sejamos reunidos à sua direita na comunidade dos justos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

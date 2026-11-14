@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/norberto.htm
+@documento Ofício das Leituras - São Norberto, Bispo
+
+@celebracao
+SÃO NORBERTO, BISPO
+
+@biografia
+Nasceu na Renânia, cerca do ano 1080. Era cônego da Igreja de Xanten e, tendo abandonado a vida mundana, abraçou o ideal religioso e foi ordenado presbítero em 1115. Na sua vida apostólica dedicou-se ao ministério da pregação, particularmente na França e na Alemanha. Juntamente com outros companheiros fundou a Ordem Premonstratense e organizou os seus primeiros mosteiros. Eleito bispo de Magdeburgo em 1126, empenhou-se com entusiasmo na reforma da vida cristã e na propagação do Evangelho entre as populações pagãs da vizinhança. Morreu em 1134.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Da Vida de São Norberto, bispo
+{(As palavras colocadas entre aspas são tiradas da Vida de São Norberto, escrita por um cônego regular premonstratense, seu contemporâneo: PL 170, 1262.1269.1294.1295; Litterae Apostolicae ab Innocentio II ad S. Norbertum II non. iun. 1133 sub plumbo datae: Acta Sanctorum, 21, in Appendice, p. 50)}
+
+@tema
+Grande entre os grandes e pequeno entre os pequenos
+
+@texto
+Norberto foi um dos mais eficazes colaboradores da reforma gregoriana. Queria primeiramente que o clero fosse convenientemente preparado, dedicado a um ideal de vida autenticamente evangélico e apostólico, casto e pobre; um clero que pussuísse “ao mesmo tempo a veste e a beleza do homem novo: aquela pelo hábito religioso, esta pela dignidade do sacerdócio”, e que procurassem sempre “seguir as Sagradas Escrituras e ter Cristo por seu guia”. Costumava recomendar três coisas: “decoro no altar e nos ofícios divinos; correção das faltas e negligências no Capítulo conventual; cuidado e hospitalidade para com os pobres”.
+
+Ao lado dos sacerdotes, que no mosteiro faziam as vezes dos apóstolos, agregou, a exemplo da Igreja primitiva, tamanha quantidade de fiéis leigos, homens e mulheres, que muitos afirmavam jamais ter alguém conquistado para Cristo, desde os tempos apostólicos, tantos imitadores na vida de perfeição, e em tão pouco tempo.
+
+Tendo sido nomeado bispo, chamou os irmãos de sua Ordem para converter à fé a região da Lusácia; e procurou reformar o clero de sua diocese, apesar da oposição e agitação do povo.
+
+A sua maior preocupação foi consolidar e aumentar a harmonia entre a Sé Apostólica e o Império, salvaguardada, porém, a liberdade quanto às nomeações eclesiásticas. Por tal motivo, o Papa Inocêncio II escreveu-lhe: “A Sé Apostólica se congratula contigo, filho dedicadíssimo, de todo o coração”. E o imperador o nomeou chanceler do Império.
+
+Tudo ele conseguiu movido pela fé mais intrépida. Dizia-se: “Em Norberto, brilha a fé, como em Bernardo de Claraval, a caridade”; além disso, distinguia-se pela afabilidade no trato: “sendo grande entre os grandes e pequeno entre os pequenos, mostrava-se amável para com todos”. Enfim, era dotado de grande eloquência: contemplando e meditando assiduamente as realidades divinas, pregava com o maior desassombro “a palavra de Deus cheia de fogo, que queimava os vícios, estimulava as virtudes e enriquecia as almas bem dispostas com a sua sabedoria”.
+
+@secao Responsório | 2Tm 4,2.5; cf. At 20,28
+
+@responsorio
+R. Proclama em todo o tempo a palavra do Senhor!
+persuade, repreende e exorta com coragem,
+com saber e paciência.
+* Suporta o sofrimento e faze o trabalho
+de um bom evangelista. Aleluia.
+V. Vigiai todo o rebanho que o Espírito Divino
+confiou-vos, como bispos, para cuidar como pastores
+da Igreja do Senhor. * Suporta
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes do bispo São Norberto fiel ministro da vossa Igreja pela oração e zelo pastoral, concedei por suas preces que o vosso povo encontre sempre pastores segundo o vosso coração, que o alimentem para a vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/carlosborromeu.htm
+@documento Ofício das Leituras - São Carlos Borromeu, Bispo Memória
+
+@celebracao
+SÃO CARLOS BORROMEU, BISPO
+{Memória}
+
+@biografia
+Nasceu em Arona (Lombardia) no ano 1538; depois de ter conseguido o doutoramento In utroque iure, foi nomeado cardeal por Pio IV, seu tio, e eleito bispo de Milão. Foi um verdadeiro pastor da Igreja no exercício desta missão: visitou várias vezes toda a diocese, convocou sínodos e desenvolveu a mais intensa atividade, em todos os setores, para a salvação das almas, promovendo por todos os meios a renovação da vida cristã. Morreu no dia 3 de novembro de 1584.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão proferido no último sínodo por São Carlos, bispo
+{(Séc.XVI)} {(ActaEclesiae Mediolanensis, Mediolani 1599,1177-1178)}
+
+@tema
+Não sejas como quem diz uma coisa e faz outra
+
+@texto
+Somos todos fracos, confesso, mas o Senhor Deus nos entregou meios com que, se quisermos,poderemos ser fortalecidos com facilidade. Tal sacerdote desejaria possuir uma vida íntegra,que dele é exigida, ser continente e ter um comportamento angélico, como convém, mas não se resolve a empregar estes meios: jejuar, orar, fugir das más conversas e de nocivas e perigosasfamiliaridades.Queixa-se de que, ao entrar no coro para a salmodia, ao dirigir-se para celebrar a missa, logomil pensamentos lhe assaltam a mente e o distraem de Deus. Mas, antes de ir ao coro ou àmissa, que fez na sacristia, como se preparou, que meios escolheu e empregou para fixar aatenção?Queres que te ensine a caminhar de virtude em virtude e como seres mais atento ao ofício,ficando assim teu louvor mais aceito de Deus? Escuta o que digo. Se ao menos uma fagulha doamor divino já se acendeu em ti, não a mostres logo, não a exponhas ao vento! Mantémencoberta a lâmpada, para não se esfriar e perder o calor; isto é, foge, tanto quanto possível, dasdistrações; fica recolhido junto de Deus, evita as conversas vãs.Tua missão é pregar e ensinar? Estuda e entrega-te ao necessário para bem exerceres esteencargo. Faze, primeiro, por pregar com a vida e o comportamento. Não aconteça que, vendo-tedizer uma coisa e fazer outra, zombem de tuas palavras, abanando a cabeça.Exerces cura de almas? Não negligencies por isso o cuidado de ti mesmo, nem dês com tantaliberalidade aos outros que nada sobre para ti. Com efeito, é preciso te lembrares das almas quediriges, sem que isto te faça esquecer da tua.Entendei, irmãos, nada mais necessário aos eclesiásticos do que a oração mental que precede,acompanha e segue todos os nossos atos: _Salmodiarei_, diz o Profeta_, e entenderei_ (cf. Sl 100,1Vulg.). Se administras os sacramentos, ó irmão, medita no que fazes; se celebras a missa, medita no que ofereces; se salmodias no coro, medita a quem e no que falas; se diriges asalmas, medita no sangue que as lavou e, assim, _tudo o que é vosso se faça na caridade_ (1Cor16,14). Deste modo, as dificuldades que encontramos todos os dias, inúmeras e necessárias(para isto estamos aqui), serão vencidas com facilidade. Teremos, assim, a força de gerar Cristoem nós e nos outros.
+
+@secao Responsório | 1Tm 6,11b; 4,11.12b.6a
+
+@responsorio
+R. Segue a justiça, a piedade e a fé,
+a caridade, a paciência, a mansidão.
+* Ordena e ensina essas coisas
+e, tu mesmo, sê exemplo aos fiéis.
+V. Expondo tudo isso aos irmãos,
+serás bom servidor de Jesus Cristo. * Ordena.
+
+@secao Oração
+
+@oracao
+Ó Deus, conservai no vosso povo o espírito que animava São Carlos Borromeu, para que a vossa Igreja, continuamente renovada e sempre fiel ao Evangelho, possa mostrar ao mundo a verdadeira face do Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

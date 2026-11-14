@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/21_laudes.htm
+@documento Próprio - Laudes - 21 de dezembro
+
+@secao Leitura breve | Is 7,14b-15
+
+@texto
+Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; ele se alimentará de manteiga e de mel até quando aprender a fugir do mal e a procurar o bem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele chega, o dia já nasce;
+a terra inteira exulta.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Confiai e não temais:
+pois daqui a cinco dias o Senhor virá a vós.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Confiai e não temais:
+pois daqui a cinco dias o Senhor virá a vós.
+
+@secao Preces
+
+@preces
+Supliquemos, irmãos e irmãs caríssimos, a nosso Senhor Jesus Cristo, que em sua misericórdia vem nos visitar; e alegres repitamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Vós, que viestes do seio do Pai para vos revestirdes da nossa carne mortal,
+– livrai de toda mancha do pecado a nossa natureza enfraquecida. R.
+
+Vós, que, quando vierdes, havereis de manifestar vossa glória nos eleitos,
+– mostrai agora, neste advento, a vossa clemência e bondade para com os pecadores. R.
+
+Senhor Jesus Cristo, a alegria de nossa alma é vos louvar;
+– visitai-nos com a vossa salvação. R.
+
+Vós, que iluminastes os caminhos de nossa vida com a luz da fé,
+– fazei que sempre vos agrademos pelas obras de justiça e fidelidade. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ouvi com bondade, ó Deus, as preces do vosso povo, para que, alegrando-nos hoje com a vinda do vosso Filho em nossa carne, alcancemos o prêmio da vida eterna, quando ele vier na sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/epifania_sexta.htm
+@documento Hora Média - Epifania do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao seu Único também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@salmo salmos/salmo-085-v2
+
+@gloria
+
+@salmo salmos/salmo-097-v2
+
+@gloria
+
+@antifona
+Cristo veio trazer a boa-nova para todos:
+a paz para os de perto, a paz para os de longe.
+
+@secao Leitura breve | Is 49,6
+
+@texto
+O Senhor me disse: Não basta seres meu servo para res-taurar as tribos de Jacó e reconduzir os remanescentes de Israel: eu te farei luz das nações, para que minha salvação chegue até os confins da terra.
+
+@texto
+V. As nações hão de ver vossa justiça.
+R. E os reis contemplarão a vossa glória.
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje revelastes o vosso Filho às nações, guiando-as pela estrela, concedei aos vossos servos, que já vos conhecem pela fé, contemplar-vos um dia face a face no céu. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

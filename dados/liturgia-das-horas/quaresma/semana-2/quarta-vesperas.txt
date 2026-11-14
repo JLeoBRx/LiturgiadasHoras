@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2quartaquaresma_vesperas.htm
+@documento Vésperas - Quarta-feira da 2ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@antifona 2
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós! †
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós!
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Leitura breve | Fl 2,12b-15a
+
+@texto
+Trabalhai para a vossa salvação, com temor e tremor. Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. Fazei tudo sem reclamar ou murmurar, para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Em Deus, cuja Palavra me entusiasma,
+* Em Deus eu me apoio. R. Em Deus, cuja Palavra.
+V. Nada mais me causa medo. * Em Deus eu me apoio.
+Glória ao Pai. R. Em Deus, cuja Palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Filho do Homem será desprezado,
+será flagelado e, na cruz, morrerá;
+e depois de três dias ressuscitará.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Filho do Homem será desprezado,
+será flagelado e, na cruz, morrerá;
+e depois de três dias ressuscitará.
+
+@secao Preces
+
+@preces
+Demos glória a Deus Pai, que no sangue de Cristo firmou uma nova Aliança com seu povo, e a renova pelo sacramento do altar. Peçamos com fé:
+
+R. **Abençoai, Senhor, o vosso povo!**
+
+Dirigi, Senhor, conforme a vossa vontade, as intenções dos povos e dos governantes,
+– para que eles se empenhem sinceramente em promover o bem de todos. R.
+
+Fortalecei a fidelidade daqueles que tudo abandonaram para seguir a Cristo;
+– que eles deem a todos testemunho e exemplo da santidade da Igreja. R.
+
+Vós, que criastes os homens e as mulheres à vossa imagem e semelhança,
+– fazei que todos rejeitem qualquer desigualdade injusta. R.
+
+Reconduzi à vossa amizade e verdade todos os que vivem afastados da fé,
+– e ensinai-nos como ajudá-los eficazmente. R.
+
+{(intenções livres)}
+
+Concedei aos que morreram entrar na vossa glória
+– para que vos louvem eternamente. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, conservai constantemente vossa família na prática das boas obras e, assim como nos confortais agora com vossos auxílios, conduzi-nos aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

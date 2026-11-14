@@ -1,0 +1,139 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saojoaoeudes.htm
+@documento Ofício das Leituras - São João Eudes, Presbítero
+
+@celebracao
+SÃO JOÃO EUDES, PRESBÍTERO
+
+@biografia
+Nasceu na diocese de Séez (França) no ano 1601. Recebeu a ordenação sacerdotal e dedicou-se durante vários anos à pregação nas paróquias. Fundou duas Congregações: uma destinada à formação sacerdotal dos seminaristas e outra para educação das mulheres cuja vida cristã corria perigo. Fomentou com particular zelo a devoção aos Corações de Jesus e de Maria. Morreu em 1680.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Do tratado sobre o admirável Coração de Jesus, de São João Eudes, presbítero
+{(Séc.XVII)} {(Lib. 1,5: Opera omnia 6,107.113-115)}
+
+@tema
+Fonte de salvação e de vida verdadeira
+
+@texto
+Rogo-te medites que nosso Senhor Jesus Cristo é tua verdadeira cabeça e tu, um de seus membros. Ele está em relação a ti como a cabeça com os membros. Tudo que é dele, é teu: espírito, coração, corpo, alma e todas as faculdades. São para que os uses como se fossem teus, a fim de que, servindo-o, tu o louves, o ames e glorifiques. Por teu lado, tu lhe és como membro para a cabeça. Por isto deseja com ardor usar todas as tuas faculdades como dele, para servir e glorificar o Pai.
+Mas não apenas ele é teu, porém, quer também estar em ti, vivendo e reinando em ti, tal como a cabeça vive e reina em seus membros. Quer, pois, que tudo o que nele existe, viva e reine em ti. Assim o seu espírito em teu espírito, o seu coração em teu coração, todas as faculdades de sua alma em tuas faculdades, a ponto de se cumprirem em ti estas palavras: _Glorificai e trazei a Deus em vosso corpo; bem como manifeste-se a vida de Jesus em vós_ (1Cor 6,20). Não somente és para o Filho de Deus, mas nele deves existir como os membros, na cabeça. Tudo quanto há em ti, nele tem de ser inserido, e deves receber dele a vida e ser por ele guiado. Não terás vida verdadeira, a não ser nele, única fonte da verdadeira vida. Fora dele só encontras morte e perdição. Seja ele o único princípio de teus movimentos, ações e forças de tua vida. Dele e para ele tens de viver para realizares as palavras: _Nenhum de nós vive para si ou para si morre; se vivemos, para o Senhor vivemos; se morremos, para o Senhor morremos. Vivos ou mortos somos do Senhor. Para isto Cristo morreu e ressuscitou, para ser o Senhor dos vivos e dos mortos_ (Rm 14,7-9). És enfim um só com Jesus, como os membros são uma só coisa com a cabeça. Portanto deves ter com ele um só espírito, uma só alma, uma vida, uma vontade, uma intenção, um só coração. E ele será teu espírito, coração, amor, vida, e tudo o que é teu. Para os cristãos estas grandes realidades têm origem no batismo. Mas aumentam e se fortalecem pela confirmação e boa prática das outras graças de que Deus lhes dá participarem. E tudo isto ele aperfeiçoa principalmente pela santa eucaristia.
+
+@secao Responsório | Rm 14,9.8b.7-8a
+
+@responsorio
+R. Cristo morreu e ressuscitou, a fim de se tornar
+Senhor dos vivos e dos mortos.
+* Quer vivamos, quer morramos, pertencemos ao Senhor.
+V. Ninguém vive para si e nem morre para si,
+para ele nós vivemos, para ele nós morremos.* Quer vivamos.
+
+@secao Oração
+
+@oracao
+Ó Deus, que escolhestes o presbítero São João Eudes para anunciar as incomparáveis riquezas de Cristo, dai-nos seguir seus conselhos e exemplos, a fim de conhecer-vos melhor e viver fielmente à luz do Evangelho. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

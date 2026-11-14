@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/4janeiro_laudes.htm
+@documento 4janeiro_laudes.htm
+
+@secao Leitura breve | Is 45,22-23
+
+@texto
+Povos de todos os confins da terra, voltai-vos para mim e sereis salvos, eu sou Deus e não há outro. Juro por mim mesmo: de minha boca sai o que é justo, a palavra que não volta atrás; todo joelho há de dobrar-se para mim, por mim há de jurar toda língua.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+
+@texto
+V. A sua salvação. * Aleluia, aleluia. Glória ao Pai.
+R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus Cristo, nosso Deus e Salvador,
+em vós está a divindade em plenitude!
+Assumindo nossa frágil natureza,
+vos tornastes o homem novo, o Primogênito.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus Cristo, nosso Deus e Salvador,
+em vós está a divindade em plenitude!
+Assumindo nossa frágil natureza,
+vos tornastes o homem novo, o Primogênito.
+
+@secao Preces
+
+@preces
+Glorifiquemos o Verbo de Deus, manifestado na carne, contemplado pelos anjos e anunciado aos povos. Louvando-o com devoção, digamos:
+
+R. **Filho unigênito de Deus, nós vos adoramos!**
+
+Libertador do gênero humano que, nascendo da Virgem Maria, viestes renovar-nos;
+– por sua intercessão, livrai-nos da antiga corrupção do pecado. R.
+
+Vós, que descestes do céu para irradiar sobre a terra a luz da justiça divina,
+– iluminai este dia e toda a nossa vida com a luz da vossa presença. R.
+
+Filho de Deus, que viestes nos revelar o amor do Pai,
+– fazei que nós o revelemos aos outros homens pelo testemunho de nossa caridade. R.
+
+Vós, que viestes morar no meio de nós,
+– tornai-nos dignos de vossa companhia. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, nós vos pedimos que o Salvador, qual nova luz dos céus para a redenção do mundo, se levante cada dia para renovar os nossos corações. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

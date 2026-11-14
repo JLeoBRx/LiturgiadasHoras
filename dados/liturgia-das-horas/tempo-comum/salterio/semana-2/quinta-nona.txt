@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@salmo salmos/salmo-118-65-72-ix-teth
+
+@gloria
+
+@antifona
+A lei de vossa boca, para mim,
+vale mais do que milhões em ouro e prata.
+
+@antifona 2
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@salmo salmos/salmo-055-2-7b-9-14
+
+@gloria
+
+@antifona
+É no Senhor que eu confio e nada temo:
+Que poderia contra mim um ser mortal?
+
+@antifona 3
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@salmo salmos/salmo-056
+
+@gloria
+
+@antifona
+Vosso amor, ó Senhor, é mais alto que os céus.
+
+@secao Leitura breve | Gl 5,22.23a.25
+
+@texto
+O fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, mansidão, continência. Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente.
+
+@texto
+V. Indicai-nos o caminho a seguir, pois em vós coloquei a esperança.
+R. Vosso Espírito bom me dirija e me guie por terra bem plana.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, atendei a nossa oração, dando-nos a graça de imitar o exemplo da paixão do vosso Filho e levar serenamente nossa cruz de cada dia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

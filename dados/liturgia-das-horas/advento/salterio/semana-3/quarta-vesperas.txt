@@ -1,0 +1,52 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quarta_vesperas.htm
+@documento Vésperas - III Quarta-feira do Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Os que em lágrimas semeiam, ceifarão com alegria.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Os que em lágrimas semeiam, ceifarão com alegria.
+
+@antifona 2
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade.
+
+@antifona 3
+É o Primogênito de toda criatura
+e em tudo ele tem a primazia.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura e em tudo ele tem a primazia.

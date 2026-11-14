@@ -1,0 +1,231 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/conversaosaopaulo.htm
+@documento Ofício das Leituras - Conversão De São Paulo, Apóstolo Festa
+
+@celebracao
+CONVERSÃO DE SÃO PAULO, APÓSTOLO
+{Festa}
+
+@biografia
+V. Vinde, ó Deus, em meu auxílio. R. Socorrei-me sem demora. Glória ao Pai e ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre. Amém. Aleluia. Esta introdução se omite quando o Invitatório precede imediatamente ao
+
+@titulo Ofício das Leituras
+
+@secao Hino
+
+@hino
+Ao peso do mal vergados,
+São Paulo, por ti clamamos;
+da graça o penhor eterno,
+que salva, te suplicamos.
+
+Outrora oprimindo a Igreja,
+tocou-te o divino amor.
+E aqueles que perseguias
+abraças qual defensor.
+
+Daquele primeiro amor
+conserva a fiel lembrança.
+Aos tíbios e fracos traze
+a graça e a esperança.
+
+Floresça por teu socorro
+o amor que ignora o mal;
+as rixas não o perturbem,
+nem erro nenhum fatal.
+
+Ó vítima que agrada aos céus,
+dos povos amor e luz,
+fiel defensor da Igreja,
+protege-a, e a nós conduz.
+
+Louvor à Trindade eterna,
+hosanas, poder, vitória.
+O prêmio do bom combate
+contigo nos dê, na glória.
+
+@secao Salmodia
+
+@antifona 1
+Quem sois vós, ó meu Senhor?
+Sou Jesus, a quem persegues.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Quem sois vós, ó meu Senhor?
+Sou Jesus, a quem persegues.
+
+@antifona 2
+Ananias, vai a Saulo, que está em oração.
+Eu o escolhi para pregar o meu nome entre as nações
+e entre os filhos de Israel.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Ananias, vai a Saulo, que está em oração.
+Eu o escolhi para pregar o meu nome entre as nações
+e entre os filhos de Israel.
+
+@antifona 3
+Começou Paulo a pregar nas sinagogas,
+afirmando que Jesus é o Messias.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Começou Paulo a pregar nas sinagogas,
+afirmando que Jesus é o Messias.
+
+@texto
+V. Misericórdia e piedade é o Senhor.
+R. Ele é amor, é paciência, é compaixão.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Gálatas {1, 11-24}
+
+@tema
+Deus revelou-me seu Filho para eu o anunciar
+
+@texto
+[11] Irmãos, asseguro-vos que o evangelho pregado por mim não é conforme a critérios humanos. [12] Com efeito, não o recebi nem aprendi de homem algum, mas por revelação de Jesus Cristo. [13] Certamente ouvistes falar como foi outrora a minha conduta no judaísmo, com que excessos perseguia e devastava a Igreja de Deus [14] e como progredia no judaísmo mais do que muitos judeus de minha idade, mostrando-me extremamente zeloso das tradições paternas. [15] Quando, porém, aquele que me separou desde o ventre materno e me chamou por sua graça [16] se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue [17] nem subi, logo, a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco. [18] Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias. [19] E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor. [20] Escrevendo estas coisas, afirmo diante de Deus que não estou mentindo. [21] Depois, fui para as regiões da Síria e da Cilícia. [22] Ainda não era pessoalmente conhecido das Igrejas da Judeia que estão em Cristo. [23] Apenas tinham ouvido dizer que “aquele que, antes, nos perseguia, está agora pregando a fé que, antes, procurava destruir”. [24] E glorificavam a Deus por minha causa.
+
+@secao Responsório | Gl 1,11b.12; 2Cor 11,10a.7b
+
+@responsorio
+R. O Evangelho que anuncio não é invenção humana,
+* Pois, não o recebi, nem aprendi de um ser humano,
+mas a mim foi revelado, através de Jesus Cristo.
+V. Anunciei gratuitamente o Evangelho de Jesus,
+sua verdade está em mim. * Pois, não.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São João Crisóstomo, bispo
+{(Séc. IV)} {(Hom. 2 de laudibus sancti Pauli: PG 50,447-480)}
+
+@tema
+Por amor de Cristo, Paulo tudo suportou
+
+@texto
+O que é o homem, quão grande é a dignidade da nossa natureza e de quanta virtude é capaz a criatura humana, Paulo o demonstrou mais do que qualquer outro. Cada dia ele subia mais alto e se tornava mais ardente, cada dia lutava com energia sempre nova contra os perigos que o ameaçavam. É o que depreendemos de suas próprias palavras: _Esquecendo o que fica para trás, eu me lanço para o que está na frente_ (cf. Fl 3,13). Percebendo a morte iminente, convidava os outros a comungarem da sua alegria, dizendo: _Alegrai-vos e congratulai-vos comigo_ (Fl 2,18). Diante dos perigos, injúrias e opróbrios, igualmente se alegra e escreve aos coríntios: _Eu me comprazo nas fraquezas, nas injúrias, nas necessidades, nas perseguições_ (2Cor 12,10); porque sendo estas, conforme declarava, as armas da justiça, mostrava que delas lhe vinha um grande proveito. Realmente, no meio das insídias dos inimigos, conquistava contínuas vitórias triunfando de todos os seus assaltos. E em toda parte, flagelado, coberto de injúrias e maldições, como se desfilasse num cortejo triunfal, erguendo numerosos troféus, gloriava-se e dava graças a Deus, dizendo: _Graças sejam dadas a Deus que nos fez sempre triunfar_ (2Cor 2,14). Por isso, corria ao encontro das humilhações e das ofensas que suportava por causa da pregação, com mais entusiasmo do que nós quando nos apressamos para alcançar o prazer das honrarias; aspirava mais pela morte do que nós pela vida; ansiava mais pela pobreza do que nós pelas riquezas; e desejava muito mais o trabalho sem descanso do que nós o descanso depois do trabalho. Uma só coisa o amedrontava e fazia temer: ofender a Deus. E uma única coisa desejava: agradar a Deus. Só se alegrava no amor de Cristo, que era para ele o maior de todos os bens; com isto julgava-se o mais feliz dos homens; sem isto, de nada lhe valia ser amigo dos senhores e poderosos. Com este amor preferia ser o último de todos, isto é, ser contado entre os réprobos, do que encontrar-se no meio de homens famosos pela consideração e pela honra, mas privados do amor de Cristo. Para ele, o maior e único tormento consistia em separar-se de semelhante amor; esta era a sua geena, o seu único castigo, o infinito e intolerável suplício. Em compensação, gozar do amor de Cristo era para ele a vida, o mundo, o anjo, o presente, o futuro, o reino, a promessa, enfim, todos os bens. Afora isto, nada tinha por triste ou alegre. De tudo o que existe no mundo, nada lhe era agradável ou desagradável. Não se importava com as coisas que admiramos, como se costuma desprezar a erva apodrecida. Para ele, tanto os tiranos como as multidões enfurecidas eram como mosquitos. Considerava como brinquedo de crianças os mil suplícios, os tormentos e a própria morte, desde que pudesse sofrer alguma coisa por Cristo.
+
+@secao Responsório | 1Tm 1,13b-14; 1Cor 15,9b
+
+@responsorio
+R. Consegui misericórdia
+porque agi por ignorância e na incredulidade;
+* Mas a graça do Senhor foi em mim mais que abundante
+com a fé e o amor que está em Jesus Cristo.
+V. Não mereço ser chamado com o nome de apóstolo
+pois cheguei a perseguir a Igreja do Senhor.
+* Mas a graça.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que instruístes o mundo inteiro pela pregação do apóstolo São Paulo, dai-nos, ao celebrar hoje sua conversão, caminhar para vós seguindo seus exemplos, e ser no mundo testemunhas do Evangelho. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

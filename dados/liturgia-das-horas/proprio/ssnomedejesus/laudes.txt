@@ -1,0 +1,161 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ssnomedejesus_laudes.htm
+@documento Laudes - Santíssimo Nome de Jesus
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Jesus, que grande esperança
+teu santo nome irradia:
+fonte de graça e doçura,
+dos corações alegria!
+
+Aos pecadores se abrindo,
+teu coração não se encobre;
+se quem te busca se alegra,
+que dirá quem te descobre?
+
+Jesus, em tua amizade,
+quanta alegria encontramos:
+se nossa fome sacias
+cada vez mais te buscamos.
+
+Na tua ausência chorando,
+ao teu encalço corremos:
+só com teu pão nos fartamos,
+só de teu vinho bebemos.
+
+Ó Senhor, fica conosco,
+consola a nossa amargura;
+afasta a sombra da noite
+com tua luz e doçura.
+
+Jesus, bondade suprema,
+Jesus, ternura infinita,
+coração pleno de afeto,
+que por nós bate e palpita.
+
+Jesus, ó flor de uma Virgem,
+fonte de paz e alegria,
+ao Reino que hoje cantamos
+possamos chegar um dia!
+
+@secao Salmodia
+
+@antifona 1
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O meu mandamento é este:
+amai-vos como eu vos amei!
+
+@antifona 2
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Não há maior prova de amor,
+que dar a vida pelo amigo.
+
+@antifona 3
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Vós sereis os meus amigos,
+se seguirdes meus preceitos.
+
+@secao Leitura breve | At 4,12
+
+@texto
+Em nenhum outro há salvação, pois não existe debaixo do céu outro nome dado aos homens pelo qual possamos ser salvos.
+
+@secao Responsório breve
+
+@responsorio
+R. Louvarei continuamente o vosso nome
+* E o cantarei com gratidão em meus louvores. R. Louvarei.
+V. Em vós exultarei de alegria, cantarei ao vosso nome, Deus altíssimo. * E o cantarei.
+Glória ao Pai. R. Louvarei.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Entregou-se a fim de libertar o seu povo
+e conquistar para si um nome eterno.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Entregou-se a fim de libertar o seu povo
+e conquistar para si um nome eterno.
+
+@secao Preces
+
+@preces
+Com alegria invoquemos o nosso Redentor, o Filho de Deus, que se fez homem para renovar o homem; e digamos:
+
+R. **Ficai conosco, Emanuel!**
+
+Jesus, Filho do Deus vivo, esplendor do Pai, luz eterna, rei da glória, sol da justiça, filho da Virgem Maria,
+– iluminai este dia com a glória de vossa encarnação. R.
+
+Jesus, conselheiro admirável, Deus forte, pai da eternidade, príncipe da paz,
+– dirigi nossa caminhada com a luz da vossa santa humanidade. R.
+
+Jesus todo-poderoso, paciente, obediente, manso e humilde de coração,
+– manifestai a todos o poder da mansidão. R.
+
+Jesus, pai dos pobres, glória de vossos fiéis, bom pastor, luz verdadeira, sabedoria infinita, imensa bondade, nosso caminho e nossa vida,
+– concedei à vossa Igreja o espírito da pobreza evangélica. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes origem à salvação do gênero humano na encarnação do vosso Verbo, concedei a vossos povos a misericórdia que imploram, para que todos saibam que não há outro nome a ser invocado além do nome do vosso Filho Unigênito. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

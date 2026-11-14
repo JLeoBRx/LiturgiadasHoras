@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saonicolau.htm
+@documento Ofício das Leituras - São Nicolau, Bispo
+
+@celebracao
+SÃO NICOLAU, BISPO
+
+@biografia
+Bispo de Mira, na Lícia (hoje parte da Turquia), morreu em meados do século IV e, sobretudo a partir do século X, é venerado em toda a Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Dos Tratados sobre o Evangelho de São João, de Santo Agostinho, bispo
+{(Séc. V)} {(Tract. 123; 5: CCL 36, 678-680)}
+
+@tema
+A força do amor vença o temor da morte
+
+@texto
+O Senhor interroga sobre o que já sabia, não só uma vez, mas duas e três vezes: se Pedro o ama. De todas as vezes, ouve uma só resposta, que Pedro o ama. E, em todas elas, confia a Pedro o pastoreio de suas ovelhas.
+A tríplice confissão apaga a tríplice negação, para que a língua não sirva menos ao amor do que ao temor; e não pareça que a iminência da morte o obrigou a falar mais do que a presença da vida. Seja serviço de amor apascentar o rebanho do Senhor, como foi prova de temor negar o pastor.
+Quem apascenta as ovelhas de Cristo como se fossem suas, não ama a Cristo mas a si mesmo.
+Contra esses, que também o Apóstolo censura dizendo que procuram os próprios interesses e não os de Cristo, estas palavras que o Senhor repete insistentemente são uma séria advertência.
+Então que quer dizer: Tu me amas? Apascenta as minhas ovelhas (Jo 21,17) senão: Se me amas, não penses em te apascentar a ti mesmo, mas as minhas ovelhas; apascenta-as, considerando minhas, não tuas; procura nelas minha glória, não a tua; meus interesses, não os teus; não sejas daqueles que nos tempos de perigo só amam a si mesmos e tudo o que deriva deste princípio, que é a raiz de todo mal.
+Os que apascentam as ovelhas de Cristo, não amem a si mesmos; não as apascentem como sendo próprias, mas como pertencentes a Cristo.
+O defeito que mais devem evitar os que apascentam as ovelhas de Cristo consiste em procurar os próprios interesses e não os de Jesus Cristo, destinando ao proveito próprio aqueles por quem Cristo derramou o seu sangue.
+O amor de Cristo deve crescer até atingir tal grau de ardor espiritual naquele que apascenta as suas ovelhas, que supere até mesmo o natural medo da morte, que nos leva a não querer morrer, ainda que queiramos viver com Cristo.
+Contudo, por maior que seja o temor da morte, deve vencê-lo a força do amor com que se ama aquele que, sendo nossa vida, quis sofrer até a morte por nós.
+Na verdade, se não houvesse ou fosse insignificante o mal da morte, não seria tão grande a glória dos mártires. Mas, se o Bom Pastor, que deu a vida por suas ovelhas, suscitou tantos mártires entre as suas ovelhas, quanto mais não devem lutar pela verdade até à morte, e até o sangue, contra o pecado, aqueles que receberam o encargo de apascentá-las, isto é, de instruí-las e dirigi-las?
+Por este motivo, diante do exemplo da paixão de Cristo, e ao pensar em tantas ovelhas que já o imitaram, quem não compreende que os pastores devem ser os primeiros a imitar o Pastor? Na verdade, os mesmos pastores são também ovelhas do único rebanho, governado pelo único Pastor. De todos nós ele fez suas ovelhas, por todos nós padeceu; para padecer por todos nós, ele mesmo se fez ovelha.
+
+@secao Responsório | Eclo 45,3; Sl 77(78),70a.71bc
+
+@responsorio
+R. O Senhor glorificou-o perante os poderosos
+e deu-lhe suas ordens diante de seu povo;
+* E mostrou-lhe sua glória.
+V. O Senhor o escolheu para guiar Israel
+que escolheu por sua herança.* E mostrou-lhe.
+
+@secao Oração
+
+@oracao
+Deus de misericórdia, guardai-nos de todo perigo, pela intercessão de São Nicolau, para que se abra diante de nós, sem obstáculo, o caminho da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

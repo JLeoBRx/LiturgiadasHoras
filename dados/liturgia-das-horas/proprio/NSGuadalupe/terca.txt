@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/NSGuadalupe_terca.htm
+@documento Hora Média - Nossa Senhora de Guadalupe, Padroeira principal da América Latina
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Aparecem as flores nos jardins,
+a voz da rola se escuta em nossa terra.
+
+@salmo salmos/salmo-119
+
+@gloria
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Aparecem as flores nos jardins,
+a voz da rola se escuta em nossa terra.
+
+@secao Leitura breve | Os 11,4
+
+@texto
+Eu os atraía com laços de humanidade, com laços de amor; era para eles como quem leva uma criança ao colo, e rebaixava-me a dar-lhes de comer.
+
+@texto
+V. Nenhum povo mereceu tanto carinho.
+R. Ele nos arrebatou o coração,
+contemplando-nos com um só de seus olhares.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos destes a Santa Virgem Maria para amparar-nos como mãe solícita, concedei aos povos da América Latina, que hoje se alegram com sua proteção, crescer constantemente na fé e alcançar o desejado progresso no caminho da justiça e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

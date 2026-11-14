@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_sexta_domingo.htm
+@documento Hora Média - Todos os Santos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Os povos ensinam, narrando a sabedoria dos santos;
+seu louvor toda a Igreja proclama.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Os povos ensinam, narrando a sabedoria dos santos;
+seu louvor toda a Igreja proclama.
+
+@secao Leitura breve | 1Pd 1,15-16
+
+@texto
+Como é santo aquele que vos chamou, tornai-vos santos, também vós, em todo o vosso proceder. Pois está na Escritura: Sede santos, porque eu sou santo.
+
+@texto
+V. Ó justos, alegrai-vos no Senhor.
+R. Celebrai e bendizei seu santo nome!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

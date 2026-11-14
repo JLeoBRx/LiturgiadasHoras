@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/segundafeirasanta_terca.htm
+@documento Hora Média - Terça - Segunda-feira da Semana Santa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@salmo salmos/salmo-118-41-48-vi-vau
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Quando a festa da Páscoa estava perto,
+Jesus, sabendo que chegara a sua hora,
+amou os seus, aqui no mundo, até o fim.
+
+@secao Leitura breve | Ez 33,10b.11a
+
+@texto
+Nossos crimes e pecados pesam sobre nós, e por causa deles estamos definhando. Como poderemos viver? Juro por minha vida – oráculo do Senhor Deus – não sinto prazer na morte do ímpio, mas antes, que ele mude de conduta e viva!
+
+@texto
+V. Ofereceu-se livremente em sacrifício.
+R. Como um cordeiro, não abriu a sua boca.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, ao vosso povo, que desfalece por sua fraqueza, recobrar novo alento pela Paixão do vosso Filho. Que vive e reina para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

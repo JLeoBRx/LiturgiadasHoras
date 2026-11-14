@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/01sabadoTC_impar.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo 1a SEMANA DO TEMPO COMUM / SÁBADO / I Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {3,21-31}
+
+@tema
+A justiça de Deus por meio da fé
+
+@texto
+[21] Agora, porém, independentemente da Lei, se manifestou a justiça de Deus, testemunhada pela Lei e pelos Profetas, [22] justiça de Deus que opera pela fé em Jesus Cristo, em favor de todos os que creem – pois não há diferença, [23] sendo que todos pecaram e todos estão privados da glória de Deus – [24] e são justificados gratuitamente, por sua graça, em virtude da redenção realizada em Cristo Jesus: [25] Deus o expôs como instrumento de propiciação, por seu próprio sangue, mediante a fé. Ele queria assim manifestar sua justiça, pelo fato de ter deixado sem punição os pecados de outrora, [26] no tempo da paciência de Deus; ele queria manifestar a sua justiça no tempo presente para mostrar-se justo e para justificar aquele que é pela fé em Jesus.
+[27] Onde está, então, o motivo de glória? Fica excluído. Em força de que lei? A das obras? De modo algum, mas em força da lei da fé. [28] Porquanto nós sustentamos que o homem é justificado pela fé, sem as obras da Lei. [29] Ou acaso ele é Deus só dos judeus? Não é também dos gentios? É certo que também dos gentios, [30] pois há um só Deus, que justificará os circuncisos pela fé e também os incircuncisos através da fé. [31] Então eliminamos a Lei através da fé? De modo algum! Pelo contrário, a consolidamos.
+
+@secao Responsório | Rm 3,24.25; 5,10
+
+@responsorio
+R. Somos justificados gratuitamente, por sua graça,
+em virtude da redenção realizada em Cristo Jesus.
+* Deus o expôs como instrumento de propiciação,
+por seu próprio sangue, mediante a fé.
+V. Quando éramos inimigos
+fomos reconciliados com Deus pela morte de seu filho.
+* Deus o expôs.
+
+@secao Segunda leitura
+
+@leitura
+Do “Comentário sobre o Salmo 118”, de Santo Ambrósio, bispo
+{(Séc. IV)} {(Disc. 1,14-15)}
+
+@tema
+O Senhor nos instruiu por meio da lei e dos profetas, do evangelho e dos apóstolos
+
+@texto
+_Tu deste os teus preceitos para que sejam observados_ _fielmente. Sejam retos os meus caminhos, no guardar_ _os teus decretos. Então não deverei envergonhar-me se_ _tiver obedecido aos teus mandamentos_ (Sl 118,4-6). Não somente, diz o salmista, tu deste os teus preceitos; mas, acrescenta, deu-lhes para que sejam observados fielmente.
+Quando lhes deu estes preceitos? A Adão, no paraíso, ordenou observar os seus preceitos, talvez, porém, não tenha acrescentado a ordem de guardá-los fielmente; e por isso ele caiu, deixando-se seduzir pelas palavras da mulher e pela tentação da serpente: pensou que não observando somente uma parte de tudo o que lhe havia sido ordenado, a culpa não teria sido assim tão grave. Uma vez deixado o caminho dos mandamentos, porém, o abandonou totalmente, ficou despojado de todos os bens e se viu nu.
+Por isso o Senhor, visto que Adão, mesmo encontrando-se no paraíso caiu, te exorta por meio da lei, dos profetas e do Evangelho a observar fielmente os preceitos do Senhor teu Deus. _De toda palavra sem fundamento, disse, prestarás_ _conta_ (cf. Mt 12,36).
+Não te iludas: de cada um dos preceitos não será omitido um só jota, uma só vírgula. Não te distancies do caminho; se com dificuldades consegues defender-te dos ladrões quando segues numa estrada, como farás se tu te distanciares do caminho? Que sejam retos os teus caminhos e, para que tu possas prosseguir com segurança, pede ao Senhor que seja ele a indicar-te a estrada.
+_Esperei, esperei no Senhor, e ele deu ouvidos ao meu_ _clamor; os meus pés firmou sobre a rocha, tornou seguros_ _os meus passos_ (Sl 39,2.3). Pede, portanto, também tu para que o Senhor dirija o caminho da tua mente de modo que possas observar a lei do Senhor. Não deverás envergonhar-te se tiveres os olhos fixos na sua lei. Envergonhaste-te outrora em Adão e Eva: então percebeste a tua nudez. Encobriste-te de folhas, porque te envergonhavas, te subtraíste da vista de Deus, vermelho de vergonha, tanto que Deus te perguntou: _Adão, onde estás_ (Gn 3,90).
+Aquilo que disse a ele, o diz também a ti: Adão, de fato, significa homem. Portanto, onde estás, homem? E Adão respondeu: Eu estava nu e tive vergonha e não ousei apresentar-me diante da tua face. Observemos então os preceitos do Senhor para não ficarmos confundidos também nós, observemo-los inteiramente: se alguém, de verdade, observa um mandamento e deixa de lado um outro, de nada lhe adianta.
+
+@secao Responsório | Cf. Tb 4,19; 14,8 (Vulg. 4,20-21; 14,10.11)
+
+@responsorio
+R. Em todas as circunstâncias, bendize o Senhor
+e pede-lhe que ele seja o teu guia em teus caminhos
+* E nele se fundam todos os teus projetos.
+V. Aprende a fazer o que lhe agrada,
+na verdade e com todas as tuas forças.
+* E nele se.
+
+@secao Oração
+
+@oracao
+Ó Deus, atendei como pai às preces do vosso povo; dai-nos a compreensão dos nossos deveres e a força de cumpri-los. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

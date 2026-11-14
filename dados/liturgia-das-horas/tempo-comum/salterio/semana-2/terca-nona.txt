@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2terca_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Nesta terra de exílio guardarei vossos preceitos.
+
+@salmo salmos/salmo-118-49-56-vii-zain
+
+@gloria
+
+@antifona
+Nesta terra de exílio guardarei vossos preceitos.
+
+@antifona 2
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@salmo salmos/salmo-052
+
+@gloria
+
+@antifona
+O Senhor trará de volta os deportados de seu povo,
+e exultaremos de alegria.
+
+@antifona 3
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@antifona
+Quem me protege e me ampara é meu Deus,
+é o Senhor quem sustenta minha vida.
+
+@secao Leitura breve | 1Cor 12,24b.25-26
+
+@texto
+Deus, quando formou o corpo, deu maior atenção e cuidado ao que nele é tido como menos honroso, para que não haja divisão no corpo e, assim, os membros zelem igualmente uns pelos outros. Se um membro sofre, todos os membros sofrem com ele; se é honrado, todos os membros se regozijam com ele.
+
+@texto
+V. Do meio das nações nos congregai
+R. Para ao vosso santo nome agradecermos.
+
+@secao Oração
+
+@oracao
+Senhor Deus, que enviastes vosso anjo para mostrar ao centurião Cornélio o caminho da vida, concedei-nos trabalhar com alegria para a salvação da humanidade, a fim de que, unidos todos na vossa Igreja, possamos chegar até vós. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

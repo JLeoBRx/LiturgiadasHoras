@@ -1,0 +1,103 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_leituras.htm
+@documento Ofício das Leituras - III Terça-Feira
+
+@titulo III TERÇA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Da luz do Pai nascido,
+vós mesmo luz e aurora,
+ouvi os que suplicam,
+cantando noite afora.
+
+Varrei as nossas trevas
+e as hostes do inimigo:
+o sono, em seus assaltos,
+não ache em nós abrigo.
+
+Ó Cristo, perdoai-nos,
+pois Deus vos proclamamos.
+Propício seja o canto
+que agora iniciamos.
+
+A glória seja ao Pai,
+ao Filho seu também,
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Ó Trindade Sacrossanta,
+ordenais o que fizestes.
+Ao trabalho dais o dia,
+ao descanso a noite destes.
+
+De manhã, à tarde e à noite,
+vossa glória celebramos.
+Nesta glória conservai-nos
+todo o tempo que vivamos.
+
+Ante vós ajoelhamos
+em humilde adoração.
+Reuni as nossas preces
+à celeste louvação.
+
+Escutai-nos, Pai piedoso,
+e vós, Filho de Deus Pai,
+com o Espírito Paráclito,
+pelos séculos reinais.
+
+@secao Salmodia
+
+@antifona 1
+Eis que Deus se põe de pé,
+e os inimigos se dispersam! †
+
+@salmo salmos/salmo-067-i
+
+@gloria
+
+@antifona
+Eis que Deus se põe de pé,
+e os inimigos se dispersam!
+
+@antifona 2
+Nosso Deus é um Deus que salva;
+só o Senhor livra da morte.
+
+@salmo salmos/salmo-067-ii-v2
+
+@gloria
+
+@antifona
+Nosso Deus é um Deus que salva;
+só o Senhor livra da morte.
+
+@antifona 3
+Reinos da terra, celebrai
+o nosso Deus, cantai-lhe salmos!
+
+@salmo salmos/salmo-067-iii-v2
+
+@gloria
+
+@antifona
+Reinos da terra, celebrai
+o nosso Deus, cantai-lhe salmos!
+
+@texto
+V. Quero ouvir o que o Senhor irá falar.
+R. É a paz que ele vai anunciar.

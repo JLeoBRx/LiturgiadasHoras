@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@salmo salmos/salmo-118-161-168-xxi-sin
+
+@gloria
+
+@antifona
+Os que amam vossa lei, ó Senhor, têm grande paz.
+
+@antifona 2
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@salmo salmos/salmo-132
+
+@gloria
+
+@antifona
+A multidão dos fiéis era um só coração
+e uma só alma.
+
+@antifona 3
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@salmo salmos/salmo-139-2-9-13-14
+
+@gloria
+
+@antifona
+Salvai-me, ó Senhor, das mãos do ímpio,
+vós que sois a minha força e salvação!
+
+@secao Leitura breve | 1Jo 3,16
+
+@texto
+Nisto conhecemos o amor: Jesus deu a sua vida por nós. Portanto, também nós devemos dar a vida pelos irmãos.
+
+@texto
+V. Dai graças ao Senhor porque ele é bom.
+R. Porque eterna é a sua misericórdia.
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que, nesta hora, com o mundo envolto em trevas, fostes elevado na cruz, como vítima inocente para a salvação de todos, concedei-nos sempre vossa luz, que nos guie para a vida eterna. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

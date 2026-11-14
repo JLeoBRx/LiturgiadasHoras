@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/arcanjos_nona.htm
+@documento Hora Média - Santos Miguel, Gabriel e Rafael, Arcanjos
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+O anjo Rafael foi enviado a Tobias e a Sara, e os curou.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+O anjo Rafael foi enviado a Tobias e a Sara, e os curou.
+
+@secao Leitura breve | Tb 12,15.18.20b
+
+@texto
+Eu sou Rafael, um dos sete anjos que permanecem diante da glória do Senhor e têm acesso à sua presença. Quando eu estava convosco, não era por benevolência minha que vos assistia mas pela vontade de Deus. Bendizei-o todos os dias e cantai os seus louvores. Eis que subo para junto de quem me enviou. Escrevei tudo o que vos aconteceu.
+
+@texto
+V. O Senhor deu uma ordem a seus anjos,
+R. Para em todos os caminhos te guardarem.
+
+@secao Oração
+
+@oracao
+Ó Deus, que organizais de modo admirável o serviço dos Anjos e dos homens, fazei que sejamos protegidos na terra por aqueles que vos servem no céu. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

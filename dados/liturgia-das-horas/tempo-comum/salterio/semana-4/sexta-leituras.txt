@@ -1,0 +1,103 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sexta_leituras.htm
+@documento Ofício das Leituras - IV Sexta-Feira
+
+@titulo IV SEXTA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Ao som da voz do galo,
+já foge a noite escura.
+Ó Deus, ó luz da aurora,
+nossa alma vos procura.
+
+Enquanto as coisas dormem,
+guardai-nos vigilantes,
+brilhai aos nossos olhos
+qual chama cintilante.
+
+Do sono já despertos,
+por graça imerecida,
+de novo contemplamos
+a luz, irmã da vida.
+
+Ao Pai e ao Filho glória,
+ao seu Amor também,
+Deus Trino e Uno, luz
+e vida eterna. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Criador do Universo
+do Pai luz e resplendor,
+revelai-nos vossa face
+e livrai-nos do pavor.
+
+Pelo Espírito repletos,
+templos vivos do Senhor,
+não se rendam nossas almas
+aos ardis do tentador,
+
+para que, durante a vida,
+nas ações de cada dia,
+pratiquemos vossa lei
+com amor e alegria.
+
+Glória a Cristo, Rei clemente,
+e a Deus Pai, Eterno Bem,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó meu Deus, escutai minha prece,
+ao clamor do inimigo estremeço!
+
+@salmo salmos/salmo-054-2-15-17-24-i-v2
+
+@gloria
+
+@antifona
+Ó meu Deus, escutai minha prece,
+ao clamor do inimigo estremeço!
+
+@antifona 2
+O Senhor haverá de libertar-nos
+da mão do inimigo traiçoeiro.
+
+@salmo salmos/salmo-054-2-15-17-24-ii-v2
+
+@gloria
+
+@antifona
+O Senhor haverá de libertar-nos
+da mão do inimigo traiçoeiro.
+
+@antifona 3
+Lança sobre o Senhor teus cuidados,
+porque ele há de ser teu sustento.
+
+@salmo salmos/salmo-054-2-15-17-24-iii
+
+@gloria
+
+@antifona
+Lança sobre o Senhor teus cuidados,
+porque ele há de ser teu sustento.
+
+@texto
+V. Ó meu filho, fica atento ao meu saber,
+R. Presta ouvidos à minha inteligência!

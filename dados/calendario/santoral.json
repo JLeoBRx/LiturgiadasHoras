@@ -1,0 +1,2019 @@
+{
+  "_leia": "Calendário dos santos para o Brasil. 'data' = MM-DD. 'grau': solenidade, festa, memoria, memoria-facultativa. 'oficio' aponta para a pasta dos textos em dados/liturgia-das-horas. Use \"ativo\": false para desligar uma celebração sem apagá-la. Sem textos próprios no acervo: \"oficio\": null (o site usa o ofício do dia e avisa).",
+  "fixas": [
+    {
+      "data": "01-02",
+      "id": "basilioegregorio",
+      "nome": "Santos Basílio Magno e Gregório de Nazianzeno, Bispos e Doutores da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/basilioegregorio"
+    },
+    {
+      "data": "01-03",
+      "id": "ssnomedejesus",
+      "nome": "Santíssimo Nome de Jesus",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/ssnomedejesus"
+    },
+    {
+      "data": "01-07",
+      "id": "raimundopenyafort",
+      "nome": "São Raimundo de Peniaforte, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/raimundopenyafort"
+    },
+    {
+      "data": "01-13",
+      "id": "santohilario",
+      "nome": "Santo Hilário, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santohilario"
+    },
+    {
+      "data": "01-17",
+      "id": "santoantao",
+      "nome": "Santo Antão, Abade",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoantao"
+    },
+    {
+      "data": "01-20",
+      "id": "saofabiano",
+      "nome": "São Fabiano, Papa e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saofabiano"
+    },
+    {
+      "data": "01-20",
+      "id": "saosebastiao",
+      "nome": "São Sebastião, Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saosebastiao"
+    },
+    {
+      "data": "01-21",
+      "id": "santaines",
+      "nome": "Santa Inês, Virgem e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santaines"
+    },
+    {
+      "data": "01-22",
+      "id": "saovicente",
+      "nome": "São Vicente, Diácono e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saovicente"
+    },
+    {
+      "data": "01-24",
+      "id": "saofranciscosales",
+      "nome": "São Francisco de Sales, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saofranciscosales"
+    },
+    {
+      "data": "01-25",
+      "id": "conversaosaopaulo",
+      "nome": "Conversão de São Paulo, Apóstolo",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/conversaosaopaulo"
+    },
+    {
+      "data": "01-26",
+      "id": "saotimoteoetito",
+      "nome": "Santos Timóteo e Tito, Bispos",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saotimoteoetito"
+    },
+    {
+      "data": "01-27",
+      "id": "angelamerici",
+      "nome": "Santa Ângela Mérici, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/angelamerici"
+    },
+    {
+      "data": "01-28",
+      "id": "santotomas",
+      "nome": "Santo Tomás de Aquino, Presbítero e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santotomas"
+    },
+    {
+      "data": "01-31",
+      "id": "saojoaobosco",
+      "nome": "São João Bosco, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojoaobosco"
+    },
+    {
+      "data": "02-02",
+      "id": "apresentacao",
+      "nome": "Apresentação do Senhor",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/apresentacao"
+    },
+    {
+      "data": "02-03",
+      "id": "santooscar",
+      "nome": "Santo Oscar, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santooscar"
+    },
+    {
+      "data": "02-03",
+      "id": "saobras",
+      "nome": "São Brás, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saobras"
+    },
+    {
+      "data": "02-05",
+      "id": "santaagueda",
+      "nome": "Santa Águeda, Virgem e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santaagueda"
+    },
+    {
+      "data": "02-06",
+      "id": "saopaulomiki",
+      "nome": "São Paulo Miki e Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saopaulomiki"
+    },
+    {
+      "data": "02-08",
+      "id": "jeronimoemiliani",
+      "nome": "São Jerônimo Emiliani",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/jeronimoemiliani"
+    },
+    {
+      "data": "02-08",
+      "id": "josefinabakhita",
+      "nome": "Santa Josefina Bakhita, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/josefinabakhita"
+    },
+    {
+      "data": "02-10",
+      "id": "santaescolastica",
+      "nome": "Santa Escolástica, Virgem",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santaescolastica"
+    },
+    {
+      "data": "02-11",
+      "id": "NSLourdes",
+      "nome": "Bem-aventurada Virgem Maria de Lourdes",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/NSLourdes"
+    },
+    {
+      "data": "02-14",
+      "id": "saociriloemetodio",
+      "nome": "São Cirilo, Monge, e São Metódio, Bispo",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saociriloemetodio"
+    },
+    {
+      "data": "02-17",
+      "id": "setesantos",
+      "nome": "Os Sete Santos Fundadores dos Servitas",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/setesantos"
+    },
+    {
+      "data": "02-21",
+      "id": "pedrodamiao",
+      "nome": "São Pedro Damião, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/pedrodamiao"
+    },
+    {
+      "data": "02-22",
+      "id": "catedra",
+      "nome": "Cátedra de São Pedro, Apóstolo",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/catedra"
+    },
+    {
+      "data": "02-23",
+      "id": "policarpo",
+      "nome": "São Policarpo, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/policarpo"
+    },
+    {
+      "data": "02-27",
+      "id": "gregorionarek",
+      "nome": "São Gregório de Narek, Abade e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/gregorionarek"
+    },
+    {
+      "data": "03-04",
+      "id": "saocasimiro",
+      "nome": "São Casimiro",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saocasimiro"
+    },
+    {
+      "data": "03-07",
+      "id": "perpetuaefelicidade",
+      "nome": "Santas Perpétua e Felicidade, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/perpetuaefelicidade"
+    },
+    {
+      "data": "03-08",
+      "id": "joaodedeus",
+      "nome": "São João de Deus, Religioso",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaodedeus"
+    },
+    {
+      "data": "03-09",
+      "id": "franciscaromana",
+      "nome": "Santa Francisca Romana, Religiosa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/franciscaromana"
+    },
+    {
+      "data": "03-17",
+      "id": "saopatricio",
+      "nome": "São Patrício, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saopatricio"
+    },
+    {
+      "data": "03-18",
+      "id": "cirilojerusalem",
+      "nome": "São Cirilo de Jerusalém, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/cirilojerusalem"
+    },
+    {
+      "data": "03-19",
+      "id": "saojose",
+      "nome": "São José, Esposo da Bem-aventurada Virgem Maria",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/saojose"
+    },
+    {
+      "data": "03-23",
+      "id": "turibiodemogrovejo",
+      "nome": "São Turíbio de Mogrovejo, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/turibiodemogrovejo"
+    },
+    {
+      "data": "03-25",
+      "id": "anunciacao",
+      "nome": "Anunciação do Senhor",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/anunciacao"
+    },
+    {
+      "data": "04-02",
+      "id": "franciscodepaula",
+      "nome": "São Francisco de Paula, Eremita",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/franciscodepaula"
+    },
+    {
+      "data": "04-04",
+      "id": "santoisidoro",
+      "nome": "Santo Isidoro, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santoisidoro"
+    },
+    {
+      "data": "04-05",
+      "id": "saovicenteferrer",
+      "nome": "São Vicente Ferrer, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saovicenteferrer"
+    },
+    {
+      "data": "04-07",
+      "id": "joaodelasalle",
+      "nome": "São João Batista de La Salle, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/joaodelasalle"
+    },
+    {
+      "data": "04-11",
+      "id": "estanislau",
+      "nome": "Santo Estanislau, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/estanislau"
+    },
+    {
+      "data": "04-13",
+      "id": "martinhoI",
+      "nome": "São Martinho I, Papa e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/martinhoI"
+    },
+    {
+      "data": "04-21",
+      "id": "santoanselmo",
+      "nome": "Santo Anselmo, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santoanselmo"
+    },
+    {
+      "data": "04-23",
+      "id": "santoadalberto",
+      "nome": "Santo Adalberto, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": null,
+      "nota": "O acervo não traz os textos próprios desta memória; usam-se o ofício e as orações do dia de semana."
+    },
+    {
+      "data": "04-23",
+      "id": "saojorge",
+      "nome": "São Jorge, Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saojorge"
+    },
+    {
+      "data": "04-24",
+      "id": "saofidelis",
+      "nome": "São Fidélis de Sigmaringa, Presbítero e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saofidelis"
+    },
+    {
+      "data": "04-25",
+      "id": "saomarcos",
+      "nome": "São Marcos Evangelista",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saomarcos"
+    },
+    {
+      "data": "04-28",
+      "id": "pedrochanel",
+      "nome": "São Pedro Chanel, Presbítero e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/pedrochanel"
+    },
+    {
+      "data": "04-28",
+      "id": "saoluismontfort",
+      "nome": "São Luís Maria Grignion de Montfort, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saoluismontfort"
+    },
+    {
+      "data": "04-29",
+      "id": "santacatarina",
+      "nome": "Santa Catarina de Sena, Virgem, e Doutora da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santacatarina"
+    },
+    {
+      "data": "04-30",
+      "id": "saopiov",
+      "nome": "São Pio V, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saopiov"
+    },
+    {
+      "data": "05-01",
+      "id": "saojoseoperario",
+      "nome": "São José Operário",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saojoseoperario"
+    },
+    {
+      "data": "05-02",
+      "id": "santoatanasio",
+      "nome": "Santo Atanásio, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoatanasio"
+    },
+    {
+      "data": "05-03",
+      "id": "saofilipeetiago",
+      "nome": "São Filipe e São Tiago, Apóstolos",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saofilipeetiago"
+    },
+    {
+      "data": "05-10",
+      "id": "joaodeavila",
+      "nome": "São João de Ávila, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaodeavila"
+    },
+    {
+      "data": "05-12",
+      "id": "nereueaquiles",
+      "nome": "São Nereu e Santo Aquiles, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/nereueaquiles"
+    },
+    {
+      "data": "05-12",
+      "id": "saopancracio",
+      "nome": "São Pancrácio, Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saopancracio"
+    },
+    {
+      "data": "05-13",
+      "id": "NSFatima",
+      "nome": "Bem-aventurada Virgem Maria de Fátima",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/NSFatima"
+    },
+    {
+      "data": "05-14",
+      "id": "saomatias",
+      "nome": "São Matias, Apóstolo",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saomatias"
+    },
+    {
+      "data": "05-18",
+      "id": "joaoi",
+      "nome": "São João I, Papa e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/joaoi"
+    },
+    {
+      "data": "05-20",
+      "id": "saobernardino",
+      "nome": "São Bernardino de Sena, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saobernardino"
+    },
+    {
+      "data": "05-22",
+      "id": "ritadecassia",
+      "nome": "Santa Rita de Cássia, Religiosa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/ritadecassia"
+    },
+    {
+      "data": "05-25",
+      "id": "madalenadepazzi",
+      "nome": "Santa Maria Madalena de Pazzi, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/madalenadepazzi"
+    },
+    {
+      "data": "05-25",
+      "id": "saobeda",
+      "nome": "São Beda, o Venerável, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saobeda"
+    },
+    {
+      "data": "05-25",
+      "id": "saogregoriovii",
+      "nome": "São Gregório VII, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saogregoriovii"
+    },
+    {
+      "data": "05-26",
+      "id": "saofilipeneri",
+      "nome": "São Filipe Néri, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saofilipeneri"
+    },
+    {
+      "data": "05-27",
+      "id": "agostinhodecantuaria",
+      "nome": "Santo Agostinho de Cantuária, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/agostinhodecantuaria"
+    },
+    {
+      "data": "05-29",
+      "id": "paulovi",
+      "nome": "São Paulo VI, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/paulovi"
+    },
+    {
+      "data": "05-31",
+      "id": "visitacao",
+      "nome": "Visitação de Nossa Senhora",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/visitacao"
+    },
+    {
+      "data": "06-01",
+      "id": "saojustino",
+      "nome": "São Justino, Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saojustino"
+    },
+    {
+      "data": "06-02",
+      "id": "marcelinoepedro",
+      "nome": "Santos Marcelino e Pedro, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/marcelinoepedro"
+    },
+    {
+      "data": "06-03",
+      "id": "saocarloslwanga",
+      "nome": "São Carlos Lwanga e Seus Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saocarloslwanga"
+    },
+    {
+      "data": "06-05",
+      "id": "saobonifacio",
+      "nome": "São Bonifácio, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saobonifacio"
+    },
+    {
+      "data": "06-06",
+      "id": "norberto",
+      "nome": "São Norberto, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/norberto"
+    },
+    {
+      "data": "06-09",
+      "id": "josedeanchieta",
+      "nome": "São José de Anchieta, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/josedeanchieta"
+    },
+    {
+      "data": "06-09",
+      "id": "santoefrem",
+      "nome": "Santo Efrém, Diácono e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santoefrem"
+    },
+    {
+      "data": "06-11",
+      "id": "saobarnabe",
+      "nome": "São Barnabé, Apóstolo",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saobarnabe"
+    },
+    {
+      "data": "06-13",
+      "id": "santoantonio",
+      "nome": "Santo Antônio de Pádua (lisboa), Presbítero e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoantonio"
+    },
+    {
+      "data": "06-19",
+      "id": "saoromualdo",
+      "nome": "São Romualdo, Abade",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saoromualdo"
+    },
+    {
+      "data": "06-21",
+      "id": "saoluisgonzaga",
+      "nome": "São Luís Gonzaga, Religioso",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saoluisgonzaga"
+    },
+    {
+      "data": "06-22",
+      "id": "joaofishertomasmore",
+      "nome": "São João Fisher, Bispo, e Santo Tomás More, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/joaofishertomasmore"
+    },
+    {
+      "data": "06-22",
+      "id": "paulinodenola",
+      "nome": "São Paulino de Nola, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/paulinodenola"
+    },
+    {
+      "data": "06-24",
+      "id": "saojoao",
+      "nome": "Nascimento de São João Batista",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/saojoao"
+    },
+    {
+      "data": "06-26",
+      "id": "josemariaescriva",
+      "nome": "São Josemaria Escrivá de Balaguer, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/josemariaescriva",
+      "ativo": false,
+      "nota": "Não consta do calendário geral; usado em alguns calendários particulares."
+    },
+    {
+      "data": "06-27",
+      "id": "saociriloalexandria",
+      "nome": "São Cirilo de Alexandria, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saociriloalexandria"
+    },
+    {
+      "data": "06-28",
+      "id": "santoirineu",
+      "nome": "Santo Irineu, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santoirineu"
+    },
+    {
+      "data": "06-29",
+      "id": "pedroepaulo",
+      "nome": "São Pedro e São Paulo, Apóstolos",
+      "grau": "solenidade",
+      "cor": "vermelho",
+      "oficio": "proprio/pedroepaulo"
+    },
+    {
+      "data": "06-30",
+      "id": "protomartiresroma",
+      "nome": "Santos Protomártires da Igreja de Roma",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/protomartiresroma"
+    },
+    {
+      "data": "07-03",
+      "id": "saotome",
+      "nome": "São Tomé, Apóstolo",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saotome"
+    },
+    {
+      "data": "07-04",
+      "id": "isabeldeportugal",
+      "nome": "Santa Isabel de Portugal",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/isabeldeportugal"
+    },
+    {
+      "data": "07-05",
+      "id": "santoantoniomzacaria",
+      "nome": "Santo Antônio Maria Zacaria, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santoantoniomzacaria"
+    },
+    {
+      "data": "07-06",
+      "id": "mariagoretti",
+      "nome": "Santa Maria Goretti, Virgem e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/mariagoretti"
+    },
+    {
+      "data": "07-09",
+      "id": "agostinhozhaorong",
+      "nome": "Santos Agostinho Zhao Rong, Presbítero, e Companheiros, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/agostinhozhaorong"
+    },
+    {
+      "data": "07-09",
+      "id": "santapaulina",
+      "nome": "Santa Paulina do Coração Agonizante de Jesus, Virgem",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santapaulina"
+    },
+    {
+      "data": "07-11",
+      "id": "saobento",
+      "nome": "São Bento, Abade",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saobento"
+    },
+    {
+      "data": "07-13",
+      "id": "santohenrique",
+      "nome": "Santo Henrique",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santohenrique"
+    },
+    {
+      "data": "07-14",
+      "id": "camilodelellis",
+      "nome": "São Camilo de Lellis, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/camilodelellis"
+    },
+    {
+      "data": "07-15",
+      "id": "saoboaventura",
+      "nome": "São Boaventura, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saoboaventura"
+    },
+    {
+      "data": "07-16",
+      "id": "NSCarmo",
+      "nome": "Bem-aventurada Virgem Maria do Monte Carmelo",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/NSCarmo"
+    },
+    {
+      "data": "07-17",
+      "id": "inaciodeazevedo",
+      "nome": "Bem-aventurado Inácio de Azevedo, Presbítero, e Seus Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/inaciodeazevedo"
+    },
+    {
+      "data": "07-20",
+      "id": "santoapolinario",
+      "nome": "Santo Apolinário, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/santoapolinario"
+    },
+    {
+      "data": "07-21",
+      "id": "lourencodebrindisi",
+      "nome": "São Lourenço de Bríndisi, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/lourencodebrindisi"
+    },
+    {
+      "data": "07-22",
+      "id": "stamariamadalena",
+      "nome": "Santa Maria Madalena",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/stamariamadalena"
+    },
+    {
+      "data": "07-23",
+      "id": "santabrigida",
+      "nome": "Santa Brígida, Religiosa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santabrigida"
+    },
+    {
+      "data": "07-24",
+      "id": "saocharbel",
+      "nome": "São Charbel Makhluf, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saocharbel"
+    },
+    {
+      "data": "07-25",
+      "id": "saotiago",
+      "nome": "São Tiago Maior, Apóstolo",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saotiago"
+    },
+    {
+      "data": "07-26",
+      "id": "saojoaquimesantana",
+      "nome": "Santos Joaquim e Ana, Pais da Bem-aventurada Virgem Maria",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojoaquimesantana"
+    },
+    {
+      "data": "07-29",
+      "id": "santamarta",
+      "nome": "Santos Marta, Maria e Lázaro",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santamarta"
+    },
+    {
+      "data": "07-30",
+      "id": "saopedrocrisologo",
+      "nome": "São Pedro Crisólogo, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saopedrocrisologo"
+    },
+    {
+      "data": "07-31",
+      "id": "santoinacio",
+      "nome": "Santo Inácio de Loyola, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoinacio"
+    },
+    {
+      "data": "08-01",
+      "id": "santoafonso",
+      "nome": "Santo Afonso Maria de Ligório, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoafonso"
+    },
+    {
+      "data": "08-02",
+      "id": "eusebiovercelli",
+      "nome": "Santo Eusébio de Vercelli, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/eusebiovercelli"
+    },
+    {
+      "data": "08-02",
+      "id": "pedroeymard",
+      "nome": "São Pedro Julião Eymard, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/pedroeymard"
+    },
+    {
+      "data": "08-04",
+      "id": "saojmvianney",
+      "nome": "São João Maria Vianney, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojmvianney"
+    },
+    {
+      "data": "08-05",
+      "id": "santamariamaior",
+      "nome": "Dedicação da Basílica de Santa Maria Maior",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santamariamaior"
+    },
+    {
+      "data": "08-06",
+      "id": "transfiguracao",
+      "nome": "Transfiguração do Senhor",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/transfiguracao"
+    },
+    {
+      "data": "08-07",
+      "id": "saocaetano",
+      "nome": "São Caetano, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saocaetano"
+    },
+    {
+      "data": "08-07",
+      "id": "saosisto",
+      "nome": "São Sisto II, Papa, e Seus Companheiros, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saosisto"
+    },
+    {
+      "data": "08-08",
+      "id": "saodomingos",
+      "nome": "São Domingos, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saodomingos"
+    },
+    {
+      "data": "08-09",
+      "id": "beneditadacruz",
+      "nome": "Santa Teresa Benedita da Cruz, Virgem e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/beneditadacruz"
+    },
+    {
+      "data": "08-10",
+      "id": "saolourenco",
+      "nome": "São Lourenço, Diácono e Mártir",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saolourenco"
+    },
+    {
+      "data": "08-11",
+      "id": "santaclara",
+      "nome": "Santa Clara, Virgem",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santaclara"
+    },
+    {
+      "data": "08-12",
+      "id": "santajoanadechantal",
+      "nome": "Santa Joana Francisca de Chantal, Religiosa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santajoanadechantal"
+    },
+    {
+      "data": "08-13",
+      "id": "santadulce",
+      "nome": "Santa Dulce Lopes Pontes, Virgem",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santadulce"
+    },
+    {
+      "data": "08-13",
+      "id": "saoponciano",
+      "nome": "São Ponciano, Papa, e Santo Hipólito Presbítero, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saoponciano"
+    },
+    {
+      "data": "08-14",
+      "id": "saomaximiliano",
+      "nome": "São Maximiliano Maria Kolbe, Presbítero e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saomaximiliano"
+    },
+    {
+      "data": "08-15",
+      "id": "assuncao",
+      "nome": "Assunção da Bem-aventurada Virgem Maria",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/assuncao"
+    },
+    {
+      "data": "08-16",
+      "id": "estevaodahungria",
+      "nome": "Santo Estêvão da Hungria",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/estevaodahungria"
+    },
+    {
+      "data": "08-19",
+      "id": "saojoaoeudes",
+      "nome": "São João Eudes, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saojoaoeudes"
+    },
+    {
+      "data": "08-20",
+      "id": "saobernardo",
+      "nome": "São Bernardo, Abade e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saobernardo"
+    },
+    {
+      "data": "08-21",
+      "id": "saopiox",
+      "nome": "São Pio X, Papa",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saopiox"
+    },
+    {
+      "data": "08-22",
+      "id": "NSRainha",
+      "nome": "Nossa Senhora Rainha",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/NSRainha"
+    },
+    {
+      "data": "08-23",
+      "id": "santarosa",
+      "nome": "Santa Rosa de Lima, Virgem Padroeira da América Latina",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/santarosa"
+    },
+    {
+      "data": "08-24",
+      "id": "saobartolomeu",
+      "nome": "São Bartolomeu, Apóstolo",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saobartolomeu"
+    },
+    {
+      "data": "08-25",
+      "id": "josedecalasanz",
+      "nome": "São José de Calasanz, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/josedecalasanz"
+    },
+    {
+      "data": "08-25",
+      "id": "saoluisdefranca",
+      "nome": "São Luís de França",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saoluisdefranca"
+    },
+    {
+      "data": "08-27",
+      "id": "santamonica",
+      "nome": "Santa Mônica",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santamonica"
+    },
+    {
+      "data": "08-28",
+      "id": "santoagostinho",
+      "nome": "Santo Agostinho, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoagostinho"
+    },
+    {
+      "data": "08-29",
+      "id": "martiriobatista",
+      "nome": "Martírio de São João Batista",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/martiriobatista"
+    },
+    {
+      "data": "09-03",
+      "id": "saogregorio",
+      "nome": "São Gregório Magno, Papa e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saogregorio"
+    },
+    {
+      "data": "09-04",
+      "id": "tiagodeviterbo",
+      "nome": "Bem-aventurado Tiago de Viterbo, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/tiagodeviterbo",
+      "ativo": false,
+      "nota": "Próprio agostiniano."
+    },
+    {
+      "data": "09-05",
+      "id": "santateresadecalcuta",
+      "nome": "Santa Teresa de Calcutá, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santateresadecalcuta"
+    },
+    {
+      "data": "09-08",
+      "id": "natividade",
+      "nome": "Natividade da Bem-aventurada Virgem Maria",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/natividade"
+    },
+    {
+      "data": "09-09",
+      "id": "saopedroclaver",
+      "nome": "São Pedro Claver, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saopedroclaver"
+    },
+    {
+      "data": "09-12",
+      "id": "ssnomedemaria",
+      "nome": "Santíssimo Nome de Maria",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/ssnomedemaria"
+    },
+    {
+      "data": "09-13",
+      "id": "saojoaocrisostomo",
+      "nome": "São João Crisóstomo, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojoaocrisostomo"
+    },
+    {
+      "data": "09-14",
+      "id": "exaltacao",
+      "nome": "Exaltação da Santa Cruz",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/exaltacao"
+    },
+    {
+      "data": "09-15",
+      "id": "NSDores",
+      "nome": "Bem-aventurada Virgem Maria das Dores",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/NSDores"
+    },
+    {
+      "data": "09-16",
+      "id": "cornelioecipriano",
+      "nome": "São Cornélio, Papa, e São Cipriano, Bispo, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/cornelioecipriano"
+    },
+    {
+      "data": "09-17",
+      "id": "hildegarda",
+      "nome": "Santa Hildegarda de Bingen, Virgem e Doutora da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/hildegarda"
+    },
+    {
+      "data": "09-17",
+      "id": "saoroberto",
+      "nome": "São Roberto Belarmino, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saoroberto"
+    },
+    {
+      "data": "09-19",
+      "id": "saojanuario",
+      "nome": "São Januário, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saojanuario"
+    },
+    {
+      "data": "09-20",
+      "id": "santoandrekim",
+      "nome": "Santos André Kim Tae-gon, Presbítero, Paulo Chóng Hasang e Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santoandrekim"
+    },
+    {
+      "data": "09-21",
+      "id": "saomateus",
+      "nome": "São Mateus, Apóstolo e Evangelista",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saomateus"
+    },
+    {
+      "data": "09-22",
+      "id": "tomasdevilanova",
+      "nome": "São Tomás de Vilanova, Bispo",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/tomasdevilanova",
+      "ativo": false,
+      "nota": "Próprio agostiniano."
+    },
+    {
+      "data": "09-23",
+      "id": "saopio",
+      "nome": "São Pio de Pietrelcina, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saopio"
+    },
+    {
+      "data": "09-26",
+      "id": "cosmeedamiao",
+      "nome": "Santos Cosme e Damião, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/cosmeedamiao"
+    },
+    {
+      "data": "09-27",
+      "id": "saovicentedepaulo",
+      "nome": "São Vicente de Paulo, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saovicentedepaulo"
+    },
+    {
+      "data": "09-28",
+      "id": "lourencoruiz",
+      "nome": "São Lourenço Ruiz e Companheiros, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/lourencoruiz"
+    },
+    {
+      "data": "09-28",
+      "id": "saovenceslau",
+      "nome": "São Venceslau, Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saovenceslau"
+    },
+    {
+      "data": "09-29",
+      "id": "arcanjos",
+      "nome": "Santos Miguel, Gabriel e Rafael, Arcanjos",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/arcanjos"
+    },
+    {
+      "data": "09-30",
+      "id": "saojeronimo",
+      "nome": "São Jerônimo, Presbítero e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojeronimo"
+    },
+    {
+      "data": "10-01",
+      "id": "santateresinha",
+      "nome": "Santa Teresa do Menino Jesus, Virgem e Doutora da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santateresinha"
+    },
+    {
+      "data": "10-02",
+      "id": "anjos",
+      "nome": "Santos Anjos da Guarda",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/anjos"
+    },
+    {
+      "data": "10-03",
+      "id": "andreeambrosio",
+      "nome": "Santos André de Soveral, Ambrósio Francisco Ferro e Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/andreeambrosio"
+    },
+    {
+      "data": "10-04",
+      "id": "saofrancisco",
+      "nome": "São Francisco de Assis",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saofrancisco"
+    },
+    {
+      "data": "10-05",
+      "id": "beneditoonegro",
+      "nome": "São Benedito, o Negro, Religioso",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/beneditoonegro"
+    },
+    {
+      "data": "10-05",
+      "id": "faustinakowalska",
+      "nome": "Santa Faustina Kowalska, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/faustinakowalska"
+    },
+    {
+      "data": "10-06",
+      "id": "saobruno",
+      "nome": "São Bruno, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saobruno"
+    },
+    {
+      "data": "10-07",
+      "id": "NSRosario",
+      "nome": "Nossa Senhora do Rosário",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/NSRosario"
+    },
+    {
+      "data": "10-09",
+      "id": "saodionisio",
+      "nome": "São Dionísio, Bispo, e Seus Companheiros, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saodionisio"
+    },
+    {
+      "data": "10-09",
+      "id": "saojoaoleonardi",
+      "nome": "São João Leonardi, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saojoaoleonardi"
+    },
+    {
+      "data": "10-09",
+      "id": "saojoaonewman",
+      "nome": "São João Henrique Newman, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saojoaonewman"
+    },
+    {
+      "data": "10-11",
+      "id": "joaoxxiii",
+      "nome": "São Joao XXIII, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaoxxiii"
+    },
+    {
+      "data": "10-12",
+      "id": "NSAparecida",
+      "nome": "Bem-aventurada Virgem Maria da Conceição Aparecida",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/NSAparecida"
+    },
+    {
+      "data": "10-14",
+      "id": "saocalisto",
+      "nome": "São Calisto I, Papa e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saocalisto"
+    },
+    {
+      "data": "10-15",
+      "id": "santateresa",
+      "nome": "Santa Teresa de Jesus, Virgem e Doutora da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santateresa"
+    },
+    {
+      "data": "10-16",
+      "id": "margaridaalacoque",
+      "nome": "Santa Margarida Maria Alacoque, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/margaridaalacoque"
+    },
+    {
+      "data": "10-16",
+      "id": "santaedviges",
+      "nome": "Santa Edviges, Religiosa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santaedviges"
+    },
+    {
+      "data": "10-17",
+      "id": "inaciodeantioquia",
+      "nome": "Santo Inácio de Antioquia, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/inaciodeantioquia"
+    },
+    {
+      "data": "10-18",
+      "id": "saolucas",
+      "nome": "São Lucas, Evangelista",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/saolucas"
+    },
+    {
+      "data": "10-19",
+      "id": "joaobrebeuf",
+      "nome": "Santos João de Brébeuf e Isaac Jogues, Presbíteros, e Companheiros, Mártires",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/joaobrebeuf"
+    },
+    {
+      "data": "10-19",
+      "id": "paulodacruz",
+      "nome": "São Paulo da Cruz, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/paulodacruz"
+    },
+    {
+      "data": "10-19",
+      "id": "pedroalcantara",
+      "nome": "São Pedro de Alcântara, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/pedroalcantara"
+    },
+    {
+      "data": "10-22",
+      "id": "joaopauloii",
+      "nome": "São João Paulo II, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaopauloii"
+    },
+    {
+      "data": "10-23",
+      "id": "joaocapistrano",
+      "nome": "São João de Capistrano, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaocapistrano"
+    },
+    {
+      "data": "10-24",
+      "id": "antoniomariaclaret",
+      "nome": "Santo Antônio Maria Claret, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/antoniomariaclaret"
+    },
+    {
+      "data": "10-25",
+      "id": "antoniogalvao",
+      "nome": "Santo Antônio de Sant'Ana Galvão",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/antoniogalvao"
+    },
+    {
+      "data": "10-28",
+      "id": "simaoejudas",
+      "nome": "Santos Simão e Judas, Apóstolos",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/simaoejudas"
+    },
+    {
+      "data": "11-01",
+      "id": "todosossantos",
+      "nome": "Todos os Santos",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/todosossantos"
+    },
+    {
+      "data": "11-02",
+      "id": "fieisdefuntos",
+      "nome": "Comemoração de Todos os Fiéis Defuntos",
+      "grau": "comemoracao-defuntos",
+      "cor": "roxo",
+      "oficio": "proprio/fieisdefuntos"
+    },
+    {
+      "data": "11-03",
+      "id": "martinhodelima",
+      "nome": "São Martinho (de Lima), Religioso",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/martinhodelima"
+    },
+    {
+      "data": "11-04",
+      "id": "carlosborromeu",
+      "nome": "São Carlos Borromeu, Bispo",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/carlosborromeu"
+    },
+    {
+      "data": "11-09",
+      "id": "latrao",
+      "nome": "Dedicação da Basílica do Latrão",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/latrao"
+    },
+    {
+      "data": "11-10",
+      "id": "saoleao",
+      "nome": "São Leão Magno, Papa e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saoleao"
+    },
+    {
+      "data": "11-11",
+      "id": "saomartinho",
+      "nome": "São Martinho de Tours, Bispo",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saomartinho"
+    },
+    {
+      "data": "11-12",
+      "id": "saojosafa",
+      "nome": "São Josafá, Bispo e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/saojosafa"
+    },
+    {
+      "data": "11-15",
+      "id": "santoalberto",
+      "nome": "Santo Alberto Magno, Bispo e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santoalberto"
+    },
+    {
+      "data": "11-16",
+      "id": "margaridadaescocia",
+      "nome": "Santa Margarida da Escócia",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/margaridadaescocia"
+    },
+    {
+      "data": "11-16",
+      "id": "santagertrudes",
+      "nome": "Santa Gertrudes, Virgem",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santagertrudes"
+    },
+    {
+      "data": "11-17",
+      "id": "isabeldahungria",
+      "nome": "Santa Isabel da Hungria",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/isabeldahungria"
+    },
+    {
+      "data": "11-18",
+      "id": "basilicaspedroepaulo",
+      "nome": "Dedicação das Basílicas dos Santos Pedro e Paulo, Apóstolos",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/basilicaspedroepaulo"
+    },
+    {
+      "data": "11-19",
+      "id": "roquegonzalez",
+      "nome": "Santos Roque González, Afonso Rodríguez e João de Castillo, Presbíteros e Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/roquegonzalez"
+    },
+    {
+      "data": "11-21",
+      "id": "apresentacaoNS",
+      "nome": "Apresentação da Bem-aventurada Virgem Maria",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/apresentacaoNS"
+    },
+    {
+      "data": "11-22",
+      "id": "santacecilia",
+      "nome": "Santa Cecília, Virgem e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santacecilia"
+    },
+    {
+      "data": "11-23",
+      "id": "saoclemente",
+      "nome": "São Clemente I, Papa e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/saoclemente"
+    },
+    {
+      "data": "11-23",
+      "id": "saocolumbano",
+      "nome": "São Columbano, Abade",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saocolumbano"
+    },
+    {
+      "data": "11-24",
+      "id": "santoandredung",
+      "nome": "Santo André Dung-Lac, Presbítero, e Companheiros, Mártires",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santoandredung"
+    },
+    {
+      "data": "11-25",
+      "id": "catarinadealexandria",
+      "nome": "Santa Catarina de Alexandria, Virgem e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/catarinadealexandria"
+    },
+    {
+      "data": "11-30",
+      "id": "santoandre",
+      "nome": "Santo André, Apóstolo",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/santoandre"
+    },
+    {
+      "data": "12-03",
+      "id": "franciscoxavier",
+      "nome": "São Francisco Xavier, Presbítero",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/franciscoxavier"
+    },
+    {
+      "data": "12-04",
+      "id": "joaocalabria",
+      "nome": "São João Calábria, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaocalabria",
+      "ativo": false,
+      "nota": "Próprio de congregação religiosa."
+    },
+    {
+      "data": "12-04",
+      "id": "joaodamasceno",
+      "nome": "São João Damasceno, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaodamasceno"
+    },
+    {
+      "data": "12-06",
+      "id": "saonicolau",
+      "nome": "São Nicolau, Bispo",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saonicolau"
+    },
+    {
+      "data": "12-07",
+      "id": "santoambrosio",
+      "nome": "Santo Ambrósio, Bispo e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/santoambrosio"
+    },
+    {
+      "data": "12-08",
+      "id": "imaculada",
+      "nome": "Imaculada Conceição da Bem-aventurada Virgem Maria",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/imaculada"
+    },
+    {
+      "data": "12-09",
+      "id": "saojoaodiego",
+      "nome": "São João Diego Cuauhtlatoatzin",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saojoaodiego"
+    },
+    {
+      "data": "12-10",
+      "id": "NSLoreto",
+      "nome": "Bem-aventurada Virgem Maria de Loreto",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/NSLoreto"
+    },
+    {
+      "data": "12-11",
+      "id": "saodamaso",
+      "nome": "São Dâmaso I, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saodamaso"
+    },
+    {
+      "data": "12-12",
+      "id": "NSGuadalupe",
+      "nome": "Nossa Senhora de Guadalupe, Padroeira da América Latina",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/NSGuadalupe"
+    },
+    {
+      "data": "12-13",
+      "id": "santaluzia",
+      "nome": "Santa Luzia, Virgem e Mártir",
+      "grau": "memoria",
+      "cor": "vermelho",
+      "oficio": "proprio/santaluzia"
+    },
+    {
+      "data": "12-14",
+      "id": "saojoaodacruz",
+      "nome": "São João da Cruz, Presbítero e Doutor da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/saojoaodacruz"
+    },
+    {
+      "data": "12-21",
+      "id": "pedrocanisio",
+      "nome": "São Pedro Canísio, Presbítero e Doutor da Igreja",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/pedrocanisio"
+    },
+    {
+      "data": "12-23",
+      "id": "joaocancio",
+      "nome": "São João Câncio, Presbítero",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/joaocancio"
+    },
+    {
+      "data": "12-26",
+      "id": "santoestevao",
+      "nome": "Santo Estêvão, Protomártir",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/santoestevao"
+    },
+    {
+      "data": "12-27",
+      "id": "joaoevangelista",
+      "nome": "São João, Apóstolo e Evangelista",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/joaoevangelista"
+    },
+    {
+      "data": "12-28",
+      "id": "santosinocentes",
+      "nome": "Os Santos Inocentes, Mártires",
+      "grau": "festa",
+      "cor": "vermelho",
+      "oficio": "proprio/santosinocentes"
+    },
+    {
+      "data": "12-29",
+      "id": "tomasbecket",
+      "nome": "São Tomás Becket, Bispo e Mártir",
+      "grau": "memoria-facultativa",
+      "cor": "vermelho",
+      "oficio": "proprio/tomasbecket"
+    },
+    {
+      "data": "12-31",
+      "id": "saosilvestre",
+      "nome": "São Silvestre I, Papa",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/saosilvestre"
+    }
+  ],
+  "moveis": {
+    "natal": {
+      "id": "natal",
+      "nome": "Natal do Senhor",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/natal"
+    },
+    "santamaria": {
+      "id": "santamaria",
+      "nome": "Santa Maria, Mãe de Deus",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/santamaria"
+    },
+    "sagradafamilia": {
+      "id": "sagradafamilia",
+      "nome": "Sagrada Família, Jesus, Maria e José",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/sagradafamilia"
+    },
+    "epifania": {
+      "id": "epifania",
+      "nome": "Epifania do Senhor",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/epifania"
+    },
+    "batismo": {
+      "id": "batismo",
+      "nome": "Batismo do Senhor",
+      "grau": "festa",
+      "cor": "branco",
+      "oficio": "proprio/batismo"
+    },
+    "cinzas": {
+      "id": "cinzas",
+      "nome": "Quarta-feira de Cinzas",
+      "grau": "cinzas",
+      "cor": "roxo",
+      "oficio": "proprio/cinzas"
+    },
+    "ramos": {
+      "id": "ramos",
+      "nome": "Domingo de Ramos da Paixão do Senhor",
+      "grau": "domingo",
+      "cor": "vermelho",
+      "oficio": "proprio/ramos"
+    },
+    "ceiadosenhor": {
+      "id": "ceiadosenhor",
+      "nome": "Quinta-feira Santa — Ceia do Senhor",
+      "grau": "triduo",
+      "cor": "branco",
+      "oficio": "proprio/ceiadosenhor"
+    },
+    "paixaodosenhor": {
+      "id": "paixaodosenhor",
+      "nome": "Sexta-feira da Paixão do Senhor",
+      "grau": "triduo",
+      "cor": "vermelho",
+      "oficio": "proprio/paixaodosenhor"
+    },
+    "sabadosanto": {
+      "id": "sabadosanto",
+      "nome": "Sábado Santo",
+      "grau": "triduo",
+      "cor": "roxo",
+      "oficio": "proprio/sabadosanto"
+    },
+    "pascoa": {
+      "id": "pascoa",
+      "nome": "Domingo da Páscoa na Ressurreição do Senhor",
+      "grau": "triduo",
+      "cor": "branco",
+      "oficio": "proprio/pascoa"
+    },
+    "divinamisericordia": {
+      "id": "divinamisericordia",
+      "nome": "2º Domingo da Páscoa (da Divina Misericórdia)",
+      "grau": "domingo",
+      "cor": "branco",
+      "oficio": "proprio/divinamisericordia"
+    },
+    "ascensaodosenhor": {
+      "id": "ascensaodosenhor",
+      "nome": "Ascensão do Senhor",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/ascensaodosenhor"
+    },
+    "pentecostes": {
+      "id": "pentecostes",
+      "nome": "Domingo de Pentecostes",
+      "grau": "solenidade",
+      "cor": "vermelho",
+      "oficio": "proprio/pentecostes"
+    },
+    "maedaigreja": {
+      "id": "maedaigreja",
+      "nome": "Bem-aventurada Virgem Maria, Mãe da Igreja",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/maedaigreja"
+    },
+    "santissimatrindade": {
+      "id": "santissimatrindade",
+      "nome": "Santíssima Trindade",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/santissimatrindade"
+    },
+    "corpuschristi": {
+      "id": "corpuschristi",
+      "nome": "Santíssimo Corpo e Sangue de Cristo",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/corpuschristi"
+    },
+    "scj": {
+      "id": "scj",
+      "nome": "Sagrado Coração de Jesus",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/scj"
+    },
+    "icvm": {
+      "id": "icvm",
+      "nome": "Imaculado Coração da Bem-aventurada Virgem Maria",
+      "grau": "memoria",
+      "cor": "branco",
+      "oficio": "proprio/icvm"
+    },
+    "cristoreidouniverso": {
+      "id": "cristoreidouniverso",
+      "nome": "Nosso Senhor Jesus Cristo, Rei do Universo",
+      "grau": "solenidade",
+      "cor": "branco",
+      "oficio": "proprio/cristoreidouniverso"
+    },
+    "santamarianosabado": {
+      "id": "santamarianosabado",
+      "nome": "Santa Maria no Sábado",
+      "grau": "memoria-facultativa",
+      "cor": "branco",
+      "oficio": "proprio/santamarianosabado"
+    }
+  }
+}

@@ -1,0 +1,226 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/todosossantos.htm
+@documento Ofício das Leituras - Todos Os Santos Solenidade
+
+@celebracao
+TODOS OS SANTOS
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Dos santos todos fostes caminho,
+vida, esperança, Mestre e Senhor:
+ouvi agora nossos louvores,
+ó Redentor.
+
+No céu, aos coros dos anjos todos
+juntam os santos a sua voz:
+todos unidos, a bendizer-vos,
+pedem por nós.
+
+Ouvindo as preces da Virgem Santa,
+dos santos todos a intercessão,
+afaste as penas, que merecemos,
+vosso perdão.
+
+Com o Pai e o Espírito, aqui na terra,
+dai-nos louvar-vos, único Deus,
+e auxiliados por tantos santos
+subir aos céus.
+
+@secao Salmodia
+
+@antifona 1
+Como é grande o vosso nome, ó Senhor!
+De honra e glória coroastes vossos santos,
+vossas obras colocastes a seus pés.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Como é grande o vosso nome, ó Senhor!
+De honra e glória coroastes vossos santos,
+vossas obras colocastes a seus pés.
+
+@antifona 2
+Felizes os puros em seu coração,
+porque eles verão o seu Deus face a face!
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Felizes os puros em seu coração,
+porque eles verão o seu Deus face a face!
+
+@antifona 3
+Aos vossos santos ensinastes o caminho para a vida,
+junto a vós delícia eterna e alegria ao vosso lado.
+
+@salmo salmos/salmo-015
+
+@gloria
+
+@antifona
+Aos vossos santos ensinastes o caminho para a vida,
+junto a vós delícia eterna e alegria ao vosso lado.
+
+@texto
+V. Contemplai a sua face e alegrai-vos.
+R. E vosso rosto não se cubra de vergonha.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse de São João {5,1-14}
+
+@tema
+Resgatastes para Deus homens de toda tribo, língua e nação
+
+@texto
+Eu, João, vi um livro na mão direita daquele que estava sentado no trono. Era um rolo escrito por dentro e por fora, e estava lacrado com sete selos. Vi então um anjo forte, que proclamava em voz alta: “Quem é digno de romper os selos e abrir o livro?" Ninguém no céu nem na terra nem debaixo da terra era digno de abrir o livro ou de ler o que nele estava escrito. Eu chorava muito, porque ninguém foi considerado digno de abrir ou de ler o livro. Um dos anciãos me consolou: “Não chores! Eis que o Leão da tribo de Judá, o Rebento de Davi, saiu vencedor. Ele pode romper os selos e abrir o livro”. De fato, vi um Cordeiro. Estava no centro do trono e dos quatro Seres vivos, no meio dos Anciãos. Estava de pé como que imolado. O Cordeiro tinha sete chifres e sete olhos, que são os sete Espíritos de Deus, enviados por toda a terra. Então, o Cordeiro veio receber o livro da mão direita daquele que está sentado no trono. Quando ele recebeu o livro, os quatro Seres vivos e os vinte e quatro Anciãos prostraram-se diante do Cordeiro. Todos tinham harpas e taças de ouro cheias de incenso, que são as orações dos santos. E entoaram um cântico novo: “Tu és digno de receber o livro e abrir seus selos, porque foste imolado, e com teu sangue adquiriste para Deus homens de toda tribo, língua, povo e nação. Deles fizeste para o nosso Deus um reino de sacerdotes. E eles reinarão sobre a terra.” Na minha visão, ouvi a voz de numerosos anjos, que estavam em volta do trono, e dos Seres vivos e dos Anciãos. Eram milhares de milhares, milhões de milhões, e proclamavam em alta voz: “O Cordeiro imolado é digno de receber o poder, a riqueza, a sabedoria e a força, a honra, a glória e o louvor”. Ouvi também todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, e diziam: “Ao que está sentado no trono e ao Cordeiro, o louvor e a honra, a glória e o poder para sempre”. Os quatro Seres vivos respondiam: “Amém”, e os Anciãos se prostraram em adoração daquele que vive para sempre.
+
+@secao Responsório | Ap 11,17; 1,4; cf. 11,18; Sl 144(145),10
+
+@responsorio
+R. Graças vos damos, Senhor Deus onipotente,
+a vós que sois, a vós que éreis e sereis,
+* Porque assumistes o poder que vos pertence
+e veio o tempo de julgar vivos e mortos
+e de dar a recompensa aos vossos servos.
+V. Que vossas obras, ó Senhor, vos glorifiquem
+e os vossos santos com louvores vos bendigam!
+* Porque.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Séc. XII)} {(Sermo 2: Opera omnia, Edit. Cisterc. 5 [1968],364-368)}
+
+@tema
+Apressemo-nos ao encontro dos irmãos que nos esperam
+
+@texto
+Para que louvar os santos, para que glorificá-los? Para que, enfim, esta solenidade? Que lhes importam as honras terrenas, a eles que, segundo a promessa do Filho, o mesmo Pai celeste glorifica? De que lhes servem nossos elogios? Os santos não precisam de nossas homenagens, nem lhes vale nossa devoção. Se veneramos os Santos, sem dúvida nenhuma, o interesse é nosso, não deles. Eu por mim, confesso, ao recordar-me deles, sinto acender-se um desejo veemente. Em primeiro lugar, o desejo que sua lembrança mais estimula e incita é o de gozarmos de sua tão amável companhia e de merecermos ser concidadãos e comensais dos espíritos bem-aventurados, de unir-nos ao grupo dos patriarcas, às fileiras dos profetas, ao senado dos apóstolos, ao numeroso exército dos mártires, ao grêmio dos confessores, aos coros das virgens, de associar-nos, enfim, à comunhão de todos os santos e com todos nos alegrarmos. A assembleia dos primogênitos aguarda-nos e nós parecemos indiferentes! Os santos desejam-nos e não fazemos caso; os justos esperam-nos e esquivamo-nos. Animemo-nos, enfim, irmãos. Ressuscitemos com Cristo. Busquemos as realidades celestes. Tenhamos gosto pelas coisas do alto. Desejemos aqueles que nos desejam. Apressemo-nos ao encontro dos que nos aguardam. Antecipemo-nos pelos votos do coração aos que nos esperam. Seja-nos um incentivo não só a companhia dos santos, mas também a sua felicidade. Cobicemos com fervoroso empenho também a glória daqueles cuja presença desejamos. Não é má esta ambição nem de nenhum modo é perigosa a paixão pela glória deles. O segundo desejo que brota em nós pela comemoração dos santos consiste em que Cristo, nossa vida, tal como a eles, também apareça a nós e nós juntamente com ele apareçamos na glória. Enquanto isto não sucede, nossa Cabeça não como é, mas como se fez por nós, se nos apresenta. Isto é, não coroada de glória, mas com os espinhos de nossos pecados. É uma vergonha fazer-se de membro regalado, sob uma cabeça coroada de espinhos. Por enquanto a púrpura não lhe é sinal de honra, mas de zombaria. Será sinal de honra quando Cristo vier e não mais se proclamará sua morte, e saberemos que nós estamos mortos com ele, e com ele escondida nossa vida. Aparecerá a Cabeça gloriosa e com ela refulgirão os membros glorificados, quando transformar nosso corpo humilhado, configurando-o à glória da Cabeça, que é ele mesmo. Com inteira e segura ambição cobicemos esta glória. Contudo para que nos seja lícito esperá-la e aspirar a tão grande felicidade, cumpre-nos desejar com muito empenho a intercessão dos santos. Assim, aquilo que não podemos obter por nós mesmos, seja-nos dado por sua intercessão.
+
+@secao Responsório | Ap 19,5b.6b; Sl 32(33),1
+
+@responsorio
+R. Celebrai o nosso Deus, servidores do Senhor
+e vós todos que o temeis, vós, os grandes e os pequenos:
+* De seu Reino tomou posse nosso Deus onipotente.
+V. Ó justos, alegrai-vos no Senhor!
+aos retos fica bem glorificá-lo. * De seu Reino.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,228 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sd42",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sd42_dom_xiii_post_pentecosten.pdf",
+ "titulo_no_pdf": "DOMINICA XIII POST PENTECOSTEN",
+ "paginas_do_pdf": 20,
+ "parte_preliminar": true,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": []
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1,
+      2
+     ],
+     "notas": 10
+    },
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      2
+     ],
+     "notas": 0
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      2
+     ],
+     "notas": 7
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      3
+     ],
+     "notas": 10
+    },
+    {
+     "n": 5,
+     "paginas_do_pdf": [
+      3,
+      4
+     ],
+     "notas": 5
+    },
+    {
+     "n": 6,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 2
+    },
+    {
+     "n": 7,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 1
+    },
+    {
+     "n": 8,
+     "paginas_do_pdf": [
+      4,
+      5
+     ],
+     "notas": 3
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragrafos": [
+    {
+     "n": 9,
+     "paginas_do_pdf": [
+      5,
+      6
+     ],
+     "notas": 11
+    },
+    {
+     "n": 10,
+     "paginas_do_pdf": [
+      6,
+      7
+     ],
+     "notas": 3
+    },
+    {
+     "n": 11,
+     "paginas_do_pdf": [
+      7,
+      8
+     ],
+     "notas": 3
+    },
+    {
+     "n": 12,
+     "paginas_do_pdf": [
+      8
+     ],
+     "notas": 10
+    },
+    {
+     "n": 13,
+     "paginas_do_pdf": [
+      8,
+      9
+     ],
+     "notas": 5
+    },
+    {
+     "n": 14,
+     "paginas_do_pdf": [
+      9
+     ],
+     "notas": 5
+    },
+    {
+     "n": 15,
+     "paginas_do_pdf": [
+      9,
+      10
+     ],
+     "notas": 9
+    },
+    {
+     "n": 16,
+     "paginas_do_pdf": [
+      10
+     ],
+     "notas": 3
+    },
+    {
+     "n": 17,
+     "paginas_do_pdf": [
+      10,
+      11
+     ],
+     "notas": 4
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paragrafos": [
+    {
+     "n": 18,
+     "paginas_do_pdf": [
+      11,
+      12
+     ],
+     "notas": 10
+    },
+    {
+     "n": 19,
+     "paginas_do_pdf": [
+      12
+     ],
+     "notas": 5
+    },
+    {
+     "n": 20,
+     "paginas_do_pdf": [
+      12,
+      13,
+      14
+     ],
+     "notas": 34
+    },
+    {
+     "n": 21,
+     "paginas_do_pdf": [
+      14,
+      15
+     ],
+     "notas": 9
+    },
+    {
+     "n": 22,
+     "paginas_do_pdf": [
+      15,
+      16,
+      17
+     ],
+     "notas": 9
+    },
+    {
+     "n": 23,
+     "paginas_do_pdf": [
+      17,
+      18
+     ],
+     "notas": 11
+    },
+    {
+     "n": 24,
+     "paginas_do_pdf": [
+      18
+     ],
+     "notas": 3
+    },
+    {
+     "n": 25,
+     "paginas_do_pdf": [
+      19,
+      20
+     ],
+     "notas": 20
+    }
+   ]
+  }
+ ],
+ "notas": 197
+}

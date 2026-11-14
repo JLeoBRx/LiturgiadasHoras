@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5segundapascoa_laudes.htm
+@documento Laudes - Segunda-feira da 5ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Sob a vossa proteção se regozijem
+os que amam vosso nome, aleluia.
+
+@salmo salmos/salmo-005-2-10-12-13
+
+@gloria
+
+@antifona
+Sob a vossa proteção se regozijem
+os que amam vosso nome, aleluia.
+
+@antifona 2
+A vós, Senhor, pertence a realeza,
+pois sobre a terra como Rei, vos elevais. Aleluia.
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@antifona
+A vós, Senhor, pertence a realeza,
+pois sobre a terra como Rei, vos elevais. Aleluia.
+
+@antifona 3
+O Senhor reinará para sempre, aleluia.
+
+@salmo salmos/salmo-028
+
+@gloria
+
+@antifona
+O Senhor reinará para sempre, aleluia.
+
+@secao Leitura breve | Rm 10,8b-10
+
+@texto
+A palavra está perto de ti, em tua boca e em teu coração. Essa palavra é a palavra da fé, que nós pregamos. Se, pois, com tua boca confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo. É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem me ama é amado por meu Pai
+e eu o amo e a ele me revelo. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem me ama é amado por meu Pai
+e eu o amo e a ele me revelo. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo Jesus, constituído pelo Pai herdeiro de todos os povos; e rezemos:
+
+R. **Salvai-nos, Senhor, pela vossa vitória!**
+
+Cristo, que pela vossa ressurreição, rompestes as portas do inferno, destruindo o pecado e a morte,
+– dai-nos, hoje e sempre, a vitória sobre o mal. R.
+
+Vós, que expulsastes a morte, dando-nos vida nova,
+– fazei-nos hoje caminhar na novidade dessa vida. R.
+
+Vós, que fizestes passar todo o gênero humano da escravidão do pecado para a gloriosa liberdade de filhos de Deus,
+– concedei a vida eterna a todos os que encontrarmos neste dia. R.
+
+Vós, que confundistes os guardas de vosso sepulcro e alegrastes os discípulos com a vossa ressurreição,
+– enchei de alegria pascal todos aqueles que vos amam e servem. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que unis os corações dos vossos fiéis num só desejo, dai ao vosso povo amar o que ordenais e esperar o que prometeis, para que, na instabilidade deste mundo, fixemos os nossos corações onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

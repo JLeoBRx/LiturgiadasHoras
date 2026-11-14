@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1quartapascoa_vesperas.htm
+@documento Vésperas - Quarta-feira da 1ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Maria Madalena com a outra Maria
+foram ver a sepultura do Senhor. Aleluia.
+
+@antifona 2
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Vinde ver o lugar onde estava o Senhor
+no sepulcro, aleluia.
+
+@antifona 3
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galileia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@rubrica
+No Cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer o Aleluia no começo e no fim das estrofes.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Diz o Senhor: Não tenhais medo!
+Anunciai a meus irmãos que à Galileia se dirijam;
+lá todos vós me encontrareis. Aleluia.
+
+@secao Leitura breve | Hb 7,24-27
+
+@texto
+Cristo, uma vez que permanece para a eternidade, possui um sacerdócio que não muda. Por isso ele é capaz de salvar para sempre aqueles que, por seu intermédio, se aproximam de Deus. Ele está sempre vivo para interceder por eles. Tal é precisamente o sumo-sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus. Ele não precisa, como os sumos-sacerdotes, oferecer sacrifícios em cada dia, primeiro por seus próprios pecados e depois pelos do povo. Ele já o fez uma vez por todas, oferecendo-se a si mesmo.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Jesus entrou para cear junto com eles;
+tomou o pão durante a ceia e, dando graças,
+o partiu e deu a eles. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Jesus entrou para cear junto com eles;
+tomou o pão durante a ceia e, dando graças,
+o partiu e deu a eles. Aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Cristo nosso Senhor, que ressuscitou de entre os mortos e está sentado à direita do Pai; e digamos confiantes:
+
+R. **Cristo, rei da glória, ouvi a nossa oração!**
+
+Lembrai-vos, Senhor, de todos os que se consagram ao vosso serviço,
+– para que deem ao vosso povo o exemplo da verdadeira santidade. R.
+
+Concedei aos governantes e legisladores o espírito de justiça e de paz,
+– para que reine a concórdia em toda a comunidade humana. R.
+
+Orientai os caminhos de toda a humanidade para a esperança da salvação,
+– e aumentai os bens da terra para podermos socorrer todos os necessitados. R.
+
+{(intenções livres)}
+
+Cristo, nosso Salvador, que nos libertastes da escravidão do pecado e da morte,
+– concedei a luz eterna aos nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos alegrais todos os anos com a solenidade da ressurreição do Senhor, concedei-nos, pelas festas que celebramos nesta vida, chegar às eternas alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@secao Na despedida se diz:
+
+@texto
+Ide em paz e o Senhor vos acompanhe. Aleluia, aleluia.
+R. Graças a Deus. Aleluia, aleluia.

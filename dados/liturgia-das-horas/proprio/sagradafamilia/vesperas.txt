@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/sagradafamilia_vesperas.htm
+@documento Vésperas - Sagrada Família de Jesus, Maria e José
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó luz bendita dos céus,
+dos homens suma esperança.
+Jesus, o amor da família
+sorriu a vós em criança.
+
+Maria, cheia de graça,
+só vós podeis apertar
+Jesus ao peito e, com beijos,
+materno leite lhe dar.
+
+E vós, ó guarda da Virgem,
+feliz eleito dos céus,
+o doce nome de Pai
+vos deu o Filho de Deus.
+
+Da nobre raiz de Jessé,
+para salvar-nos nascidos,
+ouvi as preces humildes
+dos corações redimidos.
+
+A flor da graça e virtude
+em vossa casa nascida,
+se reproduza nas nossas,
+para enfeitar nossa vida.
+
+Jesus, quisestes ser filho
+obediente a seus pais.
+A vós, ao Pai e ao Espírito
+louvor e glória eternais.
+
+@secao Salmodia
+
+@antifona 1
+Após três dias, encontraram no templo o Menino,
+sentado entre os doutores,
+ouvindo e interrogando-os.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Após três dias, encontraram no templo o Menino,
+sentado entre os doutores,
+ouvindo e interrogando-os.
+
+@antifona 2
+Jesus voltou a Nazaré com os seus pais
+e era-lhes submisso.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Jesus voltou a Nazaré com os seus pais
+e era-lhes submisso.
+
+@antifona 3
+Crescia Jesus em sabedoria, idade e graça
+diante de Deus e diante dos homens.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Crescia Jesus em sabedoria, idade e graça
+diante de Deus e diante dos homens.
+
+@secao Leitura breve | Fl 2,6-7
+
+@texto
+Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, humilhou-se a si mesmo.
+
+@secao Responsório breve
+
+@responsorio
+R. Convinha que em tudo fosse igual a seus irmãos,
+* Para poder ter pena deles. R. Convinha.
+V. Deus foi visto em nossa terra convivendo com seu povo. * Para poder.
+Glória ao Pai. R. Convinha.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Adoremos o Filho do Deus vivo, que se dignou tornar-se filho de uma família humana; e digamos:
+
+R. **Senhor, sois nosso modelo e salvador!**
+
+Cristo Jesus, pelo mistério de vossa submissão a Maria e a José,
+– ensinai-nos a respeitar e a obedecer os que legitimamente nos governam. R.
+
+Vós, que amastes vossos pais e por eles fostes amado;
+– confirmai todas as famílias na paz e no amor recíproco. R.
+
+Vós, que sempre vos consagrastes generosamente às coisas do vosso Pai celeste,
+– fazei que Deus seja glorificado em todas as famílias. R.
+
+Senhor Jesus Cristo, a quem vossos pais, depois de três dias de angustiosa procura, encontraram na casa do Pai celeste,
+– ensinai-nos a procurar antes de tudo o Reino de Deus. R.
+
+{(intenções livres)}
+
+Cristo Jesus, que associastes Maria e José à vossa glória no reino dos céus,
+– recebei os nossos irmãos e irmãs falecidos na família dos santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que nos destes a Sagrada Família como exemplo, concedei-nos imitar em nossos lares as suas virtudes, para que, unidos pelos laços do amor, possamos chegar um dia às alegrias da vossa casa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

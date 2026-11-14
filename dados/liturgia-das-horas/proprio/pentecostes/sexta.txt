@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_sexta.htm
+@documento Hora Média - Domingo de Pentecostes
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Senhor, aumentai em nós vossa fé,
+e a luz do Divino em nós acendei. Aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Senhor, aumentai em nós vossa fé,
+e a luz do Divino em nós acendei. Aleluia.
+
+@secao Leitura breve | Tt 3,5b-7
+
+@texto
+Ele salvou-nos quando renascemos e fomos renovados no batismo pelo Espírito Santo, que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo. Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna.
+
+@texto
+V. O Espírito Santo haverá de ensinar-vos, aleluia,
+R. Todas as coisas que vos disse e ensinei. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que brilhe sobre nós o esplendor da vossa claridade, e o fulgor da vossa luz confirme, com o dom do Espírito Santo, aqueles que renasceram pela vossa graça. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,234 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/5domingoPascoa.htm
+@documento Ofício das Leituras - 5º Domingo Da Páscoa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eis o dia de Deus verdadeiro,
+no clarão de luz santa banhado.
+Nele, o sangue do novo Cordeiro
+apagou deste mundo o pecado.
+
+Deu a fé novamente aos perdidos,
+deu aos cegos de novo a visão.
+Quem não há de perder todo o medo,
+vendo o céu ser aberto ao ladrão?
+
+Eis o fato que aos anjos assombra:
+ver o Cristo na cruz como réu,
+e o ladrão que com ele padece,
+conquistar a coroa do céu.
+
+Admirável, profundo mistério:
+lava a carne da carne a fraqueza
+e, tirando os pecados do mundo,
+restitui-lhe a antiga nobreza.
+
+O que pode existir mais sublime
+que o pecado à procura da graça?
+Que da morte nascer vida nova
+e um amor que aos temores desfaça?
+
+Ó Jesus, dos fiéis corações
+sede eterna alegria pascal;
+congregai os nascidos da graça
+pelo vosso triunfo imortal.
+
+Glória a vós que vencestes a morte
+e brilhais, com o Pai, Sumo Bem,
+no esplendor coruscante do Espírito
+pelos séculos eternos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Aleluia, removida foi a pedrada entrada do sepulcro, aleluia.
+
+@salmo salmos/salmo-001
+
+@gloria
+
+@antifona
+Aleluia, removida foi a pedra
+da entrada do sepulcro, aleluia.
+
+@antifona 2
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Aleluia, quem procuras, ó mulher?
+Entre os mortos o Vivente? aleluia.
+
+@antifona 3
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@salmo salmos/salmo-003
+
+@gloria
+
+@antifona
+Aleluia, não chores, Maria:
+O Senhor ressurgiu, aleluia.
+
+@texto
+V. Refloresceu a minha carne e eu canto: Aleluia.
+R. Eu agradeço ao Senhor de coração. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Apocalipse {18,21-19,10}
+
+@tema
+Anúncio das núpcias do Cordeiro
+
+@texto
+[18,21] Um anjo poderoso levantou uma pedra do tamanho de uma grande pedra de moinho e atirou-a ao mar, dizendo: “Com esta força será lançada Babilônia, a Grande Cidade, e nunca mais será encontrada. [22] E o canto de harpistas e músicos, de flautistas e tocadores de trombeta, em ti nunca mais se ouvirá; e nenhum artista de arte alguma em ti jamais se encontrará; e o canto do moinho em ti nunca mais se ouvirá; [23] e a luz da lâmpada em ti nunca mais brilhará; e a voz do esposo e da esposa em ti nunca mais se ouvirá, porque os teus comerciantes eram os grandes da terra, e com magia tu enfeitiçaste todas as nações. [24] E nela foi encontrado o sangue dos profetas e dos santos e de todos os que foram imolados sobre a terra”. [19,1] Depois disso, ouvi um forte rumor, de uma grande multidão no céu, que clamava: “Aleluia! A salvação, a glória e o poder pertencem ao nosso Deus, [2] porque seus julgamentos são verdadeiros e justos. Sim, Deus julgou a grande prostituta que corrompeu a terra com sua prostituição, e vingou nela o sangue dos seus servos”. [3] E repetiram: “Aleluia! A fumaça dela fica subindo para toda a eternidade!” [4] E os vinte e quatro Anciãos e os quatro Seres vivos se prostraram diante de Deus, que está sentado no trono,e disseram: “Amém. Aleluia!” [5] Então, uma voz saiu do trono, convidando: “Louvai o nosso Deus, todos os seus servos e todos os que o temeis, pequenos e grandes”. [6] Ouvi também o rumor de uma grande multidão. Parecia o fragor de águas torrenciais e o ribombar de fortes trovões. A multidão aclamava: “Aleluia! O Senhor, nosso Deus, o Todo-poderoso passou a reinar. [7] Fiquemos alegres e contentes, e demos glória a Deus, porque chegou o tempo das núpcias do Cordeiro. Sua esposa já se preparou. [8] Foi-lhe dado vestir-se com linho brilhante e puro”. O linho significa as obras justas dos santos. [9] E um anjo me disse: “Escreve: Felizes são os convidados para o banquete das núpcias do Cordeiro”. Disse ainda:“Estas são as verdadeiras palavras de Deus”. [10] Eu prostrei-me diante dele para adorá-lo, mas o anjo me disse: “Não faças isso! Eu sou um servo como tu e como os irmãos que guardam o testemunho de Jesus. A Deus é que deves adorar”. O testemunho de Jesus é o espírito da profecia.
+
+@secao Responsório | Cf. Ap 14,2; 19,6; 12,10; 19,5
+
+@responsorio
+R. Do céu ouvi uma voz, voz tão forte, qual trovão:
+De seu reino tomou posse nosso Deus onipotente,
+* Pois chegou a salvação, o poder, a realeza
+e o domínio de seu Cristo. Aleluia.
+V. Uma voz veio do trono: Celebrai o nosso Deus,
+servidores do Senhor, e vós todos que o temeis,
+vós os grandes e os pequenos! * Pois chegou.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Máximo de Turim, bispo
+{(Séc.V)} {(Sermo 53,1-2.4:CCL23,214-216)}
+
+@tema
+Cristo é o dia
+
+@texto
+A ressurreição de Cristo abre a mansão dos mortos, os neófitos da Igreja renovam a terra e o Espírito Santo abre as portas do céu. A mansão dos mortos aberta devolve seus habitantes, a terra renovada germina os ressuscitados, o céu reaberto recebe os que para ele sobem. O ladrão sobe ao paraíso, os corpos dos santos entram na cidade santa, os mortos retornam à região dos vivos. E de certo modo, pela ressurreição de Cristo, todos os elementos são elevados a uma dignidade mais alta. A habitação dos mortos restitui ao paraíso os que nela estavam detidos,a terra envia ao céu os que foram nela sepultados, o céu apresenta ao Senhor os que recebe em suas moradas. E por um único e mesmo ato, a paixão do Salvador retira o ser humano das profundezas, eleva-o da terra e o coloca no alto dos céus. A ressurreição de Cristo é vida para os mortos, perdão para os pecadores, glória para os santos. Por isso, o santo profeta convida todas as criaturas para a festa da ressurreição de Cristo, exultando e se alegrando neste dia que o Senhor fez. A luz de Cristo é um dia sem noite, um dia sem fim. O Apóstolo nos ensina que este dia é o próprio Cristo, quando afirma: _A noite já vai adiantada, o dia vem chegando_ (Rm 13,12). Ele diz que _a noite já vai adiantada_ e não que ela ainda virá, a fim de compreendermos que a chegada da luz de Cristo afasta as trevas do demônio e dissipa a escuridão do pecado; com seu esplendor eterno ela vence as sombras tenebrosas do passado e impede toda a infiltração dos estímulos pecaminosos. Este dia é o próprio Cristo. Sobre ele, o Pai, que é o dia sem princípio, faz resplandecer o sol da sua divindade. Ele mesmo é o dia que assim fala pela boca de Salomão: _Fiz brilhar no céu uma luz que não se apaga_ (Eclo 24,6 Vulg.). Assim como a noite não pode absolutamente suceder ao dia celeste, também as trevas dos pecados não podem suceder à justiça de Cristo. O dia celeste brilha eternamente, e nenhuma obscuridade pode ofuscar o fulgor da sua luz. Do mesmo modo, a luz de Cristo resplandece e irradia a sua claridade, e sombra alguma de pecado poderá ofuscá-la, como diz o evangelista João: E _a luz brilha nas trevas, e as trevas não conseguiram dominá-la_ (Jo 1,5). Portanto, irmãos, todos nós devemos alegrar-nos neste santo dia. Ninguém se exclua desta alegria universal, apesar da consciência de seus pecados; ninguém se afaste das orações comuns, embora sinta o peso de suas culpas. Por mais pecador que seja, ninguém deve neste dia desesperar do perdão. Temos a nosso favor um valioso testemunho: se o ladrão arrependido alcançou o paraíso, por que não alcançaria o cristão a graça de ser perdoado?
+
+@secao Responsório | Cf. Sl 18(19),7
+
+@responsorio
+R. O esplendor e a formosura do Senhor
+estão acima das alturas siderais.
+* Sua beleza resplandece sobre as nuvens
+e seu nome permanece para sempre. Aleluia.
+V. De um extremo do céu põe-se a correr
+até que possa chegar ao outro extremo. * Sua beleza.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, por quem fomos remidos e adotados como filhos e filhas, velai sobre nós em vosso amor de Pai e concedei aos que creem no Cristo a liberdade verdadeira e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,91 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quinta_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Se me amais, diz o Senhor,
+guardareis os meus preceitos.
+
+@secao XX (Res)
+
+@salmo salmos/salmo-118-153-160-xx-res-v2
+
+@gloria
+
+@antifona
+Se me amais, diz o Senhor,
+guardareis os meus preceitos.
+
+@antifona 2
+O Senhor te abençoe,
+e possas ver a paz cada dia de tua vida.
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+O Senhor te abençoe,
+e possas ver a paz cada dia de tua vida.
+
+@antifona 3
+O Senhor lutará contra os teus inimigos.
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@antifona
+O Senhor lutará contra os teus inimigos.
+
+@secao Leitura breve | Hb 12,1b-2
+
+@texto
+Deixemos de lado o que nos pesa e o pecado que nos envolve. Empenhemo-nos com perseverança no combate que nos é proposto, com os olhos fixos em Jesus, que em nós começa e completa a obra da fé. Em vista da alegria que lhe foi proposta, suportou a cruz, não se importando com a infâmia, e assentou-se à direita do trono de Deus.
+
+@texto
+V. No Senhor ponho a minha esperança.
+R. E na sua palavra eu espero.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, atendei a nossa oração, dando-nos a graça de imitar o exemplo da paixão do vosso Filho e levar serenamente nossa cruz de cada dia. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

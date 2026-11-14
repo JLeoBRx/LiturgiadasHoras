@@ -1,0 +1,227 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/apresentacao.htm
+@documento Ofício das Leituras - Apresentação Do Senhor Festa
+
+@celebracao
+APRESENTAÇÃO DO SENHOR
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Dignou-se obedecer à lei mosaica
+e dela aos rituais se sujeitar
+o rei das legiões do Pai celeste,
+que fez o céu, a terra e o mar.
+
+A mãe feliz carrega no seu colo
+a Deus, que em nossa carne se ocultou,
+e beija castamente aqueles lábios
+a cuja ordem tudo se criou.
+
+É ele a luz que brilha sobre os povos,
+a glória de Israel, seu povo amado.
+Foi posto para ruína e salvação,
+até que seja o oculto revelado.
+
+A glória ao Pai eterno pelos séculos.
+Império e glória, ó Filho, a vós convém.
+Poder e salvação ao Santo Espírito.
+Louvor aos Três nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Este Menino há de ser
+ocasião de salvação e de ruína para muitos.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Este Menino há de ser
+ocasião de salvação e de ruína para muitos.
+
+@antifona 2
+Radiante de esplendor, põe-te de pé:
+Despontou a tua luz, Jerusalém,
+e a glória do Senhor te iluminou!
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Radiante de esplendor, põe-te de pé:
+Despontou a tua luz, Jerusalém,
+e a glória do Senhor te iluminou!
+
+@antifona 3
+De alegria exulta, ó nova Sião!
+Eis que vem o teu Rei, humilde e bondoso,
+salvar o seu povo!
+
+@salmo salmos/salmo-044-v2
+
+@gloria
+
+@antifona
+De alegria exulta, ó nova Sião!
+Eis que vem o teu Rei, humilde e bondoso,
+salvar o seu povo!
+
+@texto
+V. Recordamos, Senhor Deus, vossa bondade,
+R. Em meio ao vosso templo.
+
+@secao Primeira leitura
+
+@leitura
+Do livro do Êxodo {13,1-3a.11-16}
+
+@tema
+Consagração do primogênito
+
+@texto
+Naqueles dias: [1] O Senhor falou a Moisés, dizendo: [2] “Consagra-me todo o primogênito, todo o primeiro parto entre os filhos de Israel, tanto de homens como de animais, porque todas as coisas são minhas”. [3] Moisés disse ao povo: [11] “Quando o Senhor te houver introduzido na terra dos cananeus e a tiver dado a ti, conforme te jurou e a teus pais, [12] consagrarás ao Senhor todos os primogênitos desde o ventre materno e também as primeiras crias do teu gado; consagrarás ao Senhor tudo o que tiveres do sexo masculino. [13] Resgatarás o primogênito do jumento com uma ovelha; se, porém, não o resgatares, deverás matá-lo. Resgatarás com dinheiro todo o primogênito de teus filhos. [14] E quando o teu filho, amanhã, te perguntar: ‘Que significa isto?’, tu lhe responderás: ‘O Senhor tirou-nos do Egito, da casa da escravidão, com mão forte. [15] Como o Faraó se obstinasse em não nos deixar partir, o Senhor matou todos os primogênitos na terra do Egito, desde os primogênitos dos homens até aos primogênitos dos animais. Por isso, eu sacrifico ao Senhor todo o primogênito macho dos animais, e resgato todo o primogênito de meus filhos’. [16] Isto será para ti como um sinal em tua mão, e como uma marca entre os teus olhos para lembrança; pois foi com mão forte que o Senhor nos tirou do Egito”.
+
+@secao Responsório | Cf. Lc 2,28
+
+@responsorio
+R. Sião, enfeita o teu quarto nupcial
+e recebe o teu Rei, Cristo Jesus,
+* Que a Virgem concebeu e deu à luz,
+e, conservando a virgindade após o parto,
+adorou aquele mesmo a quem gerou.
+V. Simeão toma o Menino nos seus braços
+dá graças, bendizendo ao Senhor. * Que a Virgem.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Sofrônio, bispo
+{(Séc.VII)} {(Orat. 3, de Hypapante,6.7: PG87,3,3291-3293)}
+
+@tema
+Recebamos a luz clara e eterna
+
+@texto
+Todos nós que celebramos e veneramos com tanta piedade o mistério do encontro do Senhor, corramos para ele cheios de entusiasmo. Ninguém deixe de participar deste encontro, ninguém recuse levar sua luz. Acrescentamos também algo ao brilho das velas, para significar o esplendor divino daquele que se aproxima e ilumina todas as coisas; ele dissipa as trevas do mal com a sua luz eterna, e também manifesta o esplendor da alma, com o qual devemos correr ao encontro com Cristo. Do mesmo modo que a Mãe de Deus e Virgem imaculada trouxe nos braços a verdadeira luz e a comunicou aos que jaziam nas trevas, assim também nós: iluminados pelo seu fulgor e trazendo na mão uma luz que brilha diante de todos, corramos pressurosos ao encontro daquele que é a verdadeira luz. Realmente, _a luz veio ao mundo_ (cf. Jo 1,9) e dispersou as sombras que o cobriam; _o sol_ _que nasce do alto nos visitou_ (cf. Lc 1,78) e iluminou os que jaziam nas trevas. É este o significado do mistério que hoje celebramos. Por isso caminhamos com lâmpadas nas mãos, por isso acorremos trazendo as luzes, não apenas simbolizando que a luz já brilhou para nós, mas também para anunciar o esplendor maior que dela nos virá no futuro. Por este motivo, vamos todos juntos, corramos ao encontro de Deus. Chegou a verdadeira luz, _que vindo ao mundo ilumina todo ser humano_ (Jo 1,9). Portanto, irmãos, deixemos que ela nos ilumine, que ela brilhe sobre todos nós. Que ninguém fique excluído deste esplendor, ninguém insista em continuar mergulhado na noite. Mas avancemos todos resplandecentes; iluminados por este fulgor, vamos todos ao seu encontro e com o velho Simeão recebamos a luz clara e eterna. Associemo-nos à sua alegria e cantemos com ele um hino de ação de graças ao Criador e Pai da luz, que enviou a luz verdadeira e, afastando todas as trevas, nos fez participantes do seu esplendor. A salvação de Deus, preparada diante de todos os povos, manifestou a glória que nos pertence, a nós que somos o novo Israel. Também fez com que víssemos, graças a ele, essa salvação e fôssemos absolvidos da antiga e tenebrosa culpa. Assim aconteceu com Simeão que, depois de ver a Cristo, foi libertado dos laços da vida presente. Também nós, abraçando pela fé a Cristo Jesus que nasceu em Belém, de pagãos que éramos, nos tornamos povo de Deus – Jesus é, com efeito, a salvação de Deus Pai – e vemos com nossos próprios olhos o Deus feito homem. E porque vimos a presença de Deus e a recebemos, por assim dizer, nos braços do nosso espírito, somos chamados de novo Israel. Todos os anos celebramos novamente esta festa, para nunca nos esquecermos daquele que um dia há de voltar.
+
+@secao Responsório | Ez 43,5; cf Lc 2,22
+
+@responsorio
+R. A glória do Senhor entrou no santuário
+pela porta oriental,
+* E o templo ficou cheio da glória do Senhor.
+V. José e Maria levaram ao templo o Menino Jesus.
+* E o templo.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ouvi as nossas súplicas. Assim como o vosso Filho único, revestido da nossa humanidade, foi hoje apresentado no Templo, fazei que nos apresentemos diante de vós com os corações purificados. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

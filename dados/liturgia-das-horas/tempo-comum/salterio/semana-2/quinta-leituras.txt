@@ -1,0 +1,118 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quinta_leituras.htm
+@documento Ofício das Leituras - II Quinta-Feira
+
+@titulo II QUINTA-FEIRA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Do dia o núncio alado
+já canta a luz nascida.
+O Cristo nos desperta,
+chamando-nos à vida.
+
+Ó fracos, ele exclama,
+do sono estai despertos
+e, castos, justos, sóbrios,
+velai: estou já perto!
+
+E quando a luz da aurora
+enche o céu de cor,
+confirme na esperança
+quem é trabalhador.
+
+Chamemos por Jesus
+com prantos e orações.
+A súplica não deixe
+dormir os corações.
+
+Tirai o sono, ó Cristo,
+rompei da noite os laços,
+da culpa libertai-nos,
+guiai os nossos passos.
+
+A vós a glória, ó Cristo,
+louvor ao Pai também,
+com vosso Santo Espírito,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Para vós, doador do perdão,
+elevai os afetos do amor,
+tornai puro o profundo das almas,
+sede o nosso fiel Salvador.
+
+Para cá, estrangeiros, viemos,
+exilados da pátria querida.
+Sois o porto e também sois o barco,
+conduzi-nos aos átrios da vida!
+
+É feliz quem tem sede de vós,
+fonte eterna de vida e verdade.
+São felizes os olhos do povo
+que se fixam em tal claridade.
+
+Grandiosa é, Senhor, vossa glória,
+na lembrança do vosso louvor,
+que os fiéis comemoram na terra,
+elevando-se a vós pelo amor.
+
+Este amor concedei-nos, ó Pai,
+e vós, Filho do Pai, Sumo Bem,
+com o Espírito Santo reinando
+pelos séculos dos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@salmo salmos/salmo-043-i
+
+@gloria
+
+@antifona
+Fostes vós que nos salvastes, ó Senhor!
+Para sempre louvaremos vosso nome.
+
+@antifona 2
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@salmo salmos/salmo-043-ii-v4
+
+@gloria
+
+@antifona
+Perdoai, ó Senhor, o vosso povo,
+não entregueis à vergonha a vossa herança!
+
+@antifona 3
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!
+
+@salmo salmos/salmo-043-iii
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, e socorrei-nos,
+libertai-nos pela vossa compaixão!
+
+@texto
+V. A quem nós iremos, Senhor Jesus Cristo?
+R. Só tu tens palavras de vida eterna.

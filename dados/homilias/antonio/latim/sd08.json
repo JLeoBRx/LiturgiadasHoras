@@ -1,0 +1,146 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sd08",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sd08_dom_ii_quadragesima1.pdf",
+ "titulo_no_pdf": "DOMINICA II in QUADRAGESIMA",
+ "paginas_do_pdf": 9,
+ "parte_preliminar": true,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": []
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 7
+    },
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 0
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      2
+     ],
+     "notas": 4
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      2,
+      3
+     ],
+     "notas": 6
+    },
+    {
+     "n": 5,
+     "paginas_do_pdf": [
+      3,
+      4
+     ],
+     "notas": 17
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragrafos": [
+    {
+     "n": 6,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 3
+    },
+    {
+     "n": 7,
+     "paginas_do_pdf": [
+      4,
+      5
+     ],
+     "notas": 10
+    },
+    {
+     "n": 8,
+     "paginas_do_pdf": [
+      5
+     ],
+     "notas": 6
+    },
+    {
+     "n": 9,
+     "paginas_do_pdf": [
+      5,
+      6
+     ],
+     "notas": 9
+    },
+    {
+     "n": 10,
+     "paginas_do_pdf": [
+      6
+     ],
+     "notas": 2
+    },
+    {
+     "n": 11,
+     "paginas_do_pdf": [
+      6,
+      7
+     ],
+     "notas": 9
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paragrafos": [
+    {
+     "n": 12,
+     "paginas_do_pdf": [
+      7,
+      8
+     ],
+     "notas": 19
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paragrafos": [
+    {
+     "n": 13,
+     "paginas_do_pdf": [
+      8,
+      9
+     ],
+     "notas": 8
+    },
+    {
+     "n": 14,
+     "paginas_do_pdf": [
+      9
+     ],
+     "notas": 3
+    }
+   ]
+  }
+ ],
+ "notas": 104
+}

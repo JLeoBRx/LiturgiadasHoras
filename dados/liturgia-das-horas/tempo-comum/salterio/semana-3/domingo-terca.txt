@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3domingo_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@antifona
+Na minha angústia eu clamei pelo Senhor,
+e o Senhor me atendeu, aleluia.
+
+@antifona 2
+A mão direita do Senhor me levantou, aleluia.
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@antifona
+A mão direita do Senhor me levantou, aleluia.
+
+@antifona 3
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Que o Senhor e nosso Deus nos ilumine, aleluia!
+
+@secao Leitura breve | Rm 8,15-16
+
+@texto
+Vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá – ó Pai! O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus.
+
+@texto
+V. Em vós está a fonte da vida.
+R. E em vossa luz contemplamos a luz.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

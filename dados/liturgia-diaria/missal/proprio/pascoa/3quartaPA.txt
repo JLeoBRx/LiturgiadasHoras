@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/3quartaPA.htm
+
+@secao Antífona da entrada | Cf. Sl 70,8.23
+@texto
+Vosso louvor é transbordante em minha boca,
+a alegria cantará sobre meus lábios, aleluia.
+
+@secao Coleta
+@texto
+Permanecei, Senhor, com vossa família
+e na vossa bondade concedei
+àqueles a quem destes a graça da fé,
+ter parte na herança eterna
+pela ressurreição do vosso Filho.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Concedei, Senhor,
+que exultemos sem cessar por estes mistérios pascais,
+para que a contínua obra de nossa redenção
+seja causa de eterna alegria.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Ressurgiu o Senhor e nos iluminou,
+a nós que remiu com seu sangue, aleluia.
+
+@secao Depois da comunhão
+@texto
+Escutai, Senhor, as nossas preces,
+a fim de que, por este sacramento,
+intercâmbio da nossa redenção,
+recebamos o auxílio para a vida presente
+e o dom da eterna alegria.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/3segundaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 83,3
+@texto
+Minha alma desfalece de saudades
+e anseia pelos átrios do Senhor!
+Meu coração e minha carne rejubilam
+e exultam de alegria no Deus vivo!
+
+@secao Coleta
+@texto
+Senhor, vossa incansável misericórdia
+purifique e proteja a vossa Igreja;
+e, porque sem vós ela não pode subsistir,
+governai-a constantemente com o vosso auxílio.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Transformai, Senhor,
+em sacramento que nos salva,
+estes dons que vos apresentamos
+como sinal da nossa dedicação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 116,1-2
+@texto
+Cantai louvores ao Senhor, todas as gentes,
+pois comprovado é seu amor para conosco.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que a comunhão no vosso sacramento
+nos purifique dos pecados
+e nos conduza à unidade.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Senhor, vossa mão poderosa
+proteja o povo que vos suplica;
+dignai-vos purificá-lo,
+para que, pela consolação na vida presente,
+possa progredir até alcançar os bens futuros.
+Por Cristo, nosso Senhor.

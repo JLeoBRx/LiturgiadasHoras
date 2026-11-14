@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santissimatrindade_sexta.htm
+@documento Hora Média - Santíssima Trindade
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona
+Nossa glória e nossa honra, esperança e salvação,
+ó Trindade Beatíssima!
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Nossa glória e nossa honra, esperança e salvação,
+ó Trindade Beatíssima!
+
+@secao Leitura breve | Cf. Gl 4,4.5-6
+
+@texto
+Deus enviou o seu Filho, para que todos recebêssemos a filiação adotiva. E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá – ó Pai!
+
+@texto
+V. Ó Trindade feliz, gloriosa e bendita,
+R. Ó Deus Pai e Deus Filho e Deus Espírito Santo!
+
+@secao Oração
+
+@oracao
+Ó Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso inefável mistério. Fazei que, professando a verdadeira fé, reconheçamos a glória da Trindade e adoremos a Unidade onipotente. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

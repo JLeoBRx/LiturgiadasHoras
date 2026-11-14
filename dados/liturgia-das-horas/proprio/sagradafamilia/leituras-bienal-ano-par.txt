@@ -1,0 +1,243 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/bienal/sagradafamilia_par.htm
+@documento Ofício das Leituras - Sagrada Família, Jesus, Maria E José Festa
+
+@celebracao
+SAGRADA FAMÍLIA, JESUS, MARIA E JOSÉ
+{Festa}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+A vida oculta de Jesus
+edificante é relembrar;
+dizer em verso a vida pobre
+de Nazaré, humilde lar.
+
+Na arte humilde de José,
+jovem Jesus já se inicia
+e ao trabalho do operário
+de boa mente se associa.
+
+Junto do filho está a mãe,
+junto ao esposo a santa esposa.
+Lá se compensam os cansaços
+por amizade afetuosa.
+
+Vós, ó Senhor, que conheceis
+bem o trabalho e o suor
+dai vossa ajuda aos que trabalham
+ouvi dos fracos o clamor.
+
+A vós, Jesus, que pelo exemplo
+a vida santa nos mostrais,
+glória com o Pai e o Espírito
+com Quem nos séculos reinais.
+
+@secao Salmodia
+
+@antifona 1
+Quando os pais apresentaram no templo
+o Menino Jesus,
+tomou-o Simeão em seus braços
+e louvou o Senhor.
+
+@rubrica
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o salmo 94(95)
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Quando os pais apresentaram no templo
+o Menino Jesus,
+tomou-o Simeão em seus braços
+e louvou o Senhor.
+
+@antifona 2
+Os Magos, então, entraram em casa
+e encontraram o Menino com Maria, sua Mãe.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Os Magos, então, entraram em casa
+e encontraram o Menino com Maria, sua Mãe.
+
+@antifona 3
+José levantou-se de noite,
+tomou o Menino e sua Mãe,
+e fugiu para a terra do Egito.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+José levantou-se de noite,
+tomou o Menino e sua Mãe,
+e fugiu para a terra do Egito.
+
+@texto
+V. Os teus filhos serão todos instruídos por Deus.
+R. E entre eles reinará uma paz sem limites.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {5,21– 6,4}
+
+@tema
+A vida cristã na família
+
+@texto
+Irmãos, [5,21] sede submissos uns aos outros no temor de Cristo. [22] As mulheres sejam submissas aos seus maridos como ao Senhor. [23] Pois o marido é a cabeça da mulher, do mesmo modo que Cristo é a cabeça da Igreja, ele, o Salvador do seu Corpo. [24] Mas como a Igreja é solícita por Cristo, sejam as mulheres solícitas em tudo pelos seus maridos. [25] Maridos, amai as vossas mulheres, como o Cristo amou a Igreja e se entregou por ela. [26] Ele quis assim torná-la santa, purificando-a com o banho da água unida à Palavra. [27] Ele quis apresentá-la a si mesmo esplêndida, sem mancha nem ruga nem defeito algum, mas santa e irrepreensível. [28] Assim é que o marido deve amar a sua mulher, como ao seu próprio corpo. Aquele que ama a sua mulher ama-se a si mesmo. [29] Ninguém jamais odiou a sua própria carne. Ao contrário, alimenta-a e cerca-a de cuidados, como o Cristo faz com a sua Igreja, [30] e nós somos membros do seu corpo. [31] Por isso o homem deixará seu pai e sua mãe e se unirá à sua mulher, e os dois serão uma só carne. [32] Este mistério é grande, e eu o interpreto em relação a Cristo e à Igreja. [33] Em todo caso, cada um, no que lhe toca, deve amar a sua mulher como a si mesmo; e a mulher deve respeitar o seu marido. [6,1] Filhos, obedecei aos vossos pais, no Senhor, pois isto é que é justo. [2] “Honra teu pai e tua mãe” – é o primeiro mandamento que vem acompanhado de uma promessa: [3] “a fim de que tenhas felicidade e longa vida sobre a terra”. [4] Vós, pais, não revolteis os vossos filhos contra vós, mas, para educá-los, recorrei à disciplina e aos conselhos que vêm do Senhor.
+
+@secao Responsório | Ef 6,1-2.3; Lc 2,51
+
+@responsorio
+R. Sede, ó filhos, obedientes, no Senhor, a vossos pais,
+pois é justo, é um dever:
+* Honra teu pai e tua mãe.
+V. Jesus voltou a Nazaré com Maria e José
+e era-lhes submisso. * Honra.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre o Cântico dos Cânticos, de São Gregório de Nissa, bispo
+{(Hom. 3: PG 44,827-830)}
+
+@tema
+Jesus é a verdadeira luz, a verdadeira vida_
+_e a verdadeira justiça
+
+@texto
+Jesus, o Menino que nasceu para nós e cresce diversamente em sabedoria, idade e graça naqueles que o receberam, não é igual em todos, mas manifesta-se em cada um segundo a capacidade de quem o recebe, como criança, como adolescente ou como adulto, tal como o cacho de uva, que não tem sempre o mesmo aspecto na videira, mas se transforma com o tempo: primeiro flor, depois broto, depois verde, depois maduro, e finalmente vinho.
+Assim pois, a vinha, com seu fruto ainda não maduro e impróprio para o vinho, já constitui uma promessa, mas espera ainda a plenitude dos tempos; contudo, já é capaz de agradar. Em lugar do paladar, deleita pelo olfato, na expectativa da vindima, consolando os sentidos da alma com as fragrâncias da esperança. A segura convicção do benefício esperado, já constitui prazer para quem tem a paciência de esperá-lo. Assim é a uva de Chipre que, antes de se tornar o vinho prometido, já nos assegura, por meio da flor (a flor é a esperança), o benefício que há de vir.
+Quem regula a vontade segundo a lei do Senhor, meditando nela dia e noite, torna-se árvore sempre viva, que cresce junto às águas, e dá fruto a seu tempo. Por isto, a vinha do esposo, deitando raízes nos ricos campos de Engadi, isto é, na meditação profunda, regada e alimentada pela palavra de Deus, produziu esplêndido e magnífico cacho para aquele que a plantou e cultivou. Bendita agricultura, cujo fruto toma a forma do esposo!
+Porque ele é a verdadeira luz, a verdadeira vida e a verdadeira justiça, como diz a Sabedoria, quando alguém, por suas obras, se transforma no que ele é, ao contemplar o “cacho” de sua consciência, nela vê o próprio esposo, intuindo a luz da verdade em sua vida luminosa e pura. Por isso, diz a videira fecunda: «Meu é o cacho que floresce e germina». Ele é realmente o cacho verdadeiro, cujo sangue se torna bebida salutar para aqueles que se salvam e se alegram em Cristo Jesus, nosso Senhor, ao qual seja a glória e o poder pelos séculos dos séculos. Amém.
+
+@secao Responsório | Hb 2,16-17;Br 3,38
+
+@responsorio
+R. Cristo não veio ocupar-se com anjos,
+mas, sim, com a descendência de Abraão.
+* Convinha, por isso,
+que em tudo se tornasse semelhante aos irmãos,
+para ser misericordioso e
+para expiar os pecados do povo.
+V. O nosso Deus apareceu sobre a terra
+e no meio dos homens viveu.
+* Convinha, por isso.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que nos destes a Sagrada Família como exemplo, concedei-nos imitar em nossos lares as suas virtudes, para que, unidos pelos laços do amor, possamos chegar um dia às alegrias da vossa casa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

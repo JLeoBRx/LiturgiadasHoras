@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/NSRosario.htm
+@documento Ofício das Leituras - Nossa Senhora Do Rosário Memória
+
+@celebracao
+NOSSA SENHORA DO ROSÁRIO
+{Memória}
+
+@biografia
+Esta comemoração foi instituída pelo Papa São Pio V no aniversário da vitória obtida pelos cristãos na batalha naval de Lepanto e atribuída ao auxílio da Santa Mãe de Deus, invocada com a oração do Rosário (1571). A celebração deste dia é um convite a todos os fiéis para que meditemos mistérios de Cristo, em companhia da Virgem Maria, que foi associada de modo muito especial à Encarnação, à Paixão e à Ressurreição do Filho de Deus.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías 7,10-14; 8,10c; {11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; [8,10] porque Deus está conosco. [11,1] Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; [3] no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer; [4] mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. [5] Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; [8] a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardo, abade
+{(Séc. XII)} {(Sermo de Aquaeductu: Opera omnia, Edit. Cisterc. 5 [1968],282-283)}
+
+@tema
+É preciso meditar sobre os mistérios da salvação
+
+@texto
+O santo, que nascer de ti, será chamado Filho de Deus (cf. Lc 1,35), fonte de sabedoria, o Verbo do Pai nas alturas! Este Verbo, através de ti, Virgem santa, se fará carne, de modo que aquele que diz: _Eu no Pai e o Pai em mim_ (Jo 10,38), dirá também: _Eu saí do Pai e vim_ (Jo 16,28).
+
+_No princípio,_ diz João, _era o Verbo_. Já borbulha a fonte, mas por enquanto apenas em si mesma. Depois, _e o Verbo era com Deus_ (Jo 1,1), habitando na luz inacessível. O Senhor dizia anteriormente: _Eu tenho pensamentos de paz e não de aflição_ (cf. Jr 29,11). Mas teu pensamento está dentro de ti, ó Deus, e não sabemos o que pensas; pois _quem conheceu a mente do Senhor ou quem foi seu conselheiro?_ (cf. Rm 11,34).
+
+Desceu, por isto, o pensamento da paz para a obra da paz: _O Verbo se fez carne_ e já _habita em nós_ (Jo 1,14). Habita totalmente pela fé em nossos corações, habita em nossa memória, habita no pensamento e chega a descer até a imaginação. Que poderia antes o homem pensar sobre Deus, a não ser talvez fabricando um ídolo no coração? Era incompreensível e inacessível, invisível e inteiramente impensável; agora, porém, quis ser compreendido, quis ser visto, quis ser pensado.
+
+De que modo, perguntas? Por certo, reclinado no presépio, deitado ao colo da Virgem, pregando no monte, pernoitando em oração; ou pendente da cruz, pálido na morte, livre entre os mortos e dominando o inferno; ou ainda ressurgindo ao terceiro dia, mostrando aos apóstolos as marcas dos cravos, sinais da vitória, e, por último, diante deles subindo ao mais alto do céu.
+
+O que não se poderá pensar verdadeira, piedosa e santamente disto tudo? Se penso algo destas realidades, penso em Deus e em tudo ele é o meu Deus. Meditar assim, considero sabedoria, e tenho por prudência renovar a lembrança da suavidade que, em essência tão preciosa, a descendência sacerdotal produziu copiosamente, e que, haurindo do alto, Maria trouxe para nós em profusão.
+
+@secao Responsório | Lc 1,28
+
+@responsorio
+R. Não há quem seja semelhante a vós, Virgem Maria, entre as filhas de Sião. Sois a Mãe do Rei dos reis, sois dos anjos a Senhora e dos céus sois a Rainha.
+* Sois bendita entre todas as mulheres desta terra e bendito é o fruto que nasceu de vosso ventre!
+V. Maria, alegrai-vos, ó cheia de graça, o Senhor é convosco. * Sois bendita.
+
+@secao Oração
+
+@oracao
+Derramai, ó Deus, a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do Cristo vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

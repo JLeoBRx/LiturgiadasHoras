@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/protomartiresroma.htm
+@documento Ofício das Leituras - Santos Protomártires Da Igreja De Roma
+
+@celebracao
+SANTOS PROTOMÁRTIRES DA IGREJA DE ROMA
+
+@biografia
+Na primeira perseguição contra a Igreja, desencadeada pelo imperador Nero, depois do incêndio da cidade de Roma no ano 64, muitos cristãos foram martirizados com atrozes tormentos. Este fato é testemunhado pelo escritor pagão Tácito (Annales 15,44) e por São Clemente, bispo de Roma, na sua Carta aos Coríntios (cap. 5-6).
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+sois a coroa e o troféu,
+pois desprezando esta terra,
+procura apenas o céu.
+
+Que o coração inclinando,
+possais ouvir nossa voz;
+vossos heróis celebrando,
+supliquem eles por nós!
+
+Se pela morte venceram,
+mostrando tão grande amor,
+vençamos nós pela vida
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+sobe hoje nosso louvor,
+pelos heróis que imitaram
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos deDeus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamosinteriormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir,nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que sãochamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que nãopoupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez?Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho acerteza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus,
+orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito.* E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos Coríntios, de São Clemente I, papa
+{(Séc. I)} {(Cap. 5, 1-7,4: Funk 1, 67-71)}
+
+@tema
+Sofreram vítimas de um ódio iníquo, tornando-se para nós um magnífico exemplo de fidelidade
+
+@texto
+Deixemos de lado os exemplos dos antigos e falemos dos nossos atletas mais recentes. Apresentemos os generosos exemplos de nosso tempo. Vítimas do fanatismo e da inveja, aqueles que eram as maiores e mais santas colunas da Igreja, sofreram perseguição e lutaram até à morte.
+Tenhamos diante dos olhos os bons apóstolos. Por causa de um fanatismo iníquo, Pedro teve de suportar duros tormentos, não uma ou duas vezes, mas muitas; e depois de sofrer o martírio, passou para o lugar que merecia na glória. Por invejas e rivalidades, Paulo obteve o prêmio da paciência: sete vezes foi lançado na prisão, foi exilado e apedrejado, tornou-se pregoeiro da Palavra no Oriente e no Ocidente, alcançando assim uma notável reputação por causa da sua fé. Depois de ensinar ao mundo inteiro o caminho da justiça e de chegar até os confins do Ocidente, sofreu o martírio que lhe infligiram as autoridades. Partiu, pois, deste mundo para o lugar santo, deixando-nos um perfeito exemplo de paciência.
+A estes homens, mestres de vida santa, juntou-se uma grande multidão de eleitos que, vítimas de um ódio iníquo sofreram muitos suplícios e tormentos, tornando-se, desta forma, para nós um magnífico exemplo de fidelidade. Vítimas do mesmo ódio, mulheres foram perseguidas, como Danaides e Dirceia. Suportando graves e terríveis torturas, correram até o fim a difícil corrida da fé, e mesmo sendo fracas de corpo, receberam o nobre prêmio da vitória. O fanatismo dos perseguidores separou as esposas dos maridos, alterando o que disse nosso pai Adão: É osso dos meus ossos e carne de minha carne (cf. Gn 2,23). Rivalidades e rixas destruíram grandes cidades e fizeram desaparecer povos numerosos.
+Escrevemos isto, caríssimos, não apenas para vos recordar os deveres que tendes, mas também para nos alertarmos a nós próprios. Pois nos encontramos na mesma arena e combatemos o mesmo combate. Deixemos as preocupações inúteis e os vãos cuidados, e voltemo-nos para a gloriosa e venerável regra da nossa tradição. Consideremos o que é belo, o que é bom, o que é agradável ao nosso Criador. Fixemos atentamente o olhar no sangue de Cristo e compreendamos quanto é precioso aos olhos de Deus seu Pai esse sangue que, derramado para nossa salvação, ofereceu ao mundo inteiro a graça da penitência.
+
+@secao Responsório | Cf. Ap 7,14
+
+@responsorio
+R. Pela causa do Senhor entregaram os seus corpos
+às torturas do martírio.
+* Mereceram receber coroas imortais.
+V. São estes que vieram de um grande sofrimento
+e lavaram suas vestes no sangue do Cordeiro.* Mereceram.
+
+@secao Oração
+
+@oracao
+Ó Deus, que consagrastes com o sangue dos mártires os fecundos primórdios da Igreja de Roma, dai que sua coragem no combate nos obtenha uma força inabalável e a alegria da vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

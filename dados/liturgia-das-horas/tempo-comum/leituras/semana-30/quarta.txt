@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/30quartaTC.htm
+@documento Ofício das Leituras - QUARTA-FEIRA
+
+@texto
+8"> 1.0">
+
+@titulo QUARTA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {6,1-25}
+
+@tema
+A sabedoria deve ser amada
+
+@texto
+[1] Escutai, ó reis, e compreendei. Instruí-vos, governadores dos confins da terra! [2] Prestai atenção, vós que dominais as multidões e vos orgulhais do número de vossos súditos. [3] Pois o poder vos foi dado pelo Senhor e a soberania, pelo Altíssimo. É ele quem examinará as vossas obras e sondará as vossas intenções; [4] apesar de estardes ao serviço do seu reino, não julgastes com retidão, nem observastes a Lei, nem procedestes conforme a vontade de Deus. [5] Por isso, ele cairá de repente sobre vós, de modo terrível, porque um julgamento implacável será feito sobre os poderosos. [6] O pequeno pode ser perdoado por misericórdia, mas os poderosos serão examinados com poder. [7] O Senhor de todos não recuará diante de ninguém nem se deixará impressionar pela grandeza, porque o pequeno e o grande, foi ele quem os fez, e a sua providência é a mesma para com todos; [8] mas para os poderosos, o julgamento será severo. [9] A vós, pois, governantes, dirigem-se as minhas palavras, para que aprendais a Sabedoria e não venhais a tropeçar. [10] Os que observam fielmente as coisas santas serão justificados; e os que as aprenderem vão encontrar sua defesa. [11] Portanto, desejai ardentemente minhas palavras, amai-as e sereis instruídos. [12] A Sabedoria é resplandecente e sempre viçosa. Ela é facilmente contemplada por aqueles que a amam, e é encontrada por aqueles que a procuram. [13] Ela até se antecipa, dando-se a conhecer aos que a desejam. [14] Quem por ela madruga não se cansará, pois a encontrará sentada à sua porta. [15] Meditar sobre ela é a perfeição da prudência; e quem ficar acordado por causa dela em breve há de viver despreocupado. [16] Pois ela mesma sai à procura dos que a merecem, cheia de bondade, aparece-lhes nas estradas e vai ao seu encontro em todos os seus projetos. [17] O princípio mais genuíno da Sabedoria é o desejo da instrução; a preocupação pela instrução é amá-la, [18] e amá-la é observar suas leis, e observar suas leis é garantia de imortalidade, [19] e a imortalidade faz estar junto de Deus; [20] assim, o desejo da Sabedoria conduz à realeza. [21] Chefes dos povos, se vos agradam tronos e cetros, honrai a Sabedoria e reinareis para sempre. [22] Vou dizer-vos o que é a Sabedoria e qual a sua origem, sem vos esconder os mistérios de Deus; investigarei desde o início da sua criação, farei conhecê-la claramente, sem me afastar da verdade. [23] Não me deixarei acompanhar pela inveja que devora, pois ela nada tem em comum com a Sabedoria. [24] Uma multidão de sábios é a salvação do mundo, e um rei sábio, para o povo, é prosperidade. [25] Recebei, pois, a instrução por minhas palavras e nelas encontrareis proveito.
+
+@secao Responsório | Sb 7,13a.14a; 3,11a; 7,28
+
+@responsorio
+R. Estudei sabedoria e a aprendi com lealdade
+e a reparto sem inveja.
+* Porque ela é para os homens um tesouro inesgotável.
+V. Infeliz é quem recusa a disciplina e o saber;
+Deus não ama a quem não mora junto com a sabedoria.
+* Porque ela.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos coríntios, de São Clemente I, papa
+{(Séc. I)}{(Cap. 30,3-4; 34,2-35,5: Funk 1,99.103-105)}
+
+@tema
+Sigamos o caminho da verdade
+
+@texto
+Revistamo-nos de concórdia; e humildes e moderados, rejeitemos para longe toda murmuração e maledicência, justificando-nos não por palavras, mas por obras. Pois se disse: _Quem fala muito, ouvirá por sua vez; ou acaso se julga justo o homem falador?_ (cf. Jó 11,2).
+
+@texto
+Cumpre-nos, portanto, estar prontos a fazer o bem; de Deus tudo procede. Pois ele nos predisse: _Eis o Senhor, e sua recompensa está diante dele para dar a cada um segundo suas obras_ (cf. Ap 22,12). Por isso exorta-nos a nós que nele cremos de todo o coração, a não sermos preguiçosos e indolentes em toda obra boa. Nele nos gloriemos, nele confiemos. Submetamo-nos à sua vontade e, atentos, observemos a multidão dos anjos, como a seu redor cumprem sua vontade. A Escritura conta: _Miríades de miríades assistiam-no e milhares de milhares o serviam e clamavam: Santo, santo, santo, Senhor dos exércitos; toda a criação está cheia de sua glória_ (Dn 7,10; Is 6,3).
+
+@texto
+Por conseguinte também nós, em consciência, congregados como um só na concórdia, com uma só voz clamemos sem descanso para nos tornarmos participantes de suas excelentes e gloriosas promessas: _Os olhos não viram, os ouvidos não ouviram, nem suspeitou o coração dos homens, quão grandes coisas preparou para os que o aguardam_ (cf. 1Cor 2,9).
+
+@texto
+Que preciosos e maravilhosos são, caríssimos, os dons de Deus! Vida na imortalidade, esplendor na justiça, verdade na liberdade, fé na confiança, temperança na santidade; e tudo isto nossa inteligência concebe. O que não será então o que se prepara para aqueles que o aguardam? O Santíssimo Artífice e Pai dos séculos é o único a conhecer a quantidade imensa e a beleza de tudo isso.
+
+@texto
+Assim, pois, a fim de participarmos dos dons prometidos, empreguemos todo o empenho em sermos contados no número dos que o esperam. E como se fará isto, diletos? Far-se-á, se pela fé nosso pensamento se estabilizar em Deus, se procurarmos com diligência aquilo que lhe é agradável e aceito, se fizermos tudo quanto se relaciona com sua vontade irrepreensível e seguirmos a via da verdade, rejeitando para longe de nós toda injustiça.
+
+@secao Responsório | Sl 24(25),4-5.16
+
+@responsorio
+R. Mostrai-me, ó Senhor, vossos caminhos
+e fazei-me conhecer a vossa estrada!
+Vossa verdade me oriente e me conduza,
+* Porque sois o Deus da minha salvação;
+em vós espero, ó Senhor, todos os dias.
+V. Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz.
+* Porque sois.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e dai-nos amar o que ordenais para conseguirmos o que prometeis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

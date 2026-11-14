@@ -1,0 +1,49 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 33º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Confiaste-me cinco talentos;
+Eis aqui, eu lucrei outros cinco.
+
+@antifona vesperas-i-B
+Hão de ver o Filho do homem
+que virá por sobre as nuvens
+com poder e grande glória.
+
+@antifona vesperas-i-C
+Quando ouvirdes falar de revoltas e guerras,
+não fiqueis assustados; pois será necessário
+que isto aconteça bem antes do fim.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Muito bem, servo bom e fiel,
+porque foste fiel sobre o pouco,
+sobre o muito te colocarei.
+
+@antifona laudes-B
+O Senhor mandará os seus anjos
+e congregará seus eleitos
+de todos os cantos do mundo;
+dos confins mais distantes da terra,
+aos extremos mais altos dos céus.
+
+@antifona laudes-C
+Hei de dar-vos eloquência e palavras inspiradas,
+a que os vossos adversários nunca hão de resistir.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Muito bem, servo bom, fiel foste no pouco,
+vem entrar na alegria de Jesus, teu Senhor!
+
+@antifona vesperas-ii-B
+O céu e a terra passarão, diz o Senhor;
+porém, jamais minhas palavras passarão.
+
+@antifona vesperas-ii-C
+É na vossa constância que salvareis vossas vidas.

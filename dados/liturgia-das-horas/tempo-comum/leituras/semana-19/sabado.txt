@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/19sabadoTC.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Miqueias {7,7-20}
+
+@tema
+A cidade de Deus espera a salvação_
+_e o perdão dos pecados
+
+@texto
+[7] Eu, porém, olharei para o Senhor, à espera de Deus, meu Salvador; meu Deus me ouvirá. [8] Não te alegres, minha inimiga, por eu ter caído, pois me levantarei; se estou na escuridão, o Senhor é a minha luz. [9] Sofrerei a ira do Senhor, – pois pequei contra ele – enquanto ele não decidir minha causa e não fizer o meu julgamento; ele me conduzirá para a luz e eu verei a santidade de suas obras. [10] Minha inimiga olhará e se cobrirá de vergonha; ela que me diz: "Onde está o Senhor, teu Deus? Volto os olhos para ela; agora será pisada aos pés, como lama do caminho.
+
+@texto
+[11] Virá o dia em que serão edificados teus muros; naquele dia, se ampliarão tuas fronteiras. [12] Naquele dia, virão a ti habitantes da Assíria ao Egito, desde o Egito até ao rio, desde um mar a outro mar e desde uma montanha à outra. [13] A terra, porém, será devastada, por culpa de seus habitantes, em razão de suas obras.
+
+@texto
+[14] Apascenta o teu povo com o cajado da autoridade, o rebanho de tua propriedade, os habitantes dispersos pela mata e pelos campos cultivados; que eles desfrutem a terra de Basã e Galaad, como nos velhos tempos. [15] E, como foi nos dias em que nos fizeste sair do Egito, faze-nos ver novos prodígios. [16] As nações verão e se envergonharão, apesar de todo o seu poderio; hão de pôr a mão sobre a boca, seus ouvidos estarão surdos; [17] hão de lamber o chão, como serpentes, e outros répteis da terra. Hão de sair de suas casas tremendo diante do Senhor nosso Deus: dele sentirão um grande medo.
+
+@texto
+[18] Qual Deus existe, como tu, que apagas a iniquidade e esqueces o pecado daqueles que são resto de tua propriedade? Ele não guarda rancor para sempre, o que ama é a misericórdia. [19] Voltará a compadecer-se de nós, esquecerá nossas iniquidades e lançará ao fundo do mar todos os nossos pecados. [20] Tu manterás fidelidade a Jacó e terás compaixão de Abraão, como juraste a nossos pais, desde tempos remotos.
+
+@secao Responsório | Hb 10,37b; Mq 7,19b
+
+@responsorio
+R. Aquele que vem virá sem tardar
+e não mais haverá temor nesta terra.
+* Pois é ele que salva a vida de todos.
+V. Tirará nossas culpas e no fundo do mar
+lançará nossos crimes. * Pois é ele.
+
+@secao Segunda leitura
+
+@leitura
+Do Sermão sobre o batismo, de São Paciano, bispo
+{(Séc. IV)} {(Nn. 6-7: PL 13,1093-1094)}
+
+@tema
+Quem semelhante a ti, ó Deus,_
+_que apagas a iniquidade?
+
+@texto
+Como trouxemos a imagem do homem terrestre, levemos a daquele que vem do céu; porque o primeiro homem, da terra, é terrestre, o segundo, do céu, é celeste (cf. 1Cor 15,47-49). Assim agindo, diletíssimos, já não mais morreremos. Mesmo que nosso corpo se desfaça, viveremos em Cristo, conforme ele mesmo disse: _Quem crer em mim, mesmo que esteja morto, viverá_ (Jo 11,15).
+
+@texto
+Pelo testemunho do Senhor estamos certos de que Abraão, Isaac, Jacó e todos os santos de Deus vivem. Destes mesmos diz o Senhor: _Todos para ele vivem; Deus é Deus dos vivos, não dos mortos_ (cf. Mt 22,32). E o Apóstolo fala de si: _Para mim, viver é Cristo e morrer, um lucro; desejo dissolver-me e estar com Cristo_ (cf. Fl 1,21-23). De novo: _Quanto a nós, enquanto estamos neste corpo, peregrinamos longe do Senhor. Pois caminhamos pela fé, não pela visão_ (2Cor 5,6). É isto o que cremos, irmãos caríssimos. De resto: _Se apenas para este século temos esperança, somos os mais deploráveis de todos os homens_ (cf. 1Cor 15,19). Como se pode ver, a vida no mundo é a mesma para nós e para os animais, as feras e as aves. A vida deles pode até ser mais longa do que a nossa. Mas o que é próprio do homem, que Cristo deu por seu Espírito, é a vida perpétua, contanto que não mais pequemos. Porque como a morte se encontra na culpa e é evitada pela virtude, assim o mal faz perder a vida, a virtude a sustenta. _Paga do pecado, a morte; dom de Deus, a vida eterna por Jesus Cristo, nosso Senhor_ (Rm 6,23).
+
+@texto
+É ele quem nos redime, _perdoando-nos todo o pecado_, assim fala o Apóstolo, _destruindo o quirógrafo da desobediência lavrado contra nós; tirou-o do meio de nós, pregando-o na cruz. Despindo a carne, rebaixou as potestades, triunfando livremente delas em si mesmo_ (cf. Cl 2,13-15). Libertou os acorrentados, rompeu nossas cadeias, como Davi predissera: _O Senhor levanta os caídos, o Senhor liberta os cativos, o Senhor ilumina os cegos_ (cf. Sl 145,7-8). E ainda: _Rompeste minhas cadeias, sacrificar-te-ei uma hóstia de louvor_ (Sl 115,16-17). Libertados das cadeias, logo nos reunimos, pelo sacramento do batismo, o sinal do Senhor, livres pelo sangue e pelo nome de Cristo.
+
+@texto
+Por conseguinte, queridos, somos lavados de uma vez, libertados de uma vez, de uma vez acolhidos no reino imortal. De uma vez para sempre são _felizes aqueles aos quais os pecados foram perdoados e cobertas as culpas_ (cf. Sl 31,1). Segurai com força o que recebestes, guardai-o bem, não pequeis mais. Preservai-vos puros do mal e imaculados para o dia do Senhor.
+
+@secao Responsório | 1Cor 15,47.49; Cl 3,9b.10
+
+@responsorio
+R. O homem primeiro é terrestre,
+porque é tirado da terra.
+O segundo, porém, é celeste,
+porque é do céu sua origem.
+* Assim como nós carregamos
+a imagem do homem terrestre,
+carreguemos em nós, igualmente,
+a imagem do homem celeste.
+V. Despistes o homem que é velho
+e vestistes aquele que é novo
+que se renova no conhecimento,
+segundo a imagem daquele
+que é o seu bom Criador. * Assim.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos um dia a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,165 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/visitacao_laudes.htm
+@documento Laudes - Visitação da Bem-aventurada Virgem Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Vem, Mãe Virgem gloriosa,
+visitar-nos, como a João,
+com o dom do Santo Espírito
+na terrena habitação.
+
+Vem, trazendo o Pequenino
+para o mundo nele crer.
+A razão dos teus louvores,
+possam todos conhecer.
+
+Aos ouvidos da Igreja
+soe tua saudação,
+e ao ouvi-la, se levante,
+com intensa exultação,
+
+percebendo que contigo
+chega o Cristo, o Salvador,
+desejado pelos povos
+como Guia e bom Pastor.
+
+Ergue os olhos, ó Maria,
+para o povo dos cristãos.
+Para aqueles que procuram
+traze auxílio e proteção.
+
+Esperança verdadeira,
+alegria dos mortais,
+nosso Porto, vem levar-nos
+às mansões celestiais.
+
+Mãe, contigo nossas almas
+engrandecem o Senhor,
+que dos homens e dos anjos
+te fez digna do louvor.
+
+@secao Salmodia
+
+@antifona 1
+Levantou-se Maria e dirigiu-se depressa
+a uma cidade de Judá, na região montanhosa. (TP. Aleluia.)
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Levantou-se Maria e dirigiu-se depressa
+a uma cidade de Judá, na região montanhosa. (TP. Aleluia.)
+
+@antifona 2
+Quando ouviu Isabel a saudação de Maria,
+o menino saltou de alegria em seu seio,
+e Isabel ficou cheia do Espírito Santo. (TP. Aleluia.)
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Quando ouviu Isabel a saudação de Maria,
+o menino saltou de alegria em seu seio,
+e Isabel ficou cheia do Espírito Santo. (TP. Aleluia.)
+
+@antifona 3
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus vai cumprir-se. (TP. Aleluia.)
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+És feliz porque creste, Maria,
+pois em ti a Palavra de Deus vai cumprir-se. (TP. Aleluia.)
+
+@secao Leitura breve | Jl 2,27–3,1
+
+@texto
+Sabereis que eu estou no meio de Israel e que eu sou o Senhor, vosso Deus, e que não há outro; e nunca mais deixarei meu povo envergonhado. Acontecerá, depois disto, que derramarei o meu espírito sobre todo o ser humano, e vossos filhos e filhas profetizarão.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a escolheu, entre todas preferida.
+* Aleluia, aleluia. R. O Senhor.
+V. O Senhor a fez morar em sua santa habitação. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor. No Tempo Comum R. O Senhor a escolheu, * Entre todas preferida. R. O Senhor. V. O Senhor a fez morar em sua santa habitação. * Entre todas. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quando ouviu Isabel a saudação de Maria,
+exclamou em voz alta: Não mereço esta honra
+que a Mãe do Senhor, do meu Deus, venha a mim! (TP. Aleluia.)
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quando ouviu Isabel a saudação de Maria,
+exclamou em voz alta: Não mereço esta honra
+que a Mãe do Senhor, do meu Deus, venha a mim! (TP. Aleluia.)
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa visitação. R.
+
+Palavra eterna, que ensinastes vossa Mãe a escolher a melhor parte,
+– ajudai-nos a imitá-la buscando o alimento da vida eterna. R.
+
+Salvador do mundo, que pelos méritos da redenção preservastes a vossa Mãe de toda a mancha de pecado,
+– livrai-nos também de todo pecado. R.
+
+Redentor nosso, que fizestes da Imaculada Virgem Maria o tabernáculo puríssimo da vossa presença e o sacrário do Espírito Santo,
+– fazei de nós templos vivos do vosso Espírito. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que inspirastes à Virgem Maria sua visita a Isabel, levando no seio o vosso Filho, fazei-nos dóceis ao Espírito Santo, para cantar com ela o vosso louvor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

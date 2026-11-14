@@ -1,0 +1,39 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/3domingoAD.htm
+
+@secao Antífona da entrada | Cf. Fl 4,4-5
+@texto
+Alegrai-vos sempre no Senhor!
+Repito, alegrai-vos!
+O Senhor está próximo.
+
+@secao Coleta
+@texto
+Ó Deus, que vedes o vosso povo
+esperando fervoroso o Natal do Senhor,
+concedei-nos chegar às alegrias da salvação
+e celebrá-las sempre com intenso júbilo na solene liturgia.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Possamos, Senhor, oferecer-vos sem cessar
+este nosso sacrifício,
+para que, ao celebrarmos o sacramento que nos destes,
+realizem-se em nós as maravilhas da salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Is 35,4
+@texto
+Dizei aos desanimados: coragem, não temais;
+eis que chega o nosso Deus,
+ele mesmo nos salvará.
+
+@secao Depois da comunhão
+@texto
+Imploramos, Senhor, vossa clemência,
+para que estes divinos auxílios
+nos purifiquem dos pecados
+e nos preparem para as festas que se aproximam.
+Por Cristo, nosso Senhor.

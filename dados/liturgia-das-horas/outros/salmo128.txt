@@ -1,0 +1,6 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmo128.htm
+@documento Salmo 128(129)
+
+@salmo salmos/salmo-128
+
+@gloria

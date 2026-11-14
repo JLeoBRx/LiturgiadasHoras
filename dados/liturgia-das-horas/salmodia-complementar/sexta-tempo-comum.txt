@@ -1,0 +1,83 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmodia_comp_sexta_TC.htm
+@documento Salmodia Complementar - Sexta (Série II)
+
+@secao Salmodia
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@rubrica
+Ou:
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@antifona 1
+Vós que habitais nos altos céus,
+ó Senhor tende piedade!
+
+@salmo salmos/salmo-122-v3
+
+@gloria
+
+@antifona
+Vós que habitais nos altos céus,
+ó Senhor tende piedade!
+
+@antifona 2
+O nosso auxílio está no nome do Senhor.
+
+@salmo salmos/salmo-123-v2
+
+@gloria
+
+@antifona
+O nosso auxílio está no nome do Senhor.
+
+@antifona 3
+Deus nos cerca de carinho e proteção,
+desde agora, para sempre e pelos séculos.
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Deus nos cerca de carinho e proteção,
+desde agora, para sempre e pelos séculos.
+
+@texto
+Leitura breve

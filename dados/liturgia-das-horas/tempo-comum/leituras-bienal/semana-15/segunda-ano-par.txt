@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/15segundaTC_par.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo 15a SEMANA DO TEMPO COMUM / SEGUNDA-FEIRA / III Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {2,1-13}
+
+@tema
+Jó, coberto de pragas, é visitado pelos amigos
+
+@texto
+[1] Num outro dia em que os Filhos de Deus vieram se apresentar novamente ao Senhor, entre eles veio também Satã. [2] O Senhor perguntou a Satã: “De onde vens?” Ele respondeu ao Senhor: “Venho de dar uma volta pela terra, andando a esmo.” [3] O Senhor disse a Satã: “Reparaste no meu servo Jó? Na terra não há outro igual: é um homem íntegro e reto, que teme a Deus e se afasta do mal. Ele persevera em sua integridade, e foi por nada que me instigaste contra ele para aniquilá-lo.” [4] Satã respondeu ao Senhor e disse: “Pele após pele! Para salvar a vida, o homem dá tudo o que possui. [5] Mas estende a mão, fere-o na carne e nos ossos; eu te garanto que te lançará maldições em rosto.” [6] “Seja!”, disse o Senhor a Satã, “ele está em teu poder, mas poupa-lhe a vida.” [7] E Satã saiu da presença do Senhor.
+Ele feriu Jó com chagas malignas desde a planta dos pés até o cume da cabeça. [8] Então Jó apanhou um caco de cerâmica para se coçar e sentou-se no meio da cinza. [9] Sua mulher disse-lhe: “Persistes ainda em tua integridade? Amaldiçoa a Deus e morre duma vez!” [10] Ele respondeu: “Falas como uma idiota: se recebemos de Deus os bens, não deveríamos receber também os males?” Apesar de tudo isso, Jó não cometeu pecado com seus lábios.
+[11] Três amigos de Jó - Elifaz de Temã, Baldad de Suás e Sofar de Naamat -, ao inteirar-se da desgraça que havia sofrido, partiram de sua terra e reuniram-se para ir compartilhar sua dor e consolá-lo. [12] Quando levantaram os olhos, a certa distância, não o reconheceram mais. Levantando a voz romperam em prantos; rasgaram seus mantos e, a seguir, espalharam pó sobre a cabeça. [13] Sentaram-se no chão ao lado dele, sete dias e sete noites, sem dizer-lhe uma palavra, vendo como era atroz seu sofrimento.
+
+@secao Responsório | Sl 37, 2.3.4.12
+
+@responsorio
+R. Senhor, em vossa cólera não me repreendais,
+em vosso furor não me castigueis,
+* Por causa de meu pecado
+nada há de intacto nos meus ossos.
+V. Amigos e companheiros fogem de minha chaga,
+e meus parentes permanecem longe. * Por causa.
+
+@secao Segunda leitura
+
+@leitura
+Dos “Livros Moralia sobre Jó”, de São Gregório Magno, papa
+{(Séc. VI)} {(Liv. 3,15-16: PL 75,606-608)}
+
+@tema
+Se da mão de Deus recebemos os bens, por que não suportaremos os males?
+
+@texto
+Paulo, considerando em seu íntimo as riquezas da sabedoria e vendo-se externamente num corpo corruptível, exclama: _Temos este tesouro em vasos de barro_! No santo Jó, o vaso de barro sofre no exterior as rupturas das úlceras. Por dentro, porém, continua íntegro o tesouro. Por fora é ferido de chagas. Por dentro, a perene nascente do tesouro da sabedoria derrama-se em palavras santas: _Se da mão_ _de Deus recebemos os bens, por que não suportaremos os_ _males_? Para ele, os bens são os dons de Deus, tanto os temporais quanto os eternos, enquanto os males são os flagelos do momento. Diz o Senhor pelo Profeta: _Eu, o Senhor, e_ _não há outro, faço a luz e crio as trevas, produzo a paz e_ _crio os males_.
+_Faço a luz e crio as trevas_: quando, pelos flagelos, são criadas exteriormente as trevas do sofrimento, no íntimo, pela correção, acende-se a luz do espírito. _Produzo a paz_ _e crio os males_. Voltamos à paz com Deus quando os bens criados, porém mal desejados, por serem males para nós, se transformam em flagelos. Pela culpa, estamos em discórdia com Deus. Portanto, é justo que pelos flagelos retornemos à paz com ele. Quando os bens criados começam a causar-nos sofrimento, o espírito assim castigado procura humildemente a paz com o Criador.
+É preciso considerar com muita atenção, nas palavras de Jó, contra a opinião de sua mulher, a justeza do seu raciocínio. _Se recebemos da mão do Senhor os bens, por que não_ _suportaremos os males_? Grande conforto na tribulação é, em meio às contrariedades, lembrarmo-nos dos dons concedidos por nosso Criador. E não nos abateremos, em face da dor, se logo nos ocorrer à mente o dom que a reanima. Sobre isto está escrito: _Nos dias bons, não te esqueças dos_ _maus, e nos dias maus lembra-te dos bons_.
+Quem recebe os bens da vida, mas durante os bons tempos deixa inteiramente de temer os flagelos, cai na soberba através da alegria. Quem é atormentado pelos flagelos e nestes dias maus não se consola com os dons recebidos perde, com o mais profundo desespero, o equilíbrio do espírito.
+Assim sendo, é necessário unir os dois, de modo que um sempre se apoie no outro: que a lembrança dos bens modere o sofrimento dos flagelos, e que a suspeita e o medo dos flagelos estejam a mordiscar a alegria dos bens.
+O santo homem com suas chagas, para aliviar o espírito oprimido em meio às dores dos flagelos, pensa na doçura dos dons: Se recebemos da mão do Senhor os bens, por que não haveremos de suportar os males?
+
+@secao Responsório Jó 2,10b; 1,21-22
+
+@responsorio
+R. Se ganhamos o bem da mão do Senhor,
+não devemos, também, o mal aceitar?
+* O Senhor no-lo deu, o Senhor o tirou;
+e foi feito assim, como a ele agradou:
+Que seja bendito o nome de Deus!
+V. Em tudo isso Jó não pecou com seus lábios,
+nem falou contra Deus qualquer coisa insensata. * O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus, que mostrais a luz da verdade aos que erram para retomarem o bom caminho, dai a todos os que professam a fé rejeitar o que não convém ao cristão, e abraçar tudo o que é digno desse nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

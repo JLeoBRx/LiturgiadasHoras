@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saolourenco.htm
+
+@secao Antífona da entrada
+@texto
+Este é São Lourenço que se entregou pelos pobres;
+por isso, mereceu sofrer o martírio
+e subir com alegria para junto do Senhor Jesus Cristo.
+
+@secao Coleta
+@texto
+Ó Deus, o diácono São Lourenço,
+inflamado de amor por vós,
+brilhou pela fidelidade no vosso serviço
+e pela glória do martírio;
+concedei-nos amar o que ele amou
+e praticar o que ele ensinou.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, acolhei com bondade
+as oferendas que vos apresentamos com alegria
+na festa de São Lourenço,
+e concedei que elas contribuam
+para a nossa salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 12,26
+@texto
+Aquele que me serve, siga-me;
+e onde eu estiver,
+estará também o meu servidor, diz o Senhor.
+
+@secao Depois da comunhão
+@texto
+Senhor, alimentados com vossos dons sagrados,
+nós vos pedimos humildemente
+que, ao prestar-vos o devido culto na festa de São Lourenço,
+sintamos crescer em nós os frutos da vossa salvação.
+Por Cristo, nosso Senhor.

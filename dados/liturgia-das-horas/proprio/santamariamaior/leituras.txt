@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santamariamaior.htm
+@documento Ofício das Leituras - Dedicação Da Basílica De Santa Maria Maior
+
+@celebracao
+DEDICAÇÃO DA BASÍLICA DE SANTA MARIA MAIOR
+
+@biografia
+Depois do Concílio de Éfeso (431), em que a Mãe de Jesus foi proclamada Mãe de Deus, o papa Sisto III (432-440) erigiu em Roma, no monte Esquilino, uma basílica dedicada à Santa Mãe de Deus, chamada mais tarde Santa Maria Maior. É esta a mais antiga Igreja do Ocidente dedicada à Santíssima Virgem.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías 7,10-14; 8,10c;11,1-9
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel;[8,10] porque Deus está conosco.[11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor; [2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus; [3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer; [4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a força da sua palavra
+e destruirá o mau com o sopro dos lábios. [5] Cingirá a cintura com a cinta da justiça
+e as costas com a faixa da fidelidade. [6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los. [7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi; [8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente. [9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia pronunciada no Concílio de Éfeso por São Cirilo de Alexandria, bispo
+{(Séc. V)} {(Hom. 4: PG 77, 991.995-996)}
+
+@tema
+Louvor de Maria Mãe de Deus
+
+@texto
+Contemplo esta assembleia de homens santos, alegres e exultantes que, convidados pela santa e sempre Virgem Maria e Mãe de Deus, prontamente acorreram para cá. Embora oprimido por uma grande tristeza, a vista dos santos padres aqui reunidos encheu-me de júbilo. Neste momento, vemos realizar-se entre nós aquelas doces palavras do salmista Davi: _Vede como é bom, como é suave os irmãos viverem juntos bem unidos!_ (Sl 132,1).
+Salve, ó mística e santa Trindade, que nos reunistes a todos nós nesta igreja de Santa Maria Mãe de Deus.
+Salve, ó Maria Mãe de Deus, venerável tesouro do mundo inteiro, lâmpada inextinguível, coroa da virgindade, cetro da verdadeira doutrina, templo indestrutível, morada daquele que lugar algum pode conter, virgem e mãe, por meio de quem é proclamado _bendito_ nos santos evangelhos _o que vem em nome do Senhor_ (Mt 21,9).
+Salve, ó Maria, tu que trouxeste em teu sagrado seio virginal o Imenso e Incompreensível; por ti, é glorificada e adorada a Santíssima Trindade; por ti, se festeja e é adorada no universo a cruz preciosa; por ti, exultam os céus; por ti, se alegram os anjos e arcanjos; por ti, são postos em fuga os demônios; por ti, cai do céu o diabo tentador; por ti, é elevada ao céu a criatura decaída; por ti, todo o gênero humano, sujeito à insensatez dos ídolos, chega ao conhecimento da verdade; por ti, o santo batismo purifica os que creem; por ti, recebemos o óleo da alegria; por ti, são fundadas igrejas em toda a terra; por ti, as nações são conduzidas à conversão.
+E que mais direi? Por Maria, o Filho Unigênito de Deus veio _iluminar os que jazem nas trevas e nas sombras da morte_ (Lc 1,77); por ela, os profetas anunciaram as coisas futuras; por ela, os apóstolos proclamaram aos povos a salvação; por ela, os mortos ressuscitam; por ela, reinam os reis em nome da Santíssima Trindade.
+Quem dentre os homens é capaz de celebrar dignamente a Maria, merecedora de todo louvor? Ela é mãe e virgem. Que coisa admirável! Este milagre me deixa extasiado. Quem jamais ouviu dizer que o construtor fosse impedido de habitar no templo que ele próprio construiu? Quem se humilhou tanto a ponto de escolher uma escrava para ser sua própria mãe?
+Eis que tudo exulta de alegria! Reverenciemos e adoremos a divina Unidade, com santo temor veneremos a indivisível Trindade, ao celebrar com louvores a sempre Virgem Maria! Ela é o templo santo de Deus, que é seu Filho e esposo imaculado. A ele a glória pelos séculos dos séculos. Amém.
+
+@secao Responsório | Cf. Lc 1,48-49
+
+@responsorio
+R. Comigo alegrai-vos, todos vós que a Deus temeis
+porque sendo pequenina, agradei ao Deus Altíssimo,
+* E gerei o Deus e homem, trazendo-o no meu ventre.
+V. Doravante as gerações hão de chamar-me de bendita,
+pois olhou o Poderoso para a sua humilde serva.
+* E gerei.
+
+@secao Oração
+
+@oracao
+Perdoai, Senhor, os nossos pecados, e como não vos podemos agradar por nossos atos, sejamos salvos pela intercessão da Virgem Maria, Mãe de Deus. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

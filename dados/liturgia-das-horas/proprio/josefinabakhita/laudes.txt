@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/josefinabakhita_laudes.htm
+@documento Laudes - Santa Josefina Bakhita, virgem
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Com tua lâmpada acesa,
+viste chegar o Senhor:
+do Esposo sentas-te à mesa,
+cheia de graça e esplendor.
+
+Para uma eterna aliança,
+põe-te no dedo um anel;
+cessam a fé e a esperança:
+Belém se torna Betel.
+
+Dá que aprendamos contigo
+ter sempre os olhos nos céus:
+calcar o mundo inimigo,
+buscar a glória de Deus.
+
+Jesus nos dê, por Maria,
+que como Mãe te acolheu,
+tê-lo na terra por guia,
+ao caminhar para o céu.
+
+Ao Pai e ao Espírito glória,
+ao Filho o mesmo louvor,
+pois virginal é a vitória
+da que desposa o Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Eu me decido livremente pelo Cristo:
+com ardente coração eu quero amá-lo
+e desejo estar com ele para sempre.
+
+@antifona 2
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Bendizei o Senhor, santas virgens,
+que vos chama ao amor indiviso
+e coroa em vós os seus dons!
+
+@antifona 3
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exultem os fiéis em sua glória,
+pois a carne e o sangue superaram
+e alcançaram a vitória sobre o mundo.
+
+@secao Leitura breve | Ct 8,7
+
+@texto
+Águas torrenciais jamais apagarão o amor, nem rios poderão afogá-lo. Se alguém oferecesse todas as riquezas de sua casa para comprar o amor, seria tratado com desprezo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, é vossa face que eu procuro.
+* Meu coração fala convosco confiante. R. Senhor.
+V. Senhor, não me escondais a vossa face! * Meu coração.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Antes de conhecer Cristo, carregou a sua cruz sem o saber;
+assim que o conheceu, desejou servi-lo em santidade e justiça.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Antes de conhecer Cristo, carregou a sua cruz sem o saber;
+assim que o conheceu, desejou servi-lo em santidade e justiça.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, esposo e prêmio das virgens; e lhe supliquemos com fé:
+
+R. **Jesus, prêmio das virgens, ouvi-nos!**
+
+Cristo, amado pelas santas virgens como único Esposo,
+– concedei que nada nos separe do vosso amor. R.
+
+Coroastes Maria, como Rainha das virgens;
+– concedei-nos, por sua intercessão, que vos sirvamos sempre de coração puro. R.
+
+Por intercessão de vossas servas, que a vós se consagraram de todo o coração para serem santas de corpo e de alma;
+– concedei que jamais a instável figura deste mundo nos afaste de vós. R.
+
+Senhor Jesus, esposo por cuja vinda as virgens prudentes esperaram sem desanimar;
+– concedei que vos aguardemos vigilantes na esperança. R.
+
+Por intercessão de Santa Josefina Bakhita, uma das virgens sábias e prudentes,
+– concedei-nos sabedoria e uma vida sem mancha. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus e Salvador nosso, ouvi a nossa súplica, para que, alegrando-nos com a festa da virgem Santa Josefina Bakhita, aprendamos a vos servir com amor. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

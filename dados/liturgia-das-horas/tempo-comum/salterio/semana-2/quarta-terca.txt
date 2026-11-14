@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quarta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Fico pensando, ó Senhor, nos meus caminhos;
+escolhi por vossa lei guiar meus passos.
+
+@salmo salmos/salmo-118-57-64-viii-heth
+
+@gloria
+
+@antifona
+Fico pensando, ó Senhor, nos meus caminhos;
+escolhi por vossa lei guiar meus passos.
+
+@antifona 2
+O temor e o tremor me penetram;
+dignai-vos me ouvir, respondei-me!
+
+@salmo salmos/salmo-054-2-15-17-24-i
+
+@gloria
+
+@antifona
+O temor e o tremor me penetram;
+dignai-vos me ouvir, respondei-me!
+
+@antifona 3
+Eu, porém, clamo a Deus em meu pranto,
+e o Senhor me haverá de salvar.
+
+@salmo salmos/salmo-054-2-15-17-24-ii
+
+@gloria
+
+@antifona
+Eu, porém, clamo a Deus em meu pranto,
+e o Senhor me haverá de salvar.
+
+@secao Leitura breve | Dt 1,16-17a
+
+@texto
+Dei aos vossos juízes a seguinte ordem: Ouvi vossos irmãos, julgai com justiça as questões de cada um, tanto com seu irmão como com o estrangeiro. Não façais acepção de pessoas em vossos julgamentos; ouvi tanto os pequenos como os grandes, sem temor de ninguém, porque a Deus pertence o juízo.
+
+@texto
+V. É justo o nosso Deus: o Senhor ama a justiça.
+R. Quem tem reto coração há de ver a sua face.
+
+@secao Oração
+
+@oracao
+Senhor, nosso Pai, Deus santo e fiel, que enviastes o Espírito prometido por vosso Filho, para reunir os seres humanos divididos pelo pecado, fazei-nos promover no mundo os bens da unidade e da paz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

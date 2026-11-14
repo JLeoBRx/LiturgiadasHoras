@@ -1,0 +1,6 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/nuncdimittisemlatim.htm
+@documento Nunc Dimittis
+
+@titulo NUNC DIMITTIS (EM LATIM) / {Lc 2,29-32}
+
+@salmo salmos/trecho-nuncdimittisemlatim

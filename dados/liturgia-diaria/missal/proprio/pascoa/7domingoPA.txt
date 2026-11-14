@@ -1,0 +1,42 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/7domingoPA.htm
+
+@secao Antífona da entrada | Cf. Sl 26,7-9
+@texto
+Escutai, Senhor, a minha voz, porque vos chamo.
+Meu coração disse: Senhor, buscarei vossa face.
+É vossa face, Senhor, que eu procuro.
+Não desvieis de mim o vosso rosto, aleluia!
+
+@secao Coleta
+@texto
+Senhor, escutai com bondade as nossas súplicas;
+assim como cremos que o Salvador da humanidade
+está convosco na glória,
+possamos sentir a sua presença no meio de nós
+até o fim dos tempos, como prometeu.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, ó Deus, as nossas preces,
+com as oferendas que apresentamos,
+para que esta liturgia celebrada com amor
+nos faça alcançar a glória do céu.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 17,22
+@texto
+Pai, eu te peço para que eles sejam um,
+como nós somos um, aleluia.
+
+@secao Depois da comunhão
+@texto
+Escutai-nos, Deus nosso Salvador,
+e, por estes santos mistérios,
+firmai-nos na esperança
+de que todo o corpo da Igreja
+alcançará a mesma glória
+já obtida por Cristo, sua cabeça.
+Ele, que vive e reina pelos séculos dos séculos.

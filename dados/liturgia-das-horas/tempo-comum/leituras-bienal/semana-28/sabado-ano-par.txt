@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/28sabadoTC_par.htm
+@documento Ofício das Leituras - Sábado
+
+@titulo SÁBADO / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {24,1-22}
+
+@tema
+Discurso da sabedoria
+
+@texto
+[1] A sabedoria faz o seu próprio elogio, ela se exalta no meio de seu povo. [2] Na assembleia do Altíssimo abre a boca, ela se exalta diante do seu Poder. [3] “Saí da boca do Altíssimo e como a neblina cobri a terra. [4] Armei a minha tenda nas alturas e meu trono era coluna de nuvens. [5] Só eu rodeei a abóbada celeste, eu percorri a profundeza dos abismos, [6] as ondas do mar, a terra inteira, reinei sobre todos os povos e nações. [7] Junto de todos estes procurei onde pousar e em qual herança pudesse habitar. [8] Então o criador de todas as coisas deu-me uma ordem, aquele que me criou armou a minha tenda e disse: ‘Instala-te em Jacó, em Israel recebe a tua herança.’ [9] Criou-me antes dos séculos, desde o princípio, e para sempre não deixarei de existir. [10] Na Tenda santa, em sua presença, oficiei; deste modo, estabeleci-me em Sião [11] e na cidade amada encontrei repouso, meu poder está em Jerusalém. [12] Enraizei-me num povo cheio de glória, no domínio do Senhor se encontra minha herança. [13] Cresci como o cedro do Líbano, como o cipreste no monte Hermon. Cresci como a palmeira em Engadi, como roseira em Jericó, como formosa oliveira na planície, cresci como plátano. [15] Como a canela e o acanto aromático exalei perfume, como a mirra escolhida exalei bom odor, como o gálbano, o ônix, o estoraque, como o vapor do incenso na Tenda. [16] Estendi os meus ramos como o terebinto, meus ramos, ramos de glória e graça. [17] Eu, como a videira, fiz germinar graciosos sarmentos e minhas flores são frutos de glória e riqueza. [18] Eu sou a mãe do amor e do temor, do conhecimento e da santa esperança. A todos os meus filhos concedo bens eternos àqueles que ele escolheu. [19] Vinde a mim todos os que me desejais, fartai-vos de meus frutos. [20] Porque a minha lembrança é mais doce do que o mel, minha herança mais doce do que o favo de mel. [21] Os que me comem terão ainda fome, os que me bebem terão ainda sede. [22] Quem me obedece não se envergonhará, os que trabalham por mim não pecarão”.
+
+@secao Responsório | Jo 14,6; Eclo 24,9
+
+@responsorio
+R. Eu sou o caminho, a verdade e a vida.
+* Ninguém vem ao Pai a não ser por mim.
+V. Eu, a sabedoria, existo desde o princípio;
+e para sempre não deixarei de existir.
+* Ninguém.
+
+@secao Segunda leitura
+
+@leitura
+Do “Tratado contra as heresias” de Santo Irineu, bispo
+{(Séc. II)} {(Livr. 4,6,3.5.7: SCh 100,442.446.448-454)}
+
+@tema
+A manifestação do Filho é o conhecimento do Pai
+
+@texto
+Ninguém pode conhecer o Pai sem o Verbo de Deus, isto é, sem o Filho que o revela. Também não se conhece o Filho sem a vontade do Pai. O Filho faz a vontade do Pai, pois o Pai o envia. O Filho é enviado e vem a nós. Assim o Pai, que é para nós invisível e incognoscível, torna-se conhecido por seu próprio Verbo. Ora, só o Pai conhece seu Verbo, como o manifestou o Senhor. Por isso o Filho nos leva ao conhecimento do Pai mediante a sua própria encarnação. Com efeito, a manifestação do Filho é o conhecimento do Pai. Na verdade, tudo nos é revelado pelo Verbo.
+O Pai revelou o Filho para se dar a conhecer a todos por meio dele. Mais ainda: a fim de acolher, em toda justiça, para a ressurreição eterna, os que nele creem. Crer nele é viver segundo sua vontade.
+De fato, o Verbo já revela o Deus criador pela própria criação; pelo mundo, o Senhor que o construiu; pela criatura plasmada, o artífice que a plasmou; e pelo Filho, o Pai que o gerou. Dessas coisas todos falam do mesmo modo, mas não creem todos do mesmo modo. Pela lei e os profetas, o Verbo, igualmente, anunciava-se a si e ao Pai. Todo o povo do mesmo modo o ouviu, mas não creram todos do mesmo modo. Pelo Verbo, tornado visível e palpável, o Pai se revelou, embora nem todos cressem nele do mesmo modo. Todos, porém, viram o Pai no Filho. A realidade invisível que se manifestava no Filho era o Pai, e a realidade visível na qual o Pai se revelou era o Filho.
+O Filho tudo perfaz do princípio ao fim para o Pai, e sem ele ninguém pode conhecer a Deus. O conhecimento do Pai é o Filho. O conhecimento do Filho pertence ao Pai e é revelado pelo Filho. Por esse motivo, o Senhor dizia: Ninguém conhece o Filho a não ser o Pai; nem o Pai a não ser o Filho e aqueles a quem o Filho revelar. Revelar não se refere apenas ao futuro como se o Verbo só tivesse começado a revelar o Pai quando nasceu de Maria. De fato, o Verbo se encontra universalmente e em todo o tempo. No início, sendo o Filho presente à sua criatura, ele revela o Pai a todos a quem o Pai quer, quando quer e como quer. Em tudo e por tudo, há um só Deus, o Pai, e um só Verbo, o Filho, e um só Espírito e uma única salvação para todos os que nele creem.
+
+@secao Responsório | Jo 1,18; Mt 11,27b
+
+@responsorio
+R. Ninguém jamais viu a Deus,
+* Mas o Filho Unigênito, que está junto do Pai,
+este o deu a conhecer.
+V. Ninguém conhece o Pai, a não ser o próprio Filho
+e aquele a quem o Filho o quiser revelar.
+* Mas o Filho.
+
+@secao Oração
+
+@oracao
+Ó Deus, sempre nos preceda e acompanhe a vossa graça para que estejamos sempre atentos ao bem que devemos fazer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

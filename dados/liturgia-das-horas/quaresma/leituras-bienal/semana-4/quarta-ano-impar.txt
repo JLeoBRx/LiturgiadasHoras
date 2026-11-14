@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/4quarta_quaresma_impar.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Quarta-Feira
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {9,1-10}
+
+@tema
+Ineficácia dos antigos sacrifícios
+
+@texto
+A primeira aliança tinha um ritual para o culto e santuário terrestre. Pois instalou-se uma tenda - a primeira tenda -, chamada Santo, onde se encontravam o candelabro, a mesa e os pães da proposição. Por detrás do segundo véu havia outra tenda, chamada Santo dos Santos, com o altar de ouro para os perfumes, a arca da aliança toda recoberta de ouro e, nesta, o vaso de ouro com o maná, o bastão de Aarão que florescera e as tábuas da aliança; por cima da arca, os querubins da glória cobriam com sua sombra o propiciatório. Todavia, não é o momento de falar disso nos pormenores. Estando as coisas assim dispostas, os sacerdotes entram a qualquer momento na primeira tenda, para realizar o serviço cultual. Na segunda, porém, entra apenas o sumo sacerdote, e somente uma vez por ano; e isso não acontece sem antes oferecer sangue por suas faltas e pelas do povo. O Espírito Santo quis mostrar, com isso, que o caminho do santuário não está aberto enquanto existir a primeira tenda. Há nisso um símbolo para o tempo de agora. Pois, naquele regime, apresentam-se oferendas e sacrifícios sem eficácia para aperfeiçoar a consciência de quem presta o culto. Tudo são ritos carnais referentes apenas aos alimentos, às bebidas, às abluções diversas e impostos somente até o tempo da correção.
+
+@secao Responsório | Hb 9,14;1Jo 2,2
+
+@responsorio
+R. O sangue de Cristo que, em virtude do Espírito eterno,
+se ofereceu a si mesmo a Deus como vítima sem mancha,
+* Purificará a nossa consciência das obras mortas,
+para servirmos ao Deus vivo.
+V. Ele é a oferenda de expiação pelos nossos pecados,
+e não só pelos nossos, mas também pelos pecados do mundo inteiro. * Purificará a nossa.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre a segunda Carta aos Coríntios, de São João Crisóstomo, bispo
+{(Hom. 11,3-4: PG 61,478-480)}
+
+@tema
+Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós
+
+@texto
+Deus enviou seu Filho para exortar os homens em seu nome e para assumir a função de representante seu junto a eles. Mas, porque, tendo sido morto, se ausentou do nosso meio, nós lhe sucedemos nessa função e passamos a exortar-vos em seu nome e em nome do Pai. Este tem em tanto apreço o ser humano, que lhe deu seu Filho Unigênito, embora sabendo que iriam matá-lo, e nos fez apóstolos para o vosso bem. Por isso, não penseis que somos nós a vos convocar. É Cristo que vos convoca; por nosso intermédio é o Pai quem vos convoca. O que ainda nos pode ser dado com bondade tão extremada? Pois Deus, injuriado após benefícios sem conta, não só não exigiu nosso castigo, mas até nos deu seu próprio Filho, a fim de conseguirmos seu perdão. E aqueles que receberam este Filho não cuidaram de alcançar a graça perdida, mas lhe deram morte violenta. E mandou ainda outros representantes. Mas através dos representantes é ele quem convida. E qual é o convite? _Reconciliai-vos com Deus_ (2Cor 5,20). Não diz: “Reconquistai a graça de Deus”, porque a causa da inimizade não está nele, mas em vós. Porque Deus nunca é causa de inimizade. Antes, até é enviado como embaixador para resolver a causa. Diz a Escritura: _Aquele que não cometeu pecado, Deus_ _o fez pecado por nós_ (2Cor 5,21). Se não tivesse feito outra coisa senão apenas isto, procura entender quão inestimável já seria o seu dom: dar seu Filho por aqueles que tanto o haviam ultrajado. Mas fez muito mais. Permitiu precisamente que o ofendido fosse crucificado pelos ofensores. _Aquele que não cometeu pecado_, antes era a própria justiça, _Deus o fez pecado_, isto é, deixou que fosse condenado como pecador e morresse como maldito. Pois é _maldito todo aquele que for suspenso no madeiro_ (Gl 3,13; cf. Dt 21,23). Foi muito mais atroz morrer assim do que simplesmente morrer _-_ o que a mesma Escritura dá a entender noutra passagem: _Fez-se obediente até a morte, e morte de cruz_ (Fl 2,8). Considerai quantos benefícios recebestes de Deus. Portanto, se amarmos a Cristo como ele deve ser amado, nós mesmos é que nos castigaremos por nossos pecados. Não tenhamos medo do inferno, mas tenhamos medo de ofender a Deus. Pois, mais terrível que isso será Deus tornar- se indiferente, afastando de nós a sua face. Pensando nisso, antes de tudo, tenhamos medo do pecado, que é castigo, é inferno, é uma multidão de males. E não só tenhamos medo: fujamos do pecado e procuremos sempre agradar a Deus. Porque isto é o reino, é a vida, é uma multidão de bens. E assim, já na terra, estaremos na posse do reino e dos bens futuros. E oxalá o consigamos todos, pela graça e pela bondade de nosso Senhor Jesus Cristo.
+
+@secao Responsório | 1Pd 2, 22.24;Is 53,5
+
+@responsorio
+R. Cristo não cometeu pecado algum,
+mentira nenhuma foi encontrada em seus lábios.
+Carregou sobre si nossas culpas em seu corpo, no lenho da cruz,
+* Para que, mortos aos nossos pecados,
+na justiça de Deus nós vivamos.
+V. A punição a ele imposta era o preço da nossa paz,
+e suas feridas, o preço da nossa cura.* Para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que recompensais os méritos dos justos e perdoais aos pecadores que fazem penitência, sede misericordioso para conosco: fazei que a confissão de nossas culpas alcance o vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

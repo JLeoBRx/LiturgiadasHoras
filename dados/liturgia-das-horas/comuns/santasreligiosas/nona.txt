@@ -1,0 +1,67 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_santasreligiosas_nona.htm
+@documento COMUM DOS SANTAS RELIGIOSAS - Hora Média
+
+@titulo COMUM DOS SANTAS RELIGIOSAS
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+Ninguém jamais viu, ó Senhor,
+o prêmio que vós preparastes
+para aqueles que esperam em vós.
+
+@salmo salmos/salmo-125-v3
+
+@antifona
+Ninguém jamais viu, ó Senhor,
+o prêmio que vós preparastes
+para aqueles que esperam em vós.
+
+@secao Leitura breve | Fl 4,8.9b
+
+@texto
+Irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. Assim o Deus da paz estará convosco.
+
+@texto
+V. Exultemos que em vós se refugiam,
+R. Pois convosco habitarão eternamente!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se a seguinte:}
+
+@texto
+Ó Deus, concedei-nos, pelas preces de santa {N.}, a quem destes perseverar na imitação do Cristo pobre e humilde, seguir a nossa vocação com fidelidade e chegar àquela perfeição que nos propusestes em vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

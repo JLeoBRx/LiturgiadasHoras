@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3segunda_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, verdade e força
+que o mundo governais,
+da aurora ao meio-dia,
+a terra iluminais.
+
+De nós se afaste a ira,
+discórdia e divisão.
+Ao corpo dai saúde,
+e paz ao coração.
+
+Ouvi-nos, Pai bondoso,
+por Cristo Salvador,
+que vive com o Espírito
+convosco pelo Amor.
+
+@secao Salmodia
+
+@antifona 1
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@salmo salmos/salmo-118-89-96-xii-lamed
+
+@gloria
+
+@antifona
+Procurei vossa vontade, ó Senhor;
+por meio dela conservais a minha vida.
+
+@antifona 2
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@salmo salmos/salmo-070-i
+
+@gloria
+
+@antifona
+Em vós confio, ó Senhor, desde a minha juventude.
+
+@antifona 3
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@salmo salmos/salmo-070-ii
+
+@gloria
+
+@antifona
+Na velhice, com os meus cabelos brancos,
+eu vos suplico, ó Senhor, não me deixeis!
+
+@secao Leitura breve | Rm 6,22
+
+@texto
+Agora libertados do pecado, e como escravos de Deus, frutificais para a santidade até a vida eterna, que é a meta final.
+
+@texto
+V. Vireis, ó Deus, restituir a minha vida,
+R. Para que, em vós, se rejubile o vosso povo.
+
+@secao Oração
+
+@oracao
+Ó Deus, senhor e guarda da vinha e da colheita, que repartis as tarefas e dais a justa recompensa, fazei-nos carregar o peso do dia, sem jamais murmurar contra a vossa vontade. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

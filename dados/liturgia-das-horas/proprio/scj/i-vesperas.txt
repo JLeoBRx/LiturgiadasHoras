@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/scj_Ivesperas.htm
+@documento I Vésperas - Sagrado Coração de Jesus
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Cristo, autor deste mundo,
+que redimis terra e céus,
+da luz do Pai sois a luz,
+Deus verdadeiro de Deus.
+
+O amor vos fez assumir
+o nosso corpo mortal,
+e, novo Adão, reparastes
+do velho a culpa fatal.
+
+O vosso amor, que criou
+a terra, o mar e o céu,
+do antigo mal condoído,
+nossas cadeias rompeu.
+
+Ninguém se afaste do amor
+do vosso bom Coração.
+Buscai, nações, nesta fonte
+as graças da remissão.
+
+Aberto foi pela lança
+e, na paixão transpassado,
+deixou jorrar água e sangue,
+lavando nosso pecado.
+
+Glória a Jesus, que derrama
+graça do seu coração,
+um com o Pai e o Espírito,
+nos tempos sem sucessão.
+
+@secao Salmodia
+
+@antifona 1
+Com eterna caridade nos amou o nosso Deus;
+e exaltado sobre a terra,
+atraiu-nos para o seu compassivo Coração.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Com eterna caridade nos amou o nosso Deus;
+e exaltado sobre a terra,
+atraiu-nos para o seu compassivo Coração.
+
+@antifona 2
+Aprendei de mim, que sou
+de coração humilde e manso,
+e achareis paz e repouso para os vossos corações.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Aprendei de mim, que sou
+de coração humilde e manso,
+e achareis paz e repouso para os vossos corações.
+
+@antifona 3
+Eu sou o Bom Pastor das ovelhas,
+meu rebanho conheço e apascento,
+e por elas eu dou minha vida.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Eu sou o Bom Pastor das ovelhas,
+meu rebanho conheço e apascento,
+e por elas eu dou minha vida.
+
+@secao Leitura breve | Ef 5,25b-27
+
+@texto
+Cristo amou a Igreja e se entregou por ela. Ele quis assim torná-la santa, purificando-a com o banho da água unida à Palavra. Ele quis apresentá-la a si mesmo esplêndida, sem mancha nem ruga, nem defeito algum, mas santa e irrepreensível.
+
+@secao Responsório breve
+
+@responsorio
+R. Jesus Cristo nos amou
+* E em seu sangue nos lavou. R. Jesus Cristo.
+V. Fez-nos reis e sacerdotes para Deus, o nosso Pai. * E em seu sangue.
+Glória ao Pai. R. Jesus Cristo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Vim trazer fogo à terra;
+e o que quero senão que ele seja ateado?
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Vim trazer fogo à terra;
+e o que quero senão que ele seja ateado?
+
+@secao Preces
+
+@preces
+Oremos, irmãos e irmãs, a Jesus Cristo, repouso de nossas almas; e lhe peçamos:
+
+R. **Rei de bondade, tende compaixão de nós!**
+
+Senhor Jesus, de cujo coração aberto pela lança, jorrou sangue e água para que a Igreja, vossa esposa, nascesse de vós,
+– tornai-a santa e imaculada. R.
+
+Senhor Jesus, templo santo de Deus, destruído pelo ser humano e novamente edificado por Deus,
+– fazei da Igreja o tabernáculo do Altíssimo. R.
+
+Senhor Jesus, rei e centro de todos os corações, que amais com amor eterno e atraís compassivo tudo para vós,
+– renovai a vossa aliança com a humanidade inteira. R.
+
+Senhor Jesus, nossa paz e reconciliação, que morrendo na cruz vencestes o ódio e fizestes de todos uma nova criatura,
+– abri-nos o caminho para o Pai. R.
+
+Senhor Jesus, nossa vida e ressurreição, conforto e repouso dos corações atribulados,
+– atraí para vós os pecadores. R.
+
+{(intenções livres)}
+
+Senhor Jesus, obediente até à morte de cruz, por causa do vosso infinito amor para conosco,
+– ressuscitai a todos os que adormeceram na vossa paz. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, alegrando-nos pela solenidade do Coração do vosso Filho, meditemos as maravilhas de seu amor e possamos receber, desta fonte de vida, uma torrente de graças. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

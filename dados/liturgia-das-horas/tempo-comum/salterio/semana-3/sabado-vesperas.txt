@@ -1,0 +1,181 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3sabado_vesperas.htm
+@documento IV DOMINGO
+
+@titulo IV DOMINGO
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, fonte de todas as coisas,
+vós enchestes o mundo de dons
+e, depois de criar o universo,
+concluístes que tudo era bom.
+
+Terminando tão grande trabalho,
+decidistes entrar em repouso,
+ensinando aos que cansam na luta,
+que o descanso é também dom precioso.
+
+Concedei aos mortais que suplicam,
+os seus erros lavarem no pranto
+e andarem nos vossos caminhos,
+descobrindo da vida o encanto.
+
+Deste modo, ao chegar para a terra
+a aflição do temível Juiz,
+possam todos, repletos de paz,
+se alegrar pela vida feliz.
+
+Esse dom concedei-nos, Deus Pai,
+pelo Filho Jesus, Sumo Bem,
+no Espírito Santo Paráclito,
+que reinais para sempre. Amém.
+
+{Outro hino à escolha}
+
+Salve o dia que é glória dos dias,
+feliz dia, de Cristo vitória,
+dia pleno de eterna alegria,
+o primeiro.
+
+Luz divina brilhou para os cegos;
+nela o Cristo triunfa do inferno,
+vence a morte, reconciliando
+terra e céus.
+
+A sentença eterna do Rei
+tudo sob o pecado encerrou,
+para que na fraqueza brilhasse
+maior graça.
+
+O poder e a ciência de Deus
+misturaram rigor e clemência,
+quando o mundo já estava caindo
+nos abismos.
+
+Surge livre do Reino da morte
+quem o gênero humano restaura,
+reconduz em seus ombros a ovelha
+ao redil.
+
+Reine a paz entre os anjos e os homens,
+e no mundo a total plenitude.
+Ao Senhor triunfante convém
+toda a glória.
+
+Mãe Igreja, tua voz faça coro
+à harmonia da pátria celeste.
+Cantem hoje Aleluias de glória
+os fiéis.
+
+Triunfando do império da morte,
+triunfal alegria gozemos.
+Paz na terra e nos céus alegria.
+Assim seja.
+
+@secao Salmodia
+
+@antifona 1
+Rogai que viva em paz Jerusalém.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Rogai que viva em paz Jerusalém.
+
+@antifona 2
+Desde a aurora até à noite
+no Senhor ponho a esperança.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Desde a aurora até à noite
+no Senhor ponho a esperança.
+
+@antifona 3
+Ao nome de Jesus nosso Senhor
+se dobre reverente todo joelho
+seja nos céus, seja na terra ou nos abismos.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Ao nome de Jesus nosso Senhor
+se dobre reverente todo joelho
+seja nos céus, seja na terra ou nos abismos.
+
+@secao Leitura breve | 2Pd 1,19-21
+
+@texto
+Assim se nos tornou ainda mais firme a palavra da profecia, que fazeis bem emter diante dos olhos, como lâmpada que brilha em lugar escuro, até clarear o dia e levantar-se a estrela da manhã em vossos corações. Pois deveis saber, antes de tudo, que nenhuma profecia da Escritura é objeto de interpretação pessoal, visto que jamais uma profecia foi proferida por vontade humana. Mas foi sob o impulso do Espírito Santo que homens falaram da parte de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Do nascer do sol até o seu ocaso,
+* Louvado seja o nome do Senhor! R. Do nascer.
+V. Sua glória vai além dos altos céus.
+* Louvado. Glória ao Pai. R. Do nascer.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Invoquemos a Jesus Cristo, alegria de todos os que nele esperam; e digamos:
+
+R. **Ouvi-nos, Senhor, e atendei-nos!**
+
+Testemunha fiel e primogênito dentre os mortos, que nos purificastes do pecado com o vosso sangue,
+– fazei-nos sempre lembrar as vossas maravilhas. R.
+
+Aqueles que escolhestes como mensageiros do vosso evangelho,
+– tornai-os fiéis e zelosos administradores dos mistérios do reino. R.
+
+Rei da paz, mandai o vosso Espírito sobre aqueles que governam os povos,
+– a fim de que olhem com mais atenção para os pobres e necessitados. R.
+
+Socorrei os que são vítimas da discriminação por causa da raça, cor, condição, língua ou religião,
+– e fazei que sejam reconhecidos os seus direitos e a sua dignidade. R.
+
+{(intenções livres)}
+
+Aos que morreram em vosso amor, tornai participantes da felicidade eterna,
+– juntamente com a Virgem Maria e todos os santos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoaquimesantana_vesperas.htm
+@documento Vésperas - Santos Joaquim e Ana, pais da Bem-aventurada Virgem Maria
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Enquanto uma coroa em tua honra
+celebra o teu louvor festivamente,
+recebe, São Joaquim, pai venerável,
+a voz dos corações em prece ardente.
+
+Dos reis antepassados és linhagem:
+Davi e Abraão, és deles filho.
+Mas é por tua filha, a Soberana
+do mundo, que adquires maior brilho.
+
+Assim, a tua prole abençoada,
+nascida de Sant'Ana em belo dia,
+dos pais, todos os votos realiza
+e traz ao mundo triste a alegria.
+
+Louvor ao Pai do Filho incriado.
+A vós, Filho de Deus, louvor também.
+Igual louvor a vós, Espírito Santo,
+agora e pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@antifona 2
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@antifona 3
+Os santos cantavam um Cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os santos cantavam um Cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@secao Leitura breve | Rm 9,4-5
+
+@texto
+Eles são israelitas. A eles pertencem a filiação adotiva, a glória, as alianças, as leis, o culto, as promessas e também os patriarcas. Deles é que descende, quanto à sua humanidade, Cristo, o qual está acima de todos – Deus bendito para sempre! – Amém!
+
+@secao Responsório breve
+
+@responsorio
+R. Acolhe Israel, seu servidor,
+* Fiel ao seu amor. R. Acolhe.
+V. Como havia prometido a nossos pais. * Fiel.
+Glória ao Pai. R. Acolhe.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+A ilustre linhagem de Jessé
+produziu o rebento mais formoso,
+do qual surgiu a linda flor mais perfumosa.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+A ilustre linhagem de Jessé
+produziu o rebento mais formoso,
+do qual surgiu a linda flor mais perfumosa.
+
+@secao Preces
+
+@preces
+Peçamos a Deus Pai, fonte de toda a santidade, que pela intercessão e exemplo dos santos nos conduza a uma vida mais perfeita; e digamos:
+
+R. **Fazei-nos santos, porque vós sois santo!**
+
+Pai santo, que nos destes a graça de nos chamarmos e sermos realmente vossos filhos,
+– fazei que a santa Igreja proclame as vossas maravilhas por toda a terra. R.
+
+Pai santo, inspirai os vossos servos a viver dignamente, segundo a vossa vontade,
+– e ajudai-nos a dar abundantes frutos de boas obras. R.
+
+Pai santo, que nos reconciliastes convosco por meio de Cristo,
+– conservai-nos na unidade por amor de vosso nome. R.
+
+Pai santo, que nos convidastes para tomar parte no banquete celeste,
+– pela comunhão do pão descido do céu, dai-nos alcançar a perfeição da caridade. R.
+
+{(intenções livres)}
+
+Pai santo, perdoai as faltas de todos os pecadores,
+– e acolhei na luz da vossa face todos os que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor Deus de nossos pais, que concedestes a São Joaquim e Sant'Ana a graça de darem a vida à Mãe de vosso Filho Jesus, fazei que, pela intercessão de ambos, alcancemos a salvação prometida a vosso povo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

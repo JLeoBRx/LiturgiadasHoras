@@ -1,0 +1,169 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santamaria_laudes.htm
+@documento Laudes - Santa Maria, Mãe de Deus
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Eis do Senhor a porta aberta,
+de toda a graça portadora.
+Passou o Rei, e permanece
+fechada, como sempre fora.
+
+Filho do Pai supremo, o Esposo
+e Redentor sai, triunfante,
+do seio virgem de Maria,
+numa corrida de gigante.
+
+Da Mãe sois honra e alegria,
+nossa esperança verdadeira,
+pedra que desce da montanha,
+de graça enchendo a terra inteira.
+
+Exulte toda a criatura,
+porque nos veio o Salvador.
+Para remir os que criara,
+nasceu do mundo o Criador.
+
+Do Pai gerado como Deus,
+louvor a vós, Cristo Jesus,
+a quem, fecunda pelo Espírito,
+a Virgem Mãe tem dado à luz.
+
+@secao Salmodia
+
+@antifona 1
+A raiz de Jessé germinou,
+a estrela de Jacó despontou.
+Da Virgem nasceu o Salvador:
+Ao Senhor nosso Deus, o louvor!
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+A raiz de Jessé germinou,
+a estrela de Jacó despontou.
+Da Virgem nasceu o Salvador:
+Ao Senhor nosso Deus, o louvor!
+
+@antifona 2
+Maria deu à luz o Salvador
+que João, reconhecendo, exclamou:
+Eis aqui o Cordeiro de Deus
+que tira o pecado do mundo. Aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Maria deu à luz o Salvador
+que João, reconhecendo, exclamou:
+Eis aqui o Cordeiro de Deus
+que tira o pecado do mundo. Aleluia.
+
+@antifona 3
+A mulher deu à luz o Rei eterno:
+tendo ela a alegria de ser Mãe,
+também teve a honra de ser Virgem.
+Ninguém antes tinha visto coisa igual,
+nem depois, semelhante, alguém verá. Aleluia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A mulher deu à luz o Rei eterno:
+tendo ela a alegria de ser Mãe,
+também teve a honra de ser Virgem.
+Ninguém antes tinha visto coisa igual,
+nem depois, semelhante, alguém verá. Aleluia.
+
+@secao Leitura breve | Mq 5,2-3a.4a
+
+@texto
+Deus deixará seu povo ao abandono, até ao tempo em que uma mãe der à luz; e o resto de seus irmãos se voltará para os filhos de Israel. Ele não recuará, apascentará com a força do Senhor e com a majestade do nome do Senhor seu Deus; e ele será a paz.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Mistério admirável é hoje anunciado:
+Eis que tudo se renova:
+Fez-se homem o próprio Deus;
+conservando a divindade, assumiu a humanidade.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Mistério admirável é hoje anunciado:
+Eis que tudo se renova:
+Fez-se homem o próprio Deus;
+conservando a divindade, assumiu a humanidade.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, que nasceu da Virgem Maria pelo poder do Espírito Santo; e peçamos:
+
+R. **Filho da Virgem Maria, tende piedade de nós!**
+
+Cristo, nascido da Virgem Maria, criança admirável e príncipe da paz,
+– dai a paz ao mundo inteiro. R.
+
+Nosso Rei e nosso Deus, que pelo vosso nascimento elevastes a natureza humana,
+– dai-nos a graça de vos honrar todos os dias de nossa vida pela fé e pelas obras. R.
+
+Vós, que vos tornastes semelhante a nós,
+– concedei que nos assemelhemos a vós. R.
+
+Vós, que vos tornastes cidadão do nosso mundo,
+– tornai-nos cidadãos do vosso reino celeste. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela virgindade fecunda de Maria destes à humanidade a salvação eterna, dai-nos contar sempre com a sua intercessão, pois ela nos trouxe o autor da vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

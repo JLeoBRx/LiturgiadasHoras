@@ -1,0 +1,70 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1segunda_terca.htm
+@documento Hora Média (Terça) - I Segunda-Feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@salmo salmos/salmo-007-ii
+
+@gloria
+
+@antifona
+Anunciaram os profetas,
+que, da Virgem Maria, nascerá o Salvador.
+
+@secao Leitura breve | Is 10,20-21
+
+@texto
+Acontecerá, naquele dia, que os remanescentes dos filhos de Israel e os fugitivos da casa de Jacó, em verdade, dependerão do Senhor, o Santo de Israel. Um resto voltará, o resto de Jacó, para o Deus poderoso.
+
+@texto
+V. As nações respeitarão o vosso nome,
+R. E os reis de toda a terra, a vossa glória.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, dai-nos esperar solícitos a vinda do Cristo, vosso Filho. Que ele, ao chegar, nos encontre vigilantes na oração e proclamando o seu louvor. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

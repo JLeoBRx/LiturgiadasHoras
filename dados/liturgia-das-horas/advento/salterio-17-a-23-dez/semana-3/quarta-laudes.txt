@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/entre17e23/3quarta_laudes.htm
+@documento Laudes - III Quarta-feira do Advento (entre 17 e 23 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+De Sião vem o Deus onipotente,
+vem salvar o seu povo e libertá-lo.
+
+@salmo salmos/salmo-085
+
+@gloria
+
+@antifona
+De Sião vem o Deus onipotente,
+vem salvar o seu povo e libertá-lo.
+
+@antifona 2
+Por ti, Sião, não haverei de me calar,
+nem por ti, Jerusalém, terei sossego,
+até que brilhe tua justiça como a aurora
+
+@salmo canticos/is-33-13-16
+
+@gloria
+
+@antifona
+Por ti, Sião, não haverei de me calar,
+nem por ti, Jerusalém, terei sossego,
+até que brilhe tua justiça como a aurora
+
+@antifona 3
+O Espírito do Senhor repousa sobre mim
+e me envia a anunciar aos pobres o Evangelho.
+
+@salmo salmos/salmo-097
+
+@gloria
+
+@antifona
+O Espírito do Senhor repousa sobre mim
+e me envia a anunciar aos pobres o Evangelho.

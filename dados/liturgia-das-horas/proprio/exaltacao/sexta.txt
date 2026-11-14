@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_sexta.htm
+@documento Hora Média - Exaltação da Santa Cruz
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Salvai-nos, Salvador do mundo inteiro,
+que nos remistes pelo Sangue e pela Cruz!
+Ajudai-nos, vos pedimos, nosso Deus!
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@antifona
+Que se prostrem e adorem o Senhor,
+todos os povos e as famílias das nações!
+
+@secao Leitura breve | Ef 1,7-8a
+
+@texto
+Em Cristo, pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça, que Deus derramou profusamente sobre nós.
+
+@texto
+V. Toda a terra vos adore com respeito,
+R. E proclame o louvor de vosso nome.
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

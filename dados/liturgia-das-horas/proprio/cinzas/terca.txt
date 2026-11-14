@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/cinzas_terca.htm
+@documento Hora Média - Cinzas, início da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Na fé em Deus, por quem vivemos,
+na esperança do que cremos,
+no dom da santa caridade,
+de Cristo as glórias entoemos.
+
+Ao sacrifício da Paixão
+na hora terça conduzido,
+Jesus levando a cruz às costas,
+arranca às trevas o perdido.
+
+Vós nos livrastes do decreto
+duma total condenação;
+do mundo mau livrai o povo,
+fruto da vossa redenção.
+
+A Cristo, ao Pai e ao Santo Espírito,
+Trindade Santa, Eterno Bem,
+nosso louvor e ação de graças
+hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@salmo salmos/salmo-118-145-152-xix-coph
+
+@gloria
+
+@salmo salmos/salmo-093-i
+
+@gloria
+
+@salmo salmos/salmo-093-ii
+
+@gloria
+
+@antifona
+Chegou o tempo de penitência,
+de conversão e de salvação.
+
+@secao Leitura breve | Ez 18,30b-32
+
+@texto
+Arrependei-vos, convertei-vos de todas as vossas transgressões, a fim de não terdes ocasião de cair em pecado. Afastai-vos de todos os pecados que praticais. Criai para vós um coração novo e um espírito novo. Por que haveis de morrer, o casa de Israel? Pois não sinto prazer na morte de ninguém - oráculo do Senhor Deus. Convertei-vos e vivereis!
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Dai-me de novo um espírito decidido.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, iniciar com este dia de jejum o tempo da Quaresma, para que a penitência nos fortaleça no combate contra o espírito do mal. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

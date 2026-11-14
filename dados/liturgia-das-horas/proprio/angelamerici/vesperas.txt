@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/angelamerici_vesperas.htm
+@documento Vésperas - Santa Ângela Mérici, virgem
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Jesus, coroa das virgens,
+por Virgem Mãe concebido,
+perdoai os nossos pecados,
+atendei nosso pedido!
+
+Por entre as virgens passando,
+entre alvos lírios pousais,
+e a todas elas saudando
+o prêmio eterno entregais.
+
+Por toda a parte onde fordes,
+as virgens seguem cantando,
+e os mais suaves louvores
+vão pelo céu ressoando.
+
+Nós vos pedimos a graça
+de um coração sem pecado,
+qual diamante sem jaça,
+por vosso amor transformado.
+
+Ao Pai e ao Espírito unido,
+vos adoramos, ó Filho:
+por Virgem Mãe concebido,
+das virgens todas auxílio.
+
+@secao Salmodia
+
+@antifona 1
+Consagrei-me totalmente
+a vós, Senhor, divino Esposo!
+Agora vou ao vosso encontro,
+tendo acesa aminha lâmpada.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Consagrei-me totalmente
+a vós, Senhor, divino Esposo!
+Agora vou ao vosso encontro,
+tendo acesa aminha lâmpada.
+
+@antifona 2
+Felizes os puros em seu coração,
+porque eles verão o seu Deus face a face.
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Felizes os puros em seu coração,
+porque eles verão o seu Deus face a face.
+
+@antifona 3
+A minha firmeza é a força de Cristo;
+o meu fundamento é a Pedra angular.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+A minha firmeza é a força de Cristo;
+o meu fundamento é a Pedra angular.
+
+@secao Leitura breve | 1Cor 7,32b.34a
+
+@texto
+O homem não casado é solícito pelas coisas do Senhor e procura agradar ao Senhor. Do mesmo modo, a mulher não casada e a jovem solteira têm zelo pelas coisas do Senhor e procuram ser santas de corpo e espírito.
+
+@secao Responsório breve
+
+@responsorio
+R. As virgens amigas ao Rei se dirigem,
+* Entre cantos de festa e com grande alegria. R. As virgens.
+V. Ingressam, então, no palácio do Rei. * Entre cantos.
+Glória ao Pai. R. As virgens.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Oh vinde, esposa de Cristo, recebei a coroa da glória
+que o Senhor preparou para sempre.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Oh vinde, esposa de Cristo, recebei a coroa da glória
+que o Senhor preparou para sempre.
+
+@secao Preces
+
+@preces
+Com alegria, celebremos a Cristo, que louvou quem guarda a virgindade por causa do reino dos céus; e lhe peçamos:
+
+R. **Jesus, rei das virgens, ouvi-nos!**
+
+Cristo, que chamastes à vossa presença de único Esposo a Igreja como virgem casta,
+– tornai-a santa e imaculada. R.
+
+Cristo, ao vosso encontro as santas virgens saíram com lâmpadas acesas;
+– não permitais que venha a faltar o óleo da fidelidade nas lâmpadas de vossas servas consagradas. R.
+
+Senhor, em vós a Igreja virgem guardou sempre uma fé íntegra e pura;
+– concedei a todos os cristãos a integridade e a pureza da fé. R.
+
+Dai ao vosso povo regozijar-se com a festa de Santa Ângela de Mérici,
+– que ele possa alegrar-se com a sua intercessão. R.
+
+{(intenções livres)}
+
+Recebestes as santas virgens para a ceia de vossas núpcias eternas;
+– admiti com bondade no banquete celeste os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que a santa virgem Ângela Mérici nos recomende ao vosso amor de Pai, para que, seguindo seus exemplos de caridade e prudência, sejamos fiéis aos vossos ensinamentos, proclamando-os em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

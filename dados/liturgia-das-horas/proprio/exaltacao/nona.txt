@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/exaltacao_nona.htm
+@documento Hora Média - Exaltação da Santa Cruz
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Por vossa Cruz, salvai-nos, Cristo Redentor,
+pois morrendo destruístes nossa morte,
+e ressurgindo restaurastes nossa vida!
+
+@salmo salmos/salmo-021-i
+
+@gloria
+
+@antifona
+Por vossa Cruz, salvai-nos, Cristo Redentor,
+pois morrendo destruístes nossa morte,
+e ressurgindo restaurastes nossa vida!
+
+@secao Leitura breve | 1Pd 1,18-19
+
+@texto
+Fostes resgatados da vida fútil herdada de vossos pais, não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito.
+
+@texto
+V. O sinal da santa Cruz estará no céu,
+R. Quando o Senhor Jesus vier para julgar.
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós, que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,241 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/assuncao.htm
+@documento Ofício das Leituras - Assunção Da Bem-Aventurada Virgem Maria Solenidade
+
+@celebracao
+ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Com uma graça toda sua,
+mais brilhante do que a aurora,
+do que o sol e do que a lua,
+sobe ao céu Nossa Senhora.
+
+Do seu trono ofusca o brilho,
+ao vir pelo céu afora,
+exaltada pelo Filho,
+que é grande antes da aurora.
+
+Mais que os santos todos brilha,
+mais que os anjos irradia:
+se do Pai foi sempre Filha,
+Mãe de Deus tornou-se um dia.
+
+Ela em si O trouxera outrora,
+como sol em treva imerso,
+em Deus Pai contempla-O agora,
+a reinar sobre o universo.
+
+Mãe de Deus ao céu erguida,
+seja esta a prece tua:
+deste a Deus a nossa vida,
+nos concede agora a sua.
+
+Louvor seja ao Pai e ao Filho
+e ao Espírito vitória,
+pois te alçaram deste exílio
+ao pináculo da glória.
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Virgem Rainha,
+sois digna de eterno esplendor!
+Subi ao palácio de glória
+do Cristo Senhor, Rei eterno!
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Levantai-vos, ó Virgem Rainha,
+sois digna de eterno esplendor!
+Subi ao palácio de glória
+do Cristo Senhor, Rei eterno!
+
+@antifona 2
+Desde sempre o Senhor a escolheu
+e a fez habitar em sua casa.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+Desde sempre o Senhor a escolheu
+e a fez habitar em sua casa.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@texto
+V. Sois feliz, porque crestes em Deus, ó Maria,
+
+R. Pois em vós se cumpriu o que ele predisse.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {1,16–2,10}
+
+@tema
+Deus nos fez tomar lugar nos céus junto a Cristo Jesus
+
+@texto
+Irmãos: [1,16] Não cesso de dar graças a vosso respeito, quando me lembro de vós em minhas orações. [17] Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. [18] Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos, [19] e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente. [20] Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus, [21] bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa nomear não somente neste mundo, mas ainda no mundo futuro. [22] Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja, [23] que é o seu corpo, a plenitude daquele que possui a plenitude universal. [2,1] Vós estáveis mortos por causa de vossas faltas e pecados, [2] nos quais vivíeis outrora, quando seguíeis o deus deste mundo, o príncipe que reina entre o céu e a terra, o espírito que age agora entre os rebeldes. [3] Nós éramos deste número, todos nós. Outrora nos abandonávamos às paixões da carne; satisfazíamos os seus desejos, seguíamos os seus caprichos e éramos por natureza, como os demais, filhos da ira. [4] Mas Deus é rico em misericórdia. Por causa do grande amor com que nos amou, [5] quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos! [6] Deus nos ressuscitou com Cristo e nos fez sentar nos céus em virtude de nossa união com Jesus Cristo. [7] Assim, pela bondade, que nos demonstrou em Jesus Cristo, Deus quis mostrar, através dos séculos futuros, a incomparável riqueza da sua graça. [8] Com efeito, é pela graça que sois salvos, mediante a fé. E isso não vem de vós; é dom de Deus! [9] Não vem das obras, para que ninguém se orgulhe. [10] Pois é ele quem nos fez; nós fomos criados em Jesus Cristo para as obras boas, que Deus preparou de antemão para que nós as praticássemos.
+
+@secao Responsório
+
+@responsorio
+R. Como é bela e formosa a Virgem Maria,
+que passou deste mundo ao Cristo Senhor.
+* Em meio aos coros dos santos refulge,
+como o sol entre as estrelas.
+V. Os anjos se alegram, os arcanjos exultam
+ante a Virgem Maria. * Em meio.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição Apostólica Munificentíssimus Deus, do papa Pio XII
+{(Séc. XX)} {(AAS 42 [1950],s760-762.767-769)}
+
+@tema
+Teu corpo é santo e cheio de glória
+
+@texto
+Nas homilias e orações para o povo na festa da Assunção da Mãe de Deus, santos padres e grandes doutores dela falaram como de uma festa já conhecida e aceita. Com a maior clareza a expuseram; apresentaram seu sentido e conteúdo com profundas razões, colocando especialmente em plena luz o que esta festa tem em vista: não apenas que o corpo morto da Santa Virgem Maria não sofrera corrupção, mas ainda o triunfo que ela alcançou sobre a morte e a sua celeste glorificação, a exemplo de seu Unigênito, Jesus Cristo. São João Damasceno, entre todos o mais notável pregoeiro desta verdade da tradição, comparando a Assunção em corpo e alma da Mãe de Deus com seus outros dons e privilégios, declarou com vigorosa eloquência: “Convinha que aquela que guardara ilesa a virgindade no parto, conservasse seu corpo, mesmo depois da morte, imune de toda corrupção. Convinha que aquela que trouxera no seio o Criador como criancinha fosse morar nos tabernáculos divinos. Convinha que a esposa, desposada pelo Pai, habitasse na câmara nupcial dos céus. Convinha que, tendo demorado o olhar em seu Filho na cruz e recebido no peito a espada da dor, ausente no parto, o contemplasse assentado junto do Pai. Convinha que a Mãe de Deus possuísse tudo o que pertence ao Filho e fosse venerada por toda criatura como mãe e serva de Deus”. São Germano de Constantinopla julgava que o fato de o corpo da Virgem Mãe de Deus estar incorrupto e ser levado ao céu não apenas concordava com sua maternidade divina, mas ainda conforme a peculiar santidade deste corpo virginal: “_Tu_, está escrito, _surges_ _com beleza_ (cf. Sl 44,14); e teu corpo virginal é todo santo, todo casto, todo morada de Deus; de tal forma que ele está para sempre bem longe de desfazer-se em pó; imutado, sim, por ser humano, para a excelsa vida da incorruptibilidade. Está vivo e cheio de glória, incólume e participante da vida perfeita”. Outro antiquíssimo escritor assevera: “Portanto, como gloriosa mãe de Cristo, nosso Deus salvador, doador da vida e da imortalidade, foi por ele vivificada para sempre em seu corpo na incorruptibilidade; ele a ergueu do sepulcro e tomou para si, como só ele sabe”. Todos estes argumentos e reflexões dos santos padres apoiam-se como em seu maior fundamento nas Sagradas Escrituras. Estas como que põem diante dos olhos a santa Mãe de Deus profundamente unida a seu divino Filho, participando constantemente de seu destino. De modo especial é de lembrar que, desde o segundo século, os santos padres apresentam a Virgem Maria qual nova Eva para o novo Adão: intimamente unida a ele – embora com submissão – na mesma luta contra o inimigo infernal (como tinha sido previamente anunciado no proto-evangelho [cf. Gn 3,15]), luta que iria terminar com a completa vitória sobre o pecado e a morte, coisas que sempre estão juntas nos escritos do Apóstolo das gentes (cf. Rm 5 e 6; 1Cor 15,21-26.54-57). Por este motivo, assim como a gloriosa ressurreição de Cristo era parte essencial e o último sinal desta vitória, assim também devia ser incluída a luta da santa Virgem, a mesma que a de seu Filho, pela glorificação do corpo virginal. O mesmo Apóstolo dissera: _Quando o que é mortal se revestir de imortalidade, então se cumprirá o que foi escrito: A morte foi tragada pela vitória_ (1Cor 15,54; cf. Os 13,14). Por conseguinte, desde toda a eternidade unida misteriosamente a Jesus Cristo, pelo mesmo desígnio de predestinação, a augusta Mãe de Deus, imaculada na concepção, virgem inteiramente intacta na divina maternidade, generosa companheira do divino Redentor, que obteve pleno triunfo sobre o pecado e suas consequências, ela alcançou ser guardada imune da corrupção do sepulcro, como suprema coroa dos seus privilégios. Semelhantemente a seu Filho, uma vez vencida a morte, foi levada em corpo e alma à glória celeste, onde, rainha, refulge à direita do seu Filho, o imortal rei dos séculos.
+
+@secao Responsório
+
+@responsorio
+R. Eis o dia glorioso, em que a Virgem, Mãe de Deus,
+aos céus foi elevada; louvando-a, proclamemos:
+* Sois bendita entre as mulheres
+e bendito é o fruto, que nasceu de vosso ventre.
+V. Sois feliz, Virgem Maria; e mereceis todo louvor;
+pois, de vós se levantou o Sol brilhante da justiça,
+que é Cristo, nosso Deus. * Sois bendita.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que elevastes à glória do céu em corpo e alma a imaculada Virgem Maria, Mãe do vosso Filho, dai-nos viver atentos às coisas do alto a fim de participarmos da sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+{Ou}
+{(oração do dia na Missa da Vigília, conforme a edição típica)}
+Ó Deus, considerando a humildade da Virgem Maria, vós lhe concedestes a graça e a honra de ser a Mãe do vosso Filho unigênito, e a coroastes hoje de glória e esplendor; concedei, por suas preces, que, salvos pelo mistério da redenção, sejamos elevados à vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

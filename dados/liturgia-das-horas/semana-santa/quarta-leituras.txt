@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/quartafeirasanta.htm
+@documento Ofício das Leituras - Quarta-Feira Santa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@salmo salmos/salmo-038-i
+
+@gloria
+
+@antifona
+Nós sofremos no mais íntimo de nós,
+esperando a redenção de nosso corpo.
+
+@antifona 2
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@salmo salmos/salmo-038-ii
+
+@gloria
+
+@antifona
+Ó Senhor, prestai ouvidos à minha prece,
+não fiqueis surdo aos lamentos do meu pranto!
+
+@antifona 3
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@salmo salmos/salmo-051
+
+@gloria
+
+@antifona
+Eu confio na clemência do Senhor
+agora e para sempre.
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {12,14-29}
+
+@tema
+Aproximamo-nos do monte do Deus vivo
+
+@texto
+Irmãos: [14] Procurai a paz com todos,e a santificação, sem a qual ninguém verá o Senhor; [15] cuidai para que ninguém abandone a graça de Deus. Que nenhuma raiz venenosa cresça no meio de vós, tumultuando e contaminando a comunidade. [16] Não haja nenhum imoral ou profanador, como Esaú, que, por um prato de comida, vendeu seus direitos de filho primogênito. [17] Bem sabeis que a seguir foi rejeitado, quando quis obter a bênção como herança; não encontrou modo para seu pai mudar a decisão, embora lhe pedisse com lágrimas. [18] Vós não vos aproximastes de uma realidade palpável: “fogo ardente e escuridão, trevas e tempestade, [19] som da trombeta e voz poderosa”, que os ouvintes suplicaram não continuasse, [20] pois não suportavam o que fora ordenado: “Até um animal será apedrejado, se tocar a montanha”. [21] Eles ficaram tão espantados com esse espetáculo, que Moisés disse: “Estou apavorado e com medo”. [22] Mas vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste; da reunião festiva de milhões de anjos; [23] da assembleia dos primogênitos, cujos nomes estão escritos nos céus; de Deus, o Juiz de todos; dos espíritos dos justos, que chegaram à perfeição; [24] de Jesus, mediador da nova aliança, e da aspersão do sangue mais eloquente que o de Abel. [25] Cuidado! Não deixeis de escutar aquele que vos fala. Os que recusaram escutar aquele que os advertia na terra, não escaparam do castigo. Menos ainda escaparemos nós do castigo, se nos afastarmos de quem nos fala do alto do céu. [26] Aquele, cuja voz aquele dia abalou a terra, agora diz: “Mais uma vez abalarei não somente a terra, mas também o céu”. [27] A expressão “mais uma vez” anuncia o desaparecimento de tudo aquilo que participa da instabilidade do mundo criado, para que permaneça só o que é inabalável. [28] Já que recebemos um reino inabalável, conservemos bem essa graça. Por meio dela, sirvamos a Deus de modo a agradar-lhe, isto é, com respeito e temor. [29] Pois o nosso Deus é um fogo devorador.
+
+@secao Responsório | Dt 5,23.24a; Cf. Hb 12,22a
+
+@responsorio
+R. Depois que percebestes a voz vinda das trevas
+e o Sinai ardendo em fogo, a mim chegastes e dissestes:
+* O Senhor, o nosso Deus, nos mostrou a sua glória, nos mostrou sua grandeza.
+V. Aproximastes-vos, irmãos, da cidade do Deus vivo, da Sião celestial. * O Senhor.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre o Evangelho de São João, de Santo Agostinho, bispo
+{(Séc.V)} {(Tract. 84,1-2:CCL36,536-538)}
+
+@tema
+A plenitude do amor
+
+@texto
+Irmãos caríssimos, o Senhor definiu a plenitude do amor com que devemos amar-nos uns aos outros, quando disse: _Ninguém tem amor maior do que aquele que dá sua vida pelos amigos_ (Jo 15,13). Daqui se conclui o que o mesmo evangelista João diz em sua epístola: _Jesus deu a sua vida por nós. Portanto, também nós devemos dar a vida pelos irmãos_ (1Jo 3,16), amando-nos verdadeiramente uns aos outros, como ele nos amou até dar a sua vida por nós. É certamente a mesma coisa que se lê nos Provérbios de Salomão_: Quando te sentares à mesa de um poderoso, olha com atenção o que te é oferecido; e estende a tua mão, sabendo que também deves preparar coisas semelhantes_ (cf. Pr 23,1-2 Vulg.). Ora, a mesa do poderoso é a mesa em que se recebe o corpo e o sangue daquele que deu a sua vida por nós. Sentar-se à mesa significa aproximar-se com humildade. Olhar com atenção o que é oferecido, é tomar consciência da grandeza desta graça. E estender a mão sabendo que também se devem preparar coisas semelhantes, significa o que já disse antes: assim como Cristo deu a sua vida por nós, também devemos dar a nossa vida pelos irmãos. É o que diz o apóstolo Pedro: _Cristo sofreu por nós, deixando-nos um exemplo, a fim de que sigamos os seus passos_ (cf. 1Pd 2,21). Isto significa preparar coisas semelhantes. Foi o que fizeram, com ardente amor, os santos mártires. Se não quisermos celebrar inutilmente as suas memórias e nos sentarmos sem proveito à mesa do Senhor, no banquete onde eles se saciaram, é preciso que, como eles, preparemos coisas semelhantes. Por isso, quando nos aproximamos da mesa do Senhor, não recordamos os mártires do mesmo modo como aos outros que dormem o sono da paz, ou seja, não rezamos por eles, mas antes pedimos para que rezem por nós, a fim de seguirmos os seus passos. Pois já alcançaram a plenitude daquele amor acima do qual não pode haver outro maior, conforme disse o Senhor. Eles apresentaram a seus irmãos o mesmo que por sua vez receberam da mesa do Senhor. Não queremos dizer com isso que possamos nos igualar a Cristo Senhor, mesmo que, por sua causa, soframos o martírio até o derramamento de sangue. Ele teve o poder de dar a sua vida e depois retomá-la; nós, pelo contrário, não vivemos quanto queremos, e morremos mesmo contra a nossa vontade. Ele, morrendo, matou em si a morte; nós, por sua morte, somos libertados da morte. A sua carne não sofreu a corrupção; a nossa, só depois de passar pela corrupção, será por ele revestida de incorruptibilidade, no fim do mundo. Ele não precisou de nós para nos salvar; entretanto, sem ele nós não podemos fazer nada. Ele se apresentou a nós como a videira para os ramos; nós não podemos ter a vida se nos separarmos dele. Finalmente, ainda que os irmãos morram pelos irmãos, nenhum mártir derramou o seu sangue pela remissão dos pecados de seus irmãos, como ele fez por nós. Isto, porém, não para que o imitássemos, mas como um motivo para agradecermos. Portanto, na medida em que os mártires derramaram seu sangue pelos irmãos, prepararam o mesmo que tinham recebido da mesa do Senhor. Amemo-nos também a nós uns aos outros, como Cristo nos amou e se entregou por nós.
+
+@secao Responsório | 1Jo 4,9.11.10b
+
+@responsorio
+R. Foi nisto que a nós se mostrou
+o amor que Deus Pai tem por nós: enviou-nos seu Filho Unigênito para que nós vivamos por ele.
+* Se Deus nos amou deste modo, também nós nos devemos amar.
+V. Deus nos amou, por primeiro, e enviou-nos seu Filho Unigênito, como vítima por nossos pecados. * Se Deus.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes vosso Filho padecer o suplício da cruz para arrancar-nos à escravidão do pecado, concedei aos vossos servos e servas, a graça da ressurreição. Por nosso Senhor Jesus Cristo, voso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

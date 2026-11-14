@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/19segundaTC.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Oseias {14,2-10}
+
+@tema
+Convite à conversão. Promessa de restauração
+
+@texto
+Assim fala o Senhor: [2] Volta, Israel, para o Senhor, teu Deus, porque estavas caído em teu pecado. [3] Vós todos, encontrai palavras e voltai para o Senhor; dizei-lhe: "Livra-nos de todo o mal e aceita este bem que oferecemos; o fruto de nossos lábios. [4] A Assíria não nos salvará; não queremos montar nossos cavalos, não chamaremos mais "Deuses nossos" a produtos de nossas mãos; em ti encontrará o órfão misericórdia.
+
+@texto
+[5] "Hei de curar sua perversidade e me será fácil amá-los, deles afastou-se a minha cólera. [6] Serei como orvalho para Israel; ele florescerá como o lírio e lançará raízes como plantas do Líbano. [7] Seus ramos hão de estender-se; será seu esplendor como o da oliveira, e seu perfume como o do Líbano. [8] Voltarão a sentar-se à minha sombra e a cultivar o trigo, e florescerão como a videira, cuja fama se iguala à do vinho do Líbano. [9] Que tem ainda Efraim a ver com ídolos? Sou eu que o atendo e que olho por ele. Sou como o cipreste sempre verde: de mim procede o teu fruto. [10] Compreenda estas palavras o homem sábio, reflita sobre elas o bom entendedor! São retos os caminhos do Senhor e, por eles, andarão os justos, enquanto os maus ali tropeçam e caem".
+
+@secao Responsório | Os 14,5; Jl 4,21
+
+@responsorio
+R. Curarei a sua infidelidade
+e de todo o coração amá-los-ei,
+* Porque deles se afastou a minha ira.
+V. O sangue eu irei purificar,
+de quem ainda não foi purificado,
+pois é em Sião que o Senhor habitará. * Porque deles.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre a Encarnação do Senhor, de Teodoreto de Ciro, bispo
+{(Séc. V)} {(Nn. 26-27: PG 75,1466-1467)}
+
+@tema
+Curarei os seus tormentos
+
+@texto
+Com liberdade, vai Jesus ao encontro dos sofrimentos preditos a seu respeito. Por várias vezes os prenunciou aos discípulos, tendo mesmo repreendido a Pedro que repelia o anúncio da paixão, e declarou que por eles se daria a salvação do mundo. Por isso apresentou-se aos que vinham buscá-lo, dizendo: _Sou eu a quem procurais_ (cf. Jo 18,5). Acusado, não respondeu. Podendo esconder-se, não o quis, embora por mais de uma vez se tenha furtado às ciladas dos perseguidores.
+
+@texto
+Chora sobre Jerusalém que pela incredulidade atraía para si a ruína e prediz a suprema destruição do templo outrora famoso. Com toda a paciência suporta ser batido na cabeça por homem duplamente escravo. Esbofeteado, cuspido, injuriado, atormentado, flagelado e por fim crucificado e dado por companheiro de suplícios a dois ladrões, contado entre os homicidas e celerados. Bebe o vinagre e o fel produzidos pela má videira, coroado de espinhos em lugar de louros e cachos de uva. Escarnecido com a púrpura, batido com a cana, ferido o lado pela lança e enfim levado ao sepulcro.
+
+@texto
+Tudo isto sofreu enquanto operava nossa salvação. Pois àqueles que se haviam escravizado ao pecado eram devidos os castigos do pecado. Ele, isento de todo pecado, tendo cumprido toda a justiça, suportou a pena dos pecadores, destruindo por sua cruz o antigo decreto de maldição. _Cristo_, assim diz Paulo, _nos remiu da maldição da lei, feito maldição por nós; porque está escrito: Maldito todo aquele que pende do lenho_ (Gl 3,13; cf. Dt 21,23). Com a coroa de espinhos põe fim ao castigo de Adão. Pois, após o pecado, este ouvira: _Maldita a terra em teus trabalhos; germinarão para ti espinhos e abrolhos_ (cf. Gn 3,17-18).
+
+@texto
+Com o fel bebeu a amargura e a dor da vida humana passível e mortal. Pelo vinagre assumiu em si a mudança do ser humano para o pior e concedeu a volta ao melhor. A púrpura significava o reino; a cana, o frágil poder do diabo. A bofetada publicava nossa liberdade, tolerando as injúrias, flagelos e chagas a nós devidas.
+
+@texto
+O lado aberto, à semelhança de Adão, deixa sair não a mulher que, por seu erro, gerou a morte, mas a fonte de vida que com dupla torrente vivifica o mundo. Uma, no batistério, nos renova e cobre com a veste imortal; outra, à mesa divina, alimenta os renascidos como leite aos pequeninos.
+
+@secao Responsório | Is 53,5; 1Pd 2,24
+
+@responsorio
+R. Foi ferido por nossos pecados,
+esmagado por nossas maldades;
+sobre ele está o preço da paz.
+* Por suas chagas nós fomos curados.
+V. Carregou sobre si nossas culpas
+em seu corpo no lenho da cruz,
+para que mortos aos nossos pecados,
+na justiça de Deus nós vivamos. * Por suas chagas.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, a quem ousamos chamar de Pai, dai-nos cada vez mais um coração de filhos, para alcançarmos um dia a herança prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

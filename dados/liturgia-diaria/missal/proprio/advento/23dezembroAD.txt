@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/advento/23dezembroAD.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Is 9,6; Sl 71,17
+@texto
+Nascerá para nós um pequenino:
+ele será chamado Deus Forte;
+nele serão abençoados
+todos os povos da terra.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+ao vermos aproximar-se
+o nascimento do vosso Filho segundo a carne,
+nós, vossos indignos servos, pedimos
+que se compadeça de nós o vosso Verbo,
+nosso Senhor Jesus Cristo,
+que se dignou encarnar-se no seio da Virgem Maria
+e habitar entre nós.
+Ele, que é Deus, e convosco vive e reina,
+na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Esta oblação, Senhor,
+pela qual nos é dada a plenitude do culto divino,
+nos reconcilie perfeitamente convosco,
+para que possamos celebrar de coração purificado
+o nascimento do nosso Redentor.
+Que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Ap 3,20
+@texto
+Eis que estou à porta e bato;
+se alguém ouvir minha voz e abrir a porta,
+eu entrarei na sua casa e tomaremos a refeição,
+eu com ele e ele comigo.
+
+@secao Depois da comunhão
+@texto
+Concedei, Senhor, perdão e paz
+aos que saciastes com os dons celestes,
+para que possamos, com lâmpadas acesas,
+ir ao encontro do vosso amado Filho que se aproxima.
+Ele, que vive e reina pelos séculos dos séculos.

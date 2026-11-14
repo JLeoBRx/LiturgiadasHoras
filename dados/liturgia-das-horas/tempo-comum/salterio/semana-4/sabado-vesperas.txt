@@ -1,0 +1,169 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4sabado_vesperas.htm
+@documento I DOMINGO
+
+@titulo I DOMINGO
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Deus, autor de tudo,
+que a terra e o céu guiais,
+de luz vestis o dia,
+à noite o sono dais.
+
+O corpo, no repouso,
+prepara-se a lutar.
+As mentes já se acalmam,
+se faz sereno o olhar.
+
+Senhor, vos damos graças
+no ocaso deste dia.
+A noite vem caindo,
+mas vosso amor nos guia.
+
+Sonora, a voz vos louve,
+vos cante o coração.
+O amor vos renda amor,
+e a mente, adoração.
+
+E assim, chegando a noite,
+com grande escuridão,
+a fé, em meio às trevas,
+espalhe o seu clarão.
+
+Ouvi-nos, Pai piedoso,
+e Filho, Sumo Bem,
+com vosso Santo Espírito
+reinando sempre. Amém.
+
+{Outro hino à escolha}
+
+Santo entre todos, já fulgura,
+o dia oitavo, resplendente,
+que consagrais em vós, ó Cristo,
+vós, o primeiro dos viventes.
+
+Às nossas almas, por primeiro,
+vinde trazer ressurreição,
+e da segunda morte livres,
+os nossos corpos surgirão.
+
+Ao vosso encontro, sobre as nuvens,
+em breve, ó Cristo, nós iremos.
+Ressurreição e vida nova,
+convosco sempre viveremos.
+
+Dai-nos, à luz da vossa face,
+participar da divindade,
+vos conhecendo como sois,
+Luz, verdadeira suavidade.
+
+Por vós entregues a Deus Pai,
+que seu Espírito nos dá,
+à perfeição da caridade
+o Trino Deus nos levará.
+
+@secao Salmodia
+
+@antifona 1
+Minha oração suba a vós como incenso, Senhor!
+
+@salmo salmos/salmo-140-1-9
+
+@gloria
+
+@antifona
+Minha oração suba a vós como incenso, Senhor!
+
+@antifona 2
+Sois vós meu abrigo, Senhor,
+minha herança na terra dos vivos.
+
+@salmo salmos/salmo-141
+
+@gloria
+
+@antifona
+Sois vós meu abrigo, Senhor,
+minha herança na terra dos vivos.
+
+@antifona 3
+O Senhor Jesus Cristo se humilhou;
+por isso Deus o exaltou eternamente.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+O Senhor Jesus Cristo se humilhou;
+por isso Deus o exaltou eternamente.
+
+@secao Leitura breve | Rm 11,33-36
+
+@texto
+Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Como são inescrutáveis os seus juízos e impenetráveis os seus caminhos! De fato, quem conheceu o pensamento do Senhor? Ou quem foi seu conselheiro? Ou quem se antecipou em dar-lhe alguma coisa, de maneira a ter direito a uma retribuição? Na verdade, tudo é dele, por ele, e para ele. A ele, a glória para sempre. Amém!
+
+@secao Responsório breve
+
+@responsorio
+R. Quão numerosas, ó Senhor, são vossas obras
+* E que sabedoria em todas elas! R. Quão numerosas.
+V. Encheu-se a terra com as vossas criaturas.
+* E que sabedoria. Glória ao Pai. R. Quão numerosas.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat-v5
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Ao Deus único, Pai e Filho e Espírito Santo, demos glória; e peçamos humildemente:
+
+R. **Ouvi, Senhor, a oração de vosso povo!**
+
+Pai santo, Senhor todo-poderoso, fazei brotar a justiça na terra,
+– para que o vosso povo se alegre na prosperidade e na paz. R.
+
+Dai a todos os povos fazerem parte do vosso Reino,
+– para que sejam salvos. R.
+
+Concedei aos esposos a perseverança na harmonia e no cumprimento de vossa vontade,
+– para que vivam sempre no amor mútuo. R.
+
+Dignai-vos recompensar todos aqueles que nos fazem o bem,
+– e dai-lhes a vida eterna. R.
+
+{(intenções livres)}
+
+Olhai com bondade os que morreram vítimas do ódio, da violência ou da guerra,
+– e acolhei-os no repouso celeste. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

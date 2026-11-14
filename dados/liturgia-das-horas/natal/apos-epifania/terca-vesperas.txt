@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/terca_aposepifania_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Por que, Herodes, temes
+chegar o Rei que é Deus?
+Não rouba aos reis da terra
+quem reinos dá nos céus.
+
+Os Magos, ei-los vindo,
+buscar na Luz a luz;
+a estrela vão seguindo
+que ao Rei dos reis conduz.
+
+Nas águas é lavado
+o celestial Cordeiro;
+O que não tem pecado
+nos lava em si primeiro.
+
+As águas, ó prodígio,
+já ficam cor d’aurora,
+não deixam mais vestígio,
+pois jorram vinho agora.
+
+Louvor ao que aparece
+aos povos em Belém,
+unido ao Pai e ao Espírito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+. Não podeis servir a Deus e ao dinheiro.
+
+@salmo salmos/salmo-048
+
+@gloria
+
+@antifona
+Não podeis servir a Deus e ao dinheiro.
+
+@antifona 2
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@salmo salmos/salmo-048-ii
+
+@gloria
+
+@antifona
+Ajuntai vosso tesouro no céu, diz o Senhor.
+
+@antifona 3
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Toda glória ao Cordeiro imolado!
+Toda honra e poder para sempre!
+
+@secao Leitura breve | Ef 2,3b-5
+
+@texto
+Nós éramos por natureza, como os demais, filhos da ira. Mas Deus é rico em misericórdia. Por causa do grande amor com que nos amou, quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos!
+
+@secao Responsório breve
+
+@responsorio
+R. Todos os povos
+* Serão nele abençoados. R. Todos os povos.
+V. Todas as gentes cantarão o seu louvor. * Serão nele.
+Glória ao Pai. R. Todos os povos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Cristo, Luz da luz, aparecestes,
+e dos Magos os presentes recebestes.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Cristo, Luz da luz, aparecestes,
+e dos Magos os presentes recebestes.
+
+@secao Preces
+
+@preces
+Unidos com todos os cristãos na oração, glorifiquemos o senhor; e digamos:
+
+R. **Pai santo, escutai a oração de vossos filhos!**
+
+Vinde, Senhor, em auxílio daqueles que ainda vos procuram como um Deus escondido nas sombras ou nas imagens,
+– e orientai-os para a luz do Evangelho de Cristo. R.
+
+Olhai sobre todos aqueles que vos adoram como único Deus verdadeiro e vos esperam como Juiz universal do último dia,
+– para que, juntamente conosco, sejam acolhidos benignamente na vossa presença. R.
+
+Lembrai-vos daqueles a quem dais continuamente vida, luz e todos os bens,
+– para que jamais se afastem de vós. R.
+
+Mandai vossos santos anjos para que protejam os viajantes,
+– e preservai-os da morte repentina e dos acidentes. R.
+
+{(intenções livres)}
+
+A todos os nossos irmãos e irmãs falecidos que nesta vida conheceram vossa verdade,
+– dai-lhes contemplar a vossa face na eterna felicidade. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, cujo Filho Unigênito se manifestou na realidade da nossa carne, concedei que, reconhecendo sua humanidade semelhante à nossa, sejamos interiormente transformados por ele. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,144 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoandrekim.htm
+@documento Ofício das Leituras - Santos André Kim Tae-Gon, Presbítero, Paulo Chóng Hasang E Companheiros, Mártires Memória
+
+@celebracao
+SANTOS ANDRÉ KIM TAE-GON, PRESBÍTERO, PAULO CHÓNG HASANG E COMPANHEIROS, MÁRTIRES
+{Memória}
+
+@biografia
+No início do século XVII, a fé cristã entrou pela primeira vez em terras da Coreia, por iniciativa de alguns leigos, de cujo esforço, sem pastores, surgiu uma comunidade forte e fervorosa. Só em 1836 os primeiros missionários, vindos da França, entraram furtivamente no país. Nesta comunidade, floresceram, com as perseguições de 1839, 1846 e 1866, cento e três mártires, entre os quais sobressaem o primeiro sacerdote e ardoroso pastor de almas André Kim Taegón e o insigne apóstolo leigo Paulo Chóng Hasang, a que se juntaram muitos leigos, homens e mulheres, casados e solteiros, velhos, jovens e crianças. Todos eles consagraram com seu testemunho e sangue as primícias da Igreja coreana.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Rei glorioso do mártir,
+
+sois a coroa e o troféu,
+
+pois desprezando esta terra,
+
+procura apenas o céu.
+
+Que o coração inclinando,
+
+possais ouvir nossa voz;
+
+vossos heróis celebrando,
+
+supliquem eles por nós!
+
+Se pela morte venceram,
+
+mostrando tão grande amor,
+
+vençamos nós pela vida
+
+de santidade e louvor.
+
+A vós, Deus uno, Deus trino,
+
+sobe hoje nosso louvor,
+
+pelos heróis que imitaram
+
+a própria cruz do Senhor.
+
+@secao Salmodia
+
+@antifona 1
+Até à morte fiéis ao Senhor, derramaram seu sangue por Cristo e alcançaram o prêmio eterno.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Até à morte fiéis ao Senhor,
+derramaram seu sangue por Cristo
+e alcançaram o prêmio eterno.
+
+@antifona 2
+Os justos viverão eternamente, e a sua recompensa é o Senhor.
+
+@salmo salmos/salmo-032-i
+
+@gloria
+
+@antifona
+Os justos
+
+@antifona 3
+Vós lutastes por mim sobre a terra: recebei, meus amigos, o prêmio.
+
+@salmo salmos/salmo-032-ii
+
+@gloria
+
+@antifona
+
+@texto
+V. No Senhor nós esperamos confiantes.
+R. Porque ele é nosso auxílio e proteção.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Romanos {8,18-39}
+
+@tema
+Nada nos pode separar do amor de Deus, que está em Cristo Jesus
+
+@texto
+Irmãos: [18] Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. [19] De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. [20] Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; [21] também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. [22] Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. [23] E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. [24] Pois já fomos salvos,mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; com pode alguém esperar o que já vê? [25] Mas se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. [26] Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. [27] E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. [28] Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. [29] Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. [30] E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos;e aos que tornou justos, também os glorificou. [31] Depois disto, que vos resta dizer? Se Deus é por nós, quem será contra nós? [32] Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? [33] Quem acusará os escolhidos de Deus? Deus, que os declara justos? [34] Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? [35] Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? [36] Pois é assim que está escrito: “Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro”. [37] Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! [38] Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, [39] nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor.
+
+@secao Responsório | Mt 5,44-45.48; Lc 6,17
+
+@responsorio
+R. Amai os vossos inimigos, diz Jesus, orai por quem vos calunia e persegue,
+* E sereis filhos do vosso Pai celeste.
+V. Sede perfeitos como o vosso Pai celeste é perfeito. * E sereis.
+
+@secao Segunda leitura
+
+@leitura
+Da última Exortação de Santo André Kim Taegón, presbítero e mártir
+{(Séc. XIX)} {(Pro Corea. Documenta., ed. Mission Catholique Séoul, Séoul-Paris 1938, Vol. I, 74-75)}
+
+@tema
+A fé é coroada pelo amor e a perseverança
+
+@texto
+Meus caríssimos irmãos e amigos, considerai como Deus no princípio dos tempos dispôs os céus, a terra e todas as coisas; meditai também com que especial intenção criou o ser humano à sua imagem e semelhança. Se, pois, nesta vida de perigos e miséria, não reconhecermos o Criador, de nada nos servirá termos nascido e continuar vivendo. Já neste mundo pela graça divina, pela mesma graça recebemos o batismo, entrando no seio da Igreja e tornando-nos discípulos do Senhor. Mas, trazendo assim o precioso nome de cristãos, de que nos servirá tão grande nome, se na realidade não o formos? Seria inútil termos nascido e ingressado na Igreja se traíssemos o Senhor e a sua graça; melhor seria não termos nascido do que, recebendo a sua graça, pecarmos contra ele. Considerai o agricultor ao lançar a semente no campo: primeiro, prepara a terra com o suor do seu rosto e depois joga a preciosa semente; chegando o tempo da colheita, alegra-se de coração com as espigas cheias, esquecendo seu trabalho e suor, e dançando de alegria; se porém as espigas permanecem vazias não sendo mais que palha e casca, o agricultor deplora o duro labor com que suou, sentindo-se tanto mais desesperado quanto mais trabalhou. De modo semelhante, cultiva o Senhor a terra como seu campo, sendo nós os grãos de arroz; rega-nos com o seu sangue na sua Encarnação e Redenção para que possamos crescer e amadurecer; quando, no dia do juízo, vier o tempo da colheita, quem pela graça for achado maduro gozará o reino dos céus como filho adotivo de Deus. Quanto aos outros, que não amadureceram, tornar-se-ão inimigos, punidos para sempre, embora também tenham se tornado filhos adotivos de Deus pelo batismo. Irmãos caríssimos, lembrai-vos de que nosso Senhor Jesus, descendo a este mundo, sofreu inúmeras dores e tendo fundado a Igreja por sua paixão, ele a faz crescer pelos sofrimentos dos fiéis. Apesar de todas as pressões e perseguições, os poderes terrenos não poderão prevalecer: da Ascensão de Cristo e do tempo dos apóstolos até hoje, a santa Igreja continua crescendo no meio das tribulações. Também nesta nossa terra da Coreia, durante os cinquenta ou sessenta anos em que a santa Igreja se estabeleceu aqui, os fiéis sempre sofreram perseguições. Hoje acendeu-se de novo a perseguição; muitos amigos são, como eu, lançados nos cárceres, enquanto também sofreis tribulações. Unidos num só corpo, como não ficarão tristes os nossos corações? Como, humanamente, não experimentarmos a dor da separação? Deus, porém, como diz a Escritura, cuida de cada cabelo de nossa cabeça, e o faz com toda a sabedoria; portanto, como não considerar esta perseguição senão como permitida pelo Senhor, ou mesmo, seu prêmio ou, até, sua pena? Abraçai, pois, a vontade de Deus, combatendo de todo o coração pelo vosso chefe Jesus e vencendo o demônio, já vencido por ele. Eu vos peço: não deixeis de lado o amor fraterno, mas ajudai-vos uns aos outros, perseverando até que o Senhor tenha piedade de nós e afaste a tribulação. Aqui somos vinte e, pela graça de Deus, todos ainda estão bem. Caso algum de nós venha a morrer, peço não negligenciardes a sua família. Muitas coisas teria ainda a dizer-vos, mas como posso exprimi-las em tinta e papel? Por isso vou terminar minha carta. Aproximando-se para nós a luta, peço-vos finalmente que caminheis com fidelidade, de modo que no céu nos possamos congratular. Deixo-vos aqui meu ósculo de amor.
+
+@secao Responsório | Cf. 2Cor 6,9-10
+
+@responsorio
+R. Estes homens e mulheres são os mártires,
+que deram testemunho de Jesus,
+deram louvor ao seu Senhor, com fé e coragem.
+* Sangue de mártires: semente de cristãos!
+V. Considerados cidadãos desconhecidos,
+embora fossem muito conhecidos
+como mortos, e contudo, eis que vivem,
+nada tendo, embora tudo possuindo.
+* Sangue de mártires.
+
+@secao Oração
+
+@oracao
+Ó Deus, criador e salvador de todas as raças, por vossa bondade, chamastes à fé a muitos irmãos na região da Coreia e os fizestes crescer pelo testemunho glorioso dos mártires André, Paulo e seus companheiros. Concedei que, pelo exemplo e intercessão deles, possamos perseverar até a morte na observância de vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

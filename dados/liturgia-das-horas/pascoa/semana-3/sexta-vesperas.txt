@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3sextapascoa_vesperas.htm
+@documento Vésperas - Sexta-feira da 3ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Sou eu o Senhor que te salva, o teu Redentor, aleluia.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+Sou eu o Senhor que te salva, o teu Redentor, aleluia.
+
+@antifona 2
+Bendito o Reino que vem de Davi, nosso Pai, aleluia.
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Bendito o Reino que vem de Davi, nosso Pai, aleluia.
+
+@antifona 3
+Ao Senhor quero cantar, pois fez brilhar a sua glória. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Ao Senhor quero cantar, pois fez brilhar a sua glória. Aleluia.
+
+@secao Leitura breve | Hb 5,8-10
+
+@texto
+Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem. De fato, ele foi por Deus proclamado sumo-sacerdote na ordem de Melquisedec.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Senhor crucificado e por nós sacrificado
+dentre os mortos ressurgiu e a todos nos remiu. Aleluia.
+
+@salmo canticos/magnificat-v2
+
+@antifona
+O Senhor crucificado e por nós sacrificado
+dentre os mortos ressurgiu e a todos nos remiu. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo, caminho, verdade e vida; e o invoquemos, dizendo:
+
+R. **Filho de Deus vivo, abençoai o vosso povo!**
+
+Nós vos pedimos, Senhor Jesus Cristo, por todos os ministros da Igreja, que repartem o pão da vida entre os irmãos,
+– para que sejam também eles alimentados e fortalecidos pelo mesmo pão que distribuem. R.
+
+Nós vos pedimos por todo o povo cristão, para que viva sua vocação de maneira digna,
+– e mantenha a unidade de espírito pelo vínculo da paz. R.
+
+Nós vos pedimos por todos os que nos governam, para que exerçam suas funções com justiça e compreensão,
+– e assim promovam a concórdia e a paz entre todos os povos. R.
+
+{(intenções livres)}
+
+Nós vos pedimos que nos torneis dignos de celebrar a vossa santa ressurreição em comunhão com os anjos e os santos
+– e também com nossos irmãos e irmãs falecidos, que confiamos à vossa infinita misericórdia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei que, conhecendo a ressurreição do Senhor e a graça que ela nos trouxe, ressuscitemos para uma vida nova pelo amor do vosso Espírito. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

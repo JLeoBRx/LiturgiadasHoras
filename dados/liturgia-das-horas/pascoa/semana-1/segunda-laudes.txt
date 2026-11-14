@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1segundapascoa_laudes.htm
+@documento Laudes - Segunda-feira da 1ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@antifona 2
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@antifona 3
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@secao Leitura breve | Rm 10,8b-10
+
+@texto
+A palavra está perto de ti, em tua boca e em teu coração. Essa palavra é a palavra da fé, que nós pregamos. Se, pois, com tua boca confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo. É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Ide logo dizer aos discípulos: o Senhor ressurgiu. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Ide logo dizer aos discípulos: o Senhor ressurgiu. Aleluia.
+
+@secao Preces
+
+@preces
+Glorifiquemos a Cristo Jesus, constituído pelo Pai herdeiro de todos os povos; e rezemos:
+
+R. **Salvai-nos, Senhor, pela vossa vitória!**
+
+Cristo, que pela vossa ressurreição, rompestes as portas do inferno, destruindo o pecado e a morte,
+– dai-nos, hoje e sempre, a vitória sobre o mal. R.
+
+Vós, que expulsastes a morte, dando-nos vida nova,
+– fazei-nos hoje caminhar na novidade dessa vida. R.
+
+Vós, que nos fizestes passar da escravidão do pecado para a gloriosa liberdade de filhos de Deus,
+– concedei a vida eterna a todos os que encontrarmos neste dia. R.
+
+Vós, que confundistes os guardas de vosso sepulcro e alegrastes os discípulos com a vossa ressurreição,
+– enchei de alegria pascal todos aqueles que vos amam e servem. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fazeis crescer a vossa Igreja dando-lhe sempre novos filhos e filhas, concedei que por toda a sua vida estes vossos servos e servas sejam fiéis ao sacramento do batismo que receberam professando a fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@secao Na despedida se diz:
+
+@texto
+Ide em paz e o Senhor vos acompanhe. Aleluia, aleluia.
+R. Graças a Deus. Aleluia, aleluia.

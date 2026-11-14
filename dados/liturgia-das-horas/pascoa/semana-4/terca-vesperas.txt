@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4tercapascoa_vesperas.htm
+@documento Vésperas - Terça-feira da 4ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Cantai hoje para nós algum canto de Sião! Aleluia.
+
+@salmo salmos/salmo-136-1-6
+
+@gloria
+
+@antifona
+Cantai hoje para nós algum canto de Sião! Aleluia.
+
+@antifona 2
+No meio da desgraça me fazeis tornar à vida. Aleluia.
+
+@salmo salmos/salmo-137
+
+@gloria
+
+@antifona
+No meio da desgraça me fazeis tornar à vida. Aleluia.
+
+@antifona 3
+A vós pertencem a grandeza e o poder,
+toda a glória e majestade, aleluia.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+A vós pertencem a grandeza e o poder,
+toda a glória e majestade, aleluia.
+
+@secao Leitura breve | 1Pd 2,4-5
+
+@texto
+Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres. * Aleluia, aleluia.
+R. Os discípulos.
+V. Quando viram o Senhor ressuscitado. * Aleluia, aleluia.
+Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eu conheço as minhas ovelhas e elas me ouvem e seguem
+e a vida eterna eu lhes dou. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eu conheço as minhas ovelhas e elas me ouvem e seguem
+e a vida eterna eu lhes dou. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo, que pela sua ressurreição confirmou a esperança do seu povo; e peçamos com muita fé:
+
+R. **Cristo, vivo para sempre, escutai-nos!**
+
+Senhor Jesus Cristo, de cujo lado aberto correu sangue e água,
+– fazei da Igreja vossa esposa imaculada. R.
+
+Pastor supremo da Igreja, que depois da ressurreição confiastes a Pedro o cuidado do vosso rebanho,
+– protegei o nosso papa {N.} e confirmai-o na caridade ao serviço do vosso povo. R.
+
+Vós, que enchestes de peixes as redes de vossos discípulos que pescavam no lago de Tiberíades,
+– enviai operários à vossa Igreja para que continuem seu trabalho apostólico. R.
+
+Vós, que preparastes pão e peixes para vossos discípulos, na margem do lago,
+– não permitais que nossos irmãos e irmãs morram de fome por nossa culpa. R.
+
+{(intenções livres)}
+
+Senhor Jesus, novo Adão, que nos dais a vida, tornai semelhantes à vossa imagem gloriosa os que já deixaram este mundo,
+– para que participem plenamente da alegria perfeita no céu. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que, celebrando o mistério da ressurreição do Senhor, possamos acolher com alegria a nossa redenção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

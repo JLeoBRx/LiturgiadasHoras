@@ -1,0 +1,104 @@
+{
+ "_leia": "Estrutura do texto latino deste sermão na edição crítica, sem o texto: por decisão do projeto, o texto da edição do Centro Studi Antoniani não é reproduzido (ver dados/homilias/antonio/LEIA-ME.md).",
+ "sermao": "sd26",
+ "edicao": "Sancti Antonii Patavini Sermones dominicales et festivi, edição crítica, Centro Studi Antoniani, Pádua, 1979, 3 vols.",
+ "consulta": "consultada na publicação em PDF do Centro Studi Antoniani (\"Fonti dei Sermones\", centrostudiantoniani.it), que traz o texto crítico de 1979, o seu aparato e as fontes, ampliadas em 2021; arquivo sd26_in_festo_pentecostes.pdf",
+ "titulo_no_pdf": "IN FESTO PENTECOSTES",
+ "paginas_do_pdf": 5,
+ "parte_preliminar": false,
+ "secoes": [
+  {
+   "n": 1,
+   "paragrafos": [
+    {
+     "n": 1,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 1
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paragrafos": [
+    {
+     "n": 2,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 2
+    },
+    {
+     "n": 3,
+     "paginas_do_pdf": [
+      1
+     ],
+     "notas": 10
+    },
+    {
+     "n": 4,
+     "paginas_do_pdf": [
+      1,
+      2
+     ],
+     "notas": 4
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paragrafos": [
+    {
+     "n": 5,
+     "paginas_do_pdf": [
+      2,
+      3
+     ],
+     "notas": 11
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paragrafos": [
+    {
+     "n": 6,
+     "paginas_do_pdf": [
+      3
+     ],
+     "notas": 7
+    },
+    {
+     "n": 7,
+     "paginas_do_pdf": [
+      3,
+      4
+     ],
+     "notas": 6
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paragrafos": [
+    {
+     "n": 8,
+     "paginas_do_pdf": [
+      4
+     ],
+     "notas": 10
+    },
+    {
+     "n": 9,
+     "paginas_do_pdf": [
+      4,
+      5
+     ],
+     "notas": 8
+    }
+   ]
+  }
+ ],
+ "notas": 60
+}

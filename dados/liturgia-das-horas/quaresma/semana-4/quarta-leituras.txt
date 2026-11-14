@@ -1,0 +1,125 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4quarta_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Quarta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@salmo salmos/salmo-102-i
+
+@gloria
+
+@antifona
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@antifona 2
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@salmo salmos/salmo-102-ii
+
+@gloria
+
+@antifona
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@antifona 3
+Obras todas do Senhor, glorificai-o!
+
+@salmo salmos/salmo-102-iii
+
+@gloria
+
+@antifona
+Obras todas do Senhor, glorificai-o!
+
+@texto
+V. Convertei-vos e mudai a vossa vida.
+R. Renovai-vos de espírito e coração!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro dos Números {11,4-6.10-30}
+
+@tema
+O Espírito é dado aos anciãos e a Josué
+
+@texto
+Naqueles dias, [4] um grupo de pessoas que estava no meio deles foi atacado de um desejo desordenado, e os filhos de Israel começaram a lamentar-se, dizendo: “Quem nos dará carne para comer? [5] Vêm-nos à memória os peixes que comíamos de graça no Egito, os pepinos e os melões, as verduras, as cebolas e os alhos. [6] Aqui nada tem gosto ao nosso paladar, não vemos outra coisa a não ser o maná”. [10] Moisés ouviu, pois, o povo lamentar-se em cada família, cada um à entrada de sua tenda. [11] Então o Senhor tomou-se de uma cólera violenta, e Moisés, achando também tal coisa intolerável, disse ao Senhor: “Por que maltrataste assim o teu povo? Por que gozo tão pouco do teu favor, a ponto de descarregares sobre mim o peso de todo este povo? [12] Acaso fui eu quem concebeu e deu à luz todo este povo, para que me digas: “Carrega-o ao colo, como a ama costuma fazer com a criança; e leva-o à terra que juraste dar a seus pais!” [13] Onde conseguirei carne para dar a toda esta gente? Pois se lamentam contra mim, dizendo: “Dá-nos carne para comer!” [14] Já não posso suportar sozinho o peso de todo este povo: é grande demais para mim. [15] Se queres continuar a tratar-me assim, peço-te que me tires a vida, se achei graça a teus olhos, para que eu não veja mais tamanha desgraça”. [16] O Senhor disse a Moisés: “Reúne-me setenta homens dentre os anciãos de Israel, que tu conheces como anciãos e magistrados do povo, e traze-os à Tenda da Reunião, onde devem esperar contigo. [17] Descerei ali para falar contigo, e retirarei um pouco do espírito que há em ti e o darei a eles, para que te ajudem a carregar o fardo do povo e não sejas sozinho a suportá-lo. [18] E dirás ao povo: Santificai-vos e amanhã comereis carne. Pois eu os ouvi chorar dizendo: “Quem nos dará carne para comer? Estávamos tão bem no Egito!” O Senhor vos dará carne para comer, e vós a comereis. [19] E não apenas um dia, nem dois, nem cinco ou dez, nem mesmo vinte, [20] mas durante um mês inteiro, até que a carne vos saia pelas narinas e vos cause náuseas. Pois rejeitastes o Senhor, que está no meio de vós, e chorastes diante dele, dizendo: “Por que saímos do Egito?” [21] Moisés replicou: “O povo no meio do qual estou conta seiscentos mil homens a pé, e tu dizes: “Vou dar-lhes carne para que comam um mês inteiro!” [22] Porventura se matará uma multidão de ovelhas e bois, para que tenham comida suficiente? Ou se ajuntarão todos os peixes do mar, para que fiquem saciados?” [23] Ao que o Senhor respondeu: “Acaso foi diminuído o poder do Senhor? Agora mesmo verás se minha palavra se cumpre ou não”. [24] Moisés saiu da Tenda, e comunicou ao povo as palavras do Senhor. Reuniu, depois, setenta homens dentre os anciãos do povo, e colocou-os ao redor da Tenda. [25] O Senhor desceu na nuvem e falou a Moisés. Retirou um pouco do espírito que Moisés possuía e o deu aos setenta anciãos. Assim que repousou sobre eles o espírito, puseram-se a profetizar, mas não continuaram. [26] Dois homens, porém, tinham ficado no acampamento. Um chamava-se Eldad e o outro Medad. O espírito repousou igualmente sobre os dois, que estavam na lista mas não tinham ido à Tenda, e eles profetizavam no acampamento. [27] Um jovem correu a avisar Moisés que Eldad e Medad estavam profetizando no acampamento. [28] Josué, filho de Nun, ajudante de Moisés desde a juventude, disse: “Moisés, meu Senhor, manda que eles se calem!” [29] Moisés respondeu: “Tens ciúmes por mim? Quem dera que todo o povo do Senhor fosse profeta, e que o Senhor lhe concedesse o seu espírito!” [30] E Moisés recolheu-se ao acampamento com os anciãos de Israel.
+
+@secao Responsório | Jl 3,1bc.2b; At 1,8
+
+@responsorio
+R. Derramarei meu Espírito sobre todo ser vivo
+e profetizarão vossos filhos e filhas.
+* Naqueles dias irei derramar o meu Espírito.
+V. Recebereis a força do Espírito e sereis testemunhas de mim até os extremos da terra. * Naqueles dias.
+
+@secao Segunda leitura
+
+@leitura
+Das Cartas de São Máximo, o Confessor, abade
+{(Séc.VII)} {(Epist. 11: PG91,454-455)}
+
+@tema
+A misericórdia do Senhor_
+_para com os pecadores que se convertem
+
+@texto
+Os pregadores da verdade e os ministros da graça divina, todos os que, desde o princípio até os nossos dias, cada um a seu tempo, expuseram a vontade salvífica de Deus, dizem que nada lhe é tão agradável e conforme a seu amor como a conversão dos homens a ele com sincero arrependimento. E para dar a maior prova da bondade divina, o Verbo de Deus Pai (ou melhor, o primeiro e único sinal de sua bondade infinita), num ato de humilhação que nenhuma palavra pode explicar, num ato de condescendência para com a humanidade, dignou-se habitar no meio de nós, fazendo-se homem. E realizou, padeceu e ensinou tudo o que era necessário para que nós, seus inimigos e adversários, fôssemos reconciliados com Deus Pai e chamados de novo à felicidade eterna que havíamos perdido. O Verbo de Deus não curou apenas nossas enfermidades com o poder dos milagres. Tomou sobre si as nossas fraquezas, pagou a nossa dívida mediante o suplício da cruz, libertando-nos dos nossos muitos e gravíssimos pecados, como se ele fosse o culpado, quando na verdade era inocente de qualquer culpa. Além disso, com muitas palavras e exemplos, exortou-nos a imitá-lo na bondade, na compreensão e na perfeita caridade fraterna. Por isso dizia o Senhor: _Eu não vim chamar os justos, mas sim os pecadores para a conversão_ (Lc 5,32). E também: _Aqueles que têm saúde não precisam de médicos, mas sim os doentes_ (Mt 9,12). Disse ainda que viera procurar a ovelha desgarrada e que fora enviado às ovelhas perdidas da casa de Israel. Do mesmo modo, pela parábola da dracma perdida, deu a entender mais veladamente que viera restaurar no homem a imagem divina que estava corrompida pelos mais repugnantes pecados. E afirmou: _Em verdade eu vos digo, haverá alegria no céu por um só pecador que se converte_ (cf. Lc 15,7). Por esse motivo, contou a parábola do bom samaritano: àquele homem que caíra nas mãos dos ladrões, e fora despojado de todas as vestes, maltratado e deixado semimorto, atou-lhe as feridas, tratou-as com vinho e óleo e, tendo colocado em seu jumento, deixou-o numa hospedaria para que cuidassem dele; pagou o necessário para o seu tratamento e ainda prometeu, dar na volta, o que porventura se gastasse a mais. Mostrou-nos ainda a condescendência e bondade do pai que recebeu afetuosamente o filho pródigo que voltava, como o abraçou porque retornara arrependido, revestiu-o de novo com as insígnias de sua nobreza familiar e esqueceu todo o mal que fizera. Pela mesma razão, reconduziu ao redil a ovelhinha que se afastara das outras cem ovelhas de Deus e fora encontrada vagueando por montes e colinas. Não lhe bateu nem a ameaçou nem a extenuou de cansaço; pelo contrário, colocando-a em seus próprios ombros, cheio de compaixão, trouxe-a sã e salva para o rebanho. E deste modo exclamou: _Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. Tomai sobre vós o meu jugo_ (Mt 11,28-29). Ele chamava de jugo os mandamentos ou a vida segundo os preceitos evangélicos; e quanto ao peso, que pela penitência parecia ser grande e mais penoso, acrescentou: _O meu jugo é suave e o meu fardo é leve_ (Mt 11,30). Outra vez, querendo nos ensinar a justiça e a bondade de Deus, exortava-nos com estas palavras: _Sede santos, sede perfeitos, sede misericordiosos, como também vosso Pai celeste é misericordioso_ (cf. Mt 5,48; Lc 6,36). E_: Perdoai, e sereis perdoados_ (Lc 6,37). Tudo quanto quereis que os outros vos façam, fazei também a eles (Mt 7,12).
+
+@secao Responsório | Cf. Ez 33,11; Sl 93(94),19
+
+@responsorio
+R. Senhor, se eu não conhecesse vosso amor compassivo
+eu iria sofrer. Mandaste dizer: Eu não tenho prazer na morte do ímpio, mas que ele volte e tenha a vida!
+* Vós que chamastes à conversão a Cananeia e o Publicano!
+V. Quando o meu coração se angustia, consolais e alegrais minha alma. * Vós que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que recompensais os méritos dos justos e perdoais aos pecadores que fazem penitência, sede misericordioso para conosco: fazei que a confissão de nossas culpas alcance o vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

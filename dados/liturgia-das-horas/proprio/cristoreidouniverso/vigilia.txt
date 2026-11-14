@@ -1,0 +1,57 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/cristoreidouniverso_vigilia.htm
+@documento Vigília de Nosso Senhor Jesus Cristo, Rei do Universo
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+É vosso o reinado e o poder,
+estais acima dos povos, Senhor,
+em nossos dias nos dai vossa paz!
+
+@salmo canticos/1cr-29-10-13
+
+@gloria
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@salmo canticos/is-61-1062-5-v2
+
+@gloria
+
+@antifona
+É vosso o reinado e o poder,
+estais acima dos povos, Senhor,
+em nossos dias nos dai vossa paz!
+
+@secao Evangelho
+
+@rubrica
+O Evangelho deve ser diferente daquele proclamado neste ano na Missa. Por exemplo, se estamos no ano A, proclamar o do ano B ou C.
+
+@secao Ano A | Mt 25,31-46
+
+@texto
+Naquele tempo, disse Jesus aos seus discípulos: [31] “Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. [32] Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. [33] E colocará as ovelhas à sua direita e os cabritos à sua esquerda. [34] Então o Rei dirá aos que estiverem à sua direita: “Vinde benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! [35] Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; [36] eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar”. [37] Então os justos lhe perguntarão: “Senhor, quando foi que te vimos com fome e te demos de comer? Com sede e te demos de beber? [38] Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? [39] Quando foi que te vimos doente ou preso, e fomos te visitar?” [40] Então o Rei lhes responderá: “Em verdade eu vos digo, que todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes” [41] Depois o Rei dirá aos que estiverem à sua esquerda: “Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. [42] Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; [43] eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar”. [44] E responderão também eles: “Senhor, quando foi que te vimos com fome, ou com sede, como estrangeiro, ou nu, doente ou preso, e não te servimos?” [45] Então o Rei lhes responderá: “Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes” [46] Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna”.
+
+@secao Ano B | Jo 18,33b-37
+
+@texto
+Naquele tempo, [33b] Pilatos chamou Jesus e perguntou-lhe: "Tu és o rei dos judeus?" [34] Jesus respondeu: "Estás dizendo isto por ti mesmo ou outros te disseram isto de mim?" [35] Pilatos falou: "Por acaso sou judeu? O teu povo e os sumos sacerdotes te entregaram a mim. Que fizeste?"
+[36] Jesus respondeu: "O meu reino não é deste mundo. Se o meu reino fosse deste mundo, os meus guardas lutariam para que eu não fosse entregue aos judeus. Mas o meu reino não é daqui".
+[37] Pilatos disse a Jesus: "Então tu és rei?"
+Jesus respondeu: "Tu o dizes: eu sou rei. Eu nasci e vim ao mundo para isto: para dar testemunho da verdade. Todo aquele que é da verdade escuta a minha voz".
+
+@secao Ano C | Lc 23,35-43
+
+@texto
+Naquele tempo, [35] os chefes zombavam de Jesus dizendo: “A outros ele salvou. Salve-se a si mesmo, se, de fato, é o Cristo de Deus, o Escolhido!”
+[36] Os soldados também caçoavam dele; aproximavam-se, ofereciam-lhe vinagre, [37] e diziam: “Se és o rei dos judeus, salva-te a ti mesmo!”
+[38] Acima dele havia um letreiro: “Este é o Rei dos Judeus”.
+[39] Um dos malfeitores crucificados o insultava, dizendo: “Tu não és o Cristo? Salva-te a ti mesmo e a nós!”
+[40] Mas o outro o repreendeu, dizendo: “Nem sequer temes a Deus, tu que sofres a mesma condenação? [41] Para nós, é justo, porque estamos recebendo o que merecemos; mas ele não fez nada de mal”. [42] E acrescentou: “Jesus, lembra-te de mim, quando entrares no teu reinado”.
+[43] Jesus lhe respondeu: “Em verdade eu te digo: ainda hoje estarás comigo no Paraíso”.

@@ -1,0 +1,170 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/31dezembro_vesperas.htm
+@documento I Vésperas
+
+@titulo 1º de janeiro / {Oitava do Natal do Senhor} / SOLENIDADE DE SANTA MARIA, MÃE DE DEUS
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Quem nos deu todas as coisas
+que foram, são e hão de ser:
+no amor do Pai foi gerado,
+mas quis na terra nascer.
+
+Um corpo humano assumindo,
+eis que o Filho é nosso irmão:
+vem libertar-nos da morte,
+salvar os filhos de Adão.
+
+A luz do Espírito Santo
+sobre uma virgem desceu:
+ungido rei e profeta,
+Jesus menino nasceu.
+
+O que os profetas cantaram,
+o prometido a Israel,
+vem salvar todos os povos,
+Deus-conosco, Emanuel.
+
+Glória ao Espírito Santo,
+por quem nos veio Jesus:
+vida, caminho e verdade,
+que ao Pai eterno conduz.
+
+@secao Salmodia
+
+@antifona 1
+Admi**rá**vel inter**câm**bio!
+O Cria**dor** da humani**da**de,
+assu**min**do corpo e **al**ma,
+quis nas**cer** de uma **Vir**gem.
+Feito **ho**mem, nos do**ou**
+sua **pró**pria divin**da**de!
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+Admi**rá**vel inter**câm**bio!
+O Cria**dor** da humani**da**de,
+assu**min**do corpo e **al**ma,
+quis nas**cer** de uma **Vir**gem.
+Feito **ho**mem, nos do**ou**
+sua **pró**pria divin**da**de!
+
+@antifona 2
+Ao nas**cer**des da **Vir**gem de **mo**do ine**fá**vel,
+a pa**la**vra de **Deus** se cum**priu** plena**men**te:
+como **chu**va na **rel**va des**ces**tes dos **céus**
+e vi**es**tes sal**var**-nos!
+Glória a **vós**, nosso **Deus**!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Ao nas**cer**des da **Vir**gem de **mo**do ine**fá**vel,
+a pa**la**vra de **Deus** se cum**priu** plena**men**te:
+como **chu**va na **rel**va des**ces**tes dos **céus**
+e vi**es**tes sal**var**-nos!
+Glória a **vós**, nosso **Deus**!
+
+@antifona 3
+Como a **sar**ça, que Moi**sés** viu ar**der** sem se quei**mar**,
+assim in**tac**ta é a **vos**sa admi**rá**vel virgin**da**de.
+Ma**ri**a, Mãe de **Deus**, por **nós** interce**dei**!
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona 3
+Como a **sar**ça, que Moi**sés** viu ar**der** sem se quei**mar**,
+assim in**tac**ta é a **vos**sa admi**rá**vel virgin**da**de.
+Ma**ri**a, Mãe de **Deus**, por **nós** interce**dei**!
+
+@secao Leitura breve | Gl 4,4-5
+
+@texto
+Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva.
+
+@secao Responsório breve
+
+@responsorio
+R. A Pa**la**vra se fez **car**ne.
+* Ale**lui**a, ale**lui**a. R. A Pa**la**vra.
+V. E habi**tou** entre **nós**. * Ale**lui**a, ale**lui**a.
+Glória ao **Pai**. R. A Pa**la**vra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Pelo a**mor** infi**ni**to com que **Deus** nos a**mou**,
+envi**ou**-nos seu **Fi**lho nas**ci**do da mu**lher**,
+numa **car**ne seme**lhan**te à **car**ne do pe**ca**do,
+nas**ci**do sob a **lei**. Ale**lui**a, ale**lui**a.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Pelo a**mor** infi**ni**to com que **Deus** nos a**mou**,
+envi**ou**-nos seu **Fi**lho nas**ci**do da mu**lher**,
+numa **car**ne seme**lhan**te à **car**ne do pe**ca**do,
+nas**ci**do sob a **lei**. Ale**lui**a, ale**lui**a.
+
+@secao Preces
+
+@preces
+Bendigamos a Jesus Cristo, nossa paz, que veio reunir todos os seres humanos num só povo; e peçamos humildemente:
+
+R. **Senhor, dai ao mundo a vossa paz!**
+
+Vós, que nascestes em Belém para manifestar aos homens a bondade e o amor de Deus,
+– dai-nos viver em contínua ação de graças por todos os vossos benefícios. R.
+
+Vós, que destes a Maria, vossa Mãe, a plenitude da graça,
+– concedei a todos a riqueza dos vossos dons. R.
+
+Vós, que viestes anunciar ao mundo o Evangelho de Deus,
+– multiplicai os pregadores e ouvintes da vossa palavra. R.
+
+Vós, que, ao nascer da Virgem Maria, vos tornastes nosso irmão,
+– ensinai os homens a se amarem fraternalmente. R.
+
+{(intenções livres)}
+
+Vós que aparecestes como sol que ilumina o mundo,
+– mostrai a luz da vossa face aos que partiram desta vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela virgindade fecunda de Maria destes à humanidade a salvação eterna, dai-nos contar sempre com a sua intercessão, pois ela nos trouxe o autor da vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

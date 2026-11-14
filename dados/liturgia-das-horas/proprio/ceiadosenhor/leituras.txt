@@ -1,0 +1,149 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/ceiadosenhor.htm
+@documento Ofício das Leituras - Quinta-Feira Santa
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cantem meus lábios a luta
+que sobre a cruz se travou;
+cantem o nobre triunfo
+que no madeiro alcançou
+o Redentor do Universo
+quando por nós se imolou.
+
+O Criador teve pena
+do primitivo casal,
+que foi ferido de morte,
+comendo o fruto fatal,
+e marcou logo outra árvore,
+para curar-nos do mal.
+
+Tal ordem foi exigida
+na obra da salvação:
+cai o inimigo no laço
+de sua própria invenção.
+Do próprio lenho da morte
+Deus fez nascer redenção.
+
+Na plenitude dos tempos,
+a hora santa chegou
+e, pelo Pai enviado,
+nasceu do mundo o autor;
+e duma Virgem no seio
+a nossa carne tomou.
+
+Seis lustros tendo passado,
+cumpriu a sua missão.
+Só para ela nascido,
+livre se entrega à Paixão.
+Na cruz se eleva o Cordeiro,
+como perfeita oblação.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho, louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@salmo salmos/salmo-068-2-22-30-37-i
+
+@gloria
+
+@antifona
+Estou cansado de gritar e de esperar pelo meu Deus.
+
+@antifona 2
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@salmo salmos/salmo-068-2-22-30-37-ii
+
+@gloria
+
+@antifona
+Deram-me fel como se fosse um alimento,
+em minha sede ofereceram-me vinagre.
+
+@antifona 3
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@salmo salmos/salmo-068-2-22-30-37-iii
+
+@gloria
+
+@antifona
+Procurai o Senhor continuamente,
+e o vosso coração reviverá.
+
+@texto
+V. Quando eu for elevado da terra,
+R. Atrairei para mim todo ser.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {4,14–5,10}
+
+@tema
+Jesus Cristo, sumo sacerdote
+
+@texto
+Irmãos: [4,14] Temos um sumo-sacerdote eminente, que entrou no céu, Jesus, o Filho de Deus. Por isso, permaneçamos firmes na fé que professamos. [15] Com efeito, temos um sumo-sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado. [16] Aproximemo-nos então, com toda a confiança, do trono da graça, para conseguirmos misericórdia e alcançarmos a graça de um auxílio no momento oportuno. [5,1] De fato, todo o sumo sacerdote é tirado do meio dos homens e instituído em favor dos homens nas coisas que se referem a Deus, para oferecer dons e sacrifícios pelos pecados. [2] Sabe ter compaixão dos que estão na ignorância e no erro, porque ele mesmo está cercado de fraqueza. [3] Por isso, deve oferecer sacrifícios tanto pelos pecados do povo, quanto pelos seus próprios. [4] Ninguém deve atribuir-se esta honra, senão o que foi chamado por Deus, como Aarão. [5] Deste modo, também Cristo não se atribuiu a si mesmo a honra de ser sumo-sacerdote, mas foi aquele que lhe disse: “Tu és o meu Filho, eu hoje te gerei”. [6] Como diz em outra passagem: “Tu és sacerdote para sempre, na ordem de Melquisedec.” [7] Cristo, nos dias de sua vida terrestre, dirigiu preces e súplicas, com forte clamor e lágrimas, àquele que era capaz de salvá-lo da morte. E foi atendido, por causa de sua entrega a Deus. [8] Mesmo sendo Filho, aprendeu o que significa a obediência a Deus por aquilo que ele sofreu. [9] Mas, na consumação de sua vida, tornou-se causa de salvação eterna para todos os que lhe obedecem. [10] De fato, ele foi por Deus proclamado sumo-sacerdote na ordem de Melquisedec.
+
+@secao Responsório | Cf. Hb 5,8.9.7
+
+@responsorio
+R. Embora fosse o próprio Filho,
+aprendeu a obediência através do sofrimento
+* E para quem lhe obedece tornou-se uma fonte de eterna salvação.
+V. Nos seus dias deste mundo
+fez subir preces e súplicas com clamores veementes
+e por sua piedade Jesus foi atendido.
+* E para quem.
+
+@secao Segunda leitura
+
+@leitura
+Da Homilia sobre a Páscoa, de Melitão de Sardes, bispo
+{(Séc.II)} {(N.65-71: SCh123,94-100)}
+
+@tema
+O Cordeiro imolado libertou-nos da morte para a vida
+
+@texto
+Muitas coisas foram preditas pelos profetas sobre o mistério da Páscoa, que é Cristo, _a quem seja dada a glória pelos séculos dos séculos. Amém_ (Gl 1,5). Ele desceu dos céus à terra para curar a enfermidade do homem; revestiu-se da nossa natureza no seio da Virgem e se fez homem; tomou sobre si os sofrimentos do homem enfermo num corpo sujeito ao sofrimento, e destruiu as paixões da carne; seu espírito, que não pode morrer, matou a morte homicida. Foi levado como cordeiro e morto como ovelha; libertou-nos das seduções do mundo, como outrora tirou os israelitas do Egito; salvou-nos da escravidão do demônio, como outrora fez sair Israel das mãos do faraó; marcou nossas almas com o sinal do seu Espírito e os nossos corpos com seu sangue. Foi ele que venceu a morte e confundiu o demônio, como outrora Moisés ao faraó. Foi ele que destruiu a iniquidade e condenou a injustiça à esterilidade, como Moisés ao Egito. Foi ele que nos fez passar da escravidão para a liberdade, das trevas para a luz, da morte para a vida, da tirania para o reino sem fim, e fez de nós um sacerdócio novo, um povo eleito para sempre. Ele é a Páscoa da nossa salvação. Foi ele que tomou sobre si os sofrimentos de muitos: foi morto em Abel; amarrado de pés e mãos em Isaac; exilado de sua terra em Jacó; vendido em José; exposto em Moisés; sacrificado no cordeiro pascal; perseguido em Davi e ultrajado nos profetas. Foi ele que se encarnou no seio da Virgem, foi suspenso na cruz, sepultado na terra e, ressuscitando dos mortos, subiu ao mais alto dos céus. Foi ele o cordeiro que não abriu a boca, o cordeiro imolado, nascido de Maria, a bela ovelhinha; retirado do rebanho, foi levado ao matadouro, imolado à tarde e sepultado à noite; ao ser crucificado, não lhe quebraram osso algum, e ao ser sepultado, não experimentou a corrupção; mas ressuscitando dos mortos, ressuscitou também a humanidade das profundezas do sepulcro.
+
+@secao Responsório | Rm 3,23-25a; Jo 1,29b
+
+@responsorio
+R. Pois todos os homens pecaram
+e carecem da glória de Deus, sendo justificados, de graça, mediante a libertação, realizada por meio de Cristo.
+* Deus destinou que Cristo fosse, por seu sangue, a vítima da propiciação, pela fé que colocamos nele mesmo.
+V. Eis aqui o Cordeiro de Deus, o que tira o pecado do mundo. * Deus.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, amar-vos acima de tudo é ser perfeito; multiplicai em nós a vossa graça e concedei, aos que firmamos nossa esperança na morte do vosso Filho, alcançarmos por sua ressurreição aqueles bens que na fé buscamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

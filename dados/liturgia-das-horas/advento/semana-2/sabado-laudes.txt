@@ -1,0 +1,138 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sabado_laudes.htm
+@documento Laudes - II Sábado do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Em meio à treva escura,
+ressoa clara voz.
+Os sonhos maus se afastem,
+refulja o Cristo em nós.
+
+Despertem os que dormem
+feridos de pecado.
+Um novo sol já brilha,
+o mal vai ser tirado.
+
+Do céu desce o Cordeiro
+Que traz a salvação.
+Choremos e imploremos
+Das culpas o perdão.
+
+E ao vir julgar o mundo
+No dia do terror,
+Não puna tantas culpas,
+Mas venha com amor.
+
+Ao Pai e ao seu Filho
+poder e majestade,
+e glória ao Santo Espírito
+por toda a eternidade.
+
+@secao Salmodia
+
+@antifona 1
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@salmo salmos/salmo-091
+
+@gloria
+
+@antifona
+Anunciamos de manhã vossa bondade,
+e o vosso amor fiel, a noite inteira.
+
+@antifona 2
+Vinde todos e dai glória ao nosso Deus!
+
+@salmo canticos/dt-32-1-12
+
+@gloria
+
+@antifona
+Vinde todos e dai glória ao nosso Deus!
+
+@antifona 3
+Ó Senhor, nosso Deus, como é grande
+vosso nome por todo o universo! †
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Ó Senhor nosso Deus, como é grande
+vosso nome por todo o universo!
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor é contigo, ó Maria,
+* Alegra-te, cheia de graça! R. O Senhor.
+V. Ele chega, o dia já nasce; a terra inteira exulta.
+* Alegra-te. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor levantará um sinal entre as nações
+e os dispersos de seu povo de Israel reunirá.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor levantará um sinal entre as nações
+e os dispersos de seu povo de Israel reunirá.
+
+@secao Preces
+
+@preces
+Oremos, com espírito de fé, irmãos caríssimos, a Cristo Redentor, que virá ao mundo com grande poder e glória; e supliquemos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que haveis de vir cheio de poder e majestade,
+– olhai benigno para a nossa humildade e fazei-nos dignos de vossos dons. R.
+
+Vós, que viestes proclamar a Boa-nova à humanidade,
+– dai-nos anunciar sempre a vossa salvação. R.
+
+Vós, que viveis eternamente na glória celeste, e tudo governais com poder e sabedoria,
+– concedei-nos aguardar com alegria a bem-aventurada esperança, enquanto aguardamos a vossa vinda gloriosa. R.
+
+E a nós, que desejamos a graça da vossa vinda,
+– confortai-nos com a assistência do vosso poder divino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus todo-poderoso, que desponte em nossos corações o esplendor da vossa glória, para que, vencidas as trevas do pecado, a vinda do vosso Unigênito revele que somos filhos da luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

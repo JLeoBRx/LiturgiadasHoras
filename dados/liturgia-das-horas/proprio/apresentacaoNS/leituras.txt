@@ -1,0 +1,131 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/apresentacaoNS.htm
+@documento Ofício das Leituras - Apresentação Da Bem-Aventurada Virgem Maria Memória
+
+@celebracao
+APRESENTAÇÃO DA BEM-AVENTURADA VIRGEM MARIA
+{Memória}
+
+@biografia
+Neste dia da dedicação (ano 543) da igreja de Santa Maria a Nova, construída perto do templo de Jerusalém, celebramos, juntamente com os cristãos da Igreja Oriental, a "dedicação" que Maria fez de si mesma a Deus, já desde a infância, movida pelo Espírito Santo que a encheu de graça desde a sua imaculada conceição.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Salve, ó Mãe da esperança,
+da piedade e do perdão;
+ó Mãe de Deus e Mãe da graça,
+plena de santa exultação.
+
+Vale florindo a flor da graça,
+toda a delícia flui de vós.
+De nossa dor compadecida,
+ó Santa Mãe, rogai por nós.
+
+O Pai supremo vos criou,
+em vós o Filho se encarnou.
+Fostes fecunda pelo Espírito.
+Aos Três, a glória e o louvor.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+Quando o salmo seguinte já tiver sido recitado no Invitatório, em seu lugar se diz o
+
+@salmo salmos/salmo-094-v2
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías 7,10-14; 8,10c;11,1-9
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: O Senhor falou com Acaz, dizendo: “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; porque Deus está conosco. Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer; mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a **Vir**gem concebe**rá** e da**rá** à luz um **fi**lho;
+* O seu **no**me há de **ser**: Maravi**lho**so e Deus **for**te.
+V. Sobre o **tro**no de Da**vi** e **so**bre o seu **rei**no
+a **pa**z não terá **fim**. * O seu **no**me.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc. V)} {(Sermo 25,7-8: PL 46,937-938)}
+
+@tema
+Aquela que acreditou em virtude da fé,_
+_também pela fé concebeu
+
+@texto
+Prestai atenção, rogo-vos, naquilo que Cristo Senhor diz, estendendo a mão para seus discípulos: _Eis minha mãe e meus irmãos. Quem faz a vontade de meu Pai que me enviou, este é meu irmão, irmã e mãe_ (Mt 12,49-50). Acaso não fez a vontade do Pai a Virgem Maria, que creu pela fé, pela fé concebeu, foi escolhida dentre os homens para que dela nos nascesse a salvação e que foi criada por Cristo antes que Cristo nela fosse criado? Sim! Ela o fez! Santa Maria fez totalmente a vontade do Pai e por isto mais valeu para ela ser discípula de Cristo do que mãe de Cristo; maior felicidade gozou em ser discípula do que mãe de Cristo. Assim Maria era feliz porque, já antes de dar à luz o Mestre, trazia-o na mente.
+Vede se não é assim como digo. O Senhor passava acompanhado pelas turbas, fazendo milagres divinos, quando certa mulher exclamou: _Bem-aventurado o seio que te trouxe_. _Feliz o ventre que te trouxe!_ (Lc 11,27) O Senhor, para que não se buscasse a felicidade na carne, que respondeu então? _Muito mais felizes os que ouvem a palavra de Deus e a guardam_ (Lc 11,28). Por conseguinte, também aqui é Maria feliz, porque ouviu a palavra de Deus e a guardou. Guardou a verdade na mente mais do que a carne no seio. Verdade, Cristo; carne, Cristo; a verdade-Cristo na mente de Maria; a carne-Cristo no seio de Maria. É maior o que está na mente do que o trazido no seio.
+Santa Maria, feliz Maria! Contudo, a Igreja é maior que a Virgem Maria. Por quê? Porque Maria é porção da Igreja, membro santo, membro excelente, membro supereminente, mas membro do corpo total. Se ela pertence ao corpo total, logo é maior o corpo que o membro. A cabeça é o Senhor; e o Cristo total, é a cabeça e o corpo. Que direi? Temos cabeça divina, temos Deus por cabeça! Portanto, irmãos, dai atenção a vós mesmos. Também vós sois membros de Cristo, também vós sois corpo de Cristo. Vede de que modo o sois. Diz: _Eis minha mãe e meus irmãos_ (Mt 12,49). Como sereis mãe de Cristo? _Todo aquele que ouve e faz a vontade de meu Pai que está nos céus, este é meu irmão e irmã e mãe_ (cf. Mt 12,50). Pensai: entendo _irmão_, entendo _irmã_; é uma só a herança, e é essa a misericórdia de Cristo que, sendo único, não quis ficar sozinho; quis que fôssemos herdeiros do Pai, co-herdeiros seus.
+
+@secao Responsório | Is 61,10; Lc 1,46-47
+
+@responsorio
+R. Eu exulto de alegria no Senhor
+e minh’alma rejubila no meu Deus,
+* Pois me envolveu de salvação qual uma veste,
+qual uma noiva que se enfeita com suas joias.
+V. A minh’alma engrandece o Senhor
+e exulta meu espírito em Deus, meu Salvador.
+* Pois me envolveu.
+
+@secao Oração
+
+@oracao
+Ao celebrarmos, ó Deus, a gloriosa memória da Santa Virgem Maria, concedei-nos, por sua intercessão, participar da plenitude da vossa graça. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

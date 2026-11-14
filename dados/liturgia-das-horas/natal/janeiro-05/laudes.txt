@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/5janeiro_laudes.htm
+@documento 5janeiro_laudes.htm
+
+@secao Leitura breve | Sb 7,26-27
+
+@texto
+A Sabedoria é um reflexo da luz eterna, espelho sem mancha da atividade de Deus e imagem da sua bondade. Sendo única, tudo pode: permanecendo imutável, renova tudo; e comunicando-se às almas santas de geração em geração, forma os amigos de Deus e os profetas.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+V. A sua salvação * Aleluia, aleluia. Glória ao Pai.
+R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor visitou o seu povo e o libertou.
+
+@secao Preces
+
+@preces
+Louvemos a Cristo, que para nós se fez sabedoria de Deus, justiça, santificação e redenção. Confiantes lhe peçamos:
+
+R. **Pelo vosso Natal, Senhor, salvai-nos!**
+
+Rei do universo, que os pastores encontraram no presépio envolto em panos,
+– ajudai-nos a imitar vossa pobreza e simplicidade. R.
+
+Senhor do céu, que descestes humilde de vosso trono real,
+– ensinai-nos a respeitar nossos irmãos de condição mais humilde. R.
+
+Cristo, luz eterna, que assumistes a nossa natureza humana sem perder a glória da santidade divina,
+– que os vossos fiéis, usando os bens da terra, não se deixem seduzir pelas suas enganosas aparências. R.
+
+Divino Esposo da Igreja, vossa presença é para ela torre invencível;
+– fazei que os vossos fiéis perseverem sempre unidos a ela, e nela encontrem a salvação. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, pelo nascimento do vosso Filho, iniciastes maravilhosamente a redenção do vosso povo. Concedei a vossos servos uma fé tão firme, que nos deixemos conduzir por ele e cheguemos à glória prometida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

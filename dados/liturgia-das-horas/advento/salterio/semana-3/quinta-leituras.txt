@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3quinta_leituras.htm
+@documento Ofício das Leituras - III Quinta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@salmo salmos/salmo-088-39-53-iv
+
+@gloria
+
+@antifona
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@antifona 2
+Sou o rebento da estirpe de Davi,
+sou a estrela fulgurante da manhã.
+
+@salmo salmos/salmo-088-39-53-v
+
+@gloria
+
+@antifona
+Sou o rebento da estirpe de Davi,
+sou a estrela fulgurante da manhã.
+
+@antifona 3
+Os nossos dias vão murchando como a erva;
+vós, Senhor, sois desde sempre e para sempre.
+
+@salmo salmos/salmo-089
+
+@gloria
+
+@antifona
+Os nossos dias vão murchando como a erva;
+vós, Senhor, sois desde sempre e para sempre.

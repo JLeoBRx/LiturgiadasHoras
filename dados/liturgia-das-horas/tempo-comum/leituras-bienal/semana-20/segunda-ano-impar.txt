@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/20segundaTC_impar.htm
+@documento Ofício das Leituras - Segunda-Feira
+
+@titulo SEGUNDA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {1,15-23}
+
+@tema
+A oração de Paulo pela conversão dos Fiéis 15
+
+@texto
+Irmãos, ao ouvir a respeito da vossa fé no Senhor Jesus e do vosso amor para com todos os santos, [16] não cesso de dar graças a Deus a vosso respeito e de fazer menção de vós nas minhas orações, [17] para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o espírito de sabedoria e de revelação, para poderdes realmente conhecê-lo. [18] Que ele ilumine os olhos dos vossos corações, para saberdes qual é a esperança que o seu chamado encerra, qual é a riqueza da glória da sua herança entre os santos [19] e qual é a extraordinária grandeza do seu poder para nós, os que cremos, conforme a ação do seu poder eficaz, [20] que ele fez operar em Cristo, ressuscitando-o de entre os mortos e fazendo-o assentar à sua direita nos céus, [21] muito acima de qualquer Principado e Autoridade e Poder e Soberania e de todo nome que se pode nomear não só neste século, mas também no vindouro. [22] Tudo ele pôs debaixo dos seus pés, e o pôs, acima de tudo, como Cabeça da Igreja, [23] que é o seu Corpo: a plenitude daquele que plenifica tudo em tudo.
+
+@secao Responsório | Ef 1,17.18; 1Cor 2,12
+
+@responsorio
+R. Que ele ilumine os olhos dos vossos corações,
+para saberdes qual é a esperança que o seu chamado encerra.
+* E qual é a riqueza da glória da sua herança entre os santos.
+V. Nós não recebemos o espírito do mundo, mas o espírito de Deus,
+para conhecer tudo aquilo que Deus nos tem dado. * E qual é.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado sobre “a verdadeira imagem do cristão”, de São Gregório de Nissa, bispo
+{(Séc. IV)} {(PG 46, 259-262)}
+
+@tema
+Temos Cristo, nossa paz e nossa luz
+
+@texto
+_É ele nossa paz, ele que de duas coisas fez uma só_ (Ef 2,14). Ao refletirmos que Cristo é a paz, mostraremos qual o verdadeiro nome do cristão, se pela paz que está em nós expressarmos Cristo por nossa vida. _Ele destruiu a inimi__zade_ (cf. Ef 2,16), como diz o Apóstolo. Não consintamos de modo algum que ela reviva em nós, mas declaremo-la totalmente morta. Não aconteça que, maravilhosamente destruída por Deus para nossa salvação, venhamos, para ruína de nossa alma, cheios de cólera e de lembranças das injúrias, a reerguê-la, quando jazia tão bem morta, chamando-a perversamente de novo à vida.
+Tendo nós, porém, a Cristo que é a paz, matemos igualmente a inimizade, para que testemunhemos por nossa vida aquilo que cremos existir nele. Se, derrubando a parede intermédia, dos dois criou em si mesmo um só homem, fazendo a paz, assim também nós, reconciliemo-nos não apenas com aqueles que nos combatem do exterior, mas ainda com os que incitam sedições dentro de nós mesmos. Que a carne não mais tenha desejos contrários ao espírito, nem o espírito contra a carne. Mas submetida a prudência da carne à lei divina, reedificados como um homem novo e pacífico, de dois feitos um só, tenhamos a paz em nós.
+Na paz se define a concórdia dos adversários. Por isso, terminada a guerra intestina de nossa natureza, cultivando a paz, tornamo-nos paz e manifestamos em nós este verdadeiro e próprio nome de Cristo.
+Cristo é ainda a luz verdadeira, totalmente estranha à mentira; sabemos então que também nossa vida tem de ser iluminada pelos raios da verdadeira luz. Os raios do sol da justiça são as virtudes que dele emanam para iluminar-nos, _para que rejeitemos as obras das trevas e caminhemos_ _nobremente como em pleno dia_ (cf. Rm 13,13). Pelo repúdio de toda ação vergonhosa e escusa, agindo sempre na claridade, tornamo-nos nós também luz e, o que é próprio da luz, resplandeceremos para os outros pelas obras.
+Considerando Cristo como santificação, se nos abstivermos de tudo quanto é mau e impuro, seja nas ações, seja nos pensamentos, apareceremos como verdadeiros participantes deste seu nome, uma vez que, não por palavras, mas pelos atos de nossa vida, manifestamos o poder da santificação.
+
+@secao Responsório | Cf. Lc 1,78.79
+
+@responsorio
+R. Sobre nós fará brilhar o Sol nascente,
+* Para dirigir nossos passos, guiando-os no caminho da paz,
+V. Para iluminar os que jazem entre as trevas
+e na sombra
+da morte estão sentados. * Para dirigir.
+
+@secao Oração
+
+@oracao
+Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

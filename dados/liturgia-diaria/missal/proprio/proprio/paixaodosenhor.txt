@@ -1,0 +1,38 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/paixaodosenhor.htm
+
+@secao Antífona da entrada
+@texto
+(Não há Antífona da entrada.)
+O sacerdote, com os ministros, dirige-se à cadeira. Voltado para a assembleia e de braços abertos profere uma das seguintes orações, omitindo o convite Oremos.
+
+{Oração}
+Lembrai-vos de vossas misericórdias, Senhor,
+e santificai com vossa eterna proteção vossos fiéis,
+pelos quais o Cristo, vosso Filho,
+instituiu, por seu sangue, o mistério pascal.
+Ele, que vive e reina pelos séculos dos séculos.
+R. Amém.
+{Ou:}
+Ó Deus, pela paixão de nosso Senhor Jesus Cristo
+destruístes a morte que o primeiro pecado
+transmitiu a todo o gênero humano.
+Concedei que nos tornemos semelhantes ao vosso Filho
+e, assim como trouxemos pela natureza
+a imagem do homem terrestre,
+possamos manter pela graça a imagem do homem celeste.
+Por Cristo, nosso Senhor.
+R. Amém.
+
+@secao Sobre as oferendas
+@texto
+(Após ser preparado o altar e trazidas as hóstias consagradas, o presidente convida a rezar o Pai-Nosso e segue-se o rito até a comunhão).
+
+@secao Depois da comunhão
+@texto
+Ó Deus eterno e todo-poderoso,
+que nos renovastes pela santa morte e ressurreição do vosso Cristo,
+conservai em nós a obra da vossa misericórdia,
+para que, pela participação neste mistério,
+vos consagremos sempre a nossa vida.
+Por Cristo, nosso Senhor.
+R. Amém.

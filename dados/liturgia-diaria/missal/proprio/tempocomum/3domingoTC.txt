@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/3domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 95,1.6
+@texto
+Cantai ao Senhor um cântico novo,
+cantai ao Senhor, terra inteira.
+Glória e esplendor, em sua presença,
+santidade e beleza no seu santuário.
+
+@secao Coleta
+@texto
+Deus eterno e todo-poderoso,
+dirigi nossas ações segundo a vossa vontade,
+para que, em nome do vosso dileto Filho,
+mereçamos frutificar em boas obras.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei com bondade, Senhor, as nossas oferendas
+para que sejam santificadas
+e nos tragam a salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 33,6
+@texto
+Aproximai-vos do Senhor e sereis iluminados
+e vosso rosto não se cubra de vergonha.
+{Ou:}{Jo 8,12}
+Eu sou a luz do mundo, diz o Senhor.
+Quem me segue, não andará nas trevas,
+mas terá a luz da vida.
+
+@secao Depois da comunhão
+@texto
+Concedei-nos, Deus todo-poderoso,
+que, tendo recebido a graça de participar da vossa vida,
+nos gloriemos sempre dos vossos dons.
+Por Cristo, nosso Senhor.

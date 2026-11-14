@@ -1,0 +1,56 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/bienal/18dezembro_par.htm
+@documento Ofício das Leituras - 18 De Dezembro
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {46,1-13}
+
+@tema
+Contra os ídolos da Babilônia
+
+@texto
+[1] Bel caiu por terra, Nebo ficou prostrado, seus ídolos estão entregues aos animais selvagens e às bestas de carga, esta carga que leváveis é fardo para a besta cansada. [2] Todos juntos ficaram prostrados, caíram por terra, já não conseguem salvar o seu fardo, eles mesmos foram conduzidos ao cativeiro. [3] Ouvi-me, vós, da casa de Jacó, tudo o que resta da casa de Israel, vós, a quem carreguei desde o seio materno, a quem levei desde o berço. [4] Até a vossa velhice continuo o mesmo, até vos cobrirdes de cãs continuo a carregar-vos: eu vos criei e eu vos conduzirei, eu vos carregarei e vos salvarei. [5] A quem haveis de assemelhar-me? Quem igualareis a mim? A quem haveis de comparar-me como se fôssemos semelhantes? [6] Há os que tiram ouro da bolsa e pesam prata na balança, contratam um ourives para lhes fazer um deus, prostram-se diante dele e o adoram. [7] Em seguida, põem-no sobre os ombros e carregam-no, colocam-no no seu lugar para que aí fique, sem afastar-se da sua posição. Por mais que alguém o chame, não responde, da sua tribulação não salva. [8] Lembrai-vos disto e sede homens; caí em vós mesmos, vós, infiéis. [9] Lembrai-vos das coisas passadas há muito tempo, porque eu sou Deus e não há outro! Sim, sou Deus e não há quem seja igual a mim. [10] Desde o princípio anunciei o futuro, desde a antiguidade, aquilo que ainda não acontecera. Eu digo: o meu projeto será realizado, cumprirei aquilo que me apraz. [11] Chamo do oriente uma ave de rapina, de terra distante o homem da minha escolha. Eu o disse, eu o executarei, eu o delineei, eu o cumprirei. [12] Dai-me ouvidos, homens de coração empedernido, que estais longe da justiça. [13] A minha justiça eu a trouxe para perto, ela não está longe; a minha salvação não há de tardar. Estabelecerei em Sião a salvação e darei a Israel a minha glória.
+
+@secao Responsório | Is 46,12.13
+
+@responsorio
+R. Escutai-me, corações endurecidos,
+e vós, todos afastados da justiça:
+* Em Sião colocarei a salvação
+e darei a minha glória a Israel.
+V. Minha justiça se aproxima e não demora,
+e a minha salvaçãonão tarda mais. * Em Sião.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta a Diogneto
+{(Séc. II)} {(Cap. 8, 5–9, 5: Funk 1, 325-327)}
+
+@tema
+Por seu Filho, Deus nos revelou seu amor
+
+@texto
+Nenhum homem viu a Deus nem o conheceu, mas ele mesmo se manifestou. Manifestou-se pela fé, pois só a ela é concedida a visão de Deus. O Senhor e Criador do universo, Deus, que fez todas as coisas e as dispôs em ordem, não só amou os homens, mas também foi paciente com eles. Deus sempre foi, é e será o mesmo: benigno e bom, isento de ira, veraz; só ele é bom. E quando concebeu seu grande e inefável desígnio, só o comunicou a seu Filho. Enquanto mantinha oculto e em reserva seu plano de sabedoria, parecia abandonar-nos e esquecer-se de nós. Mas, quando revelou por seu Filho amado e manifestou o que havia preparado desde o princípio, ofereceu-nos tudo ao mesmo tempo: participar de seus benefícios, ver e compreender. Quem de nós poderia jamais esperar tamanha generosidade? Tendo Deus, portanto, tudo disposto em si mesmo com o seu Filho, deixou-nos, até estes últimos tempos, seguir nossos impulsos desordenados, desviados do caminho reto pelos maus prazeres e paixões. Não que ele tivesse algum gosto com nossos pecados; tolerando-os, não aprovava aquele tempo de iniquidade, mas preparava este tempo de justiça. Assim, convencidos de termos sido, naquele período, indignos da vida em razão de nossas obras, tornemo-nos agora dignos dela pela bondade de Deus. E depois de mostrar nossa incapacidade de entrar pelas próprias forças no Reino de Deus, nos tornemos capazes disso pelo poder divino. Quando, pois, a nossa iniquidade atingiu o auge e se tornou manifesto que a paga merecida do castigo e da morte estava iminente, chegou o tempo estabelecido por Deus para revelar sua bondade e poder. Ó imensa benignidade e amor de Deus! Ele não nos odiou, não nos rejeitou nem se vingou de nós, mas nos suportou com paciência. Cheio de compaixão, assumiu nossos pecados, entregou seu próprio Filho como preço de nossa redenção: o santo pelos pecadores, o inocente pelos maus, o justo pelos injustos, o incorruptível pelos corruptíveis, o imortal pelos mortais. O que poderia apagar nossos pecados a não ser sua justiça? Por quem poderíamos ser justificados, nós, ímpios e maus, senão pelo Filho de Deus? Ó doce intercâmbio, ó misteriosa iniciativa, ó surpreendente benefício, ser a iniquidade de muitos vencida por um só justo e a justiça de um só justificar muitos ímpios!
+
+@secao Responsório | At 4,12; Is 9,6
+
+@responsorio
+R. Não existe salvação em nenhum outro;
+* Não foi dado outro nome sob o céu,
+pelo qual o mundo possa se salvar.
+V. Será seu nome, admirável Conselheiro,
+Deus forte, Pai do século futuro,
+e Príncipe da paz será chamado. * Não foi dado.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, concedei aos que gememos na antiga escravidão, sob o jugo do pecado, a graça de ser libertados pelo novo natal do vosso Filho, que tão ansiosamente esperamos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

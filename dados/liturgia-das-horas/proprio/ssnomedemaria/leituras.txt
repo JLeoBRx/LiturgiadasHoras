@@ -1,0 +1,168 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/ssnomedemaria.htm
+@documento Ofício das Leituras - Santíssimo Nome De Maria
+
+@celebracao
+SANTÍSSIMO NOME DE MARIA
+
+@biografia
+Segundo a tradição bíblica, Deus valoriza o nome das pessoas, ligando-o à sua identidade e missão. A celebração do Santíssimo Nome de Maria, de origem devocional, foi instituída na Espanha em 1513 e estendida, em 1683, a toda a Igreja pelo Papa Inocêncio XI. Nela, a Igreja evoca o inefável amor da Mãe de Deus por seu amado Filho e propõe aos fiéis o nome de Maria para ser piedosamente invocado.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías 7,10-14; 8,10c; {11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel; [8,10] porque Deus está conosco.
+[11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor;
+[2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus;
+[3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer;
+[4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a força da sua palavra
+e destruirá o mau com o sopro dos lábios.
+[5] Cingirá a cintura com a correia da justiça
+e as costas com a faixa da fidelidade.
+[6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los.
+[7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi;
+[8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente.
+[9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São Bernardo, abade, em louvor da Virgem Mãe
+{(Séc. XII)} {(Hom. 2, 17, 1-33: SC 390, 1993, 168-170)}
+{(tradução não oficial)}
+
+@tema
+Em todos os momentos,_
+_pensa em Maria e invoca Maria
+
+@texto
+O nome da Virgem era Maria, diz o evangelista. Falemos um pouco a propósito deste nome, que para alguns significa “estrela do mar” e se adapta perfeitamente à Virgem Mãe. De fato ela é comparada muito apropriadamente a uma estrela. Assim como o astro emite os seus raios de luz sem corromper-se, também a Virgem deu à luz o seu Filho sem sofrer dano algum. Nem o raio luminoso diminuiu a claridade da estrela, nem o Filho alterou a integridade da Virgem. Ela é a nobre estrela nascida de Jacó, cuja irradiação ilumina todo o universo, cujo esplendor brilha nos céus e penetra nos abismos, resplandece na terra e aquece as almas mais que os corpos, fomenta as virtudes e queima os vícios. Ela é a estrela brilhante e magnífica que nada impede de se elevar sobre este mar vasto e imenso, refulgente nos seus méritos e iluminando pelos seus exemplos.
+Tu que te vês, nas flutuações deste mundo, agitado no meio das tempestades em vez de caminhar sobre terra firme, não afastes os olhos do brilho desta estrela, se não queres naufragar nas tormentas. Se se levantam os ventos das tentações, se te precipitas nos recifes das tribulações, olha para a estrela, invoca Maria. Se és sacudido pelas vagas do orgulho ou da ambição ou da maledicência ou da inveja, olha para a estrela, invoca Maria. Se a ira ou a avareza ou os atrativos da carne sacodem a barquinha da tua mente, olha para Maria. Se, perturbado pela enormidade dos teus pecados, confundido pela imundície da tua consciência, aterrorizado pelo horror do julgamento, começas a ser absorvido pelo abismo da tristeza, pelo precipício do desespero, pensa em Maria.
+Nos perigos, nas angústias, nas dúvidas, pensa em Maria, invoca Maria. Não esteja o seu nome ausente da tua boca, não esteja ausente do teu coração. E para obter o socorro das suas orações, não te separes do exemplo da sua vida. Se a segues, não te extraviarás; se a invocas, não desesperarás; se pensas nela, não errarás. Sob a sua protecção, não terás medo; sob a sua direção, não te cansarás; sob o seu amparo, alcançarás a meta. E assim experimentarás em ti mesmo como é verdadeira esta palavra: E o nome da Virgem era Maria.
+
+@secao Responsório | Eclo 24,27-28; Lc 1,27c
+
+@responsorio
+R. Porque minha lembrança é mais doce do que o mel,
+minha herança mais doce do que o favo de mel.
+* E o nome da virgem era Maria.
+V. Minha memória permanecerá nas gerações pelos séculos.
+* E o nome.
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, nós vos pedimos: concedei a todos os que celebramos o glorioso nome da Santíssima Virgem Maria que ela nos obtenha os benefícios da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

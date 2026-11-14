@@ -1,0 +1,236 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saomateus.htm
+@documento Ofício das Leituras - São Mateus, Apóstolo E Evangelista Festa
+
+@celebracao
+SÃO MATEUS, APÓSTOLO E EVANGELISTA
+{Festa}
+
+@biografia
+Nasceu em Cafarnaum, e exercia a profissão de cobrador de impostos quando Jesus o chamou. Escreveu o Evangelho em língua hebraica e, segundo uma tradição, pregou no Oriente.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Efésios {4,1-16}
+
+@tema
+Diversificação dos dons em um único corpo
+
+@texto
+Irmãos: [1] Eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocaçãoque recebestes: [2] Com toda a humildade e mansidão, suportai-vos uns aos outros compaciência, no amor. [3] Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. [4] Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fosteschamados. [5] Há um só Senhor, uma só fé, um só batismo, [6] um só Deus e Pai de todos,que reina sobre todos, age por meio de todos e permanece em todos. [7] Cada um de nós recebeu a graça na medida em que Cristo lha deu. [8] Daí esta palavra:“Tendo subido às alturas, ele capturou prisioneiros,e distribuiu dons aos homens”. [9] “Ele subiu”! Que significa isso, senão que ele desceu também às profundezas da terra? [10] Aquele que desceu é o mesmo que subiu mais alto do que todos os céus,a fim deencher o universo. [11] E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros aindacomo evangelistas, outros, enfim, como pastores e mestres. [12] Assim, ele capacitou ossantos para o ministério, para edificar o corpo de Cristo, [13] até que cheguemos todosjuntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homemperfeito e à estatura de Cristo em sua plenitude. [14] Assim, não seremos mais crianças aosabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens einduzidos por sua astúcia ao erro. [15] Motivados pelo amor queremos ater-nos à verdade ecrescer em tudo até atingirmos aquele que é a Cabeça, Cristo. [16] Graças a ele, o corpo,coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seucrescimento, segundo uma atividade à medida de cada membro, para a sua edificação noamor.
+
+@secao Responsório | Cf. 2Pd 1,21; Pr 2,6
+
+@responsorio
+R. Profecia alguma existiu pela mente humana inspirada;
+* Pois, os homens de Deus nos falaram
+pelo Espírito Santo inspirados.
+V. É o Senhor quem dá a sabedoria,
+de sua boca procede a prudência. * Pois os homens.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias de São Beda Venerável, presbítero
+{(Séc.VI)} {(Hom. 21:CCL, 122,149-151)}
+
+@tema
+Jesus viu-o, compadeceu-se dele e o chamou
+
+@texto
+Jesus viu um homem chamado Mateus, assentado à banca de impostos, e disse-lhe:_Segue-me_(Mt 9,9). Viu-o não tanto com os olhos corporais quanto com a vista daíntima compaixão. Viu o publicano, dele se compadeceu e o escolheu. Disse-lhe então:Segue-me. Segue, quis dizer, imita; segue, quis dizer, não tanto pelo andar dos pés,quanto pela realização dos atos. Pois quem diz que permanece em Cristo, deve andarcomo ele andou (1Jo 2,6)._E levantando-se, o seguiu_ (Mt 9,9). Não é de admirar que o publicano, ao primeirochamado do Senhor, tenha abandonado os lucros terrenos de que cuidava e, desprezandoa opulência, aderisse aos seguidores daquele que via não possuir riqueza alguma. Pois opróprio Senhor que o chamara exteriormente com a palavra, interiormente lhe ensinoupor instinto invisível a segui-lo, infundindo em seu espírito a luz da graça espiritual.Com esta compreenderia que quem o afastava dos tesouros temporais podia dar-lhe noscéus os tesouros incorruptíveis._E aconteceu que, estando ele em casa, muitos publicanos e pecadores vieram e__puseram-se à mesa com Jesus e seus discípulos_ (Mt 9,10). A conversão de umpublicano deu a muitos publicanos e pecadores o exemplo da penitência e do perdão.Belo e verdadeiro prenúncio! Aquele que seria apóstolo e doutor dos povos, logo noprimeiro encontro arrasta após si para a salvação um grupo de pecadores. Assim inicia oofício de evangelizar desde os primeiros começos de sua fé aquele que viria a realizareste ofício plenamente com o merecido progresso das virtudes. Contudo se quisermosindagar pelo sentido mais profundo deste acontecimento nós o entenderemos: a Mateusfoi muito mais grato o banquete na casa do seu coração, preparado pela fé e pelo amordo que o banquete terreno que ele ofereceu ao Senhor. Atesta-o aquele mesmo que diz:_Eis que estou à porta e bato; se alguém ouvir minha voz e abrir a porta, entrarei e__cearei com ele e ele comigo_ (Ap 3,20).Ouvindo a sua voz, abrimos a porta para recebê-lo, ao aceitarmos de bom grado suasadvertências secretas ou evidentes e nos pormos a realizar aquilo que compreendemoscomo o nosso dever. Ele entra para que ceemos, ele conosco e nós com ele, porque, pelagraça de seu amor, habita nos corações dos eleitos para alimentá-los sempre com a luzde sua presença. Possam assim os eleitos cada vez mais progredir no desejo do alto, eele mesmo se alimente com os desejos deles como com pratos deliciosos.
+
+@secao Responsório
+
+@responsorio
+R. Habilidoso escritor e instruído na lei
+do seu Deus, no alto céu,
+* De corpo e alma dedicou-se ao estudo,
+à observância e ao ensino dos preceitos de Cristo,
+conduzido e amparado pela mão de seu Deus.
+V. O Evangelho da glória do Deus imenso e santo
+lhe foi confiado. * De corpo e alma.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que na vossa inesgotável misericórdia escolhestes o publicano Mateus para torná-lo Apóstolo, dai-nos, por sua oração e exemplo, a graça de vos seguir e permanecer sempre convosco. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,90 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/leituras/2tercaAdvento.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo 2ª SEMANA DO ADVENTO / TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {24,19–25,5}
+
+@tema
+O Reino de Deus. Ação de graças
+
+@texto
+Naquele dia: [24,19] A terra sofreu roturas,
+esmagada por grandes choques,
+a terra estremeceu de medo;
+[20] a terra agita-se, cambaleia como bêbado,
+ou balança como tenda ao vento;
+pesará sobre ela o seu crime,
+ela cairá e não conseguirá levantar-se. [21] Naquele dia,
+o Senhor sustará no alto os milicianos do céu
+e na terra os reis da terra;
+[22] todos serão ajuntados e amarrados num fosso
+ou fechados numa prisão,
+e aí ficarão impedidos por muito tempo. [23] A lua enrubescerá e o sol perderá o brilho.
+Sim, reina o Senhor dos exércitos
+no monte Sião e em Jerusalém,
+a ele será dada glória pelos seus anciãos. [25,1] Senhor, és o meu Deus;
+eu te exaltarei e louvarei o teu nome,
+porque fizeste maravilhas,
+de acordo com o teu antigo desígnio,
+fiel e verdadeiro. [2] E porque transformaste a cidade num montão
+e a fortaleza numa ruína,
+a cidadela dos valentões não será mais uma cidade,
+nunca mais será reconstruída. [3] Por isso te louvará um povo forte,
+as nações fortes te saberão temer,
+[4] porque te fizeste força para o fraco,
+força em suas aflições,
+abrigo na tempestade,
+sombra contra o calor;
+já o auxílio dos poderosos
+é como chuva no inverno. [5] Como o calor no deserto,
+assim abaterás a arrogância dos soberbos;
+como o calor à sombra da nuvem,
+farás emudecer a canção dos poderosos.
+
+@secao Responsório | Is 25,1.4
+
+@responsorio
+R. Ó Senhor, vós sois meu Deus,
+quero exaltar o vosso nome,
+* Pois fizestes maravilhas.
+V. Sois dos fracos o refúgio,
+do indigente, a fortaleza. * Pois fizestes maravilhas.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição dogmática Lumen gentium sobre a Igreja, do Concílio Vaticano II
+{(Séc. XX)} {(N. 48)}
+
+@tema
+Índole escatológica da Igreja peregrina
+
+@texto
+A Igreja, à qual somos todos chamados no Cristo Jesus e na qual, pela graça de Deus, alcançamos a santidade, só será consumada na glória celeste, quando chegar o tempo da restauração de todas as coisas; e quando, com o gênero humano, também o mundo inteiro, que está intimamente unido ao homem e por ele atinge o seu fim, for perfeitamente recapitulado no Cristo. Cristo, ao ser elevado da terra, atraiu a si todos os homens; ressuscitado dos mortos, enviou aos discípulos seu Espírito vivificante e por meio dele constituiu seu Corpo, que é a Igreja, como sacramento universal de salvação. Sentado à direita do Pai, age continuamente no mundo para conduzir os homens à Igreja e por ela uni-los mais estreitamente a si e, alimentando-os com seu Corpo e seu Sangue, torná-los participantes de sua vida gloriosa. A restauração que nos foi prometida e que esperamos já começou, pois, em Cristo, prossegue na missão do Espírito Santo e por meio dele continua na Igreja que, pela fé, também nos ensina o sentido de nossa vida temporal, enquanto, com a esperança dos bens futuros, vamos realizando a obra que o Pai nos confiou no mundo e trabalhamos para a nossa salvação. Já chegou para nós o fim dos tempos; a renovação do mundo foi irrevogavelmente decidida e de certo modo é realmente antecipada neste mundo. De fato, a Igreja possui, já na terra, uma verdadeira santidade, embora imperfeita. Contudo, até que venham os novos céus e a nova terra onde habita a justiça, a Igreja peregrina, em seus sacramentos e instituições que pertencem a este tempo, traz consigo a figura deste mundo que passa, e vive entre as criaturas que até agora gemem e sofrem dores de parto, aguardando a manifestação dos filhos de Deus.
+
+@secao Responsório | Fl 3,20-21; Tt 2,12
+
+@responsorio
+R. Aguardamos com viva esperança
+o Salvador e Senhor Jesus Cristo,
+* Que mudará nosso corpo humilhado,
+conformando-o ao seu corpo glorioso.
+V. Na justiça e piedade vivamos,
+aguardando a bendita esperança
+e a vinda do Cristo, Senhor. * Que mudará nosso corpo humilhado,
+conformando-o ao seu corpo glorioso.
+
+@secao Oração
+
+@oracao
+Ó Deus, que manifestastes o vosso Salvador até os confins da terra, dai-nos esperar com alegria a glória do seu natal. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

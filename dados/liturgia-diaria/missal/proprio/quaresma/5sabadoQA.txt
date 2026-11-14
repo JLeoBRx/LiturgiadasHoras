@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/5sabadoQA.htm
+
+@secao Antífona da entrada | Cf. Sl 21,20.7
+@texto
+Senhor, não afasteis de mim o vosso auxílio;
+olhai para mim em minha defesa,
+pois sou um verme e não um homem,
+vergonha dos homens e desprezo do povo.
+
+@secao Coleta
+@texto
+Deus, que fizestes de todos os renascidos em Cristo
+uma nação santa e um sacerdócio régio,
+concedei-nos a vontade e a força de fazer o que ordenais,
+para que o povo chamado à eternidade
+seja concorde na fé e justo nas ações.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, Senhor, nós vos pedimos,
+as oferendas do nosso jejum;
+elas nos tornem dignos da graça do vosso perdão
+e nos conduzam às promessas eternas.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Jo 11,52
+@texto
+O Cristo foi entregue
+para congregar na unidade os filhos de Deus,
+que estavam dispersos.
+
+@secao Depois da comunhão
+@texto
+Senhor, nós vos pedimos humildemente:
+assim como nos alimentais
+com o sacramento do Corpo e Sangue de Cristo,
+dai-nos participar da natureza divina.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Tende compaixão, Senhor,
+da vossa Igreja suplicante
+e olhai com bondade para os que,
+de coração sincero, se inclinam na vossa presença,
+de modo que não sejam culpados do pecado
+nem oprimidos pela adversidade
+aqueles que resgatastes pela morte do vosso Filho Unigênito.
+Que vive e reina pelos séculos dos séculos.

@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/martiriobatista_laudes.htm
+@documento Laudes - Martírio de São João Batista
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Logo ao nasceres não trazes mancha,
+João Batista, severo asceta,
+mártir potente, do ermo amigo,
+grande Profeta.
+
+De trinta frutos uns se coroam.
+A fronte de outros o dobro cinge;
+Tua coroa, dando três voltas,
+os cem atinge.
+
+Assim cingido de tanto mérito,
+retira as pedras do nosso peito,
+torto caminho, chão de alto e baixo,
+torna direito.
+
+Faze que um dia, purificados,
+vindo a visita do Redentor,
+possa em noss’alma, que preparaste,
+seus passos pôr.
+
+A vós, Deus Único, o céu celebra,
+Trino em pessoas canta também.
+Mas nós na terra, impuros, pedimos
+perdão. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor estendeu sua mão
+e tocou minha boca e meus lábios;
+fez de mim o profeta dos povos.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor estendeu sua mão
+e tocou minha boca e meus lábios;
+fez de mim o profeta dos povos.
+
+@antifona 2
+Herodes tinha medo de João
+e o guardava sob a sua proteção,
+pois sabia que ele era justo e santo.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Herodes tinha medo de João
+e o guardava sob a sua proteção,
+pois sabia que ele era justo e santo.
+
+@antifona 3
+Herodes gostava de ouvir João Batista,
+e em muito seguia o que ele dizia.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Herodes gostava de ouvir João Batista,
+e em muito seguia o que ele dizia.
+
+@secao Leitura breve | Is 49,1b-2
+
+@texto
+O Senhor chamou-me antes de eu nascer, desde o ventre de minha mãe ele tinha na mente o meu nome; fez de minha palavra uma espada afiada, protegeu-me à sombra de sua mão e fez de mim uma flecha aguçada, escondida em sua aljava.
+
+@secao Responsório breve
+
+@responsorio
+R. Enviastes mensageiros a João,
+* E ele deu testemunho da verdade. R. Enviastes.
+V. Foi um facho que arde e ilumina. * E ele deu.
+Glória ao Pai. R. Enviastes.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O amigo do Esposo, que espera para ouvi-lo,
+é tomado de alegria ao ouvir a voz do Esposo:
+eis a minha alegria, alegria sem limites.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O amigo do Esposo, que espera para ouvi-lo,
+é tomado de alegria ao ouvir a voz do Esposo:
+eis a minha alegria, alegria sem limites.
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo, que enviou João Batista como precursor, para preparar os seus caminhos; e digamos com toda confiança:
+
+R. **Cristo, sol nascente, iluminai os nossos caminhos!**
+
+Vós fizestes João Batista exultar de alegria no seio de Isabel;
+– fazei que sempre nos alegremos com a vossa vinda a este mundo. R.
+
+Vós nos indicastes o caminho da penitência pela palavra e pela vida de João Batista;
+– convertei os nossos corações aos mandamentos do vosso reino. R.
+
+Vós quisestes ser anunciado pela voz de um homem;
+– enviai pelo mundo inteiro mensageiros do vosso evangelho. R.
+
+Vós quisestes ser batizado por João no rio Jordão, para que se cumprisse toda a justiça;
+– fazei-nos trabalhar com empenho para estabelecer a justiça do vosso reino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que São João Batista fosse o precursor do nascimento e da morte do vosso Filho; como ele tombou na luta pela justiça e a verdade, fazei-nos também lutar corajosamente para testemunhar a vossa palavra. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

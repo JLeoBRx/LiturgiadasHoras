@@ -1,0 +1,136 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3terca_vesperas.htm
+@documento Vésperas - Terça-Feira
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó grande Autor da terra,
+que, as águas repelindo,
+do mundo o solo erguestes,
+a terra produzindo,
+
+de plantas revestida,
+ornada pelas flores,
+e dando muitos frutos,
+diversos em sabores.
+
+Lavai as manchas da alma
+na fonte, pela graça.
+O pranto em nossos olhos
+as más ações desfaça.
+
+Seguindo as vossas leis,
+lutemos contra o mal,
+felizes pelo dom
+da vida perenal.
+
+Ouvi-nos, Pai bondoso,
+e vós, dileto Filho,
+unidos pelo Espírito
+na luz de eterno brilho.
+
+@secao Salmodia
+
+@antifona 1
+Deus nos cerca de carinho e proteção.
+
+@salmo salmos/salmo-124-v2
+
+@gloria
+
+@antifona
+Deus nos cerca de carinho e proteção.
+
+@antifona 2
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@salmo salmos/salmo-130
+
+@gloria
+
+@antifona
+Tornai-nos, Senhor, como crianças,
+para podermos entrar em vosso Reino!
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@secao Leitura breve | Rm 12,9-12
+
+@texto
+O amor seja sincero. Detestai o mal, apegai-vos ao bem. Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, alegres por causa da esperança, fortes nas tribulações, perseverantes na oração.
+
+@secao Responsório breve
+
+@responsorio
+R. Vossa palavra, ó Senhor,
+* Permanece eternamente. R. Vossa palavra.
+V. Vossa verdade é para sempre. * Permanece.
+Glória ao Pai. R. Vossa palavra.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Exulte meu espírito em Deus, meu Salvador!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Exulte meu espírito em Deus, meu Salvador!
+
+@secao Preces
+
+@preces
+Invoquemos a Deus, esperança do seu povo; e aclamemos com alegria:
+
+R. **Senhor, sois a esperança do vosso povo!**
+
+Nós vos damos graças, Senhor, porque nos enriquecestes em tudo, por Jesus Cristo,
+– com o dom da palavra e do conhecimento. R.
+
+Concedei a vossa sabedoria aos que governam as nações,
+– para que o vosso conselho ilumine seus corações e seus atos. R.
+
+Vós, que tornais os artistas capazes de exprimir a vossa beleza, por meio da sua sensibilidade e imaginação,
+– fazei de suas obras uma mensagem de alegria e de esperança para o mundo. R.
+
+Vós, que não permitis sermos tentados acima de nossas forças,
+– fortalecei os fracos e levantai os caídos. R.
+
+{(intenções livres)}
+
+Vós, que, por vosso Filho, prometestes aos seres humanos ressuscitarem para a vida eterna no último dia,
+– não esqueçais para sempre os que já partiram deste mundo. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Pai cheio de bondade, suba até vós nossa oração da tarde e desça sobre nós a vossa bênção, para que, agora e sempre, possamos alcançar a graça da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

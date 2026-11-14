@@ -1,0 +1,127 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1domingo_quaresma.htm
+@documento Ofício das Leituras - 1º Domingo Da Quaresma
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Seguindo o preceito místico,
+guardemos a abstinência
+durante os quarenta dias
+votados à penitência.
+
+A Lei e os Profetas dantes
+cumpriram igual preceito,
+Mas Cristo, no seu deserto,
+viveu o jejum perfeito.
+
+Usemos de modo sóbrio
+da fala, bebida e pão,
+do sono e do riso e, atentos,
+peçamos a Deus perdão.
+
+Fujamos do mal oculto
+que os laços do amor desfaz;
+à voz do tirano astuto
+não demos lugar jamais.
+
+Ouvi, Unidade simples,
+Trindade, Supremo Bem:
+a graça da penitência
+dê frutos em nós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A árvore da vida, ó Senhor, é a vossa cruz.
+
+@salmo salmos/salmo-001
+
+@gloria
+
+@antifona
+A árvore da vida, ó Senhor, é a vossa cruz.
+
+@antifona 2
+Fui eu mesmo que escolhi este meu Rei, e em Sião, meu monte santo, o consagrei.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Fui eu mesmo que escolhi este meu Rei, e em Sião, meu monte santo, o consagrei.
+
+@antifona 3
+Sois vós o meu escudo protetor, a minha glória que levanta minha cabeça.
+
+@salmo salmos/salmo-003
+
+@gloria
+
+@antifona
+Sois vós o meu escudo protetor, a minha glória que levanta minha cabeça.
+
+@texto
+V. O homem não vive somente de pão,
+R. Mas de toda a palavra da boca de Deus.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo{5,1–6,1}
+
+@tema
+Opressão do povo de Deus
+
+@texto
+Naqueles dias, [5,1] Moisés e Aarão apresentaram-se ao Faraó e lhe disseram: “Assim disse o Senhor Deus de Israel: ‘Deixa o meu povo partir, para me oferecer sacrifícios no deserto!’”. [2] Ele, porém, respondeu: “Quem é o Senhor, para que eu ouça a sua voz e deixe ir Israel? Não conheço o Senhor e não deixarei Israel partir”. [3] Eles disseram: “O Deus dos hebreus veio ao nosso encontro. Deixa-nos ir a três dias de marcha no deserto, para oferecermos sacrifícios ao Senhor nosso Deus. Do contrário, a peste e a espada virão sobre vós”. [4] O rei do Egito respondeu-lhes: “Moisés e Aarão, por que distraís o povo de seus trabalhos? Ide para as vossas tarefas!” [5] E o Faraó acrescentou: “A população do país é muito numerosa; vós vedes que a população aumentou, e quereis agora fazer com que interrompam suas tarefas?” [6] Naquele mesmo dia o Faraó ordenou aos inspetores do povo e aos capatazes, dizendo: [7] “Não forneçais mais palha ao povo para fazer tijolos, como fazíeis antes: que eles mesmos juntem a palha necessária. [8] Exigi, porém, a mesma quantidade de tijolos que antes, sem diminuir nada. Pois são uns preguiçosos e por isso gritam, dizendo: ‘Vamos oferecer sacrifícios ao nosso Deus’. [9] Carregai esses homens com mais trabalho, e que realizem suas tarefas; e não deis ouvidos a palavras mentirosas”. [10] Os inspetores do povo e seus capatazes foram, pois, dizer ao povo: “Assim disse o Faraó: Não vos dou mais palha; [11] ide e juntai-a vós mesmos onde a puderdes encontrar. E, nem por isso, se diminuirá em nada o vosso trabalho”. [12] O povo, então, se dispersou por toda a terra do Egito em busca de palha. [13] Mas os inspetores de obras os pressionavam, dizendo: “Completai a tarefa marcada para cada dia, como fazíeis quando vos davam palha”. [14] E os inspetores do Faraó açoitaram os capatazes dos filhos de Israel, que eles haviam nomeado, alegando: “Por que não completastes nem ontem nem hoje a mesma quantidade de tijolos que fazíeis antes?”
+[15] Então os capatazes dos filhos de Israel foram se queixar ao Faraó, e clamaram: “Por que tratas assim os teus servos? [16] Não nos fornecem palha, e exigem a mesma quantidade de tijolos; nós, os teus servos, somos açoitados, mas o culpado é o teu povo”. [17] O Faraó respondeu: “Sois uns preguiçosos e por isso dizeis: ‘Vamos oferecer sacrifícios ao Senhor’. [18] E, agora, ide trabalhar! Não vos será dada a palha, mas deveis produzir a mesma quantidade de tijolos”. [19] Os capatazes dos filhos de Israel viram-se em má situação, porque lhes diziam: “Nada se diminuirá do número de tijolos que haveis de fornecer cada dia”. [20] Quando saíram da presença do Faraó, encontraram Moisés e Aarão, que estavam à espera deles, [21] e lhes disseram: “Que o Senhor vos examine e vos julgue, pois nos tornastes odiosos aos olhos do Faraó e de seus servos, e lhes pusestes na mão a espada para nos matar”. [22] Então Moisés voltou-se para o Senhor e disse: “Senhor, por que afligiste este povo? Por que me enviaste? [23] Pois, desde que me apresentei ao Faraó para lhe falar em teu nome, ele tem atormentado o teu povo e tu de modo algum o libertaste”. [6,1] E o Senhor disse a Moisés: “Agora verás o que eu vou fazer ao Faraó. Por mão forte deixará partir os filhos de Israel, e será mesmo coagido a expulsá-los da sua terra”.
+
+@secao Responsório | Cf. Ex 5,1.3
+
+@responsorio
+R. Moisés dirigiu-se ao Faraó e lhe disse:
+* Deixa ir o meu povo para que, no deserto, me faça uma festa.
+V. O Deus dos hebreus mandou-me dizer-te: * Deixa ir.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de Santo Agostinho, bispo
+{(Séc.V)} {(Ps 60, 2-3:CCL39,766)}
+
+@tema
+No Cristo fomos tentados e nele vencemos o demônio
+
+@texto
+Ouvi, ó Deus, a minha súplica, atendei a minha oração (Sl 60,2). Quem é que fala assim? Parece ser um só: Dos confins da terra a vós eu clamo, e em mim o coração já desfalece (Sl 60,3). Então já não é um só, e contudo é somente um, porque o Cristo, de quem todos somos membros, é um só. Como pode um único homem clamar dos confins da terra? Quem clama dos confins da terra é aquela herança a respeito da qual foi dito ao próprio Filho: Pede-me e te darei as nações como herança e os confins da terra por domínio (Sl 2,8).
+Portanto, é esse domínio de Cristo, essa herança de Cristo, esse corpo de Cristo, essa Igreja de Cristo, essa unidade que somos nós, que clama dos confins da terra. E o que clama? O que eu disse acima: Ouvi, ó Deus, a minha súplica, atendei a minha oração; dos confins da terra a vós eu clamo. Sim, clamei a vós dos confins da terra, isto é, de toda parte. Mas por que clamei? Porque em mim o coração já desfalece. Revela com estas palavras que ele está presente a todos os povos no mundo inteiro, não rodeado de grande glória mas no meio de grandes tentações.
+Com efeito, nossa vida,enquanto somos peregrinos neste mundo, não pode estar livre de tentações, pois é através delas que se realiza nosso progresso e ninguém pode conhecer-se a si mesmo sem ter sido tentado. Ninguém pode vencer sem ter combatido, nem pode combater se não tiver inimigo e tentações.
+Aquele que clama dos confins da terra está angustiado, mas não está abandonado. Porque foi a nós mesmos, que somos o seu corpo, que o Senhor quis prefigurar em seu próprio corpo, no qual já morreu, ressuscitou e subiu ao céu, para que os membros tenham a certeza de chegar também aonde a cabeça os precedeu. Portanto, o Senhor nos representou em sua pessoa quando quis ser tentado por Satanás. Líamos há pouco no Evangelho que nosso Senhor Jesus Cristo foi tentado pelo demônio no deserto. De fato, Cristo foi tentado pelo demônio. Mas em Cristo também tu eras tentado, porque ele assumiu a tua condição humana, para te dar a sua salvação; assumiu a tua morte, para te dar a sua vida; assumiu os teus ultrajes, para te dar a sua glória; por conseguinte, assumiu as tuas tentações, para te dar a sua vitória. Se nele fomos tentados, nele também vencemos o demônio. Consideras que o Cristo foi tentado e não consideras que ele venceu? Reconhece-te nele em sua tentação, reconhece-te nele em sua vitória. O Senhor poderia impedir o demônio de aproximar-se dele; mas, se não fosse tentado, não te daria o exemplo de como vencer na tentação.
+
+@secao Responsório | Cf. Jr 1,19; 39,18
+
+@responsorio
+R. Farão guerra contra ti, mas não te vencerão.
+* Porque eu, diz o Senhor, contigo estarei e eu hei de te livrar.
+V. Da espada escaparás e tua vida salvarás. * Porque eu, diz o Senhor, contigo estarei e eu hei de te livrar.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que, ao longo desta Quaresma, possamos progredir no conhecimento de Jesus Cristo e corresponder ao seu amor por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

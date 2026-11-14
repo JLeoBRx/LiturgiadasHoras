@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5tercapascoa_sexta.htm
+@documento Hora Média - Sexta - Terça-feira da 5ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-1-8-i-aleph-v2
+
+@gloria
+
+@salmo salmos/salmo-012
+
+@gloria
+
+@salmo salmos/salmo-013
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | Cf. 1Pd 3,21-22a
+
+@texto
+O batismo é hoje a vossa salvação pois ele não serve para limpar o corpo da imundície, mas é um pedido a Deus para obter uma boa consciência, em virtude da ressurreição de Jesus Cristo que está à direita de Deus.
+
+@texto
+V. Os discípulos ficaram muito alegres, aleluia,
+R. Por verem o Senhor ressuscitado. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela ressurreição do Cristo nos renovais para a vida eterna, dai ao vosso povo constância na fé e na esperança, para que jamais duvide das vossas promessas. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,146 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/arcanjos_vesperas.htm
+@documento Vésperas - Santos Miguel, Gabriel e Rafael, Arcanjos
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Lá do alto enviai-nos, ó Cristo,
+vosso anjo da paz, São Miguel.
+Sua ajuda fará vosso povo
+crescer mais, prosperando, fiel.
+
+Gabriel, o anjo forte na luta,
+nosso tempo sagrado visite,
+lance fora o antigo inimigo
+e, propício, conosco habite.
+
+Enviai-nos dos céus Rafael,
+o bom anjo que cura os doentes,
+para a todos os males sarar
+e guiar nossos atos e as mentes.
+
+Cristo, glória dos coros celestes,
+vossos anjos nos venham guiar,
+para, unidos a eles um dia,
+glória eterna ao Deus Trino cantar.
+
+@secao Salmodia
+
+@antifona 1
+Rei dos anjos, desdobrastes
+vossa glória além dos céus.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+Rei dos anjos, desdobrastes
+vossa glória além dos céus.
+
+@antifona 2
+Perante os vossos anjos vou cantar-vos, ó meu Deus.
+
+@salmo salmos/salmo-137
+
+@gloria
+
+@antifona
+Perante os vossos anjos vou cantar-vos, ó meu Deus.
+
+@antifona 3
+Vi diante do trono de Deus
+um Cordeiro de pé imolado,
+e ouvi o cantar de milhares
+de anjos que estavam em volta.
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Vi diante do trono de Deus
+um Cordeiro de pé imolado,
+e ouvi o cantar de milhares
+de anjos que estavam em volta.
+
+@secao Leitura breve | Ap 1,4b-5.6b
+
+@texto
+A vós, graça e paz, da parte daquele que é, que era e que vem; da parte dos sete espíritos que estão diante do trono de Deus; e da parte de Jesus Cristo, a testemunha fiel, o primeiro a ressuscitar dentre os mortos, o soberano dos reis da terra. A ele, que nos ama, que por seu sangue nos libertou dos nossos pecados, a glória e o poder.
+
+@secao Responsório breve
+
+@responsorio
+R. Subiu a fumaça do incenso
+* À presença de Deus. R. Subiu a fumaça.
+V. Com as preces dos santos. * À presença.
+Glória ao Pai. R. Subiu a fumaça.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O anjo Gabriel a Maria anunciou:
+Haverás de conceber um Menino e dar à luz
+e a ele chamarás com o nome de Jesus.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O anjo Gabriel a Maria anunciou:
+Haverás de conceber um Menino e dar à luz
+e a ele chamarás com o nome de Jesus.
+
+@secao Preces
+
+@preces
+Peçamos ao Senhor que nos torne cada vez mais atentos em ouvir a sua palavra, como os anjos que fazem a sua vontade; e digamos:
+
+R. **Nós vos rogamos, Senhor, ouvi-nos!**
+
+Que as nossas orações, como suave perfume,
+– subam à vossa presença pelas mãos dos anjos. R.
+
+Que as nossas oferendas sejam levadas ao vosso altar celeste,
+– pelas mãos do vosso santo anjo. R.
+
+Que junto com a multidão dos anjos, possamos anunciar:
+– glória a Deus nas alturas e paz na terra aos seres humanos por ele amados. R.
+
+Que no fim da nossa peregrinação terrestre os anjos nos recebam,
+– e nos conduzam à pátria celeste. R.
+
+{(intenções livres)}
+
+Que o arcanjo São Miguel conduza para a luz santa em que habitais,
+– as almas de todos os fiéis defuntos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que organizais de modo admirável o serviço dos Anjos e dos homens, fazei que sejamos protegidos na terra por aqueles que vos servem no céu. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

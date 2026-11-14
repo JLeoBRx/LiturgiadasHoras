@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saobernardo_vesperas.htm
+@documento Vésperas - São Bernardo, abade e doutor da Igreja
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Bernardo, luz celeste,
+que agora festejamos,
+transforma em dons divinos
+os hinos que cantamos.
+
+O Cristo no teu peito,
+sol vivo que flameja,
+te faz coluna, escudo,
+doutor da sua Igreja.
+
+O Espírito em teus lábios
+pôs fontes de verdade
+e mel que se derrama
+por toda a humanidade.
+
+Ninguém com mais ternura
+nos fala de Maria:
+busquemos na procela
+a Estrela que nos guia!
+
+De claustros tu semeias
+a Europa e o mundo inteiro,
+os papas te consultam,
+dos reis és conselheiro.
+
+Ao Deus, que é uno e trino,
+as vozes elevemos,
+e um dia, face a face,
+contigo contemplemos.
+
+@secao Salmodia
+
+@antifona 1
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Sou ministro do Evangelho pela graça do Senhor. Aleluia.
+
+@antifona 2
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família.
+
+@antifona 3
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Minhas ovelhas ouvirão a minha voz,
+e haverá um só rebanho e um só pastor.
+
+@secao Leitura breve | Tg 3,17-18
+
+@texto
+A sabedoria que vem do alto é, antes de tudo, pura, depois pacífica, modesta, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade e sem fingimento. O fruto da justiça é semeado na paz, para aqueles que promovem a paz.
+
+@secao Responsório breve
+
+@responsorio
+R. No meio da assembleia
+* Falou palavras sábias. R. No meio.
+V. Deus o encheu com seu Espírito de saber e inteligência. * Falou.
+Glória ao Pai. R. No meio.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Doutor melífluo, São Bernardo, do Esposo sois amigo,
+sois cantor da Virgem Mãe, sois ilustre em Claraval,
+e pastor dos mais insignes.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Doutor melífluo, São Bernardo, do Esposo sois amigo,
+sois cantor da Virgem Mãe, sois ilustre em Claraval,
+e pastor dos mais insignes.
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes do abade São Bernardo, inflamado de zelo por vossa casa, uma luz que brilha e ilumina a Igreja, dai-nos, por sua intercessão, o mesmo fervor para caminharmos sempre como filhos da luz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

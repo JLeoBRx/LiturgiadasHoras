@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1sexta_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@antifona
+De vossos mandamentos corro a estrada,
+porque vós me dilatais o coração.
+
+@antifona 2
+Confiando no Senhor, não vacilei.
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@antifona
+Confiando no Senhor, não vacilei.
+
+@antifona 3
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Confiou no Senhor Deus meu coração,
+e ele me ajudou e me alegrou.
+
+@secao Leitura breve | 2Cor 13,4
+
+@texto
+É verdade que Cristo foi crucificado, em razão da sua fraqueza, mas está vivo, pelo poder de Deus. Nós também somos fracos nele, mas com ele viveremos, pelo poder de Deus para convosco.
+
+@texto
+V. A minha alma está prostrada na poeira.
+R. Vossa palavra me devolva a minha vida!
+
+@secao Oração
+
+@oracao
+Senhor Jesus Cristo, que, nesta hora, com o mundo envolto em trevas, fostes elevado na cruz, como vítima inocente para a salvação de todos, concedei-nos sempre vossa luz, que nos guie para a vida eterna. Vós, que viveis e reinais para sempre.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

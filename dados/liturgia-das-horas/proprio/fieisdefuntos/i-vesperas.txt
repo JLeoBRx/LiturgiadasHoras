@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/fieisdefuntos_Ivesperas.htm
+@documento I Vésperas - Comemoração de Todos os Fiéis Defuntos
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Cristo, Rei de poder infinito,
+para dar toda a glória a Deus Pai,
+e honra a nós, os perdidos outrora,
+as cadeias da morte quebrais.
+
+Assumindo dos homens as dores,
+enfrentastes a dor derradeira
+e, morrendo, vencestes a morte,
+pela qual a serpente vencera.
+
+Do sepulcro surgindo mais forte
+no fulgor do mistério pascal,
+para a vida chamais novamente
+quem morreu para a culpa fatal.
+
+Concedei-nos a vida da graça,
+para que, ao voltar como Esposo,
+nos acheis com a lâmpada acesa,
+prontos para o festim glorioso.
+
+Recebei-nos, sereno Juiz,
+no descanso e na luz da verdade,
+nós, que a fé, o amor, a esperança
+sempre uniram à Santa Trindade.
+
+Estes servos, libertos do corpo,
+que suspiram por vós, Sumo Bem,
+recebei nas celestes moradas
+para sempre a louvar-vos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor te guardará de todo o mal:
+Ele mesmo vai cuidar da tua vida!
+
+@salmo salmos/salmo-120
+
+@gloria
+
+@antifona
+O Senhor te guardará de todo o mal:
+Ele mesmo vai cuidar da tua vida!
+
+@antifona 2
+Se levardes em conta nossas faltas,
+ó Senhor, quem poderia se salvar?
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Se levardes em conta nossas faltas,
+ó Senhor, quem poderia se salvar?
+
+@antifona 3
+Como o Pai ressuscita e dá a vida,
+assim o Filho dá a vida aos que o amam.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Como o Pai ressuscita e dá a vida,
+assim o Filho dá a vida aos que o amam.
+
+@secao Leitura breve | 1Cor 15,55-57
+
+@texto
+Ó morte, onde está a tua vitória? Onde está o teu aguilhão? O aguilhão da morte é o pecado, e a força do pecado é a Lei. Graças sejam dadas a Deus que nos dá a vitória pelo Senhor nosso, Jesus Cristo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, eu ponho em vós minha esperança:
+* Que eu não fique envergonhado eternamente! R. Senhor.
+V. Vosso amor me faz saltar de alegria. * Que eu não fique.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Todo aquele que o Pai me entregou,
+há de vir até mim, diz Jesus;
+e a quem vem até mim, nunca irei rejeitar.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Todo aquele que o Pai me entregou,
+há de vir até mim, diz Jesus;
+e a quem vem até mim, nunca irei rejeitar.
+
+@secao Preces
+
+@preces
+Oremos a Cristo nosso Senhor, que nos deu a esperança de transformar o nosso pobre corpo à semelhança do seu corpo glorioso; e o aclamemos:
+
+R. **Senhor, sois nossa vida e ressurreição!**
+
+Cristo, Filho do Deus vivo, que ressuscitastes vosso amigo Lázaro dentre os mortos,
+– ressuscitai para a vida e para a glória os defuntos remidos com o vosso sangue. R.
+
+Cristo, consolador dos aflitos, que na morte de Lázaro, do jovem de Naim e da filha de Jairo, acorrestes compassivo a enxugar as lágrimas de seus parentes e amigos,
+– consolai também agora os que choram a morte dos seus entes queridos. R.
+
+Cristo, Salvador dos homens, destruí em nosso corpo mortal o domínio do pecado, pelo qual merecemos a morte;
+– para que em vós alcancemos a vida eterna. R.
+
+Cristo, Redentor do mundo, olhai com bondade para aqueles que não vos conhecem e vivem sem esperança;
+– para que também eles acreditem na ressurreição dos mortos e na vida futura. R.
+
+Vós, que, ao curar o cego de nascença, lhe destes a alegria de poder ver o vosso rosto,
+– revelai o esplendor da vossa face aos defuntos que ainda não chegaram à luz da glória. R.
+
+{(intenções livres)}
+
+Vós, que permitis a destruição da nossa morada terrestre,
+– concedei-nos a eterna morada no reino dos céus. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, escutai com bondade as nossas preces e aumentai a nossa fé no Cristo ressuscitado, para que seja mais viva a nossa esperança na ressurreição dos vossos filhos e filhas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

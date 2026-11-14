@@ -1,0 +1,167 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_dedicacaoigreja_laudes.htm
+@documento Laudes - COMUM DA DEDICAÇÃO DE UMA IGREJA
+
+@titulo COMUM DA DEDICAÇÃO DE UMA IGREJA / R. Igreja, Esposa de Cristo, aclama e louva o Senhor. / Ou: / R. Adoremos Jesus Cristo, que ama a sua Igreja. / Salmo 94(95) / Convite ao louvor de Deus / Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). / – 1Vinde, exultemos de alegria no Senhor, * / aclamemos o Rochedo que nos salva! / – 2Ao seu encontro caminhemos com louvores, * / e com cantos de alegria o celebremos! (R.) / – 3Na verdade, o Senhor é o grande Deus, * / o grande Rei, muito maior que os deuses todos. / – 4Tem nas mãos as profundezas dos abismos, * / e as alturas das montanhas lhe pertencem; / – 5o mar é dele, pois foi ele quem o fez, * / e a terra firme suas mãos a modelaram. (R.) / – 6Vinde adoremos e prostremo-nos por terra, * / e ajoelhemos ante o Deus que nos criou! / = 7Porque ele é o nosso Deus, nosso Pastor, † / e nós somos o seu povo e seu rebanho, * / as ovelhas que conduz com sua mão. (R.) / = 8Oxalá ouvísseis hoje a sua voz: † / “Não fecheis os corações como em Meriba, * / 9como em Massa, no deserto, aquele dia, / – em que outrora vossos pais me provocaram, * / apesar de terem visto as minhas obras”. (R.) / = 10Quarenta anos desgostou-me aquela raça † / e eu disse: “Eis um povo transviado, * / 11seu coração não conheceu os meus caminhos!” / – E por isso lhes jurei na minha ira: * / “Não entrarão no meu repouso prometido!” (R.) / (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * / Como era no princípio, agora e sempre. Amém. / (Cantado): Demos glória a Deus Pai onipotente / e a seu Filho, Jesus Cristo, Senhor nosso, † / e ao Espírito que habita em nosso peito * / pelos séculos dos séculos. Amém / R. Igreja, Esposa de Cristo, aclama e louva o Senhor. / Ou: / R. Adoremos Jesus Cristo, que ama a sua Igreja.
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Do Pai eterno talhado,
+Jesus, à terra baixado
+tornou-se pedra angular;
+na qual o povo escolhido
+e o das nações convertido
+vão afinal se encontrar.
+
+Eis que a Deus é consagrada
+para ser sua morada
+triunfal Jerusalém,
+onde em louvor ao Deus trino
+sobem dos homens o hino,
+os Aleluias e o Amém.
+
+No vosso altar reluzente
+permanecei Deus, presente,
+sempre a escutar nossa voz;
+acolhei todo pedido,
+acalmai todo gemido
+dos que recorrem a vós.
+
+Sejamos nós pedras vivas,
+umas das outras cativas,
+que ninguém possa abalar;
+com vossos santos um dia,
+a exultar de alegria
+no céu possamos reinar.
+
+@secao Salmodia
+
+@antifona 1
+Minha casa é casa de oração.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Minha casa é casa de oração.
+
+@antifona 2
+Sede bendito, Senhor Deus de nossos pais,
+no templo santo onde refulge a vossa glória!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Sede bendito, Senhor Deus de nossos pais,
+no templo santo onde refulge a vossa glória!
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@antifona 3
+Louvai o Senhor na assembleia dos santos!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Louvai o Senhor na assembleia dos santos!
+
+@secao Leitura breve | Is 56,7
+
+@texto
+Eu os conduzirei ao meu santo monte e os alegrarei em minha casa de oração; aceitarei com agrado em meu altar seus holocaustos e vítimas, pois minha casa será chamada casa de oração para todos os povos.
+
+@secao Responsório breve
+
+@responsorio
+R. Grande é o Senhor,
+* E muito digno de louvor. R. Grande.
+V. No Monte santo, na cidade onde ele mora. * E muito digno.
+Glória ao Pai. R. Grande.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Zaqueu, desce depressa, porque hoje vou ficar em tua casa! Ele desceu rapidamente e o recebeu com alegria em sua casa. Hoje entrou a salvação nesta casa.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Zaqueu, desce depressa, porque hoje vou ficar em tua casa! Ele desceu rapidamente e o recebeu com alegria em sua casa. Hoje entrou a salvação nesta casa.
+
+@secao Preces
+
+@preces
+Como pedras vivas, edificadas sobre Cristo, pedra angular, peçamos cheios de fé a Deus Pai todo-poderoso em favor de sua amada Igreja; e digamos:
+
+R. **Esta é a casa de Deus e a porta do céu!**
+
+Pai do céu, que sois o agricultor da vinha que Cristo plantou na terra, purificai, guardai e fazei crescer a vossa Igreja,
+– para que, sob o vosso olhar, ela se espalhe por toda a terra. R.
+
+Pastor eterno, protegei e aumentai o vosso rebanho,
+– para que todas as ovelhas se congreguem na unidade, sob um só pastor, Jesus Cristo, vosso Filho. R.
+
+Semeador providente, semeai a palavra em vosso campo,
+– para que dê frutos abundantes para a vida eterna. R.
+
+Sábio construtor, santificai a Igreja, vossa casa e vossa família,
+– para que ela apareça no mundo como cidade celeste, Jerusalém nova e Esposa sem mancha. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+{Na própria igreja dedicada:}
+
+@texto
+Ó Deus, que nos fazeis reviver cada ano a dedicação desta igreja, ouvi as preces do vosso povo, e concedei que celebremos neste lugar um culto perfeito e alcancemos a plena salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Em outra igreja:
+
+@texto
+Ó Deus, que edificais o vosso templo eterno com pedras vivas e escolhidas, infundi na vossa Igreja o Espírito que lhe destes, para que o vosso povo cresça sempre mais construindo a Jerusalém celeste. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que chamastes Igreja o vosso povo, concedei aos que se reúnem em vosso nome temer-vos, amar-vos e seguir-vos, até alcançar, guiados por vós, as promessas eternas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

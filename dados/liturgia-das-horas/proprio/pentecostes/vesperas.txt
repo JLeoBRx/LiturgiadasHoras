@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_vesperas.htm
+@documento Vésperas - Domingo de Pentecostes
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+O Espírito do Senhor encheu todo o universo. Aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Espírito do Senhor encheu todo o universo. Aleluia.
+
+@antifona 2
+Confirmai em nós, ó Deus, o que em nós realizastes
+a partir de vosso templo que está em Jerusalém. Aleluia.
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Confirmai em nós, ó Deus, o que em nós realizastes
+a partir de vosso templo que está em Jerusalém. Aleluia.
+
+@antifona 3
+Ficaram cheios todos eles do Espírito de Deus,
+e começaram a falar. Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Ficaram cheios todos eles do Espírito de Deus,
+e começaram a falar. Aleluia.
+No Cântico seguinte dizem-se os Aleluias entre parênteses somente quando se canta; na recitação, basta dizer o Aleluia no começo e no fim das estrofes.
+
+@secao Leitura breve | Ef 4,3-6
+
+@texto
+Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. Há um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito do Senhor enche todo o universo.
+* Aleluia, aleluia. R. O Espírito.
+V. Dá consistência a tudo e tem conhecimento de tudo o que se diz. * Aleluia.
+Glória ao Pai. R. O Espírito.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Chegou hoje o grande dia do sagrado Pentecostes, aleluia;
+hoje o Espírito de Deus apareceu
+como num fogo aos discípulos
+e lhes deu os seus carismas, os seus dons mais variados,
+enviou-os pelo mundo, testemunhas do Evangelho:
+O que crer e receber o batismo do Senhor
+será salvo, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Chegou hoje o grande dia do sagrado Pentecostes, aleluia;
+hoje o Espírito de Deus apareceu
+como num fogo aos discípulos
+e lhes deu os seus carismas, os seus dons mais variados,
+enviou-os pelo mundo, testemunhas do Evangelho:
+O que crer e receber o batismo do Senhor
+será salvo, aleluia.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai, que por Jesus Cristo reuniu a sua Igreja; e supliquemos com fé e alegria:
+
+R. **Enviai, Senhor, o vosso Espírito, e renovai a face da terra!**
+
+Fazei que todos os habitantes da terra, unidos num só batismo e no mesmo Espírito,
+– sejam um só coração e uma só alma. R.
+
+Vós, que enchestes o universo inteiro com o vosso Espírito,
+– ajudai a humanidade na construção de um mundo novo de justiça e de paz. R.
+
+Senhor Deus, Pai de todos os seres humanos, que quereis reunir numa só fé os vossos filhos e filhas dispersos,
+– iluminai a terra inteira com a graça do Espírito Santo. R.
+
+Vós, que renovais todas as coisas pelo vosso Espírito,
+– dai saúde aos doentes, alegria aos tristes e a todos a salvação. R.
+
+{(intenções livres)}
+
+Vós, que pelo Espírito Santo ressuscitastes vosso Filho de entre os mortos,
+– dai a vida eterna aos que partiram deste mundo. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, quisestes que o mistério pascal se completasse durante cinquenta dias, até à vinda do Espírito Santo. Fazei que todas as nações dispersas pela terra, na diversidade de suas línguas, se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

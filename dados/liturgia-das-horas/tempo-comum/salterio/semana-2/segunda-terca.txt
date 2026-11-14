@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2segunda_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Felizes os que ouvem a palavra do Senhor
+e a praticam cada dia!
+
+@salmo salmos/salmo-118-41-48-vi-vau
+
+@gloria
+
+@antifona
+Felizes os que ouvem a palavra do Senhor
+e a praticam cada dia!
+
+@antifona 2
+Meu alimento é fazer a vontade do Pai.
+
+@salmo salmos/salmo-039-2-14-17-18-i
+
+@gloria
+
+@antifona
+Meu alimento é fazer a vontade do Pai.
+
+@antifona 3
+Eu sou pobre, infeliz, desvalido,
+porém, guarda o Senhor minha vida.
+
+@salmo salmos/salmo-039-2-14-17-18-ii
+
+@gloria
+
+@antifona
+Eu sou pobre, infeliz, desvalido,
+porém, guarda o Senhor minha vida.
+
+@secao Leitura breve | Jr 31,33
+
+@texto
+Esta será a aliança que concluirei com a casa de Israel, depois desses dias, diz o Senhor: imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo.
+
+@texto
+V. Criai em mim um coração que seja puro.
+R. Ó Senhor, não me afasteis de vossa face!
+
+@secao Oração
+
+@oracao
+Ó Deus, Pai de bondade, destes o trabalho aos seres humanos para que, unindo seus esforços, progridam cada vez mais; concedei que, em nossas atividades, vos amemos a vós como filhos e filhas e a todos como irmãos e irmãs. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

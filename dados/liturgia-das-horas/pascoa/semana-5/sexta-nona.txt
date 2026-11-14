@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/5sextapascoa_nona.htm
+@documento Hora Média - Nona - Sexta-feira da 5ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@salmo salmos/salmo-118-25-32-iv-daleth-v2
+
+@gloria
+
+@salmo salmos/salmo-025
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@antifona
+Aleluia, aleluia, aleluia.
+
+@secao Leitura breve | 1Cor 5,7-8
+
+@texto
+Lançai fora o fermento velho, para que sejais uma massa nova, já que deveis ser sem fermento. Pois o nosso cordeiro pascal, Cristo, já está imolado. Assim, celebremos a festa, não com velho fermento nem com o fermento de maldade ou de perversidade, mas com os pães ázimos de pureza e de verdade.
+
+@texto
+V. Ó Senhor, ficai conosco, aleluia.
+R. Pois o dia já declina. Aleluia.
+
+@secao Oração
+
+@oracao
+Amparai, ó Deus, nossos corações para vivermos dignamente os mistérios pascais, a fim de que esta celebração realizada com alegria nos proteja por sua força inesgotável e nos comunique a salvação. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

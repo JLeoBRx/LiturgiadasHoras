@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/horas/7janeiro_laudes.htm
+@documento 7janeiro_laudes.htm
+
+@secao Leitura breve | Is 9,5
+
+@texto
+Nasceu para nós um menino, foi-nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável, Deus forte, Pai dos tempos futuros, Príncipe da Paz.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor fez conhecer
+* Aleluia, aleluia. R. O Senhor.
+
+@texto
+V. A sua salvação. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eis Aquele de quem foi escrito:
+Jesus Cristo nascerá em Israel,
+e seu Reino jamais terá fim.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eis Aquele de quem foi escrito:
+Jesus Cristo nascerá em Israel,
+e seu Reino jamais terá fim.
+
+@secao Preces
+
+@preces
+Aclamemos com alegria a Cristo, nosso Senhor, por quem Deus manifestou a sua salvação até os confins da terra; e o louvemos dizendo:
+
+R. **Glória a vós, Cristo Senhor!**
+
+Redentor de todos, por vossa vinda derrubastes o muro de separação entre judeus e gentios;
+– fazei que desapareçam do mundo as discriminações que ofendem a dignidade humana. R.
+
+Por vossa encarnação e natividade, quisestes habitar entre nós;
+– ensinai-nos a reconhecer vossa multiforme presença na Igreja e no meio da humanidade. R.
+
+Revelastes plenamente Deus aos homens;
+– ensinai-nos como harmonizar com vossa palavra nossa fé e nossa vida. R.
+
+Emanuel, que maravilhosamente tudo criastes de novo,
+– fazei que também em nós tudo seja novo: coração, palavras e gestos. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, pela vinda do vosso Filho vos manifestastes em nova luz. Assim como ele quis participar da nossa humanidade, nascendo da Virgem, dai-nos participar de sua vida no Reino. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

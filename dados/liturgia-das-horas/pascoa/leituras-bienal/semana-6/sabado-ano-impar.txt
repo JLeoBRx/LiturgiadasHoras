@@ -1,0 +1,65 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/bienal/6sabadoPascoa_impar.htm
+@documento Ofício das Leituras - 6ª Semana Da Páscoa - Sábado
+
+@secao Primeira leitura
+
+@leitura
+Da primeira Carta de São João {3,18-24}
+
+@tema
+O mandamento da fé e da caridade
+
+@texto
+Filhinhos, não amemos com palavras nem com a língua, mas com ações e em verdade. Nisto saberemos que somos da verdade, e diante dele tranquilizaremos o nosso coração, se o nosso coração vier a nos condenar, porque Deus é maior que o nosso coração e conhece todas as coisas. Amados, se nosso coração não nos condena, temos confiança diante de Deus; e tudo o que lhe pedimos recebemos dele, porque guardamos seus mandamentos e fazemos o que lhe é agradável. Este é o seu mandamento: crer no nome do seu Filho Jesus Cristo e amar-nos uns aos outros conforme o mandamento que ele nos deu. Aquele que guarda seus mandamentos permanece em Deus e Deus nele; e nisto reconhecemos que ele permanece em nós, pelo Espírito que nos deu.
+
+@secao Responsório | 1Jo 3,24;Eclo 1,7.8
+
+@responsorio
+R. Quem observa os mandamentos de Deus, permanece em Deus, e Deus permanece nele.
+* E que ele permanece em nós, sabemos pelo Espírito que ele nos deu, aleluia.
+V. Deus criou a sabedoria no Espírito Santo e a derramou em cada ser humano.
+* E que ele.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre a Primeira Carta de São João, de Santo Agostinho, bispo
+{(Séc.V)} {(Tract. 5,11-13: SCh 75,266-271)}
+
+@tema
+Não amemos por palavras e com a língua, mas com ações e de verdade
+
+@texto
+Nisto sabemos o que é o amor. São João nos fala da perfeição do amor, daquela perfeição que vos temos recomendado: _Nisto sabemos o que é o amor: Jesus deu a vida por nós. Portanto, também nós devemos dar a vida pelos irmãos_ (1Jo 3,16).
+
+Eis o ponto de partida: _Pedro, tu me amas? Sê pastor de minhas ovelhas_ (cf. Jo 21,16). Jesus queria que ele apascentasse suas ovelhas até o ponto de dar a vida por elas. Para que o saibais acrescentou imediatamente: _Quando eras jovem, tu mesmo amarravas teu cinto e andavas por onde querias; quando, porém, fores velho, estenderás as mãos, e outro te porá o cinto e te levará para onde não queres ir. Disse isso – afirma o evangelista – para dar a entender com que morte Pedro iria glorificar a Deus_ (Jo 21,18- 19). àquele a quem dissera: Sê pastor de minhas ovelhas, ensinava a dar por elas a própria vida.
+
+Irmãos, onde começa a caridade? Esperai um pouco; já ouvistes onde está a sua perfeição. O próprio Senhor, no Evangelho, nos deu a conhecer sua extensão e seu termo: _Ninguém tem amor maior do que aquele que dá a vida por seus amigos_ (Jo 15,13). No Evangelho nos mostrou a perfeição da caridade e aqui no-la recomenda. Mas vós vos interrogais e dizeis: Quando poderemos atingir essa caridade? Não percas tão depressa a esperança: ela talvez já tenha nascido em ti, mas ainda não é perfeita. Alimenta-a, para não ser sufocada. Poderás dizer-me: Como sei que a possuo? Ouvimos onde está a sua perfeição. Vejamos agora onde ela começa.
+
+_Se alguém possui riquezas neste mundo e vê seu irmão passar necessidade, mas diante dele fecha o coração, como pode o amor de Deus permanecer nele?_ (1Jo 3,17). Eis onde começa a caridade. Se ainda não és capaz de morrer por teu irmão, sê capaz de lhe dar uma parte de teus bens.
+
+Dirás talvez: Que tenho eu com isso? Tenho de dar uma parte do meu dinheiro para que ele não sofra necessidade? Se é isso o que teu coração responde, o amor do Pai não está em ti. E, se o amor do Pai não está em ti, não nasceste de Deus. Como então te glorias de ser cristão? Possuis o nome, mas não tens as obras.
+
+Mas, se as obras acompanharem o nome, ainda que te chamem de pagão, provarás que és cristão com as ações. Pois, se não provares que és cristão com as obras, e todos disserem que és cristão, de que te aproveitará o nome, quando não lhe corresponde a realidade? _Se alguém possui riquezas neste mundo e vê seu irmão passar necessidade, mas diante dele fecha o coração, como pode o amor de Deus permanecer nele? Filhinhos, não amemos só com palavras e de boca, mas com ações e de verdade_ (1Jo 3,17-18).
+
+@secao Responsório | 1Jo 1,20-21;Mc 12,33
+
+@responsorio
+R. Quem não ama seu irmão, a quem vê,
+não poderá amar a Deus, a quem não vê.
+* E esse é o mandamento que dele recebemos:
+quem ama a Deus, ame também seu irmão, aleluia.
+V. Amar o próximo como a si mesmo,
+isso supera todos os sacrifícios e ofertas.
+* E esse é.
+
+@secao Oração
+
+@oracao
+Ó Deus, inspirai aos nossos corações a prática das boas obras, para que, buscando sempre o que é melhor, vivamos constantemente o mistério pascal. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

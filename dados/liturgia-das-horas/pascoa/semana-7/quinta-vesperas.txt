@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7quintapascoa_vesperas.htm
+@documento Vésperas - Quinta-feira da 7ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor lhe deu o trono de seu pai, o Rei Davi. Aleluia.
+
+@salmo salmos/salmo-131-i
+
+@gloria
+
+@antifona
+O Senhor lhe deu o trono de seu pai, o Rei Davi. Aleluia.
+
+@antifona 2
+Só Jesus é poderoso, Rei dos reis, Senhor dos fortes. Aleluia.
+
+@salmo salmos/salmo-131-ii
+
+@gloria
+
+@antifona
+Só Jesus é poderoso, Rei dos reis, Senhor dos fortes. Aleluia.
+
+@antifona 3
+Quem será igual a vós, entre os fortes, ó Senhor?
+Quem será igual a vós, tão ilustre em santidade? Aleluia.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v4
+
+@gloria
+
+@antifona
+Quem será igual a vós, entre os fortes, ó Senhor?
+Quem será igual a vós, tão ilustre em santidade? Aleluia.
+
+@secao Leitura breve | 1Cor 6,19-20
+
+@texto
+Ignorais, por acaso, que o vosso corpo é santuário do Espírito Santo, que mora em vós e que vos é dado por Deus? E, portanto, ignorais também que vós não pertenceis a vós mesmos? De fato, fostes comprados, e por preço muito alto. Então, glorificai a Deus com o vosso corpo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito Santo, o Paráclito,
+* Aleluia, aleluia. R. O Espírito.
+V. Ele vos ensinará todas as coisas.
+* Aleluia. Glória ao Pai. R. O Espírito.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quando vier o Espírito da verdade,
+a vós ensinará toda a verdade,
+e anunciará todas as coisas que virão. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quando vier o Espírito da verdade,
+a vós ensinará toda a verdade,
+e anunciará todas as coisas que virão. Aleluia.
+
+@secao Preces
+
+@preces
+Roguemos a Cristo, bendito para sempre, que envie o Espírito Santo sobre todos aqueles que foram salvos por sua morte e ressurreição; e digamos:
+
+R. **Lançai o vosso olhar, Senhor, sobre todos os que remistes!**
+
+Enviai, Senhor, à vossa Igreja o Espírito de unidade,
+– para que desapareça todo sentimento de discórdia, ódio e divisão. R.
+
+Vós, que libertastes a humanidade do poder do mal,
+– libertai também o mundo dos sofrimentos que o afligem. R.
+
+Vós, que, em perfeita união com o Espírito Santo, realizastes fielmente a obra da salvação,
+– fazei que os sacerdotes encontrem na oração a luz e a força do Espírito para cumprirem o seu ministério com retidão. R.
+
+Iluminai com o vosso Espírito todos os governantes,
+– para que promovam generosamente o bem comum. R.
+
+{(intenções livres)}
+
+Vós, que viveis eternamente na glória do Pai,
+– chamai os que morreram à alegria do vosso reino. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o vosso Espírito nos transforme com a força dos seus dons, dando-nos um coração capaz de agradar-vos e de aceitar a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

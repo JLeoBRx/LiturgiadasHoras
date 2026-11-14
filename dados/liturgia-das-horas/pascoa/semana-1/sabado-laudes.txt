@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1sabadopascoa_laudes.htm
+@documento Laudes - Sábado da 1ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O Senhor ressuscitou e seu povo iluminou,
+ao qual remiu com o seu sangue. Aleluia.
+
+@antifona 2
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Ressuscitou da sepultura o Salvador:
+ao nosso Deus cantemos hinos, aleluia.
+
+@antifona 3
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Aleluia, o Senhor ressuscitou
+como havia anunciado, aleluia!
+
+@secao Leitura breve | Rm 14,7-9
+
+@texto
+Ninguém dentre nós vive para si mesmo ou morre para si mesmo. Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Este é o dia que o Senhor fez para nós;
+alegremo-nos e nele exultemos. Aleluia.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Na manhã do dia da Páscoa o Senhor ressuscitou
+e apareceu primeiramente a Maria Madalena. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Na manhã do dia da Páscoa o Senhor ressuscitou
+e apareceu primeiramente a Maria Madalena. Aleluia.
+
+@secao Preces
+
+@preces
+Roguemos com alegria a Cristo, pão da vida, que ressuscitará no último dia os que se alimentam à mesa de sua palavra e de seu corpo; e digamos:
+
+R. **Dai-nos, Senhor, paz e alegria!**
+
+Filho de Deus, que ressuscitastes gloriosamente dos mortos como Senhor da vida,
+– abençoai e santificai a humanidade inteira. R.
+
+Senhor Jesus, fonte de paz e de alegria para todos os que creem em vós,
+– fazei-nos viver como filhos da luz na alegria do vosso triunfo pascal. R.
+
+Confirmai a fé da vossa Igreja, peregrina sobre a terra,
+– para que dê ao mundo o testemunho da vossa ressurreição. R.
+
+Vós, que, depois de muitos sofrimentos, entrastes na glória do Pai,
+– mudai em alegria a tristeza dos que choram. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela riqueza da vossa graça multiplicais os povos que creem em vós, contemplai solícito aqueles que escolhestes e dai aos que renasceram pelo batismo a veste da imortalidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.
+
+@secao Na despedida se diz:
+
+@texto
+Ide em paz e o Senhor vos acompanhe. Aleluia, aleluia.
+R. Graças a Deus. Aleluia, aleluia.

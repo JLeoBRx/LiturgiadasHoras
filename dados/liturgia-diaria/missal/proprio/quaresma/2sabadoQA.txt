@@ -1,0 +1,50 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/2sabadoQA.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Sl 144,8-9
+@texto
+Misericórdia e piedade é o Senhor,
+ele é amor, é paciência, é compaixão.
+O Senhor é muito bom para com todos,
+sua ternura abraça toda criatura.
+
+@secao Coleta
+@texto
+Ó Deus, que pela vossa graça
+já nos dais na terra participar dos bens do céu,
+guiai-nos de tal modo nesta vida
+que possamos chegar à luz em que habitais.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, por este sacramento
+venham até nós os frutos da redenção;
+que eles sempre nos afastem dos excessos humanos
+e nos conduzam aos dons da salvação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 15,32
+@texto
+Filho, era preciso festejar e alegrar-nos,
+porque este teu irmão estava morto e tornou a viver,
+estava perdido e foi encontrado.
+
+@secao Depois da comunhão
+@texto
+Senhor, o divino sacramento que recebemos
+penetre o íntimo do nosso coração
+e nos faça participar da sua força.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Senhor,
+os ouvidos da vossa misericórdia estejam atentos
+às preces dos que vos suplicam,
+e, para que possais nos conceder o que pedimos,
+dai-nos pedir o que vos agrada.
+Por Cristo, nosso Senhor.

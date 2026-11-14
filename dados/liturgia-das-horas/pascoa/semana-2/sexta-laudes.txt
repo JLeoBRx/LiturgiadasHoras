@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/2sextapascoa_laudes.htm
+@documento Laudes - Sexta-feira da 2ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Meu filho, tem fé e confia;
+teus pecados estão perdoados. Aleluia.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Meu filho, tem fé e confia;
+teus pecados estão perdoados. Aleluia.
+
+@antifona 2
+Para salvar o vosso povo,
+vós saístes para salvar o vosso Ungido. Aleluia.
+
+@salmo canticos/hab-3-2-4-13a-15-19
+
+@gloria
+
+@antifona
+Para salvar o vosso povo,
+vós saístes para salvar o vosso Ungido. Aleluia.
+
+@antifona 3
+Ó Sião, canta louvores ao teu Deus,
+a paz ele garante em teus limites. Aleluia.
+
+@salmo salmos/salmo-147
+
+@gloria
+
+@antifona
+Ó Sião, canta louvores ao teu Deus,
+a paz ele garante em teus limites. Aleluia.
+
+@secao Leitura breve | At 5,30-32
+
+@texto
+O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro.
+* Aleluia, aleluia. R. O Senhor.
+V. Foi suspenso por nós numa cruz.
+* Aleluia, aleluia. Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus tomou os pães, e, tendo dado graças,
+os deu para os presentes. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus tomou os pães, e, tendo dado graças,
+os deu para os presentes. Aleluia.
+
+@secao Preces
+
+@preces
+Rezemos a Deus Pai, que ressuscitou Jesus de entre os mortos e dará a vida também aos nossos corpos mortais, pelo Espírito Santo que habita em nós. Digamos com fé:
+
+R. **Senhor, por vosso Espírito Santo, dai-nos a vida!**
+
+Pai santo, que aceitastes o sacrifício de vosso Filho, ressuscitando-o de entre os mortos,
+– recebei a oferenda que hoje vos apresentamos e conduzi-nos à vida eterna. R.
+
+Abençoai, Senhor, nossos trabalhos deste dia,
+– para que sirvam à vossa glória e à santificação de todos. R.
+
+Fazei que nossas atividades de hoje contribuam para a construção de um mundo melhor,
+– e que assim procedendo, possamos chegar ao vosso reino celeste. R.
+
+Abri hoje nossos olhos e nosso coração para as necessidades de nossos irmãos e irmãs,
+– a fim de que todos nos amemos e nos sirvamos uns aos outros. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, aos vossos servos e servas a graça da ressurreição, pois quisestes que o vosso Filho sofresse por nós o sacrifício da cruz para nos libertar do poder do inimigo. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

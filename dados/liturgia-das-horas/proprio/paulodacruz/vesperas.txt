@@ -1,0 +1,166 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paulodacruz_vesperas.htm
+@documento Vésperas - São Paulo da Cruz, presbítero
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Claro espelho de virtude,
+homem santo, bom pastor,
+ouve o hino que, em ti, louva
+os prodígios do Senhor,
+
+que, Pontífice perpétuo,
+os mortais a Deus uniu,
+e, por nova Aliança,
+nova paz nos garantiu.
+
+Previdente, ele te fez
+do seu dom o servidor,
+para dar ao Pai a glória
+e a seu povo vida e amor.
+
+Atingindo alto cume
+por palavras e por vida,
+doutor foste e sacerdote,
+hóstia a Deus oferecida.
+
+Não te esqueças, pede a Deus,
+tu que ao céu foste elevado:
+que as ovelhas busquem todas
+do Pastor o verde prado.
+
+Glória à Trina Divindade,
+que, num servo tão fiel,
+recompensa os ministérios
+com o júbilo do céu.
+
+@secao Salmodia
+
+@antifona 1
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@salmo salmos/salmo-014
+
+@gloria
+
+@antifona
+Superou as provações e triunfou:
+glória eterna seja a ele tributada.
+
+@antifona 2
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@salmo salmos/salmo-111
+
+@gloria
+
+@antifona
+Deus manifesta em seus santos sua graça e seu amor,
+e protege os seus eleitos.
+
+@antifona 3
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Os santos cantavam um cântico novo
+Àquele que está em seu trono, e ao Cordeiro;
+na terra inteira ressoavam suas vozes.
+
+@secao Leitura breve | 1Pd 5,1-4
+
+@texto
+Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o amigo dos irmãos,
+* Que intercede pelo povo. R. Eis o amigo.
+V. Dedicou a sua vida em favor de seus irmãos. * Que intercede.
+Glória ao Pai. R. Eis o amigo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo.
+{Ou:}
+Eu te dou graças, ó Cristo, Bom Pastor,
+que me guiaste à glória do teu Reino!
+O rebanho que a mim confiaste
+esteja aqui onde estou na tua glória!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis o servo fiel e prudente,
+a quem Deus confiou sua família,
+para dar-lhe o pão a seu tempo.
+{Ou:}
+Eu te dou graças, ó Cristo, Bom Pastor,
+que me guiaste à glória do teu Reino!
+O rebanho que a mim confiaste
+esteja aqui onde estou na tua glória!
+
+@secao Preces
+
+@preces
+Rendamos a devida glória a Cristo, constituído Pontífice em favor dos homens nas suas relações com Deus; e lhe peçamos humildemente:
+
+R. **Senhor, salvai o vosso povo!**
+
+Fizestes resplandecer admiravelmente a vossa Igreja por meio de santos e insignes Pastores;
+– que os cristãos se alegrem sempre com o mesmo esplendor. R.
+
+Quando os santos Pastores vos suplicavam, a exemplo de Moisés, perdoastes os pecados do povo;
+– por intercessão deles, santificai a vossa Igreja mediante uma contínua purificação. R.
+
+Tendo-os escolhido entre seus irmãos, consagrastes vossos santos, enviando sobre eles o vosso Espírito;
+– que o mesmo Espírito Santo inspire aqueles que governam vosso povo. R.
+
+Sois vós a herança dos santos Pastores;
+– concedei que nenhum daqueles que foram resgatados pelo vosso sangue fique longe de vós. R.
+
+{(intenções livres)}
+
+Por meio dos Pastores da Igreja, dais a vida eterna a vossas ovelhas, e não permitis que ninguém as arrebate de vossas mãos;
+– salvai os que adormeceram em vós, pelos quais destes a vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, o presbítero São Paulo, que fez da cruz o seu único amor, nos obtenha a vossa graça para que, estimulados pelo seu exemplo, abracemos com coragem a nossa cruz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

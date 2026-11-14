@@ -1,0 +1,66 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/23_laudes.htm
+@documento Próprio - Laudes - 23 de dezembro
+
+@secao Leitura breve | Jr 30,21a.22
+
+@texto
+Eis o que diz o Senhor: Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Sereis meu povo e eu serei vosso Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Verdade e amor se encontrarão.
+* Pois o Senhor. Glória ao Pai.
+R. Que o universo.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eis que agora já se cumprem plenamente as palavras,
+pelo anjo anunciadas sobre a Virgem Mãe de Deus.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eis que agora já se cumprem plenamente as palavras,
+pelo anjo anunciadas sobre a Virgem Mãe de Deus.
+
+@secao Preces
+
+@preces
+Invoquemos, irmãos e irmãs caríssimos, a Deus Pai que enviou seu Filho para salvar a humanidade; e supliquemos:
+
+R. **Mostrai-nos, Senhor, a vossa misericórdia!**
+
+Pai de bondade, com a mais sincera fé, nós proclamamos Jesus Cristo verdadeiro Deus e verdadeiro homem;
+– fazei que por nosso modo de viver sejamos dignos de acolhê-lo. R.
+
+Vós, que enviastes vosso Filho para nos salvar,
+– afastai todo sofrimento da face da terra e desta cidade. R.
+
+Que nossa terra transborde de alegria pela vinda do vosso Filho,
+– para que experimente cada vez mais a plenitude da alegria que nos dais. R.
+
+Por vossa misericórdia, fazei-nos viver neste mundo com sobriedade, justiça e piedade,
+– enquanto, vivendo a bem-aventurada esperança, aguardamos a vinda gloriosa do Cristo Salvador. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, ao aproximar-nos do natal do vosso Filho, concedei-nos obter a misericórdia do Verbo, que se encarnou no seio da Virgem e quis viver entre nós. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,40 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saobruno.htm
+
+@secao Antífona da entrada
+@texto
+Onde irmãos reunidos glorificam a Deus,
+aí o Senhor dará a sua bênção.
+
+@secao Coleta
+@texto
+Ó Deus, chamastes São Bruno
+a vos servir na solidão;
+por sua intercessão, concedei que,
+em meio à agitação deste mundo,
+nos dediquemos inteiramente ao vosso serviço.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Recebei, Senhor, a oblação
+que oferecemos pela salvação do vosso povo;
+por ela, e com a intercessão de São Bruno,
+consigamos afastar as seduções do pecado
+e chegar ao convívio celestial.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Lc 8,15
+@texto
+Os que guardam a palavra de Deus
+num coração bom e generoso
+colhem fruto na perseverança
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+concedei que, apoiados pela proteção de São Bruno
+e pela força deste sacramento da vossa sabedoria,
+vivamos com justa moderação.
+Por Cristo, nosso Senhor.

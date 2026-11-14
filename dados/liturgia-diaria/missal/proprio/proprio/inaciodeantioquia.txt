@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/inaciodeantioquia.htm
+
+@secao Antífona da entrada | Cf. Gl 2,19-20
+@texto
+Com Cristo estou pregado na cruz;
+eu vivo, mas já não sou eu: é Cristo que vive em mim;
+vivo na fé no Filho de Deus,
+que me amou e se entregou por mim.
+
+@secao Coleta
+@texto
+Ó Deus eterno e todo-poderoso,
+ornais o sagrado corpo da vossa Igreja
+com o testemunho dos santos mártires;
+fazei que o glorioso martírio de Santo Inácio de Antioquia,
+que hoje celebramos,
+assim como mereceu para ele o esplendor eterno,
+alcance para nós vossa constante proteção.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, recebei com agrado
+o sacrifício de nossa devoção,
+assim como acolhestes Santo Inácio de Antioquia,
+trigo de Cristo, que, triturado pelos tormentos do martírio,
+se tornou pão sem mistura.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Eu sou trigo de Cristo,
+serei moído pelos dentes das feras,
+para tornar-me um pão sem mistura.
+
+@secao Depois da comunhão
+@texto
+Senhor, sejamos revigorados pelo pão celeste
+que recebemos na celebração do martírio
+de Santo Inácio de Antioquia,
+para que não tenhamos apenas o nome de cristãos,
+mas o sejamos de fato pelas nossas obras.
+Por Cristo, nosso Senhor.

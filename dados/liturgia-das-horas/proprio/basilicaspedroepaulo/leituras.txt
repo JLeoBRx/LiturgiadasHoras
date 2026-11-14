@@ -1,0 +1,151 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/basilicaspedroepaulo.htm
+@documento Ofício das Leituras - Dedicação Das Basílicas Dos Santos Pedro E Paulo, Apóstolos
+
+@celebracao
+DEDICAÇÃO DAS BASÍLICAS DOS SANTOS PEDRO E PAULO, APÓSTOLOS
+
+@biografia
+Já no século XII se celebrava, na basílica vaticana de São Pedro e na de São Paulo na Via Ostiense, o aniversário das respectivas dedicações, feitas pelos papas Silvestre e Siríaco no século IV. Esta comemoração estendeu-se posteriormente a todas as igrejas do Rito romano. Assim como no aniversário da basílica de Santa Maria Maior (5 de agosto) se celebra a Maternidade da Santíssima Virgem Mãe de Deus, assim neste dia se veneram os dois príncipes dos Apóstolos de Cristo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Do supremo Rei na corte
+sois ministros, que Jesus
+instruiu e fez Apóstolos,
+sal da terra e sua luz.
+
+A feliz Jerusalém,
+cuja lâmpada é o Cordeiro,
+vos possui, quais joias raras,
+fundamento verdadeiro.
+
+A Igreja vos celebra
+como esposa do Senhor.
+Vossa voz a trouxe à vida,
+vosso sangue a consagrou.
+
+Quando os tempos terminarem
+e o Juiz vier julgar,
+sobre tronos gloriosos
+havereis de vos sentar.
+
+Sem cessar, a vossa prece
+nos dê força e proteção.
+Das sementes que espalhastes
+brote a flor e nasça o grão.
+
+Glória a Cristo, que de vós
+fez do Pai os enviados,
+e vos deu o seu Espírito,
+por quem fostes consagrados.
+
+@secao Salmodia
+
+@antifona 1
+Em toda a terra se espalha o seu anúncio,
+e sua voz pelos confins do universo.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Em toda a terra se espalha o seu anúncio,
+e sua
+
+@antifona 2
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Proclamaram as obras de Deus
+e entenderam seus grandes prodígios.
+
+@antifona 3
+Anunciaram a justiça do Senhor,
+todos os povos podem ver a sua glória.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Anunciaram a justiça do Senhor,
+todos os po
+
+@texto
+V. Eles contaram as grandezas do Senhor e seu poder.
+R. E as suas maravilhas que por nós realizou.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Paulo aos Coríntios {1,18–2,5}
+
+@tema
+Os apóstolos anunciam a cruz
+
+@texto
+Irmãos: A pregação a respeito da cruz é uma insensatez para os que se perdem, mas para os que se salvam, para nós, ela é poder de Deus. Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. Onde está o sábio? Onde o mestre da Lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. Mas para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens.
+Irmãos, considerai vós mesmos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana nem muitos poderosos nem muitos nobres. Na verdade, Deus escolheu o que o mundo considera como estúpido, para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, para que, como está escrito, “quem se gloria, glorie-se no Senhor”.
+
+Irmãos, quando fui à vossa cidade anunciar-vos o mistério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este, crucificado. Aliás, eu estive junto de vós, com fraqueza e receio, e muito tremor. Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, 5para que a vossa fé se baseasse no poder de Deus e não na sabedoria dos homens.
+
+@secao Responsório | Mt 4,18.19
+
+@responsorio
+R. Junto ao mar da Galileia, Jesus viu André e Pedro a lançar a rede ao mar; chamou-os e lhes disse:
+* Vinde comigo e, pescadores de homens, vos farei.
+V. Eles eram pescadores e lhes disse o Senhor: * Vinde comigo.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Séc. V)} {(Sermo 82, in natali apostolorum Petri et Pauli 1,6-7: PL 54,426-428)}
+
+@tema
+Pedro e Paulo, germes da semente divina
+
+@texto
+É preciosa aos olhos do Senhor a morte de seus santos (Sl 115,15), e nenhuma crueldade pode destruir a religião fundada no mistério da cruz de Cristo. A Igreja não diminui pelas perseguições; pelo contrário, cresce. O campo do Senhor se reveste de messes sempre mais ricas, porque os grãos, que caem um a um, nascem multiplicados.
+Em quantos rebentos estes dois excelentes germes da divina semente brotaram são testemunhas os milhares de santos mártires que, rivais das vitórias apostólicas, envolveram com uma multidão coberta de púrpura nossa Urbe e a coroaram com um diadema de glória, cravejado de muitas pedras preciosas.
+Temos de alegrar-nos sumamente, caríssimos, com a comemoração de todos os santos por esta proteção, preparada por Deus, para exemplo e confirmação da fé. Mas, em vista da excelência destes patronos, é justo que os glorifiquemos com ainda maior exultação, porque a graça de Deus, dentre todos os membros da Igreja, os elevou ao cume. Por isso, no corpo, cuja cabeça é Cristo, constituem como que os dois olhos.
+Não devemos pensar que os seus méritos e virtudes acima de toda a expressão sejam diferentes de algum modo ou tenham algo de peculiar, pois a eleição divina os tornou pares, o trabalho assemelhou-os e o fim da vida os igualou.
+Por experiência pessoal e pela afirmação de nossos antepassados, cremos e confiamos que, nas lutas da vida, temos sempre a intercessão destes especiais padroeiros para obter a misericórdia de Deus; e por mais abatidos que estejamos pelos próprios pecados, somos reerguidos pelos méritos apostólicos.
+
+@secao Responsório
+
+@responsorio
+R. Os apóstolos São Pedro e São Paulo,
+servindo a Jesus Cristo com ardor,
+plantaram a Igreja com seu sangue.
+* O cálice de Cristo eles beberam
+e amigos se tornaram do Senhor.
+V. Como em vida os uniu um grande afeto,
+assim, na morte, não ficaram separados. * O cálice.
+
+@secao Oração
+
+@oracao
+Ó Deus, guardai sob a proteção dos apóstolos Pedro e Paulo a vossa Igreja, que deles recebeu a primeira semente do Evangelho, e concedei que por eles receba até o fim dos tempos a graça que a faz crescer. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/imaculada_laudes.htm
+@documento Laudes - Imaculada Conceição da Bem-aventurada Virgem Maria
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Irrompa nova alegria,
+ressoem cantos de amor:
+da velha Ana no seio
+palpita a Mãe do Senhor.
+
+Maria, glória do mundo,
+de graça é plena e de luz:
+por culpa alguma atingida
+serás a Mãe de Jesus.
+
+Nascemos todos manchados
+pela culpa original:
+somente tu e teu Filho
+sois livres de todo mal.
+
+Davi, num só arremesso,
+derruba o gigante ao chão:
+teu "Sim" atinge na fronte
+a causa da perdição.
+
+Ó pomba suave e humilde,
+brilhante mais do que o sol:
+da paz nos trazes o ramo,
+voando em pleno arrebol.
+
+Louvor e honra ao Deus trino,
+que tanto e tanto te amou,
+pois antes já do pecado
+da culpa te preservou!
+
+@secao Salmodia
+
+@antifona 1
+Toda santa e sem mancha de pecado,
+merecestes ser a Mãe do Salvador.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Toda santa e sem mancha de pecado,
+merecestes ser a Mãe do Salvador.
+
+@antifona 2
+Sois bendita do Senhor, o Deus Altíssimo,
+entre todas as mulheres sobre a terra.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Sois bendita do Senhor, o Deus Altíssimo,
+entre todas as mulheres sobre a terra.
+
+@antifona 3
+Nós vos seguimos, ó Virgem Imaculada:
+atraí-nos pela vossa santidade.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Nós vos seguimos, ó Virgem Imaculada:
+atraí-nos pela vossa santidade.
+
+@secao Leitura breve | Is 43,1
+
+@texto
+E agora isto diz o Senhor que te criou, Jacó, que te formou, Israel: Não tenhas medo, porque eu te resgatei e te chamei pelo nome; tu és meu.
+
+@secao Responsório breve
+
+@responsorio
+R. Exulta no Senhor meu coração,
+* Pois ele me vestiu de fortaleza. R. Exulta.
+V. E tornou o meu caminho sem pecado. * Pois ele.
+Glória ao Pai. R. Exulta.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O Senhor disse à serpente:
+hei de pôr inimizades entre ti e a mulher,
+entre a tua descendência e a que dela nascerá.
+Ela, porém, esmagará tua cabeça. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O Senhor disse à serpente:
+hei de pôr inimizades entre ti e a mulher,
+entre a tua descendência e a que dela nascerá.
+Ela, porém, esmagará tua cabeça. Aleluia.
+
+@secao Preces
+
+@preces
+Celebremos nosso Salvador, que se dignou nascer da Virgem Maria; e peçamos:
+
+R. **Senhor, que a vossa Mãe interceda por nós!**
+
+Sol de justiça, a quem a Virgem Imaculada precedeu como aurora resplandecente,
+– concedei que caminhemos sempre à luz da vossa presença. R.
+
+Salvador do mundo, que pelos méritos da redenção preservastes a vossa Mãe de toda a mancha de pecado,
+– livrai-nos também de todo pecado. R.
+
+Redentor nosso, que fizestes da Imaculada Virgem Maria o tabernáculo puríssimo da vossa presença e o sacrário do Espírito Santo,
+– fazei de nós templos vivos do vosso Espírito. R.
+
+Rei dos reis, que quisestes ter vossa Mãe convosco no céu em corpo e alma,
+– fazei que aspiremos sempre aos bens do alto. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes uma digna habitação para o vosso Filho pela Imaculada Conceição da Virgem Maria, preservando-a de todo o pecado em previsão dos méritos de Cristo, concedei-nos chegar até vós, purificados também de toda a culpa, por sua materna intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

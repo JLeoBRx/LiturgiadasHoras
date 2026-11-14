@@ -1,0 +1,10 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/avemarialatim.htm
+
+@texto
+**AVE MARIA EM LATIM**
+
+Ave, Maria, gratia plena, Dominus tecum,
+benedicta tu in mulieribus et benedictus fructus ventris tui, Iesus.
+Sancta Maria, Mater Dei, ora pro nobis peccatoribus,
+nunc et in hora mortis nostræ.
+Amen.

@@ -1,0 +1,124 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/4segunda_quaresma.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração! †
+
+@salmo salmos/salmo-072-i
+
+@gloria
+
+@antifona
+Como Deus é tão bondoso para os justos,
+para aqueles que têm puro o coração!
+
+@antifona 2
+Os maus que hoje riem, amanhã hão de chorar.
+
+@salmo salmos/salmo-072-ii
+
+@gloria
+
+@antifona
+Os maus que hoje riem, amanhã hão de chorar.
+
+@antifona 3
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.
+
+@salmo salmos/salmo-072-iii
+
+@gloria
+
+@antifona
+Haverão de perecer os que vos deixam;
+para mim só há um bem: é estar com Deus.
+
+@texto
+V. Convertei-vos e crede no Evangelho.
+R. Pois o reino de Deus está chegando.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Levítico {16,2-28}
+
+@tema
+O dia da expiação
+
+@texto
+Naqueles dias, [2] o Senhor ordenou a Moisés, dizendo: “Fala a teu irmão Aarão para não entrar a qualquer hora no santuário, que fica por detrás do véu, diante do propiciatório que está sobre a arca, para que não morra quando Eu aparecer na nuvem sobre o propiciatório. [3] Mas Aarão entrará deste modo no santuário: oferecerá um bezerro como sacrifício expiatório e um carneiro em holocausto. [4] Vestirá uma túnica sagrada de linho, usará roupa de baixo de linho, cingirá um cinto de linho e na cabeça trará um turbante de linho. São vestes sacras, que vestirá depois de tomar banho. [5] Receberá da comunidade dos filhos de Israel dois bodes para o sacrifício pelo pecado e um carneiro para o holocausto. [6] Depois de ter oferecido o bezerro pelo próprio pecado e feito a expiação por si e por sua família, [7] apresentará diante do Senhor dois bodes à entrada da Tenda da Reunião. [8] Depois lançará as sortes sobre os dois bodes, uma para o Senhor e outra para Azazel. [9] Aarão oferecerá o bode que coube ao Senhor, fazendo um sacrifício pelo pecado. [10] Quanto ao bode que tocou por sorte a Azazel, será apresentado vivo diante do Senhor, para fazer a expiação e mandá-lo para Azazel, ao deserto. [11] Aarão oferecerá o bezerro do sacrifício pelo próprio pecado e, fazendo a expiação por si e por sua família, imolará o bezerro. [12] Tomará, então, um turíbulo cheio de brasas tiradas do altar que está diante do Senhor, e dois punhados cheios de incenso aromático pulverizado, e levará tudo para trás do véu. [13] Na presença do Senhor porá o incenso sobre o fogo, de modo que a nuvem de incenso cubra o propiciatório que está sobre a arca da aliança; assim não morrerá. [14] Em seguida, pegará um pouco do sangue do bezerro, e, com o dedo, fará sete aspersões de sangue diante do propiciatório. [15] Depois de ter imolado o bode pelo pecado do povo, levará seu sangue para trás do véu, como foi ordenado acerca do sangue do bezerro, para fazer a aspersão diante do propiciatório. [16] Assim fará a expiação pelo santuário, por causa das impurezas dos filhos de Israel, e de suas transgressões e todos os seus pecados. Fará o mesmo pela Tenda da Reunião, estabelecida entre eles, no meio das suas impurezas. [17] Ninguém esteja na Tenda da Reunião quando o pontífice entrar no santuário para fazer a expiação por si e por sua família, e por toda a comunidade de Israel, enquanto não tiver saído. [18] Quando tiver saído para o altar que está diante do Senhor, fará a expiação e, pegando um pouco de sangue do bezerro e do bode, o derramará sobre as pontas em torno do altar. [19] Fará com o dedo sete vezes a aspersão de sangue sobre o altar, para santificá-lo e purificá-lo das impurezas dos filhos de Israel. [20] Concluída a expiação do santuário, da Tenda da Reunião e do altar, mandará trazer o bode vivo; [21] e, impondo ambas as mãos sobre a sua cabeça, Aarão confessará todas as culpas, transgressões e pecados dos filhos de Israel, e os porá sobre a cabeça do bode. Depois, por meio de um homem para isso designado, o enviará ao deserto. [22] Assim o bode levará sobre si todas as culpas dos filhos de Israel para uma região desabitada. Uma vez despachado o bode para o deserto, [23] Aarão entrará na Tenda da Reunião e se despojará das vestes de linho que vestiu para entrar no santuário, deixando-as ali. [24] Lavará o corpo com água em lugar santo e vestirá as suas roupas. Em seguida, sairá e oferecerá o seu holocausto e o holocausto do povo, em expiação por si e pelo povo. [25] Quanto às gorduras do sacrifício pelo pecado, as queimará no altar. [26] Aquele que foi soltar o bode de Azazel, deverá lavar as vestes e tomar banho, e depois poderá entrar no acampamento. [27] Quanto ao bezerro e ao bode imolados pelo pecado, cujo sangue foi introduzido no santuário para fazer a expiação, serão levados para fora do acampamento, e suas peles, carnes e vísceras serão consumidas pelo fogo. [28] E aquele que as queimar, deverá lavar as vestes e tomar banho, e depois poderá entrar no acampamento”.
+
+@secao Responsório | Cf. Hb 9,11.12.24
+
+@responsorio
+R. Quando, porém, veio Jesus Cristo
+como sumo sacerdote dos bens já realizados, não pelo sangue de bezerros, mas por seu próprio sangue,
+* Ele entrou no santuário uma vez por todo o sempre, alcançando para nós a eterna salvação.
+V. Não entrou num santuário por mãos humanas construído, mas entrou no próprio céu. * Ele entrou.
+
+@secao Segunda leitura
+
+@leitura
+Das Homilias sobre o Levítico, de Orígenes, presbítero
+{(Séc.III)} {(Hom. 9,5.10:PG12,515.523)}
+
+@tema
+Cristo, sumo-sacerdote, é a nossa propiciação
+
+@texto
+Uma vez por ano o sumo sacerdote, afastando-se do povo, entra no lugar onde estão o propiciatório, os querubins, a arca da aliança e o altar do incenso; ninguém pode entrar aí, exceto o sumo sacerdote. Mas consideremos o nosso verdadeiro sumo sacerdote, o Senhor Jesus Cristo. Tendo assumido a natureza humana, ele estava o ano todo com o povo – aquele ano do qual ele mesmo disse: _O Senhor enviou-me para anunciar a boa-nova aos pobres; proclamar um ano da graça do Senhor e o dia do perdão_ (cf. Lc 4,18.19) – e uma só vez durante esse ano, no dia da expiação, ele entrou no santuário, isto é, penetrou nos céus, depois de cumprir sua missão redentora, e permanece diante do Pai, para torná-lo propício ao gênero humano e interceder por todos os que nele creem. Conhecendo esta propiciação que reconcilia os homens com o Pai, diz o apóstolo João: Meus filhinhos, escrevo isto para que não pequeis. No entanto, se alguém pecar, temos junto do Pai um Defensor: _Jesus Cristo, o Justo. Ele é a vítima de expiação pelos nossos pecados_ (1Jo 2,1-2). Paulo lembra igualmente esta propiciação, ao falar de Cristo: _Deus o destinou a ser, por seu próprio sangue, instrumento de expiação mediante a realidade da fé_ (Rm 3,25). Por isso, o dia da expiação continua para nós até o fim do mundo. Diz a palavra divina: _Na presença do Senhor porá o incenso sobre o fogo, de modo que a nuvem de incenso cubra o propiciatório que está sobre a arca da aliança; assim não morrerá. Em seguida, pegará um pouco do sangue do bezerro, e com o dedo, aspergirá o lado oriental do propiciatório_ (cf. Lv 16,13-14). Ensinou assim aos antigos como havia de ser celebrado o rito de propiciação, oferecido a Deus em favor dos homens. Tu, porém, que te aproximaste de Cristo, o verdadeiro sumo sacerdote que, com o seu sangue, tornou Deus propício para contigo e te reconciliou com o Pai, não fixes tua atenção no sangue das vítimas antigas. Procura antes conhecer o sangue do Verbo e ouve o que ele mesmo te diz: _Isto é o meu sangue, que será derramado por vós, para remissão dos pecados_ (cf. Mt 26,28). Também a aspersão para o lado do oriente tem o seu significado. Do oriente nos vem a propiciação. É de lá que vem aquele homem cujo nome é Oriente e que foi constituído mediador entre Deus e os homens. Por esse motivo és convidado a olhar sempre para o oriente, de onde nasce para ti o Sol da justiça, de onde a luz se levanta sobre ti, para que nunca andes nas trevas, nem te surpreenda nas trevas o último dia; a fim de que a noite e a escuridão da ignorância não caiam sorrateiramente sobre ti, mas vivas sempre na luz da sabedoria, no pleno dia da fé e no fulgor da caridade e da paz.
+
+@secao Responsório | Cf. Hb 6,20; 7,2.3
+
+@responsorio
+R. O Cordeiro imaculado penetrou no santuário
+como nosso precursor,
+* Feito sumo sacerdote para toda a eternidade, numa ordem semelhante à do rei Melquisedec.
+V. Rei da paz, rei da justiça, sua vida não tem fim. * Feito sumo.
+
+@secao Oração
+
+@oracao
+Ó Deus, que renovais o mundo com admiráveis sacramentos, fazei a vossa Igreja caminhar segundo a vossa vontade sem que jamais lhe faltem neste mundo os auxílios de que necessita. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

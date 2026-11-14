@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2segunda_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Sois tão belo, o mais belo entre os filhos dos homens!
+Vossos lábios espalham a graça, o encanto.
+
+@antifona 2
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Eis que vem o esposo chegando:
+Saí ao encontro de Cristo!
+
+@antifona 3
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@salmo canticos/ef-1-3-10-v3
+
+@gloria
+
+@antifona
+Eis que agora se cumpre o desígnio do Pai:
+reunir no seu Cristo o que estava disperso.
+
+@secao Leitura breve | Fl 3,20b-21
+
+@texto
+Aguardamos o nosso Salvador, o Senhor, Jesus Cristo. Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Eis que vem o Senhor, grande Rei do universo;
+quebrará os grilhões de seu povo cativo.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Eis que vem o Senhor, grande Rei do universo;
+quebrará os grilhões de seu povo cativo.
+
+@secao Preces
+
+@preces
+Supliquemos, irmãos caríssimos, a Cristo nosso Senhor, Juiz dos vivos e dos mortos; e digamos com toda a confiança:
+
+R. **Vinde, Senhor Jesus.**
+
+Fazei, Senhor, que o mundo reconheça a vossa justiça que os céus proclamam,
+– para que a vossa glória habite nossa terra. R.
+
+Senhor, que quisestes experimentar a fraqueza de nossa humanidade,
+– revigorai os seres humanos com o poder de vossa divindade. R.
+
+Vinde, Senhor, iluminar com o esplendor da vossa sabedoria,
+– os que vivem oprimidos nas trevas da ignorância. R.
+
+Senhor, que pela vossa humilhação nos libertastes de toda a iniquidade,
+– pela vossa glorificação, conduzi-nos à felicidade eterna. R.
+
+{(intenções livres)}
+
+Senhor, que haveis de vir com grande poder e glória para julgar o mundo,
+– levai os nossos irmãos e irmãs falecidos para o reino dos céus. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Cheguem à vossa presença, ó Deus, as nossas orações suplicantes, e possamos celebrar de coração puro o grande mistério da encarnação do vosso Filho. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

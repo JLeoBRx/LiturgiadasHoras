@@ -1,0 +1,47 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/4segundaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 30,7-8
+@texto
+Confio em vós, Senhor.
+Exultarei e me alegrarei em vossa misericórdia,
+pois olhastes a minha pequenez.
+
+@secao Coleta
+@texto
+Ó Deus, que renovais o mundo com admiráveis sacramentos,
+concedei à vossa Igreja caminhar segundo a vossa vontade
+sem que jamais lhe faltem neste mundo
+os auxílios de que necessita.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Possamos, Senhor, colher os frutos
+do sacrifício que vamos oferecer,
+para que, purificados da antiga condição de pecado,
+cresçamos numa vida nova.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Ez 36,27
+@texto
+Assim diz o Senhor:
+Porei o meu espírito dentro de vós
+e farei com que sigais a minha lei
+e cuideis de observar os meus mandamentos.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor,
+que vossos santos dons nos renovem e santifiquem,
+conduzindo-nos à vida eterna.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Senhor, renovai inteiramente o vosso povo.
+Assim como lhe concedestes as alegrias corporais,
+fazei que procure sempre os bens espirituais.
+Por Cristo, nosso Senhor.

@@ -1,0 +1,158 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/santissimatrindade_vesperas.htm
+@documento Vésperas - Santíssima Trindade
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Trindade imensa e una,
+vossa força tudo cria;
+vossa mão, que rege os tempos,
+antes deles existia.
+
+Vós, feliz, num gozo pleno,
+totalmente vos bastais.
+Pura, simples, generosa,
+terra e espaços abraçais.
+
+Pai, da graça fonte viva,
+Luz da glória de Deus Pai,
+Santo Espírito da vida,
+que no Amor os enlaçais.
+
+Só por vós, Trindade Santa,
+suma origem, todo bem,
+todo ser, toda beleza,
+toda vida se mantém.
+
+Nós os filhos adotivos,
+pela graça consagrados,
+nos tornemos templos vivos,
+a vós sempre dedicados.
+
+Ó Luz viva, reuni-nos
+com os anjos, lá nos céus,
+no louvor da vossa glória
+que veremos, sem ter véus.
+
+@secao Salmodia
+
+@antifona 1
+Ó Trindade eterna e suprema,
+Pai e Filho e Espírito Santo!
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Ó Trindade eterna e suprema,
+Pai e Filho e Espírito Santo!
+
+@antifona 2
+Livrai-nos, salvai-nos e dai-nos a vida,
+ó Trindade Feliz!
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Livrai-nos, salvai-nos e dai-nos a vida,
+ó Trindade Feliz!
+
+@antifona 3
+Santo, Santo, Santo, Senhor Deus onipotente,
+Deus que era, Deus que é e será eternamente.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Santo, Santo, Santo, Senhor Deus onipotente,
+Deus que era, Deus que é e será eternamente.
+
+@secao Leitura breve | Ef 4,3-6
+
+@texto
+Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. Há um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos.
+
+@secao Responsório breve
+
+@responsorio
+R. Bendigamos ao Pai e ao Filho, bendigamos ao Espírito Santo.
+* Louvemos a Deus para sempre. R. Bendigamos.
+V. Só a Deus honra, glória e louvor! * Louvemos.
+Glória ao Pai. R. Bendigamos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Deus Pai não gerado, Deus Filho Unigênito,
+Deus Espírito Santo, divino Paráclito,
+ó Santa, indivisa e una Trindade:
+Com todas as fibras da alma e da voz,
+vos louvamos cantando, na fé confessando:
+Glória a vós pelos séculos!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Deus Pai não gerado, Deus Filho Unigênito,
+Deus Espírito Santo, divino Paráclito,
+ó Santa, indivisa e una Trindade:
+Com todas as fibras da alma e da voz,
+vos louvamos cantando, na fé confessando:
+Glória a vós pelos séculos!
+
+@secao Preces
+
+@preces
+Deus Pai, por meio do Espírito Santo, vivificou o corpo de Cristo, seu Filho, e tornou-o fonte de vida para nós. Elevemos nossa aclamação ao Deus Uno e Trino; e digamos:
+
+R. **Glória ao Pai e ao Filho e ao Espírito Santo!**
+
+Deus Pai, todo-poderoso e eterno, em nome de vosso Filho enviai sobre a Igreja o Espírito Santo Consolador,
+– para que a conserve na unidade do amor e na verdade perfeita. R.
+
+Enviai, Senhor, operários à vossa messe, para que anunciem o evangelho a todos os povos e os batizem em nome do Pai e do Filho e do Espírito Santo,
+– confirmando-os na fé. R.
+
+Senhor, vinde em auxílio de todos os que são perseguidos pelo nome de vosso Filho,
+– que prometeu o Espírito da verdade para falar por eles. R.
+
+Pai todo-poderoso, dai a todos conhecerem que vós, o Verbo e o Espírito Santo sois um só Deus,
+– para que vivam na fé, na esperança e na caridade. R.
+
+{(intenções livres)}
+
+Pai dos viventes, fazei que os nossos irmãos e irmãs falecidos participem da vossa glória,
+– onde vosso Filho e o Espírito Santo reinam convosco eternamente. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso inefável mistério. Fazei que, professando a verdadeira fé, reconheçamos a glória da Trindade e adoremos a Unidade onipotente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,133 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santacecilia.htm
+@documento Ofício das Leituras - Santa Cecília, Virgem E Mártir Memória
+
+@celebracao
+SANTA CECÍLIA, VIRGEM E MÁRTIR
+{Memória}
+
+@biografia
+O culto de Santa Cecília, que deu o nome a uma basílica construída em Roma no século V, difundiu-se amplamente a partir da narração do seu Martírio em que ela é exaltada como exemplo perfeitíssimo de mulher cristã, que abraçou a virgindade e sofreu o martírio por amor de Cristo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Cristo, flor dos vales,
+de todo bem origem,
+com palmas de martírio
+ornastes vossa virgem.
+
+Prudente, forte, sábia,
+professa a fé em vós
+por quem aceita, impávida,
+a pena mais atroz.
+
+O príncipe do mundo
+por vós, Senhor, venceu.
+Vencendo o bom combate,
+ganhou os bens do céu.
+
+Bondoso Redentor,
+por sua intercessão,
+uni-nos, de alma pura,
+à virgem, como irmãos.
+
+Jesus, da Virgem Filho,
+louvor a vós convém,
+ao Pai e ao Santo Espírito
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios
+
+@tema
+4,7―5,8 Nas tribulações manifesta-se a força de Cristo
+
+@texto
+Irmãos: [4,7] Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. [8] Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; [9] perseguidos, mas não desamparados; derrubados, mas não aniquilados; [10] por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. [11] De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. [12] Assim, a morte age em nós, enquanto a vida age em vós. [13] Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso, falei”, nós também cremos e, por isso, falamos, [14] certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. [15] E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. [16] Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. [17] Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. [18] E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. [5,1] De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. [2] Aliás, é por isso que nós gememos, suspirando por ser revestidos com a nossa habitação celeste; [3] revestidos, digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. [4] Sim, nós que moramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremos ser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, seja absorvido pela vida. [5] E aquele que nos fez para esse fim é Deus, que nos deu o Espírito como penhor. [6] Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; [7] pois caminhamos na fé e não na visão clara. [8] Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguirem e, calúnias proferindo, disserem todo mal contra vós por minha causa.
+* Alegrai-vos e exultai, pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles. * Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de Santo Agostinho, bispo
+{(Séc.V)} {(Ps 32, sermo 1,7-8: CCL 38,253-254)}
+
+@tema
+Cantai a Deus com arte e com júbilo
+
+@texto
+Louvai o Senhor com a cítara, na harpa de dez cordas Salmodiai! Cantai-lhe um cântico novo!(Sl 32,2.3). Despojai-vos da velhice; conhecestes um cântico novo! Novo homem, nova aliança, novo cântico. O cântico novo não pertence aos homens velhos. Somente o aprendem os homens novos, renovados da velhice pela graça e já pertencentes à nova aliança, que é o reino dos céus. Por ele anseia todo o nosso amor e canta um cântico novo. Cante o cântico novo não a língua mas a vida. Cantai-lhe um cântico novo, cantai bem para ele! Alguém pergunta como cantar para Deus. Canta para ele, mas não cantes mal. Ele não quer que seus ouvidos sejam molestados. Cantai bem, irmãos. Diante de um musicista de bom ouvido, dizem-te para cantar de modo que lhe agrade. Ora se não foste instruído na arte musical,temes cantar para não desagradar ao artista. Não sabendo que és ignorante, ele te repreenderá. Quem se oferecerá para cantar bem a Deus, a ele que de tal modo julga o cantor, de tal modo examina tudo, de tal modo sabe escutar? Quando poderás apresentar um canto com tanta arte que absolutamente em nada desagrades aos ouvidos perfeitos? Eis que ele te dá um modo de cantar: não procures palavras, como se pudesses explicar aquilo com que Deus se deleita. Canta na jubilação. É isto cantar bem para Deus, cantar na jubilação. O que é cantar no júbilo? Escuta, não se pode expressar por palavras aquilo que se canta no coração. De fato, aqueles que cantam seja na ceifa, seja na vinha, seja em qualquer outro trabalho cheio de ardor, começam com palavras de cantigas a exultar com alegria; depois, a alegria é tanta que já não podem dizê-la, então abandonam as sílabas das palavras e deixam-se levar pelo som do júbilo. Júbilo é um som a significar que do coração brota algo impossível de se expressar. E quem merece esta jubilação, a não ser o Deus inefável? É inefável o que não podes falar. E se não o podes falar e não deves calar-te, o que te resta senão jubilar? Alegre-se o coração sem palavras, e a imensidão das alegrias não conheça o limite das sílabas. _Cantai para ele com arte e com_ _júbilo_ (cf. Sl 32,3).
+
+@secao Responsório | Sl 70(71),8.23a; 9,3
+
+@responsorio
+R. Vosso louvor é transbordante de meus lábios,
+cantam eles vossa glória o dia inteiro.
+* A alegria cantará sobre meus lábios
+e minha alma libertada exultará.
+V. Em vós exultarei de alegria,
+cantarei ao vosso nome, Deus Altíssimo.
+* A alegria.
+
+@secao Oração
+
+@oracao
+Ó Deus, sede favorável às nossas súplicas e dignai-vos atender às nossas preces pela intercessão de Santa Cecília. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3segunda_laudes.htm
+@documento Laudes - Segunda-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Clarão da glória do Pai,
+ó Luz, que a Luz origina,
+sois Luz da Luz, fonte viva,
+sois Luz que ao dia ilumina.
+
+Brilhai, ó Sol verdadeiro,
+com vosso imenso esplendor,
+e dentro em nós derramai
+do Santo Espírito o fulgor.
+
+Também ao Pai suplicamos,
+ao Pai a glória imortal,
+ao Pai da graça potente,
+que a nós preserve do mal.
+
+Na luta fortes nos guarde
+vencendo o anjo inimigo.
+Nas quedas, dê-nos a graça,
+de nós afaste o perigo.
+
+As nossas mentes governe
+num corpo casto e sadio.
+A nossa fé seja ardente,
+e não conheça desvio.
+
+O nosso pão seja o Cristo,
+e a fé nos seja a bebida.
+O Santo Espírito bebamos
+nas fontes puras da vida.
+
+Alegre passe este dia,
+tão puro quanto o arrebol.
+A fé, qual luz cintilante,
+refulja em nós como o sol.
+
+A aurora em si traz o dia.
+Vós, como aurora, brilhai:
+ó Pai, vós todo no Filho,
+e vós, ó Verbo, no Pai.
+
+@secao Salmodia
+
+@antifona 1
+Felizes os que habitam vossa casa, ó Senhor!
+
+@salmo salmos/salmo-083
+
+@gloria
+
+@antifona
+Felizes os que habitam vossa casa, ó Senhor!
+
+@antifona 2
+Vinde, subamos a montanha do Senhor!
+
+@salmo canticos/is-2-2-5
+
+@gloria
+
+@antifona
+Vinde, subamos a montanha do Senhor!
+
+@antifona 3
+Cantai ao Senhor Deus, bendizei seu santo nome!
+
+@salmo salmos/salmo-095
+
+@gloria
+
+@antifona
+Cantai ao Senhor Deus, bendizei seu santo nome!
+
+@secao Leitura breve | Tg 2,12-13
+
+@texto
+Falai e procedei como pessoas que vão ser julgadas pela Lei da liberdade. Pensai bem: o juízo vai ser sem misericórdia para quem não praticou misericórdia; a misericórdia, porém, triunfa do juízo.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor seja bendito,
+* Bendito seja eternamente! R. O Senhor.
+V. Só o Senhor faz maravilhas. * Bendito seja.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Bendito seja o Senhor nosso Deus!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Bendito seja o Senhor nosso Deus!
+
+@secao Preces
+
+@preces
+Roguemos a Deus Pai, que colocou os seres humanos no mundo para trabalharem em harmonia para sua glória; e peçamos com fervor:
+
+R. **Senhor, ouvi-nos, para louvor da vossa glória!**
+
+Deus, Criador do universo, nós vos bendizemos por tantos bens da criação que nos destes,
+– e pela vida que nos conservastes até este dia.R.
+
+Olhai para nós ao iniciarmos o trabalho cotidiano,
+– para que, colaborando na vossa obra, tudo façamos de acordo com a vossa vontade.R.
+
+Fazei que o nosso trabalho de hoje seja proveitoso para os nossos irmãos e irmãs,
+– a fim de que todos juntos construamos uma sociedade mais justa e fraterna aos vossos olhos. R.
+
+A nós e a todos os que neste dia se encontrarem conosco,
+– concedei a vossa alegria e vossa paz. R.
+
+{(intenções livres)}
+
+@texto
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, Rei do céu e da terra, dirigi e santificai nossos corações e nossos corpos, nossos sentimentos, palavras e ações, na fidelidade à vossa lei e na obediência à vossa vontade, para que, hoje e sempre, por vós auxiliados, alcancemos a liberdade e a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

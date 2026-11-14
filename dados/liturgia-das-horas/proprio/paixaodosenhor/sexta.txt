@@ -1,0 +1,71 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/paixaodosenhor_sexta.htm
+@documento Hora Média - Paixão de Nosso Senhor Jesus Cristo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó cruz, do mundo bênção,
+ó divinal troféu:
+da morte foste a porta
+e agora és do céu.
+
+Venceu o mal aquele
+que tudo atrai a si:
+qual vítima imolada
+suspenso foi em ti.
+
+Louvor, poder e glória
+por ti, subam, ó cruz,
+ao Deus que é uno e trino,
+inacessível luz.
+
+@secao Salmodia
+
+@antifona
+Da hora sexta à hora nona a terra toda escureceu.
+
+@rubrica
+Numa das Horas Médias, tomam-se os salmos seguintes; nas outras duas, tomam-se da Salmodia Complementar.
+
+@salmo salmos/salmo-039-2-14-17-18
+
+@gloria
+
+@salmo salmos/salmo-053-3-6-8-9
+
+@gloria
+
+@salmo salmos/salmo-087
+
+@gloria
+
+@antifona
+Da hora sexta à hora nona a terra toda escureceu.
+
+@secao Leitura breve | Is 53,4-5
+
+@texto
+A verdade é que ele tomava sobre si nossas enfermidades e sofria, ele mesmo, nossas dores; e nós pensávamos fosse um chagado, golpeado por Deus e humilhado! Mas ele foi ferido por causa de nossos pecados, esmagado por causa de nossos crimes; a punição a ele imposta era o preço da nossa paz, e suas feridas, o preço da nossa cura.
+
+@texto
+V. Lembrai-vos de mim, Senhor Jesus,
+R. Quando tiverdes chegado ao vosso Reino.
+
+@secao Oração
+
+@oracao
+Olhai com amor, ó Pai, esta vossa família, pela qual nosso Senhor Jesus Cristo livremente se entregou às mãos dos inimigos e sofreu o suplício da cruz. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

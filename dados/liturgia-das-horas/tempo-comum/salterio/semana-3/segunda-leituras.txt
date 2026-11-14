@@ -1,0 +1,114 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3segunda_leituras.htm
+@documento Ofício das Leituras - III Segunda-Feira
+
+@titulo III SEGUNDA / Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@rubrica
+I. Quando se diz o Ofício das Leituras durante a noite ou de madrugada:
+
+@hino
+Refeitos pelo sono,
+do leito, levantamos.
+Ficai com vossos filhos,
+ó Pai, vos suplicamos.
+
+A vós, o som primeiro,
+o amor que se irradia:
+sejais princípio e fim
+de cada ação do dia.
+
+Que a treva ceda à aurora,
+a noite ao sol dourado:
+e a luz da graça afaste
+a sombra do pecado.
+
+Lavai as nossas faltas,
+Senhor, que nos salvastes;
+esteja o vosso nome
+nos lábios que criastes.
+
+A glória seja ao Pai,
+ao Filho seu também,
+ao Espírito igualmente,
+agora e sempre. Amém.
+
+@rubrica
+II. Quando se diz o Ofício das Leituras durante o dia:
+
+@hino
+Divindade, luz eterna,
+Unidade na Trindade,
+proclamando vossa glória,
+suplicamos piedade.
+
+Cremos todos no Pai Santo,
+no seu Filho Salvador
+e no Espírito Divino
+que os une pelo Amor.
+
+Ó verdade, amor eterno,
+nosso fim, felicidade,
+dai-nos fé e esperança
+e profunda caridade.
+
+Sois o fim, sois o começo,
+e de tudo sois a fonte,
+esperança dos que creem,
+luz que brilha no horizonte.
+
+Vós, sozinho, fazeis tudo,
+e a tudo vós bastais.
+Sois a luz de nossa vida,
+aos que esperam premiais.
+
+Bendizemos a Trindade,
+Deus Eterno, Sumo Bem,
+Pai e Filho e Santo Espírito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Vem a nós o nosso Deus e nos fala abertamente.
+
+@salmo salmos/salmo-049-i
+
+@gloria
+
+@antifona
+Vem a nós o nosso Deus e nos fala abertamente.
+
+@antifona 2
+Oferece ao Senhor um sacrifício de louvor!
+
+@salmo salmos/salmo-049-ii
+
+@gloria
+
+@antifona
+Oferece ao Senhor um sacrifício de louvor!
+
+@antifona 3
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor!
+
+@salmo salmos/salmo-049-iii
+
+@gloria
+
+@antifona
+Eu não quero oferenda e sacrifício;
+quero o amor e a ciência do Senhor!
+
+@texto
+V. Escuta, ó meu povo, eu vou falar:
+R. Eu, o Senhor, somente eu sou o teu Deus!

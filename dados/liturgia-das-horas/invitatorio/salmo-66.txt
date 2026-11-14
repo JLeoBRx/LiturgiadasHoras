@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/invitatorio/invitatorio66.html
+@documento Invitatorio
+
+@texto
+{Quando se reza sozinho pode-se dizer a seguinte oração:}
+Abri, Senhor, os meus lábios para bendizer o vosso santo nome. Purificai o meu coração de todos os pensamentos vãos, desordenados e estranhos. Iluminai o meu entendimento e inflamai minha vontade para que possa rezar digna, atenta e devotamente este Ofício, e mereça ser atendido na presença da vossa divina Majestade. Por Cristo, nosso Senhor. Amém.
+{–––––––––––––––––––––––} {O Invitatório tem seu lugar no início da oração cotidiana, ou seja, antepõe-se ao Ofício das Leituras, ou às Laudes, conforme se comece o dia por uma ou por outra ação litúrgica.}
+
+@texto
+V. Abri os meus lábios, ó Senhor.
+R. E minha boca anunciará vosso louvor.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [2] Que Deus nos dê a sua graça e sua bênção, *
+  e sua face resplandeça sobre nós!
+– [3] Que na terra se conheça o seu caminho *
+  e a sua salvação por entre os povos.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [4] Que as nações vos glorifiquem, ó Senhor, *
+  que todas as nações vos glorifiquem!
+
+@lacuna antifona-invitatorio
+
+@versos
+– [5] Exulte de alegria a terra inteira, *
+  pois julgais o universo com justiça;
+– os povos governais com retidão, *
+  e guiais, em toda a terra, as nações.
+
+@lacuna antifona-invitatorio
+
+@versos
+– [6] Que as nações vos glorifiquem, ó Senhor, *
+  que todas as nações vos glorifiquem!
+
+@lacuna antifona-invitatorio
+
+@versos
+– [7] A terra produziu sua colheita: *
+  o Senhor e nosso Deus nos abençoa.
+– [8] Que o Senhor e nosso Deus nos abençoe, *
+  e o respeitem os confins de toda terra!
+
+@lacuna antifona-invitatorio
+
+@gloria
+
+@lacuna antifona-invitatorio
+
+@lacuna conclusao-invitatorio

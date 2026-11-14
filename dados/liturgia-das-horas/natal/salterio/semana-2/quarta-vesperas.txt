@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@antifona 2
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós! †
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós!
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Cristo, o Primogênito de toda a criatura
+
+@salmo canticos/cl-1-12-20-v2
+
+@texto
+{(R.} Glória a vós, primogênito dentre os mortos!)
+
+@salmo canticos/cl-1-12-20-v3
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.

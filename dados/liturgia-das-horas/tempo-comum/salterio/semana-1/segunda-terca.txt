@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1segunda_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Mantendo a ordem certa,
+do coração fiel,
+na hora terça oremos
+aos Três, fulgor do céu.
+
+Queremos ser os templos
+do Espírito Santo, outrora
+descido sobre os Doze
+em chamas, nesta hora.
+
+Fiel aos seus desígnios,
+do Reino o Autor divino
+a tudo ornou de graça
+segundo o seu destino.
+
+Louvor e glória ao Pai,
+ao Filho, Sumo Bem,
+e ao seu divino Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@antifona 2
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@antifona
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@antifona 3
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@salmo salmos/salmo-007-ii
+
+@gloria
+
+@antifona
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@secao Leitura breve | Rm 13,8.10
+
+@texto
+Não fiqueis devendo nada a ninguém, a não ser o amor mútuo – pois quem ama o próximo está cumprindo a Lei. O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei.
+
+@texto
+V. Não me afasteis, vós que sois o meu auxílio.
+R. Meu Deus e Salvador, não me deixeis!
+
+@secao Oração
+
+@oracao
+Ó Deus, Pai de bondade, destes o trabalho aos seres humanos para que, unindo seus esforços, progridam cada vez mais; concedei que, em nossas atividades, vos amemos a vós como filhos e filhas e a todos como irmãos e irmãs. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/joaoxxiii.htm
+@documento Ofício das Leituras - São Joao Xxiii, Papa
+
+@celebracao
+SÃO JOAO XXIII, PAPA
+
+@biografia
+Ângelo José Roncálli nasceu em Sotto il Monte (Bérgamo) em 1881. Aos onze anos entrou no seminário de Bérgamo e prosseguiu depois os estudos no Pontifício Seminário Romano. Ordenado sacerdote em 1904, foi secretário do Bispo de Bérgamo. Em 1921 começou a prestar o seu serviço na Santa Sé como Presidente per l’Italia do Conselho Central da Obra Pontifícia para a Propagação da Fé; em 1925, como Visitador Apostólico e depois Delegado Apostólico na Bulgária; em 1935, como Delegado Apostólico na Turquia e Grécia; em 1944, como Núncio Apostólico na França. Em 1953 foi nomeado cardeal e nomeado Patriarca de Veneza. Foi eleito Papa em 1958: convocou o Sínodo Romano, instituiu a Comissão para a revisão do Código de Direito Canônico, convocou o Concílio Ecumênico Vaticano II. Morreu na tarde do dia 3 de Junho de 1963.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das alocuções de São João XXIII, papa
+{(Abertura solene do Concílio Ecuménico Vaticano II, 11 de Outubro de 1962: AAS 54 [1962], 786-787. 792-793)} {(Séc. XX)}
+
+@tema
+A Igreja é mãe amabilíssima de todos os homens
+
+@texto
+Alegra-se a Santa Mãe Igreja, porque, por singular dom da Divina Providência, amanheceu finalmente o dia tão esperado, em que se inaugura o Concílio Ecumênico Vaticano II, aqui, junto do túmulo de São Pedro, sob a proteção da Santíssima Virgem, de quem celebramos hoje com alegria a dignidade de Mãe de Deus.
+Depois de quase vinte séculos, as situações e os problemas gravíssimos que a humanidade deve enfrentar não mudam. Na realidade, Cristo ocupa sempre o posto central da história e da vida: os homens ou aderem a Ele e à sua Igreja – e então gozam da luz, da bondade, da ordem justa e do benefício da paz –, ou vivem sem Ele e contra Ele, e permanecem deliberadamente fora da Igreja – e por isso se estabelece a confusão entre eles, as relações mútuas tornam-se difíceis, ameaça o perigo de guerras sangrentas.
+Ao iniciar-se o Concílio Ecumênico Vaticano II, é evidente como nunca que a verdade do Senhor permanece eternamente (Salmo 118 (119), 89). De fato, vemos como de uma época para outra as incertas opiniões dos homens se contradizem mutuamente e muitas vezes os erros se dissipam logo ao nascer como a névoa ao raiar o sol.
+Sempre a Igreja se opôs a estes erros, muitas vezes até os condenou com severidade. Nos nossos dias, porém, a Esposa de Cristo prefere usar a medicina da misericórdia, em vez de recorrer às armas do rigor; ela pensa que é melhor ir ao encontro das necessidades atuais mostrando a validez da sua doutrina do que recorrendo às condenações. Não é porque faltem doutrinas falsas, opiniões e ideias perigosas, contra as quais nos devemos precaver e opor, mas porque todas estas coisas estão tão abertamente em contradição com os retos princípios da honestidade e produziram frutos tão perniciosos que hoje os homens parecem espontaneamente inclinados a reprová-las, sobretudo aquelas formas de viver que ignoram a Deus e a sua lei, a confiança excessiva nos progressos da técnica e o bem-estar fundado exclusivamente na comodidade da vida. Estão sempre cada vez mais conscientes de que a dignidade humana e o seu conveniente aperfeiçoamento é uma questão de suma importância e muito difícil de realizar. O que mais importa é terem aprendido com a experiência que a violência causada aos outros, o poder das armas e o predomínio político não contribuem para a feliz solução dos gravíssimos problemas que os atormentam.
+Neste estado de coisas, a Igreja Católica, elevando por meio deste Concílio Ecumênico o farol da verdade religiosa, quer manifestar-se como mãe amável de todos, benigna, paciente, cheia de misericórdia e de bondade para com os filhos dela separados. Ao gênero humano oprimido por tantas dificuldades ela diz como Pedro ao pobre que lhe pedia esmola: _Não tenho ouro nem prata, mas dou-te o que tenho. Em nome de Jesus Nazareno, levanta-te e anda_ (At 3,6).
+Quer dizer, a Igreja não oferece riquezas caducas aos homens de hoje, nem lhes promete uma felicidade só terrena, mas torna-os participantes da graça divina, que, elevando-os à dignidade de filhos de Deus, se converte numa poderosa defesa e ajuda para uma vida mais humana; abre a fonte da sua doutrina vivificadora que permite aos homens, iluminados pela luz de Cristo, compreender bem aquilo que são realmente, a sua excelsa dignidade, a meta a que devem tender. Além disso, por meio dos seus filhos, estende por toda a parte a plenitude da caridade cristã, que, mais que nenhuma outra coisa contribui para erradicar a discórdia, nada havendo mais eficaz para fomentar a concórdia, a paz justa e a união fraterna de todos.
+
+@secao Responsório cf. Mt 16,18; Salmo 47(48),9
+
+@responsorio
+R. Disse Jesus a Simão:
+Tu és Pedro e sobre esta pedra edificarei a minha Igreja.
+* E as forças do Inferno não prevalecerão contra ela.
+V. Deus consolidou-a para sempre.
+* E as forças do Inferno não prevalecerão contra ela..
+
+@secao Oração
+
+@oracao
+Deus omnipotente e eterno, que no papa São João XXIII, fizestes resplandecer em todo o mundo a imagem viva de Cristo, bom pastor, concedei-nos, pela sua intercessão, a graça de difundir com alegria a plenitude da caridade cristã. Por Nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

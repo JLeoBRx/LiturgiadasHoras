@@ -1,0 +1,150 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7sextapascoa_vesperas.htm
+@documento Vésperas - Sexta-feira da 7ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Sou eu o Senhor que te salva,
+o teu Redentor, aleluia.
+
+@salmo salmos/salmo-134-i
+
+@gloria
+
+@antifona
+Sou eu o Senhor que te salva,
+o teu Redentor, aleluia.
+
+@antifona 2
+Bendito o Reino que vem de Davi, nosso Pai, aleluia.
+
+@salmo salmos/salmo-134-ii
+
+@gloria
+
+@antifona
+Bendito o Reino que vem de Davi, nosso Pai, aleluia.
+
+@antifona 3
+Ao Senhor quero cantar, pois fez brilhar a sua glória. Aleluia.
+
+@salmo canticos/ap-15-3-4-v2
+
+@texto
+{(R.} São grandes vossas obras, ó Senhor!)
+
+@salmo canticos/ap-15-3-4-v3
+
+@gloria
+
+@antifona
+Ao Senhor quero cantar, pois fez brilhar a sua glória. Aleluia.
+
+@secao Leitura breve | Gl 5,16.22a-23a.25
+
+@texto
+Procedei segundo o Espírito. Assim, não satisfareis aos desejos da carne. O fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, mansidão, continência. Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito Santo, o Paráclito,
+* Aleluia, aleluia. R. O Espírito.
+V. Ele vos ensinará todas as coisas.
+* Aleluia. Glória ao Pai. R. O Espírito.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Todos eles ficaram unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Todos eles ficaram unidos,
+perseverando em comum oração
+com Maria, a Mãe de Jesus. Aleluia.
+
+@secao Preces
+
+@preces
+Bendigamos a Deus Pai, de quem procede todo dom perfeito, e lhe peçamos que derrame cada vez mais sobre o mundo os dons do Espírito Santo. Rezemos confiantes:
+
+R. **Desça sobre nós, Senhor, a graça do Espírito Santo!**
+
+Senhor, que fizestes brilhar nas trevas a luz de Cristo,
+– revelai aos que ainda não vos conhecem o esplendor da vossa verdade. R.
+
+Vós, que ungistes a Cristo com o poder do Espírito Santo para realizar a obra da salvação da humanidade,
+– dai-nos sentir continuamente a sua presença no mundo, fazendo o bem e curando a todos que o procuram. R.
+
+Enviai o vosso Espírito Santo, luz dos corações,
+– para confirmar os que vacilam na fé. R.
+
+Enviai o vosso Espírito Santo, repouso dos que estão fatigados,
+– para que alivie os sobrecarregados e reconforte os desanimados. R.
+
+{(intenções livres)}
+
+Recebei em vosso reino os nossos irmãos e irmãs falecidos, que esperaram em vós,
+– para que, no último dia, alcancem a gloriosa ressurreição. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, pela glorificação do Cristo e pela iluminação do Espírito Santo, abristes para nós as portas da vida eterna. Fazei que, participando de tão grandes bens, nos tornemos mais dedicados a vosso serviço e cresçamos constantemente na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,108 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/beneditoonegro_laudes.htm
+@documento Laudes - São Benedito, o Negro, religioso
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Jesus Cristo, ternura de Deus,
+por quem somos votados ao Pai,
+pelos ternos acenos do Espírito,
+nossas almas na graça guiais.
+
+Aos nascidos do Deus verdadeiro,
+pela água na fonte lavados,
+quereis ver darem frutos de graça,
+pelo amor com que foram amados.
+
+Vós chamais, e os chamados acorrem,
+deixam tudo, ao fulgor desta luz,
+e vos seguem, em busca do Pai,
+pelos régios caminhos da cruz,
+
+Este santo, com todas as forças,
+quis a vós se unir pelo amor.
+Da virtude as mais altas montanhas
+procurou escalar com ardor.
+
+A Deus Pai, e a Jesus, Cristo Rei,
+e ao Espírito, perene louvor.
+Cem por um dais, ó Deus, para o pobre
+que deu pouco, porém, com amor.
+
+@secao Salmodia
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele tem o coração
+* Na lei do seu Senhor. R. Ele tem.
+V. Os seus passos não vacilam. * Na lei.
+Glória ao Pai. R. Ele tem.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu te louvo e bendigo, meu Pai,
+dos céus e da terra Senhor,
+porque revelaste aos pequenos
+os mistérios ocultos do Reino!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu te louvo e bendigo, meu Pai,
+dos céus e da terra Senhor,
+porque revelaste aos pequenos
+os mistérios ocultos do Reino!
+
+@secao Preces
+
+@preces
+Glorifiquemos, irmãos e irmãs, a Cristo, nosso Deus, pedindo-lhe que nos ensine a servi-lo em santidade e justiça diante dele enquanto perdurarem nossos dias; e aclamemos:
+
+R. **Senhor, só vós sois santo!**
+
+Senhor Jesus, que quisestes ser igual a nós em tudo, menos no pecado,
+– tende piedade de nós. R.
+
+Senhor Jesus, que nos chamastes à perfeição da caridade,
+– santificai-nos sempre mais. R.
+
+Senhor Jesus, que nos mandastes ser sal da terra e luz do mundo – iluminai a nossa vida. R. Senhor Jesus, que viestes ao mundo para servir e não para ser servido,
+– ensinai-nos a vos servir humildemente em nossos irmãos e irmãs. R.
+
+Senhor Jesus, esplendor da glória do Pai e perfeita imagem do ser divino,
+– dai-nos contemplar a vossa face na glória eterna. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que em São Benedito, o Negro, manifestais as vossas maravilhas, chamando à vossa Igreja homens de todos os povos, raças e nações, concedei, por sua intercessão, que todos, feitos vossos filhos e filhas pelo batismo, convivam como verdadeiros irmãos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

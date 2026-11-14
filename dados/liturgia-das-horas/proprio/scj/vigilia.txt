@@ -1,0 +1,32 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/scj_vigilia.htm
+@documento Vigília do Sagrado Coração de Jesus
+
+@rubrica
+Aqueles que, segundo a tradição, desejarem prolongar a celebração da Vigília dos domingos, solenidades e festas, celebrem primeiramente o Ofício das Leituras; depois das duas leituras e antes do Te Deum acrescentem os cânticos e o Evangelho indicado adiante.
+
+@secao Cânticos
+
+@antifona
+Meu Salvador é o Senhor, com lealdade agirei,
+pois para mim se tornou salvação, aleluia.
+
+@salmo canticos/is-12-1-6
+
+@gloria
+
+@salmo canticos/ii-1sm-2-1-5
+
+@gloria
+
+@salmo canticos/iii-1sm-2-6-10
+
+@gloria
+
+@antifona
+Meu Salvador é o Senhor, com lealdade agirei,
+pois, para mim se tornou salvação, aleluia.
+
+@secao Evangelho
+
+@texto
+Naquele tempo, [3] Jesus contou aos escribas e fariseus esta parábola: [4] "Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la? [5] Quando a encontra, coloca-a nos ombros com alegria, e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!' [7] Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão".

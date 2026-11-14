@@ -1,0 +1,21 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/subtuumpraesidium.htm
+
+@texto
+**SUB TUUM PRAESIDIUM**
+
+À vossa proteção recorremos,
+Santa Mãe de Deus;
+não desprezeis as nossas súplicas
+em nossas necessidades,
+mas livrai-nos sempre de todos os perigos,
+Virgem gloriosa e bendita.
+Amém.
+
+{Em latim}
+Sub tuum præsidium confugimus,
+Sancta Dei Genitrix;
+nostras deprecationes
+ne despicias in necessitatibus,
+sed a periculis cunctis libera nos semper,
+Virgo gloriosa et benedicta.
+Amen

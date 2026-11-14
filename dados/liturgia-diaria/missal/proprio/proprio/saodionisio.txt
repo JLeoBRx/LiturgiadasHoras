@@ -1,0 +1,53 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saodionisio.htm
+
+@secao Antífona da entrada
+@texto
+Alegram-se nos céus os santos
+que seguiram os passos de Cristo.
+Por seu amor derramaram o próprio sangue;
+por isso, com ele exultam eternamente.
+{Ou:}
+Por causa do Senhor
+homens santos derramaram seu sangue glorioso,
+amaram Cristo em sua vida e, na sua morte, o imitaram;
+por isso, mereceram coroas de vitória.
+
+@secao Coleta
+@texto
+Ó Deus, que enviastes São Dionísio e seus companheiros
+para anunciar vossa glória às nações
+e os fortalecestes no martírio pela virtude da constância,
+concedei que, imitando seus exemplos,
+desprezemos as glórias do mundo
+sem temer nenhuma de suas ciladas.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Pai santo, aceitai as oferendas que vos apresentamos
+na comemoração dos santos mártires
+e a nós, vossos servos e servas,
+concedei a graça de permanecer firmes na confissão do vosso nome.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Lc 22,28-30
+@texto
+Vós ficastes comigo em minhas provações.
+Por isso vos confio o reino.
+Vós havereis de comer e beber à minha mesa
+no meu reino, diz o Senhor.
+{Ou:}
+Como é grande a recompensa dos santos junto de Deus:
+eles morreram por Cristo, e vivem eternamente.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, manifestastes de modo admirável
+o mistério da cruz em vossos santos mártires,
+concedei-nos benigno que,
+fortalecidos por este sacrifício,
+permaneçamos fielmente unidos a Cristo
+e trabalhemos na Igreja para a salvação de todos.
+Por Cristo, nosso Senhor.

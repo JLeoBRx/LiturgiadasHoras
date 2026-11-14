@@ -1,0 +1,69 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/31segundaTC.htm
+@documento Ofício das Leituras
+
+@titulo SEGUNDA-FEIRA / III Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Primeiro Livro dos Macabeus {1,41-64}
+
+@tema
+A perseguição de Antíoco
+
+@texto
+Naqueles dias: [41] O rei Antíoco publicou um decreto para todo o reino, ordenando que todos formassem um só povo, obrigando cada um a abandonar seus costumes particulares. [42] Todos os pagãos acataram a ordem do rei [43] e inclusive muitos israelitas adotaram sua religião, sacrificando aos ídolos e profanando o sábado. [44] Por meio de mensageiros o rei enviou editos a Jerusalém e às cidades de Judá, prescrevendo que aceitassem costumes estranhos a seu país. [45] Deviam suprimir holocaustos, sacrifícios e libações no santuário; profanar os sábados e as festas; [46] macular o santuário e os ministros sagrados; [47] construir altares, lugares sagrados e oratórios de ídolos; sacrificar porcos e outros animais impuros. [48] Deviam também deixar incircuncisos os filhos, e contaminar-se eles mesmos com toda sorte de impurezas e profanações, [49] de modo a esquecerem a Lei e modificarem todas as observâncias. [50] Quem não obedecesse à ordem do rei, seria morto. [51] Com tais prescrições enviou cartas a todo o reino, e estabeleceu inspetores para vigiar toda a população. Ordenou às cidades de Judá que oferecessem sacrifícios, cada uma por sua vez. [52] Houve muitos do povo que se uniram a eles, todos os que tinham abandonado a Lei. Fizeram muito mal no país [53] e obrigaram os israelitas a se refugiarem em toda sorte de esconderijos.
+
+@texto
+54 No dia quinze do mês de Casleu, no ano cento e quarenta e cinco, Antíoco fez erigir sobre o altar dos sacrifícios a Abominação da desolação. E pelas cidades circunvizinhas de Judá construíram altares. [55] Queimavam incenso junto às portas das casas e nas ruas. [56] Os livros da Lei, que lhes caíam nas mãos, eram atirados ao fogo, depois de rasgados. [57] Em virtude do decreto real, era condenado à morte todo aquele em cuja casa fosse encontrado um livro da Aliança, assim como qualquer pessoa que continuasse a observar a Lei. [62] Mas muitos israelitas resistiram e decidiram firmemente não comer alimentos impuros. [63] Preferiram a morte a contaminar-se com aqueles alimentos. E, não querendo violar a aliança sagrada, esses foram trucidados. [64] Uma cólera terrível se abateu sobre Israel.
+
+@secao Responsório | Cf. Dn 9,18a; At 4,29
+
+@responsorio
+R. Abri os vossos olhos, vede a nossa aflição:
+muitos povos nos rodeiam e nos querem destruir.
+* Estendei o vosso braço, libertai as nossas vidas!
+V. E agora, ó Senhor, vede as suas ameaças,
+concedei a vossos servos proclamar vossa palavra
+com inteira confiança. * Estendei.
+
+@secao Segunda leitura
+
+@leitura
+Da Constituição Pastoral _Gaudium et spes_, sobre a Igreja no mundo de hoje, do Concílio Vaticano II
+{(Séc. XX)}{(Nn. 82-83)}
+
+@tema
+A necessidade de formar as mentes para um novo espírito de paz
+
+@texto
+Acautelem-se os homens de julgar suficiente a confiança nas tentativas de alguns, sem cuidar da própria mentalidade. Pois os chefes de Estado, fiadores que são do bem comum da própria nação e igualmente promotores do bem comum mundial, dependem muitíssimo da opinião e da mentalidade das multidões. Nada lhes aproveita insistir na construção da paz, enquanto sentimentos de hostilidade, desprezo ou desconfiança, ódios raciais e ideologias obstinadas dividem os homens em campos opostos.
+
+@texto
+Daí a urgência máxima da reeducação da mentalidade e da nova inspiração da opinião pública. Os que se consagram à obra da educação, em particular da juventude, ou à formação da opinião pública, considerem como o seu dever mais grave inculcar no espírito de todos novos sentimentos pacíficos. Nós todos temos de transformar nossos corações, abrindo os olhos sobre o mundo inteiro e aquelas tarefas que, todos juntos, podemos cumprir, para o feliz progresso da humanidade. Não nos engane falsa esperança. Pois sem abandonar as inimizades e os ódios e sem concluir no futuro pactos firmes e honestos de paz universal, a humanidade, que já se encontra em situação muito crítica, apesar de dotada de ciência admirável, seja talvez fatalmente levada ao momento em que outra paz não experimente senão a horrenda paz da morte. A Igreja de Cristo, porém, ao pronunciar estas palavras, colocadas no meio da angústia deste tempo, não abandona sua firme esperança. Sempre de novo, oportuna e inoportunamente, repete a nosso tempo a mensagem apostólica: _Este é o tempo propício_ para se converterem os corações, _este é o dia da salvação_ (cf. 2Cor 6,2).
+
+@texto
+Para construir a paz é antes de tudo imprescindível extirpar as causas de desentendimento entre os homens. Estas alimentam a guerra, sobretudo as injustiças. Não poucas provêm das excessivas desigualdades econômicas, bem como do atraso em lhes trazer os remédios necessários. Outras surgem do espírito de domínio, do desprezo das pessoas e, investigando as causas mais profundas, da inveja, da desconfiança, da soberba e de outras paixões egoístas. Como o homem não suporta tantas desordens, resulta que, mesmo fora dos tempos de guerra, o mundo é constantemente perturbado por rivalidades entre os homens e por atos de violência.
+
+@texto
+Estes mesmos males infestam as relações entre as próprias nações. Por isso é de absoluta necessidade, para vencer ou prevenir e coibir as violências desenfreadas, que as instituições internacionais desenvolvam melhor e reforcem sua cooperação e coordenação; e se estimule incansavelmente a criação de organismos promotores da paz.
+
+@secao Responsório | Cf. Eclo 23,2; Is 49,8; 37,35; Sl 33(34),15
+
+@responsorio
+R. Fiz o teu coração descobrir a doutrina da sabedoria
+* E atendi teus pedidos instantes, protegendo a tua cidade,
+para, sempre, haver paz em teus dias.
+V. Afasta-te do mal e faze o bem,
+procura a paz e vai com ela em teu caminho. * E atendi.
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas a graça de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

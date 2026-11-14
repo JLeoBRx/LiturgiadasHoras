@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/4quintapascoa_laudes.htm
+@documento Laudes - Quinta-feira da 4ª Semana da Páscoa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Desdobra-se no céu
+a rutilante aurora.
+Alegre, exulta o mundo;
+gemendo, o inferno chora.
+
+Pois eis que o Rei, descido
+à região da morte,
+àqueles que o esperavam
+conduz à nova sorte.
+
+Por sob a pedra posto,
+por guardas vigiado,
+sepulta a própria morte
+Jesus ressuscitado.
+
+Da região da morte
+cesse o clamor ingente:
+'Ressuscitou!' exclama
+o Anjo refulgente.
+
+Jesus, perene Páscoa,
+a todos alegrai-nos.
+Nascidos para a vida,
+da morte libertai-nos.
+
+Louvor ao que da morte
+ressuscitado vem,
+ao Pai e ao Paráclito
+eternamente. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, por vosso nome e vosso amor,
+renovai a minha vida, aleluia.
+
+@salmo salmos/salmo-142-1-11
+
+@gloria
+
+@antifona
+Ó Senhor, por vosso nome e vosso amor,
+renovai a minha vida, aleluia.
+
+@antifona 2
+Hei de ver-vos novamente
+e vosso coração haverá de se alegrar. Aleluia.
+
+@salmo canticos/is-66-10-14a
+
+@gloria
+
+@antifona
+Hei de ver-vos novamente
+e vosso coração haverá de se alegrar. Aleluia.
+
+@antifona 3
+O Senhor reconstruiu Jerusalém
+e conforta os corações despedaçados. Aleluia.
+
+@salmo salmos/salmo-146a
+
+@gloria
+
+@antifona
+O Senhor reconstruiu Jerusalém
+e conforta os corações despedaçados. Aleluia.
+
+@secao Leitura breve | Rm 8,10-11
+
+@texto
+Se Cristo, porém, está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu do sepulcro. * Aleluia, aleluia.
+R. O Senhor.
+V. Foi suspenso por nós numa cruz. * Aleluia, aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O discípulo não é mais do que o Mestre;
+o que se torna como o Mestre é perfeito. Aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O discípulo não é mais do que o Mestre;
+o que se torna como o Mestre é perfeito. Aleluia.
+
+@secao Preces
+
+@preces
+Invoquemos com toda a confiança a Deus Pai, que em Jesus Cristo deu aos seres humanos a certeza da ressurreição; e digamos:
+
+R. **Que o Senhor Jesus seja a nossa vida!**
+
+Pela coluna de fogo iluminastes, Senhor, vosso povo no deserto:
+– por sua ressurreição, seja Cristo hoje para nós a luz da vida. R.
+
+Pela voz de Moisés ensinastes, Senhor, o vosso povo no monte Sinai;
+– por sua ressurreição seja Cristo hoje para nós a palavra da vida. R.
+
+Com o maná alimentastes, Senhor, vosso povo peregrino;
+– por sua ressurreição, seja Cristo hoje para nós o pão da vida. R.
+
+Com a água do rochedo destes de beber, Senhor, ao vosso povo;
+– pela ressurreição de Cristo, vosso Filho, concedei-nos hoje o Espírito que dá vida. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que restaurais a natureza humana dando-lhe uma dignidade ainda maior, considerai o mistério do vosso amor, conservando para sempre os dons da vossa graça naqueles que renovastes pelo sacramento de uma nova vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,86 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/1segunda_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Ó Redentor do mundo,
+do eterno Pai gerado
+já antes do universo,
+qual Filho bem-amado.
+
+Do Pai luz e esplendor,
+nossa esperança eterna,
+ouvi dos vossos servos
+a prece humilde e terna.
+
+Lembrai, autor da vida,
+nascido de Maria,
+que nossa forma humana
+tomastes, neste dia.
+
+A glória deste dia
+atesta um fato novo,
+que vós, do Pai descendo,
+salvastes vosso povo.
+
+Saúdam vossa vinda
+o céu, a terra, o mar,
+e todo ser que vive
+entoa o seu cantar.
+
+E nós, por vosso sangue
+remidos como povo,
+vos celebramos hoje,
+cantando um canto novo.
+
+A glória a vós, Jesus,
+nascido de Maria
+com vosso Pai e o Espírito
+louvores cada dia.
+
+@secao Salmodia
+
+@antifona 1
+. Os olhos do Senhor se voltam para o pobre.
+
+@salmo salmos/salmo-010
+
+@antifona
+Os olhos do Senhor se voltam para o pobre.
+
+@antifona 2
+Felizes os de puro coração,
+porque haverão de ver a Deus.
+
+@salmo salmos/salmo-014
+
+@antifona
+Felizes os de puro coração,
+porque haverão de ver a Deus
+
+@antifona 3
+No seu Filho o Pai nos escolheu,
+para sermos seus filhos adotivos.
+
+@rubrica
+Nos cânticos que se seguem, o refrão entre parênteses é opcional.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@antifona
+No seu Filho o Pai nos escolheu,
+para sermos seus filhos adotivos.

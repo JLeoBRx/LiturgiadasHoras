@@ -1,0 +1,63 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/3domingo_laudes.htm
+@documento Laudes - III Domingo do Advento
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona
+O Senhor vai chegar sem demora:
+trará à luz o oculto nas trevas,
+vai revelar-se a todos os povos. Aleluia.
+
+@salmo salmos/salmo-092
+
+@gloria
+
+@antifona
+O Senhor vai chegar sem demora:
+trará à luz o oculto nas trevas,
+vai revelar-se a todos os povos. Aleluia.
+
+@antifona 2
+. Todo monte e colina serão abaixados,
+será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{Ou}
+R. A ele glória e louvor eternamente)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz} Glória ao Pai
+
+@antifona
+Todo monte e colina serão abaixados,
+será plano o caminho e reto o que é torto.
+Vinde a nós, ó Senhor, sem tardar. Aleluia.
+
+@antifona 3
+. Em Sião eu darei salvação,
+minha glória em Jerusalém. Aleluia.
+
+@salmo salmos/salmo-148
+
+@gloria
+
+@antifona
+Em Sião eu darei salvação,
+minha glória em Jerusalém. Aleluia.

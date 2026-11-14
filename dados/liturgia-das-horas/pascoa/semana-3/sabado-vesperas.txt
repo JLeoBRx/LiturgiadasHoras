@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/3sabadopascoa_vesperas.htm
+@documento Vésperas - Sábado da 3ª Semana da Páscoa
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+A paz de Cristo habite em vós
+e alegre os vossos corações. Aleluia.
+
+@salmo salmos/salmo-121
+
+@gloria
+
+@antifona
+A paz de Cristo habite em vós
+e alegre os vossos corações. Aleluia.
+
+@antifona 2
+Para Deus nos remiu vosso sangue, aleluia.
+
+@salmo salmos/salmo-129
+
+@gloria
+
+@antifona
+Para Deus nos remiu vosso sangue, aleluia.
+
+@antifona 3
+Era preciso que o Cristo sofresse
+para entrar em sua glória, aleluia.
+
+@salmo canticos/fl-2-6-11
+
+@texto
+{(R.} Jesus Cristo é Senhor para a glória de Deus Pai!)
+
+@salmo canticos/fl-2-6-11-v2
+
+@gloria
+
+@antifona
+Era preciso que o Cristo sofresse
+para entrar em sua glória, aleluia.
+
+@secao Leitura breve | 1Pd 2,9-10
+
+@texto
+Vós sois a raça escolhida, o sacerdócio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiráveis daquele que vos chamou das trevas para a sua luz maravilhosa. Vós sois aqueles que antes não eram povo, agora porém são povo de Deus; os que não eram objeto de misericórdia, agora porém alcançaram misericórdia.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos;
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat-v2
+
+@antifona
+
+@secao Preces
+
+@preces
+Oremos a Jesus Cristo que, ressuscitando dos mortos, destruiu a morte e renovou a vida; e digamos cheios de confiança:
+
+R. **Cristo, vivo para sempre, escutai a nossa prece!**
+
+Vós, que sois a pedra rejeitada pelos construtores, mas escolhida pelo Pai como pedra angular,
+– fazei de nós pedras vivas na edificação de vossa Igreja. R.
+
+Vós, que sois a Testemunha fiel e verdadeira, o Primogênito dentre os mortos,
+– concedei que a vossa Igreja possa dar sempre e em toda a terra o testemunho da vossa ressurreição. R.
+
+Vós, que sois o Esposo único da Igreja, nascida de vosso lado aberto na cruz,
+– fazei de nós testemunhas do vosso amor pela Igreja e por toda a humanidade. R.
+
+Vós, que sois o Princípio e o Fim, que estivestes morto e agora viveis eternamente,
+– concedei aos que foram batizados a perseverança até à morte, para que mereçam a coroa da vitória. R.
+
+{(intenções livres)}
+
+Vós, que sois a Luz que ilumina a santa cidade de Deus,
+– iluminai com vosso esplendor os nossos irmãos e irmãs falecidos, para que reinem convosco eternamente. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, conduzi-nos à comunhão das alegrias celestes, para que o rebanho possa atingir, apesar de sua fraqueza, a fortaleza do Pastor. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

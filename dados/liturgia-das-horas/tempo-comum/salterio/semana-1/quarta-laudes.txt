@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quarta_laudes.htm
+@documento Laudes - Quarta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó noite, ó treva, ó nuvem,
+não mais fiqueis aqui!
+Já surge a doce aurora,
+o Cristo vem: parti!
+
+Rompeu-se o véu da terra,
+cortado por um raio:
+as coisas tomam cores,
+já voltam do desmaio.
+
+Assim também se apague
+a noite do pecado,
+e o Cristo em nossas almas
+comece o seu reinado.
+
+Humildes, vos pedimos
+em nosso canto ou choro:
+ouvi, ó Cristo, a prece,
+que sobe a vós, em coro.
+
+Os fogos da vaidade
+a vossa luz desfaz.
+Estrela da manhã,
+quão doce vossa paz.
+
+Louvor ao Pai, ó Cristo,
+louvor a vós também;
+reinais, no mesmo Espírito,
+agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Em vossa luz contemplamos a luz.
+
+@salmo salmos/salmo-035
+
+@gloria
+
+@antifona
+Em vossa luz contemplamos a luz.
+
+@antifona 2
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@salmo canticos/jt-16-1-2-13-15
+
+@gloria
+
+@antifona
+Vós sois grande, Senhor-Adonai,
+admirável, de força invencível!
+
+@antifona 3
+Gritai a Deus aclamações de alegria!
+
+@salmo salmos/salmo-046
+
+@gloria
+
+@antifona
+Gritai a Deus aclamações de alegria!
+
+@secao Leitura breve | Tb 4,14b-15a.16ab.19a
+
+@texto
+Meu filho, sê vigilante em todas as tuas obras e mostra-te prudente em tua conversação. Não faças a ninguém o que para ti não desejas. Dá de teu pão a quem tem fome, e de tuas vestes aos que estão despidos. Dá de esmola todo o teu supérfluo. Bendize o Senhor em todo o tempo, e pede-lhe para que sejam retos os teus caminhos e tenham êxito todos os teus passos e todos os teus projetos.
+
+@secao Responsório breve
+
+@responsorio
+R. Para os vossos mandamentos,
+* Inclinai meu coração! R. Para os vossos.
+V. Dai-me a vida em vossa Lei! * Inclinai.
+Glória ao Pai. R. Para os vossos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Mostrai-nos, ó Senhor, misericórdia,
+recordando a vossa santa Aliança.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Mostrai-nos, ó Senhor, misericórdia,
+recordando a vossa santa Aliança.
+
+@secao Preces
+
+@preces
+Demos graças e louvores a Cristo pela sua admirável condescendência em chamar de irmãos àqueles que santificou. Por isso, supliquemos:
+
+R. **Santificai, Senhor, os vossos irmãos e irmãs!**
+
+Fazei que vos consagremos de coração puro o princípio deste dia em honra da vossa ressurreição,
+– e que o santifiquemos com trabalhos que sejam do vosso agrado. R.
+
+Vós, que nos dais este novo dia, como sinal do vosso amor, para nossa alegria e salvação,
+– renovai-nos a cada dia para glória do vosso nome. R.
+
+Ensinai-nos hoje a reconhecer vossa presença em todos os nossos irmãos e irmãs,
+– e vos encontrar sobretudo nos pobres e infelizes. R.
+
+Concedei que durante todo este dia vivamos em paz com todos,
+– e a ninguém paguemos o mal com o mal. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus, nosso Salvador, que nos gerastes filhos da luz, ajudai-nos a viver como seguidores da justiça e praticantes da verdade, para sermos vossas testemunhas diante dos homens. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

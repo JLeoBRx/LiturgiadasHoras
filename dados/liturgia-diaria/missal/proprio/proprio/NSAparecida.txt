@@ -1,0 +1,46 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSAparecida.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona de entrada | Is 61,10
+@texto
+Exulto de alegria no Senhor
+e minha alma regozija-se em meu Deus;
+ele me vestiu com as vestes da salvação,
+envolveu-me com o manto da justiça
+e adornou-me como uma noiva com suas joias.
+
+@secao Coleta
+@texto
+Ó Deus todo-poderoso,
+ao rendermos culto à Imaculada Conceição de Maria,
+Mãe de Deus e Senhora nossa,
+concedei que o povo brasileiro,
+vivendo na paz e na justiça,
+possa chegar um dia à pátria definitiva.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Acolhei, ó Deus, as preces e oferendas
+apresentadas na festa da Virgem Maria,
+Mãe de Jesus Cristo, vosso Filho;
+concedei que elas vos sejam agradáveis
+e nos tragam a graça da vossa proteção.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Pr 31,28.15
+@texto
+Seus filhos se erguem, para proclamá-la Bem-aventurada.
+Ela se levanta antes da aurora
+para dar o alimento a cada um.
+
+@secao Depois da comunhão
+@texto
+Alimentados com o Corpo e o Sangue do vosso Filho,
+nós vos suplicamos, ó Deus: dai ao vosso povo,
+sob o olhar de Nossa Senhora da Conceição Aparecida,
+empenhar-se nas tarefas de cada dia
+para a propagação do vosso reino.
+Por Cristo, nosso Senhor.

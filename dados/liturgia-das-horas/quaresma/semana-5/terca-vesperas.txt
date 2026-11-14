@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/5tercaquaresma_vesperas.htm
+@documento Vésperas - Terça-feira da 5ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Ó Senhor, exaltai o vosso Ungido!
+
+@salmo salmos/salmo-019
+
+@gloria
+
+@antifona
+Ó Senhor, exaltai o vosso Ungido!
+
+@antifona 2
+Cantaremos celebrando a vossa força.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Cantaremos celebrando a vossa força.
+
+@antifona 3
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v3
+
+@gloria
+
+@antifona
+Fizestes de nós para Deus sacerdotes e povo de reis.
+
+@secao Leitura breve | 1Cor 1,27b-30
+
+@texto
+Deus escolheu o que o mundo considera como fraco, para assim confundir o que é forte; Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, para que ninguém possa gloriar-se diante dele. É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação.
+
+@secao Responsório breve
+
+@responsorio
+R. Ele não tinha aparência ou beleza,
+* Por suas chagas nós fomos curados. R. Ele não tinha.
+V. Carregou sobre si nossas culpas. * Por suas chagas.
+Glória ao Pai. R. Ele não tinha
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Quem me enviou está comigo e jamais me deixa só;
+porque sempre faço aquilo que é de seu agrado.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Quem me enviou está comigo e jamais me deixa só;
+porque sempre faço aquilo que é de seu agrado.
+
+@secao Preces
+
+@preces
+Imploremos a Cristo Senhor, que nos mandou vigiar e orar para não cairmos em tentação; e digamos confiantemente:
+
+R. **Ouvi-nos, Senhor, e tende piedade!**
+
+Cristo Jesus, que prometestes estar presente no meio daqueles que se reúnem para orar em vosso nome,
+– ensinai-nos a orar sempre convosco ao Pai no Espírito Santo. R.
+
+Celeste Esposo, purificai de todo pecado vossa amada Igreja,
+– e fazei que ela viva sempre na esperança e na alegria do Espírito Santo. R.
+
+Amigo do ser humano, tornai-nos solícitos pelo bem do próximo, como nos mandastes,
+– a fim de que, por meio de nós, brilhe para todos a luz da vossa salvação. R.
+
+Pai pacífico, dai ao mundo a vossa paz,
+– para que em toda parte se faça mais sensível vossa presença salvadora. R.
+
+{(intenções livres)}
+
+Abri as portas da bem-aventurança eterna a todos os que morreram,
+– e admiti-os na glória da eternidade. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus, perseverar no vosso serviço para que, em nossos dias, cresça em número e santidade o povo que vos serve. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

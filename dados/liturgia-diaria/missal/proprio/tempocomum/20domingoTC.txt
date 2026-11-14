@@ -1,0 +1,44 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/tempocomum/20domingoTC.htm
+
+@secao Antífona da entrada | Cf. Sl 83,10-11
+@texto
+Olhai, ó Deus, que sois a nossa proteção,
+vede a face do eleito, vosso Ungido!
+Na verdade, um só dia em vosso templo
+vale mais do que milhares fora dele!
+
+@secao Coleta
+@texto
+Ó Deus, preparastes para quem vos ama
+bens que nossos olhos não podem ver;
+acendei em nossos corações a chama da caridade
+para que, amando-vos em tudo e acima de tudo,
+corramos ao encontro das vossas promessas
+que superam todo desejo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, nós vos apresentamos as nossas oferendas
+e trocamos convosco os nossos dons:
+oferecendo-vos o que nos destes,
+esperamos receber-vos em nós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 129,7
+@texto
+No Senhor se encontra toda graça
+e copiosa redenção.
+{Ou:}{Jo 6,51}
+Eu sou o pão vivo descido do céu, diz o Senhor.
+Quem comer deste pão viverá eternamente.
+
+@secao Depois da comunhão
+@texto
+Unidos a Cristo por este sacramento,
+humildemente imploramos vossa clemência, Senhor,
+para que, a ele configurados na terra,
+mereçamos participar de sua glória no céu.
+Por Cristo nosso Senhor.

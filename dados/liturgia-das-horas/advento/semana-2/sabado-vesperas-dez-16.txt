@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2sabado_vesperas16.htm
+@documento I Vésperas - Advento
+
+@titulo I Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+
+@secao Hino
+
+@hino
+Recebe, Virgem Maria,
+no casto seio materno,
+dos céus, o Verbo Divino
+vindo da boca do Eterno.
+
+Fecunda, a sombra do Espírito
+do alto céu te ilumina,
+para gerares um Filho
+de natureza divina.
+
+A porta santa do templo
+eternamente fechado,
+feliz e pronta se abre,
+somente ao Rei esperado.
+
+Desceu à terra o Senhor,
+por Gabriel anunciado;
+promessa antiga aos profetas,
+antes da aurora gerado.
+
+Exulta o coro dos anjos,
+a terra canta louvor:
+Para salvar os perdidos,
+humilde, vem o Senhor.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai toda a glória,
+com o Espírito Santo:
+eterna honra e vitória.
+
+@secao Salmodia
+
+@antifona 1
+Exulta de alegria, ó Sião,
+porque chega em teu meio o Salvador! Aleluia.
+
+@salmo salmos/salmo-112
+
+@gloria
+
+@antifona
+Exulta de alegria, ó Sião,
+porque chega em teu meio o Salvador! Aleluia.
+
+@antifona 2
+Sou eu, o Senhor que me aproximo,
+a minha justiça já está perto,
+a minha salvação já não demora.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Sou eu, o Senhor que me aproximo,
+a minha justiça já está perto,
+a minha salvação já não demora.
+
+@antifona 3
+. Enviai o Cordeiro que domina toda terra:
+de Selá, no deserto, até o monte Sião.
+
+@salmo canticos/fl-2-6-11-v3
+
+@gloria
+
+@antifona
+Enviai o Cordeiro que domina toda terra:
+de Selá, no deserto, até o monte Sião.
+
+@secao Leitura breve | 1Ts 5,23-24
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois - espírito, alma, corpo - seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! Aquele que vos chamou é fiel; ele mesmo realizará isso.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Eu vi um novo céu, eu vi uma nova terra; nunca mais haverá choro nem clamor nem aflição. * Pois o Senhor.
+Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo Jesus, felicidade e alegria de todos os que o esperam; e digamos:
+
+R. **Vinde, Senhor, e não tardeis!**
+
+Esperado das nações, cheios de alegria, aguardamos vossa vinda;
+– vinde, Senhor Jesus. R.
+
+Vós, que existis eternamente, antes da criação do mundo,
+– vinde salvar todos os que vivem neste mundo. R.
+
+Vós, que criastes o universo e tudo o que nele existe,
+– vinde renovar a obra de vossas mãos. R.
+
+Vós, que não recusastes assumir nossa natureza mortal,
+– vinde libertar-nos do poder da morte. R.
+
+Vós, que viestes à terra para nos dar uma vida nova,
+– vinde e dai-nos a vida eterna. R.
+
+{(intenções livres)}
+
+Vós, que quisestes reunir no vosso reino toda a humanidade,
+– vinde congregar na unidade todos os que esperam a visão da vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de bondade, que vedes o vosso povo esperando fervoroso o natal do Senhor, dai-nos chegar às alegrias da Salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

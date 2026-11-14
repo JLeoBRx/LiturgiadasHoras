@@ -1,0 +1,28 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/cordeirodedeus.htm
+
+@texto
+**CORDEIRO DE DEUS**
+
+Cordeiro de Deus,
+Que tirais o pecado do mundo,
+Tende piedade de nós.
+Cordeiro de Deus,
+Que tirais o pecado do mundo,
+Tende piedade de nós.
+Cordeiro de Deus,
+Que tirais o pecado do mundo,
+Dai-nos a paz.
+
+{Em latim}
+
+AGNUS DEI
+
+Agnus Dei,
+Qui tollis peccata mundi,
+Miserere nobis.
+Agnus Dei,
+Qui tollis peccata mundi,
+Miserere nobis.
+Agnus Dei,
+Qui tollis peccata mundi,
+Dona nobis pacem.

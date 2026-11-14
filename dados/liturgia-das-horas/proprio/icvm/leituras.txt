@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/icvm.htm
+@documento Ofício das Leituras - Imaculado Coração Da Bem-Aventurada Virgem Maria Memória
+
+@celebracao
+IMACULADO CORAÇÃO DA BEM-AVENTURADA VIRGEM MARIA
+{Memória}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Aquele a quem adoram
+o céu, a terra, o mar,
+o que governa o mundo,
+na Virgem vem morar.
+
+A lua, o sol e os astros
+o servem, sem cessar.
+Mas ele vem no seio
+da Virgem se ocultar.
+
+Feliz, ó Mãe, que abrigas
+na arca do teu seio
+o Autor de toda a vida,
+que vive em nosso meio.
+
+Feliz chamou-te o Anjo,
+o Espírito em ti gerou
+dos povos o Esperado,
+que o mundo transformou.
+
+Louvor a vós, Jesus,
+nascido de Maria,
+ao Pai e ao Espírito
+agora e todo o dia.
+
+@secao Salmodia
+
+@antifona 1
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@salmo salmos/salmo-023
+
+@gloria
+
+@antifona
+Desceu a bênção do Senhor sobre Maria,
+e a recompensa de Deus, seu Salvador.
+
+@antifona 2
+O Senhor santificou sua morada.
+
+@salmo salmos/salmo-045
+
+@gloria
+
+@antifona
+O Senhor santificou sua morada.
+
+@antifona 3
+3 Dizem coisas gloriosas sobre vós, Virgem Maria.
+
+@salmo salmos/salmo-086
+
+@gloria
+
+@antifona
+Dizem coisas gloriosas sobre
+
+@texto
+V. Maria guardava no seu coração.
+R. As palavras e os fatos, e neles pensava.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,10-14; 8,10c; 11,1-9}
+
+@tema
+Emanuel, o rei pacífico
+
+@texto
+Naqueles dias: [7,10] O Senhor falou com Acaz, dizendo: [11] “Pede ao Senhor teu Deus que te faça ver um sinal, quer provenha da profundeza da terra, quer venha das alturas do céu”. [12] Mas Acaz respondeu: “Não pedirei nem tentarei o Senhor”. [13] Disse o profeta: “Ouvi então, vós, casa de Davi; será que achais pouco incomodar os homens e passais a incomodar até o meu Deus? [14] Pois bem, o próprio Senhor vos dará um sinal. Eis que uma virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel;[8,10] porque Deus está conosco. [11,1] Nascerá uma haste do tronco de Jessé
+e, a partir da raiz, surgirá o rebento de uma flor;
+[2] sobre ele repousará o espírito do Senhor:
+espírito de sabedoria e discernimento,
+espírito de conselho e fortaleza,
+espírito de ciência e temor de Deus;
+[3] no temor do Senhor encontra ele seu prazer.
+Ele não julgará pelas aparências que vê
+nem decidirá somente por ouvir dizer;
+[4] mas trará justiça para os humildes
+e uma ordem justa para os homens pacíficos;
+fustigará a terra com a forçada sua palavra
+e destruirá o mau com o sopro dos lábios.
+[5] Cingirá a cintura com a correia da justiça
+e as costas com a faixa da fidelidade.
+[6] O lobo e o cordeiro viverão juntos
+e o leopardo deitar-se-á ao lado do cabrito;
+o bezerro e o leão comerão juntos
+e até mesmo uma criança poderá tangê-los.
+[7] A vaca e o urso pastarão lado a lado,
+enquanto suas crias descansam juntas;
+o leão comerá palha como o boi;
+[8] a criança de peito vai brincar
+em cima do buraco da cobra venenosa;
+e o menino desmamado
+não temerá pôr a mão na toca da serpente.
+[9] Não haverá danos nem mortes
+por todo o meu santo monte:
+a terra estará tão repleta do saber do Senhor
+quanto as águas que cobrem o mar.
+
+@secao Responsório | Cf. Is 7,14; 9,6.7
+
+@responsorio
+R. Eis que a Virgem conceberá e dará à luz um filho;
+* O seu nome há de ser: Maravilhoso e Deus forte.
+V. Sobre o trono de Davi e sobre o seu reino
+a paz não terá fim. * O seu nome.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Lourenço Justiniano, bispo
+{(Séc. XV)} {(Sermo 8, in festo Purificationis B.M.V.: Opera 2, Venetis 1751,38-39)}
+
+@tema
+Maria conservava tudo em seu coração
+
+@texto
+Maria refletia consigo mesma em tudo quanto tinha conhecido, através do que lia, escutava e via; assim, progredia de modo admirável na fé, na sabedoria e em méritos, e sua alma se inflamava cada vez mais com o fogo da caridade! O conhecimento sempre mais profundo dos mistérios celestes a enchia de alegria, fazia-lhe sentir a fecundidade do Espírito, a atraía para Deus e a confirmava na sua humildade. Tais são os efeitos da graça divina: eleva do mais humilde ao mais excelso e vai transformando a alma de claridade em claridade. Feliz o coração da Virgem que, pela luz do Espírito que nela habitava, sempre e em tudo obedecia à vontade do Verbo de Deus. Não se deixava guiar pelo seu próprio sentimento ou inclinação, mas realizava, na sua atitude exterior, as insinuações internas da sabedoria inspiradas na fé. De fato, convinha que a Sabedoria de Deus, ao edificar a Igreja para ser o templo de sua morada, apresentasse Maria Santíssima como modelo de cumprimento da lei, de purificação da alma, de verdadeira humildade e de sacrifício espiritual. Imita-a tu, ó alma fiel! Se queres purificar-te espiritualmente e conseguir tirar as manchas do pecado, entra no templo do teu coração. Aí Deus olha mais para a intenção do que para a exterioridade de tudo quanto fazemos. Por isso, quer elevemos nosso espírito à contemplação, a fim de repousarmos em Deus, quer nos exercitemos na prática das virtudes para sermos úteis ao próximo com as nossas boas obras, façamos uma ou outra coisa de maneira que só a caridade de Cristo nos impulsione. É este o sacrifício perfeito da purificação espiritual, que não se oferece em templo feito por mão humana, mas no templo do coração onde Cristo Senhor entra com alegria.
+
+@secao Responsório
+
+@responsorio
+R. Virgem santa e imaculada, eu não sei com que louvores
+poderei engrandecer-vos.
+* Pois aquele a quem os céus não puderam abranger,
+repousou em vosso seio.
+V. Sois bendita entre as mulheres e bendito é o fruto,
+que nasceu de vosso ventre. * Pois aquele.
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes morada digna do Espírito Santo no Imaculado Coração de Maria, concedei que por sua intercessão nos tornemos um templo da vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

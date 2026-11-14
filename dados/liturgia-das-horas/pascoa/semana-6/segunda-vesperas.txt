@@ -1,0 +1,163 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6segundapascoa_vesperas.htm
+@documento Vésperas - Segunda-feira da 6ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+Bendito o que vem em nome do Senhor! Aleluia.
+
+@salmo salmos/salmo-044-i
+
+@gloria
+
+@antifona
+Bendito o que vem em nome do Senhor! Aleluia.
+
+@antifona 2
+Felizes os que são convidados
+para a ceia nupcial do Cordeiro! Aleluia.
+
+@salmo salmos/salmo-044-ii
+
+@gloria
+
+@antifona
+Felizes os que são convidados
+para a ceia nupcial do Cordeiro! Aleluia.
+
+@antifona 3
+Todos nós recebemos de sua plenitude
+graça após graça. Aleluia.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai,
+que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Todos nós recebemos de sua plenitude
+graça após graça. Aleluia.
+
+@secao Leitura breve | Hb 8,1b-3a
+
+@texto
+Temos um sumo-sacerdote tão grande, que se assentou à direita do trono da majestade, nos céus. Ele é ministro do Santuário e da Tenda verdadeira, armada pelo Senhor, e não por mão humana. Todo sumo-sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios.
+
+@secao Responsório breve
+
+@responsorio
+R. Os discípulos ficaram muito alegres.
+* Aleluia, aleluia. R. Os discípulos.
+V. Quando viram o Senhor ressuscitado.
+* Aleluia, aleluia. Glória ao Pai. R. Os discípulos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Espírito da verdade que procede do meu Pai
+dará de mim seu testemunho
+e vós também o haveis de dar. Aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Espírito da verdade que procede do meu Pai
+dará de mim seu testemunho
+e vós também o haveis de dar. Aleluia.
+
+@secao Preces
+
+@preces
+Roguemos a Cristo, nosso Senhor, que iluminou o mundo com a glória de sua ressurreição; e digamos:
+
+R. **Cristo, nossa vida, ouvi-nos!**
+
+Senhor Jesus Cristo, que vos fizestes companheiro de viagem dos dois discípulos a caminho de Emaús,
+– permanecei sempre com vossa Igreja, peregrina sobre a terra. R.
+
+Não permitais que vossos fiéis sejam lentos para crerem,
+– mas proclamem o vosso triunfo sobre a morte. R.
+
+Olhai com bondade para aqueles que ainda não vos reconhecem no caminho de suas vidas,
+– e mostrai-lhes o vosso rosto, para que também eles se salvem. R.
+
+Vós, que pela cruz reconciliastes toda a humanidade, reunindo-a num só corpo,
+– concedei a paz e a unidade a todas as nações. R.
+
+{(intenções livres)}
+
+Juiz dos vivos e dos mortos,
+– concedei o perdão dos pecados a todos os que partiram desta vida e creram em vós. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vejamos frutificar em toda a nossa vida as graças do mistério pascal, que instituístes na vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

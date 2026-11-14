@@ -1,0 +1,113 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/dia24/4domingo_laudes.htm
+@documento Laudes - IV Domingo do Advento (24 de dezembro)
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Tu, Belém, não és a última das cidades de Judá,
+pois de ti virá o Guia do meu povo, Israel.
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Tu, Belém, não és a última das cidades de Judá,
+pois de ti virá o Guia do meu povo, Israel.
+
+@antifona 2
+Levantai vossa cabeça e olhai,
+pois a vossa redenção se aproxima.
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Levantai vossa cabeça e olhai,
+pois a vossa redenção se aproxima.
+
+@antifona 3
+Amanhã virá a vossa salvação:
+é o que diz o Senhor Deus do universo.
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Amanhã virá a vossa salvação:
+é o que diz o Senhor Deus do universo.
+
+@secao Leitura breve | Is 11,1-3a
+
+@texto
+Nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; no temor do Senhor encontra ele seu prazer.
+
+@secao Responsório breve
+
+@responsorio
+R. Amanhã será varrida da terra a iniquidade. R. Amanhã.
+V. E sobre nós há de reinar o Salvador do mundo. R. Amanhã.
+Glória ao Pai. R. Amanhã.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Completaram-se os dias de Maria dar à luz
+o seu Filho primogênito.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Completaram-se os dias de Maria dar à luz
+o seu Filho primogênito.
+
+@secao Preces
+
+@preces
+Rezemos, irmãos e irmãs caríssimos, a nosso Senhor Jesus Cristo, Juiz dos vivos e dos mortos; e digamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus Cristo, que viestes salvar os pecadores,
+– defendei-nos de toda tentação. R.
+
+Senhor Jesus Cristo, que vireis cheio de glória para julgar o mundo,
+– manifestai em nós o poder da vossa salvação. R.
+
+Ajudai-nos a cumprir, na força do Espírito, os mandamentos de vossa lei,
+– para que possamos acolher com amor o dia de vossa vinda. R.
+
+Senhor Jesus Cristo, que sois eternamente glorificado pelos anjos e santos, ensinai-nos por vossa misericórdia a viver neste mundo com equilíbrio, justiça e piedade,
+– aguardando a feliz esperança da Vossa vinda gloriosa. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Derramai ó Deus a vossa graça em nossos corações, para que, conhecendo pela mensagem do Anjo a encarnação do vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

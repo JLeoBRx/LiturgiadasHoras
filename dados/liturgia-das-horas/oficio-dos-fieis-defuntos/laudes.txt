@@ -1,0 +1,189 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/oficio_fieisdefuntos_laudes.htm
+@documento Laudes - Ofício dos Fiéis Defuntos
+
+@titulo Ofício dos Fiéis Defuntos
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ressurreição e vida nossa,
+Cristo, esperança do perdão,
+quando nos fere a dor da morte,
+a vós se volta o coração.
+
+Também na cruz a grande angústia
+da morte humana vós provastes
+quando, inclinando a vossa fronte,
+ao Pai o espírito entregastes.
+
+Ó Bom Pastor, em vossos ombros
+vós carregastes nossa dor.
+Destes a nós morrer convosco
+do Pai no seio acolhedor.
+
+Braços abertos, vós pendestes,
+e vosso peito transpassado
+atrai a si os que carregam
+da morte o fardo tão pesado.
+
+Quebrando as portas dos infernos,
+do céu o Reino nos abris;
+dai força agora aos sofredores,
+dai-lhes enfim vida feliz.
+
+O(a,s) nosso(a,s) irmão(ã,s),
+que no(s) seu(s) corpo(s) dorme(m) na paz do vosso amor,
+por vós esteja(m) vigilante(s)
+para entoar vosso louvor.
+
+@secao Salmodia
+
+@antifona 1
+Os ossos humilhados, no Senhor exultarão.
+
+@salmo salmos/salmo-050
+
+@gloria
+
+@antifona
+Os ossos humilhados, no Senhor exultarão.
+
+@antifona 2
+Das portas do abismo, livrai-me, Senhor!
+
+@salmo canticos/is-38-10-14-17-20
+
+@gloria
+
+@antifona
+Das portas do abismo, livrai-me, Senhor!
+
+@antifona 3
+Bendirei o Senhor toda a vida.
+
+@salmo salmos/salmo-145
+
+@gloria
+
+@antifona
+Bendirei o Senhor toda a vida.
+
+@rubrica
+Ou:
+
+@antifona 3
+Tudo o que vive e respira, louve a Deus!
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Tudo o que vive e respira, louve a Deus!
+
+@secao Leitura breve | 1Ts 4,14
+
+@texto
+Se Jesus morreu e ressuscitou – e esta é a nossa fé – de modo semelhante Deus trará de volta, com Cristo, os que através dele entraram no sono da morte.
+
+@secao Responsório breve
+
+@responsorio
+R. Eu vos exalto,
+* Ó Senhor, pois me livrastes! R. Eu vos exalto.
+V. Transformastes o meu pranto em uma festa. * Ó Senhor.
+Glória ao Pai. R. Eu vos exalto.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Eu sou a ressurreição, eu sou a vida, diz Jesus.
+Quem crê em mim, mesmo depois de ter morrido, viverá;
+e quem vive e crê em mim, não morrerá eternamente.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Eu sou a ressurreição, eu sou a vida, diz Jesus.
+Quem crê em mim, mesmo depois de ter morrido, viverá;
+e quem vive e crê em mim, não morrerá eternamente.
+
+@secao Preces
+
+@preces
+Oremos a Deus Pai todo-poderoso, que ressuscitou Jesus Cristo dentre os mortos e dará vida também aos nossos corpos mortais; e aclamemos:
+
+R. **Dai-nos, Senhor, a vida em Cristo!**
+
+Pai santo, fazei que nós, sepultados pelo Batismo na morte com vosso Filho e com ele ressuscitados, vivamos uma vida nova;
+– para que, depois da nossa morte, vivamos para sempre em Cristo. R.
+
+Pai de bondade, que nos destes o pão vivo descido do céu, como alimento das almas,
+– fazei-nos alcançar a vida eterna e ressuscitar no último dia. R.
+
+Senhor, que enviastes um anjo para confortar vosso Filho em sua agonia,
+– fazei-nos sentir o conforto da esperança na hora de nossa morte. R.
+
+Vós, que salvastes os três jovens da fornalha ardente,
+– libertai as almas do castigo que sofrem por seus pecados. R.
+
+Deus dos vivos e dos mortos, que ressuscitastes Jesus Cristo do sepulcro,
+– ressuscitai também os defuntos e dai-nos um lugar junto deles na vossa glória. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Pode-se dizer uma das seguintes orações:
+
+@texto
+Ouvi, ó Pai, as nossas preces para que, ao afirmarmos nossa fé na ressurreição do vosso Filho, se confirme também nossa esperança na ressurreição de vosso servo N. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, glória dos fiéis e vida dos justos, que nos remistes pela morte e ressurreição do vosso Filho, concedei a vosso servo N. que, tendo professado o mistério da nossa ressurreição, mereça alegrar-se na eterna felicidade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, inclinai vosso ouvido às nossas preces, ao implorarmos vossa misericórdia para com vosso filho N. Vós, que o unistes na terra ao vosso povo, colocai-o no reino da luz e da paz e concedei-lhe o convívio dos vossos santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para vários defuntos:
+
+@texto
+Ó Deus, fizestes o vosso Filho único vencer a morte e subir ao céu. Concedei a vossos Filhos N. e N. superar a mortalidade desta vida e contemplar eternamente a vós, Criador e Redentor de todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Pelos irmãos, parentes e benfeitores:
+
+@texto
+Ó Deus, que perdoais os homens e desejais salvá-los, concedei aos irmãos, parentes e benfeitores de nossa comunidade que partiram deste mundo, participar da vida eterna por intercessão da Virgem Maria e de todos os Santos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@texto
+_Ou à escolha, no Missal Romano._
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

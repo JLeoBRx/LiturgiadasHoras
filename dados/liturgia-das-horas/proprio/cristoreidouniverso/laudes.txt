@@ -1,0 +1,163 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/cristoreidouniverso_laudes.htm
+@documento Laudes - Nosso Senhor Jesus Cristo, Rei do Universo
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Eterna imagem do Altíssimo,
+sois Deus de Deus, Luz da Luz.
+A vós a glória, o poder,
+Redentor nosso, Jesus.
+
+Centro e esperança da História,
+antes dos tempos, sois vós.
+Vós imperais sobre tudo,
+reinai também sobre nós.
+
+Da raça humana cabeça,
+sois duma Virgem a flor,
+pedra que, vindo do monte,
+a terra inteira ocupou.
+
+A raça humana, sujeita
+a um tirano cruel,
+por vós, quebrou as cadeias
+e fez-se herdeira do céu.
+
+Legislador, sacerdote,
+na veste em sangue trazeis
+escrito: “Chefe dos chefes
+e Rei supremo dos reis”.
+
+Glória ao Deus Pai, ao Espírito
+e a vós, ó Cristo Jesus,
+que aos resgatados no sangue
+levais ao Reino da luz.
+
+@secao Salmodia
+
+@antifona 1
+Sol nascente é ele chamado:
+reinará assentado em seu trono
+e de paz falará às nações.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Sol nascente é ele chamado:
+reinará assentado em seu trono
+e de paz falará às nações.
+
+@antifona 2
+Será grande em toda a terra: será ele a nossa paz.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Será grande em toda a terra: será ele a nossa paz.
+
+@antifona 3
+O Senhor lhe deu poder, deu-lhe honra e realeza;
+toda língua, povos, tribos só a ele servirão.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+O Senhor lhe deu poder, deu-lhe honra e realeza;
+toda língua, povos, tribos só a ele servirão.
+
+@secao Leitura breve | Ef 4,15-16
+
+@texto
+Motivados pelo amor queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a Cabeça, Cristo. Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor.
+
+@secao Responsório breve
+
+@responsorio
+R. Que vossos santos com louvores vos bendigam,
+* Narrem a glória e o esplendor do vosso reino! R. Que vossos.
+V. E saibam proclamar vosso poder. * Narrem.
+Glória ao Pai. R. Que vossos.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Jesus Cristo, o Primogênito dos mortos
+e príncipe dos reis de toda a terra,
+fez de nós para seu Pai, para seu Deus,
+um reino e sacerdócio, aleluia.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Jesus Cristo, o Primogênito dos mortos
+e príncipe dos reis de toda a terra,
+fez de nós para seu Pai, para seu Deus,
+um reino e sacerdócio, aleluia.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, oremos a Cristo Rei, que existe antes de todas as coisas criadas e em quem tudo subsiste; e o aclamemos, dizendo:
+
+R. **Senhor, venha a nós o vosso Reino!**
+
+Cristo Salvador, que sois nosso Deus e Senhor, nosso Rei e Pastor,
+– conduzi o vosso povo pelos caminhos que conduzem à verdadeira vida. R.
+
+Cristo, Bom Pastor, que destes a vida por vossas ovelhas,
+– guiai-nos, para que nada nos falte. R.
+
+Cristo, nosso Redentor, que fostes proclamado Rei da terra inteira,
+– renovai em vós todas as coisas. R.
+
+Cristo, Rei do universo, que viestes ao mundo para dar testemunho da verdade,
+– fazei que a humanidade vos reconheça como Princípio e Fim de todas as coisas. R.
+
+Cristo, nosso Mestre e Modelo, que nos fizestes sair das trevas para a vossa luz admirável,
+– concedei que, hoje e sempre, levemos uma vida santa, pura e irrepreensível, na vossa presença. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que dispusestes restaurar todas as coisas no vosso amado Filho, Rei do universo, fazei que todas as criaturas, libertas da escravidão e servindo à vossa majestade, vos glorifiquem eternamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

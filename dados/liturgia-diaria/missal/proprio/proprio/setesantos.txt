@@ -1,0 +1,36 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/setesantos.htm
+
+@secao Coleta
+@texto
+Infundi em nós, Senhor, a piedade
+dos Santos Fundadores da Ordem dos Servos de Maria,
+que se distinguiram pela devoção à Mãe de Deus
+e a vós conduziram o vosso povo.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Deus de clemência,
+desfeito em vossos Santos o velho homem,
+vos dignastes formar nele uma nova criatura à vossa imagem;
+concedei benigno que nós, igualmente renovados,
+vos ofereçamos este agradável sacrifício de reconciliação.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão
+@texto
+Em verdade vos digo:
+vós que deixastes tudo e me seguistes
+recebereis cem vezes mais
+e tereis como herança a vida eterna.
+
+@secao Depois da comunhão
+@texto
+Senhor, pela força deste sacramento,
+conduzi-nos constantemente no vosso amor
+e, como fizestes os vossos Santos,
+completai a boa obra que em nós começastes,
+até o dia de Cristo Jesus.
+Que vive e reina pelos séculos dos séculos.

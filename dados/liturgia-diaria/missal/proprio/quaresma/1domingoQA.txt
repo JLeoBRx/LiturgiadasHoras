@@ -1,0 +1,51 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1domingoQA.htm
+@documento MISSAL ROMANO_FINAL.indb
+
+@secao Antífona da entrada | Cf. Sl 90,15-16
+@texto
+Ele me invocará e eu o ouvirei;
+hei de livrá-lo e glorificá-lo,
+vou saciá-lo com longos dias.
+
+@secao Coleta
+@texto
+Deus todo-poderoso,
+através dos exercícios anuais do sacramento da Quaresma,
+concedei-nos progredir no conhecimento do mistério de Cristo
+e corresponder-lhe por uma vida santa.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Nós vos pedimos, Senhor,
+fazei que o nosso coração
+corresponda a estas oferendas
+com as quais iniciamos
+nossa caminhada para a Páscoa.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 4,4
+@texto
+Não só de pão vive o homem,
+mas de toda palavra que sai da boca de Deus.
+{Ou:}{Cf. Sl 90, 4}
+O Senhor te cobrirá com sua sombra,
+sob suas asas encontrarás abrigo.
+
+@secao Depois da comunhão
+@texto
+Ó Deus, que nos alimentastes com este pão
+que nutre a fé, incentiva a esperança e fortalece a caridade,
+dai-nos desejar o Cristo, pão vivo e verdadeiro,
+e viver de toda palavra que sai de vossa boca.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+Desça, Senhor, sobre o vosso povo copiosa bênção,
+para que, na tribulação, cresça a esperança;
+na tentação, confirme-se a virtude;
+e lhe seja concedida a eterna redenção.
+Por Cristo, nosso Senhor.

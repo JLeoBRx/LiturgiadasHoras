@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/todosossantos_vesperas.htm
+@documento Vésperas - Todos os Santos
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Redentor de todos, Cristo,
+vossos servos conservais,
+abrandado pela Virgem
+com suas preces maternais.
+
+Multidões celestiais
+dos espíritos amigos,
+ontem, hoje e no futuro
+defendei-nos do inimigo.
+
+Do eternal Juiz profetas
+e apóstolos do Senhor,
+nos salvai com vossos rogos,
+escutai nosso clamor.
+
+Santos mártires de Deus,
+confessores luminosos,
+vossas preces nos conduzam
+para o céu, vitoriosos.
+
+Santos monges e eremitas,
+santos coros virginais,
+dai-nos sermos os convivas
+do Senhor, com quem reinais.
+
+Nossa voz à vossa unimos,
+dando graças ao Senhor.
+E paguemos, na alegria,
+nossa dívida em louvor.
+
+@secao Salmodia
+
+@antifona 1
+Vi uma grande multidão, que ninguém pode contar,
+de todas as nações, de pé em frente ao trono.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Vi uma grande multidão, que ninguém pode contar,
+de todas as nações, de pé em frente ao trono.
+
+@antifona 2
+Deus provou os seus eleitos e os achou dignos de si;
+por isso obterão da mão do Senhor Deus
+um reino glorioso.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos e os achou dignos de si;
+por isso obterão da mão do Senhor Deus
+um reino glorioso.
+
+@antifona 3
+Para Deus nos remiu vosso sangue
+dentre todas as tribos e línguas,
+dentre os povos da terra e nações,
+e fizestes de nós para Deus
+sacerdotes e povo de reis.
+
+@salmo canticos/ap-4-11-5-9-10-12
+
+@gloria
+
+@antifona
+Para Deus nos remiu vosso sangue
+dentre todas as tribos e línguas,
+dentre os povos da terra e nações,
+e fizestes de nós para Deus
+sacerdotes e povo de reis.
+
+@secao Leitura breve | 2Cor 6,16b; 7,1
+
+@texto
+Vós sois templo de Deus vivo, como disse o próprio Deus: Eu habitarei no meio deles e andarei entre eles. Serei o seu Deus e eles serão o meu povo. Caríssimos, nós que recebemos essas promessas, purifiquemo-nos de toda mancha da carne e do espírito, completando a nossa santificação, no temor de Deus.
+
+@secao Responsório breve
+
+@responsorio
+R. Vós santos e eleitos,
+* Alegrai-vos no Senhor! R. Vós santos.
+V. Porque Deus vos escolheu para serdes sua herança.
+* Alegrai-vos. Glória ao Pai. R. Vós santos.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Oh, quão glorioso é o Reino
+onde gozam os santos com Cristo.
+Vestidos de brancas roupagens,
+seguem sempre o Cordeiro onde for.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Oh, quão glorioso é o Reino
+onde gozam os santos com Cristo.
+Vestidos de brancas roupagens,
+seguem sempre o Cordeiro onde for.
+
+@secao Preces
+
+@preces
+Repletos de alegria, invoquemos a Deus, recompensa e glória de todos os santos e santas; e digamos:
+
+R. **Salvai-nos, Senhor, por intercessão de vossos santos!**
+
+Deus de infinita sabedoria que, por Cristo, constituístes os apóstolos como fundamentos da fé da Igreja,
+– conservai-nos fiéis à fé que eles nos ensinaram. R.
+
+Vós, que destes aos mártires a coragem do testemunho até derramarem o próprio sangue,
+– tornai os cristãos testemunhas fiéis do vosso Filho. R.
+
+Vós, que concedestes às santas Virgens o dom inestimável de imitar a Cristo virgem,
+– fazei que todos reconheçam a virgindade consagrada a vós como autêntico sinal do reino dos céus. R.
+
+Vós, que manifestais em todos os santos e santas a vossa presença, o vosso rosto e a vossa palavra,
+– dai-nos a graça de nos sentirmos mais próximos de vós quando os honramos. R.
+
+{(intenções livres)}
+
+Concedei aos que morreram viver eternamente no céu com a Virgem Maria, São José e todos os santos e santas,
+– e, por intercessão deles, fazei-nos participar da sua companhia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, que nos dais celebrar numa só festa os méritos de todos os Santos, concedei-nos, por intercessores tão numerosos, a plenitude da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,135 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/saobernardino.htm
+@documento Ofício das Leituras - São Bernardino De Sena, Presbítero
+
+@celebracao
+SÃO BERNARDINO DE SENA, PRESBÍTERO
+
+@biografia
+Nasceu em Massa Marítima, na Toscana (Itália), em 1380; entrou na Ordem dos Frades Menores, e foi ordenado presbítero. Percorreu toda a Itália, exercendo o ministério da pregação com grande proveito para as almas. Divulgou a devoção ao Santíssimo Nome de Jesus, e teve um papel importante na promoção dos estudos e da disciplina religiosa de sua Ordem, tendo também escrito alguns tratados teológicos. Morreu em Áquila no ano 1444.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@secao Primeira leitura
+
+@leitura
+
+@tema
+V.
+
+@texto
+Ouvirás uma palavra de meus lábios. Aleluia. R. E haverás de transmitir-lhes em meu nome. Aleluia. Da Primeira Carta de São Pedro {5,1-11} _{Deveres dos pastores e dos fiéis}_ [1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador é que seja ele fiel.
+V. Muitos se dizem “homens de bem”; mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Bernardino de Sena, presbítero
+{(Séc. XV)} {(Sermo 49, De glorioso Nomine Iesu Christi, cap. 2: Opera omnia, 4,505-506)}
+
+@tema
+O nome de Jesus é a luz dos pregadores
+
+@texto
+O nome de Jesus é a luz dos pregadores porque ilumina com o seu esplendor os que anunciam e os que ouvem a sua palavra. Por que razão a luz da fé se difundiu no mundo inteiro tão rápida e ardentemente, senão porque foi pregado este nome? Não foi também pela luz e suavidade do nome de Jesus que Deus nos _chamou para a sua luz maravilhosa?_ (1Pd 2,9). Com razão diz o Apóstolo aos que foram iluminados e nesta luz veem a luz: _Outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz_ (Ef 5,8).
+Portanto, é necessário proclamar este nome para que a sua luz não fique oculta, mas resplandeça. Entretanto, ele não deve ser pregado com o coração impuro ou com a boca profanada; deve ser guardado e proferido por meio de um vaso escolhido.
+Por isso, diz o Senhor, referindo-se ao Apóstolo: _Este homem é para mim um vaso escolhido para anunciar o meu nome aos pagãos, aos reis e ao povo de Israel_ (cf. At 9,15). Um vaso escolhido, diz o Senhor, onde se expõe uma bebida de agradável sabor, para que o brilho e o esplendor dos vasos preciosos provoquem o desejo de beber: _para anunciar_ – acrescenta – _o meu nome_.
+Com efeito, para limpar os campos se queimam com o fogo os espinheiros secos e inúteis; aos primeiros raios do sol nascente, as trevas desaparecem, e os ladrões, os noctívagos e os arrombadores de casas desaparecem. Da mesma forma, quando Paulo pregava aos povos – semelhante a um forte estrondo de trovão ou à irrupção de um violento incêndio mais luminoso que o nascer do sol – desaparecia a falta de fé, morria a falsidade e resplandecia a verdade, à semelhança da cera que se derrete ao calor de um fogo ardente.
+Ele levava o nome de Jesus a toda parte por meio de suas palavras, cartas, milagres e exemplos. De fato, _continuamente_ louvava _o_ _nome_ de Jesus e _cantava-lhe hinos de ação de graças_ (Eclo 51,15; Ef 5,19-20).
+O Apóstolo também apresentava este nome como uma luz aos pagãos, aos reis e ao povo de Israel, iluminava as nações e proclamava por toda parte: _A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz. Procedamos honestamente, como em pleno dia_ (Rm 13,12-13). E mostrava a todos a lâmpada que arde e ilumina sobre o candelabro, anunciando em todo lugar a _Jesus Cristo crucificado_ (1Cor 2,2).
+Assim, a Igreja, esposa de Cristo, sempre apoiada em seu testemunho, alegra-se com o Profeta, dizendo: _Deus, vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas_ (Sl 70,17), isto é, continuamente. Também o mesmo Profeta a isto nos exorta: _Cantai ao Senhor Deus e bendizei seu santo nome! Dia após dia anunciai sua salvação_ (Sl 95,2), quer dizer, Jesus, o Salvador.
+
+@secao Responsório | Eclo 51,15ab; Sl 9,3
+
+@responsorio
+R. Louvarei continuamente o vosso nome
+* E o cantarei com gratidão em meus louvores.
+V. Em vós exultarei de alegria,
+cantarei ao vosso nome, Deus Altíssimo. * E o cantarei.
+
+@secao Oração
+
+@oracao
+Ó Deus, que destes ao presbítero São Bernardino de Sena ardente amor pelo nome de Jesus, acendei sempre em nossos corações a chama da vossa caridade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

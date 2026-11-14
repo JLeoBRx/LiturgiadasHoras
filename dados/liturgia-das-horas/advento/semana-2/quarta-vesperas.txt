@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2quarta_vesperas.htm
+@documento Vésperas - Advento
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Eterna luz dos homens,
+dos astros Criador,
+ouvi as nossas preces,
+de todos Redentor.
+
+Ao ver compadecido
+do mundo a perdição,
+em vosso amor viestes
+trazer-lhe a salvação.
+
+Se a sombra do pecado
+a tudo escurecia,
+Esposo, vós saístes
+do seio de Maria.
+
+Ao simples ecoar
+do vosso nome eterno,
+joelhos vão dobrando
+o céu, a terra, o inferno.
+
+Um dia voltareis,
+Juiz e Rei de tudo.
+Oh dai-nos hoje a graça,
+na tentação escudo.
+
+Ao Pai e ao Filho glória,
+ao Espírito também,
+louvor, honra e vitória,
+Agora e sempre. Amém
+
+@secao Salmodia
+
+@antifona 1
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@salmo salmos/salmo-061
+
+@gloria
+
+@antifona
+Aguardemos a bendita esperança
+e a vinda gloriosa do Senhor.
+
+@antifona 2
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós! †
+
+@salmo salmos/salmo-066
+
+@gloria
+
+@antifona
+Que Deus nos dê a sua graça e sua bênção,
+e sua face resplandeça sobre nós!
+
+@antifona 3
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+Em Cristo é que tudo foi criado,
+e é por ele que subsiste o universo.
+
+@secao Leitura breve | 1Cor 4,5
+
+@texto
+Não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido.
+
+@secao Responsório breve
+
+@responsorio
+R. Eis o tempo favorável,
+* Eis o dia da salvação!. R. Eis o tempo.
+V. O Reino de Deus está perto. * Eis o dia.
+Glória ao Pai. R. Eis o tempo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Cidade de Deus, hás de ser renovada
+e verás o teu Justo no meio de ti.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Cidade de Deus, hás de ser renovada
+e verás o teu Justo no meio de ti.
+
+@secao Preces
+
+@preces
+Roguemos humildemente, irmãos caríssimos, a Jesus Cristo que nos libertou das trevas do pecado; e o invoquemos com toda confiança:
+
+R. **Vinde, Senhor Jesus!**
+
+Reuni, Senhor, numa só fé todos os povos da terra,
+– e confirmai para com eles vossa aliança eterna. R.
+
+Cordeiro de Deus, que viestes tirar o pecado do mundo,
+– purificai-nos de toda mancha de pecado. R.
+
+Vós, que viestes salvar o que estava perdido,
+– vinde novamente para que não se percam os que remistes com o vosso sangue. R.
+
+Concedei a vossa alegria eterna, quando vierdes no último dia,
+– àqueles que vos procuram na fé e na esperança. R.
+
+{(Intenções livres)}
+
+Vós, que haveis de vir para julgar os vivos e os mortos,
+– admiti com bondade entre os eleitos os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, que nos mandais preparar o caminho do Cristo Senhor, fazei que, confortados pela presença do divino médico, nenhuma fraqueza possa abater-nos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

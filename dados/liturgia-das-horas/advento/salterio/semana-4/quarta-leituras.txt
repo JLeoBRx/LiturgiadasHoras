@@ -1,0 +1,48 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/salterio/4quarta_leituras.htm
+@documento Ofício das Leituras - IV Quarta-feira do Advento
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@secao Salmodia
+
+@antifona 1
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@salmo salmos/salmo-102-i
+
+@gloria
+
+@antifona
+Bendize, ó minha alma, ao Senhor,
+não te esqueças de nenhum de seus favores!
+
+@antifona 2
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@salmo salmos/salmo-102-ii
+
+@gloria
+
+@antifona
+Como um pai se compadece de seus filhos,
+o Senhor tem compaixão dos que o temem.
+
+@antifona 3
+Obras todas do Senhor, glorificai-o!
+
+@salmo salmos/salmo-102-iii
+
+@gloria
+
+@antifona
+Obras todas do Senhor, glorificai-o!

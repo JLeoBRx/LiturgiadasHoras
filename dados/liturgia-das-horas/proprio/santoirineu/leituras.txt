@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoirineu.htm
+@documento Ofício das Leituras - Santo Irineu, Bispo E Mártir Memória
+
+@celebracao
+SANTO IRINEU, BISPO E MÁRTIR
+{Memória}
+
+@biografia
+Nasceu por volta do ano 130 e foi educado em Esmirna. Foi discípulo de São Policarpo, bispo desta cidade. No ano de 177, era presbítero em Lião (França) e, pouco tempo depois, foi nomeado bispo da mesma cidade. Escreveu diversas obras para defender a fé católica contra os erros dos gnósticos. Segundo a tradição, recebeu a coroa do martírio cerca do ano 200.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Santo mártir, sê propício
+no teu dia de esplendor,
+em que cinges a coroa,
+o troféu de vencedor.
+
+Este dia sobre as trevas
+deste mundo te elevou,
+e, juiz e algoz vencendo,
+todo a Cristo te entregou.
+
+Entre os anjos ora brilhas,
+testemunha inquebrantável,
+com as vestes que lavaste
+no teu sangue venerável.
+
+Junto a Cristo, sê agora
+poderoso intercessor;
+ouça ele as nossas preces
+e perdoe ao pecador.
+
+Desce a nós por um momento,
+de Jesus traze o perdão,
+e os que gemem sob o fardo
+grande alívio sentirão.
+
+A Deus Pai, ao Filho Único
+e ao Espírito, a vitória.
+Deus te orna com coroa
+na mansão da sua glória.
+
+@secao Salmodia
+
+@antifona 1
+Vós sereis odiados por meu nome; quem for fiel até o fim há de ser salvo.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+
+@antifona 2
+Os sofrimentos desta vida aqui na terra não se comparam com a glória que teremos.
+
+@salmo salmos/salmo-010
+
+@gloria
+
+@antifona
+Os sofrimentos desta
+
+@antifona 3
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@salmo salmos/salmo-016
+
+@gloria
+
+@antifona
+Deus provou os seus eleitos como o ouro no crisol, e aceitou seu sacrifício.
+
+@texto
+V. Tribulação e sofrimento me assaltaram.
+R. Minhas delícias são os vossos mandamentos.
+
+@secao Primeira leitura
+
+@leitura
+Da Segunda Carta de São Paulo aos Coríntios 4,7―5,8
+
+@tema
+Nas tribulações manifesta-se a força de Cristo Irmãos: 4,7 Trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. 8 Somos afligidos de todos os lados, mas não vencidospela angústia; postos entre os maiores apuros, mas sem perder a esperança; 9 perseguidos, masnão desamparados; derrubados, mas não aniquilados; 10 por toda parte e sempre levamos em nósmesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada emnossos corpos. 11 De fato, nós, os vivos, somos continuamente entregues à morte, por causa deJesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. 12 Assim, amorte age em nós, enquanto a vida age em vós. 13 Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: “Eu creio e, por isso,falei”, nós também cremos e, por isso, falamos, 14 certos de que aquele que ressuscitou o SenhorJesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. 15 Etudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoasfaça crescer a ação de graças para a glória de Deus. 16 Por isso, não desanimamos. Mesmo se onosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-serenovando, dia a dia. 17 Com efeito, o volume insignificante de uma tribulação momentâneaacarreta para nós uma glória eterna e incomensurável. 18 E isso acontece, porque voltamos osnossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível épassageiro, mas o que é invisível é eterno. 5,1 De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dáuma outra moradia no céu que não é obra de mãos humanas, mas que é eterna. 2 Aliás, é por issoque nós gememos, suspirando por ser revestidos com a nossa habitação celeste; 3 revestidos,digo, se, naturalmente, formos encontrados ainda vestidos e não despidos. 4 Sim, nós quemoramos na tenda do corpo estamos oprimidos e gememos, porque, na verdade, não queremosser despojados, mas queremos ser revestidos, de modo que o que é mortal, em nós, sejaabsorvido pela vida. 5 E aquele que nos fez para esse fim é Deus, que nos deu o Espírito comopenhor. 6 Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo,somos peregrinos longe do Senhor; 7 pois caminhamos na fé e não na visão clara. 8 Mas estamoscheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto doSenhor.
+
+@secao Responsório | Mt 5,11.12a.10
+
+@responsorio
+R. Felizes quando a vós insultarem, perseguireme, calúnias proferindo, disserem todo malcontra vós por minha causa.
+* Alegrai-vos e exultai,pois a vossa recompensa no céu é muito grande.
+V. Felizes os que são perseguidospor causa da justiça do Senhor, porque o reino dos céus há de ser deles.
+* Alegrai-vos.
+
+@secao Segunda leitura
+
+@leitura
+Do Tratado contra as heresias, de Santo Irineu, bispo
+{(Séc.II)} {(Lib. 4,20,5-7:Sch 100, 640-642.644-648)}
+
+@tema
+A glória de Deus é o homem vivo; e a vida do homem é a visão de Deus
+
+@texto
+O esplendor de Deus dá a vida. Consequentemente, os que veem a Deus recebem a vida. Por isso, aquele que é inacessível, incompreensível e invisível, torna-se compreensível e acessível para os homens, a fim de dar a vida aos que o alcançam e veem. Assim como viver sem a vida é impossível, sem a participação de Deus não há vida. Participar de Deus consiste em vê-lo e gozar da sua bondade. Por conseguinte, os homens hão de ver a Deus para poderem viver. Por esta visão tornam-se imortais e se elevam até ele. Como já disse, estas coisas foram anunciadas pelos profetas de modo figurado: que Deus seria visto pelos homens que possuem seu Espírito e aguardam sem cessar sua vinda. Assim também diz Moisés no Deuteronômio: _Nesse dia veremos que Deus pode falar ao homem, sem que este deixe de viver_ (cf. Dt 5,24).
+
+Deus, que realiza tudo em todos, é inacessível e inefável, quanto ao seu poder e à sua grandeza, para os seres por ele criados. Mas não é de modo algum desconhecido, pois todos sabemos, por meio do seu Verbo, que há um só Deus Pai que contém todas as coisas e dá existência a todas elas, como está escrito no Evangelho: _A Deus, ninguém_ _jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a_ _conhecer_ (Jo 1,18).
+
+Portanto, quem desde o princípio nos dá a conhecer o Pai é o Filho, que desde o princípio está com o Pai. As visões proféticas, a diversidade de carismas, os ministérios, a glorificação do Pai, tudo isto, como uma sinfonia bem composta e harmoniosa, ele manifestou aos homens, no tempo próprio, para seu proveito. Porque onde há composição, há harmonia; onde há harmonia, tudo acontece no tempo próprio; e quando tudo acontece no tempo próprio, há proveito.
+
+Por esta razão, o Verbo se tornou o administrador da graça do Pai para proveito dos homens. Em favor deles, pôs em prática o seu plano: mostrar Deus ao homem e apresentar o homem a Deus. No entanto, conservou a invisibilidade do Pai: desta forma o homem não desprezaria a Deus e seria sempre estimulado a progredir. Ao mesmo tempo, mostrou também, por diversos modos, que Deus é visível aos homens, para não acontecer que, privado totalmente de Deus, o homem chegasse a perder a própria existência. Pois a glória de Deus é o homem vivo, e a vida do homem é a visão de Deus. Com efeito, se a manifestação de Deus, através da criação dá a vida a todos os seres da terra, muito mais a manifestação do Pai, por meio do Verbo, dá a vida a todos os que veem a Deus.
+
+@secao Responsório | Ml 2,6; Sl 88(89),22
+
+@responsorio
+R. A doutrina da verdade estava em sua boca
+e não se encontrou falsidade nos seus lábios;
+* Em paz e retidão comigo caminhou.
+V. Estará sempre com ele minha mão onipotente
+e meu braço poderoso há de ser a sua força.
+* Em paz.
+
+@secao Oração
+
+@oracao
+Ó Deus, vós concedestes ao bispo Santo Irineu firmar a verdadeira doutrina e a paz da Igreja; pela intercessão de vosso servo, renovai em nós a fé e a caridade, para que nos apliquemos constantemente em alimentar a união e a concórdia. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

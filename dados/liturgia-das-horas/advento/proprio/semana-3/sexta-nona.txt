@@ -1,0 +1,22 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/3sexta_nona.htm
+@documento Próprio - Nona - III Sexta-feira do Advento
+
+@secao Leitura breve | Br 3,5-6a
+
+@texto
+Não leves em conta as iniquidades de nossos pais mas recorda-te da bondade de tua mão e do teu nome neste tempo, porque és o Senhor, nosso Deus.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus todo-poderoso, que a vossa graça sempre nos preceda e acompanhe, para que, esperando ansiosamente a vinda do vosso Filho, possamos obter a vossa ajuda nesta vida e na outra. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,148 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/franciscaromana_laudes.htm
+@documento Laudes - Santa Francisca Romana, religiosa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Jesus Cristo, ternura de Deus,
+por quem somos votados ao Pai,
+pelos ternos acenos do Espírito,
+nossas almas na graça guiais.
+
+Aos nascidos do Deus verdadeiro,
+pela água na fonte lavados,
+quereis ver darem frutos de graça,
+pelo amor com que foram amados.
+
+Vós chamais, e os chamados acorrem,
+deixam tudo, ao fulgor desta luz,
+e vos seguem, em busca do Pai,
+pelos régios caminhos da cruz.
+
+Esta santa, com todas as forças,
+quis a vós se unir pelo amor.
+Da virtude as mais altas montanhas
+procurou escalar com ardor.
+
+A Deus Pai, e a Jesus, Cristo Rei,
+e ao Espírito, perene louvor.
+Cem por um dais, ó Deus, para o pobre
+que deu pouco, porém, com amor.
+
+@secao Salmodia
+
+@antifona 1
+Minh’alma se agarra em vós,
+com poder vossa mão me sustenta.
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Minh’alma se agarra em vós,
+com poder vossa mão me sustenta.
+
+@antifona 2
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+A mão do Senhor vos dá força,
+vós sereis para sempre bendita!
+
+@antifona 3
+Exulto de alegria pelo vosso grande amor!
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Exulto de alegria pelo vosso grande amor!
+
+@secao Leitura breve | Rm 12,1-2
+
+@texto
+Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: Este é o vosso culto espiritual. Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor a sustenta
+* Com a luz de sua face. R. O Senhor.
+V. Quem a pode abalar? Deus está junto a ela. * Com a luz.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@secao Preces
+
+@preces
+Juntamente com todas as santas mulheres, louvemos, irmãos e irmãs, nosso Salvador; e peçamos:
+
+R. **Vinde, Senhor Jesus!**
+
+Senhor Jesus, que perdoastes à mulher pecadora todos os seus pecados porque ela muito amou,
+– perdoai-nos também os nossos muitos pecados. R.
+
+Senhor Jesus, a quem as santas mulheres serviam em vossas jornadas,
+– concedei-nos seguir fielmente os vossos passos. R.
+
+Senhor Jesus, Mestre a quem Maria escutava, enquanto Marta vos servia;
+– concedei-nos também vos servirmos na fé e na caridade. R.
+
+Senhor Jesus, que chamastes irmão, irmã e mãe a todos aqueles que cumprem a vontade do Pai,
+– fazei que sempre vos agrademos em palavras e ações. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos destes em Santa Francisca Romana admirável modelo de esposa e de monja, fazei-nos sempre fiéis ao vosso serviço, para que possamos reconhecer e seguir a vossa vontade em todas as circunstâncias da vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

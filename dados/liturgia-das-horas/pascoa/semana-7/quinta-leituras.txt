@@ -1,0 +1,147 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/oficiodasleituras/7quintaPascoa.htm
+@documento Ofício das Leituras - 7ª Semana Da Páscoa - Quinta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Ó Senhor, Rei eterno e sublime,
+dos fiéis imortal Redentor!
+Morre a morte, por vós destruída,
+e triunfa, por graça, o amor.
+
+Sobre o trono celeste elevado,
+à direita do Pai vos sentais,
+e um poder é a vós concedido,
+que é do céu, não pertence aos mortais,
+
+para que todo ser que criastes
+nos abismos, na terra, ou nos céus
+ante vós, de joelhos, se incline,
+com respeito, adorando seu Deus.
+
+Tremem anjos, perante a mudança
+que o destino dos homens sofreu:
+peca a carne e a carne redime,
+reina a carne no Verbo de Deus.
+
+Sois, Senhor, nosso gozo e delícia,
+que a alegria do mundo ofuscais.
+Sois também nosso prêmio perene,
+vós que a todo o universo guiais.
+
+Suplicantes, portanto, rogamos:
+Nossas culpas, Senhor, perdoai.
+Pela força da graça divina,
+nossas mentes a vós elevai.
+
+Quando em glória voltardes na nuvem,
+a julgar as nações reunidas,
+afastai os devidos castigos,
+dai de novo as coroas perdidas.
+
+Honra a vós, ó Jesus glorioso,
+que às alturas dos céus ascendeis.
+Com o Pai e o Espírito Santo
+pelos séculos sem fim reinareis.
+
+@secao Salmodia
+
+@antifona 1
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@salmo salmos/salmo-088-39-53-iv
+
+@gloria
+
+@antifona
+Olhai e vede, ó Senhor, a humilhação do vosso povo!
+
+@antifona 2
+Sou o rebento da estirpe de Davi,sou a estrela fulgurante da manhã. Aleluia.
+
+@salmo salmos/salmo-088-39-53-v
+
+@gloria
+
+@antifona
+Sou o rebento da estirpe de Davi,sou a estrela fulgurante da manhã. Aleluia
+
+@antifona 3
+Os nossos dias vão murchando como a erva;vós, Senhor, sois desde sempre e para sempre. Aleluia
+
+@salmo salmos/salmo-089-v2
+
+@gloria
+
+@antifona
+Os nossos dias vão murchando como a erva;vós, Senhor, sois desde sempre e para sempre. Aleluia
+
+@texto
+V. Deus, o Pai que a Jesus,
+nosso Senhor, ressuscitou, aleluia,
+R. Nos fará também a nós
+ressuscitar por seu poder. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São João {5,13-21}
+
+@tema
+A oração pelos pecadores
+
+@texto
+Caríssimos: [13] Eu vos escrevo estas coisas a vós que acreditastes no nome do Filho de Deus, para que saibais que possuis a vida eterna. [14] Esta é a confiança que temos em Deus: se lhe pedimos alguma coisa de acordo com a sua vontade, ele nos ouve. [15] E se sabemos que ele nos ouve em tudo o que lhe pedimos, sabemos que possuímos o que havíamos pedido. [16] Se alguém vê seu irmão cometer um pecado que não conduz à morte, que ele reze, e Deus lhe dará a vida; isto, se, de fato, o pecado cometido não conduz à morte. Existe um pecado que conduz à morte, mas não é a respeito deste que eu digo que se deve rezar. [17] Toda a iniquidade é pecado, mas existe pecado que não conduz à morte. [18] Sabemos que todo aquele que nasceu de Deus não peca; Aquele que é gerado por Deus o guarda, e o Maligno não o pode atingir. [19] Nós sabemos que somos de Deus ao passo que o mundo inteiro está sob o poder do Maligno. [20] Nós sabemos que veio o Filho de Deus e nos deu a inteligência para conhecermos aquele que é o Verdadeiro. E nós estamos com o Verdadeiro, no seu Filho Jesus Cristo. Este é o Deus verdadeiro e a Vida eterna. [21] Filhinhos, guar­dai-vos dos ídolos.
+
+@secao Responsório | 1Jo 5,20; Jo 1,18
+
+@responsorio
+R. Sabemos que o Filho veio
+* E deu-nos inteligência,
+para podermos compreender
+o verdadeiro Deus, aleluia.
+V. Ninguém jamais viu a Deus, mas o Filho Unigênito
+que está junto do Pai, este o deu a conhecer. * E deu-nos.
+
+@secao Segunda leitura
+
+@leitura
+Do Comentário sobre o Evangelho de João, de São Cirilo de Alexandria, bispo
+{(Séc. V)} {(Lib. 10,16,6-7: PG 74,434)}
+
+@tema
+Se eu não for, o Espírito não virá a vós
+
+@texto
+Cristo tinha cumprido a sua missão sobre a terra, e para nós havia chegado o momento de entrarmos em comunhão com a natureza divina do Verbo. Era preciso que a nossa vida anterior fosse transformada em outra diferente, come­çando um novo estilo de vida em santidade. Ora, isto só podia ser realizado pela participação do Espírito Santo. O tempo mais oportuno para o envio do Espírito Santo e sua descida sobre nós foi o que se seguiu à ascensão de Cristo nosso Salvador. De fato, enquanto Cristo vivia visivelmente entre os seus fiéis, ele mesmo, segundo julgo, dispensava-lhes todos os bens. Mas quando chegou o momento estabelecido para subir ao Pai celeste, era necessário que ele continuasse presente no meio de seus fiéis por meio do Espírito e habitasse pela fé em nossos corações, a fim de que pudésse­mos clamar com toda confiança: _Aba - ó Pai!_ (Rm 8,15). E ainda nos tornássemos capazes de progredir sem demora no caminho da perfeição, superando com fortaleza invencível as ciladas do demônio e as perseguições dos homens, graças à assistência do Espírito todo-poderoso. Não é difícil demonstrar, com o testemunho das Escri­turas, tanto do Antigo como do Novo Testamento, que o Espírito transforma e comunica uma vida nova àqueles em quem habita. O servo de Deus Samuel, dirigindo-se a Saul, diz: _O Espírito do Senhor virá sobre ti e tu te tornarás outro homem_ (cf. ISm 10,6). E São Paulo afirma: _Todos nós, porém, com o rosto descoberto, contemplamos e refletimos a glória do Senhor, e assim seremos transformados à sua imagem, pelo seu Espírito. Pois o Senhor é Espírito_ (2Cor 3,18.17). Vês como o Espírito transforma noutra imagem aqueles em quem habita? Facilmente ele os faz passar do amor das coisas terrenas à esperança das realidades celestes, e do temor e da indecisão à firme e generosa fortaleza de alma. Foi o que sucedeu com os discípulos: animados e fortaleci­dos pelo Espírito, nunca mais se deixaram intimidar pelos seus perseguidores, permanecendo inseparavelmente uni­dos e fiéis ao amor de Cristo. É verdade, portanto, o que diz o Salvador: _É bom para vós que eu volte para os céus_ (cf. Jo 16,7), porque tinha chegado o tempo de o Espírito Santo descer sobre eles.
+
+@secao Responsório | Jo 16,7b.l3
+
+@responsorio
+R. Se eu não for, não há de vir o Paráclito a vós;
+mas se eu for, o enviarei.
+* Quando, porém, vier a vós o Espírito da verdade,
+ele a vós ensinará toda a verdade, aleluia.
+V. Não falará sobre si mesmo, mas dirá tudo o que ele ouvir
+e a vós anunciará as coisas todas que hão de vir.
+* Quando, porém.
+
+@secao Oração
+
+@oracao
+Nós vos pedimos, ó Deus, que o vosso Espírito nos transforme com a força dos seus dons, dando-nos um coração capaz de agradar-vos e de aceitar a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

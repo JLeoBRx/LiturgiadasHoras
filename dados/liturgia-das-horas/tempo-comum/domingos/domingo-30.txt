@@ -1,0 +1,59 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 30º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Ó Mestre, dizei-nos:
+qual é o maior mandamento da Lei?
+Respondeu-lhe Jesus e lhe disse:
+Amarás o Senhor, o teu Deus,
+de todo o teu coração!
+
+@antifona vesperas-i-B
+Estando a caminho, rumo a Jericó,
+e ao sair da cidade,
+Jesus perguntou a um cego mendigo:
+Que queres que eu faça?
+Ó Mestre, fazei que eu torne a enxergar!
+
+@antifona vesperas-i-C
+Mantendo-se à distância, com modéstia,
+e baixando o olhar, o publicano
+batia no peito, arrependido;
+suplicava e pedia humildemente:
+Ó meu Deus, tende piedade, pois eu sou pecador!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Amarás o teu próximo como a ti mesmo.
+Isto disse o Senhor aos seus discípulos.
+
+@antifona laudes-B
+Ó Filho de Davi, de mim tende piedade!
+O que queres que eu te faça?
+Senhor, que eu possa ver!
+
+@antifona laudes-C
+O publicano retornou justificado para casa;
+e não o fariseu que a si mesmo exaltava.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Amarás o Senhor, o teu Deus,
+de todo o teu coração,
+e o teu próximo como a ti mesmo.
+Diz Jesus: Esses dois mandamentos
+resumem a Lei e os Profetas.
+
+@antifona vesperas-ii-B
+Falou o Senhor para o cego:
+Vai em paz, tua fé te salvou!
+Ele logo tornou a enxergar
+e seguia a Jesus no caminho.
+
+@antifona vesperas-ii-C
+Quem se exaltar, será humilhado;
+e quem se humilhar, será exaltado.

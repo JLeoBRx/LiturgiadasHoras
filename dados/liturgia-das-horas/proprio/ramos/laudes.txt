@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ramos_laudes.htm
+@documento Laudes - Domingo de Ramos da Paixão do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O fel lhe dão por bebida
+sobre o madeiro sagrado.
+Espinhos, cravos e lança
+ferem seu corpo e seu lado.
+No sangue e água que jorram,
+mar, terra e céu são lavados.
+
+Ó cruz fiel sois a árvore
+mais nobre em meio às demais,
+que selva alguma produz
+com flor e frutos iguais.
+Ó lenho e cravos tão doces,
+um doce peso levais.
+
+Árvore, inclina os teus ramos,
+abranda as fibras mais duras.
+A quem te fez germinar
+minora tantas torturas.
+Leito mais brando oferece
+ao Santo Rei das alturas.
+
+Só tu, ó Cruz, mereceste
+suster o preço do mundo
+e preparar para o náufrago
+um porto, em mar tão profundo.
+Quis o cordeiro imolado
+banhar-te em sangue fecundo.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho Louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+Uma grande multidão que viera para a festa
+aclamava Jesus Cristo:
+Bendito o que nos vem em nome do Senhor!
+Hosana nas alturas!
+
+@salmo salmos/salmo-117-v2
+
+@gloria
+
+@antifona
+Uma grande multidão que viera para a festa
+aclamava Jesus Cristo:
+Bendito o que nos vem em nome do Senhor!
+Hosana nas alturas!
+
+@antifona 2
+Com os anjos e as criaturas proclamemos nossa fé
+e aclamemos Jesus Cristo,
+vencedor da própria morte:
+"Hosana nas alturas!
+
+@salmo canticos/dn-3-52-57
+
+@gloria
+
+@antifona
+Com os anjos e as criaturas proclamemos nossa fé
+e aclamemos Jesus Cristo,
+vencedor da própria morte:
+"Hosana nas alturas!
+
+@antifona 3
+Bendito o que nos vem em nome do Senhor!
+Na terra, paz aos homens. No céu, glória ao Senhor!
+
+@salmo salmos/salmo-150
+
+@gloria
+
+@antifona
+Bendito o que nos vem em nome do Senhor!
+Na terra, paz aos homens. No céu, glória ao Senhor!
+
+@secao Leitura breve | Zc 9,9
+
+@texto
+Exulta, cidade de Sião! Rejubila, cidade de Jerusalém. Eis que vem teu rei ao teu encontro, ele é justo, ele salva; é humilde e vem montado num jumento, um potro, cria de jumenta.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó portas, levantai vossos frontões!
+* A fim de que o Rei da glória possa entrar! R. Ó portas.
+V. O Rei da glória é o Senhor, Deus do universo.
+* A fim de que. Glória ao Pai. R. Ó portas.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+
+@secao Preces
+
+@preces
+Adoremos a Cristo que, ao entrar em Jerusalém, foi aclamado pela multidão como o Rei e Messias esperado. Também nós o louvemos com alegria:
+
+R. **Bendito o que vem em nome do Senhor!**
+
+Hosana a vós, Filho de Davi e Rei eterno,
+– hosana a vós, vencedor da morte e do inferno! R.
+
+Vós, que subistes a Jerusalém para sofrer a Paixão, e assim entrar na glória,
+– conduzi vossa Igreja à Páscoa da eternidade. R.
+
+Vós, que transformastes o madeiro da cruz em árvore da vida,
+– concedei de seus frutos aos que renasceram pelo batismo. R.
+
+Cristo, nosso Salvador, que viestes para salvar os pecadores,
+– conduzi para o vosso Reino os que creem em vós, em vós esperam e vos amam. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

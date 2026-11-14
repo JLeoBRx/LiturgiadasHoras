@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/7tercapascoa_vesperas.htm
+@documento Vésperas - Terça-feira da 7ª Semana da Páscoa
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Oh vinde, Espírito Criador,
+as nossas almas visitai
+e enchei os nossos corações
+com vossos dons celestiais.
+
+Vós sois chamado o Intercessor,
+do Deus excelso o dom sem par,
+a fonte viva, o fogo, o amor,
+a unção divina e salutar.
+
+Sois doador dos sete dons,
+e sois poder na mão do Pai,
+por ele prometido a nós,
+por nós seus feitos proclamais.
+
+A nossa mente iluminai,
+os corações enchei de amor,
+nossa fraqueza encorajai,
+qual força eterna e protetor.
+
+Nosso inimigo repeli,
+e concedei-nos vossa paz;
+se pela graça nos guiais,
+o mal deixamos para trás.
+
+Ao Pai e ao Filho Salvador
+por vós possamos conhecer.
+Que procedeis do seu amor
+fazei-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Paz a vós! Não temais, pois sou eu, aleluia.
+
+@salmo salmos/salmo-124-v3
+
+@antifona
+Paz a vós! Não temais, pois sou eu, aleluia.
+
+@antifona 2
+Confia no Senhor, povo santo, aleluia.
+
+@salmo salmos/salmo-130-v2
+
+@antifona
+Confia no Senhor, povo santo, aleluia.
+
+@antifona 3
+Que vos sirva toda a vossa criatura,
+pois mandastes e o universo foi criado. Aleluia.
+
+@salmo canticos/ap-4-11-5-9-10-12-v2
+
+@texto
+{(R.} Poder, honra e glória ao Cordeiro de Deus!)
+
+@salmo canticos/ap-4-11-5-9-10-12-v5
+
+@antifona
+Que vos sirva toda a vossa criatura,
+pois mandastes e o universo foi criado. Aleluia.
+
+@secao Leitura breve | Rm 8,26-27
+
+@texto
+O Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos.
+
+@secao Responsório breve
+
+@responsorio
+R. O Espírito Santo, o Paráclito, * Aleluia, aleluia.
+R. O Espírito.
+V. Ele vos ensinará todas as coisas. * Aleluia.
+Glória ao Pai. R. O Espírito.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Recebereis toda a força do Espírito que haverá de descer sobre vós;
+e sereis testemunhas de mim até os extremos da terra, aleluia.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Recebereis toda a força do Espírito que haverá de descer sobre vós;
+e sereis testemunhas de mim até os extremos da terra, aleluia.
+
+@secao Preces
+
+@preces
+Demos glória ao Senhor Jesus Cristo, que nos fez participantes do seu Espírito; e imploremos:
+
+R. **Jesus Cristo, ouvi-nos!**
+
+Derramai, Senhor, sobre a Igreja o Espírito Santo que procede do Pai,
+– para que a purifique, fortaleça e faça crescer por toda a terra. R.
+
+Dirigi, Senhor, com a assistência do vosso Espírito, a mente daqueles que nos governam,
+– para que promovam fielmente o bem comum, de acordo com a vossa vontade. R.
+
+Enviai o vosso Espírito, Pai dos pobres,
+– para que conforte, com seu auxílio, todos os necessitados. R.
+
+Nós vos pedimos por todos os ministros da Igreja,
+– para que sejam fiéis administradores dos vossos mistérios. R.
+
+{(intenções livres)}
+
+Vós, que, pela vossa paixão, ressurreição e ascensão ao céu, abristes para todos as portas do paraíso,
+– concedei a plenitude da redenção aos corpos e almas de nossos irmãos e irmãs que morreram. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus de poder e misericórdia, fazei que o Espírito Santo, vindo habitar em nossos corações, nos torne um templo da sua glória. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

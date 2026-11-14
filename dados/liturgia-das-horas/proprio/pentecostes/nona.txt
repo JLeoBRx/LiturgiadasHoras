@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/pentecostes_nona.htm
+@documento Hora Média - Domingo de Pentecostes
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Não sois vós que falareis,
+é o Espírito do Pai que em vós há de falar. Aleluia.
+
+@salmo salmos/salmo-117-i
+
+@gloria
+
+@salmo salmos/salmo-117-ii
+
+@gloria
+
+@salmo salmos/salmo-117-iii
+
+@gloria
+
+@antifona
+Não sois vós que falareis,
+é o Espírito do Pai que em vós há de falar. Aleluia.
+
+@secao Leitura breve | 2Cor 1,21-22
+
+@texto
+É Deus que nos confirma, a nós e a vós, em nossa adesão a Cristo, como também é Deus que nos ungiu. Foi ele que nos marcou com o seu selo e nos adiantou como sinal o Espírito derramado em nossos corações.
+
+@texto
+V. Em várias línguas falavam os Apóstolos, aleluia,
+R. As maravilhas de Deus. Aleluia.
+
+@secao Oração
+
+@oracao
+Concedei-nos, ó Deus onipotente, que brilhe sobre nós o esplendor da vossa claridade, e o fulgor da vossa luz confirme, com o dom do Espírito Santo, aqueles que renasceram pela vossa graça. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

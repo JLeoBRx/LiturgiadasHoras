@@ -1,0 +1,153 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/cristoreidouniverso_vesperas.htm
+@documento Vésperas - Nosso Senhor Jesus Cristo, Rei do Universo
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cristo Rei, sois dos séculos Príncipe,
+Soberano e Senhor das nações!
+Ó Juiz, só a vós é devido
+julgar mentes, julgar corações.
+
+Multidões reverentes, no céu,
+vos adoram e cantam louvores.
+Nós também proclamamos que sois
+Rei dos reis e Senhor dos senhores.
+
+Rei da paz, imperai sobre as mentes,
+desfazei seus desígnios perversos.
+Por amor, reuni num rebanho
+os errantes que andavam dispersos.
+
+Para isso, de braços abertos,
+vós pendeis do madeiro sagrado
+e mostrais vosso bom coração
+a sangrar, pela lança rasgado.
+
+Para isso, no altar escondido
+sob as formas de vinho e de pão,
+através desse lado ferido,
+para os filhos trazeis salvação.
+
+Glória a vós, ó Senhor Jesus Cristo,
+que no amor governais todo ser.
+Seja a vós, com o Pai e o Espírito,
+honra eterna, louvor e poder.
+
+@secao Salmodia
+
+@antifona 1
+Sobre o trono de Davi se assentará
+e reinará eternamente, aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+Sobre o trono de Davi se assentará
+e reinará eternamente, aleluia.
+
+@antifona 2
+Vosso Reino é reino eterno,
+e se estende vosso império através das gerações.
+
+@salmo salmos/salmo-144-i-v2
+
+@gloria
+
+@antifona
+Vosso Reino é reino eterno,
+e se estende vosso império através das gerações.
+
+@antifona 3
+Traz escrito em seu manto real:
+Rei dos reis e Senhor dos Senhores.
+Glória a ele e poder pelos séculos!
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Traz escrito em seu manto real:
+Rei dos reis e Senhor dos Senhores.
+Glória a ele e poder pelos séculos!
+
+@secao Leitura breve | 1Cor 15,25-28
+
+@texto
+É preciso que Cristo reine até que todos os seus inimigos estejam debaixo de seus pés. O último inimigo a ser destruído é a morte. Com efeito, Deus pôs tudo debaixo de seus pés. Mas, quando ele disser: Tudo está submetido, é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo. E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos.
+
+@secao Responsório breve
+
+@responsorio
+R. Vosso trono, ó Deus,
+* É eterno, sem fim. R. Vosso trono.
+V. Vosso cetro real é sinal de justiça. * É eterno.
+Glória ao Pai. R. Vosso trono.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Todo o poder foi-me dado no céu e na terra, afirmou o Senhor.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Todo o poder foi-me dado no céu e na terra, afirmou o Senhor.
+
+@secao Preces
+
+@preces
+Irmãos e irmãs, oremos a Cristo Rei, que existe antes de todas as coisas criadas e em quem tudo subsiste; e o aclamemos, dizendo:
+
+R. **Senhor, venha a nós o vosso Reino!**
+
+Cristo, nosso Rei e nosso Pastor, reuni de todos os pontos da terra as ovelhas do vosso rebanho,
+– e apascentai-as nos prados da vida eterna. R.
+
+Salvador e Guia da humanidade, fazei de todos nós um só povo: curai os enfermos, procurai os que estão perdidos, conservai os fortes,
+– chamai os que estão longe, congregai os dispersos, fortalecei os que vacilam. R.
+
+Juiz eterno, colocai-nos à vossa direita no último dia, quando entregardes o Reino a Deus Pai,
+– e dai-nos a posse do Reino preparado para nós desde a criação do mundo. R.
+
+Príncipe da paz, fazei desaparecer do mundo a guerra e a violência,
+– e concedei às nações a vossa paz. R.
+
+Herdeiro universal dos povos, reuni na vossa Igreja a humanidade inteira com os bens que o Pai vos deu,
+– para que todos vos reconheçam como Chefe na unidade do Espírito Santo. R.
+
+{(intenções livres)}
+
+Cristo, Primogênito dentre os mortos e Primícias dos que adormeceram,
+– acolhei na glória da ressurreição os nossos irmãos e irmãs que partiram desta vida. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso que dispusestes restaurar todas as coisas no vosso amado Filho, Rei do universo, fazei que todas as criaturas, libertas da escravidão e servindo à vossa majestade, vos glorifiquem eternamente. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

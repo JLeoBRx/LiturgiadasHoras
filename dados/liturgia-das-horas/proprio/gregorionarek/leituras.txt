@@ -1,0 +1,163 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/gregorionarek.htm
+@documento Ofício das Leituras - São Gregório De Narek, Abade E Doutor Da Igreja
+
+@celebracao
+SÃO GREGÓRIO DE NAREK, ABADE E DOUTOR DA IGREJA
+
+@biografia
+São Gregório (Antiga Armênia, por volta de 950 – Narek, 1005) ingressou muito cedo no Mosteiro de Narek, onde passou toda a sua vida. Gregório é venerado como santo pela Igreja Católica, especialmente a de rito armênio. Seus escritos teológicos, místicos e poéticos demonstram elevada sabedoria e também grande amor à Virgem Maria. Em 2015, numa Missa presidida pelo Papa Francisco, em memória de um milhão e meio de mártires armênios, São Gregório de Narek foi declarado Doutor da Igreja.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@rubrica
+Até o presente momento a Santa Sé ainda não aprovou os textos eucológicos em português do Brasil para a celebração de São Gregório de Narek na Liturgia das Horas. Assim, o texto aqui adotado é o da Conferência Portuguesa.
+
+@leitura
+Do Livro das Lamentações de São Gregório Narek, abade e doutor da Igreja.
+{(Séc. XI)} {(Oratio 70, III-IV: SCh 78, 369-370)}
+
+@tema
+Procurarei refúgio em Vós, ó Cristo
+
+@texto
+Uma vez que a humana virtude em ordem à salvação foi estabelecida e circunscrita, também por isso foi manifesto que eles experimentaram as tuas misericórdias, ó Autor dos benefícios. Por ti foram fortalecidos, ó Onipotente; por ti, para quem tudo é possível, foram chamados e enviados, ó Defensor; com o teu perdão eles se alegraram, ó Libertador; por ti, que não tens propensão para nenhuma fraqueza, foram vivificados, ó Incorrupto; e foram iluminados por ti, que és o seu Reformador. Por esta razão, conhecendo a minha natureza humana, procurarei refúgio em ti, ó Cristo, Filho do Deus vivo, e em tudo Bendito.
+Além disso, fazendo aqui menção da afirmação que bem se adapta a esta prece, comprova-se aquilo que antes eu escrevi: caiamos nas mãos do Senhor, e não nas mãos dos homens; tal qual é a sua grandeza, assim também a sua misericórdia.
+Com efeito, eu não procuro, neste meu Livro das Lamentações, diminuir o mérito daqueles que suplicam a salvação, porque sem méritos é impossível ir até Deus.
+Mas eu glorifico o Nome do Salvador e louvo a sua graça, a todos destinada. E com as minhas palavras professo que sempre foi necessário o remédio da tua misericórdia a todos os que pela sua vida boa ascenderam a grande honra.
+Tu és a Vida, tu a Salvação, tu o Vigor, tu a Imortalidade, tu a Felicidade, tu a Iluminação!
+Dá-me alívio da repugnância que eu sinto pelos meus pecados, e assim também tu possas descansar do meu pranto e das minhas importunas insistências que continuamente te dirijo, ó meu juiz!
+Na verdade, nada te alegra tanto como a salvação dos homens, ó Bendito pelos séculos. Amém.
+
+@secao Responsório | Sl 33 (34), 6.23; 2Tm 2, 22
+
+@responsorio
+R. Voltai-vos para Deus e ficareis radiantes, o vosso rosto não se cobrirá de vergonha.
+* O Senhor defende a vida dos seus servos, não serão castigados os que n’Ele se refugiam.
+V. Procura seguir a justiça, a fé, a caridade e a paz. * O Senhor.
+
+@secao Oração
+
+@oracao
+Ó Deus eterno e todo-poderoso, que vos dignastes infundir a sabedoria espiritual em São Gregório, mestre e honra do povo Armênio, concedei-nos aprender, por seu ensinamento, a arte de falar convosco e sustentar continuamente a nossa vida com os sacramentos da Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

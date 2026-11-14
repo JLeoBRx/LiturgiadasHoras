@@ -1,0 +1,43 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/pascoa/6sabadoPA.htm
+
+@secao Antífona da entrada | Cf. 1Pd 2,9
+@texto
+Povo adquirido por Deus,
+anunciai os grandes feitos
+daquele que vos chamou das trevas
+à sua luz maravilhosa, aleluia.
+
+@secao Coleta
+@texto
+Nós vos pedimos, Senhor:
+inspirai nossos corações à prática de boas obras,
+para que, buscando sempre o que é melhor,
+vivamos constantemente o mistério pascal.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, nós vos pedimos,
+santificai com benevolência estes dons
+e, aceitando a oblação do sacrifício espiritual,
+fazei de nós uma eterna oferenda para vós.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Jo 17,24
+@texto
+Pai, aqueles que me destes
+estejam comigo, onde eu estou,
+para que contemplem a minha glória,
+a glória que me destes, aleluia.
+
+@secao Depois da comunhão
+@texto
+Senhor,
+alimentados com os dons deste sagrado mistério,
+humildemente vos pedimos:
+a Eucaristia que vosso Filho
+nos mandou celebrar em sua memória
+nos faça crescer no amor.
+Por Cristo, nosso Senhor.

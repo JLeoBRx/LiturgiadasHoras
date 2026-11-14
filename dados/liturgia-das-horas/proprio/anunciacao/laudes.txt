@@ -1,0 +1,171 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/anunciacao_laudes.htm
+@documento Laudes - Anunciação do Senhor
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{(T.P.} Aleluia)
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Ó luz que o anjo traz à Virgem
+da salvação és mensageira.
+Vai se cumprir a profecia,
+de gozo enchendo a terra inteira.
+
+O que do Pai no eterno seio
+eternamente foi gerado,
+escolhe Mãe em nosso mundo,
+sujeito ao tempo, que é criado.
+
+Ele se esconde em carne humana,
+preço de nossa salvação,
+para que o sangue do inocente
+trouxesse aos crimes o perdão.
+
+Verdade, em carne concebida
+dum seio virgem sob o véu,
+a vossa luz é dada aos puros,
+dai-nos tal luz, que vem do céu.
+
+E vós, humilde coração,
+Serva de Deus vos proclamais,
+agora sois do céu Rainha,
+sede a patrona dos mortais.
+
+Glória e louvor a vós, Jesus,
+da Virgem Mãe por nós nascido,
+a vós, ao Pai e ao Espírito
+louvor eterno é devido.
+
+@secao Salmodia
+
+@antifona 1
+O anjo Gabriel foi enviado
+à esposa de José, Virgem Maria. {(T.P.} Aleluia)
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+O anjo Gabriel foi enviado
+à esposa de José, Virgem Maria. {(T.P.} Aleluia)
+
+@antifona 2
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre.
+{(T.P.} Aleluia)
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+És bendita entre todas as mulheres da terra,
+e bendito é o fruto que nasceu do teu ventre.
+{(T.P.} Aleluia)
+
+@antifona 3
+A Santa Virgem concebeu,
+dando o seu consentimento;
+permanecendo sempre virgem,
+deu à luz o Salvador. {(T.P.} Aleluia)
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+A Santa Virgem concebeu,
+dando o seu consentimento;
+permanecendo sempre virgem,
+deu à luz o Salvador. {(T.P.} Aleluia)
+
+@secao Leitura breve | Fl 2,6-7
+
+@texto
+Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. E encontrou-se com aspecto humano.
+
+@secao Responsório breve
+
+@responsorio
+R. Maria, alegra-te, ó cheia de graça;
+* O Senhor é contigo. R. Maria.
+V. És bendita entre todas as mulheres, e bendito é o fruto do teu ventre. * O Senhor.
+Glória ao Pai. R. Maria.
+
+{No Tempo pascal:}
+{R.} Maria, alegra-te, ó cheia de graça, o Senhor é contigo.
+* Aleluia, aleluia. R. Maria.
+V. És bendita entre todas as mulheres, e bendito é o fruto do teu ventre. * Aleluia.
+Glória ao Pai. R. Maria.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Pelo amor infinito com que Deus nos amou,
+enviou-nos seu Filho, numa carne semelhante
+à carne do pecado. {(T.P.} Aleluia)
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Pelo amor infinito com que Deus nos amou,
+enviou-nos seu Filho, numa carne semelhante
+à carne do pecado. {(T.P.} Aleluia)
+
+@secao Preces
+
+@preces
+A solenidade da Anunciação do Senhor, que hoje celebramos, marca o início da nossa salvação. Cheios de confiança, oremos a Deus Pai:
+
+R. **Interceda por nós a santa Mãe de Deus!**
+
+Assim como a Virgem Maria recebeu com alegria a mensagem do anjo,
+– fazei, ó Deus, que recebamos com gratidão o nosso Salvador. R.
+
+Assim como olhastes para a humildade de vossa serva,
+– lembrai-vos e tende compaixão de todos nós, Pai de misericórdia. R.
+
+Assim como Maria, a nova Eva, obedeceu plenamente à vossa Palavra divina,
+– cumpra-se também em nós a vossa vontade. R.
+
+Que a Santa Virgem Maria socorra os pobres, ajude os fracos, console os tristes,
+– reze pelo povo, proteja o clero e interceda pelas mulheres em seu devotamento. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, quisestes que vosso Verbo se fizesse homem no seio da Virgem Maria; dai-nos participar da divindade do nosso Redentor, que proclamamos verdadeiro Deus e verdadeiro homem. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

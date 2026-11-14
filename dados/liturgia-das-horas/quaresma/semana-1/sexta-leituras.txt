@@ -1,0 +1,120 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/1sexta_quaresma.htm
+@documento Ofício das Leituras - 1ª Semana Da Quaresma - Sexta-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-i
+
+@gloria
+
+@antifona
+Levantai-vos, ó Senhor, vinde logo em meu socorro!
+
+@antifona 2
+Defendei minha causa, Senhor poderoso!
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-ii
+
+@gloria
+
+@antifona
+Defendei minha causa, Senhor poderoso!
+
+@antifona 3
+Minha língua anunciará vossa justiça eternamente.
+
+@salmo salmos/salmo-034-1-2-3c-9-19-22-23-27-28-iii
+
+@gloria
+
+@antifona
+Minha língua anunciará vossa justiça eternamente.
+
+@texto
+V. Voltai ao Senhor vosso Deus.
+R. Ele é bom, compassivo e clemente!
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Êxodo {12,21-36}
+
+@tema
+A morte dos primogênitos
+
+@texto
+Naqueles dias, [21] Moisés convocou todos os anciãos de Israel e lhes disse: “Ide, tomai um animal para cada uma das vossas famílias, e imolai a vítima da Páscoa. [22] Tomai um ramo de hissopo, molhai-o no sangue que estiver na bacia, e aspergi com ele os dois marcos e a travessa das portas. Mas ninguém de vós saia fora da porta da sua casa até o amanhecer. [23] Quando o Senhor passar pelo Egito para castigá-lo, e vir sangue sobre os marcos e as travessas das portas, passará adiante de vossas portas e não deixará que o exterminador entre em vossas casas e faça dano. [24] Observareis este preceito como decreto perpétuo para vós e vossos filhos. [25] E, quando tiverdes entrado na terra que o Senhor vos há de dar, conforme prometeu, observareis este rito. [26] E quando vossos filhos vos perguntarem: ‘Que significa este rito?’, [27] respondereis: ‘É o sacrifício da Páscoa do Senhor, quando ele passou adiante das casas dos filhos de Israel no Egito, ferindo os egípcios e livrando as nossas casas’”. Então o povo, ouvindo isto, prostrou-se e adorou. [28] E, saindo dali, os filhos de Israel fizeram o que o Senhor tinha mandado a Moisés e Aarão. [29] Era meia-noite, quando o Senhor feriu todos os primogênitos na terra do Egito, desde o primogênito do Faraó, que se assentava em seu trono, até ao primogênito do prisioneiro que estava no cárcere, e a todos os primogênitos dos animais. [30] O Faraó levantou-se de noite, e com ele todos os seus servos e todos os egípcios, e houve um grande clamor no Egito, pois não havia casa onde não houvesse um morto. [31] O Faraó, chamando Moisés e Aarão de noite, disse: “Levantai-vos, saí do meio do meu povo, vós e os filhos de Israel; ide, oferecei sacrifícios ao Senhor, como dissestes. [32] Levai convosco também vossas ovelhas e vosso gado, como pedistes; e, despedi-vos de mim e saí”. [33] Os egípcios pressionavam o povo e insistiam com ele para que saísse depressa da sua terra, dizendo: “Morreremos todos!” [34] O povo teve de tomar a farinha amassada, antes que levedasse; e, envolvendo-a nas capas, a pôs sobre os ombros. [35] Além disso, os filhos de Israel fizeram o que Moisés lhes tinha dito, pedindo aos egípcios objetos de ouro e prata e grande quantidade de roupas. [36] O Senhor fez com que o povo encontrasse graça aos olhos dos egípcios, de maneira que estes lhes davam o que pediam; assim eles despojaram os egípcios.
+
+@secao Responsório | Cf. Ex 12,7.13; cf. 1Pd 1,18.19
+
+@responsorio
+R. Com o sangue do cordeiro marcareis
+os dois pórticos e os umbrais de vossas casas.
+* Este sangue servirá como sinal.
+V. Não foi nem com ouro, nem prata, que fostes remidos, irmãos; mas sim pelo sangue precioso de Cristo, o Cordeiro sem mancha. * Este sangue.
+
+@secao Segunda leitura
+
+@leitura
+Do “Espelho da Caridade”, do Bem-aventurado Elredo, abade
+{(Séc.XII)} {(Lib. 3,5: PL 195,582)}
+
+@tema
+O amor fraterno a exemplo de Cristo
+
+@texto
+Nada nos impele tanto ao amor dos inimigos – e é nisso que consiste a perfeição do amor fraterno – do que considerar com gratidão a admirável paciência de Cristo, _o mais belo dos filhos dos homens_ (Sl 44,3). Ele apresentou seu rosto cheio de beleza aos ultrajes dos ímpios; deixou-os velar seus olhos que governam o universo com um sinal; expôs seu corpo aos açoites; submeteu às pontadas dos espinhos sua cabeça, que faz tremer os principados e as potestades; entregou-se aos opróbrios e às injúrias; finalmente, suportou com paciência a cruz, os cravos, a lança, o fel e o vinagre, conservando em tudo a doçura, a mansidão e a serenidade. Depois, _como cordeiro levado ao matadouro ou como ovelha diante dos que a tosquiam, ele não abriu a boca_ (Is 53,7). Ao ouvir esta palavra admirável, cheia de doçura, cheia de amor e de imperturbável serenidade: _Pai, perdoa-lhes!_ (Lc 23,34), quem não abraçaria logo com todo o afeto os seus inimigos? Pai, perdoa-lhes!, disse Jesus. Poderá haver oração que exprima maior mansidão e caridade? Entretanto, Jesus não se contentou em pedir; quis ainda desculpar, e acrescentou: _Pai, perdoa-lhes! Eles não sabem o que fazem!_ (Lc 23,34). São, na verdade, grandes pecadores, mas não sabem avaliar a gravidade de seu pecado. Por isso, Pai, perdoa-lhes! Crucificaram-me, mas não sabem a quem crucificaram, porque, _se soubessem, não teriam crucificado o Senhor da glória_ (1Cor 2,8). Por isso, Pai, perdoa-lhes! Julgaram-me um transgressor da lei, um usurpador da divindade, um sedutor do povo. Ocultei-lhes a minha face, não reconheceram a minha majestade. Por isso, Pai, perdoa-lhes! Eles não sabem o que fazem! Por conseguinte, se o homem quer amar-se a si mesmo com amor autêntico, não se deixa corromper por nenhum prazer da carne. Para não sucumbir a essa concupiscência da carne, dirija todo o seu afeto à admirável humanidade do Senhor. Para encontrar mais perfeito e suave repouso nas delícias da caridade fraterna, abrace também com verdadeiro amor os seus inimigos. Mas, para que esse fogo divino não arrefeça diante das injúrias, contemple sem cessar, com os olhos do coração, a serena paciência de seu amado Senhor e Salvador.
+
+@secao Responsório | Is 53,12b; Lc 23,34
+
+@responsorio
+R. Ele próprio entregou a sua vida
+e deixou-se colocar entre os facínoras.
+* Tomou nossos pecados sobre si, intercedendo em favor dos pecadores.
+V. Jesus dizia, na cruz: Perdoai-lhes, ó Pai, pois não sabem o que fazem. * Tomou nossos.
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus, que vossos filhos e filhas se preparem dignamente para a festa da Páscoa, de modo que a mortificação desta Quaresma frutifique em todos nós. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

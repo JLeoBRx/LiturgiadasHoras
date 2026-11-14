@@ -1,0 +1,141 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoinacio.htm
+@documento Ofício das Leituras - Santo Inácio De Loyola, Presbítero Memória
+
+@celebracao
+SANTO INÁCIO DE LOYOLA, PRESBÍTERO
+{Memória}
+
+@biografia
+Nasceu em Loyola na Cantábria (Espanha), em 1491; viveu primeiramente na corte e seguiu a carreira militar. Depois, consagrando-se totalmente ao Senhor, estudou teologia em Paris, onde reuniu os primeiros companheiros com quem mais tarde fundou, em Roma, a Companhia de Jesus. Exerceu intensa atividade apostólica não apenas com seus escritos, mas formando discípulos que muito contribuíram para a reforma da Igreja. Morreu em Roma no ano de 1556.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Primeira Carta de São Pedro {5,1-11}
+
+@tema
+Deveres dos pastores e dos fiéis
+
+@texto
+[1] Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: [2] Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; [3] não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. [4] Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. [5] Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. [6] Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. [7] Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. [8] Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. [9] Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. [10] Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. [11] A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@secao Responsório | 1Cor 4,1-2; Pr 20,6
+
+@responsorio
+R. Considerem-nos os homens servidores do Senhor
+e administradores dos mistérios de Deus.
+* Aquilo que se espera de um administrador
+é que seja ele fiel.
+V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel?
+* Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+Da Narrativa autobiográfica de Santo Inácio, recolhida de viva voz pelo Padre Luís Gonçalves da Câmara
+{(Séc.XVI)} {(Cap.1,5-9:Acta Sanctorum Iulii,7 [1868],647)}
+
+@tema
+Provai os espíritos a ver se são de Deus
+
+@texto
+Inácio gostava muito de ler livros mundanos e romances que narravam supostos feitos heroicos de homens ilustres. Assim que se sentiu melhor, pediu que lhe dessem alguns deles, para passar o tempo. Mas não se tendo encontrado naquela casa nenhum livro deste gênero, deram-lhe um que tinha por título A vida de Cristo e outro chamado Florilégio dos Santos, ambos escritos na língua pátria. Com a leitura frequente desses livros, nasceu-lhe um certo gosto pelos fatos que eles narravam. Mas, quando deixava de lado essas leituras, entregava seu espírito a lembranças do que lera outrora; por vezes ficava absorto nas coisas do mundo, em que antes costumava pensar. Em meio a tudo isto, estava a divina providência que, através dessas novas leituras, ia dissipando os outros pensamentos. Assim, ao ler a vida de Cristo nosso Senhor e dos santos, punha-se a pensar e a dizer consigo próprio: “E se eu fizesse o mesmo que fez São Francisco e o que fez São Domingos?” E refletia longamente em coisas como estas. Mas sobrevinham-lhe depois outros pensamentos vazios e mundanos, como acima se falou, que também se prolongavam por muito tempo. Permaneceu nesta alternância de pensamentos durante um tempo bastante longo. Contudo, nestas considerações, havia uma diferença: quando se entretinha nos pensamentos mundanos, sentia imenso prazer; mas, ao deixá-los por cansaço, ficava triste e árido de espírito. Ao contrário, quando pensava em seguir os rigores praticados pelos santos, não apenas se enchia de satisfação, enquanto os revolvia no pensamento, mas também ficava alegre depois de os deixar. No entanto, ele não percebia nem avaliava esta diferença, até o dia em que se lhe abriram os olhos da alma, e começou a admirar-se desta referida diferença. Compreendeu por experiência própria que um gênero de pensamentos lhe trazia tristeza, e o outro, alegria. Foi esta a primeira conclusão que tirou das coisas divinas. Mais tarde, quando fez os Exercícios Espirituais, começou tomando por base esta experiência, para compreender o que ensinou sobre o discernimento dos espíritos.
+
+@secao Responsório | 1Pd 4,11.8a
+
+@responsorio
+R. Se alguém fala, que sejam palavras de Deus;
+se alguém serve, que seja com a força de Deus,
+* Para que em todas as coisas
+Deus seja louvado, através de Jesus.
+V. Mas acima de tudo tende amor duradouro
+de uns para os outros. * Para que.
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes em vossa Igreja Santo Inácio de Loyola para propagar a maior glória do vosso nome, fazei que, auxiliados por ele, imitemos seu combate na terra, para partilharmos no céu sua vitória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

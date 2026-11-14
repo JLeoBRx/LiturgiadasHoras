@@ -1,0 +1,89 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1segunda_nona.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+A lei do Senhor alegra o coração e ilumina os olhos.
+
+@antifona 2
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@salmo salmos/salmo-007-i
+
+@gloria
+
+@antifona
+O Senhor se erguerá para julgar
+os povos com justiça e retidão.
+
+@antifona 3
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@salmo salmos/salmo-007-ii
+
+@gloria
+
+@antifona
+Deus é juiz, ele julga com justiça,
+e salva os que têm reto coração.
+
+@secao Leitura breve | 1Pd 1,17b.18a.19
+
+@texto
+Vivei respeitando a Deus durante o tempo de vossa migração neste mundo. Sabeis que fostes resgatados não por meio de coisas perecíveis, como a prata ou o ouro, mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha nem defeito.
+
+@texto
+V. Libertai-me, ó Senhor, tende piedade!
+R. Ao Senhor eu bendirei nas assembleias.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos convocais para o louvor, na mesma hora em que os Apóstolos subiam ao templo, concedei que esta prece, feita de coração sincero em nome de Jesus, alcance a salvação para quantos o invocam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

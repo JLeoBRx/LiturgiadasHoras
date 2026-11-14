@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoagostinho.htm
+@documento Ofício das Leituras - Santo Agostinho, Bispo E Doutor Da Igreja Memória
+
+@celebracao
+SANTO AGOSTINHO, BISPO E DOUTOR DA IGREJA
+{Memória}
+
+@biografia
+Nasceu em Tagaste (África) no ano 354. Depois de uma juventude perturbada, quer intelectualmente quer moralmente, converteu-se à fé e foi batizado em Milão por Santo Ambrósio no ano 387. Voltou à sua terra e aí levou uma vida de grande ascetismo. Eleito bispo de Hipona, durante trinta e quatro anos foi perfeito modelo do seu rebanho e deu-lhe uma sólida formação cristã por meio de numerosos sermões e escritos, com os quais combateu fortemente os erros do seu tempo e ilustrou sabiamente a fé católica. Morreu no ano 430.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres, penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios, deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros, experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração, a dirigir-se ao Senhor que o criou, elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser, ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria, e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência, e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria, a qual jamais será esquecida. [13] Sua lembrança nunca se apagará, e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo. * Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Livros das Confissões, de Santo Agostinho, bispo
+{(Séc.V)} {(Lib. 7,10.18;10,27: CSEL 33,157-163.255)}
+
+@tema
+Ó eterna verdade e verdadeira caridade e cara eternidade!
+
+@texto
+Instigado a voltar a mim mesmo, entrei em meu íntimo, sob tua guia e o consegui, _porque tu te_ _fizeste meu auxílio_ (cf. Sl 29,11). Entrei e com certo olhar da alma, acima do olhar comum da alma, acima de minha mente, vi a luz imutável. Não era como a luz terrena e evidente para todo ser humano. Diria muito pouco se afirmasse que era apenas uma luz muito, muito mais brilhante do que a comum, ou tão intensa que penetrava todas as coisas. Não era assim, mas outra coisa, inteiramente diferente de tudo isto. Também não estava acima de minha mente como óleo sobre a água nem como o céu sobre a terra, mas mais alta, porque ela me fez, e eu, mais baixo, porque feito por ela. Quem conhece a verdade, conhece esta luz. Ó eterna verdade e verdadeira caridade e cara eternidade! Tu és o meu Deus, por ti suspiro dia e noite. Desde que te conheci, tu me elevaste para ver que quem eu via, era, e eu, que via, ainda não era. E reverberaste sobre a mesquinhez de minha pessoa, irradiando sobre mim com toda a força. E eu tremia de amor e de horror. Vi-me longe de ti, no país da dessemelhança, como que ouvindo tua voz lá do alto: “Eu sou o alimento dos grandes. Cresce e me comerás. Não me mudarás em ti como o alimento de teu corpo, mas tu te mudarás em mim”. E eu procurava o meio de obter forças, para tornar-me idôneo a te degustar e não o encontrava até que _abracei o mediador entre Deus e os homens, o homem Cristo Jesus_ (1Tm 2,5), _que é_ _Deus acima de tudo, bendito pelos séculos_ (Rm 9,5). Ele me chamava e dizia: _Eu sou o_ _caminho, a verdade e a vida_ (Jo 14,6). E o alimento que eu não era capaz de tomar se uniu à minha carne, pois _o Verbo se fez carne_ (Jo 1,14), para dar à nossa infância o leite de tua sabedoria, pela qual tudo criaste. Tarde te amei, ó beleza tão antiga e tão nova, tarde te amei! Eis que estavas dentro e eu, fora. E aí te procurava e lançava-me nada belo ante a beleza que tu criaste. Estavas comigo e eu não contigo. Seguravam-me longe de ti as coisas que não existiriam, se não existissem em ti. Chamaste, clamaste e rompeste minha surdez, brilhaste, resplandeceste e afugentaste minha cegueira. Exalaste perfume e respirei. Agora anelo por ti. Provei-te, e tenho fome e sede. Tocaste-me e ardi por tua paz.
+
+@secao Responsório
+
+@responsorio
+R. Ó luz e verdade do meu coração,
+que as trevas em mim não gritem mais alto!
+* Errei, mas voltei, lembrei-me de vós.
+Eis que volto à fonte, cansado e sedento.
+V. Não sou eu minha vida, pois por mim vivi mal;
+mas em vós eu renasço. * Errei.
+
+@secao Oração
+
+@oracao
+Renovai, ó Deus, na vossa Igreja aquele espírito com o qual cumulastes o bispo Santo Agostinho para que, repletos do mesmo espírito, só de vós tenhamos sede, fonte da verdadeira sabedoria, e só a vós busquemos, autor do amor eterno. Por nosso Senhor Jesus Cristo, vossoFilho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,68 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/catedra_comum_nona.htm
+@documento Hora Média - Cátedra de São Pedro, Apóstolo
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+É na vossa constância que salvareis vossas vidas.
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127-v2
+
+@gloria
+
+@antifona
+É na vossa constância que salvareis vossas vidas.
+
+@secao Leitura breve | 2Pd 1,16
+
+@texto
+Não foi seguindo fábulas habilmente inventadas que vos demos a conhecer o poder e a vinda de nosso Senhor Jesus Cristo, mas sim por termos sido testemunhas oculares da sua majestade.
+
+@texto
+V. Alegrai-vos e exultai, diz o Senhor,
+R. Pois no céu estão inscritos vossos nomes!
+
+@secao Oração
+
+@oracao
+Concedei, ó Deus todo-poderoso, que nada nos possa abalar, pois edificastes a vossa Igreja sobre aquela pedra que foi a profissão de fé do apóstolo Pedro. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

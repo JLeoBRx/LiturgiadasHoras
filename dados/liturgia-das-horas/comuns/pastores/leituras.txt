@@ -1,0 +1,389 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/comum_pastores_leituras.htm
+@documento Ofício das Leituras - Comum Dos Pastores Invitatório
+
+@celebracao
+COMUM DOS PASTORES Invitatório
+
+@biografia
+R. A Jesus Cristo, o Bom Pastor, oh! vinde, todos, adoremos. Salmo 94(95) Convite ao louvor de Deus Animai-vos uns aos outros, dia após dia, enquanto ainda se disser ‘hoje’ (Hb 3,13). –1Vinde, exultemos de alegria no Senhor, * aclamemos o Rochedo que nos salva! –2 Ao seu encontro caminhemos com louvores, * e com cantos de alegria o celebremos! (R.) –3 Na verdade, o Senhor é o grande Deus, * o grande Rei, muito maior que os deuses todos. –4 Tem nas mãos as profundezas dos abismos, * e as alturas das montanhas lhe pertencem; –5 o mar é dele, pois foi ele quem o fez, * e a terra firme suas mãos a modelaram. (R.) –6 Vinde adoremos e prostremo-nos por terra, * e ajoelhemos ante o Deus que nos criou! =7 Porque ele é o nosso Deus, nosso Pastor, † e nós somos o seu povo e seu rebanho, * as ovelhas que conduz com sua mão. (R.) =8 Oxalá ouvísseis hoje a sua voz: † “Não fecheis os corações como em Meriba, * 9 como em Massa, no deserto, aquele dia, – em que outrora vossos pais me provocaram, * apesar de terem visto as minhas obras”. (R.) =10Quarenta anos desgostou-me aquela raça † e eu disse: “Eis um povo transviado, * 11seu coração não conheceu os meus caminhos!” – E por isso lhes jurei na minha ira: * “Não entrarão no meu repouso prometido!” (R.) (Rezado): – Glória ao Pai e ao Filho e ao Espírito Santo. * Como era no princípio, agora e sempre. Amém. (Cantado): Demos glória a Deus Pai onipotente e a seu Filho, Jesus Cristo, Senhor nosso, † e ao Espírito que habita em nosso peito * pelos séculos dos séculos. Amém. R. A Jesus Cristo, o Bom Pastor, oh! vinde, todos, adoremos.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Para um pastor:
+
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+Para um papa:
+
+Vossas ovelhas, que a São Pedro destes
+para guardar, formando um só rebanho,
+ele as regeu, por vossa escolha ungido,
+e as protegeu contra qualquer estranho.
+
+Para um bispo:
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Para um presbítero:
+
+Feito por Deus ministro e sacerdote,
+associado ao vosso dom perfeito,
+bom despenseiro, foi por vós chamado
+a presidir o vosso povo eleito.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+Para diversos pastores:
+
+Ao celebrarmos, fiéis, este culto,
+dos sacerdotes na festa solene,
+em vossa honra os louvores ressoem,
+Cristo Jesus, sacerdote supremo!
+
+Por vosso dom, nossos padres puderam
+guiar os povos nas sendas da luz
+e lhes mostrar os caminhos da vida,
+como um pastor que o rebanho conduz.
+
+Nem a desgraça logrou demovê-los
+de se manterem constantes na fé.
+A esperança dos prêmios futuros
+dava-lhes força a lutarem de pé.
+
+Após os frágeis trabalhos da vida,
+tendo fielmente cumprido a missão,
+têm os seus tronos na pátria celeste,
+e paz profunda sem fim fruirão.
+
+Honra suprema, louvores e glória
+a vós, ó Deus, Rei dos reis, sejam dadas.
+Que vos celebrem, por todos os séculos,
+todas as coisas que foram criadas.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor.
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+
+@tema
+Para um papa ou um bispo:
+
+@texto
+Da Carta de São Paulo a Tito 1,7-11; 2,1-8 {_Doutrina do apóstolo sobre as qualidades_}
+{_e deveres dos bispos_} Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre os circuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras, ensinando o que não convém, movidos por ganância vergonhosa. [2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigi**ai** todo o re**ba**nho, que o Es**pí**rito Di**vi**no confi**ou**-vos como **bis**pos
+* Para cui**dar**, como pas**to**res, da I**gre**ja do Se**nhor**, que **e**le adqui**riu** pelo **san**gue de seu **Fi**lho.
+V. A**qui**lo que se es**pe**ra de um **ad**ministra**dor**,
+é que **se**ja ele fi**el**. * Para cui**dar**.
+{Para um presbítero:} Da Primeira Carta de São Pedro 5,1-11 {_Deveres dos pastores e dos fiéis_} 1 Exorto aos presbíteros que estão entre vós, eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que será revelada: 2Sede pastores do rebanho de Deus, confiado a vós; cuidai dele, não por coação, mas de coração generoso; não por torpe ganância, mas livremente; 3não como dominadores daqueles que vos foram confiados, mas antes, como modelos do rebanho. 4Assim, quando aparecer o pastor supremo, recebereis a coroa permanente da glória. 5Igualmente vós, jovens, sede submissos aos mais velhos. Revesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. 6Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. 7Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. 8Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. 9Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. 10Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros.11A ele pertence o poder, pelos séculos dos séculos. Amém. {Responsório 1Cor 4,1-2; Pr 20,6} R. Considerem-nos os homens servidores do Senhor e administradores dos mistérios de Deus. * Aquilo que se espera de um administrador é que seja ele fiel. V. Muitos se dizem “homens de bem”;
+mas onde está o homem fiel? * Aquilo.
+
+@secao Segunda leitura
+
+@leitura
+
+@tema
+Para um papa:
+
+@texto
+Dos Sermões de São Leão Magno, papa {_Permanece o que Cristo instituiu na pessoa de Pedro_} Se nos sentimos, caros fiéis, fracos e lentos no cumprimento das obrigações do nosso cargo, quando desejamos proceder com entusiasmo e coragem, somos impedidos pela fragilidade de nossa condição. Gozamos, porém, da incessante proteção do onipotente e eterno Sacerdote que, semelhante a nós e igual ao Pai, fez a divindade descer até à condição humana, elevando o homem à condição divina. Alegramo-nos, então, com justiça e santidade pelo que ele estabeleceu: pois, embora tendo delegado a muitos pastores o cuidado de suas ovelhas, nunca abandonou ele próprio a guarda do seu rebanho. Desta principal e eterna vigilância, vem-nos também a proteção do Apóstolo Pedro. De modo algum ele abandona a sua obra, como igualmente a solidez do alicerce sobre o qual se ergue o edifício de toda a Igreja, jamais abalado pelo peso do tempo que sobre ele repousa. Perene é a solidez daquela fé que foi louvada no Príncipe dos Apóstolos. E, assim como permanece o que Pedro acreditou acerca de Cristo, igualmente permanece o que Cristo instituiu na pessoa de Pedro. Permanece, portanto, o que a verdade dispôs: Pedro, fiel à fortaleza da pedra que recebeu, não abandona o leme da Igreja a ele confiado. Realmente, ele foi de tal modo colocado acima dos demais que, pelos nomes simbólicos que recebeu, podemos avaliar a sua união com Cristo. Com efeito, é chamado pedra, é declarado fundamento, é constituído porteiro do reino celeste, é designado juiz do que se deve ligar e desligar, permanecendo até nos céus a decisão de seus julgamentos. Ele desempenha agora com maior plenitude e poder as funções que lhe foram confiadas, realizando tudo o que lhe compete naquele e com aquele por quem é glorificado. Se, por conseguinte, fazemos e discernimos algo corretamente, se alguma coisa obtemos da misericórdia de Deus em nossas súplicas diárias, é graças às obras e aos méritos daquele cujo poder continua vivo e cuja autoridade fulgura nesta cátedra que é sua. Eis o que foi obtido, irmãos caríssimos, mediante aquela profissão de fé, inspirada por Deus Pai ao coração do Apóstolo. Ultrapassando todas as incertezas das opiniões humanas, obteve a solidez da pedra que força alguma jamais poderá abalar. Em verdade, na Igreja inteira, Pedro proclama todos os dias: _Tu és o Cristo, o Filho do Deus vivo_ (Mt 16,16). E toda língua que glorifica o senhor é movida pelo ensinamento desta palavra.
+
+@secao Responsório | Mt 16,18; Sl 47(48),9
+
+@responsorio
+R. Jesus disse, em seguida, a Simão: Tu és Pedro e sobre esta pedra
+eu irei construir minha Igreja.
+* E as portas do Inferno não irão derrotá-la.
+V. Deus fundou sua cidade e será para sempre.
+* E as portas.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Para um fundador de Igreja:
+
+@texto
+Do Tratado de Santo Hilário, bispo, sobre o Salmo 126 {_Deus constrói e vigia sua cidade_} _Se o Senhor não construir a casa, em vão trabalharão seus construtores_ (Sl 126,1). _Vós sois_ _o templo de Deus e o_ _Espírito de Deus mora em vós_ (cf. 1Cor 3,16). A casa a que se refere o salmo é o templo de Deus, repleto dos seus ensinamentos e do seu poder, digno de ser habitado pela santidade do seu coração. Sobre este templo assim testemunhava o profeta: _Santo é o vosso templo, admirável pela sua justiça_ (cf. Sl 64,5-6). A santidade, a justiça e o equilíbrio humano são um templo para Deus. Esta casa, portanto, deve ser construída por Deus. Se for construída pelo trabalho dos homens, não resistirá, nem se manterá seguindo as doutrinas do mundo, nem lhe bastarão os cuidados de nossa vigilância e solicitude. Deve ser construída de outro modo, guardada de maneira diferente, não alicerçada sobre a terra fofa ou sobre a areia movediça, mas sobre os profetas e os apóstolos. Crescerá com pedras vivas, apoiadas na pedra angular, edificada pela progressiva comunhão dos seus membros até atingir a estatura do homem perfeito e a medida do Corpo de Cristo. Seu adorno serão o esplendor e a beleza das graças espirituais. Edificada assim por Deus, isto é, pelos seus ensinamentos, não sofrerá ruína. Mas se multiplicará em muitas outras, segundo as diversas construções realizadas em nós, seus fiéis, para ornato e crescimento da cidade santa. O Senhor já era o guarda vigilante desta cidade ao proteger Abrão peregrino, ao preservar Isaque da imolação, ao enriquecer seu servo Jacó, ao exaltar José vendido como escravo, ao fortalecer Moisés contra o Faraó, ao escolher Josué para a conquista da terra, ao livrar Davi de todos os perigos, ao conceder a Salomão o dom da sabedoria, ao inspirar os profetas, ao arrebatar Elias, ao escolher Eliseu, ao alimentar Daniel, ao salvar os três jovens da fornalha ardente juntando-se a eles. Como também quando, por um anjo, revela a José que iria nascer da Virgem, quando protege Maria, quando envia João como precursor, quando escolhe os apóstolos, quando ora por eles, dizendo: _Pai santo, guarda-os; quando eu estava com eles, guardava-os em teu nome_ (Jo 17,11.12). Enfim, é ainda o guarda vigilante quando, depois da Paixão, nos promete a sua eterna proteção, nestes termos: _Eis que estarei convosco todos os dias_, _até o fim do mundo_ (Mt 28,20). É ele quem guarda eternamente aquela bem-aventurada e santa cidade que, formada por muitos e presente em cada um, constitui a cidade de Deus. Esta cidade deve ser construída pelo Senhor, para que cresça até à perfeição. Pois, o começo de um edifício não é ainda o seu término, mas pela contínua construção atinge-se a perfeição final.
+
+@secao Responsório | 1Pd 2,4-5; Sl 117(118),22
+
+@responsorio
+R. Aproximai-vos do Senhor, a Pedra viva,
+* E quais outras pedras vivas, também vós, construí-vos como casa espiritual; dedicai-vos a um santo sacerdócio, oferecendo sacrifícios espirituais, agradáveis a Deus Pai, por Jesus Cristo.
+V. A pedra, que os pedreiros rejeitaram,
+tornou-se agora a pedra angular.* E quais outras.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Ou, especialmente para um bispo:
+
+@texto
+Dos Sermões de São Fulgêncio de Ruspe, bispo {_O administrador fiel e prudente_} Pergunta o Senhor, querendo determinar melhor o papel dos servos que colocou à frente do seu povo: _Quem é o administrador fiel e prudente que o senhor vai colocar à frente de sua família para dar a medida de trigo a todos na hora certa? Feliz o servo que o senhor, ao chegar, encontrar agindo assim!_ (Lc 12,42-43). Irmãos, quem é este senhor? Sem dúvida, o Cristo, que disse aos seus discípulos: _Vós me chamais Mestre e Senhor, e dizeis bem, pois eu o sou_ (Jo 13,13). E qual a família deste senhor? Evidentemente aquela que o Senhor resgatou das mãos do inimigo e colocou sob o seu poder. Esta família é a santa Igreja católica, que se faz presente por toda a terra com extraordinária fecundidade, gloriando-se de ter sido resgatada pelo sangue precioso do seu Senhor. _O Filho do Homem_, como ele disse, _não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos_ (Mt 20,28). Ele é também o bom pastor que deu a vida por suas ovelhas. O rebanho do bom pastor é, portanto, a própria família do Redentor. Mas quem é o administrador que deve ser fiel e ao mesmo tempo prudente? Mostra-nos o Apóstolo Paulo, quando diz, falando de si e de seus companheiros: _Que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. A este respeito, o que se exige dos administradores é que sejam fiéis_ (1Cor 4,1-2). Para que nenhum de nós julgue que somente os Apóstolos foram constituídos administradores, e, negligenciando o dever da milícia espiritual, venha a adormecer como servo preguiçoso, infiel e imprudente, o mesmo Apóstolo afirma que os bispos também são administradores: _É preciso que o bispo, como administrador da casa de Deus, seja irrepreensível!_ (Tt 1,7). Somos, pois, servos do pai de família, somos administradores da casa do Senhor; e recebemos a medida de trigo que havemos de dar-vos. Se queremos saber qual é essa medida de trigo, também o santo Apóstolo Paulo no-lo indica, dizendo: _Conforme a medida da fé que Deus repartiu a cada um_ (Rm 12,3). Ao que Cristo chama medida de trigo, Paulo chama medida da fé, para reconhecermos que não há outro trigo espiritual senão o venerável mistério da fé cristã. Esta medida de trigo é que vos damos em nome do Senhor todas as vezes que, iluminados pelo dom da graça espiritual, ensinamos de acordo com a regra da verdadeira fé. E vós recebeis dos administradores da casa do Senhor essa medida de trigo sempre que ouvis dos servos de Deus a palavra da verdade.
+
+@secao Responsório | Mt 25,21.20
+
+@responsorio
+R. Muito bem, servo bom e fiel, porque foste fiel sobre o pouco,
+sobre o muito te colocarei:
+* Vem entrar na alegria de Deus!
+V. Confiastes-me cinco talentos;
+eis aqui, eu lucrei outros cinco. * Vem entrar.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Para um presbítero:
+
+@texto
+Do Decreto _Presbyterorum ordinis_ sobre o ministério e a vida dos presbíteros, do Concílio Vaticano II {_A vocação dos presbíteros à perfeição_} Pelo sacramento da Ordem, os presbíteros são configurados com Cristo sacerdote, na qualidade de ministros da Cabeça, para construir e edificar todo o seu corpo que é a Igreja, como cooperadores da ordem episcopal. De fato, já pela consagração do batismo receberam, como todos os cristãos, o sinal e o dom de tão grande vocação e graça para que, apesar da fraqueza humana, possam e devam procurar a perfeição, segundo a palavra do Senhor: _Sede perfeitos como o vosso Pai celeste é perfeito_ (Mt 5,48). Os sacerdotes, porém, estão obrigados por especial motivo a atingir tal perfeição, uma vez que, consagrados a Deus de modo novo pela recepção do sacramento da Ordem, se transformaram em instrumentos vivos de Cristo, eterno Sacerdote, a fim de poderem continuar através dos tempos sua obra admirável que reuniu com suma eficiência toda a família humana. Como, pois, cada sacerdote, a seu modo, faz as vezes da própria pessoa de Cristo, é também enriquecido por uma graça especial, para que, no serviço dos homens a ele confiados e de todo o povo de Deus, possa alcançar melhor a perfeição daquele a quem representa, e para que veja a fraqueza do homem carnal curada pela santidade daquele que por nós se fez Pontífice _santo, inocente, sem mancha, separado dos pecadores_ (Hb 7,26). Cristo, a quem o Pai santificou, ou melhor, consagrou e enviou ao mundo, _se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem_ (Tt 2,1), e assim, pela Paixão, entrou na sua glória. De modo semelhante, os presbíteros, consagrados pela unção do Espírito Santo e enviados por Cristo, mortificam em si mesmos as obras da carne e dedicam-se totalmente ao serviço dos homens, e assim podem progredir na santidade pela qual foram enriquecidos em Cristo, até atingirem a estatura do homem perfeito. Deste modo, exercendo o ministério do Espírito e da justiça, se forem dóceis ao Espírito de Cristo que os vivifica e dirige, firmam-se na vida espiritual. Pelas próprias ações sagradas de cada dia, como também por todo o seu ministério, exercido em comunhão com o bispo e com os outros presbíteros, eles mesmos se orientam para a perfeição da vida. A santidade dos presbíteros, por sua vez, contribui muitíssimo para o desempenho frutuoso do próprio ministério; pois, embora a graça divina possa realizar a obra da salvação também por meio de ministros indignos, contudo Deus prefere, segundo a lei ordinária, manifestar as suas maravilhas através daqueles que, dóceis ao impulso e direção do Espírito Santo, pela sua íntima união com Cristo e santidade de vida, podem dizer com o Apóstolo: _Eu vivo, mas não eu, é Cristo que vive em mim_ (Gl 2,20).
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós, que teria vos dado não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós. * Pois é tanto.
+
+@rubrica
+Ou:
+
+@leitura
+
+@tema
+Para um missionário:
+
+@texto
+Do Decreto _Ad gentes_ sobre a atividade missionária da Igreja, do Concílio Vaticano II {_Ide e fazei discípulos meus todos os povos_} O Senhor Jesus, antes de entregar livremente a sua vida pelo mundo, dispôs de tal forma o ministério apostólico e prometeu o Espírito Santo, que ambos ficaram associados na obra da salvação, a se realizar sempre e em toda parte. É o Espírito Santo que, no decurso dos tempos, unifica a Igreja inteira, na comunhão e no ministério, dotando-a com diversos dons hierárquicos e carismáticos, vivificando as instituições eclesiásticas, como alma delas, e infundindo nos corações dos fiéis o mesmo espírito da missão que movia o próprio Cristo. Por vezes, chega a antecipar visivelmente a ação apostólica; e a acompanha e dirige incessantemente e de vários modos. O Senhor Jesus, desde o início, _chamou a si os que ele quis e designou Doze, para que ficassem com ele e para enviá-los a pregar_ (Mc 3,13-14). Desta maneira, os apóstolos foram as sementes do novo Israel e ao mesmo tempo a origem da hierarquia sagrada. Depois de ter, por sua morte e ressurreição, realizado de uma vez por todas em si mesmo os mistérios da nossa salvação e da renovação de todas as coisas, o Senhor recebeu todo o poder no céu e na terra; e, antes de subir ao céu, fundou a sua Igreja como sacramento da salvação, e enviou os apóstolos pelo mundo inteiro tal como ele havia sido enviado pelo Pai, ordenando-lhes: _Ide e fazei discípulos meus todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo, e ensinando-os a observar tudo o que vos ordenei!_ (Mt 28,19-20). A partir de então, compete à Igreja o dever de propagar a fé e a salvação trazidas por Cristo, seja em virtude do mandamento expresso, transmitido pelos apóstolos ao colégio dos bispos, assistidos pelos presbíteros, em união com o sucessor de Pedro e supremo Pastor da Igreja; seja em virtude da vida que Cristo infunde em seus membros. Portanto, a missão da Igreja se realiza quando, obediente ao preceito de Cristo e movida pela graça e pela caridade do Espírito Santo, ela se torna plenamente presente a todos os homens e povos; sua finalidade é de conduzi-los, pelo exemplo da vida e pela pregação, pelos sacramentos e outros meios da graça, à fé, à liberdade e à paz de Cristo. Deste modo, abre-se diante deles o caminho firme e seguro para participarem totalmente no mistério de Cristo.
+
+@secao Responsório | Mc 16,15-16; Jo 3,5
+
+@responsorio
+R. Ide por todo o mundo, a todos pregai o Evangelho;
+* Quem crer e aceitar o batismo de Cristo,
+este há de ser salvo.
+V. Que não renascer da água e do Espírito,
+não pode entrar no Reino de Deus. * Quem crer.
+Nas solenidades e festas diz-se o
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+{Não havendo oração própria, diz-se uma das seguintes:}
+
+@rubrica
+Para um papa:
+
+@texto
+Deus eterno e todo-poderoso, quisestes que são (sto.) {N.} governasse todo o vosso povo, servindo-o pela palavra e pelo exemplo. Guardai, por suas preces, os pastores de vossa Igreja e as ovelhas a eles confiadas, guiando-os no caminho da salvação eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um bispo:
+
+@texto
+Ó Deus, que aos vossos pastores associastes são (sto.) {N.}, animado de ardente caridade e da fé que vence o mundo, dai-nos, por sua intercessão, perseverar na caridade e na fé, para participarmos de sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um fundador de Igreja:
+
+@texto
+Ó Deus, que pela pregação de são (sto.) {N.} chamastes os nossos pais à luz do Evangelho, fazei-nos, por sua intercessão, crescer continuamente na graça e no conhecimento de nosso Senhor Jesus Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@rubrica
+Para um pastor:
+
+@texto
+Ó Deus, luz dos que creem e pastor de nossas almas, que colocastes são (sto.) {N.} à frente da vossa Igreja, para formar os fiéis pela palavra e pelo exemplo, concedei-nos, por sua intercessão, guardar a fé que ensinou pela palavra e seguir o caminho que mostrou com sua vida. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Ou:
+
+@texto
+Ó Deus, que enriquecestes são (sto.) {N.} com o espírito de verdade e de amor para apascentar o vosso povo, concedei-nos, celebrando sua festa, seguir sempre mais o seu exemplo, sustentados por sua intercessão. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@rubrica
+Para um missionário:
+
+@texto
+Ó Pai, pela vossa misericórdia, são (sto.) {N.} anunciou as insondáveis riquezas de Cristo. Concedei-nos, por sua intercessão, crescer no vosso conhecimento e viver na vossa presença segundo o Evangelho, frutificando em boas obras. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

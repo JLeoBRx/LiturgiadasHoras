@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/1quartapascoa_nona.htm
+@documento Hora Média - Nona - Quarta-feira da 1ª Semana da Páscoa
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Esta hora brilhou e, esplendente,
+afastou toda nuvem da cruz.
+Despojando das trevas o mundo,
+restitui às nações nova luz.
+
+Nesta hora Jesus ressuscita
+do sepulcro os que haviam morrido
+e, a morte vencendo, eles saem
+com um novo espírito infundido.
+
+Temos fé nessa aurora dos tempos,
+das cadeias da morte libertos,
+e nas graças da vida, que jorram
+como fonte a correr nos desertos.
+
+Glória a vós, que vencestes a morte,
+e no céu com o Pai, Sumo Bem,
+refulgindo na glória do Espírito
+reinais hoje e nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Se com Cristo ressurgistes,
+procurai o que é do alto. Aleluia..
+
+@salmo salmos/salmo-118-9-16-ii-beth-v3
+
+@gloria
+
+@salmo salmos/salmo-027-1-3-6-9
+
+@gloria
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+Se com Cristo ressurgistes,
+procurai o que é do alto. Aleluia.
+
+@secao Leitura breve | Cf. Ef 4,23-24
+
+@texto
+Renovai o vosso espírito e a vossa mentalidade. Revesti o homem novo, criado à imagem de Deus, em verdadeira justiça e santidade.
+
+@texto
+V. Este é o dia que o Senhor fez para nós. Aleluia.
+R. Alegremo-nos e nele exultemos. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus, que nos alegrais todos os anos com a solenidade da ressurreição do Senhor, concedei-nos, pelas festas que celebramos nesta vida, chegar às eternas alegrias. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

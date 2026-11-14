@@ -1,0 +1,75 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/30segundaTC.htm
+@documento Ofício das Leituras - SEGUNDA-FEIRA
+
+@titulo SEGUNDA-FEIRA / IV Semana do Saltério / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro da Sabedoria {1,16–2,1a.10-24}
+
+@tema
+As maquinações dos ímpios contra o justo
+
+@texto
+[1,16] Os ímpios chamam a morte com gestos e palavras; considerando-a amiga, desejam-na com paixão, fazem aliança com ela: merecem ser do seu partido. [2,1] Dizem entre si, em seus falsos raciocínios: [10] "Oprimamos o justo pobre, e não poupemos as viúvas nem respeitemos os cabelos brancos do ancião. [11] Que a nossa força seja o critério da justiça, pois a fraqueza se apresenta, com certeza, inútil. [12] Armemos ciladas ao justo, porque sua presença nos incomoda: ele se opõe ao nosso modo de agir, repreende em nós as transgressões da lei e nos reprova as faltas contra a nossa disciplina. [13] Ele declara possuir o conhecimento de Deus e chama-se 'Filho de Deus'. [14] Tornou-se uma censura aos nossos pensamentos e só o vê-lo nos é insuportável; [15] sua vida é muito diferente da dos outros, e seus caminhos são imutáveis. [16] Somos comparados por ele à moeda falsa e foge de nossos caminhos como de impurezas; proclama feliz a sorte final dos justos e gloria-se de ter a Deus por pai. [17] Vejamos, pois, se é verdade o que ele diz, e comprovemos o que vai acontecer com ele. [18] Se, de fato, o justo é 'filho de Deus', Deus o defenderá e o livrará das mãos dos seus inimigos. [19] Vamos pô-lo à prova com ofensas e torturas, para ver a sua serenidade e provar a sua paciência; [20] vamos condená-lo à morte vergonhosa, porque, de acordo com suas palavras, virá alguém em seu socorro". [21] Tais são os pensamentos dos ímpios, mas enganam-se; pois a malícia os torna cegos, [22] não conhecem os segredos de Deus, não esperam recompensa para a santidade e não dão valor ao prêmio reservado às vidas puras. [23] Deus criou o homem para a imortalidade e o fez à imagem de sua própria natureza; [24] foi por inveja do diabo que a morte entrou no mundo, e experimentam-na os que a ele pertencem.
+
+@secao Responsório | Sb 2,1a.12a.13b.17a.18; Mt 27,43
+
+@responsorio
+R. Disseram os ímpios: Cerquemos o justo,
+pois ele é contrário aos nossos projetos;
+diz ser filho de Deus.
+* Vejamos, portanto, se são verdadeiras as suas palavras;
+se ele em verdade for filho de Deus,
+este há de livrá-lo dos seus adversários.
+V. Em Deus confiou, que venha livrá-lo,
+se realmente o ama;
+pois ele afirmou: sou Filho de Deus. * Vejamos.
+
+@secao Segunda leitura
+
+@leitura
+Da Carta aos coríntios, de São Clemente I, papa
+{(Séc. I)}{(Cap. 21,1-22,5; 23,1-2: Funk 1,89-93)}
+
+@tema
+Não sejamos desertores da vontade de Deus
+
+@texto
+Tomai cuidado, diletos, para que os benefícios de Deus, tão numerosos, não se tornem condenação para todos nós, se não vivermos para ele de modo digno e não realizarmos em concórdia o que é bom e aceito diante de sua face. Pois foi dito em algum lugar: _O Espírito do Senhor é lâmpada que perscruta as cavernas das entranhas_ (Pr 20,27 Vulg.).
+
+@texto
+Consideremos quão próximo está e que nada lhe é oculto de nossos pensamentos e palavras. É, portanto, justo que não sejamos desertores de sua vontade. É preferível ofendermos os homens estultos e insensatos, soberbos e presunçosos na jactância de seu modo de falar, do que a Deus.
+
+@texto
+Veneremos o Senhor Jesus, cujo sangue foi derramado por nós, respeitemos nossos superiores, honremos os anciãos, eduquemos os jovens na disciplina do temor de Deus, encaminhemos nossas esposas para todo o bem. Manifestem o amável procedimento de castidade, mostrem seu puro e sincero propósito de mansidão, pelo silêncio deem a conhecer a moderação da língua, tenham igual caridade sem acepção de pessoas para com aqueles que santamente temem a Deus.
+
+@texto
+Participem vossos filhos da ciência de Cristo. Aprendam que grande valor tem para Deus a humildade, o poder da casta caridade junto de Deus, como é bom e imenso seu temor, protegendo a todos que nele se demoram na santidade de um coração puro. Porque ele é o perscrutador dos pensamentos e resoluções da mente. Seu Espírito está em nós, e, quando quer, retira-o.
+
+@texto
+A fé em Cristo tudo confirma. Ele, pelo Espírito Santo, nos incita: _Vinde, filhos, ouvi-me; ensinar-vos-ei o temor do Senhor. Qual é o homem que quer a vida e deseja ver dias bons? Afasta tua língua do mal e não profiram teus lábios a mentira. Desvia-te do mal e faze o bem. Busca a paz e persegue-a_ (Sl 33,12-15).
+
+@texto
+Misericordioso em tudo, o Pai benigno tem amor pelos que o temem, concede com bondade e doçura suas graças àqueles que se lhe aproximam com simplicidade. Por isso não sejamos fingidos nem insensíveis a seus dons gloriosos.
+
+@secao Responsório | Cf. Tb 4,19a; 14,8b
+
+@responsorio
+R. Bendize em todo o tempo ao Senhor Deus
+e pede que oriente teus caminhos,
+* E teus planos permaneçam sempre nele.
+V. Empenha-te em fazer o que lhe agrada,
+fielmente, e com toda a tua força. * E teus planos.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e dai-nos amar o que ordenais para conseguirmos o que prometeis. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

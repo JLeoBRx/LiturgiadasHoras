@@ -1,0 +1,162 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santoisidoro.htm
+@documento Ofício das Leituras - Santo Isidoro, Bispo E Doutor Da Igreja
+
+@celebracao
+SANTO ISIDORO, BISPO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Sevilha (Espanha) cerca do ano 560. Depois da morte do pai, foi educado por seu irmão São Leandro, a quem sucedeu na sede episcopal da sua cidade natal, onde desenvolveu uma grande atividade pastoral e literária. Escreveu muitos livros cheios de erudição, convocou e presidiu vários concílios na Espanha, nos quais foram tomadas muitas medidas sábias para o bem da Igreja. Morreu em 636.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios.
+R. E haverás de transmitir-lhes em meu nome.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico 39,1b-14
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias. [2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas. [3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas. [4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam. [5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens. [6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo. [7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados. [8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência. [9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor. [10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos. [11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor. [12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida. [13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração. [14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos livros das Sentenças, de Santo Isidoro, bispo
+{(Séc. VII)} {(Lib. 3,8-10: PL 83,679-682)}
+
+@tema
+Homem instruído no reino dos céus
+
+@texto
+A oração nos purifica, a leitura nos instrui. Pratiquemos uma e outra coisa, porque ambas são boas. Mas se isso não for possível, é melhor orar do que ler.
+Quem deseja estar sempre com Deus, deve orar e ler frequentemente. Quando oramos, falamos com Deus; mas quando lemos, é Deus que fala conosco.
+Todo o nosso progresso provém da leitura e da meditação. Pela leitura aprendemos o que ignorávamos; e o que aprendemos, conservamos pela meditação.
+É duplo o proveito que tiramos da leitura da Sagrada Escritura: ilumina nossa inteligência e, afastando-nos das vaidades do mundo, leva-nos ao amor de Deus.
+Dupla deve ser também a preocupação com o que devemos ler: primeiramente, procurar compreender a Escritura; depois, explicá-la com a devida reverência para proveito do próximo. Evidentemente, só quem procura compreender o que leu estará apto para explicar o que aprendeu.
+O leitor diligente pensa mais em praticar o que lê do que em adquirir ciência. Pois é um mal menor não saberes o que desejas do que não cumprires o que sabes. Da mesma forma, assim como lemos para compreender o que é reto, devemos, em seguida, pôr em prática o que compreendemos.
+Ninguém pode descobrir o sentido da Sagrada Escritura se não se familiarizar com a sua leitura, como está escrito: _Estima-a, e ela te honrará; se a abraçares, ela será tua glória_ (Pr 4,8).
+Quanto mais assíduos formos na leitura da Palavra de Deus, tanto melhor a compreenderemos, à semelhança da terra: quanto melhor é cultivada, tanto mais frutifica.
+Há alguns que têm boa inteligência, mas são negligentes em ler os textos sagrados; o seu desinteresse mostra o desprezo por aquilo que a leitura lhes poderia ensinar. Há outros, porém, que desejam saber, mas têm pouca inteligência. Estes, no entanto, através de uma leitura assídua, conseguem aprender aquilo que os mais inteligentes, pela sua preguiça, nunca aprenderão.
+Como o menos inteligente consegue, por sua aplicação, recolher o fruto do estudo diligente, aquele que menospreza a inteligência que Deus lhe deu torna-se réu de condenação, porque despreza um dom recebido e o deixa sem fruto.
+A doutrina que não é auxiliada pela graça de Deus entra pelos ouvidos, mas não chega ao coração; faz ruído exteriormente, mas interiormente não aproveita ao espírito. A palavra de Deus só desce dos ouvidos para o íntimo do coração quando a graça de Deus tocar a inteligência para fazê-la compreender.
+
+@secao Responsório | Mt 13,52; cf. Pr 14,33
+
+@responsorio
+R. Todo mestre da lei
+que se torna discípulo do Reino dos céus,
+* É como um pai de família:
+do seu tesouro ele tira o novo e o velho {(T.P.} Aleluia).
+V. No coração do prudente está a sabedoria
+e ela há de ensinar também àqueles que a ignoram. * É como.
+
+@secao Oração
+
+@oracao
+Ouvi, ó Deus, as nossas preces na comemoração de Santo Isidoro, para que sua intercessão ajude a Igreja, por ele alimentada com a vossa doutrina. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

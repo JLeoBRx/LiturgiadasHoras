@@ -1,0 +1,159 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/santajoanadechantal.htm
+@documento Ofício das Leituras - Santa Joana Francisca De Chantal, Religiosa
+
+@celebracao
+SANTA JOANA FRANCISCA DE CHANTAL, RELIGIOSA
+
+@biografia
+Nasceu em Dijon (França), no ano de 1572. Casou-se com o barão de Chantal, e foi mãe de seis filhos, os quais educou na piedade. Após a morte do marido, levou uma admirável vida de perfeição, sob a direção de S. Francisco de Sales, praticando especialmente a caridade para com os pobres e enfermos. Fundou a Ordem da Visitação, que governou com sabedoria. Morreu em 1641.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Senhor, a vós cantamos
+um hino de louvor,
+louvando a vossa santa
+perfeita servidora.
+
+Fiel seguiu a Cristo,
+deixando as alegrias,
+riquezas e prazeres
+que o mundo oferecia.
+
+Humilde, obediente,
+a vós se consagrou;
+do corpo a castidade
+por Cristo conservou.
+
+Buscou a vossa glória,
+unida a vós somente,
+com todo o ser entregue
+do amor ao fogo ardente.
+
+A vós na terra presa
+por grande caridade,
+no céu, feliz, triunfa
+por toda a eternidade.
+
+Seguindo o seu exemplo,
+possamos caminhar
+e um dia, a vós, Trindade,
+louvor sem fim cantar.
+
+@secao Salmodia
+
+@antifona 1
+A vida ele pediu, e vós lhe destes;
+de esplendor e majestade o revestistes.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+A
+
+@antifona 2
+O caminho do justo é uma luz a brilhar:
+vai crescendo da aurora até o dia mais pleno.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+O caminho do justo é uma luz a brilhar:
+
+@antifona 3
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+O homem justo crescerá como a palmeira,
+florirá igual ao cedro que há no Líbano.
+
+@texto
+V. O Senhor conduz o justo em seu caminho.
+R. E lhe revela os segredos do seu reino.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Filipenses {3,7–4,1.4-9}
+
+@tema
+Alegrai-vos sempre no Senhor
+
+@texto
+Irmãos: [3,7] Essas coisas, que eram vantagens para mim, considerei-as como perda, por causa de Cristo. [8] Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, [9] não com minha justiça provinda da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé. [10] Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, [11] para ver se alcanço a ressurreição dentre os mortos. [12] Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus.
+
+[13] Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. [14] Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus.
+
+[15] É assim que, enquanto perfeitos, devemos sentir e pensar. E se tiverdes um outro modo de sentir, Deus vos revelará o seu pensamento a esse respeito.
+
+[16] Entretanto, onde quer que já tenhamos chegado, caminhemos na mesma direção.
+
+[17] Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. [18] Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. [19] O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. [20] Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo. [21] Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+[4,1] Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor.
+[4] Alegrai-vos sempre no Senhor; eu repito, alegrai-vos. [5] Que a vossa bondade seja conhecida de todos os homens! O Senhor está próximo! [6] Não vos inquieteis com coisa alguma, mas apresentai as vossas necessidades a Deus, em orações e súplicas, acompanhadas de ação de graças. [7] E a paz de Deus, que ultrapassa todo o entendimento, guardará os vossos corações e pensamentos em Cristo Jesus.
+
+[8] Quanto ao mais, irmãos, ocupai-vos com tudo o que é verdadeiro, respeitável, justo, puro, amável, honroso, tudo o que é virtude ou de qualquer modo mereça louvor. [9] Praticai o que aprendestes e recebestes de mim, ou que de mim vistes e ouvistes. Assim o Deus da paz estará convosco.
+
+@secao Responsório | Lc 12,35-36a; Mt 24,42
+
+@responsorio
+R. Estai de prontidão, cingi os vossos rins
+e trazei em vossas mãos as lâmpadas acesas.
+* E sede semelhantes a empregados, que esperam
+voltar o seu senhor das festas nupciais.
+V. Portanto, vigiai, pois não sabeis o dia
+em que o Senhor há de chegar. * E sede.
+
+@secao Segunda leitura
+
+@leitura
+Das Memórias de Santa Joana Francisca, escritas por uma religiosa, sua secretária
+{(Séc.XVII)} {(Françoise-Madeleine de Chaugy, Mémoires sur la vie et les vertus de Sainte J.-F. de Chantal, III, 3: 3ª ed., Paris 1853, p. 306-307)}
+
+@tema
+O amor é forte como a morte
+
+@texto
+Certo dia, Santa Joana disse estas fervorosas palavras, logo fielmente recolhidas: “Filhas diletíssimas, muitos dos nossos santos Padres e colunas da Igreja não sofreram o martírio; sabeis dizer-me por que razão?” Após a resposta de cada uma, disse a santa Madre: “Quanto a mim, creio que isto aconteceu assim, por haver outro martírio que se chama martírio de amor, em que Deus, conservando em vida seus servos e servas a fim de trabalharem para sua glória, os faz ao mesmo tempo mártires e confessores. Sei que, por disposição divina – acrescentou – as filhas da Visitação são chamadas a este martírio com o mesmo ardor que levou a afrontá-lo aquelas servas mais afortunadas.
+À pergunta de uma irmã sobre o modo como poderá se realizar este martírio, respondeu: “Abri-vos inteiramente à vontade de Deus e tereis a prova. O amor divino mergulha sua espada até o mais íntimo e secreto de nossas almas, e separa-nos de nós mesmas. Conheci uma alma a quem o amor separou de tudo quanto lhe agradava, como se o golpe dado pela espada de um tirano lhe tivesse separado o espírito do corpo”.
+Percebemos que falara de si mesma. Tendo outra irmã indagado quanto tempo duraria esse martírio, explicou: “Desde o momento em que nos entregamos a Deus sem reservas, até o fim da vida. No entanto, isto só diz respeito às pessoas magnânimas, que, renunciando completamente a si mesmas, são fiéis ao amor; os fracos e inconstantes no amor, nosso Senhor não os leva pelos caminhos do martírio, mas deixa-os viver a passos lentos, para que não se afastem dele; pois nunca força a livre vontade”.
+Quando, por fim, lhe foi perguntado se este martírio de amor poderia ser igualado ao martírio do corpo, respondeu: “Não nos preocupemos com a questão da igualdade, muito embora eu julgue que um não ceda ao outro, _porque o amor é forte como a morte_ (Ct 8,6). E ainda porque os mártires de amor sofrem dores mil vezes mais agudas conservando a vida para cumprir a vontade de Deus, do que se tivessem de dar mil vidas para testemunhar a sua fé, o seu amor e a sua fidelidade”.
+
+@secao Responsório | Fl 4,8-9
+
+@responsorio
+R. Ocupai-vos com tudo o que é verdadeiro,
+nobre, justo e puro, amável, honroso;
+* E convosco estará o Senhor, Deus da Paz.
+V. Pensai no que é bom
+e em tudo aquilo que merece louvor. * E convosco.
+
+@secao Oração
+
+@oracao
+Ó Deus, que ornastes de grandes méritos a santa Joana Francisca de Chantal nos diversos estados de vida, concedei-nos, por suas preces, corresponder fielmente à nossa vocação e ser em todas as circunstâncias um exemplo para todos. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,143 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/2quarta_laudes.htm
+@documento Laudes - Quarta-Feira
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Criador das alturas celestes,
+vós fixastes caminhos de luz
+para a lua, rainha da noite,
+para o sol, que de dia reluz.
+
+Vai-se a treva, fugindo da aurora,
+e do dia se espalha o clarão.
+Nova força também nos desperta
+e nos une num só coração.
+
+O nascer deste dia convida
+a cantarmos os vossos louvores.
+Do céu jorra uma paz envolvente,
+harmonia de luz e de cores.
+
+Ao clarão desta luz que renasce,
+fuja a treva e se apague a ilusão.
+A discórdia não trema nos lábios,
+a maldade não turve a razão.
+
+Quando o sol vai tecendo este dia,
+brilhe a fé com igual claridade,
+cresça a espera nos bens prometidos
+e nos una uma só caridade.
+
+Escutai-nos, ó Pai piedoso,
+e vós, Filho, do Pai esplendor,
+que reinais, com o Espírito Santo,
+na manhã sem ocaso do amor.
+
+@secao Salmodia
+
+@antifona 1
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+São santos, ó Senhor, vossos caminhos;
+haverá deus que se compare ao nosso Deus?
+
+@antifona 2
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Exulta no Senhor meu coração.
+É ele quem exalta os humilhados.
+
+@antifona 3
+Deus é Rei! Exulte a terra de alegria! †
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Deus é Rei! Exulte a terra de alegria!
+
+@secao Leitura breve | Rm 8,35.37
+
+@texto
+Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou!
+
+@secao Responsório breve
+
+@responsorio
+R. Bendirei o Senhor Deus,
+* Bendirei em todo o tempo. R. Bendirei.
+V. Seu louvor em minha boca, seu louvor eternamente.
+* Bendirei. Glória ao Pai. R. Bendirei.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Sirvamos ao Senhor em santidade
+enquanto perdurarem nossos dias.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Sirvamos ao Senhor em santidade
+enquanto perdurarem nossos dias.
+
+@secao Preces
+
+@preces
+Bendito seja Deus, nosso Salvador, que prometeu permanecer conosco todos os dias até o fim do mundo. Dando-lhe graças, peçamos:
+
+R. **Ficai conosco, Senhor!**
+
+Ficai conosco, Senhor, durante todo o dia,
+– e que jamais se ponha em nossa vida o sol da vossa justiça. R.
+
+Nós vos consagramos este dia como uma oferenda agradável,
+– e nos comprometemos a praticar somente o bem. R.
+
+Fazei, Senhor, que todo este dia transcorra como um dom da vossa luz,
+– para que sejamos sal da terra e luz do mundo. R.
+
+Que a caridade do Espírito Santo inspire nossos corações e nossas palavras,
+– a fim de permanecermos sempre em vossa justiça e em vosso louvor. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Acendei, Senhor, em nossos corações a claridade de vossa luz, para que, andando sempre no caminho de vossos mandamentos, sejamos livres de todo erro. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/antoniomariaclaret.htm
+@documento Ofício das Leituras - Santo Antônio Maria Claret, Bispo
+
+@celebracao
+SANTO ANTÔNIO MARIA CLARET, BISPO
+
+@biografia
+Nasceu em Sallent (Espanha) no ano 1807. Ordenado sacerdote, percorreu a Catalunha pregando ao povo durante vários anos. Fundou a Congregação dos Missionários Filhos do Coração Imaculado de Maria (Claretianos). Nomeado bispo para a ilha de Cuba, aí alcançou singulares méritos, trabalhando pela salvação das almas. Depois de regressar à Espanha, ainda teve de suportar muitos trabalhos em favor da Igreja. Morreu em Fontfroide (França) no ano 1870.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Cristo Pastor, modelo dos pastores,
+comemorando a festa deste Santo,
+a multidão fiel e jubilosa,
+vosso louvor celebra neste canto.
+
+O vosso Espírito ungiu o forte atleta
+pelo dom íntimo duma unção de amor;
+tornando-o apto para a dura luta,
+do povo santo o fez fiel pastor.
+
+Do seu rebanho foi pastor e exemplo,
+ao pobre alívio e para os cegos luz,
+pai carinhoso, tudo para todos,
+seguindo em tudo o Bom Pastor Jesus.
+
+Cristo, que aos santos dais nos céus o prêmio,
+com vossa glória os coroando assim,
+dai-nos seguir os passos deste mestre
+e ter um dia um semelhante fim.
+
+Justo louvor ao Sumo Pai cantemos,
+e a vós, Jesus, Eterno Rei, também.
+Honra e poder ao vosso Santo Espírito
+no mundo inteiro, agora e sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teuSenhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo a Tito {1,7-11; 2,1-8}
+
+@tema
+Doutrina do apóstolo sobre as qualidades e deveres dos bispos
+
+@texto
+Caríssimo: [1,7] É preciso que o bispo seja irrepreensível, como administrador posto porDeus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nemcobiçoso de lucros desonestos, [8] mas hospitaleiro, amigo do bem, ponderado, justo,piedoso, continente, [9] firmemente empenhado no ensino fiel da doutrina, de sorte queseja capaz de exortar com sã doutrina e refutar os contraditores. [10] Há ainda muitos insubordinados, faladores e enganadores, principalmente entre oscircuncidados. [11] É preciso calar-lhes a boca, porque transtornam famílias inteiras,ensinando o que não convém, movidos por ganância vergonhosa.[2,1] O teu ensino, porém, seja conforme à sã doutrina. [2] Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, napaciência. [3] Assim também as mulheres idosas observem uma conduta santa, não sejamcaluniadoras nem escravas do vinho, mas mestras do bem. [4] Saibam ensinar as jovens aamarem seus maridos, a cuidarem dos filhos, [5] a serem prudentes, castas, boas donas-de-casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. [6] Exorta igualmente os jovens a serem moderados [7] e mostra-te em tudo exemplo de boasobras, de integridade na doutrina, de ponderação, [8] de palavra sã e irrepreensível, paraque os adversários se confundam, não tendo nada de mal para dizer de nós.
+
+@secao Responsório | At 20,28; 1Cor 4,2
+
+@responsorio
+R. Vigiai todo o rebanho,
+que o Espírito Divino confiou-vos como bispos
+* Para cuidar, como pastores, da Igreja do Senhor,
+que ele adquiriu pelo sangue de seu Filho.
+V. Aquilo que se espera de um administrador,
+é que seja ele fiel. * Para cuidar.
+
+@secao Segunda leitura
+
+@leitura
+Das Obras de Santo Antônio Maria Claret, bispo
+{(Séc. XIX)} {(L’Egoismo vinto, Romae 1869,60)}
+
+@tema
+O amor de Cristo nos impele
+
+@texto
+Impelidos pelo fogo do Espírito Santo, os apóstolos percorreram o orbe da terra. Incendiados do mesmo fogo, os missionários apostólicos chegaram, chegam e chegarão até o fim do mundo, de um extremo da terra a outro, para anunciar a palavra de Deus, podendo, assim, com justiça dizer de si mesmos as palavras do apóstolo Paulo: _O amor de Cristo nos impele_ (2Cor 5,14).
+A caridade de Cristo estimula, incita-nos a correr e voar com as asas do santo zelo. Quem ama a Deus de verdade, também ama o próximo. O verdadeiro zeloso é o mesmo que ama, mas em grau maior, conforme o grau de amor: quanto mais arde de amor, tanto mais é impelido pelo zelo. Se alguém não tem zelo, testemunha por isto que em seu coração o amor, a caridade se extinguiu. Quem tem zelo, deseja e faz as maiores coisas e se esforça para que Deus seja sempre mais conhecido, amado e servido nesta e na outra vida, já que este amor sagrado não tem fim. O mesmo faz com o próximo: sua ambição e esforço são para que na terra todos estejam contentes, e na pátria celeste felizes e ditosos; que todos se salvem, nenhum pereça eternamente nem ofenda a Deus, nem permaneça mesmo por breve instante no pecado. É isto que vemos nos santos apóstolos e em todos os que são movidos pelo espírito apostólico.
+A mim mesmo eu digo: Um filho do Imaculado Coração de Maria é aquele que arde de caridade e, por onde quer que passe, incendeia; que deseja eficazmente, por todos os meios, que todos os homens se inflamem com o fogo do amor divino. Não se amedronta com coisa alguma; goza com as privações; vai ao encontro dos trabalhos; abraça as tristezas; nas calúnias está contente; alegra-se nos tormentos; pensa unicamente em como seguir e imitar Jesus Cristo, rezando, trabalhando, sofrendo sempre e unicamente preocupado com a glória e a salvação dos homens.
+
+@secao Responsório | 1Ts 2,8; Gl 4,19
+
+@responsorio
+R. É tão grande o afeto que tenho por vós,
+que teria vos dado, não só o Evangelho,
+mas até minha vida,
+* Pois é tanto o afeto, que eu tenho por vós.
+V. Meus filhinhos, de novo por vós
+eu sofro as dores do parto,
+até Cristo formar-se em vós.* Pois é tanto.
+
+@secao Oração
+
+@oracao
+Ó Deus, que fortalecestes o bispo Santo Antônio Maria Claret com caridade e paciência admiráveis para propagar o Evangelho entre os povos, dai que por sua intercessão busquemos o que é vosso, e nos apliquemos com todo o empenho em conquistar nossos irmãos para Cristo. Que convosco vive e reina, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,152 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/pascoa/horas/6domingopascoa_vesperas.htm
+@documento Vésperas - Domingo da 6ª Semana da Páscoa
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Às núpcias do Cordeiro
+em brancas vestes vamos.
+Transposto o mar Vermelho,
+ao Cristo Rei cantamos.
+
+Por nós no altar da cruz
+seu corpo ofereceu.
+Bebendo deste sangue,
+nascemos para Deus.
+
+Seu sangue em nossas portas
+afasta o anjo irado.
+Das mãos dum rei injusto
+seu povo é libertado.
+
+O Cristo, nossa Páscoa,
+morreu como um Cordeiro.
+Seu corpo é nossa oferta,
+Pão vivo e verdadeiro.
+
+Ó vítima verdadeira,
+do inferno a porta abris,
+livrais o povo escravo,
+dais vida ao infeliz.
+
+Da morte o Cristo volta,
+a vida é seu troféu.
+O inferno traz cativo
+e a todos abre o céu.
+
+Jesus, Pascal Cordeiro,
+em vós se alegra o povo,
+que, livre pela graça,
+em vós nasceu de novo.
+
+A glória seja ao Cristo
+da morte vencedor.
+Ao Pai e ao Santo Espírito
+o nosso igual louvor.
+
+@secao Salmodia
+
+@antifona 1
+O Pai ressuscitou Jesus Cristo dentre os mortos
+fazendo sentar-se nos céus, à sua direita, aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Pai ressuscitou Jesus Cristo dentre os mortos
+fazendo sentar-se nos céus, à sua direita, aleluia.
+
+@antifona 2
+Aos falsos deuses renunciastes
+para servirdes ao Deus vivente. Aleluia.
+
+@salmo salmos/salmo-113b
+
+@gloria
+
+@antifona
+Aos falsos deuses renunciastes
+para servirdes ao Deus vivente. Aleluia.
+
+@antifona 3
+Aleluia, ao nosso Deus a salvação,
+honra, glória e poder, aleluia.
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+Aleluia, ao nosso Deus a salvação,
+honra, glória e poder, aleluia.
+
+@secao Leitura breve | Hb 10,12-14
+
+@texto
+Cristo, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica.
+
+@secao Responsório breve
+
+@responsorio
+R. O Senhor ressurgiu, de verdade,
+* Aleluia, aleluia. R. O Senhor.
+V. A Simão ele apareceu. * Aleluia.
+Glória ao Pai. R. O Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+
+@salmo canticos/magnificat-v2
+
+@antifona
+
+@secao Preces
+
+@preces
+Invoquemos a Deus Pai, que ressuscitou Jesus Cristo e o exaltou à sua direita; e peçamos humildemente:
+
+R. **Protegei o vosso povo, Senhor, pela glória de Cristo!**
+
+Pai santo, que pela vitória da cruz glorificastes Jesus sobre a terra,
+– atraí para ele todas as coisas. R.
+
+Por vosso Filho glorificado, enviai, Senhor, sobre a Igreja o Espírito Santo,
+– para que ela seja sinal de unidade para todo o gênero humano. R.
+
+Conservai na fé do seu batismo os novos filhos e filhas, que fizestes renascer pela água e pelo Espírito Santo,
+– para que alcancem a vida eterna. R.
+
+Por vosso Filho glorificado, dai alegria aos infelizes, libertai os prisioneiros, curai os doentes,
+– e estendei à humanidade inteira os benefícios da vossa redenção. R.
+
+{(intenções livres)}
+
+Aos nossos irmãos e irmãs falecidos, que receberam na terra o Corpo e o Sangue de Cristo,
+– dai-lhes a glória da ressurreição no último dia. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Deus todo-poderoso, dai-nos celebrar com fervor estes dias de júbilo em honra do Cristo ressuscitado, para que nossa vida corresponda sempre aos mistérios que recordamos. Por Nosso Senhor Jesus Cristo, vosso filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

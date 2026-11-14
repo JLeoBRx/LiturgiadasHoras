@@ -1,0 +1,41 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/NSRosario.htm
+
+@secao Antífona da entrada | Cf. Lc 1,28.42
+@texto
+Ave, Maria, cheia de graça, o Senhor é convosco;
+bendita sois vós entre as mulheres,
+e bendito é o fruto do vosso ventre.
+
+@secao Coleta
+@texto
+Infundi, Senhor,
+pela intercessão da Santa Virgem Maria,
+a vossa graça em nossos corações
+para que, conhecendo pela anunciação do anjo
+a encarnação de Jesus Cristo, vosso Filho,
+cheguemos, por sua paixão e cruz,
+à glória da ressurreição.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Senhor, tornai-nos dignos de vos apresentar estes dons
+e assim celebrar os mistérios do vosso Filho,
+para que mereçamos alcançar o que ele nos prometeu.
+Ele, que vive e reina pelos séculos dos séculos.
+
+@secao Antífona da comunhão | Lc 1,31
+@texto
+Eis que conceberás e darás à luz um filho,
+a quem porás o nome de Jesus.
+
+@secao Depois da comunhão
+@texto
+Senhor nosso Deus,
+anunciamos neste sacramento
+a morte e a ressurreição do vosso Filho.
+Nós vos pedimos que, tendo sido associados à sua paixão,
+mereçamos participar de sua alegria e também de sua glória.
+Por Cristo, nosso Senhor.

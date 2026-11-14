@@ -1,0 +1,45 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/proprio/saojorge.htm
+
+@secao Antífona da entrada
+@texto
+A luz eterna brilhará para os vossos santos, Senhor,
+e eles viverão pelos séculos sem fim, aleluia.
+Ou:
+Este é o homem que Deus não abandonou
+no dia do combate;
+logo será coroado, porque venceu,
+seguindo fielmente os mandamentos do Senhor, aleluia.
+
+@secao Coleta
+@texto
+Senhor, proclamamos o vosso poder
+e humildemente vos pedimos
+que, assim como São Jorge imitou a vosso Filho em sua paixão,
+nos ajude generosamente em nossa fragilidade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Aceitai, Senhor, o sacrifício de reconciliação e louvor
+que vos oferecemos na comemoração do santo mártir Jorge,
+para que nos obtenha o perdão
+e nos faça viver em contínua ação de graças.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 16,24
+@texto
+Se o grão de trigo que cai na terra não morre,
+ele continua só um grão de trigo;
+mas se morre, então produz muito fruto, aleluia.
+
+@secao Depois da comunhão
+@texto
+Recebemos, ó Deus, os dons celestes,
+alegrando-nos pela festa de hoje.
+Assim como anunciamos nesta Eucaristia
+a morte do vosso Filho,
+possamos participar, com os santos mártires,
+de sua ressurreição e de sua glória.
+Por Cristo, nosso Senhor.

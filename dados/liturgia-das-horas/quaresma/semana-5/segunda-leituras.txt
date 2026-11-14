@@ -1,0 +1,122 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/5segunda_quaresma.htm
+@documento Ofício das Leituras - 5ª Semana Da Quaresma - Segunda-Feira
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Agora é tempo favorável,
+divino dom da Providência,
+para curar o mundo enfermo
+com um remédio, a penitência.
+
+Da salvação refulge o dia,
+na luz de Cristo a fulgurar.
+O coração, que o mal feriu,
+a abstinência vem curar.
+
+Em corpo e alma, a abstinência,
+Deus, ajudai-nos a guardar.
+Por tal passagem, poderemos
+à páscoa eterna, enfim, chegar.
+
+Todo o Universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos por graça entoaremos
+um canto novo a vós. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Por vossa bondade, salvai-me, Senhor!
+
+@salmo salmos/salmo-006
+
+@gloria
+
+@antifona
+Por vossa bondade, salvai-me, Senhor!
+
+@antifona 2
+O Senhor é o refúgio do oprimido,
+seu abrigo nos momentos de aflição.
+
+@salmo salmos/salmo-009a-i
+
+@gloria
+
+@antifona
+O Senhor é o refúgio do oprimido,
+seu abrigo nos momentos de aflição.
+
+@antifona 3
+Anunciarei vossos louvoresjunto às portas de Sião.
+
+@salmo salmos/salmo-009a-ii
+
+@gloria
+
+@antifona
+Anunciarei vossos louvoresjunto às portas de Sião.
+
+@texto
+V. Convertei-vos e crede no Evangelho,
+R. Pois o reino de Deus está chegando.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {2,5-18}
+
+@tema
+Jesus, autor da salvação, feito semelhante aos seus irmãos
+
+@texto
+[5] Não foi aos anjos que Deus submeteu o mundo futuro, do qual estamos falando. [6] A este respeito, porém, houve quem afirmasse: “O que é o homem, para dele te lembrares, ou o filho do homem, para com ele te ocupares? [7] Tu o fizeste um pouco menor que os anjos, de glória e honra o coroaste, [8] e todas as coisas puseste debaixo de seus pés.” Se Deus lhe submeteu todas as coisas, nada deixou que não lhe fosse submisso. Atualmente, porém, ainda não vemos que tudo lhe esteja submisso. [9] Jesus, a quem Deus fez pouco menor do que os anjos, nós o vemos coroado de glória e honra, por ter sofrido a morte. Sim, pela graça de Deus em favor de todos, ele provou a morte. [10] Convinha de fato que aquele, por quem e para quem todas as coisas existem, e que desejou conduzir muitos filhos à glória, levasse o iniciador da salvação deles à consumação, por meio de sofrimentos. [11] Pois tanto Jesus, o Santificador, quanto os santificados, são descendentes do mesmo ancestral; por esta razão, ele não se envergonha de os chamar irmãos, [12] dizendo: “Anunciarei o teu nome a meus irmãos; e no meio da assembleia te louvarei.” [13] E ainda: “Eu colocarei nele a minha confiança.” E também: “Eis-me aqui, com os filhos que Deus me deu.” [14] Visto que os filhos têm em comum a carne e o sangue, também Jesus participou da mesma condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é, o diabo, [15] e libertar os que, por medo da morte, estavam a vida toda sujeitos à escravidão. [16] Pois, afinal, não veio ocupar-se com os anjos, mas com a descendência de Abraão. [17] Por isso devia fazer-se em tudo semelhante aos irmãos, para se tornar um sumo sacerdote misericordioso e digno de confiança nas coisas referentes a Deus, a fim de expiar os pecados do povo. [18] Pois, tendo ele próprio sofrido ao ser tentado, é capaz de socorrer os que agora sofrem a tentação.
+
+@secao Responsório | Hb 2,11a.17a; cf. Br 3,38
+
+@responsorio
+R. Tanto o Santificador como os que são santificados,
+todos têm a mesma origem; é por isso que convinha que o Cristo fosse em tudo semelhante a seus irmãos.
+* Para poder ter pena deles e ser pontífice fiel.
+V. Deus foi visto em nossa terra convivendo em meio aos homens. * Para poder.
+
+@secao Segunda leitura
+
+@leitura
+Dos Comentários sobre os Salmos, de São João Fisher, bispo e mártir
+{(Séc. XVI)} {(Ps 129:Opera omnia,edit.1579, p.1610)}
+
+@tema
+Se alguém pecar, temos junto do Pai um Defensor
+
+@texto
+Jesus Cristo é o nosso sumo sacerdote e o seu precioso corpo é o nosso sacrifício, que ele ofereceu no altar da cruz para a salvação de todos os homens. O sangue derramado por nossa redenção não era de novilhos e bodes (como na antiga Lei), mas do inocentíssimo cordeiro Cristo Jesus, nosso Salvador. O templo onde nosso sumo sacerdote ofereceu o sacrifício não era feito por mãos humanas, mas edificado unicamente pelo poder de Deus. Porque ele derramou seu sangue diante do mundo, que é na verdade o templo construído só pela mão de Deus. Este templo tem duas partes: uma é a terra que agora habitamos; a outra ainda é desconhecida por nós mortais. Jesus Cristo ofereceu seu primeiro sacrifício aqui na terra quando padeceu a morte crudelíssima. Em seguida, revestido da nova veste da imortalidade, com seu próprio sangue entrou no Santo dos Santos, isto é, no céu, onde apresentou diante do trono do Pai celeste aquele sangue de valor infinito, que derramara uma vez para sempre por todos os homens cativos do pecado. Este sacrifício é tão agradável e aceito por Deus que, logo ao vê-lo, não pode deixar de compadecer-se de nós e derramar a sua misericórdia sobre todos os que estão verdadeiramente arrependidos. É, além disso, um sacrifício eterno. Não é oferecido apenas uma vez cada ano (como acontecia entre os judeus), mas cada dia para o nosso consolo, e ainda mais, a cada hora e a cada momento, para nosso conforto e nossa alegria. Por isso o Apóstolo acrescenta: _Obtendo uma eterna redenção_ (Hb 9,12). Deste santo e eterno sacrifício, participam todos os que experimentaram a verdadeira contrição e arrependimento dos pecados cometidos, e tomaram a inabalável resolução de não mais voltar aos vícios antigos e de perseverar com firmeza no caminho das virtudes a que se consagraram. É o que ensina São João com estas palavras: _Meus filhinhos, escrevo isto para que não pequeis. No entanto, se alguém pecar, temos junto ao Pai um Defensor: Jesus Cristo, o Justo. Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos do mundo inteiro_ (1Jo 2,1-2).
+
+@secao Responsório | Rm 5,10.8b
+
+@responsorio
+R. Se, quando éramos inimigos,
+fomos com Deus reconciliados pela morte de seu Filho,
+* Com maior razão agora, uma vez reconciliados, seremos salvos por sua vida.
+V. Quando ainda pecadores, morreu Cristo por nós todos. * Com maior.
+
+@secao Oração
+
+@oracao
+Ó Deus, que pela vossa graça inefável nos enriqueceis de todos os bens, concedei-nos passar da antiga à nova vida, preparando-nos assim, para o reino da glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

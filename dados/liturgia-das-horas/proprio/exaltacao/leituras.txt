@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/exaltacao.htm
+@documento Ofício das Leituras - Exaltação Da Santa Cruz Festa
+
+@celebracao
+EXALTAÇÃO DA SANTA CRUZ
+{Festa}
+
+@biografia
+A cruz, sinal do mais terrível entre os suplícios, é para o cristão a árvore da vida, o tálamo, o trono, o altar da nova aliança. De Cristo, novo Adão adormecido na cruz, jorrou o admirável sacramento de toda a Igreja. A cruz é o sinal do senhorio de Cristo sobre os que no Batismo são configurados a ele na morte e na glória (cf. Rm 6,5). Na tradição dos Padres, a cruz é o sinal do Filho do Homem que comparecerá no fim dos tempos (cf. Mt 24,30). A festa da Exaltação da Cruz, que no Oriente é comparada àquela da Páscoa, relaciona-se com a dedicação das basílicas constantinianas construídas no Gólgota e sobre o sepulcro de Cristo.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Salve, salve Cruz santa,
+salve, glória do mundo,
+verdadeira esperança,
+nosso gozo profundo.
+
+Salvação nos perigos,
+és da graça o sinal.
+Dás a todos a vida,
+doce lenho vital.
+
+Santa Cruz adorável,
+de onde a vida brotou,
+nós, por ti redimidos,
+te cantamos louvor.
+
+Doce glória do mundo,
+nos teus braços abertos
+os escravos do lenho
+são, no lenho, libertos.
+
+Honra e glória a Deus Pai
+pela Cruz de seu Filho,
+que, no lenho elevado,
+a vestiu com seu brilho.
+
+Honra e glória ao Espírito,
+da Trindade na luz.
+E nos céus e na terra
+brilhe a glória da Cruz.
+
+@secao Salmodia
+
+@antifona 1
+Eis a Cruz do Senhor: inimigos, fugi!
+Triunfou e venceu o Leão de Judá,
+a Raiz de Davi! Aleluia.
+
+@salmo salmos/salmo-002
+
+@gloria
+
+@antifona
+Eis a Cruz do Senhor: inimigos, fugi!
+Triunfou e venceu o Leão de Judá,
+a Raiz de Davi! Aleluia.
+
+@antifona 2
+O santo nome do Senhor foi exaltado em sua Cruz,
+sobre o céu e sobre a terra. Aleluia.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@antifona
+O santo nome do Senhor foi exaltado em sua Cruz,
+sobre o céu e sobre a terra. Aleluia.
+
+@antifona 3
+Ó Cruz tão bendita, só tu mereceste
+trazer o Senhor, Rei dos céus, aleluia.
+
+@salmo salmos/salmo-095
+
+@gloria
+
+@antifona
+Ó Cruz tão bendita, só tu mereceste
+trazer o Senhor, Rei dos céus, aleluia.
+
+@texto
+V. Como Moisés ergueu na haste a serpente no deserto,
+R. O Filho do homem há de ser levantado numa cruz.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Gálatas {2,19–3,7.13-14;6,14-16}
+
+@tema
+A glória da cruz
+
+@texto
+Irmãos: [2,19] Foi em virtude da Lei que eu Paulo morri para a Lei, a fim de viver paraDeus. Com Cristo, eu fui pregado na cruz. [20] Eu vivo, mas não eu, é Cristo que vive emmim. Esta minha vida presente, na carne, eu a vivo na fé, crendo no Filho de Deus, queme amou e por mim se entregou. [21] Eu não desprezo a graça de Deus. Ora, se a justiçavem pela Lei, então Cristo morreu inutilmente.[3,1] Ó gálatas insensatos, quem é que vos fascinou? Diante de vossos olhos, não foi acasorepresentado, como que ao vivo, Jesus Cristo crucificado? [2] Só isto quero saber de vós:Recebestes o Espírito pela prática da Lei ou pela fé através da pregação? [3] Sois assim tãoinsensatos? A ponto de, depois de terdes começado pelo espírito, quererdes terminarpela carne? [4] Foi acaso em vão que sofrestes tanto? Se é que foi mesmo em vão! [5] Aqueleque vos dá generosamente o Espírito e realiza milagres entre vós, faz isso porquepraticais a Lei ou porque crestes, através da pregação? [6] Como Abraão creu em Deus, e isto lhe valeu ser declarado justo, [7] ficai pois cientesque os que creem é que são verdadeiros filhos de Abraão. [13] Cristo resgatou-nos da maldição da Lei, fazendo-se maldição por nós, pois estáescrito: Maldito todo aquele que é suspenso no madeiro. [14] Assim a bênção de Abraão seestendeu aos pagãos em Cristo Jesus e pela fé recebemos a promessa do Espírito.[6,14] Quanto a mim, que eu me glorie somente da cruz do Senhor nosso, Jesus Cristo. Porele, o mundo está crucificado para mim, como eu estou crucificado para o mundo. [15] Pois nem a circuncisão, nem a incircuncisão têm valor, o que conta é a criação nova. [16] E para todos os que seguirem esta norma, como para o Israel de Deus: paz emisericórdia.
+
+@secao Responsório | Cf. Gl 6,14a; cf. Hb 2,9b
+
+@responsorio
+R. Nós devemos gloriar-nos na Cruz de Jesus Cristo;
+nele está a salvação, ressurreição e nossa vida,
+* Pelo qual nós fomos salvos, pelo qual fomos libertos.
+V. Por ter sofrido a morte,
+Jesus foi coroado de glória e de honra. * Pelo qual.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo André de Creta, bispo
+{(Séc.VIII)} {(Oratio 10 in Exaltatione sanctae crucis: PG97,1018-1019)}
+
+@tema
+A glória e a exaltação de Cristo é a cruz
+
+@texto
+Celebramos a festa da cruz; por ela as trevas são repelidas e volta a luz. Celebramos afesta da cruz e junto com o Crucificado somos levados para o alto para que,abandonando a terra com o pecado, obtenhamos os céus. A posse da cruz é tão grande ede tão imenso valor que seu possuidor possui um tesouro. Chamo com razão tesouroaquilo que há de mais belo entre todos os bens pelo conteúdo e pela fama. Nele, por elee para ele reside toda a nossa salvação, e é restituída ao seu estado original.Se não houvesse a cruz, Cristo não seria crucificado. Se não houvesse a cruz, a vida nãoseria pregada ao lenho com cravos. Se a vida não tivesse sido cravada, não brotariam dolado as fontes da imortalidade, o sangue e a água, que lavam o mundo. Não teria sidorasgado o documento do pecado, não teríamos sido declarados livres, não teríamosprovado da árvore da vida, não se teria aberto o paraíso. Se não houvesse a cruz, a mortenão teria sido vencida e não teria sido derrotado o inferno.É, portanto, grande e preciosa a cruz. Grande sim, porque por ela grandes bens setornaram realidade; e tanto maiores quanto, pelos milagres e sofrimentos de Cristo, maisexcelentes quinhões serão distribuídos. Preciosa também porque a cruz é paixão evitória de Deus: paixão, pela morte voluntária nesta mesma paixão; e vitória porque odiabo é ferido e com ele a morte é vencida. Assim, arrebentadas as prisões dos infernos,a cruz também se tornou a comum salvação de todo o mundo.É chamada ainda de glória de Cristo, e dita a exaltação de Cristo. Vemo-la como ocálice desejável e o termo dos sofrimentos que Cristo suportou por nós. Que a cruz sejaa glória de Cristo, escuta-o a dizer: _Agora, o Filho do homem é glorificado e nele Deus_ _é glorificado e logo o glorificará_ (Jo 13,31-32). E de novo: _Glorifica-me tu, Pai, com a__glória que tinha junto de ti antes que o mundo existisse_ (Jo 17,5). E repete: _Pai,_ _glorifica teu nome. Desceu então do céu uma voz: Glorifiquei-o e tornarei a glorificar_(Jo 12,28), indicando aquela glória que então alcançou na cruz.Que ainda a cruz seja a exaltação de Cristo, escuta o que ele próprio diz: _Quando eu for_ _exaltado, atrairei então todos a mim_(cf. Jo 12,32). Bem vês que a cruz é a glória e aexaltação de Cristo.
+
+@secao Responsório
+
+@responsorio
+R. Ó Cruz gloriosa! De teus braços pendeu
+o tesouro precioso e a redenção dos cativos.
+* Por ti foi o mundo remido no sangue de seu Redentor.
+V. Salve, ó Cruz, consagrada pelo corpo de Cristo,
+por seus membros ornada, quais pedras preciosas.
+* Por ti.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que para salvar a todos dispusestes que o vosso Filho morresse na cruz, a nós,que conhecemos na terra este mistério, dai-nos colher no céu os frutos da redenção. Pornosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,54 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 32º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Virgens prudentes, vigilantes,
+preparai as vossas lâmpadas.
+O Esposo está chegando:
+Ide logo ao seu encontro!
+
+@antifona vesperas-i-B
+Sentado Jesus junto ao cofre de ofertas,
+viu a pobre viúva que lançou duas moedas,
+em oferta ao Senhor, dando tudo o que tinha.
+
+@antifona vesperas-i-C
+Os que forem julgados ser dignos
+de ter parte no mundo futuro,
+sendo filhos da ressurreição,
+serão semelhantes aos anjos,
+serão filhos de Deus, diz Jesus.
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+No meio da noite ouviu-se um clamor:
+Vem chegando o Esposo, saí-lhe ao encontro!
+
+@antifona laudes-B
+Eu vos digo que a pobre viúva
+doou mais do que todos os outros,
+que lançaram dinheiro no cofre.
+
+@antifona laudes-C
+Que os mortos haverão de ressurgir,
+Moisés já nos mostrou no episódio
+da sarça ardente, quando chama o Senhor:
+Deus de Abraão, Deus da Isaac, Deus de Jacó.
+O Senhor é Deus dos vivos, não dos mortos.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Eu vos digo esta verdade:
+Vigiai, pois não sabeis nem o dia nem a hora!
+
+@antifona vesperas-ii-B
+Eu vos digo que a viúva, ao doar da sua pobreza,
+deu quanto possuía, doou todo o seu sustento.
+
+@antifona vesperas-ii-C
+O Senhor é Deus de vivos, não de mortos;
+pois todos vivem para ele.

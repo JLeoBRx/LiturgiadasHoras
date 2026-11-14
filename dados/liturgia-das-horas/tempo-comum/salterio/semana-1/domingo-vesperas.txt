@@ -1,0 +1,140 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1domingo_vesperas.htm
+@documento II Vésperas
+
+@titulo II Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Criador generoso da luz,
+que criastes a luz para o dia,
+com os raios primeiros da luz,
+sua origem o mundo inicia.
+
+Vós chamastes de 'dia' o decurso
+da manhã luminosa ao poente.
+Eis que as trevas já descem à terra:
+escutai nossa prece, clemente.
+
+Para que sob o peso dos crimes
+nossa mente não fique oprimida,
+e, esquecendo as coisas eternas,
+não se exclua do prêmio da vida.
+
+Sempre à porta celeste batendo,
+alcancemos o prêmio da vida,
+evitemos do mal o contágio
+e curemos da culpa a ferida.
+
+Escutai-nos, ó Pai piedoso,
+com o único Filho também,
+que reinais com o Espírito Santo
+pelos séculos dos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Senhor estenderá desde Sião
+o seu cetro de poder vitorioso,
+e reinará eternamente, aleluia.
+
+@salmo salmos/salmo-109-1-5-7
+
+@gloria
+
+@antifona
+O Senhor estenderá desde Sião
+o seu cetro de poder vitorioso,
+e reinará eternamente, aleluia.
+
+@antifona 2
+Ante a face do Senhor treme, ó terra, aleluia!
+
+@salmo salmos/salmo-113a
+
+@gloria
+
+@antifona
+Ante a face do Senhor treme, ó terra, aleluia!
+
+@antifona 3
+De seu reino tomou posse
+nosso Deus onipotente. Aleluia.
+
+@texto
+{No cântico seguinte dizem-se os} Aleluias {entre parênteses somente quando se canta; na recitação, basta dizer o} Aleluia {no começo e no fim das estrofes.}
+
+@salmo canticos/ap-19-1-2-5-7
+
+@gloria
+
+@antifona
+De seu reino tomou posse
+nosso Deus onipotente. Aleluia.
+
+@secao Leitura breve | 2Cor 1,3-4
+
+@texto
+Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação. Ele nos consola em todas as nossas aflições, para que, com a consolação que nós mesmos recebemos de Deus, possamos consolar os que se acham em toda e qualquer aflição.
+
+@secao Responsório breve
+
+@responsorio
+R. Ó Senhor, vós sois bendito
+* No celeste firmamento. R. Ó Senhor.
+V. Vós sois digno de louvor e de glória eternamente.
+* No celeste. Glória ao Pai. R. Ó Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@lacuna antifona-magnificat
+
+@salmo canticos/magnificat
+
+@gloria
+
+@lacuna antifona-magnificat
+
+@secao Preces
+
+@preces
+Como membros de Cristo que é nossa cabeça, adoremos o Senhor; e aclamemos com alegria:
+
+R. **Senhor, venha a nós o vosso Reino!**
+
+Cristo, nosso Salvador, fazei de vossa Igreja instrumento de concórdia e unidade para o gênero humano,
+– e sinal de salvação para todos os povos. R.
+
+Assisti com vossa contínua presença o Santo Padre e o Colégio universal dos Bispos,
+– e concedei-lhes o dom da unidade, da caridade e da paz. R.
+
+Fazei-nos viver cada vez mais intimamente unidos a vós,
+– para proclamarmos com o testemunho da vida a chegada do vosso Reino. R.
+
+Concedei ao mundo a vossa paz,
+– e fazei reinar em toda parte a segurança e a tranquilidade. R.
+
+{(intenções livres)}
+
+Dai aos que morreram a glória da ressurreição,
+– e concedei que também nós um dia possamos participar com eles da felicidade eterna. R.
+
+Pai nosso...
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

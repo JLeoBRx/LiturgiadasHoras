@@ -1,0 +1,156 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/quartafeirasanta_laudes.htm
+@documento Laudes - Quarta-feira da Semana Santa
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+O fel lhe dão por bebida
+sobre o madeiro sagrado.
+Espinhos, cravos e lança
+ferem seu corpo e seu lado.
+No sangue e água que jorram,
+mar, terra e céu são lavados.
+
+Ó cruz fiel sois a árvore
+mais nobre em meio às demais,
+que selva alguma produz
+com flor e frutos iguais.
+Ó lenho e cravos tão doces,
+um doce peso levais.
+
+Árvore, inclina os teus ramos,
+abranda as fibras mais duras.
+A quem te fez germinar
+minora tantas torturas.
+Leito mais brando oferece
+ao Santo Rei das alturas.
+
+Só tu, ó Cruz, mereceste
+suster o preço do mundo
+e preparar para o náufrago
+um porto, em mar tão profundo.
+Quis o cordeiro imolado
+banhar-te em sangue fecundo.
+
+Glória e poder à Trindade.
+Ao Pai e ao Filho Louvor.
+Honra ao Espírito Santo.
+Eterna glória ao Senhor,
+que nos salvou pela graça
+e nos remiu pelo amor.
+
+@secao Salmodia
+
+@antifona 1
+No meu dia de aflição, minhas mãos buscam a Deus.
+
+@salmo salmos/salmo-076
+
+@gloria
+
+@antifona
+No meu dia de aflição, minhas mãos buscam a Deus.
+
+@antifona 2
+Se morrermos com Cristo, nós cremos
+que com Cristo também viveremos.
+
+@salmo canticos/1sm-2-1-10
+
+@gloria
+
+@antifona
+Se morrermos com Cristo, nós cremos
+que com Cristo também viveremos.
+
+@antifona 3
+Jesus Cristo tornou-se para nós
+sabedoria de Deus a mais sublime,
+santidade, justiça e redenção.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Jesus Cristo tornou-se para nós
+sabedoria de Deus a mais sublime,
+santidade, justiça e redenção.
+
+@secao Leitura breve | Is 50,5-7
+
+@texto
+O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás. Ofereci as costas para me baterem e as faces para me arrancarem a barba: não desviei o rosto de bofetões e cusparadas. Mas o Senhor Deus é meu Auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado.
+
+@secao Responsório breve
+
+@responsorio
+R. Foi levado como ovelha ao matadouro;
+e, maltratado, não abriu a sua boca.
+* De sua linhagem quem dela cogitou? R. Foi levado.
+R. Da terra dos viventes foi cortado,
+por causa da revolta do seu povo. * De sua linhagem.
+Glória ao Pai. R. Foi levado.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+O sangue de Cristo, que a si mesmo ofertou-se
+pelo Espírito Santo como hóstia sem mancha,
+purifica noss'alma das obras da morte,
+para servir ao Deus vivo.
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+O sangue de Cristo, que a si mesmo ofertou-se
+pelo Espírito Santo como hóstia sem mancha,
+purifica noss'alma das obras da morte,
+para servir ao Deus vivo.
+
+@secao Preces
+
+@preces
+Imploremos a Cristo Salvador, que nos remiu por sua morte e ressurreição; e digamos:
+
+R. **Senhor, tende piedade de nós!**
+
+Vós, que subistes a Jerusalém para sofrer a Paixão, e assim entrar na glória,
+– conduzi vossa Igreja à Páscoa da eternidade. R.
+
+Vós, que, elevado na cruz, deixastes a lança do soldado vos traspassar,
+– curai as nossas feridas. R.
+
+Vós, que transformastes o madeiro da cruz em árvore da vida,
+– concedei de seus frutos aos que renasceram pelo batismo. R.
+
+Vós, que, pregado na cruz, perdoastes o ladrão arrependido,
+– perdoai-nos também a nós pecadores. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que fizestes vosso Filho padecer o suplício da cruz para arrancar-nos à escravidão do pecado, concedei aos vossos servos e servas, a graça da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

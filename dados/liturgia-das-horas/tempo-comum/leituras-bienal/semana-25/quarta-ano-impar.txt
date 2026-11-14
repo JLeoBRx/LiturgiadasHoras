@@ -1,0 +1,60 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/bienal/25quartaTC_impar.htm
+@documento Ofício das Leituras - Quarta-Feira
+
+@titulo QUARTA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Profeta Isaías {7,1-17}
+
+@tema
+O sinal de Emanuel
+
+@texto
+[1] No tempo de Acaz, filho de Joatão, filho de Ozias, rei de Judá, subiram contra Jerusalém Rason, rei de Aram, e Faceia, filho de Romelias, rei de Israel, a fim de tomá-la de assalto, mas não conseguiram atacá-la. [2] Um aviso foi dado à casa de Davi de que Aram acampara no território de Efraim. Com isto agitou-se o seu coração e o coração do seu povo, como se agitam as árvores do bosque impelidas pelo vento. [3] Então disse o Senhor a Isaías: Vai ao encontro de Acaz, tu juntamente com o teu filho Sear-Iasub. Encontrá-lo-ás no fim do canal da piscina superior, na estrada do campo do pisoeiro. [4] Tu lhe dirás: Toma as tuas precauções, mas conserva a calma e não tenhas medo nem vacile o teu coração diante desses dois tições fumegantes, isto é, por causa da cólera de Rason, de Aram, e do filho Romelias, [5] pois Aram, Efraim e o filho de Romelias tramaram o mal contra ti, dizendo: [6] “Subamos contra Judá e provoquemos a cisão e a divisão em seu seio em nosso benefício e estabeleçamos como rei sobre ele o filho de Tabeel.” [7] Assim diz o Senhor Deus: Tal não se realizará, tal não há de suceder, [8] porque a cabeça de Aram é Damasco, e a cabeça de Damasco é Rason; dentro de sessenta e cinco anos Efraim deixará de ser povo. [9] A cabeça de Efraim é Samaria e a cabeça de Samaria é o filho de Romelias. Se não o crerdes, não vos mantereis firmes. [10] O Senhor tornou a falar a Acaz, dizendo-lhe: [11] Pede um sinal ao Senhor, teu Deus, ou nas profundezas do Xeol, ou nas alturas. [12] Acaz, porém, respondeu: Não pedirei nada, não tentarei ao Senhor. [13] Então disse ele: Ouvi vós, casa de Davi! Parece-vos pouco o fatigardes os homens, e quereis fatigar também a meu Deus? [14] Pois sabeis que o Senhor mesmo vos dará um sinal: Eis que a jovem está grávida e dará a luz um filho e dar-lhe-á o nome de Emanuel. [15] Ele se alimentará de coalhada e de mel até que saiba rejeitar o mal e escolher o bem. [16] Com efeito, antes que o menino saiba rejeitar o mal e escolher o bem, a terra, por cujos dois reis tu te apavoras, ficará reduzida a ermo. [17] O Senhor trará sobre ti, sobre o teu povo e sobre a casa de teu pai dias tais como não existiram desde o dia em que Efraim se separou de Judá.
+
+@secao Responsório | Cf. Is 7,14; Mt 1,21; Lc 1,30.31
+
+@responsorio
+R. Eis que a virgem conceberá e dará à luz um filho.
+* E ele se chamará Emanuel, Deus-conosco.
+V. Não temas, Maria:
+conceberás no teu seio e darás à luz um filho. * E ele se chamará.
+
+@secao Segunda leitura
+
+@leitura
+Das “Homilias em louvor da Virgem-Mãe”, de São Bernardo, abade
+{(Séc. XII)} {(Hom. 2,1-2.4: Opera omnia, Edit. Cisterc. 4 [1966], 21.23)}
+
+@tema
+Preparada pelo Altíssimo, prometida pelos Patriarcas
+
+@texto
+A Deus competia nascer de uma virgem unicamente; e era claro que do parto da Virgem somente viesse Deus à luz. Por este motivo, o Criador dos homens, para se fazer homem nascido de ser humano, devia dentre todas escolher, ou melhor, criar para si a mãe tal, como sabia convir a si e ser-lhe agradável em tudo.
+Quis então que fosse uma virgem. Da imaculada nascendo o imaculado, aquele que purificaria as máculas de todos.
+Ele a quis também humilde, donde proviesse o manso e humilde de coração, que iria mostrar a todos o necessário e salubérrimo exemplo destas virtudes. Concedeu, pois, à Virgem a fecundidade, a ela a quem já antes inspirara o voto de virgindade e lhe antecipara o mérito da humildade.
+A não ser assim, como poderia o anjo dizê-la cheia de graça, se algo, por mínimo que fosse, faltasse à graça? Assim, aquela que iria conceber e dar à luz o Santo dos santos recebeu o dom da virgindade para que fosse santa no corpo, e, para ser santa no espírito, recebeu o dom da humildade.
+Esta Virgem régia, ornada com as joias das virtudes, refulgente pela dupla majestade da alma e do corpo, por sua beleza e formosura conhecida nos céus, atraiu sobre si o olhar dos anjos. Até atraiu sobre si a atenção do Rei, que a desejou e arrebatou das alturas até si o mensageiro celeste.
+O anjo foi enviado à Virgem (Lc 1,26-27). Virgem na alma, virgem na carne, virgem pelo propósito, virgem enfim tal como a descreve o Apóstolo, santa de espírito e de corpo. Não pouco antes, nem por acaso encontrada, mas eleita desde o princípio dos séculos, conhecida pelo Altíssimo e preparada para ele, guardada pelos anjos, prefigurada pelos patriarcas, prometida pelos profetas.
+
+@secao Responsório | Lc 1,35; Sl 44(45),11a.12a
+
+@responsorio
+R. O Espírito Santo virá sobre ti,
+e o poder do Altíssimo te cobrirá com sua sombra.
+* O Santo, teu filho, é o Filho de Deus.
+V. Escutai, minha filha, olhai, ouvi isto:
+Que o Rei se encante com a vossa beleza. * O Santo.
+
+@secao Oração
+
+@oracao
+Ó Pai, que resumistes toda a lei no amor a Deus e ao próximo, fazei que, observando o vosso mandamento, consigamos chegar um dia à vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

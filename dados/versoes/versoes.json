@@ -1,0 +1,4 @@
+{
+  "_leia": "Versões alternativas dos textos (ex.: linguagem adaptada para jovens). Cada versão fica em dados/versoes/<id>/ com os mesmos caminhos de dados/. Exemplo: {\"id\": \"jovem\", \"nome\": \"Linguagem jovem\"}. Ver dados/LEIA-ME.md.",
+  "versoes": []
+}

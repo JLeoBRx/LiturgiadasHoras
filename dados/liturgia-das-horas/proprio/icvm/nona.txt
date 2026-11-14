@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/icvm_nona.htm
+@documento Hora Média - Imaculado Coração da Bem-aventurada Virgem Maria
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Cumprindo o ciclo tríplice das horas,
+louvemos ao Senhor de coração,
+cantando em nossos salmos a grandeza
+de Deus, que é Uno e Trino em perfeição.
+
+A exemplo de São Pedro, nosso mestre,
+guardando do Deus vivo e verdadeiro,
+em almas redimidas, o mistério,
+sinal de salvação ao mundo inteiro,
+
+também salmodiamos no espírito,
+unidos aos apóstolos do Senhor,
+e assim serão firmados nossos passos
+na força de Jesus, o Salvador.
+
+Louvor ao Pai, autor de toda a vida,
+e ao Filho, Verbo Eterno, Sumo Bem,
+unidos pelo amor do Santo Espírito,
+Deus vivo pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Na Cruz, o Senhor disse à Mãe:
+Mulher, eis aqui o teu filho!
+E a João: Eis aqui tua Mãe!
+
+@salmo salmos/salmo-125-v5
+
+@gloria
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+Na Cruz, o Senhor disse à Mãe:
+Mulher, eis aqui o teu filho!
+E a João: Eis aqui tua Mãe!
+
+@secao Leitura breve | Jt 13,18-19
+
+@texto
+Ó filha, tu és bendita pelo Deus Altíssimo, mais que todas as mulheres da terra! E bendito é o Senhor Deus, que criou o céu e a terra, e te levou a decepar a cabeça do chefe de nossos inimigos! Porque nunca o teu louvor se afastará do coração dos homens, que se lembrarão do poder de Deus para sempre.
+
+@texto
+V. És bendita entre todas as mulheres da terra.
+R. E bendito é o fruto que nasceu do teu ventre.
+
+@secao Oração
+
+@oracao
+Ó Deus, que preparastes morada digna do Espírito Santo no Imaculado Coração de Maria, concedei que por sua intercessão nos tornemos um templo da vossa glória. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

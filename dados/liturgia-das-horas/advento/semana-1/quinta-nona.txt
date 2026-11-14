@@ -1,0 +1,74 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/1quinta_nona.htm
+@documento Hora Média (Nona) - I Quinta-Feira do Advento
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vós que sois o Imutável,
+Deus fiel, Senhor da História,
+nasce e morre a luz do dia,
+revelando a vossa glória.
+
+Seja a tarde luminosa
+numa vida permanente.
+E da santa morte o prêmio
+nos dê glória eternamente.
+
+Escutai-nos, ó Pai Santo,
+pelo Cristo, nosso irmão,
+que convosco e o Espírito
+vive em plena comunhão.
+
+@secao Salmodia
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se!
+Serei mãe do grande Rei, conservando a virgindade!
+
+@salmo salmos/salmo-118-17-24-iii-ghimel
+
+@gloria
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+E Maria disse ao anjo:
+O que vem significar essa tua saudação?
+A minh'alma perturbou-se!
+Serei mãe do grande Rei, conservando a virgindade!
+
+@secao Leitura breve | Ml 3,20-21b
+
+@texto
+Para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo salvação em suas asas; saireis saltando como bezerros bem nutridos, diz o Senhor dos exércitos.
+
+@texto
+V. Oh vinde, Senhor, não tardeis mais!
+R. Libertai vosso povo do pecado!
+
+@secao Oração
+
+@oracao
+Despertai, ó Deus, o vosso poder e socorrei-nos com a Vossa força, para que vossa misericórdia apresse a salvação que nossos pecados retardam. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

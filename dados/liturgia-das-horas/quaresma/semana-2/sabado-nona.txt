@@ -1,0 +1,73 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2sabadoquaresma_nona.htm
+@documento Hora Média - Nona - Sábado da 2ª Semana da Quaresma
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+Na mesma hora em que Jesus, o Cristo,
+sofreu a sede, sobre a cruz pregado,
+conceda a sede de justiça e graça
+a quem celebra o seu louvor sagrado.
+
+Ao mesmo tempo ele nos seja a fome
+e o Pão divino que a Si mesmo dá;
+seja o pecado para nós fastio,
+só no bem possa o nosso gozo estar.
+
+A unção viva do divino Espírito
+impregne a mente dos que cantam salmos;
+toda frieza do seu peito afaste,
+no coração ponha desejos calmos,
+
+Ao Pai e ao Cristo suplicamos graça,
+com seu Espírito, eterno Bem;
+Trindade Santa, protegei o orante,
+guardai o povo em caridade. Amém.
+
+@secao Salmodia
+
+@antifona
+Sejamos firmes na provação: Sua justiça é nossa força.
+
+@salmo salmos/salmo-118-81-88-xi-caph
+
+@gloria
+
+@salmo salmos/salmo-060
+
+@gloria
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Sejamos firmes na provação: Sua justiça é nossa força.
+
+@secao Leitura breve | Gl 6,7b-8
+
+@texto
+De Deus não se zomba, pois o que o homem tiver semeado, é isso que vai colher. Quem semeia na sua própria carne, da carne colherá corrupção. Quem semeia no espírito, do espírito colherá a vida eterna.
+
+@texto
+V. Meu sacrifício é minha alma penitente.
+R. Não desprezeis um coração arrependido!
+
+@secao Oração
+
+@oracao
+Ó Deus, que pelos exercícios da Quaresma já nos dais na terra participar dos bens do céu, guiai-nos de tal modo nesta vida, que possamos chegar à luz em que habitais. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

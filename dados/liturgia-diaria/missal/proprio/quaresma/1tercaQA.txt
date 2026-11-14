@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1tercaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 89,1-2
+@texto
+Senhor, vós vos tornastes um refúgio para nós
+de geração em geração;
+desde sempre e para sempre, vós sois Deus.
+
+@secao Coleta
+@texto
+Olhai, Senhor, a vossa família
+e fazei que, interiormente mortificados pela penitência corporal,
+resplandeça sempre mais em nós
+a luz da vossa presença.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Ó Deus, criador de todas as coisas
+que recebemos da vossa bondade,
+acolhei as oferendas e fazei frutificar para a vida eterna
+os dons que nos concedeis neste mundo.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Cf. Sl 4,2
+@texto
+Quando vos invoquei, vós me ouvistes,
+ó Deus, minha justiça,
+e na angústia me livrastes;
+tende piedade de mim, atendei a minha prece!
+
+@secao Depois da comunhão
+@texto
+Por este sacramento, Senhor,
+dai-nos moderar os desejos terrenos
+e aprender a amar os bens celestes.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+A vossa bênção, ó Deus,
+fortifique os vossos fiéis:
+sede para eles
+consolo na tristeza, constância na tribulação
+e auxílio no perigo.
+Por Cristo, nosso Senhor.

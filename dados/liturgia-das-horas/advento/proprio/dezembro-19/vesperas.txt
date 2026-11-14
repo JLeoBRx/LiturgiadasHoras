@@ -1,0 +1,74 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/19_vesperas.htm
+@documento Próprio - Vésperas - 19 de dezembro
+
+@secao Leitura breve | Fl 3,20b-21
+
+@texto
+Aguardamos o nosso Salvador, o Senhor, Jesus Cristo. Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas.
+
+@secao Responsório breve
+
+@responsorio
+R. A vós, ó Deus, a nossa gratidão:
+* Vosso nome está perto. R. A vós, ó Deus.
+V. De vós, Senhor, virá a renovação. * Vosso nome.
+Glória ao Pai. R. A vós, ó Deus.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Raiz de Jessé, ó estandarte,
+levantado em sinal para as nações!
+Ante vós se calarão os reis da terra,
+e as nações implorarão misericórdia:
+Vinde salvar-nos! Libertai-nos sem demora!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Raiz de Jessé, ó estandarte,
+levantado em sinal para as nações!
+Ante vós se calarão os reis da terra,
+e as nações implorarão misericórdia:
+Vinde salvar-nos! Libertai-nos sem demora!
+
+@secao Preces
+
+@preces
+Supliquemos, irmãos e irmãs caríssimos, a Cristo nosso Senhor, Juiz dos vivos e dos mortos; e digamos com toda a confiança:
+
+R. **Vinde, Senhor Jesus.**
+
+Fazei, Senhor, que o mundo reconheça a vossa justiça que os céus proclamam,
+– para que a vossa glória habite nossa terra. R.
+
+Senhor, que quisestes experimentar a fraqueza de nossa humanidade,
+– revigorai os seres humanos com o poder da vossa divindade. R.
+
+Vinde, Senhor, iluminar com o esplendor da vossa sabedoria,
+– os que vivem oprimidos nas trevas da ignorância. R.
+
+Senhor, que pela vossa humilhação nos libertastes de toda a iniquidade,
+– pela vossa glorificação, conduzi-nos à felicidade eterna. R.
+
+{(intenções livres)}
+
+Senhor, que haveis de vir com grande poder e glória para julgar o mundo,
+– levai os nossos irmãos e irmãs falecidos para o reino dos céus. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que revelastes ao mundo o esplendor da vossa glória pelo parto virginal de Maria, dai-nos venerar com fé pura e celebrar sempre com amor sincero o mistério tão profundo da encarnação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

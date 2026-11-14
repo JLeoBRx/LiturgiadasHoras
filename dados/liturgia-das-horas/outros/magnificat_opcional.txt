@@ -1,0 +1,8 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/magnificat_opcional.htm
+@documento Magnificat - Versão opcional
+
+@titulo MAGNIFICAT / {Versão opcional (Ordinário)} / {Lc 1,46-55}
+
+@salmo salmos/trecho-magnificat-opcional
+
+@gloria

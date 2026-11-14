@@ -1,0 +1,51 @@
+@origem aoh.js (código do aplicativo original; texto que antes ficava fora dos HTML)
+@documento 10º Domingo do Tempo Comum — antífonas do Cântico evangélico
+
+@secao I Vésperas (Magnificat)
+
+@antifona vesperas-i-A
+Saindo dali,
+Jesus viu um homem chamado Mateus,
+sentado à banca, cobrando imposto,
+e o chamou: Vem comigo! E ele o seguiu.
+
+@antifona vesperas-i-B
+Se eu expulso os demônios pela força de Deus,
+o Reino dos Céus já chegou até vós.
+
+@antifona vesperas-i-C
+Quando o Senhor viu a viúva, ficou compadecido
+e disse-lhe: Não chores!
+
+@secao Laudes (Benedictus)
+
+@antifona laudes-A
+Cobradores de impostos e muitos outros pecadores
+assentaram-se à mesa com Jesus e seus discípulos.
+
+@antifona laudes-B
+Quando um homem forte e armado
+monta guarda à sua casa,
+todos seus bens ficam seguros.
+
+@antifona laudes-C
+Levanta-te, jovem, te ordeno!
+E sentou-se o que estivera morto.
+E ele, então, pôs-se a falar.
+E Jesus o entregou à sua mãe.
+
+@secao II Vésperas (Magnificat)
+
+@antifona vesperas-ii-A
+Misericórdia é que eu quero;
+eu não quero sacrifício.
+Eu não vim chamar os justos,
+vim chamar os pecadores.
+
+@antifona vesperas-ii-B
+Quem faz a vontade do meu Pai,
+é meu irmão, minha irmã e minha mãe.
+
+@antifona vesperas-ii-C
+Um grande profeta surgiu entre nós,
+e Deus visitou o seu povo, aleluia.

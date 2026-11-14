@@ -1,0 +1,80 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/horas/2terca_leituras.htm
+@documento Ofício das Leituras
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+O Verbo eterno do Pai,
+da luz do Pai emanado,
+nascendo eleva a história,
+caída pelo pecado.
+
+Nos corações, vosso amor
+queime, qual fogo candente.
+Ao escutar vosso anúncio,
+fuja a mentira da mente.
+
+As profundezas dos seres,
+Juiz, vireis penetrar
+e, castigando o culpado,
+o Reino ao justo entregar.
+
+Enfim, libertos das culpas,
+fruto de nossas malícias,
+no céu possamos gozar
+vossas eternas delícias.
+
+Ó Cristo, Rei piedoso,
+a vós e ao Pai toda a glória,
+com o Espírito Santo,
+eterna honra e vitória.
+
+@secao Salmodia
+
+@antifona 1
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá.
+
+@salmo salmos/salmo-036-i
+
+@gloria
+
+@antifona
+Confia ao Senhor o teu destino;
+confia nele e com certeza ele agirá.
+
+@antifona 2
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor.
+
+@salmo salmos/salmo-036-ii
+
+@gloria
+
+@antifona
+Afasta-te do mal e faze o bem,
+pois a força do homem justo é o Senhor.
+
+@antifona 3
+Confia em Deus e segue sempre seus caminhos!
+
+@salmo salmos/salmo-036-iii
+
+@gloria
+
+@antifona
+Confia em Deus e segue sempre seus caminhos!
+
+@texto
+V. No deserto ressoa uma voz:
+Preparai o caminho do Senhor.
+R. Aplainai as estradas de Deus.

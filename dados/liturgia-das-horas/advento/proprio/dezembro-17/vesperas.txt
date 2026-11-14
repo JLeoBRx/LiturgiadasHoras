@@ -1,0 +1,76 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/advento/propriodotempo/17_vesperas.htm
+@documento Próprio - Vésperas - 17 de dezembro
+
+@secao Leitura breve | 1Ts 5,23-24
+
+@texto
+Que o próprio Deus da paz vos santifique totalmente, e que tudo aquilo que sois – espírito, alma, corpo – seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! Aquele que vos chamou é fiel; ele mesmo realizará isso.
+
+@secao Responsório breve
+
+@responsorio
+R. Que o universo rejubile e dê gritos de alegria:
+* Pois o Senhor há de chegar! R. Que o universo.
+V. Eis aqui a habitação de Deus no meio de nós,
+nós seremos o seu povo, e ele, o Deus conosco!
+* Pois o Senhor. Glória ao Pai. R. Que o universo.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Ó Sabedoria, que saístes da boca do Altíssimo,
+e atingis até os confins de todo o universo
+e com força e suavidade governais o mundo inteiro:
+oh vinde ensinar-nos o caminho da prudência!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Ó Sabedoria, que saístes da boca do Altíssimo,
+e atingis até os confins de todo o universo
+e com força e suavidade governais o mundo inteiro:
+oh vinde ensinar-nos o caminho da prudência!
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo Jesus, felicidade e alegria de todos os que o esperam; e digamos:
+
+R. **Vinde, Senhor, e não tardeis!**
+
+Esperado das nações, cheios de alegria, aguardamos vossa vinda;
+– vinde, Senhor Jesus. R.
+
+Vós, que existis eternamente, antes da criação do mundo,
+– vinde salvar os que vivem no mundo. R.
+
+Vós, que criastes o universo e tudo o que nele existe,
+– vinde renovar a obra de vossas mãos. R.
+
+Vós, que não recusastes assumir nossa natureza mortal,
+– vinde libertar-nos do poder da morte. R.
+
+Vós, que viestes à terra para nos dar uma vida nova,
+– vinde e dai-nos a vida eterna. R.
+
+{(intenções livres)}
+
+Vós, que quisestes reunir no vosso reino toda a humanidade,
+– vinde congregar na unidade todos os que esperam a visão de vossa face. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, criador e redentor do gênero humano, quisestes que o vosso Verbo se encarnasse no seio da Virgem. Sede favorável à nossa súplica, para que o vosso Filho Unigênito, tendo recebido nossa humanidade, nos faça participar da sua vida divina. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

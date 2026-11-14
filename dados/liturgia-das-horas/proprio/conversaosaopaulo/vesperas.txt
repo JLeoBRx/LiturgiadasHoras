@@ -1,0 +1,154 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/conversaosaopaulo_vesperas.htm
+@documento Vésperas - Conversão de São Paulo, Apóstolo
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Concelebre a Igreja, cantando,
+de São Paulo a grandeza e esplendor.
+De inimigo se fez um apóstolo
+pelo grande poder do Senhor.
+
+Contra o nome de Cristo lutara,
+inflamado de grande furor,
+mas ardeu maior chama em seu peito
+anunciando de Cristo o amor.
+
+Grande dom mereceu do Senhor:
+no mais alto dos céus escutar
+as palavras do grande mistério
+que a ninguém é devido falar.
+
+Espalhando as sementes do Verbo,
+surgem messes com tais florações,
+que o celeiro dos céus é repleto
+com os frutos das boas ações.
+
+Refulgindo, qual luz, ilumina
+todo o orbe com tal claridade
+que, dos erros a treva expulsando,
+faz reinar, soberana, a verdade.
+
+Glória ao Cristo, a Deus Pai e ao Espírito,
+que governam a toda nação,
+e doaram aos povos da terra
+um tal vaso de sua eleição.
+
+@secao Salmodia
+
+@antifona 1
+De boa mente me glorio nas fraquezas,
+para que a força do Senhor habite em mim.
+
+@salmo salmos/salmo-115
+
+@gloria
+
+@antifona
+De boa mente me glorio nas fraquezas,
+para que a força do Senhor habite em mim.
+
+@antifona 2
+Paulo planta, Apolo rega,
+mas é Deus quem faz crescer.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Paulo planta, Apolo rega,
+mas é Deus quem faz crescer.
+
+@antifona 3
+Para mim viver é Cristo, e morrer é uma vantagem;
+minha glória é a cruz do Senhor Cristo Jesus.
+
+@salmo canticos/ef-1-3-10
+
+@texto
+{(R.} Bendito sejais vós, nosso Pai, que nos abençoastes em Cristo!)
+
+@salmo canticos/ef-1-3-10-v2
+
+@gloria
+
+@antifona
+Para mim viver é Cristo, e morrer é uma vantagem;
+minha glória é a cruz do Senhor Cristo Jesus.
+
+@secao Leitura breve | 1Cor 15,9-10
+
+@texto
+Eu sou o menor dos apóstolos, nem mereço o nome de apóstolo, porque persegui a Igreja de Deus. É pela graça de Deus que eu sou o que sou. Sua graça para comigo não foi estéril: a prova é que tenho trabalhado mais do que os outros apóstolos – não propriamente eu, mas a graça de Deus comigo.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, eu vos dou graças
+* De todo o coração! R. Senhor.
+V. Vou louvar-vos entre os povos. * De todo.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Paulo, apóstolo do Senhor,
+da verdade pregador e doutor dos povos todos:
+Oh, rogai por todos nós junto a Deus que vos chamou!
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Paulo, apóstolo do Senhor,
+da verdade pregador e doutor dos povos todos:
+Oh, rogai por todos nós junto a Deus que vos chamou!
+
+@secao Preces
+
+@preces
+Irmãos, edificados sobre o fundamento dos apóstolos, roguemos a Deus Pai todo-poderoso em favor de seu povo santo; e digamos:
+
+R. **Lembrai-vos, Senhor, da vossa Igreja!**
+
+Vós quisestes, ó Pai, que o vosso Filho, ressuscitado dos mortos, aparecesse em primeiro lugar aos apóstolos;
+– fazei de nós testemunhas do vosso Filho até os confins da terra. R.
+
+Vós, que enviastes vosso Filho ao mundo para evangelizar os pobres,
+– fazei que o Evangelho seja pregado a toda criatura. R.
+
+Vós, que enviastes vosso Filho para semear a palavra do reino,
+– concedei-nos colher na alegria os frutos da palavra semeada com o nosso trabalho. R.
+
+Vós, que enviastes vosso Filho para reconciliar o mundo convosco pelo seu sangue,
+– fazei que todos nós colaboremos na obra da reconciliação de toda a humanidade. R.
+
+{(intenções livres)}
+
+Vós, que glorificastes vosso Filho à vossa direita nos céus,
+– recebei no reino da felicidade eterna os nossos irmãos e irmãs falecidos. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que instruístes o mundo inteiro pela pregação do apóstolo São Paulo, dai-nos, ao celebrar hoje sua conversão, caminhar para vós seguindo seus exemplos, e ser no mundo testemunhas do Evangelho. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

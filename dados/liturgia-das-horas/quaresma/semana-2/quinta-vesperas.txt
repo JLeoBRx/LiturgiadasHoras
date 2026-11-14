@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/horas/2quintaquaresma_vesperas.htm
+@documento Vésperas - Quinta-feira da 2ª Semana da Quaresma
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+
+@secao Hino
+
+@hino
+A abstinência quaresmal
+vós consagrastes, ó Jesus;
+pelo jejum e pela prece,
+nos conduzis da treva à luz.
+
+Ficai presente agora à Igreja,
+ficai presente à penitência,
+pela qual vos suplicamos
+para os pecados indulgência.
+
+Por vossa graça, perdoai
+as nossas culpas do passado;
+contra as futuras protegei-nos,
+manso Jesus, Pastor amado,
+
+Para que nós, purificados
+por esses ritos anuais,
+nos preparemos, reverentes,
+para gozar os dons pascais.
+
+Todo o universo vos adore,
+Trindade Santa, Sumo Bem.
+Novos, por graça, vos cantemos
+um canto novo e belo. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@antifona 2
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@antifona 3
+Chegou agora a salvação e o reino do Senhor.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v3
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o reino do Senhor.
+
+@secao Leitura breve | Tg 4,7-8.10
+
+@texto
+Obedecei a Deus, mas resisti ao diabo, e ele fugirá de vós. Aproximai-vos de Deus, e ele se aproximará de vós. Purificai as mãos, ó pecadores, e santificai os corações, homens dúbios. Humilhai-vos diante do Senhor, e ele vos exaltará.
+
+@secao Responsório breve
+
+@responsorio
+R. Senhor, atendei minha prece,
+* Meu clamor chegue a vós! R. Senhor.
+V. Escutai-me, no dia em que chamo. * Meu clamor.
+Glória ao Pai. R. Senhor.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O rico em seus tormentos implorou uma gota d'água,
+ele que a Lázaro negara as migalhas do seu pão.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O rico em seus tormentos implorou uma gota d'água,
+ele que a Lázaro negara as migalhas do seu pão.
+
+@secao Preces
+
+@preces
+Proclamemos a misericórdia de Deus, que nos ilumina com a graça do Espírito Santo, para que resplandeçam em nossas obras a justiça e a santidade; e supliquemos:
+
+R. **Dai a vida, Senhor, ao povo que Cristo redimiu!**
+
+Senhor, fonte e autor de toda santidade, fortalecei os bispos, os sacerdotes e os diáconos em sua união com Cristo por meio do mistério eucarístico,
+– para que se renove sempre mais a graça que receberam pela imposição das mãos. R.
+
+Ensinai os vossos fiéis a participarem de modo mais digno e ativo na mesa da Palavra e do Corpo de Cristo,
+– para que mantenham na vida e nos costumes o que receberam pela fé e pelos sacramentos. R.
+
+Ensinai-nos a reconhecer a dignidade de cada pessoa humana, redimida pelo Sangue de vosso Filho,
+– e a respeitarmos a liberdade e a consciência de nossos irmãos e irmãs. R.
+
+Fazei que todos os seres humanos saibam moderar seus desejos de bens temporais,
+– e atendam às necessidades do próximo. R.
+
+{(intenções livres)}
+
+Tende piedade dos fiéis que hoje chamastes desta vida para vós,
+– e concedei-lhes o dom da eterna bem-aventurança. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que amais e restaurais a inocência, orientai para vós os corações dos vossos filhos e filhas para que, renovados pelo vosso Espírito, sejamos firmes na fé e eficientes nas obras. Por nosso Senhor, Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

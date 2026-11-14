@@ -1,0 +1,157 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/saojoao_laudes.htm
+@documento Laudes - Natividade de São João Batista
+
+@titulo Laudes
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente às Laudes.}
+
+@secao Hino
+
+@hino
+Logo ao nasceres não trazes mancha,
+João Batista, severo asceta,
+Mártir potente, do ermo amigo,
+grande profeta.
+
+De trinta frutos uns se coroam;
+a fronte de outros o dobro cinge.
+Tua coroa, dando três voltas,
+os cem atinge.
+
+Assim cingido de tanto mérito,
+retira as pedras do nosso peito,
+torto caminho, chão de alto e baixo,
+torna direito.
+
+Faze que um dia, purificados,
+vindo a visita do Redentor,
+possa em noss'alma, que preparaste,
+seus passos pôr.
+
+A vós, Deus único, o céu celebra,
+Trino em pessoas canta também.
+Mas nós na terra, impuros, pedimos
+perdão. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Será João o seu nome
+e o seu nascimento vai trazer-te alegria
+e a muitos também
+
+@salmo salmos/salmo-062-2-9
+
+@gloria
+
+@antifona
+Será João o seu nome
+e o seu nascimento vai trazer-te alegria
+e a muitos também
+
+@antifona 2
+Com o espírito e a força de Elias,
+ele irá à sua frente preparar
+um povo convertido para Deus.
+
+@rubrica
+No cântico que se segue o refrão entre parênteses é opcional.
+
+@salmo canticos/dn-3-57-88-56
+
+@texto
+{(R.} Louvai-o e exaltai-o pelos séculos sem fim!
+{ou}
+R. A ele glória e louvor eternamente!)
+
+@salmo canticos/dn-3-57-88-56-v2
+
+@texto
+{No fim deste cântico não se diz o} Glória ao Pai.
+
+@antifona
+Com o espírito e a força de Elias,
+ele irá à sua frente preparar
+um povo convertido para Deus.
+
+@antifona 3
+Serás profeta do Altíssimo, ó Menino,
+pois irás andando à frente do Senhor
+para aplainar e preparar os seus caminhos.
+
+@salmo salmos/salmo-149
+
+@gloria
+
+@antifona
+Serás profeta do Altíssimo, ó Menino,
+pois irás andando à frente do Senhor
+para aplainar e preparar os seus caminhos.
+
+@secao Leitura breve | Ml 3,23-24
+
+@texto
+Eis que eu vos enviarei o profeta Elias, antes que venha o dia do Senhor, dia grande e terrível; o coração dos pais há de voltar-se para os filhos, e o coração dos filhos para seus pais, para que eu não intervenha, ferindo de maldição a vossa terra.
+
+@secao Responsório breve
+
+@responsorio
+R. Será grande aos olhos de Deus,
+* Será cheio do Espírito Santo. R. Será grande.
+V. Ele irá preparar para Deus um povo voltado ao Senhor. * Será cheio.
+Glória ao Pai. R. Será grande.
+
+@secao Cântico evangélico (Benedictus) | Lc 1,68-79
+
+@antifona
+Profetizando, Zacarias exclamou:
+Bendito seja o Senhor Deus de Israel!
+
+@salmo canticos/benedictus
+
+@gloria
+
+@antifona
+Profetizando, Zacarias exclamou:
+Bendito seja o Senhor Deus de Israel!
+
+@secao Preces
+
+@preces
+Invoquemos a Cristo, que enviou João Batista como precursor, para preparar os seus caminhos; e digamos com toda confiança:
+
+R. **Cristo, sol nascente, iluminai os nossos caminhos!**
+
+Vós fizestes João Batista exultar de alegria no seio de Isabel;
+– fazei que sempre nos alegremos com a vossa vinda a este mundo. R.
+
+Vós nos indicastes o caminho da penitência pela palavra e pela vida de João Batista;
+– convertei os nossos corações aos mandamentos do vosso reino. R.
+
+Vós quisestes ser anunciado pela voz de um homem;
+– enviai pelo mundo inteiro mensageiros do vosso evangelho. R.
+
+Vós quisestes ser batizado por João no rio Jordão, para que se cumprisse toda a justiça;
+– fazei-nos trabalhar com empenho para estabelecer a justiça do vosso reino. R.
+
+{(intenções livres)}
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que suscitastes São João Batista, a fim de preparar para o Senhor um povo perfeito, concedei à vossa Igreja as alegrias espirituais e dirigi nossos passos no caminho da salvação e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

@@ -1,0 +1,59 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/quaresma/oficiodasleituras/bienal/4terca_quaresma_impar.htm
+@documento Ofício das Leituras - 4ª Semana Da Quaresma - Terça-Feira
+
+@secao Primeira leitura
+
+@leitura
+Da Carta aos Hebreus {8,1-13}
+
+@tema
+O sacerdócio de Cristo na Nova Aliança
+
+@texto
+Irmãos, o tema mais importante da nossa exposição é este: temos tal sacerdote que se _assentou_ à direita do trono da Majestade nos céus. Ele é ministro do Santuário e da _Tenda_, a verdadeira, _armada pelo Senhor_, e não por homem. Todo sumo sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios; pelo que é necessário ter ele mesmo algo a oferecer. Na verdade, contudo, se Jesus estivesse na terra, não seria nem mesmo sacerdote. Pois já existem os que oferecem dádivas, de acordo com a Lei. Estes realizam um culto que é cópia e sombra de realidades celestes, de acordo com a instituição divina recebida por Moisés a fim de construir a Tenda. Foi-lhe dito, com efeito: _Vê que faças_ _tudo segundo o modelo que te foi mostrado na__montanha_. Agora, porém, Cristo possui um ministério superior. Pois é ele o mediador de aliança bem melhor, cuja constituição se baseia em melhores promessas. De fato, se a primeira aliança fora sem efeito, não se trataria de substituí-la pela segunda. Ele faz, com efeito, uma repreensão: _Dias virão, diz o Senhor,_ _nos quais realizarei com a casa de Israel_ _e com a casa de Judá uma nova aliança._ _Não como a aliança que fiz com os pais deles,_ _no dia em que os conduzi pela mão,_ _para fazê-los sair da terra do Egito._ _Pois eles mesmos_ _não mantiveram a minha aliança;_ _por isso não me interessei por eles,_ _diz o Senhor._ _Eis a aliança pela qual ficarei unido ao povo de Israel_ _depois daqueles dias, diz o Senhor:_ _Porei minhas leis na sua mente,_ _e as inscreverei no seu coração;_ _e eu serei seu Deus,_ _e eles serão meu povo._ _Ninguém mais ensinará o seu próximo,_ _e nem o seu irmão, afirmando:_ _“Conhece o Senhor!”_ _Porque todos me conhecerão,_ _do menor até o maior._ _Porque terei misericórdia das suas faltas,_ _e não me lembrarei mais dos seus pecados._ Assim sendo, ao falar de _nova aliança_, tornou velha a primeira. Ora, o que se torna antigo e envelhece está prestes a desaparecer.
+
+@secao Responsório | Hb 8,1.2; 9,24
+
+@responsorio
+R. Nós temos um sumo sacerdote,
+que se sentou à direita do trono da Majestade, nas alturas dos céus.
+Ele é ministro do Santuário e da Tenda verdadeira.
+* A fim de comparecer, agora,
+na presença de Deus, em nosso favor.
+V. Cristo não entrou num santuário feito por mão humana,
+imitação do verdadeiro, mas no próprio céu.* A fim de.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de São Leão Magno, papa
+{(Tract. 60 de Passione Domini, 1-2: CCL 138A,363-365)}
+
+@tema
+Na imolação de Cristo está a verdadeira Páscoa e o único sacrifício
+
+@texto
+Filhos caríssimos, não estamos mais à espera de que se manifeste o mistério da Paixão do Senhor. Estabelecido desde a eternidade para a salvação do gênero humano, e prenunciado de muitas maneiras nos séculos passados, já o adoramos realizado. Para esse conhecimento, concorrem os testemunhos do Antigo e do Novo Testamento. A narração do Evangelho esclarece o que foi anunciado pela trombeta profética: _Um_ _abismo atrai outro abismo, ao fragor das cascatas_ (Sl 41,8), porque a sublimidade de um Testamento corresponde exatamente à do outro, ao narrar a glória da graça divina. E o que estava oculto sob o véu das figuras se torna manifesto à luz da revelação. Nos próprios milagres do Salvador, que se realizavam sob o olhar do povo, poucos experimentavam a presença da verdade. Até mesmo os discípulos, perturbados com a paixão que o Senhor aceitou por livre vontade, não escaparam ao escândalo da cruz sem passar pela tentação do medo. Como, então, nossa fé chegaria à compreensão da realidade, para nossa consciência receber a força necessária, se não víssemos prenunciados os acontecimentos realmente ocorridos? E agora, depois que, tendo assumido nossa fraqueza, Cristo chegou à exaltação do seu poder, a festa da Páscoa não pode ser ofuscada por qualquer tristeza dos fiéis. Devemos relembrar sem consternação os fatos sucedidos, pois o Senhor de tal modo se serviu da perversidade dos judeus, que a intenção criminosa se transformou em vontade transbordante de misericórdia. Quando Israel saiu do Egito, o sangue do cordeiro restituiu a liberdade e celebrou-se uma festa sagrada, porque se conjurou a ira do anjo devastador. Qual deve ser, então, a felicidade dos povos cristãos, pelos quais Deus Todo-poderoso _não poupou seu próprio Filho, mas o entregou_ _por todos nós?_ (Rm 8,32). E assim, na imolação de Cristo, está a verdadeira Páscoa e o único sacrifício, mediante o qual se liberta não apenas o povo da dominação do Faraó, mas o mundo todo do cativeiro do demônio.
+
+@secao Responsório | Hb 9,22.23;Lv 17,11
+
+@responsorio
+R. Segundo a Lei, sem efusão de sangue não existe perdão.
+* Portanto, as cópias das realidades celestes
+tinham de ser purificadas dessa maneira;
+mas as próprias realidades celestes
+devem ser purificadas com sacrifícios melhores.
+V. Assim fala o Senhor: Eu vos dei o sangue sobre o altar,
+a fim de que sirva de expiação para vossas almas.
+* Portanto.
+
+@secao Oração
+
+@oracao
+Ó Deus, que a fiel observância dos exercícios quaresmais prepare o coração dos vossos filhos e filhas para acolher com amor o mistério pascal e anunciar ao mundo a salvação. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

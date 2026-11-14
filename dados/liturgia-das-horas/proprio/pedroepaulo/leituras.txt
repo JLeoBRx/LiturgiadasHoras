@@ -1,0 +1,237 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedroepaulo.htm
+@documento Ofício das Leituras - São Pedro E São Paulo, Apóstolos Solenidade
+
+@celebracao
+SÃO PEDRO E SÃO PAULO, APÓSTOLOS
+{Solenidade}
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+A festa dos Apóstolos
+alegra todo o mundo
+até os seus extremos,
+com júbilo profundo.
+
+Louvamos Pedro e Paulo,
+por Cristo consagrados
+colunas das Igrejas
+no sangue derramado.
+
+São duas oliveiras
+diante do Senhor,
+brilhantes candelabros
+de esplêndido fulgor.
+
+Do céu luzeiros claros,
+desatam todo laço
+de culpa, abrindo aos santos
+de Deus o eterno Paço.
+
+Ao Pai louvor e glória
+nos tempos sem fronteiras.
+Império a vós, ó Filho,
+beleza verdadeira.
+
+Poder ao Santo Espírito,
+Amor e Sumo Bem.
+Louvores à Trindade
+nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Se me amas, Simão Pedro, apascenta minhas ovelhas.
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@antifona
+Se me amas, Simão Pedro, apascenta minhas ovelhas.
+
+@antifona 2
+Para mim viver é Cristo e morrer é uma vantagem;
+minha glória é a cruz do Senhor Cristo Jesus.
+
+@salmo salmos/salmo-063
+
+@gloria
+
+@antifona
+Para mim viver é Cristo e morrer é uma vantagem;
+minha glória é a cruz do Senhor Cristo Jesus.
+
+@antifona 3
+Senhor, se és tu mesmo,
+ordena que eu caminhe
+ao teu encontro sobre as águas.
+
+@salmo salmos/salmo-096
+
+@gloria
+
+@antifona
+Senhor, se és tu mesmo,
+ordena que eu caminhe
+ao teu encontro sobre as águas.
+
+@texto
+V. A palavra do Senhor permanece eternamente;
+R. E esta é a palavra que vos foi anunciada.
+
+@secao Primeira leitura
+
+@leitura
+Da Carta de São Paulo aos Gálatas {1,15-2,10}
+
+@tema
+Encontro de Pedro e Paulo
+
+@texto
+Irmãos: [1,15] Quando aquele que me separou desde o ventre materno e me chamou por sua graça [16] se dignou revelar-me o seu Filho, para que eu o pregasse entre os pagãos, não consultei carne nem sangue [17] nem subi, logo, a Jerusalém para estar com os que eram apóstolos antes de mim. Pelo contrário, parti para a Arábia e, depois, voltei ainda a Damasco. [18] Três anos mais tarde, fui a Jerusalém para conhecer Cefas e fiquei com ele quinze dias. [19] E não estive com nenhum outro apóstolo, a não ser Tiago, o irmão do Senhor. [20] Escrevendo estas coisas, afirmo diante de Deus que não estou mentindo. [21] Depois, fui para as regiões da Síria e da Cilícia. [22] Ainda não era pessoalmente conhecido das Igrejas da Judeia que estão em Cristo. [23] Apenas tinham ouvido dizer que “aquele que, antes, nos perseguia, está agora pregando a fé que, antes, procurava destruir”. [24] E glorificavam a Deus por minha causa. [2,1] Quatorze anos mais tarde, subi, de novo, a Jerusalém, com Barnabé, levando também Tito comigo. [2] Fui lá, por causa de uma revelação. Expus-lhes o evangelho que tenho pregado entre os pagãos, o que fiz em particular aos líderes da Igreja, para não acontecer estivesse eu correndo em vão ou tivesse corrido em vão. [3] Mas nem Tito, meu companheiro, embora pagão, foi obrigado a circuncidar-se, [4] e isso, não obstante a presença de falsos irmãos, intrusos, que sorrateiramente se introduziram entre nós, para espionar a liberdade que temos em Cristo Jesus, com o fim de nos escravizarem. [5] A essas pessoas não fizemos concessão, nem por um momento, para que a verdade do evangelho continuasse íntegra, no vosso meio. [6] Quanto aos líderes da Igreja – o que tenham sido outrora não me interessa; Deus não faz acepção de pessoas – eles não me impuseram nada de novo. [7] Pelo contrário, viram que a evangelização dos pagãos foi confiada a mim, como a Pedro foi confiada a evangelização dos judeus. [8] De fato, aquele que preparou Pedro para o apostolado entre os judeus preparou-me também a mim para o apostolado entre os pagãos. [9] Reconhecendo a graça que me foi dada, Tiago, Cefas e João, considerados as colunas da Igreja, deram-nos a mão, a mim e a Barnabé, como sinal de nossa comunhão recíproca. Assim ficou confirmado que nós iríamos aos pagãos e eles iriam aos judeus. [10] O que nos recomendaram foi somente que nos lembrássemos dos pobres. E isso procurei fazer sempre, com toda a solicitude.
+
+@secao Responsório | Mt 16,18-19
+
+@responsorio
+R. Eu te digo: Tu és Pedro
+e nesta pedra eu irei construir minha Igreja
+e as portas do inferno nunca hão de vencê-la.
+* Hei de dar-te as chaves do reino dos céus.
+V. O que ligares na terra será ligado nos céus;
+e o que na terra desligares, nos céus, igualmente,
+será desligado. * Hei de dar-te.
+
+@secao Segunda leitura
+
+@leitura
+Dos Sermões de Santo Agostinho, bispo
+{(Séc.V)} {(Sermo 295,1-2.4.7-8:PL38,1348-1352)}
+
+@tema
+Estes mártires viram o que pregaram
+
+@texto
+O martírio dos santos apóstolos Pedro e Paulo consagrou para nós este dia. Não falamos de mártires desconhecidos. _Sua voz ressoa e se espalha em toda a terra, chega aos confins do mundo a sua palavra_ (Sl 18,5). Estes mártires viram o que pregaram, seguiram a justiça, proclamaram a verdade, morreram pela verdade. São Pedro, o primeiro dos apóstolos, que amava Cristo ardentemente, mereceu escutar: _Por isso eu te digo que tu és Pedro_ (Mt 16,19). Antes, ele havia dito: _Tu és o Messias, o Filho do Deus vivo_ (Mt 16,16). E Cristo retorquiu: _Por isso eu te digo que tu és Pedro e sobre esta pedra construirei minha Igreja_ (Mt 16,18). Sobre esta pedra construirei a fé que haverás de proclamar. Sobre a afirmação que fizeste: Tu és o Messias, o Filho do Deus vivo, construirei a minha Igreja. Porque tu és Pedro. Pedro vem de pedra; não é pedra que vem de Pedro. Pedro vem de pedra, como cristão vem de Cristo. Como sabeis, o Senhor Jesus, antes de sua paixão, escolheu alguns discípulos, aos quais deu o nome de apóstolos. Dentre estes, somente Pedro mereceu representar em toda parte a personalidade da Igreja inteira. Porque sozinho representava a Igreja inteira, mereceu ouvir estas palavras: Eu _te darei as chaves do Reino dos Céus_ (Mt 16,19). Na verdade, quem recebeu estas chaves não foi um único homem, mas a Igreja una. Assim manifesta-se a superioridade de Pedro, que representava a universalidade e a unidade da Igreja, quando lhe foi dito: _Eu te darei_. A ele era atribuído pessoalmente o que a todos foi dado. Com efeito, para que saibais que a Igreja recebeu as chaves do Reino dos Céus, ouvi o que, em outra passagem, o Senhor diz a todos os seus apóstolos: _Recebei o Espírito Santo._ E em seguida: _A quem perdoardes os pecados, eles serão perdoados; a quem os não perdoardes, eles lhes serão retidos_ (Jo 20,22-23). No mesmo sentido, também depois da ressurreição, o Senhor entregou a Pedro a responsabilidade de apascentar suas ovelhas. Não que dentre os outros discípulos só ele merecesse pastorear as ovelhas do Senhor; mas quando Cristo fala a um só, quer, deste modo, insistir na unidade da Igreja. E dirigiu-se a Pedro, de preferência aos outros, porque, entre os apóstolos, Pedro é o primeiro. Não fiques triste, ó apóstolo! Responde uma vez, responde uma segunda, responde uma terceira vez. Vença por três vezes a tua profissão de amor, já que por três vezes o temor venceu a tua presunção. Desliga por três vezes o que por três vezes ligaste. Desliga por amor o que ligaste por temor. E assim, o Senhor confiou suas ovelhas a Pedro, uma, duas e três vezes. Num só dia celebramos o martírio dos dois apóstolos. Na realidade, os dois eram como um só. Embora tenham sido martirizados em dias diferentes, deram o mesmo testemunho. Pedro foi à frente; Paulo o seguiu. Celebramos o dia festivo consagrado para nós pelo sangue dos apóstolos. Amemos a fé, a vida, os trabalhos, os sofrimentos, os testemunhos e as pregações destes dois apóstolos.
+
+@secao Responsório
+
+@responsorio
+R. Apóstolo Paulo, pregador da verdade
+e doutor dos gentios.
+* Mereceis, na verdade, ser glorificado.
+V. Pelo vosso ministério os povos todos conheceram
+a graça do Senhor. * Mereceis.
+
+@secao Hino
+
+@secao TE DEUM (A VÓS, Ó DEUS, LOUVAMOS)
+
+@hino
+A vós, ó Deus, louvamos,
+a vós, Senhor, cantamos.
+A vós, Eterno Pai,
+adora toda a terra.
+
+A vós cantam os anjos,
+os céus e seus poderes:
+Sois Santo, Santo, Santo,
+Senhor, Deus do universo!
+
+Proclamam céus e terra
+a vossa imensa glória.
+A vós celebra o coro
+glorioso dos Apóstolos,
+
+Vos louva dos Profetas
+a nobre multidão
+e o luminoso exército
+dos vossos santos Mártires.
+
+A vós por toda a terra
+proclama a Santa Igreja,
+ó Pai onipotente,
+de imensa majestade,
+
+e adora juntamente
+o vosso Filho único,
+Deus vivo e verdadeiro,
+e ao vosso Santo Espírito.
+
+Ó Cristo, Rei da glória,
+do Pai eterno Filho,
+nascestes duma Virgem,
+a fim de nos salvar.
+
+Sofrendo vós a morte,
+da morte triunfastes,
+abrindo aos que têm fé
+dos céus o reino eterno.
+
+Sentastes à direita
+de Deus, do Pai na glória.
+Nós cremos que de novo
+vireis como juiz.
+
+Portanto, vos pedimos:
+salvai os vossos servos,
+que vós, Senhor, remistes
+com sangue precioso.
+
+Fazei-nos ser contados,
+Senhor, vos suplicamos,
+em meio a vossos santos
+na vossa eterna glória.
+
+@rubrica
+(A parte que se segue pode ser omitida, se for oportuno).
+
+@hino
+Salvai o vosso povo.
+Senhor, abençoai-o.
+Regei-nos e guardai-nos
+até a vida eterna.
+
+Senhor, em cada dia,
+fiéis, vos bendizemos,
+louvamos vosso nome
+agora e pelos séculos.
+
+Dignai-vos, neste dia,
+guardar-nos do pecado.
+Senhor, tende piedade
+de nós, que a vós clamamos.
+
+Que desça sobre nós,
+Senhor, a vossa graça,
+porque em vós pusemos
+a nossa confiança.
+
+Fazei que eu, para sempre,
+não seja envergonhado:
+Em vós, Senhor, confio,
+sois vós minha esperança!
+
+@secao Oração
+
+@oracao
+Ó Deus, que hoje nos concedeis a alegria de festejar São Pedro e São Paulo, concedei à vossa Igreja seguir em tudo os ensinamentos destes Apóstolos que nos deram as primícias da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+{Ou}
+{(oração da Missa da Vigília)}
+Senhor nosso Deus, concedei-nos os auxílios necessários à salvação, pela intercessão dos Apóstolos São Pedro e São Paulo, pelos quais destes à vossa Igreja os primeiros benefícios da fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

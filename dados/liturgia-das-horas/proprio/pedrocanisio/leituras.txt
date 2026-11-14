@@ -1,0 +1,174 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/oficiodasleituras/pedrocanisio.htm
+@documento Ofício das Leituras - São Pedro Canísio, Presbítero E Doutor Da Igreja
+
+@celebracao
+SÃO PEDRO CANÍSIO, PRESBÍTERO E DOUTOR DA IGREJA
+
+@biografia
+Nasceu em Nimega (Holanda), no ano de 1521. Fez seus estudos em Colônia e ingressou na Companhia de Jesus, recebendo o sacerdócio em 1546. Enviado à Alemanha, trabalhou incansavelmente durante muitos anos, pela pregação e pelos escritos, na defesa e fortalecimento da fé católica. Publicou numerosas obras, dentre as quais destaca-se o seu “Catecismo”. Morreu em Friburgo (Suíça), no ano de 1597.
+
+@titulo Ofício das Leituras
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+{Esta introdução se omite quando o Invitatório precede imediatamente ao Ofício das Leituras.}
+
+@secao Hino
+
+@hino
+Eterno Sol, que envolveis
+a criação de esplendor,
+a vós, Luz pura das mentes,
+dos corações o louvor.
+
+Pelo poder do Espírito,
+lâmpadas vivas brilharam.
+Da salvação os caminhos
+a todo o mundo apontaram.
+
+Por estes servos da graça
+fulgiu com novo esplendor
+o que a palavra proclama
+e que a razão demonstrou.
+
+Tem parte em suas coroas,
+pela doutrina mais pura,
+este varão que louvamos
+e como estrela fulgura.
+
+Por seu auxílio pedimos:
+dai-nos, ó Deus, caminhar
+na direção da verdade
+e assim a vós alcançar.
+
+Ouvi-nos, Pai piedoso,
+e vós, ó Filho, também,
+com o Espírito Santo,
+Rei para sempre. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@salmo salmos/salmo-020-2-8-14
+
+@gloria
+
+@antifona
+Quem quiser ser o primeiro,
+seja o servo, seja o último. Aleluia.
+
+@antifona 2
+Quando vier o supremo Pastor de nossas almas,
+recebereis a coroa de glória imperecível. Aleluia.
+
+@salmo salmos/salmo-091-i
+
+@gloria
+
+@antifona
+Quando
+
+@antifona 3
+Servo bom e fiel,
+vem entrar na alegria de Jesus, teu Senhor. Aleluia.
+
+@salmo salmos/salmo-091-ii
+
+@gloria
+
+@antifona
+Servo bom e fiel,
+
+@texto
+V. Ouvirás uma palavra de meus lábios. Aleluia.
+
+R. E haverás de transmitir-lhes em meu nome. Aleluia.
+
+@secao Primeira leitura
+
+@leitura
+Do Livro do Eclesiástico {39,1b-14}
+
+@tema
+O sábio, versado nas Escrituras
+
+@texto
+[1b] O sábio busca a sabedoria de todos os antigos
+e dedica o seu tempo às profecias.
+[2] Conserva as narrações dos homens célebres,
+penetra na sutileza das parábolas.
+[3] Investiga o sentido oculto dos provérbios,
+deleita-se com os segredos das parábolas.
+[4] Presta serviços no meio dos grandes
+e apresenta-se diante dos que governam.
+[5] Percorre as terras dos povos estrangeiros,
+experimentando o que é bom e mal entre os homens.
+[6] Empenha bem cedo o coração,
+a dirigir-se ao Senhor que o criou,
+elevando suas orações ao Altíssimo.
+[7] Abre a sua boca para rezar
+e pede perdão pelos próprios pecados.
+[8] E se o Senhor, em sua grandeza, quiser,
+ele será repleto do espírito de inteligência.
+[9] Fará chover as palavras da sua sabedoria,
+e em sua oração dará graças ao Senhor.
+[10] Conservará retos o seu conselho e a sua ciência,
+e aprofundará os segredos divinos.
+[11] Ensinará publicamente a instrução recebida
+e se gloriará na Lei da Aliança do Senhor.
+[12] Muitos louvarão a sua sabedoria,
+a qual jamais será esquecida.
+[13] Sua lembrança nunca se apagará,
+e seu nome vai ser recordado de geração em geração.
+[14] As nações hão de proclamar a sua sabedoria
+e a assembleia celebrará o seu louvor.
+
+@secao Responsório | Cf. Eclo 15,5-6
+
+@responsorio
+R. No meio da assembleia falou palavras sábias.
+* Deus o encheu com seu Espírito de saber e inteligência.
+V. Guardou tesouros para ele de alegria e de júbilo.
+* Deus o encheu.
+
+@secao Segunda leitura
+
+@leitura
+Dos Escritos de São Pedro Canísio, presbítero
+{(Séc. XVI)} {(Edit. O. Braunsberger, Petri Canisii Epistulae et Acta I, Friburgi Brisgoviae, 1896, p. 53-55)}
+
+@tema
+Sabes, Senhor, como e quantas vezes, naquele mesmo dia, me confiaste a Alemanha
+
+@texto
+Antes de partir para a Alemanha São Pedro Canísio, merecidamente chamado seu segundo apóstolo, depois de ter recebido a bênção apostólica, experimentou altíssimas graças espirituais, que ele mesmo descreveu com as seguintes palavras:
+
+“Quis a tua imensa bondade, ó Pontífice eterno, que eu recomendasse com solicitude o efeito e a confirmação da bênção apostólica a teus Apóstolos, que são visitados no Vaticano e que, sob a tua proteção, operam tantas maravilhas. Ali senti grande consolação, e a presença da tua graça que me era dada por tais intercessores. Com efeito, eles abençoavam e confirmavam minha missão na Alemanha; pareciam prometer conceder-me seu favor como a um apóstolo deste país. Sabes, Senhor, como e quantas vezes, naquele mesmo dia, me confiaste a Alemanha; por ela desde então comecei a ter muita solicitude, por ela desejava morrer e viver.
+Enfim, como se me abrisse o Coração de teu Corpo santíssimo, que parecia ver diante de mim, tu me ordenaste beber daquela fonte, convidando-me a saciar a sede nas águas vivas da salvação que brotam das tuas fontes, ó Salvador meu. Desejava intensamente que dali se derramassem sobre mim torrentes de fé, de esperança e de caridade. Tinha sede de pobreza, de castidade e de obediência; suplicava ser totalmente lavado, vestido e adornado por ti. Por isso, após haver ousado tocar em teu dulcíssimo Coração e nele saciado a minha sede, tu me prometias uma veste tecida em três partes, que pudessem cobrir a nudez de minha alma e realizar com êxito a minha missão: eram paz, amor e perseverança. Revestido deste ornamento salutar, tinha confiança que nada me faltaria, mas tudo se realizaria para a tua glória”.
+
+@secao Responsório | Mt 13,52; Pr 14,33
+
+@responsorio
+R. Todo mestre da lei
+que se torna discípulo do Reino dos céus.
+* É como um pai de família:
+de seu tesouro ele tira o novo e o velho.
+V. No coração do prudente está a sabedoria
+e ela há de ensinar àqueles que a ignoram.* É como.
+
+@secao Oração
+
+@oracao
+Ó Deus que, para a defesa da fé católica, destes ao presbítero São Pedro Canísio saber e coragem, concedei a todos os que vos procuram a graça de vos encontrar, e aos que creem em vós, a perseverança na fé. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

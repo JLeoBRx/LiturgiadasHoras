@@ -1,0 +1,77 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ascensaodosenhor_sexta.htm
+@documento Hora Média - Ascensão do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, servos suplicantes,
+elevai a mente e a voz:
+celebrai com vossos cantos,
+o amor de Deus por nós.
+
+Porque foi neste momento
+que a sentença de um mortal
+entregou à morte injusta
+o Juiz universal.
+
+E nós, súditos humildes,
+por amor e por temor,
+contra todo mau desígnio
+do perverso tentador,
+
+imploremos a clemência
+de Deus Pai, eterno Bem,
+do seu Filho, nosso Rei,
+e do Espírito Santo. Amém.
+
+@secao Salmodia
+
+@antifona
+De um extremo do céu põe-se a correr
+e vai traçando seu rastro luminoso,
+até que possa chegar ao outro extremo. Aleluia.
+
+@salmo salmos/salmo-008
+
+@gloria
+
+@salmo salmos/salmo-018a
+
+@gloria
+
+@salmo salmos/salmo-018b
+
+@gloria
+
+@antifona
+De um extremo do céu põe-se a correr
+e vai traçando seu rastro luminoso,
+até que possa chegar ao outro extremo. Aleluia.
+
+@secao Leitura breve | Hb 8,1b-3a
+
+@texto
+Temos um sumo-sacerdote tão grande, que se assentou à direita do trono da majestade, nos céus. Ele é ministro do Santuário e da Tenda verdadeira, armada pelo Senhor, e não por mão humana. Todo o sumo-sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios.
+
+@texto
+V. O Senhor pôs o seu trono lá nos céus. Aleluia.
+R. E abrange o mundo inteiro seu reinado. Aleluia.
+
+@secao Oração
+
+@oracao
+Ó Deus todo-poderoso, a ascensão do vosso Filho já é nossa vitória. Fazei-nos exultar de alegria e fervorosa ação de graças, pois, membros de seu corpo, somos chamados na esperança a participar da sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

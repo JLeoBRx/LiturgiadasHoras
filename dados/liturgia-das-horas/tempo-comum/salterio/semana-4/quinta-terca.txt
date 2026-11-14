@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4quinta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Se me amais, diz o Senhor,
+guardareis os meus preceitos.
+
+@salmo salmos/salmo-118-153-160-xx-res
+
+@gloria
+
+@antifona
+Se me amais, diz o Senhor,
+guardareis os meus preceitos.
+
+@antifona 2
+O Senhor te abençoe,
+e possas ver a paz cada dia de tua vida.
+
+@salmo salmos/salmo-127
+
+@gloria
+
+@antifona
+O Senhor te abençoe,
+e possas ver a paz cada dia de tua vida.
+
+@antifona 3
+O Senhor lutará contra os teus inimigos.
+
+@salmo salmos/salmo-128
+
+@gloria
+
+@antifona
+O Senhor lutará contra os teus inimigos.
+
+@secao Leitura breve | 1Jo 3,23-24
+
+@texto
+Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu. Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele. Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.
+
+@texto
+V. Confirmai o vosso justo, Deus-justiça.
+R. Vós que sondais os nossos rins e corações.
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que nesta hora enviastes o Espírito Santo aos Apóstolos em oração, concedei-nos participar do mesmo Dom. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

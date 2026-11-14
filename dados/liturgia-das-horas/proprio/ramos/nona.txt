@@ -1,0 +1,80 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ramos_nona.htm
+@documento Hora Média - Domingo de Ramos da Paixão do Senhor
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Todo o mundo fiel rejubile
+na alegria de tal salvação:
+destruindo a potência da morte,
+Jesus Cristo nos traz redenção.
+
+De oliveira com ramos e palmas,
+todo o povo, com voz triunfal,
+canta hosanas ao Rei de Israel,
+de Davi descendente real.
+
+Nós também, acorrendo ao encontro
+de tal Rei, com hosanas de glória,
+seguremos na mão nossas palmas
+de alegria e de fé na vitória.
+
+Por seus dons, nos caminhos da vida,
+nos conduza e defenda o Senhor.
+E possamos, em todos os tempos,
+tributar-lhe o devido louvor.
+
+Glória ao Pai e a Jesus, Filho único,
+Deus de Deus, Luz da Luz, Sumo Bem,
+com o Espírito, o Amor que consola,
+pelos séculos dos séculos. Amém.
+
+@secao Salmodia
+
+@antifona
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Para mim, viver é Cristo e morrer é uma vantagem;
+minha glória é a Cruz do Senhor Cristo Jesus.
+
+@secao Leitura breve | 1Pd 5,10-11
+
+@texto
+Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. A ele pertence o poder, pelos séculos dos séculos. Amém.
+
+@texto
+V. Veneremos o sinal da santa cruz,
+R. Pela qual a salvação veio até nós.
+
+@secao Oração
+
+@oracao
+Deus eterno e todo-poderoso, para dar aos seres humanos um exemplo de humildade, quisestes que o nosso Salvador se fizesse homem e morresse na cruz. Concedei-nos aprender o ensinamento da sua Paixão e ressuscitar com ele em sua glória. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

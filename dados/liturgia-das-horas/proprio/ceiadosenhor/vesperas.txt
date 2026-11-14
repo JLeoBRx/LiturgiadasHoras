@@ -1,0 +1,145 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/proprio/horas/ceiadosenhor_vesperas.htm
+@documento Vésperas - Ceia do Senhor
+
+@titulo TRÍDUO PASCAL / DA PAIXÃO E RESSURREIÇÃO DO SENHOR / CEIA DO SENHOR
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém.
+{Hoje rezam as Vésperas somente os que não participam da Missa vespertina da Ceia do Senhor.}
+
+@secao Hino
+
+@hino
+Memória da morte
+de Cristo Senhor,
+Pão vivo, que ao homem
+dá vida e valor,
+fazei-me viver
+de vossa ternura,
+sentindo nos lábios
+a vossa doçura.
+
+Fiel pelicano,
+Jesus, meu Senhor,
+lavai-me no sangue,
+a mim pecador;
+pois dele uma gota
+já salva e redime
+a todo o Universo
+dos laços do crime.
+
+Enfim, contemplando
+na glória dos céus
+o vosso semblante,
+sem sombras nem véus,
+irei bendizer-vos,
+Jesus, Sumo Bem,
+ao Pai e ao Espírito
+nos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+O Primogênito dos mortos e Rei dos reis da terra,
+fez de nós para o seu Pai um reino e sacerdócio.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+O Primogênito dos mortos e Rei dos reis da terra,
+fez de nós para o seu Pai um reino e sacerdócio.
+
+@antifona 2
+O Senhor libertará o infeliz do prepotente,
+e o pobre salvará ao qual ninguém quer ajudar.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor libertará o infeliz do prepotente,
+e o pobre salvará ao qual ninguém quer ajudar.
+
+@antifona 3
+Triunfaram pelo sangue do Cordeiro
+e o testemunho que eles deram da Palavra.
+
+@salmo canticos/ap-11-17-18-12-10b-12a
+
+@gloria
+
+@antifona
+Triunfaram pelo sangue do Cordeiro
+e o testemunho que eles deram da Palavra.
+
+@secao Leitura breve | Hb 13,12-15
+
+@texto
+Jesus sofreu do lado de fora da porta, para santificar o povo pelo seu próprio sangue. Vamos, portanto, sair ao seu encontro, fora do acampamento, carregando a sua humilhação. Porque não temos aqui cidade permanente, mas estamos à procura daquela que está para vir. Por meio de Jesus, ofereçamos a Deus um perene sacrifício de louvor, isto é, o fruto dos lábios que celebram o seu nome.
+
+@secao Em lugar do responsório se diz:
+
+@antifona
+Jesus Cristo se humilhou e se fez obediente,
+obediente até à morte.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+Na ceia derradeira, Jesus tomou o pão,
+deu graças e o partiu e o deu a seus discípulos.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+Na ceia derradeira, Jesus tomou o pão,
+deu graças e o partiu e o deu a seus discípulos.
+
+@secao Preces
+
+@preces
+Adoremos o nosso Salvador, que durante a última Ceia com os seus discípulos, na noite em que foi entregue, deixou à Igreja o memorial perene de sua Paixão e Ressurreição. Oremos, dizendo:
+
+R. **Santificai, Senhor, o povo que remistes com vosso sangue!**
+
+Jesus, nosso Redentor, concedei que, pela penitência, nos associemos cada vez mais plenamente à vossa Paixão,
+– a fim de alcançarmos a glória da ressurreição. R.
+
+Acolhei-nos sob a proteção de Maria, vossa Mãe, consoladora dos aflitos,
+– para podermos confortar os tristes com o mesmo auxílio que de vós recebemos. R.
+
+Concedei aos vossos fiéis a graça de tomar parte na vossa Paixão por meio dos sofrimentos da vida,
+– para que também neles se manifeste a vossa salvação. R.
+
+Senhor Jesus, que vos humilhastes na obediência até à morte e morte de cruz,
+– ensinai-nos a ser obedientes e a sofrer com paciência. R.
+
+{(intenções livres)}
+
+Tornai os corpos de nossos irmãos e irmãs falecidos semelhantes à imagem do vosso corpo glorioso,
+– e fazei-nos dignos de participar, um dia, com eles, da vossa glória. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Ó Deus, que para a vossa glória e nossa salvação constituístes Jesus Cristo sumo e eterno sacerdote, concedei ao vosso povo, resgatado por seu Sangue, que, ao celebrar o memorial de sua Paixão, receba a força redentora de sua cruz e ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

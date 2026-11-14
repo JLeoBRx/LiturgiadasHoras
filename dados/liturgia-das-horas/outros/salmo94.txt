@@ -1,0 +1,6 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/outros/salmo94.htm
+@documento Invitatorio
+
+@salmo salmos/salmo-094
+
+@gloria

@@ -1,0 +1,55 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/natal/salterio/2quinta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+
+@secao Salmodia
+
+@antifona 1
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@salmo salmos/salmo-071-i
+
+@gloria
+
+@antifona
+Fiz de ti uma luz para as nações:
+levarás a salvação a toda a terra.
+
+@antifona 2
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@salmo salmos/salmo-071-ii
+
+@gloria
+
+@antifona
+O Senhor fará justiça para os pobres
+e os salvará da violência e opressão.
+
+@antifona 3
+Chegou agora a salvação e o reino do Senhor.
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v2
+
+@texto
+{(R.} Nós vos damos graças, nosso Deus!)
+
+@salmo canticos/ap-11-17-18-12-10b-12a-v3
+
+@gloria
+
+@antifona
+Chegou agora a salvação e o reino do Senhor.

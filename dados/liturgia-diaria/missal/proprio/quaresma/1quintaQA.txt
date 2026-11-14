@@ -1,0 +1,49 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/missal/proprio/quaresma/1quintaQA.htm
+
+@secao Antífona da entrada | Cf. Sl 5,2-3
+@texto
+Prestai ouvidos, Senhor, às minhas palavras,
+escutai o meu clamor.
+Ficai atento ao meu apelo,
+ó meu Rei e meu Deus!
+
+@secao Coleta
+@texto
+Dai-nos, ó Deus, pensar sempre o que é reto
+e realizá-lo com solicitude.
+E como só podemos existir em vós,
+fazei-nos viver segundo a vossa vontade.
+Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus,
+e convosco vive e reina, na unidade do Espírito Santo,
+por todos os séculos dos séculos.
+
+@secao Sobre as oferendas
+@texto
+Sede propício, Senhor, às orações dos que vos suplicam
+e, acolhendo as preces e oblações do vosso povo,
+convertei a vós os nossos corações.
+Por Cristo, nosso Senhor.
+
+@secao Antífona da comunhão | Mt 7,8
+@texto
+Todo aquele que pede, recebe;
+quem procura, encontra;
+e a quem bate, a porta será aberta.
+
+@secao Depois da comunhão
+@texto
+Nós vos pedimos, Senhor nosso Deus,
+que os sacrossantos mistérios,
+instituídos para a nossa salvação,
+nos sirvam de remédio,
+hoje e sempre.
+Por Cristo, nosso Senhor.
+
+@secao Oração sobre o povo
+@texto
+{(de uso opcional)}
+Venha sobre nós, Senhor,
+a misericórdia que confiantes esperamos
+e concedei-nos a graça de saber o que devemos pedir,
+e receber o que suplicamos.
+Por Cristo, nosso Senhor.

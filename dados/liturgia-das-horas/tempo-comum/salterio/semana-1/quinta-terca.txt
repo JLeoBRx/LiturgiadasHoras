@@ -1,0 +1,84 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/1quinta_terca.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Vinde, Espírito de Deus,
+com o Filho e com o Pai,
+inundai a nossa mente,
+nossa vida iluminai.
+
+Boca, olhos, mãos, sentidos,
+tudo possa irradiar
+o amor que em nós pusestes
+para aos outros inflamar.
+
+A Deus Pai e ao seu Filho
+por vós dai-nos conhecer.
+Que de ambos procedeis
+dai-nos sempre firmes crer.
+
+@secao Salmodia
+
+@antifona 1
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@salmo salmos/salmo-118-17-24-iii-ghimel-v2
+
+@gloria
+
+@antifona
+Abri meus olhos, e então contemplarei
+as maravilhas que encerra a vossa lei.
+
+@antifona 2
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@salmo salmos/salmo-024-i
+
+@gloria
+
+@antifona
+Vossa verdade, ó Senhor, me oriente e me conduza.
+
+@antifona 3
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@salmo salmos/salmo-024-ii
+
+@gloria
+
+@antifona
+Voltai-vos para mim, tende piedade,
+porque sou pobre, estou sozinho e infeliz!
+
+@secao Leitura breve | Am 4,13
+
+@texto
+Ei-lo que forma as montanhas e cria o vento, e transmite ao homem seu pensamento, faz a aurora e a escuridão e caminha pelas alturas da terra: o seu nome é Senhor, Deus dos exércitos.
+
+@texto
+V. Obras todas do Senhor, bendizei o Senhor,
+R. Louvai-o e exaltai-o pelos séculos sem fim!
+
+@secao Oração
+
+@oracao
+Senhor nosso Deus, que nesta hora enviastes o Espírito Santo aos Apóstolos em oração, concedei-nos participar do mesmo Dom. Por Cristo, nosso Senhor.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

@@ -1,0 +1,90 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/4domingo_sexta.htm
+@documento Hora Média
+
+@titulo Hora Média
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+O louvor de Deus cantemos
+com fervor no coração,
+pois agora a hora sexta
+nos convida à oração.
+
+Nesta hora foi-nos dada
+gloriosa salvação
+pela morte do Cordeiro,
+que na cruz trouxe o perdão.
+
+Ante o brilho de tal luz
+se faz sombra o meio-dia.
+Tanta graça e tanto brilho
+vinde haurir, com alegria.
+
+Seja dada a glória ao Pai
+e ao Unigênito também,
+com o Espírito Paráclito,
+pelos séculos. Amém.
+
+@secao Salmodia
+
+@antifona 1
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@salmo salmos/salmo-022
+
+@gloria
+
+@antifona
+Quem comer deste pão viverá eternamente. Aleluia.
+
+@antifona 2
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@salmo salmos/salmo-075-i
+
+@gloria
+
+@antifona
+O Senhor há de vir para ser glorificado
+e admirado nos seus santos. Aleluia.
+
+@antifona 3
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@salmo salmos/salmo-075-ii
+
+@gloria
+
+@antifona
+Ao vosso Deus fazei promessas e as cumpri;
+ao Senhor trazei ofertas, aleluia.
+
+@secao Leitura breve | Dt 10,12
+
+@texto
+O que é que o Senhor, teu Deus, te pede? Apenas que o temas e andes em seus caminhos; que ames e sirvas ao Senhor teu Deus, com todo o teu coração e com toda a tua alma.
+
+@texto
+V. Senhor, quem morará em vossa casa,
+e em vosso Monte santo habitará?
+R. É aquele que caminha sem pecado,
+e que pensa a verdade no seu íntimo.
+
+@secao Oração
+
+@lacuna oracao
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.

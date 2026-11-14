@@ -1,0 +1,142 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/horas/3quarta_vesperas.htm
+@documento Vésperas
+
+@titulo Vésperas
+
+@texto
+V. Vinde, ó Deus, em meu auxílio.
+R. Socorrei-me sem demora.
+Glória ao Pai e ao Filho e ao Espírito Santo.
+Como era no princípio, agora e sempre. Amém. Aleluia.
+
+@secao Hino
+
+@hino
+Santíssimo Deus do céu,
+que o céu encheis de cor
+e dais à luz beleza
+de ígneo resplendor;
+
+criais no quarto dia
+a rota chamejante
+do sol e das estrelas,
+da lua fulgurante.
+
+Assim, à luz e às trevas
+limites vós fixais.
+Dos meses o começo
+marcastes com sinais.
+
+Fazei a luz brilhar
+em nosso coração.
+Tirai da mente as trevas,
+da culpa a servidão.
+
+Ouvi-nos, Pai bondoso,
+e vós, único Filho,
+reinando com o Espírito
+na luz de eterno brilho.
+
+@secao Salmodia
+
+@antifona 1
+Os que em lágrimas semeiam,
+ceifarão com alegria.
+
+@salmo salmos/salmo-125
+
+@gloria
+
+@antifona
+Os que em lágrimas semeiam,
+ceifarão com alegria.
+
+@antifona 2
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade!
+
+@salmo salmos/salmo-126
+
+@gloria
+
+@antifona
+Ó Senhor, construí a nossa casa,
+vigiai nossa cidade!
+
+@antifona 3
+É o Primogênito
+de toda criatura e em tudo ele tem a primazia.
+
+@salmo canticos/cl-1-12-20
+
+@gloria
+
+@antifona
+É o Primogênito de toda criatura
+e em tudo ele tem a primazia.
+
+@secao Leitura breve | Ef 3,20-21
+
+@texto
+A Deus, que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós, a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém.
+
+@secao Responsório breve
+
+@responsorio
+R. Libertai-me, ó Senhor,
+* Ó meu Deus, tende piedade! R. Libertai-me.
+V. Não junteis a minha vida à dos maus e sanguinários.
+* Ó meu Deus. Glória ao Pai. R. Libertai-me.
+
+@secao Cântico evangélico (Magnificat) | Lc 1,46-55
+
+@antifona
+O Poderoso fez em mim maravilhas,
+e Santo é seu nome.
+
+@salmo canticos/magnificat
+
+@gloria
+
+@antifona
+O Poderoso fez em mim maravilhas,
+e Santo é seu nome.
+
+@secao Preces
+
+@preces
+Bendigamos a Deus, que enviou seu Filho ao mundo como Salvador e Mestre do seu povo; e peçamos humildemente:
+
+R. **Que vosso povo vos louve, Senhor!**
+
+Nosso vos damos graças, Senhor, porque nos escolhestes como primícias da salvação,
+– e nos chamastes para tomar parte na glória de nosso Senhor Jesus Cristo. R.
+
+A todos os que invocam o vosso santo nome, concedei que vivam unidos na verdade de vossa palavra,
+– e sejam sempre fervorosos no vosso amor. R.
+
+Criador de todas as coisas, vosso Filho quis trabalhar no meio de nós com suas próprias mãos;
+– lembrai-vos de todos aqueles que trabalham para comer o pão com o suor do seu rosto. R.
+
+Lembrai-vos também dos que se dedicam ao serviço do próximo,
+– para que nem o fracasso nem a incompreensão dos outros os façam desistir de seus propósitos. R.
+
+{(intenções livres)}
+
+Concedei a vossa misericórdia aos nossos irmãos e irmãs falecidos,
+– e não os deixeis cair em poder do espírito do mal. R.
+
+Pai nosso...
+
+@secao Oração
+
+@oracao
+Suba até vós, Deus de bondade, o clamor da Igreja suplicante e fazei que vosso povo, libertado de seus pecados, vos sirva com amor e nunca lhe falte a vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+O Senhor nos abençoe,
+nos livre de todo o mal
+e nos conduza à vida eterna.
+R. Amém.

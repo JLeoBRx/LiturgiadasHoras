@@ -1,0 +1,58 @@
+@origem Recursos/Liturgia das Horas/assets/Resources/oficio/tempocomum/leituras/09tercaTC.htm
+@documento Ofício das Leituras - Terça-Feira
+
+@titulo TERÇA-FEIRA / Ofício das Leituras
+
+@secao Primeira leitura
+
+@leitura
+Do Livro de Jó {31,1-8.13-23.35-37}
+
+@tema
+Jó procede sempre segundo a justiça
+
+@texto
+Disse Jó: [1] Eu fiz um pacto com meus olhos de não olhar para uma virgem. [2] Que recompensa me reserva Deus lá do alto, que herança tem para mim o Todo-Poderoso lá dos céus? [3] Acaso a desgraça não é destinada aos criminosos e o infortúnio aos malfeitores? [4] Será que ele não vê os meus caminhos, não conta todos os meus passos? [5] Se caminhei com a mentira, se acertei passo com a falsidade, [6] que Deus me pese numa balança exata e reconhecerá a minha integridade. [7] Se os meus passos se desviaram do caminho, e o meu coração seguiu as atrações dos olhos, e se apegou alguma mancha às minhas mãos, [8] que outro coma o que eu semeei, e que arranquem as minhas plantações! [13] Se violei o direito do escravo ou da escrava, quando reclamavam comigo, [14] que farei quando Deus se levantar, que vou responder-lhe quando me interrogar? [15] Aquele que me criou no ventre, não os fez também a eles? Quem nos formou a nós não é um só? [16] Se fui insensível às necessidades dos pobres, se deixei a viúva consumir-se em pranto, [17] se comi minha fatia de pão sozinho, sem reparti-lo com o órfão; [18] – eu, a quem, desde minha infância, Deus criou como um pai, e desde o seio de minha mãe me guiou –; [19] se vi um mendigo sem roupas, um pobre sem cobertor, [20] e não me agradeceram os seus ombros aquecidos com a lã de minhas ovelhas; [21] se levantei a mão contra o órfão, vendo-me apoiado no Tribunal, [22] que meu ombro se desloque, e que meu braço se quebre no cotovelo! [23] Porque o castigo de Deus era o meu terror, e eu não posso subsistir diante da sua majestade. [35] Quem dera houvesse alguém que me ouvisse! Esta é a minha palavra: que me responda o Todo-Poderoso! A acusação redigida por meu adversário, [36] eu a poria sobre os meus ombros, eu a pregaria como um diadema; [37] eu lhe daria conta de meus passos e dele me aproximaria, como um príncipe".
+
+@secao Responsório Jó 31,3; Pr 15,3; Jo 31,4
+
+@responsorio
+R. Não será para o injusto a desgraça?
+Não será para o iníquo o fracasso?
+* O olhar do Senhor está sempre
+observando os maus e os bons.
+V. Não conhece, o Senhor, meus caminhos?
+E não conta, o Senhor, os meus passos? * O olhar.
+
+@secao Segunda leitura
+
+@leitura
+Das Instruções de São Doroteu, abade
+{(Séc. VI)} {(Doct. 13, De accusatione sui ipsius, 2-3:PG 88,1699)}
+
+@tema
+A falsa paz espiritual
+
+@texto
+Quem se acusa a si mesmo, por mais que lhe venham importunações, danos, opróbrios, afrontas da parte de quem quer que seja, tudo recebe com serenidade e, julgando-se merecedor de tudo isso, sem que possa perturbar-se de modo algum. Quem mais tranquilo do que este homem? Talvez haja quem objete: "E se, quando um irmão me aflige, procuro e não vejo ter-lhe dado motivo para isto, por que então hei de me acusar? Na verdade, se alguém com temor de Deus se examina com cuidado, nunca se julgará, de todo, inocente e verá que o motivo está em algum ato seu, palavra ou gesto. Se em nada se achou culpado, talvez em outra ocasião o tenha aborrecido em coisa parecida ou diferente. Ou ainda, quem sabe, maltratou outro irmão. Com razão deve sofrer por isto ou por outros pecados, tão numerosos, que cometeu. Perguntará alguém por que se acusar quando, quieto e sossegado, é molestado por palavras ou gestos ofensivos de um irmão. Não podendo suportar nada disso, julga-se com direito de se irritar. Pecaria, se porventura não se desse esse encontro e essa palavra? Isto é ridículo e é claro que não se apoia em motivo algum. Não foi por ter dito uma palavra qualquer que se lhe suscitou a paixão da cólera, mas, antes, revelou a paixão oculta que o minava; dela, se quiser, faça penitência. Este tal se fez semelhante a um pão branco, belo e todo limpo, que, ao ser cortado, mostra estar sujo por dentro. Do mesmo modo, se alguém se julga quieto e pacífico, tem, no entanto, uma paixão que não vê. Chega um irmão, lança uma palavra desagradável e imediatamente lhe jorra de dentro o pus e a sujeira oculta. Se quiser alcançar a misericórdia, faça penitência, purifique-se, esforce-se por progredir e reconheça que, em vez de retrucar à injúria, deveria agradecer ao irmão ocasião de tão grande utilidade. Depois disso, não se afligirá tanto com as tentações, pois quanto mais progredir, tanto mais lhe parecerão leves. A alma se fortalece à medida em que caminha, faz-se mais corajosa em suportar todas as coisas duras que lhe advêm.
+
+@secao Responsório Cf. Jó 9,2.14; 15,15
+
+@responsorio
+R. Eu bem sei que ninguém pode ter razão,
+se, com Deus, ele quiser se confrontar.
+* Quem sou eu para poder lhe responder, para escolher meus argumentos contra ele?
+V. Nem mesmo em seus santos Deus confia
+e a seus olhos não são puros nem os céus.
+* Quem sou eu.
+
+@secao Oração
+
+@oracao
+Ó Deus, cuja providência jamais falha, nós vos suplicamos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo.
+
+@secao Conclusão da Hora
+
+@texto
+V. Bendigamos ao Senhor.
+R. Graças a Deus.
